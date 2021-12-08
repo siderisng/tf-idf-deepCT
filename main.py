@@ -30,7 +30,7 @@ con.execute('''CREATE TABLE IF NOT EXISTS word_in_document
          word TEXT NOT NULL,
          tf_idf REAL,
          quantity INT NOT NULL) ''')
-print("Table created successfully")
+# print("Tables created successfully")
 
 path = 'clef_small_dataset'  # TODO LOOP THROUGH FOLDERS (00, 01, 02, ...)
 # data = os.listdir(path)  # fakelos me xml arxeia
@@ -55,7 +55,7 @@ for subdir, dirs, files in os.walk(path):
         # print(str(i) + ' of  ' + str(len(data)))
         patent = open(xml, 'r')
 
-        root = BeautifulSoup(patent)
+        root = BeautifulSoup(patent, features="html.parser")
         # print(root)
         abstract = root.find('abstract')
 
