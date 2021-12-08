@@ -43,7 +43,7 @@ for subdir, dirs, files in os.walk(path):
 
     for file in files:
         xml = str(os.path.join(subdir, file))
-        if ".DS_STORE" in xml:
+        if ".DS_STORE" in xml:  # ignore .DS_STORE files (MacOS)
             continue
 
         if (i % 200 == 0):
@@ -52,8 +52,8 @@ for subdir, dirs, files in os.walk(path):
                   ' === Time elapsed: ', '%.2f' % (end-start) + 's', end="\r")
 
         i = i + 1
-        if (i > 50):
-            break
+        # if (i > 50):
+        #     break
 
         patent = open(xml, 'r')
         root = BeautifulSoup(patent, features="html.parser")
