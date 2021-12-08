@@ -1,3 +1,5 @@
 test.docterm_recall
 tf-idf.db
 tf-idf.sqlite
+tf-idf.sqlite-journal
+output.txt
