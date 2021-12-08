@@ -2,18 +2,15 @@
 
 import re
 import os
-import glob
 import math
 import time
-from bs4 import BeautifulSoup
 import sqlite3 as sl
-con = sl.connect('tf-idf.db')
+from bs4 import BeautifulSoup
+con = sl.connect('tf-idf.db')  # check connection to db
 con.close()
-f = open('output.txt', 'w')
+f = open('output.txt', 'w')  # open output.txt for storing output
 
-# extract abstracts from patents first and then
-# Open a folder of files one by one, and create database to use for tf idt
-
+# create tables for my DB
 con = sl.connect('tf-idf.sqlite')
 con.execute('''CREATE TABLE IF NOT EXISTS document
          (document_id TEXT PRIMARY KEY     NOT NULL,
@@ -31,18 +28,13 @@ con.execute('''CREATE TABLE IF NOT EXISTS word_in_document
          word TEXT NOT NULL,
          tf_idf REAL,
          quantity INT NOT NULL) ''')
-# print("Tables created successfully")
 
-path = 'clef_small_dataset'  # TODO LOOP THROUGH FOLDERS (00, 01, 02, ...)
-# data = os.listdir(path)  # fakelos me xml arxeia
-# print(data)
-
+path = 'clef_small_dataset'  # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
 i = 0
 j = 0
-c = con.cursor()
-total_count = 0
-start = time.time()
-
+c = con.cursor()  # needed for printing results
+total_count = 0  # will store total number of patents
+start = time.time()  # to calc how long the program is running
 
 for subdir, dirs, files in os.walk(path):
     total_count = total_count + len(files)
@@ -60,15 +52,12 @@ for subdir, dirs, files in os.walk(path):
                   ' === Time elapsed: ', '%.2f' % (end-start) + 's', end="\r")
 
         i = i + 1
-        # if (i > 50):
-        #     break
+        if (i > 50):
+            break
 
-        # print(str(i) + ' of  ' + str(len(data)))
         patent = open(xml, 'r')
-
         root = BeautifulSoup(patent, features="html.parser")
-        # print(root)
-        abstract = root.find('abstract')
+        abstract = root.find('abstract')  # extract abstract
 
         if (abstract and abstract.text):
             abstract = abstract.text
@@ -81,6 +70,7 @@ for subdir, dirs, files in os.walk(path):
 
         c.execute(
             f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{abstract}', {howManyWords})")
+        # store document with total word count and abstract contents
 
         if abstract:
             for word in abstract.split():
@@ -105,12 +95,12 @@ for subdir, dirs, files in os.walk(path):
                     c.execute(
                         f"SELECT word_id from word_in_document WHERE word_id = '{id}' AND document_id='{xml}'")
                     row = c.fetchone()  # find if word in document already exists in DATABASE
-                    # print(row)
+
                     if row and row[0]:  # if it exists, increment quantity by 1
                         # print('update')
                         c.execute(
                             f"UPDATE word_in_document SET quantity = quantity + 1 WHERE word_id = '{id}' AND document_id = '{xml}'")
-                    else:             # else, insert new word_in_document row
+                    else:  # else, insert new word_in_document row
                         # print('insert')
                         c.execute(
                             f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{xml}', '{word}', 1)")
