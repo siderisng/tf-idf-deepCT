@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0035396
+</DOCNO>
+<TEXT>
+<DATE>
+19810909
+</DATE>
+<IPC-CLASSIFICATIONS>
+B03B-5/00 G01N-33/00 <main>B03B-5/00</main> B04B-5/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for field flow fractionation.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company <sep>
+</APPLICANT>
+<INVENTOR>
+kirkland joseph jack<sep>yau wallace wen-chuan<sep>kirkland, joseph jack<sep>yau, wallace wen-chuan<sep>kirkland, joseph jack6 sorrel drive surrey parkwilmington delaware 19803us<sep>yau, wallace wen-chuan24 meteor courtnewark delaware 19711us<sep>kirkland, joseph jack <sep>yau, wallace wen-chuan<sep>kirkland, joseph jack6 sorrel drive surrey parkwilmington delaware 19803us<sep>yau, wallace wen-chuan24 meteor courtnewark delaware 19711us<sep>
+</INVENTOR>
+<ABSTRACT>
+the method described is useful in field flow fractiona­ tion techniques for reducing separation times and improv­ ing the convenience and accuracy of measuring sizes or  molecular weights of particulates.  in field flow fractionation,  the particulates (particles or macromolecules) are subjected  to a force field and a mobile phase while passing throught a  flow channel.  this filed strength is decreased exponentially  as a function of time.  alternatively the flow velocity is  increased exponentially as a function of time.  the initiation  of the change in field strength or flow velocity may be  delayed a period of time.  if this time delay is made equal to  the time constant of the exponential decay, the range of  particulate retention time that is linearly related to the  logarithm of the particle size or molecular weight is  increased.  an apparatus for implementing the method is also  described and includes a function generator 100 for provid­ ing the desired exponential decay and delay time to a speed  control 102 controlling a motor 104 of a centrifuge bowl 26.  
+</ABSTRACT>
+</TEXT>
+</DOC>
