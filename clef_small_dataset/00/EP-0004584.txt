@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004584
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-3/42 G03B-3/10 G01C-3/00 G01P-3/68 <main>G01C-3/08</main> G02B-7/30 G01C-3/06 G02B-7/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for measuring the distance or speed of an object, a use of this apparatus and methods for operating it.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+stein karl-ulrich dr<sep>stein, karl-ulrich, dr.<sep>stein, karl-ulrich, dr.germersheimerstrasse 5d-8000 münchen 90de<sep>stein, karl-ulrich, dr.<sep>stein, karl-ulrich, dr.germersheimerstrasse 5d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an arrangement for measuring the distance or speed of an article (5). Two optical devices (8, 9), which are offset from each other transversely to the direction of the article (5), each derive auxiliary images thereof, which are evaluated photoelectrically against each other. The minimum difference signal indicates the congruence of both auxiliary images and provides a criterion for removing the article (5). The invention provides to evaluate the auxiliary images by CTD image sensors (14a, 15a) whose readout signals are supplied to a differential amplifier (31) and then rectified and integrated. The readout signals of a sensor (14a) are changed by a pivoting movement of the relevant optical device (8) or by a gradually adjustable delay member (55) in its phase position to the readout signals of the other sensor (15a). From the phase position associated with the minimum difference signal, the distance criterion results. The invention is used in photographic cameras, distance knives and speed knives.
+</ABSTRACT>
+</TEXT>
+</DOC>

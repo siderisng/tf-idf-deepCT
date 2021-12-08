@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007172
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B24B-21/18</main> B24B-23/06 B24B-23/00 B24B-21/18 B24B-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a belt tracking mechanism e.g. for a belt sander.
+</TITLE>
+<APPLICANT>
+skil corpus<sep>skil corporation<sep>skil corporation4801 west peterson avenuechicago illinois 60646us<sep>skil corporation<sep>
+</APPLICANT>
+<INVENTOR>
+moolenaar antonie johannus<sep>rameckers stephanus johannus<sep>wanninkhof peter<sep>moolenaar, antonie johannus<sep>rameckers, stephanus johannus<sep>wanninkhof, peter<sep>moolenaar, antonie johannuscypressenstraat 27dorst (n.br.)nl<sep>rameckers, stephanus johannusklaverbeemd 10terheijdennl<sep>wanninkhof, peterdanielstalpaertstraat 6bredanl<sep>moolenaar, antonie johannus<sep>rameckers, stephanus johannus<sep>wanninkhof, peter <sep>moolenaar, antonie johannus cypressenstraat 27 dorst (n.br.)nl<sep>rameckers, stephanus johannusklaverbeemd 10terheijdennl<sep>wanninkhof, peterdanielstalpaertstraat 6bredanl<sep>
+</INVENTOR>
+<ABSTRACT>
+a belt centering device automatically operable in a belt  sander (10) of the type including spaced apart rolls 24,26).  the  centering device is needed to keep the belt (28) from wander­ ing off a roll.  the sander (10) includes adjustable mounting  means (32,34) for supporting at least one roll (26).  an endless  belt (28) is positioned around the rolls (24,26) and drive means  are provided for the rolls (24,26) and belt (28).  alignment  means including a belt edge engaging means (72) are opera­ tively connected to the roll mounting means (32,34), and a  resilient force is applied by spring (50) to hold the engaging  means (72) against a belt edge (74) as the belt (28) is moved by  the drive means.  this causes the engaging means (72) to  follow variations in the belt edge position, and this movement  is transmitted to the mounting means (32,34) whereby the  variations are compensated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

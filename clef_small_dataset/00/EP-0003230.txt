@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003230
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-47/52 C07C-45/43 C07C-205/00 C07C-47/544 C07C-205/44 C07C-45/00 C07C-47/56 C07C-201/00 C07C-65/30 C07C-67/00 C07C-51/347 C07C-51/00 C07C-47/565 C07C-121/76 C07C-253/00 C07C-255/00 <main>C07C-47/52</main> C07C-79/36 C07C-65/00 C07C-47/55 C07C-255/56 C07C-51/373 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of o-phthalic aldehydes optionally having several substituents.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+gosteli jacques dr<sep>gosteli, jacques, dr.<sep>gosteli, jacques, dr.anwilerstrasse 10ch-4059 baselch<sep>gosteli, jacques, dr.<sep>gosteli, jacques, dr.anwilerstrasse 10ch-4059 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for producing optionally substituted O-phthalaldehydrn by hydrolysis of α, α, α ', α'-tetrahalogen-o-xylene with a carboxylate in aqueous medium in the presence of a phase transfer catalyst and an organic base.
+</ABSTRACT>
+</TEXT>
+</DOC>

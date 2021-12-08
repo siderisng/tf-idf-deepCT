@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010596
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/822 H01L-21/762 H01L-21/28 H01L-27/04 H01L-21/768 H01L-21/3065 H01L-21/331 H01L-29/73 H01L-21/22 <main>H01L-21/306</main> H01L-21/302 H01L-29/66 H01L-21/02 H01L-21/76 H01L-21/70 H01L-21/266 H01L-21/265 H01L-21/3213 H01L-21/033 H01L-21/763 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of forming openings in masks for the production of semiconductor devices.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+pogge hans bernhard<sep>pogge, hans bernhard<sep>pogge, hans bernhardroad no. 3, ladue roadhopewell junction new york 12533us<sep>pogge, hans bernhard<sep>pogge, hans bernhardroad no. 3, ladue roadhopewell junction new york 12533us<sep>
+</INVENTOR>
+<ABSTRACT>
+With the specified method, extremely narrow dimensioned surface areas for semi-term arrangements can be formed, which have comparable minimalimensio nEN reduced dimensions compared to conventional photolithography methods, e.g. b. Lienenbrei th to the area <1 μm. For this purpose, depressions are initially formed in the underlying position in the usual manner, so that substantially horizontal and substantially vertical surface areas (14, 16) are present. The order is then covered with a layer (18) covering the entire surface. This layer (18) is finally subjected to a reactive ion etching method in which the horizontal layer regions are supported and the layer regions remaining on the vertical surfaces of the UN rigging are left to provide an opening opposite to the original opening width. The method can be used for numerous substrates or documents common in semiconductor technology, e.g. b. For single-crystal line silicon substrates with or without epi axis seals or subcollorcan areas, for substrates covered by a layer of poly crystalline silicon with insulating simplicity or double layer or the like.
+</ABSTRACT>
+</TEXT>
+</DOC>

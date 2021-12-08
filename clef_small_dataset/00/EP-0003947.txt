@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003947
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+B64C-27/72 <main>G05D-1/08</main> G05D-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pitch bias actuator system for helicopter longitudinal cyclic pitch.
+</TITLE>
+<APPLICANT>
+united technologies corp us<sep>united technologies corporation<sep>united technologies corporationunited technologies building 1, financial plazahartford, ct 06101us<sep>united technologies corporation<sep>
+</APPLICANT>
+<INVENTOR>
+adams don luis<sep>wright gregory paul<sep>adams, don luis<sep>wright, gregory paul<sep>adams, don luis478 north benson roadfairfield ct 06430us<sep>wright, gregory paul30 glen driveansonia ct 06401us<sep>adams, don luis<sep>wright, gregory paul <sep>adams, don luis 478 north benson road fairfield ct 06430us<sep>wright, gregory paul30 glen driveansonia ct 06401us<sep>
+</INVENTOR>
+<ABSTRACT>
+a bias actuator, such as an extensible link (31), in the  longitudinal cyclic pitch channel of a helicopter is provided  with inputs as a function of airspeed multiplied inversely  with collective pitch, and as a function of the rate of change  of collective pitch stick (42) position, so as to enforce positive  angle of attack and speed stability and positive static pitch  trim gradient and to decouple collective pitch from the longitudinal  cyclic pitch channel at cruise airspeeds, the invention,  inter alia, adverse control effects of tail stabilizer surfaces  at cruise speeds.  a pair of indicators (53, 55) display  bias commands and actual bias responses.  
+</ABSTRACT>
+</TEXT>
+</DOC>

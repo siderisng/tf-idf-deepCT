@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004022
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-69/753 A01N-53/06 A01N-53/10 A01N-53/00 C07C-67/11 C07C-69/00 C07C-69/747 C07C-67/10 <main>C07C-69/74</main> C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pentafluorobenzyloxycarbonyl derivatives, method for their preparation and their use as insecticides and acaricides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+behrenz wolfgang dr<sep>fuchs rainer dr<sep>hammann ingeborg dr <sep>homeyer bernhard dr <sep>naumann klaus dr<sep>stendel wilhelm dr<sep>behrenz, wolfgang, dr.<sep>fuchs, rainer, dr.<sep>hammann, ingeborg, dr.<sep>homeyer, bernhard, dr.<sep>naumann, klaus, dr.<sep>stendel, wilhelm, dr.<sep>behrenz, wolfgang, dr.untergruendemich 14d-5063 overathde<sep>fuchs, rainer, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 köln 1de<sep>homeyer, bernhard, dr.obere strasse 28d-5090 leverkusen 3de<sep>naumann, klaus, dr.wolfskaul 2d-5000 köln 80de<sep>stendel, wilhelm, dr.in den birken 55d-5600 wuppertal 1de<sep>behrenz, wolfgang, dr.<sep>fuchs, rainer, dr.<sep>hammann, ingeborg, dr.<sep>homeyer, bernhard, dr.<sep>naumann, klaus, dr. <sep>stendel, wilhelm, dr.<sep>behrenz, wolfgang, dr. untergruendemich 14 d-5063 overath de<sep>fuchs, rainer, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 köln 1de<sep>homeyer, bernhard, dr.obere strasse 28d-5090 leverkusen 3de<sep>naumann, klaus, dr.wolfskaul 2d-5000 köln 80de<sep>stendel, wilhelm, dr.in den birken 55d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Pentafluorobenzyloxycarbonyl derivatives of the formula in which R is hydrogen or halogen and R¹ is optionally substituted phenyl, or wherein R and R¹ are common for an alkylene chain having at least two carbon atoms.with at least SI uses carbon atoms.The compounds are characterized by strong insecticides and acaricidal effectiveness.They are obtained when reacting the corresponding carboxylic acids with pentaflorobenzyl halides.
+</ABSTRACT>
+</TEXT>
+</DOC>

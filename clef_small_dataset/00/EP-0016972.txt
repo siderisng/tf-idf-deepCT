@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016972
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10L-1/224 C10L-1/10 C10M-133/56 F02B-61/00 C10L-1/22 C10L-10/08 F02B-61/04 C10M-133/16 C10N-40/25 C10N-30/04 F02B-77/04 C10M-133/00 F02B-75/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compound useful as detergent additive, compositions comprising a lubricating oil or hydrocarbon fuel, and method for maintaining the cleanliness of an internal combustion engine.
+</TITLE>
+<APPLICANT>
+phillips petroleum cous  <sep>phillips petroleum company<sep>phillips petroleum company5th and keelerbartlesville oklahoma 74004us<sep>
+</APPLICANT>
+<INVENTOR>
+schiff sidneyus<sep>schiff, sidney<sep>schiff, sidney1122 swan drivebartlesville oklahomaus<sep>
+</INVENTOR>
+<ABSTRACT>
+aralkyl acid and polyamine are reacted to produce  amide that is a detergent lubricant and fuel additive that is  particularly effective to keep two-cycle engines clean.  
+</ABSTRACT>
+<DESCRIPTION>
+compound useful as detergent additive, compositions comprising a lubricating oil or hydrocarbon fuel, and method for maintaining the cleanliness of an internal combustion engine this, invention relates to additives for hydrocarbons suitable for use in an internal combustion engine. in one of its aspects, this invention relates to detergent additives for lubricants and hydrocarbon fuels. it is common practice to add detergent compounds, detergent compositions, or detergent packages, i.e., a mixture of detergent compositions along with other additives, to lubricant and fuel compositions to prevent the deposition of solid materials on engine surfaces which come into contact with the lubricant or fuel compositions. the deposits formed in the engine interfere with the proper circulation of the lubricant and fuel compositions and also act as abrasives which can aggravate the wearing of engine parts. it has also been found, that some detergent additives that have been employed in lubricant and fuel compositions actually contribute to the formation of deposits in modern engines. it is, therefore, always. of interest when compounds or compositions that provide improved detergent additive properties are discovered. it is, therefore, an object of this invention to provide a detergent additive for internal combustion engine fuels and lubricants. it is another object of this invention to provide a method for retarding the depositing of solid materials on the surfaces of internal combustion engines. it is still another object of this invention to provide detergent fuel compositions and detergent lubricating compositions for internal combustion engines. other aspects, objects and the various advantages of this invention will become apparent upon reading the specification and the appended claims. statement of the invention in accordance with this invention, detergent additives for lubricants and fuels for use in internal combustion engines is provided. the detergent additive is those amides made by reaction between aralkyl acids and polyamines. the detergent lubricant and fuel additives are particularly effective to keep two-cycle, outboard engines clean. in one of its embodiments, this invention provides a fuel or lubricant composition for use in internal combustion engines. the composition is a mixture of a fuel or lubricant with a detergent additive amide, produced as described above. in still another embodiment of the invention a method is provided for maintaining the cleanliness of an internal combustion engine by the addition to the hydrocarbon fuel or lubricant for the engine of a detergent additive amide produced as described above. aralkyl acids that are suitable for use to synthesize the additive are those acids that can be prepared by alkylation of an aromatic hydrocarbon such as benzene, toluene, xylenes, or the like with an unsaturated fatty acid such as the mono-unsaturated acids lauroleic, myristoleic, palmitoleic, oleic, gadoleic, and the like, or with poly-unsaturated fatty acids such as linoleic, linolenic, or moroctic acids--c18 acids having two, three, and four double bonds, respectively. the aralkyl radical r of the acids (cool{) can contain from about 11-41 carbon atoms; preferably it will contain 17-29 carbon atoms. examples of suitable aralkyl acids are diphenyllauric acid, triphenylpalmitic acid,
+</DESCRIPTION>
+<CLAIMS>
+claims    1. a compound useful as a detergent additive for lubricants and fuels prepared by reacting aralkyl acid and polyamine to produce an amide.    2. a compound of claim 1 wherein said aralkyl acid has the general formula rcooh in which r contains from about 11 to about 41 carbon atoms including at least 1 aromatic radical and said polyamine is represented by the formula   nh2(ch2ch2nh) xh    in which x is an integer between 2 and 6.    3. a compound of claim 2 in which x is 4.    4. a compound of claim 3 in which the aralkyl acid is phenylstearic acid and the polyamine is   tetraethylenepenta-    mine.     5. a composition comprising a lubricating oil and the compound of one of claims 1 to 4, said compound being present in an amount effective as a lubricating oil additive.    6. a composition comprising a hydrocarbon suitable as fuel in an internal combustion engine and a compound of one of claims 1 to 4, said compound being present in an amount effective as a fuel detergent additive.    7. a method for maintaining the cleanliness of an internal combustion engine comprising the addition of a detergent additive of claim   1    to the hydrocarbon fuel or lubricant for the engine, said detergent being added in an amount effective to reduce engine deposits and using said hydrocarbon fuel or lubricant with detergent additive as fuel or lubricant in an internal combustion engine.  
+</CLAIMS>
+</TEXT>
+</DOC>

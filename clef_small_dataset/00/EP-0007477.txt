@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007477
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-14/81 C07K-5/00 C07K-5/078 A61K-31/40 A61K-37/02 <main>C07C-103/52</main> C07K-5/06 C07D-207/16 C07D-207/00 C07D-207/10 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-(3-mercapto-2-methylpropanoyl)prolyl amino acid derivatives and salts thereof, processes for their preparation, and pharmaceutical compositions containing such compounds.
+</TITLE>
+<APPLICANT>
+dainippon pharmaceutical cojp<sep>dainippon pharmaceutical co. ltd.<sep>dainippon pharmaceutical co., ltd.25, doshomachi 3-chome higashi-kuosaka-shi, osaka 541 jp<sep>dainippon pharmaceutical co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+hosoki kanoo  <sep>kinugasa hiroaki<sep>nishimura haruki<sep>sawayama tadahiro<sep>takeyama kunihiko<sep>hosoki, kanoo<sep>kinugasa, hiroaki<sep>nishimura, haruki<sep>sawayama, tadahiro<sep>takeyama, kunihiko<sep>hosoki, kanoo5-20, ueno nishi 1-chometoyonaka-shi, osaka-fujp<sep>kinugasa, hiroaki23-3, otokoyama nagasawayawata-shi, kyoto-fujp<sep>nishimura, haruki2-34, muromachiikeda-shi, osaka-fujp<sep>sawayama, tadahiro12-66-105, higashitoyonoaka-cho 6-chometoyonaka-shi, osaka-fujp<sep>takeyama, kunihiko112, koyodaiikoma-shi, nara-kenjp<sep>hosoki, kanoo<sep>kinugasa, hiroaki<sep>nishimura, haruki <sep>sawayama, tadahiro<sep>takeyama, kunihiko  <sep>hosoki, kanoo 5-20, ueno nishi 1-chometoyonaka-shi, osaka-fujp<sep>kinugasa, hiroaki23-3, otokoyama nagasawayawata-shi, kyoto-fujp<sep>nishimura, haruki2-34, muromachiikeda-shi, osaka-fujp<sep>sawayama, tadahiro12-66-105, higashitoyonoaka-cho 6-chometoyonaka-shi, osaka-fujp<sep>takeyama, kunihiko112, koyodaiikoma-shi, nara-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+1-(3-mercapto-2- methylpropanoyl) prolyl amino acid  derivatives of the formula    wherein r represents a hydrogen atom, a lower alkyl group, a  phenyl-lower alkyl group or a substituted phenyl-lower alkyl  group, r₁ represents a hydrogen atom, r₄co-, r₅s-, or    r₂ represents a hydrogen atom or a lower alkyl group, r₃  represents a hydrogen atom, a phenyl group, a lower alkyl  group, or a substituted lower alkyl group, or r₂ and r₃ form a  heterocyclic ring together with the nitrogen and carbon atoms  to which they are respectively bonded; salts of these com­ pounds; compositions comprising these compounds or salts;  and processes for preparing these compounds or salts.  these  compounds and salts have excellent antihypertensive activ­ ity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006008
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/008 G01D-5/12 G05G-1/00 G05G-9/053 G05G-9/047 G01B-7/012 G01D-5/22 G05G-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+joy-stick controller
+</TITLE>
+<APPLICANT>
+ledex incus<sep>ledex, inc.<sep>lucas ledex, inc.801 scholz drive, p.o. box 427vandalia, ohio 45377-0427us<sep>
+</APPLICANT>
+<INVENTOR>
+coors george thomasus<sep>coors, george thomas<sep>coors, george thomasc/o ledex, inc. 123 webster streetdayton ohio 45401us<sep>
+</INVENTOR>
+<ABSTRACT>
+mechanical lever controllers, also known as joy-stick actuators, include a body 12, 14 within which is mounted a rod 20 for pivotal movement.  the position of the rod is transmitted by an intermediate follower member 30 to two electrical transducers 70 of the linear voltage differential transformer type (lvdt).  each transducer 70 includes a primary coil 76 and a pair of oppositely-positioned, axially-aligned secondary coils 77, 78 and an armature 90 movable within an armature cavity 80 to vary the inductive coupling between the primary and secondary coils.  the transducers are offset at 90 deg from each other to provide signals on the "x" and "y" axes.  in another embodiment, single axis output is measured in an actuator having a stackable housing. 
+</ABSTRACT>
+</TEXT>
+</DOC>

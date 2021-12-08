@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004737
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-1/23 B41J-2/075 B41J-2/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrostatic scanning ink jet method and apparatus
+</TITLE>
+<APPLICANT>
+xerox corp us <sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>
+</APPLICANT>
+<INVENTOR>
+pond stephen fus<sep>pond, stephen f.<sep>pond, stephen f.46 south ridge trailfairport new york 14450us<sep>
+</INVENTOR>
+<ABSTRACT>
+a novel, electrostatic scanning ink jet method and apparatus dynamically electrostatically scanning ink jet system is provided by applying a time varying potential to an electrode located adjacent the continuous stream portion of ink emitted by a jet at a location prior to break-up of the continuous stream portion into droplets. 
+</ABSTRACT>
+</TEXT>
+</DOC>

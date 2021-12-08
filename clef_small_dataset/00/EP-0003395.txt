@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003395
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-1/00 F23K-5/02 F23K-5/22 F17C-9/00 F23C-3/00 F23D-11/40 B01D-1/14 F17C-9/02 F23D-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid fuels vaporizer
+</TITLE>
+<APPLICANT>
+zink co johnus<sep>john zink company<sep>john zink company4401, south peoriatulsa, oklahoma 74103us<sep>
+</APPLICANT>
+<INVENTOR>
+reed robert dus<sep>zink john sus<sep>reed, robert d.<sep>zink, john s.<sep>reed, robert d.4339 south peoriatulsa oklahomaus<sep>zink, john s.1338 east 43rd. streettulsa oklahomaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for vaporization of liquids having a boiling point lower than that of water, comprising a vessel having at least three narrow planar plena, contiguous to each other, so that there is a single metal wall between each adjacent pair of plena.  gaseous fuel and air is supplied to the first plenum to provide a downflowing flame and hot products of combustion which, at the bottom of the first plenum, pass through the wall into the second plenum, which is filled with water.  the hot gases and water rise rapidly in the second plenum and the water flows over the intervening wall into the third plenum, which is also filled with water, which moves downwardly and back under the wall separating the second and third plena and again rises in the second plenum.  a vertical array of horizontal pipes is arranged in the third plenum, through which the liquid to be vaporized is flowed.  means are provided at the base of the first plenum, to distribute the flow of hot gases substantially uniformly over the cross-section, to provide more rapid and uniform heat transfer from the hot gases to the liquid.  the hot water flowing downwardly over the pipes in the third plenum, transfers heat to the liquid therein, which flows counter-currently, upwardly through the pipes in zig-zag fashion.  the cooled products of combustion are vented from the top of the space above the second and third plena to a stack.  an optimum embodiment comprises a symmetrical assembly with duplicate second and third plena on each side of the first plenum.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005510
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08J-5/18</main> C08L-67/02 C08L-67/00 C08G-63/00 B29C-55/12 B29C-49/00 B29C-55/00 C08G-63/672 C08G-63/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+biaxially oriented polyester foil and process for its manufacture.
+</TITLE>
+<APPLICANT>
+toray industriesjp<sep>toray industries, inc.<sep>toray industries, inc.2, nihonbashi-muromachi 2-chome chuo-ku tokyo 103jp<sep>toray industries, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+deguchi yukichi <sep>ishitani akira<sep>tanaka chiaki<sep>deguchi, yukichi<sep>ishitani, akira<sep>tanaka, chiaki<sep>deguchi, yukichi2-13-1 sonoyamaotsu-shi shiga-kenjp<sep>ishitani, akira2093-66 bodaiji kosei-chokoga-gun shiga-kenjp<sep>tanaka, chiaki7-2 aza shimojabuchi safurichita-shi aichi-kenjp<sep>deguchi, yukichi  <sep>ishitani, akira <sep>tanaka, chiaki<sep>deguchi, yukichi2-13-1 sonoyamaotsu-shi shiga-kenjp<sep>ishitani, akira2093-66 bodaiji kosei-chokoga-gun shiga-kenjp<sep>tanaka, chiaki7-2 aza shimojabuchi safurichita-shi aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  biaxially stretched polyester film which comprises a polyester containing from 0. 3 to 10. 0 percent by weight, based on the total weight of the blend, of a polyester ether and which is coated on one or both sides with a layer having nitrogen-containing organic groups, which layer has a thickness not exceeding 10 nm and contains more than 1 nitrogen atom per 100 carbon atoms (as measured by the esca method), wherein the polyester ether is a block-copolymer which has an intrinsic viscosity ranging from 0. 5 to 5 and comprises from 15 to 60 percent by weight of long-chain ester blocks and from 40 to 85 percent by weight of short-chain ester blocks, the long-chain ester blocks consisting of recurring ester units of the below-specified formulae (a) and (b) in which the molar ratio of (a):(b) ranges between 95:5 and 50:50, and the short-chain ester blocks consisting of recurring ester units of the below-specified formulae (c) and (d) in which the molar ratio of (c):(d) also ranges between 95:5 and 50:50 and wherein (a)  see diagramm : ep0005510,p11,f10  (b)  see diagramm : ep0005510,p11,f12  (c)  see diagramm : ep0005510,p11,f13 (d)  see diagramm : ep0005510,p12,f1  in which formulae -o(ptme)o- is a residue of a polytetramethylene ether glycol which has a molecular weight ranging between 600 and 3000,  see diagramm : ep0005510,p12,f2 is a residue of terephthalic acid,  see diagramm : ep0005510,p12,f3 is a residue of isophthalic acid and -obo- is a residue of 1,4-butanediol. 
+</ABSTRACT>
+</TEXT>
+</DOC>

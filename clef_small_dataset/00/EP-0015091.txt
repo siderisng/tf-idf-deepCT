@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015091
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-4/64 H03K-4/00 <main>H04N-3/16</main> H03F-3/30 H04N-3/16 H03F-3/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+switching amplifier for driving a load through an alternating-current path.
+</TITLE>
+<APPLICANT>
+rca corpus<sep>rca corporation<sep>rca corporation30 rockefeller plazanew york, ny 10020us<sep>rca corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+dietz wolfgang friedrich wilhe<sep>dietz, wolfgang friedrich wilhelm<sep>dietz, wolfgang friedrich wilhelmbox 37 rural delivery nr.2new hope pennsylvaniaus<sep>dietz, wolfgang friedrich wilhelm<sep>dietz, wolfgang friedrich wilhelmbox 37 rural delivery nr.2new hope pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an amplifier includes first (42) and second (44) switches  coupled at a juncture (46) to form a series circuit.  the series  circuit is serially coupled with an inductor (48) across a source  of energizing potential (bl).  a capacitor (54) couples the juncture  (46) between the switches to a switch arrangement (62)  the switches conduct alternately under the control of a duty  cycle modulator.  the duty cycle modulation tends to vary the  amplitude of the two opposite-polarity portions of the signal  appearing at the control electrode of the switch arrangement  (62).  a clamp (50) is coupled to the junction of the series  switch circuit and the inductor (48).  the clamp (50) operates  during a first of the two alternate switch conduction intervals  to clamp the voltage across the inductor (48) at a fixed value.   since a direct voltage cannot be established across an inductor,  the voltage across the inductor during the second switch  conduction interval is established by the clamp voltage and  the duty cycle, and varies with duty cycle.  the amplitude of  the signal at the juncture of the two switches (42 and 44) varies  with duty cycle variations in such a manner as to maintain the  signal of one polarity at the control electrode of the switch  arrangement (62) at a constant amplitude.  this also reduces  errors arising from unwanted variations in the turn-off time of  the duty-cycling switches (42,44).  
+</ABSTRACT>
+</TEXT>
+</DOC>

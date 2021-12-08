@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001864
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/58 A61P-17/00 C07J-71/00 C07J-7/00 A61K-31/56 C07J-5/00 A61K-31/57 C07J-31/00 A61P-29/00 C07J-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+novel 6-oxygenated-3,20-dioxo-pregnane derivatives, process for the preparation thereof, and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+scherico ltdch<sep>technobiotic ltd.<sep>technobiotic ltd.töpferstrasse 5ch-6004 lucernech<sep>
+</APPLICANT>
+<INVENTOR>
+draper richard williamus<sep>draper, richard william<sep>draper, richard william17 skyline drivenorth caldwell new jersey 07006us<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed are novel 6-oxygenated-3,20-dioxo-pregnane  derivatives of the general formula i    and specified 1,2-dihydroderivatives thereof.     wherein z represents  specified acylgroups.  the other substituents of formula i include those commonly  met in known corticosteroids.  the novel compounds may be prepared by methods  known per se.  the 6-acyloxy compounds of formula i are  preferably prepared by subjecting a corresponding 6-oxo-compound  of formula ii, as herein defined, to esterification  conditions.  the 6-oxo-compounds of formula i are preferably  prepared by oxidation of the corresponding  6-hydroxy-6,7-dihydro compounds.  the novel compounds  exhibit anti-inflammatory activity and are therefore useful in  the treatment and control of inflammatory conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

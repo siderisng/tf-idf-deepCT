@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003960
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-499/00</main> C07F-9/65 A61P-31/00 C07D-417/12 A61K-31/43 C07D-205/00 A61K-31/397 C07D-499/881 C07D-205/09 C07F-9/568 C07D-499/88 C07D-205/08 C07D-499/861 A61K-31/429 C07D-417/00 C07D-499/00 C07D-499/883 A61P-31/04 C07D-499/887 C07F-9/00 C07D-499/06 C07D-499/86 C07D-499/87 C07D-499/897 C07D-499/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+6-substituted thia-aza-compounds, their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+ernest ivan dr<sep>gosteli jacques dr<sep>lang marc dr<sep>woodward robert burns prof dr<sep>ernest, ivan, dr.<sep>gosteli, jacques, dr.<sep>lang, marc, dr.<sep>woodward, robert burns, prof. dr.<sep>ernest, ivan, dr.rüttihard 10ch-4127 birsfeldench<sep>gosteli, jacques, dr.anwilerstrasse 10ch-4059 baselch<sep>lang, marc, dr.rue de thann 4f-68200 mulhousefr<sep>woodward, robert burns, prof. dr.12 oxford streetcambridge massachusetts 02138us<sep>ernest, ivan, dr.<sep>gosteli, jacques, dr.<sep>lang, marc, dr.<sep>woodward, robert burns, prof. dr.<sep>ernest, ivan, dr.rüttihard 10ch-4127 birsfeldench<sep>gosteli, jacques, dr.anwilerstrasse 10ch-4059 baselch<sep>lang, marc, dr.rue de thann 4f-68200 mulhousefr<sep>woodward, robert burns, prof. dr.12 oxford streetcambridge massachusetts 02138us<sep>
+</INVENTOR>
+<ABSTRACT>
+New 2-Penem 3-carboxylic acid compound of the formula wherein Ra is for one via a carbon atom with the ring carbon atom, organic radical, a free, etherified or esterified hydroxy or mercapto group odder for halogen, R₁ for hydrogen, a via a carbon atom with theRing carbon atom connected organic radical or a etheric mercapto group is, and R₂ hydroxy or a coarbonyl group-C (= O) - a protected carboxyl group forming radical Ra₂ means its salts.Method for their preparation, pharmaceutical preparations containing these compounds and their use as antibiotics.The azeidinones and other starting compounds of the formula are also described.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017479
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-1/04 G11C-11/406 G11C-11/34 H03K-5/15 G11C-11/41 <main>G11C-11/24</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+memory refresh control apparatus.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+kan o yoshiharu<sep>shirai hitoshi<sep>tanaka yoshikazu<sep>kan'o, yoshiharu<sep>shirai, hitoshi<sep>tanaka, yoshikazu<sep>kan'o, yoshiharuno. 350-2-206, nishihassaku-cho midori-kuyokohama-shi, kanagawa, 227jp<sep>shirai, hitoshino. 2612-27-9-402, tohkaichiba-cho midori-kuyokohama-shi, kanagawa, 227jp<sep>tanaka, yoshikazuno. 424, seki tama-kukawasaki-shi, kanagawa, 214jp<sep>kan'o, yoshiharu  <sep>shirai, hitoshi <sep>tanaka, yoshikazu<sep>kan'o, yoshiharuno. 350-2-206, nishihassaku-cho midori-kuyokohama-shi, kanagawa, 227jp<sep>shirai, hitoshino. 2612-27-9-402, tohkaichiba-cho midori-kuyokohama-shi, kanagawa, 227jp<sep>tanaka, yoshikazuno. 424, seki tama-kukawasaki-shi, kanagawa, 214jp<sep>
+</INVENTOR>
+<ABSTRACT>
+memory refresh control apparatus for a memory m has a  refresh control circuit (rcon) which delivers n-bit (bits b₁,  b₂. . .  bn) refresh addresses and refresh clock signals (rc) to  the memory m for refreshing 2n refresh clock signals rc are  delivered over a given interval (a refresh interval) of time p.  the memory has 2n+n addresses to be refreshed over  the interval p.  clock divider circuit a provides n divided  refresh clock signals for each refresh clock signal rc, and  overheat bit generator a, supplied with the divided refresh  clock signals, produces n-bit addresses in dependence upon  a count of those signals.  the n-bit and n-bit addresses are  combined to produce (n+n)-bit addresses for refreshing the  memory at the timings of the divided refresh clock signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

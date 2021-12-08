@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000491
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-201/16 <main>C07C-76/06</main> C07C-79/10 C07C-201/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for treating the by-products resulting from the nitration of aromatic compounds.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft <sep>bayer ag51368 leverkusende  <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+neumann lutz dr<sep>thelen bernd<sep>thiem karl-werner dr<sep>neumann, lutz, dr.<sep>thelen, bernd<sep>thiem, karl-werner, dr.<sep>neumann, lutz, dr.wolfskaul 7d-5000 köln 80de<sep>thelen, berndcarl-duisberg-strasse 327d-5090 leverkusen 1de<sep>thiem, karl-werner, dr.andreas-gryphius-strasse 26d-5000 köln 80de<sep>neumann, lutz, dr. <sep>thelen, bernd<sep>thiem, karl-werner, dr.  <sep>neumann, lutz, dr. wolfskaul 7d-5000 köln 80de<sep>thelen, berndcarl-duisberg-strasse 327d-5090 leverkusen 1de<sep>thiem, karl-werner, dr.andreas-gryphius-strasse 26d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the isolation and working up of undesired by-products consisting of aromatic aldehydes and nitrous gases, which are obtained during the nitration in excess nitric acid of optionally substituted aromatic compounds containing aliphatic side-chains by partial oxidation of the side-chains, characterized in that at the same time as the rectification of the nitro-aromatic compound, the optionally substituted aromatic aldehyde is distilled off over the head of the column as an azeotrope with water by maintaining an aqueous phase within the rectification column in addition to the organic phase, and after oxidation to the corresponding carboxylic acid is discharged and the nitrous gases contained in the off-gas are reconverted into nitric acid in an adsorption column in an aqueous phase obtained in the nitration process, which can optionally contain nitric acid, in counter-current in the presence of oxygen. 
+</ABSTRACT>
+</TEXT>
+</DOC>

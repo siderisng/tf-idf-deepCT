@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001901
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25B-30/02 F24J-3/04 <main>F25B-13/00</main> F25B-30/00 F25B-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+air conditioning units with reversible cycle closed-circuit compression refrigeration systems.
+</TITLE>
+<APPLICANT>
+dearling roy patrickgb<sep>fowler kenneth john voyseygb<sep>glover edwardgb<sep>dearling, roy patrick<sep>fowler, kenneth john voysey<sep>glover, edward<sep>dearling, roy patrick5 manor wayworcester park surreygb<sep>fowler, kenneth john voysey4 cedar drive fetcham parkleatherhead surreygb<sep>glover, edwardthe white cottage fox lane coulsdon commoncaterham surreygb<sep>dearling, roy patrick<sep>fowler, kenneth john voysey<sep>glover, edward <sep>
+</APPLICANT>
+<INVENTOR>
+dearling roy patrick<sep>dearling, roy patrick<sep>dearling, roy patrick5 manor wayworcester park surreygb<sep>dearling, roy patrick <sep>dearling, roy patrick 5 manor way worcester park surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+reversible-cycle closed-circuit refrigeration systems  such as used in air conditioning units generally include first  and second heat exchangers (12, 11) for transferring heat  between a refrigerant and first and second fluids respectively,  the systems being operative to transfer heat from the  first fluid to the second and from the second fluid to the first  via the refrigerant.  the necessary work input is provided by a  compressor (14).  to enable the first and second heat exchangers (12, 11) to  operate at maximum efficiency during heat transfer between  the fluids in both directions, a further heat exchanger (19) is  provided which is operative only during heat transfer in one  direction.  this further exchanger (19) compensates for the  imbalance in heat flows in the two directions due to the heat  of compression.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012421
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02F-1/17</main> G02F-1/01 G02F-1/153 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochromic display cells.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+wilbur clayton vance<sep>wilbur, clayton vance<sep>wilbur, clayton vance5651 comanche drivesan jose, california 95123us<sep>wilbur, clayton vance<sep>wilbur, clayton vance5651 comanche drivesan jose, california 95123us<sep>
+</INVENTOR>
+<ABSTRACT>
+the life of an electrochromic display cell is extended  by providing it with a reservoir containing an electrochro­ mic display cell comprises a front electrode (1) which is  transparent, a back electrode (2) in spaced relation to  said front electrode, a display chamber (4) containing an  electrochromic solution positioned between said front  and back electrodes and a reservoir (5) containing ad­ ditional solution and connected via holes (3) in the back  electrode with said display chamber to permit flow of  solution between said reservoir and said chamber.  
+</ABSTRACT>
+<DESCRIPTION>
+electrocrromic display cells the invention relates to electrochromic display cell and it is an object of the present invention to provide an electrochromic display device with an increased lifetime. electrochromic display cells are well known in the prior art. for example, u.s. patent 3,451,741 contains a very good description and discussion of such devices. in general, it may be said that an electrochromic display cell comprises an electrochromic solution positioned between two electrically conductive electrodes at least one of which is transparent. this electrochromic solution comprises an oxidant/reductant pair contained in a solvent along with a conductive salt. u. s. patent 3,922,645 is concerned with a visual display device comprising a rotatable fiber optic shutter. that device contains a reservoir for a light absorbing fluid, but the device is not an electrochromic device, and the reservoir is not for electrochromic solution. u. s. patent 4,036,551 shows an electrochromic display apparatus in which supply holes are driven through an electrode. the patent, however, does not show any reservoir. disclosure of the invention it has now been found that the useful life of an electrochromic display cell may be prolonged and extended by supplying it with a reservoir for the electrochromic solution. the present invention provides an electrochromic display cell comprising: a transparent front electrode, a back electrode in spaced relation to said front electrode; and means defining a display chamber containing an electrochromic solution between said front electrode and said back electrode, characterised by the provision of a reservoir containing additional electrochromic solution connected with the display chamber to permit the interchange of solution between the chamber and the reservoir. an electrochromic display cell embodying the invention will now be described by way of example with reference to the accompanying drawings, in which: figure 1 is a perspective view of the electrochromic display cell embodying the invention. the figure is not to scale. figure 2 (not to scale) is a section taken along line 2-2 of figure 1. as is seen in figure 2, the display cell comprises a transparent front electrode 1 and a back electrode 2. in one preferred embodiment of the present invention, the back electrode 2 is provided with one or more.holes 3. these holes provide for circulation between the display chamber 4 and the reservoir 5. the use of the reservoir has been found experimentally to increase cell life. the explanation for this is not known with certainty, and the inventor does not wish to be bound by the following theory, which is offered merely as a possibility, the limited lifetime of electrochromic display cells is believed to be due to electrochromic degradation, which eventually causes the display to lose contrast. usually this occurs by a buildup of colour due to the electrochemically degraded material. this buildup is irreversible, after degradation buildup, a loss of the active ingredients occurs. since the spacing between the electrodes is usually on the order of only 1 to about 3 mils, it has been very difficult to provide fresh solution
+</DESCRIPTION>
+<CLAIMS>
+    'cla'ims    1, an electrochromic display cell comprising: a transparent front electrode, a back electrode in spaced relation to said front electrode, and means defining a display chamber containing an electrochromic solution between said front electrode and said back electrode characterised by the provision of a reservoir containing additional electrochromic solution connected with the display chamber to permit the interchange of solution between the chamber and the reservoir.    2. a cell as claimed in claim 1, in which said back electrode has openings therein to permit the flow of said solution between said reservoir and said chamber.   3. a cell as claimed in claim 2, in which the back electrode extends vertically, at least one opening is near the top of the electrode and at least one opening is near the bottom of the electrode.   4. a cell as claimed in claim 1, 2 or 3, further characterised by including means for augmenting the rate of interchange of solution between   saidvreservoir    and said chamber.   5. a cell as claimed in claim 1 which includes means for applying heat to said reservoir to augment the rate of flow of said solution between said reservoir and said chamber.  
+</CLAIMS>
+</TEXT>
+</DOC>

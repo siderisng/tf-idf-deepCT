@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003070
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-19/23 G05B-17/00 G11B-21/08 G05B-19/19 <main>G05B-13/04</main> G11B-5/55 G05D-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sampled data positioning system employing a model of the physical system for time optimal control.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kurzweil fred jr<sep>kurzweil, fred, jr.<sep>kurzweil, fred, jr.18667 montewood drivesaratoga california 95070us<sep>kurzweil, fred, jr.<sep>kurzweil, fred, jr.18667 montewood drivesaratoga california 95070us<sep>
+</INVENTOR>
+<ABSTRACT>
+a sampled data positioning system for moving a  member (30) between positions in a minimum time employs  a model (13) of the physical system to overcome the low  bandwidth constraints of fed back position and velocity  samples.  the model system is an approximate analog of the  physical system and provides continuous pseudo position  and velocity signals of high bandwidth.  these are applied to  a seek controller (14) which generates an error signal  between a desired reference velocity trajectory and the  pseudo velocity signal.  the error signal is fed back to the  model system input and is also applied to control the  physical system.  the model velocity and position outputs are  reset at sampling times to the values of the sampled velocity  and position in the physical system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

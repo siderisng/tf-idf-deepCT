@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005109
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05F-1/10 G05F-1/44 H02M-5/08 H02J-11/00 H02M-5/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+installation and power supply for beacon flash lamps
+</TITLE>
+<APPLICANT>
+hydro quebecca<sep>societe dite:  hydro-quebec<sep>hydro-quebec75, west dorchester boulevardmontreal, québec h2z 1a4ca<sep>
+</APPLICANT>
+<INVENTOR>
+berthiaume raymondca<sep>berthiaume, raymond<sep>berthiaume, raymond127, rue de poitiers ste julievarennes province du québec jol 2coca<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to the supply of lightning lamp tags by the capacitive energy extracted from an isolated section of the custody wire of a transport line. The power supply facility comprises an alternating capacity capacitive power transform circuit of the duty voltage guard wire which feeds at least one of the lightning lamps and a control circuit mounted in the transformation circuit to control A threshold value of the DC voltage feeding the lamps. This control is carried out by detecting the predetermined threshold value of the DC voltage at the terminals of the lamps and by massing the capacitive energy extracted from the guard wire when this threshold value is reached. In addition, a pulse generated at predetermined interval controls a firing circuit of each flashlight when it is under a continuous voltage corresponding to the predetermined threshold value and controlled by SHUNT switching.
+</ABSTRACT>
+</TEXT>
+</DOC>

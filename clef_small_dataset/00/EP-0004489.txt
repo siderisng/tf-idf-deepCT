@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004489
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/00 C09K-19/20 <main>C09K-3/34</main> C09K-19/46 C09K-19/10 G02F-1/13 C07C-255/55 C07C-255/57 C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid crystals of the diester type, their mixture with mesomorphic compounds and display device employing this liquid cristals.
+</TITLE>
+<APPLICANT>
+thomson csffr  <sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+beguin alain<sep>dubois jean-claude<sep>zann annie<sep>beguin, alain<sep>dubois, jean-claude<sep>zann, annie<sep>beguin, alain"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>dubois, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>zann, annie"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>beguin, alain<sep>dubois, jean-claude  <sep>zann, annie <sep>beguin, alain"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>dubois, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>zann, annie"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a diester-type body, that is to say an organic compound with three benzene nuclei combined with -coo-, at least one smectic mesomorphic phase.The body according to the invention responds to the formula: wherein R₁ is an alkyl or alkoxy and R₂ an alkyl.In the case where R₁ is an octyl and R₂ a pentyl, there is a frequency of dielectric isotropy of 30 kHz, that is to say a frequency where the dielectric anisotropy changes sign.Application to dual frequency field effect visualization devices.
+</ABSTRACT>
+</TEXT>
+</DOC>

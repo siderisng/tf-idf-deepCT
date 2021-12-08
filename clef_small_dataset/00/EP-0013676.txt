@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013676
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-17/20 <main>G03B-17/20</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+exposure display in a camera viewfinder.
+</TITLE>
+<APPLICANT>
+rollei werke franke heideckede<sep>rollei-werke franke & heidecke gmbh + co kg<sep>rollei-werke franke &amp; heidecke gmbh + co kgsalzdahlumer strasse 196d-3300 braunschweigde<sep>rollei-werke franke & heidecke gmbh + co kg <sep>
+</APPLICANT>
+<INVENTOR>
+rodeck hans jurgen<sep>rodeck, hans jurgen<sep>rodeck, hans jürgenüber dem steinbruch 2d-3301 erkerodede<sep>rodeck, hans jurgen <sep>rodeck, hans jürgen über dem steinbruch 2 d-3301 erkerodede<sep>
+</INVENTOR>
+<ABSTRACT>
+For cameras with automatic exposure control, a display device with an LED line (5) is created, in which even in a volatile-controlling view immediately applies that one is transferred from the boundary area short exposure time values.The LED lines structure (6, 7) is clearly visible in the region of the long-term values in the row structure in the area of the short-term values.
+</ABSTRACT>
+</TEXT>
+</DOC>

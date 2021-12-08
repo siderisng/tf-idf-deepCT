@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000316
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/76 H01L-21/306 H01L-21/318 H01L-21/265 H01L-21/322 <main>H01L-21/76</main> H01L-21/316 H01L-21/32 H01L-21/02 H01L-21/762 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing semiconductor devices comprising recessed silicon oxide regions.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+crowder billy lee<sep>hunter william ralph<sep>ormond jr douglas william<sep>crowder, billy lee<sep>hunter, william ralph<sep>ormond, jr. douglas william<sep>crowder, billy leeoscawana lake roadputnam valley, new york 10579us<sep>hunter, william ralph20 marshall placeossining, new york 10562us<sep>ormond, jr. douglas william52 iroquois roadossining, new york 10562us<sep>crowder, billy lee  <sep>hunter, william ralph<sep>ormond, jr. douglas william<sep>crowder, billy leeoscawana lake roadputnam valley, new york 10579us<sep>hunter, william ralph20 marshall placeossining, new york 10562us<sep>ormond, jr. douglas william52 iroquois roadossining, new york 10562us<sep>
+</INVENTOR>
+<ABSTRACT>
+- Improvement in semiconductor positive drug manufacturing processes.-The process avoids the appearance of the phenomenon of the "bird spout" and allows, however, the direct deposition of the mask in Si₃n₄ on the silicon substrate.It includes the following steps;(a) development of a semiconductor substrate typically silicon (10);(b) implantation of neutral ions (argon) in the surface layer (20) of the substrate to damage it, and make it almost amorphous, this step is followed by an annealing;(c) Training on said layer of a silicon nitride mask (Si₃n₄) according to a desired configuration;(d) Oxidation of expo portions of the substrate to form regions (16) of built-in silicon dioxide.-Application for the manufacture of insulated semiconductor dispositions by regions made of recessed dielectric material with high integration density.
+</ABSTRACT>
+</TEXT>
+</DOC>

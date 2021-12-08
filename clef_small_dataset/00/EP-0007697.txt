@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007697
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+F23C-6/04 F23L-7/00 F23C-99/00 F23N-3/00 <main>F23C-1/08</main> F23C-7/00 F23D-17/00 F23C-6/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+burner system for gaseous and/or liquid fuels with a minimum production of nox.
+</TITLE>
+<APPLICANT>
+zink co johnus<sep>john zink company<sep>john zink company4401, south peoriatulsa, oklahoma 74103us<sep>john zink company<sep>
+</APPLICANT>
+<INVENTOR>
+reed robert d<sep>reed, robert d.<sep>reed, robert d.4339 south peoriatulsa, oklahomaus<sep>reed, robert d.<sep>reed, robert d.4339 south peoriatulsa, oklahomaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a low nox burner (10) for a furnace operating under  natural draught in which primary and secondary combustion  air (60, 62) are provided to a first burning zone (16, 18) in which  either or both liquid and gaseous fuel can be used.  less than  stoichiometric air is supplied in the primary burning zone (6,  18 and tertiary combustion air (50) is supplied in a second  combustion zone (28) downstream from the first combustion  zone (16, 18).  the total air supply is over the stoichiometric  requirement.  air control means (38, 40, 42 and 44) is provided  so that a fixed ratio of primary-secondary air/tertiary air is  provided for all burning and fuel rate conditions, so as to  maintain the less than stoichiometric air supply to the first  combustion zone.  in addition, water atomization (68,70, 88  and 89) is provided upstream of the first burning zone (16, 18)  to provide a burning chemistry which factors the reduction of  nox in the first burning zone.  
+</ABSTRACT>
+</TEXT>
+</DOC>

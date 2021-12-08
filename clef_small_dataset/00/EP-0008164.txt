@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008164
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/04 C07C-255/00 C07F-9/00 B01J-31/02 B01J-31/00 C07F-9/48 <main>C07F-9/46</main> C07F-9/46 C07C-121/30 C07F-3/00 C07C-255/09 C07F-9/52 C07F-3/02 B01J-27/16 C07B-61/00 C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phosphinites and phosphonites, their preparation and use as acrylonitrile dimerisation catalysts.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+cozens ross james<sep>hogan philip john<sep>jennings james robert<sep>kelly lawrence francis michael<sep>cozens, ross james<sep>hogan, philip john<sep>jennings, james robert<sep>kelly, lawrence francis michael<sep>cozens, ross james8 elmsley roadmossley hill liverpoolgb<sep>hogan, philip john86 the knoll, palacefieldsruncorn, cheshiregb<sep>jennings, james robertplot 9 of stokesley road, rudbyhutton rudby, north yorkshiregb<sep>kelly, lawrence francis michael8 warrego circuit kaleenact 2617, canberraau<sep>cozens, ross james  <sep>hogan, philip john <sep>jennings, james robert<sep>kelly, lawrence francis michael<sep>cozens, ross james8 elmsley roadmossley hill liverpoolgb<sep>hogan, philip john86 the knoll, palacefieldsruncorn, cheshiregb<sep>jennings, james robertplot 9 of stokesley road, rudbyhutton rudby, north yorkshiregb<sep>kelly, lawrence francis michael8 warrego circuit kaleenact 2617, canberraau<sep>
+</INVENTOR>
+<ABSTRACT>
+novel phosphinites and phosphonites of general for­ mula:    where r₂ is an electron-donating substituent, r₁ and r₃ are  electron-donating substituents of hydrogen atoms, provided  that they are not both hydrogen atoms, or either r₁ or r₃  forms part of a fused alicyclic ring with r₂, r is alkyl or  cycloalkyl, and n and m are integers, each being either 1 or  2, provided that (m + n) equals 3, and when n is 2, the sub­ stituents on each aromatic ring may be the same or different,  and their use as catalysts for the dimerisation of acrylonitrile  to give predominantly straight-chain c₆ dimers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

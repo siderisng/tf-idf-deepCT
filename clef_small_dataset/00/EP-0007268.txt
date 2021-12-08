@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007268
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/42 <main>G02B-5/32</main> G02B-27/09 G02B-5/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical radiation source for producing a divergent radiation beam with a uniform angular aperture.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf  <sep>
+</APPLICANT>
+<INVENTOR>
+huignard jean-pierre<sep>huignard, jean-pierre<sep>huignard, jean-pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>huignard, jean-pierre<sep>huignard, jean-pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to optical radiation sources comprising a semiconductor laser whose radiation diagram is non-isotropic, and anamorphosis means of the beam emitted by this laser.The anamorphosis device comprises a pho tosensitive layer (8) deposited on a support (16) on which is recorded a concave holographic network.The conditions relating to the location of the recording sources, the semiconductor laser (9) and the wavelengths of recording and restitution are respected so as to obtain a stigmatic image (c) of the laser by the network withA good flatteg.The diffraction angle (θ₀) is chosen so as to significantly reduce the difference of the openings of the beam (60) emitted by the laser in two planes perpendiculaui res.The invention applies in particular to the storage of optical information, to the visualization...
+</ABSTRACT>
+</TEXT>
+</DOC>

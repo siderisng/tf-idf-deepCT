@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011872
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-7/12 B01D-53/047 B01D-53/04 <main>B01D-53/04</main> C01B-3/56 C01B-23/00 B01J-19/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for operating a cyclic pressure-swing adsorption device.
+</TITLE>
+<APPLICANT>
+bayer antwerpen nvbe<sep>linde agde<sep>bayer antwerpen n.v.<sep>linde aktiengesellschaft<sep>bayer antwerpen n.v.haven 507, scheldelaan 420 2040 antwerpen be <sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>bayer antwerpen n.v.<sep>linde aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+asztalos stefan<sep>benkmann christian<sep>leitgeb paul dr<sep>asztalos, stefan<sep>benkmann, christian<sep>leitgeb, paul, dr.<sep>asztalos, stefannoestrasse 20d-8000 münchen 71de<sep>benkmann, christianzündterstrasse 27d-8000 münchen 21de<sep>leitgeb, paul, dr.schlegelstrasse 7d-8000 münchen 70de<sep>asztalos, stefan<sep>benkmann, christian<sep>leitgeb, paul, dr.<sep>asztalos, stefannoestrasse 20 d-8000 münchen 71 de  <sep>benkmann, christianzündterstrasse 27d-8000 münchen 21de<sep>leitgeb, paul, dr.schlegelstrasse 7d-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+A method of operating a cyclically working pressure change adsorption system for cleaning and decomposing gases with multiple adsorbers (1 to 9), which makes it possible to quickly determine defect points within the system by running tracking of predetermined physical quantities and then the system thenAfter eliminating the defective device parts, with the remaining apparatus parts, without a stopping of the system is necessary.
+</ABSTRACT>
+</TEXT>
+</DOC>

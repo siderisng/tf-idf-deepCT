@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001505
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+B62D-1/28 B62D-1/00 G05D-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an inductive sensor assembly for use on a ground vehicle.
+</TITLE>
+<APPLICANT>
+raymond corpus<sep>the raymond corporation<sep>the raymond corporationsouth canal streetgreene new york 13778us<sep>
+</APPLICANT>
+<INVENTOR>
+taylor charles lus<sep>taylor, charles l.<sep>taylor, charles l.r.d.3, woodland drivebinghampton new york 13901us<sep>
+</INVENTOR>
+<ABSTRACT>
+an inductive sensor assembly for use on a ground  vehicle to provide signals representing deviations of the  vehicle from a reference path defined by a current-carrying-guidewire.   the assembly includes: a plurality of coils (l1,  l2, l3, l4, l5, l6) arranged in a predetermined pattern,  each of the coils (l1, l2, l3, l4, l5, l6) providing a respective  voltage which varies in accordance with horizontal  displacement of the coil from the guidewire, and means for  combining the voltages to provide a first signal which is  proportional to the heading of the vehicle independent of  lateral displacement and means for combining the voltages  to provide a second signal proportional to the lateral displacement  of the vehicle independent of heading.  
+</ABSTRACT>
+</TEXT>
+</DOC>

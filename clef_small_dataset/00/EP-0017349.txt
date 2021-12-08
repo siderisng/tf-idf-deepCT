@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017349
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-27/18 C08J-11/10 B29B-17/04 C08J-11/00 B29B-13/00 B29B-13/10 C08J-3/12 B29B-9/00 <main>C08J-11/00</main> B29B-17/00 C08J-3/28 C08F-2/46 B29B-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+treatment of sintered polytetrafluoroethylene with irradiation and heat to produce a grindable material.
+</TITLE>
+<APPLICANT>
+radiation dynamicsus<sep>radiation dynamics inc.<sep>radiation dynamics inc.316 south service road melvillelong island, new york 11746us<sep>radiation dynamics inc.<sep>
+</APPLICANT>
+<INVENTOR>
+derbyshire rodney l<sep>derbyshire, rodney l.<sep>derbyshire, rodney l.30 dolphin lanenorthport, new york 11768us<sep>derbyshire, rodney l.<sep>derbyshire, rodney l.30 dolphin lanenorthport, new york 11768us<sep>
+</INVENTOR>
+<ABSTRACT>
+sintered polytetrafluoroethylene is nondestructively de­ graded so as to be grindable to a powder of an average size  of less than 10 microns by a combination of irradiation by  electrons or other subatomic particles in the presence of  oxygen or air and concurrent or subsequent heating at  temperatures below the melting point of the material.  the  preferred effective and economic range of irradiation, heat  and time at temperature is approximately 50-150 mrads,  150°f to 600°f for at least about one-half hour depending  upon desired average particle size and melt flow characteris­ tics and acceptable yields of fine powders.  
+</ABSTRACT>
+</TEXT>
+</DOC>

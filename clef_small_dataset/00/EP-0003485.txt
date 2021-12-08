@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003485
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-15/14 G01S-7/02 C08G-63/08 G01S-7/34 C08G-63/00 <main>H01Q-19/12</main> H01Q-19/10 H01Q-19/12 H01Q-15/16 G01S-7/285 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+airport surface detection equipment.
+</TITLE>
+<APPLICANT>
+hollandse signaalapparaten bvnl<sep>hollandse signaalapparaten b.v. <sep>hollandse signaalapparaten b.v.zuidelijke havenweg 40 p.o. box 42nl-7550 gd hengelo nl  <sep>hollandse signaalapparaten b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+de lange nicolaas hendrik<sep>mulder willem<sep>vaessen dorotheus constant leo<sep>de lange, nicolaas hendrik<sep>mulder, willem<sep>vaessen, dorotheus constant leonie<sep>de lange, nicolaas hendrikkienvenneweg 7rekkennl<sep>mulder, willemheemskerkstraat 3bornenl<sep>vaessen, dorotheus constant leoniedrilscholtenstraat 25hengelo (o)nl<sep>de lange, nicolaas hendrik <sep>mulder, willem<sep>vaessen, dorotheus constant leonie  <sep>de lange, nicolaas hendrikkienvenneweg 7rekkennl<sep>mulder, willemheemskerkstraat 3bornenl<sep>vaessen, dorotheus constant leoniedrilscholtenstraat 25hengelo (o)nl<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to an asde radar to supply information  on airport surface traffic.  a well-known asde  radar comprises an antenna having an elevation-depending  gain factor    for ω₁ ≦ ω < ω₂, where ω₁, ω and ω₂  represent angles of depression.   in case of the above radar the echo power of an  airport surface target is independent of the distance, whereas  the echo power of rain clutter is inversely proportional  to the square of the distance.  consequently, a remote surface  target still projected on the radar screen above the  rain clutter, is likely to disappear in the rain clutter when  approaching the radar; this may incur fatal consequences.   to solve the above problem, the asde radar of the invention  comprises a combination of an antenna having a gain  factor    and a sensitivity time control circuit in its receiver.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015454
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-1/04 G02B-23/26 A61B-1/06 H05B-41/34 <main>G03B-15/06</main> H05B-41/30 G03B-15/05 G02B-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+light source unit for an endoscope.
+</TITLE>
+<APPLICANT>
+olympus optical cojp<sep>olympus optical co., ltd.<sep>olympus optical co., ltd.43-2, 2-chome, hatagaya shibuya-kutokyo 151jp<sep>olympus optical co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+takayama syuichi<sep>takayama, syuichi<sep>takayama, syuichi1367-5, miyama-cho hachioji-shitokyojp<sep>takayama, syuichi<sep>takayama, syuichi1367-5, miyama-cho hachioji-shitokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a light source unit for an endoscope is provided with a  number of flash tubes (28, 30, 32, 34) which are caused in turn  to emit a light.  on a optical path (14) passing through a light-in­ cident surface of a light guide (2) of the endoscope there are  arranged, in corresponding relationship to the flash tubes, a  number of plane reflecting mirrors (8, 10, 12, 14) which reflect  the lights from the flash tubes toward the light-incident surface  (3) of the light guide, respectively.  the reflecting mirrors are  each movable in parallel by a rotary solenoid (22, 24, 26).  this  solenoid operates at the time when the light emission from one  of the flash tubes is completed.  thus, the solenoid, for the pur­ pose of giving the optical path for a succeeding one of the  flash tube, removes from that optical path the reflecting mirror  corresponding to said one of the flash discharge tube.  
+</ABSTRACT>
+</TEXT>
+</DOC>

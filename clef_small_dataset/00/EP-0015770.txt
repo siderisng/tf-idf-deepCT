@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015770
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04S-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stereophonic sound synthesizer.
+</TITLE>
+<APPLICANT>
+rca corpus   <sep>rca corporation<sep>rca corporation201 washington roadprinceton, nj 08540us<sep>
+</APPLICANT>
+<INVENTOR>
+griffis patrick douglasus<sep>griffis, patrick douglas<sep>griffis, patrick douglas906 north downey avenueindianapolis indianaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a system is provided which synthesizes stereophonic  sound by developing two separate sound channels from a  single monophonic sound source.  the system may be  advantageously utilized in combination with a visual display  such as a television receiver.  a monaural signal (m) is  applied as the input signal for a transfer function circuit of  the form h(s), which modulates the intensity of the  monaural signal as a function of frequency.  the intensity  modulated h(s) signal is coupled to a reproducing loud­ speaker, and comprises one channel (b) of the synthetic  stereo system.  the h(s) signal is also coupled to one input  of a differential amplifier (40).  the monaural signal (m) is  coupled to the other input of the differential amplifier (40) to  produce a difference signal (m-h(s)) which is the comple­ ment of the h(s) signal.  the difference signal is coupled to a  second reproducing loudspeaker, which comprises the se­ cond channel (c) of the synthetic stereo system.  when the  stereo synthesizer is utilized as the sound reproducing  system of a television receiver, the reproducing loudspea­ kers are located at oposite sides of the kinescope.  the  amplitude -vs- frequency response curves of the two output  channels (b, c) are selected to have crossover points at  which the amplitudes of the two response curves are equal,  which effectively centers sounds at these frequencies be­ tween the loudspeakers.  one crossover frequency is chosen  to occur at approximately the frequency of peak intensity of  the human voice, another to occur at the center frequency  of the second (articulation) formant frequencies of the  human voice so as to effectively center voices on the kine­ scope while preserving the ambience effect of other, more  randomly distributed sound signals.  centering the second  formant frequencies also provides increased quality in the  reproduction of speech sounds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004980
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-10/213 <main>G02B-5/14</main> G02B-6/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reversible light beam coupler.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecomit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>
+</APPLICANT>
+<INVENTOR>
+di vita pietro<sep>di vita, pietro<sep>di vita, pietroc.so francia 351turinit<sep>di vita, pietro<sep>di vita, pietro  <sep>di vita, pietroc.so francia 351turinit<sep>
+</INVENTOR>
+<ABSTRACT>
+the coupler comprises one or more optical systems  formed by or equivalent to a set of reflecting surfaces (4,5,6)  whose sections are segments of ellipses having two by two a  common focus (1a, 2a, 3a); each focus lies in the centre of  the end face of an optical waveguide (1,2,3) able both to  launch a light beam to be shared among other waveguides,  and to collect either a light beam resulting from a sharing or  more light beams to be combined.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013100
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/16 C07C-51/255 C07C-63/14 <main>C07C-51/42</main> C07C-63/00 C07C-51/265 C01B-7/09 B01J-23/16 C07C-63/04 C07B-61/00 C07C-63/34 B01D-53/86 C01B-7/00 B01J-23/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+recovery of bromine from the effluent gases of a bromine catalysed oxidation process.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+jones peter john vaughan<sep>lopez-merono jose<sep>norval stephen vynne<sep>royall david john<sep>jones, peter john vaughan<sep>lopez-merono, jose<sep>norval, stephen vynne<sep>royall, david john<sep>jones, peter john vaughan25, manor courtwolviston, billingham clevelandgb<sep>lopez-merono, josé168, windyhill lanemarske, redcar clevelandgb<sep>norval, stephen vynne5, ilkley groveguisborough, clevelandgb<sep>royall, david john59 farndale driveguisborough, clevelandgb<sep>jones, peter john vaughan<sep>lopez-merono, jose <sep>norval, stephen vynne  <sep>royall, david john<sep>jones, peter john vaughan25, manor courtwolviston, billingham clevelandgb<sep>lopez-merono, josé168, windyhill lanemarske, redcar clevelandgb<sep>norval, stephen vynne5, ilkley groveguisborough, clevelandgb<sep>royall, david john59 farndale driveguisborough, clevelandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+in the oxidation of a substituted aromatic compound such  as p-xylene using a heavy metal catalyst promoted by  bromine the effluent gases from the oxidation contain methyl  bromide and are treated for the recovery of bromine.  a variety  of methods are described whereby the bromine may be reco­ vered, preferably in a form suitable for reuse in the oxidation  process.  
+</ABSTRACT>
+</TEXT>
+</DOC>

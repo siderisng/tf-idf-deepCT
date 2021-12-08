@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005622
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 C01B-3/02 C01B-13/02 C01B-3/06 <main>C01B-3/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the decomposition of water.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+brecher lee e<sep>hirayama chikara<sep>brecher, lee e.<sep>hirayama, chikara<sep>brecher, lee e.153 patchen drive apartment 60lexington kentuckyus<sep>hirayama, chikara4437 kilmer drivemurrysville pennsylvaniaus<sep>brecher, lee e.  <sep>hirayama, chikara <sep>brecher, lee e.153 patchen drive apartment 60lexington kentuckyus<sep>hirayama, chikara4437 kilmer drivemurrysville pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+process for decomposing water into hydrogen and  oxygen by (1) reacting hydrogen sulfide with cuprous sulfide  to produce said hydrogen and cupric sulfide according to the  equation h₂s + cu₂s → h₂+2cus; (2) decomposing said  cupric sulfide to produce said cuprous sulfide and sulfur  according to the equation 2cus → cu₂s + s; (3) reacting said  sulfur with water to produce said hydrogen sulfide and sulfur  dioxide according to the equation 3s + 2h₂o → 2h₂s + so₂;  (4) reacting said sulfur dioxide with water to produce sulfur  and sulfuric acid according to the equation 3so₂ + 2h₂o → s  + 2h₂so₄; and (5) decomposing said sulfuric acid to produce  said sulfur dioxide, water, and said oxygen according to the  equation 2h₂so₄ → 2so₂ + o₂ + 2h₂o.  this process utilizes lower temperatures and is more  thermally efficient than prior thermal processes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

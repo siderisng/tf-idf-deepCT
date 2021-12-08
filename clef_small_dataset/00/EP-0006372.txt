@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006372
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/42 H01S-5/062 H01S-5/42 H01S-5/125 <main>H01S-3/06</main> H01S-5/00 H01S-5/12 H01S-5/187 H01S-5/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+distributed feed-back laser.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr <sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+de cremoux baudouin  <sep>diforte marie-antoinette<sep>hirtz pierre<sep>leclerc pierre<sep>puech claude<sep>de cremoux, baudouin<sep>diforte, marie-antoinette<sep>hirtz, pierre<sep>leclerc, pierre<sep>puech, claude<sep>de cremoux, baudouin"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>diforte, marie-antoinette"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>hirtz, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>leclerc, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>puech, claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>de cremoux, baudouin<sep>diforte, marie-antoinette<sep>hirtz, pierre<sep>leclerc, pierre<sep>puech, claude <sep>de cremoux, baudouin "thomson-csf" - scpi 173, bld haussmann f-75360 paris cedex 08fr<sep>diforte, marie-antoinette"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>hirtz, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>leclerc, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>puech, claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a "laser" with reflector di stitribute.It has a laser diode, of which one of the semi-transparent mirrors is a cleaved face 5 of the monocrystal 1 in which is integrated an electroluminescent diode with epitaxial layers.The active zone of this diode is coupled to a waveguide 10 formed in an electrical medium 8 on one side of which is formed a network 11 forming reflector playing the role of second mirror.This reflector, when operating according to the Deu Xenth counter-reaction order emitted in order 1 diffracted perpendicular to the waveguide 10. The invention applies to fiber optic transmissions.
+</ABSTRACT>
+</TEXT>
+</DOC>

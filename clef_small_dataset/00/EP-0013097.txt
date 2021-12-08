@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013097
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/00 F16K-17/36 G05D-23/12 F01P-7/00 H01H-37/00 G05D-23/01 H01H-37/44 G05D-23/275 <main>G05D-23/275</main> F16K-17/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+temperature actuated fluid control valve.
+</TITLE>
+<APPLICANT>
+kysor industrial corpus<sep>kysor industrial corporation<sep>kysor industrial corporation1 madison avenuecadillac michigan 49601us<sep>kysor industrial corporation<sep>
+</APPLICANT>
+<INVENTOR>
+cadwell ronald g<sep>monigold larry edwin<sep>cadwell, ronald g.<sep>monigold, larry edwin<sep>cadwell, ronald g.712 holly roadcadillac, michiganus<sep>monigold, larry edwin5652 east blossomcadillac, michiganus<sep>cadwell, ronald g.  <sep>monigold, larry edwin<sep>cadwell, ronald g.712 holly roadcadillac, michiganus<sep>monigold, larry edwin5652 east blossomcadillac, michiganus<sep>
+</INVENTOR>
+<ABSTRACT>
+a temperature sensitive control device achieving sequen­ tial control of functions for engine temperature control in  response to engine temperature conditions, the first function  being controlled by a fluid flow valve (18) and the subsequent  function or functions being controlled by an electrical switch  (16) actuated via the valve.  the device includes a temperature  sensitive element (14) operating the valve through a slide pin  (28).  the valve in turn actuates the switch through a plunger  (64) which sealingly separates the valve from the switch.  
+</ABSTRACT>
+</TEXT>
+</DOC>

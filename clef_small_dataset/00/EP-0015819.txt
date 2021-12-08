@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015819
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22D-27/20 B22D-27/00 C21C-1/08 C21C-1/00 B22D-23/00 <main>B22D-1/00</main> C21C-1/10 B22D-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the production of articles mainly consisting of spheroidal graphite cast iron.
+</TITLE>
+<APPLICANT>
+air liquidefr<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude75, quai d'orsayf-75321 paris cédex 07fr<sep>air liquidefr<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude<sep>
+</APPLICANT>
+<INVENTOR>
+defrancq charles<sep>rouhier jacques<sep>defrancq, charles<sep>rouhier, jacques<sep>defrancq, charlesmin. e. rubenslaan 11b-9140 zelebe<sep>rouhier, jacques38, rue de l'orangerief-78000 versaillesfr<sep>defrancq charles  <sep>rouhier jacques <sep>defrancq, charles<sep>rouhier, jacques<sep>defrancq, charlesmin. e. rubenslaan 11b-9140 zelebe<sep>rouhier, jacques38, rue de l'orangerief-78000 versaillesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for producing castings, especially in spherical graphite moulds, of the kind in which the molten metal is poured from a ladle into a mould, characterised in that on the one hand, the magnesium content of the molten metal is between 0. 03 and 0. 07% and the aluminium content thereof is at least 0. 1% and, on the other hand, that whilst pouring the molten metal the already known technique of pouring into a mould in which the atmosphere has previously been rendered inert by pouring liquid nitrogen into the bottom of the mould is utilised. 
+</ABSTRACT>
+<DESCRIPTION>
+la présente invention concerne un procédé d'élaboration de pièces en fonte notamment en fonte à graphite #hérotdal, du genre où l'on coule le métal en fusion d'une poche de préparation dans un moule. généralement, ce procédé de moulage de fonte à graphite sphéroldal et, à un moindre titre, de fonte dite lamellaire et de fonte dite alliée, est souvent sujet à des défauts que l'on dénomme généralement "piqûres" dthydrogène. ces défauts sont provoqués par une baisse brutale de la solubilité de l'hydrogène dans le métal en cours de solidification ; ils se produisent surtout dans des conditions de diffusibilité réduites, comme c'est le cas de pièces minces ou d'épaisseur moyenne. les piqûres d'hydrogène se forment généralement sous la peau de pièces dans une zone solidifiée et cette formation intervient avec un certain retard sur la solidification, si bien que ces défauts n'apparaissent pas immédiatement après démoulage. en fait, c'est au moment ou les ooéra- tions de parachèvement, telles qutusinage des pièces moulées, que les piqûres d'hydrogène apparaissent à l'oeil et l'on est contraint alors à mettre au rebut les pièces ainsi moulées et presque complètement usinées. il s'ensuit de fortes pertes dues non seulement au moule, mais aux opérations ultérieures de démasselotage, de meulage, d'ébarbage, de traitements thermiques, etc de nombreuses études ont été menées pour détermi- ner les causes de la présence de l'hydrogène dans le métal et l'on sait maintenant que cet hydrogène provient de la décomposition de l'eau au contact du métal à haute température, cette eau pouvant être absorbée à différents stades du processus d'élaboration, par exemple l'humidité de l'air ou des réfractaires constituant la paroi du four, du chenal conduisant à la poche et enfin dans le moule lui-rnême, et l'on a pu également constater que la cause essentielle de la pre- sence dthydrogène est précisément l'absorption d'hydrogene juste avant solidification, c'est-à-dire d'hydrogène oui se manifeste dans les moules de coulée. c'est donc bien entendu les moules dits en sable à vert qui causent le plus de défauts de piqûres dthydro- gène, puisque le sable qui les constitue présente une certaine humidité. on a constaté également que ce défaut était accen tué en fonction de la longueur du parcours d'alimentation de la pièce moulée et que les pièces situées en bout de la grappe en étaient les plus affectées. pour remédier à ce défaut, en tout cas l'atténuer on a bien proposé d'augmenter la température de coulée, ce qui, en reportant dans le temps la solidification de la pièce coulée, favorise donc le dégazage et par là même évit dans une grande mesure la formation de piqûres dues à l'hy- drogène. mais ce remède n'est pas toujours applicable, car il dépend de l'organisation de l'installation de moulage, des synchronisations dans les processus de fusion et de mou lage, etc ... et en outre, cette façon de faire occasionne une dépense énergétique supplémentaire non négligeable. on a également proposé d'accroltrela dose de noi minéral ou de brai dans le sable de moulage, de façon à modifier
+</DESCRIPTION>
+<CLAIMS>
+revendications    1. - procédé d'élaboration de pièces en fonte,   -ctt ent    en fonte à graphite sphéroidal, du genre où 1'on coule le métal en fusion d'une poche de préparation dans un   moule,    caractérisé en ce que, d'une part, la teneur de la fonte en magnésium étant comprise entre 0,03 et 0,07   5,    la teneur en aluminium est établie à au moins 0,1   ·',    d'autre part, on   applique      ¯    ladite fonte en cours de coulée, la   te clinique    connue en soi de coulée en moule inerté par déversement préalable d'azote liquide en fond de moule.     2. - procédé d'élaboration selon la revendication 1, caractérisé en ce que la quantité d'azote liquide déver   see    est à l'état vaporisé de 50 à 100 fois en volume de la cavité de   moulage.     
+</CLAIMS>
+</TEXT>
+</DOC>

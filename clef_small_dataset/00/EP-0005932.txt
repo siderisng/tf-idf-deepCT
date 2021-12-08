@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005932
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-17/00 G01N-29/27 G01N-29/24 G01N-29/26 <main>G01N-29/04</main> G01N-29/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a detector for and a method of ultrasonic detection of faults in conveyor belts.
+</TITLE>
+<APPLICANT>
+balteau sonatest ltdgb<sep>balteau sonatest limited<sep>balteau sonatest limiteddickens road old wolverton road industrial estatemilton keynes, buckinghamshire, mk12 5qqgb<sep>balteau sonatest limited<sep>
+</APPLICANT>
+<INVENTOR>
+dickson john kidd<sep>edmonson harold marshall<sep>dickson, john kidd<sep>edmonson, harold marshall<sep>dickson, john kidd"alderney" quainton roadwaddesdon buckinghamshiregb<sep>edmonson, harold marshall56 lodge bank brinscallchorley lancashiregb<sep>dickson, john kidd<sep>edmonson, harold marshall  <sep>dickson, john kidd "alderney" quainton roadwaddesdon buckinghamshiregb<sep>edmonson, harold marshall56 lodge bank brinscallchorley lancashiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for detecting longitudinal faults  in a conveyor belt (1) while the belt (1) is in motion.  pairs of  transducers (t₁, d₁) (t₂, d₂) etc. , are spaced across the belt  (1) and transmit respective acoustic signals across partially  overlapping regions.  each transducer is a piezoelectric disc  which has a synthetic plastic tyre and an aluminium rim.  
+</ABSTRACT>
+</TEXT>
+</DOC>

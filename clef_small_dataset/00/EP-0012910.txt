@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012910
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-5/31 H01F-27/28 G11B-5/12 G11B-5/40 <main>G11B-5/20</main> G11B-5/17 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thin film magnetic heads.
+</TITLE>
+<APPLICANT>
+ibmus  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+church mark anthony<sep>jones jr robert edward<sep>church, mark anthony<sep>jones, jr., robert edward<sep>church, mark anthony15 1/2 peralta streetlos gatos, california 95030us<sep>jones, jr., robert edward6776 hampton drivesan jose, california 95120us<sep>church, mark anthony <sep>jones, jr., robert edward  <sep>church, mark anthony15 1/2 peralta streetlos gatos, california 95030us<sep>jones, jr., robert edward6776 hampton drivesan jose, california 95120us<sep>
+</INVENTOR>
+<ABSTRACT>
+to minimize the effect of overheating in a thin film  magnetic head, deposited on a non-magnetic substrate hav­ ing an air bearing surface normal to a deposition surface upon  which two magnetic layers forming a magnetic yoke (11) are  deposited with a transducing gap at the air bearing surface  and a back closure (18) remote from the air bearing surface, a  multi-turn electrical conductive planar coil (20), encircling the  back closure (18), has turns of generally curved shape without  sharp corners, that portion of each turn in the transducing gap  and back closure (18) being narrower than the adjacent por­ tions thereof.  the turns progressively increase in width as the  distance from the area increases and are of generally elliptical  shape and constant separation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

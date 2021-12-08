@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007655
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/92 H04N-7/08 H04N-5/91 H04N-1/191 H04N-7/173 H04N-1/21 H04N-1/22 H04N-5/922 <main>G11B-7/00</main> H04N-5/76 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for copying documents using a rotatable recording medium and a recording disc used therefor.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+howe dennis george<sep>howe, dennis george<sep>howe, dennis georgekodak parkrochester, new yorkus<sep>howe, dennis george<sep>howe, dennis georgekodak parkrochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for recording and retrieving document infor­ mation on a recording medium, the information representa­ tive of each separate document being in the format of a video  signal comprising two sequential interlaced fields.  to record  the document information the video signals (f₁, f₂) corres­ ponding to the two fields are used to amplitude modulate  quadrature components of a single carrier frequency (12).  the  modulated components are vectorially added and the resul­ tant "qam" signal (21) is then angularly modulated on a high  frequency carrier signal (23) to produce a signal (26) which is  recorded on a rotating disc storage device.  to retrieve the  recorded information the disc is rotated and the recorded  signal is demodulated upon successive revolutions of the disc  to produce a field sequential signal comprising, in alternation,  the two fields of information.  the signals representative of the  two fields of information are then applied to a video monitor  or alternatively, electronically processed and applied to either  a line-sequential printer or a dual-line printer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

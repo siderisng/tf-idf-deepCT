@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007754
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-9/30 H03M-7/00 <main>H03K-13/25</main> G06F-5/00 H03K-19/177 H01L-27/02 H03K-19/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+decoder and method of decoding.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+miura kenichi<sep>miura, kenichi<sep>miura, kenichi12501 jolene courtsaratoga, california, 95070us<sep>miura, kenichi<sep>miura, kenichi12501 jolene courtsaratoga, california, 95070us<sep>
+</INVENTOR>
+<ABSTRACT>
+in a decoder and method utilizing logic circuitry for  decoding multi-bit digital signals, an input decoder (16)  decodes subsets of the input signals to provide a plurality of  intermediate signals which are selectively combined to pro­ vide output signals which represent a desired decoding of the  input signals.  the intermediate signals are applied to gener­ ally parallel bus lines (18) which, in one form, extend centrally  of the substrate on which the decoder is constructed; the logic  circuits are arranged in blocks (bl - bn) along both sides of the  bus lines (18), with all of the bus lines extending past all of the  logic blocks, and conductors (21) extending transversely of  the bus lines carry the appropriate intermediate signals from  the bus lines to the logic blocks.  output signals are provided  on lines (19).  the device is particularly suitable for decoding  the operation codes of a computer instruction set.  
+</ABSTRACT>
+</TEXT>
+</DOC>

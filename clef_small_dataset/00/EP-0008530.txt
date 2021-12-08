@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008530
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-10/00 <main>C08F-10/00</main> C08F-4/00 C08F-4/60 C08F-4/62 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for polymerising 1-olefins.
+</TITLE>
+<APPLICANT>
+bp chem int ltdgb<sep>bp chemicals limited<sep>bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>bp chemicals limited  <sep>
+</APPLICANT>
+<INVENTOR>
+eve paul leslie<sep>eve, paul leslie<sep>eve, paul lesliebp chemicals limited bo'ness road grangemouthstirlingshire, fk3 9xn scotlandgb<sep>eve, paul leslie<sep>eve, paul lesliebp chemicals limited bo'ness road grangemouthstirlingshire, fk3 9xn scotlandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+process for polymerising ethylene, or mixtures thereof  with up to 40 wt % of other 1-olefinic monomer comprising  contacting the monomer under particle form polymerisation  conditions at a temperature not greater than 112°c with a  catalyst prepared by heat activating chromium oxide or a  compound calcinable thereto, on a refractory oxide support  material and a catalyst modifier comprising an aliphatic diene  and a trihydrocarbyl boron.  the refractory oxide support mat­ erial can be, for example silica and the heat activation is  preferably carried at 40 to 900°c.  the aliphatic diene prefer­ ably contains 1 to 10 carbon atoms and can be, for example  butadiene, isoprene, 1,5-hexadiene, 1,7-octadiene or  ethylidene norbornene.  the trihydrocarbyl boron compound  is preferably a trialkyl boron, for example trimethyl, triethyl or  triisobutyl boron.  the quantity of diene is preferably 10 to  5000 moles per gram atom of chromium and the quantity of  trihydrocarbyl boron is preferably 0. 1 to 20 moles per gram  atom of chromium.  
+</ABSTRACT>
+</TEXT>
+</DOC>

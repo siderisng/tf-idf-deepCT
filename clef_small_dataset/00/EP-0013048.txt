@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013048
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-17/08 C07C-17/02 C07C-255/00 C07C-17/16 C07C-253/14 B01J-31/00 C07C-23/32 C07C-255/47 C07C-17/00 <main>C07C-23/32</main> C07C-253/00 C07B-61/00 C07C-67/00 C07C-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+8-substituted bicyclo(3.2.1)octanes and processes for the preparation thereof.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+mulder albertus johan<sep>verbrugge pieter adriaan<sep>mulder, albertus johan<sep>verbrugge, pieter adriaan<sep>mulder, albertus johanbadhuisweg 31031 cm amsterdamnl<sep>verbrugge, pieter adriaanbaduisweg 31031 cm amsterdamnl<sep>mulder, albertus johan<sep>verbrugge, pieter adriaan<sep>mulder, albertus johanbadhuisweg 31031 cm amsterdamnl<sep>verbrugge, pieter adriaanbaduisweg 31031 cm amsterdamnl<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of general formula    wherein x represents a f, c1, ,br,i or cn.  they can be prepared   a) when x = c1,br,i,f by reacting 1,5-dimethyl-1,5-cyclo­ octadiene with hx   b) when x = c1,132,i by reacting the corresponding  8-hydroxycompound (x =oh) with an halogenating agent.    c) when x = cn by reacting the corresponding bromo­ iodocompound (x =br,i) with copper (i) cyanide.  
+</ABSTRACT>
+</TEXT>
+</DOC>

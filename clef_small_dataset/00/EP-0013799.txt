@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013799
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-11/26 G01D-5/36 G01B-11/02 <main>G01D-5/36</main> H03M-1/00 G01D-5/12 H03M-1/22 G01B-7/30 G01B-7/02 G01D-5/244 G01D-5/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+encoder for length or angle measuring devices with high accuracy.
+</TITLE>
+<APPLICANT>
+tokyo opticaljp<sep>tokyo shibaura electric cojp<sep>tokyo kogaku kikai kabushiki kaisha<sep>tokyo shibaura denki kabushiki kaisha<sep>kabushiki kaisha toshiba72, horikawa-cho, saiwai-kukawasaki-shi, kanagawa-ken 210jp<sep>tokyo kogaku kikai kabushiki kaisha75-1, hasunuma-cho itabashi-kutokyojp<sep>kabushiki kaisha toshiba<sep>tokyo kogaku kikai kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+kimura kazuaki<sep>kondo masayuki<sep>minami masana<sep>sasaki tsuneo<sep>kimura, kazuaki<sep>kondo, masayuki<sep>minami, masana<sep>sasaki, tsuneo<sep>kimura, kazuaki3-5-21, hasuneitabashi-ku, tokyojp<sep>kondo, masayuki2-8-20-502, minami kugaharaota-ku, tokyojp<sep>minami, masana2-6-8-403, nagaotama-ku, kawasaki-shijp<sep>sasaki, tsuneo75-1, hasunuma-choitabashi-ku, tokyojp<sep>kimura, kazuaki<sep>kondo, masayuki<sep>minami, masana<sep>sasaki, tsuneo<sep>kimura, kazuaki3-5-21, hasuneitabashi-ku, tokyojp<sep>kondo, masayuki2-8-20-502, minami kugaharaota-ku, tokyojp<sep>minami, masana2-6-8-403, nagaotama-ku, kawasaki-shijp<sep>sasaki, tsuneo75-1, hasunuma-choitabashi-ku, tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+an encoder for measuring devices having a code pla­ te (10) including binary grating patterns arranged in a gi­ ven regular fashion and forming a first scale, a linear sen­ sor (14) including photodiode elements (16) arranged with  fixed intervals and forming a second scale disposed in par­ allel with the code plate (10), and processor means (20)  for absolute-interpolating one pitch of the first or second  scale on the basis of reading data or information (ri) ob­ tained from the linear sensor (14) corresponding to a rela­ tive position of the patterns (12) to the elements (16).  when the number of the scale divisions of the first  scale within a fixed range is n, the number of the scale di­ visions of the second scale is n + 1.  accordingly, when the  first scale is a main scale, the second scale is a vernier  scale.  the processor means (20) detects a phase inverting  point (x) corresponding to the interpolation point (x) on  the basis of the reading data (ri).  the processor means  (20) performs the absolute interpolation by detecting the  phase inverting point (x).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004970
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60H-1/26 E05F-15/16 B60H-1/24 B60J-7/04 E05F-15/14 B60H-1/00 E05F-15/20 B60J-1/12 <main>B60J-7/18</main> B60J-7/057 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+position control apparatus for motor vehicle ventilation systems.
+</TITLE>
+<APPLICANT>
+rockwell golde gmbhde<sep>rockwell golde gmbh<sep>rockwell golde gmbhhanauer landstrasse 33860314 frankfurtde<sep>rockwell golde gmbh<sep>rockwell golde gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+grebe karl<sep>grebe, karl<sep>grebe, karlaltkönigstrasse 24ad-6240 konigsteinde<sep>grebe, karl<sep>grebe, karl<sep>grebe, karlaltkönigstrasse 24ad-6240 konigsteinde<sep>
+</INVENTOR>
+<ABSTRACT>
+In an arrangement for generating actuating movements on motor vehicle ventilation devices driven by electric motor, in particular on by lid-closable roof openings, the control movements are carried out automatically without access to the vehicle occupants during the journey, whereby the size of the ventilation opening can be controlled as a function of the driving speed.The arrangement provides that with a motor vehicle part (1a) rotating in the driving operation, whose speed of the driving speed is directly proportional, a generator (1b) is coupled from which a control signal is derived, with the aid of the actuator (36) for theVentilation device according to the driving speed, at a higher speed in the closing direction and at lower speed in the opening direction of the ventilation device, is switched on.
+</ABSTRACT>
+</TEXT>
+</DOC>

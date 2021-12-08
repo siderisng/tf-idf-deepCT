@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004678
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-33/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making a die for transferring a relief-like texture to surfaces of panels made by compression moulding.
+</TITLE>
+<APPLICANT>
+isovoltaat<sep>isovolta oesterreichische isolierstoffwerke aktiengesellschaft<sep>isovolta österreichische isolierstoffwerke aktiengesellschaftindustriezentrum nö-süd2355 wiener neudorfat<sep>
+</APPLICANT>
+<INVENTOR>
+penicka ferdinandat <sep>petershofer georg drat   <sep>pflug guenther drat<sep>penicka, ferdinand<sep>petershofer, georg, dr.<sep>pflug, guenther, dr.<sep>penicka, ferdinanddeinhardsteingasse 11/15a-1160 wienat<sep>petershofer, georg, dr.hauptstrasse 26a-2351 wiener neudorfat<sep>pflug, günther, dr.paniglgasse 24a-1040 wienat<sep>
+</INVENTOR>
+<ABSTRACT>
+in the process, which is used, in particular, in the hot pressing of synthetic resin laminate sheets, a layer containing a thermocurable binder composition and an electroconductive material is formed between an electroconductive, in particular metallic, foil and an electroconductive, sheet-like structure, which may be, in particular, a metallic foil, sheet or metallic grid.  a composite having this layered structure is then hot-pressed between two pressing surfaces, of which at least one has the relief-like texture to be transferred, and cured, the foils and the underlying layered areas having the desired surface structure embossed, and the individual constituents of the composite produced in this way binding with one another due to the curing binder composition to form the crude die, which, as a whole, has good electrical and thermal conductivity.  this crude die is then provided, by electroplating, with a metallic coating, in particular a chromium coating. 
+</ABSTRACT>
+</TEXT>
+</DOC>

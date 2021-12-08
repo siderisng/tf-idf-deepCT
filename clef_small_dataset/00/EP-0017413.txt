@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017413
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02M-57/00 F02M-59/30 <main>F02M-57/02</main> F01L-1/20 F01L-1/24 F02M-59/20 F02M-57/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fuel injection system and timing advance device therefor.
+</TITLE>
+<APPLICANT>
+eaton corpus<sep>eaton corporation<sep>eaton corporation100 erieview plazacleveland ohio 44114us<sep>eaton corporation <sep>
+</APPLICANT>
+<INVENTOR>
+hillebrand george albert<sep>krieg john joseph<sep>hillebrand, george albert<sep>krieg, john joseph<sep>hillebrand, george albert110 holly roadbattle creek michigan 49017us<sep>krieg, john joseph1819 fritz streetmarne michigan 49435us<sep>hillebrand, george albert <sep>krieg, john joseph<sep>hillebrand, george albert110 holly roadbattle creek michigan 49017us<sep>krieg, john joseph1819 fritz streetmarne michigan 49435us<sep>
+</INVENTOR>
+<ABSTRACT>
+a hydraulic advance device for selectively transmitting  applied forces to a fuel injector of an internal combustion  engine.  the device is operative to select a normal or  advanced timing of the fuel injection.  an outer cylindrical  body (66) is mounted in the upper end of a fuel injector  adapter.  an inner body (108) is slidably received in the outer  body (66) and a reaction member (103) and pressure  responsive plunger (117) are slidably received in a bore (110)  formed in the inner body (108).  the plunger (117) and an end  wall (128) of the bore (110) cooperate to define a fluid  chamber (129).  a one-way valve (132) in the chamber (129)  permits fluid above a predetermined pressure applied during  the advanced stage of the fuel injection cycle to enter the  chamber (129) which prevents movement of the plunger  (117), relative to the inner body member (108).  at pressures  below a predetermined value and during the normal phase  of the fuel injection cycle.  the plunger (117) and the reaction  member (103) first move relative to the inner body (108) a  predetermined amount during which time no movement is  transferred to the inner body thus delaying fuel injection  relative to advanced phase fuel injection.  
+</ABSTRACT>
+</TEXT>
+</DOC>

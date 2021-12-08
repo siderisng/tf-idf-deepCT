@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008673
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-9/04 H01L-27/148 H04N-5/335 H04N-3/15 H04N-1/46 H04N-1/04 <main>H04N-9/04</main> H04N-1/48 H04N-9/11 H04N-3/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+colour picture scanning device and method.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+herbst heiner dr<sep>herbst, heiner, dr.<sep>herbst, heiner, dr.am see 2d-8013 haarde<sep>herbst, heiner, dr.<sep>herbst, heiner, dr.am see 2d-8013 haarde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an arrangement for the photoelectric scanning of color images (1) in which the scanning of light beams (16) are evaluated in three or more color filters according to different sensitive low curve. Photoelectric receivers then perform evaluation signals encoded in three color value signals. In such arrangements, the most simple, economical and space-saving structure as well as a large photosensitivity is sought. The invention releases this problem with a CTD image sensor (4) with two adjacent pixels (4a, 4b) aligned on two lines of the color image (1). The pixels of the image sensor (4) are summarized to groups, each of which have their own color filters and readout channels (44 to 47) to be assigned. When reading out, the image information of one line is cached by a line duration. The scope of the invention encompasses in particular color film scanner in which a television screen serves as such as the device.
+</ABSTRACT>
+</TEXT>
+</DOC>

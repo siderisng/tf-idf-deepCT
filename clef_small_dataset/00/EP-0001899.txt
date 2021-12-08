@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001899
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/00 B01J-27/32 C07C-253/10 C07C-120/02 B01J-38/00 B01J-38/42 B01J-27/28 C07C-255/07 C07B-61/00 C07C-67/00 C07C-253/00 <main>B01J-27/32</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reactivation of spent catalysts.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc <sep>
+</APPLICANT>
+<INVENTOR>
+crooks graham robert<sep>crooks, graham robert<sep>crooks, graham robert51 farndale driveguisborough clevelandgb<sep>crooks, graham robert<sep>crooks, graham robert51 farndale driveguisborough clevelandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+spent copper halide hydrocyanation catalysts are reactivated  by treating with hydrogen halide.  the process is particularly  applicable to the hydrocyanation of butadiene to  3-pentenenitrile in the presence of a copper halide catalyst.  
+</ABSTRACT>
+</TEXT>
+</DOC>

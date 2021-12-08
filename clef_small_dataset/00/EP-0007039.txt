@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007039
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-27/00 <main>G02B-27/10</main> G02B-13/00 G02B-5/32 G02B-27/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+holographic head-up display system.
+</TITLE>
+<APPLICANT>
+hughes aircraft cous   <sep>hughes aircraft company<sep>hughes aircraft company7200 hughes terrace, p.o. box 80028los angeles, california 90080-0028us<sep>hughes aircraft company<sep>
+</APPLICANT>
+<INVENTOR>
+cook lacy g<sep>jones helene h<sep>withrington roger j<sep>cook, lacy g.<sep>jones, helene h.<sep>withrington, roger j.<sep>cook, lacy g.12444 oxford avenuehawthorne, californiaus<sep>jones, helene h.3756 bentley avenuelos angeles, californiaus<sep>withrington, roger j.2311 midvalelos angeles, californiaus<sep>cook, lacy g.  <sep>jones, helene h.<sep>withrington, roger j.<sep>cook, lacy g.12444 oxford avenuehawthorne, californiaus<sep>jones, helene h.3756 bentley avenuelos angeles, californiaus<sep>withrington, roger j.2311 midvalelos angeles, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+there is disclosed an integrated optical design of head-up  displays suitable for use in aircraft cockpits and the like.  the  display system is comprised of a holographic optical element  (11) used as the combiner for presenting a direct view of the  exterior on which are superimposed image signals generated  by a source device (51) such as a cathode ray tube (12) and  transmitted to the combiner through an optical system (10)  including a relay lens containing tilted and decentered optical  elements to compensate for the aberration present in the  holographic optical element (11).  there are further disclosed  four relay lens design forms particularly suited for use in the  design of such holographic head-up displays.  the disclosure  includes integrated designs in which (a) the holographic ele­ ment (11) may or may not be constructed with aberrated  wavefront and (b) a beam splitter is incorporated for insertion  of a stand-by sight, possibly also being tilted for the correction  of aberrations.  
+</ABSTRACT>
+</TEXT>
+</DOC>

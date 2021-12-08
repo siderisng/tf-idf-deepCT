@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006388
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-66/02 F16D-66/00 <main>F16D-66/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+drum-brake wear indicator.
+</TITLE>
+<APPLICANT>
+dba safr <sep>societe anonyme d.b.a.<sep>societe anonyme d.b.a. centre paris pleyel f-93521 st-denis cédex 01fr<sep>societe anonyme d.b.a.<sep>
+</APPLICANT>
+<INVENTOR>
+carre jean-jacques<sep>volan gerard<sep>carre, jean-jacques<sep>volan, gerard<sep>carré, jean-jacques100 avenue du président wilsonf-93110 montreuilfr<sep>volan, gérard1 rue de bretagnef-78140 velizyfr<sep>carre, jean-jacques <sep>volan, gerard<sep>carré, jean-jacques 100 avenue du président wilson f-93110 montreuil fr<sep>volan, gérard1 rue de bretagnef-78140 velizyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Gamatt wear indicator for drum brake segment.After wear of his head (24) by the drum, when the packing (14) is worn, the plunger (22) carried by the rim (10) shall touch a contact (48) carried by the cealing plate (10) of the brakeand close the alarm circuit (52-54).
+</ABSTRACT>
+</TEXT>
+</DOC>

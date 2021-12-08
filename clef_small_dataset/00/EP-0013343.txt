@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013343
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-27/22 H04B-1/76 <main>H04L-25/03</main> H04L-7/027 H04L-25/03 H04B-3/04 H04L-27/38 H04L-7/10 H04B-1/00 H04L-7/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device to detect a pseudo-random sequence of 0 degree and 180 degree phase changes of the carrier in a data receiver.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+bigo firmin<sep>caron francois<sep>bigo, firmin<sep>caron, francois<sep>bigo, firminvilla "la passacaille"f-06610 la gaudefr<sep>caron, françoisvilla 21 domaine de la quiétude chemin caucoursf-06800 cagnes/merfr<sep>bigo, firmin<sep>caron, francois<sep>bigo, firminvilla "la passacaille"f-06610 la gaudefr<sep>caron, françoisvilla 21 domaine de la quiétude chemin caucoursf-06800 cagnes/merfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A method for detecting a pseudo-random sequence of phase changes of 0 ° and 180 ° of the FC carrier in a quadrature dual-band-carrier-carrier modulation system in which this sequence is preceded by a phase reversal sequence ofThe carrier.The filters 40 and 41 extract the components to F₁ = FC-1 / 2T and F₂ = FC + 1 / 2T of the received signal;1 / T being the signaling rate.The measurement of the energy of a signal S at the frequency 1 / T generated from said components, or the amplitude of the prop posing in phase phase makes it possible to determine the beginning of the pseudo-random sequence.- Application for the detection of the equalizer initialization sequence recommended by the CCITT V27 opinions.
+</ABSTRACT>
+</TEXT>
+</DOC>

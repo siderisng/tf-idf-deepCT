@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017688
+</DOCNO>
+<TEXT>
+<DATE>
+19801029
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/24 H03M-7/00 G11C-11/408 G11C-8/00 <main>G11C-8/00</main> G11C-11/418 G11C-8/10 G11C-11/413 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monolithic integrated circuit.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.vincent j. rauner 4350 e. camelback road suite 200fphoenix, arizona 85018us<sep>motorola, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+moench jerry dale<sep>moench, jerry dale<sep>moench, jerry dale11305 spicewood parkwayaustin, texas 78750us<sep>moench, jerry dale<sep>moench, jerry dale11305 spicewood parkwayaustin, texas 78750us<sep>
+</INVENTOR>
+<ABSTRACT>
+a quiet column decoder is provided which is useful  in semiconductor memory systems.  the quiet column de­ coder prevents glitches from being coupled into the silicon  substrate during the period of time that the sense ampli­ fiers (19) are sensing data on the bit sense lines (17, 18).   the quiet column decoder has double clocked nor gates  (25) which allows the address lines (13) to be continuous  nonmultiplexed lines.  the double clocked nor gate (25)  has two transistors (26, 33) for precharging a first (27)  and a second (34) node within the nor gate.  another  transistor (37) is coupled between the second node (34)  and a voltage reference terminal (36) to serve as an en­ abling device for the nor gate (25).  the first node of the  nor gate serves as an output for the column decoder.  
+</ABSTRACT>
+</TEXT>
+</DOC>

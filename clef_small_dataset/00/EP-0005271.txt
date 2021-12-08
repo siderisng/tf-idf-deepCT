@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005271
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/53 C12Q-1/42 G01N-33/538 G01N-33/536 G01N-33/537 G01N-33/535 C12Q-1/32 C12Q-1/533 C12Q-1/28 G01N-33/543 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and kit for enzyme immunoassay of biological substances
+</TITLE>
+<APPLICANT>
+wellcome found gb<sep>the±wellcome foundation limited  <sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb<sep>
+</APPLICANT>
+<INVENTOR>
+cuatrecasas pedrous<sep>parikh induus<sep>cuatrecasas, pedro<sep>parikh, indu<sep>cuatrecasas, pedro626 kensington drivechapel hill north carolina 27514us<sep>parikh, indu2558 booker creek roadchapel hill north carolina 27514us<sep>
+</INVENTOR>
+<ABSTRACT>
+a sample, e. g.  serum, containing an antigen, hapten or  other biological substance is mixed with antibodies raised  against that substance which have been tagged with biotin,  and with a known amount of that substance labelled with  an enzyme.  after the competitive complexation of the antibody  with the labelled substance and the substance to be  detected, avidin, immobilised on an inert support is added.   the avidin binds to the biotin and causes the complex to  be precipitated.  the solid and liquid phases are separated  by centrifugation and the amount of biological substance  in the original sample is determined by measuring the  activity of the enzyme in either phase.  
+</ABSTRACT>
+</TEXT>
+</DOC>

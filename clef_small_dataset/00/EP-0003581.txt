@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003581
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03C-5/54</main> G03C-8/02 C07D-275/04 C09B-29/00 G03C-7/00 C09B-29/36 G03C-8/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic colour diffusion transfer process.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+marx paul dr<sep>puschel walter dr<sep>vetter hans dr<sep>marx, paul, dr.<sep>puschel, walter, dr.<sep>vetter, hans,dr.<sep>marx, paul, dr.nauener strasse 25d-5090 leverkusen 1de<sep>püschel, walter, dr.berta-von-suttner-strasse 54d-5090 leverkusen 1de<sep>vetter, hans,dr.gerstenkamp 19d-5000 köln 80de<sep>marx, paul, dr. <sep>puschel, walter, dr.  <sep>vetter, hans,dr.<sep>marx, paul, dr.nauener strasse 25d-5090 leverkusen 1de<sep>püschel, walter, dr.berta-von-suttner-strasse 54d-5090 leverkusen 1de<sep>vetter, hans,dr.gerstenkamp 19d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+For the production of blue-green and purple images according to the dye diffusion transmission method, coloring compounds of the formula I are particularly well suited wherein A is a single-layered carrier residue with a diffusion-proofing residue of oxidizable carrier residue, n 0 or 1, p a monocyclic aromatic residue, M hydrogen, halogen, alkylsulfonyl, arylsulfonyl orSulfamoyl, q acylamino, R¹ is hydrogen or a hydrolyzable residue, R² alkyl (C₁-C₁₈) or aryl.
+</ABSTRACT>
+</TEXT>
+</DOC>

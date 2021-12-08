@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014987
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-29/62 F15C-4/00 B01D-46/00 B01D-29/66 B01D-29/44 B01D-46/04 B01D-46/44 B01D-29/46 <main>B01D-46/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+filter control apparatus provided with pneumatic valves for cyclic reverse flow cleaning of filter bags in a grain mill.
+</TITLE>
+<APPLICANT>
+buehler ag gebch<sep>gebruder buhler ag<sep>gebrüder bühler agch-9240 uzwilch<sep>gebruder buhler ag<sep>
+</APPLICANT>
+<INVENTOR>
+gaemperle herman<sep>kummer emanuel<sep>oetiker hans<sep>rusterholz kurt<sep>gaemperle, herman<sep>kummer, emanuel<sep>oetiker, hans<sep>rusterholz, kurt<sep>gaemperle, hermanunterweg 3ch-9552 bronschhofench<sep>kummer, emanuelbachstrasse 40ch-9202 gossauch<sep>oetiker, hanssahlistrasse 4ch-9000 st. gallench<sep>rusterholz, kurtobersee 78ch-8645 jonach<sep>gaemperle, herman<sep>kummer, emanuel  <sep>oetiker, hans <sep>rusterholz, kurt<sep>gaemperle, hermanunterweg 3ch-9552 bronschhofench<sep>kummer, emanuelbachstrasse 40ch-9202 gossauch<sep>oetiker, hanssahlistrasse 4ch-9000 st. gallench<sep>rusterholz, kurtobersee 78ch-8645 jonach<sep>
+</INVENTOR>
+<ABSTRACT>
+in a method and a system for cyclic counterbugging of filter hoses in which the filter hoses (4, 4 ') individually associated membrane valves (40, 41, 42, 43, 40', 41 ', 42', 43 ') of a valve group is cyclically become, the controllability of the actuating cycle is improved by electronically predetermined by an electronic control unit (2) from the actuating cycle independent clock signals to the actuating cycle and fluidic control signals are derived from the electronic clock signals by means of fluid control means (1) for controlling the control variables of the membrane valves. The independence of the clock signals from the operating cycle has the advantage that a plurality of control variables which determine cyclic operation of the membrane valves are controllable independently. To produce the electronic clock signals, only extremely low external energy, in the form of electricity, is needed. Those working elements needing the main energy, namely the membrane valves (40, 41, 42, 43, 40 ', 41', 42 ', 43') are operated via fluid control signals or fluid control means (1). For this purpose, the compressed air present in the mill in the mill is suitable for the fluidic control means (1) preferably have a drum distributor (2) driven by a stepping motor or formed as such.
+</ABSTRACT>
+</TEXT>
+</DOC>

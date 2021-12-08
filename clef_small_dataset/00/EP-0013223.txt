@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013223
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-1/04 <main>H04B-1/04</main> H01P-1/212 H01P-1/211 H01P-1/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+harmonics filtration device for a radio transmitter.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+ursenbach francois<sep>ursenbach, francois<sep>ursenbach, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>ursenbach, francois  <sep>ursenbach, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Harmonic filtering device intended to be inserted into the high frequency line connecting a radiation fusion transmitter to its load.The harmonic filtering device comprises at least one cell (L, C, R) in parallel on the line;This cell consists of an anti-control circuit (at the transmitting frequency of the transmitter) in series with a resistance (R) whose value is of the order of the twentieth of the characteristic impedance of the line.This cell is made from four coaxial conductors inside which elements reported (short circuits, capacitor, load) create an inductance, capacitance and resistance.The tANCE resis of this cell has no effect at the transmitting frequency of the transmitter and creates isolation between the load and the emitter for the harmonic frequencies.application to large and very high power transmitters.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000978
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-417/06 C07D-409/06 C07D-409/04 C07D-417/00 <main>C07D-337/14</main> C07D-337/14 A61K-31/38 C07D-409/00 C07D-337/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+7-and 8-substituted -10,11-dihydro-11-oxodibenzo (b,f) thiepin derivatives, their production and their parmaceutical compositions.
+</TITLE>
+<APPLICANT>
+merck & co incus <sep>merck & co. inc.<sep>merck &amp; co., inc. 126, east lincoln avenue p.o. box 2000 rahway new jersey 07065-0900us<sep>merck & co. inc.<sep>
+</APPLICANT>
+<INVENTOR>
+cragoe edward jethro<sep>rokach joshua<sep>rooney clarence stanley<sep>cragoe, edward jethro<sep>rokach, joshua<sep>rooney, clarence stanley<sep>cragoe, edward jethro2211 oak terrace drivelandsdale pennsylvania 19446us<sep>rokach, joshua416 canterbury placechomedey-laval quebecca<sep>rooney, clarence stanley2902 hickory hill driveworcester pennsylvania 19440us<sep>cragoe, edward jethro<sep>rokach, joshua<sep>rooney, clarence stanley<sep>cragoe, edward jethro2211 oak terrace drivelandsdale pennsylvania 19446us<sep>rokach, joshua416 canterbury placechomedey-laval quebecca<sep>rooney, clarence stanley2902 hickory hill driveworcester pennsylvania 19440us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides 7- und 8-r-dibenzo[b,f]thiepin  derivatives of formula:    in which n is 0 or an integer from 1 to 4; z is thio, sulfinyl,  or sulfonyl; r is hydrogen, halogen, amino, c₁₋₄ alkyl,  c₁₋₄ alkanoyl, hydroxyl, c₁₋₄ alkoxy, mercapto, c₁₋₄ alkylthio,  c₁₋₄ alkylsulfinyl, c₁₋₄ alkylsulfonyl, trifluormethyl, trifluoromethylthio,  cyano, carboxy, nitro, c₁₋₄ alkylamino or  di(c₁₋₄ alkyl)amino; a is 5-tetrazolyl, 3-hydroxy-1,2,5-thiadiazol-4-yl,4-hydroxy-2,5-dioxo-  ³-pyrrolin-3-yl or    --r₂   where r₂ is hydroxy, c₁₋₄ alkoxy n,n-di (c₁₋₄ alkyl)-amino-(c₁₋₄ alkoxy),  c₁₋₄ hydroxyalkoxy, carboxy-(c₁₋₄  alkoxy), amino, c₁₋₄ alkylamino, di(c₁₋₄alkyl)amino, c₁₋₄  alkylsulfonylamino, carboxy(c₁₋₄ alkyl)amino, carbamoyl-(c₁₋₄ alkyl)amino  or 2-imino-3-methylthiazolidine with the  proviso that r₂ is not hydroxy when n is o und r is hydrogen;  and the pharmaceutically acceptable salts thereof.  these  compounds can be used in the treatment and control of  allergic conditions such as allergic asthma and pharmaceutical  compositions containing the compounds and methods  of making the compounds are also provided.  
+</ABSTRACT>
+</TEXT>
+</DOC>

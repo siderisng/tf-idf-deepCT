@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001127
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/103 A61B-9/00 G01N-3/00 G01N-3/32 A61B-5/00 G01H-13/00 A61B-10/00 <main>A61B-5/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus comprising a generator for mechanical vibrations of adjustable frequenz and a receptor of vibrations for determining the natural frequency of blood vessels or tendons in a live body.
+</TITLE>
+<APPLICANT>
+industrie automation gmbh & code<sep>industrie-automation gmbh & co.<sep>industrie-automation gmbh &amp; co.schlosswolfsbrunnenweg 35d-6900 heidelbergde<sep>industrie-automation gmbh & co. <sep>
+</APPLICANT>
+<INVENTOR>
+hubmann max dr med<sep>lang erich prof dr med<sep>menke franz<sep>hubmann, max, dr. med.<sep>lang, erich, prof. dr. med.<sep>menke, franz<sep>hubmann, max, dr. med.rathsbergerstrasse 24d-8520 erlangende<sep>lang, erich, prof. dr. med.am veilchenberg 8d-8521 spardorfde<sep>menke, franzam mühlrain 34d-6903 neckargemündde<sep>hubmann, max, dr. med. <sep>lang, erich, prof. dr. med.<sep>menke, franz<sep>hubmann, max, dr. med.rathsbergerstrasse 24d-8520 erlangende<sep>lang, erich, prof. dr. med.am veilchenberg 8d-8521 spardorfde<sep>menke, franzam mühlrain 34d-6903 neckargemündde<sep>
+</INVENTOR>
+<ABSTRACT>
+The device for determining the mechanical rear frequency of blood vessels, tendons, bones or similar organs in bodies (15) consists of a donor (7.8) for mechanical vibrations of variable frequency and a vibration sensor (11). The encoder (7,8) for mechanical vibrations has transmission means for transmitting the mechanical vibrations from the encoder (7.8) to the body (15) containing the organ to be examined. By means of a second transfer agent (4), the vibrations aroused in the organ are transferred from the surface of the body (15) to the oscillation sensor (11). Both transfer means (3,4) are mechanically decoupled within a support tube (2), which can be placed on the body (15). They have a defined distance (D) on the mouth of the support tube (2). At its other end, the support tube (2) is rigidly connected to a frame (1) in which the encoder (7,8) for mechanical vibrations and the vibration sensor (11) are mutually decoupled.
+</ABSTRACT>
+</TEXT>
+</DOC>

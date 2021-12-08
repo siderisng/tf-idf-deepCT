@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013898
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-37/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control valve.
+</TITLE>
+<APPLICANT>
+sasserath & co kg hde<sep>hans sasserath & co kg<sep>hans sasserath &amp; co kgmühlenstrasse 100d-41352 korschenbroichde<sep>
+</APPLICANT>
+<INVENTOR>
+hecking willide<sep>hecking, willi<sep>hecking, williandreasstrasse 21d-4050 mönchengladbach 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+in a control valve having a valve adjusting element (32), controlled in accordance with a control variable, it is intended to be possible to monitor the movement of this valve adjusting element (32) from the exterior, in order to determine whether the valve is open or not.  for this purpose an indicating element (50), coupled to the valve adjusting element (32), is arranged inside the valve housing (30).  this indicating element (50) is visible through a transparent part (48) of the valve housing (30) and indicates the opening state of the valve.  the indicating element (50) allows the control valve to be set easily.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

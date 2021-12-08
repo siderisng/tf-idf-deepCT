@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000051
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-315/04 C07C-323/41 C07C-233/88 C07C-231/00 A01N-37/18 C07C-303/00 A01N-37/22 C07C-255/60 C07C-317/40 C07C-311/46 C07C-317/50 C07C-323/65 C07C-323/63 A01N-37/44 C07C-315/00 C07C-231/02 A01N-37/26 C07C-311/00 A01N-41/00 C07C-67/00 C07C-301/00 A01N-37/46 A01N-41/06 A01N-41/10 <main>C07C-103/42</main> C07C-233/47 C07C-317/00 C07C-253/00 C07C-255/00 C07C-313/00 C07C-323/67 C07C-303/40 C07C-323/00 C07C-233/00 C07C-317/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-acylmethyl-chloroacetanilides, process for their preparation and their use as herbicides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+eue ludwig dr<sep>regel erik ing grad<sep>schmidt robert rudolf dr<sep>eue, ludwig, dr.<sep>regel, erik, ing.-(grad)<sep>schmidt, robert rudolf, dr.<sep>eue, ludwig, dr.paul-klee-strasse 36d-5090 leverkusen 1de<sep>regel, erik, ing.-(grad)bergerheide 72ad-5600 wuppertal 1de<sep>schmidt, robert rudolf, dr.hahnenweg 5d-5000 köln 80de<sep>eue, ludwig, dr.<sep>regel, erik, ing.-(grad)<sep>schmidt, robert rudolf, dr.<sep>eue, ludwig, dr.paul-klee-strasse 36d-5090 leverkusen 1de<sep>regel, erik, ing.-(grad)bergerheide 72ad-5600 wuppertal 1de<sep>schmidt, robert rudolf, dr.hahnenweg 5d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  n-alcylmethyl-chloroacetanilides of the formula  see diagramm : ep0000051,p12,f1  in which r represents alkyl, halogen, halogenoalkyl, alkylthio, alkylsulphonyl, aminosulphonyl, cyano or nitro, r**1 and r**2 are identical or different and represent hydrogen, alkyl, halogen, halogenoalkyl or optionally substituted phenyl, r**3 represents alkyl or optionally substituted phenyl and n represents integers from 0 to 5. 
+</ABSTRACT>
+</TEXT>
+</DOC>

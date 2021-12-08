@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016436
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-48/02 F16D-48/00 F16K-31/06 <main>F15B-13/044</main> G05D-16/20 F15B-13/00 F15B-13/04 F15B-13/044 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+servo valve.
+</TITLE>
+<APPLICANT>
+renaultfr<sep>regie nationale des usines renault<sep>regie nationale des usines renaultboíte postale 103 8-10 avenue emile zolaf-92109 boulogne-billancourtfr<sep>regie nationale des usines renault<sep>
+</APPLICANT>
+<INVENTOR>
+berthou claude<sep>bouvet jean-marie<sep>jallas michel<sep>berthou, claude<sep>bouvet, jean-marie<sep>jallas, michel<sep>berthou, claude3, boulevard beaumarchaisf-78330 fontenay le fleuryfr<sep>bouvet, jean-marie133, rue de sillyf-92100 boulogne billancourtfr<sep>jallas, michelrue du docteur debatf-92380 garchesfr<sep>berthou, claude<sep>bouvet, jean-marie  <sep>jallas, michel <sep>berthou, claude3, boulevard beaumarchaisf-78330 fontenay le fleuryfr<sep>bouvet, jean-marie133, rue de sillyf-92100 boulogne billancourtfr<sep>jallas, michelrue du docteur debatf-92380 garchesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is to use a distributor drawer actuated by a plunger electromagnet and to use the distributed presenter to hydraulically repel the drawer and the diver with strangles to cushion the oscillations.Using slightly different sections for the plunger and the drawer is carried out a retro-action loop of the distributed pressure on the position of the drawer, and also using a polarized type electro-plunger powered by a current current intensity.negative value to positive values, the capa cited of regulation is double.Finally, to avoid the hysteresis of the pressure curves as a function of the current, the electromagnet can be powered by a pulsed current or alternative to component continuously.Application to controls of automatic speed boxes.
+</ABSTRACT>
+</TEXT>
+</DOC>

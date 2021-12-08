@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013703
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-7/00 F16K-11/16 F16K-7/06 F16K-11/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+valve.
+</TITLE>
+<APPLICANT>
+siemens agde <sep>siemens aktiengesellschaft <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+mair eduardde<sep>zoeke siegfriedde<sep>mair, eduard<sep>zoeke, siegfried<sep>mair, eduardallgäuerstrasse 79/iid-8000 münchen 71de<sep>zoeke, siegfriedbalanstrasse 77d-8000 münchen 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+an elastic hosepiece (s1 or s2) is inserted in a line (l1 or l2).  a device (er) having a roller (rl) is provided which presses the roller against the hosepiece (s1 or s2) and hence changes the internal cross- section of the hosepiece down to zero.  in this manner, a flow passing through the line with the hosepiece can be interrupted.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

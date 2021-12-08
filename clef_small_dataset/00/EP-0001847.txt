@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001847
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/00 C07C-69/025 C07C-255/19 C07C-69/74 A01N-37/34 C07C-69/00 C07C-61/04 C07C-61/00 <main>C07C-121/407</main> C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of alkenyl cyanoacetates.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+syrier johannes leopold marie<sep>syrier, johannes leopold marie<sep>syrier, johannes leopold mariebadhuisweg 3nl-1031 cm amsterdamnl<sep>syrier, johannes leopold marie<sep>syrier, johannes leopold mariebadhuisweg 3nl-1031 cm amsterdamnl<sep>
+</INVENTOR>
+<ABSTRACT>
+process for the preparation of a cyanoacetate having the  following general formula:    wherein each of the symbols r¹ and r² represents an alkyl  group or a cycloalkyl group, by contacting cyanoacetic acid  with an alkenyl halide of the general formula:    wherein r¹ and r² have the same meaning as defined  hereinbefore and hal represents a halogen atom having an  atomic number of at least 17, in the presence of a hydrogen-halide  acceptor and a substantially inert organic solvent.  the  compounds of formula (i) are intermediates having uses in the  manufacture of pyrethroid insecticides and other compounds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001981
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07H-17/08 A61P-31/00 A61K-31/70 C07H-17/00 <main>C07H-17/08</main> A61K-31/7048 A61K-31/7042 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+9-(omega-heteroarylamino-alkylamino)-erythromycins, their salts, processes for their preparation and medicaments containing them.
+</TITLE>
+<APPLICANT>
+thomae gmbh dr kde<sep>dr. karl thomae gmbh<sep>dr. karl thomae gmbhbirkendorferstrasse 65d-88397 biberachde<sep>dr. karl thomae gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+goeth hans dr<sep>lechner uwe dr<sep>maier roland dr dipl-chem <sep>reuter wolfgang dr dipl-chem <sep>werner rolf g dr<sep>wetzel bernd dr dipl-chem<sep>woitun eberhard dr dipl-chem<sep>goeth, hans, dr.<sep>lechner, uwe, dr.<sep>maier, roland, dr. dipl.-chem.<sep>reuter, wolfgang, dr. dipl.-chem.<sep>werner, rolf g., dr.<sep>wetzel, bernd, dr. dipl.-chem.<sep>woitun, eberhard, dr. dipl.-chem.<sep>goeth, hans, dr.oberer bühl 6d-7950 biberach 1de<sep>lechner, uwe, dr.panoramastrasse 12d-7951 ummendorfde<sep>maier, roland, dr. dipl.-chem.eichendorffweg 36d-7950 biberach 1de<sep>reuter, wolfgang, dr. dipl.-chem.d-7951 laupertshausen 139de<sep>werner, rolf g., dr.blumenstrasse 19d-7950 biberach 18de<sep>wetzel, bernd, dr. dipl.-chem.kapellenweg 21d-7950 biberach 1de<sep>woitun, eberhard, dr. dipl.-chem.stecherweg 17d-7950 biberach 1de<sep>goeth, hans, dr.<sep>lechner, uwe, dr.<sep>maier, roland, dr. dipl.-chem.<sep>reuter, wolfgang, dr. dipl.-chem.<sep>werner, rolf g., dr.<sep>wetzel, bernd, dr. dipl.-chem.<sep>woitun, eberhard, dr. dipl.-chem. <sep>goeth, hans, dr.oberer bühl 6d-7950 biberach 1 de   <sep>lechner, uwe, dr.panoramastrasse 12d-7951 ummendorfde<sep>maier, roland, dr. dipl.-chem.eichendorffweg 36d-7950 biberach 1de<sep>reuter, wolfgang, dr. dipl.-chem.d-7951 laupertshausen 139de<sep>werner, rolf g., dr.blumenstrasse 19d-7950 biberach 18de<sep>wetzel, bernd, dr. dipl.-chem.kapellenweg 21d-7950 biberach 1de<sep>woitun, eberhard, dr. dipl.-chem.stecherweg 17d-7950 biberach 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Neue 9- (ω-heteroarylamino-alkylamino) -erythromycins of the formula R-NH (CH₂) N-NH-E (I) whose pharmacologically acceptable acid addition salts with inorganic or organic surfaces, methods for producing these compounds, the use of theConnections and these compounds-containing medicines are described.In the above general formula (I), E means the erythromycyl group, N the numbers 2 or 3 and R certain aromatic heterocycles, such as a likewise substituted 2-pyrimidinyl group, 2-quinazolinyl group or heterocyclic condensed pyrimidinyl group.The compounds of formula I and their salts are strongly effective against gram-positive and gram-negative bacteria;The medicines containing these compounds are broadband antibiotics.
+</ABSTRACT>
+</TEXT>
+</DOC>

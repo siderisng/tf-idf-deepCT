@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003200
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/44 C07D-401/04 A61P-25/00 A61P-25/24 A61P-25/20 A61P-25/26 A61K-31/4427 A61K-31/445 C07D-401/00 <main>A61K-31/445</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tetrahydropyridinyl indole derivatives and their salts for use in a method for therapeutic treatment of the human or animal body and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+roussel uclaf fr <sep>roussel-uclaf<sep>roussel-uclaf102, route de noisy boíte postale no.993230 romainvillefr<sep>roussel-uclaf<sep>
+</APPLICANT>
+<INVENTOR>
+dumont claude<sep>guilleaume jacques<sep>nedelec lucien<sep>dumont, claude<sep>guilleaume, jacques<sep>nedelec, lucien 45<sep>dumont, claude33, rue du maréchal vaillantf-94130 nogent-sur-marnefr<sep>guillaume, jacques11, allée hélène boucherf-93270 sevranfr<sep>nedelec, lucien45, boulevard de l'ouestf-93340 le raincyfr<sep>dumont, claude<sep>guillaume, jacques <sep>nedelec, lucien  <sep>dumont, claude33, rue du maréchal vaillantf-94130 nogent-sur-marnefr<sep>guillaume, jacques11, allée hélène boucherf-93270 sevranfr<sep>nedelec, lucien45, boulevard de l'ouestf-93340 le raincyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the application, as drugs, derivatives of tetrahydro pyridinyl indole and the pharmaceutical compositions containing them.The drugs are constituted by the derivatives responding to the formula: wherein R is a hydrogen or a methoxy, R₁ and R₂ represent a hydrogen or methyl as well as by the addition salts with the pharmaceutically acceptable acids, and have antidepressive properties., neuroleptic and antiemetics.
+</ABSTRACT>
+</TEXT>
+</DOC>

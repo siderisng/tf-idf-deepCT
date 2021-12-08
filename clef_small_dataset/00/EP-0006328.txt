@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006328
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/28 G06F-11/00 H03K-19/003 <main>G06F-11/16</main> G06F-11/18 G06F-11/07 G06F-11/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system using integrated circuit chips with provision for error detection.
+</TITLE>
+<APPLICANT>
+sperry rand corpus<sep>sperry rand corporation<sep>sperry corporation1290, avenue of the americasnew york, n.y. 10019us<sep>sperry corporation<sep>sperry corporation <sep>
+</APPLICANT>
+<INVENTOR>
+liebergot harris louis<sep>sedmak richard milan<sep>liebergot, harris louis<sep>sedmak, richard milan<sep>liebergot, harris louis4040 fairway roadlafayette hill pennsylvania 19444us<sep>sedmak, richard milan6 lindenwold terraceambler pennsylvania 19002us<sep>liebergot, harris louis<sep>sedmak, richard milan<sep>liebergot, harris louis <sep>sedmak, richard milan<sep>liebergot, harris louis4040 fairway roadlafayette hill pennsylvania 19444us<sep>sedmak, richard milan6 lindenwold terraceambler pennsylvania 19002us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to integrated circuit chips and  systems using integrated circuit chips with provision for  error detection.  integrated circuit chips may contain an  extremely large number of logic elements, but the logic  can be accessed only through a limited number of input/­ output pins.  this makes the testing of the components of  the logic circuits impossibly difficult or impossibly expen­ sive in the case of very large scale integrated circuit chips.   the invention is concerned with the detection and location  of errors arising within chips and their various supplies  and interconnections.  an integrated circuit chip according  to the invention has first and second data processing chains  (11, 12) having corresponding intermediate outputs along  their length which are compared by comparators; the logic  chains may be duplicate or one may be complementary  with respect to the other.  further checking circuits may be  provided for the input signals, clock signals and power  supplies.  the error outputs from the comparators (41 . . .  44,  21, 23, 31, 34) may be applied as inputs to an error encoding  circuit (28) which generates encoded signals indicating the  sources of error within the chip.  further, in a system com­ prising a plurality of chips with interconnecting means,  one chip (54) may be an error handling chip, receiving  as its data inputs the error signals from the other chips  and being arranged to generate at its output an encoded  signal indicating the location of the error within the system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

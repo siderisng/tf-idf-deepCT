@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011122
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-33/70 H01H-33/88 <main>H01H-1/06</main> H01H-33/91 H01H-33/18 H01H-33/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+contacting arrangement for compressed-gas circuit breakers.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+hess rudiger dr rer nat<sep>marin heiner<sep>hess, rudiger, dr. rer. nat.<sep>marin, heiner<sep>hess, rüdiger, dr. rer. nat.benediktinerstrasse 87ad-1000 berlin 28de<sep>marin, heinerzikadenweg 28d-1000 berlin 19de<sep>hess, rudiger, dr. rer. nat.  <sep>marin, heiner<sep>hess, rüdiger, dr. rer. nat.benediktinerstrasse 87ad-1000 berlin 28de<sep>marin, heinerzikadenweg 28d-1000 berlin 19de<sep>
+</INVENTOR>
+<ABSTRACT>
+Contact arrangement for compressed gas switches, in particular blowing piston switches, which expose the arc drawn during an off-handed light bend of both a compressed gas site and a magnetic force extending the arc.To increase the switch-off power, in particular improvement of the arc gaseous during the switch-off process, a tubular component (11) of ferromagnetic material is incorporated into the interior of the shift gases leading tubular contact piece (1,2), the inner lateral surface (12) for improvementThe gas flow is conical and adapted to the contour of a nozzle body (3, 4) arranged on the end face (3a, 4a) of the tubular contact piece (1,2).
+</ABSTRACT>
+</TEXT>
+</DOC>

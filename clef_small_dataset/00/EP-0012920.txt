@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012920
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-17/49 H01J-29/32 <main>H01J-9/227</main> H01J-17/04 H01J-29/24 H01J-29/18 H01J-9/227 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+luminescent screen for picture display tubes and method of its manufacture.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+kobale manfred dr phil<sep>lorenz hans peter dr rer nat<sep>weingand kaspar dr rer nat<sep>wengert rolf dr rer nat<sep>kobale, manfred, dr. phil.<sep>lorenz, hans peter, dr. rer. nat.<sep>weingand, kaspar, dr. rer. nat.<sep>wengert, rolf, dr. rer. nat.<sep>kobale, manfred, dr. phil.lärchenstrasse 11ad-8011 faistenhaarde<sep>lorenz, hans peter, dr. rer. nat.hubertusstrasse 13d-8501 schwarzenbruckde<sep>weingand, kaspar, dr. rer. nat.mooshölzlweg 1d-8184 gmundde<sep>wengert, rolf, dr. rer. nat.endelhauserstrasse 9d-8000 münchen 21de<sep>kobale, manfred, dr. phil. <sep>lorenz, hans peter, dr. rer. nat.<sep>weingand, kaspar, dr. rer. nat.  <sep>wengert, rolf, dr. rer. nat. <sep>kobale, manfred, dr. phil.lärchenstrasse 11ad-8011 faistenhaarde<sep>lorenz, hans peter, dr. rer. nat.hubertusstrasse 13d-8501 schwarzenbruckde<sep>weingand, kaspar, dr. rer. nat.mooshölzlweg 1d-8184 gmundde<sep>wengert, rolf, dr. rer. nat.endelhauserstrasse 9d-8000 münchen 21de<sep>
+</INVENTOR>
+<ABSTRACT>
+In the case of a luminous screen for particular flat picture devices, it is proposed to use on the screen glasses side depressions (2) in the luminous point grid and the phosphor (5) not only on the soils of the recesses (2), but to increase the luminous efficacy also on the dying to apply.A contrast margin layer (3) serves as an etching mask for the recesses (2) and as a mask for spraying the phosphor (5).
+</ABSTRACT>
+</TEXT>
+</DOC>

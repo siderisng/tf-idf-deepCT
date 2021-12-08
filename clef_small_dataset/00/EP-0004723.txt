@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004723
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/86 C07D-233/32 A61K-31/4166 A61K-31/4164 A61P-43/00 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+deoxyhydantoins, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>
+</APPLICANT>
+<INVENTOR>
+wootton gordongb<sep>wootton, gordon<sep>wootton, gordon51 park waysawbridgeworth hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula (i):    wherein:   y is -ch₂ch₂-, -ch=ch- or -c=c-   n is 1 to 5;   r₁ is hydrogen, or co₂ r₁ represents an ester group in which  the r₁ moiety contains from 1 to 12 carbon atoms;   r₂ is hydrogen, c₁₋₄ alkyl, trifluoromethyl, or phenyl;   r₃ is hydroxy or protected hydroxy;   r₅ is hydrogen, c₁₋₆ alkyl, phenyl or phenyl c₁₋₆ alkyl, any of  which phenyl moieties may be substituted by one or more  halogen, trifluoromethyl, c₁₋₆ alkyl, c₁₋₆ alkoxy or nitro  groups; and   x is ch₂ and   r₄ is c₁₋₉ alkyl, c₃₋₈ cycloalkyl-c₁₋₆ alkyl, phenyl-c₁₋₆ alkyl or  naphthyl-c₁₋₆ alkyl, any of which groups may have one  acyclic carbon-carbon bond interrupted by an oxygen atom;  hydrogen, c₃₋₈ cycloalkyl, phenyl or naphthyl, any of which  phenyl of naphthyl moieties in r₄ may be substituted by one  or more halogen, trifluoromethyl, c₁₋₆ alkyl, hydroxy, c₁₋₆  alkoxy or nitro groups; or r₂ and r₄ taken with the carbon  atom to which they are joined represent a c₅₋₈ cycloalkyl  group; or   x is cs and   r₄ is c₁₋₉ alkyl, c₃₋₈ cycloalkyl-c₁₋₆ alkyl, phenyl-c₁₋₆ alkyl or  naphthyl-c₁₋₆ alkyl, having one acyclic carbon-carbon bond  interrupted by an oxygen atom, and in which any phenyl or  naphthyl moieties may be substituted by one or more  halogen, trifluoromethyl, c₁₋₆ alkyl, hydroxy, c₁₋₆ alkoxy or  nitro groups; and salts thereof; having similar pharmacological  activity to natural prostaglandins, processes for their  preparation, intermediates useful in those processes and  pharmaceutical compositions containing compounds of the  formula (i).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002965
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-307/54 C07D-333/24 C07D-307/46 C07D-333/00 C07D-333/38 <main>C07D-333/24</main> C07D-307/68 C07D-307/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for recovering acid chlorides.
+</TITLE>
+<APPLICANT>
+stauffer chemical cous<sep>stauffer chemical company<sep>stauffer chemical companywestport connecticut 06880us<sep>stauffer chemical company<sep>
+</APPLICANT>
+<INVENTOR>
+agate robert nicholas<sep>cisco thomas francis<sep>hansen george emil<sep>agate, robert nicholas<sep>cisco, thomas francis<sep>hansen, george emil<sep>agate, robert nicholas60 tilton drivefreehold new jersey 07728us<sep>cisco, thomas francis55 wood avenueardsley new york 10502us<sep>hansen, george emil961 lester roadyorktwon heights new york 10598us<sep>agate, robert nicholas  <sep>cisco, thomas francis <sep>hansen, george emil<sep>agate, robert nicholas60 tilton drivefreehold new jersey 07728us<sep>cisco, thomas francis55 wood avenueardsley new york 10502us<sep>hansen, george emil961 lester roadyorktwon heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+chlorination of an acid with a chlorinating agent  produces a reation mixture from which the desired acid  chloride may be recovered by distillation.  in the chlorination  and distillation, by-products, polymers and degradation  products may be produced which can cause a decrease in  the yield of the desired acid chloride.  a particular problem  arises from the tendency of acid chlorides to degrade and/­ or polymerize when subjected to excessive temperatures  for long periods.  an improved process for recovering an  acid chloride from a mixture containing the acid consists  in distilling the acid chloride from the mixture in the presence  of an effective quantity of a distillation improvement  additive, such as an organo polysiloxane or a mineral oil,  which remains substantially liquid under the conditions of  distillation.  in this way the problems referred to are reduced  or overcome and increased yields of acid chloride  are obtained.  
+</ABSTRACT>
+</TEXT>
+</DOC>

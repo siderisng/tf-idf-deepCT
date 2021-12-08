@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010841
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/08 <main>G01R-31/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for locating sheath faults in underground power supply cables.
+</TITLE>
+<APPLICANT>
+british insulated callendersgb<sep>bicc limited<sep>bicc public limited company21, bloomsbury streetlondon, wc1b 3qngb<sep>bicc limited<sep>
+</APPLICANT>
+<INVENTOR>
+allen john kenneth<sep>allen kenneth royston<sep>mcnally gordon g<sep>allen, john kenneth<sep>allen, kenneth royston<sep>mcnally, gordon g.<sep>allen, john kenneth73 springwood hall gardenshuddersfield hd1 4hagb<sep>allen, kenneth royston58 lamb hall roadlongwood huddersfieldgb<sep>mcnally, gordon g.33 penistone roadfenay bridge huddersfieldgb<sep>allen, john kenneth<sep>allen, kenneth royston<sep>mcnally, gordon g. <sep>allen, john kenneth 73 springwood hall gardens huddersfield hd1 4hagb<sep>allen, kenneth royston58 lamb hall roadlongwood huddersfieldgb<sep>mcnally, gordon g.33 penistone roadfenay bridge huddersfieldgb<sep>
+</INVENTOR>
+<ABSTRACT>
+in the location of an earth fault on a sheath of an  underground cable, pulses of direct current are applied to  the sheath at one location on the cable.  a search is made  for the magnetic field due to a fault current to earth flowing  in the sheath which is produced by the applied d. c.  pulses  using a portable magnetometer, with a visual indicator, and  the visual indications on the magnetometer are correlated  with the periods of application of the pulses to the sheath.   preferably, the pulses are correlated with the magnetome­ ter indications by simultaneously transmitting signals in­ dicative of, the periods of current application and using,  with the portable magnetometer, a portable receiver ar­ ranged to receive the transmitted signals so that the magne­ tometer indications by simultaneously transmitting signals  indicative of the periods of current application and using,  with the portable magnetometer, a portable receiver ar­ ranged to receive the transmitted signals so that the magne­ tometer indications can be correlated with the received  signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

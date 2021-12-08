@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006699
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10G-1/00 C10J-3/72 C10J-3/00 C10G-1/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coal liquefaction process employing multiple recycle streams
+</TITLE>
+<APPLICANT>
+gulf research development cous <sep>gulf research & development company<sep>gulf research &amp; development company p.o. box 2038 pittsburgh pennsylvania 15230us<sep>
+</APPLICANT>
+<INVENTOR>
+carr norman lus<sep>schleppy ronaldus<sep>schmid bruce kus<sep>shah yatish tus<sep>carr, norman l.<sep>schleppy, ronald<sep>schmid, bruce k.<sep>shah, yatish t<sep>carr, norman l.4215 el rancho driveallison park, pa 15101us<sep>schleppy, ronald330 w. jersey street, 1opelizabeth, nj 07202us<sep>schmid, bruce k.305 south miami courtdenver, co 80224us<sep>shah, yatish t1212 powers run roadpittsburgh, pa 15238us<sep>
+</INVENTOR>
+<ABSTRACT>
+in a coupled coal solvent liquefaction-gasification sy­ stem wherein a recycle mineral residue-containing slurry  (58) is mixed with the raw coal feed slurry (12) for the li­ quefaction zone (22, 26), the resulting feed slurry (16) is  under a pumpability total solids level constraint.  where a  coupled stem is operating under such a total solids level  constraint for the feed slurry, any increase in the mineral  residue recycle rate (58) relative to the coal feed rate (10)  advantageously provides a catalytic activity and selectivity  advantage in favor of liquid coal product at the expense of  higher and lower boiling products.  it is shown herein that  this activity and selectivity effect is enhanced with decreas­ ing liquefaction zone residence times.  in accordance with  the present invention, the ratio of recycle mineral residue  (58) to feed coal (10) is enhanced by recycling a second  mineral residue-containing slurry (130) to the liquefaction  zone (26) independently of the raw coal feed slurry (16).   the amount of solids in the second recycle slurry (130)  can be established to compensate for a progressive reduc­ tion in solids level in the process slurry due to the dissol­ ving of feed coal so that the process slurry continues to  maintain the maximum total solids constraint in spite of  progressive coal solvation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

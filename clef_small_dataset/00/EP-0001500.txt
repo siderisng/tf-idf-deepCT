@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001500
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-317/58 C07D-233/00 C07C-279/24 C07C-309/69 C07C-309/00 C07D-233/44 C07C-279/00 C07D-317/00 C07D-233/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-carbocyclic aryl-2-mono or -bis(alkoxycarbonyl) guanidino ethanes, and methods for their preparation and the preparation therefrom of 4,5-dihydro-2-alkoxycarbonylamino-5-carbocyclic aryl imidazoles.
+</TITLE>
+<APPLICANT>
+syntex inc us  <sep>syntex (u.s.a.) inc.<sep>syntex (u.s.a.) inc.3401 hillview avenuepalo alto california 94303us<sep>
+</APPLICANT>
+<INVENTOR>
+beard colin charlesus<sep>dvorak charles aloisus<sep>beard, colin charles<sep>dvorak, charles alois<sep>beard, colin charles578 jefferson avenuepalo alto california 94304us<sep>dvorak, charles alois379 everett avenuepalo alto california 94301us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for preparing 4,5-dihydro-2-alkoxycarbonylamino-5-carbocyclic  aryl imidazoles and substituted aryl  derivatives thereof is disclosed.  the compounds are prepared  by treating a 1-(carbocyclic aryl)-2-(2′,3-bis-carboalkoxy)  guanidino ethane of the formula    where r is c₁ to c₆ linear or branched alkyl, r′ is phenyl  optionally substituted with the radical methylenedioxy or  at least one hydroxy, halo, trifluoromethyl, c₁ to c₆ linear  or branched alkoxy, c₁ to c₆ linear or branched alkyl; or  1-naphthyl or 2-naphthyl; and x is halo, mesyloxy or tosyloxy;  with a protic solvent solution or dispersion of an alkali  metal or alkaline earth metal hydroxide, carbonate or alkoxide.   the reaction can alternatively be carried out on the  corresponding (3′-mono-carboalkoxy)guanidino ethanes.   these latter compounds can be prepared by treating the  above bis(carboalkoxy)guanidino ethanes with an aprotic  solvent solution or dispersion of an alkali metal or alkaline  earth metal hydroxide, carbonate or alkoxide.  these mono  (carboalkoxy)guanidino ethanes are useful as psychotherapeutic  agents in treating or palliating abnormal conditions,  in mammals, which are relating to the central nervous  system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

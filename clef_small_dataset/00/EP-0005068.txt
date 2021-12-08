@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005068
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-35/22 B23K-35/02 B23K-35/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing joining paste; metal joining paste.
+</TITLE>
+<APPLICANT>
+scm corp us<sep>scm corporation<sep>scm corporation299 park avenuenew york new yorkus<sep>
+</APPLICANT>
+<INVENTOR>
+johnson paul dougalsus<sep>snyder john louisus<sep>johnson, paul dougals<sep>snyder, john louis<sep>johnson, paul dougals6223 hayes streetmerrillville indianaus<sep>snyder, john louis3504 w. 152nd streetcleveland ohious<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for making metal joining paste, particularly  suitable for precision soldering and brazing, which comprises  preparing a paste vehicle by mixing together, at an  elevated temperature, paste ingredients including solvent,  flux and specialized additives, cooling said vehicle, and  blending metal powder therewith.  blending preferably is  subsequent to cooling, but can be simultaneous with  cooling, though without significant exposure of the metal to  the vehicle at elevated temperature.  cooling of the vehicle  takes place under shock cooling conditions, such as to obtain  a fine particle size suspension, and is to a final temperature  inhibitive of significant reaction of metal powder with vehicle  acidic constituents.  the present invention provides increased  viscosity control and suspension stability necessary  for fine bore automatic dispensing of the paste.  
+</ABSTRACT>
+</TEXT>
+</DOC>

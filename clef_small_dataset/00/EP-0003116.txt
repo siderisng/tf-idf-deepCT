@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003116
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-1/19 B23K-1/00 <main>B23K-1/04</main> B23K-31/04 B32B-18/00 E21B-10/567 C04B-37/00 B23K-31/02 B23P-15/28 B23B-27/18 B23B-27/20 E21B-10/46 E21B-10/56 B23K-1/002 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+composite compact components fabricated with high temperature brazing filler metal, method and apparatus for making same.
+</TITLE>
+<APPLICANT>
+gen electricus<sep>general electric company<sep>general electric company1 river roadschenectady new york 12305us<sep>general electric company<sep>general electric company<sep>
+</APPLICANT>
+<INVENTOR>
+knemeyer friedel s<sep>knemeyer, friedel s.<sep>knemeyer, friedel s.111 west patterson avenuecolumbus ohio 43202us<sep>knemeyer, friedel s.<sep>knemeyer, friedel s.<sep>knemeyer, friedel s.111 west patterson avenuecolumbus ohio 43202us<sep>
+</INVENTOR>
+<ABSTRACT>
+a component (11) is comprised of a composite compact  (13) made of a layer of bonded diamond or boron nitride  particles (19) and a base layer of cemented carbide (21)  bonded to the particulate layer (19), and a substrate (15)  bonded to the base layer (20) of the compact with a filler  metal (17) having a liquidus temperature greater than the  degradation temperature of the particulate layer (19).  the component is fabricated by heating the base layer  (21), filler metal (17) and substrate (15) to a temperature in  excess of the degradation temperature while maintaining the  temperature of the particulate layer (19) below the degradation  temperature via a heat sink.  a preferred embodiment of the component is a cutter for  a drill bit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

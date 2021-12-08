@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013743
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-5/02 E06B-3/92 H05K-5/00 <main>H05K-7/18</main> E06B-3/00 E06B-9/11 E06B-9/20 G06F-1/16 H05K-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+enclosure for data processing apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+chu richard chao-fan<sep>ladue james joel<sep>shelkofsky clifford inge<sep>chu, richard chao-fan<sep>ladue, james joel<sep>shelkofsky, clifford inge<sep>chu, richard chao-fan4 sun lanepoughkeepsie, n.y. 12601us<sep>ladue, james joel29 lake oniad drivewappingers falls, n.y. 12590us<sep>shelkofsky, clifford inge2a morehouse roadpoughkeepsie, n.y. 12603us<sep>chu, richard chao-fan  <sep>ladue, james joel<sep>shelkofsky, clifford inge<sep>chu, richard chao-fan4 sun lanepoughkeepsie, n.y. 12601us<sep>ladue, james joel29 lake oniad drivewappingers falls, n.y. 12590us<sep>shelkofsky, clifford inge2a morehouse roadpoughkeepsie, n.y. 12603us<sep>
+</INVENTOR>
+<ABSTRACT>
+a cabinet for data processing apparatus has a hinged  door (35), and a flexible door extension (17) wider than  the door and made of a series of door slats hinged toge­ ther.  the door extension can be retracted into the door by  sliding it along fixed tracks (19, 20) on the cabinet hous­ ing.  during this movement that end of the door extension  which leads is guided by guides behind the door to a folded  form.  when the door extension is clear of the fixed tracks,  the door carrying the door extension can be hinged out­ wardly at the vertical corner of the cabinet to allow full  opening of the enclosure.  
+</ABSTRACT>
+</TEXT>
+</DOC>

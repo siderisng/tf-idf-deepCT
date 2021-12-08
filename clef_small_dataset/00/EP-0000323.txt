@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000323
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07B-59/00 C07C-43/00 C07C-43/12 C07B-31/00 C07C-41/00 A61P-23/00 A61K-31/075 A61K-31/08 <main>C07B-23/00</main> C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+deuterated 1,1-difluoro-2,2-dihaloethyl-difluoromethyl ethers, a process for their preparation and their use in anesthetics.
+</TITLE>
+<APPLICANT>
+dow chemical cous<sep>the dow chemical company<sep>the dow chemical company2030 dow center abbott road p.o. box 1967midland michigan 48640-1967us<sep>the dow chemical company  <sep>
+</APPLICANT>
+<INVENTOR>
+larsen eric russell<sep>mccarty leslie paul<sep>larsen, eric russell<sep>mccarty, leslie paul<sep>larsen, eric russell314 west meadowbrookmidland, county of midland, michiganus<sep>mccarty, leslie paul4588 south flajole roadmidland,county of bay,michiganus<sep>larsen, eric russell<sep>mccarty, leslie paul<sep>larsen, eric russell314 west meadowbrookmidland, county of midland, michiganus<sep>mccarty, leslie paul4588 south flajole roadmidland,county of bay,michiganus<sep>
+</INVENTOR>
+<ABSTRACT>
+a deuterium containing ether corresponding to the  formula    wherein x is fluoro and x′ is bromo or chloro or both x  and x′ are chloro.  the compounds are prepared by deuteration of the  corresponding undeuterated ethers with d₂o in the presence  of a strong base.  they are useful as anesthetics and have a lower toxicity  than the undeuterated analogues.  
+</ABSTRACT>
+</TEXT>
+</DOC>

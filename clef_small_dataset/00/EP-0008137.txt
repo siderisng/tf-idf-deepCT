@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008137
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-29/04 <main>H01J-29/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermal radiation heating cathode structure.
+</TITLE>
+<APPLICANT>
+int standard electric corp us<sep>standard elektrik lorenz ag de  <sep>international standard electric corporation<sep>standard elektrik lorenz aktiengesellschaft<sep>alcatel sel aktiengesellschaftlorenzstrasse 10d-70435 stuttgartde<sep>international standard electric corporation320 park avenuenew york new york 10022us<sep>international standard electric corporation<sep>standard elektrik lorenz aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+schmidt peter<sep>wolfram andre<sep>schmidt, peter<sep>wolfram, andre<sep>schmidt, petereicher steiger 12d-7306 denkendorfde<sep>wolfram, andreeichenweg 7d-7303 aichwaldde<sep>schmidt, peter<sep>wolfram, andre <sep>schmidt, petereicher steiger 12d-7306 denkendorf de   <sep>wolfram, andreeichenweg 7d-7303 aichwaldde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  cathode structure for radiation-heated cathodes of an cathode ray tube, especially a picture tube, in which the cathode consists primarily of a disc carrying the emitting layer which is connected with a ring (4) via holding elements (3) which are arranged radially to the cathode disc, form angles with each other and project away from the cathode disc with their ends, characterized in this, that the holding elements are insulating rods which are arranged displaceably along their axes and, in at least one plane, parallel to the cathode disc. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009603
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B22D-11/06</main> C22C-45/00 B22F-9/10 B22F-9/08 B22D-11/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for the production of metallic strips.
+</TITLE>
+<APPLICANT>
+vacuumschmelze gmbhde<sep>vacuumschmelze gmbh<sep>vacuumschmelze gmbhgrüner weg 3763450 hanaude<sep>vacuumschmelze gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+hillmann hans dr<sep>hilzinger hans-reiner dr<sep>hillmann, hans, dr.<sep>hilzinger, hans-reiner, dr.<sep>hillmann, hans, dr.würzburger strasse 55d-6458 rodenbachde<sep>hilzinger, hans-reiner, dr.thomas-mann-strasse 6d-6457 maintal 2de<sep>hillmann, hans, dr.<sep>hilzinger, hans-reiner, dr.<sep>hillmann, hans, dr.würzburger strasse 55d-6458 rodenbachde<sep>hilzinger, hans-reiner, dr.thomas-mann-strasse 6d-6457 maintal 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing metal bands, in particular from an amorphous metals gier, wherein a beam of the molten metal from a reservoir (15) applies to the rapidly moving surface of a heat sink (11) and solidifies there.The invention further relates to a device for carrying out this method.To reduce the heat load of the heat sink and for improving the surface finish of the manufactured bands, melt beam or reservoirs (15) and heat sink (11) are additionally moved relative to each other transversely to the direction of the molten jet externally from the reservoir (15).The speed of the relative movement may be advantageously inverted depending on the bandwidth of the produced band 1 mm / sec to 30 cm / sec.
+</ABSTRACT>
+</TEXT>
+</DOC>

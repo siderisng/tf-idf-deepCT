@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000582
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-5/05 G03G-5/06 G03G-5/00 <main>G03G-5/05</main> G03G-5/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrophotographic recording material.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+wiedemann wolfgang dr<sep>wiedemann, wolfgang, dr.<sep>wiedemann, wolfgang, dr.pulignystrasse 14d-6222 geisenheim-johannisbergde<sep>wiedemann, wolfgang, dr.<sep>wiedemann, wolfgang, dr.pulignystrasse 14d-6222 geisenheim-johannisbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+Electrophotographic recording material made of an electrically conductive substrate, optionally an insulating intermediate layer and a photoconductive layer of at least one charge carrier generating and charges transporting compounds, binders and conventional additives-containing layer, in which the recording material is workflowed at relatively thick substrate as a photoconductor band and repeatedly over rollerscan be guided by at least 12 mm diameter without showing hair cracks.As a binder, the recording material contains cellulose nitrate with a viscosity of 400 ± 25 CPoises at concentrations between about 4 and 12 percent in 5%, aqueous acetone according to DIN 53 179 (standard type 4 - 12).
+</ABSTRACT>
+</TEXT>
+</DOC>

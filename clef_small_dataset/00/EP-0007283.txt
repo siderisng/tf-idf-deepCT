@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007283
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-73/48 H01H-73/00 H01H-71/12 <main>H01H-71/74</main> H01H-71/40 H01H-71/74 H01H-71/16 H01H-71/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit breaker with removable release unit.
+</TITLE>
+<APPLICANT>
+merlin gerinfr<sep>merlin gerin<sep>merlin gerinrue henri tarzef-38050 grenoble cédexfr<sep>merlin gerin <sep>
+</APPLICANT>
+<INVENTOR>
+gerbert-gaillard alain<sep>morel robert<sep>gerbert-gaillard, alain<sep>morel, robert<sep>gerbert-gaillard, alainvourey f-38000 tullinsfr<sep>morel, robertf-38320 herbeys-eybensfr<sep>gerbert-gaillard, alain <sep>morel, robert  <sep>gerbert-gaillard, alainvourey f-38000 tullinsfr<sep>morel, robertf-38320 herbeys-eybensfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A magnetic circuit (28) surrounding the current passing conductor (16, 18, 20) is made of two parts (26, 30) of which one (26) shaped U is integral with the circuit breaker block (10) andwhose other bar-shaped (30) is capable of banging between the legs (22, 24) of the U and is integral with the trigger block (12).On the bar (30), is mounted a second winding (34) to a single spire in good thermal contact of a bilate (56) of thermal trigger.The thermal trigger characteristics, determined by the sum of the mains (50, 52) between the two parts of the magnetic circuit, are independent of the relative position of these last two parts.The invention can be applied to high-intensity molded housing circuit breakers.
+</ABSTRACT>
+</TEXT>
+</DOC>

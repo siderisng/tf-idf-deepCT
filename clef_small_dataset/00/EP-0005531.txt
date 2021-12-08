@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005531
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16C-33/20</main> F16C-33/24 F16C-33/20 F16C-33/04 C08J-5/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tribological systems composed of sliding surfaces consisting of plastics.
+</TITLE>
+<APPLICANT>
+faigle heinz kgat<sep>firma heinz faigle kg<sep>heinz faigle kglandstrasse 31a-6971 hardat<sep>heinz faigle kg<sep>
+</APPLICANT>
+<INVENTOR>
+faigle heinz<sep>faigle, heinz<sep>faigle, heinzam kohlplatz 8a-6971 hardat<sep>faigle, heinz<sep>faigle, heinzam kohlplatz 8a-6971 hardat<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  tribologic system of plastics/plastics pairings consisting of two main sliding partners and an auxiliary sliding partner, in particular sliding bearings, in which the plastics materials - if necessary assisted by lubricants - perform relative movements with respect to one another in sliding friction, at least one of the main sliding partners and/or an auxiliary sliding partner being a polar polymer which contains cyclic groupings and in which the cyclic grouping is directly bonded on at least one side to nitrogen, phosphorus, oxygen and/or sulphur or in which the rings contain such atoms, from the group a) univalent aromatic polymers b) aromatic polyheterocycles (semi-conductor polymers) c) univalent polyheterocycles d) aromatic conductor polymers e) copolymers produced from the monomers on which the polymers a) and d) are based, with one another or with other monomers f) mixtures of the polymers a) to d) with one another or with other polymers, characterised in that - either both main sliding partners are polar and contain different cyclic groupings, and/or different atoms or groups bonded to the cyclic grouping, and the auxiliary sliding partner is a non-polar polymer or - in that both main sliding partners consist of non-polar polymers and the auxiliary sliding partner consists of a polar polymer a) to f) containing cyclic groupings. 
+</ABSTRACT>
+</TEXT>
+</DOC>

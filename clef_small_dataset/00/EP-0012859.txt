@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012859
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-21/306 H01L-21/027 H01L-21/02 H01L-21/3205 <main>H01L-21/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the deposition of a thin-film pattern on a substrate.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+havas janos<sep>paal gabor<sep>havas, janos<sep>paal, gabor<sep>havas, janoslarchmont drivehopewell junction, new york 12533us<sep>paal, gaborp.o. box 26fishkill, new york 12524us<sep>havas, janos  <sep>paal, gabor <sep>havas, janoslarchmont drivehopewell junction, new york 12533us<sep>paal, gaborp.o. box 26fishkill, new york 12524us<sep>
+</INVENTOR>
+<ABSTRACT>
+In the case of a thin film fine structure patterns applied to a substrate, the occurrence of themselves may often be detrimental edge injections. To prevent this, the following procedures are applied. First, a non-photosensitive, organic, polymeric mask layer on a substrate with z. b. On the monolithically integrated semiconductor circuit, so as to then stress a silicon nitride layer with a second mask layer of an organic poly merphotolack by means of gas displacement, so as to introduce openings or recesses according to conventional lithographic mask and etching methods. The released silicon nitride layer regions are exposed to a reactive ion tether with tetrafluorocarbon This etching process is continued until the first mask layer below the opening or recess margins in the silicon nitride layer is to some extent mines, that is, the silicon nitride layer on the ran of the first mask layer Always forms. These crossings lead to discontinuities between the thin film pattern deposited on the freely laid substrate surface area and still applied thin film deposited on the outer surface of the silicon nitride layer, so that with subsequent resolution of the first mask layer, the thin film pattern on the substrate is preserved from edge no cracks when detaching the thin film color to be eliminated .
+</ABSTRACT>
+</TEXT>
+</DOC>

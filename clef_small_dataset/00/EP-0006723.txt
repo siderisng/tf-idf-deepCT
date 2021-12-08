@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006723
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01S-3/083 H01S-5/22 H01S-3/081 H01S-5/16 <main>H01S-3/06</main> H01S-5/00 H01S-5/10 H01S-5/042 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stripe offset geometry in injection lasers to achieve transverse mode control.
+</TITLE>
+<APPLICANT>
+xerox corpus  <sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation<sep>
+</APPLICANT>
+<INVENTOR>
+burnham robert d<sep>scifres donald r<sep>streifer william<sep>burnham, robert d.<sep>scifres, donald r.<sep>streifer, william<sep>burnham, robert d.26343 esperanza drivelos altos hills, california 94022us<sep>scifres, donald r.1337 montclair waylos altos, california 94022us<sep>streifer, william263 fairfield courtpalo alto, california 94306us<sep>burnham, robert d.  <sep>scifres, donald r.<sep>streifer, william<sep>burnham, robert d.26343 esperanza drivelos altos hills, california 94022us<sep>scifres, donald r.1337 montclair waylos altos, california 94022us<sep>streifer, william263 fairfield courtpalo alto, california 94306us<sep>
+</INVENTOR>
+<ABSTRACT>
+an injection laser of the multilayer planar type, such as,  heterostructure gaas:gaalas lasers are provided with offset  geometry (26, 54, 84, 166) in the configuration of a  current confining structure on surface of the device to stabilize  the propagating optical beam such that the power output versus  current pumping characteristic is linear over an extended range  of operating currents.  the same offset geometry may also be  provided in a channel (162, 184, 204) of the substrate to provide  additional or alternate means for stabilizing the propagating  optical beam.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012502
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-7/06 H04B-7/24 H04Q-7/10 G06F-13/22 G06F-13/20 <main>G06F-13/22</main> H04Q-7/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polling method for a communications link.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+bass robert harrell<sep>moore morris anthony<sep>bass, robert harrell<sep>moore, morris anthony<sep>bass, robert harrell5990 n.w. 16th street, 203 sunriseflorida 33313us<sep>moore, morris anthony3250 n.w. 84th avenue, 503 sunriseflorida 33321us<sep>bass, robert harrell  <sep>moore, morris anthony<sep>bass, robert harrell5990 n.w. 16th street, 203 sunriseflorida 33313us<sep>moore, morris anthony3250 n.w. 84th avenue, 503 sunriseflorida 33321us<sep>
+</INVENTOR>
+<ABSTRACT>
+channel efficiency in a communications link between  a controller (12) and multiple portable units (14) is increas­ ed by polling the active units and a set number of inactive  units in a sequence where a "poll" consists of sending the  binary coded adress of the portable unit.  the stream of  transmitted data bits is only interrupted by a response from  the portable unit, then resumed at the end of the response  or a given portion of the response.  during the reception of  the response, certain other types of messages can be sent  out by the controller.  portable responses can be automatic  responses as to status, etc. , or can be data initiated by the  operator of the portable unit keyboard and stored in the  portable unit memory until "armed" by the operator, then  automatically transmitted to the controller when the port­ able unit address is received.  
+</ABSTRACT>
+</TEXT>
+</DOC>

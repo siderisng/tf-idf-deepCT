@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017448
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06K-19/07 G06K-19/077 E05B-49/00 G08B-25/00 G08B-25/01 G06K-7/00 <main>G07C-11/00</main> G07C-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic identification apparatus and identification system incorporating same.
+</TITLE>
+<APPLICANT>
+walton charles a<sep>walton, charles a.<sep>walton, charles a.19115 overlook roadlos gatos california 95030us<sep>walton, charles a.<sep>
+</APPLICANT>
+<INVENTOR>
+walton charles a<sep>walton, charles a.<sep>walton, charles a.19115 overlook roadlos gatos california 95030us<sep>walton, charles a.<sep>walton, charles a.19115 overlook roadlos gatos california 95030us<sep>
+</INVENTOR>
+<ABSTRACT>
+a personal portable identifier contains a constant fre­ quency oscillator (16) from which a radiated carrier is  obtained and counters (28-31) for deriving from the oscillator  different frequency signals to modulate (62) the carrier  according to a code peculiar to the identifier.  the code has a  series of bits each selecting a modulating frequency.  the bit  rate is derived from oscillator (16) by a counter/decoder (32,  38) and the modulating frequencies are selected by switch­ ing units (50-55) operated by the decoder that provide a code  sequence including start and stop control bits, identification  data, and a group of bits selectively alterable by the user.   emergency data may also be encoded possibly onto a  separate carrier source (95).  an identification system in­ cludes a receiver for use with a number of identifiers and  including means for decoding each received bit sequence.  
+</ABSTRACT>
+</TEXT>
+</DOC>

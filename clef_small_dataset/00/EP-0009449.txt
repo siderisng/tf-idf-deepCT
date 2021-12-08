@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009449
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04D-1/00 F04D-1/06 <main>F04D-29/04</main> F04D-13/06 F04D-29/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bearing for ambivalent centrifugal pump.
+</TITLE>
+<APPLICANT>
+thomson csf mat telfr<sep>le materiel telephonique thomson-csf<sep>societe electro-hydraulique seh173, boulevard haussmannf-75379 paris cedex 08fr  <sep>societe electro-hydraulique seh<sep>
+</APPLICANT>
+<INVENTOR>
+le dall jean-claude<sep>van rossem claude<sep>le dall, jean-claude<sep>van rossem, claude<sep>le dall, jean-claudethomson-csf 46 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>van rossem, claudethomson-csf 46 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>le dall, jean-claude  <sep>van rossem, claude <sep>le dall, jean-claudethomson-csf 46 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>van rossem, claudethomson-csf 46 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  multiple cell centrifugal pump comprising within a pump casing formed by a single block at least two stackable pump elements which are driven by an electric motor cooled by the circulation of the fluid fed by the pump, in which the stackable pump elements are mounted at the ends of the shaft driven by the motor on either side of the said motor, and in which the pump casing includes in the motor section at least one conduit (14) communicating the front cell (13') to the rear cell (13) of the pump and being provided for the circulation of the supplied fluid having the function to cool the motor and to lubricate the bearings (d) thereof, and in which each of the bearings (d) of the drive motor includes at least one shaft bushing (8), one bearing shell (10) and a stop member (29), characterized in that - the shaft bushing (8) is driven by a position shaft clutch, - the bearing shell (10) cooperates with the stop member (29) which is carried by a stop retainer (9), and - the stop member (29) may be rotatably driven and is provided with means for self-alignment. 
+</ABSTRACT>
+</TEXT>
+</DOC>

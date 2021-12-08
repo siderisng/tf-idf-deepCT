@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010748
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01G-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+post office scales.
+</TITLE>
+<APPLICANT>
+sauer kunode<sep>sauer, kuno<sep>sauer, kunofichtenweg 23d-6603 sulzbachde<sep>
+</APPLICANT>
+<INVENTOR>
+dueppre theode<sep>dueppre, theo<sep>düppre, theoam stollen 73d-6750 kaiserslauternde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a postal scale, the values determined by a weight measuring device (20) in digital form are supplied to a programmable read-only memory (27).The determining memory (27) and the encoder (23) supplying the digital measured values are connected to the display device (24) via a multiplexer (28) alternatively, the output signal (25) of the encoder (23) or that of the read-only memory (27)The display device (24) outputs.On a manually operable dial (28) different postage rates are adjustable, the different address groups of the determining memory (27).
+</ABSTRACT>
+</TEXT>
+</DOC>

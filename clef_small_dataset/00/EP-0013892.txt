@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013892
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+D06P-3/24 D06P-5/00 D06P-3/26 <main>D06P-1/00</main> D06P-3/34 D06P-3/54 D06P-7/00 D06P-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for dyeing synthetic fibre materials by the extraction method.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+kruckenberg winfried dr<sep>kuth robert dr<sep>schundehutte karl heinz dr<sep>kruckenberg, winfried, dr.<sep>kuth, robert, dr.<sep>schundehutte, karl heinz, dr.<sep>kruckenberg, winfried, dr.berta-von-suttner-strasse 59d-5090 leverkusen 1de<sep>kuth, robert, dr.veit-stoss-strasse 12d-5000 köln 41de<sep>schündehütte, karl heinz, dr.klief 75d-5090 leverkusen 3de<sep>kruckenberg, winfried, dr.  <sep>kuth, robert, dr.<sep>schundehutte, karl heinz, dr.<sep>kruckenberg, winfried, dr.berta-von-suttner-strasse 59d-5090 leverkusen 1de<sep>kuth, robert, dr.veit-stoss-strasse 12d-5000 köln 41de<sep>schündehütte, karl heinz, dr.klief 75d-5090 leverkusen 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for dyeing synthetic, hydrophobic fibre materials with organophilic dyestuffs, which are free from sulphonic acid groups, by the extraction method, in which the liquor, which circulates in a closed circuit, flows through a dyestuff depot from which the dyestuff is removed by a dissolution process and is then fed to the material to be dyed, characterized in that the depot is charged with non-finished, if necessary coarsely comminuted or spray-dried dyestuffs having a minimum solubility of 20 mg/l in water at 130 degrees c and an aqueous, emulsifier-free dyeing liquor is allowed to flow through the depot at the dyeing temperature. 
+</ABSTRACT>
+</TEXT>
+</DOC>

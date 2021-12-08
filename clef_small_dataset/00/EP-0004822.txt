@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004822
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-27/18 H04L-27/233 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for demodulating a differential phase shift keying signal.
+</TITLE>
+<APPLICANT>
+materiel telephoniquefr <sep>le materiel telephonique s.a. <sep>le materiel telephonique s.a. 46-47 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>
+</APPLICANT>
+<INVENTOR>
+houdard jean-pierrefr<sep>houdard, jean-pierre<sep>houdard, jean-pierrele materiel teleph. 46-47 quai alphonse le gallof-92103 boulogne-billancourt cedexfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and a device for demodulating a differential phase digital input signal in an output signal representing the significant digital information of the transmitted message.The method is to memorize the last two digital samples received from the input signal, to calculate the sequence of the phases of the digital samples of the front input signal and after the last initial phase change of the input signal, to substitute for theDifference between two phases of the same rank The group of corresponding binary elements of the output signal.Application to modulated signal transmission systems in differential phase.
+</ABSTRACT>
+</TEXT>
+</DOC>

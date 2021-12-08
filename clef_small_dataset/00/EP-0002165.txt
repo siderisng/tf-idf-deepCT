@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002165
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-21/60 H01L-29/76 H01L-23/532 H01L-29/43 <main>H01L-21/88</main> H01L-29/40 H01L-21/768 H01L-29/423 H01L-29/49 H01L-29/66 H01L-29/78 H01L-23/52 H01L-21/02 H01L-21/321 H01L-21/336 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing a conductor structure and application in a field effect transistor.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+gaensslen fritz heinrich<sep>gaensslen, fritz heinrich<sep>gaensslen, fritz heinrichrfd no.1, hanover streetyorktown heights new york 10598us<sep>gaensslen, fritz heinrich<sep>gaensslen, fritz heinrichrfd no.1, hanover streetyorktown heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a composite structure that can serve as well as a conductive band and door electrode for an isolated and self-aligned door-to-door transistor. It also relates to the method of manufacturing this structure. Such a transistor can be obtained by the following steps: Successive deposit on the door insulation, a first polysilicon layer (22), a layer of a non-conductive metal (24) capable of forming a silicide such as molybdenum, and a second layer of polysilicon (26); Then a stages of photolithography to delimit the electrode according to a selected configuration, and finally a heating step for reacting the metal with the polysilicon and transform it into silicide. The heating step can be performed in an oxidizing atmosphere for converting a portion of the polysilicon layer (26) into silicon dioxide. The transistor can be used in memory cells to a single device.
+</ABSTRACT>
+</TEXT>
+</DOC>

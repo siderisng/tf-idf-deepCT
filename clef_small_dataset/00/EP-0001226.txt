@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001226
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05D-21/02 C01B-17/90 G01N-27/56 G01N-27/416 <main>G05D-21/02</main> C01B-17/00 G05D-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for determining the redox potential during the regeneration of contaminated, aqueous sulphuric-acid waste in pauling apparatuses.
+</TITLE>
+<APPLICANT>
+hoechst agde <sep>hoechst aktiengesellschaft <sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bodenbenner kurt dr<sep>cramer jurgen dr<sep>muller gerhard dipl-ing<sep>von plessen helmold dr<sep>bodenbenner, kurt, dr.<sep>cramer, jurgen, dr.<sep>muller, gerhard, dipl.-ing.<sep>von plessen, helmold, dr.<sep>bodenbenner, kurt, dr.hermann-kaiser-strasse 4d-6200 wiesbadende<sep>cramer, jürgen, dr.bergstrasse 27d-6239 eppstein/taunusde<sep>müller, gerhard, dipl.-ing.feldbergstrasse 76d-6233 kelkheim (taunus)de<sep>von plessen, helmold, dr.unter den kastanien 32ad-6233 kelkheim (taunus)de<sep>bodenbenner, kurt, dr. <sep>cramer, jurgen, dr.<sep>muller, gerhard, dipl.-ing.  <sep>von plessen, helmold, dr.<sep>bodenbenner, kurt, dr.hermann-kaiser-strasse 4d-6200 wiesbadende<sep>cramer, jürgen, dr.bergstrasse 27d-6239 eppstein/taunusde<sep>müller, gerhard, dipl.-ing.feldbergstrasse 76d-6233 kelkheim (taunus)de<sep>von plessen, helmold, dr.unter den kastanien 32ad-6233 kelkheim (taunus)de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  equipment for determining the redox potential of the contents of the vessel and for controlling the addition of oxidants on regeneration of contaminated water-containing waste sulfuric acid in pauling apparatus ; the boiler (2) of the pauling apparatus forming an electrode and being connected to a reference electrode (12) via an electric bridge (6), wherein a cation exchange membrane (10) for spatial separation of the two electrodes (2, 12) is arranged in the electric bridge. 
+</ABSTRACT>
+</TEXT>
+</DOC>

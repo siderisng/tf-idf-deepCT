@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000676
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-15/00 H01J-37/302 H01J-37/30 H01J-37/24 <main>H01J-37/24</main> H01J-37/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method  and apparatus for controlling an electron beam welding generator.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>soudure autogene francaisefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>la soudure autogene francaise<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510 f-75752 paris cedex 15 fr <sep>la soudure autogene francaise75, quai d'orsayf-75321 paris cedex 07fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>la soudure autogene francaise<sep>
+</APPLICANT>
+<INVENTOR>
+corcelle francois<sep>hamon jean-pierre<sep>martin philippe<sep>corcelle, francois<sep>hamon, jean-pierre<sep>martin, philippe<sep>corcelle, françoisles morènesf-01710 thoiryfr<sep>hamon, jean-pierre12, rue des maradas vertsf-95000 cergyfr<sep>martin, philipperésidence des essarts 26, rue de chartresf-91400 orsayfr<sep>corcelle, francois <sep>hamon, jean-pierre<sep>martin, philippe  <sep>corcelle, françois les morènesf-01710 thoiryfr<sep>hamon, jean-pierre12, rue des maradas vertsf-95000 cergyfr<sep>martin, philipperésidence des essarts 26, rue de chartresf-91400 orsayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for regulating an electron beam welding generator.The method according to the invention is characterized by a suitable combination of two methods of regulating an electron beam welding bar, one consisting of varying and regulating the very high voltage while maintaining the voltage applied to theWehnelt with the potential of the cathode (operation of the "diode" type), the other of maintaining the very high voltage constant by regulating or by programming, within certain limits, the welding current by the voltage of the Wehnelt (type operation "triode").The variations and regulation of the very high voltage are provided by an induction controller, associated with a control by thyristors.Installation for regulating a welding generator applying the method.
+</ABSTRACT>
+</TEXT>
+</DOC>

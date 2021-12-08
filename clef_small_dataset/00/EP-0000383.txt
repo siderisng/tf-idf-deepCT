@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000383
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-239/48 C07D-239/00 C07D-487/04 <main>C07D-487/04</main> C07D-487/00 A61K-31/505 C07D-239/50 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyrimido (4,5-c) pyridazines, their use in pharmaceutical preparations, and process for their preparation.
+</TITLE>
+<APPLICANT>
+wellcome foundgb <sep>the wellcome foundation limited<sep>the wellcome foundation limited unicorn house 160 euston road p.o. box 129 london nw1 2bp gb<sep>the wellcome foundation limited <sep>
+</APPLICANT>
+<INVENTOR>
+mallory william revill<sep>morrison jr robert william<sep>styles virgil lee<sep>mallory, william revill<sep>morrison jr., robert william<sep>styles, virgil lee<sep>mallory, william revill5904 tafton courtraleigh north carolina 27609us<sep>morrison jr., robert william5009 larchmont driveraleigh north carolina 27612us<sep>styles, virgil lee2704 smokey ridgeraleigh north carolina 27612us<sep>mallory, william revill <sep>morrison jr., robert william  <sep>styles, virgil lee<sep>mallory, william revill5904 tafton courtraleigh north carolina 27609us<sep>morrison jr., robert william5009 larchmont driveraleigh north carolina 27612us<sep>styles, virgil lee2704 smokey ridgeraleigh north carolina 27612us<sep>
+</INVENTOR>
+<ABSTRACT>
+pyrimido (4,5-c) pyridazines of formula ii and compounds  of formulae iii, iv, vi, vii, viii.     wherein r¹ is alkyl hydroxymethyl, phenyl, carboxy, optionally  substituted benzyl, optionally substituted phenacyl,  acyloxymethyl, indolyl, indolyl methyl, a group   ch(cn)ch₂c₆h₅   optionally substituted in the phenyl ring, a group   ch(y)co₂z   or a group ch₂ch₂co₂z in which y is hydrogen, alkyl or  alkoxy, and z is hydrogen or alkyl, are inhibitors of dihydropteroic  acid biosynthesis and have anti-microbial activity.   they can be prepared as follows:  
+</ABSTRACT>
+</TEXT>
+</DOC>

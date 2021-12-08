@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009771
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02P-5/145 F02P-5/155 <main>F02P-5/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ignition timing control system for internal combustion engine.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+sugiura noboru<sep>sugiura, noboru<sep>sugiura, noboru2593-110, oaza tsudakatsuta-shijp<sep>sugiura, noboru<sep>sugiura, noboru2593-110, oaza tsudakatsuta-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+an ignition timing control system for an internal combustion  engine comprising a circuit (a) for generating a  reference ignition signal in synchronism with the engine, a  circuit (b) for generating a retard ignition signal at a point  shifted by a selected shaft angle of the engine from the reference  ignition signal, and an ignition circuit (3) for controlling  the ignition timing of the engine according to the retard ignition  signal; said retard ignition signal generator (b) includes  a capacitor circuit (q) for charging and discharging, a first  constant-current circuit (t₁₉, t₂₀) for always supplying a first  current (i₂) to the capacitor circuit (q), a second constant-current  circuit (t₁₇, t₁₈) for supplying a second current (i₁)  larger than the first current (i₂) to said capacitor circuit (0), a  switching circuit (11) which starts flowing the second current  (i₁) in synchronism with the reference ignition signal and cuts  off the second current (i₁) when the terminal voltage across  said capacitor circuit (q) reaches a reference level, and an  output circuit (10) for generating a retard ignition signal in  synchronism with the cutting-off operation of said switching  circuit (11).  
+</ABSTRACT>
+</TEXT>
+</DOC>

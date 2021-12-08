@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002626
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-5/48 B01J-21/00 C07C-45/34 C07C-45/00 C07C-255/08 B01J-23/00 C07C-67/00 C07C-5/00 C07B-3/00 B01J-27/14 B01J-27/186 C07C-253/00 <main>B01J-23/84</main> C07C-255/00 B01J-27/00 C07C-120/00 B01J-23/76 B01J-27/057 B01J-23/84 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ammoxidation of olefins with novel antimonate catalysts.
+</TITLE>
+<APPLICANT>
+standard oil co ohious<sep>the standard oil company<sep>the standard oil companymidland buildingcleveland, ohio 44115us<sep>the standard oil company  <sep>
+</APPLICANT>
+<INVENTOR>
+grasselli robert karl<sep>orndoff david allan<sep>suresh dev dhanaraj<sep>grasselli, robert karl<sep>orndoff, david allan<sep>suresh, dev dhanaraj<sep>grasselli, robert karl150 greentree roadchagrin falls ohio 44022us<sep>orndoff, david allan5519 warner hollow roadwindsor ohio 44099us<sep>suresh, dev dhanaraj1052 iroquois runmadeconia ohio 44056us<sep>grasselli, robert karl<sep>orndoff, david allan<sep>suresh, dev dhanaraj<sep>grasselli, robert karl150 greentree roadchagrin falls ohio 44022us<sep>orndoff, david allan5519 warner hollow roadwindsor ohio 44099us<sep>suresh, dev dhanaraj1052 iroquois runmadeconia ohio 44056us<sep>
+</INVENTOR>
+<ABSTRACT>
+a catalyst comprising an oxide complex of the general  formula   fe1-50bi0. 1-20sb1-100aabbccox   in which   a represents cu, ce, u, v, cr, mn and/or te;   b represents an alkali metal, alkaline earth metal, co, ni,  zn, cd, rare earth, ga, tl and/or th;   c represents mo, w, nb, ta, sn, ge, ti, zr, p, b, and/or  as;   a is 0 - 20;   b is 0 - 20;   c is 0 - 20;   a+b+c is greater than 0 and   x is a number determined by the oxygen requirements of  the other elements present.  the catalysts are useful in the production of nitriles by  the vapour phase ammoxidation of olefins, aldehydes and  alcohols; the vapour phase oxidation of olefins containing  not more than three contiguous carbon atoms and the  vapour phase oxydehydrogenation of olefins containing four  or more contiguous carbon atoms.  a particularly preferred catalyst according to the invention  has the formula w0. 2mo₁bi₂cu₃fe₁₂ox.  
+</ABSTRACT>
+</TEXT>
+</DOC>

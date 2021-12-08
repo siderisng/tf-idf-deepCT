@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005613
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-41/14 F02D-41/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+temperature circuit for oxygen sensor during warm-up
+</TITLE>
+<APPLICANT>
+allied corpus<sep>allied corporation<sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.)morristown new jersey 07960us<sep>
+</APPLICANT>
+<INVENTOR>
+long emile davidus<sep>long, emile david<sep>long, emile david815 winsor avenueelmira, new york 14905us<sep>
+</INVENTOR>
+<ABSTRACT>
+a composite electronic circuit accurately controls air-fuel ratio in an engine having an electronically regulated fuel supply, such as an electronically regulated fuel injection system.  the air-fuel ratio is measured by an oxygen sensor connected to the exhaust manifold.  a circuit associated with the oxygen sensor compensates for variations in sensor output produced by temperature change during warm-up.  after engine warm-up is completed, the circuit provides a voltage having a value independent of engine temperature. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009187
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-22/04 G01N-22/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for moisture measuring of flat samples by absorption of microwaves.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft 65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+glander siegfried dr de<sep>glander, siegfried, dr.<sep>glander, siegfried, dr.wiesenweg 15d-6232 bad soden am taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+when measuring the moisture of flat samples (9) by absorption of frequency-modulated microwaves, microwaves are guided through the sample several times, for example three to five times.  this takes place in a way such that the microwaves collected by the first microwave receiver (8) are retransmitted to the sample by a microwave transmitter (7a) connected in series to said receiver.  this process can be continued.  the microwave energy not absorbed by the sample is collected and rectified by a final microwave receiver (8c) having a measuring detector (11).  a difference is formed from the rectified signal and a reference voltage (13), and the moisture in the sample is determined from this difference voltage (12).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

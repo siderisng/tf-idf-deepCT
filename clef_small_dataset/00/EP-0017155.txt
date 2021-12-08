@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017155
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-19/04 B01D-53/04 B01D-53/26 <main>B01D-53/04</main> G05B-19/07 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adsorbent fractionators with electronic sequence timer cycle control and process.
+</TITLE>
+<APPLICANT>
+pall corpus<sep>pall corporation<sep>pall corporation30 sea cliff avenueglen cove, new york 11542us<sep>pall corporation <sep>
+</APPLICANT>
+<INVENTOR>
+christel jr conrad<sep>christel jr., conrad<sep>christel jr., conrad130 lake roaddryden new york 13053us<sep>christel jr., conrad<sep>christel jr., conrad130 lake roaddryden new york 13053us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus are provided for absorbing one  or more first gases from a mixture thereof with a second gas  to reduce the concentration of first gas in the mixture to  below a permissible maximum concentration by passing the  mixture in contact with and from one end to another end of  one of two beds of a sorbent having a preferential affinity for  the first gas, adsorbing first gas thereon to form a gaseous  effluent having a concentration thereof below the maximum,  and forming a concentration gradient of first gas in the bed  progressively decreasing from one end to the other end as  the adsorption continues and an increasing concentration of  first gas in the bed defining a concentration front progres­ sively advancing in the bed from the one end to the other end  as sorbent capacity therefor decreases, and then while  passing a purge flow of gaseous effluent through the other of  the two beds of sorbent to desorb first gas adsorbed thereon,  and reverse the advance of the concentration front of first  gas in the bed, regenerating the other bed for another cycle  of adsorption; periodically interchanging the beds so that,  alternately, one bed is on regeneration and the other on the  adsorption portions of the cycle; timing the cycling in fixed  timing intervals determined electronically by a combination  of digital integrated circuitry including a time delay oscilla­ tor, a binary counter and a logic module and controlling  cycling time at a period not shorter than the regeneration  time; and switching the sorbent beds at the end of such  cycling time.  the system is particularly applicable to the  drying of gases.  
+</ABSTRACT>
+</TEXT>
+</DOC>

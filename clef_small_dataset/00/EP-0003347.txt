@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003347
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-9/02 <main>G03B-19/04</main> G03B-13/32 G03B-3/00 G02B-7/04 G03B-19/02 G02B-7/28 G03B-3/02 G03B-7/00 G03B-17/18 G03B-19/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+camera adjustment mechanism.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+smart david clinton<sep>smart, david clinton<sep>smart, david clinton901 elmgrove roadrochester new yorkus<sep>smart, david clinton<sep>smart, david clinton901 elmgrove roadrochester new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a camera focus or exposure adjustment mechanism of  the type having a slider (13) underneath a slot (9) in the  external housing (11) of a camera, in which static friction  associated with the slider (13) is controlled by a moving  pinion (3) coupled to the slider (13) and engaging a fixed rack  (6).  the pinion (3) extends through the slot (9) in the housing  (11) where it can be manually rotated by an operator's finger  to be moved along the rack (6).  
+</ABSTRACT>
+</TEXT>
+</DOC>

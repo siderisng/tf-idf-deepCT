@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014843
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-303/22 C07C-313/00 C07C-309/03 C07C-323/52 C07C-309/00 C07C-323/36 C08J-7/12 C07C-303/00 C08J-7/00 C07C-309/02 C08J-7/18 C07C-323/48 C07C-323/29 C07C-323/60 C07C-323/00 C07C-323/25 C07C-67/00 C07C-301/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and compounds for modifying macromolecular surfaces
+</TITLE>
+<APPLICANT>
+battelle institut e vde<sep>battelle-institut e.v.<sep>battelle-institut e.v.am römerhof 35 postfach 900 160d-60441 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+hildulf kaiserde<sep>roland reiner drde<sep>hildulf, kaiser<sep>roland, reiner, dr.<sep>hildulf, kaiserkurmainzer strasse 32d-6370 oberurselde<sep>roland, reiner, dr.cehspitz 11d-6236 eschbornde<sep>
+</INVENTOR>
+<ABSTRACT>
+For surface modification of natural or synthetic macromolecular substrates, organic compounds are used, on the one hand hydrophilic, hydrophobic, oleophobic, ionic and / or crosslinkable groups, on the other hand to nitres or carbene-transferable groups, e.g.B have azide or diazo groups.These compounds are brought as mono- or oligolayers from the solution to the surface to be modified and then activated photochemically.In this case, such conditions are advantageous which cause orientation of the molecule with the azide or diazo group to the substrate surface.The other crosslinkable groups can serve for transverse embedding of the applied layers.
+</ABSTRACT>
+</TEXT>
+</DOC>

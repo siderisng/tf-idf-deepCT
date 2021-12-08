@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006550
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-29/00 G06F-12/16 G06F-3/00 G11C-19/00 G06F-11/10 <main>G06F-13/02</main> G06F-11/18 G06F-11/20 G11C-19/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+self-correcting and reconfigurable solid-state mass-memory organized in bits.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecomit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a. <sep>
+</APPLICANT>
+<INVENTOR>
+bernardini vincenzo<sep>garetti enzo<sep>manfreddi renato<sep>bernardini, vincenzo<sep>garetti, enzo<sep>manfreddi, renato<sep>bernardini, vincenzovia boston, 92/23turinit<sep>garetti, enzovia monte vodice, 18turinit<sep>manfreddi, renatoc.so peschiera, 272turinit<sep>bernardini, vincenzo<sep>garetti, enzo  <sep>manfreddi, renato<sep>bernardini, vincenzovia boston, 92/23turinit<sep>garetti, enzovia monte vodice, 18turinit<sep>manfreddi, renatoc.so peschiera, 272turinit<sep>
+</INVENTOR>
+<ABSTRACT>
+self-correcting, solid-state mass-memory, organized  by bits and with reconfiguration capability for a stored pro­ gram control system, comprising a processing system in­ terfaced towards the mass memory through a controller,  said memory consisting of one or a plurality of memory  modules and a control module at least, comprising a time  base which generates timing and control signals for memo­ ry operation, with shape and period variable according to  the operation, an addressing control circuit which genera­ tes the addresses for memory reading and writing, input-­ output means which send the data towards the memory or  the controller and a self-correcting logic which controls the  right operation of the memory, corrects and signals to the  controller the possible memory errors, said memory being  characterized in that each memory module [me(1). . . me(p);  me(1). . . me(p + 1); me(1). . . me(x)] is intended to store a bit  of a plurality of words consisting of information and redun­ dancy bits to be used for self-correction operations and  comprises:   - a plurality of memory integrated circuits (ac1. . . ac32)  obtained by charge-coupled technology and consisting  of blocks of shift registers organized in serial-parallel-­ serial configuration, each block being able to be ad­ dressed randomly and at the same time as the blocks  of equal position in all the corresponding circuits of all  the memory modules and containing a plurality of cells  to be addressed in sequence;   - data input-autput means (rt1; rt1a; rt1b; rt1c;  lm2);   - means (a1, a2, de1, a!, a2, de1, lm1) for receiving  from the control module (mc) or each control module  (mca, mcb, mcc) and sending to the integrated cir­ cuits (ac) of the memory module the timing, address­ ing and control signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

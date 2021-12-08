@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004919
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-231/00 C07B-20060101S <main>C07C-102/00</main> C07C-20060101S C07C-231/08 C07C-233/00 C07C-67/00 C07C-233/91 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing n,n,n',n'-tetra-acetylethylene diamine.
+</TITLE>
+<APPLICANT>
+hoechst ag de<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+aigner rudolf<sep>muller-schiedmayer gunther dr<sep>aigner, rudolf<sep>muller-schiedmayer, gunther, dr.<sep>aigner, rudolfhochkalterstrasse 7d-8261 burgkirchen/alzde<sep>müller-schiedmayer, günther, dr.kampenwandstrasse 13d-8261 burgkirchen/alzde<sep>aigner, rudolf<sep>muller-schiedmayer, gunther, dr.<sep>aigner, rudolfhochkalterstrasse 7d-8261 burgkirchen/alzde<sep>müller-schiedmayer, günther, dr.kampenwandstrasse 13d-8261 burgkirchen/alzde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an improved method of N, N, N ', N'-tetraacetylethylenediamine by acetylation of N, N'-diacetylethylenediamine with acetic anhydride, in which these two output components are used in a weight ratio of 1: 1 to 1: 10, the acetylation before adjusting the reaction equilibrium between N, N'-diacetylethylenediamine and N, N, N ', N'-tetraacetylethylenediamine, preferably after reaching a degree of conversion to tetraacetylethylenediamine from 20 to 70 mol%, based on inserted diacetylethylenediamine, the reaction mixture obtained Under cleaning to remove coloring impurities is subjected to the purified, not completely converted reaction components in acetylation. The purification can be carried out by vacuum distillation or with the aid of an adsorbent, such as bleaching earth or activated carbon. Optionally, to the starting components 0.01 to 0.3 parts by weight of ketets per 1 part by weight of diacetylethylenediamine can be added. The method can be carried out batchwise or continuously and provides a virtually colorless product in high yield (> 97%)
+</ABSTRACT>
+</TEXT>
+</DOC>

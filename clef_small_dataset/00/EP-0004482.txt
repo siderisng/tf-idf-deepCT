@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004482
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01D-21/14 F01D-21/00 F01D-17/08 <main>F01D-17/08</main> F01D-17/00 G08B-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+steam turbine blading protection apparatus.
+</TITLE>
+<APPLICANT>
+creusot loirefr   <sep>creusot-loire<sep>creusot-loire42 rue d'anjouf-75008 parisfr<sep>creusot-loire<sep>
+</APPLICANT>
+<INVENTOR>
+pugnet jean-marc<sep>pugnet, jean-marc<sep>pugnet, jean-marc12 avenue charles de gaullef-71200 le creusotfr<sep>pugnet, jean-marc  <sep>pugnet, jean-marc12 avenue charles de gaullef-71200 le creusotfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a device for the protection of the moving blading of a steam turbine, in particular a condensing or back-pressure turbine, the said protective device including : - at least one tapping (23) at pressure (pe ) carried out at the exhaust from the turbine, - at least one tapping (24) for measurement of flow (d) carried out in a stage which is not the last and which passes the flow which passes through the blading which is to be protected, - at least one first device (25) connected to the exhaust pressure (pe ) tapping and enabling the said exhaust pressure to be transformed with a transfer coefficient (s1 ) into a force (pe . s1 ), - at least one second device (26) connected to the tapping for measurement of flow (d) and enabling the said measurement of flow to be transformed, with a transfer coefficient (s2 ), into a force (d. s2 ), - at least one torque equilibrium balance (28) upon which the said forces come to act, characterized in that the said first and second devices (25 and 26 respectively) have transfer coefficients (s1 and s2 respectively) such, and in that the said forces are respectively applied to the said balance at points which define respective levearages (a1 ) and (a2 ) and in directions such, that the slope s2 . a2 /s1 . a1 of the straight line obtained by writing the equilibrium equation of the said balance corresponds with that of the straight line (6) which forms the approximation to the curve (2) giving the limit of utilization of the turbine as a function of the flow of steam which passes through it and of the exhaust pressure, the said balance including in addition : - either a device (32) for analogic transmission, connected to one or more control, alarm or safety systems, - or a setting (29) corresponding with the ordinate at the origin (c) of the said straight line, as well as a stop (31) and one or more all-or-nothing contactors connected each to at least one alarm or safety device (30). 
+</ABSTRACT>
+</TEXT>
+</DOC>

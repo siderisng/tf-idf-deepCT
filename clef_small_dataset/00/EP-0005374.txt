@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005374
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03D-3/00 G03D-3/06 B01F-7/00 <main>G03D-3/06</main> B01F-15/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic liquid mixing system.
+</TITLE>
+<APPLICANT>
+litton industrial productsus<sep>litton industrial products inc.<sep>litton industrial products inc.360 north crescent drivebeverly hills california 90210us<sep>litton industrial products inc.<sep>
+</APPLICANT>
+<INVENTOR>
+houseman kenneth o<sep>junkel wolfgang o<sep>houseman, kenneth o.<sep>junkel, wolfgang o.<sep>houseman, kenneth o.1704 allen lanest. charles illinois 60174us<sep>junkel, wolfgang o.1602 east linden lanemt. prospect illinois 60056us<sep>houseman, kenneth o.  <sep>junkel, wolfgang o.<sep>houseman, kenneth o.1704 allen lanest. charles illinois 60174us<sep>junkel, wolfgang o.1602 east linden lanemt. prospect illinois 60056us<sep>
+</INVENTOR>
+<ABSTRACT>
+an automatic liquid mixing system having a reservoir  (12), containers (16) supported above the reservoir,  means (42) for opening the containers into the reservoir  and means for controlling the entry of liquid into the reservoir  via inlet means (18) to achieve a desired mix of liquids.  in order to improve the reliability and ease of operation  of the system, there are means (56) responsive to the  specific gravity of the liquid in the reservoir for controlling  the entry of liquid via the inlet means (18), liquid level  sensing means also for controlling the entry of liquid into  the reservoir and for controlling operation of the opening  means (42) and a plurality of interfitting containers (16)  which are held together for positioning above the reservoir  as a unit.  the opening means comprise a pair of blades (60a,  b) for opening a container wall by two spaced slits and  a deflecting member (45) for displacing the material between  the slits to allow egress of the contents and subsequent  flushing of the container.  the liquid level and  specific gravity sensing arrangements involve magnetic  coupling with sensitive components of the coupling being  sealed from the liquids within a shaft which guides a liquid  level float (30) and a specific gravity responsive float (56).  
+</ABSTRACT>
+</TEXT>
+</DOC>

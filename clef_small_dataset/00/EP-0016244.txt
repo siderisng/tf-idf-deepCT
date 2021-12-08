@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016244
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01P-11/20 F02G-5/00 F01P-11/14 F02N-17/06 F02N-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid cooling circuit for an internal-combustion engine, and method of cooling the latter.
+</TITLE>
+<APPLICANT>
+bosch gmbh robertde<sep>robert bosch gmbh<sep>robert bosch gmbhpostfach 30 02 2070442 stuttgartde<sep>
+</APPLICANT>
+<INVENTOR>
+imhof ernstde<sep>schmid guenterde<sep>imhof, ernst<sep>schmid, guenter<sep>imhof, ernstdanziger strasse 3/1d-7015 münchingende<sep>schmid, günter fleischhauerstrasse 10d-7000 stuttgart 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+A liquid-cooled combustion force is used to hit machine and a method for cooling the same present, in which a coolant suitable as a heat accumulator suitable auxelessly substance, in particular sodium acetate trihydrate is used.By targeted delivery of the fusion, a preheating of the motor (1) takes place.By special arrangement of additional valves (2, 3, 4) it is achieved that the usual cooling circuit is only then enters when the heat storage means is completely liquefied by the motorab heat.Then there is a conventional cooling circuit.
+</ABSTRACT>
+</TEXT>
+</DOC>

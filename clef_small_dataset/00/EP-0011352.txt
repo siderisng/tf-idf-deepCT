@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011352
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/28 G06F-11/22 G06F-11/267 <main>G01R-31/28</main> G05B-1/00 G01R-31/319 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and apparatus for testing electronic circuit assemblies and the like.
+</TITLE>
+<APPLICANT>
+genrad incus<sep>genrad, inc.<sep>genrad, inc.300 baker avenueconcord massachusetts 01742us<sep>genrad, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+skilling james k<sep>skilling, james k.<sep>skilling, james k.bolton roadharvard massachusettsus<sep>skilling, james k.<sep>skilling, james k.bolton roadharvard massachusettsus<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus are disclosed for identifying  and locating faults in the portion of circuit assemblies con­ taining digital signals by conducting incircuit tests embody­ ing the application of uninterrupted sequences of signals to  nodes of the circuits and the comparison of nodal signals to  expected values, reducing the complex testing of the circuit  assemblies to a series of simple tests of components or  groups of components constituting the assemblies; and, in  connection with bus-structured circuits, eliminating the pos­ sibility of bus contention problems in good circuit assemb­ lies under test.  
+</ABSTRACT>
+</TEXT>
+</DOC>

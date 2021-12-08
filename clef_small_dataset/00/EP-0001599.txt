@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001599
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03G-5/14</main> C09B-26/02 G03G-5/06 C09B-26/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrophotographic recording material and its application in a copying process.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+anderson howard warren<sep>moore michael thomas<sep>anderson, howard warren<sep>moore, michael thomas<sep>anderson, howard warren5195 ingersoll placeboulder colorado 80303us<sep>moore, michael thomas1317 s. francislongmont colorado 80501us<sep>anderson, howard warren  <sep>moore, michael thomas<sep>anderson, howard warren5195 ingersoll placeboulder colorado 80303us<sep>moore, michael thomas1317 s. francislongmont colorado 80501us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an electrophotographic on drawing material (10) and its use in a copy method. The recording material (10) consists of an electrically conductive support member, a charge carrier producing layer (12) and a charge transport layer (14). The latter according to the invention as charges trans porting compound a hydrazone of the general formula in which the radicals R₂ = -oc₂H₃; -CH₃; -C₂H₅; -H R₃ = -H; -oc₂H₅ R₄ = -h; -CH₃; -C₂H₅ r₅ = -h; -CH₃ R₆ = -C₄H₅; -CH₂-C₆H₅; -CH₃; N-C₄H₉ R₇ = -C₆H₅; -CH₃ mean, and a polymeric binder. A preferred charges transporting compound is ρ-diethylaminobenzaldehyde (diphenythydrazone). As a bin, a polycarbonate, polyester or acrylic heart, or mixtures of the disks is used. The charge carriers transport layer (14) having a thickness of at least 5 μm, depending on the sign of the charging of the landing carrier generating layer, may be arranged on the landing carrier-generating layer (12) or between the same and the conductive support carrier. The invention also relates to the use of the multilayer recording material in an electrophotographic copying process.
+</ABSTRACT>
+</TEXT>
+</DOC>

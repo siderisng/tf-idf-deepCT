@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003402
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65D-90/22 B32B-15/08 B32B-15/088 B32B-15/095 B65D-90/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reinforced and earthed antistatic laminates for use as barriers against fluids ignitable by electrostatic discharge.
+</TITLE>
+<APPLICANT>
+british petroleum cogb<sep>the british petroleum company p.l.c.<sep>the british petroleum company p.l.c.britannic house moor lanelondon ec2y 9bugb<sep>
+</APPLICANT>
+<INVENTOR>
+faulkner philip georgegb<sep>humphris colin james gb <sep>lainchbury david lindsay guygb<sep>faulkner, philip george<sep>humphris, colin james<sep>lainchbury, david lindsay guy<sep>faulkner, philip georgebp research centre chertsey roadsunbury-on-thames middlesex tw16 7lngb<sep>humphris, colin jamesbp research centre chertsey roadsunbury-on-thames middlesex rw16 7lngb<sep>lainchbury, david lindsay guydevonshire house piccadillylondon w1x 6aygb<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention is an antistatic laminate which has  at least one continuous layer of an electrically conductive  material formed by a metal foil or a metallised surface of a  polymer film, eg an aluminised polyester film and at least  one layer of a non-conducting reinforcing scrim both layers  being sandwiched between two layers of polymer film, and  means for earthing the electrically conductive material.  the anti-static laminate may be disposed as a barrier  within any container for storage or transportation of flammable  fluids to divide the container into an air space and a  liquid space.  these laminates are flexible, very light in weight and yet  robust, and have the necessary antistatic properties to  minimise the installation, economic and safety problems of  conventional barriers.  their low permeability also minimises  the unnecessary discharge of obnoxious vapours into the  environment.  
+</ABSTRACT>
+</TEXT>
+</DOC>

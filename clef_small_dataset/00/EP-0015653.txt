@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015653
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-319/00 C07C-177/00 C07D-319/08 <main>C07C-49/523</main> C07C-45/64 C07C-45/00 C07C-45/28 C07C-49/523 C07C-67/00 C07C-45/67 C07C-62/32 C07C-45/59 C07C-62/00 C07D-317/00 C07C-45/30 C07C-49/00 C07C-405/00 C07D-317/72 C07C-45/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+aldol compounds, their production and their use in the preparation of methanoprostacyclin.
+</TITLE>
+<APPLICANT>
+sumitomo chemical cojp  <sep>sumitomo chemical company limited<sep>sumitomo chemical company, limitedkitahama 4-chome 5-33chuo-ku osaka 541jp<sep>sumitomo chemical company, limited <sep>
+</APPLICANT>
+<INVENTOR>
+katsube junki<sep>kawakami hajime<sep>ono keiichi<sep>sugie akihiko<sep>katsube, junki<sep>kawakami, hajime<sep>ono, keiichi<sep>sugie, akihiko<sep>katsube, junki10-20, machikaneyamachotoyonaka-shijp<sep>kawakami, hajime14-7, mefu-2-chometakarazuka-shijp<sep>ono, keiichi5-3-530, higashiawajicho-1-chomehigashiyodogawa-ku osakajp<sep>sugie, akihiko10-1-116, sonehigashicho-2-chometoyonaka-shijp<sep>katsube, junki <sep>kawakami, hajime<sep>ono, keiichi<sep>sugie, akihiko<sep>katsube, junki10-20, machikaneyamachotoyonaka-shijp<sep>kawakami, hajime14-7, mefu-2-chometakarazuka-shijp<sep>ono, keiichi5-3-530, higashiawajicho-1-chomehigashiyodogawa-ku osakajp<sep>sugie, akihiko10-1-116, sonehigashicho-2-chometoyonaka-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+aldol derivatives of the formula,    wherein c = w is a carbonyl group or a protected carbonyl  group are intermediates for producing methanoprosta­ cyclin derivatives which are useful medicines for preven­ tion of thrombosis.  such a compound can be produced by  cyclizing a dialdehyde compound of the formula    wherein w is as defined above, preferably in a solvent,  with an acid or a base.  the dialdehyde (ii) can be obtain­ ed by oxidation of an olefin.  
+</ABSTRACT>
+</TEXT>
+</DOC>

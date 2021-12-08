@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008377
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-19/04 G05B-19/10 D06F-33/02 <main>G05B-19/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+programme selection device.
+</TITLE>
+<APPLICANT>
+bauknecht gmbh gde<sep>g.±bauknecht gesellschaft mit beschrankter haftung<sep>g. bauknecht gesellschaft mit beschränkter haftungheidenklinge 22d-7000 stuttgart 1de<sep>g. bauknecht gesellschaft mit beschrankter haftung<sep>
+</APPLICANT>
+<INVENTOR>
+glasmacher peter dipl-ing<sep>glasmacher, peter, dipl.-ing.<sep>glasmacher, peter, dipl.-ing.boxbergerstrasse 11d-8000 münchen 45de<sep>glasmacher, peter, dipl.-ing.  <sep>glasmacher, peter, dipl.-ing.boxbergerstrasse 11d-8000 münchen 45de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a program selector device for program-controlled household appliances with a Zah lent keyboard for entering program characteristics and with a plug-in device coupled via a control device for a continuous display of the one after the one to the numerical keys of the number keyboard one after the other nen program change data. For the purpose of the purpose of the lowest expense of controls and around without special attention of the device user, an always optimal and error-specific program selection for the operation of the household appliance equipped with it is ensured, the number keyboard (t) forms the only input device for the one as a multi-digit code with always the same Number of places encrypted program characteristics and is additionally connected to a signal generator (S) via the control device (ST), wherein it is further provided that the control device (ST) with a gave one with already via the number keyboard (T) nen and over The display device (A, K) for displayed Key figures in the context of the programming of the associated household appliance (H) non-associated additional keyboard station activation of the Signalge bers (S) triggers and the newly entered and displayed key figure for the program selection is not effective who the leaves.
+</ABSTRACT>
+</TEXT>
+</DOC>

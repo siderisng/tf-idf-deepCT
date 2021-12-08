@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015391
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-17/38 G01J-3/00 H01J-17/44 G01N-21/62 G01N-21/67 <main>H01J-17/44</main> G01J-3/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+glow discharge lamp for qualitative and quantitative spectral analysis.
+</TITLE>
+<APPLICANT>
+vacuumschmelze gmbhde<sep>vacuumschmelze gmbh<sep>vacuumschmelze gmbhgrüner weg 3763450 hanaude<sep>vacuumschmelze gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+grimm werner dr<sep>grimm, werner, dr.<sep>grimm, werner, dr.kantstrasse 3d- 6450 hanau 1de<sep>grimm, werner, dr.<sep>grimm, werner, dr.kantstrasse 3d- 6450 hanau 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a glow discharge lamp for the qualitative and quantitative spectral analysis with a cathode side by a loading space (3) lockable on cathode potential and electrically conductive disc (10).For reinforcing the spectral lines of the amount of the substance to be analyzed as well as to increase the analysis accuracy, according to the invention means for generating a magnetic field extending in the discharge space (3) substantially in the axial direction and additionally a relative to the anode body (1) steuer erelectrode (8) provided.The magnetic field in the discharge space (3) can be generated in this case in particular of a magnetized in the axial direction ring magnet (2) of permanent magnetic material.The glow discharge lamp is suitable for the analysis of solid, liquid and gaseous substances.
+</ABSTRACT>
+</TEXT>
+</DOC>

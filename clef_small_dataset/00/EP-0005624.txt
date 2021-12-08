@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005624
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16C-32/06</main> F16C-32/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydrostatic bearing.
+</TITLE>
+<APPLICANT>
+nat res devgb<sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation<sep>
+</APPLICANT>
+<INVENTOR>
+mohsin mohammed ezzat<sep>mohsin, mohammed ezzat<sep>mohsin, mohammed ezzat14 frampton closealkrington manchester m24 1eygb<sep>mohsin, mohammed ezzat  <sep>mohsin, mohammed ezzat 14 frampton closealkrington manchester m24 1eygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a hydrostatic bearing with structural features to improve  the harmony between hydrostatic and hydrodynamic forces  set up in the bearing fluid, and to diminish the harmful  effects of hydrodynamic forces when there is relative motion  between the bearing members (1, 2).  these features may  comprise channels (32, 33) in the bearing land to maintain  tranverse hydrostatic fluid flow beneath the land despite  longitudinal dynamic forces, longitudinal channels (51) in the  bearing surfaces (50) to diminish dynamic friction without  unduly diminishing the resistance to hydrostatic fluid flow  across these channels, and means (70) to guide fluid  recirculation within the bearing recess (3) so as to avoid  shearing contact between oppositely-moving streams of  fluid within it.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007603
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-23/12 C08L-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polypropylene composition and method for its preparation.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+gebler horst drde <sep>heufer gert dr de<sep>kloos friedrich drde<sep>gebler, horst, dr.<sep>heufer, gert, dr.<sep>kloos, friedrich, dr.<sep>gebler, horst, dr.zeil 16d-6238 hofheim am taunusde<sep>heufer, gert, dr.silcherweg 10d-6232 bad soden am taunusde<sep>kloos, friedrich, dr.südring 112d-6500 mainzde<sep>
+</INVENTOR>
+<ABSTRACT>
+a linear polypropylene moulding compound with optimum impact properties is obtained if, on mixing polypropylene with the rubber- like ethylene/propylene copolymer components, a ratio between the melt-flow indices of the two components of     <fra>mfi (230/5)-pp<over>mfi (230/5)-k</fra> = 1. 7-20 is maintained. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zum herstellen einer polypropylen-forn0masse die erfindung betrifft ein verfahren zur herstellung einer thermoplastischen formmasse auf basis polypropylen und einem kautschukartigen xthylen-propylen-mischpolyncri- sat. polypropylen besitzt neben einigen sehr günstigen eigenschaften, wie beispielsweise einer relativ niedrigen dichte, einer ausgezeichneten beständigkeit gegen hohe temperaturen und wässrige und nichtwässrige flüssigkeiten, auch weniger günstige eigenschaften, wozu eine mangelhafte schlagfestigkeit bei temperaturen unterhalb raumtemperatur, insbesondere unterhalb ooc, zu zählen sind. ausreichende schlagfestigkeiten sind insbesondere für transdortkästen, koffer, automobilteile in der innen- und aussenanwendung wichtig. polyäthylen hoher dichte, aus dem man derartige teile herstellt, besitzt zwar eine gute schlagfestigkeit, zeigt jedoch eine geringere beständigkeit gegen hohe temperaturen und eine ungenügende beständigkeit gegen rissbildung. es ist bekannt, gemische aus polypropylen und polyäthylen zu verwenden. jedoch hat es sich aber gezeigt, dass mischungen dieser polymeren eine kaum verbesserte schlagfestigkeit im vergleich zum polypropylen besitzen. ausserdem neigen aus derartigen mischungen hergestellte forin- körper dazu, bereits bei geringem durchbiegen weiss anzulaufen und matt zu werden. ferner hat man polypropylen zur vcrbesserung der schlaqfestigkeit bei temperaturen unterhalb raumtemperatur mit amorphen copolymeren von xthylcn und propylen, aber auch mit anderen kautschukartigen polymeren, z.b. polyisobutylen, vermischt (vgl. de-os 26 42 053). die herstellung solcher schlagfester thermoplastischer formmassen auf basis von polypropylen durch polymerisation scheitert oft daran, dass dabei sehr hohe anteile an löslichen polymeren entstehen, die zu problemen bei der durchmischung der suspension und zu hohen monomerverlusten führen. ein nachteil der bisher bekannten verfahren zur herstellung von binären schlagfesten polypropylen-formmassen besteht darin, dass optimal schlagfeste formmassen nur zufällig oder mit grossen versuchsaufwand zu erhalten sind. es wurde nunmehr gefunden, dass man mit einfachen mitteln eine optimal schlagfeste binäre polypropylen-formmasse erhalten kann, wenn man ein bestimmtes verhältnis der schmelzindices von polypropylen und der kautschukartigen komponente einhält. gegenstand der erfindung ist somit das in den ansprüchen genannte verfahren. gemäss dem erfindungsgemässen verfahren werden polypropylen und ein kautschukartiges material miteinander gemischt und homogenisiert. für-das verfahren eignen sich propylenhomopolymerisate, statistische propylencopolymerisate mit bis zu 10 gew.-t eines i-olefins mit 2 bis 6 kohlenstoffatomen bzw. blockmischpolymerisate von propylen mit bis zu 15 gew.-% eines 1-olefins mit 2 bis 6 kohlenstoffatomen, beispielsweise äthylen, buten-1, penten, hexen. diese polymeren weisen eine dichte von 0,89 bis 0,92 g/cm3 und einen mfi (230/5) von 0,5 bis 30, vorzugsweise von 0,5 bis 20g/10 min auf. das kautschukartige material ist ein mischpolymerisat aus 30 bis 80 gew.-% äthylen und 20 bis 70 % propylen, vorzugsweise 40 bis 70 % äthylen und 30 bis 60 ew.-e propylen. bis zu 10 gew.-%, bezogen auf die gesamtmenae der elonomeren, eines oder mehrerer anderor comonomerew welche wenigstens zwei nichtkonjugierte c-c-bindungen enthalten, können einpolymerisiert sein. beispiele für die letzt genanntei monomeren sind athylennorbornen, dicyclopentadien, 1,4-hexadien und ähnliche. die dichte dieser mischpolymerisate beträgt 0,85 bis 0,89 g/cm3, der mpi (230/5) 0,05 bis 10 g/10 min, vorzugsweise 0,1 bis 6 g/10 min. an der kautschukartigen komponente wird zunächst der t5fi (230/5)-k gemessen. er liegt im bereich von 0,05-10 g/ 10 min. entsprechend dem gefundenen wert wird ein polypropylen derart ausgewählt, dass dessen mfi (230/5)-pp zum mei-k im folgenden verhältnis steht: -
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche 1. verfahren zum herstellen einer polypropylen-formmasse bestehend aus 95 bis 60 gew.-% polypropylen und 5 bis 40   gew.-t    eines kautschukartigen äthylen-propylen-misch- polymerisats, durch mischen und homogenisieren des xautschuks mit dem polypropylen und granulieren, da durch gekennzeichnet, dass man einen kautschuk und ein polypropylen miteinander mischt , deren schmelzindices mfi (230/5)-k und mfi (230/5)-pp im verhältnis mfi (230/5)-pp =1,7bis 20    tfi    (230/5)-k zueinander stehen.    2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass das verhältnis mfi (230/5)-pp = 2 bis 10 mfi (230/5)-k ist.   3. polypropylen-formmasse bestehend aus 95 bis 60 gew.-% polypropylen und 5 bis 40 gew.% eines kautschukartigen  äthylen-propylen-mischpolymerisats, dadurch gekenn zeichnet, dass die schmelzindices von polypropylen mfi  (230/5)-pp und kautschuk   fi    (230/5)-k im verhältnis    mfi    (230/5)-pp = 1,7 bis 20    eifi    (230/5)-k zueinander stehen.  
+</CLAIMS>
+</TEXT>
+</DOC>

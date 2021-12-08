@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008695
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04M-11/06</main> H04M-11/00 H04M-3/00 H04N-1/327 H04M-11/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit arrangement for telephonic switching systems, particularly private branch exchanges, with auxiliary data traffic, e.g. with teleprinters.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+fahrenschon franz dipl-ing<sep>meier alfred<sep>thinschmidt hans<sep>fahrenschon, franz, dipl.-ing.<sep>meier, alfred<sep>thinschmidt, hans<sep>fahrenschon, franz, dipl.-ing.grundstrasse 11d-8021 neuriedde<sep>meier, alfredlochhamer strasse 113d-8000 münchen 71de<sep>thinschmidt, hanskreuzlinger strasse 52 cd-8034 germeringde<sep>fahrenschon, franz, dipl.-ing.<sep>meier, alfred  <sep>thinschmidt, hans<sep>fahrenschon, franz, dipl.-ing.grundstrasse 11d-8021 neuriedde<sep>meier, alfredlochhamer strasse 113d-8000 münchen 71de<sep>thinschmidt, hanskreuzlinger strasse 52 cd-8034 germeringde<sep>
+</INVENTOR>
+<ABSTRACT>
+For the expansion of data traffic within a telephone exchange system on separate data transfer systems (FS-N), the special link sets (S-VS) prerequisite for data traffic are within the remote speech system via additional facilities (ZSE) with participants meranary cables (AL-FS) of the separate data transfer system ( FS-N) firmly connected. The additional device (ZSE) takes over the function of the implementation of line and data characters from one system to another and vice versa. To secure the dial-elements in arriving traffic from the data switching system, incoming connection requests are first answered when the number of dial numbers required for the construction of the secondary telephone connection has arrived in the additional device (ZSE) SND. In addition, the telephone call sign is suppressed for the desired telephone station. The type of transmission within the telephone system may differ from that of the data switching system if the traffic within the telephone exchange system is guided via modem (modem), where one of the modem is arranged in the additional device (ZSE). The invention is particularly suitable for the coupling of a remote speech system with a separate telecommunications system, wherein the dialing capabilities of both systems can be used for telecommunications.
+</ABSTRACT>
+</TEXT>
+</DOC>

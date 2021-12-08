@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005325
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-1/00 C01B-13/02 C25B-9/00 <main>C25B-1/02</main> C25B-9/08 C25B-9/06 C25B-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for separating a gas from a gaseous mixture and electrochemical cell therefor.
+</TITLE>
+<APPLICANT>
+jasem sameer mahmood gb<sep>tseung alfred chan chunggb<sep>jasem, sameer mahmood<sep>tseung, alfred chan chung<sep>jasem, sameer mahmood39 langham roadlondon n.15gb<sep>tseung, alfred chan chung60 grove avenuelondon n10 2angb<sep>jasem, sameer mahmood<sep>tseung, alfred chan chung <sep>
+</APPLICANT>
+<INVENTOR>
+tseung alfred chan chung<sep>tseung, alfred chan chung<sep>jasem, sameer mahmood39 langham roadlondon n.15gb<sep>tseung, alfred chan chung60 grove avenuelondon n10 2angb<sep>tseung, alfred chan chung<sep>jasem, sameer mahmood 39 langham road london n.15 gb<sep>tseung, alfred chan chung60 grove avenuelondon n10 2angb<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrochemical cell used to separate gas from a  gaseous mixture by reduction of said gas at the cathode  (4) and regeneration of said gas at the anode (9) is  characterised in that one or more substances formed during  the cathodic reduction and/or the anodic regeneration  is or are chemically converted, preferably by catalytic decomposition  in a catalytic decomposition compartment (2),  to produce further quantities of said gas, the gas formed  by both the anodic regeneration in anodic compartment  (3) and the chemical conversion in compartment (2) being  recovered as the product.  in an especially preferred embodiment  a plurality of said cells are used in an apparatus  for extracting oxygen from the air by using a cathode (4)  comprising high surface area graphite powder which reduces  oxygen to produce peroxyl ions, each cell being  further provided, externally of the cathode compartment  (1), with means (15) for catalytically decomposing the  peroxyl ions produced, suitable catalysts being cofe₂o₄  or nico₂o₄.  
+</ABSTRACT>
+</TEXT>
+</DOC>

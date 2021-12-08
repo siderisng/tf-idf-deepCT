@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015838
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03D-9/06</main> H03D-9/00 H01P-5/10 H03D-7/14 H03D-9/06 H01P-5/08 H01P-1/20 H01P-5/107 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+wide-band hyperfrequency mixer.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+blondel jacques<sep>mahieu jean-rene<sep>blondel, jacques<sep>mahieu, jean-rene<sep>blondel, jacques"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>mahieu, jean-rené"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>blondel, jacques  <sep>mahieu, jean-rene<sep>blondel, jacques"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>mahieu, jean-rené"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Very low intermediate frequency microwaver in front of the frequency of the carrier and broadband consisting of a waveguide (38) traversed to a straight section by a substrate (23) carrying a ribbon metallization (24).On either side of the waveguide this metallization is part of a microband line section.In the waveguide two naked diodes (28, 29) connecting the environments of the wide sides of the guide have their common point connected to the metallization.The mixer is applicable to transposition to high and low frequencies.
+</ABSTRACT>
+</TEXT>
+</DOC>

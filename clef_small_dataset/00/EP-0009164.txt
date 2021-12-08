@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009164
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/50 <main>G01N-33/72</main> G01N-33/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diagnostic agent and its use in the detection of urobilinogen.
+</TITLE>
+<APPLICANT>
+behringwerke agde<sep>behringwerke aktiengesellschaft<sep>behringwerke aktiengesellschaftpostfach 114035001 marburgde<sep>behringwerke aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+hirsch wolfgang dr<sep>hirsch, wolfgang, dr.<sep>hirsch, wolfgang, dr.pirolweg 12d-3050 wunstorfde<sep>hirsch, wolfgang, dr. <sep>hirsch, wolfgang, dr. pirolweg 12 d-3050 wunstorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+Diagnostic means for detecting urbaninogen in body fluids in which an absorbent support is impregnated with a diazonium salt, wherein the sum of the Hammettschen sigmalance of all substituents of the diazonium salt is greater than + 0.4.
+</ABSTRACT>
+</TEXT>
+</DOC>

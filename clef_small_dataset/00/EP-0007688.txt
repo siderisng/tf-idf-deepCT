@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007688
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21C-3/34 G21C-7/08 G21C-15/06 G21C-3/322 G21C-7/14 G21C-3/326 G21C-3/356 <main>G21C-3/32</main> F28F-13/06 G21C-3/32 F28F-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+nuclear reactor fuel assembly.
+</TITLE>
+<APPLICANT>
+babcock & wilcox cous<sep>the babcock & wilcox company<sep>the babcock &amp; wilcox company1010 common street, p.o. box 60035new orleans, louisiana 70160us<sep>the babcock & wilcox company<sep>
+</APPLICANT>
+<INVENTOR>
+jabsen felix stanley<sep>jabsen, felix stanley<sep>jabsen, felix stanley1324 krise circlelynchburg, virginia 24503us<sep>jabsen, felix stanley<sep>jabsen, felix stanley1324 krise circlelynchburg, virginia 24503us<sep>
+</INVENTOR>
+<ABSTRACT>
+a nuclear reactor fuel assembly (10) includes a guide tube  (14) having integral ridges (30) oriented and spaced to  increase coolant flow in a gap (40) between the guide tube (14)  and adjacent fuel elements (13).  
+</ABSTRACT>
+</TEXT>
+</DOC>

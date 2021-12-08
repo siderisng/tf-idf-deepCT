@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004456
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-1/02 <main>C07C-9/04</main> B01J-23/74 C07C-9/04 C07C-9/00 C07C-1/00 B01J-23/00 C10K-3/04 C07C-67/00 C07C-1/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+methanation of carbon monoxide without prior separation of inert gases.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation <sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817 us  <sep>union carbide corporation <sep>
+</APPLICANT>
+<INVENTOR>
+elek louis frank<sep>francis james nelson<sep>rabo jule anthony<sep>elek, louis frank<sep>francis, james nelson<sep>rabo, jule anthony<sep>elek, louis frank1088 oregon roadpeekskill new yorkus<sep>francis, james nelson7403 santa fehouston texasus<sep>rabo, jule anthony19 windmill roadarmonkus<sep>elek, louis frank <sep>francis, james nelson<sep>rabo, jule anthony<sep>elek, louis frank1088 oregon roadpeekskill new yorkus<sep>francis, james nelson7403 santa fehouston texasus<sep>rabo, jule anthony19 windmill roadarmonkus<sep>
+</INVENTOR>
+<ABSTRACT>
+carbon monoxide-containing gas streams are passed  over a catalyst capable of catalyzing the disproportionation  of carbon monoxide so as to deposit a surface layer of active  surface carbon on the catalyst substantially without  formation of inactive coke thereon.  the surface layer is  contacted with steam and is thus converted to methane  and co₂, from which a relatively pure methane produce  may be obtained.  dilute carbon monoxide-containing  streams, as from underground coal gasification with air or  the effluent from blast furnace operations, can be used  without pretreatment to concentrate the carbon monoxide  and/or to separate inert gases therefrom.  conversion of  the active surface carbon with high pressure steam enables  a high pressure product methane stream to be generated  without expensive compression equipment and high  energy consumption.  nickel, cobalt, iron, ruthenium,  rhenium and alloys thereof are preferred catalyst, with the  surface area thereof being preferably at least about 10 m²/  gm.  conversion of the active surface carbon can also be  accomplished by contact with hydrogen.  carbon monoxide-containing  streams having hydrogen or water present  therein can be used, with only the carbon monoxide  available after reaction with said hydrogen or water being  decomposed to form said active surface carbon.  the hydrogen  or water will be converted, partially or completely,  to methane which can be utilized in a combustion zone to  generate heat for steam production or other energy recovery  purposes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

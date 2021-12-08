@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015168
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-2/00 <main>G01R-33/02</main> G01R-33/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetometer using magnetostatic waves.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+castera jean-paul<sep>hartemann pierre<sep>castera, jean-paul<sep>hartemann, pierre<sep>castera, jean-paul"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>hartemann, pierre"thomson-csf" - scpi 713, bld haussmannf-75360 paris cedex 08fr<sep>castera, jean-paul<sep>hartemann, pierre  <sep>castera, jean-paul"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>hartemann, pierre"thomson-csf" - scpi 713, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+A unidirectional magnetometer comprising at least two magnetostatic wave oscillators (3-6,105), with resolves or delay lines (3.4), carried out in two parts (2a, 2b) of a layer of magnetic material (2)respectively subjected to the field to be measured and with predetermined magnic ticks (HB, HB) of the same direction, opposite directions and neighboring intensities.
+</ABSTRACT>
+</TEXT>
+</DOC>

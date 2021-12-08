@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009196
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-9/00 H02K-9/19 H02K-55/00 F16L-59/18 H02K-55/04 F16L-59/00 H02K-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric machine with a rotor having a superconductive excitation winding.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+kullmann dieterde<sep>mueller ottode<sep>weghaupt erichde<sep>kullmann, dieter<sep>mueller, otto<sep>weghaupt, erich<sep>kullmann, dieternürnberger strasse 10d-8506 langenzennde<sep>müller, ottoeichenring 2d-8521 effeltrichde<sep>weghaupt, erichrathenau strasse 10d-4330 mülheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an electric machine with a rotor in a stationary machine housing containing a superconducting exciter winding and a cylindrical wave end. Around the wave end, a non-rotating connection head part is arranged. Between these components a bearing and a sealant device are provided and a coolant is transferred. The rotor of such a machine performs axial and radial vibrations. If the connecting head is rigidly connected to the machine housing, the sealant device must enable a corresponding game. However, this leads to sealing difficulties. The invention therefore provides a bearing (22; 25) with a low radial game that the connection head part (2) follows the radial disengagement of the wave end piece (3) from its predetermination with respect to a rotation axis (4). The sealing device (29; 30) may then advantageously be a ferrofluidic seal (50 to 52). In particular, a plain bearing is in question as a bearing (22; 25). Accordingly designed terminal head parts can be present for superconducting turbogenerators.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001433
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/74 H01L-29/06 H01L-29/10 H01L-29/02 H01L-29/66 <main>H01L-29/747</main> H01L-29/747 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bidirectional semiconductor switching device (triac).
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciede<sep>brown, boveri & cie aktiengesellschaft mannheim<sep>brown, boveri &amp; cie aktiengesellschaft mannheimkallstadter strasse 1d-6800 mannheim käfertalde<sep>brown, boveri & cie aktiengesellschaft mannheim<sep>
+</APPLICANT>
+<INVENTOR>
+gernoth hartwig<sep>gernoth, hartwig<sep>gernoth, hartwigbiedensandstrasse 13d-6840 lampertheimde<sep>gernoth, hartwig<sep>gernoth, hartwigbiedensandstrasse 13d-6840 lampertheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a bidirectional semiconductor switch (triac) comprising a plate-shaped starting structure consisting of three zones of alternately opposite conductivity type, emitter and anode zones which are disposed in partial areas of the said starting structure and which open on to the two main surfaces of the semiconductor plate, and two control zones of opposite conductivity type to one another which are disposed in partial areas of the first zone of the starting structure and which open on to the first main surface, wherein the emitter and anode zones and parts of the first and third zone respectively of the starting structure which open on to the corresponding main surface in each case are contacted by a first and second main electrode respectively and the control zones are contacted by a control electrode, characterized in that the first zone (1) disposed beneath the first main electrode (a1) has a greater thickness (d1 ) and higher transverse conductivity than at least that part (10) of the area of the third zone (3) disposed beneath the second main electrode (a2) which is disposed in line with the control electrode (g) (d3 ). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008509
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-41/30 H01F-7/18 H01F-7/08 H01H-47/22 <main>H03K-17/64</main> F02D-41/20 F02D-5/02 H01H-47/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control circuits for solenoids.
+</TITLE>
+<APPLICANT>
+lucas industries ltdgb<sep>lucas industries limited<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>lucas industries public limited company <sep>
+</APPLICANT>
+<INVENTOR>
+salway peter hugh<sep>woodhouse richard graham<sep>salway, peter hugh<sep>woodhouse, richard graham<sep>salway, peter hugh10 green wicket court 241 alcester road southbirminghamgb<sep>woodhouse, richard graham225 baldwins lanehall green, birminghamgb<sep>salway, peter hugh <sep>woodhouse, richard graham<sep>salway, peter hugh10 green wicket court 241 alcester road southbirminghamgb<sep>woodhouse, richard graham225 baldwins lanehall green, birminghamgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a solenoid control circuit includes a first switching ele­ ment (11) which connects one side of the solenoid load (10) to  earth via a current sensing resistor.  the other side of the  solenoid load is connected by a second switching element 14  to a supply rail (15).  this second switching element is biased  to conduct but can be turned off by either of two comparators  (43, 44) which are connected to compare the voltage across  the current sensing resistor with two different reference vol­ tages.  each comparator has hysteresis and the circuit oper­ ates to that one comparator (43) operates to switch off the  second switching element when a predetermined current  level is reached and the other comparator (44) operates to  switch the second switching elements on and off at lower  current levels between said predetermined current level and  the lower threshold level of the first comparator.  
+</ABSTRACT>
+</TEXT>
+</DOC>

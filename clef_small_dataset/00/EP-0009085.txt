@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009085
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/24 G11C-11/408 H03K-3/356 <main>H03K-3/353</main> H03K-5/15 G11C-11/41 H03K-5/02 H03K-19/0185 G11C-11/413 H03K-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+latching circuit and method for phase splitting and level changing a ttl input signal with field effect transistors.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+clemen rainer<sep>gschwendtner jorg<sep>haug werner<sep>clemen, rainer<sep>gschwendtner, jorg<sep>haug, werner<sep>clemen, rainermaurener weg 133d-7030 böblingende<sep>gschwendtner, jörgseitenstrasse 38d-7300 esslingende<sep>haug, wernerpontoiser strasse 43d-7300 böblingende<sep>clemen, rainer  <sep>gschwendtner, jorg <sep>haug, werner<sep>clemen, rainermaurener weg 133d-7030 böblingende<sep>gschwendtner, jörgseitenstrasse 38d-7300 esslingende<sep>haug, wernerpontoiser strasse 43d-7300 böblingende<sep>
+</INVENTOR>
+<ABSTRACT>
+Circuit arrangement in MOSFET technology as well as method for phase splitting and level conversion egg NES TTL input signal in FET level with a clock controled flip-flop (1, 2, 3) or locking circuit. Via a particularly trained drive branch (S, R, 10, C, C1), a rela tively small voltage difference is generated from the TTL input signal to the previously as high and equal-charged input node (N2, N3) of the lock circuit, which then at the set Zen of the locking circuit by its high present tensioned and therefore well conductive transistors (2 and 3) is rapidly reinforced to the full FET voltage stroke. The conditions of the locking circuit opposite to the different binary conditions of the TTL input signal are enrolled in the present one-sided control by a defined discharge or potential lifting of the relevant input knob TEN (N2) "" "" then locked.
+</ABSTRACT>
+</TEXT>
+</DOC>

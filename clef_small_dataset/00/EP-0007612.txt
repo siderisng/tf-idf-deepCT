@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007612
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05D-23/19</main> G05D-23/19 F24F-11/02 F24D-11/00 G05D-23/24 F24D-7/00 F24D-11/02 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+temperature regulation apparatus for a space heated by a heat pump.
+</TITLE>
+<APPLICANT>
+accumulateurs fixesfr<sep>accumulateurs fixes traction sa saft<sep>société anonyme dite saft156, avenue de metzf-93230 romainvillefr<sep>societe anonyme dite saft <sep>
+</APPLICANT>
+<INVENTOR>
+geoffroy jean-claude<sep>godard pierre<sep>geoffroy, jean-claude<sep>godard, pierre<sep>geoffroy, jean-claude4 résidence faidherbef-93700 drancyfr<sep>godard, pierre32 sixième avenuef-93290 tremblay les gonessefr<sep>geoffroy, jean-claude<sep>godard, pierre  <sep>geoffroy, jean-claude4 résidence faidherbef-93700 drancyfr<sep>godard, pierre32 sixième avenuef-93290 tremblay les gonessefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a heating control device of a heated room by means of a heat pump and a booster chaffage.It comprises a circuit (100) for measuring the temperature of a room, a control circuit (200) of an extra heater, a control circuit (500) of the current of a heat pump, and a heat pump.Circuit (600) Cie Measurement of the temperature of the heat pump exchange fluid whose informa tion is transmitted at the same time to the circuit (200) and the circuit (300).Application to domestic heating.
+</ABSTRACT>
+</TEXT>
+</DOC>

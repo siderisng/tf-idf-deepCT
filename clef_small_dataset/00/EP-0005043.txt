@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005043
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/04 G03G-21/00 G03G-15/00 G03B-27/62 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an automatic document handler including a control system therefor.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation <sep>xerox corporationxerox square - 020rochester new york 14644 us  <sep>
+</APPLICANT>
+<INVENTOR>
+gardner john fus<sep>greco robert l jrus<sep>gardner, john f.<sep>greco, robert l., jr.<sep>gardner, john f.900 embury roadpenfield new york 14526us<sep>greco, robert l., jr.55 wedgewood drivepenfield new york 14526us<sep>
+</INVENTOR>
+<ABSTRACT>
+an automatic document handler control system for use  on a document copier having an exposure station (12)  whereat the documents (d) to be copied are exposed by a  light source.  a photocell (50) provides a control signal in response to  each exposure illumination and this is used to control the  operation of the document handler.  
+</ABSTRACT>
+<DESCRIPTION>
+an automatic document handler control system this invention relates to an automatic document handler control system for use in a document copier. various document handlers are known by which individual documents are fed one at a time onto a platen of a copier. it is also known to copy onto continuous or web-type document material and/or to produce multiple books from continuous document material as described for example in u.s. patent no. 3,977,780. furthermore, it is known to provide a dual function machine for copying continuous length documents or individual documents by a single machine as described for example in u.s. patent no. 3,804,514. in the known automatic document handlers it has been necessary physically to tie the handler to the copier in order to obtain the necessary operating relationship. according to the present invention there is provided an automatic document handler control system for use on a document copier having an exposure station (12) whereat the documents (d) to be copied are exposed by a light source (18) characterized by exposure sensing means (50) adapted to provide a control signal in response to each exposure illumination, and means (57, 58, 59), responsive to said signal, for controlling the operation of the automatic document handler (38). an advantage of the present invention is that the document handler does not need to be connected to the host copier in order to operate thus permitting its ready mounting and demounting. further, it may be applied to fanfold document handlers. one way of carrying out the invention is described in detail below with reference to drawings which illustrate only one specific embodiment, in which: fig. 1 is a perspective view of a duplicating machine incorporating a document handler and control system therefor according to the present invention; fig. 2 is a scrap side view of the apparatus, partly sectioned; and fig. 3 is an electrical/logic schematic illustration of the control system. for a general understanding of a reproduction apparatus (document copier) with which the present invention may be incorporated, reference is made to fig. 1 wherein various components of a typical electrostatographic printer system are illustrated. the printer system is of the xerographic type and is generally designated with the reference numeral 10. as in all xerographic systems, a light image of an original to be reproduced is projected onto the sensitized surface of a xerographic plate to form an electrostatic latent image. thereafter, the latent image is developed with toner material to form a xerographic powder image corresponding to the latent image on the plate surface. the powder image is then electrostatically transferred to a record material such as a sheet or web of paper or the like to which it may be fused by a fusing device whereby the powder image is caused permanently to adhere to the surface of the record material. the xerographic processor indicated by the reference numeral 11 is arranged.as a self-contained unit having all of its processing stations located in a unitary enclosure or cabinet. the
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. an automatic document handler control system for use on a document copier having an exposure station (12) whereat the documents (d) to be copied are exposed by a light source (18) characterised by exposure sensing means (50) adapted to provide a control signal in response to each exposure illumination, and means (57, 58, 59),responsive to said signal, for controlling the operation of the automatic document handler (38).   2. a control system according to claim 1 in which said exposure sensing means (50) comprises a photodetector mounted in the document handler (38) in a position to detect the light from the exposure illumination.   3. a control system according to claim 1 or 2 in which said control system includes a device (74) for producing a predetermined incremental movement of a document by the document handler (38) in response to a said control signal.   4. a control system in accordance with claim 1 in a document copying machine adapted to handle document material (d) in a fanfold form, the copying machine including a platen (12) on which the portion of the fanfold material (d) being copied rests during copying and a light source (18) for effecting imaging of each portion of the fanfold material (d), characterised in that said machine includes means (42) for guiding the fanfold material (d) across the platen (12), and drive means (45) operable upon the material (d) when energized for effecting incremental index movement of the material, and said control means (57, 58, 59) is selectively responsive to successive activations of the light source (18) or multiples thereof of the machine during an operation run,   and is operatively connected to the drive means (45) for energizing the same corresponding for each of said activations or multiples thereof for producing successive index movements of the material (d).  
+</CLAIMS>
+</TEXT>
+</DOC>

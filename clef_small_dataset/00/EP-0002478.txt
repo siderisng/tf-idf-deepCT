@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002478
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-13/24 G09C-1/06 G09C-1/10 H04L-9/00 G09C-1/00 <main>G09C-1/00</main> H04L-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cryptographic apparatus.
+</TITLE>
+<APPLICANT>
+gretag ag ch<sep>gretag aktiengesellschaft  <sep>gretag aktiengesellschaftalthardstrasse 70ch-8105 regensdorfch<sep>gretag aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+baschong marcel<sep>widmer walter rudolf<sep>baschong, marcel<sep>widmer, walter rudolf<sep>baschong, marcelgoffersbergweg 212ch-5603 staufench<sep>widmer, walter rudolflangackerweg 12ch-8155 niederhaslich<sep>baschong, marcel<sep>widmer, walter rudolf<sep>baschong, marcelgoffersbergweg 212ch-5603 staufench<sep>widmer, walter rudolflangackerweg 12ch-8155 niederhaslich<sep>
+</INVENTOR>
+<ABSTRACT>
+For converting characters of a first alphabet (ASCII) comprising 128 characters comprising a second alphabet comprising 26 characters are provided means which form three characters of the second alphabet and vice versa each of two characters of the first alphabet. The means are realized by a correspondingly programmed computer. The conversion takes place in such a way that two characters Z₁ and Z₂ of the first alphabet are interpreted as numbers and divided by 26. The largest multiple Q₁ and Q₂ from 26 obtained are multiplied by 1 and 5 and the products add. The two divisions resulting radicals give the first two characters a₁ and a₂ the three characters of the second alphabet and the product sum the third character A₃. The back conversion is analogous. First, Q₂ is determined by Division as the largest integer multiple of 5 in A₃ and Q₁ as the remainder of this division. Q₁ and Q₂ are then multiplied by 26 and added to A₁ and A₂, wherein the sums then give Z₁ and Z₂.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013718
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-7/18 <main>H05K-7/16</main> H05K-7/16 H05K-7/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pivotally mounted printed circuit holder.
+</TITLE>
+<APPLICANT>
+ibm us <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kekas dennis harry<sep>mac adams ronald prestly<sep>polischuk-sawtschenko alexande<sep>kekas, dennis harry<sep>mac adams, ronald prestly<sep>polischuk-sawtschenko, alexander<sep>kekas, dennis harry3425 horton streetraleigh, nc 27607us<sep>mac adams, ronald prestly5104 new bern avenueraleigh, nc 27610us<sep>polischuk-sawtschenko, alexanderrt. 6, box 348-8raleigh, nc 27612us<sep>kekas, dennis harry <sep>mac adams, ronald prestly<sep>polischuk-sawtschenko, alexander  <sep>kekas, dennis harry3425 horton streetraleigh, nc 27607us<sep>mac adams, ronald prestly5104 new bern avenueraleigh, nc 27610us<sep>polischuk-sawtschenko, alexanderrt. 6, box 348-8raleigh, nc 27612us<sep>
+</INVENTOR>
+<ABSTRACT>
+The printed circuit board support, located in an electronic data processing device, comprises a receptacle (18) which pivots about an axis defined by the uprights (12, 14) supported by the element (10) of the devicedata processing.A guidance and locking assembly allows the PIP receptacle to vote from a first operating position, in which the lower wall (32) of the receptacle is parallel to the surface (16) of the element (10), to aSecond service position for which the wall (32) is perpendicated to the surface (16).This support makes it possible to have a fast and easy circuit panels in particular during tests or repair.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002982
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-19/195 H01Q-3/20 H01Q-25/00 H01Q-19/10 H01Q-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+conical scan antenna for tracking radar.
+</TITLE>
+<APPLICANT>
+thomson csffr <sep>thomson-csf <sep>thomson-csf 173, boulevard haussmann75008 parisfr<sep>
+</APPLICANT>
+<INVENTOR>
+bouko jeanfr<sep>salvat francoisfr<sep>bouko, jean<sep>salvat, francois<sep>bouko, jean"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>salvat, francois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Conical sweeping antenna system at the reception of the Cassegrain type comprising a parabolic main reflector (1) and two hyperbolic auxiliary reflectors (3, 4) with a focus of one in a focal plane on the other.One of these reflectors (3) is semi-transparent and the other (4) is animated by a rotational movement about an axis (54) inclined with respect to the focal axis (OX) of the system.Application to prosecution radar.
+</ABSTRACT>
+</TEXT>
+</DOC>

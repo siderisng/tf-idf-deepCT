@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009574
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C04B-37/02 H01J-23/16 H01J-23/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+travelling-wave tube comprising a helical slow-wave circuit and method of manufacturing same.
+</TITLE>
+<APPLICANT>
+siemens agde   <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+barth heinzde<sep>heynisch hinrichde<sep>huebner erwinde<sep>barth, heinz<sep>heynisch, hinrich<sep>huebner, erwin<sep>barth, heinzschlierseestrasse 55d-8000 münchen 90de<sep>heynisch, hinrich dr. rer.nat., dipl-phys.im birket 7d-8032 gräfelfingde<sep>hübner, erwin dr. rer.nat., dipl.-phys.geitnerweg 24d-8000 münchen 82de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a traveling frame with a helical delay line (2) accommodated within a massive metallic vacuum shell (1) and a number parallel to each other along mantellines of the line arranged dielectric support bars (3).For the SER hiking field tube, the thermal resistance and the HF losses of the stationary line are to be minimized.The invention provides that the vacuum shell (1) and the removal line (2) consist of copper and are connected by solid-state reactions between copper and / or coppero XID among mixed crystal formation with the stops (3) ver ver.A tube according to the invention is used at Wan Diefeldröhren (helical type) of all performance classes.
+</ABSTRACT>
+</TEXT>
+</DOC>

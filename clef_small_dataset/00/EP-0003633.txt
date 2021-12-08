@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003633
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04W-84/02 H04W-84/04 H04B-7/26 H04M-3/00 H04Q-7/04 <main>H04Q-11/04</main> H04Q-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of and an apparatus for a radiotelephone communications system.
+</TITLE>
+<APPLICANT>
+motorola incus <sep>motorola, inc.<sep>motorola, inc. 1303 east algonquin road schaumburg, il 60196us<sep>motorola, inc.<sep>motorola, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+little richard irving<sep>lubin barry donald<sep>spear stephen lee<sep>little, richard irving<sep>lubin, barry donald<sep>spear, stephen lee<sep>little, richard irving138 linder lanebarrington illinois 60010us<sep>lubin, barry donald129 millbrook laneschaumburg illinois 60193us<sep>spear, stephen lee3445 albion avenuelincolnwood illinois 60645us<sep>little, richard irving<sep>lubin, barry donald<sep>spear, stephen lee<sep>little, richard irving<sep>lubin, barry donald  <sep>spear, stephen lee <sep>little, richard irving138 linder lanebarrington illinois 60010us<sep>lubin, barry donald129 millbrook laneschaumburg illinois 60193us<sep>spear, stephen lee3445 albion avenuelincolnwood illinois 60645us<sep>
+</INVENTOR>
+<ABSTRACT>
+a telephone system for providing communications between  mobile radiotelephones, portable radiotelephones and land-line  telephones, includes a land-line telephone  system including a land-line switching network (20) for  providing communication paths for land-line telephones, and a  mobile radiotelephone system (30, 40, 50 and 60) for providing  communication paths for mobile and portable radiotelephones.   the mobile radiotelephone system includes a digital switching  network (40), base stations (60), and pcm analog-to-digital (a/  d) and digital-toanalog (d/a) converters (30) interposed between  the base stations (60) and the digital switching network  (40) and between the land-line switching network (20) and the  digital switching network (40).  analog ports are interfaced by the  pcm a/d and d/a converters (30) to incoming and outgoing  serial bit streams coded according to pulse-code-modulation  (pcm) techniques standardized for telecommunications systems  by the international telegraph and telephone consultative  committee (ccitt).  the digital switching network (40) receives the incoming  serial pcm bit streams and provides the outgoing serial pcm bit  streams so that telephone calls are automatically routed between  the calling and called parties in the telephone system.   supervisory signalling is detected from the incoming serial pcm  bit streams and processed by a signal processing unit (50) to  determine an ordering of time slots for the pcm channels for  controlling the interchange of pcm channels from the incoming  serial pcm bit streams to the outgoing pcm channels corresponding  to the incoming supervisory signalling from incoming  pcm channels is adapted to a pre-established format recognized  by the corresponding outgoing pcm channels and multiplexed  into the respective outgoing serial pcm bit streams.  
+</ABSTRACT>
+</TEXT>
+</DOC>

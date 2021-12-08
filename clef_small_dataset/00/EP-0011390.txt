@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011390
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-25/08 <main>F16D-13/52</main> F16D-25/06 F16D-25/0638 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulically actuated clutch.
+</TITLE>
+<APPLICANT>
+lambert & brake corpus<sep>lambert±brake corporation<sep>lambert brake corporation643 graves streetst. joseph, michigan 49085us<sep>lambert brake corporation<sep>
+</APPLICANT>
+<INVENTOR>
+euler john w<sep>pear arthur w<sep>euler, john w.<sep>pear, arthur w.<sep>euler, john w.2130 u. s.33 nbenton harbor, michigan 49022us<sep>pear, arthur w.388 grand boulevardbenton harbor, michigan 49022us<sep>euler, john w.  <sep>pear, arthur w. <sep>euler, john w.2130 u. s.33 nbenton harbor, michigan 49022us<sep>pear, arthur w.388 grand boulevardbenton harbor, michigan 49022us<sep>
+</INVENTOR>
+<ABSTRACT>
+an hydraulic clutch comprises coaxial input and output  shafts (14, 46) with driving and driven discs (34, 44) respec­ tively mounted on the shafts.  as shown, the  mounting of the driven discs (44) on the output shaft (46)  includes a one piece member (47) having a cup (48) with an  annular wall (48) that surrounds the input shaft (14) and the  driving discs (34).  the one piece member (47) also includes  the output shaft (46).  an hydraulic piston (66) is used to  engage the clutch discs (34, 44); and pins (74, 76) around  which return springs (78) are mounted, limit the throw of the  piston (66).  the arrangement tends to minimize turbulence,  heat build-up, and power losses when the clutch is in the  disengaged condition.  
+</ABSTRACT>
+</TEXT>
+</DOC>

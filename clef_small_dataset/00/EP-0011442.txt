@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011442
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-9/30 G06F-9/318 G06F-9/34 <main>G06F-9/34</main> G06F-9/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data processing system having an integrated stack and register machine architecture.
+</TITLE>
+<APPLICANT>
+high level machine corpjp<sep>panafacom ltdjp<sep>high level machine corporation<sep>panafacom limited<sep>high level machines corporation9-2, osaki 4-chomeshinagawa-ku tokyo 141jp<sep>panafacom limited2-49, fukami-nishi 4-chomeyamato-shi kanagawa 242jp<sep>high level machines corporation<sep>panafacom limited<sep>
+</APPLICANT>
+<INVENTOR>
+aiso hideo<sep>nakano koichi <sep>sakamae waichi <sep>sakamura ken<sep>shibasaki yoshihisa<sep>aiso, hideo<sep>nakano, koichi<sep>sakamae, waichi<sep>sakamura, ken<sep>shibasaki, yoshihisa<sep>aiso, hideo2936-2, tominoka-chokanazawa-ku yokohama-shi, kanagawa 236jp<sep>nakano, koichi5-18-103, shimotakaido 4-chomesuginami-ku tokyo 168jp<sep>sakamae, waichi5-2, ueno 4-chometaito-ku tokyo 110jp<sep>sakamura, ken9-2 osaki 4-chomeshinagawa ku tokyo 141jp<sep>shibasaki, yoshihisa2-3-103, 2-1, sayamadaisayamashi saitama 350-13jp<sep>aiso, hideo<sep>nakano, koichi<sep>sakamae, waichi<sep>sakamura, ken <sep>shibasaki, yoshihisa<sep>aiso, hideo 2936-2, tominoka-cho kanazawa-ku yokohama-shi, kanagawa 236 jp <sep>nakano, koichi5-18-103, shimotakaido 4-chomesuginami-ku tokyo 168jp<sep>sakamae, waichi5-2, ueno 4-chometaito-ku tokyo 110jp<sep>sakamura, ken9-2 osaki 4-chomeshinagawa ku tokyo 141jp<sep>shibasaki, yoshihisa2-3-103, 2-1, sayamadaisayamashi saitama 350-13jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a data processing system including three resources, i. e. ,  a memory (1), a general purpose register file (5) having a  plurality of elements (r₀ - r₇) and a stack (7) having a top  (tos) thereof.  the system includes a first means for making  the top of the stack (tos) correspond to at least one of the  elements (r₀ - r₇) in the general purpose register file (5) and a  second means for controlling the operation of the stack (7).   when the element (r₀ - r₇) to which the top of the stack (tos)  is made to correspond is specified in an instruction register  (11) of the system, the top of the stack (tos) is selected to be  accessed by the first means and the operation of the stack (7)  is controlled by the second means.  
+</ABSTRACT>
+</TEXT>
+</DOC>

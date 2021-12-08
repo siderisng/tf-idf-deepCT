@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008937
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01K-25/10 F01B-29/08 F01K-3/10 F01B-17/02 F01K-3/00 F01B-29/00 F01K-25/06 F02B-75/00 F02B-75/34 F01K-25/00 A63H-29/00 F01B-17/00 F02G-1/00 A63H-29/16 F02G-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas powered motors and vehicles powered thereby
+</TITLE>
+<APPLICANT>
+rilett john w<sep>rilett, john walter<sep>rilett, john walterhilltop house, old quarrybibury, gloucestershire gl7 5ndgb<sep>
+</APPLICANT>
+<INVENTOR>
+rilett john walter<sep>rilett, john walter<sep>rilett, john walterhilltop house, old quarrybibury, gloucestershire gl7 5ndgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a gas powered motor (33) has a reservoir (28) for liquefied gas, a supply passage from the reservoir leading through one side of a heat exchanger (29) to the motor and a container (52) holding a buffer substance in heat conductive relationship with the reservoir.  the buffer substance acts to supply heat to the liquefied gas whilst undergoing a chemical, physical crystallographic or other change of state to assist in maintaining the supply of gas to the motor (33) from the reservoir (28).  in order to preserve the gas supplied to the motor for re-use without the need of a container of substantial volume the motor exhaust leads to a vessel (36) containing a condensing buffer substance (37) which condenses the gas by adsorbing, persorbing or otherwise associating with the gas accompanied by a release of heat.  the condensing buffer substance is in heat conductive relation with the other side of the heat exchanger (29) in the gas supply to the motor to superheat the gas supplied.  the condensing buffer substance is capable of releasing the gas when subjected to reduced pressure by a pump (50) provided which may be the gas motor (33) run in reverse to extract the gas from the vessel (36) and return it to the reservoir (28).  in another embodiment the condensing buffer substance comprises an isothermal heat sink provided, for example, by a concentrated salt colution. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011796
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08J-7/04 H01B-3/30 H01B-3/44 B32B-27/32 <main>H01G-4/20</main> C08J-7/00 C08J-5/18 H01G-4/20 B32B-15/08 B29D-7/22 H01G-4/018 B32B-15/085 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+on one side metallized biaxially stretched polypropylene foil to be used as electroinsulating foil.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+crass gunter<sep>janocha siegfried dr<sep>seifried walter dr<sep>crass, gunter<sep>janocha, siegfried, dr.<sep>seifried, walter, dr.<sep>crass, günterbachstrasse 7d-6204 taunusstein 4de<sep>janocha, siegfried, dr.am hohen stein 6d-6200 wiesbadende<sep>seifried, walter, dr.am güldenplan 9d-6200 wiesbaden 1de<sep>crass, gunter<sep>janocha, siegfried, dr.<sep>seifried, walter, dr.<sep>crass, günterbachstrasse 7d-6204 taunusstein 4de<sep>janocha, siegfried, dr.am hohen stein 6d-6200 wiesbadende<sep>seifried, walter, dr.am güldenplan 9d-6200 wiesbaden 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a biaxially stretched polyp ropylene film, which consists of two layers of different composition, wherein a surface has a roughness Rz of at most 0.15 μm and the other upper surface has a roughness depth Rz between 0.2 μm and 0.4 μm, theE-module in all directions of the film plane> 2000 N / mm² and which has a DC strength of> 650V / μm.
+</ABSTRACT>
+</TEXT>
+</DOC>

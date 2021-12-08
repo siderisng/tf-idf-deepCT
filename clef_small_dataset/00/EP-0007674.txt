@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007674
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C25B-13/08</main> C25B-13/08 C25B-13/00 C25B-1/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of elektrolysis of an aqueous alkali metal chloride solution in a diaphragm cell.
+</TITLE>
+<APPLICANT>
+solvaybe<sep>solvay & cie (societe anonyme)<sep>solvay &amp; cie (société anonyme)rue du prince albert, 33b-1050 bruxellesbe<sep>solvay & cie (societe anonyme)<sep>
+</APPLICANT>
+<INVENTOR>
+guillaume robert<sep>indeherbergh jean<sep>pleska jean-pierre<sep>guillaume, robert<sep>indeherbergh, jean<sep>pleska, jean-pierre<sep>guillaume, robertplace du roi vainqueur, 25 boíte 12b-1040 bruxellesbe<sep>indeherbergh, jeanavenue de la toison d'or, 80-etage 8d boíte 2b-1060 bruxellesbe<sep>pleska, jean-pierrerue de la paix, 27b-7260 fâturagesbe<sep>guillaume, robert<sep>indeherbergh, jean  <sep>pleska, jean-pierre <sep>guillaume, robertplace du roi vainqueur, 25 boíte 12b-1040 bruxellesbe<sep>indeherbergh, jeanavenue de la toison d'or, 80-etage 8d boíte 2b-1060 bruxellesbe<sep>pleska, jean-pierrerue de la paix, 27b-7260 fâturagesbe<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a permeable diaphragm for Electrochemical Lule.The diaphragm consists of a fiber polymeric polymeric sheet, obtained from a pension of said polymeric material in an organic liquid.The invention applies to permeable diaphragms for electrolysis cells of aqueous sodium chloride solutions.
+</ABSTRACT>
+</TEXT>
+</DOC>

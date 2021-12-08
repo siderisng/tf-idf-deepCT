@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011153
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-3/54 H04Q-11/04 H04Q-3/545 <main>H04Q-11/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the transmission of information between devices of an indirectly controlled switching system, in particular a telephone switching system.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+muller helmut dipl-ing<sep>rambold thomas dipl-ing<sep>von ow hans-peter dr-ing<sep>werres bernhard dipl-ing<sep>muller, helmut, dipl.-ing.<sep>rambold, thomas, dipl.-ing.<sep>von ow, hans-peter, dr.-ing.<sep>werres, bernhard, dipl.-ing.<sep>müller, helmut, dipl.-ing.meisenweg 3d-8033 planeggde<sep>rambold, thomas, dipl.-ing.guardinistrasse 139d-8000 münchen 70de<sep>von ow, hans-peter, dr.-ing.starnbergerstrasse 11d-8000 münchen 71de<sep>werres, bernhard, dipl.-ing.benediktenwandstrasse 23d-8000 münchen 90de<sep>muller, helmut, dipl.-ing.<sep>rambold, thomas, dipl.-ing.<sep>von ow, hans-peter, dr.-ing. <sep>werres, bernhard, dipl.-ing.<sep>müller, helmut, dipl.-ing. meisenweg 3 d-8033 planegg de<sep>rambold, thomas, dipl.-ing.guardinistrasse 139d-8000 münchen 70de<sep>von ow, hans-peter, dr.-ing.starnbergerstrasse 11d-8000 münchen 71de<sep>werres, bernhard, dipl.-ing.benediktenwandstrasse 23d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for transmitting information between devices (SP1, EP2) an indirectly controlled resistance system via time division multiplex channels (K11, K12), each with multiple repetition of the information.The information is each consisting of several bytes (S11, Q11, N11, (11th, W11) to which a Numerie Reenden the respective information is heard. The information is provided by the help of buffer memory (B11., B1x, B21.,, B2X) and multiplexers (M1, M2). The information also includes receipt bytes, which acknowledge the correct reception of previously transmitted information. The reception of acknowledgment bytes is also evaluated as a signal for the previously for the transmission of theacknowledged informa tion used time division multiplex channel for the transmission of further information has become available.
+</ABSTRACT>
+</TEXT>
+</DOC>

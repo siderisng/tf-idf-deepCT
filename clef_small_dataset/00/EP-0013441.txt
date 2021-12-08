@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013441
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01F-13/08 B22D-11/11 B22D-27/02 B01F-13/00 B22D-11/115 B22D-11/10 B22D-11/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for electromagnetical stirring in a continuous steel casting plant.
+</TITLE>
+<APPLICANT>
+concast agch<sep>concast holding ag<sep>concast holding agtödistrasse 7ch-8027 zürichch<sep>
+</APPLICANT>
+<INVENTOR>
+schmid markusch<sep>schmid, markus<sep>schmid, markusfrauentalweg 14ch-8045 zürichch<sep>
+</INVENTOR>
+<ABSTRACT>
+in the electromagnetic stirring of strands in a continuous steel casting plant, at least two stirrers (3) produce travelling fields in the cast product (1, 2) and act either together on a slab (1) or each individually on a bloom (2).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

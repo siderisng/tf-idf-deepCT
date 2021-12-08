@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003712
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25C-3/16 C25C-3/00 <main>C25C-3/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for reducing the magnetic perturbations in rows of high amperage electrolytic cells.
+</TITLE>
+<APPLICANT>
+pechiney aluminiumfr<sep>aluminium pechiney  <sep>aluminium pechiney28, rue de bonnel69433 lyon cedex 3fr<sep>aluminium pechiney<sep>
+</APPLICANT>
+<INVENTOR>
+dugois jean-pierre<sep>morel paul<sep>dugois, jean-pierre<sep>morel, paul<sep>dugois, jean-pierre"l'echaillon"f-73300 saint-jean-de-mauriennefr<sep>morel, paul14, allée des bocagesf-78110 le vesinetfr<sep>dugois, jean-pierre<sep>morel, paul <sep>dugois, jean-pierre "l'echaillon" f-73300 saint-jean-de-mauriennefr<sep>morel, paul14, allée des bocagesf-78110 le vesinetfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method of reducing magnetic disturbances in the series of high intensity electrolysis tanks.The method is to pass the negative binding conductors between tanks and to fix the distribution of the current between the downstream head and the upstream head or the central mounted of each tank, so as to cancel the component by the magnetic field at the center of theTank and to render antisymmetric the BZ component of the magnetic field in the middle of the large side of the tank with respect to the oy axis.The field of the next line is further offset by means of a compensation conductor traveled by a flow circulating in the opposite direction of the electrolysis current.Application to the production of aluminum in series of electrolysis tanks fed under intensities up to 200,000 amperes.
+</ABSTRACT>
+</TEXT>
+</DOC>

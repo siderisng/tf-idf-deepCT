@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003411
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02M-59/00 F02M-59/44 <main>F02M-59/42</main> F16J-10/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+excess fuel starting device for fuel injection engines.
+</TITLE>
+<APPLICANT>
+ambac indus   <sep>ambac industries, incorporated<sep>ambac industries, incorporatedspringfield massachusetts 01107us<sep>ambac industries, incorporated <sep>
+</APPLICANT>
+<INVENTOR>
+daborowski ignace john<sep>galis leon a<sep>daborowski, ignace john<sep>galis, leon a.<sep>daborowski, ignace john41 savoy avenuespringfield massachusetts 01104us<sep>galis, leon a.140 prokop avenueludlow massachusetts 01056us<sep>daborowski, ignace john<sep>galis, leon a.  <sep>daborowski, ignace john41 savoy avenuespringfield massachusetts 01104us<sep>galis, leon a.140 prokop avenueludlow massachusetts 01056us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to an excess fuel starting device for  a fuel injection engine having a hydraulic actuator (40) to  position a full load stop (36) coacting with the engine throttle  linkage to control the fuel input from the fuel injection pump  to the engine in either a normal run position or an excess fuel  position.  the actuator includes an excess fuel piston (50)  connected to the full load stop and spring biased toward an  excess fuel position.  a bore (90) within the piston contains a  free piston (92) slidable therewithin.  fluid conduit means  (102) deliver a pressurised fluid, during engine operation, to  actuate only the smaller free piston when the actuator is in  the excess fuel position.  when the piston (50) has been  moved by the action of the free piston (92) to the normal run  position, the pressurised fluid provides holding force.  the  differential in the actuating pressure versus the holding  pressure of the device may be varied to suit the installation  requirements by the choice of the relative diameters of the  pistons (50 and 92).  
+</ABSTRACT>
+</TEXT>
+</DOC>

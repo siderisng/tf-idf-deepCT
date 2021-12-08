@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007459
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01M-1/02 A01M-1/00 A01M-1/22 A01M-1/04 A01G-7/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for combating plant diseases.
+</TITLE>
+<APPLICANT>
+battelle institut e vde<sep>battelle-institut e.v.<sep>battelle-institut e.v.am römerhof 35 postfach 900 160 d-60441 frankfurt de <sep>
+</APPLICANT>
+<INVENTOR>
+esser gerd drde<sep>esser, gerd, dr.<sep>esser, gerd, dr.a-stifter-strasse 13d-6233 kelkheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+to combat pests, plants are irradiated with uv light of one or more wavelengths from 200 to 400 nm, preferably 280 to 315 nm, continuously or intermittently. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur bekämpfung von schädlingen an pflanzen die erfindung bezieht sich auf ein verfahren zur bekämpfung von schädlingen an pflanzen. es eignet sich insbesondere zur bekämpfung von mikroorganismen, wie pilzen und bakterien sowie viren, insekten und milben. die bisher bekannten massnahmen zur bekämpfung von pflanzenkrankheiten und schädlingen umfassen den chemischen und biologischen pflanzenschutz. beim chemischen pflanzenschutz werden wirkstoffe in form von löslichen, emulgierbaren oder dispergierbaren formulierungen unter umständen nach verdünnung mit wasser oder anderen lösungsmitteln auf die pflanzen, pflanzenteile oder in den boden gebracht. die pflanzenschutzmittel können jedoch zur schädigung der pflanzen und zur rückstandsbildung im erntegut führen. beim biologischen pflanzenschutz werden nützliche organismen eingesetzt, die die schädlinge oder ihre entwicklungsstadien ausschalten oder auf andere weise negativ beeinflussen. die termingerechte massenaufzucht sowie der freilandeinsatz solcher nutzorganismen sind jedoch sehr schwierig. auch ist die wirkung nicht immer zufriedenstellend, da die nützlinge sich langsamer entwickeln als die schädlinge. der vorliegenden erfindung liegt nun die aufgabe zugrunde, ein verbessertes verfahren zur bekämpfung von schädlingen an pflanzen zu schaffen, bei dem die o.a. mängel bekannter massnahmen nicht auftreten. es hat sich gezeigt, dass diese aufgabe mit dem erfindungsgemässen verfahren in technisch sehr fortschrittlicher weise gelöst werden kann, indem die pflanzen mit uv-licht einer oder mehrerer wellenlängen von 200 - 400 nm kontinuierlich oder intermittierend bestrahlt werden. vorzugsweise wird uv-licht einer oder mehrerer wellenlängen von 280 - 315 nm eingesetzt und die pflanzen werden mit einer intensität von 2 - 300 mw/m2 bestrahlt. die intensität und die dauer der bestrahlung kann in abhängigkeit von der jeweiligen pflanzenart innerhalb dieser grenzen variiert werden, so dass eine schädigung der pflanze ausgeschlossen ist. so kann z.b. getreide mit einer intensität von etwa 200 bis etwa 250 mw/m2 bestrahlt werden, ohne dass eine schädigung eintritt. die lichtstrahlung kann sowohl kontinuierlich als auch intermittierend eingesetzt werden. zur erzeugung der lichtstrahlung können fluoreszenzlampen mit oder ohne leuchttoff, gasentladungslampen, laser und andere lichtquellen,dlt ein geeignetes spektrum erzeugen, verwendet werden. die dauer der bestrahlung ist ebenfalls von der zu behandelnden pflanzenart und den zu bekämpfenden schädlingen abhängig. der wesentliche vorteil der erfindung ist darin zu sehen, dass keine chemikalien eingesetzt werden, so dass es zu keiner rückstandsbildung und keinem belag von chemikalien auf den pflanzen kommt. ferner ist keine wartezeit zwischen der behandlung und der verwertung des ernteguts erforderlich. die behandlung ist ausserdem nicht von der schädlingsart abhängig. die nachfolgenden beispiele erläutern das erfindungsgemässe verfahren: beipiel 1 verhinderung des befalls von sommerweizen "kolibri" mit getreidemehltau (erysiphe graminis): mit dem getreidemehltau infizierte weizenpflanzen werden im gewächshaus mit licht der wellenlänge 280 - 315 nm mit einer intensität von 120 mw . m 2 über 8 stunden/tag bestrahlt.nach der behandlung zeigten die pflanzen keine krankheitsanzeichen. dagegen wiesen die nicht bestrahlten pflanzen unter den gleichen bedingungen an 169 halmen zusammen 1800 befallstellen allein am obersten halmblatt auf. beispiel 2 verhinderung des befalls von kartoffelpflanzen "grandifoliaw mit der welkekrankheit (phytophthora infestans): im freiland werden auf einer versuchfläche von 200 m2 kartoffelpflanzen mit dem erreger infiziert und anschliesst unter den im beispiel 1 angegebenen bedingungen bestrahlt. die behandelten
+</DESCRIPTION>
+<CLAIMS>
+ patentansprüche   1. verfahren zur bekämpfung von schädlingen an pflanzen, dadurch gekennzeichnet, dass die pflanzen mit uv-licht einer oder mehrerer wellenlängen von 200 - 400 nm kontinuierlich oder intermittierend bestrahlt werden.   2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass die pflanzen mit uv-licht einer oder mehrerer wellenlängen von    2 280 - 315 nm mit einer intensität von 2 - 300 mw/m2 bestrahlt    werden, wobei die intensität und die dauer der bestrahlung so ausgewählt werden, dass eine schädigung der zu bestrahlenden pflanze nicht eintritt.     3. verfahren nach anspruch 1 und 2, dadurch gekennzeichnet, dass zur erzeugung der uv-bestrahlung fluoreszenzlampen, gasentladungslampen oder laser eingesetzt werden.  
+</CLAIMS>
+</TEXT>
+</DOC>

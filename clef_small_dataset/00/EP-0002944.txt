@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002944
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-35/14 <main>G03B-35/14</main> G03B-35/00 G03B-27/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for marking a plurality of film frames each containing an image of the same subject.
+</TITLE>
+<APPLICANT>
+three dimensional photographyus<sep>the three dimensional photography corporation<sep>the three dimensional photography corporation955 yonkers avenueyonkers new york 10704us<sep>the three dimensional photography corporation <sep>
+</APPLICANT>
+<INVENTOR>
+campbell james bernard<sep>smith edgar charles<sep>campbell, james bernard<sep>smith, edgar charles<sep>campbell, james bernard270 seaman avenuenew york, n.y. 10034us<sep>smith, edgar charles2169 23rd street, long island cityqueens, new york 11105us<sep>campbell, james bernard <sep>smith, edgar charles  <sep>campbell, james bernard270 seaman avenuenew york, n.y. 10034us<sep>smith, edgar charles2169 23rd street, long island cityqueens, new york 11105us<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus and method for processing a plurality  of film frame images of the same subject, particularly in  the production of a parallax stereogram, i. e. , free vision  stereogram.  the images on a film strip (83) or other plurality  of frames are optically viewed to establish homologous  points for each film frame image.  in one embodiment  two images are optically superimposed to establish a  stereo base distance.  each film frame (91) is then marked  in accordance with the homologous points or with the  stereo base distance.  the marking (90) may be mechanical  or may be optically generated.  each film frame (91) is  thereafter aligned or sensed while in an enlarger (13), the  marks (90) establishing the accurate registration of each  frame.  each film frame (91) is exposed onto a photo-sensitive  material (95) using a movable line grid (97).  a  lenticular screen (96) is superimposed over the developed  picture to form the stereoscopic photograph.  
+</ABSTRACT>
+</TEXT>
+</DOC>

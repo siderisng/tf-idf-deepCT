@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011021
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-31/0296 H01L-33/00 H01L-21/205 H01L-31/12 <main>H01L-31/12</main> H01L-31/0264 H01L-21/02 H01L-31/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for making semiconductor components with optoelectronic conversion properties.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel  <sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>
+</APPLICANT>
+<INVENTOR>
+bensahel daniel<sep>pfister jean-claude<sep>revoil louis<sep>bensahel, daniel<sep>pfister, jean-claude<sep>revoil, louis<sep>bensahel, daniel12, boulevard maréchal leclercf-38000 grenoblefr<sep>pfister, jean-claude24, lotissement eden montbonnotf-38330 saint ismierfr<sep>revoil, louis22, rue sisteronf-38170 seyssinet parisetfr<sep>bensahel, daniel<sep>pfister, jean-claude <sep>revoil, louis  <sep>bensahel, daniel12, boulevard maréchal leclercf-38000 grenoblefr<sep>pfister, jean-claude24, lotissement eden montbonnotf-38330 saint ismierfr<sep>revoil, louis22, rue sisteronf-38170 seyssinet parisetfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A method of producing a semiconducroductory component with optoelectronic conversion properties.This process is characterized in that it comprises the following steps: a) on a wafer (1) in semiconductor type ZNTE type P, B) the upper surface of said wafer to a double diffusion ofan accepting impurity and a donor impurity in an oxidizing medium, so that we create in ZNTE, on the one hand a wedge zone of thick (xj) with high resistivity and on the other hand, superficially a zone ofInjection of low thickness (XI), C) is made on both sides of said plate with a metal contact.application to the realization of visualization screens and the reading of data.
+</ABSTRACT>
+</TEXT>
+</DOC>

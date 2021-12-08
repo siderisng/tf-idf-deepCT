@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014025
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-11/00 G01N-33/44 G01N-11/02 <main>G01N-11/02</main> G01N-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for measuring modulus of a plastic polymer.
+</TITLE>
+<APPLICANT>
+monsanto co us  <sep>monsanto company<sep>monsanto company800 north lindbergh boulevardst. louis missouri 63167us<sep>monsanto company<sep>
+</APPLICANT>
+<INVENTOR>
+barking robert irving<sep>rice patrick francis<sep>barking, robert irving<sep>rice, patrick francis<sep>barking, robert irving636 chestnut boulevardcuyahoga falls ohio 44221us<sep>rice, patrick francis14915 pocono circlechesterfield missouri 63017us<sep>barking, robert irving  <sep>rice, patrick francis<sep>barking, robert irving636 chestnut boulevardcuyahoga falls ohio 44221us<sep>rice, patrick francis14915 pocono circlechesterfield missouri 63017us<sep>
+</INVENTOR>
+<ABSTRACT>
+the modulus of a plastic polymer is measured by  extruding a strand of the polymer vertically downward  through an orifice while accurately measuring the diameter  of the strand, cutting off the strand and weighing it, and  dividing the strand weight by the square of the difference  in strand diameter to give a quotient representative of the  modulus of the polymer.  the method and apparatus are  especially useful in measuring the green strength of a  vulcanizable elastomer, so as to characterize its behavior  during processing into a finished article.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017280
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-61/12 H01J-61/20 H01J-61/00 H01J-61/96 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+blended lamp.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>koninklijke philips electronics n.v.<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>
+</APPLICANT>
+<INVENTOR>
+glenny alfred edmund trevornl<sep>van vliet johannes adrianus jnl<sep>glenny, alfred edmund trevor<sep>van vliet, johannes adrianus josephus maria<sep>glenny, alfred edmund trevorc/o int. octrooibureau b.v. b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van vliet, johannes adrianus josephus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+in a blended lamp, an incandescent filament and a  high-pressure discharge tube are arranged electrically in  series.  according to the invention the filament (8) forms part of  a halogen incandescent lamp (2) and the discharge tube  contains a sodium amalgam which is very rich in mercury.  a  relatively high lumen per watt-value is thereby combined  with an acceptable colour of the light.  
+</ABSTRACT>
+</TEXT>
+</DOC>

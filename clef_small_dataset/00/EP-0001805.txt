@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001805
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60T-17/08 B60T-17/00 <main>F16D-65/32</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spring-loaded brake cylinder with mechanical release.
+</TITLE>
+<APPLICANT>
+knorr bremse gmbhde  <sep>knorr-bremse gmbh<sep>knorr-bremse agpostfach 40 10 6080710 münchende<sep>knorr-bremse gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+nadas julius<sep>staltmeir josef<sep>wosegien bernd<sep>nadas, julius<sep>staltmeir, josef<sep>wosegien, bernd<sep>nadas, juliuskleiststrasse 10d-8057 echingde<sep>staltmeir, josefdantestrasse 18d-8000 münchen 19de<sep>wosegien, berndringseisstrasse 8d-8000 münchen 2de<sep>nadas, julius<sep>staltmeir, josef<sep>wosegien, bernd <sep>nadas, julius kleiststrasse 10 d-8057 echingde<sep>staltmeir, josefdantestrasse 18d-8000 münchen 19de<sep>wosegien, berndringseisstrasse 8d-8000 münchen 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a spring storage brake cylinder with mechanical release device, in which the clamping piston (2) is coupled to a kilbene rod (29) via a non-self-locking threaded spindle drive (23, 27) loaded by the storage spring (12). A portion (27) of the threaded spindle drive (23, 27) is pressurably held on the piston rod (29); The other part (23) is rotatably supported with axial play against the clamping piston (2) and torque-integrally coupled with a coupling ring (10). The storage spring (12) is unavoidably on the coupling ring (10), which in turn is rotatably supported against the clamping piston (2). On the other hand, the tension spring (12) is connected to a spring plate (13), which is rotatably supported by an axial bearing (14) against the cylinder housing (1). Between the cylinder housing (1) and the spring plate (13) is an arbitrarily switchable locking coupling (16, 18) by means of which the spring plate (13) is fixed. The barrier clutch can be designed as a side-side throughdrawing tooth coupling or as a friction clutch. In mechanical release by operating the locking coupling, a part of the energy releasing during relaxation of the storage spring (12) is reacted in rotation energy of the storage spring of the (12).
+</ABSTRACT>
+</TEXT>
+</DOC>

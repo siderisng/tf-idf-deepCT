@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002970
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22B-3/36 B01D-15/04 C01G-15/00 C22B-58/00 <main>C22B-58/00</main> C22B-3/00 B01D-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the extraction of gallium and gallium recovered thereby.
+</TITLE>
+<APPLICANT>
+rhone poulenc indfr<sep>rhone-poulenc industries<sep>rhone-poulenc specialites chimiques"les miroirs" 18, avenue d'alsace92400 courbevoiefr<sep>rhone-poulenc specialites chimiques <sep>
+</APPLICANT>
+<INVENTOR>
+helgorsky jacques<sep>leveque alain<sep>helgorsky, jacques<sep>leveque, alain<sep>helgorsky, jacques21, rue de la républiquef-95740 frepillonfr<sep>leveque, alain8-10, rue maninf-75019 parisfr<sep>helgorsky, jacques <sep>leveque, alain  <sep>helgorsky, jacques21, rue de la républiquef-95740 frepillonfr<sep>leveque, alain8-10, rue maninf-75019 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a liquid / liquid extraction method of gallium contained in basic aqueous solutions.According to the invention, the aqueous solution is connected with an organic phase containing mainly an organic solvent, at least one substituted hydroxy-8 quinoline and at least one organic compound comprising at least one carboxylic acid function.The method is particularly applicable to gallium recovery of Bayer process aluminate laundry.
+</ABSTRACT>
+</TEXT>
+</DOC>

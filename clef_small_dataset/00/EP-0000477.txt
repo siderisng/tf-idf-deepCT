@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000477
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/36 <main>A61N-1/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mandible stimulator.
+</TITLE>
+<APPLICANT>
+jankelson bernardus<sep>jankelson, bernard<sep>jankelson, bernard1451 medical-dental buildingseattle, washington 98101us<sep>jankelson, bernard <sep>
+</APPLICANT>
+<INVENTOR>
+jankelson bernard<sep>radke john c<sep>jankelson, bernard<sep>radke, john c.<sep>jankelson, bernard1451 medical-dental buildingseattle, washington 98101us<sep>radke, john c.5260 16th avenue, n.e.seattle, washington 98105us<sep>jankelson, bernard<sep>radke, john c.  <sep>jankelson, bernard1451 medical-dental buildingseattle, washington 98101us<sep>radke, john c.5260 16th avenue, n.e.seattle, washington 98105us<sep>
+</INVENTOR>
+<ABSTRACT>
+a mandible stimulator for causing involuntary mandibular  closure operating in either a "test" mode for measuring the  conductivities in a pair of electrode circuits or a "pulse" mode  for generating adjustable amplitude constant current pulses  in the electrode circuits.  in the "test" mode a constant voltage  is applied to left and right electrode circuits.  a first comparator  circuit flashes respective "open" circuit warning lamps (30) if  the current through either of the electrodes is less than a  preset value, and it flashes a "good" connection indicator  lamp (32) if the current through both electrodes is greater than  the preset value.  a second comparator circuit detects a current  unbalance between the electrode circuits and flashes  respective "low" current warning lamps (34) in response  thereto.  in the "pulse" mode an oscillator repetatively  charges a capacitor to a high voltage through a pulse transformer,  and the high voltage is then gated to a control circuit  which generates a current pulse having an adjustable amplitude  through the electrode circuits.  the amplitude of the  current through one electrode circuit with respect to the current  through the other electrode circuit may be adjusted with a  balance control (26).  
+</ABSTRACT>
+</TEXT>
+</DOC>

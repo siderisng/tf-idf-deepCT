@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009239
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-45/36 C07C-47/575 C07C-47/542 B01J-23/54 B01J-23/76 B01J-23/88 B01J-23/16 B01J-23/652 <main>C07C-45/36</main> B01J-23/24 B01J-23/89 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing p-substituted benzaldehydes.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+krabetz richard dr dipl-chem<sep>siegel hardo dr dipl-chem<sep>krabetz, richard, dr. dipl.-chem.<sep>siegel, hardo, dr. dipl.-chem.<sep>krabetz, richard, dr. dipl.-chem.unterer waldweg 8d-6719 kirchheimde<sep>siegel, hardo, dr. dipl.-chem.hans-purrmann-allee 25d-6720 speyerde<sep>krabetz, richard, dr. dipl.-chem.<sep>siegel, hardo, dr. dipl.-chem.<sep>krabetz, richard, dr. dipl.-chem.unterer waldweg 8d-6719 kirchheimde<sep>siegel, hardo, dr. dipl.-chem.hans-purrmann-allee 25d-6720 speyerde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the preparation of a p-substituted benzaldehyde of the formula  see diagramm : ep0009239,p6,f1  where r is methyl, methoxy or tertiary butyl, by vapor phase oxidation of an alkylbenzene of the formula  see diagramm : ep0009239,p6,f2  where r' is alkyl, with oxygen or an oxygen-containing gas in the presence of a molybdenum-containing catalyst at temperatures of from 150 degrees to 600 degrees c, characterized in that a metal oxide catalyst is used which has a composition corresponding to the general formula mo12 mea-1 meb-2 mec-3 mec-3 med-4 ox where me**1 is one or more of the elements bi, co, ni, fe, w, nb and ta, me**2 is one or more of the elements k, rb, cs, tl, and in, me**3 is one or more of the elements p, b, sb, v, sr and cr, me**4 is one or more of the elements mn, re, pd, ir, rh, cu, sn, zn, sm, mg, ce, ag, li, as, ba and ca, a is a number from 0 to 24, but if w is present, is a number from 0. 5 to 110, b is a number from 0. 01 to 0. 2, but if more than 0. 5 atom of bi, v or p is present, is a number from 0. 01 to 6, c is a number from 0 to 6, but if a is 0, is a number from 0. 5 to 5, d is a number from 0 to 10, and x is the number which results formally from the sum of metal atoms and phosphorus atoms present and their highest oxidation state. 
+</ABSTRACT>
+</TEXT>
+</DOC>

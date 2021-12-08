@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013974
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/34 G01K-11/00 G02B-6/42 G02B-6/26 G08C-23/04 G02B-5/28 G01D-5/353 G01K-11/12 G08C-23/00 G01D-5/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for a fabrey-perot multiple beam fringe sensor.
+</TITLE>
+<APPLICANT>
+rockwell international corpus<sep>rockwell international corporation<sep>rockwell international corporation2230 east imperial highway el segundo california 90245 us <sep>
+</APPLICANT>
+<INVENTOR>
+james kenneth allanus<sep>quick william henryus<sep>strahan virgil haskellus<sep>james, kenneth allan<sep>quick, william henry<sep>strahan, virgil haskell<sep>james, kenneth allan320 iris avenuecorona del mar, ca 92625us<sep>quick, william henry1818 kanola roadlahabra heights, ca 90631us<sep>strahan, virgil haskell2519 dorothy driveorange, ca 92619us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and the resulting apparatus for implementing  a unique multiple beam fringe sensor that is adapted to be  interfaced with a low cost, compact fiber optic transmission  system in order to provide an accurate digital representa­ tion of a physical parameter (e.  g.  temperature) of a re­ mote sample.  the sensor is fabricated so as to include a  fabrey-perot gap (2) formed between the ends of two  mated optical (10, 12) fibers.  by examining the optical  characteristics of light that is transmitted through the  fabrey-perot sensor gap (2), an indication of gap width  can be ascertained.  accordingly, a change in fabrey-perot  sensor gap width is related to a change in the particular  physical parameter to be measured.  
+</ABSTRACT>
+</TEXT>
+</DOC>

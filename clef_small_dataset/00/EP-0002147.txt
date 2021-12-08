@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002147
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-93/04</main> C07C-213/00 C07C-217/00 C07C-67/00 C07C-217/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of tris(3-oxa-5-hydroxy-pentyl)amine.
+</TITLE>
+<APPLICANT>
+rhone poulenc indfr<sep>rhone-poulenc industries  <sep>rhone-poulenc industries22 avenue montaigne75008 parisfr<sep>rhone-poulenc recherches <sep>
+</APPLICANT>
+<INVENTOR>
+leludec joel<sep>soula gerard<sep>leludec, joel<sep>soula, gerard<sep>leludec, joel11, rue de boyerf-69005 lyonfr<sep>soula, gérard33, rue nungesserf-69330 meyzieufr<sep>leludec, joel<sep>soula, gerard  <sep>leludec, joel11, rue de boyerf-69005 lyonfr<sep>soula, gérard33, rue nungesserf-69330 meyzieufr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for preparing tris(5-hydroxy 3-oxa pentyl)amine, characterized in that an alkali-metal monoglycolate dissolved in glycol is condensed on tris(2-chloroethyl)amine hydrochloride in a molar ratio monoglycolate/chlorhydrate between 4 and 5, and then the tris(5-hydroxy 3-oxa pentyl)amine obtained is distilled. 
+</ABSTRACT>
+</TEXT>
+</DOC>

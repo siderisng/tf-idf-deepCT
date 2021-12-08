@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013982
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08C-15/06 <main>H04M-11/00</main> G08C-19/00 H04M-11/00 G08C-15/00 H04Q-9/14 H04M-11/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for remote sensor monitoring, metering and control.
+</TITLE>
+<APPLICANT>
+metretek incus<sep>metretek incorporated<sep>metretek incorporated724a east new haven avenuemelbourne, fla.us<sep>metretek incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+bushman w thomas<sep>paraskevakos theodoros<sep>bushman, w. thomas<sep>paraskevakos, theodoros<sep>bushman, w. thomas2504 country club roadmelbourne floridaus<sep>paraskevakos, theodoros1017 eastman avenue, s.e.palm bay floridaus<sep>bushman, w. thomas<sep>paraskevakos, theodoros<sep>bushman, w. thomas2504 country club roadmelbourne floridaus<sep>paraskevakos, theodoros1017 eastman avenue, s.e.palm bay floridaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a remote unit for a remote meter reading system.  the  remote unit (110) initiates a telephone call to a central  complex (100) at a predetermined callback time.  in re­ sponse to an acknowledgement signal indicative of a com­ pleted connection, the remote unit transmits indicia of its  identity and collected data.  the central complex responds  with an instruction word, to control the next scheduled  callback time and operational mode of the remote unit.   error code, load management and demand metering pro­ visions are disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

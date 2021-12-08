@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007712
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-13/00 <main>F15B-11/05</main> F15B-13/01 F16K-17/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+load control and holding valve.
+</TITLE>
+<APPLICANT>
+modular controls corpus<sep>modular controls corporation<sep>modular controls corporation742 north princetonvilla park illinois 60181us<sep>modular controls corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+kosarzecki constantine<sep>kosarzecki, constantine<sep>kosarzecki, constantine415 cypress courtschaumburg illinois 60172us<sep>kosarzecki, constantine<sep>kosarzecki, constantine415 cypress courtschaumburg illinois 60172us<sep>
+</INVENTOR>
+<ABSTRACT>
+a counterbalance valve assembly for use in a hydraulic  system including a hydraulic cylinder arranged to raise and  lower a load includes a relief valve and a dashpot means to  avoid abrupt variations in the load lowering rate.  the coun­ terbalance valve includes an outer barrel (90) having  an inner valve seat (114), and an inner barrel (92) having an  outer relief valve surface (112) with the seat (114) and surface  (112) forming the relief valve.  the inner barrel (92) also  includes a flange (116) smaller than the inner dimension of the  outer barrel (90) to allow fluid to fill an outer barrel chamber  (118) to form the dashpot means.  the inner barrel (92) is  movable within the outer barrel (90) for opening the relief  valve to allow fluid to flow from the cylinder to lower the load.   the dashpot means dampens inner barrel movement and the  surface (112) has a long taper rendering the fluid flow rate  from the cylinder less sensitive to inner barrel (92) movement  to afford gradual and continuous lowering of the load.  
+</ABSTRACT>
+</TEXT>
+</DOC>

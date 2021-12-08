@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001710
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C03C-3/12 C03C-8/24 C04B-37/00 <main>C04B-35/50</main> C04B-37/02 C03C-3/19 H01J-61/36 C03C-8/00 C04B-35/50 C03C-3/15 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a heat resistant sealing composition, a method of making this composition, a method of making a ceramic-cermet seal in electric discharge devices and the device thus obtained.
+</TITLE>
+<APPLICANT>
+thorn emi ltdgb<sep>thorn emi limited<sep>thorn emi plcthorn emi house upper saint martin's lanelondon, wc2h 9edgb<sep>thorn emi plc  <sep>
+</APPLICANT>
+<INVENTOR>
+hing peter<sep>khan ehsan ullah<sep>hing, peter<sep>khan, ehsan ullah<sep>hing, peterthorn house upper saint martin's lanelondon wc2h 9edgb<sep>khan, ehsan ullahthorn house upper saint martin's lanelondon wc2h 9edgb<sep>hing, peter<sep>khan, ehsan ullah<sep>hing, peterthorn house upper saint martin's lanelondon wc2h 9edgb<sep>khan, ehsan ullahthorn house upper saint martin's lanelondon wc2h 9edgb<sep>
+</INVENTOR>
+<ABSTRACT>
+this sealing composition comprises a rare earth oxide,  such as lanthanum oxide, and boric oxide, preferably together  with minor amounts of phosphorus pentoxide, aluminium  oxide and magnesium oxide.  preferred compositions comprise 55 to 95% lanthanum or  other oxide, 5 to 45% boric oxide and 0 to 5% magnesium  oxide.  the compositions can be made by mixing the oxides,  or appropriate salts, calcining the mixture at up to 1200°c and  crushing it to a powder.  they may be used as frits in a slurry or  formed into pressed elements such as discs or wasbers.  sealing  can be accomplished by heating the surfaces to be joined,  together with the interposed sealing composition, to a temperature  between 1100 and 1650°c.  
+</ABSTRACT>
+</TEXT>
+</DOC>

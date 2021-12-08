@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017475
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01F-1/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+acoustic flowmeter with reynolds number compensation.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus <sep>westinghouse electric corporation<sep>westinghouse electric corporation westinghouse building gateway center pittsburgh pennsylvania 15222us<sep>
+</APPLICANT>
+<INVENTOR>
+bistrian jr john michaelus<sep>wright lawrence gordonus<sep>bistrian, jr., john michael<sep>wright, lawrence gordon<sep>bistrian, jr., john michaelp.o. box 61gibson island marylandus<sep>wright, lawrence gordon8270 fenton lanepasadena marylandus<sep>
+</INVENTOR>
+<ABSTRACT>
+an acoustic flowmeter wherein pulses of acoustic ener­ gy are transmitted between upstream and downstream  transducers through the field under measurement and  wherein the arithmetic computation of the velocity based  upon the difference in time measurement of the oppositely-­ directed pulses is modified by predetermined factors to  automatically compensate for errors caused by a reynolds  number change due to flow velocity change.  
+</ABSTRACT>
+</TEXT>
+</DOC>

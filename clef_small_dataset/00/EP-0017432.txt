@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017432
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04N-5/08</main> H04N-5/10 H04N-5/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vertical sync signal separator.
+</TITLE>
+<APPLICANT>
+rca corpus<sep>rca corporation<sep>rca corporation30 rockefeller plazanew york, ny 10020us<sep>rca corporation <sep>
+</APPLICANT>
+<INVENTOR>
+meise william harry<sep>meise, william harry<sep>meise, william harrybox 138 route 413wrightstown pennsylvania 18940us<sep>meise, william harry <sep>meise, william harrybox 138 route 413wrightstown pennsylvania 18940us<sep>
+</INVENTOR>
+<ABSTRACT>
+a composite video signal is coupled to the input (34) of a  tapped delay line (151) of a vertical synchronizing signal  separator (50).  a detector (154) applies pulse compression to  the delay line outputs (501-606), and thereby determines the  presence of the vertical sync signal profile within the  sampled portion of the composite video.  an output signal  (55) is produced by the separator (50) when the appropriate  vertical sync profile is thus detected.  the delay line may be a  charge transfer device.  this reduces the problem of noise sensitivity, to which  prior art vertical synchronization pulse separators are unde­ sirably subject; noise tends to cause jitter and other mistim­ ing manifestations in pictures reproduced from the video  signal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011417
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-47/263 C07C-47/27 C07D-487/04 C07C-47/277 C07C-45/27 C07D-487/00 <main>C07C-47/27</main> C07C-47/198 C07C-47/19 C07C-45/56 C07C-47/20 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optically active or racemic aminal derivatives, process for preparing same and for converting same to alpha-hydroxyaldehydes.
+</TITLE>
+<APPLICANT>
+sumitomo chemical cojp<sep>sumitomo chemical company limited<sep>sumitomo chemical company, limitedkitahama 4-chome 5-33chuo-ku osaka 541jp<sep>sumitomo chemical company, limited<sep>
+</APPLICANT>
+<INVENTOR>
+asami masatoshi<sep>mukaiyama teruaki<sep>sakito yoji<sep>asami, masatoshi<sep>mukaiyama, teruaki<sep>sakito, yoji<sep>asami, masatoshi1272-27 kudenchototsuka-ku, yokohamajp<sep>mukaiyama, teruaki15-18 minamiogikubo-1-chomesuginami-ku, tokyojp<sep>sakito, yoji1-27 kitamachi-4-chomekichijoji, musashino-shijp<sep>asami, masatoshi<sep>mukaiyama, teruaki<sep>sakito, yoji<sep>asami, masatoshi1272-27 kudenchototsuka-ku, yokohamajp<sep>mukaiyama, teruaki15-18 minamiogikubo-1-chomesuginami-ku, tokyojp<sep>sakito, yoji1-27 kitamachi-4-chomekichijoji, musashino-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+an optically active or racemic α-hydroxyaldehyde of  formula    wherein r₁ represents a c₆-c₁₄ aryl group, c₁-c₁₀ alkyl group,  c₃-c₁₀ alkenyl group, c₂-c₁₀ alkynyl group, c₇-c₁₄ aralkyl  group, or a group containing a functional group in the organic  portion of said groups and r₂ represents a c₁-c₁₀ alkyl group,  c₂-c₁₀ alkenyl group, c₂-c₁₀ alkynyl group, c₇-c₁₄ aralkyl  group, c₆-c₁₄ aryl group or a group containing a functional  group in the organic portion of these groups, which is an  important intermediate for preparation of pharmaceuticals  and agricultural chemicals and can be prepared by reacting an  optically active or racemic compound of formula    wherein a represents a c₆-c₁₄ aryl group or a c₁-c₄ alkyl or  alkoxy group- or halogen-substituted c₆-c₁₄ aryl group and r₁  is as defined above, with a grignard reagent, and thereafter  hydrolyzing the reaction product.  the compound of formula (1) above can for example be  prepared by reaction of an arylglyoxal with an optically active  or racemic 2-(n-substituted aminomethyl)pyrrolidine or by  reacting a grignard reagent with an optically active or racemic  diazabicyclooctane derivative which itself can be prepared  from a glyoxylate ester or glyoxylate ester hemiacetal and a  2(-n-substituted aminomethyl)pyrrolidine.  
+</ABSTRACT>
+</TEXT>
+</DOC>

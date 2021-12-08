@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003331
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03B-41/18</main> G03B-42/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+x-ray film cassette.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert ag camera-werk<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+bauer walter<sep>bauer, walter<sep>bauer, walterheinrich-wieland-strasse 178d-8000 münchen 83de<sep>bauer, walter <sep>bauer, walterheinrich-wieland-strasse 178d-8000 münchen 83de<sep>
+</INVENTOR>
+<ABSTRACT>
+An X-ray film cassette has a bottom part (1), a lid portion (2) and connecting elements for closing the two cassette parts.At a cassette part, a magnetic plate (8) for the film size is arranged approximately equal to the same magnetic plate (8) and in the other cassette part, a counter-plate (10) of a material sufficiently large magnetic moment receiving material.With closed cassette, amplifier foil (9) and film between magnetic disk (8) and counter-plate (10) are amplifier foil (9) and film.In such a cartridge, an absolutely uniform pressure between the amplifier foil and X-ray film is ensured, whereby the absorption ratios are improved.
+</ABSTRACT>
+</TEXT>
+</DOC>

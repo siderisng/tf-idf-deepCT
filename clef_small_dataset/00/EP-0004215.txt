@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004215
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-25/04 H01Q-19/08 <main>H01Q-19/08</main> H01Q-25/00 H01Q-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multimode microwave source and monopulse antenna incorporating such a source.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+bouko jean<sep>coquio claude<sep>salvat francois<sep>bouko, jean<sep>coquio, claude<sep>salvat, francois<sep>bouko, jean"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>coquio, claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>salvat, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>bouko, jean<sep>coquio, claude <sep>salvat, francois<sep>bouko, jean "thomson-csf" - scpi 173, bld haussmann f-75360 paris cedex 08 fr<sep>coquio, claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>salvat, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Mixed multimode hyper-frequency source plan E, plane H constituted by a multimode structure with cornet (13) in the opening of which are arranged parallel to the electric field, bars (14, 15) or metal slats (141, 151).The bars or slats constitute discontinuities at the level of which is generated an odd mode of type H30, the entire source also becoming a multimode structure h.Application to the realization of multimode antennas in which the primary sources are of reduced footprint.
+</ABSTRACT>
+</TEXT>
+</DOC>

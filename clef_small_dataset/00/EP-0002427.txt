@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002427
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05D-23/19</main> F24F-11/06 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for temperature control of chill water and steam in heating, ventilating, air conditioning (hvac) systems.
+</TITLE>
+<APPLICANT>
+united technologies corpus<sep>united technologies corporation<sep>united technologies corporation <sep>
+</APPLICANT>
+<INVENTOR>
+games john early<sep>healey david morgan<sep>games, john early<sep>healey, david morgan<sep>games, john early<sep>healey, david morgan  <sep>games, john early24 zimmer roadgranby, ct 06035us<sep>healey, david morgan99 forest hill roadfeeding hills, ma 01030us<sep>
+</INVENTOR>
+<ABSTRACT>
+in an hvac network having a common thermal source (12) for providing thermal fluid to one or more hvac systems (18, 19, 20) in the network which control the volume of thermal fluid circulating therethrough in dependence on the thermal energy demand from temperature regulated living spaces (46, 48) associated with each through position modulation of an associated fluid valve apparatus (34, 36) from a full closed position for a minimum volume to a full open position for maximum volume, electronic processing means (26) is provided in combination with dedicated sensing apparatus (86) for sensing the actual position of each fluid valve apparatus and the actual source discharge temperature (118, 120), the electronic processing means (26) providing a determination of the magnitude of the greatest thermal energy demand within a short term interval in dependence on the most open of the actual valve position signals, and for further providing modulation of the source discharge temperature over the short term interval in dependence on the magnitude of the greatest thermal energy demand. 
+</ABSTRACT>
+</TEXT>
+</DOC>

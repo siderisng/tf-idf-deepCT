@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009212
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07B-9/00 <main>C07D-213/61</main> C07D-213/26 C07D-213/61 C07D-213/64 C07D-213/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing 2-chloro-5-trichloromethylpyridine.
+</TITLE>
+<APPLICANT>
+ishihara mining & chemical cojp<sep>ishihara sangyo kaisha ltd.<sep>ishihara sangyo kaisha ltd.no. 3-11, edobori 1-chomenishi-ku osaka-shi osaka 550jp<sep>ishihara sangyo kaisha ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+awazu takao<sep>fujikawa kanichi<sep>kawashima junichi<sep>nasu rikuo <sep>nishiyama ryuzo <sep>yokomichi isao<sep>awazu, takao<sep>fujikawa, kanichi<sep>kawashima, junichi<sep>nasu, rikuo<sep>nishiyama, ryuzo<sep>yokomichi, isao<sep>awazu, takaono. 21, otowa-morimawari-choyamashina-ku kyoto-shi, kyoto-fujp<sep>fujikawa, kanichi6-1, nishishibukawa 2-chomekusatsu-shi, shigakenjp<sep>kawashima, junichino. 242, minakuchi-chouta, koga-gun shiga-kenjp<sep>nasu, rikuono. 337, jyofukuji-higashiiru ichijyodourikamigyo-ku kyoto-shi, kyoto-fujp<sep>nishiyama, ryuzo41-22, magami-cho, 5-chometakatsuki-shi, osaka-fujp<sep>yokomichi, isao321-31, fuke-chomoriyama-shi, shiga-kenjp<sep>awazu, takao<sep>fujikawa, kanichi<sep>kawashima, junichi<sep>nasu, rikuo<sep>nishiyama, ryuzo<sep>yokomichi, isao<sep>awazu, takaono. 21, otowa-morimawari-cho yamashina-ku kyoto-shi, kyoto-fu jp  <sep>fujikawa, kanichi6-1, nishishibukawa 2-chomekusatsu-shi, shigakenjp<sep>kawashima, junichino. 242, minakuchi-chouta, koga-gun shiga-kenjp<sep>nasu, rikuono. 337, jyofukuji-higashiiru ichijyodourikamigyo-ku kyoto-shi, kyoto-fujp<sep>nishiyama, ryuzo41-22, magami-cho, 5-chometakatsuki-shi, osaka-fujp<sep>yokomichi, isao321-31, fuke-chomoriyama-shi, shiga-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+2-chloro-5-trichloromethylpyridine of the formula (i):    is produced in high yield by reacting β-picoline of the for­ mula (ii):    with chlorine in a gaseous phase at 300 to 500°c.  e. g.  330  to 470°c, in a residence time of 0. 5 to 60 seconds, in the  presence of an inert diluent of nitrogen, a halogenated me­ thane, a halogenated ethane, a halogenated ethylene or a  mixture thereof.  2-chloro-5-trichlormonomethylpyridine is useful as an  intermediate for medicines, agricultural chemicals, dyes,  especially herbicides.  
+</ABSTRACT>
+</TEXT>
+</DOC>

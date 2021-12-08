@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005461
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/338 H01L-29/36 H01L-21/265 <main>H01L-29/80</main> H01L-29/02 H01L-29/812 H01L-29/66 H01L-21/02 H01L-29/80 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+metal semiconductor field effect transistor(mesfet)and method for its manufacture.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+ristow dietrich dr<sep>ristow, dietrich, dr.<sep>ristow, dietrich, dr.pappelstrasse 35d-8014 neubibergde<sep>ristow, dietrich, dr.<sep>ristow, dietrich, dr.pappelstrasse 35d-8014 neubibergde<sep>
+</INVENTOR>
+<ABSTRACT>
+MESFET with Source range (13), drain region (11) and in the gate area (15) of each other high doping of the preferably gallium arsenide semiconductor material (2).Increase the voltage resistance without magnification of parasitic resistors.
+</ABSTRACT>
+</TEXT>
+</DOC>

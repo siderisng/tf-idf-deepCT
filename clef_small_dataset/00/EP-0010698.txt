@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010698
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16C-35/04 F16C-27/08 F16C-23/00 <main>F16C-23/04</main> F16C-35/077 F16C-27/00 F16C-27/06 F16C-23/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+support for spherical bearings.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+stuwe botho<sep>vobel wilhelm<sep>stuwe, botho<sep>vobel, wilhelm<sep>stüwe, bothosudetenstrasse 18d-8510 fürthde<sep>vobel, wilhelmschlesierstrasse 6d-8510 fürthde<sep>stuwe, botho <sep>vobel, wilhelm<sep>stüwe, bothosudetenstrasse 18d-8510 fürthde<sep>vobel, wilhelmschlesierstrasse 6d-8510 fürthde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a holder for calotte bearings and faces the task of simplifying such a holder, which is to be arranged on the use of clamping glasses ver.According to the invention, a ring (33) is provided between the calotte bearing (32) and the bearing bearing element (30) and a ring (33) of an elastomer or felt and dome bearing (32) and bearing bearing element (30) are in the region of this ring (33) with grooves (34;35) provided.The holder according to the invention for calotte bearings is used in particular with pumps with spal tube motors for the formation of the electrolyte fluid in fuel-line aggregates.
+</ABSTRACT>
+</TEXT>
+</DOC>

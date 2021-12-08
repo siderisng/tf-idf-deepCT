@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008739
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03F-1/00</main> H04N-1/00 H04N-1/40 G06T-1/00 H04N-1/405 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reprographic apparatus capable of reproducing various tone and line originals and methods of operation thereof.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation  <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+janeway iii donald lee<sep>janeway iii, donald lee<sep>janeway iii, donald lee501 ash streetbroomfield colorado 80020us<sep>janeway iii, donald lee<sep>janeway iii, donald lee501 ash streetbroomfield colorado 80020us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of reproducing a mixed content original (e. g.   one comprising half-tone and printed matter) comprises  operating a recording device according to a selected one of a  plurality of different algorithms.  the algorithm used is  selected according to the rate of change of reflectance or  transmittivity of the zone being reproduced.  in the example  two reference values are established to define three ranges  and the instantaneous value of the rate of change is compared  therewith to determine in which of the three ranges it lies.  for  one range the currently operating algorthm is maintained, for  a second range one algorithm is used and for the third range a  second algorithm is used.  the figure shows facsimile apparatus comprising a  a threshold switch 7 which determines which range contains  the instaneous value of the rate of change.  the switch 7  provides an output to the threshold devices, 15, 17 which  determine the mode of operation of the recording device  (printer) 19.  
+</ABSTRACT>
+</TEXT>
+</DOC>

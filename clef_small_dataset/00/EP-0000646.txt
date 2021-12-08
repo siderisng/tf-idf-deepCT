@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000646
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-13/00 B29C-71/04 B29C-71/00 B29C-35/08 G21K-5/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for the radiation curing of cable insulation.
+</TITLE>
+<APPLICANT>
+akzona inc us<sep>akzona incorporated  <sep>akzona incorporatedasheville north carolina 28802us<sep>
+</APPLICANT>
+<INVENTOR>
+dwyer irving nus<sep>dwyer, irving n.<sep>dwyer, irving n.stanton lanepreston connecticut, 06360us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process and apparatus for curing the insulation of a  cable using radiation, as the cable is fed from a payoff reel 2 to  a takeup reel 3.  in order to ensure that the insulation is substantially  uniformly cured the cable is caused to pass not only  linearly in close proximity to an irradiation spread source 38,  but is also caused to rotate continuously about its longitudinal  axis through 360°.  this is achieved by rotating each reel about  a respective axis to cause cable to be fed from the reel 2 to the  reel 3, and about a second axis to cause rotation of the cable  about its longitudinal axis.  
+</ABSTRACT>
+</TEXT>
+</DOC>

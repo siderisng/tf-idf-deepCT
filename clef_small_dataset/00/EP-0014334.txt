@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014334
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B64D-15/12 H01R-39/00 H02J-1/00 B64D-15/00 <main>B64D-15/12</main> B64D-15/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for sequentially distributing electrical power to a plurality of load elements on a rotating member.
+</TITLE>
+<APPLICANT>
+goodrich co b fus<sep>the b.f. goodrich company<sep>the b.f. goodrich company500 south main streetakron, ohio 44318us<sep>the b.f. goodrich company<sep>the b.f. goodrich company <sep>
+</APPLICANT>
+<INVENTOR>
+adams lowell john<sep>adams, lowell john<sep>adams, lowell john906 beachler roadtallmadge, ohio 44278us<sep>adams, lowell john<sep>adams, lowell john<sep>adams, lowell john906 beachler roadtallmadge, ohio 44278us<sep>
+</INVENTOR>
+<ABSTRACT>
+a helicopter deicing control system (10) is provided for  selectively distributing d. c.  electrical power to a plurality of  deicing segments (80, 90) on main and tail rotor blades with  only two slip-ring assemblies (60 and 61, 62 and 63) for each  rotor drive shaft.  a power distribution controller (20) receives  electrical power from the helicopter's onboard, fixed electrical  power system and provides an output signal including power  and control d. c.  electrical signals of opposite polarities.  a  distributor (70) receives the output signal from controller (20)  and increments a rotary switch (74) upon receipt of a d. c.   electrical control signal, and distributes power to the main  rotor deicing segment (90) connected to the rotary switch (74)  contact then engaged upon the receipt of a d. c.  electrical  power signal so as to sequentially deliver d. c.  electrical  power to the desired main rotor deicing segment.  controller (20) includes provisions for individually pre­ selecting the operating time for each deicing segment (80, 90),  testing the operation and providing a continuous visual indi­ cation of the operational status of deicing control system (10).  
+</ABSTRACT>
+</TEXT>
+</DOC>

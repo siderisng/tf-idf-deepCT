@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003280
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01S-3/097</main> H01S-3/038 H01S-3/0975 H01S-3/097 H01S-3/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+waveguide gas laser with transverse discharge excitation.
+</TITLE>
+<APPLICANT>
+hughes aircraft co us  <sep>hughes aircraft company<sep>hughes aircraft company7200 hughes terrace, p.o. box 80028los angeles, california 90080-0028us<sep>hughes aircraft company<sep>
+</APPLICANT>
+<INVENTOR>
+laakmann katherine d<sep>laakmann, katherine d.<sep>laakmann, katherine d.23821 dasya circlelaguna niguel californiaus<sep>laakmann, katherine d.<sep>laakmann, katherine d.23821 dasya circlelaguna niguel californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+waveguide lasers are disclosed which are excited by  means of a transverse discharge at rf frequencies generally  in the vhf-uhf range, i. e. , from about 30 mhz to about 4 ghz.   these excitation frequencies are sufficiently high to ensure  negligible interaction of discharge electrons with the discharge-establishing  electrodes (10 and 12), thereby achieving  superior discharge properties which result in a laser of  improved performance and reduced size and complexity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

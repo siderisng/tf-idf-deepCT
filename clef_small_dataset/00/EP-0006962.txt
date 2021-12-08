@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006962
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-71/10 H01H-71/56 H01H-71/70 <main>H01H-71/50</main> H01H-71/54 H01H-3/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+driving device for a low-voltage power circuit breaker.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+habedank klaus-dieter<sep>troebel werner<sep>habedank, klaus-dieter<sep>troebel, werner<sep>habedank, klaus-dieterufnaustrasse 17d-1000 berlin 21de<sep>troebel, werneralt-gatow 57/59d-1000 berlin 22de<sep>habedank, klaus-dieter<sep>troebel, werner<sep>habedank, klaus-dieterufnaustrasse 17d-1000 berlin 21de<sep>troebel, werneralt-gatow 57/59d-1000 berlin 22de<sep>
+</INVENTOR>
+<ABSTRACT>
+A drive device (10) having a low voltage circuit breaker (1) having a lining lever (6) comprising of this outstanding rocker arm (6) and a housing (10) has a housing (12) and a deflection mechanism mounted therein with a fork-shaped, drivable by a rotational movement lever (32) for converting the rotational movement into a rectilinear movement required to actuate the rocker lever (6). On the fork arms (30, 31) of the lever (32) radially to the axis of rotation (33) a slider (21) is slidably guided, which has a circular cylindrical opening (22) for a substantially spherical head piece (16), which with a Recording opening (20) for the end of the rocker lever (6) is provided. On the housing (12) of the drive device (10) a slide (40) is attached as a lead surface for the headstuck (16). On a shaft stump (34) of the fork-shaped lever (32), for example, an actuating handle (36) may be attached.
+</ABSTRACT>
+</TEXT>
+</DOC>

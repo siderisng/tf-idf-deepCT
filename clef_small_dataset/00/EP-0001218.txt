@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001218
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23Q-3/157</main> B23Q-3/157 B23Q-3/155 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic tool changer for machine tools.
+</TITLE>
+<APPLICANT>
+kearney & trecker corpus<sep>kearney & trecker corporation<sep>kearney &amp; trecker corporation11000 theodore trecker waymilwaukee, wisconsin 53214us<sep>kearney & trecker corporation <sep>
+</APPLICANT>
+<INVENTOR>
+zankl frank esq<sep>zankl, frank, esq.<sep>zankl, frank, esq.2835 cambridge circlebrookfield 53005 wisconsinus<sep>zankl, frank, esq. <sep>zankl, frank, esq.2835 cambridge circlebrookfield 53005 wisconsinus<sep>
+</INVENTOR>
+<ABSTRACT>
+an automatic tool changer for machine tools in which a  tool changer drum (40) is rotatably mounted on a machine  tool for rotation about an axis (42) which is perpendicular to  the spindle axis thereof.  a plurality of tool changer arms (46)  are swingably mounted on the tool changer drum (40) for  swinging movement along radii of the drum (40) between a  storage position parallel to the plane (50) of the drum (40) and  a transfer position perpendicular to the plane (50) of the drum  (40).  a pneumatic cylinder (90) is used to index the tool  changer drum (40) to place any selected tool changer arm (46)  in the ready position (92).  another pneumatic cylinder (96) is  used to swing the ready tool changer arm (46).  before the tool  transfer operation, the spindle is moved to a tool transfer  position in which the swinging movement of the tool changer  arm (46) either places a toolholder in the spindle or removes a  toolholder therefrom.  
+</ABSTRACT>
+</TEXT>
+</DOC>

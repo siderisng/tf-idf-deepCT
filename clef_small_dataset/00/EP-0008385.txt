@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008385
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C21D-9/46 C21D-10/00 C21D-8/12 H01F-1/147 <main>C21D-8/12</main> H01F-1/16 H01F-1/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+grain-oriented electromagnetic steel sheet and method for its production.
+</TITLE>
+<APPLICANT>
+nippon steel corpjp<sep>nippon steel corporation<sep>nippon steel corporation<sep>
+</APPLICANT>
+<INVENTOR>
+ichiyama tadashi<sep>iuchi tohru<sep>kuroki katsuro<sep>yamaguchi shigehiro<sep>ichiyama, tadashi<sep>iuchi, tohru<sep>kuroki, katsuro<sep>yamaguchi, shigehiro<sep>ichiyama, tadashi<sep>iuchi, tohru<sep>kuroki, katsuro <sep>yamaguchi, shigehiro  <sep>ichiyama, tadashi3281-15 ohnumasagamihara-shi kanagawa-kenjp<sep>iuchi, tohru64, idasanmai-cho nakahara-kukawasaki-shi kanagawa-kenjp<sep>kuroki, katsuro102-40, tetsuo 2-chome yahatanishi-kukitakyushu-shi fukuoka-kenjp<sep>yamaguchi, shigehiro7-5, hatori 2-chomefujisawa-shi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a grain-oriented electromagnetic steel sheet (1) with improved watt loss w17/50 and a method for its production is described, whereby steel sheet (1), which has been subjected to final high-temperature annealing in order to approximate the crystal orientation of the sheet in a (110) [001] orientation is irradiated with a laser beam (2).  thanks to the laser beam irradiation, regions of high dislocation density (d) are locally formed in the steel sheet (1) and thereby magnetic domains are subdivided, with the result that a low watt loss is activated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

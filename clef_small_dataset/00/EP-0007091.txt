@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007091
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01M-6/12 H01M-6/04 H01M-2/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+leak-proof alkaline cell and its production
+</TITLE>
+<APPLICANT>
+hitachi maxelljp<sep>hitachi maxell ltd.<sep>hitachi maxell ltd.no 1-1-88, ushitora ibaraki-shiosaka-fujp<sep>
+</APPLICANT>
+<INVENTOR>
+kirihara sonaejp<sep>matsushima seiichijp <sep>taniguchi yasuyoshijp   <sep>uetani yoshiojp<sep>yokoyama kenichijp<sep>kirihara, sonae<sep>matsushima, seiichi<sep>taniguchi, yasuyoshi<sep>uetani, yoshio<sep>yokoyama, kenichi<sep>kirihara, sonae3-11-10, sawaraginishi, ibarakiosakajp<sep>matsushima, seiichi2-16-1, shinsenrinishi-machi, toyonakaosakajp<sep>taniguchi, yasuyoshi2-7-12, koyamichi, hirakataosakajp<sep>uetani, yoshio1-11-15, nishiai, ibarakiosakajp<sep>yokoyama, kenichi40-20, takenouchi-cho, takatsukiosakajp<sep>
+</INVENTOR>
+<ABSTRACT>
+a leak-proof alkaline cell comprising a positive can, a  negative cap fitted at the opening end of the positive can and a  gasket provided between the positive can and the negative  cap, the rim of the positive can being crimped inwardly so as  to press the gasket to the negative cap, the negative cap made  of a metal plate laminated with a copper layer which is to be  contacted with a negative electrode active material mix and  also extend to the outer surface of the negative cap faced to  the gasket, characterized in that the copper layer is eliminated  at the ultimate terminal edge on the turn-up part.  
+</ABSTRACT>
+</TEXT>
+</DOC>

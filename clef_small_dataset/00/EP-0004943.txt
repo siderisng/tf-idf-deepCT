@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004943
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08J-5/20 <main>B01D-13/04</main> B01D-71/00 B01D-39/18 C08L-1/00 C08L-1/12 C08J-5/22 B01D-71/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+asymmetric cellulose triacetate-based ultrafiltration membranes and method of fabrication thereof.
+</TITLE>
+<APPLICANT>
+sartorius gmbhde<sep>sartorius gmbh.<sep>sartorius gmbh.weender landstrasse 94-108d-3400 göttingende<sep>sartorius gmbh.<sep>
+</APPLICANT>
+<INVENTOR>
+franken walter dr dipl-chem<sep>nussbaumer dietmar dr dipl che<sep>perl horst dr dipl-chem<sep>weickhardt ludwig<sep>franken, walter, dr. dipl.-chem.<sep>nussbaumer dietmar, dr. dipl. chem.<sep>perl, horst, dr. dipl.-chem.<sep>weickhardt, ludwig<sep>franken, walter, dr. dipl.-chem.heinrich-deppe-ring 24d-3406 bovenden 1de<sep>nussbaumer dietmar, dr. dipl. chem.am kalten born 39d-3400 göttingende<sep>perl, horst, dr. dipl.-chem.planckstrasse 8d-3400 göttingende<sep>weickhardt, ludwighasenwinkel 8d-3406 bovenden 1de<sep>franken, walter, dr. dipl.-chem.<sep>nussbaumer dietmar, dr. dipl. chem.<sep>perl, horst, dr. dipl.-chem. <sep>weickhardt, ludwig<sep>franken, walter, dr. dipl.-chem. heinrich-deppe-ring 24 d-3406 bovenden 1 de <sep>nussbaumer dietmar, dr. dipl. chem.am kalten born 39d-3400 göttingende<sep>perl, horst, dr. dipl.-chem.planckstrasse 8d-3400 göttingende<sep>weickhardt, ludwighasenwinkel 8d-3406 bovenden 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+In an asymmetric dry ultrafiltration membrane based on cellulose triacetate, optionally mixed with -diacetate, which contains a wettability promoting addition, hydrophobized synthetic silica is used as the wettability promoting addition.
+</ABSTRACT>
+</TEXT>
+</DOC>

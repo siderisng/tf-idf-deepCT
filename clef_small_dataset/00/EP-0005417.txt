@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005417
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/139 <main>G02F-1/13</main> G02F-1/1347 F16P-1/00 F16P-1/06 A61F-9/06 G09F-9/46 G02F-1/13 A61F-9/04 B23K-9/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiple layer protective glass.
+</TITLE>
+<APPLICANT>
+hornell ake gunnar<sep>hornell, ake gunnar<sep>hörnell, ake gunnartjärnhedsvägen 2s-780 41 gagnefse<sep>hornell, ake gunnar  <sep>
+</APPLICANT>
+<INVENTOR>
+hornell ake gunnar<sep>hornell, ake gunnar<sep>hörnell, ake gunnartjärnhedsvägen 2s-780 41 gagnefse<sep>hornell, ake gunnar<sep>hörnell, ake gunnartjärnhedsvägen 2s-780 41 gagnefse<sep>
+</INVENTOR>
+<ABSTRACT>
+a multiple layer protective glass, particularly a protective  glass for a welding shield, for damping the light transmission, the  layers of which are in turn comprised at least of a first polarizer  (2), a first electrooptical cell (3), a second polarizer (4), a second  electrooptical cell (5) and a third polarizer (6), the electrooptical  cells consisting of liquid crystals (9a and 9b respectively)  enclosed between transparent parallel plates (7a, 8a und 7b, 8b  respectively) coated with electrically conducting layers (10a,11a  und 10b, 11b respectively), said crystals being arranged in their  non-excited condition to form a helically twisted structure for  rotating the plane of polarization of the passing polarized light.   the planes of polarization of the first and the second polarizer  (2, 4) are at right angles to each other, that the planes of  polarization of the second and the third polarizer (4, 6) enclose  an angle which is between 0° and 60°.  the angle of rotation of  the helical structure formed by the liquid crystals in the second  electrooptical cell (5) is between 90° and 30° and the said angle  and the angle of rotation are complementary angles.  means (13)  are provided for exciting the two electrooptical cells (3, 5) in  opposite modes by the application of a voltage between the  conducting layers (10a, 11a; 10b, 11b) of the electrooptical cell.  
+</ABSTRACT>
+</TEXT>
+</DOC>

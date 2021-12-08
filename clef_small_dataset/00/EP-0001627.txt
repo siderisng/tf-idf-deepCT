@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001627
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07D-498/00 C07F-7/10 A61K-31/41 A61P-31/00 C07D-477/20 C07C-205/42 C07D-205/08 C07D-477/26 A61K-31/40 C07F-7/00 C07D-477/00 C07D-498/04 C07D-205/00 A61K-31/397 A61P-31/04 <main>C07D-487/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3-substituted-6-(1'hydroxethyl)-7-oxo-1-azabicyclo(3.2.0.)-hept-2-ene-2-carboxylic acid, its preparation and pharmaceutical compositions containing it.
+</TITLE>
+<APPLICANT>
+merck & co incus<sep>merck & co. inc.<sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us<sep>merck & co. inc. <sep>
+</APPLICANT>
+<INVENTOR>
+christensen burton grant<sep>johnston david bruce randolph<sep>schmitt susan margaret<sep>christensen, burton grant<sep>johnston, david bruce randolph<sep>schmitt, susan margaret<sep>christensen, burton grant350 east lafayette st. apt. 1a, bldg. 10metuchen, n.j. 08840us<sep>johnston, david bruce randolph53 round top roadwarren, n.j. 07060us<sep>schmitt, susan margaret1949 mary ellen lanescotch plains, n.j. 07076us<sep>christensen, burton grant<sep>johnston, david bruce randolph<sep>schmitt, susan margaret<sep>christensen, burton grant350 east lafayette st. apt. 1a, bldg. 10metuchen, n.j. 08840us<sep>johnston, david bruce randolph53 round top roadwarren, n.j. 07060us<sep>schmitt, susan margaret1949 mary ellen lanescotch plains, n.j. 07076us<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed are 3-substituted-6-(1′-hydroxyethyl)-7-oxo-1-azabicyclo  [3. 2. 0] hept-2-ene -2-carboxylic acids having the  structure:    wherein rx is, inter alia, selected from the group consisting of  hydrogen, alkyl, alkenyl, aryl and aralkyl.  such compounds as  well as their pharmaceutically acceptable 0- and carboxyl  derivatives are useful as antibiotics.  also disclosed are processes  for the preparation of such compounds, pharmaceutical  compositions comprising such compounds and methods  of treatment comprising administering such compounds and  compositions when an antibiotic effect is indicated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

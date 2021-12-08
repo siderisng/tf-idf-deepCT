@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000844
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05F-1/56</main> G05F-1/56 G05F-1/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor circuit arrangement for controlling a controlled device.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+kirsch howard clayton<sep>kirsch, howard clayton<sep>kirsch, howard claytonr.d. 1, box 173emmaus pennsylvania 18049us<sep>kirsch, howard clayton<sep>kirsch, howard claytonr.d. 1, box 173emmaus pennsylvania 18049us<sep>
+</INVENTOR>
+<ABSTRACT>
+the current in a controlled device such as a light emitting  diode (led) 10, driven by a transistor switch q₁, is stabilized  by a current control circuit including a comparator type feed-back  network q₃, q₄, q₅, q₆, which stabilizes the voltage at a  node 11 located between said switch q₁ and the series connection  of a ballast resistor r and led 10.  
+</ABSTRACT>
+</TEXT>
+</DOC>

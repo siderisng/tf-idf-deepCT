@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015412
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-45/69 C07C-45/51 C07C-41/00 C07C-49/587 C07C-45/00 C11B-9/00 C07C-45/62 <main>C07C-49/587</main> C07C-49/385 C07F-9/40 C07C-47/02 C07C-45/67 C07C-45/72 C07C-47/222 C07C-43/00 C07C-43/303 C07C-43/30 C07C-43/315 C07C-49/00 C07F-9/00 C07C-47/198 C07C-45/40 C07C-41/48 C07C-47/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+unsaturated macrocyclic ketones; their preparation; preparation of saturated macrocyclic ketones; application in perfume and flavour compositions of some unsaturated macrocyclic ketones.
+</TITLE>
+<APPLICANT>
+firmenich & ciech<sep>firmenich sa<sep>firmenich sacase postale 239ch-1211 genève 8ch<sep>firmenich sa<sep>
+</APPLICANT>
+<INVENTOR>
+buchi george h<sep>wuest hans<sep>buchi, george h.<sep>wuest, hans<sep>büchi, george h.100 memorial drivecambridge, mass.us<sep>wüest, hans100 memorial drivecambridge, mass.us<sep>buchi, george h.<sep>wuest, hans<sep>büchi, george h.100 memorial drivecambridge, mass.us<sep>wüest, hans100 memorial drivecambridge, mass.us<sep>
+</INVENTOR>
+<ABSTRACT>
+unsaturated ketones of formula    possessing two single or two double bonds in the positions  indicated by the dotted lines (n = 1 or 2) are prepared by  reacting, in the presence of a basic reagent, a dialdehyde  of formula    wherein the index n and the dotted lines have the above  meaning with a diphosphonate of formula    (ro)₂--ch₂--ch₂-(or)₂ (iii)   wherein r represents an alkyl radical.  preparation of unsaturated ketones of formula    wherein r¹ represents a lower alkyl radial and n stands for  1 or 2, and  
+</ABSTRACT>
+</TEXT>
+</DOC>

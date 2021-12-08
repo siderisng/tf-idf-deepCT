@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004506
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24H-9/20 F24H-1/12 F24H-1/10 <main>F24H-1/14</main> F24H-1/14 G05D-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for heating a liquid to a given temperature.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr <sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industriel b.p. 510 f-75752 paris cedex 15 fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>
+</APPLICANT>
+<INVENTOR>
+denis jean-luc<sep>dewulf roger<sep>germain michel<sep>lecointre christian<sep>denis, jean-luc<sep>dewulf, roger<sep>germain, michel<sep>lecointre, christian<sep>denis, jean-luc14, avenue jean perrinf-92330 sceauxfr<sep>dewulf, roger44, avenue de la mutualitéf-91440 bures sur yvettefr<sep>germain, michel82, chemin du moulinf-91460 marcoussisfr<sep>lecointre, christian47, rue albert matardf-77400 carnetinfr<sep>denis, jean-luc<sep>dewulf, roger<sep>germain, michel<sep>lecointre, christian <sep>denis, jean-luc 14, avenue jean perrin f-92330 sceauxfr<sep>dewulf, roger44, avenue de la mutualitéf-91440 bures sur yvettefr<sep>germain, michel82, chemin du moulinf-91460 marcoussisfr<sep>lecointre, christian47, rue albert matardf-77400 carnetinfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Device for carrying a liquid at a given temperature.The device comprises: - inside a vertical cylindrical speaker, a vertical tube, in which is placed a heating resistor, a first thin annular space of the liquid ascending circulation, a second annular descending circulation space of the liquid, aThird Annular Ascending Circulation Space, - Liquid Power Means at the bottom of the first annular space and liquid extraction means to the upper part of the third annular space, - means for controlling and maintaining constantThe temperature at which said liquid comes out of said device.Application to heating each liquid phases incorporating into a liquid-liquid extraction column.
+</ABSTRACT>
+</TEXT>
+</DOC>

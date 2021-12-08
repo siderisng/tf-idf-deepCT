@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014543
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01T-1/00 H01T-1/14 H01T-4/04 H01T-3/00 H01T-4/00 <main>H02H-9/06</main> H01J-17/18 H01T-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+surge voltage arrester with ventsafe feature.
+</TITLE>
+<APPLICANT>
+reliable electric cous<sep>reliable electric company<sep>reliance electric company29325 chagrin blvd.cleveland, ohio 44122us<sep>reliance electric company <sep>
+</APPLICANT>
+<INVENTOR>
+gilberts alexander george<sep>gilberts, alexander george<sep>gilberts, alexander georger.r. 3, box 224 church roadalgonquin, illinois 60102us<sep>gilberts, alexander george<sep>gilberts, alexander georger.r. 3, box 224 church roadalgonquin, illinois 60102us<sep>
+</INVENTOR>
+<ABSTRACT>
+a surge voltage arrester assembly comprises a primary  gas tube surge arrester (22) and an air gap secondary arrester  that provides surge protection should the gas tube become  vented to atmosphere.  the secondary arrester has the air gap  (42) defined by a rim (40) of one of the gas tube electrodes and  a metallic cup (36) into which the gas tube is positioned.  in a  three element version of the invention wherein the gas tube  has two line electrodes (70, 70) and a ground electrode (72),  metallic cups (80,80) are provided at opposite ends of the gas  tube to cooperate with the ground electrode for forming sec­ ondary air gaps (86) for each line electrodes.  an o-ring (53,88)  and a sealing compound (90) seals each secondary air gap  (86) against the entrance of contaminants.  
+</ABSTRACT>
+</TEXT>
+</DOC>

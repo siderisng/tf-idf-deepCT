@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011849
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-233/12 C07C-231/12 <main>C07C-103/84</main> C07C-231/02 C07C-231/00 C07C-231/08 C07C-237/46 C07C-237/00 C07C-233/00 C07C-67/00 A61K-49/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2,4,6-triiodo-isophthalamic acid derivatives, their preparation and x-ray contrast agents based on these compounds.
+</TITLE>
+<APPLICANT>
+schering agde<sep>schering aktiengesellschaft berlin und bergkamen<sep>schering aktiengesellschaftd-13342 berlinde<sep>schering aktiengesellschaft berlin und bergkamen  <sep>
+</APPLICANT>
+<INVENTOR>
+klieger erich dr<sep>mutzel wolfgang dr<sep>klieger, erich, dr.<sep>mutzel, wolfgang, dr.<sep>klieger, erich, dr.augsburger strasse 25d-1000 berlin 30de<sep>mützel, wolfgang, dr.weddigenweg 74d-1000 berlin 45de<sep>klieger, erich, dr.<sep>mutzel, wolfgang, dr.<sep>klieger, erich, dr.augsburger strasse 25d-1000 berlin 30de<sep>mützel, wolfgang, dr.weddigenweg 74d-1000 berlin 45de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to compounds of general formula I wherein R₁ is an optionally substituted alkyl radical, R₂, R₃ and R₄ represents a hydrogen atom or a lower alkyl radical, R₅ represents an optionally hydroxy or methoxy-substituted lower alkyl radical, n the numbers 1, 2 or 3 means and Z represents an -a-NHCH₃-REST, Woring A is an amino acid residue which is bonded to -NHCH₃ and with its NH group at Co, or Z represents a straight-chain or branched lower hydroxyalkylamino residue, When R₁ has a monohydroxy or monoalkoxy-substituted lower alkyl radical and / or R₃, optionally hydroxy or methoxy-substituted low alkyl radical, and their lower alkyl esters with alkanols whose salts with physiologically acceptable bases, a method for producing the compound of the general formula I and their use as a shading substance in Röntgenko Ntrastants.
+</ABSTRACT>
+</TEXT>
+</DOC>

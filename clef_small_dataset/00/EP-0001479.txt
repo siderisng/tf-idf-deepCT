@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001479
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07C-205/06 B01J-31/00 C07C-201/00 C07C-205/19 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of nitrophenylhydroxyacetylene and conversion to nitrophenylacetylene
+</TITLE>
+<APPLICANT>
+gulf research development cous<sep>gulf research & development company <sep>gulf research &amp; development companyp.o. box 2038pittsburgh pennsylvania 15230 us  <sep>
+</APPLICANT>
+<INVENTOR>
+sabourin edward thomasus<sep>selwitz charles myronus<sep>sabourin, edward thomas<sep>selwitz, charles myron<sep>sabourin, edward thomas4324 winchester driveallison park pennsylvania 15101us<sep>selwitz, charles myron1169 princeton roadmonroeville pennsylvania 15146us<sep>
+</INVENTOR>
+<ABSTRACT>
+nitrophenylacetylene and certain precursors to nitrophenylacetylene are prepared by reacting a nitrobromobenzene with a substituted terminal acetylene compound containing at least three carbon atoms and a hydroxy group on the carbon atom adjacent to the acetylene group in the presence of a dialkyl or trialkyl amine solvent and a catalyst system consisting of a palladium complex containing two halogen moities and two tri-substituted phosphine moieties.  a cuprous iodide promoter is also employed in the reaction sequence.  
+</ABSTRACT>
+</TEXT>
+</DOC>

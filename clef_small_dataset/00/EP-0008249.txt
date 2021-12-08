@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008249
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-471/00 A61K-31/55 <main>C07D-471/16</main> C07D-471/16 C07D-471/14 A61K-31/505 C07D-471/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluorene and fluoranthene derivatives, process for their preparation and their therapeutic application.
+</TITLE>
+<APPLICANT>
+synthelabofr<sep>synthelabo<sep>synthelabo22, avenue galilée f-92350 le plessis robinsonfr<sep>synthelabofr<sep>synthelabo<sep>
+</APPLICANT>
+<INVENTOR>
+dupont regis <sep>frost jonathan reid<sep>koletar gabor itsvan<sep>lardenois patrick andre louis<sep>morel claude constant henri<sep>dupont, regis<sep>frost, jonathan reid<sep>koletar, gabor itsvan<sep>lardenois, patrick andre louis<sep>morel, claude constant henri<sep>dupont, régis 141 bld de la garef-75013 parisfr<sep>frost, jonathan reid122 résidence les eaux-vivesf-91120 palaiseaufr<sep>koletar, gabor itsvan212 dogwood laneberkeley heights, new jersey 07922us<sep>lardenois, patrick andré louis18, rue varenguef-92340 bourg-la-reinefr<sep>morel, claude constant henri15, rue de la bergerief-91300 massyfr<sep>dupont, regis<sep>frost, jonathan reid <sep>koletar, gabor itsvan<sep>lardenois, patrick andre louis  <sep>morel, claude constant henri <sep>dupont, régis 141 bld de la garef-75013 parisfr<sep>frost, jonathan reid122 résidence les eaux-vivesf-91120 palaiseaufr<sep>koletar, gabor itsvan212 dogwood laneberkeley heights, new jersey 07922us<sep>lardenois, patrick andré louis18, rue varenguef-92340 bourg-la-reinefr<sep>morel, claude constant henri15, rue de la bergerief-91300 massyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+derivatives of fluorenes and fluoranthenes, in the form of racemates or enantiomers, responding to the formula (I) in which N is 1 or 2, R₁ is a hydrogen or halogen atom or alkyl radical or alkoxy, R₂is a hydrogen atom, alkyl radical, cyclo alkyl, cycloalkylalkyl, benzyl, halo-benzyl, alkyl-benzyl, alkoxy-benzyl, acyl, alkoxycarbonyl or alkyl aminocarbonyl, r₃ is a hydrogen atom or alkyl radical, r₄is a hydrogen atom, an alkyl, acyl, or aroyl radical, the alkyl and alkoxy having from 1 to 4 carbon atoms.application in therapeutic.
+</ABSTRACT>
+</TEXT>
+</DOC>

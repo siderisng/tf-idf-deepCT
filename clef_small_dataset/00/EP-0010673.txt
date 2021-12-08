@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010673
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 <main>C07C-103/34</main> C07C-323/00 C07C-233/88 C07C-233/13 C07C-303/00 A01N-37/22 C07C-143/68 C07D-333/00 C07C-303/28 C07D-261/18 A01N-43/64 C07C-323/60 C07D-307/68 C07D-261/00 C07C-235/00 A01N-43/72 C07C-331/14 C07C-333/00 C07D-231/12 A01N-43/02 A01N-37/26 C07C-233/09 C07C-271/00 C07C-333/08 C07D-233/61 A01N-37/34 C07D-333/38 C07C-103/58 A01N-47/10 C07D-249/08 C07C-67/00 C07C-301/00 C07C-303/30 C07D-231/00 C07C-309/00 C07C-309/64 C07D-249/00 C07D-521/00 C07C-331/00 C07C-325/00 C07C-233/07 A01N-43/00 C07C-253/00 C07D-307/00 C07D-247/00 C07C-255/00 C07C-313/00 C07D-233/00 A01N-43/653 C07C-149/23 C07C-271/28 C07C-235/68 C07C-161/03 A01N-43/80 C07C-255/27 A01N-47/20 A01N-47/48 C07D-309/00 C07D-309/12 A01N-43/08 C07C-233/00 C07C-235/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted n-propargyl anilines, process for their preparation and their use as fungicides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+brandes wilhelm dr<sep>lunkenheimer winfried dr<sep>stetter jorg dr<sep>brandes, wilhelm, dr.<sep>lunkenheimer, winfried, dr.<sep>stetter, jorg, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5653 leichlingende<sep>lunkenheimer, winfried, dr.bismarkstrasse 29d-5600 wuppertal-1de<sep>stetter, jörg, dr.pahlkestrasse 3d-5600 wuppertal-1de<sep>brandes, wilhelm, dr.<sep>lunkenheimer, winfried, dr.<sep>stetter, jorg, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5653 leichlingende<sep>lunkenheimer, winfried, dr.bismarkstrasse 29d-5600 wuppertal-1de<sep>stetter, jörg, dr.pahlkestrasse 3d-5600 wuppertal-1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  substituted n-propargyl-anilines of the general formula  see diagramm : ep0010673,p37,f3  in which r**1 , r**2 , r**3 , r**4 and r**5 represent hydrogen and alkyl with 1 to 4 carbon atoms, and furthermore r**1 additionally represents halogen and r**5 additionally represents phenyl which is optionally substituted by halogen, alkyl with 1 to 4 carbon atoms and nitro, and halogen, r**6 represents tetrahydrofuryl, thiophenyl, tetrahydrothiophenyl, optionally methyl- or ethyl-substituted isoxazolyl, and optionally cyano- or thiocyano-substituted alkyl with 1 to 4 and alkenyl and alkinyl each with 2 to 4 carbon atoms, and represents the groupings -ch2 -az, -ch2 -or**8 , -ch2 -sr**7 , -or**7 , -ch2 -oso2 r**8 , -coor**7 and  see diagramm : ep0010673,p38,f1  wherein r**7 and r**8 represent halogen-, cyano and thiocyano-substituted alkyl with 1 to 4 carbon atoms and alkenyl and alkinyl, with in each case 2 to 4 carbon atoms, which are optionally substituted by the indicated alkyl substituents and represents alkoxyalkyl with 1 to 4 carbon atoms in each alkyl part, and furthermore r**7 can additionally represent unsubstituted alkyl with 1 to 4 carbon atoms, and az represents pyrazol-1-yl) 1,2,4-triazol-1-yl and imidazol-1-yl. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009625
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06F-15/16</main> G06F-13/00 G06F-12/10 E01D-19/06 E01C-11/02 G06F-15/16 E01D-19/00 E01D-101/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data transfer commutator with associative address selection in a virtual store.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+nagel klaus dr<sep>nagel, klaus, dr.<sep>nagel, klaus, dr.forstenrieder allee 17d-8000 münchen 71de<sep>nagel, klaus, dr.<sep>nagel, klaus, dr.forstenrieder allee 17d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a data transfer switch with associative address selection in a virtual memory. In the construction of multiprocessor systems, efficient data exchange methods are to be provided for communication between the individual processors. Above all, two tasks are present. On the one hand, the data exchange must be quickly done to allow a high processing power of the entire system. On the other hand, the effort necessary for the realization of the data exchange must remain small even with a very large number of data to be exchanged. In particular, the storage space should be well utilized by who, by taking any single processor only the data he needed. It is known a data exchange method that causes the memory requirement for the replacement area by rotating. That this is created as a virtual memory is and that only memory areas for really needed datatan are also phy siconically realized. The virtual addresses are assigned to associative memory in this known method of associative memory. The invention has for its object to ver the required size of the necessary associates tivrace by improved addressing type.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013424
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-211/00 A61P-25/00 A61K-31/55 A61P-25/08 C07D-495/00 C07D-495/10 A61K-31/435 A61P-25/04 <main>C07D-495/10</main> A61P-25/20 A61K-31/445 C07D-211/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spiro(dibenzo(b,f)thiepine-piperidines), intermediate products for their preparation and medicaments containing them.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+ong helen hu<sep>profitt james arthur<sep>ong, helen hu<sep>profitt, james arthur<sep>ong, helen hubunker hill place 15 whippanynew jerseyus<sep>profitt, james arthurbarclay place 1805 goshenindiana 46526us<sep>ong, helen hu<sep>profitt, james arthur<sep>ong, helen hubunker hill place 15 whippanynew jerseyus<sep>profitt, james arthurbarclay place 1805 goshenindiana 46526us<sep>
+</INVENTOR>
+<ABSTRACT>
+Compounds of the formula or its pharmaceutically acceptable acid addition salts, wherein R for hydrogen, alkyl, alkenyl, alkynyl, hydroxyalkyl, cycloalkylalkyl, optionally substituted phenalkyl or phenoxyalkyl, alkanoyl, optionally substituted benzoylalkyl, alkanoyl, optionally substituted benzoylalkyl, cyan or an ethylene glycolketal of the formula X -- represents when R has the meaning given above, when R is alkanoyl, methyl or cyan, Y and Y 'are the same or different, and each hydrogen, chlorine, fluorine, bromine, methoxy, methylthio or trifluoromethyl can mean Nand n 'are equal or different and each can represent an integer from 1 to including 2 and M is an integer of 1 to 4 to including 4.These compounds are useful as analgesics, tranquilizers and anticonvulsants.
+</ABSTRACT>
+</TEXT>
+</DOC>

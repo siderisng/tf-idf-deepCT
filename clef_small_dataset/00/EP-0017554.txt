@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017554
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-15/097 <main>G01P-15/08</main> G01P-15/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+accelerometer using elastic waves.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+maerfeld charles<sep>maerfeld, charles<sep>maerfeld, charles"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>maerfeld, charles  <sep>maerfeld, charles"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Elastic wave accelerometer for measuring at least acceleration in one direction.The device comprises a massive support (20), a seismic mass (M) and a piezoelectric blade (15) in the seismic mass (M) and in the massive support (20).An acceleration γx according to an ox direction in the plane of the blade produces an extension in a portion of the blade and a compression in the other.Elastic waves (W₁) and (W₂) are excited in both portions of the blade.Two oscillators are obtained thanks to the amplifiers 41 and 42 and the frequency difference between the two oscillators is proportional to the acceleration γx.Application to accelerometers for navigation by inertia.
+</ABSTRACT>
+</TEXT>
+</DOC>

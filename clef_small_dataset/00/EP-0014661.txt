@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014661
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B63B-3/00 B63H-21/18 B63B-3/04 B63B-9/00 B63B-9/06 <main>B63H-21/18</main> B63H-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the installation of a nuclear-reactor block in a vessel.
+</TITLE>
+<APPLICANT>
+bretagne atel chantiersfr<sep>societe anonyme dite  ateliers et chantiers de bretagne acb<sep>alsthom-atlantique société anonyme dite:38, avenue kléberf-75784 paris cédex 16fr<sep>alsthom-atlantique societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+pierart robert<sep>pierart, robert<sep>pierart, robert46, boulevard des américainsf-44000 nantesfr<sep>pierart, robert  <sep>pierart, robert 46, boulevard des américainsf-44000 nantesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and a device for improving a nuclear propulsion vessel.According to the invention, a vessel is carried out in two prefabricated parts 2, 3 and a housing 5 is provided in part 2, in which, before assembly of the parts 2 and 3, a block 6 forming a nuclear reactor is introduced by horizontal translation.The invention applies to the construction of various nuclear nuclear ships, such as for example the icebreakers.
+</ABSTRACT>
+</TEXT>
+</DOC>

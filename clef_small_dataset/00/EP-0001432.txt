@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001432
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/00 B01J-31/00 C07C-51/09 <main>C07C-53/02</main> C07C-53/00 C07B-61/00 C07C-67/00 C07C-53/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of formic acid.
+</TITLE>
+<APPLICANT>
+basf agde  <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+hohenschutz heinz dr<sep>kiefer hans dr<sep>schmidt johannes e dr<sep>hohenschutz, heinz, dr.<sep>kiefer, hans, dr.<sep>schmidt, johannes e., dr.<sep>hohenschutz, heinz, dr.leibnizstrasse 12d-6800 mannheim 1de<sep>kiefer, hans, dr.im sandgarten 5d-6706 wachenheimde<sep>schmidt, johannes e., dr.pariser strasse 23d-6700 ludwigshafende<sep>hohenschutz, heinz, dr.  <sep>kiefer, hans, dr. <sep>schmidt, johannes e., dr.<sep>hohenschutz, heinz, dr.leibnizstrasse 12d-6800 mannheim 1de<sep>kiefer, hans, dr.im sandgarten 5d-6706 wachenheimde<sep>schmidt, johannes e., dr.pariser strasse 23d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+Production of formic acid by hydrolysis of methyl formate by taking the hydrolysis in the presence of 0.5 to 3. 0 moles per mole of methyl formate of a tertiary stick-containing base-containing base, which boiling under normal pressure at least at 180 ° C and which a pKa valuefrom 4 to 9, wherein N-substituted imidazole derivatives are preferred as bases.
+</ABSTRACT>
+</TEXT>
+</DOC>

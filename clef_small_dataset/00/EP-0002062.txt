@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002062
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07B-59/00 C07F-9/15 C07F-9/10 C07B-31/00 C07F-9/24 C07F-9/6574 C07F-9/6584 <main>C07F-9/65</main> C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cyclic organophosphorus compounds, method for their preparation and their use.
+</TITLE>
+<APPLICANT>
+max planck gesellschaftde<sep>max-planck-gesellschaft zur forderung der wissenschaften e.v.<sep>max-planck-gesellschaft zur förderung der wissenschaften e.v.bunsenstrasse 10d-37073 göttingende<sep>max-planck-gesellschaft zur forderung der wissenschaften e.v.<sep>
+</APPLICANT>
+<INVENTOR>
+eibl hansjorg dr<sep>eibl, hansjorg, dr.<sep>eibl, hansjörg, dr.steinweg 51d-3406 bovendende<sep>eibl, hansjorg, dr.<sep>eibl, hansjörg, dr.steinweg 51d-3406 bovendende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  compounds of the formula :  see diagramm : ep0002062,p16,f2 wherein r signifies the residue of mono- or polyhydroxy, primary or secondary aliphatic alcohol, which can be halogenated and/or contain one or more aliphatic ester or ether groups with 1 to 26 c-atoms in the side chain, which can also contain carbon-carbon multiple bonds, whereby the residue r contains altogether at least 6 c-atoms when it is derived from a monohydroxy alcohol and at least 3 c-atoms when it is derived from a polyhydroxy alcohol, x and x1 , independently of one another, each signify an oxygen atom, the nh group or n-lower alkyl with 1 to 6 c-atoms, whereby x and x1 do not simultaneously represent oxygen atoms, and n means the number 2, 3 or 4. 
+</ABSTRACT>
+</TEXT>
+</DOC>

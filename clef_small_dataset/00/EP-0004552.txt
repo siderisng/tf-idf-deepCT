@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004552
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25C-1/08 F25C-5/08 F25D-21/06 F25D-21/12 F25C-5/00 F24D-11/00 F28D-20/02 F24D-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat accumulator containing water as means for heat storage and method to unload the heat accumulator.
+</TITLE>
+<APPLICANT>
+sulzer agch<sep>gebrueder sulzer aktiengesellschaft<sep>gebrüder sulzer aktiengesellschaftzürcherstrasse 9ch-8401 winterthurch<sep>
+</APPLICANT>
+<INVENTOR>
+ehrsam christian drch<sep>ehrsam, christian, dr.<sep>ehrsam, christian, dr.wallrütistrasse 119ch-8400 winterthurch<sep>
+</INVENTOR>
+<ABSTRACT>
+by means of the ice/water phase change in the heat accumulator, which advantageously serves as a seasonal or long-time store, the storage capacity is increased considerably.  the reduced heat transmission, which occurs after ice formation, is improved in that the ice formation takes place on a large number of heat-transmission units (6), each of which has a heat-transmission lamella (10) which is connected metallically in a heat-conducting manner to a pipe (8) and a tube (9).  through the tube (9), which is an evaporator tube of a heat pump, a refrigerating agent flows, which drains heat and brings about the ice formation, while through the pipe (8), a heat transport medium flows, which supplies heat and brings about a thawing of the ice (14).  operation takes place intermittently, heat supply being continued before every discharging or ice-forming period until the ice has thawed from the heat-transmission units (6) and, by its buoyancy in the specifically heavy water, has been removed from the region of the volume of the heat-transmission units (6).  whenever possible, a low-temperature heat source, e. g.  an air cooler, a solar collector or a lost-heat source, serves as heat source.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

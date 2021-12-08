@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013787
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-491/04 C07D-215/20 C07D-491/00 C07D-215/54 C07D-215/22 <main>C07D-471/04</main> C07D-215/227 A61K-31/47 C07D-215/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+octahydro pyrazolo (3,4-g)quinolines, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+lilly co elius<sep>eli lilly and company<sep>eli lilly and company307, east mccarty streetindianapolis indiana 46285us<sep>eli lilly and company<sep>
+</APPLICANT>
+<INVENTOR>
+bach james nicholas<sep>kornfeld edmund carl<sep>bach, james nicholas<sep>kornfeld, edmund carl<sep>bach, james nicholas4269 burkhart street e. driveindianapolis, indianaus<sep>kornfeld, edmund carl5159 east 76th courtindianapolis, indianaus<sep>bach, james nicholas<sep>kornfeld, edmund carl<sep>bach, james nicholas4269 burkhart street e. driveindianapolis, indianaus<sep>kornfeld, edmund carl5159 east 76th courtindianapolis, indianaus<sep>
+</INVENTOR>
+<ABSTRACT>
+octahydropyrazolo [3,4-g] quinolines of the general  formula:    wherein   r is (c₁₋₃)alkyl or allyl;   r¹ is h or ch₂x wherein x is och₃, sch₃, cn, so₂ch₃ or  conh₂; and   pharmaceutically-acceptable acid addition salts thereof.  these compounds, dopamine agonists, useful in treat­ ment of parkinsonism and in inhibiting secretion of prolac­ tin, are prepared by reacting a corresponding 7-dimethyl­ aminomethylene-6-oxo-derivative with hydrazine hydrate.  
+</ABSTRACT>
+</TEXT>
+</DOC>

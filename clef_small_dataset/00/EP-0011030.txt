@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011030
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/538 G01N-33/536 G01N-33/74 G01N-33/544 G01N-33/545 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in processes for the determination of substances having mutual specific binding affinities, by tests involving a solid phase.
+</TITLE>
+<APPLICANT>
+maes roland<sep>maes, roland<sep>maes, rolandbildhauerhof, 34 rosheimf-67190 mutzigfr<sep>
+</APPLICANT>
+<INVENTOR>
+maes roland<sep>maes, roland<sep>maes, rolandbildhauerhof, 34 rosheimf-67190 mutzigfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the substance to be determined is subjected to a specific bonding reaction with a primary bonding partner in a known and limited quantity, a part of the said primary bonding partner remaining after completion of the specific bonding reaction.  the remaining bonding partner is adsorbed specifically on a solid phase consisting of a polyacrylamide gel sensitised with a substance which has specific bonding properties for the primary bonding partner and is then detected enzymatically or by fluorescence. 
+</ABSTRACT>
+</TEXT>
+</DOC>

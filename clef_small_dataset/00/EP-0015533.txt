@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015533
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/25 C03B-37/075 C03B-37/025 C03B-37/02 C03B-37/012 G02B-6/00 C03B-37/16 C03B-37/018 G02B-7/26 G02B-6/04 C03B-37/023 <main>G02B-5/16</main> G02B-6/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cleavable optical fibre and method of producing it.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+schneider hartmut dr<sep>schneider, hartmut, dr.<sep>schneider, hartmut, dr.blütenstrasse 12d-8000 münchen 40de<sep>schneider, hartmut, dr.<sep>schneider, hartmut, dr.blütenstrasse 12d-8000 münchen 40de<sep>
+</INVENTOR>
+<ABSTRACT>
+For many fields of application, such.b.Directional coupler for optical rotary sensors, foldable optical fibers are needed, often with several cores.In order to predetermine the position of the column planes and in order to be able to split multi-channel optical fibers in several planes at all, here is properly that the optical fibers have at least two longitudinal notches (5, 5 ').Due to the longitudinal notches (5, 5 '), gap levels are set.The notches (5, 5 ') can be formed by sawing or etching of slots in a preform and subtracting transmit to the fiber or also directly formed from a double crucible by the particular shape of a nozzle.
+</ABSTRACT>
+</TEXT>
+</DOC>

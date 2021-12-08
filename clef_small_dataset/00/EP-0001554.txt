@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001554
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01M-6/16 H01M-4/56 H01M-4/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+high energy density elektrochemical generator with improved active positive material.
+</TITLE>
+<APPLICANT>
+accumulateurs fixesfr<sep>societe anonyme dite saft<sep>société anonyme dite saft156, avenue de metz f-93230 romainvillefr<sep>
+</APPLICANT>
+<INVENTOR>
+broussely michel fr<sep>gabano jean-paulfr<sep>broussely, michel<sep>gabano, jean-paul<sep>broussely, michel36, rue de la bugellerief-86000 poitiersfr<sep>gabano, jean-paul99, rue condorcetf-86000 poitiersfr<sep>
+</INVENTOR>
+<ABSTRACT>
+electrochemical generator whose negative electrode is made from lithium, whose electrolyte is a solution whose solvant is an aprotic compound and whose active positive material is formed from particles of oxides of lead with formula pbox.  for at least a substantial portion of the particles x is less than 1. 87 and greater than or equal to 1. 4.  this produces a high energy density generator which has a single discharge level (curves b and c, figure 1).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

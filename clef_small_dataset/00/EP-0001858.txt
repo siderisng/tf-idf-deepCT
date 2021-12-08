@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001858
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F24J-3/04</main> F25B-15/00 F25B-30/00 F24D-3/00 F25B-29/00 F24D-7/00 F25B-30/04 F24F-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heating method and bi-modal heating system for heating of buildings.
+</TITLE>
+<APPLICANT>
+nederlandse gasunie nvnl<sep>n.v. nederlandse gasunie<sep>n.v. nederlandse gasuniepostbus 19nl-9700 ma groningennl<sep>n.v. nederlandse gasunie  <sep>
+</APPLICANT>
+<INVENTOR>
+de vries auke ole tjomme<sep>de vries, auke ole tjomme<sep>de vries, auke ole tjommerichterenlaan 75nl-9351 js leeknl<sep>de vries, auke ole tjomme<sep>de vries, auke ole tjommerichterenlaan 75nl-9351 js leeknl<sep>
+</INVENTOR>
+<ABSTRACT>
+Heating system operates in a first effect mode, at night at low ambient temperature as an absorption heat pump, and in a second effect mode, at low ambient temperature, as evaporation condensation system. In the first effect mode, liquid operating medium evaporates at low pressure in an evaporator (1) whereby it withdraws heat of the environment. The evaporated operating medium is absorbed by a absorption liquid located in an absorption vessel (2), which is pumped into a boiling liquid (8) for expelling the operating medium by heating. The operating medium is condensed at higher pressure in a capacitor (14) with the dispensing of heat, for example, the water of a central heating system. In the second effect mode, the absorbent liquid is stored in the absorbent segment (2) and the evaporator (1) and the absorption vessel (2) are shut off from the remainder of the system. Operating medium is evaporated in the boiling box (8) and condensed in the capacitor (14) under delivery of heat.
+</ABSTRACT>
+</TEXT>
+</DOC>

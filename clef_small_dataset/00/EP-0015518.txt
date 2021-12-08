@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015518
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/537 G01N-33/536 <main>G01N-33/54</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for immunological analysis of trace components.
+</TITLE>
+<APPLICANT>
+fuji photo film co ltdjp<sep>fuji photo film co., ltd.<sep>fuji photo film co., ltd.210 nakanuma minami-ashigara-shikanagawa 250-01jp<sep>fuji photo film co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+hirano shigeo c o fuji photo f<sep>hiratsuka nobuo c o fuji photo <sep>masuda nobuhito c o fuji photo<sep>mihara yuji c o fuji photo fil  <sep>miyazako takushi c o fuji phot<sep>hirano, shigeo c/o fuji photo film co.ltd.<sep>hiratsuka, nobuo c/o fuji photo film co.ltd.<sep>masuda, nobuhito c/o fuji photo film co.ltd.<sep>mihara, yuji c/o fuji photo film co.ltd.<sep>miyazako, takushi c/o fuji photo film co.,ltd.<sep>hirano, shigeo c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashikanagawajp<sep>hiratsuka, nobuo c/o fuji photo film co.ltd.26-30, nishi-azabu 2-chome minatokutokyojp<sep>masuda, nobuhito c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashikanagawajp<sep>mihara, yuji c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashikanagawajp<sep>miyazako, takushi c/o fuji photo film co.,ltd.26-30, nishi-azabu 2-chome minatokutokyojp<sep>hirano, shigeo c/o fuji photo film co.ltd.<sep>hiratsuka, nobuo c/o fuji photo film co.ltd.<sep>masuda, nobuhito c/o fuji photo film co.ltd.<sep>mihara, yuji c/o fuji photo film co.ltd.<sep>miyazako, takushi c/o fuji photo film co.,ltd.<sep>hirano, shigeo c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashi kanagawa jp  <sep>hiratsuka, nobuo c/o fuji photo film co.ltd.26-30, nishi-azabu 2-chome minatokutokyojp<sep>masuda, nobuhito c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashikanagawajp<sep>mihara, yuji c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashikanagawajp<sep>miyazako, takushi c/o fuji photo film co.,ltd.26-30, nishi-azabu 2-chome minatokutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+in a method for the immunological analysis of trace  components by marking or labelling an antigen or antibody  with a marker, an immune reaction is caused using an  antigen or antibody marked with a fogging agent for silver  halide, the labelled antigen or antibody is separated from  the labelled antigen-antibody reaction product, the silver  halide is developed in the presence of either one of the  labelled antigen or antibody and the labelled antigen-anti­ body reaction product, and the density obtained is mea­ sured.  the method is comparable to radioimmunoassay in  having high reproductibility and sufficient sensitivity but  does not involve any risk due to radiation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

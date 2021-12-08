@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004762
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-327/28 C08L-23/00 C08L-23/02 C08K-5/36 C08K-5/00 C08L-101/00 C07C-327/00 C07C-325/00 C07C-327/22 C09K-15/00 C07C-67/00 C09K-15/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diesters and polymeric compositions containing them
+</TITLE>
+<APPLICANT>
+goodrich co b fus<sep>the b.f. goodrich company<sep>the b.f. goodrich company500 south main streetakron, ohio 44318us<sep>
+</APPLICANT>
+<INVENTOR>
+chasar dwight williamus<sep>chasar, dwight william<sep>chasar, dwight william163, sandy hill roadnorthfield ohio 44067us<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention provides diesters of the formula  <chem>  wherein r and r1 are the same and each is selected from  <chem>  with r6 and r7 each being an aliphatic hydrocarbon radical of 3 to 10 carbon atoms; and y being 0-5;  r2 is a tertiary aliphatic hydrocarbon radical having from 4 to 10 carbon atoms or an alicyclic hydrocarbon radical having from 4 to 10 carbon atoms, where the carbon atom of attachment to the aromatic ring is fully substituted;  r3 is hydrogen, halogen, an aliphatic hydrocarbon radical having from 1 to 10 carbon atoms or an alicyclic hydrocarbon radical having from 3 to 10 carbon atoms; and  r4 and r5 are each  <chem>  where a and a min  are independently selected from among hydrogen, an aliphatic hydrocarbon radical of 1 to 10 carbon atoms or an alicyclic hydrocarbon radical of 3 to 10 carbon atoms.   <??>the invention includes compositions comprising a polymer and at least one diester of the formula given above.  
+</ABSTRACT>
+</TEXT>
+</DOC>

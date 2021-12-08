@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005059
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/205 H01L-29/73 H01L-21/338 H01L-29/15 H01L-29/36 H01L-29/778 H01L-29/10 H01L-29/02 H01L-29/812 H01L-29/66 <main>H01L-29/06</main> H01L-21/203 H01L-21/02 H01L-29/80 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a semiconductor device having a layered structure and a method of making it.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+dingle raymond<sep>gossard arthur charles<sep>stormer horst ludwig<sep>dingle, raymond<sep>gossard, arthur charles<sep>stormer, horst ludwig<sep>dingle, raymond50 wildwood lanesummit new jersey 07901us<sep>gossard, arthur charles6 larson lanewarren new jersey 07060us<sep>stormer, horst ludwig108 holmes ovalnew providence new jersey 07974us<sep>dingle, raymond  <sep>gossard, arthur charles<sep>stormer, horst ludwig<sep>dingle, raymond50 wildwood lanesummit new jersey 07901us<sep>gossard, arthur charles6 larson lanewarren new jersey 07060us<sep>stormer, horst ludwig108 holmes ovalnew providence new jersey 07974us<sep>
+</INVENTOR>
+<ABSTRACT>
+in known semiconductor devices, carrier mobility is  limited to a considerable extent by impurity scattering.  if the  impurity concentration is reduced, so is the carrier concentration  and hence the conductivity.  in this invention a layered  structure is employed in which wide-bandgap layers alternate  with narrow-bandgap layers.  the wide-bandgap layers  are doped (22) to provide the charge carriers (26) which,  however, are transferred (30) to the narrow-bandgap layers  where they are essentially confined by band steps (δec) at  the interfaces between layers.  thus the charge carriers are  segregated from the impurities which provide them and the  dilemma is avoided.  mobilities well above the theoretical  maximum can be achieved in this way.  the layered structure  can be made using molecular beam epitaxy.  
+</ABSTRACT>
+</TEXT>
+</DOC>

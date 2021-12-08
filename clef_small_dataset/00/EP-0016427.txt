@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016427
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G10L-11/00 <main>G10L-1/00</main> G10L-19/04 G10L-13/00 G10L-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multi-channel digital speech synthesizer.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecomit  <sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>
+</APPLICANT>
+<INVENTOR>
+lucchini paolo<sep>nebbia luciano<sep>ponte giovanni<sep>vivalda enrico<sep>lucchini, paolo<sep>nebbia, luciano<sep>ponte, giovanni<sep>vivalda, enrico<sep>lucchini, paolov. divisione julia, 50udineit<sep>nebbia, lucianov. m. te ortigara, 41torinoit<sep>ponte, giovannivia mentana, 26torinoit<sep>vivalda, enricovia casteldelfino, 59torinoit<sep>lucchini, paolo<sep>nebbia, luciano<sep>ponte, giovanni <sep>vivalda, enrico<sep>lucchini, paolo v. divisione julia, 50 udine it<sep>nebbia, lucianov. m. te ortigara, 41torinoit<sep>ponte, giovannivia mentana, 26torinoit<sep>vivalda, enricovia casteldelfino, 59torinoit<sep>
+</INVENTOR>
+<ABSTRACT>
+the synthesizer comprises a lattice filter (tv) which simu­ lates the vocal tract and generates speech samples by proces­ sing samples of excitation waveforms on the basis of suitable  coefficients.  the excitation waveforms, which are either  periodical, in case of synethesis of a voiced sound or pseudo­ random, in case of unvoiced sound, are supplied by respec­ tive generators (ep, ec) connectable to the filter (tv) upon  command of a signal indicating the voiced-unvoiced nature of  the sound.  the filter coefficients and the information on the  nature of the sound, together with the pitch period in case of  voiced sounds and the sound intensity, are supplied to filter  tv and to the excitation generators (ec, ep) by an external unit  (ue), where they are stored, through a plurality of input mod­ ules (ina. . .  inn) and a control unit (uc) acting as an interface  towards the external unit (ue).  the input modules (ina. . .  inn)  effect a temporary storage of the synthesis parameters sup­ plied by the external unit, and updates the filter coefficients at  the beginning of each pitch period, in case of voiced sound, or  at the beginning of a validity interval in case of unvoiced  sound.  the input modules are associated each to a synthesizer  channel, and the excitation generators (ec, ep) and the filter  (tv) are time division multiplexed over the various channels  of the synthesizer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

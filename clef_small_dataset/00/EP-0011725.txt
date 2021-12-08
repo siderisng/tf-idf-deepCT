@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011725
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-12/22 C08F-20/30 C08F-20/58 <main>C08F-20/30</main> C08F-20/00 C08F-12/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polymers containing aromatic aldehyde groups and process for the preparation of such polymers.
+</TITLE>
+<APPLICANT>
+basf agde <sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+akelah ahmed dr<sep>naarmann herbert dr<sep>wulff guenter dr<sep>akelah, ahmed, dr.<sep>naarmann, herbert, dr.<sep>wulff, guenter, dr.<sep>akelah, ahmed, dr.el amam ali street 20kafer el zyateg<sep>naarmann, herbert, dr.haardtblick 15d-6719 wattenheimde<sep>wulff, guenter, dr.auf dem patt 12d-5305 alfter-impekovende<sep>akelah, ahmed, dr.<sep>naarmann, herbert, dr.  <sep>wulff, guenter, dr. <sep>akelah, ahmed, dr.el amam ali street 20kafer el zyateg<sep>naarmann, herbert, dr.haardtblick 15d-6719 wattenheimde<sep>wulff, guenter, dr.auf dem patt 12d-5305 alfter-impekovende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to novel polymers with k values from 20 to 140 containing structural units of the general formula -CH₂-C (R¹A), wherein R¹ = H or CH₃ and A = an aldehyde group pen containing aromatic radical of the formula, where R²= H, OH, O-alkyl, alkoxyalkyl or O-Si (CH₃) ₃ is.The polymers are prepared by polymerization of the ent speaking monomers CH₂ = C (R¹A) in the presence of radical forming initiators.
+</ABSTRACT>
+</TEXT>
+</DOC>

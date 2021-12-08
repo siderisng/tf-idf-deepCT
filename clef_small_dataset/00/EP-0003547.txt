@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003547
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-3/22 B01F-3/04 <main>C02F-3/12</main> C02F-3/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the biological treatment of waste water.
+</TITLE>
+<APPLICANT>
+hoechst agde <sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft 65926 frankfurt am main de<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bauer alexander dr<sep>gunther sell dipl-ing<sep>leistner gerhard dr<sep>muller gerhard dipl-ing<sep>bauer, alexander, dr.<sep>gunther, sell, dipl.-ing.<sep>leistner, gerhard, dr.<sep>muller, gerhard, dipl.-ing.<sep>bauer, alexander, dr.lerchenweg 3d-6233 kelkheim (taunus)de<sep>günther, sell, dipl.-ing.stettiner strabe 84d-6234 hattersheim am mainde<sep>leistner, gerhard, dr.freseniusstrabe 47d-6384 schmitten/taunusde<sep>müller, gerhard, dipl.-ing.feldbergstrabe 76d-6233 kelkheim (taunus)de<sep>bauer, alexander, dr.<sep>gunther, sell, dipl.-ing.<sep>leistner, gerhard, dr. <sep>muller, gerhard, dipl.-ing.  <sep>bauer, alexander, dr.lerchenweg 3d-6233 kelkheim (taunus)de<sep>günther, sell, dipl.-ing.stettiner strabe 84d-6234 hattersheim am mainde<sep>leistner, gerhard, dr.freseniusstrabe 47d-6384 schmitten/taunusde<sep>müller, gerhard, dipl.-ing.feldbergstrabe 76d-6233 kelkheim (taunus)de<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method of biological cleaning of wastewater by gasubing a sludge water mixture in a revocation space (2) which continuously fed wastewater, activity slurry and air and a equivalent amount of sludge water mixture is taken, the sludge water mixture becomeswith the air in the audition space (2) in at least one loop (3).In one embodiment of the method, the loop-leaving slurry-water mixture is supplied with the avoidance of back mixing with the loop of a biological post-reaction, which is preferably taking place in the revocation space.
+</ABSTRACT>
+</TEXT>
+</DOC>

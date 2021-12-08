@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001234
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+B05D-1/06 A01B-43/00 <main>C23D-5/04</main> C03C-7/02 C03C-8/02 C03C-8/06 C23D-5/00 C03C-8/00 C03C-8/04 C23D-5/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+two-coat, one fire enameling with electrostatic deposition of the frit powders.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+joseph werner dr<sep>wagner gebhard dr<sep>joseph, werner, dr.<sep>wagner, gebhard, dr.<sep>joseph, werner, dr.ludwig-aschoff-strasse 20d-5000 köln 80de<sep>wagner, gebhard, dr.ackerstrasse 31d-5068 odenthalde<sep>joseph, werner, dr.<sep>wagner, gebhard, dr.<sep>joseph, werner, dr.ludwig-aschoff-strasse 20d-5000 köln 80de<sep>wagner, gebhard, dr.ackerstrasse 31d-5068 odenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+A method for two-layer enamelation is described in a fire, wherein the email order takes place on metallic carriers in the electrotistical field.The specific electrical resistance of the basic enamel is to be between 10 clock and 10¹⁴ ohm.CM and that of the cover mix between 10¹⁴ and 10¹⁶ ohms.CM lie.Preferably, the difference in the surface tension of base and topmails at burnt temperatures is at least 0.050 N / m.Advantageously, basic emails are used with special maintenance of alkaline earth metal, zinc, manganese and iron contents.
+</ABSTRACT>
+</TEXT>
+</DOC>

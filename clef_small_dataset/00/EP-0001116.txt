@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001116
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+F23K-5/04 F16K-31/126 F23N-1/00 F23K-5/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fuel feed system.
+</TITLE>
+<APPLICANT>
+walbro far east kkjp  <sep>kabushiki kaisha walbro far east<sep>kabushiki kaisha walbro far east925, shin-maruko higashi 2-chome nakohara-kukawasaki city kanagawa pref.jp<sep>
+</APPLICANT>
+<INVENTOR>
+hashimoto tsuneojp<sep>kobayashi hirotojp<sep>hashimoto, tsuneo<sep>kobayashi, hiroto<sep>hashimoto, tsuneo7-34-16 shakujii-machi nerima-kutokyojp<sep>kobayashi, hiroto1-21-3 tsunishikamakura city kanagawa pref.jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a fuel feed system having a fuel tank (10) and a pump (12)  for pumping up fuel from said fuel tank and feeding the same  to a combustor (11), a negative pressure actuating valve (13)  being provided between said fuel tank and said pump which  valve is closed against fuel pressure in said fuel tank but  opened by a negative pressure created by said pump.  
+</ABSTRACT>
+</TEXT>
+</DOC>

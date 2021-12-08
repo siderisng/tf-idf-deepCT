@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014080
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/74 <main>H01L-29/74</main> H01L-29/10 H01L-29/02 H01L-29/739 H01L-29/66 H01L-29/08 H01L-29/80 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a three-terminal semiconductor switch device.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd. 5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp <sep>hitachi, ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+oikawa saburo<sep>terasawa yoshio<sep>oikawa, saburo<sep>terasawa, yoshio<sep>oikawa, saburo394-31, kujihitachi ibanakijp<sep>terasawa, yoshio622-19, ichigekatsuta ibanakijp<sep>oikawa, saburo <sep>terasawa, yoshio<sep>oikawa, saburo394-31, kujihitachi ibanakijp<sep>terasawa, yoshio622-19, ichigekatsuta ibanakijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor switch device comprising a semicon­ ductor body (10), a pair of main electrodes (12, 14) and a con­ trol electrode (13), the body consisting of a first region (20) of  n⁺-type conductivity, a second region (15) of p⁺-type con­ ductivity, both first and second regions being in contact with  one main electrode (12), a third region (16) of n⁻-type con­ ductivity, a fourth region (17) of p-type conductivity, and a  fifth region (19) of n-type conductivity, the fourth region be­ ing sandwiched between the third and fifth regions except in­ the vicinity of the second region, said semiconductors re­ gions thereby constituting a p-n junction diode and a bipolar  transistor arranged adjacent each other within the semicon­ ductor body (10) so that their conductive directions are  equal.  one electrode of the diode and an emitter (or collec­ tor) electrode of the transistor, and the other electrode of the  diode and the collector (or emitter) electrode of the transis­ tor are respectively formed continuously as the pair of main  electrodes.  separately, a base electrode of the transistor is  formed as the control electrode.  this semiconductor switch device has a higher break-­ down voltage than a conventional transistor, and can control  high power with low control power.  it also has a shorter  turn-off time than a conventional field controlled thyristor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

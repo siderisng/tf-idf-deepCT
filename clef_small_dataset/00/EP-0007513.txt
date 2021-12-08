@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007513
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 B01J-23/48 <main>C07C-45/39</main> C07C-49/12 C07C-45/38 C07C-47/20 C07C-47/12 C07C-49/20 C07C-45/39 C07C-67/00 C07C-49/04 B01J-23/00 C07B-61/00 C07C-47/02 B01J-23/50 B01J-23/72 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of diketones.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+diem hans dr-chem <sep>dudeck christian dr-chem<sep>fliege werner dr-chem  <sep>lehmann gunter chem ing<sep>meissner bernd dr-chem<sep>petri norbert dr-chem<sep>ross karl-heinz dr-chem<sep>sauer wolfgang dr-chem<sep>diem, hans, dr.-chem.<sep>dudeck, christian, dr.-chem.<sep>fliege, werner, dr.-chem.<sep>lehmann, gunter, chem. ing.<sep>meissner, bernd, dr.-chem.<sep>petri, norbert, dr.-chem.<sep>ross, karl-heinz, dr.-chem.<sep>sauer, wolfgang, dr.-chem.<sep>diem, hans, dr.-chem.feldbergstrasse 63d-6800 mannheim 25de<sep>dudeck, christian, dr.-chem.odenwaldring 20d-6703 limburgerhofde<sep>fliege, werner, dr.-chem.c/o basf wyandotte corp.central r+d p.o.box 111wyandotte, mich-48192us<sep>lehmann, gunter, chem. ing.bayernstrasse 58d-6700 ludwigshafende<sep>meissner, bernd, dr.-chem.dammweg 15d-6900 heidelberg 1de<sep>petri, norbert, dr.-chem.max-beckmanmn-strasse 17d-6710 frankenthalde<sep>ross, karl-heinz, dr.-chem.sudetenstrasse 8d-6704 mutterstadtde<sep>sauer, wolfgang, dr.-chem.kaefertaler strasse 183d-6800 mannheim 1de<sep>diem, hans, dr.-chem.<sep>dudeck, christian, dr.-chem.<sep>fliege, werner, dr.-chem.<sep>lehmann, gunter, chem. ing.<sep>meissner, bernd, dr.-chem. <sep>petri, norbert, dr.-chem.<sep>ross, karl-heinz, dr.-chem.  <sep>sauer, wolfgang, dr.-chem. <sep>diem, hans, dr.-chem.feldbergstrasse 63d-6800 mannheim 25de<sep>dudeck, christian, dr.-chem.odenwaldring 20d-6703 limburgerhofde<sep>fliege, werner, dr.-chem.c/o basf wyandotte corp.central r+d p.o.box 111wyandotte, mich-48192us<sep>lehmann, gunter, chem. ing.bayernstrasse 58d-6700 ludwigshafende<sep>meissner, bernd, dr.-chem.dammweg 15d-6900 heidelberg 1de<sep>petri, norbert, dr.-chem.max-beckmanmn-strasse 17d-6710 frankenthalde<sep>ross, karl-heinz, dr.-chem.sudetenstrasse 8d-6704 mutterstadtde<sep>sauer, wolfgang, dr.-chem.kaefertaler strasse 183d-6800 mannheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of diketons of the formula R¹ - R³ - R² wherein R¹ and R² may be the same or different, and each means a hydrogen atom or an aliphatic radical, R³, optionally referred to by residual -o-interrupted aliphatic radical, aboveIn addition to R³, when R¹ and or R² mean an aliphatic radical, can also be for single bonding, by oxidation of glycols of the formula with oxygen in the presence of a catalyst with 2 or more layers of silver and / or copper crystals, where part of the leaches70 to 95% by weight of the catalyst with particles of the crown size 0.75 to 2.5 mm uni the residual part of the layers 5 to 30 weight percent of the catalyst with part Chen of the grain size 0.1 to 0. 75 mm, at a temperature of 450up to 750 ° C.
+</ABSTRACT>
+</TEXT>
+</DOC>

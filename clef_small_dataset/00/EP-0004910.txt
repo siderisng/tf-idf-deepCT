@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004910
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08B-17/00 G08B-25/00 H04Q-9/00 <main>G08B-26/00</main> G08B-26/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+annunciator of danger.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+schreyer karlheinz<sep>thilo peer dr<sep>schreyer, karlheinz<sep>thilo, peer, dr.<sep>schreyer, karlheinzgartenstrasse 6d-8190 wolfratshausende<sep>thilo, peer, dr.buchhierlstrasse 19d-8000 münchen 71de<sep>schreyer, karlheinz  <sep>thilo, peer, dr.<sep>schreyer, karlheinzgartenstrasse 6d-8190 wolfratshausende<sep>thilo, peer, dr.buchhierlstrasse 19d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+Hazard alarm system, in particular fire alarm system, with a plurality of detectors (M1.,, Mn), which are connected via reporting lines (L1.,, Ln) to a central (Z).The occupancy state of the individual reporting lines (L1.,, LN) is automatically detectable via test equipment (MA1.,, MAN) in the control panel (Z) and enrollable in the individual memory locations of a read-write memory (SP).
+</ABSTRACT>
+</TEXT>
+</DOC>

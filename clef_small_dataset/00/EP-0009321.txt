@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009321
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B60Q-11/00</main> B60Q-1/34 B60Q-11/00 B60Q-1/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control apparatus for vehicle indicator lamps.
+</TITLE>
+<APPLICANT>
+nippon denso cojp<sep>nippondenso co., ltd.<sep>nippondenso co., ltd.1-1, showa-chokariya-shi aichi-kenjp<sep>nippondenso co., ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+mizuno tiaki<sep>mizuno, tiaki<sep>mizuno, tiaki1236-144, kamiikecho-2-chometoyota-shi, aichi-kenjp<sep>mizuno, tiaki<sep>mizuno, tiaki1236-144, kamiikecho-2-chometoyota-shi, aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for controlling a vehicle indicator lamp  system in which indicator lamps are energized by a  battery (17) via a current detecting resistor (8), a relay  (7) and a direction selecting switch (9).  the relay (7) is energized to close periodically in  response to periodic pulses produced by a semicon­ ductor integrated control circuit so that the indicator  lamps flash periodically.  a protection circuit (6) which is  connected in series with a resistor (101) across the bat­ tery render the output transistor (81) of the semiconductor  integrated control circuit on in response to an exces­ sively large positive voltage so that the electric current  which flows through the output transistor (81) is limited  by the inherent resistance of the relay coil (7a) connected  in series with the output transistor (81).  a diode (84)  which is connected in series with the relay coil (7a)  renders the output transistor (81) on reversely in re­ sponse to an excessively large negative voltage so that  the electric current is limited by the relay coil.  
+</ABSTRACT>
+</TEXT>
+</DOC>

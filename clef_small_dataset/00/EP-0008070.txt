@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008070
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+enclosure for a multiple filter, especially a multiple channel filter in the uhf band.
+</TITLE>
+<APPLICANT>
+wolf & co kg kurt de  <sep>kurt wolf & co. kg<sep>kurt wolf &amp; co. kglangwiesenweg 67/71d-7547 wildbadde<sep>
+</APPLICANT>
+<INVENTOR>
+wolf kurt ing gradde<sep>wolf, kurt, ing. grad.<sep>wolf, kurt, ing. grad.langwiesenweg 71d-7547 wildbadde<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a housing for a multiple-filter, in particular a multi-channel filter in the uhf band, which is made up of a metal cap (10) and a metal base plate (11).  this housing is intended to permit unambiguously decoupled installation of a plurality of filters and to facilitate the determination of the tuning elements for the filter circuits.  for this purpose, the metal cap (10) is split by single-piece integrally formed separating walls (33, 34. . . ) in the form of a matrix into compartments (57, 58. . . ) which form rows directed in the longitudinal direction of the metal cap.  the number of rows corresponds to the number of filters and the number of compartments in the rows corresponds to the number of filter circuits of a filter.  a pick-up sleeve (63) with an enlarged pick-up for a tuning capacitor is integrally formed on the upper side of the cap in each compartment.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

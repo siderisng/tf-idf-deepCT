@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005770
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04N-7/00</main> H04M-11/06 H04M-11/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arrangement for a modem.
+</TITLE>
+<APPLICANT>
+tekade felten & guilleaume de<sep>te ka de felten & guilleaume fernmeldeanlagen gmbh<sep>felten &amp; guilleaume fernmeldeanlagen gmbhthurn-und-taxis-strasse 10 postfach 4943d-8500 nürnberg 10de<sep>felten & guilleaume fernmeldeanlagen gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+parras karlheinz dipl-ing<sep>parras, karlheinz dipl.-ing.<sep>parras, karlheinz dipl.-ing.wilhelm späth-strasse 8d-8500 nürnbergde<sep>parras, karlheinz dipl.-ing.<sep>parras, karlheinz dipl.-ing. wilhelm späth-strasse 8 d-8500 nürnberg de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  arrangement for a modem for the reception of data signals to be displayed on the screen of a television receiver, which are sent from a central station and transmitted via a dialled telephone connection, with an audiotone receiver (2, 5-11), a data receiver (3, 15), a data-detection circuit (17-23), and a unique interface transmitter in direction to the television receiver, characterized in that a selection circuit (13) controlling the interface transmitter (26) is provided, by which dependent of the logical condition of the data-detection circuit, either - if there are - the audio tones or the received data signals are applied, and that the selection circuit is designed such that the signal applied to the interface transmitter, when audio tones as well as data signals are missing, is the permanent binary condition which does not exist in case of the data transmission. 
+</ABSTRACT>
+</TEXT>
+</DOC>

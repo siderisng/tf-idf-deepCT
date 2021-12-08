@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001812
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/574 C07K-14/435 C07K-14/47 C07K-1/00 G01N-33/68 C07K-1/22 C07K-1/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of purified alpha-1-fetoprotein and its application.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech   <sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+newman edward samuelus<sep>newman, edward samuel<sep>newman, edward samuel15 arverne roadwest orange new jersey 67052us<sep>
+</INVENTOR>
+<ABSTRACT>
+purified  alpha 1-fetoprotein is prepared in a process using the following stages: a) a sample of a material from a biological source which is known to contain  alpha 1-fetoprotein is buffered to a ph of about 7, b) the buffered sample is subjected to affinity chromatography by passing through a column with an antibody which is specific for alpha 1-fetoprotein and which is immovably anchored on a solid support, and eluting the bound  alpha 1-fetoprotein by treatment of the column with a suitable desorbent, c) virtually all the albumin present in the eluate from stage b) is removed by adsorption chromatography by passing through a column which contains an immobilised reactive dye adsorber, d) the non-adsorbed solution containing  alpha 1-fetoprotein from stage c) is dialysed,  e) the dialysed solution from stage d) is lyophilised, f) the powder formed in stage e) is dissolved in a suitable buffer and the resulting solution is subjected to polyacrylamide gel electrophoresis.  the invention also relates to the radioiodinated  alpha 1-fetoprotein prepared in this way, and to the use of the  alpha 1-fetoprotein for preparing reagents for a radioimmunoassay for determining  alpha 1- fetoproteins, to the radioimmunoassay itself and to an appropriate reagent kit. 
+</ABSTRACT>
+</TEXT>
+</DOC>

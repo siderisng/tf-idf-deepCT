@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009231
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01G-23/14 G01R-17/00 G01L-1/22 <main>G01R-17/10</main> G01R-17/02 G01G-3/12 G01R-17/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for measuring the diagonal voltage of a resistance bridge.
+</TITLE>
+<APPLICANT>
+siemens agde   <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+fritz harald ing grad<sep>schroder heinrich dipl-ing<sep>fritz, harald, ing.grad.<sep>schroder, heinrich, dipl.-ing.<sep>fritz, harald, ing.grad.hebelstrasse 5d-7517 waldbronn 3de<sep>schröder, heinrich, dipl.-ing.schneidemühlerstrasse 43bd-7500 karlsruhede<sep>fritz, harald, ing.grad. <sep>schroder, heinrich, dipl.-ing.  <sep>fritz, harald, ing.grad.hebelstrasse 5d-7517 waldbronn 3de<sep>schröder, heinrich, dipl.-ing.schneidemühlerstrasse 43bd-7500 karlsruhede<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a circuit arrangement for measuring the test diagonal voltage of a resistance bridge circuit by determination of a null, wherein the supply diagonals of a resistance bridge circuit (b1 ) and a second resistance bridge circuit (b2 ) that can be unbalanced at will are connected in parallel, characterized in that the test diagonals of resistance bridge circuit are connected in parallel, and a device (s, se) is provided for unbalancing the second resistance bridge circuit (b2 ) to eliminate a common test diagonal voltage, the degree of unbalance being a measure of the test diagonal voltage of the first resistance bridge circuit (b1 ). 
+</ABSTRACT>
+</TEXT>
+</DOC>

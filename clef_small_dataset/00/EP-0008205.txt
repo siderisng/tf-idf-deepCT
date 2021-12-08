@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008205
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41M-5/337 B41M-5/30 <main>B41M-5/26</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermosensitive recording material.
+</TITLE>
+<APPLICANT>
+ricoh kkjp <sep>ricoh company, ltd<sep>ricoh company, ltd 3-6, 1-chome nakamagome ohta-ku tokyo 143 jp<sep>ricoh company, ltd<sep>
+</APPLICANT>
+<INVENTOR>
+iwata susumu<sep>nomura minoru<sep>ono mithuo<sep>iwata, susumu<sep>nomura, minoru<sep>ono, mithuo<sep>iwata, susumuno. 738-1, suganumaoyama-cho sunto-gun shizuoka-kenjp<sep>nomura, minoruno. 298-1, nakamishima-shi shizuoka-kenjp<sep>ono, mithuono. 600-10, kawashimadagotenba-shi shizuoka-kenjp<sep>iwata, susumu<sep>nomura, minoru<sep>ono, mithuo <sep>iwata, susumu no. 738-1, suganuma oyama-cho sunto-gun shizuoka-kenjp<sep>nomura, minoruno. 298-1, nakamishima-shi shizuoka-kenjp<sep>ono, mithuono. 600-10, kawashimadagotenba-shi shizuoka-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a thermosensitive recording material comprising a  support bearing a thermosensitive layer comprising a chro­ mogenic material, a developer capable of developing a co­ our with the chromogenic material on heating (suitably  present in a weight ratio of developer to chromogenic ma­ terial of from 1 : 1 to 5 : 1), a binder (suitably present in  an amount of from 10 to 50% by weight of the thermosen­ sitive layer), and an inorganic filler (suitably present in a  weight ratio of filler to chromogenic material of from 1 : 1  to 10 : 1) which inorganic filler comprises hexagonal sy­ stem thin plate kaolin to reduce abrasion and sticking to  the thermal head of residue.  the inorganic filler may also  comprise other inorganic fillers, especially precipitated cal­ cium carbonate, in which case the weight ratio of the kao­ lin to the other inorganic filler(s) is suitably from 1 : 0. 3 to  1 : 1.  the thermosensitive layer may also contain thermo­ sensitivity improving materials such as waxes, especially  non-petroleum waxes, which are suitably present in in a  weight ratio of wax to chromogenic material of from 1 : 1  to 4 : 1.  
+</ABSTRACT>
+</TEXT>
+</DOC>

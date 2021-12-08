@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002962
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-5/00 G06F-3/00 G06F-3/14 G09G-5/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+video to digital converter and high speed video display system incorporating same.
+</TITLE>
+<APPLICANT>
+stewart warner corpus<sep>stewart-warner corporation<sep>stewart-warner corporation1826 west diverseychicago illinois 60614us<sep>
+</APPLICANT>
+<INVENTOR>
+fiedler wayneus <sep>payne robert aus   <sep>slobodzian gregory eus<sep>fiedler, wayne<sep>payne, robert a.<sep>slobodzian, gregory e.<sep>fiedler, wayne10949 s. princesschicago ridge illinois 60415us<sep>payne, robert a.1363 second avenuedes plaines illinois 60016us<sep>slobodzian, gregory e.3422 w. 72 streetchicago illinois 60629us<sep>
+</INVENTOR>
+<ABSTRACT>
+a video to digital converter is disclosed for converting  a frame of analog information received in raster fashion  into digital data suitable for use in reproducing such a  frame in a high speed video display system.  an analog to  digital converter is enabled to digitize all or only selected  portions of the frame by means so as to produce data for  reproducing an enlarged or magnified image of only a  selected portion of the video frame or for reproducing  substantially all the frame without enlargement.  the digitized  data is loaded into a display memory and is outputted  via a display interface to a display board which may consist  of variable intensity devices, such as, incandescent lamps.   the system, although under computer control, does not  include the computer in the data handling path thereby  permitting increased data handling rates.  the converter  for the system includes circuits for changing the display  format to produce "zoom" enlargements and wide screen  displays suitable, for example, for racetrack applications.  
+</ABSTRACT>
+</TEXT>
+</DOC>

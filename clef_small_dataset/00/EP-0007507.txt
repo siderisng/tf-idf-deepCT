@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007507
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12C-11/00 <main>C12C-11/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the fermentation of wort into beer.
+</TITLE>
+<APPLICANT>
+linde agde<sep>linde aktiengesellschaft<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>linde aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+brenik wenzel<sep>rudhard heinz<sep>brenik, wenzel<sep>rudhard, heinz<sep>brenik, wenzeledelweissstrasse 4d-8022 grünwaldde<sep>rudhard, heinzegerlandstrasse 48d-8191 geretsried 1de<sep>brenik, wenzel<sep>rudhard, heinz <sep>brenik, wenzel edelweissstrasse 4 d-8022 grünwaldde<sep>rudhard, heinzegerlandstrasse 48d-8191 geretsried 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the charge-wise fermentation of wort to beer, in which yeast is added to the wort and in order to set the required oxygen content, oxygen or an oxygen-containing gas is fed to the wort, characterized in that an amount of 1 to 1. 6 .  10**-3 nm**3 of pure oxygen or a corresponding amount of oxygen-enriched air is fed to the wort per litre thereof. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur vergärung von wurze zu bier die erfindung betrifft ein verfahren zur chargenweisen vergärung von würze zu bier, bei dem der würze hefe zugesetzt und die würze zur einstellung des erforderlichen sauerstoffgehaltes beluftet wird. bei der bierbereitung wird die aus malz bereitete-wurze vor der gärung mit hopfen gekocht, filtriert und gekuhlt. je nach art der gärung wird die gekühlte kürze mit einer obergärigen oder einer untergärigen hefe versetzt und in der sogenannten hauptgärung weitgehend vergoren. handelt es sich um ein untergäriges bier, so findet im anschluss an die hauptgärung eine nachgärung statt. zum "anstellen", d.h. zum versetzen der würze mit hefe, wird der würze entweder eine hefe würzesuspension zugegeben oder die würde wird "geimpft". nach bekannten verfahren wird im ersten fall eine hefe-würze- suspension zur gründlichen vermischung und intensiven sauer stoffversorgung mit luft aufgezogen und die suspension der würze zugegeben. im zweiten fall wird die kürze auf mehrere gärbottiche verteilt ud mit hefe versetzt. nach beginn der garung werden die nur teilweise gefüllten gärbottiche mit weiterer würze gefüllt. in beiden fällen wird die würze nach der vollständigen befüllung eines gärbcttichs intensiv be lüfter, um den für die vermehrung der hefezellen erforderlichen sauerstoff bereitzustellen. bei einer chargenweisen vergärung bleibt die würde im anschluss an die belüftung in ruhe. die einleitung von luft hat den nachteil, dass vor allem im eigentlichen hauptgärvorgang eie starke schaumbildung einsetzt. ein gärbottich kann daher in seinem volumen nur begrenzt genutzt werden, da ein teil seines volumens für die zu erwartende schaumbildung ungefüllt bleiben muss. es ist daher aufgabe der erfindung, ein verfahren zu entwickeln, mit dem die schaumbildung reduziert werden kann und das den bisherigen verfahren wirtschaftlich überlegen ist. diese aufgabe wird erfjndungsgemäss dadurch gelöst, dass der würze bei der belüftung reiner sauerstoff oder sauerstoffangereicherte luft zugeführt wird. in versuchen, die nach dieser verfahrensweise durchgeführt worden sind, ist festgestellt worden, dass bei einer chargenweisen vergärung von würze zu bier die schaumbildung reduziert werden kann. durch die geringere schaumbildung wird im gärbottich zusätzliches volumen für die befüllung geschaffen. das verfahren ist daher gerade bei chargenwei- ser vergärung aus ökonomischer sicht sehr vorteilhaft. der geschilderte effekt ist aber nur erzielbar, wenn bei der ver sorgung der würze mit sauerstoff, die bisher in form einer intensiven belüftung erfolgte, reiner sauerstoff oder zumindest sauerstoffangereicherte luft zugeführt wird. je nach verwendung obergäriger oder untergäriger bierhefen steigt gegen ende der gärung hefe an die oberfläche des bieres bzw. setzt sich am boden ab es wurde nun festgestellt, dass bei den erfindungsgemässen verfahren eine bessere bsetzbarkeit der hefen erziei wird. im vergleich dazu blieben die hefen, die in der bisherigen form belüftet worden waren, länger in schwebe, als nach der zuführung reinen sauerstoffs oder mit sauerstoff angereicherter luft. mit dem erfindungsgemässen verfahren wird nicht nur die separierbarkeit der hefe erhöht, sondern auch eine verkürzung der gärzeiten und somit eine bessere kapitalauslastung erzielt. ein weiterer vorteil des vorgeschlagenen verfahrens ist darin zu sehen, dass mit dem einsatz von sauerstoff bzw. sauerstoffangereicherter luft eine der erhöhung des sauerstoffpartialdruckes entsprechende verminderung des gasvolumens, das der
+</DESCRIPTION>
+<CLAIMS>
+ patentansprüche      l.    verfahren zur chargenweisen vergärung von   würze    zu bier, bei dem der   kürze    hefe zugesetzt und die   kürze    zur ein stellung des erforderlichen sauerstoffgehaltes belüftet wird, dadurch gekennzeichnet, dass der würze bei der be lüftung reiner sauerstoff oder   sauerstoffangereicherte    luft zugeführt wird.    2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass der würze pro liter eine   enge    von 1 - 1,6 .   lo      nrn3    reiner sauerstoff zugeführt wird.      3.    vorrichtung zur durchführung des verfahrens gemäss an spruch 1 oder 2 in einem gärbottich mit gaseintragvor richtungen, dadurch gekennzeichnet, dass als gaseintrag vorrichtungen (4) filterkerzen, injektorsysteme, rotie rende oder pneumatische   gaseintragsysteme    oder kombina tionen dieser systeme im gärbottich (1) eingelassen sind, die über regelsysteme sowie eine mischvorrichtung mit zufuhrsystemen für sauerstoff- und luft in verbindung stehen.  
+</CLAIMS>
+</TEXT>
+</DOC>

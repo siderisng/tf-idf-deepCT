@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013318
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H05K-7/18</main> G06F-3/00 G08C-19/00 G07G-1/00 G07G-1/12 G06F-1/18 G06F-1/16 G06F-3/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reconfigurable data entry terminal.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504 us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kekas dennis harry  <sep>lynch robert carlton<sep>mathewson james alfred<sep>mcadams ronald prestly<sep>pasterchick harry jr<sep>kekas, dennis harry<sep>lynch, robert carlton<sep>mathewson, james alfred<sep>mcadams, ronald prestly<sep>pasterchick, harry jr.<sep>kekas, dennis harry3425 horton streetraleigh, nc 27607us<sep>lynch, robert carlton302 east maynard roadcary, nc 27511us<sep>mathewson, james alfred4644 grinding stone driveraleigh, nc 27604us<sep>mcadams, ronald prestly5104 new bern avenueraleigh, nc 27610us<sep>pasterchick, harry jr.707 kildaire farm roadcary, nc 27511us<sep>kekas, dennis harry<sep>lynch, robert carlton <sep>mathewson, james alfred<sep>mcadams, ronald prestly  <sep>pasterchick, harry jr.<sep>kekas, dennis harry3425 horton streetraleigh, nc 27607us<sep>lynch, robert carlton302 east maynard roadcary, nc 27511us<sep>mathewson, james alfred4644 grinding stone driveraleigh, nc 27604us<sep>mcadams, ronald prestly5104 new bern avenueraleigh, nc 27610us<sep>pasterchick, harry jr.707 kildaire farm roadcary, nc 27511us<sep>
+</INVENTOR>
+<ABSTRACT>
+Data input terminal with a first confi guration in which the various components are dung can easily be converted into a second configuration wherein said components are separated.TERMI NAL includes a base (14), a frame (16) and a keyboard (10);The base comprising on its outer surface of the electrical guide elements and circuits ending with a connector, and the keypad comprising additional guidance elements of those of the base so as to adjust it, and a complementary connector of that of that ofThe base for seeing to be coupled there.
+</ABSTRACT>
+</TEXT>
+</DOC>

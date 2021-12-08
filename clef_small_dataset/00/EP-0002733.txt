@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002733
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07F-9/32 C07F-9/38 C08G-79/00 C08G-79/02 C07F-9/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of preparing phosphinic or phosphonic acid anhydrides
+</TITLE>
+<APPLICANT>
+hoechst ag de<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+duersch walter drde<sep>kleiner hans-jerg drde<sep>duersch, walter, dr.<sep>kleiner, hans-jerg, dr.<sep>dürsch, walter, dr.in der braubach 4d-6240 königstein/taunusde<sep>kleiner, hans-jerg, dr.altkönigstrasse 11ad-6242 kronberg/taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+phosphinic and phosphonic anhydrides of the general formula <image> are prepared by reaction of phosphinic and phosphonic acids of the formula <image> with aliphatic carboxylic anhydrides.  these phosphinic and phosphonic anhydrides serve as organophosphorus intermediates, in particular for the preparation of organophosphorus compounds having flame retardant properties. 
+</ABSTRACT>
+</TEXT>
+</DOC>

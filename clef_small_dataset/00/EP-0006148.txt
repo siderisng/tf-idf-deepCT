@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006148
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-61/32 <main>C08G-12/32</main> C08G-12/26 C08L-61/00 C08G-12/00 C08L-61/28 C08K-5/00 C08G-12/42 C08K-5/05 C08G-12/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+partially etherified melamine-formaldehyde resins, method of preparing them and moulding compositions made from these melamine resins.
+</TITLE>
+<APPLICANT>
+cassella farbwerke mainkur agde<sep>cassella aktiengesellschaft<sep>cassella aktiengesellschafthanauer landstrasse 526d-60386 frankfurtde<sep>cassella aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+piesch steffen dr<sep>wolf alfons<sep>piesch, steffen, dr.<sep>wolf, alfons<sep>piesch, steffen, dr.an der heide 32d-6370 oberurselde<sep>wolf, alfonseinhardstrasse 34d-6453 seligenstadtde<sep>piesch, steffen, dr. <sep>wolf, alfons  <sep>piesch, steffen, dr.an der heide 32d-6370 oberurselde<sep>wolf, alfonseinhardstrasse 34d-6453 seligenstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+Partially oriented melamine-formaldehyde resins with a molar ratio melamine: formaldehyde = 1: (1.25 to 1) can be prepared by neutral or weakly alkaline condensation of melamine with formaldehyde when condensation in the presence of a glycol mono ether of the general formula IR (OCH₂CH₂)NOH, (i) wherein R alkyl with 1 to 4 C atoms and n represents an integer from 1 to 5.The partially oriented melamine formaldehyde resins are suitable for producing pressing materials with high flow capability and minimal processing and sustainability.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004122
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-33/30</main> C07C-29/00 C07C-29/14 C07C-43/20 C07C-33/30 C07C-33/00 C07C-29/141 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of alpha,beta-unsaturated alcohols.
+</TITLE>
+<APPLICANT>
+stamicarbonnl<sep>stamicarbon b.v.<sep>stamicarbon b.v.mijnweg 1nl-6167 ac geleennl<sep>stamicarbon b.v.<sep>stamicarbon b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+dautzenberg jozef marie andrea<sep>mulders joannes maria cornelis  <sep>stijfs petrus antonius maria j<sep>dautzenberg, jozef marie andreas<sep>mulders, joannes maria cornelis anthonius<sep>stijfs, petrus antonius maria juliana<sep>dautzenberg, jozef marie andreaslaathofstraat 21nl-6191 gd beek (l)nl<sep>mulders, joannes maria cornelis anthoniusv. goudoeverstraat 20nl-6166 xc geleennl<sep>stijfs, petrus antonius maria julianaschoutenstraat 36nl-6151 gs munstergeleennl<sep>dautzenberg, jozef marie andreas<sep>mulders, joannes maria cornelis anthonius<sep>stijfs, petrus antonius maria juliana<sep>dautzenberg, jozef marie andreas<sep>mulders, joannes maria cornelis anthonius <sep>stijfs, petrus antonius maria juliana<sep>dautzenberg, jozef marie andreas laathofstraat 21 nl-6191 gd beek (l) nl<sep>mulders, joannes maria cornelis anthoniusv. goudoeverstraat 20nl-6166 xc geleennl<sep>stijfs, petrus antonius maria julianaschoutenstraat 36nl-6151 gs munstergeleennl<sep>
+</INVENTOR>
+<ABSTRACT>
+process for the preparation of α-β unsaturated alcohols  by catalytic hydrogenation in the liquid phase of the corresponding  aldehyde with the general formula    in which r₁, r₂ and r₃, which may be the same or different,  represent phenyl, optionally substituted with one or more  alkyl and/or alkoxy groups in which substituents the total  number of c-atoms is at most 5, or hydrogen, or an alkyl  group with 1 - 10 c-atoms, and at least one of the groups r₁,  r₂ and r₃ represents said phenyl or substituted phenyl  group.  the aldehyde is hydrogenated in a reaction medium  comprising water and a water-immiscible organic solvent,  and an alkali metal hydroxide and/or alkali metal alkoxide  dissolved in the water, is used as a promoter.  
+</ABSTRACT>
+</TEXT>
+</DOC>

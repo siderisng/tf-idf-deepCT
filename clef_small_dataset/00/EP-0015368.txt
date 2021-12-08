@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015368
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01L-9/00 G01L-9/12 <main>G01L-7/08</main> G01L-9/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+air pressure measuring device.
+</TITLE>
+<APPLICANT>
+sprenger albin kgde<sep>albin sprenger kg<sep>albin sprenger kg gmbh &amp; co.mühlenstrasse 47d-3424 st. andreasberg/harzde<sep>albin sprenger kg<sep>
+</APPLICANT>
+<INVENTOR>
+bachem christian dr<sep>bachem, christian, dr.<sep>bachem, christian, dr.schlegelweg 7d-3400 göttingende<sep>bachem, christian, dr.  <sep>bachem, christian, dr.schlegelweg 7d-3400 göttingende<sep>
+</INVENTOR>
+<ABSTRACT>
+In an air pressure sensor with a circular membrane (10) arranged in a measuring cam Mer, which are surrounded on the side of thin flood layers and limited by rigid walls (12, 14), the fact is used for measuring the air pressure that the air strainer Tenstiffigness is the natural frequencyThe membrane (10) is influencing.In order to achieve high measurement accuracy and to exclude calibration instabilities, the membrane (10) is formed as a plate of spring-hard material and clamped at its edge between the rigid walls (12, 14) with di punching rings (16) of such strength that the restoring force is clampedThe within the spacer rings (16) are the air layers at atmospheric pressure, for example, the three to ten times the restoring force of the membrane (10).The membrane (10) itself is inductively energized.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000532
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-303/04</main> C07D-303/00 C07D-301/14 C07D-303/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of vinyl oxirane.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+schwerdtel wulf dr  <sep>seifert hermann dr<sep>swodenk wolfgang dr<sep>waldmann helmut dr<sep>schwerdtel, wulf, dr.<sep>seifert, hermann, dr.<sep>swodenk, wolfgang, dr.<sep>waldmann, helmut, dr.<sep>schwerdtel, wulf, dr.hegelstrasse 9d-5090 leverkusen 1de<sep>seifert, hermann, dr.ruwergasse 4d-5000 köln 80de<sep>swodenk, wolfgang, dr.auf dem broich 5d-5068 odenthalde<sep>waldmann, helmut, dr.carl-rumpff-strasse 59d-5090 leverkusen 1de<sep>schwerdtel, wulf, dr.<sep>seifert, hermann, dr.<sep>swodenk, wolfgang, dr. <sep>waldmann, helmut, dr.  <sep>schwerdtel, wulf, dr.hegelstrasse 9d-5090 leverkusen 1de<sep>seifert, hermann, dr.ruwergasse 4d-5000 köln 80de<sep>swodenk, wolfgang, dr.auf dem broich 5d-5068 odenthalde<sep>waldmann, helmut, dr.carl-rumpff-strasse 59d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of vinyloxirane from hydrogen peroxide and butadiene, characterised in that a) an aqueous solution containing 10 to 45% by weight of a watersoluble, acid catalyst and 20 to 50% by weight of hydrogen peroxide is reacted with a carboxylic acid containing 2 to 5 carbon atoms in a molar ratio of hydrogen peroxide to carboxylic acid of 0. 5-30:1 at temperatures of 10 to 70 degrees c, b) the resulting reaction mixture is extracted with an inert, organic solvent, in counter-current, c) all or some of the aqueous raffinate from the extraction, which essentially contains hydrogen peroxide and acid catalyst, is concentrated by removing the water by distillation, d) the concentrated raffinate, and the portion of the raffinate which is optionally not concentrated, are recycled into the reaction stage (a), the concentrations of hydrogen peroxide and water - soluble acid catalyst required for the reaction with the carboxylic acid being re-established, and the hydrogen peroxide necessary for re-establishing the hydrogen peroxide concentration required for the reaction with the carboxylic acid being added, before or after the removal of water by distillation according to (c), to the portion of the raffinate to be concentrated or to the portion of the raffinate which is optionally not concentrated, e) the organic extract, which essentially contains percarboxylic acid and carboxylic acid, is treated with water or an aqueous solution, f) the water-containing organic extract, which is now virtually free from hydrogen peroxide, is subjected to azeotropic distillation in a manner such that the residual content of water in the bottom product of the azeotropic column is less than 0. 5% by weight, g) the organic solution now obtained, which contains percarboxylic acid and carboxylic acid, is reacted with butadiene in excess at a molar ratio of butadiene to percarboxylic acid of 1. 5 to 6:1 at temperatures of 0 degrees c to 80 degrees c and under a pressure of 0. 8 to 20 bars, and h) the vinyloxirane-containing reaction mixture is worked up by a distillative route, pure vinyloxirane being isolated and the excess butadiene, the carboxylic acid and the inert organic solvent being recovered and wholly or partly recycled into the process. 
+</ABSTRACT>
+</TEXT>
+</DOC>

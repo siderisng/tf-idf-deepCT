@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000161
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-218/00 C08F-2/04 C08F-226/10 C08F-263/00 C08F-6/10 C08F-6/06 <main>C08F-26/06</main> C08F-4/28 C08F-26/10 C08F-218/08 C08F-218/02 C08F-26/00 C08F-4/32 C08F-271/00 C08F-226/00 C08F-4/00 C08F-6/00 C08F-263/02 C08F-2/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for reducing the amount of residual monomers during the polymerisation of vinyl lactams and vinyl esters.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft  <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+schenck hans-uwe dr<sep>schwarz wolfgang dr<sep>spoor herbert dr<sep>straub ferdinand dr<sep>schenck, hans-uwe, dr.<sep>schwarz, wolfgang, dr.<sep>spoor, herbert, dr.<sep>straub, ferdinand, dr.<sep>schenck, hans-uwe, dr.erlenweg 6d-6706 wachenheimde<sep>schwarz, wolfgang, dr.benzstrasse 33d-6700 ludwigshafende<sep>spoor, herbert, dr.woogstrasse 44d-6703 limburgerhofde<sep>straub, ferdinand, dr.ziegelstrasse 20d-6832 hockenheimde<sep>schenck, hans-uwe, dr. <sep>schwarz, wolfgang, dr.<sep>spoor, herbert, dr.<sep>straub, ferdinand, dr.<sep>schenck, hans-uwe, dr.erlenweg 6d-6706 wachenheimde<sep>schwarz, wolfgang, dr.benzstrasse 33d-6700 ludwigshafende<sep>spoor, herbert, dr.woogstrasse 44d-6703 limburgerhofde<sep>straub, ferdinand, dr.ziegelstrasse 20d-6832 hockenheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for reducing the residual monomer contents of polymers obtained by copolymerization of vinyl esters and N-vinyllactames in a solvent with the aid of radical polymerization initiators at higher temperatures.Following the main polymerization, the reaction mixture is 0.05 to 0.5 wt.%, based on the monomers used, di-tert.- Butyl peroxide, di-tert.-Amyl peroxide, dicumyl peroxide, 2.5-dimethyl-2,5-bis (tert-butyl peroxy) - hexane, 2,2-bis (tert-butyl peroxy) - butane, 1,1-bis- (tert.-Butyl peroxy) 3,3,5-trimethylcyclohexane or 4,4-di- (tert-butyl peroxy) - butyl valerate or mixtures thereof, and performs the uppolymerization at a higher temperature than the main polymerization.
+</ABSTRACT>
+</TEXT>
+</DOC>

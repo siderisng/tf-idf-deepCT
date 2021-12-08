@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008942
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B05D-7/16 <main>C08L-33/00</main> C09D-133/00 C23C-22/05 C23F-7/00 C09D-3/80 C23C-22/34 C09D-5/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compositions and processes for coating aluminium.
+</TITLE>
+<APPLICANT>
+amchem prod us<sep>amchem products, inc. a corporation organized under the laws of the state of delaware united states of america  <sep>amchem products, inc. a corporation organised under the laws of the state of delaware united states of americabrookside avenueambler pennsylvania 19002us<sep>amchem products, inc. a corporation organised under the laws of the state of delaware united states of america<sep>
+</APPLICANT>
+<INVENTOR>
+dollman david y<sep>o'grady timothy j<sep>dollman, david y.<sep>o'grady, timothy j.<sep>dollman, david y.3 belmont squaredoylestown, pennsylvaniaus<sep>o'grady, timothy j.269 north ridge, avenueambler, pennsylvaniaus<sep>dollman, david y.  <sep>o'grady, timothy j.<sep>dollman, david y.3 belmont squaredoylestown, pennsylvaniaus<sep>o'grady, timothy j.269 north ridge, avenueambler, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+the corrosion resistance and paint adhesion of  aluminium and its alloys is improved by contacting the  aluminium (or aluminium alloy) surface with an aqueous  acid solution containing polyacrylic acid or an ester thereof  and at least one of h₂zrf₆, h₂tif₆ and h₂sif₆, the ph of the  solution being less than 3. 5.  the waste disposal problems  associated with conventional chromate phosphate coating  processes are avoided.  the coating solution may be  replenished with a concentrate containing polyacrylic acid or  an ester thereof, at least one of h₂zrf₆, h₂tif₆ and h₂sif₆,  and a source of free fluoride, preferably hydrofluoric acid, to  complex dissolved aluminium.  
+</ABSTRACT>
+</TEXT>
+</DOC>

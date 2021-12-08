@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005854
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01V-9/04</main> F16P-3/00 G01V-8/22 G01V-8/10 F16P-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for facilitating alignment of a group of cyclically switched light transmitters or receivers with a single light receiver or transmitter.
+</TITLE>
+<APPLICANT>
+sick optik elektronik erwinde<sep>erwin sick gmbh optik-elektronik<sep>erwin sick gmbh optik-elektroniksebastian-kneipp-strasse 1d-79183 waldkirchde<sep>erwin sick gmbh optik-elektronik <sep>
+</APPLICANT>
+<INVENTOR>
+erdmann jurgen<sep>von stein walter<sep>erdmann, jurgen<sep>von stein, walter<sep>erdmann, jürgeneisenbahnstrasse 35d-7808 waldkirch 3de<sep>von stein, walterallmendweg 8d-7808 waldkirchde<sep>erdmann, jurgen<sep>von stein, walter  <sep>erdmann, jürgeneisenbahnstrasse 35d-7808 waldkirch 3de<sep>von stein, walterallmendweg 8d-7808 waldkirchde<sep>
+</INVENTOR>
+<ABSTRACT>
+an adjustment device for aligning a group of cyclically  switched transmitters or receivers with a single receiver or  transmitter of the kind in which a series of spatially spaced  beams pass between the transmitters and the receiver, or  alternatively between the transmitter and the receivers.  in a  preferred form the adjustment device is used to ensure  alignment of a row of infra-red transmitters (0-9) which direct  beams of light to a photoelectric converter (18) arranged at  the focus of a concave mirror (24).  the adjustment device  features a coincidence circuit (14-15) the outputs from which  indicate that signals transmitted from the end transmitters of  the row are received at the photoelectric converter.  the  outputs are used to energise respective adjustment indicating  lamps (19-20).  in a particularly preferred arrangement  threshold circuitry (17) is used to produce winking of the  lamps when approximate adjustment has been achieved;  continuous lighting of the lamps shows that accurate  adjustment is present.  the lamps can conveniently be placed  adjacent their associated transmitters.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010462
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03D-3/04</main> H04B-1/18 H03D-3/00 H03D-3/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+frequency demodulation device and receiver comprising same.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+claverie claude<sep>claverie, claude<sep>claverie, claudethomson-csf - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>claverie, claude  <sep>claverie, claudethomson-csf - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The frequency demodulation device comprises amplitude limitation means (6) of a frequency modulated signal, coupled to a low-pass filter (5) through integration means (C, R; C₂, R₂) to integrate the fronts of the output signal of the amp limiting means (6), two successive fronts of this output signal being integrated respectively with a first and a second predetermined time constant.The filter (5) extracts the average value of the output signals of the integration means.This average value being propel to the frequency of the modulated wave makes it possible to define this frequency.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016484
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-3/02 H01J-3/00 <main>H01J-29/50</main> H01J-29/48 H01J-29/82 H01J-29/50 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+colour television display tube.
+</TITLE>
+<APPLICANT>
+philips nv nl  <sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+johanns johannes hendricus mar<sep>van eck arnoldus hubertus mari<sep>johanns, johannes hendricus maria<sep>van eck, arnoldus hubertus maria<sep>johanns, johannes hendricus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van eck, arnoldus hubertus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>johanns, johannes hendricus maria  <sep>van eck, arnoldus hubertus maria<sep>johanns, johannes hendricus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van eck, arnoldus hubertus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a colour television display tube comprising three elec­ tron guns arranged in line and each comprising successively a  triode part (5), a first lens electrode (3) and a second lens  electrode (2).  the first lens electrode (3) of each of the outer­ most guns is secured to insulating assembly rods (7) by  means of two suspension braces (4, 12) situated at an axial  distance from each other in such manner that the brace (12)  situated on the side of the triode part (5) is secured to the outer  surface of the first lens electrode (3) remote from the central  electron gun and the brace (4) situated on the side of the  second lens electrode (2) is secured to the outer surface of the  first lens electrode (3) facing the central electron gun.  such a  construction results in a low thermal convergence drift.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015211
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B61B-12/10</main> B61B-7/02 B61B-7/00 B61B-12/10 B65G-17/20 B61B-12/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mechanism for speed stabilisation of an aerial ropeway system.
+</TITLE>
+<APPLICANT>
+comilogfr<sep>compagnie miniere de l'ogooue (comilog)<sep>compagnie minière de l'ogooué comilog195, avenue charles de gaullef-92521 neuilly sur seinefr<sep>compagnie miniere de l'ogooue  comilog<sep>
+</APPLICANT>
+<INVENTOR>
+gaudet henri<sep>gaudet, henri<sep>gaudet, henri118, avenue général leclercf-92340 bourg-la-reinefr<sep>gaudet, henri  <sep>gaudet, henri118, avenue général leclercf-92340 bourg-la-reinefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a device for stabilizing the scrolling of an air cable (18).The cable is tense in a loop between a motor pulley (26) and a return pulley (20) for the transport of material or people.The return hen (20) is coupled to a device for stabilizing now the rotational speed of the pulley equal to the drive speed of the motor pulley.The device is applicable to air cable conveyors.
+</ABSTRACT>
+</TEXT>
+</DOC>

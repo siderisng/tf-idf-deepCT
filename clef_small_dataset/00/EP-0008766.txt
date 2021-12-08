@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008766
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16B-33/06 F16B-33/02 F16B-7/18 <main>F16B-33/02</main> F16B-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+threaded connections.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation<sep>
+</APPLICANT>
+<INVENTOR>
+pelton john franklin<sep>pelton, john franklin<sep>pelton, john franklin1800 blossom courtyorktown heights new yorkus<sep>pelton, john franklin  <sep>pelton, john franklin1800 blossom courtyorktown heights new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+in a threaded connection to be loaded in an axial direc­ tion, said connection comprising two pieces (i) having coinci­ dental axes and (ii) having different coefficients of thermal  linear expansion wherein one piece is a threaded male piece  (4) and the other piece is a threaded female piece (5),   the improvement comprising providing, at ambient  temperature, a taper such that the change in radial clearance  per unit of length between the opposing threads of each piece  is equal to the expression aδt tan ϑ wherein:   a = the difference in the coefficients of thermal linear  expansion of the materials of which each piece is comprised,  in the axial direction;   δt = the operating temperature of the connection minus  ambient temperature: and   ϑ = the acute angle formed by the loaded face of the  thread of either piece with the axes,   said radial clearance increasing in the direction of the  loading of the piece having the higher coefficient of thermal  linear expansion.  
+</ABSTRACT>
+</TEXT>
+</DOC>

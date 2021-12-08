@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012027
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02M-3/145 H02M-3/04 H02M-3/156 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dc switching voltage regulator with extended input voltage capability.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>
+</APPLICANT>
+<INVENTOR>
+shuey kenneth claudeus<sep>shuey, kenneth claude<sep>shuey, kenneth clauderoute 6 sellers roadcridersville, ohious<sep>
+</INVENTOR>
+<ABSTRACT>
+a direct current high voltage switching voltage regulator  for generating a controlled low voltage, low current output  referenced to the positive side of a variable voltage input  voltage is provided while maintaining operation over an  extended voltage input range with low power loss and heat  dissipation and consequent high efficiency.  
+</ABSTRACT>
+</TEXT>
+</DOC>

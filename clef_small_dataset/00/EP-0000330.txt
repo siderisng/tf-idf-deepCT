@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000330
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-5/04 C07K-5/083 A61P-37/00 C07C-323/59 C07K-5/06 C07C-323/60 C07K-5/10 A61K-37/02 A61K-38/00 C07K-5/103 C07C-67/00 C07K-5/00 C07K-7/00 C07K-14/195 C07K-5/08 C07C-313/00 C07K-7/06 C07K-1/113 C07K-14/245 C07K-1/00 C07K-5/087 <main>C07C-103/52</main> C07C-323/00 A61K-39/39 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lipopeptides, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag <sep>
+</APPLICANT>
+<INVENTOR>
+baschang gerhard dr<sep>hartmann albert dr<sep>kamber bruno dr<sep>stanek jaroslav dr<sep>tarcsay lajos zoltan dr <sep>baschang, gerhard, dr.<sep>hartmann, albert, dr.  <sep>kamber, bruno, dr.<sep>stanek, jaroslav, dr.<sep>tarcsay, lajos zoltan, dr.<sep>baschang, gerhard, dr.bückenweg 7ch-4126 bettingench<sep>hartmann, albert, dr.steingasse 21ad-7889 grenzachde<sep>kamber, bruno, dr.sonnenweg 9ch-4144 arlesheimch<sep>stanek, jaroslav, dr.florastrasse 6ch-4127 birsfeldench<sep>tarcsay, lajos zoltan, dr.muttenzerstrasse 25d-7889 grenzach-wyhlende<sep>baschang, gerhard, dr. <sep>hartmann, albert, dr.  <sep>kamber, bruno, dr.<sep>stanek, jaroslav, dr.<sep>tarcsay, lajos zoltan, dr.<sep>baschang, gerhard, dr.bückenweg 7ch-4126 bettingench<sep>hartmann, albert, dr.steingasse 21ad-7889 grenzachde<sep>kamber, bruno, dr.sonnenweg 9ch-4144 arlesheimch<sep>stanek, jaroslav, dr.florastrasse 6ch-4127 birsfeldench<sep>tarcsay, lajos zoltan, dr.muttenzerstrasse 25d-7889 grenzach-wyhlende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  compounds of the formula  see diagramm : ep0000330,p30,f1  wherein r1 and r2 each represent a saturated or unsaturated aliphatic or mixed aliphatic-cycloaliphatic hydrocarbon radical which has 11-21 c atoms and which is also optionally substituted by oxygen functions, r3 represents hydrogen or the radical r1 -co-o-ch2 -, where r1 has the same meaning, and x represents a natural aliphatic amino acid linked by a peptide bond and having a free, esterified or amidated carboxyl group, or an amino acid sequence of 2-10 natural aliphatic amino acids, the terminal carboxyl group of which is free or in the ester or amide form, with the asymmetric centres denoted by * and ** possessing the absolute r- and s- or r-configurations, respectively ; and, possibly, mixtures of the r- and s-compounds epimeric on the c** atoms, and salts and complexes of all these compounds. 
+</ABSTRACT>
+</TEXT>
+</DOC>

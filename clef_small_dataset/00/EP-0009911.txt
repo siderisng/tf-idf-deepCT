@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009911
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-7/00 A61M-39/22 <main>A61M-5/14</main> A61M-39/00 A61B-1/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flush valve.
+</TITLE>
+<APPLICANT>
+norton cous<sep>norton company<sep>norton company1 new bond streetworcester massachusetts 01606us<sep>norton company  <sep>
+</APPLICANT>
+<INVENTOR>
+hicks roger d<sep>hicks, roger d.<sep>hicks, roger d.4785 mayfair roadnorth canton ohious<sep>hicks, roger d.<sep>hicks, roger d.4785 mayfair roadnorth canton ohious<sep>
+</INVENTOR>
+<ABSTRACT>
+a continuous flushing catheter includes a valve com­ prising a relatively rigid central portion (24) and a flexible  outer portion (19) surrounding said central portion (24).   the valve has a sealing surface (26) which engages the  central portion (24) around its whole circumference in  liquid sealing relationship.  a pair of integral lever arms  transmit a shape-deforming force to the flexible outer por­ tion (19) to lift a portion of the sealing surface (26) out of  contact with the rigid cylinder (24), to permit passage of  liquid through said valve.  
+</ABSTRACT>
+<DESCRIPTION>
+flush valve background of the invention the present invention -is specifically directed to an improved valve for permitting the rapid flushing of an intravascular catheter used in a system for monitoring conditions in the thoracic cavity during surgery, in an intensive care ward, in cardio vascular diagnostic laboratories etc. there have recently come on the market several devices for the continuous flushing of intravascular catheters wherein a glass capillary tube, such as a marine bore, is provided to limit the flushing to a very small amount. at the time of intstalling the catheter it is necessary to have a fast flush in order to completely fill the catheter with the flushing solution to prevent the danger of introducing an air bubble into the body of the patient whose condition is being monitored. one such catheter is made and sold by sorenson labs and is made in accordance with the teachings of u.s. patent 3,675,891. the present invention is an improvement over the device of the type described in the above mentioned sorenson patent. while the valve of the present invention has other uses than in continuous flushing of catheter systems its construction and operation will be initially described in connection with such a system. the prior art in addition to the above mentioned sorenson patent 3,675,891 the art includes other valve devices such as those shown in u.s. patent to cantor 2,706,101 and 2,946,555, to harris 3,985,140, to alsace 3,901,246 and 4,018,231. however none of these patents show the integral molded pair of lever arms character izirg the present invention. brier description of the drawings f#ig. 1 is a diagramatic sectional view of the valve of the present invention. fig. 2 is a diagramatic sectional vtied along the line 2-2 of fig. 1 with the valve in the closed position and fig. 3 is a sectional view similar to fig. 2 taken on line 3-3 of fig. 1 with the valve in the flush position: referring to figs. 1 and 2 the valve body 10 has three tubes 12, 14 and 16 connected thereto. tube 12 is designed to be connected to the catheter, tube 14 is adapted to be connected to a pressure monitoring device and tube 16 is arranged to be connected to a sressurized source of flushing solution. the valve body 10 contains two tubular portions 19 and 21 containinc passages 20 and 22 respectively. in passage 20 there is provided a glass marine bore" capillary 24 having a cylindrical outer circumference. a flushing solution is prevented from by-passing the marine bore capillary 24 by cylindrical sealing ridges 26 formed in the interior portion of the body 10 defining the cavity 20. the body 10 is preferably formed of a pliable plastic or elastomer such as urethane having a shore adurameter of approximately 80. this body 10 is preferably formed of two pieces the major portion of which includes end piece 28 having two nipples which are integrally molded into the two tubes 14 and 16 respectively.
+</DESCRIPTION>
+<CLAIMS>
+   \\hat    1s   ci#al#ed    is:    1. a valve comprising a relatively rigid central portion, a flexible outer portion surrounding said central portion and having a sealing surface which engages said central portion around its whole circumference in liquid sealing relationship, and an integral pair of lever arms molded as part of said body and extending from said body radially of its axis, said lever   arms -comprising    means for transmitting a   shape-deformig    force to said flexible outer portion to lift a portion of said sealing surface out of contact with the rigid cylinder, to permit passage of liquid through said valve.     2. the valve of claim 1 wherein the rigid central portion is cylindrical and the flexible outer portion contains a circular sealing ring and wherein the deformation force converts the sealing surface from a circle to an oblong to lift a portico of the sealing surface from the inner cylinder.    3. the valve of claim 1 wherein the rigid central portion comprises a capillary tube.  
+</CLAIMS>
+</TEXT>
+</DOC>

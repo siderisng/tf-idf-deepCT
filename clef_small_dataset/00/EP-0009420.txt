@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009420
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-17/94 H03K-17/972 <main>H03K-17/97</main> G06F-3/02 H01H-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a noncontacting switch device employing a differential transformer element.
+</TITLE>
+<APPLICANT>
+bernin victor m<sep>bernin, victor m.<sep>bernin, victor m.105 east berkshire lane mt. prospectillinois 60056us<sep>bernin, victor m.  <sep>
+</APPLICANT>
+<INVENTOR>
+bernin victor m<sep>bernin, victor m.<sep>bernin, victor m.105 east berkshire lane mt. prospectillinois 60056us<sep>bernin, victor m.<sep>bernin, victor m.105 east berkshire lane mt. prospectillinois 60056us<sep>
+</INVENTOR>
+<ABSTRACT>
+a noncontacting mechanically actuated keyboard  type switch and interconnecting networks for switch  arrays are described herein.  the basic switch is a balanced  or differential transformer element with a movable  magnetic core, or shorted turn, actuator (4) which is  inserted through one-half of the transformer element,  one primary-secondary winding pair (2, 6), causing the  transformer to change from a balance or "off" state to  an unbalanced or "on" state.  the single turn coils that  make up the differential transformer element lie in a  plane, and in one embodiment of this invention the primary  coils and their interconnecting network are printed on one  side of a double sided printed circuit board, and the  secondary coils and their interconnecting network are  printed in proper alignment on the opposite side.  a hole  is provided through the printed circuit board for each  transformer element for insertion of a magnetic actuator.   also described is a two dimensional x-y switch matrix and  a three dimensional x-y-z switch matrix, for facilitating  electronic scanning of the keyboard for implementing  encoding, multikey rollover, etc. , techniques.  
+</ABSTRACT>
+</TEXT>
+</DOC>

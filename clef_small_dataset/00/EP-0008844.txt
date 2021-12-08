@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008844
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-9/87 H04N-9/64 H04N-9/877 G06T-7/20 <main>H04N-9/535</main> H04N-5/14 H04N-5/262 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and apparatus for deriving a pal colour television signal corresponding to any desired field in an 8-field pal sequence from one stored field or picture of a pal signal.
+</TITLE>
+<APPLICANT>
+british broadcasting corpgb<sep>british broadcasting corporation<sep>british broadcasting corporationbroadcasting houselondon w1a 1aagb<sep>british broadcasting corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+drewery john oliver<sep>storey richard<sep>drewery, john oliver<sep>storey, richard<sep>drewery, john oliver27, the valecouldson surreygb<sep>storey, richardflat 9, 150 st. james roadsutton surreygb<sep>drewery, john oliver<sep>storey, richard<sep>drewery, john oliver27, the valecouldson surreygb<sep>storey, richardflat 9, 150 st. james roadsutton surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a single field of a pal colour television signal is stored in  a store (50) and provides a signal at an input (52).  the signal is  delayed by one-line delays (56,58) in series to provide one and  two-line delayed signals.  separate switching units (60,62)  select desired ones or combinations of the input and delayed  signals to constitute respectively the low-frequency and  chrominance part of the signal at the output (82).  the switch  positions are changed between fields, and for at least some  fields of the pal sequence each component of the output  signal is formed by combining signals from more than one  line, i. e.  a halving adder (64;66) averages successive lines for  the low frequency part of the signal and a halving subtractor  (68) forms the difference between lines two lines apart for the  chrominance part.  the selector unit outputs are combined in  an adder (78) which receives the output of the first selector  (60), and also the difference between the output of the two  selectors after band pass filtering (76).  the store (50) can be  replaced by a random access store capable of outputting three  successive lines simultaneously.  the apparatus has special  utility in equipment for movement portrayal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

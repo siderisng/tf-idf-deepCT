@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003278
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-25/02 C07D-221/00 C07D-401/04 A61K-31/4418 A61K-31/4427 C07D-213/00 C07D-217/26 C07D-213/85 A61K-31/44 C07D-401/14 C07D-213/80 C07D-221/04 C07D-217/00 C07D-213/61 C07D-401/00 C07D-221/16 A61P-25/00 A61P-9/00 A61P-9/12 C07D-213/64 C07D-213/73 C07D-217/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polysubstituted-2-(3-loweralkylamino-2-r0-propoxy)pyridines, process for preparing the same, and pharmaceutical compositions containing the same.
+</TITLE>
+<APPLICANT>
+merck & co incus<sep>merck & co., inc.<sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us<sep>
+</APPLICANT>
+<INVENTOR>
+baldwin john jamesus<sep>ponticello gerald salvatoreus<sep>baldwin, john james<sep>ponticello, gerald salvatore<sep>baldwin, john james1680 wagon wheel lanelansdale pa. 19446us<sep>ponticello, gerald salvatore937 crest roadlansdale pa. 19446us<sep>
+</INVENTOR>
+<ABSTRACT>
+novel substituted (3-loweralkylamino-2-r₁o-propoxy)  pyridines, their pharmaceutically acceptable salts and formula    wherein   n is 3, 4, 5 or 6,   r is c₃-c₄ branched alkyl,   r₁ is h or   --l wherein l is selected from c₁-c₁₀ alkyl,  phenyl and substituted phenyl having up to two substituents  which are independently selected from c₁-c₄  alkyl, c₁-c₄ alkoxy and halo,   r₂ is f, cn, cf₃, cl,    , no₂,  -coor₅ wherein r₅ is h, c₁-c₆ alkyl or c₆-c₁₂ carbocyclic  aryl,   -conr₆r₇ wherein r₆ and r₇ when separate, are h or  c₁-c₆ alkyl and when joined, are -ch₂-(ch₂)₃-ch₂-,  -ch₂-ch₂-o-ch₂-ch₂, -ch₂-ch₂-nh-ch₂-ch₂- or -ch₂-  ch₂-n(ch₃)-ch₂-ch₂-,   and   r₃ and r₄ are independently selected from h, c₁-c₄ alkyl,   cf₃, f,     c₁-c₄alkyl--nh, phenyl and substituted phenyl wherein  said substituents are independently selected from c₁-  c₄alkyl, c₁-c₄alkoxy and halo, such that one of r₃ and r₄  is other than h,  and pharmaceutically acceptable salts thereof, and their  preparation are disclosed.  these pyridines have pharmaceutically  useful properties such as β-adrenergic blocking  activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

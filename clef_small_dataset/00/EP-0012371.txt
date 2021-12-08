@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012371
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/08 C07D-233/06 C07D-233/10 <main>C07D-233/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 2-imidazolines.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+dockner toni dr dipl-chem<sep>kempe uwe dr dipl-chem<sep>krug herbert<sep>magnussen peter dr<sep>praetorius werner dr dipl-chem<sep>szymanski hans joachim <sep>dockner, toni, dr. dipl.-chem. <sep>kempe, uwe, dr. dipl.-chem.<sep>krug, herbert<sep>magnussen, peter, dr.<sep>praetorius, werner, dr. dipl.-chem.<sep>szymanski, hans joachim<sep>dockner, toni, dr. dipl.-chem.grossgasse 6d-6701 meckenheimde<sep>kempe, uwe, dr. dipl.-chem.carl-bosch-strasse 44d-6703 limburgerhofde<sep>krug, herbertmussbacher strasse 49d-6700 ludwigshafende<sep>magnussen, peter, dr.professor-dillinger-weg 25d-6702 bad duerkheim 1de<sep>praetorius, werner, dr. dipl.-chem.rossdoerfer strasse 75d-6100 darmstadtde<sep>szymanski, hans joachimmutterstadter strasse 17d-6707 schifferstadtde<sep>dockner, toni, dr. dipl.-chem.<sep>kempe, uwe, dr. dipl.-chem.<sep>krug, herbert<sep>magnussen, peter, dr.<sep>praetorius, werner, dr. dipl.-chem. <sep>szymanski, hans joachim<sep>dockner, toni, dr. dipl.-chem. grossgasse 6 d-6701 meckenheim de <sep>kempe, uwe, dr. dipl.-chem.carl-bosch-strasse 44d-6703 limburgerhofde<sep>krug, herbertmussbacher strasse 49d-6700 ludwigshafende<sep>magnussen, peter, dr.professor-dillinger-weg 25d-6702 bad duerkheim 1de<sep>praetorius, werner, dr. dipl.-chem.rossdoerfer strasse 75d-6100 darmstadtde<sep>szymanski, hans joachimmutterstadter strasse 17d-6707 schifferstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+New method for producing 2-imidazolines by reacting 1,2-diamines with nitriles or carbo nyl compounds at a temperature of 200 to 450 ° C in the presence of oxides, phosphates of the metals of the 3rd and 4th group of the periodic system and /Or silicon di oxide in the gas phase.The 2-imidazolines producible by the method of the invention are valuable starting materials for the manufacture of dyes, pesticides and pharma Zeutica.
+</ABSTRACT>
+</TEXT>
+</DOC>

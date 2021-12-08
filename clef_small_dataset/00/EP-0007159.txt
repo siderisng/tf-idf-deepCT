@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007159
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08B-11/06 <main>C08B-11/00</main> C08B-37/00 C08B-11/00 C08B-31/00 A61K-31/72 C08B-37/04 C08B-11/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a chloral derivative; method for preparing this derivative and a therapeutic composition containing this derivative.
+</TITLE>
+<APPLICANT>
+macarthys pharmagb<sep>macarthys pharmaceuticals limited<sep>macarthys pharmaceuticals limitedfrankland moore house 185-7 high road chadwell heathromford essex rm6 6nrgb<sep>macarthys pharmaceuticals limited  <sep>
+</APPLICANT>
+<INVENTOR>
+simpkins david edwin<sep>taylor john beverley owen<sep>simpkins, david edwin<sep>taylor, john beverley owen<sep>simpkins, david edwin37 hill roadbenfleet essexgb<sep>taylor, john beverley owen22 tudor avenuegidea park essexgb<sep>simpkins, david edwin<sep>taylor, john beverley owen<sep>simpkins, david edwin37 hill roadbenfleet essexgb<sep>taylor, john beverley owen22 tudor avenuegidea park essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention relates to a chloral derivative having  the general formula    in which y8 is a polysaccharide consisting of a chain of anhydroglucose,  modified anhydroglucose or uronic acid units as  substituent group and in which r is selected from -h,  -coch₂oh,-[(ch₂)no]x-h in which n is 2 to 5 and x is 1 to 7;  -ch₂oso₂x′ or -ch₂coox′ in which x′ is nh₄ or a single  equivalent of a non-toxic metallic cation, -(ch₂)nh where n is 1  to 7, -(ch₂)n (-oh)xy where y is -h or -ch₃n is 1 to 7, x is 1 to 12  and the -oh groups are attached to any or all of the carbon  atoms by substitution and wherein when y¹ is a chain of  unmodified anhydroglucose units, these units have the following  configurations:-   α-d-glucopyranosyl units having a predominantly 1 - 4 linkage   β-d-glucopyranosyl units having a predominantly 1 - 4 linkage  and/or   β-d-glucopyranosyl units having a predominantly 1 - 4 linkage  when c₆ is a carboxylic acid group.  
+</ABSTRACT>
+</TEXT>
+</DOC>

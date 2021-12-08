@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001778
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-11/00 C25B-11/04 C25B-11/08 C25B-11/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrodes for electrolytic purposes
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 38 67063 ludwigshafen de <sep>
+</APPLICANT>
+<INVENTOR>
+habermann wolfgangde<sep>thoma peter drus<sep>wintermantel klaus drde<sep>habermann, wolfgang<sep>thoma, peter, dr.<sep>wintermantel, klaus, dr.<sep>habermann, wolfganggonsenheimer spiess 8d-6500 mainz 1de<sep>thoma, peter, dr.c/o basf wyandotte corp. 1609 biddle avenuewyandotte mich. 48192us<sep>wintermantel, klaus, dr.schluesselweg 38d-6901 dossenheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+Electro steels for electrolysis purposes, which are particularly suitable as anodes for chloroalkali electrolysis, contain adjacent to an alloy of niobium with the metals of the iron group tantalum, tantalum carbide or alloys of tantalum with metals of the iron group individually or in admixture.The surface of these electrodes is doped with metals of the platinum group, in particular rhodium.
+</ABSTRACT>
+</TEXT>
+</DOC>

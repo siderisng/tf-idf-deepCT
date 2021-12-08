@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008196
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-14/435 C07K-14/70 <main>C07C-103/52</main> A61K-37/02 C07K-14/00 A61K-38/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pentapeptides, processes for their preparation, intermediates used in such processes, use in pharmaceutical compositions and compositions containing them.
+</TITLE>
+<APPLICANT>
+american home produs<sep>american home products corporation<sep>american home products corporationfive giralda farmsmadison, new jersey 07940-0874us<sep>american home products corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+garsky victor michael<sep>garsky, victor michael<sep>garsky, victor michael802, hollow roadradnor chester, pennsylvaniaus<sep>garsky, victor michael<sep>garsky, victor michael802, hollow roadradnor chester, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+pentapeptides of formula    wherein r¹ is hydrogen, methyl, ethyl, propyl, 2-methyl-2-­ pentenyl, 2-methyl-1-pentenyl, cyclopropylmethyl, or cyclo­ butylmethyl; r², r³ and r⁴ are, independently, hydrogen or  methyl; x² represents cox wherein x is -oh, -nh₂, -nhcn-­ h2n + ₁ where n is 1, 2, 3 or 4, -or⁵ wherein r⁵ is lower al­ kyl of 1 to 4 carbon atoms, or x² represents ch₂or⁶  wherein r⁶ is hydrogen or lower alkyl of 1 to 4 carbon  atoms or a pharmaceutically acceptable salt thereof; have  analgesic activity upon administration to warm-blooded ani­ mals.  they are prepared by classical or solid phase syn­ thetic methods via appropriate protected pentapeptides.   pharmaceutical compositions are also disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

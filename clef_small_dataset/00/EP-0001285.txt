@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001285
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/34 C02F-1/36 C02F-1/461 C02F-1/46 A61L-2/02 A61L-2/03 C02F-1/467 A61L-2/24 C02F-1/00 <main>A61L-2/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for sterilisation of liquids.
+</TITLE>
+<APPLICANT>
+reis august kde<sep>reis, august k., prof. dr. med.<sep>reis, august k., prof. dr. med.faistenbergerstrasse 1d-8000 münchen 90de<sep>reis, august k., prof. dr. med.<sep>
+</APPLICANT>
+<INVENTOR>
+kirmaier norbert l dr-ing<sep>reis august k prof dr med<sep>schoberl meinolf dipl-ing<sep>kirmaier, norbert l., dr.-ing.<sep>reis, august k., prof. dr. med.<sep>schoberl, meinolf, dipl.-ing.<sep>kirmaier, norbert l., dr.-ing.mondstrasse 6d-8011 aschheimde<sep>reis, august k., prof. dr. med.faistenbergerstrasse 1d-8000 münchen 90de<sep>schöberl, meinolf, dipl.-ing.geigelstein strasse 8d-8210 prien/chiemseede<sep>kirmaier, norbert l., dr.-ing.<sep>reis, august k., prof. dr. med.<sep>schoberl, meinolf, dipl.-ing.<sep>kirmaier, norbert l., dr.-ing.mondstrasse 6d-8011 aschheimde<sep>reis, august k., prof. dr. med.faistenbergerstrasse 1d-8000 münchen 90de<sep>schöberl, meinolf, dipl.-ing.geigelstein strasse 8d-8210 prien/chiemseede<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an apparatus for disinfection of liquids by the anodic oxidation with an input of liquid (2) in the lower inside-room-area and an outflow (3) in the upper inside room-area and a plurality of main- or auxiliary electrodes (32-39; 7), which are streamed through or circulated around.  in this apparatus the main-electrodes at the down-stream lying inflow and at the upstream lying outflow of the electrode-area extend over the whole streaming-profile and shows interruptions passing through the fluid medium.  in this apparatus a potential lies at the main-electrodes, which is periodical commutable in this direction, this apparatus is characterized in, that a plurality of main-electrodes (32-39) and between lying auxiliary electrodes, which are arranged in layers in the direction of the streaming, consecutive main-electrodes have a inverse voltage polarity and the periodical commutation of the potential-direction comes in one period to pass only between two neigh-boured main-electrodes (34, 35). 
+</ABSTRACT>
+</TEXT>
+</DOC>

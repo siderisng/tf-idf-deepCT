@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016312
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-10/00 C08F-10/10 C10M-159/00 C08F-4/00 C08F-8/46 C08F-4/06 C08F-240/00 C10M-159/12 C08F-8/00 C08F-8/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of polyisobutenes and use thereof in the production of mineral-oil additives.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+boerzel paul drde<sep>bronstert klaus drde <sep>hovemann friedrich drde   <sep>sandrock gerhard drde<sep>strohmeyer max drde<sep>boerzel, paul, dr.<sep>bronstert, klaus, dr.<sep>hovemann, friedrich, dr.<sep>sandrock, gerhard, dr.<sep>strohmeyer, max, dr.<sep>boerzel, paul, dr.hans-purrmann-strasse 9 bd-6710 frankenthalde<sep>bronstert, klaus, dr.gartenstrasse 26d-6719 carlsberg 1de<sep>hovemann, friedrich, dr.magdeburger strasse 7d-6832 hockenheimde<sep>sandrock, gerhard, dr.albrecht-duerer-ring 36cd-6710 frankenthalde<sep>strohmeyer, max, dr.woogstrasse 41d-6703 limburgerhofde<sep>
+</INVENTOR>
+<ABSTRACT>
+polyisobutenes having a mean degree of polymerisation p of 10-100 and a content e of double bonds which can be reacted with maleic anhydride of from 60 to 100%, where e = 100% corresponds to the calculated theoretical value for the case where each molecule of the polyisobutene contains one such double bond, can be prepared by polymerising isobutene with from 1 to 20 mmol of boron trifluoride per mol of isobutene at from -50 to + 80 deg c with the mean polymerisation duration limited to from 1 to 40 seconds, and can be used for the production of mineral oil additives. 
+</ABSTRACT>
+</TEXT>
+</DOC>

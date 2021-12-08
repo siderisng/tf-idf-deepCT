@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003301
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-47/24 C07C-381/00 C07C-325/00 C07C-381/08 A01N-47/10 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-sulfenyl-carbamoyl-oximes, preparation thereof and use thereof as insecticides, acaricides, nematocides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+draber wilfried drde<sep>hammann ingeborg drde<sep>homeyer bernhard drde<sep>stetter joerg dr de <sep>timmler helmut drde<sep>draber, wilfried, dr.<sep>hammann, ingeborg, dr.<sep>homeyer, bernhard, dr.<sep>stetter, joerg, dr.<sep>timmler, helmut, dr.<sep>draber, wilfried, dr.in den birken 81d-5600 wuppertal 1de<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 kölnde<sep>homeyer, bernhard, dr.obere strasse 28d-5090 leverkusen 3de<sep>stetter, jörg, dr.pahlkestrasse 3d-5600 wuppertal 1de<sep>timmler, helmut, dr.tersteegenweg 16d-5600 wuppertal-1de<sep>
+</INVENTOR>
+<ABSTRACT>
+novel n-sulphenylcarbamoyl oximes of the formula <image>  in which   r<1>, r, r<2>, r<3> and n have the meaning indicated in the description.  they have strong insecticidal, acaricidal and nematicidal properties.  they are obtained when oximes of the formula <image> are reacted with sulphenylcarbamoyl halides of the formula <image> or oxycarbamates of the formula <image> are reacted with sulphenyl chlorides of the formula cl-(s)n-r<3>     (v). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004138
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-37/12 H02K-21/00 H02P-8/14 H02K-29/00 H02K-37/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a pulse operated electric motor.
+</TITLE>
+<APPLICANT>
+hall leslie william<sep>hall, leslie william<sep>hall, leslie william19 bridge street clayhanger brownhillswalsall west midlandsgb<sep>
+</APPLICANT>
+<INVENTOR>
+hall leslie william<sep>hall, leslie william<sep>hall, leslie william19 bridge street clayhanger brownhillswalsall west midlandsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a pulse operated electric motor comprises a stator (18  and 20), a rotor (28) mounted for rotation with respect to the  stator, and at least one magnet mounted on each of the rotor  and stator.  either the stator magnet or the rotor magnet  comprises two electrically separate coils by which is meant  that the coils are not connected to one another.  each coil is  connected to a respective pulse generator, and in operation  each generator produces pulses of the same polarity as one  another and of opposite polarity to the pulses of the other  generator.  the pulses of one generator alternate with the  pulses of the other generator so that the two magnet coils  are energised alternately to constitute a stator or rotor magnet  which changes polarity each time one of the coils is  energised.  in a preferred motor having eight stator electro-magnets,  the magnet coils can be switched from a series  configuration to a parallel configuration.  the rotor magnets  may be arranged in coaxial rings and in operation the rings  may be deenergised sequentially starting with the rings of  smallest diameter.  
+</ABSTRACT>
+</TEXT>
+</DOC>

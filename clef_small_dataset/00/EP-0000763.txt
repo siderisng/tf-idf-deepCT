@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000763
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-303/36 C07D-303/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+glycidylamino ethers and process for their preparation.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+fischer robert drde<sep>merkel karl drde<sep>oppenlaender knut drde <sep>penzel erich drde  <sep>strickler rainer drde<sep>fischer, robert, dr.<sep>merkel, karl, dr.<sep>oppenlaender, knut, dr.<sep>penzel, erich, dr.<sep>strickler, rainer, dr.<sep>fischer, robert, dr.curt-schumann-ring 18d-6701 maxdorf 2de<sep>merkel, karl, dr.sperlinggasse 15d-6700 ludwigshafende<sep>oppenlaender, knut, dr.otto-dill-strasse 23d-6700 ludwigshafende<sep>penzel, erich, dr.carl-bosch-strasse 86d-6700 ludwigshafende<sep>strickler, rainer, dr.schroederstrasse 14d-6900 heidelbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+process for the preparation of glycidylamino ethers of the general formula (i)  x2n-r<1>-(o-r<2>-)no-r<1>-nx2,  in which    x represents h and/or <image>  containing at least two <image> per mol,    r<1> represents alkylene groups containing 1 to 4 c atoms,    r<2> represents alkylene groups containing 1 to 20 c atoms and    n represents 0 to 50  by reacting diamino ethers of the general formula (ii)  h2n-r<1>-(o-r<2>-)-)n-o-r<1>-nh2, in which r<1>, r<2> and n have the abovementioned meanings, with epichlorohydrin at elevated temperature, (ii) first being reacted with excess epichlorohydrin at temperatures from 25 to 40 deg c in the presence of at least 0. 5% by weight of water and the reaction mixture then being treated with alkali at temperatures below 50 deg c.  the invention additionally relates to glycidylamino ethers of the general formula (i) in which x exclusively represents <image> r<1> represents alkylene groups containing 2 to 3 c atoms, r<2> represents alkylene groups containing 2 to 6 c atoms and n represents 0 to 15, which are particularly effective crosslinkers for polymers containing coreactive groups. 
+</ABSTRACT>
+</TEXT>
+</DOC>

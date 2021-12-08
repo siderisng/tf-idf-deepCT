@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009125
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/29 H01L-23/28 H01L-21/316 H01L-21/02 H01L-23/31 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor component with passivating protection layer.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+schnoeller manfred dr rerde<sep>schnoeller, manfred, dr. rer.<sep>schnöller, manfred, dr. rer. nat., dipl.-chem.grete-hoffmann-weg 24d-8041 haimhausende<sep>
+</INVENTOR>
+<ABSTRACT>
+to stabilise the reverse? characteristics of semiconductor components, it is proposed to apply to the surface of the semiconductor body (1) a vacuum-deposited layer (5) of a silicon oxide of the formula siox.  the specific resistance of this layer (5) is so high that it ensures an adequate stability of the characteristics even without posttreatment, for example, by means of exposure to temperature.  the passivating protective layer can be used in all types of semiconductor components (figure 1).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017457
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08F-8/00</main> C08F-8/00 C10M-107/00 C08F-6/00 C07C-15/00 C10M-105/06 C10M-3/12 C08F-6/10 C07C-15/107 C10N-70/00 C10M-107/10 C10M-105/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+the use of a synthetic oil as a lubricating oil.
+</TITLE>
+<APPLICANT>
+mobil oil corpus<sep>mobil oil corporation<sep>mobil oil corporation150 east 42nd streetnew york new york 10017us<sep>mobil oil corporation <sep>
+</APPLICANT>
+<INVENTOR>
+brennen james aloysious<sep>norris henry david<sep>brennen, james aloysious<sep>norris, henry david<sep>brennen, james aloysious70 kings highway northcherry hill new jerseyus<sep>norris, henry david449 sprice lanewoodbury new jerseyus<sep>brennen, james aloysious<sep>norris, henry david<sep>brennen, james aloysious70 kings highway northcherry hill new jerseyus<sep>norris, henry david449 sprice lanewoodbury new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+in producing synthetic hydrocarbon oils by polymeriza­ tion of olefins using aliminum halide as the catalyst, organic  halides are produced.  these are corrosive to metal equip­ ment and are poisonous to certain hydrogenation catalysts.   this invention eliminates the problems caused by such  organic halides by reacting them with an aromatic hydrocar­ bon in a system also containing the polyolefins thus forming  an alkylation product with both reactants prior to removal of  the aluminum chloride catalyst.  
+</ABSTRACT>
+</TEXT>
+</DOC>

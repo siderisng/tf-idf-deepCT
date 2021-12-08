@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000511
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-107/04 <main>G03C-5/54</main> C09B-29/06 G03C-8/02 C07D-209/42 C09B-29/08 C07D-209/00 G03C-8/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic colour diffusion transfer process.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+marx paul dr<sep>puschel walter dr<sep>stolzenburg rudolf chem-ing gr<sep>marx, paul, dr.<sep>puschel, walter, dr.<sep>stolzenburg, rudolf, chem.-ing.grad.<sep>marx, paul, dr.nauener strasse 25d-5090 leverkusen 1de<sep>püschel, walter, dr.berta-von-suttner-strasse 54d-5090 leverkusen 1de<sep>stolzenburg, rudolf, chem.-ing.grad.bogenstrasse 27d-4018 langenfeldde<sep>marx, paul, dr.  <sep>puschel, walter, dr. <sep>stolzenburg, rudolf, chem.-ing.grad.<sep>marx, paul, dr.nauener strasse 25d-5090 leverkusen 1de<sep>püschel, walter, dr.berta-von-suttner-strasse 54d-5090 leverkusen 1de<sep>stolzenburg, rudolf, chem.-ing.grad.bogenstrasse 27d-4018 langenfeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+For the photographic color diffusion transmission method suitable non-diffusing coloring compounds, which release in the development of pictorially diffusing yellow with a cyanalkylamino group substituted AZO dyes.These coloring compounds correspond to the formula wherein D represents a heterocyclic or carbocyclic radical and A¹ is an oxidizable carrier residue which is linked to any point on the dye radical and from which in the development either in oxidized form or in non-oxidized form at least one part is cleaved underRelease of the diffusing azo dye
+</ABSTRACT>
+</TEXT>
+</DOC>

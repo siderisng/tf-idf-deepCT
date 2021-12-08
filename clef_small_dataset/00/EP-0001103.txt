@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001103
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-9/13 <main>G03G-9/12</main> G03G-9/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid developer and appropriate charge control agent.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+herrmann heinz dr<sep>herrmann, heinz, dr.<sep>herrmann, heinz, dr.am güldenplan 15d-6200 wiesbaden 12de<sep>herrmann, heinz, dr.<sep>herrmann, heinz, dr.am güldenplan 15d-6200 wiesbaden 12de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a liquid developer for the development of electrostatic charge images, which consists of electrically insulating carrier fluid high resistance and low dielectric constants in which pigments, dyes, resin-shaped binders, further conventional additives and charge control material are dispersed or dissolved, wherein the charge control is a copolymerrepresents from N-vinyl-2-pyrrolidone and methacrylic acid ester, which can additionally contain another acrylic monomer as a terpolymer.
+</ABSTRACT>
+</TEXT>
+</DOC>

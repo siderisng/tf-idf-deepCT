@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013475
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-67/00 B60W-10/02 <main>B60K-41/28</main> B66D-1/44 B60W-10/18 B60W-10/00 F16D-67/04 B66D-1/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for supplying fluid to a plurality of mechanisms.
+</TITLE>
+<APPLICANT>
+caterpillar tractor cous<sep>caterpillar tractor co.<sep>caterpillar tractor co.100 northeast adams streetpeoria, illinois 61629us<sep>caterpillar tractor co.  <sep>
+</APPLICANT>
+<INVENTOR>
+cobb raymond paul<sep>schneider marvin leo<sep>cobb, raymond paul<sep>schneider, marvin leo<sep>cobb, raymond paul309, james parkwaywashington, illinois 61571us<sep>schneider, marvin leo4410, broyhill courtpeoria, illinois 61614us<sep>cobb, raymond paul<sep>schneider, marvin leo<sep>cobb, raymond paul309, james parkwaywashington, illinois 61571us<sep>schneider, marvin leo4410, broyhill courtpeoria, illinois 61614us<sep>
+</INVENTOR>
+<ABSTRACT>
+a problem with prior apparatus is the need for a plurality  of separate apparatuses to supply the controlled members.   the invention solves this problem through the use of a single  valve assembly (25) that controls the supply of pressurized  fluid from a fluid source to first (16), second (30) and third (34)  controlled members, in which the single valve assembly (25)  has a first relief valve segment (46) to relieve the pressure of  fluid flowing from the source to the third controlled member  (34) a second relief valve segment (100) to relieve the pressure  of fluid relieved by the first relief valve segment (46), and a  third valve segment (138) to direct the fluid relieved by the first  relief valve segment (46) to the first (16) and second (30)  controlled members.  a movable lever (26) is connected to the  third valve segment (138) to shift this valve segment (138) and  control the direction of the fluid.  the invention is used princi­ pally in hydraulic circuits for earthworking vehicles to actuate  a plurality of controlled members including a flywheel clutch  (16) and clutch brake (30), and steering clutches and vehicle  brakes (34).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015516
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/54 <main>C07D-233/64</main> C07D-233/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing 5-(hydroxymethyl)imidazoles.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende   <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+dockner toni dr<sep>frank anton<sep>karn helmut<sep>kempe uwe dr<sep>dockner, toni, dr.<sep>frank, anton<sep>karn, helmut<sep>kempe, uwe, dr.<sep>dockner, toni, dr.grossgasse 6d-6701 meckenheimde<sep>frank, antonbannwasserstrasse 72d-6700 ludwigshafende<sep>karn, helmutsternstrasse 120d-6700 ludwigshafende<sep>kempe, uwe, dr.carl-bosch-strasse 44d-6703 limburgerhofde<sep>dockner, toni, dr.<sep>frank, anton<sep>karn, helmut<sep>kempe, uwe, dr. <sep>dockner, toni, dr. grossgasse 6 d-6701 meckenheimde<sep>frank, antonbannwasserstrasse 72d-6700 ludwigshafende<sep>karn, helmutsternstrasse 120d-6700 ludwigshafende<sep>kempe, uwe, dr.carl-bosch-strasse 44d-6703 limburgerhofde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing 5-hydroxymethylimidazoles, in which the imidazole is formaldehyde or an oligomer of the formaldehyde in aqueous hydrochloric acid solution containing 5 to 18 wt.% hydrogen chloride at temperatures of 80 to 160 ° C and optionally in a closed system transplant under pressure and the resulting 5-hydroxymethyl imidazole is insulated in the form of its hydrochloride.
+</ABSTRACT>
+</TEXT>
+</DOC>

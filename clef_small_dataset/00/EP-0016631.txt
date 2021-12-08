@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016631
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10K-1/34 C01B-3/00 C10K-1/00 C01B-3/16 C10K-3/00 C01B-17/16 C01B-3/50 <main>C01B-3/16</main> C10K-3/04 C01B-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+removal of hydrogen sulphide and carbonyl sulphide from gas stream.
+</TITLE>
+<APPLICANT>
+air prod & chemus<sep>air products and chemicals, inc.<sep>air products and chemicals, inc.p.o. box 538allentown, pennsylvania 18105us<sep>air products and chemicals, inc.<sep>air products and chemicals, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+hegarty william patrick<sep>hegarty, william patrick<sep>hegarty, william patrick31 fairway lanewescosville, pennsylvania, 18106us<sep>hegarty, william patrick<sep>hegarty, william patrick<sep>hegarty, william patrick31 fairway lanewescosville, pennsylvania, 18106us<sep>
+</INVENTOR>
+<ABSTRACT>
+hydrogen sulphide and carbonyl sulphide are removed  from a gas stream obtained by the gasification of coal or  heavy hydrocarbon and containing inter alia hydrogen,  carbon monoxide, carbon dioxide, hydrogen sulphide and  carbonyl sulphide by a process which comprises washing  the gas stream with an absorbent in a first absorbtion stage  (100) to remove almost all of the hydrogen sulphide in said  gas stream; reacting the gas leaving the first absorbtion  stage (100) with water vapour in a shift converter system (15)  utilizing a sulphur resistant shift catalyst to convert at least  part of the carbon monoxide into hydrogen and to hydrolyze  the carbonyl sulphide to hydrogen sulphide; and washing  the remaining gas with absorbent in a second absorbtion  stage (24) to remove substantially all of the hydrogen  sulphide remaining.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017137
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-3/00 B65G-49/04 H05K-3/28 B08B-3/12 <main>H05K-3/02</main> H05K-3/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compact transport apparatus for removal of material by ultrasonic assist.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company  <sep>
+</APPLICANT>
+<INVENTOR>
+ahrens james michael<sep>ahrens, james michael<sep>ahrens, james michaelr.d. 2 476 whitebriar roadhockessin delaware 19707us<sep>ahrens, james michael<sep>ahrens, james michaelr.d. 2 476 whitebriar roadhockessin delaware 19707us<sep>
+</INVENTOR>
+<ABSTRACT>
+a compact transport apparatus (18) is provided for  serially conveying a series of objects such as circuit boards  (2) through a zone (10) of treatment such as for ultrasonic  stripping of resist from the circuit boards (2).  the apparatus  is mounted to the treatment equipment and has receptacles  (50) for receiving the objects (2) and holding them in closely  spaced relationship during transport through the zone and  an elevator for lifting the object (2) from its receptacle (50)  after having crossed the zone and control mechanism for  intermittently stopping and starting the transport.  during the  stopping, loading of an object (2) into a receptacle (98,50) can  occur and the elevator operates to do the aforesaid lifting.  
+</ABSTRACT>
+</TEXT>
+</DOC>

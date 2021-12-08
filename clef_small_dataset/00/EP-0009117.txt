@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009117
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/38 G02B-6/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+detachable connection, especially a plug connection for the connection of at least two optical wave guides.
+</TITLE>
+<APPLICANT>
+siemens agde <sep>siemens aktiengesellschaft <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+saatze kuno dipl-ingde<sep>saatze, kuno dipl.-ing.<sep>saatze, kuno dipl.-ing.wulfingstrasse 19d-8080 emmeringde<sep>
+</INVENTOR>
+<ABSTRACT>
+in known plug connections, the ends of the wave guides are provided with plug-in circular mountings.  the fitting of the circular mountings is possible only in a special workshop.  the object of the invention is to provide a plug-in connection which can be mounted at the place of application as well, without special auxiliary means.  the connection according to the invention is characterised in that the ends of the optical wave guides (2) are centred in v-shaped grooves (3) of the end pieces (4) and are compactly clamped at their end surface by means of a clamping piece (9).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014072
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01P-7/04 <main>F01P-7/04</main> F01P-7/00 F04B-35/00 F16D-35/02 F16D-35/00 F04B-35/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+viscous fan drive.
+</TITLE>
+<APPLICANT>
+eaton corpus<sep>eaton corporation<sep>eaton corporation100 erieview plazacleveland ohio 44114us<sep>eaton corporation<sep>eaton corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bridge erland thomas<sep>bridge, erland thomas<sep>bridge, erland thomas16555 f drive southmarshall, michigan 49068us<sep>bridge, erland thomas<sep>bridge, erland thomas<sep>bridge, erland thomas16555 f drive southmarshall, michigan 49068us<sep>
+</INVENTOR>
+<ABSTRACT>
+a pumping element (64) configured in assembly as a  generally «l» shaped member having an axially extending  portion (76) interposed between the inner peripheral sur­ face (54) of the housing and the outer peripheral surface  (52) of the clutch (16) of a viscous drive to direct fluid be­ tween two side surface (80, 82) radially inwardly toward a  radial front edge (96a) of a radially extending portion (78)  of the pumping element thereafter into the outlet opening  (72) in the pump plate (26).  the pumping element allows  for the construction of a viscous drive having a relatively  low angular velocity in the disengaged mode, a relatively  high angular velocity in the engaged mode without high  speed pump out, and a relatively short pump out time.  
+</ABSTRACT>
+</TEXT>
+</DOC>

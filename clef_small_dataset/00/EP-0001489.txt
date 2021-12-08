@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001489
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/16 C08F-299/04 C08F-222/20 C08F-265/06 C08F-2/12 C08J-3/02 C08F-226/10 C08F-222/34 C08F-216/14 <main>C08F-2/16</main> C08F-2/14 C08F-291/00 C08F-220/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of sterically stabilised aqueous polymer dispersions.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc  <sep>
+</APPLICANT>
+<INVENTOR>
+backhouse alan james<sep>backhouse, alan james<sep>backhouse, alan jamesmonks wood monks close st. mary's hillsouth ascot berkshiregb<sep>backhouse, alan james<sep>backhouse, alan jamesmonks wood monks close st. mary's hillsouth ascot berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of preparing a stable dispersion in an aqueous  medium of particles of polymer in which stabilisation  of the particles against flocculation is effected by a steric  mechanism.  the method comprises (i) forming a sterically  stabilised dispersion in a non-aqueous liquid of a first polymer  insoluble both in the non-aqueous liquid and in water;  (ii) polymerising monomer in the same non-aqueous liquid  in the presence of the particles of the first polymer and of  a steric stabiliser, so as to form second polymer which is  soluble in the chosen aqueous medium; (iii) transferring  the resulting particles to the aqueous medium.  there may  be prepared in this way aqueous dispersions of polymers  incorporating units of water-soluble monomers, which are  difficult to make by known aqueous emulsion polymerisation  techniques.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010331
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-15/89 G01V-1/38 G01S-15/00 G01S-7/56 G01S-15/06 G01S-15/87 G01V-1/34 <main>G01S-15/04</main> G01S-7/62 G01V-1/28 G01S-15/88 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and means for detecting the location of a marine pipeline or a cable.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+de kok robbert jasper<sep>de kok, robbert jasper<sep>de kok, robbert jaspervolmerlaan 6rijswijknl<sep>de kok, robbert jasper<sep>de kok, robbert jaspervolmerlaan 6rijswijknl<sep>
+</INVENTOR>
+<ABSTRACT>
+to detect the location of a marine pipeline or a cable (1) by  mens of a vessel (4), acoustic pulses are transmitted by a  submarine pulse transmitter (9) carried by the vessel (4).   these pulses, as well as the reflections of the pulses on the  seabottom (2) and on the pipeline or cable (1) are detected by  means of two detectors (8a, 8b) that are carried by two para­ vans (5) towed by the vessel (4).  the signals received by the  detectors (8a, 8b) are combined and the record of the com­ bined signals is displayed.  the signal parts that are represen­ tative for the acoustic waves reflected by the pipeline (1) are  identified in the record by separate colours or various inten­ sities of a single colour.  
+</ABSTRACT>
+</TEXT>
+</DOC>

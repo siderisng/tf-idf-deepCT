@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003615
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-43/00 D06F-33/02 H01H-43/10 G05B-19/06 <main>H01H-43/10</main> A47L-15/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+programmed switching device for washing machines, dish-washing machines and the like.
+</TITLE>
+<APPLICANT>
+eaton gmbhde<sep>eaton gmbh & co. kg<sep>eaton gmbhd-7778 markdorfde<sep>eaton gmbh & co. kg <sep>eaton gmbh & co. kg<sep>
+</APPLICANT>
+<INVENTOR>
+brancaleone celestino<sep>dapont paolo dipl-ing<sep>flakowski heinz <sep>novali sergio <sep>brancaleone, celestino<sep>dapont, paolo, dipl.-ing.<sep>flakowski, heinz<sep>novali, sergio<sep>brancaleone, celestinodr. zimmermann-strasse 43d-7758 meersburgde<sep>dapont, paolo, dipl.-ing.via s. da cusighe, 12i-32100 bellunoit<sep>flakowski, heinzmainaustrasse 18d-7772 uhldingen-mühlhofen 1de<sep>novali, sergiohans-dieter-strasse 23d-7758 meersburgde<sep>brancaleone, celestino<sep>dapont, paolo, dipl.-ing.<sep>flakowski, heinz<sep>novali, sergio<sep>brancaleone, celestino<sep>dapont, paolo, dipl.-ing.<sep>flakowski, heinz <sep>novali, sergio<sep>brancaleone, celestino dr. zimmermann-strasse 43 d-7758 meersburg de <sep>dapont, paolo, dipl.-ing.via s. da cusighe, 12i-32100 bellunoit<sep>flakowski, heinzmainaustrasse 18d-7772 uhldingen-mühlhofen 1de<sep>novali, sergiohans-dieter-strasse 23d-7758 meersburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  programmed indexing mechanism for washing machines, dishwashers or the like, comprising a rotatably mounted program carrier (5) arranged to actuate associated switch contacts, which program carrier can be advanced in steps with programmable dwell periods by means of the indexing pawl (27) of a pawl and ratchet indexing mechanism that is driven by an electric motor (30), and comprising a stationary mounted time control lever (56) which, with a scanning tip (58), scans independently programmable cams (6) provided on the program carrier (5) and controls the indexing movement of the pawl (27), also comprising an indexing-inhibit disc (14), by which, in response to the time control lever (56), the pawl (27) is driven into an inhibited condition, there being a time switch (50, 65, 72) associated with the time control lever (56), characterized in that a program indexing wheel (10) carrying indexing gear teeth for the indexing pawl (27) is connected to rotate with the program carrier (5), and the indexing-inhibit disc (14) which is intermediate in the drive between the indexing pawl (27) and the time control lever (56), carries a striker (26), by wich the inhibit disc (14) can abut against the time control lever (56) when this has pivoted into the motion path of the striker (26) with a locking effect on one direction of motion of the striker ; in that the time control lever (56) can be actuated by the time switch (56, 65, 72) after expiry of the dwell time so as to release taht indexing ratchet pawl (27) which subsequently automatically comes into engagement with the program indexing wheel (10) ; in that concentrically with the program indexing wheel (10), a timer-signalling wheel (15) is mounted so as to be independently rotatable, has ratchet gear teeth (21) cooperative with the indexing pawl (27), has a diameter than that of the program indexing wheel (10), and has an indentation (40) formed in its ratchet teeth (21) and extending at least into the indexing teeth (11) of the time indexing wheel (10) ; in that the indexing pawl (27) only comes into engagement with the indexing teeth (11) of the time indexing wheel (10) when the pawl has fallen into said indentation (40). 
+</ABSTRACT>
+</TEXT>
+</DOC>

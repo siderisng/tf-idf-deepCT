@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003306
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-31/00 C07C-69/34 C07C-69/44 C07B-61/00 <main>C07C-69/44</main> C07C-69/00 C07C-69/40 C07C-67/38 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of esters of butanedicarboxylic acid.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafen de  <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kummer rudolf dr<sep>schneider heinz-walter dr<sep>weiss franz-josef dr<sep>kummer, rudolf, dr.<sep>schneider, heinz-walter, dr.<sep>weiss, franz-josef, dr.<sep>kummer, rudolf, dr.kreuzstrasse 6d-6710 frankenthal 5de<sep>schneider, heinz-walter, dr.bruesseler ring 43d-6700 ludwigshafende<sep>weiss, franz-josef, dr.schlehdornweg 69d-6940 weinheimde<sep>kummer, rudolf, dr.  <sep>schneider, heinz-walter, dr. <sep>weiss, franz-josef, dr.<sep>kummer, rudolf, dr.kreuzstrasse 6d-6710 frankenthal 5de<sep>schneider, heinz-walter, dr.bruesseler ring 43d-6700 ludwigshafende<sep>weiss, franz-josef, dr.schlehdornweg 69d-6940 weinheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the preparation of butanedicarboxylic acid esters by : a) reacting butadiene or hydrocarbon mixtures containing butadiene with carbon monoxide and a c1 - to c4 -alkanol in the presence of a tertiary nitrogen base and a cobalt carbonyl catalyst at from 80 degrees to 150 degrees c under superatmospheric pressure, b) removing the greater part of the tertiary nitrogen base together with any excess hydrocarbon, and c) reacting the resulting pentenoic acid ester, in the presence of the catalyst remaining in the reaction mixture, and in the presence of the remaining amount of tertiary nitrogen base, with carbon monoxide and a c1 - to c4 -alkanol at from 140 degrees to 200 degrees c under superatmospheric pressure, to give the butanedicarboxylic aicd ester, characteized in that, in stage c), at least 50 % of the cobalt catalyst in not in the form of a pi-allyl complex with butadiene. 
+</ABSTRACT>
+</TEXT>
+</DOC>

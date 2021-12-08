@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003926
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/225 H01L-29/10 H01L-29/02 <main>H01L-21/225</main> H01L-29/66 H01L-29/78 H01L-21/02 H01L-29/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of production of an insulated gate field effect transistor.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf  <sep>
+</APPLICANT>
+<INVENTOR>
+gilles jean<sep>gilles, jean<sep>gilles, jean"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>gilles, jean<sep>gilles, jean"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the field of isolated grid field effect transistors, type mos with channel n.The method of manufacturing these transistors, which comprise, on a semiconductor substrate, a control grid (14) and the source (12), drain (13) and a channel (15) (16), comprises a step.characteristic of these three regions by simultaneous diffusion of impurities from polycrystalline silicon sources (20) doped of the two types of impurity, these sources being retained to constitute the contact electrodes of regions created with the external sockets (50).Applications are those of high-density monolithic integrated circuits.
+</ABSTRACT>
+</TEXT>
+</DOC>

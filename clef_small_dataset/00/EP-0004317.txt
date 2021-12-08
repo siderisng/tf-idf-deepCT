@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004317
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-235/22 C07D-213/70 C07C-231/00 A01N-39/02 C07D-213/55 C07C-323/60 C07C-323/62 C07C-235/24 C07D-213/00 C07C-235/00 C07C-59/00 C07D-213/85 A01N-41/04 C07C-235/20 C07C-327/22 A01N-37/34 C07C-255/53 A01N-41/00 C07C-67/00 A01N-39/00 C07C-103/78 C07C-121/75 C07C-153/09 C07C-323/52 C07C-231/12 C07C-51/00 A01N-43/34 C07C-255/13 C07C-69/712 C07C-79/46 A01N-39/04 C07C-325/00 C07C-327/00 C07C-149/20 C07C-59/70 C07C-323/20 C07D-213/643 C07C-253/00 C07C-255/00 C07C-313/00 A01N-43/40 C07C-59/125 C07C-69/00 <main>C07C-69/712</main> C07C-255/15 C07D-213/64 C07C-323/00 C07C-59/68 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of phenoxy-alkanecarboxylic acids, their preparation, weed-killing products containing them and their use.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+bohner beat dr<sep>pissiotas georg dr<sep>rempfler hermann dr<sep>rohr otto dr<sep>szczepanski henry dr<sep>bohner, beat, dr.<sep>pissiotas, georg, dr.<sep>rempfler, hermann, dr.<sep>rohr, otto, dr.<sep>szczepanski, henry, dr.<sep>böhner, beat, dr.hügelweg 3ch-4102 binningench<sep>pissiotas, georg, dr.breslauerstrasse 8d-7850 lörrachde<sep>rempfler, hermann, dr.allschwilerweg 67ch-4102 binningench<sep>rohr, otto, dr.kilbertweg 19ch-4106 therwilch<sep>szczepanski, henry, dr.waldshuterstrasse 55ch-4310 rheinfeldench<sep>bohner, beat, dr.<sep>pissiotas, georg, dr.<sep>rempfler, hermann, dr.<sep>rohr, otto, dr.<sep>szczepanski, henry, dr.<sep>böhner, beat, dr.hügelweg 3ch-4102 binningench<sep>pissiotas, georg, dr.breslauerstrasse 8d-7850 lörrachde<sep>rempfler, hermann, dr.allschwilerweg 67ch-4102 binningench<sep>rohr, otto, dr.kilbertweg 19ch-4106 therwilch<sep>szczepanski, henry, dr.waldshuterstrasse 55ch-4310 rheinfeldench<sep>
+</INVENTOR>
+<ABSTRACT>
+New herbicide and plant growth regulating phenoxy alkanarboxylic acid derivatives are described.They correspond to the formula wherein A is the cyano group, a carboxylic acid, a salt, ester, thloester or amide thereof, q a one to triple-substituted phenyl or pyrid-2-yl residue, R₃ hydrogen, halogen, cyan, nitro, alkylor carbomoyl, R₄ alkyl, alkoxyalkyl, cycloalkyl, alkenyl, alkynyl, phenyl or benzyl as well as x, y and z each oxygen or sulfur.They can be considered selective herbicides in cereals and rice cultures, for inhibiting vegetative growth, z.b.In sojacultures, as well as for defoliation and desicination in cotton or potato cultures, use shortly before their harvest.
+</ABSTRACT>
+</TEXT>
+</DOC>

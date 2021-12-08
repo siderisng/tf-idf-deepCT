@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011235
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07J-13/00 <main>C07J-13/00</main> C12P-33/00 C12P-33/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+9-alpha-hydroxy-3-oxopregna-4,17(20)-diene-20-carboxylic acid and its methyl ester and methods for the microbiological production thereof.
+</TITLE>
+<APPLICANT>
+mitsubishi chem indjp<sep>mitsubishi chemical industries limited<sep>mitsubishi kasei corporation5-2, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi chemical industries limited  <sep>
+</APPLICANT>
+<INVENTOR>
+imada yukio<sep>mizuno sumiko<sep>imada, yukio<sep>mizuno, sumiko<sep>imada, yukio23-6, aobadai 2-chome midori-kuyokohama-shi kanagawajp<sep>mizuno, sumiko34-23, daita 6-chome setagaya-kutokyojp<sep>imada, yukio<sep>mizuno, sumiko<sep>imada, yukio23-6, aobadai 2-chome midori-kuyokohama-shi kanagawajp<sep>mizuno, sumiko34-23, daita 6-chome setagaya-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed are 9α-hydroxy-3-oxopregna-4,17(20)-diene-­ 20-carboxylic acid and its methyl ester represented by the  formula i    wherein r is hydrogen or methyl, and methods for the mic­ robiological production thereof, one comprising cultivating a  rhodococcus species in the presence of the corresponding  3-oxopregna-4,17(20)-diene-20-carboxylic acid or its methyl  ester, and the other comprising cultivating mycobacterium  species nrrl b-8054 and a rhodococcus species in the pre­ sence of a sterol substrate.  
+</ABSTRACT>
+</TEXT>
+</DOC>

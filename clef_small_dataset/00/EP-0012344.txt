@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012344
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 A01N-57/16 C07D-231/00 C07D-231/18 A01N-57/00 C07F-9/6509 C07F-9/6503 <main>C07F-9/65</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+o-pyrazol-4-yl-o-ethyl-s-n-propyl-(thiono)thiol-phosphoric-acid esters, process for preparing them and their use as pesticides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer agde<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+hammann ingeborg dr<sep>homeyer bernhard dr<sep>maurer fritz dr<sep>hammann, ingeborg, dr.<sep>homeyer, bernhard, dr.<sep>maurer, fritz, dr.<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 kölnde<sep>homeyer, bernhard, dr.obere strasse 28d-5090 leverkusen 3de<sep>maurer, fritz, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>hammann, ingeborg, dr.  <sep>homeyer, bernhard, dr. <sep>maurer, fritz, dr.<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 kölnde<sep>homeyer, bernhard, dr.obere strasse 28d-5090 leverkusen 3de<sep>maurer, fritz, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to compounds of the formula wherein R is alkyl, cycloalkyl or phenyl and X is oxygen or sulfur.It is obtained when reacting 4-hydroxy-pyrazoles with o-ethyl-S-N-propyl (di) thiophosphoric acid diester halides.They are characterized by high effectiveness as a seed control agent.
+</ABSTRACT>
+</TEXT>
+</DOC>

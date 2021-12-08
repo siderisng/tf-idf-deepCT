@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007757
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H02G-3/04</main> H01R-41/00 H02G-5/04 H01R-25/14 H02G-5/00 H01R-25/00 H01R-25/16 H02B-1/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical distribution system.
+</TITLE>
+<APPLICANT>
+electrak int ltdgb<sep>electrak international limited<sep>electrak international limited45, high streetkingston-upon-thames surrey, kt1 1lqgb<sep>electrak international limited  <sep>
+</APPLICANT>
+<INVENTOR>
+humphreys michael<sep>humphreys,michael<sep>humphreys,michael135 cavendish avenueealing,london w 13gb<sep>humphreys,michael<sep>humphreys,michael135 cavendish avenueealing,london w 13gb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention comprises an electrical distribution system  in which the electrical conductors (11, 12) are enclosed within  a length of hollow conduit (10) which is formed with a con­ tinuous slot (20) in one wall through which a plug (14) can be  inserted and rotated to bring its contact pins (77, 78) into  contact with the conductors.  gate means (32) located within  the conduit have a normally closed position in which the  conductors are closed off from that part of the conduit con­ taining the slot, and these are movable into the open position  by entry of the plug through the slot.  by closing off the con­ ductors from the remainder of the conduit, accidental contact  with the conductors is prevented even though access to the  interior of the conduit may be achieved via the slot.  in one  embodiment of the invention, a keyway (50) is provided in the  conduit and the plug is formed with a corresponding projec­ tion which engages the keyway when the plug is fitted into the  slot.  the gate means is arranged such that it can only be  opened by an element passing through the keyway, thus  providing an additional safety feature.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015096
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-1/00 <main>B23Q-3/15</main> B23Q-3/154 B23Q-3/15 H01F-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic holder.
+</TITLE>
+<APPLICANT>
+inoue japax resjp<sep>inoue-japax research incorporated<sep>inoue-japax research incorporated5289 aza michimasa nagatsudamachi midorikuyokohamashi kanagawakenjp<sep>inoue-japax research incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+inoue kiyoshi<sep>inoue, kiyoshi<sep>inoue, kiyoshi3-16-8 kamiyogasetagayaku, tokyojp<sep>inoue, kiyoshi<sep>inoue, kiyoshi3-16-8 kamiyogasetagayaku, tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a magnetic holder for releasably retaining a ferromagne­ tic object, having a core member (1) composed of a semi-hard  magnetic material magnetized permanently by an instan­ taneous discharge current from a capacitor (6) passing in a  first direction through coils (3) wound on the core member (1)  to permanently retain the object.  the capacitor discharge  current is passed in a second direction opposite to the first  through the coils (3) to demagnetize the previously magnet­ ized core member (1) to allow the object to be magnetically  released.  
+</ABSTRACT>
+</TEXT>
+</DOC>

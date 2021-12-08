@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013240
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-13/87 H01Q-21/22 <main>H01Q-21/28</main> G01S-13/00 H01Q-15/14 H01Q-13/18 H01Q-13/10 G01S-7/02 H01Q-21/28 H01Q-25/00 H01Q-19/17 H01Q-19/10 H01Q-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+common antenna for primary and secondary radar.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+dupressoir albert<sep>dupressoir, albert<sep>dupressoir, albert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>dupressoir, albert<sep>dupressoir, albert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Common antenna for primary radar and secon die radar, whose secondary radar function is integrated into the single reflector (1).The secondary radar function is carried out from a linear linear network (21) distributed along a direction through the reflector phase center.The secondary radar function has a control route made from a number of network slots.Application to primary and secondary radars.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015676
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11C-17/00</main> G11C-17/00 G11C-17/08 G11C-17/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a read only memory.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp   <sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited <sep>
+</APPLICANT>
+<INVENTOR>
+matsuda masakazu<sep>orikabe yasuo<sep>matsuda, masakazu<sep>orikabe, yasuo<sep>matsuda, masakazuni-182, mugiu, oshimizu-chohakui-gun, ishikawa 929-13jp<sep>orikabe, yasuo1141, suwa, takatsu-kukawasaki-shi, kanagawa 213jp<sep>matsuda, masakazu <sep>orikabe, yasuo  <sep>matsuda, masakazuni-182, mugiu, oshimizu-chohakui-gun, ishikawa 929-13jp<sep>orikabe, yasuo1141, suwa, takatsu-kukawasaki-shi, kanagawa 213jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a read only rnemory (rom) comprising word lines  (wli, wlj, wlk), bit lines (bli, blm) virtual ground lines  (vgl, vgm) and memory cells (cli, clj, clk) of fets  arranged on intersections of the word lines and bit lines.   a gate of each cell is connected to one of the word lines.   a drain of each cell is connected to one of the bit lines.  a  source of each cell is connected to one of the virtual  ground lines.  according to the invention, particular cells  storing information "o" are depletion-type transistors,  the threshold voltage of which being lowered by ion im­ plantation.  when rom is in operation with respect to the  memory cells on a selected bit line, the potential difference  between a selected word line and a selected virtual ground  line is enough to turn on the depletion-type cell but not  enough to turn on the other cells and, the potential diffe­ rence between a nonselected word line and selected virtual  ground line is not enough to turn on the depletion-type  cell.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011389
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-1/16 H01G-4/232 <main>H01G-1/147</main> H01G-4/252 H01G-4/12 H01G-4/228 H01G-4/008 H01G-1/01 H01B-1/14 C22C-32/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ceramic capacitor having co-fired base metal end terminations, and paste or ink for producing said end terminations.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation<sep>
+</APPLICANT>
+<INVENTOR>
+prakash sri<sep>prakash, sri<sep>prakash, sri107 lancelot courtsimsonville south carolinaus<sep>prakash, sri<sep>prakash, sri107 lancelot courtsimsonville south carolinaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a ceramic body containing embedded metal electrodes  is provided with end termination configurations using a  paste or ink containing base metal (nickel or copper) parti­ cles, glass frit (barium borosilicate or barium aluminosilicate  glass) and mno₂ in an organic vehicle, such as ethyl cellulose  in butyl cellosolve.  the body and end terminations are co-­ fired to provide a ceramic capacitor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

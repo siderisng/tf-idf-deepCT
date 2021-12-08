@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005191
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-37/00 H01H-37/04 <main>H01H-37/02</main> H01H-37/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+temperature regulator with a snap switch and a dilatation element.
+</TITLE>
+<APPLICANT>
+ego regeltechde<sep>e.g.o. regeltechnik gmbh<sep>e.g.o. regeltechnik gmbhd-6833 waghäuselde<sep>e.g.o. regeltechnik gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+kicherer robert<sep>schwarze manfred<sep>kicherer, robert<sep>schwarze, manfred<sep>kicherer, robertim bergfeld 33d-7134 knittlingende<sep>schwarze, manfredrote-tor-strasse 53d-7519 oberderdingende<sep>kicherer, robert<sep>schwarze, manfred <sep>kicherer, robert im bergfeld 33 d-7134 knittlingende<sep>schwarze, manfredrote-tor-strasse 53d-7519 oberderdingende<sep>
+</INVENTOR>
+<ABSTRACT>
+A temperature regulator is described with a hydraulic expansion system in which the expansion box acts on a snap spring 13, which bridges two fixed contacts when snapping.A simple switch structure is given by fixing the solid contacts in an insulating block 24 which forms an end wall of the switch housing and connects two sheet metal parts which form another three walls of the housing and carry the switching and adjustment mechanism.There is provided a fuse 53 against leaks in the hydraulic expansion system, which forcibly prevent or opens the closing of the switch at the extreme contraction of the expansion box 44.The temperature controller may be formed by a corresponding distance of the counter stop 60 of the snap spring 13 so that it turns on again only when the counter stop 60 is pushed down manually.
+</ABSTRACT>
+</TEXT>
+</DOC>

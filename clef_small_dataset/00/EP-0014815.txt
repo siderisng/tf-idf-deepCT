@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014815
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-5/083 A61P-37/00 C07K-5/00 C07J-41/00 C07K-1/113 C07K-7/06 C07K-14/245 C07K-1/00 C07K-7/00 C07K-14/195 A61P-37/04 A61K-38/00 C07K-5/103 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+peptide derivatives, process for their preparation and intermediates, and pharmaceutical compositions containing one of these compounds
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+baschang gerhard drch <sep>hartmann albert drde   <sep>kamber bruno drch<sep>stanek jaroslav drch<sep>tarcsay lajos drde<sep>baschang, gerhard, dr.<sep>hartmann, albert, dr.<sep>kamber, bruno, dr.<sep>stanek, jaroslav, dr.<sep>tarcsay, lajos, dr.<sep>baschang, gerhard, dr.bückenweg 7ch-4126 bettingench<sep>hartmann, albert, dr.steingasse 21ad-7889 grenzachde<sep>kamber, bruno, dr.sonnenweg 9ch-4144 arlesheimch<sep>stanek, jaroslav, dr.florastrasse 6ch-4127 birsfeldench<sep>tarcsay, lajos, dr.muttenzerstrasse 25d-7889 grenzach-wyhlende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to lipopeptides of the formula <image> wherein R1 represents an aliphatic or aliphatic cycloaliphatic hydrocarbon radical having at least 9 C atoms or an aliphatic acyl radical with 12-21 C atoms or the 5-cholestic 3-yl residue, wherein said hydrocarbon or acylrest the C atom chain may also be interrupted by oxygen groups, and / or wherein a maximum of a free or monobasic carboxylic acid-esterified hydroxyl group may be present, and X is a peptidically bonded free, esterified or amidated amino acid or an amino acid sequence Of 2-10 amino acids whose terminal carboxyl group is in free, esterified or amidated form means, and diastereomeric mixtures of these compounds, salts and complexes. The new compounds have a pronounced immunopotenting effect. You can be synthetic, z. b. By introducing the group X to the above formula in valley carboxylic acids according to conventional methods of peptide chemistry.
+</ABSTRACT>
+</TEXT>
+</DOC>

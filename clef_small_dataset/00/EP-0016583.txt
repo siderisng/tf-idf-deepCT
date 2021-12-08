@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016583
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01G-23/07 <main>C01G-23/07</main> C01G-23/00 C09C-1/36 C01G-23/047 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing rutile tio2 by oxidation of ticl4 in the presence of pcl3 and alcl3 and titanium dioxide pigment obtained by this process.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company <sep>
+</APPLICANT>
+<INVENTOR>
+glaeser hans hellmut<sep>glaeser, hans hellmut<sep>glaeser, hans hellmut11 meadows lanewilmington, delaware 19807us<sep>glaeser, hans hellmut<sep>glaeser, hans hellmut11 meadows lanewilmington, delaware 19807us<sep>
+</INVENTOR>
+<ABSTRACT>
+it is known to produce rutile titanium dioxide by oxidising  ticl₄ in the presence of alcl₃ and pcl₃.  the alcl₃, used nor­ mally in an amount such as to provide from 2% to 4% by  weight al₂o₃ in the product, is essential in order to produce  the rutile structure but is of disadvantage in that it leads to  corrosion of metallic reactor surfaces.  the invention reduces  the amount of alcl₃ necessary to provide the rutile structure,  and thereby enables this disadvantage to be minimized, by  introducing the pcl₃ after the alcl₃ and when the ticl₄ conver­ sion has reached 80% by weight or more.  
+</ABSTRACT>
+</TEXT>
+</DOC>

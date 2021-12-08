@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013382
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-295/096 C07D-295/00 <main>C07D-295/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of m-amino-phenols.
+</TITLE>
+<APPLICANT>
+basf agde   <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+kolbinger hans joergen dr dipl<sep>scheuermann horst dr dipl-chem<sep>kolbinger, hans joergen, dr. dipl.-chem.<sep>scheuermann, horst, dr. dipl.-chem.<sep>kolbinger, hans joergen, dr. dipl.-chem.westring 60d-6718 gruenstadt 1de<sep>scheuermann, horst, dr. dipl.-chem.bexbacher strasse 41d-6700 ludwigshafende<sep>kolbinger, hans joergen, dr. dipl.-chem. <sep>scheuermann, horst, dr. dipl.-chem.  <sep>kolbinger, hans joergen, dr. dipl.-chem.westring 60d-6718 gruenstadt 1de<sep>scheuermann, horst, dr. dipl.-chem.bexbacher strasse 41d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of m-aminophenols of the formula  see diagramm : ep0013382,p8,f1  where r**1 and r**2 together with the adjoining nitrogen atom denote members of a heterocyclic radical, by reacting resorcinol with amines in the presence of phosphorus compounds, wherein the reaction of resorcinol with secondary cyclic amines of the formula  see diagramm : ep0013382,p8,f2  where r**1 and r**2 have the above meaning, is carried out in the presence of phosphorus-iii compounds of the formula  see diagramm : ep0013382,p8,f3  where the individual radicals r**3 may be identical or different and each denotes a hydrogen atom, or an aliphatic, araliphatic or aromatic radical, as catalysts, in an amount of 0. 005 to 0. 5 mole of catalyst per mole of resorcinol, in two stages at different temperatures, and a) in the case of starting materials ii, whose radicals r**1 and r**2 together with the adjacent nitrogen atom denote members of a 5-membered ring having 4 carbon atoms, the reaction mixture is heated, in a first stage, to a temperature in the range of from 80 to at most 130 degrees c in the course of from 10 to 90 minutes and is kept for at least 6 hours at this chosen first-step temperature, without significant additional heating, and, in a 2nd stage, is then heated in the course of from 10 to 90 minutes to a temperature in the range of from above 130 to 160 degrees c and kept at this chosen second-step temperature for at least one hour without significant additional heating, or b) in the case of starting materials ii, whose radicals r**1 and r**2 together with the adjacent nitrogen atom denote members of a heterocyclic radical possessing a plurality of rings or possessing one ring which contains more than 4 carbon atoms and/or more than one hetero-atom, the reaction mixture is heated, in a first stage, to a temperature in the range of from 150 to at most 215 degrees c in the course of from 1 to 3 hours and is kept for at least 6 hours at this chosen first-step temperature, without significant additional heating, and, in a 2nd stage, is then heated in the course of from 10 to 90 minutes to a temperature in the range of from above 215 degrees c to 240 degrees c and kept at this chosen second-step temperature for at least 2 hours without significant additional heating. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012819
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-1/72 <main>G03C-1/72</main> G03G-5/00 G03C-1/725 B41M-5/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for forming a film adhering to a substrate and method for writing and erasing information in a film thus prepared.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+gardineer barbara ann<sep>sambucetti carols juan<sep>seitz hugo karl<sep>gardineer, barbara ann<sep>sambucetti, carols juan<sep>seitz, hugo karl<sep>gardineer, barbara annaustin roadmahopac new yorkus<sep>sambucetti, carols juan4 sassi drivecroton-on-hudson new yorkus<sep>seitz, hugo karlquincy roadputnam valley new yorkus<sep>gardineer, barbara ann<sep>sambucetti, carols juan  <sep>seitz, hugo karl<sep>gardineer, barbara annaustin roadmahopac new yorkus<sep>sambucetti, carols juan4 sassi drivecroton-on-hudson new yorkus<sep>seitz, hugo karlquincy roadputnam valley new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for forming a film is disclosed which is consti­ tuted essentially of iodides of heavy metals to which catal­ ysts or sensitizing agents are added to make the film highly  sensitive to light and current at room temperature, thus  increasing the speed of writing and erasing cycles.  the dis­ closure provides for producing and erasing images on such  light and current sensitive film prepared on substrates such  as ordinary paper or transparent non-reactive materials.   marking on the film is achieved by light e. g. , laser beam and  xenon lamp, or electrical current.  exemplary erasing is done  by application of heat.  several examples are disclosed of the  formation of such film adhering to non-reactive surfaces.  
+</ABSTRACT>
+</TEXT>
+</DOC>

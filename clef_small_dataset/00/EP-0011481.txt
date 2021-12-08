@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011481
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-61/00 C08J-5/12 G03D-9/02 G03C-1/48 <main>G03B-17/52</main> C08F-220/12 G03C-8/32 G03C-8/34 C08F-20/10 G03D-9/00 C09K-3/10 C08F-220/00 G03C-5/54 B29D-22/00 C08F-20/00 C08L-33/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rupturable containers for fluids such as photographic processing fluids and photographic film units including such containers of processing fluids.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+cawley john duval<sep>cawley, john duval<sep>cawley, john duvalkodak parkrochester, new yorkus<sep>cawley, john duval<sep>cawley, john duvalkodak parkrochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed herein are containers (c) for holding fluids,  e. g.  photographic processing materials, in photographic film  units.  the containers (c) have strong seals along certain  marginal areas (13) and relatively weak seals along other  marginal areas.  the weak seals are designed to open and  distribute fluid over a sheet of film or paper when pressure is  applied to the container in a camera.  each weak seal is  formed from a sealing composition comprising a copolymer  of (a) at least 50 percent, by weight, of a polymerizable  monomer having the formula (i):    wherein n is an integer of from 0 to 3; r¹ is hydrogen or alkyl;  and r² is hydrogen, alkyl or phenyl; with (b) a copolymeriz­ able monomer having the formula (ii):    wherein r³ is alkyl.  this copolymer has a glass transistion  temperature of at least 80°c.  
+</ABSTRACT>
+</TEXT>
+</DOC>

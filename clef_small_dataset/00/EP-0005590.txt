@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005590
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-15/02 H01L-27/10 <main>H03H-15/02</main> H01L-29/768 H01L-29/66 H03H-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+charge coupled device.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+suciu paul ioan<sep>suciu, paul ioan<sep>suciu, paul ioan420 river road apt.e1chatham township new jersey 07928us<sep>suciu, paul ioan<sep>suciu, paul ioan420 river road apt.e1chatham township new jersey 07928us<sep>
+</INVENTOR>
+<ABSTRACT>
+a charge-coupled device has a transversal filter portion  (10) having split sensing electrodes (109, 113, 117, 121, 125)  whose segments (a, b) are connected to respective output  lines (se₁, se₂), and an auxiliary portion (20) which has one  or more auxiliary split sensing electrodes (209) whose  segments (a, b) are respectively connected to the same  output lines (se₁, se₂).  there are many more sensing  electrodes in the filter portion (10) than in the auxiliary  portion (20).  in use, signal-independent charge packets are  transferred along the channel in the auxiliary portion to  provide a controllable offset signal, which can be used to  provide a controllable threshold for tone detection.  there  may additionally be a dummy portion (30) to balance the  capacitative loading of the output lines (se₁, se₂) by the  auxiliary electrodes (209).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001834
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-21/00 <main>C01B-21/40</main> C01B-21/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the absorption of nitrous vapours.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+herbrechtsmeier peter dr<sep>steiner rudolf prof dr<sep>herbrechtsmeier, peter, dr.<sep>steiner, rudolf, prof. dr.<sep>herbrechtsmeier, peter, dr.berliner strasse 10d-6238 hofheim am taunusde<sep>steiner, rudolf, prof. dr.unterm waldweg 17d-6232 bad soden am taunusde<sep>herbrechtsmeier, peter, dr. <sep>steiner, rudolf, prof. dr.  <sep>herbrechtsmeier, peter, dr.berliner strasse 10d-6238 hofheim am taunusde<sep>steiner, rudolf, prof. dr.unterm waldweg 17d-6232 bad soden am taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for absorbing nitrous gases such as no and/or no2 in the presence of oxygen in aqueous phase such as water and/or nitric acid, which comprises mixing the nitrous gases with oxygen-containing gas, dispersing this mixture into the aqueous phase at the head of the column reactor, and passing it through the column reactor in parallel current with the aqueous phase towards to the buoyancy of the gases. 
+</ABSTRACT>
+</TEXT>
+</DOC>

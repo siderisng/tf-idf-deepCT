@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008738
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-5/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuit for transmitting a ternary data signal in full duplex over a two-wire line.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft  <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+haass adolfde<sep>haass, adolf<sep>haass, adolfeichelhäherstrasse 54d-8000 münchen 60de<sep>
+</INVENTOR>
+<ABSTRACT>
+As you know, data can be transmitted for full-duplex operation via two two-wire lines (L) when the line is reproduced with a replica circuit (NB).The invention has for its object to provide a method which allows digital automatic reproduction of the two-wire line.According to the invention, during several sub-intervals (IMN) of the individual ternary values (Sn), on the one hand, coefficients (KMM, GMAN) are stored, which signal the effect of ternary values to the own received signal (EMN) and on the other hand are stored information (BBA, VVA), whichthe ternary values (SN) associated with the Keffi (KM, GMAN).Following comparison of the received signal (EMN) with the verified signal (NMN), the coefficients are constantly corrected and by summoning the coefficients the reproduced signal (NMN) is recovered.
+</ABSTRACT>
+</TEXT>
+</DOC>

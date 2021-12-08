@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006288
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-8/00 <main>C08F-10/00</main> B01J-8/10 C08F-6/28 C08F-6/00 B01J-8/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for the removal of olefin monomer from olefin polymers.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+greaves jeffrey chester<sep>willmore bruce albert edward<sep>greaves, jeffrey chester<sep>willmore, bruce albert edward<sep>greaves, jeffrey chester17 sherrardspark roadwelwyn garden city, hertfordshiregb<sep>willmore, bruce albert edwardthe orchard mangrove green cockernhoeluton, bedforshiregb<sep>greaves, jeffrey chester  <sep>willmore, bruce albert edward<sep>greaves, jeffrey chester17 sherrardspark roadwelwyn garden city, hertfordshiregb<sep>willmore, bruce albert edwardthe orchard mangrove green cockernhoeluton, bedforshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a solid particulate olefin polymer containing mono­ mer(s) dissolved therein is vigorously agitated mechanical­ ly to raise the temperature of the polymer to at least 90°c.   this vigorous agitation is effected in the absence of any  purge gas and the unpolymerised olefin monomer desorbed  from the polymer by the increase in temperature can readily  be recovered and recycled to the polymerisation vessel.  the  technique can form part of the work-up process in which  the polymer is removed from the polymerisation vessel and  separated from unconverted monomer(s) prior to isolation.   by this technique, propylene is removed from polypropylene  without using a purge stream of nitrogen which makes  recovery of the propylene difficult and expensive.  the tech­ nique additionally heats up the polymer which can be ad­ vantageous for subsequent processing.  apparatus for ef­ fecting the process includes an agitation vessel (15) which  is connected, preferably through an intermediate separa­ tion vessel (10), to an olefin polymerisation vessel (1).  
+</ABSTRACT>
+</TEXT>
+</DOC>

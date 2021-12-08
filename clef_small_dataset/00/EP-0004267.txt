@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004267
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/05 <main>F16K-31/05</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arresting member with axial-force drive limitation.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciech<sep>bbc brown, boveri & cie. (aktiengesellschaft)<sep>bbc aktiengesellschaft brown, boveri &amp; cie.haselstrassech-5401 badench<sep>bbc aktiengesellschaft brown, boveri & cie. <sep>
+</APPLICANT>
+<INVENTOR>
+bernasconi felix r<sep>bernasconi, felix r.<sep>bernasconi, felix r.waldgartenstrasse 5ch-8125-zollikerbergch<sep>bernasconi, felix r.<sep>bernasconi, felix r.waldgartenstrasse 5ch-8125-zollikerbergch<sep>
+</INVENTOR>
+<ABSTRACT>
+To drive the valve spindle nut (28), a wheel body (17) serves with two pane rays (22, 23), which cooperate with each in the circumferential direction fixed locking claw wreath (41, 42) to two axially displaceable, spring-loaded force limiting rings (36).In the case of a strong axial load of the spindle nut (28) in the end positions, the relevant force limiting ring (36) is shifted and first switches off the motor drive (3) by actuating a limit switch (51, 52).Subsequently, a positive blocking of the drive is carried out by engagement of the rotatable (22, 23) with the locked in the circumferential direction locking brown wreath (41, 42).The then yet existing residual energy of the drive is destroyed by a slip clutch (10).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011686
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/24 H01L-27/10 G11C-11/403 H01L-27/108 G11C-11/404 G11C-11/34 H01L-29/66 H01L-21/8242 G11C-11/35 H01L-29/78 <main>G11C-11/34</main> H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+highly integrated dynamic memory cell and its method of operation.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+knauer karl dipl-ing<sep>knauer, karl, dipl.-ing.<sep>knauer, karl, dipl.-ing.am dachsberg 13d-8011 kirchseeonde<sep>knauer, karl, dipl.-ing.<sep>knauer, karl, dipl.-ing.am dachsberg 13d-8011 kirchseeonde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a dynamic spoke relation, which is built on a doped semiconductor substrate (1). A surface-side, opposite to the substrate doped, strip-shaped semiconductor region is formed as a first drive line, while a conductor track separated by an insulating layer from the substrate, which extends transversely to the strip-shaped region, represents a second drive line. The conductor track is separated from a substrate area lying next to the strip-shaped region (2) by a thin film region of the insulating layer. For such memory elements, as a special structure and very small dimensions are sought. According to the invention, this is achieved in that within the strip-shaped area is arranged opposite to this doped, island-shaped semiconductor region (3) which is near that interface of the strip-shaped area which separates this from the semiconductor region located below the thin-film region (42) . The scope of the invention comprises digital semiconductor terspeys with great bit density.
+</ABSTRACT>
+</TEXT>
+</DOC>

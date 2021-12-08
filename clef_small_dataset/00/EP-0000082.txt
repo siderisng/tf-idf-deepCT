@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000082
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/038 C08F-20/52 G03F-7/26 G03F-7/10 G03C-1/71 C08F-20/34 C08F-20/00 <main>G03C-1/68</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for image-wise modifying the surface of an etchable support and material suitable therefor comprising a colloid layer containing polymers with oxime-ester groups.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa_gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap <sep>
+</APPLICANT>
+<INVENTOR>
+de winter walter frans<sep>stroobants marcel august<sep>van goetham hugo vital<sep>de winter, walter frans<sep>stroobants, marcel august<sep>van goetham, hugo vital<sep>de winter, walter fransparklaan 11b-2232 's-gravenwezelbe<sep>stroobants, marcel augustlenaertsstraat 30b-2960 muizenbe<sep>van goetham, hugo vitaleugenio pacellilaan 38b-2520 edegembe<sep>de winter, walter frans <sep>stroobants, marcel august  <sep>van goetham, hugo vital<sep>de winter, walter fransparklaan 11b-2232 's-gravenwezelbe<sep>stroobants, marcel augustlenaertsstraat 30b-2960 muizenbe<sep>van goetham, hugo vitaleugenio pacellilaan 38b-2520 edegembe<sep>
+</INVENTOR>
+<ABSTRACT>
+a radiation-sensitive material is described that comprises  a hydrophilic colloid layer containing a dispersed  phase of at least one radiation sensitive polymer the polymer  chain of which comprises units with side substituents containing  oxime ester groups.  upon imagewise exposure to  actinic radiation of the polymer in the exposed areas reduces  the permeability of the hydrophilic colloid layer for an etchant  in the absence of any ethylenically unsaturated monomer.   the layer having upon imagewise exposure to radiation  image-wise differentiations in permeability for an etchant  can be used as etch-resist, without needing a washing away  step, to modify image-wise the surface of an element e. g.  to  produce printed circuits or printing forms.  
+</ABSTRACT>
+</TEXT>
+</DOC>

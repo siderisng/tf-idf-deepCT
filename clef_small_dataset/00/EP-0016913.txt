@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016913
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16M-11/14 F16M-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pivoting support for apparatuses.
+</TITLE>
+<APPLICANT>
+nixdorf computer agde<sep>siemens nixdorf informationssysteme aktiengesellschaft<sep>siemens nixdorf informationssysteme aktiengesellschaftfürstenallee 7 d-33102 paderborn de <sep>
+</APPLICANT>
+<INVENTOR>
+doeinghaus hermannde<sep>schmeykal rudolfde<sep>werner franzde<sep>doeinghaus, hermann<sep>schmeykal, rudolf<sep>werner, franz<sep>döinghaus, hermannfriedhofsweg 30d-4791 delbrück-hagende<sep>schmeykal, rudolfbekscher berg 17d-4791 neuenbekende<sep>werner, franzsternberg 38d-4790 paderborn-wewerde<sep>
+</INVENTOR>
+<ABSTRACT>
+A pivot pad for devices, preferably for screen devices, allows the variable inclination and rotation about a spherical convex support surface (12) in a foot part (6) of the device, on the support surface (12) is a bearing on the bottom of the device Liche concave storage pan(20) supported with friction adhesion and which is guided with a guide web (21) in a groove groove in the support surface (12).The bearing element has a central terminal of the support surface of narrowing opening (17), in which a clamping pin (22) clamped between the bearing pan (20) and sliding surface (18) is adjustable.By spring elements (25) in the clamping device, the friction force of the support surface can be adjusted exactly.
+</ABSTRACT>
+</TEXT>
+</DOC>

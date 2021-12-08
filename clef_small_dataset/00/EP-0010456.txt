@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010456
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01L-3/00 <main>B01L-3/00</main> G01N-33/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid transport device.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman±kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+columbus richard lewis<sep>columbus, richard lewis<sep>columbus, richard lewiskodak parkrochester, new yorkus<sep>columbus, richard lewis<sep>columbus, richard lewiskodak parkrochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a device (10) that includes an ingress aperture (30) which  provides improved transport of a drop of liquid, from an  exterior surface (16) of the device to the device interior.  means  are provided at the intersection of the aperture sidewall (32)  and the exterior surface for urging a drop deposited thereon  to move into contact with the aperture sidewall and thus into  the aperture.  in the disclosed embodiments such means are in  the form of interior corners (34).  
+</ABSTRACT>
+<DESCRIPTION>
+liquid transport device this invention relates to the flow of liquid through an aperture leading from a surface, the liquid having arrived on the surface in the form of a drop. in u.s. patent specification no. 3,690,836 there is disclosed a device for use in the study of chemical and biological reactions and method of making same. one embodiment therein disclosed includes an exterior surface having an aperture extending from the exterior surface to a zone within the device. this zone is a capillary tube or chamber. the tube or chamber is filled with liquid introduced through the aperture. ir. this known device the ingress aperture for introduction of liquid has a smooth, cylindrical sidewall. such an aperture has the disadvantage that a drop of liquid which is not accurately placed on the exterior surface, that is, it is placed with its centre outside the sidewall of the aperture, tends to stay outside the aperture rather than move into it. it is only when the centre of the drop is deposited well within the aperture that the surface tension of the liquid drop forces.the drop into the aperture in full contact with the sidewall. in particular this has been a problem when the exterior surface is formed of material which tends to be hydrophobic, that is, that forms with the liquid a liquid-vapour contact angle that is greater than 900. for example certain plastics materials are sufficiently hydrophobic that drops of liquid such as blood serum are more likely to remain on the exterior surface than to flow into the aperture. in accordance with the present invention there is provided a liquid transport device having an exterior surface, an aperture extending from the exterior surface to a zone within the device, said zone having means for transporting the liquid through a zone, characterized in that at least the intersection of said exterior surface and the bounding surface of the aperture includes, at a predetermined location, means for substantially urging a portion of a drop of liquid deposited thereon to move into contact with the bounding surface af-the aperture. such a device is particularly useful in introducing liquid into a transport zone between two opposed transport surfaces spaced apart a distance effective to induce capillary flow of the liquid between the transport surfaces. embodiments of the present invention will ncw be described, by way of example, with reference to the accompanying drawings in which: fig. 1 is an enlarged perspective view of a device in accordance with the invention; fig. 2 is an elevational view in section taken on the line ii-ii in fig. 1, demonstrating the operation of the device; fig. 3 is a fragmentary, diagrammatic plan view illustrating an effect achieved in a device in accordance with the invention; fig. 4 is a plan view of a second embodiment of the invention; and fig. 5 is a sectional view taken generally along the plane of line v-v in fig. 4. the device and method of this invention is described
+</DESCRIPTION>
+<CLAIMS>
+ claims  1. a liquid transport device having an exterior surface, an aperture extending from the exterior surface to a zone within the device, said zone having means for transporting the liquid through a zone, characterized in that at least the intersection of said exterior surface and the bounding surface of the aperture includes, at a predetermined location, means for substantially urging a portion of a drop of liquid deposited thereon to move into contact with the bounding surface of the aperture.    2. a device according to claim 1, characterized in that said urging means comprise a surface configuration capable of forming a compound meniscus on a contacting liquid drop.    3. a device according to claim 1 or 2, characterized in that said urging means comprises at least one interior corner in the bounding surface of the aperture at at least its intersection with said exterior surface,  4. a device according to claim 3, characterized in that there are from three to ten similar interior corners at predetermined spaced-apart locations at at least said intersection.    5. a device according to claim 4, characterized in that there are six of said corners.    6. a device according to claim 5, char   acterized in n that the bounding surface of the aperture    conforms to a regular hexagon at least adjacent the exterior surface.     7. a device according to any one of the preceding claims, characterized in that the transporting means in said zone includes two opposed surfaces of the zone spaced apart a distance such as to cause   capillarity.         8. a device according to claim 7, characterized in that at least one of said two spacedapart opposed surfaces includes an absorbent layer containing at least one reagent capable of producing a radiometrically detectable signal when contacted by the liquid of the drop.    9. a device according to claim 3 or any one of claims 4 to 8 when appendant directly or indirectly to claim 3, characterized in that the corner or each of the corners extends throughout the length of the bounding surface of the aperture, from the exterior surface to the zone.  
+</CLAIMS>
+</TEXT>
+</DOC>

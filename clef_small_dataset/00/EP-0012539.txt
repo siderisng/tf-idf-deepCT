@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012539
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60L-9/12 H02P-3/14 H02P-3/06 H02P-13/16 B32B-15/08 <main>H02P-5/16</main> H02P-7/18 H02P-7/292 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a driving circuit for permanent magnet type dc motor.
+</TITLE>
+<APPLICANT>
+fujitsu fanuc ltdjp   <sep>fujitsu fanuc limited<sep>fanuc ltd.3580, shibokusa aza-komanba, oshinomuraminamitsuru-gun, yamanashi 401-05jp<sep>fanuc ltd<sep>
+</APPLICANT>
+<INVENTOR>
+fujioka yoshiki<sep>hirota mitsuhiko<sep>koiwai yutaka<sep>fujioka, yoshiki<sep>hirota, mitsuhiko<sep>koiwai, yutaka<sep>fujioka, yoshiki3-27 tamadaira hino-shitokyojp<sep>hirota, mitsuhiko14-13, ikejiri 3-chomesetagaya-ku tokyojp<sep>koiwai, yutaka12-27 kita-shinjuku, 3-chome shinjuku-kutokyojp<sep>fujioka, yoshiki<sep>hirota, mitsuhiko  <sep>koiwai, yutaka <sep>fujioka, yoshiki3-27 tamadaira hino-shitokyojp<sep>hirota, mitsuhiko14-13, ikejiri 3-chomesetagaya-ku tokyojp<sep>koiwai, yutaka12-27 kita-shinjuku, 3-chome shinjuku-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed is a dc motor drive circuit adapted to prevent  thyristor commutation failure when a thyristor controlled  three-phase full-wave reversible bridge undergoes a transi­ siton in operating mode from a power invention mode to a  power rectification mode.  the drive circuit includes a thyris­ tor-controlled threephase full-wave reversible bridge (2, 3)  whose firing phase is controlled in accordance with a speed  deviation between the actual speed (tsa) of a dc motor and  a command speed (vcmd); polarity discrimination means (9f)  for discriminating the polarity of the speed deviation; firing  phase narrowing means (9i) operable in the power inversion  mode to narrow the thyristor firing phase down to a minimum  firing phase due to a reversal in the polarity of the speed devi­ ation; detection means (9j) for detecting an intermittence in  armature current (ia); and blocking means for blocking firing  of the three-phase thyristor-controlled inverter for a pre­ scribed period of time when the intermittence of the arma­ ture current (ia) has been detected; the operation mode of  the inverter being changed over from the power inversion  mode to the power rectification mode after the lapse of said  prescribed time period.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000637
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+D04H-1/56 D01D-5/00 D01D-5/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for making fibrils of a thermoplastic polymer.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>
+</APPLICANT>
+<INVENTOR>
+griffin brian philipgb<sep>jukes alan william gb <sep>wilkins cyril stanleygb<sep>griffin, brian philip<sep>jukes, alan william<sep>wilkins, cyril stanley<sep>griffin, brian philip28 jennings roadgb-st albans hertfordshiregb<sep>jukes, alan william65 pondfield crescentgb-st albans hertfordshiregb<sep>wilkins, cyril stanley28 hornsfieldgb-weleyn garden city hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+fibrils of a thermoplastic polymer are produced.  a mixture  of the termoplastic and a liquid, e. g.  water and pentane or  hexane, flows through a valve from a high to a low pressure  zone.  the valve contains a spring biased closure member  which interrupts the flow when the pressure in the high pressure  zone is too low.  at low pressure the flow is unstable and  the formation of fibrils is unsatisfactory.  a preferred  apparatus takes the form of an extruder having a spring  loaded closure member on the die.  the spring stops the  extrusion when the pressure in the extruder is too low for  satisfactory flash evaporation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

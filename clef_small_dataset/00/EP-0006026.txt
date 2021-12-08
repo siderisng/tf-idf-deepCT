@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006026
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-2/085 B41J-2/075 B41J-2/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+charge plate and method of manufacture.
+</TITLE>
+<APPLICANT>
+mead corpus  <sep>the mead corporation<sep>the mead corporationmead world headquarters courthouse plaza northeastdayton ohio 45463us<sep>
+</APPLICANT>
+<INVENTOR>
+gudorf james lus<sep>gudorf, james l.<sep>gudorf, james l.5801 pennywell drivedayton, ohio 45424us<sep>
+</INVENTOR>
+<ABSTRACT>
+a charge plate for an ink jet printer comprises a rigid  support plate (26) provided with a medially extending  elongated slot (27) and an electrode support structure (28)  cast in place adheringly against the walls of the slot (27).  the  electrode support structure (28) is fabricated from a non-conductive  casting resin which is cast against a silicone  elastomer mold (23) having a series of upstanding pegs (24)  coated with a release agent and an overcoating of conductive  epoxy (25).  the casting resin flows around the peg structure  (24) and bonds itself to the conductive epoxy coating (25).   the conductive epoxy material (25) transfers from the mold  surface (23, 24) to the electrode support structure (28) upon  mold separation, so that the casting process produces a  series of cylindrical charging electrodes (29) cast in place  within charging tunnels (21) in the electrode support structure  (28).  the resulting product is subjected to a finishing  operation, and flexible printed circuits leads are thereafter  attached to the charging electrodes (29).  
+</ABSTRACT>
+</TEXT>
+</DOC>

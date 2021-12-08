@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016638
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/00 G01B-7/14 G01N-27/90 G01B-7/12 G01B-7/13 <main>G01N-27/90</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+eddy current mapping probe and method of operating same.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+cooper frank william<sep>golick leonard richard<sep>cooper, frank william<sep>golick, leonard richard<sep>cooper, frank william115 himalaya roadmonroeville pennsylvaniaus<sep>golick, leonard richard100 painter streettrafford pennsylvaniaus<sep>cooper, frank william  <sep>golick, leonard richard<sep>cooper, frank william115 himalaya roadmonroeville pennsylvaniaus<sep>golick, leonard richard100 painter streettrafford pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an eddy current probe for mapping holes within a tube  sheet of a steam generator.  as shown in figure 1 a first coil  (12) is positioned at the top of the probe (10) with its axis  coincident with the axis of the probe.  a first pair of coils (14  and 16) is arranged along a common axis perpendicular to  the axis of the probe below the first coil (12) and are situated  a distance from and on either side of the axis of the probe.  a  second pair of eddy current coils (18 and 20) is positioned  along a common axis perpendicular to a plane including the  axis of the probe and the axis of the first coil pair with the  respective coils of the second pair located on either side of  and spaced from the probe axis.  each of the respective coils  is arranged to be separately excited by an alternating current  source with the respective coil pairs coupled in opposition in  corresponding balanced bridge arrangements.  means are  provided for indicating a variation in the impedance of the  first coil and an imbalance in either of the separate bridge  arrangements of the first and second coil pairs.  
+</ABSTRACT>
+</TEXT>
+</DOC>

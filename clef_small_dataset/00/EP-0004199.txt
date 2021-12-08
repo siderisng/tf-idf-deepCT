@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004199
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02J-3/12 G05F-1/44 H02M-1/08 <main>H02J-3/00</main> H02J-3/14 H02M-1/084 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for supplying electric current to a number of electrical loads.
+</TITLE>
+<APPLICANT>
+thomas donald george<sep>thomas, donald george<sep>thomas, donald george3 olympus waylyons australian capital territoryau<sep>thomas, donald george  <sep>
+</APPLICANT>
+<INVENTOR>
+thomas donald george<sep>thomas, donald george<sep>thomas, donald george3 olympus waylyons australian capital territoryau<sep>thomas, donald george<sep>thomas, donald george3 olympus waylyons australian capital territoryau<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and circuit is disclosed herein for varying the  current to n electrical loads by the use of scr's, the  arrangement being such that the total current is sinusoidal  and of uniform amplitude at a particular setting.  the method  involves the steps of generating a load sequence waveform,  the period of which is nn full cycles of the ac source where n  is any positive integer, and, during each period of the  waveform, generating a load firing pattern for initiating the  flow of a current i in each load, the load pattern being such  that (a) the currents in each of the loads are initiated at  instants which are n full cycles of the ac source apart, and (b)  maintaining the current in each load for d full cycles of the ac  source, where d is a duty factor and is any positive integer  equal to or greater than n, but less than or equal to nn,  whereby the total current drawn from the ac source is  uniform and equal to dl/n.  the circuit comprises a plurality  of switching elements (scr₁-scrnn) couplable between the  source and loads, first generating means (58, 60, 62) for  generating a load sequence waveform having a period of nn  full cycles of the ac source where n is any positive integer,  second generating means (32, 72) coupled to the first  generating means for generating control signals for the  switching elements during each load sequence period, said  control signals being operable to (a) successively render the  elements conductive at instants which are n full cycles of the  ac source apart whereby currents i are successively initiated  in the said loads, and (b) maintaining the elements conductive  for d full cycles of the ac source where d is a duty factor  and is greater than or equal to n, but less than or equal to nn  whereby the total current from the source to the n loads is  uniform and equal to dl/n.  
+</ABSTRACT>
+</TEXT>
+</DOC>

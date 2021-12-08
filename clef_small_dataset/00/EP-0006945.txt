@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0006945
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-11/16 G01B-9/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for sensing in-plane deformation of a surface.
+</TITLE>
+<APPLICANT>
+nat res devgb<sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>
+</APPLICANT>
+<INVENTOR>
+mckelvie jamesgb <sep>walker colin alexander gb<sep>mckelvie, james<sep>walker, colin, alexander<sep>mckelvie, james2 waterside gardenscarmunnock, clarkston glasgowgb<sep>walker, colin, alexander44 north grange roadbearsden, glasgowgb<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

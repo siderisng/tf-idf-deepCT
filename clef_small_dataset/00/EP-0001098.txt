@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001098
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-277/78 C07D-277/00 <main>C07D-417/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of morpholino-dithiothiazoles.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+barnikel carl-dieter dr<sep>finzenhagen manfred dr  <sep>nierth alfred dr<sep>steinacker karl-heinz dr<sep>barnikel, carl-dieter, dr.<sep>finzenhagen, manfred, dr.<sep>nierth, alfred, dr.<sep>steinacker, karl-heinz, dr.<sep>barnikel, carl-dieter, dr.rybniker strasse 10d-5000 köln 80de<sep>finzenhagen, manfred, dr.roggendorfstrasse 59d-5000 köln 80de<sep>nierth, alfred, dr.carl-duisberg-strasse 329d-5090 leverkusen 1de<sep>steinacker, karl-heinz, dr.elisabeth-länggässer-strasse 9d-5090 leverkusende<sep>barnikel, carl-dieter, dr.<sep>finzenhagen, manfred, dr.<sep>nierth, alfred, dr.<sep>steinacker, karl-heinz, dr. <sep>barnikel, carl-dieter, dr. rybniker strasse 10 d-5000 köln 80de<sep>finzenhagen, manfred, dr.roggendorfstrasse 59d-5000 köln 80de<sep>nierth, alfred, dr.carl-duisberg-strasse 329d-5090 leverkusen 1de<sep>steinacker, karl-heinz, dr.elisabeth-länggässer-strasse 9d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the production of morpholino-dithiothiazoles of the general formula (i) :  see diagramm : ep0001098,p7,f1  in which r represents a 2-benzthiazole or 2-naphthiazole radical which may optionally be substituted by straight-chain or branched-chain alkyl groups containing from 1 to 10 carbon atoms, by reacting compounds of the general formula (ii) (r-s-)n m in which r has the meaning indicated above, m represents a metal ion of sodium, potassium, lithium, magnesium, calcium, boron or aluminium and n denotes an integer from 1 to 3, with morpholine, sulphur and an oxidising agent in the presence of a catalyst in a predominantly aqueous medium, characterised in that an aqueous solution of a mercaptothiazole salt of the above general formula (ii) is used and acid is added to the mixture during the course of the reaction. 
+</ABSTRACT>
+</TEXT>
+</DOC>

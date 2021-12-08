@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004467
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-9/127 C07H-15/252 C07H-15/26 A61K-31/7028 A61K-31/7034 <main>C07H-15/24</main> A61K-31/70 C07H-15/00 A61K-31/704 A61P-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bis-anthracyclines, methods of making and using them and liposome compositions for administering them.
+</TITLE>
+<APPLICANT>
+univ californiaus<sep>the regents of the  university of california<sep>the regents of the university of california2200 university avenueberkeley, california 94720us<sep>the regents of the  university of california<sep>
+</APPLICANT>
+<INVENTOR>
+apple martin a<sep>hunt c anthony<sep>papahadjopoulos demetrios t<sep>yanagisawa hiroaki<sep>apple, martin a.<sep>hunt, c. anthony<sep>papahadjopoulos, demetrios t.<sep>yanagisawa, hiroaki<sep>apple, martin a.141 mariposa drivedaly city california 94105us<sep>hunt, c. anthony1567 33rd avenuesan francisco california 94122us<sep>papahadjopoulos, demetrios t.3170 conduit streetlafayette california 94540us<sep>yanagisawa, hiroakino.32-3, 4 chome, minami-ogikubo suginamikutokyo 167jp<sep>apple, martin a.<sep>hunt, c. anthony<sep>papahadjopoulos, demetrios t.<sep>yanagisawa, hiroaki<sep>apple, martin a.141 mariposa drivedaly city california 94105us<sep>hunt, c. anthony1567 33rd avenuesan francisco california 94122us<sep>papahadjopoulos, demetrios t.3170 conduit streetlafayette california 94540us<sep>yanagisawa, hiroakino.32-3, 4 chome, minami-ogikubo suginamikutokyo 167jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a new group of compounds, bis-anthracyclines, have  an enhanced ability to inhibit nucleic acid functions and  are for use in the treatment of neoplasms.  bis-anthracycline  are two anthracycline molecules linked through their  c-13 or c-14 carbon atoms by a linking group (l') which  is an amino and/or hydroxydicarboxylic acid or a derivative.   an exemplary formula is    all such skeletal structures are includes with the invention  but r₁ is usually oh or och₃; r₂ and r₃ are usually -h.   -oh₂ or -och₃; r₄ may range from -h to a carboxyl ester;  r₆ may be -h or a mono- or di-saccharide; and r₇ is, most  often, -oh or an amine or mono or di-alkylamine, and r₈ is  -h, -oh or -o-ester.  they are made by digestion under  mild temperature elevation, of the selected anthracycline  and cross linking agent.  a composition whereby such bis-anthracyclines may  be effectively delivered to selected sites in a mammalian  organism is made by incorporating the bis-anthracyclines  within uniformly sized liposomes.  uniformly sized liposomes are made by extrusion of  more or less randomly sized liposomes at high pressure  through a very fine orifice.  
+</ABSTRACT>
+</TEXT>
+</DOC>

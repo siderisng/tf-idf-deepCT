@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006428
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/04 H01L-21/822 H01L-29/10 H01L-29/02 H01L-27/02 H01L-29/66 H01L-29/78 <main>H01L-27/02</main> H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+constant voltage threshold semiconductor device.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+jambotkar chakrapani gajanan<sep>jambotkar, chakrapani gajanan<sep>jambotkar, chakrapani gajanan154 hosner mountain roadhopewell junction, ny 12533us<sep>jambotkar, chakrapani gajanan<sep>jambotkar, chakrapani gajanan154 hosner mountain roadhopewell junction, ny 12533us<sep>
+</INVENTOR>
+<ABSTRACT>
+The semiconductor device for a threshold element for providing an exceeding a substantially constant voltage from a voltage fluctuations to be exceeded after exceeding a pulp voltage value, provides an in an isolated semiconductor region (12) on a substrate (10) designed component structure according to the type of one per se known field effect element. For the limiter effect between the terminals (S1, D1) to the source and drain area (14, 16), the abutment of the discharge of the isolated semiconductor region (12) is followed under the drain area (16) to the substrate (10 ) Existing distance range (T). Thus, both by selecting this distance as well as the doping concentrations of the associated semiconductor regions and the fixed bias potentials applied thereto, a respective threshold voltage value is specified in within a large area.
+</ABSTRACT>
+</TEXT>
+</DOC>

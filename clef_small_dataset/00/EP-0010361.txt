@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010361
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-403/04 C07D-405/00 <main>C07D-233/84</main> C07D-233/84 C07D-405/14 A61P-29/00 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bis-imidazoles, their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+smithkline corpus<sep>smithkline corporation<sep>smithkline beckman corporationp.o. box 7929 1 franklin plazaphiladelphia pennsylvania 19101us<sep>smithkline beckman corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hill david taylor<sep>hill, david taylor<sep>hill, david taylor109 magnolia placenorth wales pennsylvania 19454us<sep>hill, david taylor<sep>hill, david taylor109 magnolia placenorth wales pennsylvania 19454us<sep>
+</INVENTOR>
+<ABSTRACT>
+the use is disclosed of compounds of the formula (i):-    where r¹ is methoxy, methylthio, trifluoromethyl, chloro,  fluoro or bromo; r² is hydrogen or with r¹ is methylene­ dioxy; r³ is hydrogen or methyl; n is 0, 1 or 2; and x is -(ch₂)m-  where m is 0 to 4, 1,2-propanediyl, 1,3-propan-2 -oldiyl or  1,3-propan -2-onediyl and their pharmaceutically acceptable  salts, provided that m is not 0 when r¹ is chloro, as anti­ arthritic agents.  also disclosed are pharmaceutical composi­ tions comprising a compound of formula (i) as defined above  or a pharmaceutically acceptable salt thereof and a phar­ maceutically acceptable carrier.  some compounds of formula (i) are novel, such com­ pounds have formula (i) where r¹ is methoxy, methylthio,  trifluro-methyl, chloro, fluoro or brom; r² is hydrogen or with  r¹ is methylenedioxy; r³ is hydrogen or methyl; n is 0, 1 or 2;  and x is -(ch₂)m- where m is 0 to 4, 1,2-propanediyl, 1,3-­ propan-2 -oldiyl or 1,3-propan-2-onediyl, and pharmaceuti­ cally acceptable salts, provided that when r¹ is chloro m is not  0 and when r¹ is methoxy and n is 0 m is not 2.  a process is  disclosed for the preparation of these novel compounds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

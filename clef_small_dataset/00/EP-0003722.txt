@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003722
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16K-17/04</main> F16K-1/42 B60C-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pressure equalization and surveillance device for at least two pressurized volumes, especially vehicle tyres.
+</TITLE>
+<APPLICANT>
+etter hansruedi felix<sep>hansruedi, etter-felix<sep>etter-felix, hansruedimooswiesenstrasse 4ch-9322 egnachch<sep>etter-felix, hansruedi  <sep>
+</APPLICANT>
+<INVENTOR>
+hansruedi etter-felix<sep>hansruedi, etter-felix<sep>etter-felix, hansruedimooswiesenstrasse 4ch-9322 egnachch<sep>etter-felix, hansruedi<sep>etter-felix, hansruedimooswiesenstrasse 4ch-9322 egnachch<sep>
+</INVENTOR>
+<ABSTRACT>
+the device is used for balancing and controlling the pressure in at least two pressurized chambers, in particular in the tyres of a vehicle.  a pressurized chamber (1), provided with a pipe which can be closed (5), is obturated by means of an annular valve (2).  a loaded spring (3) presses the valve (2) against its seat (4) where the connection channel (7, 8) of a pressurized chamber opens to; the free surface of the valve (2) directed towards the pressurized chamber (1) is bigger than the area of the opening of the connection channel (7, 8).  to keep the valve (2) closed, if the pressure increases beyond the rated pressure in one chamber, the connection channels (7, 8) of all the chambers open on to the valve seat (4) and can be closed by means of the valve (2).  further, the total area of the openings (9, 10) of the connection channels (7, 8) is bigger than the surface of the valve (2) directed towards the pressurized chamber (1). 
+</ABSTRACT>
+</TEXT>
+</DOC>

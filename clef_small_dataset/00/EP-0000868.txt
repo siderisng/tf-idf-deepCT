@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000868
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24J-2/50 G01K-11/00 G02F-1/19 F24J-2/40 G01K-11/16 C09D-5/26 C09K-9/02 G01K-11/12 B41M-5/36 F24J-2/00 <main>G01K-11/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+body with reversibly changeable temperature dependent extinction of light and method for the manufacture of this body.
+</TITLE>
+<APPLICANT>
+dabisch tipp ex techde<sep>tipp-ex technik wolfgang dabisch<sep>firma wolfgang dabischgroosstrasse 11d-6228 eltvillede<sep>tipp-ex technik wolfgang dabisch  <sep>
+</APPLICANT>
+<INVENTOR>
+dabisch wolfgang<sep>dabisch, wolfgang<sep>dabisch, wolfganggroosstrasse 11d-6228 eltvillede<sep>dabisch, wolfgang<sep>dabisch, wolfganggroosstrasse 11d-6228 eltvillede<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to set the transition region of transparent to opaque or reversed on any target temperatures in bodies with reversibly variable light extraction, and to be able to give the bodies of any shape, such as film form, they consist of a substantially optically transparent polymer and / or resin matrix material (A) andof a disperse second phase in it, at least partially insoluble organic substance (b), which melts or solidifies after storage in the matrix material at the target temperature of the light detection change and whose refractive index is either above or below the target temperature of the light detection change with the refractive index of the matrix material in theessentially matches.Such bodies, such.b.In foil form, useful for temperature measuring, temperature display and smooth ice warning devices as well as for solar irradiation shielding equipment on glass windows.
+</ABSTRACT>
+</TEXT>
+</DOC>

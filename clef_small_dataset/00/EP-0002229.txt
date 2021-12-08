@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002229
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03G-15/00</main> B65H-1/26 B65H-1/04 B65H-3/06 G03G-15/00 B65H-1/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sheet feed apparatus.
+</TITLE>
+<APPLICANT>
+ricoh kkjp<sep>ricoh company, ltd<sep>ricoh company, ltd3-6, 1-chome nakamagomeohta-ku tokyo 143jp<sep>ricoh company, ltd<sep>
+</APPLICANT>
+<INVENTOR>
+suzuki minoru<sep>suzuki, minoru<sep>suzuki, minoru57 kanoedai minami-kuyokohama-shi kanagawa-kenjp<sep>suzuki, minoru<sep>suzuki, minoru57 kanoedai minami-kuyokohama-shi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a sheet feed apparatus for use with a copying machine  comprises a sheet stacking means (100) for stacking recording  sheets thereon, and a pair of sheet feed rollers (52, 60) for  feeding the recording sheets one by one, which are arranged  coaxially on a driving shaft (46) disposed on the sheet  stacking means (100), and one sheet feed roller (52) is  located at an appropriate position and the other sheet feed  roller (60) is movable along the driving shaft (46).  the sheet  stacking means (100) can take two positions, a sheet feed  position and a sheet replenishment position, by sliding the  sheet stacking means (100) in and out of the body of the  copying machine.  when the sheet stacking means (100) is  slided out of the body of the copying machine to the sheet  replenishment position and recording sheets are stacked on  the sheet stacking means (100) and then slided into the body  of the copying machine, the position of the movable feed  roller (60) is automatically determined appropriately in  accordance with a partition plate which is to be set in  accordance with the size of the recording sheets.  
+</ABSTRACT>
+</TEXT>
+</DOC>

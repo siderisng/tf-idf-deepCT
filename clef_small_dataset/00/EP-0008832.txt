@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008832
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G04B-19/22 G04B-19/00 G04B-19/25 G04B-13/00 G04B-19/02 G04B-27/00 <main>G04B-19/22</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+clockwork with hands comprising a differential-gear mechanism.
+</TITLE>
+<APPLICANT>
+ebauchesfabrik eta agch<sep>eta a.g. ebauches-fabrik<sep>eta a.g. ebauches-fabrikschildruststrasse 17ch-2540 grenchen (canton de soleure)ch<sep>eta a.g. ebauches-fabrik<sep>
+</APPLICANT>
+<INVENTOR>
+vuille pierre-alain<sep>vuille, pierre-alain<sep>vuille, pierre-alainfichtenweg 15ch-2540 grenchen (canton de soleure)ch<sep>vuille, pierre-alain<sep>vuille, pierre-alainfichtenweg 15ch-2540 grenchen (canton de soleure)ch<sep>
+</INVENTOR>
+<ABSTRACT>
+In a watchmaking movement, and more particularly quartz wristwatch, having a low torque step, it is provided a differential gear that entails the needles and which allows the displacement of the hour needle alone.by jumps.The pavement (22) com carries a pinion (25) which plays the role of planetary gear.The satellite (26) is mounted on the wheel wheel (27) playing the role of satellite holder.The role of the planetary wheel is filled by a movable inner crown (34) which is normally fixed, but which is controlled by the rod and moves by jumps so as to roll the satellite (26) on the pinion (25).
+</ABSTRACT>
+</TEXT>
+</DOC>

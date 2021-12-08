@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000655
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-15/02 H01L-29/76 H01L-27/10 H01L-29/40 H01L-29/10 G11C-27/00 H01L-29/02 H01L-21/339 <main>H01L-29/78</main> H01L-29/768 H01L-29/66 H01L-29/417 H01L-21/02 H03H-15/00 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor charge coupled device with split electrode configuration.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+tompsett michael francis<sep>tompsett, michael francis<sep>tompsett, michael francis167 mountain avenuenew providence new jersey 07974us<sep>tompsett, michael francis<sep>tompsett, michael francis167 mountain avenuenew providence new jersey 07974us<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor charge coupled device (ccd) (10) with  split electrode charge sensors (8, 1, 8, 2; 12, 1, 12, 2) contains  a localized connecting impurity doped region (8, 3, 12, 3), of  opposite conductivity type from that of the semiconductor  transfer sites, underlying the gap between each pair of split  electrodes, and each such connecting region is contiguous  with both transfer sites underlying each pair of split electrodes,  thereby serving to equilibrate the potentials of both  such transfer sites.  the entire downstream edge of each of  these connecting regions is bounded by a seperate localized  channel stopping auxiliary barrier region (8, 4, 12, 4) of  higher threshold than that of the charge transfer channel, in  order to suppress dynamic signal charge transfer inefficiency  caused by spurious contributions of charge from the connecting  regions to the propagating signal charge packets.  
+</ABSTRACT>
+</TEXT>
+</DOC>

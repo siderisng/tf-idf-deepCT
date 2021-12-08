@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001925
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01P-9/00 <main>H03H-7/32</main> H04N-9/00 H04N-9/77 H03H-7/32 H03H-7/30 H03H-7/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dual section distributed parameter delay-line.
+</TITLE>
+<APPLICANT>
+sprague electric cous   <sep>sprague electric company<sep>sprague electric company96 marshall streetnorth adams massachusetts 01247us<sep>sprague electric company<sep>
+</APPLICANT>
+<INVENTOR>
+de keyser andre<sep>seynaeve laurent<sep>de keyser, andre<sep>seynaeve, laurent<sep>de keyser, andréninovesteenweg 465ronsebe<sep>seynaeve, laurentsparrentuin 12st. ellois-vijvebe<sep>de keyser, andre  <sep>seynaeve, laurent<sep>de keyser, andréninovesteenweg 465ronsebe<sep>seynaeve, laurentsparrentuin 12st. ellois-vijvebe<sep>
+</INVENTOR>
+<ABSTRACT>
+a distributed parameter delay-line comprises two essentially  identical distributed parameter delay line sections (10,  20) having series connected solenoidal coils (14, 24) and  mutually parallel axes (11a, 21a).  the winding directions of  the two coils (14, 24) are such that there is a winding  direction reversal in going from one section to the other.  a  low frequency uniform unidirectional magnetic field having a  component parallel to the section axes will induce voltages  in the two coils that are of opposite polarity and no net  induced voltage will appear between the free ends of the  series connected coils.  the delay line sections may be  disposed either side-by-side or coaxially.   in order to suppress high frequency magnetic field interference,  a copper or aluminium shield (50) can be provided  around the two sections.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002289
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-27/26 C07B-20/00 B01J-23/02 <main>C07B-19/00</main> B01J-31/00 C07B-31/00 C07C-255/53 B01J-23/00 C07B-57/00 C07B-61/00 C07C-67/00 C07C-121/75 B01J-31/02 C07C-255/38 C07C-20060101S C07C-253/34 B01J-27/24 C07C-253/00 C07B-55/00 C07C-255/00 B01J-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for converting a stereoisomeric ester into its diastereoisomer; crystalline (-)-s-alpha-cyano-3-phenoxybenzyl (+)-s-alpha-isopropyl-4-chlorophenylacetate.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+soloway samuel barney<sep>tieman charles henry<sep>soloway, samuel barney<sep>tieman, charles henry<sep>soloway, samuel barney3401 mansfield lanemodesto california 95350us<sep>tieman, charles henry2209 fremont streetmodesto california 95350us<sep>soloway, samuel barney<sep>tieman, charles henry<sep>soloway, samuel barney3401 mansfield lanemodesto california 95350us<sep>tieman, charles henry2209 fremont streetmodesto california 95350us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the conversion of (+)-r-alpha-cyano-3-phenoxybenzyl  (+)-s-alpha-isopropyl-4-chlorophenylacetate  (isomer 1) into (-)-s-alpha-cyano-3-phenoxybenzyl (+)-s-alpha-isopropyl-4-chlorophenylacetate  (isomer 2), by treating  a solution in a suitable solvent of isomer 1, alone or in  admixture with isomer 2 with a base, and by removing a  proportion of isomer 2 before, during or after the treatment  with base.  
+</ABSTRACT>
+</TEXT>
+</DOC>

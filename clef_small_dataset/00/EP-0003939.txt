@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003939
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+B66C-23/90 B66C-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in hydraulically operated lifting devices
+</TITLE>
+<APPLICANT>
+denel jeanfr<sep>faure mauricefr<sep>gutierrez michelfr<sep>denel, jean <sep>faure, maurice<sep>gutierrez, michel  <sep>denel, jean14, rue paul langevinf-76800 saint-etienne-du-rouvrayfr<sep>faure, maurice26 résidence du rouvray avenue maryse bastiéf-76800 saint-etienne-du-rouvrayfr<sep>gutierrez, michel5, résidence corotla rouge grange f-76570 pavillyfr<sep>
+</APPLICANT>
+<INVENTOR>
+gutierrez michelfr<sep>gutierrez, michel<sep>gutierrez, michel5, résidence corotla rouge grange f-76570 pavillyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+hydraulic lifting device comprising two articulated arms actuated by jacks, and means for detecting the pressure of the circuit supplying the hydraulic jacks.  the pressure-detector means 21, 23 are arranged so as to lock the arms at 27a, 35a as soon as the moment of the load generates a pressure greater than a predetermined value; furthermore, safety means 31 to 34, 37 to 40, 45 to 48 are provided for checking the movements of the arms, which means are arranged in order to permit, by virtue of means 30, 36 for detecting the angular positions of the arms, the controlling of the arms at 27b, 35b uniquely in a sequence which reduces the moment of the load.  application to auxiliary handling devices.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

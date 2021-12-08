@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003263
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-1/67 G03C-1/72 <main>G03C-1/72</main> G03C-5/56 G03C-5/00 C07F-15/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of forming an image, and an imaging element for inhibiting image formation with cobalt (iii) complexes.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state street rochester, new york 14650 us <sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+adin anthony<sep>adin, anthony<sep>adin, anthonykodak parkrochester new yorkus<sep>adin, anthony<sep>adin, anthonykodak parkrochester new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+an imaging element contains an energy-activatable  image precursor composition comprising a cobalt iii complex  having releasable ligands which react with an image  forming material to form a visible image.  the element also  contains a photoinhibitor which, on activating exposure,  inhibits the release of ligands from the cobalt iii complex or  inhibits their image forming action.  images may be formed  by imagewise activating the photoinhibitor, preferably with  radiation longer than 300 nm, and thereafter activating the  image precursor composition, for instance by heating.   images of a different sense may be formed by varying the  exposure and activation treatments of the element.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010775
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-9/79 H04N-11/20 H04N-11/12 H04N-11/06 H04N-9/83 H04N-9/82 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+methods and devices for converting colour video signals into a special colour subcarrier signal which can be decoded in pal colour television receivers.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+hjortzberg bernhard aus<sep>hjortzberg, bernhard a.<sep>hjortzberg, bernhard a.25213 terreno drivemission viejo, ca 92675us<sep>
+</INVENTOR>
+<ABSTRACT>
+Methods and arrangements for converting color video signals into a special color auxiliary carrier signal decoration in PAL color television receivers.The PAL or NTSC standard color television signals are reacted into a via support channel, in particular for the recorded / reproduction of a magnetic recording medium (TP), and then in a special color auxiliary carrier signal decodable in PAL color television receivers without a delay line, which a specialFrequency (FT) and a fixed phase angle of in particular 45 ° Owtt and the a predetermined by specific combination of the color difference signals (U and V) has amplitude.Convenient arrangements, in particular with double-symmetrical modulators (D1, D2), allow different generation possibilities of the special color auxiliary carrier signal.
+</ABSTRACT>
+</TEXT>
+</DOC>

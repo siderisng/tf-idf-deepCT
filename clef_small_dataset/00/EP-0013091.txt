@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013091
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-21/8247 H01L-21/306 H01L-27/10 H01L-29/792 H01L-29/40 H01L-21/3213 H01L-27/108 H01L-21/033 H01L-29/423 H01L-29/788 H01L-21/339 H01L-29/66 H01L-21/8242 H01L-29/417 H01L-21/02 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fabrication of two-level polysilicon mos devices.
+</TITLE>
+<APPLICANT>
+western electric cous  <sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>
+</APPLICANT>
+<INVENTOR>
+jacobs richard marshallus<sep>sinha ashok kumarus<sep>jacobs, richard marshall<sep>sinha, ashok kumar<sep>jacobs, richard marshall1007 north 12th streetallentown pennsylvania 18102us<sep>sinha, ashok kumar36 fox runmurray hill new jersey 07974us<sep>
+</INVENTOR>
+<ABSTRACT>
+a common defect in mos devices of the overlapping  polysilicon electrode type is unacceptably low breakdown  voltages due to breakdown in the oxide separating the elec­ trodes and/or separating one of the electrodes from the subs­ trate.  in the invention the first electrode (14) is etched to  remove portions (a) undercut by a previous oxide-etching  process.  the subsequently grown oxide layer is then of more  even thickness and thus less susceptible to breakdown.  
+</ABSTRACT>
+</TEXT>
+</DOC>

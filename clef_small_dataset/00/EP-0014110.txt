@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014110
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04B-1/46</main> H04B-1/44 H04B-1/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transmitter-receiver and use thereof in a telecommunication network.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf <sep>thomson-csf173, boulevard haussmann75008 parisfr   <sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+ben sadou jean-claude<sep>de riviere charles<sep>deman pierre<sep>pimentel alberto<sep>ben sadou, jean-claude<sep>de riviere, charles<sep>deman, pierre<sep>pimentel, alberto<sep>ben sadou, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>de riviere, charles"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>deman, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>pimentel, alberto"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>ben sadou, jean-claude<sep>de riviere, charles<sep>deman, pierre<sep>pimentel, alberto <sep>ben sadou, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr   <sep>de riviere, charles"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>deman, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>pimentel, alberto"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to transceiver posts. The transceiver according to the invention is controlled by an automatic alternate device (6.9) in order to allow the transmission pass only when Vo Caux signals are transmitted and the receiver (10) does not receive not. In transmit, the transmitter delivers during periods of voice activity, high frequency signals, modulated to constant amp, and delivers nothing outside of these periods. in reception, detection means (20, 21 and 22) of the rapid tranks of amplitude of the received signals and a Lo Gia circuit (26) make it possible to control the closure of an electronic interrogator (28) during periods of VOCIA activity so that the release of the receiver delivers only Vo Caux signals. A discriminator speech-noise (24) Classic validates this decision. The receiver further comprises an amplifier (12) of the received signals whose gain is controlled by an automatic control loop. The value of the time constant of this loop is controlled to be low during periods of voice and strong activity outside these periods. application to transmission networks.
+</ABSTRACT>
+</TEXT>
+</DOC>

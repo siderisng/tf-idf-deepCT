@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009456
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28C-3/12 F28C-3/16 F27B-1/22 F27B-1/00 B01J-8/08 B01J-8/24 F28D-13/00 F28C-3/00 B01J-8/34 B01J-8/04 B01J-8/12 <main>F28C-3/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the heat exchange between solid particles and a gas current.
+</TITLE>
+<APPLICANT>
+saint gobainfr<sep>saint-gobain industries<sep>saint-gobain industries62, bd victor hugof-92209 neuilly sur seinefr<sep>saint-gobain industries  <sep>
+</APPLICANT>
+<INVENTOR>
+meunier georges<sep>meunier, georges<sep>meunier, georges20 rue des moulinsf-49640 morannesfr<sep>meunier, georges<sep>meunier, georges20 rue des moulinsf-49640 morannesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  device for heat exchange by direct contact between solid particles and a gas comprising a hollow column (1) arranged vertically and comprising in its upper part at least one stage (12) formed of a stack of packing elements, through which the solid particles flow downwardly by gravity in contact with an ascending gas stream, characterized in that said column (1) comprises in its lower part a horizontal grid (2) adapted to support a fluidized bed of said solid particles, the bed being fed at least in part by said gas stream, said grid (2) being arranged substantially in the vertical line of the stage (12) of packing elements and the fluidized bed directly receiving the particles flowing from said stage (12). 
+</ABSTRACT>
+</TEXT>
+</DOC>

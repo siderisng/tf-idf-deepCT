@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007747
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-51/00 G03F-7/085 C08F-283/00 C09D-4/00 C09D-4/06 <main>C09D-3/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiation-curable coating compositions and method of coating metal substrates therewith.
+</TITLE>
+<APPLICANT>
+rohm & haasus<sep>rohm and haas company<sep>rohm and haas companyindependence mall westphiladelphia pennsylvania 19105us<sep>rohm and haas company<sep>
+</APPLICANT>
+<INVENTOR>
+emmons william david<sep>emmons, william david<sep>emmons, william david1411 holcomb roadhuntingdon valley, pennsylvania, 19006us<sep>emmons, william david<sep>emmons, william david1411 holcomb roadhuntingdon valley, pennsylvania, 19006us<sep>
+</INVENTOR>
+<ABSTRACT>
+radiation-curable compositions are disclosed which  comprise radiation-reactive monomer and/or oligomer.  in  order to improve their adhesion to metal substrates, such as  aluminum, steel, copper or zinc, 3-acryloxypropionic acid is  incorporated into the compositions which may be cured by  exposure to actinic radiation, such as ultraviolet, electron  beam or mercury arc radiation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

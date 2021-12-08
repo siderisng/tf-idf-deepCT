@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005966
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11B-5/58</main> G11B-21/10 G11B-23/30 G11B-5/596 G05D-3/00 G11B-5/55 G05D-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+positioning servo system.
+</TITLE>
+<APPLICANT>
+sperry rand corpus   <sep>sperry rand corporation<sep>sperry corporation1290, avenue of the americasnew york, n.y. 10019us<sep>sperry corporation<sep>
+</APPLICANT>
+<INVENTOR>
+darrah edward richard<sep>sordello frank john<sep>touchton james joseph<sep>darrah, edward richard<sep>sordello, frank john<sep>touchton, james joseph<sep>darrah, edward richard1176, lynhurst waysan jose california 95118us<sep>sordello, frank john726, bicknell roadlos gatos california 95030us<sep>touchton, james joseph3995 longwood avenueboulder colorado 80303us<sep>darrah, edward richard<sep>sordello, frank john <sep>touchton, james joseph  <sep>darrah, edward richard1176, lynhurst waysan jose california 95118us<sep>sordello, frank john726, bicknell roadlos gatos california 95030us<sep>touchton, james joseph3995 longwood avenueboulder colorado 80303us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention is concerned with a positioning servo  system for positioning a transducer over a recorded track,  particularly with reference to the positioning of a reading  head in a disc memory.  it is known to provide servo tracks in  spaced sectors interrupting recorded user data tracks, the  boundary between adjacent servo tracks defining the centre  of the user data track with which the transducer must be  aligned.  the present invention provides an accurate and  reliable system of this kind.  each servo track sector (17, 19) has a header region  recorded with a sync reference waveform, and a tail region  recorded in alternate tracks with one or the other of two  servo waveforms.  the sync reference signal read from the  transducer (15) is used to synchronise a phase-locked  oscillator and this provides signals for modulating the servo  signals read by the transducer in the tail region of the sector.   the modulated signals are detected and compared and their  difference used to drive the actuator which controls the  position of the transducer (15).  gating means may be  provided for enabling the phase-locked oscillator only after  the beginning of the sync reference signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

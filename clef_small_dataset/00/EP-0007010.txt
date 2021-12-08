@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007010
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/60 A01N-43/653 C07D-249/00 C07D-521/00 C07D-233/61 A01N-43/64 C07D-249/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1,2,4-triazol derivatives, a process for their preparation, their use as insecticides and plant growth regulants, and insecticides containing these derivatives.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft  <sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+buerstell helmut drde<sep>heubach guenther drde<sep>sachse burkhard drde<sep>buerstell, helmut, dr.<sep>heubach, guenther, dr.<sep>sachse, burkhard, dr.<sep>bürstell, helmut, dr.am dachsberg 89d-6000 frankfurt am mainde<sep>heubach, günther, dr.luisenstrasse 15d-6233 kelkheim (taunus)de<sep>sachse, burkhard, dr.parkstrasse 18d-6233 kelkheim (taunus)de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is new compounds of formula I in which R₁ is methyl or phenyl which is optionally by halogena tome (C₁-C₄) -alkyl radicals or (C₁-C₄) alkoxy residues or (C₁-C₄) alkoxy radicals and R₂ is a R₃O group. In the R₃ alkyl which optionally additionally by halogen (C₁-C₄) alkoxy radicals or alko xycarbonyl radicals is substituted, alkynyl cycloalkyl, which may optionally be additionally hydrogenated by (C₁-C₄) alkyl radicals, phenyl, which may optionally by halogena tome and / or the F₃C group is substituted, or R₂ is a R₄ group. in the R₄ hydrogen or (C₁-C₄) alkyl substituted, alkoxycarbonyl substituted, and R₅ (C₁-C₄) alkyl or phenyl, optionally by halogen atoms, F₃C radicals, (C₁-C₄) alkyl or (C₁-C₄) alkoxy residues or substituted by phenoxy or halophenoxy, and a method for their preparation by reacting 1,2,4-triazole with a corresponding halide, as well as their use for pest control and as plant growth regulus. The preparation of the thalogen used as a bodies is made of the associated acid halide.
+</ABSTRACT>
+</TEXT>
+</DOC>

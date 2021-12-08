@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009511
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-33/00 <main>G01N-31/22</main> G08B-21/00 G01N-31/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+abnormal-condition detector for an electric apparatus.
+</TITLE>
+<APPLICANT>
+mitsubishi electric corpjp<sep>mitsubishi denki kabushiki kaisha<sep>mitsubishi denki kabushiki kaisha2-3, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi denki kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+yoshioka takeo<sep>yoshioka, takeo<sep>yoshioka, takeono. 80,aza-nakano, minamishimizu,amagasaki-shijp<sep>yoshioka, takeo  <sep>yoshioka, takeono. 80,aza-nakano, minamishimizu,amagasaki-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+an abnormal condition detector (5) detects an abnormal  condition of an electric apparatus (1) by sampling an insulat­ ing fluid filled in the electric apparatus (1) under a pressurized  condition and detecting a change of the condition of an indi­ cator which changes its colour if induced by an acidic gas in  the sampled insulating fluid.  
+</ABSTRACT>
+<DESCRIPTION>
+specification 1'its, of the invention: abnormal cqndition detector for electric apparatus background of tbe intention: the present invention relates to an abnormal condition detector for an electric apparatus, more particularly, it relates to an abnormal condition detector of an electric apparatus especially suitable for an apparatus having a high voltage circuit kept in a closed container. in general, when a fault is caused in an electric apparatus, the decomposed gases are produced whereby a commercial gas detector can be used as a fault detector. however, such gas detector is mainly used for a low concentration level, and it responds to only one object component, and it is not clearly understood whether suitable detection can be performed when various decomposed gases are produced in the electric apparatus and when they are gradually produced. sua1zery of the invention: it is an object of the present invention to provide an abnormal condition detector such as fault detector which easily , precisely and quickly detects an abnormal condition of an electric apparatus in which an insulat ing fluid is filled such as gas insulating switch. it is another object of the present invention to provide an abnormal condition detector of an electric apparatus which detects a fault of the electric apparatus by detecting an acidic gas from the viewpoint of the fact that most gases produced by a fault in the electric apparatus are acidic gases. it is the other object of the present invention to provide an abnormal condition detector which effectively detects a continuous abnormal condition as well as a sudden fault. brief description of the drawings: figure 1 is a block diagram showing an application of an abnormal condition detector of the present invention; figure 2 shows a structure of one embodiment of the abnormal. condition detector of the present invention; figure 3 is a partially enlarged view of an detector element shown in figure 2; and figure 4 is a graph for illustrating a response of the detector element. detailed description of the embodiments: referring to the drawings, the present invention will be illustrated in detail. figure 1 is a block diagram of an electric apparatus equipped with an abnormal condition detector of the present invention. in figure 1, the reference numeral (1) designates an electric apparatus such as gas insulator switch which contains a-high voltage conductor and is filled with sf6 gas; (2) designates a tube passage for discharging the sf6 gas from the electric apparatus (1); (3) designates a stop valve for holding the sf6 gas in the electric apparatus (1); (4) designates a flow rate control valve; (5) designates an abnormal condition detector of the present invention and (6) designates a flow rate meter for measuring a flow rate of the gas passing through the tube passage (2). figure 2 shows the structure of one embodiment of the abnormal condition detector of the present invention. in figure 2, the reference numeral (52) designates a detecting element whose color or concentration is changed by inducing with an acidic
+</DESCRIPTION>
+<CLAIMS>
+wilat is claimed is:    1) an abnormal condition detector for an electric apparatus which comprises means for discharging a fluid filled in a closed container containing the electric apparatus; and a detecting element in which an indicator which is reacted with an acidic gas to change its color is disposed to contact with the fluid discharged from said discharging means; and said indicator being kept to be visible in said detectirg element.    2) an abnormal condition detector according to claim 1 wherein said acidic gas is a decomposed gas produced by decomposing an insulating fluid.    3) an abnormal condition detector according to claim 1 wherein said detecting element is a transparent tube in which said indicator is filled.    4) an abnormal condition detector according to claim 3 wherein fibrous plugs for holding said indicator are inserted at both ends of said transparent tube.    5) an abnormal condition detector according to claim 1 wherein said indicator is bromocresol purple.    6) an abnormal condition detector according to claim 1 wherein an indicator is adsorbed on an active aluminum for chromatography.      7) an abnormal condition indicator according to claim   i    wherein a flow rate control valve is disposed in a passage for discharging said fluid.    8) electric switching device with a switching mechanism in a chamber filled with an insulating gas, characterized by a detector (5) which is connected with the chamber (1) and which responds to acidic gaseous decomposition products of the insulating gas by a color change.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006589
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07D-463/00 A61K-31/435 C07F-9/568 <main>C07D-471/04</main> C07F-9/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beta-lactam compounds.
+</TITLE>
+<APPLICANT>
+kyowa hakko kogyo kkjp<sep>kyowa hakko kogyo co., ltd<sep>kyowa hakko kogyo co., ltdohtemachi bldg., ohtemachi 1-chomechiyoda-ku, tokyojp<sep>kyowa hakko kogyo co., ltd<sep>
+</APPLICANT>
+<INVENTOR>
+hirata tadashi<sep>nakamizo nobuhiro<sep>saito hiromitsu<sep>hirata, tadashi<sep>nakamizo, nobuhiro<sep>saito, hiromitsu<sep>hirata, tadashi1566-315, nara-machimidori-ku yokohama-shi kanagawa-kenjp<sep>nakamizo, nobuhiro1704-22, honmachidamachida-shi tokyojp<sep>saito, hiromitsu3-6-6, asahi-machimachida-shi tokyojp<sep>hirata, tadashi <sep>nakamizo, nobuhiro<sep>saito, hiromitsu  <sep>hirata, tadashi1566-315, nara-machimidori-ku yokohama-shi kanagawa-kenjp<sep>nakamizo, nobuhiro1704-22, honmachidamachida-shi tokyojp<sep>saito, hiromitsu3-6-6, asahi-machimachida-shi tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+cephalosporin derivatives represented by the general  formula (i)    wherein x represents an amino group, a protected amino  group or an azido group, and r represents a hydrogen atom  or a substituted or unsubstituted alkyl, aryl, aralkyl or silyl  group, and salts thereof.  the compounds are useful for  combatting microorganisms.  
+</ABSTRACT>
+</TEXT>
+</DOC>

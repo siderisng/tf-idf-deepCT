@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009387
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01K-25/10 F01K-23/10 F17C-9/04 F17C-9/00 F01K-25/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for obtaining energy during the regasification of liquefied gases.
+</TITLE>
+<APPLICANT>
+fluor corpus<sep>fluor corporation<sep>fluor corporation3333 michelson driveirvine california 92730us <sep>
+</APPLICANT>
+<INVENTOR>
+giessel jurgenus   <sep>mak john yus<sep>giessel, jurgen<sep>mak, john y.<sep>giessel, jurgen1045 cedar avenuelong beach californiaus<sep>mak, john y.909 e. union streetfullerton california 92631us<sep>
+</INVENTOR>
+<ABSTRACT>
+mechanical and/or electrical energy is obtained whilst  regasifying a liquefied gas, especially natural gas.  the liq­ uefied gas is heated in a cryogenic heat exchanger (2) by  indirect heat exchange with a working fluid circulating in  a closed cycle and is thereafter further heated by passing  it in indirect heat exchange with air to be introduced into  gas turbine (10).  the working fluid passes through a recu­ perator (19) in which it is heated by indirect heat exchange  with expanded working fluid from an expansion turbine  (17).  in one embodiment the liquefied gas is heated in first  and second cryogenic heat exchangers (102, 104) in indi­ rect heat exchange relationship with first and second work­ ing fluids, each of which circulates in a closed circuit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

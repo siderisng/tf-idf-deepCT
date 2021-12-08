@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003848
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-14/00 H04Q-11/00 H04L-5/14 H04B-1/54 H04Q-11/02 H04B-1/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital signal transmission system.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+strehl herbert dipl-ingde<sep>strehl, herbert, dipl.-ing.<sep>strehl, herbert, dipl.-ing.drozza-weg 15d-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a digital communications system with two terminals (I, II) connected by a two-wire line (25).Of these, each contains a fork circuit (23, 23), a transmission part (1.3), a receiving part (2,4) and a call device (21,22).According to the invention, in the calling terminal of the transmission part (1) transmits signals in a first frequency position and receives the receiving part (2) signals in a second frequency position.In the called terminal it is the other way around.With this arrangement, it can be avoided that when using digital terminals during the participant, the moderate blocking attenuation of the fork circuit causes a disturbance of the received signal by the own sending ring.
+</ABSTRACT>
+</TEXT>
+</DOC>

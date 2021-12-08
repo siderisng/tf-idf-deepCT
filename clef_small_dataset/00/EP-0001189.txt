@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001189
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28B-1/00 F28F-25/12 F28B-1/06 <main>F28B-1/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for draft correction in cooling towers, particularly of the natural draft type.
+</TITLE>
+<APPLICANT>
+renault tech nouvellesfr<sep>renault techniques nouvelles - g i e.<sep>renault techniques nouvelles - g i e.34, quai du point du jourf-92109 boulogne-billancourtfr<sep>renault techniques nouvelles - g i e.<sep>
+</APPLICANT>
+<INVENTOR>
+maurice jean<sep>maurice, jean<sep>maurice, jean8, rue la fontainef-78000 st germain de la grangefr<sep>maurice, jean  <sep>maurice, jean8, rue la fontainef-78000 st germain de la grangefr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an arrangement for correcting the draught in a dry-process natural-draught cooling tower (1) which is provided with a battery of heat exchangers (4) which are disposed over a cross-section of the tower at a certain height from the ground (5), at the base of which tower the dynamic pressure of the air is deflected and the wind is directed towards the exchangers (4) by suitable means, characterised in that said means are radial screen members (7) which converge on the axis of symmetry (8) of the tower and are disposed vertically at the base of the tower, between the ground (5) and the battery of exchangers (4). 
+</ABSTRACT>
+</TEXT>
+</DOC>

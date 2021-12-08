@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002255
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-13/08 A61B-5/0432 G01D-15/28 G01R-13/00 <main>G01D-15/28</main> G01D-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+recording apparatus.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+ebert hans<sep>ebert, hans<sep>ebert, hanshedenusstrasse 1d-8520 erlangende<sep>ebert, hans<sep>ebert, hanshedenusstrasse 1d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a registration device for recording electrical signals on a moving band-shaped recording medium. Registrars are regularly made of a device housing with a registrar and drive for the recording medium and a carrier part for the recording medium with write edge. For easy handling, especially when replacing the recording medium, the carrier part is generally designed as a displaceable, unfoldable or removable carriage. According to the present invention, the carrier carriage (20) is formed writer side as a preform part (23), which is approximately the shape of the track of the recording medium (31) to be enveloped between the transport, pressure, pressurized on the carrier carriage (20) and on the device housing (1). and deflection rollers (3, 8, 25, 26, 28) in the operating state, and around that of the recording medium (31) before insertion of the carrier carriage (20) in the device housing (1) is attached. Such a construction of the carrier carriage (20) is possible to replace the recording medium and insertion of the carrier carriage (20) with one hand.
+</ABSTRACT>
+</TEXT>
+</DOC>

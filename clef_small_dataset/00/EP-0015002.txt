@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015002
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-405/06 C07D-233/64 A61P-7/02 C07D-453/00 C07D-451/02 A61K-31/415 A61K-31/519 C07D-233/60 A61K-31/585 A61P-7/00 C07D-405/00 C07C-29/00 C07C-29/14 C07C-29/40 C07D-233/56 C07D-233/58 A61K-31/58 C07D-317/00 <main>C07D-233/58</main> C07D-521/00 C07D-453/02 A61K-31/47 C07D-233/00 C07D-317/72 C07D-451/00 C07D-471/08 A61K-31/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-substituted imidazoles, and salts thereof, a method for their preparation and pharmaceutical formulations thereof.
+</TITLE>
+<APPLICANT>
+wellcome foundgb<sep>the wellcome foundation limited<sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb<sep>the wellcome foundation limited<sep>
+</APPLICANT>
+<INVENTOR>
+thorogood peter brian<sep>thorogood, peter brian<sep>thorogood, peter brian114 venner road sydenhamlondon, s.e.26gb<sep>thorogood, peter brian<sep>thorogood, peter brian114 venner road sydenhamlondon, s.e.26gb<sep>
+</INVENTOR>
+<ABSTRACT>
+imidazoles of formula (i)    wherein   a is a chemical bond or a straight or branched, saturated or  unsaturated, aliphatic residue having from 1 to 6 carbon  atoms, optionally substituted and/or optionally including 1,2  or 3 heteroatoms selected from oxygen, sulphur and nitrogen  providing (in the case of 2 or 3 heteroatoms) that any such  heteroatom is not located adjacent to a further such  heteroatom or heteroatoms, the total number of said carbon  atoms and heteroatoms not exceeding 6.   r is a fused, saturated or unsaturated, non-aromatic carbocyclic,  bi- or tri-cyclic ring system providing that when r is a  9- decahydronaphthyl group, a does not represent a carbonyl  group, a saturated or unsaturated, carbocyclic spirocyclic ring  system, optionally containing one or more ring heteroatoms  selected from oxygen, sulphur and nitrogen; or a saturated or  unsaturated.  carbocyclic bridged-polycyclic ring system,  optionally containing one or more ring heteroatoms selected  from oxygen, sulphur and nitrogen and having one or more  bridges providing that when r is an adamantanyl group, a  does not represent an ethylene radical (-(ch₂)2-) substituted at  the carbon atom α to the adamantanyl group by a hydroxy,  oxo, ether or thioether grouping; or ar together represent a  straight or branched, saturated or unsaturated, aliphatic  residue having 3 to 6 carbon atoms, optionally substituted  and/or optionally including 1, 2 or 3 heteroatoms selected  from oxygen, sulphur and nitrogen providing (in the case of 2  or 3 heteroatoms) that any such heteroatom is not located  adjacent to a further such heteroatom or heteroatoms, the  total number of said carbon and heteroatoms not exceeding  6; which aliphatic residue is substituted by at least two  groups, which may be the same or different, selected from the  groups specified for r above and acid addition salts and  pharmaceutically acceptable bioprecursors thereof.  methods of preparing the imidazoles are disclosed.  the imidazoles and their acid addition salts an bioprecursors  are useful in the treatment of prophylaxis of thromboembolic  conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

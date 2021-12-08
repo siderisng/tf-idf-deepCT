@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013835
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F42B-3/12 F42B-3/10 <main>F42B-3/18</main> F42B-3/18 F42B-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+selectively actuable control circuit for a fusehead igniter assembly and detonators containing said circuit.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>ici ltd <sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+jones eirwyn<sep>jones, eirwyn<sep>jones, eirwyn10 doonbank parkalloway ayrshire, scotlandgb<sep>jones e  <sep>jones, eirwyn<sep>jones, eirwyn10 doonbank parkalloway ayrshire, scotlandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a control circuit for firing an electrically actuable igniter  (11) in response to a firing signal having predetermined cha­ racteristics.  for protection from inadvertent or accidental ac­ tuation, the control circuit includes at least one inductor in se­ ries (14) with the fuse wire of the igniter and at least one induc­ tor in parallel (16) with the source of the firing signal.  the series  and parallel inductors are electromagnetically coupled to one  another through a ferrite bead (20) and are electrically con­ nected so as to generate opposed magnetic effects when cur­ rent flows through them.  electric detonators incorporating the  control circuit are also detailed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

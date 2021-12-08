@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002822
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07K-5/04 C07K-5/00 C07K-1/113 A61P-31/00 C07K-1/00 <main>C07F-9/38</main> C07F-9/38 C07K-5/06 A61K-37/02 A61K-38/00 A61P-31/04 C07K-5/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phosphorus containing peptide derivatives, their production, intermediates for their production and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+hoffmann la roche ch<sep>f.hoffmann-la roche & co. aktiengesellschaft  <sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+atherton frank ratcliffe<sep>hall michael john<sep>hassall cedric herbert<sep>lambert robert wilson<sep>ringrose peter stuart<sep>atherton, frank ratcliffe<sep>hall, michael john<sep>hassall, cedric herbert<sep>lambert, robert wilson<sep>ringrose, peter stuart<sep>atherton, frank ratcliffe148 parkwaywelwyn garden city herts.gb<sep>hall, michael john15 cannonsfield roadwelwyn herts.gb<sep>hassall, cedric herbert"trelech" tewin close tewin woodwelwyn herts.gb<sep>lambert, robert wilson6 grange hillwelwyn herts.gb<sep>ringrose, peter stuart41 the limesharston cambridgeshiregb<sep>atherton, frank ratcliffe<sep>hall, michael john  <sep>hassall, cedric herbert<sep>lambert, robert wilson<sep>ringrose, peter stuart<sep>atherton, frank ratcliffe148 parkwaywelwyn garden city herts.gb<sep>hall, michael john15 cannonsfield roadwelwyn herts.gb<sep>hassall, cedric herbert"trelech" tewin close tewin woodwelwyn herts.gb<sep>lambert, robert wilson6 grange hillwelwyn herts.gb<sep>ringrose, peter stuart41 the limesharston cambridgeshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+New antibacterial active compound of the formula wherein R¹ is hydrogen, methyl, hydroxymethyl, mono-, di- or trihalogenmethyl;R² is a characteristic group for α-amino acids, as normally occurring in proteins, characteristic group, or one of the lower alkyl or hydroxynalkyl groups, as characteristic of normally in proteins α-amino acids, are distinctive lower alkyl or hydroxy lower alkyl group;R³ is lower alkyl, low acycloalkyl, lower alkenyl, aryl or aryl lower alkyl and R⁴ is hydrogen or lower alkyl;n is 1, 2 or 3;with R configuration on the C atom indicated by (A) (if R¹ = H) and L configuration on the C atom designated (B) (if R² = H);as well as pharmaceutically acceptable salts of such compounds whose production according to known methods of peptide chemistry and pharmaceutical preparations containing such peptide derivatives.
+</ABSTRACT>
+</TEXT>
+</DOC>

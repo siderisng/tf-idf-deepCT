@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002709
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07C-333/20 C07C-333/00 C07C-271/28 C07C-271/00 C07C-333/08 C07C-325/00 A01N-47/20 C07D-213/18 A01N-47/10 C07D-213/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+glycolic acid derivatives, preparation thereof and use thereof as fungicides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende <sep>
+</APPLICANT>
+<INVENTOR>
+brandes wilhelm drde   <sep>knops hans-joachim drde<sep>scheinpflug hans drde<sep>brandes, wilhelm, dr.<sep>knops, hans-joachim, dr.<sep>scheinpflug, hans, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5653 leichlingen 1de<sep>knops, hans-joachim, dr.claudiusweg 3d-5600 wuppertal 1de<sep>scheinpflug, hans, dr.am thelenhof 15d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+the compounds of the formula <image> in which a, r<1>, r<2>, x, y, z<1> and z<2> have the meaning indicated in the description, are obtained when salts of glycolic acid are reacted with phenyl isocyanates in the presence of a diluent.  the active compounds according to the invention have a strong fungicidal activity and can be used to particularly good effect for controlling botrytis species. 
+</ABSTRACT>
+</TEXT>
+</DOC>

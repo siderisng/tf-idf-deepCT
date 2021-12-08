@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002268
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-9/04 C25B-1/46 C25B-1/00 C25B-11/00 C25B-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cell connector for bipolar electrolyzer.
+</TITLE>
+<APPLICANT>
+allied corp us<sep>allied corporation  <sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.)morristown new jersey 07960us<sep>
+</APPLICANT>
+<INVENTOR>
+smura bronislaw bernardus<sep>smura, bronislaw bernard<sep>smura, bronislaw bernardp.o. 4051marcellus new jersey 13108us<sep>
+</INVENTOR>
+<ABSTRACT>
+a cell connector for insuring direct electrical communication  and positive mechanical connection with a cell in a  bipolar permselective membrane electrolyzer, and which  precludes fluid or gaseous flow therefrom, is comprised of  an electrically non-conductive cell web (32), an electrically  conductive insert (36) disposed in an aperture in the web, an  electrode boss bearing a cell electrode on one face and  disposed adjacent the insert at a second face defining an  electrode interface, an electrically conductive fastener (44)  disposed through a bore in the insert and received in mating  engagement with the electrode boss for providing an axial  compressive force at the electrode interface, and a biasing  member (60) in operative engagement with the fastener for  providing a force in opposition to the axial compressive  force.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003997
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04N-3/14</main> H04N-5/235 H04N-3/15 H04N-5/197 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic camera with automatic brightness control and method for its operation.
+</TITLE>
+<APPLICANT>
+siemens ag de  <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+herbst heiner dr<sep>koch rudolf dipl-ing<sep>herbst, heiner, dr.<sep>koch, rudolf, dipl.-ing.<sep>herbst, heiner, dr.am see 2d-8013 haarde<sep>koch, rudolf, dipl.-ing.nimrodstrasse 12d-8034 germering-unterpfaffenhofende<sep>herbst, heiner, dr.  <sep>koch, rudolf, dipl.-ing.<sep>herbst, heiner, dr.am see 2d-8013 haarde<sep>koch, rudolf, dipl.-ing.nimrodstrasse 12d-8034 germering-unterpfaffenhofende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the operation of an electronic camera comprising a sensor element, which consists of mos-capacitors for detecting an optical image, and an automatic adjusting unit for the image brightness, wherein the sensor capacitors are connected to voltages of such a kind that the quantity of minority carriers optically produced and stored (integration) in these sensor capacitors corresponds to the brightness of the image points, and signals generated thereby are periodically read out by emptying the capacitors, and wherein between the periodical read out processes, in each case before the application of the voltages required for the integration of the minority carriers, the sensor capacitors are biased in such manner that only majority carriers accumulate therein (accumulation), and wherein the time of the change-over from accumulation to integration is so regulated that the read-out signals averaged by means of all sensor capacitors correspond to the requisite image brightness and wherein a value which corresponds to the sum of the signals of all mos capacitors is formed as an actual value of the image brightness and the duration of integration is lengthened or shortened by delaying the change-over time if the actual value does not reach or exceed a predetermined theoretical value, and wherein preferably the sum sigmaua  of the signals which were read out at the end of the preceding period is formed as the actual value, and the accumulation time t1 until the change-over time is varied in relation to the accumulation time t1  of the previous period in accordance with the deviation sigmaua -us  of the theoretical value from the actual value, characterized in that the actual value is measured at the beginning of each period by temporarily switching the capacitors to integration and the resultant signals read out and summed up. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001997
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09D-133/02 G03F-7/038 C08F-20/26 H01L-21/027 C08F-2/54 C09D-4/02 <main>G03F-7/10</main> C09D-133/04 C08F-34/00 C08F-220/10 C08F-220/00 H01L-21/02 C08F-2/00 C08F-20/00 C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electron beam-curable photoresist lacquers.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+rosenkranz hans jurgen dr<sep>rosenkranz, hans jurgen, dr.<sep>rosenkranz, hans jürgen, dr.heinrich-kauert-weg 9d-4150 krefeldde<sep>rosenkranz, hans jurgen, dr.<sep>rosenkranz, hans jürgen, dr.heinrich-kauert-weg 9d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+with electron beams crosslinking resist paints whose effective component is a copolymer of (a) 10-90 mol of a C₁-C₂₀ alkyl ester of acrylic acid and / or methacrylic acid, (b) 0-50 mol, preferably 10-50 mol, a hydroxyl-containing C₁-C₁₀Alkyl esters of acrylic and / or methacrylic acid and (C) 3-70 mol, preferably 10-50 mol, a monomer containing the structure element wherein X '= -NH;-;-O- and Ar is an aromatic rest.
+</ABSTRACT>
+</TEXT>
+</DOC>

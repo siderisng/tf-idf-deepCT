@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005230
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09D-175/00 C09D-3/72 C09D-5/03 C08G-18/78 C08G-18/79 <main>C08G-18/79</main> C09D-5/46 C09D-3/48 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+binder for pulverulent coating materials.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+de cleur eckhard dr<sep>dhein rolf dr<sep>findeisen kurt dr<sep>kreuder hans joachim dr<sep>muller hanns peter dr <sep>rudolph hans dr <sep>schafer walter dr<sep>wagner kuno dr<sep>de cleur, eckhard, dr.<sep>dhein, rolf, dr.<sep>findeisen, kurt, dr.<sep>kreuder, hans joachim, dr.<sep>muller, hanns peter, dr.<sep>rudolph, hans, dr.<sep>schafer, walter, dr.<sep>wagner, kuno, dr.<sep>de cleur, eckhard, dr.aubruchsgraben 14d-4100 duisburg 46de<sep>dhein, rolf, dr.deswatinesstrasse 30d-4150 krefeld 1de<sep>findeisen, kurt, dr.in der follmühle 10d-5068 odenthalde<sep>kreuder, hans joachim, dr.dörperhofstrasse 35d-4150 krefeld 1de<sep>müller, hanns peter, dr.berta-von-suttner-strasse 40d-5090 leverkusen 1de<sep>rudolph, hans, dr.haydnstrasse 9d-4150 krefeld 1de<sep>schäfer, walter, dr.wolfskaul 6d-5000 köln 80de<sep>wagner, kuno, dr.am kiesberg 8d-5090 leverkusen 1de<sep>de cleur, eckhard, dr.<sep>dhein, rolf, dr.<sep>findeisen, kurt, dr.<sep>kreuder, hans joachim, dr.<sep>muller, hanns peter, dr.<sep>rudolph, hans, dr.<sep>schafer, walter, dr.<sep>wagner, kuno, dr.<sep>de cleur, eckhard, dr.aubruchsgraben 14 d-4100 duisburg 46 de  <sep>dhein, rolf, dr.deswatinesstrasse 30d-4150 krefeld 1de<sep>findeisen, kurt, dr.in der follmühle 10d-5068 odenthalde<sep>kreuder, hans joachim, dr.dörperhofstrasse 35d-4150 krefeld 1de<sep>müller, hanns peter, dr.berta-von-suttner-strasse 40d-5090 leverkusen 1de<sep>rudolph, hans, dr.haydnstrasse 9d-4150 krefeld 1de<sep>schäfer, walter, dr.wolfskaul 6d-5000 köln 80de<sep>wagner, kuno, dr.am kiesberg 8d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Uretonimingruppen-containing compounds having a melting point above 40 ° C, which are substantially free of flammable volatile isocyanate blocking agents, are excellent as crosslinkers for powder coatings based on hydroxyl-containing polymers.
+</ABSTRACT>
+</TEXT>
+</DOC>

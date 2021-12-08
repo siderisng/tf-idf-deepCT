@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006006
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-5/38 G03C-5/395 G03D-3/06 C25C-1/20 C25C-1/00 G03C-7/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for regenerating spent photographic bleach-fixer solution and for recovering silver therefrom.
+</TITLE>
+<APPLICANT>
+teijin eng jp<sep>teijin engineering ltd.<sep>teijin engineering ltd.1-1, 2-chome uchisaiwai-cho chiyoda-kutokyojp<sep>
+</APPLICANT>
+<INVENTOR>
+iribe seikijp<sep>ono takezojp<sep>watanabe mineojp<sep>iribe, seiki<sep>ono, takezo<sep>watanabe, mineo<sep>iribe, seiki7003-6, wada-cho mihara-shikiroshima-kenjp<sep>ono, takezoteijin takatsuki-ryo, 11-1 kitayanagawa-chotakatsuki-shi osaka-fujp<sep>watanabe, mineo27-29, 3-chome, ai ibaraki-shiosaka-fujp<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for regenerating a spent photographic  bleach-fixer solution, comprising (a) an electrodialysis cell  (21) including a cathode (22), an anode (23), and alternating  anion exchange membranes (24) and cation exchange  membranes (25) arranged therebetween to define a cathode  compartment (26), a plurality of intermediate enionation (28)  and deionation (29) compartments with a set of the deionation  compartments (29) alternately disposed between a set of  the enionation compartments (28), and an anode compartment  (27), (b) an electrolysis cell (38) connected to the  enionation compartments (28) of the electrodialysis cell (21)  so that an aqueous solution capable of dissolving silver salts  can be circulated between the electrolysis cell (38) and the  enionation compartments (28), (c) a circulating tank (30) for  the spent bleach-fixer solution connected to the deionation  compartments (29) and the anode compartment (27) of the  electrodialysis cell (21) for circulating the spent bleach-fixer  solution between the circulating tank (30) and both the  deionation compartments (29) and the anode compartment  (27), and (d) a circulating tank (34) for an electrolyte solution  connected to the cathode compartment (26) of the electrodialysis  cell (21) for circulating the electrolyte solution  between the circulating tank (34) and the cathode compartment  (26); and a method for regenerating a spent photographic  bleach-fixer solution using said apparatus.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003857
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/00 B01J-31/00 C07C-255/19 B01J-31/20 <main>C07C-121/40</main> B01J-23/00 B01J-31/16 C07B-61/00 C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of 2-cyanohexanoic acid derivatives.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+anderson martin<sep>sheldon roger arthur<sep>syrier johannes leopold marie<sep>verbrugge herman<sep>anderson, martin<sep>sheldon, roger arthur<sep>syrier, johannes leopold marie<sep>verbrugge, herman<sep>anderson, martin92 clare roadwhitstable, kentgb<sep>sheldon, roger arthurbadhuisweg 3nl-1031 cm amsterdamnl<sep>syrier, johannes leopold mariebadhuisweg 3nl-1031 cm amsterdamnl<sep>verbrugge, hermanbadhuisweg 3nl-1031 cm amsterdamnl<sep>anderson, martin  <sep>sheldon, roger arthur<sep>syrier, johannes leopold marie<sep>verbrugge, herman<sep>anderson, martin92 clare roadwhitstable, kentgb<sep>sheldon, roger arthurbadhuisweg 3nl-1031 cm amsterdamnl<sep>syrier, johannes leopold mariebadhuisweg 3nl-1031 cm amsterdamnl<sep>verbrugge, hermanbadhuisweg 3nl-1031 cm amsterdamnl<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the preparation of 2-cyanohexanoic acid  derivative having the general formula:    wherein x and y each represent a chlorine or bromine atom,  each hal represents a fluorine, chlorine or bromine atom and  r¹ and r² each independently represent an alkyl group of one  to four carbon atoms, which comprises reacting a pentenoic  acid compound of the general formula:    wherein r¹ and r² have the same meaning as in the general  formula i, with a tetrahalomethane of the general formula:   chal₂xy (iii)   wherein hai, x and y have the same meaning as in the general  formula i, in the presence of a catalyst and a solvent for the  reactants, characterized in that the catalyst is a transition  metal in a divided state belonging to groups vib, viib or viii of  the periodic table of the elements or a carbonyl of such a  transition metal.  the 2-cyanohexanoic acid derivatives are  useful as intermediates in the manufacture of synthetic pyrethroids  which are a group of very active insecticides.  
+</ABSTRACT>
+</TEXT>
+</DOC>

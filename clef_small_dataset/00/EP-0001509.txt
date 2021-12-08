@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001509
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01C-7/04 G01N-27/409 G01N-27/12 G01N-27/16 G01N-27/14 <main>H01C-7/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+variably resistive gas sensor and method of fabrication.
+</TITLE>
+<APPLICANT>
+ford francefr<sep>ford motor cogb<sep>ford motor cous<sep>ford werke agde<sep>ford france societe anonyme<sep>ford motor company <sep>ford motor company limited<sep>ford-werke aktiengesellschaft  <sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor companythe american roaddearborn, mi 48121us<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+esper michael joseph<sep>merchant stanley richard<sep>wells leo green<sep>esper, michael joseph<sep>merchant, stanley richard<sep>wells, leo green<sep>esper, michael joseph11690 riverdaleredford township, michigan 48239us<sep>merchant, stanley richard30001 leona streetgarden city, michiganus<sep>wells, leo green28677 leona streetgarden city, michiganus<sep>esper, michael joseph<sep>merchant, stanley richard <sep>wells, leo green<sep>esper, michael joseph 11690 riverdale redford township, michigan 48239 us <sep>merchant, stanley richard30001 leona streetgarden city, michiganus<sep>wells, leo green28677 leona streetgarden city, michiganus<sep>
+</INVENTOR>
+<ABSTRACT>
+a variably resistive ceramic exhaust gas sensor material  is impregnated with a catalytic agent.  the porous, variably  resistive exhaust gas sensor ceramic material is comprised  of particles or grains of ceramic material which react  electrically to changes in the partial pressure of oxygen of  their environment.  the particles have a mean particle size  on the order of from about 5 microns to about 7 microns.   the sensor device is processed to achieve a high degree  of porosity.  the catalytic material is formed of relatively  much smaller particles of catalyst agent, on the order of  less than about 1 micron.  substantially each particle of  ceramic material has bonded to it one or more individual  particles of catalyst material.  complete sensor elements  are immersed in a fluid solution containing a very small  percent of a material which can be processed to leave deposits  of the catalyst agent on the surface of the individual  particles or grains of the sensor ceramic material.  subsequent  to the immersing, the fluid impregnated elements  are air dried and heated to a temperature sufficiently great  to assure conversion of the deposited material to form the  catalytic agent deposits and to subsequently sinter the  catalytic agent deposits to the individual grains of the  ceramic material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

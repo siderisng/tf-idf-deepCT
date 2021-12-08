@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013219
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06M-1/00 G06M-1/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+day-mileage recorder.
+</TITLE>
+<APPLICANT>
+veglia e d fr  <sep>e.d. veglia<sep>e.d. veglia125, rue de montreuilf-75540 paris cedex 11fr<sep>
+</APPLICANT>
+<INVENTOR>
+gomez michelfr<sep>gomez, michel<sep>gomez, michel10, avenue de palissyf-94340 joinville le pont (val de marne)fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Daily totalizer comprising a plurality of TAMs boring rotated by a frame (4) a swivel (13) swivel mounted relative to the frame, a series of gears (8) integral with the rocker for the drive of drums (1) a cam(23) integral with each drum and a maneuvering finger (22) associated with each cam and integral with the BASCU to cause the reset of the corresponding drum when pivoting the dipper.It is provided a square (24, integral with each pinion (8) and a ramp (25) integral with the frame that cooperates with the said square (24) during the pivoting of the gears, the contact surface of the ramp being a circular sector.centered on the pivot axis.
+</ABSTRACT>
+</TEXT>
+</DOC>

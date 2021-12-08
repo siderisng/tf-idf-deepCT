@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015165
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-1/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+inductor circuit for electrical rotating machine, especially for automobile starter motor.
+</TITLE>
+<APPLICANT>
+ducellier & ciefr<sep>ducellier & cie<sep>ducellier &amp; cieechat 950f-94024 créteil cedexfr<sep>
+</APPLICANT>
+<INVENTOR>
+larrauri alexandrefr<sep>larrauri, alexandre<sep>larrauri, alexandreles costillesf-63570 brassac les minesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+this circuit comprising a case (1) and pole pieces (2), characterised in that the fixing of the pole pieces (2) is performed using at least one cavity (2a) made in the said pieces and forming an angle  alpha with the axis of the pole pieces, a cavity (2a) into which is worked a portion of the material making up the case (1).  <image>
+</ABSTRACT>
+<DESCRIPTION>
+circuit inducteur de machine électrique tournantel notamment de démarreur de véhicule automobile. la présente invention concerne un circuit inducteur de machine électrique tournante, notamment de démarreur de véhicule automobile. dans les circuits inducteurs, de démarreurs électriques connus à ce jour, la fixation des masses polaires à llintérieur de la carcasse est effectuée soit par l'intermédiaire de vis, soit par rivetage. dans le premier cas, la masse est percée, puis taraudée, la carcasse percée et fraisée, dans l'autre cas, il faut également percer la carcasse et prévoir soit un lamage soit un fraisage de la carcasse, le rivet venant de matière avec la masse polaire. ces opérations multiples sont onéreuses et influent conséquem ment sur le prix de revient. la présente invention a pour but de remédier à cet inconvénient et concerne à cet effet un circuit inducteur de machine électrique tournante, notamment de démarreur de véhicule automobile, circuit inducteur comprenant une carcasse et des masses polaires, caractérisé en ce que la fixation des masses polaires est effectuée par l'intermédiaire d'au moins une cavité, ménagée dans lesdites masses et formant un angle # avec l'axe des masses polaires, cavité dans laquelle est repoussée une partie de la matière dont est constituée la carcasse. la description qui va suivre en regard du dessin unique annexé fera mieux comprendre comment l'invention peut être réalisée. le dessin unique représente une vue en coupe longitudinale du circuit inducteur de démarreur électrique de véhicule automobile, circuit inducteur comprenant une carcasse 1, des masses polaires 2, et des bobines inductrices 3, disposées de façon connue autour des masses polaires 2. suivant un mode préféré de réalisation de l'invention la fixa- tion des masses polaires 2, à l'intérieur de la carcasse 1 est effectuée par l'intermédiaire de deux cavités 22 > prévues dans lesdites tasses, et obtenues, par exemple, par perçage. ces cavités forment un ongle avec l'axe des esses polaires (voir figure unique) cavités dans lesquelles sont repousséest par tout moyen connu, des parties la de la atibro dont est constituée la carcasse cette opération de repoussage est réalisée après positionnement préalable des bobines inductrices 3. on conçoit bien qu'vu tel mode de fixation est très avantageux car il évite d'avoir à effectuer les perçages et fraisages de la technique habituelle sur la carcasse, et qu'il permet également de supprimer les vis de fixation et le taraudage des masses polaires. ce mode de fixation a comme autre avantage de pouvoir effectuer le contrôle de l'alzsuge des masses polaires et le contrôle électrique avant de repousser la matière dans les cavités des masses. il est évident que les cavités de masses polaires formant un angle jk avec l'axe de masses polaires peuvent être ménagées transversalement à 11 axe longitudinal de la carcasse et que leur nombre est fonction de la force nécessaire pour obtenir un assemblage satisfaisant.
+</DESCRIPTION>
+<CLAIMS>
+ revendication    1.- circuit inducteur de machine électrique tournante, notamment de démarreur de véhicule automobile, circuit inducteur compre   nant    une carcasse (1) et des masses polaires (2), caractérisé en ce que la fixation des masses polaires (2) est effectuée par l'intermédiaire   d'au    moins une cavité (2a) ménagée dans lesdites masses et formant un angle   iq    avec l'axe des masses polaires, cavité (2a) dans laquelle est repoussée une partie de la matière dont est   constituéela    carcasse   (1).     
+</CLAIMS>
+</TEXT>
+</DOC>

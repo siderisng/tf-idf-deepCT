@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004477
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60T-13/52 B60T-13/575 B60T-13/573 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+force-multiplying pneumatic device.
+</TITLE>
+<APPLICANT>
+tokico ltdjp  <sep>tokico ltd.<sep>tokico ltd.6-3, fujimi, 1-chome kawasaki-kukawasaki-shi kanagawa-kenjp<sep>
+</APPLICANT>
+<INVENTOR>
+hiromi andojp<sep>hiromi, ando<sep>hiromi, ando1-14-12, takadanobaba shinjuku-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a force multiplying pneumatic device, such as a booster,  includes a body (1) having therein front and rear chambers  (4 and 5) divided by a diaphragm (2) and a power  piston (3).  when a pressure difference is produced across  the two chambers by operation of an input shaft (6) a frontward  thrust is produced on the power piston and is transmitted  to an output shaft (12) through an elastic reaction  disc (10) which also acts to transmit a proportion of the  reaction force of the output shaft to the input shaft.  the  reaction disc is received in a recess (3e) formed in the  front side of the power piston and is retained in the recess  by a cylindrical retainer (11) removably secured to the  power piston.  the retainer slidably receives therein the  rear end of the output shaft and has stop means (11a)  thereon to prevent the output shaft from accidental falling  out of the power piston.  
+</ABSTRACT>
+</TEXT>
+</DOC>

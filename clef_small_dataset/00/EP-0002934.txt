@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002934
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/64 G05D-23/01 F16K-31/68 G05D-23/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermostatic control valve.
+</TITLE>
+<APPLICANT>
+honeywell braukmann gmbhde<sep>honeywell-braukmann gmbh<sep>honeywell-braukmann gmbhhardhofwegd-74821 mosbachde<sep>
+</APPLICANT>
+<INVENTOR>
+braukmann heinz wernerca<sep>braukmann, heinz, werner<sep>braukmann, heinz, werner5601 steeles avenue westweston, ontarioca<sep>
+</INVENTOR>
+<ABSTRACT>
+a thermostatic control valve has a built-in temperature  sensor (58) actuating a valve mechanism (20) to regulate  flow of heated fluid through a conduit (14).  the valve  (10) has a housing (36) open at one end and securable to  the conduit (14) at the other end.  the sensor (58) is secured  in the open end of the housing (36) and is responsive to  changes in temperature of the air in the open end of the  housing (36), the sensor (58) acting on a plunger (68) which  in turn acts on the valve mechanism (20) at the other end of  the housing to regulate fluid flow through the conduit (14).  thermal shielding means (50, 70, 72) are provided in  the housing (36) between the sensor (58) and the valve  mechanism (20) to substantially prevent heat from the  valve mechanism (20) affecting the sensor (58), and vents  (46) are provided in the housing (36) below the thermal  shielding means (50, 70, 72) to allow air heated by the  valve mechanism (20) to escape to atmosphere.  
+</ABSTRACT>
+</TEXT>
+</DOC>

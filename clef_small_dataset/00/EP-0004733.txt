@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004733
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07D-231/00 A01N-47/16 A01N-47/18 C07C-49/235 C07C-49/223 A01N-47/10 A01N-43/56 C07D-231/06 A01N-43/48 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diaryl substituted pyrazoline carboxanilides, processes for preparing them, insecticidal compositions and uses thereof, and intermediates therefor
+</TITLE>
+<APPLICANT>
+ici ltdgb <sep>imperial chemical industries limited <sep>imperial chemical industries plc imperial chemical house, millbanklondon sw1p 3jfgb<sep>
+</APPLICANT>
+<INVENTOR>
+hunt john desmondgb<sep>hunt, john desmond<sep>hunt, john desmond24 goodwood closemidhurst sussexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of formula i where r<1> and r<2> are h, halogen, cf3; r<3> is alkyl (c1 - c6), phenyl; r<4> is h, alkyl (c1 - c6); and compositions comprising them useful as insecticides.  <chem>  
+</ABSTRACT>
+</TEXT>
+</DOC>

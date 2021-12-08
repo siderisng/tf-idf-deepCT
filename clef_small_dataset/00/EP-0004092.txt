@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004092
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-51/02 B29C-51/22 B29D-7/24 <main>B29C-17/03</main> B29C-51/00 B29C-51/18 B29C-49/00 B29C-55/00 B29C-47/00 B29C-55/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method and means for continuously thermal forming oriented thermoplastic molded articles.
+</TITLE>
+<APPLICANT>
+maryland cup corpus<sep>maryland cup corporation<sep>maryland cup corporation10100 reisterstown roadowings mills maryland 21117us<sep>maryland cup corporation<sep>
+</APPLICANT>
+<INVENTOR>
+winstead thomas w<sep>winstead, thomas w.<sep>winstead, thomas w.2 overlook lanebaltimore maryland 21210us<sep>winstead, thomas w.<sep>winstead, thomas w.2 overlook lanebaltimore maryland 21210us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for continuously extruding,  biaxially orienting and forming molded products from a web  of thermoplastic material and further, continuously separating  the products from the web selvage for further extrusion.   the method and apparatus use continuous molding devices,  namely, multiple mold cavities in a rotating polygon configuration  (22) over the peripheral surface of which the biaxially  oriented web (14) is securely and continuously positioned by  a follower roller (120c) interfacing the polygon with a biaxial  orientation device (16, 18, 120).  continuous and immediate  interfacing is effected to prevent loss of orientation in the  web which is kept at a temperature suitable for ingestion  thereof into the mold cavities by vacuum, pressure or plug  assist.  in one preferred embodiment the inertia at the interface  between the undulating peripheral surface of the rotating  mold polygon and the biaxial orientation apparatus is  reduced to an optimal minimum.  
+</ABSTRACT>
+</TEXT>
+</DOC>

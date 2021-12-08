@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017249
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-11/04 F16K-11/16 <main>F16K-11/04</main> F16K-11/00 F16K-11/02 F16K-11/10 G05D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pressure balanced three-way transfer valve.
+</TITLE>
+<APPLICANT>
+pall corpus<sep>pall corporation<sep>pall corporation30 sea cliff avenueglen cove, new york 11542us<sep>pall corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+cooper roydon b<sep>cooper, roydon b.<sep>cooper, roydon b.lattingtown roadlocust valley, new yorkus<sep>cooper, roydon b.<sep>cooper, roydon b.lattingtown roadlocust valley, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a pressure- balanced three way transfer valve (100) for  controlling fluid flow into one or two fluid lines, particularly  adapted for use in fluid systems to control flow through filter  assemblies (101, 102) that require servicing or replacement  from time to time, permitting continued flow through one  function while putting the other function off stream.  the  valve comprising in combination: a) a housing (1), b) a valve  chamber (10), c) first, second and third fluid flow parts (2,3,4)  and passages (5,6,7) in the housing (1), d) a first and a second  valve member (20,21), e) a cam follower mechanism com­ posed of the camshaft (26), cam wheel (70), the cam-­ following valve-actuating means, the reciprocable connect­ ing rods (42,43) for moving the tubular valve members  (20,21) between open and closed positions, f) a first and a  second pressure-equalizing chamber (59).  
+</ABSTRACT>
+</TEXT>
+</DOC>

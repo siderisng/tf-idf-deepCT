@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002231
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-3/06 A61P-25/02 A61K-31/451 C07D-401/04 A61P-3/00 A61K-31/4427 C07D-409/00 A61P-9/08 C07D-211/00 C07D-409/04 A61K-31/445 C07D-401/00 A61P-25/00 A61P-9/00 A61P-9/12 A61P-9/06 A61P-9/10 C07D-211/90 A61K-31/4433 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-n-aryl-1,4-dihydropyridines, process for their preparation and their pharmaceutical application.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+bossert friedrich drde<sep>heise arend drde <sep>kazda stanislav drde <sep>klauke erich dr de<sep>stoepel kurt drde<sep>bossert, friedrich, dr.<sep>heise, arend, dr.<sep>kazda, stanislav, dr.<sep>klauke, erich, dr.<sep>stoepel, kurt, dr.<sep>bossert, friedrich, dr.claudiusweg 7d-5600 wuppertal 1de<sep>heise, arend, dr.moebeck 50d-5600 wuppertal 1de<sep>kazda, stanislav, dr.pahlkestrasse 55 nd-5600 wuppertal 1de<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthalde<sep>stoepel, kurt, dr.in den birken 69d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1-n-aryl-1,4-dihydropyridines of the formula <image>  in which  r<1> is an optionally substituted aryl radical,  r<2> and r<5> are optionally substituted alkyl or alkoxyalkyl, r<3> and r<4> are identical or different and each is optionally substituted alkyl, alkenyl or alkynyl, x is an optionally substituted alkyl or aryl radical or is optionally substituted aralkyl, styryl, cycloalkyl, cycloalkenyl, quinolyl, isoquinolyl, pyridyl, pyrimidyl, furyl, thienyl or pyrryl, are used as pharmaceuticals, especially as agents influencing the circulation. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006333
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01K-73/00 A01K-73/06 B66D-1/50 B66D-1/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control system for hydraulically operated elements or systems
+</TITLE>
+<APPLICANT>
+mills electronics ltdgb<sep>robertson james & sonsgb<sep>j. mills electronics limited<sep>james robertson & sons (fleetwood) limited<sep>j. mills electronics limitedjohn scott house market streetbracknell berkshire, rg12 1jugb<sep>james robertson &amp; sons (fleetwood) limiteddock streetfleetwood lancashire fy7 6jhgb<sep>
+</APPLICANT>
+<INVENTOR>
+dempster david frasergb<sep>wilson john jeffreygb<sep>dempster, david fraser<sep>wilson, john jeffrey<sep>dempster, david fraser1, coniston avenuefleetwood lancashiregb<sep>wilson, john jeffrey68 church roadthornton-cleveleys lancashiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus and method for controlling the operation of two separately operable hydraulic arrangements such as elements, units circuits or systems, and in particular the winches (1p, 1s) for the warps (2p, 2s) of a trawl by monitoring the pressure conditions in the arrangements i. e.  warps by transducers (45p, 45s) establishing reference pressures (57) for the primary operating conditions of the arrangements and comparing these reference pressures with the values obtained from monitoring in a comparator (54) and producing control signals which are use to vary the operation conditions of the arrangements to equalise them to the reference values.  provision is made for overall control by a microprocessor (55) to allow the system to deal with obstructions and to provide alarms and safety conditions when necessary 
+</ABSTRACT>
+</TEXT>
+</DOC>

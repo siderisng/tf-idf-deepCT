@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012170
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-455/02</main> C07D-211/00 C07D-455/00 A61K-31/435 C07D-211/76 C07D-455/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+7-phenyl-quinolizidine derivatives (i), their preparation, pharmaceutical compositions containing them and (i) for use in treating diseases.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+imhof rene dr<sep>kyburz emilio dr<sep>imhof, rene, dr.<sep>kyburz, emilio, dr.<sep>imhof, rené, dr.in der kehrch-5265 wittnauch<sep>kyburz, emilio, dr.unterer rebbergweg 127ch-4153 reinachch<sep>imhof, rene, dr.<sep>kyburz, emilio, dr.<sep>imhof, rené, dr.in der kehrch-5265 wittnauch<sep>kyburz, emilio, dr.unterer rebbergweg 127ch-4153 reinachch<sep>
+</INVENTOR>
+<ABSTRACT>
+New phenyl-quinolicide of the general formula wherein X, Y, R¹ and R² are the following: X is hydrogen, fluorine, chlorine, low-alkoxy, lower-alkyl or trifluoromethyl, y hydrogen, fluorine, chlorine, low alkoxy or lower alkyl, R¹ hydroxy, low-alkoxy, acyloxy or, if R² represents the group A defined below, hydrogen, R² low alkyl, optionally by halogen, lower-alkoxy or trifluoromethyl substituted phenyl, or (if R¹ = hydrogen) a group A with the Meaning with the following meaning for R³-R⁶: R³ Oxygen or sulfur, R⁴ hydrogen or lower alkyl, R⁵ and R⁶ independently of each other: hydrogen, methyl, fluorine, chlorine, methoxy, trifluoromethyl or together - (CH₂) ₄; In the form of the racemate or the enantiomers, as well as acid addition salts of such compounds are suitable for use in the treatment of diseases, in particular psychoses, neuroses, nausea or pain. Furthermore, their preparation according to several methods and Hiebei uses new intermediates.
+</ABSTRACT>
+</TEXT>
+</DOC>

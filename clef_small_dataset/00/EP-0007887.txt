@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007887
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23B-31/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pulled double-conical collet.
+</TITLE>
+<APPLICANT>
+tornos sa fabrique de machine<sep>tornos s.a. fabrique de machines moutier<sep>tornos s.a. fabrique de machines moutier111, rue industriellech-2740 moutierch<sep>
+</APPLICANT>
+<INVENTOR>
+tornos s a fabrique de machine<sep>tornos s.a. fabrique de machines moutier<sep>
+</INVENTOR>
+<ABSTRACT>
+pull-in collets are essentially used on multi-spindle lathes.  in practice, no biconical pull-in collets have existed hitherto, although their use would be very valuable, given the great advances in machining on multi-spindle lathes.  the collet according to the invention is a biconic pull-in collet which can be used in a spindle provided for normal pull-in collets without modification of the spindle.  the rear of the collet possesses a second cone (2) which is inclined inwards, and this second cone (2) is actuated by the conical part (5) situated inside a connector (4) to the pull rod.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+pince de serrage biconique tirée l'invention concerne une pince biconique tirée. les pinces biconiques sont généralement connues. elles sont utilisées afin d'augmenter la force de serrage, particulièrement lorsque l'on excerce une grande force axiale sur la matière à usiner, p.ex. lors d'un perçage. les pinces de serrage peuvent etre séparées en deux grandes familles, les pinces tirées et les pinces poussées. de par le principe qui les actionnent, les pinces poussées se prêtent plus facilement à la réalisation d'un serrage biconique. a titre d'exemple nous citons le brevet suisse 175 086 qui présente une solution relativement simple en utilisant deux pinces l'une derrière l'autre avec un tube de serrage qui pousse sur le cône de la première pince et un petit tube entre les deux pinces qui pousse sur l'autre pince lorsque la pression lui est transmise depuis la première pince. un brevet anglais 1 422 323, plus récent, utilise à la place des pinces classiques deux jeux de mâchoires et prévoit de les utiliser avec leurs cônes dans la même direction, en direction opposée, une fois les cônes étant inclinés vers l'intérieur et une fois les cônes étant inclinés vers l'extérieur. ces deux exemples montrent que l'on a trouvé plusieurs solutions dans le domaine des pinces biconiques poussées. ces pinces poussées sont utilisées spécialement dans les tours automatiques monobroches. du fait que ces pinces poussées doivent être nettoyées très souvent, l'on n'a pas prévu de mécanismes de serrage à pince poussé sur les tours multibroches. le nettoyage serait en effet à effectuer bien plus souvent du fait qu'il n'y a pas seulement une pince, mais six ou huit, et parce que l'enlèvement de copeaux se fait d'une manière plus intense, avec des avances plus fortes que sur les tours monobroches, ce qui provoque plus de dépôts. pour ces raisons l'on utilise sur les tours automatiques multibroches essentiellement des pinces tirées. dans ces tours il est particulièrement intéressant de disposer de pinces dont la force de serrage est très grande du fait que les efforts axiaux sont plus importants que sur les tours monobroches. la pratique montre par contre qu'il n'existe pas de serrage biconique tiré sur les tours multibroches. il existe par contre le brevet suisse 279 981 qui présente une pince de serrage biconique tirée. si cette pince n'a pas trouvée de champ d'application sur les tours multibroches, c'est certainement parce qu'elle présente l'inconvénient majeur de nécessiter une broche spéciale avec des éléments mécaniques complémentaires. il n'est donc pas possible d'utiliser cette pince à la place d'une pince normale dans une broche de tour, sans modifications importantes. l'invention présente a pour but de mettre à la disposition de l'utilisateur de pinces tirées une pince biconique tirée pouvant être adaptée sans modification dans une broche prévue pour des pinces simples. la pince. de serrage biconique tirée selon l'invention peut être utilisée ainsi parce que les deux cônes sont inclinés l'un vers l'autre et que le deuxième cône est actionné par l'élément de raccord au tirant de serrage qui comporte
+</DESCRIPTION>
+<CLAIMS>
+revendications   1.   pince de serrage biconique tirée, comprenant a une extrémité un premier cône en plusieurs éléments, destiné à être introduit dans un cône femelle d'une broche et à l'autre extrémité un deuxième cône en plusieurs éléments c a r a c t   é    r i s é e en ce que les deux cônes sont inclinés   l'un    vers l'autre et en ce qu'il y a un élément de raccord à un tirant de serrage, ce raccord étant pourvu à l'intérieur d'une partie conique coopérant avec le deuxième cône.    2.   pince de serrage selon la revendication 1, caractérisée en ce que le deuxième cône comporte de larges fentes.   3.   pince de serrage selon la revendication 1, caractérisée en ce que la somme des éléments du deuxième cône représente un peu moins que la moitié de la circonférence et en ce que la partie conique de l'élément de raccord comprend des dégagements correspondant aux éléments du deuxième cône.     4.   pince de serrage selon les revendications 1 et 3, caractérisée en ce qu'elle comprend en outre une douille à érgot pour bloquer la partie conique de l'élément de raccord en face des éléments du deuxième cône.   5.   pince de serrage selon la revendication 1, caractérisée en ce que l'inclinaison d'un cône est différente de celle de l'autre cône.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004286
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02H-3/32 H02H-3/33 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fault current protection interruptor
+</TITLE>
+<APPLICANT>
+maier & cie cch<sep>cmc carl maier + cie ag<sep>cmc carl maier + cie agfulachstrasse 150 ch-8201 schaffhausen ch <sep>
+</APPLICANT>
+<INVENTOR>
+schwarz willych<sep>schwarz, willy<sep>schwarz, willyin der breitlench-8476 unterstammheimch<sep>
+</INVENTOR>
+<ABSTRACT>
+the summing current transformer (4) of the fault current protection interruptor is provided, in addition to the primary and secondary windings (1, 2) with a tertiary winding (3), the number of turns of which is many times greater than that of the secondary winding (2).  the trigger (5) for the protective interruptor is connected to the secondary winding (2), while a capacitor (9) is connected to the tertiary winding (3).  suitable selection of the number of turns on the tertiary winding (3) and the capacitance of the capacitor (9) results in a high response sensitivity of the trigger (5).  the response sensitivity is adequate even if the current transformer is excited with half-wave rectified direct current.  the capacitance of the capacitor (9) and the numbers of turns of the windings (2, 3) of the current transformer (4) and, also, of the trigger (5) are in ranges which are favourable with respect to both price and space required.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

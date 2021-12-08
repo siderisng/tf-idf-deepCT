@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002152
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-49/26 H01J-49/40 G01N-27/62 H01J-49/34 <main>H01J-49/26</main> H01J-49/02 H01J-49/06 G01T-1/00 G01T-1/28 H01J-49/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mass spectrometer.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>strahlen umweltforsch gmbhde<sep>commissariat a l'energie atomique<sep>gesellschaft fur strahlen- und umweltforschung m.b.h.<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>gesellschaft für strahlen- und umweltforschung mbh (gsf)ingolstädter landstrasse 1 post oberschleissheimd-85764 oberschleissheimde<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>gesellschaft fur strahlen- und umweltforschung m.b.h. <sep>
+</APPLICANT>
+<INVENTOR>
+eloy jean-francois<sep>unsold eberhard<sep>eloy, jean-francois<sep>unsold, eberhard<sep>eloy, jean-françoislabis de dessousf-38330 saint ismierfr<sep>unsöld, eberhardmohrstrasse 6d-8000 münchen 45de<sep>eloy, jean-francois <sep>unsold, eberhard<sep>eloy, jean-françoislabis de dessousf-38330 saint ismierfr<sep>unsöld, eberhardmohrstrasse 6d-8000 münchen 45de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a mass spectrograph.This spectrograph comprises a source of ions (1), means (3) of spatial analysis of the ions emitted by the source and a panoramic detector (4) of ions;It is characterized in that the ion source is a pulsed source.Application to mass spectrography using the "flight time".
+</ABSTRACT>
+</TEXT>
+</DOC>

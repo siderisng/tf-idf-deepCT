@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008976
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-27/10 H04L-27/20 H04L-27/12 <main>H04L-27/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital f.s.k. modulator.
+</TITLE>
+<APPLICANT>
+renoulin roger jeanfr <sep>telediffusion fsefr <sep>etablissement public de diffusion dit± "telediffusion de france" <sep>renoulin, roger jean<sep>etablissement public de diffusion dit "télédiffusion de france"21-27 rue barbèsf-92120 montrougefr<sep>renoulin, roger jean29, rue rené jean mailleuxthorigné-sur-vilaine f-35510 cessonfr<sep>etablissement public de diffusion dit  "telediffusion de france" <sep>renoulin, roger jean<sep>
+</APPLICANT>
+<INVENTOR>
+renoulin roger jean<sep>renoulin, roger jean<sep>renoulin, roger jean29, rue rené jean mailleux thorigné-sur-vilainef-35510 cessonfr<sep>renoulin, roger jean  <sep>renoulin, roger jean29, rue rené jean mailleux thorigné-sur-vilainef-35510 cessonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a frequency shift keying modulator with minimum frequency band or msk modulation, including a memory (17) storing a sine table made of digital samples corresponding to angular values regularly spaced from 0 degrees up to 180 degrees, the memory read-out address inputs being connected from the signal output of a cyclic counter (16) having a capacity equal to the number of the digital samples and the memory (17) output being connected to a digital-to-analogue converter (18), the output of which is connected to an alternate sign switching circuit (19), the output of which is connected to the input of a smoothing filter (21) delivering the modulator output signals, characterized in that the comp input of the said counter (16) is connected to the output of a two-division-ratio divider, the signal input of which is connected from the output of a pulse generator having a fixed, but settable frequency and the division-ratio control input of which is connected to the modulator binary data input (12), a bit "1" controlling one division ratio and a bit "0" the other division ratio, the carry output of the said counter (16) being connected to the control input of the alternate sign switching circuit (19). 
+</ABSTRACT>
+</TEXT>
+</DOC>

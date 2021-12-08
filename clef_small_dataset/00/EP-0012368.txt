@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012368
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-10/00 C08F-2/02 C08F-2/34 C08F-210/02 C08F-2/00 C08F-210/00 C08F-8/00 <main>C08F-210/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of ethylene copolymers.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 38 67063 ludwigshafen de <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+boettcher klaus dr<sep>buechner oskar dr<sep>mietzner franz georg dr<sep>pfleger klaus dr<sep>skorczyk ronald chem-ing<sep>zacher wieland dr<sep>boettcher, klaus, dr.<sep>buechner, oskar, dr.<sep>mietzner, franz georg dr.<sep>pfleger, klaus, dr.<sep>skorczyk, ronald, chem.-ing.<sep>zacher, wieland, dr.<sep>boettcher, klaus, dr.hubertusstrasse 57d-5047 wesselingde<sep>buechner, oskar, dr.sickingenstrasse 4d-6724 dudenhofende<sep>mietzner, franz georg dr.neuhausener weg 3d-6700 ludwigshafende<sep>pfleger, klaus, dr.ottostrasse 6d-5047 wesselingde<sep>skorczyk, ronald, chem.-ing.langemarckstrasse 38d-5300 bonnde<sep>zacher, wieland, dr.lauenburger strasse 2d-5047 wesselingde<sep>boettcher, klaus, dr.<sep>buechner, oskar, dr.<sep>mietzner, franz georg dr.<sep>pfleger, klaus, dr.<sep>skorczyk, ronald, chem.-ing. <sep>zacher, wieland, dr.<sep>boettcher, klaus, dr. hubertusstrasse 57 d-5047 wesseling de<sep>buechner, oskar, dr.sickingenstrasse 4d-6724 dudenhofende<sep>mietzner, franz georg dr.neuhausener weg 3d-6700 ludwigshafende<sep>pfleger, klaus, dr.ottostrasse 6d-5047 wesselingde<sep>skorczyk, ronald, chem.-ing.langemarckstrasse 38d-5300 bonnde<sep>zacher, wieland, dr.lauenburger strasse 2d-5047 wesselingde<sep>
+</INVENTOR>
+<ABSTRACT>
+Ethylene copolymers are continuously by compressing a mixture of ethylene and comono Meren in a pre-compressor (1) and in a subsequent seal (2) and copolymerization of the mixture in a polymerization zone (3) at high temperatures and pressures, transferring the reaction mixture to a high pressure product separation zone (4) and from there in a low pressure product separation zone (5) and into a discharge extruder and recycling of the bulk of the unreacted monomen ren into the polymerization process and a small part of the unreacted gas amount into a low temperature separation zone (8). In this method, a small part of the amount of gas recirculated from the high-pressure product separation zone (4) is introduced into the cryogenic separation zone (8) in which a pressure of 10 to 30 bar and a temperature of - 10 to -50 ° C is biased and the From the never-step pressure-product separation zone (5) withdrawn gas amount remained rest to the pre compressor (1). After the new process, the deposition of the comonomers unreacted in the polymerization process can be improved.
+</ABSTRACT>
+</TEXT>
+</DOC>

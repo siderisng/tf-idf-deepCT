@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001863
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-37/82 <main>C07C-39/16</main> C07C-37/00 B01J-31/00 C07C-39/16 C07C-67/00 C07C-37/20 C07C-39/00 C07C-37/68 C07B-61/00 C07C-27/00 C07C-37/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of bisphenols.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.  <sep>
+</APPLICANT>
+<INVENTOR>
+gautier pieter antoine<sep>kwantes arien<sep>gautier, pieter antoine<sep>kwantes, arien<sep>gautier, pieter antoinebadhuisweg 3nl-1031 cm amsterdamnl<sep>kwantes, arienbadhuisweg 3nl-1031 cm amsterdamnl<sep>gautier, pieter antoine<sep>kwantes, arien<sep>gautier, pieter antoinebadhuisweg 3nl-1031 cm amsterdamnl<sep>kwantes, arienbadhuisweg 3nl-1031 cm amsterdamnl<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the preparation of bisphenols comprising  reacting, in a reaction zone, at least 2 moles of a phenol with a  carbonyl compound, at a temperature of from 40 to 95°c, in  the presence of an acid ion exchanger, optionally partially  modified with a compound having an acidic reacting group  and a mercaptan group, and recovering the bisphenols from  the reaction zone effluent, characterized in that the reaction  zone effluent is contacted with an acid ion exchanger in metal  salt form and/or a weak base ion exchanger.  as a result, it has  been found that the formation of undesirable compounds is  substantially reduced.  
+</ABSTRACT>
+</TEXT>
+</DOC>

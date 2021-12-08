@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011173
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-487/04</main> A61K-31/40 C07D-477/20 C07D-477/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing antibiotic beta-lactam compounds.
+</TITLE>
+<APPLICANT>
+sanraku ocean cojp<sep>sanraku-ocean co., ltd.<sep>sanraku-ocean co., ltd.15-1, kyobashi 1-chome chuo-kutokyojp <sep>sanraku-ocean co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+ishikura tomoyuki  <sep>kato yasuyuki<sep>shimauchi yasutaka<sep>yamada kaoru<sep>yamamoto kenichi<sep>yoshioka takeo<sep>ishikura, tomoyuki<sep>kato, yasuyuki<sep>shimauchi, yasutaka<sep>yamada, kaoru<sep>yamamoto, kenichi<sep>yoshioka, takeo<sep>ishikura, tomoyuki640, kowadachigasaki-shi, kanagawa-kenjp<sep>kato, yasuyukitake-so no. 6 1960, arima takatsu-ku kawasaki-shikanagawa-kenjp<sep>shimauchi, yasutaka101-13, yurigaoka 1-chomeninomiyamachi naka-gun, kanagawa-kenjp<sep>yamada, kaoru2-407, hamamitaira 11-chomechigasaki-shi, kanagawa-kenjp<sep>yamamoto, kenichishonan raifu taun g-2-21120, endo fujisawa-shi, kanagawa-kenjp<sep>yoshioka, takeoayase green haitsu 3-3102 1959, kamitsuchidanaayase-shi, kanagawa-kenjp<sep>ishikura, tomoyuki<sep>kato, yasuyuki<sep>shimauchi, yasutaka<sep>yamada, kaoru <sep>yamamoto, kenichi<sep>yoshioka, takeo  <sep>ishikura, tomoyuki640, kowadachigasaki-shi, kanagawa-kenjp<sep>kato, yasuyukitake-so no. 6 1960, arima takatsu-ku kawasaki-shikanagawa-kenjp<sep>shimauchi, yasutaka101-13, yurigaoka 1-chomeninomiyamachi naka-gun, kanagawa-kenjp<sep>yamada, kaoru2-407, hamamitaira 11-chomechigasaki-shi, kanagawa-kenjp<sep>yamamoto, kenichishonan raifu taun g-2-21120, endo fujisawa-shi, kanagawa-kenjp<sep>yoshioka, takeoayase green haitsu 3-3102 1959, kamitsuchidanaayase-shi, kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+novel antibiotic β-lactam compounds, i. e.  7-­ oxo-1-azabicyclo [3. 2. 0]hept -2-ene-2-carboxylic acid deriva­ tives.  more specifically, this invention relates to compounds  of the following formula     wherein  r₁ represents a hydrogen atom, a methyl group or a hyd­ roxyl group,   r₂ represents a lower alkyl group, a hydroxy lower alkyl  group, a lower alkoxy-lower alkyl group, a lower  alkanoyloxy-lower alkyl group, a cyclohexyl group, a  phenyl group or a 5- or 6-membered aromatic heterocyclic  group containing 1 or 2 nitrogen atoms, and   r₃ represents a hydrogen atom, a lower alkyl group, or a  substituted or unsubstituted aralkyl group containing 7 to  20 carbon atoms,   and the salts thereof; processes for production thereof; use  thereof as antimicrobial agents; and to novel intermediates  for production of the above compounds of formula (i).  
+</ABSTRACT>
+</TEXT>
+</DOC>

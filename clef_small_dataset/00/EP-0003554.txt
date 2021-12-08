@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003554
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/20 C07F-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of preparation of o-alkyl-s-alkyl-dithiophosphoric acid chlorides
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende   <sep>
+</APPLICANT>
+<INVENTOR>
+loeffler hans-peter dr chemde<sep>theobald hans dr chemde<sep>loeffler, hans-peter, dr. chem.<sep>theobald, hans, dr. chem.<sep>loeffler, hans-peter, dr. chem.defreggerstrasse 14d-6700 ludwigshafende<sep>theobald, hans, dr. chem.parkstrasse 2d-6703 limburgerhofde<sep>
+</INVENTOR>
+<ABSTRACT>
+o-alkyl s-alkyl dithiophosphoric acid chlorides are prepared by reaction of salts of o,s-dialkyl dithiophosphoric acid esters with phosphorus pentachloride in the absence of a diluent or solvent.  phosphoric acid ester salts employed here are those which are liquid under the reaction conditions.  according to this process, o-alkyl s-alkyl dithiophosphoric acid chlorides of the formula <image> can be prepared in which r<1> and r<2> are identical or different and denote alkyl radicals having 1 to 4 carbon atoms.  these phosphoric acid chlorides are useful starting substances for the synthesis of insecticidal active substances. 
+</ABSTRACT>
+</TEXT>
+</DOC>

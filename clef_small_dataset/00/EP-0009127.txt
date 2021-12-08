@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009127
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-19/08 H04M-1/60 H04M-9/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for a line-fed loudspeaking telephone station.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+walla klausde<sep>walla, klaus<sep>walla, klausschrimpfstrasse 12d-8035 gautingde<sep>
+</INVENTOR>
+<ABSTRACT>
+In the case of line-transmitted displacement terminal station, a capacitor is connected in parallel to the speech circuit for voltage stabilization. Since the receiving amplifier represents a consumer with a highly fluctuating large current consumption, this capacitor must be moderately large. This results in a long recharge time after switching on, while the transmitter (SV) and the control circuit (SS) are insufficiently work. In the invention, this problem is avoided, in which parallel to the reception amplifier (EV) a first Kon densator (C1) and parallel to the rest of the speech circuit (SV, SS) is arranged a second capacitor (C2) which opposite the first capacitor (C1) is smaller and after switching on the charging process of the first capacitor (C1) only begins when the recharging process of the second capacitor (C2) is completed. The invention is applicable in all line-fueled idle speech stations.
+</ABSTRACT>
+</TEXT>
+</DOC>

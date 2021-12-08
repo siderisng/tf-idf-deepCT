@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001611
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/04 G08B-21/14 G01N-27/12 G08B-17/10 G08B-21/00 G08B-17/117 G08B-21/16 G08B-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for detecting substances and for regulating current
+</TITLE>
+<APPLICANT>
+ads systus<sep>ads systems, inc.<sep>ads systems, inc.12729 lake city wayseattle washington 98125us<sep>
+</APPLICANT>
+<INVENTOR>
+dolan james patrickus<sep>dolan, james patrick<sep>dolan, james patrick8214 42nd avenue northeastseattle washington 98115us<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus and method for detecting liquids, vapors and gases, which includes a conventional detection device (10) operated in a non-linear region or current saturated condition so that it becomes sensitive even to substances having a van der waals' constant "a" of nine or less.  a change in the level of either the current from battery (26) through the detection device (10) or the voltage across the detection device (10) occurs upon exposure of the device (10) to the substance being sensed.  this current or voltage change is then detected by indicating means (28) to indicate the presence of the sensed substance.  the relatively small current or voltage change associated with the detection device (10) may be easily sensed by placing the detection device (10) in a balanced bridge circuit.  further, the bridge circuit enables easy, accurate normalization of the apparatus in a reference environment.  the non-linear characteristics of the detecting device (10) allow it to be employed as a regulator for supplying a constant current to a power consuming device.  
+</ABSTRACT>
+</TEXT>
+</DOC>

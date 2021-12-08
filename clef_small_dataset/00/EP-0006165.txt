@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006165
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B41J-3/04</main> B41J-2/085 B41J-2/075 B41J-2/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of fabricating an array of charge electrodes for a multiple nozzle ink jet printer.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporation old orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+hoffman arthur rowland<sep>lammers gerald bernard<sep>hoffman, arthur rowland<sep>lammers, gerald bernard<sep>hoffman, arthur rowland7676 n. 95th streetlongmont colorado 80501us<sep>lammers, gerald bernardjamestown star rt.boulder colorado 80302us<sep>hoffman, arthur rowland <sep>lammers, gerald bernard  <sep>hoffman, arthur rowland7676 n. 95th streetlongmont colorado 80501us<sep>lammers, gerald bernardjamestown star rt.boulder colorado 80302us<sep>
+</INVENTOR>
+<ABSTRACT>
+a charge electrode array for a multi-nozzle ink jet  array is fabricated from alternate layers of stainless steel  10 and epoxy resin 24.  the charge electrode array may be  formed by positioning the stainless steel tabs 18 in pre­ viously grooved nonconductive substrate 15 formed of  a material such as ceramic.  the grooves 15 are spaced  sufficiently apart to allow the insulating material 24 to be  placed between each stainless steel tab.  alternatively, a  stainless steel plate may be bonded to a nonconductive  substrate.  then the stainless steel can be sliced so that  insulating material can be placed between each stainless  steel strip.  the epoxy resin 24 fills the gap between tabs  or strips forming an insulating layer.  an ink drop charging  passage through each tab or strip is formed by cutting  u-shaped channels 16 through the tips of the tabs or strips,  or alternatively by drilling through the tips of the steel tabs  or strips.  
+</ABSTRACT>
+</TEXT>
+</DOC>

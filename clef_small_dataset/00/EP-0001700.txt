@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001700
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05B-19/02</main> H01H-47/00 G05B-19/05 G06F-7/00 H03K-19/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+controller programmable with logic instructions representative of circuit nodes and elements of a ladder diagram.
+</TITLE>
+<APPLICANT>
+cutler hammer world trade incus<sep>cutler-hammer world trade, inc.<sep>cutler-hammer world trade, inc.4201 north 27th streetmilwaukee wisconsin 53216us<sep>cutler-hammer world trade, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+kintner paul marvin<sep>kintner, paul marvin<sep>kintner, paul marvin9411 north regent roadbayside wisconsinus<sep>kintner, paul marvin<sep>kintner, paul marvin9411 north regent roadbayside wisconsinus<sep>
+</INVENTOR>
+<ABSTRACT>
+a controller for electrical circuit systems and apparatus,  the controller being programmable with logic instructions  representative of circuit nodes of a ladder diagram.  as compared  to the prior art, this controller is simple to program and  does not require any modification of the conventional ladder  diagram.  the controller comprises a store wnm of the logic  values of the circuit nodes and a store ccm of the logic values  of the control coils in the ladder diagram.  the control program  is stored in main memory mm.  processing circuit lc1 is provided  for computing and updating the logic values of the  circuit nodes or control coils based on the previous stored  values and input signals from input circuit ib, and for storing  the updated logic values in the stores wnm and ccm.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006002
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/482 H01L-29/73 H01L-21/306 H01L-21/338 H01L-23/48 H01L-29/40 <main>H01L-21/18</main> H01L-29/423 H01L-29/812 H01L-29/66 H01L-29/417 H01L-21/58 H01L-21/02 H01L-29/80 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of fabricating a field effect transistor.
+</TITLE>
+<APPLICANT>
+secr defence britgb<sep>the secretary of state for defence in her britannic majesty's government of the united kingdom of great britain and<sep>secretary of state for defence in her britannic majesty's gov. of the united kingdom of great britain and northern irelandwhitehalllondon sw1a 2hbgb<sep>the secretary of state for defence in her britannic majesty's government of the united kingdom of great britain and<sep>
+</APPLICANT>
+<INVENTOR>
+hughes brian thomas<sep>redstone reuben<sep>vokes john charles<sep>wight david robert<sep>hughes, brian thomas<sep>redstone, reuben<sep>vokes, john charles<sep>wight, david robert<sep>hughes, brian thomas12 almond drivegamlingay, sandy bedfordshiregb<sep>redstone, reuben18 pasture roadletchworth hertfordshiregb<sep>vokes, john charles11 grasmere avenueharpenden hertfordshiregb<sep>wight, david robert54 whitehall roadhitchin hertfordshiregb<sep>hughes, brian thomas  <sep>redstone, reuben <sep>vokes, john charles<sep>wight, david robert<sep>hughes, brian thomas12 almond drivegamlingay, sandy bedfordshiregb<sep>redstone, reuben18 pasture roadletchworth hertfordshiregb<sep>vokes, john charles11 grasmere avenueharpenden hertfordshiregb<sep>wight, david robert54 whitehall roadhitchin hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of fabricating a field effect transistor comprising  the steps of forming an active layer (5) of semiconductor  material (gaas) over a surface of a first substrate (2) of  semiconductor material (gaas), applying a second substrate  (6) of insulating material, eg glass, over the surface of the  active layer, removing the first substrate so that the active  layer is now supported on the insulating second substrate,  and forming source, drain (9, 10) and gate (12) electrodes  over the free surface of the active layer.  to facilitate removal  of the gaas first substrate by selective etching, a buffer layer  (1) of gaa1as resistant to the gaas etchant, may be formed  between the active layer and the first substrate, which buffer  layer is removed, following removal of first substrate, using  a selective etchant to which the gaas active layer is resistant.   the technique is particularly applicable to high frequency  fets requiring a very thin active channel region interfaced to  a substrate having good insulating properties.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011682
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+A62B-9/02 A62B-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diaphragm for a breath-controlled dosing valve.
+</TITLE>
+<APPLICANT>
+draegerwerk agde<sep>draegerwerk aktiengesellschaft<sep>drägerwerk aktiengesellschaftd-23542 lübeckde<sep>
+</APPLICANT>
+<INVENTOR>
+schlobohm joachim ing gradde<sep>schlobohm, joachim, ing. grad.<sep>schlobohm, joachim, ing. grad.ehmkenberg 12d-2060 bad oldesloede<sep>
+</INVENTOR>
+<ABSTRACT>
+In respiratory protection and ventilator devices, the dosing valve for the breathing gas is breathable.The essential control is the membrane acted upon on one side of the breathing gas and the other side of the ambient medium.It must be flexible and gas-impermeable throughout the possible temperature range of + 80 ° C to -70 ° C.The membrane (5) according to FIG. 1 with the illustration of the metering valve consists, as shown in FIG.Figure 2 shows from a lying on both sides coated insert (10) of which the ambient medium facing out layer (15) consists of a silicone elastomer and the inner layer (14), which was applied to the housing inner (12), ie the breathing gas, a polypropylene oxide rubber.
+</ABSTRACT>
+</TEXT>
+</DOC>

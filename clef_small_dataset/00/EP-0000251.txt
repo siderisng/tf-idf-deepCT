@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000251
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/50 <main>B01D-53/34</main> B01D-53/60 C01B-17/16 C01B-17/26 C01B-17/00 B01D-53/77 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of hydrogen sulfide from sulfur dioxide obtained from flue gas.
+</TITLE>
+<APPLICANT>
+miller ralph<sep>miller, ralph<sep>miller, ralph5 laurel hill drivepleasantville, new york 10570us<sep>miller, ralph<sep>
+</APPLICANT>
+<INVENTOR>
+miller ralph<sep>miller, ralph<sep>miller, ralph5 laurel hill drivepleasantville, new york 10570us<sep>miller, ralph<sep>miller, ralph5 laurel hill drivepleasantville, new york 10570us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention is a process for producing gaseous hydrogen  sulfide in concentrated form from sulfur dioxide  obtained from a dilute gas source, thus purifying the gas  source, by (1) reacting the so₂ with na₂co₃ to form na₂so₃,  (2) reducing the na₂so₃ to na₂s, (3) reacting the na₂s with  nahco₃ to form h₂s and na₂co₃, (4) recycling part of the  na₂co to the so₂ reaction step, (5) reacting the remainder of  the na₂co₃ with co₂ and h₂o to form nahco₃ and (6) recycling  the nahco₃ to the h₂s formation reaction.  nitrogen  oxides may be removed from the gas source at the same  time.  
+</ABSTRACT>
+</TEXT>
+</DOC>

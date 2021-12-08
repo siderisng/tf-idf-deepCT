@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002271
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-1/18 <main>C08F-6/12</main> C08C-2/00 C08C-2/06 C08F-6/00 B01D-1/16 C08F-6/12 C08J-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for drying a polymer.
+</TITLE>
+<APPLICANT>
+phillips petroleum cous<sep>phillips petroleum company<sep>phillips petroleum company5th and keelerbartlesville oklahoma 74004us<sep>phillips petroleum company <sep>
+</APPLICANT>
+<INVENTOR>
+king william robert<sep>king, william robert<sep>king, william robert2115 se skyline placebartlesville oklahomaus<sep>king, william robert<sep>king, william robert2115 se skyline placebartlesville oklahomaus<sep>
+</INVENTOR>
+<ABSTRACT>
+the drying of a polymer solution by the removal of  solvent is accomplished by flashing the polymer solution  while spraying into a bed of substantially dry polymer  particles.  the dryer polymer particles coat the partially dried  solution polymer droplets, and the remaining solvent is  removed by the energy produced from the mechanical  agitation of the bed and the passing of a heated inert gas  through the polymer bed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

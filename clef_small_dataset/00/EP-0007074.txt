@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007074
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03F-3/45 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+amplifier arrangement with suppression of interference signals.
+</TITLE>
+<APPLICANT>
+hellige gmbhde  <sep>hellige gmbh<sep>hellige gmbhpostfach 728 heinrich-von-stephan-strasse 4d-7800 freiburg im breisgaude<sep>
+</APPLICANT>
+<INVENTOR>
+weber horstde<sep>weber, horst<sep>weber, horstweddigen-strasse 6d-7800 freiburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+For common operation in a preferably with a plurality of operational amplifiers (V₁, V₂ ,.,, Vn), the amplifier assembly for a plurality of useful signals to be processed (E₁ E₂ ,.,. en), which are superimposed by a larger interference signal, is provided, the uses signals, for example, to supply physiological measurements for EEG and ECG measurements, to positive inputs (+) of the single amplifier, while the negative inputs (-) each connected to the connection point of a two-resistant voltage divider (R₁, R₂) which are each between the respective amplifier output and a potential reference point (P). This reference potential is determined by the output of another opera tension amplifier (V₄), at the positive input is supplied with a superimposed by the interference signal overlaid reference signal (UE4), while its negative input at the connection point of a two-resistant voltage divider (R₂ ', R₁ ') Is connected between the output of this further operational amplifier and the potential reference point (P). For measuring signal amplifiers, z. B for physiological measurement signals, therefore, the equal time reduction already takes place in the preamplifier stages, so that separate differential levels can be saved for interference signal suppression.
+</ABSTRACT>
+</TEXT>
+</DOC>

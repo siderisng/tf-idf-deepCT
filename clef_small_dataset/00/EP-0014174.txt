@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014174
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-11/00 F15B-11/036 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulic or pneumatic actuator.
+</TITLE>
+<APPLICANT>
+becker & van huellende<sep>becker & van huellen niederrheinische maschinenfabrik gmbh & co.<sep>becker &amp; van hüllen niederrheinische maschinenfabrik gmbh &amp; co.untergath 100d-4150 krefeld de<sep>
+</APPLICANT>
+<INVENTOR>
+claasen karl hermann ing grad de <sep>claasen, karl hermann, ing. grad.<sep>claasen, karl hermann, ing. grad.beethovenstrasse 4d-4130 moers 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+the actuator designed for rapid idle-stroke movements has a rapid-stroke piston and an annular space on the cylinder-base side as well as a working piston which is connected to two piston rods.  the annular space (8) on the cylinder-base side is directly connected by the working piston (1) and passages (10 and 12) to a rapid-stroke piston (4, 26, 31) acting in the working direction and constructed as a hollow piston.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

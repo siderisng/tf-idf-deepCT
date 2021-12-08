@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008969
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12P-19/26 <main>A61K-39/09</main> C12P-19/04 C12R-1/01 A61K-39/40 C12P-19/00 A61K-39/09 C07K-16/12 C12R-1/46 A61K-38/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vaccine and method of making.
+</TITLE>
+<APPLICANT>
+harvard collegeus<sep>president and fellows of harvard college<sep>the president and fellows of harvard college17 quincy streetcambridge, ma 02138us<sep>president and fellows of harvard college<sep>
+</APPLICANT>
+<INVENTOR>
+kasper dennis l<sep>kasper, dennis l.<sep>kasper, dennis l.544 ward streetnewton center massachusetts 02159us<sep>kasper, dennis l.<sep>kasper, dennis l.544 ward streetnewton center massachusetts 02159us<sep>
+</INVENTOR>
+<ABSTRACT>
+culturing streptococcus agalactiae in a nutrient broth  containing at least 10 g/l of glucose while maintaining the  ph at 6-8 by the addition of alkaline material produces  polysaccharide antigen including a fraction having a molecu­ lar size from 8-11 × 10⁵d.  by employing a broth free from  constituents having a molecular size above 10⁵, the antigens  can be separated from the broth in high yield after harvesting  the organisms.  vaccination of humans with streptococcus  agalactiae polysaccharide antigens having molecular sizes  above 5 × 10⁵ produces in selected individuals specific anti­ body levels above 200 µg/ml of antisera; globulins fraction­ ated from such antisera contain most of the antibody and can  be used for passive immunization.  
+</ABSTRACT>
+</TEXT>
+</DOC>

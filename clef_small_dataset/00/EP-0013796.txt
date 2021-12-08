@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013796
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F22B-1/00 F22B-1/06 F28F-1/00 F28F-9/18 F28F-9/00 F28F-9/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat exchanger with leak detecting double wall tubes.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation  <sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>
+</APPLICANT>
+<INVENTOR>
+bieberbach georgeus<sep>bongaards donald jus<sep>duke james milanus<sep>lohmeier alfredus<sep>bieberbach, george<sep>bongaards donald j.<sep>duke, james milan<sep>lohmeier, alfred<sep>bieberbach, george2303 knollwood placetampa floridaus<sep>bongaards donald j.6793 tequesta driveseminole floridaus<sep>duke, james milan1963 tanglewood drive, n.e.st. petersburg floridaus<sep>lohmeier, alfred3426 lacewood roadtampa floridaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a straight shell (3) and tube heat exchanger utilizing  double wall tubes and three tubesheets (9, 11, 13) to en­ sure separation of the primary and secondary fluid and  reliable leak detection of a leak of either the primary or the  secondary fluids.  this ensures that there is no undetected  mixing of the two fluids.  
+</ABSTRACT>
+</TEXT>
+</DOC>

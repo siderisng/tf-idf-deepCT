@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015619
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01J-3/42 <main>G01J-3/42</main> G06G-7/00 G06G-7/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spectrophotometer.
+</TITLE>
+<APPLICANT>
+philips electronic associated gb  <sep>philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited <sep>
+</APPLICANT>
+<INVENTOR>
+barlow derek c o philips elect<sep>perkins charles vincent c o ph<sep>barlow, derek c/o philips electronic and<sep>perkins, charles vincent c/o philips electronic<sep>barlow, derek c/o philips electronic andassociated industries ltd. patent dept. mullard h.torrington place london wc1e 7hdgb<sep>perkins, charles vincent c/o philips electronicand ass. industries ltd. patent dept. mullard h.torrington place london wc1e 7hdgb<sep>barlow, derek c/o philips electronic and<sep>perkins, charles vincent c/o philips electronic  <sep>barlow, derek c/o philips electronic andassociated industries ltd. patent dept. mullard h.torrington place london wc1e 7hdgb<sep>perkins, charles vincent c/o philips electronicand ass. industries ltd. patent dept. mullard h.torrington place london wc1e 7hdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a dual beam spectrophotometer includes signal pro­ cessing circuitry for producing sample-dark and ref-dark  signals.  the dark signals subtracted from the sample and  ref signals are the average of the dark signals produced on  each side of the sample and ref pulses.  the signal processing circuitry may comprise four  sample and hold circuits 604-607 which store the sample,  ref and first and second dark signals, a resistive combining  network r630, r631 for the two dark signals and first 608  and second 609 substractor circuits the first subtractor 608  gives the sample-dark signal at its output while the second  subtractor 609 gives the ref-dark signal at its output.  
+</ABSTRACT>
+</TEXT>
+</DOC>

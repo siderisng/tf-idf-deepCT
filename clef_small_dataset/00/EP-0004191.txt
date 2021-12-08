@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004191
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-1/00 C25B-1/46 <main>C25B-1/46</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+chloralkali electrolytic cell and method for operating same.
+</TITLE>
+<APPLICANT>
+diamond shamrock corpus<sep>diamond shamrock corporation<sep>eltech systems corporationtown executive center 6100 glades road suite 305boca raton florida 33434us<sep>diamond shamrock corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+labarre ronald lowry<sep>labarre, ronald lowry<sep>labarre, ronald lowry19806 bromley lanehuntington beach california 92646us<sep>labarre, ronald lowry<sep>labarre, ronald lowry19806 bromley lanehuntington beach california 92646us<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed are methods of operation for oxygen electrodes  which maximize the power efficiency available from  such oxygen electrodes while minimizing the voltage necessary  to operate such oxygen electrodes.  these methods  include control of the pressure of the gas feed side of the  oxygen electrode, control of the total flow of the gas feed  side, the humidification of the gas feed side of the oxygen  electrode and the elimination of co₂ from the gas feed to the  oxygen electrode to increase the lifetime of such electrodes  as applied to a chlor-alkali electrolytic cell.  
+</ABSTRACT>
+</TEXT>
+</DOC>

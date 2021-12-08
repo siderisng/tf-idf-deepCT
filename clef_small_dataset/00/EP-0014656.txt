@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014656
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-15/09 <main>G01P-15/09</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+piezoelectric accelerometer.
+</TITLE>
+<APPLICANT>
+cartier jean<sep>cartier, jean<sep>cartier, jean1, rue de midorif-78350 les loges en josasfr<sep>cartier, jean<sep>
+</APPLICANT>
+<INVENTOR>
+cartier jean<sep>cartier, jean<sep>cartier, jean1, rue de midorif-78350 les loges en josasfr<sep>cartier, jean  <sep>cartier, jean1, rue de midorif-78350 les loges en josasfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Accelerometer of the mass-spring type comprising in a balancing vibrating mass (2), a spring 3 constituted by at least one hollow piezoelectric element said between the ground (2) and the housing (1), as well asa fixing element (4) passing through the ground (2), attached to the housing (1).In addition, a prestressing element (5) located between the fixing element (4) and a recess arranged in the ground (2) force it towards the housing (1).The Trique 3 piezoelec element which surrounds the mass 2 is then compressed.The point of application of the prestressing force, the center of gravity of the mass (2) are in the same median plane with the piezo-electric spring (3), transverse and perpen of the axis of the housing (1)
+</ABSTRACT>
+</TEXT>
+</DOC>

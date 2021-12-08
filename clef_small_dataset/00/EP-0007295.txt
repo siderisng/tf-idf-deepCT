@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007295
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04C-29/02 F04C-29/00 F04B-39/06 <main>F04C-29/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid-injected compressor device.
+</TITLE>
+<APPLICANT>
+atlas copco abse<sep>atlas copco aktiebolag<sep>atlas copco aktiebolagnackas-105 23 stockholmse<sep>atlas copco aktiebolag<sep>
+</APPLICANT>
+<INVENTOR>
+emanuelsson kaj bengt ingemar<sep>van oorschot gosewinus francis<sep>emanuelsson, kaj bengt ingemar<sep>van oorschot, gosewinus franciscus<sep>emanuelsson, kaj bengt ingemarpieter coudenberglaan 27b-2520 edegembe<sep>van oorschot, gosewinus franciscuszorgvlietstraat 72nl-4834 nj bredanl<sep>emanuelsson, kaj bengt ingemar<sep>van oorschot, gosewinus franciscus  <sep>emanuelsson, kaj bengt ingemar pieter coudenberglaan 27b-2520 edegembe<sep>van oorschot, gosewinus franciscuszorgvlietstraat 72nl-4834 nj bredanl<sep>
+</INVENTOR>
+<ABSTRACT>
+a liquid-injected compressor device for avoiding con­ densation of moisture in the outlet of a compressor is dis­ closed.  the device comprises a control valve which is actu­ ated in opposite directions by two sensors.  one of the sensors  senses the inlet temperature of the compressor and the other  the outlet temperature.  a constant temperature difference is  maintained between the inlet and outlet of the compressor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

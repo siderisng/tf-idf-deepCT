@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001581
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01F-5/06 B01F-3/08 <main>B01F-3/00</main> B29B-1/04 B01F-13/02 B29B-7/74 B29B-7/00 C08G-18/10 B01F-13/00 B01F-3/10 B29B-7/76 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for mixing and spraying reactants.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+brauner dieter<sep>pahl manfred dr<sep>pisaric karl heinz<sep>traubel harro dr<sep>weber karl-arnold dr<sep>brauner, dieter<sep>pahl, manfred, dr.<sep>pisaric, karl heinz<sep>traubel, harro, dr.<sep>weber, karl-arnold, dr.<sep>brauner, dieterweyerstrasse 276d-5650 solingen 19de<sep>pahl, manfred, dr.goethestrasse 57dd-4047 dormagende<sep>pisaric, karl heinzmarderweg 86d-5024 pulheimde<sep>träubel, harro, dr.dresdener strasse 14d-5090 leverkusende<sep>weber, karl-arnold, dr.saarstrasse 59d-5090 leverkusende<sep>brauner, dieter<sep>pahl, manfred, dr.<sep>pisaric, karl heinz <sep>traubel, harro, dr.  <sep>weber, karl-arnold, dr.<sep>brauner, dieterweyerstrasse 276d-5650 solingen 19de<sep>pahl, manfred, dr.goethestrasse 57dd-4047 dormagende<sep>pisaric, karl heinzmarderweg 86d-5024 pulheimde<sep>träubel, harro, dr.dresdener strasse 14d-5090 leverkusende<sep>weber, karl-arnold, dr.saarstrasse 59d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+Fabrics that react with each other in a very short time or stand in extreme quantity and / or viscosity and / or temperature ratios to each other, e.g.b.Polyurethane starting compounds are mixed with gas in a premix chamber (1) and then pass through a short static mixer (13).
+</ABSTRACT>
+</TEXT>
+</DOC>

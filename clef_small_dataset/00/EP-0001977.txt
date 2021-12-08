@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001977
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/04 C07F-1/00 C08F-297/02 C08F-10/00 C07F-1/02 C08F-2/06 C08F-236/10 C08F-4/00 C08F-297/00 C08F-4/48 <main>C07F-1/02</main> C08F-4/42 C08F-36/00 C08F-297/04 C08F-236/00 C08F-12/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+soluble multifunctional lithium containing initiators and their use in a process for polymerisation.
+</TITLE>
+<APPLICANT>
+dow chemical cous  <sep>the dow chemical company<sep>the dow chemical company2030 dow center abbott road p.o. box 1967midland michigan 48640-1967us<sep>the dow chemical company<sep>
+</APPLICANT>
+<INVENTOR>
+beyer douglas earl<sep>lo grace yu-sheng<sep>tung lu ho<sep>beyer, douglas earl<sep>lo, grace yu-sheng<sep>tung, lu ho<sep>beyer, douglas earl5701 leewaymidland michiganus<sep>lo, grace yu-sheng1032 scottmidland michiganus<sep>tung, lu ho401 hunters ridgemidland michiganus<sep>beyer, douglas earl  <sep>lo, grace yu-sheng<sep>tung, lu ho<sep>beyer, douglas earl5701 leewaymidland michiganus<sep>lo, grace yu-sheng1032 scottmidland michiganus<sep>tung, lu ho401 hunters ridgemidland michiganus<sep>
+</INVENTOR>
+<ABSTRACT>
+organic liquid soluble multifunctional lithium containing  initiators are prepared by reacting an organo lithium  compound with an organic compound containing at least  one group of the configuration 1,3-bis(1-phenylethenyl)-benzene.   such initiators can be prepared in the absence  of polar solvents and are very desirable for the polymerization  of dienes such as butadiene to a desirable 1,4 configuration.  
+</ABSTRACT>
+</TEXT>
+</DOC>

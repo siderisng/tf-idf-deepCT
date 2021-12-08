@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007102
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-29/132 C07C-29/141 C08G-65/26 C08G-18/00 C08G-18/48 C08G-65/00 C07C-29/00 C08G-18/65 B01J-23/00 C07B-61/00 C07C-67/00 C08G-4/00 C07C-29/145 C07C-31/18 B01J-25/00 C08G-18/42 C08G-6/00 C07C-31/00 C08G-18/32 C07C-27/00 C07C-29/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing low molecular weight polyhydroxylic compounds and their use
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+moehring edgar drde<sep>mueller hanns peter drde<sep>wagner kuno drde<sep>moehring, edgar, dr.<sep>mueller, hanns peter, dr.<sep>wagner, kuno, dr.<sep>möhring, edgar, dr.hufer weg 49ad-5060 bergisch-gladbach 2de<sep>müller, hanns peter, dr.berta-von-suttner-strasse 40d-5090 leverkusen 1de<sep>wagner, kuno, dr.am kiesberg 8d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present patent application claims an improved method for hydrogenation of low molecular weight hydroxydehydes, hydroxycetones and polyvalent alcohols as originating in the self-condensation of formaldehyde, characterized in that in a first stage at a pH of 7.5 to 12.5is hydrogenated, wherein the content of the reactor filling at reducible groups is the value of 2 wt.-% must not exceed, then the reaction mixture is adjusted to a pH of 3 to 7 and adhaled in a second stage at this pH at another hydrogenation catalyst than in the first stage.The patent application further claims the use of the process products according to the invention for the preparation of polyurethane imbalances, polyether and polyester polyols, and nonionic surfactants.
+</ABSTRACT>
+</TEXT>
+</DOC>

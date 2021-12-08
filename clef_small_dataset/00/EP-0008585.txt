@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008585
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B64C-27/00 F16F-7/116 F16F-7/10 <main>F16F-7/00</main> F16F-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vibration absorber and use thereof in a helicopter.
+</TITLE>
+<APPLICANT>
+united technologies corpus<sep>united technologies corporation<sep>united technologies corporationunited technologies building 1, financial plazahartford, ct 06101us<sep>united technologies corporation<sep>
+</APPLICANT>
+<INVENTOR>
+lavoie edward<sep>mard kenneth chris<sep>vonhardenberg paul warren<sep>washburn sylvester john<sep>lavoie, edward<sep>mard, kenneth chris<sep>vonhardenberg, paul warren<sep>washburn, sylvester john<sep>lavoie, edward23, ridgewood drivemilford, connecticut 06460us<sep>mard, kenneth chris160, wilbrook roadstratford, connecticut 06497us<sep>vonhardenberg, paul warrenr.f.d. 2southbury, connecticut 06488us<sep>washburn, sylvester john28, lopus road extensionbeacon falls, connecticut 06403us<sep>lavoie, edward<sep>mard, kenneth chris  <sep>vonhardenberg, paul warren <sep>washburn, sylvester john<sep>lavoie, edward23, ridgewood drivemilford, connecticut 06460us<sep>mard, kenneth chris160, wilbrook roadstratford, connecticut 06497us<sep>vonhardenberg, paul warrenr.f.d. 2southbury, connecticut 06488us<sep>washburn, sylvester john28, lopus road extensionbeacon falls, connecticut 06403us<sep>
+</INVENTOR>
+<ABSTRACT>
+a fixed frequency vibration absorber (10) adapted to be  fixedly mounted in a fixed vibration prone system.  the vibra­ tion absorber is of the pendular-type with two dynamic mas­ ses (11, 12) suspended in pendular fashion from a base  member (20), and with at least one coil spring (18) acting upon  the masses to establish and linearize the vibration absorber  natural frequency.  
+</ABSTRACT>
+</TEXT>
+</DOC>

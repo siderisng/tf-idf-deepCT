@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001421
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-23/00 C08L-27/00 C08L-1/00 C08K-5/00 <main>C08K-5/37</main> C08L-101/00 C08K-5/37 C08L-27/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+use of mercaptans for the heat-stabilisation of thermoplastic polymers containing halogen.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag  <sep>
+</APPLICANT>
+<INVENTOR>
+abeler gerd dr<sep>schneider rainer dr<sep>abeler, gerd, dr.<sep>schneider, rainer, dr.<sep>abeler, gerd, dr.wilhelm-leuschner strasse 235d-6103 griesheim über darmstadtde<sep>schneider, rainer, dr.grafenstrasse 8d-6140 bensheim-auerbachde<sep>abeler, gerd, dr.<sep>schneider, rainer, dr.<sep>abeler, gerd, dr.wilhelm-leuschner strasse 235d-6103 griesheim über darmstadtde<sep>schneider, rainer, dr.grafenstrasse 8d-6140 bensheim-auerbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+Chlorine-containing thermoplastics, in particular PVC, can nen by synergistic mixtures of a) a Merkap Tan of the formula R (CH₂SH) ₂, wherein N is 2 to 4 and R represents an n-certified aromatic radical, and b) containing epoxy-containing plasticizer against Thermidamage is stabilized.
+</ABSTRACT>
+</TEXT>
+</DOC>

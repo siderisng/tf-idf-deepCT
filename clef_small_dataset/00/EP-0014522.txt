@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014522
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B32B-15/14 C09J-123/26 C09J-123/00 B32B-15/08 B32B-15/04 B32B-5/00 B32B-15/085 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+formable fibre-reinforced metal laminates and methods for making them.
+</TITLE>
+<APPLICANT>
+ici ltdgb  <sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>
+</APPLICANT>
+<INVENTOR>
+allen william john georgegb<sep>brewster iangb<sep>allen, william john george<sep>brewster, ian<sep>allen, william john george96 clifford roadnew barnet hertfordshiregb<sep>brewster, ian56 rotchell roaddumfries dumfriesshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+laminates of metal foil (1) (e. g.  stainless steel) and long  (at least 20 mm) silicate fibre (3) containing metal ions (e. g.   glass fibres) are made by bonding the foil to the fibres using a  layer (2) of a copolymer of an α-olefin and a carboxylic acid  (preferably a graft copolymer of polypropylene and acrylic,  methacrylic or maleic acid or anhydride).  optionally, the  laminates contain a layer 10 of polyolefin.  preferably, the fibre  becomes embedded in the copolymer and/or polyolefin dur­ ing lamination.  the use of long fibres produces greater impact  strengths.  
+</ABSTRACT>
+<DESCRIPTION>
+formable fibre-reinforced metal laminates and methods for making them this invention relates to formable fibre-reinforced metal laminates bonded using acid modified polyolefins and to methods for making them. at least since 1973, the need to conserve energy has stimulated attempts to reduce the weight of metal components of vehicles, especially motor cars and in theory lighter components could be made from metal laminates. british patent specification 1 367 662 (published in 1974) suggested the possibility of making motor vehicle components from laminates of stainless steel foil and acid modified polypropylene comprising graft copolymerised acrylic acid. the acid modified polypropylene was optionally reinforced by glass or asbestos fibre and although 1 367 662 does not specify the length'of fibre to be used, the fibres traditionally used in commercial reinforced polyolefins are short (i.e. up to 6 mm or 0.25 inches long) as indicated by steinkamp et al (spe journal june 1973 pages 34 to 37) where glass fibres 0.25 inches long are used to reinforce polyolefins which have been modified with acid to improve their affinity for the fibres. a similar disclosure occurs in west german patent specification 2 028 014 (published in 1972) except that 2 028 014 prefers copolymers of ethylene and acrylic acid and states expressly that the glass fibres are 2 to 20 mm long. metal laminates comprising acid modified polyolefins reinforced by short glass fibres have only a poor impact resistance and they have not found significant use in the construction of vehicles. their poor impact resistance is not surprising because thin section glass-reinforced polypropylene mouldings of large area are known to have poorer impact resistances than corresponding unreinforced mouldings (see "'propathene' pp134" second edition pages 6 and 7 published by imperial chemical industries limited in 1977). in 1971, the motor vehicle industry was offered a more impact resistant commercially formable sheet comprising polypropylene reinforced by continuous glass fibre. such sheet is described by fazzari et al in spe journal september 1972 volume 28 pages 38 to 42, the contents of which are herein incorporated by reference. fazzari et al do not disclose that the sheet remains formable when laminated to metal foil. instead they disclose the application of metal surfaces after the sheet has been formed. this invention provides a formable fibre-reinforced metal laminate comprising a metal foil 0.01 to 1 (preferably 0.05 to 0.4) mm thick bonded to a matrix of silicate fibre containing metal ions by means of acid modified crystalline poly-oolefin containing from 0.5 to 15 (preferably 2 to 8)% by weight of the modified polyolefin of carboxylate (coo) groups provided by copolymerised (preferably graft copolymerised) monomer characterised in that the matrix comprises fibre having a minimum length of over 20 mm. the invention also provides a method of making the laminate which comprises contacting one surface of a layer of acid modified polyolefin in which the carboxylate groups form part of acid, acid anhydride and/or acid salt groups with a surface of the metal foil and also contacting the acid modified
+</DESCRIPTION>
+<CLAIMS>
+claims    1. a formable fibre-reinforced metal laminate comprising a metal foil 0.01 to 1 mm thick bonded to a matrix of silicate fibre containing metal ions by means of acid modified crystalline   poly4-olefin    containing from 0.5 to 15% by weight of the modified polyolefin of carboxylate groups provided by copolymerised monomer characterised in that the matrix comprises fibre having a minimum length of over 20 mm.    2. a laminate as claimed in claim 1 which comprises an additional layer of thermoplastics material, the additional layer being bonded to the acid modified polyolefin.     3. a laminate according to claim 2 wherein at least some of the fibre is present in the additional layer.    4. a laminate according to any one of the preceding claims'comprising at least two opposed metal toils with one or more matrices sandwiched between them.    5. a method for making the laminate of claim 1 wherein the method comprises contacting one surface of a layer of acid modified polyolefin in which the carboxylate groups form part of acid, acid anhydride and/or acid salt groups with a surface of the metal foil and also contacting the acid modified polyolefin with the matrix of fibre under conditions of temperature and pressure sufficient to bond the foil to the acid modified polyolefin and the acid modified polyolefin to the matrix.  
+</CLAIMS>
+</TEXT>
+</DOC>

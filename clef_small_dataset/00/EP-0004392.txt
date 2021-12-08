@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004392
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01D-25/28 F16M-1/04 <main>F01D-25/28</main> F01K-9/00 F01K-11/00 F01K-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+supporting device for a turbine and a condenser.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciech<sep>bbc brown, boveri & cie. (aktiengesellschaft)<sep>bbc aktiengesellschaft brown, boveri &amp; cie.haselstrassech-5401 badench<sep>bbc aktiengesellschaft brown, boveri & cie.<sep>
+</APPLICANT>
+<INVENTOR>
+kaelber gunter<sep>kaelber, gunter<sep>kaelber, günterbollenrain 535ch-5413 birmenstorfch<sep>kaelber, gunter<sep>kaelber, günterbollenrain 535ch-5413 birmenstorfch<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to reduce the action of the dynamic loads on the machine parts of a turbine and their foundations, according to FIG.1 is a formation of the fastening device, in which the turbine (1) and the capacitor (2) are attached to a common foundation table (6), wherein the foundation table (6) for supports (8), which to a support structure, for example to building partsbelonging, resiliently stored and a flexible connection (4) is provided between turbine (1) and capacitor (2).
+</ABSTRACT>
+</TEXT>
+</DOC>

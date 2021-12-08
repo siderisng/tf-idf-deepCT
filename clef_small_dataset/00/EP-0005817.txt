@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005817
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+slide projector.
+</TITLE>
+<APPLICANT>
+rollei werke franke heideckede<sep>rollei-werke franke & heidecke gmbh + co kg<sep>rollei-werke franke &amp; heidecke gmbh + co kgsalzdahlumer strasse 196d-3300 braunschweigde  <sep>
+</APPLICANT>
+<INVENTOR>
+sobotta reinhard ing gradde<sep>stiller arminde<sep>sobotta, reinhard, ing. grad.<sep>stiller, armin<sep>sobotta, reinhard, ing. grad.schreiberkamp 9d-3300 braunschweigde<sep>stiller, arminenzianweg 3d-3300 braunschweigde<sep>
+</INVENTOR>
+<ABSTRACT>
+in still image projectors it is possible to vary automatically both the stationary period and also, in the case of projectors provided with a dissolve facility, the dissolve period of the slides to be projected.  contacts (20) are fitted to the magazine guide (12), which contacts are short-circuited by short-circuit parts (21) on a magazine wall (31).  the stationary period and the dissolve period respectively are determined from the value of the resistance of the resistors belonging to these short-circuit parts (21) in the interior of the projector. 
+</ABSTRACT>
+</TEXT>
+</DOC>

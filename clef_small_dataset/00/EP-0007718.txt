@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007718
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-15/04 C07C-5/50 C07C-45/00 C07C-45/38 B01J-31/00 C07C-49/403 B01J-31/18 C07B-31/00 B01J-31/26 C07C-5/367 C07C-1/00 B01J-31/16 C07B-61/00 C07C-67/00 C07F-9/53 C07C-5/00 <main>C07B-3/00</main> B01J-31/22 C07C-49/413 C07C-49/00 C07F-9/00 C07B-33/00 C07C-15/00 C07C-45/29 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxidation process using metal nitro complex.
+</TITLE>
+<APPLICANT>
+allied corpus<sep>allied corporation<sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.)morristown new jersey 07960us<sep>allied corporation<sep>
+</APPLICANT>
+<INVENTOR>
+diamond samuel elliot<sep>mares frank<sep>tovrog benjamin samuel<sep>diamond,samuel  elliot<sep>mares, frank<sep>tovrog, benjamin samuel<sep>diamond,samuel elliot171 main street apartment 53madison new jersey 07940us<sep>mares, frank32 valley forge drivewhippany, new jersey 07981us<sep>tovrog, benjamin samuel96, gloucester roadparsippany new jersey 07054us<sep>diamond,samuel  elliot<sep>mares, frank<sep>tovrog, benjamin samuel<sep>diamond,samuel elliot171 main street apartment 53madison new jersey 07940us<sep>mares, frank32 valley forge drivewhippany, new jersey 07981us<sep>tovrog, benjamin samuel96, gloucester roadparsippany new jersey 07054us<sep>
+</INVENTOR>
+<ABSTRACT>
+a new liquid phase oxidation process in which a metal  nitro complex transfers an oxygen atom from the nitro ligand  to a substrate; especially such process conducted cyclically or  catalytically using molecular oxygen as the oxygen source.   metal nitrosyl complex is formed as a coproduct together with  an oxidation product of the substrate.  in a catalytic process,  molecular oxygen maintains a concentration of nitro ligand in  the reaction mixture.  in a cyclic process, nitrosyl ligand of the  metal nitrosyl coproduct is reoxidized by molecular oxygen in  presence of a monodentate base such as pyridine to nitro  ligand; and the nitro complex, thus regenerated, can be used  again to oxidize the substrate.  in particular the metal is a  group viii metal, especially cobalt and the nitro complex is  pyridine cobalt nitro saloph.  to accelerate oxidation of the  substrate at given temperature, a cocatalyst is included in the  reaction mixture, e. g. , an organic complex of a transition  metal such as mo(vi), pd(ii), or a compound of a trivalent  metallic element with an element of group vii, such as the  compound bf₃.  
+</ABSTRACT>
+</TEXT>
+</DOC>

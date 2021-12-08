@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007696
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/41 A01N-43/26 A61K-31/425 A01N-43/64 C07D-213/00 C07D-277/00 A61K-31/415 C07D-215/38 A01N-43/90 A01N-43/50 C07D-233/84 A01N-43/78 C07D-215/00 C07D-473/00 C07D-277/18 <main>C07D-405/14</main> C07D-249/00 C07D-521/00 C07D-213/74 C07D-233/00 C07D-277/42 C07D-295/00 C07D-249/14 C07D-473/06 A61K-31/335 C07D-295/28 A01N-43/60 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heterocyclic derivatives of (4-(piperazin-1-yl-phenyloxymethyl)-1.3.-dioxolan-2-ylmethyl)-1h-imidazoles and -1h-1.2.4-triazoles, their preparation and use as fungicides and bactericides.
+</TITLE>
+<APPLICANT>
+janssen pharmaceutica nvbe<sep>janssen pharmaceutica n.v.<sep>janssen pharmaceutica n.v.turnhoutsebaan 30b-2340 beersebe<sep>janssen pharmaceutica n.v.<sep>
+</APPLICANT>
+<INVENTOR>
+heeres jan<sep>hendrickx robert<sep>heeres, jan<sep>hendrickx, robert<sep>heeres, janleemskuilen 18b-2350 vosselaarbe<sep>hendrickx, robertst. corneliusstraat 60b-2340 beersebe<sep>heeres, jan<sep>hendrickx, robert<sep>heeres, janleemskuilen 18b-2350 vosselaarbe<sep>hendrickx, robertst. corneliusstraat 60b-2340 beersebe<sep>
+</INVENTOR>
+<ABSTRACT>
+1 h-imidazole and 1h-1,2,4-triazole derivatives which  may structurally be represented by the formula:    and the pharmaceutically acceptable acid addition salts and  stereochemically isomeric forms thereof, wherein:  is a member selected from the group consisting of ch and  n;   ar is a member selected from the group consisting of phenyl,  thienyl, halothienyl and substituted phenyl; and y is an  optionally substituted mono- or binuclear nitrogen-­ containing heteroaromatic radical.  the compounds are useful  as antifungal and antibacterial agents.  
+</ABSTRACT>
+</TEXT>
+</DOC>

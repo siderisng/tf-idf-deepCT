@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006474
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/04 H01L-21/822 H01L-27/08 H01L-29/66 H01L-29/78 H01L-29/8605 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of compensating for the voltage coefficient of ion-implanted or diffused semiconductor resistors.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation <sep>international business machines corporationold orchard roadarmonk, n.y. 10504 us  <sep>
+</APPLICANT>
+<INVENTOR>
+ballatore danielfr<sep>delaporte francoisfr<sep>lebesnerais gerardfr<sep>nuez jean-paulfr<sep>ballatore, daniel<sep>delaporte, francois<sep>lebesnerais, gerard<sep>nuez, jean-paul<sep>ballatore, danielquartier le figueret pont du loupf-06620 le bar sur loupfr<sep>delaporte, françoisle cros saint pierre 19 avenue des mimosasf-06800 cagnes/merfr<sep>lebesnerais, gérard9, rue des prés saint-germain s/ecole77 930-perthes en gatinaisfr<sep>nuez, jean-paul34 avenue des coquelicotsf-91540 mennecyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Method of correcting the voltage coefficient of semiconductor resistors diffused or implanted and resistors thus obtained. The method consists in producing a metal electrode (21), above a resistive region (14) passivated by a dielectric layer (15) and formed in an electrically isolated portion of an epitaxial layer (12). This metal electrode is related to the appropriate unpainting, so that the voltage coefficient caused by the overallment layer to the pn junction (20 ') due to the potentials V1 and V2 is compensated by the opposite voltage coefficient caused by The enrichment effect due to the presence of the polarized metal electrode. In a variant, the resistance will be divided into a plurality of permanent resistance isolated from each other. Application to the Fa Braction of linear resistors formed by ion implantation for analog circuits of the type used in the telephone switching.
+</ABSTRACT>
+</TEXT>
+</DOC>

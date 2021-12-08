@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010415
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-33/02 C25D-9/00 H01L-31/20 H01G-9/20 C25D-5/50 C25D-9/08 H01L-31/18 <main>C25D-3/54</main> H01G-9/00 C25D-13/02 C25D-5/48 H01L-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for producing a semiconductor film.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company  <sep>
+</APPLICANT>
+<INVENTOR>
+amick james albert<sep>bucker edward richard<sep>amick, james albert<sep>bucker, edward richard<sep>amick, james albert76 leabrook laneprinceton, new jerseyus<sep>bucker, edward richard807 springfield avenuecranford, new jerseyus<sep>amick, james albert<sep>bucker, edward richard<sep>amick, james albert76 leabrook laneprinceton, new jerseyus<sep>bucker, edward richard807 springfield avenuecranford, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides a method of producing a stabilized  photoconducting semiconductor film by electroplating  onto a cathode body.  the film is of amorphous silicon containing  hydrogen.  a solution (16) of a halogenated silane, and/or  silicon halide, in an aprotic solvent containing a tetrabutylammonium  salt is electroysed, in a nitrogen atmosphere,  using a platinum anode (20) and nichrome cathode  (26).  the plated cathode is removed to a nitrogen-containing  chamber (128), and the chamber purged with helium or hydrogen.   cathode (26) is then removed to a heating chamber  (30) and heated in the presence of helium or hydrogen at  above 250°c, preferably 350°c for thirty minutes.  the silicon  film is thereby stabilized chemically and physically.  subsequently,  a pellucid layer of high work function, for example of  platinium, iridium or palladium, can be deposited on the thus  stabilized film to produce a photovoltaic device.  
+</ABSTRACT>
+</TEXT>
+</DOC>

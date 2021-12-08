@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003115
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-275/02 A61P-31/00 C07D-499/68 C07D-335/00 C07D-333/00 C07D-335/06 C07D-501/20 C07D-499/64 C07D-311/22 C07D-499/66 C07D-501/30 C07D-495/00 C07D-275/00 C07D-499/12 C07D-311/00 C07D-275/03 C07D-495/04 C07D-499/00 C07D-513/04 A61K-31/545 C07D-333/34 A61K-31/546 A61P-31/04 C07D-513/00 C07D-501/00 C07D-499/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+penicillins, per se and for use as antibacterially active antibiotics and their production.
+</TITLE>
+<APPLICANT>
+sandoz agch <sep>sandoz ag <sep>sandoz aglichtstrasse 354002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+fliri hans drat<sep>hamberger helmut drat<sep>scholz dieter drat<sep>stuetz peter drat<sep>fliri, hans, dr.<sep>hamberger, helmut, dr.<sep>scholz, dieter, dr.<sep>stuetz, peter, dr.<sep>fliri, hans, dr.weissenthurngasse 20a-1120 viennaat<sep>hamberger, helmut, dr.josef-kyrlegassse 4-6a-1130 viennaat<sep>scholz, dieter, dr.schelleingasse 2/4a-1040 viennaat<sep>stütz, peter, dr.nästlbergergasse 15a-1130 viennaat<sep>
+</INVENTOR>
+<ABSTRACT>
+pencillins and cephalosporins of formula i,    in which r₁ is hydrogen or pivaloyloxymethyl,   r₂ is phenyl, 4-hydroxyphenyl or 1,4-­ cyclohexadien-1-yl,   r₃ is hydrogen, lower alkyl or lower alkylthio,   r₄ and r₅, which may be the same or different, are  hydrogen, lower alkyl, hydroxy, lower alkoxy,   carboxyl, lower alkoxycarbonyl, lower alkoxycarbonylmethyl,  carboxymethyl or halogen,   a is the group    in which r₆ is  hydrogen or lower alkyl,   b is oxygen of sulphur,   x is a group of formula iia or iib,    in which r₇ is hydrogen, acetoxy or a group of  formula iic,    and ring d is a 5- or 6-membered, unsaturated  ring,   which may contain one or more hereto atoms, and salts of  compounds of formula i, in which r₁ is hydrogen, methods  for their production and their anti-bacterial use.  
+</ABSTRACT>
+</TEXT>
+</DOC>

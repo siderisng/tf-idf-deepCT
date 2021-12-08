@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005415
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22B-3/00 C22B-15/12 <main>C25F-7/02</main> C22B-3/26 C23F-1/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process of regenerating an ammoniacal etching solution.
+</TITLE>
+<APPLICANT>
+mx processer reinhardtse<sep>mx processer reinhardt & co ab  <sep>pumex innovation aktiebolagkraketorpsgatan 20s-431 33 möllndalse<sep>pumex innovation aktiebolag<sep>
+</APPLICANT>
+<INVENTOR>
+ottertun harald daniel<sep>reinhardt hans<sep>ottertun, harald daniel<sep>reinhardt, hans<sep>ottertun, harald danielkakelösagatan 53mölndalse<sep>reinhardt, hansgrässkärsgatan 1v:a frölundase<sep>ottertun, harald daniel<sep>reinhardt, hans  <sep>ottertun, harald daniel kakelösagatan 53mölndalse<sep>reinhardt, hansgrässkärsgatan 1v:a frölundase<sep>
+</INVENTOR>
+<ABSTRACT>
+a process is described for regenerating a spent  ammoniacal etching solution containing copper values.  the  process comprises extracting copper from the spent etching  solution by means of an organic solution containing a reagent  which is capable of selectively extracting copper ions from the  spent etching solution.  the process also comprises extracting  copper from the washing water originating from the etching  process.  
+</ABSTRACT>
+</TEXT>
+</DOC>

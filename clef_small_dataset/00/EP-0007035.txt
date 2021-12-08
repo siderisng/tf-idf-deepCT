@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007035
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-10/02 C08F-8/20 C08L-23/32 C08L-23/00 <main>C08F-8/20</main> C08F-8/34 C08F-8/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for increasing the molecular weight of chlorinated polyethylene and/or chlorinated ethylene-vinylacetate-copolymer.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+beck manfred dr<sep>gobel wilhelm dr<sep>beck, manfred, dr.<sep>gobel, wilhelm, dr.<sep>beck, manfred, dr.auf dem krahwinkel 5d-5074 odenthal-hahnenbergde<sep>göbel, wilhelm, dr.max-beckmann-strasse 37d-5090 leverkusen 1de<sep>beck, manfred, dr. <sep>gobel, wilhelm, dr.<sep>beck, manfred, dr.auf dem krahwinkel 5d-5074 odenthal-hahnenbergde<sep>göbel, wilhelm, dr.max-beckmann-strasse 37d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The molecular weight of chlorine-containing elastomers is increased by adding sulfur compounds before or during the chlorination of elastomers.
+</ABSTRACT>
+</TEXT>
+</DOC>

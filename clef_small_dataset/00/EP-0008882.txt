@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008882
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 C10G-49/00 C07C-7/12 B01D-53/047 B01D-53/04 C07C-7/00 <main>B01D-53/04</main> C01B-3/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+separation of multicomponent gas mixtures by pressure swing adsorption.
+</TITLE>
+<APPLICANT>
+air prod & chemus<sep>air products and chemicals, inc.<sep>air products and chemicals, inc.p.o. box 538allentown, pennsylvania 18105us<sep>air products and chemicals, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+sircar shivaji<sep>sircar, shivaji<sep>sircar, shivaji913 benton streetallentown, pennsylvania 18103us<sep>sircar, shivaji<sep>sircar, shivaji913 benton streetallentown, pennsylvania 18103us<sep>
+</INVENTOR>
+<ABSTRACT>
+separation of multicomponent gas mixtures by pressure  swing adsorption.  the multicomponent mixtures contain a  primary and a secondary key component and a tertiary component  which is present in a concentration less than either  the primary or secondary key component and which is more  strongly sorbed than both these key components.  the selective  adiabatic pressure swing cyclic adsorption system, for  the separate recovery of high purity primary and secondary  key components, comprises different steps applicable to the  various adsorption trains, each containing a vessel a and a  vessel b.  these different steps are:   (1) adsorption (both vessels a and b);   (2) high pressure rinse (vessel b), pressure equalization and  repressurization (vessel a);   (3) depressurization (vessel b), purge (vessel a);   (4) evacuation (vessel b), optional purge (vessel a);   (5) repressurization (vessel b), pressur equalization and repressurization  (vessel a).  an example is the treatment of effluent gas from a hydrodesulphurization  plant after removal of the sulphur,  wherein hydrogen (primary key component) and methane  (secondary key component) are separately recovered and  substantially freed of c₂ + hydrocarbons (tertiary component)  present in such effluent gas.  
+</ABSTRACT>
+</TEXT>
+</DOC>

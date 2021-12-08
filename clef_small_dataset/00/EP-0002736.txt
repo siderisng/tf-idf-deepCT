@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002736
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/04 G03B-27/50 G03B-27/52 <main>G03B-27/52</main> G02B-13/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+exposure arrangement for copying apparatuses.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde <sep>agfa-gevaert aktiengesellschaft camera-werk<sep>agfa-gevaert ag kaiser-wilhelm-allee d-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+feneberg paul<sep>kirchhof gunther<sep>konigl georg<sep>schatz anton<sep>feneberg, paul<sep>kirchhof, gunther<sep>konigl, georg<sep>schatz, anton<sep>feneberg, paulam weiher 21d-8035 buchendorfde<sep>kirchhof, güntherenzianring 68d-8021 taufkirchende<sep>königl, georgzacharias-werder-strasse 14d-8000 münchen 60de<sep>schätz, antonsachranger strasse 12d-8000 münchen 90de<sep>feneberg, paul<sep>kirchhof, gunther<sep>konigl, georg <sep>schatz, anton  <sep>feneberg, paulam weiher 21d-8035 buchendorfde<sep>kirchhof, güntherenzianring 68d-8021 taufkirchende<sep>königl, georgzacharias-werder-strasse 14d-8000 münchen 60de<sep>schätz, antonsachranger strasse 12d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+In a single lenses (L₁-L₃) arranged by inguinal lenses (L₁-L₃), during the imaging projecting relative to the template (V) and the copy (K) movable exposure arrangement for copying devices, an intermediate image plane of the imaging system is disposed between image mask (B) whose apertures Shape and size of the image fields of the single lens arrangements Be Voices. In order to avoid the formation of over- or underexposed strips in the limit circuits of the frame fields in the case of tolerance-related mutual displacements, the field fields, the apertures have lateral boundaries, which are below a determination th angle (α) relative to the solder to the direction of movement (V) run. The apertures can be formed by triangles, diamonds, trapezoids or six corners or have a lateral limit curved, for example, in the form of a sin² or cos² curve.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003162
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-13/719 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical connector with filters.
+</TITLE>
+<APPLICANT>
+amp inc us <sep>amp incorporated (a new jersey corporation)<sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>
+</APPLICANT>
+<INVENTOR>
+hollyday robert davidus<sep>hollyday, robert david<sep>hollyday, robert david712 linden roadhershey pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrical connector comprises a housing (1); containing  an electrically conductive ground plate member  having a plurality of tubular filter members secured in  individual holes therein; and a plurality of electrical terminals  (13) each passing through an individual one of the filter  members (12), each terminal (13) having two oppositely  directed contact portions (14, 15) of mutually mateable form,  whereby the connector can be interposed between a pair of  mateable electrical connectors (100, 200) to provide filtering  on electrical circuits passing through the mateable electrical  connectors (100, 200).  
+</ABSTRACT>
+</TEXT>
+</DOC>

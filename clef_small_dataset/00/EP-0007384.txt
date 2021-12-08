@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007384
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04N-3/14</main> H01L-27/148 H04N-5/335 H01L-31/10 H01J-29/45 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+one-dimensional ccd-sensor with overflow device.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+herbst heiner dr<sep>herbst, heiner, dr.<sep>herbst, heiner, dr.am see 2d-8013 haarde<sep>herbst, heiner, dr.<sep>herbst, heiner, dr.am see 2d-8013 haarde<sep>
+</INVENTOR>
+<ABSTRACT>
+On a doped semiconductor body (1), a linear series MIS capacitors (2) (sensor elements) are arranged separated by a potential threshold for the optically generated minority carriers in the habiter body. The pot of tail threshold can z. b. produced by a Field Shield electrode (14). The sensor elements are coupled alternately by transfer gates (3, 8) with CCD shift registers (7, 12). According to the invention, each sensor element is followed on the narrow side of each sensor element which is opposite to the corresponding transfer gate, an opposite doped overflow drain (15, 16) which is contacted with an overflow Lectrode (17). Each overflow drain is separated from the sensoral elements by a potential for the mino rectal carriers, which is smaller than the potential threshold between the sensor elements itself. To adjust the potential threshold, a different thickness of the oxide layer (20), a different doping and / or parts of the Field Shield electrode serve. As a result, an overflow (anti-blooming) device is installed in a sensor of high packing density for electronic bil detection.
+</ABSTRACT>
+</TEXT>
+</DOC>

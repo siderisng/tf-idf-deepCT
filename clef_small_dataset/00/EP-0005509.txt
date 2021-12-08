@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005509
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-307/68</main> C07D-307/68 C07D-307/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of o-methyl-n-cyclohexyl-2,5-dimethyl-3-furanhydroxamic acid.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf agde<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+girgensohn bjoern dr<sep>linhart friedrich dr<sep>mueller hans richard dr <sep>schulte wolfgang dr<sep>girgensohn, bjoern, dr.  <sep>linhart, friedrich, dr.<sep>mueller, hans richard, dr.<sep>schulte, wolfgang, dr.<sep>girgensohn, bjoern, dr.neckarpromenade 38d-6800 mannheimde<sep>linhart, friedrich, dr.leisberg 61d-6900 heidelbergde<sep>mueller, hans richard, dr.an der tuchbleiche 9d-6712 bobenheim-roxheimde<sep>schulte, wolfgang, dr.barbarossastrasse 9d-6733 hasslochde<sep>girgensohn, bjoern, dr.<sep>linhart, friedrich, dr.<sep>mueller, hans richard, dr.<sep>schulte, wolfgang, dr. <sep>girgensohn, bjoern, dr. neckarpromenade 38 d-6800 mannheimde<sep>linhart, friedrich, dr.leisberg 61d-6900 heidelbergde<sep>mueller, hans richard, dr.an der tuchbleiche 9d-6712 bobenheim-roxheimde<sep>schulte, wolfgang, dr.barbarossastrasse 9d-6733 hasslochde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the preparation of 0-methyl-n-cyclohexyl-2,5-dimethylfuran-3-hydroxamic acid by reacting n-cyclohexylhydroxylamine or its hydrochloride with 2,5-dimethylfuran-3-carboxylic acid chloride in the presence of an organic solvent and of an alkaline compound and methylating the hydroxamic acid in the presence of water and alkali, characterized in that n-cyclohexylhydroxylamine is reacted with 2,5-dimethylfuran-3-carboxylic acid chloride in the presence of water, a liquid hydrocarbon and an inorganic alkaline compound, the resulting n-cyclohexyl-2,5-dimethylfuran-3-hydroxamic acid is converted, by treating the reaction mixture with an aqueous alkali metal hydroxide solution, to an aqueous solution of its alkali metal salt, the compound is then methylated in this solution and the 0-methyl-n-cyclohexyl-2,5-dimethylfuran-3-hydroxamic acid thus prepared is isolated from the aqueous solution by means of a water-immiscible organic solvent. 
+</ABSTRACT>
+</TEXT>
+</DOC>

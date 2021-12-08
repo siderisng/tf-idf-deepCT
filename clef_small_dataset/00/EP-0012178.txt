@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012178
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-7/42 <main>C07D-263/56</main> C07D-413/00 A61K-7/06 C07D-263/57 A61K-39/10 A61Q-17/04 C07D-263/00 C07D-413/10 A61K-8/49 A61K-8/30 C07D-263/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+benzoxazol derivatives, methods for their preparation, cosmetic compositions containing such compounds, use of such compounds as uv-a filters and method of protecting the skin and hair and method of stabilizing cosmetic compositions.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>richardson-vicks, inc.ten westport roadwilton, ct 06897us<sep>richardson-vicks, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+poncioni bruno dr<sep>poncioni, bruno, dr.<sep>poncioni, bruno, dr.unterwartweg 29ch-4132 muttenzch<sep>poncioni, bruno, dr.<sep>poncioni, bruno, dr.unterwartweg 29ch-4132 muttenzch<sep>
+</INVENTOR>
+<ABSTRACT>
+Described are benzoxazole derivatives of the general formula wherein R is hydrogen or alkyl with 1 to 4 carbon atoms in 5- or 6-position and R¹ and R² hydrogen, alkyl with 1 to 4 carbon atoms or a group (XO) NH, where X is a optionally by methyl or ethyl substituted ethylene group with 2 to 4 carbon atoms and n are an integer of 1 to 10, wherein at least one of the symbols R¹ and R² is different from hydrogen, or R¹ and R² together with the nitrogen atom to which they are linked are to form a 5- to 7-membered, saturated ring, which contains a further heteroatom, e.g. b. 2- (p-dimethylaminophenyl) benzoxazole-5-sulfonic acid, and salts of these compounds, methods for their preparation, e.g. b. By reacting an O-aminophenolderi vate of the formula with an NR¹R²-substituted benzoic acid or by sulfonating the corresponding benzoxazole derivative, as well as the use of such benzoxazole derivatives (I) in cosmetic agents as UV-A filters and stabilizers.
+</ABSTRACT>
+</TEXT>
+</DOC>

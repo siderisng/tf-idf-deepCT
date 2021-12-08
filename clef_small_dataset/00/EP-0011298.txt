@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011298
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02M-3/00 F02M-3/08 F02M-17/00 F02M-9/08 F02M-33/00 F02M-33/04 F02M-9/00 F02M-17/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diaphragm carburettor with rotary throttle valve.
+</TITLE>
+<APPLICANT>
+walbro far eastjp<sep>walbro far east, inc.<sep>walbro far east, inc.925 higashi 2-chome shin-marukonakahara-ku kawasaki city, 211jp<sep>
+</APPLICANT>
+<INVENTOR>
+kobayashi hirotojp<sep>kobayashi, hiroto<sep>kobayashi, hiroto21-3, 1-chome tsunishikamakura-shi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+an all-position carburetor having an air fuel mixing pas­ sage with a rotary throttle valve (14) rotatably disposed in the  carburetor body (12) across the mixing passage.  the throttle  valve has an opening therethrough to provide a venturi pas­ sage (26) in conjunction with the mixing passage.  a by-pass  groove (30,32) is formed in the outer surface of the rotary  valve (14) on the bearing surface (28) of the body to allow fuel  which might otherwise accumulate in a pocket, in certain  positions of the carburetor, to flow into the main air fuel  mixture, thus avoiding overrich conditions when the car­ buretor is turned from one position to another.  
+</ABSTRACT>
+</TEXT>
+</DOC>

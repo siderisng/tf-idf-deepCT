@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001096
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-64/00 C08K-5/02 C08K-5/09 C08K-5/36 C08K-5/00 C08K-5/42 <main>C08L-69/00</main> C08L-69/00 C08G-64/06 C08G-64/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flame retardant polycarbonate blends.
+</TITLE>
+<APPLICANT>
+mobay chemical corpus<sep>mobay chemical corporation<sep>mobay chemical corporationpenn lincoln parkway westpittsburgh, pennsylvania 15205us<sep>mobay chemical corporation<sep>
+</APPLICANT>
+<INVENTOR>
+baron arthur l<sep>sivaramakrishnan parameswar<sep>baron, arthur l.<sep>sivaramakrishnan, parameswar<sep>baron, arthur l.211 east thistle courtnew martinsville w. virginia, usa 26155us<sep>sivaramakrishnan, parameswar159 fairview drivenew martinsville w. virginia, usa 26155us<sep>baron, arthur l.<sep>sivaramakrishnan, parameswar<sep>baron, arthur l.211 east thistle courtnew martinsville w. virginia, usa 26155us<sep>sivaramakrishnan, parameswar159 fairview drivenew martinsville w. virginia, usa 26155us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a halogen-containing copolycarbonate mixture which has improved critical thickness and improves flame retardancy and fire resistance and contains the reaction product of an aromatic diphenol, an aromatic thiodiphenol and a carbonate derivative such as phosgene or carbonyl bromide in a mixture with an effective amount of a halogen-containing compound.In a preferred embodiment, the copolycarbonate mixture also contains small amounts of walls perfluorosulfonic acid or carboxylic acid salt.
+</ABSTRACT>
+</TEXT>
+</DOC>

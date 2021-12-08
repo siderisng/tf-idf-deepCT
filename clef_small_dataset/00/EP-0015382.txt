@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015382
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09K-11/447 C09K-11/70 C09K-11/71 C09K-11/64 C09K-11/75 C09K-11/42 C09K-11/63 H01J-29/20 <main>C09K-11/08</main> C09K-11/44 C09K-11/08 C09K-11/74 C09K-11/59 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+luminescent material based on manganese-activated zinc silicate and process for its preparation.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+chang ifay fay<sep>shafer merrill wilbert<sep>chang, ifay fay<sep>shafer, merrill wilbert<sep>chang, ifay fay2 ridgewood terracechappaqua, n.y. 10514us<sep>shafer, merrill wilbert105 loder roadyorktown heights, n.y. 10598us<sep>chang, ifay fay<sep>shafer, merrill wilbert<sep>chang, ifay fay2 ridgewood terracechappaqua, n.y. 10514us<sep>shafer, merrill wilbert105 loder roadyorktown heights, n.y. 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+Luminescent fluorescent on the basis of gan doped zinc silicate with a part of the silicon sub stumes by ion pairs from the groups IIIa and VA of the periodic system so that the willemite structure remains.The phosphor contains Zn2-Ymnysi1-2x (Z) 2xO₄, where Z is selected from the group AIP, GaAs, BP, GAP, BAS and AIA and Y ≦ is 0.25 and x ≦ 0.5
+</ABSTRACT>
+</TEXT>
+</DOC>

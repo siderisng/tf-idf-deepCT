@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003511
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-3/00 G03B-17/30 <main>G03B-17/26</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+roll-film cassette with a blocking device for the end of the film.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+altmann erik<sep>kluczynski achim<sep>altmann, erik<sep>kluczynski, achim<sep>altmann, erikdusterweg 38d-4330 mühlheim/ruhrde<sep>kluczynski, achimim eichholz 6d-5063 overathde<sep>altmann, erik  <sep>kluczynski, achim <sep>altmann, erikdusterweg 38d-4330 mühlheim/ruhrde<sep>kluczynski, achimim eichholz 6d-5063 overathde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a rolling film cassette consisting of a coilless storage chamber and a winding chamber connected by a web with this beaming chamber in which a coil of the exposed filmstrips and the protective paper strip are wound.To prevent the feeding of the film strip end in the take-up chamber, a resilient element is attached to the cartridge rear wall so that it engages in a film hole and blocate the film channel to the winding chamber.
+</ABSTRACT>
+</TEXT>
+</DOC>

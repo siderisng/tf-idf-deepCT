@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011886
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-1/00 <main>C25B-1/26</main> C25B-1/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of oxy-halogenated acids and their salts by electrolysis.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde<sep>metallgesellschaft ag<sep>metallgesellschaft agpostfach 10 15 01, reuterweg 14d-60015 frankfurtde<sep>metallgesellschaft ag<sep>
+</APPLICANT>
+<INVENTOR>
+lohrberg karl dipl-ing<sep>lohrberg, karl, dipl.-ing.<sep>lohrberg, karl, dipl.-ing.breslauer strasse 1d-6056 heusenstammde<sep>lohrberg, karl, dipl.-ing.  <sep>lohrberg, karl, dipl.-ing. breslauer strasse 1d-6056 heusenstammde<sep>
+</INVENTOR>
+<ABSTRACT>
+In methods for obtaining chlorine oxygen acids or their salts by electrolysis of seawater or unruly metal ion-containing salt solutions, difficulties occur due to magnifying deposits. For the purpose of avoiding the approach formation, in a derar method, the electrolytic cell is operated as long with uninniguous seawater or uncleaned salt solution, up to the electrodes a layer of compounds of the vernunizing metal ions, in particular calcium carbonate and / or magnesium hydroxide, in a sufficient and a current efficiency of is deposited more than 90%, and then the calcium and / or magnesium ions contained in the uninucleated salt water or in the uncleaned saline solution are by the addition of sodium hydroxide and / or calcium hydroxide and sodium carbonate at a pH of over 9 completely or Partly precipitated, the precipitation products optionally separated and the purified solution of the electrolysis cell fed.
+</ABSTRACT>
+</TEXT>
+</DOC>

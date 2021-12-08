@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008632
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07D-5/00 G07D-5/10 G03B-27/62 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coin tester.
+</TITLE>
+<APPLICANT>
+autelca agch<sep>autelca ag <sep>ascom autelca agworbstrasse 201ch-3073 gümligen ch  <sep>
+</APPLICANT>
+<INVENTOR>
+furer heinzch<sep>furer, heinz<sep>furer, heinzbreitenweg 12ch-3604 thunch<sep>
+</INVENTOR>
+<ABSTRACT>
+an elastic sensor (19) acting on a piezoelectric element (27) projects into the coin channel (1).  the sensor (19) senses the edge of the coins (24) which have the diameter of the coins of an acceptable type.  during the up-and-down movement of the sensor (19) on a knurled coin edge, the piezoelectric element (27) generates an alternating-current signal.  coins are accepted depending on whether the alternating-current signal occurs.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005689
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-25/28 C07D-405/04 A61K-31/451 A61P-9/04 A61K-31/495 C07D-211/76 A61K-31/4427 A61K-31/535 C07D-227/00 C07D-223/10 C07D-403/00 C07D-405/00 A61K-31/4353 C07D-207/27 C07D-223/00 C07D-405/12 C07D-211/00 C07D-227/08 A61K-31/4523 C07D-401/06 A61K-31/40 C07D-207/28 C07D-413/06 A61K-31/4355 A61K-31/445 <main>C07D-227/087</main> C07D-403/06 A61K-31/4025 A61K-31/341 A61P-25/00 C07D-211/70 A61P-9/00 A61K-31/443 A61K-31/4015 C07D-207/00 C07D-207/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lactam-n-acetic acids, their amides, process for their preparation and therapeutic compositions containing them.
+</TITLE>
+<APPLICANT>
+ucb sabe<sep>u c b, s.a.<sep>u c b, s.a.326, avenue louise, bte 7b-1050 bruxellesbe<sep>ucb sabe<sep>u c b, s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+marchal lucien<sep>rodriguez ludovic<sep>marchal, lucien<sep>rodriguez, ludovic<sep>marchal, lucien44, rue du cours d'eaub-1428 lilloisbe<sep>rodriguez, ludovic12, clos dandoyb-1180 bruxellesbe<sep>marchal, lucien<sep>rodriguez, ludovic<sep>marchal, lucien44, rue du cours d'eaub-1428 lilloisbe<sep>rodriguez, ludovic12, clos dandoyb-1180 bruxellesbe<sep>
+</INVENTOR>
+<ABSTRACT>
+New lactam-n-acetic acids and their amides, their preparation processes and therapeutic compositions.These compounds meet the formula in which R₁ and R₂ = H, alkyl, aryl or halogen-substituted aryl;R₃ = Oh or -nr₄r₅, R₄ and R₅ = H, C₁-C₄ alkyl, cycloalkyl, aralkyl or nitrogen heterocycle;M = 3, 4 or 5 and N = O, 1 or 2. The alpha- (hydroxyalkyl) acids -lactam-n-acetics and their amides (n = 1 or 2) are prepared by reaction of an alkaline metal derivativea lactam with an alphabromolactone, followed by hydrolysis, respectively of the aminolysis of the lactone obtained;Alpha-hydroxy-lactam-n-acetic acids (n = O) are obtained by reaction of glyoxylic acid with lactam;The corresponding amides by condensation of acids or their esters with a nitrogen compound.These compounds include an activity on the mneetic processes and cardiac activity.
+</ABSTRACT>
+</TEXT>
+</DOC>

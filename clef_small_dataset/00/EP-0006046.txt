@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006046
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-11/34 C25D-11/36 <main>C25D-11/36</main> C25D-11/02 C25D-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+use of a solution for forming protective layers on zinc surfaces by electrolysis.
+</TITLE>
+<APPLICANT>
+chaffoteaux et mauryfr<sep>chaffoteaux et maury<sep>chaffoteaux &amp; maury11 bis, rue lerouxf-75116 parisfr<sep>chaffoteaux et maury<sep>
+</APPLICANT>
+<INVENTOR>
+jardy alain<sep>rosset robert<sep>jardy, alain<sep>rosset, robert<sep>jardy, alain97, av. aristide briandf-92120 montrougefr<sep>rosset, robert50, rue de la tourf-75016 parisfr<sep>jardy, alain<sep>rosset, robert  <sep>jardy, alain 97, av. aristide briandf-92120 montrougefr<sep>rosset, robert50, rue de la tourf-75016 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the protection of zinc surfaces by protecting coating deposition.The method according to the invention comprises forming a pyrophosphate coating by electrolytic oxidation of the objects treated in contact with a solution containing pyrophosphate ions or ions capable of giving pyrophosphates.The invention is particularly useful for the protection of galvanized objects in contact with aqueous media.
+</ABSTRACT>
+</TEXT>
+</DOC>

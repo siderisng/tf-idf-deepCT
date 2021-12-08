@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013484
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08B-13/14 G08B-13/22 G08B-13/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+alarm system and method for detecting the movement of an object away from a predetermined position.
+</TITLE>
+<APPLICANT>
+lawrence security services ltdgb<sep>lawrence security services ltd<sep>lawrence security services ltd26 harrison streetlondongb  <sep>
+</APPLICANT>
+<INVENTOR>
+goggin stephen frederickgb<sep>rogers groby warringtongb<sep>goggin, stephen frederick<sep>rogers, groby warrington<sep>goggin, stephen frederickc/o lawrence security services ltd25 harrison street london wc1h 8jggb<sep>rogers, groby warringtonc/o lawrence security services ltd26 harrison street london wc1h 8jggb<sep>
+</INVENTOR>
+<ABSTRACT>
+alarm system and method for detecting the movement of  an object away from a predetermined position, such an object  being typically an item on display in a shop or a door in a  closed position.  the alarm system comprises a sensing circuit (12) which  includes two electrical conductors (10, 11) spaced from but  adjacent each other and adjacent to the predetermined posi­ tion to be occupied by at least one item (15 - 18) when in use.   the sensing circuit (12) includes a signal generator respon­ sive to the capacitance present between the two conductors  (10, 11) to provide a first output condition indicative of a  substantially constant capacitance value present between the  electrodes due to the undisturbed presence of the item (15 -  18) and to provide a second output condition indicative of a  change in capacitance value due to the disturbance of the item  or items (15 - 18) present.  the output of the sensing circuit (12)  is received by an alarm actuating circuit (13) which causes  actuation of an alarm element (6) when the output condition  from the sensing circuit (12) changes significantly to cause the  actuating circuit (13) to trigger due to the movement of the  item (15 - 18) from its predetermined position.  
+</ABSTRACT>
+</TEXT>
+</DOC>

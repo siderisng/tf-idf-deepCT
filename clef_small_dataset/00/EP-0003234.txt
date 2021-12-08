@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003234
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-3/06 H04L-25/08 H03H-7/01 H04L-25/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device for non-linear equalization on sequences of digital signals.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecom it <sep>cselt centro studi e laboratori telecomunicazionis.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>
+</APPLICANT>
+<INVENTOR>
+tamburelli giovanniit<sep>tamburelli, giovanni<sep>tamburelli, giovannistr. val san martino inf. 81/5turinit<sep>
+</INVENTOR>
+<ABSTRACT>
+the process for equalizing digital signals according to  the invention comprises the steps of: estimating a first time a  pulse sequence or the individual pulses of the sequence,  taking into account the whole sequence, whereby pulses or  pulse sequences scarcely or not at all affected by distortions  due to postcursors are obtained; obtaining from the estimated  pulses or pulse sequences signals for the compensation  at least of the precursors of the pulses of the sequence,  and combining said compensation signals with the pulses to  be equalized, delayed by the time necessary for the estimation  and the determination of the correction signals.  the  invention concerns also the device for carrying out the  process.  
+</ABSTRACT>
+</TEXT>
+</DOC>

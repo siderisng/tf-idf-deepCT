@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015031
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-7/00 <main>G11B-5/09</main> H04L-7/02 G11B-20/14 H04L-7/033 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for synchronizing clock signals by means of incoming serial data signals.
+</TITLE>
+<APPLICANT>
+philips nvde<sep>philips patentverwaltungde<sep>n.v. philips' gloeilampenfabrieken<sep>philips patentverwaltung gmbh<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips patentverwaltung gmbhröntgenstrasse 2422335 hamburgde<sep>n.v. philips' gloeilampenfabrieken<sep>philips patentverwaltung gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+ginsberg martin<sep>janak miloslav dipl-ing<sep>reiners albrecht<sep>ginsberg, martin,<sep>janak, miloslav, dipl.-ing.<sep>reiners, albrecht<sep>ginsberg, martin,heinrich-heine-strasse 16d-5244 daadende<sep>janak, miloslav, dipl.-ing.1472 lewiston drivesunnyvale california 94087us<sep>reiners, albrechtim steingarten 11d-5900 siegen 1de<sep>ginsberg, martin,<sep>janak, miloslav, dipl.-ing. <sep>reiners, albrecht<sep>ginsberg, martin, heinrich-heine-strasse 16 d-5244 daaden de <sep>janak, miloslav, dipl.-ing.1472 lewiston drivesunnyvale california 94087us<sep>reiners, albrechtim steingarten 11d-5900 siegen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+When reading serial data signals, for example from floppy discs, at the beginning of the read operation, a synchronized state between the local oscilla tor (15) of the reading device and the clock information in the data flow should be achieved quickly. When the initial synchronization is reached, the post-regulation of phase and frezig must only be done slowly because the times to which the real signal transitions occur may have a large scattering over the nominal times. Therefore, during a synchronization process, both at each state transition of the medium as well as at further times, the phase comparator (11) is each supplied with an element of a reading clock pulse train (DC). Further, the clock (15) to be synchronized (15) is supplied with DOP Pelter bit frequency (control clock pulse train) with DOP pelter bit frequency to the other input of the phase gene (11). As a result, during the syn chronization process, the phase comparisons are carried out in the poor sequence, so that the low-pass filter (13) can have a high limit frequency downstream of the phase comparator (11). After reaching the synchronization, a phase comparison takes place only once per databit, and also the low-pass filter (13) is switched to a lower cutoff frequency.
+</ABSTRACT>
+</TEXT>
+</DOC>

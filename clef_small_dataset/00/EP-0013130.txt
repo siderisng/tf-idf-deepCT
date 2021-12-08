@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013130
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-39/24 <main>H01L-39/22</main> H01L-39/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of producing josephson elements of the tunneling junction type.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited  <sep>
+</APPLICANT>
+<INVENTOR>
+suzuki hideo<sep>suzuki, hideo<sep>suzuki, hideo28-9, tsunashimahigashi 5-chome kohoku-kuyokohama-shi, kanagawa 223jp<sep>suzuki, hideo<sep>suzuki, hideo28-9, tsunashimahigashi 5-chome kohoku-kuyokohama-shi, kanagawa 223jp<sep>
+</INVENTOR>
+<ABSTRACT>
+in a method of producing a josephson element of the  tunneling junction type comprising the steps of forming the  first electrode (13) by utilizing a photoresist film, forming a  barrier oxide (14) film on the first electrode by an rf oxygen  glow discharge process and forming the second electrode  (17) immediately after deposition of a super-conductor mater­ ial film for the first electrode film (13) the superconducting  material film is oxidized in an apparatus for depositing the  superconducting material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

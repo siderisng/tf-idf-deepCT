@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007993
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/14 H01L-21/60 H05K-1/18 H01L-23/522 H01L-21/768 H01L-23/538 H01L-23/12 H01L-23/52 H01L-21/02 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+conductor plate for mounting and electrically connecting semiconductor chips.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+kiemle horst drde<sep>kiemle, horst, dr.<sep>kiemle, horst, dr.ammerseestrasse 29d-8021 neuriedde<sep>
+</INVENTOR>
+<ABSTRACT>
+conductor board (2) for mechanically supporting and electrically connecting unencapsulated semiconductor chips (1).  in order to make a high packing density possible, the same material is chosen for the substrate (2) of the conductor board as for the substrate (1) of the semiconductor chips.  this enables very fine wiring structures to be achieved and thermal stresses to be avoided.  the invention can be used for logical aggregates in general and for memories in particular.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

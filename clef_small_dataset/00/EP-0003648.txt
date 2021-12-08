@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003648
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-303/00 C07D-213/00 C07D-239/00 C07D-239/34 A01N-43/54 C07C-311/00 A01N-41/00 A01N-43/48 C07C-67/00 C07C-301/00 A01N-43/34 A01N-41/06 C07D-213/61 C07D-213/643 A01N-43/40 C07C-303/40 C07D-213/64 C07D-213/73 C07C-311/51 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+4-aryloxy-substituted phenoxypropionamide derivatives useful as herbicides, compositions containing them, and processes for making them
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>
+</APPLICANT>
+<INVENTOR>
+cartwright davidgb<sep>salmon rogergb<sep>cartwright, david<sep>salmon, roger<sep>cartwright, david1 stonehaven drive woodleyreading berkshiregb<sep>salmon, roger29 arncliffe wildridingsbracknell berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+herbicidal compounds of the formula:  <chem>  and salts thereof wherein r<1> is a pyridyl group of the formula:  <chem>  a phenyl group of the formula:  <chem>  or a pyrimidinyl group of formula:  <chem>  wherein x is halogen or optionally fluorine-substituted c1-c4-alkyl and y is hydrogen, halogen, or optionally fluorine-substituted c1-c4-alkyl; w is halogen or cf3 and z is hydrogen or one or more halogen atoms; q is halogen, or cf3; r<2> is alkyl of 1 to 6 carbon atoms, optionally fluorine-substituted; and r<3> is hydrogen or alkyl of 1 to 4 carbon atoms.  
+</ABSTRACT>
+</TEXT>
+</DOC>

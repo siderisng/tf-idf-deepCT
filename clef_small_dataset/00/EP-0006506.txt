@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006506
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-37/00 A61P-37/08 <main>C07D-401/12</main> A61K-31/495 C07D-215/22 C07D-215/26 C07D-215/227 A61K-31/4704 C07D-401/00 C07D-215/00 C07D-401/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+carbostyrile derivatives, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbh de  <sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+friebe walter-gunar dr<sep>kampe wolfgang dr<sep>roesch androniki dr<sep>wilhelms otto-henning dr<sep>winter werner dr<sep>friebe, walter-gunar, dr.<sep>kampe, wolfgang, dr.<sep>roesch, androniki, dr.<sep>wilhelms, otto-henning, dr.<sep>winter, werner, dr.<sep>friebe, walter-gunar, dr.oberstrasse 13d-6100 darmstadtde<sep>kampe, wolfgang, dr.zedernstrasse 49d-6805 heddesheimde<sep>roesch, androniki, dr.am oberen luisenpark 22d-6800 mannheimde<sep>wilhelms, otto-henning, dr.odenwalstrasse 25/2d-6941 weinheim-rittenweierde<sep>winter, werner, dr.mannheimerstrasse 9d-6148 heppenheimde<sep>friebe, walter-gunar, dr.<sep>kampe, wolfgang, dr.<sep>roesch, androniki, dr. <sep>wilhelms, otto-henning, dr.<sep>winter, werner, dr.  <sep>friebe, walter-gunar, dr.oberstrasse 13d-6100 darmstadtde<sep>kampe, wolfgang, dr.zedernstrasse 49d-6805 heddesheimde<sep>roesch, androniki, dr.am oberen luisenpark 22d-6800 mannheimde<sep>wilhelms, otto-henning, dr.odenwalstrasse 25/2d-6941 weinheim-rittenweierde<sep>winter, werner, dr.mannheimerstrasse 9d-6148 heppenheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to 1,2-dihydro-quinoline-2-on-derivatives with anti-allergic activity, methods of establishing these compounds as well as these compounds containing these compounds.The preparation of the compounds according to the invention is carried out by reacting hydroxy-1,2-dihydroquinoline-2-one with reactive N-alkyl piperazines or reactive alkoxy-1,2-di hydro-quinoline-2-onen with piperazine derivatives.
+</ABSTRACT>
+</TEXT>
+</DOC>

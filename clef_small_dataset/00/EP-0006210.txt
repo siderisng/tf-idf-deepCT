@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006210
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24D-19/10 F24D-19/00 F24D-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+means for providing heated water by solar energy.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+kreibich ursula drch<sep>schmid rolf drch<sep>kreibich, ursula, dr.<sep>schmid, rolf, dr.<sep>kreibich, ursula, dr.im finstern boden 15ch-4125 riehench<sep>schmid, rolf, dr.weihermattweg 18ch-4460 gelterkindench<sep>
+</INVENTOR>
+<ABSTRACT>
+Device for hot water preparation by means of solar energy, which in addition to a solar collector (K) three on various temperature levels operating heat exchangers (A, B, C) which are connected in series in series, a latent heat storage (5) with crosslinked, partial crystal plastic as a storing medium, various Circlips, valves (1-8), a circulation pump (P) and an electrical function of flow control (ST) comprises whose input variables Tempe are ratur values ​​detected by various temperature sensors (T) in the elements mentioned. The two heat exchanger (B) and (C) operative at the height Ren temperature levels are also a mixed water side via a mixing valve (MV1, MV2) by weight. Depending on the sunlight or temperature of the circulating medium, the thermal thumbs are successively switched on with higher or lower temperature level or COM binations thereof into the medium cycle. Further, overheating protection is provided which manages the circulation medium successively by the heat exchanger with the lower temperature levels with the risk of overheating. Foreign heating loading circuits (34) complete the device for the year-round operation.
+</ABSTRACT>
+</TEXT>
+</DOC>

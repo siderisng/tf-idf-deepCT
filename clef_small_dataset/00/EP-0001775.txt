@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001775
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-18/61 C08J-7/04 C08L-83/04 D21H-1/34 <main>C08L-83/04</main> B05D-5/08 B32B-27/00 C08J-7/00 C08G-77/00 C08G-77/388 D21H-19/32 B05D-7/24 B05D-7/04 D21H-19/00 C08L-83/00 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making adhesive-repellent coatings based on polysiloxane, and their application in the coating of paper.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+buchner werner dr<sep>de montigny armand dr<sep>toepsch hans dr<sep>buchner, werner, dr.<sep>de montigny, armand, dr.<sep>toepsch, hans, dr.<sep>büchner, werner, dr.höhenstrasse 128d-5090 leverkusen 3de<sep>de montigny, armand, dr.walter-flex-strasse 17d-5090 leverkusen 1de<sep>toepsch, hans, dr.am wasserturm 20d-5090 leverkusen 3de<sep>buchner, werner, dr.<sep>de montigny, armand, dr.<sep>toepsch, hans, dr.<sep>büchner, werner, dr.höhenstrasse 128d-5090 leverkusen 3de<sep>de montigny, armand, dr.walter-flex-strasse 17d-5090 leverkusen 1de<sep>toepsch, hans, dr.am wasserturm 20d-5090 leverkusen 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing adhesion reducing coatings to thin-film substrates by applying a solvent-containing mixture made of a) α, ω-polyorganosiloxandiolene, b) Si-H-group-containing organosiloxanes, c) alkyl or alkenyltriacetoxysilanes, d) organic isocyanates having more thanTwo isocyanate residues and E) curing catalysts.The mixture is the reaction product F) of a chloromethyl pololymethylsiloxane of the formula CLCH₂ (CH₃) ₂Si [OSI (CH₃) CH₂Cl] Nosi (CH₃) ₂CH₂Cl, where n can take a value of 2-200, with at most equivalent molar amounts of a primary aminewhose organic residue consists of an alkyl, alkenyl or cycloalkyl radical with 4-18 C atoms.Use of the above mixture for paper coating.
+</ABSTRACT>
+</TEXT>
+</DOC>

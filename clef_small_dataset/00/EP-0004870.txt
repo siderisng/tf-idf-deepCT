@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004870
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-15/02 H01L-27/10 <main>H03H-15/02</main> H01L-29/768 H01L-29/66 H03H-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transversal filter with parallel inputs.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+knauer karl dipl-ing<sep>pfleiderer hans-jorg dr<sep>knauer, karl, dipl.-ing.<sep>pfleiderer, hans-jorg, dr.<sep>knauer, karl, dipl.-ing.am dachsberg 13d-8011 kirchseeonde<sep>pfleiderer, hans-jörg, dr.franz-krinninger-weg 23d-8011 zornedingde<sep>knauer, karl, dipl.-ing.  <sep>pfleiderer, hans-jorg, dr.<sep>knauer, karl, dipl.-ing.am dachsberg 13d-8011 kirchseeonde<sep>pfleiderer, hans-jörg, dr.franz-krinninger-weg 23d-8011 zornedingde<sep>
+</INVENTOR>
+<ABSTRACT>
+Transversal Filter The CTD shift register (4) uses with parallel inputs (2) and these associated evaluation circuits (81, 82, 83) forming evaluation coefficients by multiple reading of signal-dependent charge quantities. The charges reached in the shift register (4) and successively reaching the output stage (AS) are read out serially to form the filtered output signal. An electrical coefficient setting is sought, which ensures a large relative adjustment range at a low need for semiconductor surface. For this purpose, evaluation circuits (81, 82) are provided by their clock voltages via door circuits (51,52) are controlled. The controller takes place depending on a digital comparison between the output signal of a clock voltage pulses counting counter (Z) and signals entered in digital memory (SP1, SP2) and are assigned to the evaluation circuits (81, 82) individually. The digital memory (SP1, SP2) are preferably formed by the stages of a static shift register. The transversal filter is suitable for use as an electrically programmable frequency filter.
+</ABSTRACT>
+</TEXT>
+</DOC>

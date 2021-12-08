@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004174
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22B-9/02 C22C-1/00 <main>C22B-9/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for refining a non-eutectic metal alloy.
+</TITLE>
+<APPLICANT>
+massachusetts inst technologyus<sep>massachusetts institute of technology<sep>massachusetts institute of technology77 massachusetts avenuecambridge, ma 02139us<sep>massachusetts institute of technology  <sep>
+</APPLICANT>
+<INVENTOR>
+flemings merton c<sep>lux andrew l<sep>flemings, merton c.<sep>lux, andrew l.<sep>flemings, merton c.11 hillside avenuecambridge massachusettsus<sep>lux, andrew l.1372 apartment c. whispering pines drivecreve coeur missourius<sep>flemings, merton c.<sep>lux, andrew l.<sep>flemings, merton c.11 hillside avenuecambridge massachusettsus<sep>lux, andrew l.1372 apartment c. whispering pines drivecreve coeur missourius<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for refining a metal by separating at least a  portion of liquid from a solid-liquid composition formed  from the metal comprises heating the metal in a crucible (30)  from the non-equilibrium solidus temperature while forcing  the liquid under pressure through a filter (32).  in the case of  dendritic alloys, dendrites in the solid are converted to a  fine-grain structure.  a homogeneous fine grained metal alloy workpiece can  be produced free of second phases, possessing at least 80%  of the theoretical maximum equilibrium solute content, and  having a thickness of at least 3 mm.  
+</ABSTRACT>
+</TEXT>
+</DOC>

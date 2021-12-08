@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011093
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-7/08 <main>H03K-7/08</main> G01R-19/00 H03K-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mark-to-space ratio pulse modulator.
+</TITLE>
+<APPLICANT>
+landis & gyr agch<sep>lgz landis & gyr zug ag<sep>lgz landis &amp; gyr zug agch-6301 zugch<sep>lgz landis & gyr zug ag <sep>
+</APPLICANT>
+<INVENTOR>
+de vries jacob<sep>de vries, jacob<sep>de vries, jacobfeldbergstrasse 2ch-6311 allenwindench<sep>de vries, jacob <sep>de vries, jacobfeldbergstrasse 2ch-6311 allenwindench<sep>
+</INVENTOR>
+<ABSTRACT>
+The modulator consists of an integrator (M), a comparator (ST), a reference voltage source (Q) with switchable polarity and a resistor (R).A measuring voltage source (RB), which fears a measuring voltage (μm), the reference voltage source (Q) and the resistor (R) form a series circuit that is permanently connected between the integrator (M) and reference potential.At the output of the comparator (ST), a rectangular pane is produced, in which the ratio of the sum to the difference between pulse duration and pause duration of the measuring voltage (μm) per serving and resistor (R) is independent.
+</ABSTRACT>
+</TEXT>
+</DOC>

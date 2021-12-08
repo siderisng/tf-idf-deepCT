@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003125
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25F-3/04 H01G-9/048 H01G-9/055 H01G-9/04 <main>C25F-3/04</main> C25F-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the electrolytic etching of a recrystallised aluminium foil and its application.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+fickelscher horst<sep>fickelscher, horst<sep>fickelscher, horstlukas-cranach-strasse 38d-7920 heidenheimde<sep>fickelscher, horst<sep>fickelscher, horstlukas-cranach-strasse 38d-7920 heidenheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for electrolytic etching of a recrystallized aluminum foil.A recrystallied aluminum foil is roughened by potentiostatic etching.This gives films with particularly high roughing factors.In particular, the etching takes place in two stages, wherein in the first stage, an etching current density above the pitting potential of aluminum is used and the etching with an etching current density takes place below half of the pitting potential.The invention is particularly suitable for etching aluminum foils from which electrolytic capacitors are produced.
+</ABSTRACT>
+</TEXT>
+</DOC>

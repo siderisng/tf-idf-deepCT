@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003868
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21J-15/16 B21J-15/18 B21J-15/14 B21J-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+punching device.
+</TITLE>
+<APPLICANT>
+purpose eng ltd gb <sep>purpose engineers limited<sep>purpose engineers limitedduffield roadlittle eaton, derbyshiregb<sep>
+</APPLICANT>
+<INVENTOR>
+delves elsworth richardgb<sep>delves, elsworth richard<sep>delves, elsworth richardsilverdalelower mackworth village derbyshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a rivetting machine for use with commercial vehicle  brake shoes, the machine having a punch holder (17), an anvil  (16) adjustable in height relative to the punch holder (17), a  sprung rest (15) for a brake shoe, and mechanism for linearly,  operatively moving the punch holder (17), the machanism  comprising a lever (22) actuable by a first pneumatic cylinder  (41) to take up free movement between a punch (18) in the  holder (17) and a brake shoe on the rest (15), and a second  pneumatic cylinder (31) which produces further movement to  effect a working operation on the brake shoe, a safety device  being provided, so that, if, during the free movement, the  punch holder (17) meets resistance, the holder (17) is immediately  retracted.  
+</ABSTRACT>
+</TEXT>
+</DOC>

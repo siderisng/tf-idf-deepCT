@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0013162
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+B27F-7/21 B27F-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in stitchers.
+</TITLE>
+<APPLICANT>
+xerox corp us  <sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>
+</APPLICANT>
+<INVENTOR>
+downing peter malcolmgb<sep>downing, peter malcolm<sep>downing, peter malcolm3 rylstone close cox greenmaidenhead berkshire sl6 3htgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a stitcher including an anvil 104, a former 105 for forming  a length of cut wire about the anvil 104 into a staple, and a  driver 106 for driving the staple.  the anvil is retractable and  acts as a support for the staple during driving.  the anvil is  locked against movement during forming, and movement of  the former 105 acts to release the anvil to permit it to move out  if the path ot the driver 106 during driving while supporting  the staple.  
+</ABSTRACT>
+<DESCRIPTION>
+improvements im stitchers this invention relates to stitchers and perti@ulacly to auch apparatus for binding sets or signn'u of sheets documents. stitchers take various well-known forms. there are those (called staplers) which use pre-formed staples, those using pre-cut lengths of wire which are formed in the machine and those in which the staples are formed from a continuous wire wound on a spool from which pieces are cut and formed in the machine. in each case the legs of the formed staple or stitch are driven through the set until the crown of the staple lies against one face of the set and the ends of the staple legs are bent over against the opposite face cf the t to form clinches. the present invention is concerned with stitchers of the kind in which the staples are formed in the stitcher either from wire stock or from pre-cut wire lengths. when forming a staple from cut wire it is necessary that that portion which is to form the crown of the staple be supported. subsequently this support must be retracted to permit the formed staple to be driven. it is further desirable that the staple be supported during driving since otherwise the resistance of the set may cause the staple to buckle and be improperly driven. in u.s. patent no. 3876129 the cut wire is supported in a swivel while the wire is formed into a staple using a former having grooves to accommodate the legs of the formed staple. the swivel is then acted upon by the driver to release the staple. h separate support member by which in cooperation with the former, the legs of the staple are supported during driving is now moved into position beneath the driver. the support member is spring loaded and is progressively retracted during driving by a bar attached to the driver. in u.s. patent nos 3751961 and 3917145 the same member about which the cut wire is formed acts also to support the staple during driving. as described and shown in ll.s. patent to. 3917145 this arbor or an@il is pivotally mount @ and the st@rle wire is formed about the anvil by a grooved former (the grooves forming supports for the legs of the staple). the anvil is held in position during staple formation by a strong spring and is then pushed out of the way against the spring by the driver as it drives downwardly against the formed staple. during driving the staple is supported by the anvil, the staple crown being supported on the anvil and the staple legs being supported between the former and the anvil. however, although such an arrangement is less complicated and supports the staple during driving using the same member about which the staple is formed, the force available to drive the driver must also be sufficient to overcome the strong resistance of the anvil necessitated by the requirement that the anvil resist movement during the forming step. it is an object of
+</DESCRIPTION>
+<CLAIMS>
+claims:      1. a stitcher insluding en anvi@ (@@@). @ @@@ (@@@) @@@    forming a length of cut wire about th   a@vil      @@@@ @@te @    staple, and a driver (106) for driving the   s@@pie,    said anvil (104) being retractable and acting   a@    a   @@sp@@t    for the staple during driving,   chlracderized    in   that      v^.e    anvil (104) is locked against movement during forming, and movement of the former (105) acts to release the anvil (104) to permit it to move out of the path of the driver (106) during driving while supporting the staple.   2.   a    stitcher according to claim 1 in which the anvil is pivotally mounted and spring-biassed to its forming position.   3. a stitcher according to claim 1 or 2 in which the anvil is held against movement during forming by a   latch    which is acted upon to release the anvil by the former.   4. a stitcher according to claim 3 in which the latch is spring-biassed to its latching position so that as the anvil returns to its forming position at the end of a stitching cycle, the latch re-engages automatically.    5. a stitcher according to claim 1 in which the anvil is held against movement during forming by a geometric lock.   6. a stitcher according to claim 5 in which the anvil has a support arm which is pivotally mounted for rotation about an axis spaced from the anvil in the plane of the force applied to the anvil by the driver during forming.   7. a stitcher according to claim 6 in which the anvil is spring-biassed to its forming position and is released from said geometric lock by a projection on the former   enging    the anvil support arm.     8. a stitcher according to any preceding claim in a finisher for a photocopier having a tray for compiling a   series o@ @hes@s n@@ @@t     
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004888
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/00 G01B-7/312 A61B-5/107 A61C-19/04 G01D-5/12 G01R-33/07 G01B-7/31 A61C-19/045 <main>A61B-5/10</main> G01D-5/14 G01R-33/06 G01B-7/004 G01B-7/28 A61B-5/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for measuring the position, the situation and/or changes in position or situation of a rigid body in a space.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+lewin arthur prof dr<sep>nickel berndt dipl-ing<sep>lewin, arthur, prof. dr.<sep>nickel, berndt, dipl.-ing.<sep>lewin, arthur, prof. dr.university of the witwatersrand 1 jan smuts av.johannesburg 2001za<sep>nickel, berndt, dipl.-ing.goldregenstrasse 2d-6143 lorschde<sep>lewin, arthur, prof. dr.<sep>nickel, berndt, dipl.-ing.<sep>lewin, arthur, prof. dr.university of the witwatersrand 1 jan smuts av.johannesburg 2001za<sep>nickel, berndt, dipl.-ing.goldregenstrasse 2d-6143 lorschde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a pretension for measuring and registering the location, the location and / or the location change of a rigid body in the room using a field generator arranged on the body, preferably a magnetic field generator, with in the distance From the field generator, arranged by the body independent means for detecting the field flow or the field flow change during a measurement and with an electronic device for obtaining and evaluating in a field flow or a field flow change resulting electrical signals. The field generator (3) is formed so that it generates a defined irregular field. For detecting the field flow, several magnetic flux sensors (A, B, C, D, E, F) with magnetic flux-dependent sensor elements (17) are at a distance (A, B, C) are detected in at least two, preferably in three perpendicular to one another. arranged on a carrier (6). The arrangement is also made so that a clearance is formed by the distance (A, B, C) between the magnetic flux receivers (A to F). The device is particularly suitable for use in dentistry for the detection of lower jaw movements in a patient.
+</ABSTRACT>
+</TEXT>
+</DOC>

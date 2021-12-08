@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006627
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/038 G03F-7/022 G03F-7/08 C08L-61/00 C07C-43/00 <main>G03F-7/10</main> C07C-43/14 G03C-1/72 G03F-7/016 C07C-41/00 C07C-67/00 G03F-7/004 C08L-61/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiation-sensitive mixture and process for producing relief images.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+buhr gerhard dr<sep>lohaus gerhard dr<sep>sander jurgen dr<sep>skaletz detlef dr<sep>buhr, gerhard, dr.<sep>lohaus, gerhard, dr.<sep>sander, jurgen, dr.<sep>skaletz, detlef, dr.<sep>buhr, gerhard, dr.am erdbeerstein 28d-6240 königstein/ts.de<sep>lohaus, gerhard, dr.uhlandstrasse 4d-6233 kelkheim/ts.de<sep>sander, jürgen, dr.berliner ring 27d-6233 kelkheim/ts.de<sep>skaletz, detlef, dr.am taubertsberg 4d-6500 mainzde<sep>buhr, gerhard, dr.<sep>lohaus, gerhard, dr.  <sep>sander, jurgen, dr.<sep>skaletz, detlef, dr.<sep>buhr, gerhard, dr.am erdbeerstein 28d-6240 königstein/ts.de<sep>lohaus, gerhard, dr.uhlandstrasse 4d-6233 kelkheim/ts.de<sep>sander, jürgen, dr.berliner ring 27d-6233 kelkheim/ts.de<sep>skaletz, detlef, dr.am taubertsberg 4d-6500 mainzde<sep>
+</INVENTOR>
+<ABSTRACT>
+A radiation-sensitive mixture will be described, which (a) contains a compound and (b), in particular UV light, acid-forming of actinic radiation, in particular UV light, acid, which contains at least one enolate group, and their solubility in a flower developer by the action ofAcid is increased.The enol ether is preferably a compound of general formula I in the R₁ a n-valve alphatic radical having at least 2 carbon atoms, R₂, R₃ and R₄ are the same or different and means hydrogen atoms, alkyl or aryl radicals, or in each case for two to a saturated orOlefinically unsaturated ring are connected, and N is an integer from 1 to 4.The mixture is irradiated in the form of a radiation-sensitive layer as imagewise and washed on the irradiated locations with a developer, so that a positive relief image is formed.
+</ABSTRACT>
+</TEXT>
+</DOC>

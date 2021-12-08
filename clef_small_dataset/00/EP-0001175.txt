@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001175
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-25/00 C07D-401/00 <main>C07D-215/44</main> C07D-215/46 C07D-215/44 A61P-25/04 A61K-31/47 C07D-215/00 A61P-29/00 C07D-401/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+4-aminoquinoline derivatives, a process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+wyeth john & brother ltd gb<sep>john wyeth & brother limited<sep>john wyeth &amp; brother limitedhuntercombe lane south taplowmaidenhead berkshire, sl6 0phgb<sep>john wyeth & brother limited<sep>
+</APPLICANT>
+<INVENTOR>
+archibald john leheup<sep>boyle john terence arnott<sep>archibald, john leheup<sep>boyle, john terence arnott<sep>archibald, john leheup136 springfield roadwindsor berkshiregb<sep>boyle, john terence arnott5 suffolk court vicarage roadmaidenhead berkshiregb<sep>archibald, john leheup  <sep>boyle, john terence arnott<sep>archibald, john leheup136 springfield roadwindsor berkshiregb<sep>boyle, john terence arnott5 suffolk court vicarage roadmaidenhead berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+4-ainoquinoline derivaties having the general formula    and their pharmaceutically acceptable acid addition salts,  wherein x is trifluoromethyl or halogen, z is hydrogen,  halogen, lower alkyl, lower alkoxy, nitro, di(lower alkyl) amino  or trifluoromethyl and r is a group having one of the formulae    -nr¹-a-nr²r³ (vi)   and    wherein r¹ is hydrogen or lower alkyl, r² is lower alkyl, r³ is  lower alkyl and a is lower alkylene, are disclosed.  the  4-aminoquinoline derivatives may be prepared by acylation  of an amine rh or an activated derivative thereof with an acid  (formula iv, r = oh) or a reactive derivative thereof or by  reacting aniline substituted on the ring by z and -cor to  introduce the 8-(trifluoromethyl or halo) -4-quinolyl radical.   the 4-aminoquinoline derivatives show analgesic activity  and, in some cases, anti-inflammatory activity and may therefore  be included in pharmaceutical compositions containing a  pharmaceutically acceptable carrier.  
+</ABSTRACT>
+</TEXT>
+</DOC>

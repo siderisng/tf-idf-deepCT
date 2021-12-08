@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010429
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-57/03 C07C-57/00 C07C-45/00 B01J-23/28 C07C-47/22 B01J-23/31 B01J-23/88 B01J-23/652 C07B-61/00 C07C-67/00 B01J-23/36 C07C-51/00 B01J-23/54 C07C-57/055 B01J-27/14 B01J-27/186 B01J-23/34 B01J-23/30 B01J-23/76 B01J-23/16 B01J-27/18 B01J-23/24 B01J-23/68 <main>B01J-23/24</main> C07C-47/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for preparing an oxidation catalyst containing a molybdate anion.
+</TITLE>
+<APPLICANT>
+air prod & chemus<sep>air products and chemicals, inc.<sep>air products and chemicals, inc.p.o. box 538allentown, pennsylvania 18105us<sep>air products and chemicals, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+chelliah daniel<sep>chelliah, daniel<sep>chelliah, daniel1460 slade avenuecolumbus, ohio 43220us<sep>chelliah, daniel<sep>chelliah, daniel1460 slade avenuecolumbus, ohio 43220us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of preparing a catalyst comprises combining in  an aqueous solution, an acid or salt of molybdenum with a  water-soluble acid or non-metallic salt of silicon, phosphorus  or arsenic, which is capable of forming a polyhedra of molyb­ denum.  an aqueous chloride ion and a compound of phos­ photungstate, silicotungstate, vanadium arsenate, silicoarse­ nate, phosphovanadate, silicovanadate or corresponding  acids thereof or mixtures thereof are then added to the mix­ ture.  the resulting combination is dried and calcined to yield  the finished catalyst.  the oxidation catalyst has the following empirical for­ mula:   ywmoxayoz   where   y is phosphorus, arsenic, silicon or mixtures thereof,   a is tungsten, vanadium, arsenic, when y is not arsenic,  or mixtures thereof,   w ranges from 0. 5 to 1. 5,   x ranges from 10 to 15,   y ranges from 0. 1 to 2. 0, and   z ranges from 1 to 42, and is an integer necessary to  satisfy the valency requirements of the formula.  
+</ABSTRACT>
+</TEXT>
+</DOC>

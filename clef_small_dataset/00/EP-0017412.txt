@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017412
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H05K-7/14</main> H05K-7/14 H01R-12/00 H01R-12/18 H01R-23/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a circuit card interconnection assembly.
+</TITLE>
+<APPLICANT>
+amp incus<sep>amp incorporated<sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>amp incorporated <sep>
+</APPLICANT>
+<INVENTOR>
+cobaugh robert franklin<sep>taylor attalee snarr<sep>cobaugh, robert franklin<sep>taylor, attalee snarr<sep>cobaugh, robert franklinbox 144a, r.d. no.2elizabethtown pennsylvania 17022us<sep>taylor, attalee snarrbox 430e, r.d. no.1palmyra pennsylvania 17078us<sep>cobaugh, robert franklin<sep>taylor, attalee snarr  <sep>cobaugh, robert franklinbox 144a, r.d. no.2elizabethtown pennsylvania 17022us<sep>taylor, attalee snarrbox 430e, r.d. no.1palmyra pennsylvania 17078us<sep>
+</INVENTOR>
+<ABSTRACT>
+card edge connectors (26) mounted on a base circuit  board (34) receive circuit cards (14), power (64) and round  return (10) bus conductors being secured to the board (34).  for the reduction of power losses and for easy construc­ tion of the assembly, the bus conductors are in the form of  bars (10 and 64) into openings (56 and 80) in which post  portions (54 and 76) of the terminals (50 and 70) of separate  ground return (36) and power (66) electrical connector  modules are force fitted, the modules (36 and 66) receiving  portions of the cards (14) to connect the bars (10 and 64) to  circuitry on the cards (14).  the terminals (50 and 70) of the  modules (38 and 68) can be made of greater cross-section  than the terminals (not shown) of the card edge connectors  (26).  
+</ABSTRACT>
+</TEXT>
+</DOC>

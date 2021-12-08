@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003155
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/266 H01L-21/265 H01L-21/033 H01L-21/3065 H01L-21/302 H01S-5/00 H01L-21/02 H01S-5/20 <main>H01L-21/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing a device using a gold layer masking against a proton bombardment.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken  <sep>
+</APPLICANT>
+<INVENTOR>
+tijburg rudolf paulus<sep>van dongen teunis<sep>tijburg, rudolf paulus<sep>van dongen, teunis<sep>tijburg, rudolf paulusc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>van dongen, teunisc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>tijburg, rudolf paulus<sep>van dongen, teunis<sep>tijburg, rudolf paulusc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>van dongen, teunisc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of manufacturing a device in which a surface  of a body is provided with a gold layer masking against a  proton bombardment, in which a gold pattern is formed by  means of a photoetching process which gold pattern masks  in a subsequent proton bombardment of the body, after  which the gold pattern is removed, characterized in that the  masking gold layer is obtained by providing on the body a  quantity of gold simultaneously with a quantity of an  addition which is small as compared with the quantity of  gold.  
+</ABSTRACT>
+</TEXT>
+</DOC>

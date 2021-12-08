@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002496
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/68 B65G-47/91 H01L-21/67 B28B-1/30 H05K-3/46 H05K-13/00 H01L-21/677 B32B-15/04 <main>H05K-13/02</main> H05K-13/02 B65G-47/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for aligning flat and thin workpieces.
+</TITLE>
+<APPLICANT>
+ibmus  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+ficker walter william<sep>lonser david e<sep>rance william glenn<sep>stricker alfred alois<sep>vonkaenel walter<sep>ficker, walter william<sep>lonser, david e.<sep>rance, william glenn<sep>stricker, alfred alois<sep>vonkaenel, walter<sep>ficker, walter william17 birch streetfishkill new york 12524us<sep>lonser, david e.3315 ne 31st avenuelight house point florida 33064us<sep>rance, william glenn9401 placita lilatucson, arizona 85715us<sep>stricker, alfred alois1903 bay drivepompano beach florida 33062us<sep>vonkaenel, walter510 se 13th streetpompano beach floridaus<sep>ficker, walter william <sep>lonser, david e.<sep>rance, william glenn  <sep>stricker, alfred alois <sep>vonkaenel, walter<sep>ficker, walter william17 birch streetfishkill new york 12524us<sep>lonser, david e.3315 ne 31st avenuelight house point florida 33064us<sep>rance, william glenn9401 placita lilatucson, arizona 85715us<sep>stricker, alfred alois1903 bay drivepompano beach florida 33062us<sep>vonkaenel, walter510 se 13th streetpompano beach floridaus<sep>
+</INVENTOR>
+<ABSTRACT>
+To align flat thin workpieces, z.b.Plates, film elements and the like. With respect to a reference surface (81), a method and apparatus for which the workpiece (212) is first brought into a layer parallel to the reference surface (81) and low distance to it.In this position, the workpiece (212) is stored on a gas pressure film "floating", and then straightening elements are effective, such.b.From the reference surface (81) extendable pencils (84), which are introduced into corresponding holes in the workpiece (212).The workpiece (212) is then placed on the reference surface (81) by shutdown of the gas pressure in the aligned position and the straightening elements are retracted.
+</ABSTRACT>
+</TEXT>
+</DOC>

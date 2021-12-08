@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011347
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01G-4/002 H01G-2/18 H01G-4/224 H01G-2/00 H01G-2/14 H01G-4/00 H01G-4/32 <main>H01G-1/11</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing a capacitor with a housing having an undulated expanded portion for the event of overpressure.
+</TITLE>
+<APPLICANT>
+philips nvfr<sep>radiotechnique compelec fr <sep>n.v. philips' gloeilampenfabrieken<sep>societe anonyme dite  r.t.c. la radiotechnique-compelec<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>r.t.c. la radiotechnique-compelec société anonyme dite:51 rue carnot bp 301f-92156 suresnes cédexfr<sep>n.v. philips' gloeilampenfabrieken<sep>r.t.c. la radiotechnique-compelec societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+deschanels francois<sep>gard roger<sep>deschanels, francois<sep>gard, roger<sep>deschanels, françoissociété civile s.p.i.d. 209 rue de l'universitéf-75007 parisfr<sep>gard, rogersociété civile s.p.i.d- 209 rue de l'universitéf-75007 parisfr<sep>deschanels, francois<sep>gard, roger  <sep>deschanels, françois société civile s.p.i.d. 209 rue de l'universitéf-75007 parisfr<sep>gard, rogersociété civile s.p.i.d- 209 rue de l'universitéf-75007 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Condenser with a housing (1), closed by a bottom (2), containing a winding (3) of MU capacitor or electrical connections (5, 6).The housing (1) is provided with an extensible fold (7) whose plane separates the winding (3) of an auxiliary piece (8) for the anchoring of one of the electrical connections.The auxiliary piece (8) is enclosed between the PLI (7) and the bottom (2) and comprises an opening (9) which evade towards the bottom (2).This opening (9) is filled with a synthetic resin (10) in which a loop (11) of the connection (5) is anchored.When a suppression occurs in the condensate, the fold (7) is stretched and the connection (5) is broken.Application: Lighting by fluorescent lamps.
+</ABSTRACT>
+</TEXT>
+</DOC>

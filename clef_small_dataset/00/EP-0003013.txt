@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003013
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-11/12 <main>C02F-11/12</main> B01D-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device for sludge thickening.
+</TITLE>
+<APPLICANT>
+benckiser knapsack gmbh de <sep>benckiser-knapsack gmbh<sep>benckiser-knapsack gmbhdr. albert-reimann-strasse 2d-6802 ladenburgde<sep>benckiser-knapsack gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+kaufmann jurgen chem-ing grad<sep>linke helmut<sep>zeiss otto dr dipl-chem<sep>kaufmann, jurgen, chem.-ing. grad.<sep>linke, helmut<sep>zeiss, otto, dr. dipl.-chem.<sep>kaufmann, jürgen, chem.-ing. grad.ottostrasse 24d-6832 hockenheimde<sep>linke, helmutböhmerwaldstrasse 38d-6920 sinsheimde<sep>zeiss, otto, dr. dipl.-chem.leutershausener strasse 20d-6805 heddesheimde<sep>kaufmann, jurgen, chem.-ing. grad.<sep>linke, helmut <sep>zeiss, otto, dr. dipl.-chem.<sep>kaufmann, jürgen, chem.-ing. grad. ottostrasse 24 d-6832 hockenheim de <sep>linke, helmutböhmerwaldstrasse 38d-6920 sinsheimde<sep>zeiss, otto, dr. dipl.-chem.leutershausener strasse 20d-6805 heddesheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for thickening sludges, preferably flocculated sludges, from the local services sector or the industrial section, in which the water is removed from the sludge through a filter chamber, which is immersed in the sludge to be clarified and is formed with porous walls, and the remaining thickened sludge is further dewatered in a conventional manner, characterized in that the level of the sludge outside in the thickening chamber and the level of the clean water inside the filter chamber, from which it is removed, are initially kept the same, as further sludge is fed into the thickening chamber in the same quantity in which clean water is removed, after which the clean water is removed without the further addition of sludge. 
+</ABSTRACT>
+</TEXT>
+</DOC>

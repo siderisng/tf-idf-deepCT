@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005532
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-7/18 H04N-5/91 G08G-1/017 G08G-1/00 G11B-20/02 <main>H04N-7/18</main> G07C-5/00 G07C-5/08 H04N-5/915 G08G-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus mounted on a vehicle for recording of accidents.
+</TITLE>
+<APPLICANT>
+conte raffaele<sep>conte, raffaele<sep>conte, raffaelevia freguglia , 8/ai-20100 milanit<sep>conte, raffaele<sep>
+</APPLICANT>
+<INVENTOR>
+conte raffaele<sep>conte, raffaele<sep>conte, raffaelevia freguglia , 8/ai-20100 milanit<sep>conte, raffaele<sep>conte, raffaelevia freguglia , 8/a20100 milanoit<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention consists of an apparatus for recording  accidental events relating to movable means, which can be  sensed by optical observation, and comprises detecting  means (10, 11, 12) for taking the images of the event and  transforming the same into electric signals, a signal storing  circuit (14, 16) comprising one or more analogical memories  (14), wherein the recording of successive events, is carried  out by automatically erasing the oldest image, and sensor  means (4) for assuring automatic interruption of the incoming  signal flow from the image detecting means to the  memories achieving thus the automatic non erasable storage  of images corresponding to a predetermined period  immediately preceding and contemporaly to the accidental  event.  
+</ABSTRACT>
+</TEXT>
+</DOC>

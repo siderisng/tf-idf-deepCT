@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015787
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23Q-1/00</main> B23Q-1/00 B23D-41/00 B23D-41/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rapid tool exchanger, especially for a machine with large dimensions.
+</TITLE>
+<APPLICANT>
+renaultfr<sep>regie nationale des usines renault<sep>regie nationale des usines renaultboíte postale 103 8-10 avenue emile zolaf-92109 boulogne-billancourtfr<sep>regie nationale des usines renault<sep>regie nationale des usines renault <sep>
+</APPLICANT>
+<INVENTOR>
+prat serge<sep>prat, serge<sep>prat, serge12, avenue des champs lasnierf-91440 bures s/yvettefr<sep>prat, serge<sep>prat, serge <sep>prat, serge12, avenue des champs lasnierf-91440 bures s/yvettefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is to combine a mechanical placement by hydraulic cylinders (6, 25) and stops (4, 5) and a multiple points (3) automatic clamping with tients (9, 11, 12) provided withof elastic washers (16), in order to secure the slider (2) of the machine a tool (1b) equipped with its cutting tools (1c), or a cutting tool (1c) of large dimensions mounted directly onThe slider (2) of the machine without a tool holder (1b) intermediate.
+</ABSTRACT>
+</TEXT>
+</DOC>

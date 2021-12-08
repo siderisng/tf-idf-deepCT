@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000300
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07J-51/00 C07J-17/00 G01N-33/534 G01N-33/60 C07B-23/00 C07J-1/00 A61K-51/00 <main>C07J-1/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted estra-1,3,5(10),6-tetraenes, process for their preparation and use in the synthesis of tritium labelled steroids.
+</TITLE>
+<APPLICANT>
+roussel uclaffr<sep>roussel-uclaf <sep>roussel-uclaf102, route de noisy boíte postale no.993230 romainville fr  <sep>roussel-uclaf<sep>
+</APPLICANT>
+<INVENTOR>
+jouquey alain<sep>raynaud jean-pierre<sep>salmon jean<sep>jouquey, alain<sep>raynaud, jean-pierre<sep>salmon,jean<sep>jouquey, alain137, rue des pyrénéesf-75020-parisfr<sep>raynaud, jean-pierre4 villa jocelynf-75116-parisfr<sep>salmon,jean8, rue du général de castelnauf-75015-parisfr<sep>jouquey, alain<sep>raynaud, jean-pierre  <sep>salmon,jean <sep>jouquey, alain137, rue des pyrénéesf-75020-parisfr<sep>raynaud, jean-pierre4 villa jocelynf-75116-parisfr<sep>salmon,jean8, rue du général de castelnauf-75015-parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the new steroids of formula I: wherein R represents hydrogen or R ', R' represents an acyl, a substituted or non-substituted benzoyl, a tetrahydropyranyl, trityl or trimethylsilyl and R₁ represents an acyl,A substituted or non-substituted benzoyl, a tetrahydropyranyl, trityl or trimethyl lyl radical, as well as their process for the preparation and application to the preparation of steroids marked with tritium.
+</ABSTRACT>
+</TEXT>
+</DOC>

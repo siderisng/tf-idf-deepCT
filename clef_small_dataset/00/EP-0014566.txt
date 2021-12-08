@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014566
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07D-501/04 C07D-513/00 A61P-31/00 C07B-39/00 C07C-67/00 C07D-513/04 A61K-31/425 C07B-31/00 C07D-501/00 <main>C07D-513/04</main> C07F-9/6561 A61P-31/04 C07F-9/145 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+halogenated beta-lactam compounds and process for their preparation.
+</TITLE>
+<APPLICANT>
+lilly co elius<sep>eli lilly and company<sep>eli lilly and company307, east mccarty street indianapolis indiana 46285 us <sep>eli lilly and company<sep>
+</APPLICANT>
+<INVENTOR>
+blaszczak larry chris<sep>fisher jack wayne<sep>hatfield lowell deloss<sep>blaszczak, larry chris<sep>fisher, jack wayne<sep>hatfield, lowell deloss<sep>blaszczak, larry chris1327 n. broadwayindianapolis, indianaus<sep>fisher, jack wayne2014 woodcrest roadindianapolis, indianaus<sep>hatfield, lowell deloss4, thornbriar lanebargersville, indianaus<sep>blaszczak, larry chris  <sep>fisher, jack wayne<sep>hatfield, lowell deloss<sep>blaszczak, larry chris1327 n. broadwayindianapolis, indianaus<sep>fisher, jack wayne2014 woodcrest roadindianapolis, indianaus<sep>hatfield, lowell deloss4, thornbriar lanebargersville, indianaus<sep>
+</INVENTOR>
+<ABSTRACT>
+novel thiazolineazetidinone vinyl halides useful in the  preparation of certain cephem antibiotics are described.  they  are of the formula    wherein x is chloro or bromo; r₁₀ is hydrogen or a carboxylic  acid protecting group; and   r₅ is   (a) hydrogen, c₁-c₄ alkyl or halo (c₁-c₄ alkyl);   (b) a group r₆ wherein r₆ is phenyl or phenyl substituted by  1 or 2 groups selected from the group consisting of  fluoro, chloro, bromo, iodo, nitro, cyano, c₁-c₄ alkyl,  c₁-c₄ alkoxy, protected hydroxy, carbamyl,  trifluoromethyl and methanesulfonamido;   (c) a group of the formula   r₆(o)mch₂-   wherein m is i or o and r₆ is defined above;   (d) a group of the formula   r6ach₂-   wherein r6a is cyclohexadienyl, 2-furyl, 2-thienyl, or  3-thienyl; or   (e) a group of the formula -coor wherein r is hydrogen or a  carboxylic acid protecting group;   and when r₁₀ is hydrogen the alkali metal salts of the acids  represented thereby.  the compounds are prepared from the corresponding  enols by action of halogenating compounds derived from  triaryl phosphites and chlorine or bromine.  
+</ABSTRACT>
+</TEXT>
+</DOC>

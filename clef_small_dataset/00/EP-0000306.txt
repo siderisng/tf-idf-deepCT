@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000306
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/436 C07D-471/00 A61P-25/00 C07D-311/14 A61P-25/24 C07D-491/00 A61K-31/435 C07D-311/16 C07D-471/14 A61P-25/26 C07D-311/00 A61K-31/4353 C07D-311/12 <main>C07D-491/18</main> C07D-491/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted hexahydrobenzopyrano(3,2-c)pyridines, process for their preparation and medicines containing them.
+</TITLE>
+<APPLICANT>
+liphafr<sep>lipha, lyonnaise industrielle pharmaceutique<sep>lipha, lyonnaise industrielle pharmaceutique115, avenue lacassagne b.p. no 106 lyon r.p.f-69212 lyon cedex 1fr<sep>lipha, lyonnaise industrielle pharmaceutique  <sep>
+</APPLICANT>
+<INVENTOR>
+berthelon jean-jacques<sep>briet philippe<sep>depin jean-claude<sep>berthelon, jean-jacques<sep>briet, philippe<sep>depin, jean-claude<sep>berthelon, jean-jacques133 cours albert thomasf-69003 lyonfr<sep>briet, philippe216, avenue félix fauref-69003 lyonfr<sep>depin, jean-claude113, cours gambettaf-69003 lyonfr<sep>berthelon, jean-jacques<sep>briet, philippe<sep>depin, jean-claude<sep>berthelon, jean-jacques133 cours albert thomasf-69003 lyonfr<sep>briet, philippe216, avenue félix fauref-69003 lyonfr<sep>depin, jean-claude113, cours gambettaf-69003 lyonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The hexahydro benzopyrano [3,2-C] pyridines of the formula wherein R is hydrogen or a saturated or unsaturated lower alkyl radical, linear or branched, aralkyl, acyl, dialkylaminoalkyl, alkylcarbonyl, alkoxycarbonyl, haloalkoxycarbonyl or aryl;R₁ is hydrogen, halogen or lower alkoxy radical;R₂ is hydrogen or halogen;R₃ is hydrogen, halogen, a lower alkyl radical, alkoxy, nitro, amino or form the naphthalene with R₄ and the benzene ring;R₄ is hydrogen, halogen or forms naphthalene with R₃ and benzene ring;R₅ is hydrogen, a lower alkyl radical or arylalkyl, can be used as antidepressant drugs.They are prepared according to the following reaction scheme:
+</ABSTRACT>
+</TEXT>
+</DOC>

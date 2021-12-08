@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015841
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12Q-1/34 <main>G01N-33/54</main> C12Q-1/70 G01N-33/569 G01N-33/548 C12Q-1/04 G01N-33/544 G01N-33/543 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+agglutination tests for the detection of influenza viruses, reagents for carrying out these tests, process for the preparation of these reagents, application of these reagents and diagnostic kit containing these reagents.
+</TITLE>
+<APPLICANT>
+inst nat sante rech medfr<sep>institut national de la sante et de la recherche medicale (inserm)<sep>institut national de la sante et de la recherche medicale (inserm)101, rue de tolbiac75654 paris cédex 13fr<sep>institut national de la sante et de la recherche medicale (inserm)  <sep>
+</APPLICANT>
+<INVENTOR>
+quash gerard anthony dr<sep>quash, gerard anthony, dr.<sep>quash, gérard anthony, dr.63, boulevard des provincesf-69110 sainte foy-les lyonfr<sep>quash, gerard anthony, dr.<sep>quash, gérard anthony, dr.63, boulevard des provincesf-69110 sainte foy-les lyonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to new tests for the detection of influenza viruses.This test comprises: the contact with flu viruses or lantoic liquid containing said virus, with a substrate of the Neu Raminidase comprising at least one SIA lique acid group, which substrate is fixed by covalence coupling on a solid support.Suitable insoluble, it being understood that said substrate may be constituted by all types of coprotein, mucopolysaccharides, oligosaccharides or mucolipids comprising at least one SIALIC acid group capable of playing the role of neuraminida substrate;incubation of the influenza virus with its substrate for appropriate time;- then reading the reaction.Application to the detection of influenza viruses.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006145
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-15/177 H04Q-3/545 H04L-12/50 H04Q-11/04 G06F-15/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit arrangement for a telecommunication exchange with microprocessors.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+von stetten hanns norbertde<sep>von stetten, hanns norbert<sep>von stetten, hanns norbertesterbergstrasse 32d-8135 söckingde<sep>
+</INVENTOR>
+<ABSTRACT>
+Conciloring plant with microprocessors working as independent units (MC1 to MC64), which are arranged in the network level (NE) according to the principle of the load division in the switching level (VE) according to the principle of the functional division, and the controller via a common data bus (DB)of a central clock (T) in such a way that cyclically only one microprocessor (eg MC1) emits an information block, which at the same time receives all other microprocessors (eg MC2 to MC 64) and accept only in the presence of an address specified for them.ON / output operations (I / O) and other processes (VEZT) perform the microprocessors between the connection to the data bus (DB) independently.
+</ABSTRACT>
+</TEXT>
+</DOC>

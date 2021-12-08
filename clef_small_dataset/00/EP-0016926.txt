@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016926
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05B-33/08 G09G-3/04 G09G-3/30 H05B-33/02 <main>G09G-3/12</main> G09G-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of operating an alternating current excited thin film electroluminescent device.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation<sep>international business machines corporation old orchard road armonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+marrello vincent<sep>onton aare<sep>ruhle wolfgang<sep>marrello, vincent<sep>onton, aare<sep>ruhle, wolfgang<sep>marrello, vincent117 cheltenham waysan jose california 95139us<sep>onton, aare14690 aloha avenuesaratoga california 95070us<sep>ruhle, wolfgangestadual de campinasc.p. 1170 campinas cep 13.000, s.p.br<sep>marrello, vincent<sep>onton, aare <sep>ruhle, wolfgang  <sep>marrello, vincent117 cheltenham waysan jose california 95139us<sep>onton, aare14690 aloha avenuesaratoga california 95070us<sep>ruhle, wolfgangestadual de campinasc.p. 1170 campinas cep 13.000, s.p.br<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of operating an alternating current (ac)  excited thin film electroluminensence (actel) device  which improves the memory effect and brightness thereof  is described.  a typical actel device has a thin lumines­ cent layer made of zns thin film doped with mn which is  sandwiched between two dielectric layers.  actel devices  exhibit a brightness versus voltage amplitude hysteresis  loop which is commonly referred to as the memory effect.   the application of a hybrid ac excitation waveform to the  actel device such as that shown in the figure provides  increased brightness and improved memory effect stability.   the hybrid waveform has an initial portion 12a that is suf­ ficiently high for efficient carrier generation and a remain­ ing waveform portion 14a that is at a lower level than the  initial portion for charge collection and holding purposes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

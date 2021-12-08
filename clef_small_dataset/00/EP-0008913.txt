@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008913
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03G-3/30 H03G-1/00 H04B-3/04 H04B-3/10 H04B-3/14 H04B-1/00 <main>H03G-1/04</main> H03G-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+variable level converter.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+kamoi nobuhisa <sep>otsuki tsuguo<sep>satoh kazuo  <sep>suzuki shinjiro<sep>takeda masao<sep>yoshikawa tadashi<sep>kamoi, nobuhisa<sep>otsuki, tsuguo<sep>satoh, kazuo<sep>suzuki, shinjiro<sep>takeda, masao<sep>yoshikawa, tadashi<sep>kamoi, nobuhisa466-18 eda-cho, midori-kuyokohamashi, kanagawa 227jp<sep>otsuki, tsuguo146-1433 nagatsuda-cho, midori-kuyokohamashi, kanagawa 227jp<sep>satoh, kazuo938 shukugawara, tama-kukawasaki-shi, kanagawa 214jp<sep>suzuki, shinjiro45 takada-cho, kohoku-kuyokohamashi, kanagawa 223jp<sep>takeda, masao973-39 yano-machihachioji-shi tokyo 192jp<sep>yoshikawa, tadashi2469 nagatsuda-cho, midori-kuyokohamashi, kanagawa 227jp<sep>kamoi, nobuhisa<sep>otsuki, tsuguo<sep>satoh, kazuo<sep>suzuki, shinjiro <sep>takeda, masao<sep>yoshikawa, tadashi  <sep>kamoi, nobuhisa 466-18 eda-cho, midori-kuyokohamashi, kanagawa 227jp<sep>otsuki, tsuguo146-1433 nagatsuda-cho, midori-kuyokohamashi, kanagawa 227jp<sep>satoh, kazuo938 shukugawara, tama-kukawasaki-shi, kanagawa 214jp<sep>suzuki, shinjiro45 takada-cho, kohoku-kuyokohamashi, kanagawa 223jp<sep>takeda, masao973-39 yano-machihachioji-shi tokyo 192jp<sep>yoshikawa, tadashi2469 nagatsuda-cho, midori-kuyokohamashi, kanagawa 227jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a variable level converter comprises a first variable level  converting unit (110), a second variable level converting unit  (120) and a grounded-emitter amplifying transistor (13) con­ nected between them.  each of the first and second variable  level converting units is comprised of an inverted l-type var­ iable attenuator which includes a series resistor (111,121)  and a variable impedance element (112,122).  the second var­ iable level converting unit includes the collector resistor (13)  of the transistor circuit.  each variable impedance element is  controlled by the same level control signal (sc) and has the  same electric characteristics.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003877
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/34 A01N-43/40 <main>C07D-213/64</main> C07D-213/61 C07D-213/64 C07D-213/73 C07D-213/643 C07D-213/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+herbicidal derivatives of 2-(4(2-pyridyloxy)phenoxy)propane, processes for preparing them, and herbicidal compositions containing them.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc  <sep>
+</APPLICANT>
+<INVENTOR>
+cartwright david<sep>cartwright, david<sep>cartwright, david1, stonehaven drivewoodley reading, berkshiregb<sep>cartwright, david<sep>cartwright, david1, stonehaven drivewoodley reading, berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+herbicidal pyridine compounds of the formula (i):    wherein z may be halogen, or a fluorine- or chlorine- substituted  alkyl group of 1 to 4 carbon atoms, and y may be  hydrogen, halogen, or a fluorine- or chlorine-substituted alkyl  group of 1 to 4 carbon atoms; x may be an oh group of an  acyloxy group; a halogen atom; an amino group, a mono- or  di-alkyl amino group, or an alkanoylamido group; an alkoxy  group optionally substituted by hydroxy or alkoxy; or a mercapto  group, an alkylthio group, or a phenylthio group.  the  invention also provides herbicidal compositions containing  the compounds, and processes for making the compounds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

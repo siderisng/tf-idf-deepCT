@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003535
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-7/16 G03B-15/05 <main>G03B-15/05</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic flash unit with controlled light emission.
+</TITLE>
+<APPLICANT>
+king kg regula werkde<sep>regula-werk king gmbh & co. vermogensverwaltung<sep>regula-werk king gmbh &amp; co. vermögensverwaltungpostfach 25d-7263 bad liebenzellde<sep>regula-werk king gmbh & co. vermogensverwaltung<sep>regula-werk king gmbh & co. vermogensverwaltung  <sep>
+</APPLICANT>
+<INVENTOR>
+king herbert<sep>king, herbert<sep>king, herberthans-schiedt-wegd-7263 bad liebenzell (schwarzwald)de<sep>king, herbert<sep>king, herbert<sep>king, herberthans-schiedt-wegd-7263 bad liebenzell (schwarzwald)de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  electronic flash apparatus with a light dosing device including a light-sensitive photocell receiver of the light reflected by the object, the sensitivity of which is adjustable in several steps according to the diaphragm setting of the camera by means of a first adjusting element (15) moving in the housing of the apparatus and having a contact element for the adjustment of the sensivity levels, as well as by means of a diaphragm intervals bearing second adjusting element (19 ; 24), which has an adjustable mark (23) for film sensitivity on a scale (8), a stationary scale (10) for distance ranges being associated to the diaphragm intervals bearing second adjusting element (19, 24), so that both the diaphragm setting corresponding to the individual sensitivity level of the light dosing device and the corresponding distance range are indicated, characterized in that the first adjusting element (15) is lockage in the positions associated to the sensitivity levels, the contact element of the first adjusting element (15) serving also as contact element of a switch, which energizes in each lock-in position corresponding to a given sensitivity level one of several luminous diodes, which are relied to certain values of distance ranges of the stationary scale (10). 
+</ABSTRACT>
+</TEXT>
+</DOC>

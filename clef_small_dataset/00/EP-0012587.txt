@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012587
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41M-5/333 B41M-5/30 B41M-5/40 B41M-5/42 <main>B41M-5/26</main> B41M-5/323 B41M-5/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermo-sensitive multi-color recording material and process for preparation thereof.
+</TITLE>
+<APPLICANT>
+ricoh kkjp<sep>ricoh company, ltd<sep>ricoh company, ltd3-6, 1-chome nakamagomeohta-ku tokyo 143jp<sep>ricoh company, ltd <sep>
+</APPLICANT>
+<INVENTOR>
+kubo keishi<sep>tanaka tetsuo<sep>kubo, keishi<sep>tanaka, tetsuo<sep>kubo, keishi132, honmoku, arai naka-kuyokohama-shi kanagawajp<sep>tanaka, tetsuo10-6, fuyohdai 3-chomemishima-shi shizuokajp<sep>kubo, keishi <sep>tanaka, tetsuo<sep>kubo, keishi132, honmoku, arai naka-kuyokohama-shi kanagawajp<sep>tanaka, tetsuo10-6, fuyohdai 3-chomemishima-shi shizuokajp<sep>
+</INVENTOR>
+<ABSTRACT>
+a multi-color thermo-sensitive recording material com­ prises first and second thermo-sensitive coloring layers cap­ able of forming different colors respectively at different tem­ peratures, which are formed one over the other on a support  member, and a discoloring layer comprising a cross-linking  resin, which is disposed between the two thermo-sensitive  coloring layers, and which is cross-linked in the course of the  coating of the thermo-sensitive layers, without being dis­ solved into any of the two thermo-sensitive coloring layers.   the cross-linking resin may be a self-cross-linking.  water-so­ uble resin or may comprise an organic polymeric binding ma­ terial and a cross-linking agent therefor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

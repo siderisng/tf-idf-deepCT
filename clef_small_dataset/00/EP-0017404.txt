@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017404
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-1/02</main> H01H-1/02 H01H-1/023 C22C-5/04 C22C-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a rhodium electrical contact of a switch particularly a reed switch.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+baba masanori<sep>hara toshito<sep>baba, masanori<sep>hara, toshito<sep>baba, masanori20-1, bohgakudaisuzaka-shi nagano 382jp<sep>hara, toshito5-6-5-108, kamitsurumasagamihara-shi kanagawa 228jp<sep>baba, masanori  <sep>hara, toshito <sep>baba, masanori20-1, bohgakudaisuzaka-shi nagano 382jp<sep>hara, toshito5-6-5-108, kamitsurumasagamihara-shi kanagawa 228jp<sep>
+</INVENTOR>
+<ABSTRACT>
+in a rhodium electrical contract of a switch, particularly a  reed switch, from 0. 1 to 10 atomic% of ag is included in the  electrical contact.  the electrical contact of the invention has a  long life under a various loading conditions from a non-­ working condition, where an electric current is neither  conducted nor broken by the switch, to a working condition,  where erosion of the electrical contact is caused by short arcs  between members of the electrical contact.  
+</ABSTRACT>
+</TEXT>
+</DOC>

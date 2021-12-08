@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014248
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-2/32 B41J-25/304 <main>B41J-3/20</main> B41J-29/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+non impact printers.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+heiling gerald michael<sep>knappe laverne frank<sep>regehr john leon<sep>heiling, gerald michael<sep>knappe, laverne frank<sep>regehr, john leon<sep>heiling, gerald michaelroute 1pine island, minnesota 55963us<sep>knappe, laverne frank501 17th street s.w.rochester, minnesota 55901us<sep>regehr, john leonroute 1 box 122bstewartville, minnesota 55976us<sep>heiling, gerald michael <sep>knappe, laverne frank<sep>regehr, john leon  <sep>heiling, gerald michaelroute 1pine island, minnesota 55963us<sep>knappe, laverne frank501 17th street s.w.rochester, minnesota 55901us<sep>regehr, john leonroute 1 box 122bstewartville, minnesota 55976us<sep>
+</INVENTOR>
+<ABSTRACT>
+a non-impact printer has a single print head assembly by  which a complete line may be printed without movement.  the printer includes a platen (17) providing a print station,  mounted on a frame (24) which carries the print head assem­ bly biased towards the platen (17).  the print head assembly  consists of a printed circuit card (13) attached to a stiffener (14)  which clips into the frame (24).  the stiffener (14) holds rigid a part of the card (13) which  carries electronic components whilst leaving that other part of  the card (13) which is located adjacent the platen (17), free to  be deflected.  the free part of the card (13) is divided by slots  (81) into parallel fingers (80) extending towards the platen  (17).  a print head (77) is mounted on each finger (80) to provide  a line (82) of print elements adjacent to the platen (17).  the  stiffener (14) carries biasing means (72) which biases the  fingers (80) towards the platen (17).  the print heads (77) may be thermal print heads, and the  printed circuit card (13) circuits (86,87) actuate the thermal  print heads.  an additional printed circuit card with interface  logic may be attached to the stiffener (14).  
+</ABSTRACT>
+</TEXT>
+</DOC>

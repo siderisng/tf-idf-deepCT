@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003808
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03F-3/34 H03F-3/343 H03F-3/345 H03F-3/50 H03F-3/189 H03F-3/19 H04B-3/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+large band width amplifier with a first and a second transistor stage.
+</TITLE>
+<APPLICANT>
+siemens ag de <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+birth winfridde<sep>birth, winfrid<sep>birth, winfridst. veit-strasse 70d-8000 münchen 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+broadband amplifier having two transistor stages.  for the control voltage to be output by the first stage to be as low as possible, the emitter-collector path of the first transistor (31) and the base- emitter path of the second transistor (32) are connected in parallel with respect to alternating voltage.  in the connections which are in parallel with respect to alternating voltage, at least one electrical isolating point is provided.  the amplifier can be used, in particular, as line amplifier in carrier frequency engineering.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

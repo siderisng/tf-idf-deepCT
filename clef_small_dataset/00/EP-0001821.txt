@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001821
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-101/00 C07C-119/10 C07B-20060101S C07C-20060101S C07B-19/00 C07C-229/00 C07C-227/00 C07C-227/06 C07C-227/34 <main>C07C-99/12</main> C07C-229/02 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+resolution of d,l-alpha-amino acids and salts used therefor.
+</TITLE>
+<APPLICANT>
+riedel de haen agde<sep>riedel-de haen aktiengesellschaft<sep>riedel-de haen aktiengesellschaftwunstorfer strasse 40d-30926 seelzede<sep>riedel-de haen aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+dannenberg wolfgang dr<sep>schmand horst dr<sep>dannenberg, wolfgang, dr.<sep>schmand, horst, dr.<sep>dannenberg, wolfgang, dr.düendorfer weg 20d-3050 wunstorfde<sep>schmand, horst, dr.riepener strasse 17d-3052 bad nenndorfde<sep>dannenberg, wolfgang, dr.  <sep>schmand, horst, dr.<sep>dannenberg, wolfgang, dr.düendorfer weg 20d-3050 wunstorfde<sep>schmand, horst, dr.riepener strasse 17d-3052 bad nenndorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for the racemate cleavage of DL-α-aminocarboxylic acids, these are converted into a salt in an inert solvents with an aromatic O-hydroxy aldehyde to an azomethine derivative and this at the same stage with an optically active amine base.The diastereomeric salts formed are separated and obtained from acid treatment therefrom the respective optically active α-aminocarboxylic acid.Aliphatic and aromatic α-aminocarboxylic acids can be columns, in particular p-hydroxy-c-phenylglycine.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005919
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-11/16 C25D-11/18 <main>C25D-11/24</main> C25D-11/24 C25D-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for sealing anodised aluminium and product so obtained.
+</TITLE>
+<APPLICANT>
+alcan res & devca<sep>alcan research and development limited<sep>alcan research and development limited1, place ville mariemontreal quebec h3c 3h2ca<sep>alcan res & devca <sep>alcan research and development limited<sep>
+</APPLICANT>
+<INVENTOR>
+carter bryan g<sep>carter, bryan george<sep>carter, bryan george17 trinity closebanbury oxfordshiregb<sep>carter bryan g  <sep>carter, bryan george<sep>carter, bryan george17 trinity closebanbury oxfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for sealing anodic oxide films on aluminium  comprises immersing the anodised aluminium in a bath  containing an aqueous solution of a sealing accelerator,  preferably triethanolamine, at a ph of 7 to 11, followed by  conventional treatment in a hot water bath containing an  anti-smut additive.  the preliminary accelerator treatment  allows the sealing step to be substantially accelerated and  permits the production of an essentially smut-free surface on  the sealed anodic oxide film.  
+</ABSTRACT>
+</TEXT>
+</DOC>

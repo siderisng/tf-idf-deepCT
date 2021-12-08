@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000673
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/08 H05K-3/42 H05K-1/03 G03F-7/16 <main>H05K-3/00</main> G03F-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing printed circuits with metallised holes starting from isolated substrates having a synthetic glass-resin multilayer structure.
+</TITLE>
+<APPLICANT>
+telecommunications safr<sep>societe anonyme de telecommunications  <sep>societe anonyme de telecommunications (s.a.t.)40 avenue de new yorkf-75116 parisfr<sep>societe anonyme de  telecommunications<sep>
+</APPLICANT>
+<INVENTOR>
+lindebrings charles maurice ph<sep>vaillagou pierre<sep>velte andre jean francois<sep>lindebrings, charles maurice philippe<sep>vaillagou, pierre<sep>velte, andre jean francois<sep>lindebrings, charles maurice philippe57 chemin de l'ardoise72000 le mansfr<sep>vaillagou, pierre3 route de limoursf-78470 st remy les chevreusesfr<sep>velte, andré jean françois1 square boileauf-78150 parly 2 le chesnayfr<sep>lindebrings, charles maurice philippe<sep>vaillagou, pierre  <sep>velte, andre jean francois <sep>lindebrings, charles maurice philippe57 chemin de l'ardoise72000 le mansfr<sep>vaillagou, pierre3 route de limoursf-78470 st remy les chevreusesfr<sep>velte, andré jean françois1 square boileauf-78150 parly 2 le chesnayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A method of producing printed circuits with metal holes made from the synthetic glass-resin laminate insulation substrates, in which the metallizing holes in the insulating support is drilled, a chemical metal metal deposit is carried out in the holes and onThe two sides are carried out by etching of the conductive metal on both sides after removing a reserve and the electrical components are positioned in the metalli holes and the tail of the components in the respective holes are silded to ensure the electrical connections..Immediately after drilling the holes (10), the support (1) is coated with a positive photosensitive resin (12) and the support coated with radiation capable of destroying the resin and then dried.
+</ABSTRACT>
+</TEXT>
+</DOC>

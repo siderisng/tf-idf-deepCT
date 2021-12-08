@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000345
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/39 C07C-69/747 C07C-323/55 C07C-67/14 C07C-61/39 C07C-67/10 C07C-67/00 C07C-121/75 A01N-53/08 C07C-67/08 A01N-53/00 C07C-149/40 C07C-253/00 C07C-61/40 C07C-255/00 C07C-313/00 C07C-69/743 C07C-69/00 C07C-61/00 C07C-323/00 <main>C07C-69/74</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted phenoxybenzyloxycarbonyl derivatives, their preparation and their use as insecticides and acaricides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+fuchs rainer dr<sep>hammann ingeborg dr<sep>stendel wilhelm dr<sep>fuchs, rainer, dr.<sep>hammann, ingeborg, dr.<sep>stendel, wilhelm, dr.<sep>fuchs, rainer, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 köln 1de<sep>stendel, wilhelm, dr.in den birken 55d-5600 wuppertal 1de<sep>fuchs, rainer, dr.<sep>hammann, ingeborg, dr.<sep>stendel, wilhelm, dr.<sep>fuchs, rainer, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 köln 1de<sep>stendel, wilhelm, dr.in den birken 55d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Substituted phenoxybenzyloxycarbonyl derivatives of the formula in which R₁ R¹ and R² may be the same or different and stand for hydrogen or halogen, R³ is phenyl or phenylthio, wherein the phenyl rings may optionally be monosubstituted by alkyl or halogen, equal or different by alkyl or halogen , Y is hydrogen or nitrile, N stands for an integer from 1 to 5 and M stands for an integer from 1 to 4. These compounds are characterized by strong insek ticides and acaricidal properties. They will be obtained by reacting the corresponding phenoxybenzylalko with cyclopropancarboxylic acid derivatives or reacting the corresponding phenoxybenzyl halides with cyclo propancarboxylic acid derivatives. Substituted CyclopropanCarboxylic acid derivatives of the formula in which R² and R³ have the meaning issued above, and R⁴ is OH, halogen or C₁-C₄ alkoxy, wherein R⁴ is the case where R³ is phenyl is OH, halogen or methoxy.
+</ABSTRACT>
+</TEXT>
+</DOC>

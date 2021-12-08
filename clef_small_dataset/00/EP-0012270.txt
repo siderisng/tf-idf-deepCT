@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012270
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-59/00 F16D-49/00 F16D-49/16 B66D-5/08 <main>F16D-49/16</main> F16D-59/02 F16D-65/38 F16D-66/00 F16D-65/46 B66D-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+drum brake.
+</TITLE>
+<APPLICANT>
+inventio agch <sep>inventio ag<sep>inventio ag seestrasse 55 ch-6052 hergiswil nwch<sep>inventio ag <sep>
+</APPLICANT>
+<INVENTOR>
+keiser emil<sep>tomse ljudevit dipl ing<sep>vertesy josef dipl ing<sep>keiser, emil<sep>tomse, ljudevit, dipl.ing.<sep>vertesy, josef, dipl.ing.<sep>keiser, emilzentralstrasse 8ch-6030 ebikonch<sep>tomse, ljudevit, dipl.ing.pilatusstrasse 3ch-6036 dierikonch<sep>vertesy, josef, dipl.ing.brunnhalde 18ch-6006 luzernch<sep>keiser, emil <sep>tomse, ljudevit, dipl.ing.<sep>vertesy, josef, dipl.ing.<sep>keiser, emilzentralstrasse 8ch-6030 ebikonch<sep>tomse, ljudevit, dipl.ing.pilatusstrasse 3ch-6036 dierikonch<sep>vertesy, josef, dipl.ing.brunnhalde 18ch-6006 luzernch<sep>
+</INVENTOR>
+<ABSTRACT>
+In a jaw brake, the brake levers (2) are connected both at the pivotally mounted end (2. 1) and on the end of the brake spring (11) driven end (2. 2) independently of each other with the brake housing (8). The pivotally mounted end (2. 1) is connected to the brake housing (6) and / or a leaf spring (10) with the brake housing (8) via perpendicular to the direction direction of the brake spring (11) and / or a leaf spring (10), the bearing (5) ) of the brake lever (2) between the plate springs (6) is arranged. Each brake lever (2) is arranged a throttle coil (21), wherein the throttle yoke is arranged on the bearing (5) and the Dros selkern on the brake housing (8). In the brake position located brake levers (2), the same under load perpendicular to the direction of action of the brake springs (11) are movable, wherein the air gaps of the throttle spu len (21) are reduced or enlarged. With the resulting voltage difference, the drive motor of an elevator is controlled to generate a torque relieving the jaw brake.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006456
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-61/15 C07C-69/753 A01N-53/08 C07C-255/00 C07C-255/39 A01N-53/00 C07C-69/00 C07C-61/00 C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spiropentane carboxylic acid esters, a process for their production, insecticidal and acaricidal compositions, the use of the spiropentane carboxylic acid esters for combating insects or spiders and a process for the production of insecticidal or acaricidal compositions.
+</TITLE>
+<APPLICANT>
+bayer ag de  <sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+fuchs rainer drde<sep>hammann ingeborg drde<sep>stendel wilhelm drde<sep>fuchs, rainer, dr.<sep>hammann, ingeborg, dr.<sep>stendel, wilhelm, dr.<sep>fuchs, rainer, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 köln 1de<sep>stendel, wilhelm, dr.in den birken 55d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to spiro-ancarboxylic acid esters of the formula in which R, R¹ and R² have the meaning given in the description.They are characterized by insecticides and acaricidal effectiveness.They are obtained by reacting 4,4,5,5-tetra chloro-2,2-dimethyl-spiro-dancarboxylic chloride of the formula with substituted phenoxybenzyl alcohols of the formula.
+</ABSTRACT>
+</TEXT>
+</DOC>

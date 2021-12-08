@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010410
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+A23K-1/16 C07H-5/00 <main>C07H-5/02</main> C07H-15/04 A01N-43/16 C07H-5/02 C07H-13/04 A01N-43/02 C07H-15/00 A23L-1/236 C07H-13/08 C07H-13/00 A23L-1/226 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for the preparation of 2-chloro-2-deoxy saccharides and some 2-chloro-2-deoxy saccharides.
+</TITLE>
+<APPLICANT>
+talres devnl<sep>tate & lyle ltd gb <sep>tate & lyle patent holdingsbm<sep>talres development (n.a.) n.v.<sep>tate & lyle limited<sep>tate & lyle patent holdings limited<sep>talres development (n.a.) n.v.breedestraat 39ccuraçao, netherlands antillesnl<sep>tate &amp; lyle patent holdings limited5th floor, triningham building front streethamilton 5bm<sep>tate &amp; lyle public limited companysugar quay lower thames streetlondon, ec3r 6dqgb<sep>talres development (n.a.) n.v. <sep>tate & lyle patent holdings limited<sep>tate & lyle public limited company  <sep>
+</APPLICANT>
+<INVENTOR>
+jenner michael ralph<sep>khan riaz ahmed<sep>jenner, michael ralph<sep>khan, riaz ahmed<sep>jenner, michael ralph6, short streetpangbourne, oxfordshiregb<sep>khan, riaz ahmed"rumsey", old bath roadsonning, berkshiregb<sep>jenner, michael ralph<sep>khan, riaz ahmed<sep>jenner, michael ralph6, short streetpangbourne, oxfordshiregb<sep>khan, riaz ahmed"rumsey", old bath roadsonning, berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the preparation of a 2-chloro- 2-­ deoxy-mono, di- or oligo-saccharide, comprises reaction of a  mono-, di- or oligo-saccharide derivative having a free hyd­ roxy group in at least 2- position and having the hydroxy  group in at least the 1- and 3- positions protected from chlori­ nation, with sulphuryl chloride in the presence of an organic  base in a chlorinated hydrocarbon solvent at a temperature  below -40°c to form a chlorosulphate derivative with a  chlorosulphate derivative is then reacted with lithium chloride  in the presence of hexamethylphosphoric triamide to replace  chlorosulphate groups with chlorine atoms to form a  chlorodeoxy derivative, which chlorodeoxy derivative is then  freed of unwanted protecting groups.  
+</ABSTRACT>
+</TEXT>
+</DOC>

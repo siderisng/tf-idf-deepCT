@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000081
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-5/38 G03C-8/06 G03C-8/02 <main>G03C-5/40</main> G03C-5/40 G03F-7/06 G03F-3/10 G03C-8/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+etch bleaching liquid.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa_gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap<sep>
+</APPLICANT>
+<INVENTOR>
+claeys daniel alois<sep>janssens wilhelmus<sep>reyniers albert august<sep>claeys, daniel alois<sep>janssens, wilhelmus<sep>reyniers, albert august<sep>claeys, daniel aloisbloemenlei 52b-2510 mortselbe<sep>janssens, wilhelmusjan van harcourtlaan 35b-3220 aarschotbe<sep>reyniers, albert augustedegemse steenweg 108b-2550 kontichbe<sep>claeys, daniel alois  <sep>janssens, wilhelmus<sep>reyniers, albert august<sep>claeys, daniel aloisbloemenlei 52b-2510 mortselbe<sep>janssens, wilhelmusjan van harcourtlaan 35b-3220 aarschotbe<sep>reyniers, albert augustedegemse steenweg 108b-2550 kontichbe<sep>
+</INVENTOR>
+<ABSTRACT>
+an aqueous acidic etch-bleach solution comprising hydrogen  peroxide, iron(iii)ions and inorganic anions that form a  silver salt having a solubility product not greater than 1 x 10⁻⁸  determined in water at 20°c, characterized in that said solution  contains in dissolved state as combination of h₂o₂-stabilizing  agents citric acid and a polymer containing  alkylene oxide units.  said combination provides a solution to  the problem of producing ecologically acceptable and stable  h₂o₂-solutions containing iron(iii)ions.  the etch-bleach solution is useful for the production of  coloured relief images and lithographic printing plates starting  from silver images.  
+</ABSTRACT>
+</TEXT>
+</DOC>

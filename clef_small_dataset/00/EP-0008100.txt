@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008100
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08F-8/00</main> C12N-11/00 C12N-11/08 C07G-7/00 C08F-212/08 C08H-1/00 C08F-8/30 C08F-8/28 C08F-8/18 C08F-8/34 C08F-8/00 C08F-8/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of macroporous polymeric support material for the covalent binding of proteins.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+klefenz heinrich dr dipl-chem<sep>sanner axel dr dipl-chem<sep>tschang chung-ji dr dipl-chem<sep>klefenz, heinrich, dr. dipl.-chem.<sep>sanner, axel, dr. dipl.-chem.<sep>tschang, chung-ji, dr. dipl.-chem.<sep>klefenz, heinrich, dr. dipl.-chem.schillerstrasse 10d-6701 hochdorf-assenheim 2de<sep>sanner, axel, dr. dipl.-chem.lorscher ring 2 cd-6710 frankenthalde<sep>tschang, chung-ji, dr. dipl.-chem.albrecht-dürer-ring 14d-6710 frankenthalde<sep>klefenz, heinrich, dr. dipl.-chem.<sep>sanner, axel, dr. dipl.-chem.  <sep>tschang, chung-ji, dr. dipl.-chem.<sep>klefenz, heinrich, dr. dipl.-chem.schillerstrasse 10d-6701 hochdorf-assenheim 2de<sep>sanner, axel, dr. dipl.-chem.lorscher ring 2 cd-6710 frankenthalde<sep>tschang, chung-ji, dr. dipl.-chem.albrecht-dürer-ring 14d-6710 frankenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a macroporous cross-linked styrene resin as a carrier material for the covalent binding of proteins, the isocyanate, thioisocyanate or aldehyde groups as protein-binding groups and given if hydrophilic groups sulfonic acid groups, containing be contained in the form of the sodium salt, or as sulfone acid amide groups.The carrier material according to the invention is harrow of a sulfochlorinated macroporous crosslinking th styrenic resin, by reacting the sulfonic acid chloride groups with an α, ω-diamino compound, hydrazine or an α, ω-diaminodiether, implementation optionally still existing sulfonic acid chloride groups for free sulfonic acid, their sodium salt or to oneSulfone amide, and subsequent reaction of the terminal amino groups with phosgene, thiophosgen or a di isocyanate for producing binding groups, which in turn fixate a biologically active protein in covalent binding.
+</ABSTRACT>
+</TEXT>
+</DOC>

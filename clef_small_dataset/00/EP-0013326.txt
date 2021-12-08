@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013326
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-21/02 G05B-7/00 G05B-19/23 <main>G11B-5/55</main> G11B-21/10 G05B-17/00 G11B-27/00 G05B-21/00 G05B-19/19 G05B-7/02 G11B-5/55 G05D-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sampled data servo positioning system and sector disk file employing same.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+laishley william john<sep>taylor john richard<sep>laishley, william john<sep>taylor, john richard<sep>laishley, william john127 olivers battery roadolivers battery winchester, hampshiregb<sep>taylor, john richard4 highmount close stratton roadwinchester, hampshiregb<sep>laishley, william john<sep>taylor, john richard<sep>laishley, william john127 olivers battery roadolivers battery winchester, hampshiregb<sep>taylor, john richard4 highmount close stratton roadwinchester, hampshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a sampled data servo positioning system employs an  actuator (50) to move a member between a current and a  target position.  incremental position feedback is provided  only at sampling times.  the system employs a model (60,61,  64) responsive to a velocity related input signal to produce a  continually available model incremental position signal.   phase comparing means (70) indicates phase differences  between the model and sampled position signals at the sampling  times.  the system has two operational configurations in the first of  which a source of saturation control signals is connected to  the actuator to cause maximum acceleration or deceleration  thereof.  in this first configuration, the model is forced to track  the actuator motion by means of feed-forward plus feedback  control.  the feedforward signal represents actuator performance  while the feedback signal is the position signal phase  difference.  in the second operational configuration, a velocity  profile signal is applied to the model and the actuator is forced  to track the model by means of feedfoward plus feedback  control.  the feedback signal is again the position signal phase  difference but the feedforward signal is a predetermined  signal representing the desired actuator current to execute  the velocity profile.  the sampled data servo positioning system  may be the access motion control system of a sector  servo disk file.  
+</ABSTRACT>
+</TEXT>
+</DOC>

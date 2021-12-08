@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006995
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16C-33/76 F16J-15/32 <main>F16C-33/78</main> F16C-33/78 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sealing ring.
+</TITLE>
+<APPLICANT>
+goetze agde<sep>goetze ag<sep>goetze agbürgermeister-schmidt-strasse 17d-51399 burscheidde<sep>goetze ag <sep>
+</APPLICANT>
+<INVENTOR>
+johnen rolf<sep>johnen, rolf<sep>johnen, rolffröbelstrasse 1ad-5060 bergisch-gladbach 3de<sep>johnen, rolf<sep>johnen, rolffröbelstrasse 1ad-5060 bergisch-gladbach 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a sealing ring for roller bearings and especially tapered roller bearings, with an inner and an outer radial locating ring (12, 13) between which rollers (16) are located radially, being held equidistant from each other circumferentially by a retainer (17) consisting of an angled reinforcing ring (1) extending with a collar (3) bent principally radially from the axial flange (2) into a ring groove (18) of one of the two locating rings (13) and at least one sealing element (4, 10, 11) moulded onto this reinforcing ring (1) and located on the side away from the locating ring (13) and ring groove, whereby, in the region of the axial flange (2) of the reinforcing ring (1), a rubber bead (6) extends principally radially against the corresponding peripheral surface (19) of the locating ring (13) containing the ring groove (18). 
+</ABSTRACT>
+<DESCRIPTION>
+dichtungsring die erfindung bezieht sich auf einen dichtungsring für rollenlager, insbesondere kegelrollenlager mit einem radial inneren und einem radial äusseren lagerring, in deren radialem zwischenraum rollen angeordnet sind, die durch einen käfig in umfangsrichtung zueinander in gleichem abstand gehalten werden, bestehend aus einem etwa winkelförmigen versteifungsring, der sich mit einem vom axialschenkel im wesentlichen radial nach aussen abgebogenen kragen in eine ringnut eines der beiden lagerringe erstreckt, und mindestens eine. an diesem versteifungsring angeformten dichtelement, das auf der dem lagerring mit der ringnut abgewandten seite angeordnet ist. es ist allgemein bekannt, rollenlager so abzudichten, dass ihnen ein lippendichtungsring mit einer oder mehreren dichtlippen vorgeschaltet wird. daraus ergibt sich der nachteil, dass die ausführung lager plus lippendichtungsring relativ viel bauraum beansprucht und der heutigen anforderung nach möglichst kompakter und kurzer bauweise nicht mehr gerecht wird. weiterhin ist allgemein bekannt, dass rollenlager, insbesondere kegelrollenlager, zwar im montierten zustand den kunden angeliefert werden, von dem kunden aber in umständlicher weise in das zugehörige auf nahmetell eingebaut werden müssen, da gerade bei kegelrollenlagern der eine lagerring nur lose auf den kegelrollen aufliegt, weil er eine glatte lauffläche aufweist. der zweite lagerring ist mit einer radial zurückgesetzten lauffläche zur axialen arretierung der kegelrollen versehen und ist mit dem ersten lagerring nicht verbunden. es ist grundsätzlich durch die de - os 23 06 198 eine abdichtung für rollenlager, insbesondere für zylinder - und nadelrollenlager bekannt, die aus einem versteifungsteil besteht, bei dem an einem ende eine im wesentlichen axial nach aussen gerichtete gummischicht angeordnet ist, die in eine ausnehmung eines der beiden lagerringe einschnappt. weiterhin offenbart die de - os 23 06 198 eine abdichtung, die aus einem versteifungsteil besteht, das einen radial verlaufenden ringteil aufweist, welcher eine zur anlage an den lagerrollen geeignete oberfläche zur begrenzung einer relativen axialbewegung der rollen bildet, wobei eine radiale kante des ringteiles eine mehrzahl von ringförmig verteilten federansätzen bildet, die unter einem winkel in einer nut eines der beiden lagerringe angeordnet sind. durch diese anmeldung sind rollenlager ohne käfig bekannt, die durch die vorab beschriebenen dichtelemente abgedichtet werden. nachteilig ist zu bemerken, dass ein derartiger versteifungsring mit federansätzen relativ umständlich herzustellen ist, da zuerst die zwischenräume ausgestanzt werden müssen, ehe der versteifungsring gepresst werden kann. zum anderen ist man durch die relativ breite nut an gewisse toleranzen gebunden, um das axialspiel der rollen in grenzen zu halten. weiterhin ist zu bemerken, dass es zwar kostengünstiger ist, rollenlager ohne käfig herzustellen, es aber'fraglich ist, ob durch das dauernde beruhren der lagerrollen während des betriebes nicht so hohe temperaturen entstehen, die zur verformung oder zum schnellen verschleiss der rollen führen können. aus diesem grunde werden rollenlager mit käfig bevorzugt verwendet. es ist weiterhin durch die us - ps 2.878.084 eine kegelrollenlager - abdichtung bekannt, bei der ein lippendichtungsring, der aus einem elastomerteil und einem verstei fungsring besteht, mit in das lager integriert ist, und zwar in der art, dass sich der versteifungsring in eine ringnut des radial inneren lagerringes erstreckt. diese form entspricht zwar den heutigen forderungen nach kompakter bauweise, weist
+</DESCRIPTION>
+<CLAIMS>
+ patentansprüche:   1 . dichtungsring für rollenlager, insbesondere kegel rollenlager mit einem radial inneren und einem ra dial äusseren lagerring, in deren radialem zwischen raum rollen angeordnet sind, die durch einen käfig in umfangsrichtung zueinander in gleichem abstand gehalten werden, bestehend aus einem etwa winkelför migen versteifungsring, der sich mit einem vom axialschenkel im wesentlichen radial nach aussen ab gebogenen kragen in eine ringnut eines der beiden lagerringe erstreckt und mindestens einem an diesem versteifungsring angeformten dichtelement, das auf der dem lagerring mit der ringnut abgewandten seite angeordnet ist, dadurch gekennzeichnet,   dab    im be reich des axialschenkels des versteifungsringes ein sich im wesentlichen radial gegen die korrespon dierende umfangsfläche des lagerringes mit der ring nut erstreckender gummiwulst angeordnet ist.    2 . dichtungsring nach anspruch 1, dadurch gekennzeich net, dass der gummiwulst die form einer dichtlippe aufweist.   3 . dichtungsring nach den ansprüchen 1 und 2, dadurch gekennzeichnet, dass der kragen des versteifungs ringes mindestens auf der der dichtlippe zugewand ten stirnfläche eine gummibeschichtung aufweist.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012055
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-13/08 H01Q-13/18 H01P-5/16 H01Q-13/10 H01Q-25/00 H01Q-1/38 H01Q-25/02 H01Q-9/04 <main>H01Q-25/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+microstrip monopulse primary feed and antenna using same.
+</TITLE>
+<APPLICANT>
+thomson csffr  <sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+crochet pierre<sep>gautier francois<sep>pierrot robert<sep>crochet, pierre<sep>gautier, francois<sep>pierrot, robert<sep>crochet, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>gautier, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>pierrot, robert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>crochet, pierre<sep>gautier, francois  <sep>pierrot, robert <sep>crochet, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>gautier, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>pierrot, robert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The primary monopulse source printed for radar antenna comprises, disposed on a first face of a substrate of dielectric material (1), radiant zones (20, 21, 22, 23, 24) forming sow lanes, site difference and differedindependent deposit.A reception feed circuit (2) of the radiating areas is disposed on a second face of the substrate, opposite the first face.Connection means (3) provide the electrical connection of the radiating zones to the receiving power supply circuit in the thickness of the substrate (1).Application to airborne radar.
+</ABSTRACT>
+</TEXT>
+</DOC>

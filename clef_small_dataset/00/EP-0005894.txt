@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005894
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B62D-55/20</main> B62D-55/00 B62D-55/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+exciter apparatus and method for rotating chain or track bushings by combining static and dynamic torque.
+</TITLE>
+<APPLICANT>
+caterpillar tractor cous<sep>caterpillar tractor co. <sep>caterpillar tractor co.100 northeast adams streetpeoria, illinois 61629 us  <sep>caterpillar tractor co.<sep>
+</APPLICANT>
+<INVENTOR>
+hooker james arnet<sep>martin dean wallace<sep>williamson shellie orin<sep>hooker, james arnet<sep>martin, dean wallace<sep>williamson, shellie orin<sep>hooker, james arnet1120 brookhill roadpeoria illinois 61614us<sep>martin, dean wallace6709 n. weeshire courtpeoria illinois 61614us<sep>williamson, shellie orin1328 w. teton drivepeoria illinois 61614us<sep>hooker, james arnet <sep>martin, dean wallace<sep>williamson, shellie orin  <sep>hooker, james arnet 1120 brookhill roadpeoria illinois 61614us<sep>martin, dean wallace6709 n. weeshire courtpeoria illinois 61614us<sep>williamson, shellie orin1328 w. teton drivepeoria illinois 61614us<sep>
+</INVENTOR>
+<ABSTRACT>
+method and apparatus for rotating the bushings (26)  encircling the pins (38) of the pivoted interconnections of  track links (34,46), such as employed in crawler tracks or in  conveyor chains, in order to ensure regular wear of all parts  of said bushings in contact with a sprocket.  the improvement involves vibrating the links relatively  to one another by means of an exciter (68) acting between  members (48,52) secured to respective ones of the links  while applying a rotational force to the bushing by means  (18).  
+</ABSTRACT>
+</TEXT>
+</DOC>

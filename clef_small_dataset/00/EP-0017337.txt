@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017337
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01T-1/00 H01T-1/14 H01C-7/12 H01T-4/12 H01T-4/00 <main>H02H-9/06</main> H02H-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+line protector for a communications circuit.
+</TITLE>
+<APPLICANT>
+reliable electric cous<sep>reliable electric company<sep>reliance electric company29325 chagrin blvd.cleveland, ohio 44122us<sep>reliance electric company<sep>
+</APPLICANT>
+<INVENTOR>
+baumbach bertram william<sep>baumbach, bertram william<sep>baumbach, bertram william112 north waterman streetarlington heights illinois 60004us<sep>baumbach, bertram william<sep>baumbach, bertram william112 north waterman streetarlington heights illinois 60004us<sep>
+</INVENTOR>
+<ABSTRACT>
+a protector for a communications line comprises a three  electrode gas tube surge voltage arrester (8) as a primary  protective device and metal oxide varistors (24, 24a) as  additional protective devices.  in series with each side of the  line, is an inductor (22, 22a) that serves to isolate the gas tube  from the varistors at relatively fast rise times of transient  overvoltages.  the gas tube, the varistors and the inductors  are all mounted in a single housing (26) that is divided into  adjacent sections (40, 42) by an insulating member (38).  the  gas tube is in one section (40) and the inductors and varistors  are in the other section (42), the inductors being side-by-side  and each coaxial with a pin (32, 32a) that is adapted to be  connected to the line.  
+</ABSTRACT>
+</TEXT>
+</DOC>

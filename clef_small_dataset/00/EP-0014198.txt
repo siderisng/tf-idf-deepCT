@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0014198
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/40 H01L-25/11 H02K-11/04 H01L-25/10 H01L-23/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rotating rectifying device for the excitation of a synchronous machine.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciede<sep>brown, boveri & cie aktiengesellschaft mannheim<sep>brown, boveri &amp; cie aktiengesellschaft mannheimkallstadter strasse 1d-6800 mannheim käfertalde<sep>
+</APPLICANT>
+<INVENTOR>
+fischl rolfde<sep>jaeger kurtde<sep>roesch philippde <sep>wambsganss heinrichde   <sep>fischl, rolf<sep>jaeger, kurt<sep>roesch, philipp<sep>wambsganss, heinrich<sep>fischl, rolfbuchenweg 3d-6944 hemsbachde<sep>jäger, kurt strahlsunder weg 17d-6800 mannheimde<sep>rösch, philippam schlangenpfad 24d-6806 viernheimde<sep>wambsganss, heinrichfriedrichsplatz 15d-6800 mannheim 1de<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

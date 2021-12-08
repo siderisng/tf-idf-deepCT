@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000285
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-501/36</main> C07D-249/12 A61P-31/00 C07D-249/00 A61K-31/545 C07D-501/36 A61K-31/546 C07D-501/00 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+7-acylamino-3-((3-(carboxymethyl) thio-1 h-1,2,4-triazol-5-yl) thiomethyl)-3-cephem-4-carboxylic acid derivatives, processes for their preparation and compositions containing them.
+</TITLE>
+<APPLICANT>
+smithkline corpus<sep>smithkline corporation<sep>smithkline beckman corporationp.o. box 7929 1 franklin plazaphiladelphia pennsylvania 19101us<sep>smithkline beckman corporation<sep>
+</APPLICANT>
+<INVENTOR>
+berges david alan<sep>berges, david alan<sep>berges, david alan18 buckwalter roadphoenixville pennsylvania 19460us<sep>berges, david alan<sep>berges, david alan18 buckwalter roadphoenixville pennsylvania 19460us<sep>
+</INVENTOR>
+<ABSTRACT>
+cephalosporins of the formula    in which r represents various acyl substituents;   r′ represents hydrogen or an alkali metal salt, have anti-bacterial  activity.  they can be prepared by reacting 4,5-dihydro-5- thioxo-1h- 1,2,4- triazol-3-yl  thioacetic acid or an alkali metal salt  thereof with the corresponding 3-acetoxymethyl cephalosporin.   the thioacetic acids used as intermediates in preparing  cephalosporins of the invention are also part of the present  invention.  
+</ABSTRACT>
+</TEXT>
+</DOC>

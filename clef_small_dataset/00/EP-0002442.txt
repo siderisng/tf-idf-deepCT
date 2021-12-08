@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002442
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07F-17/24 G07F-1/00 G07F-17/00 <main>G07F-1/02</main> G07F-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mechanism for sealing coin insertion slots.
+</TITLE>
+<APPLICANT>
+kienzle apparate gmbhde<sep>kienzle apparate gmbh<sep>mannesmann kienzle gmbhheinrich-hertz-strasse 45d-78052 villingen-schwenningende<sep>kienzle apparate gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+kaiser bernhard<sep>wokock ortwin<sep>kaiser, bernhard<sep>wokock, ortwin<sep>kaiser, bernhardoderstrasse 15d-7730 villingen-schwenningende<sep>woköck, ortwinhirzwaldstrasse 15d-7220 villingen-schwenningende<sep>kaiser, bernhard  <sep>wokock, ortwin<sep>kaiser, bernhardoderstrasse 15d-7730 villingen-schwenningende<sep>woköck, ortwinhirzwaldstrasse 15d-7220 villingen-schwenningende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  locking device for the input slot (2) of coin-operated devices, especially parking meters, which is controlled by the insertion of a coin (m) having a coin mask (1) and mounted thereto locking member (3, 4) elastically pivotal in a plane vertical, to the coin plane characterized in that locking members (3, 4) are arranged in front of the input slot (2) to partially cover it and that by means of seperate driving parts (15, 16) cooperating whit guide slots (19, 20) they are in engagement with a locking cam (5) pivotally mounted behind the coin mask (1) so that when the locking members (3, 4) are simultaneously operated the locking cam (5) is moved to a position releasing the input slot (2) and that at least one of the locking members (3) by means of another guide slot (39) is in positive driving connection with a sensing means (27) which is only allowed to pivot when there is no coin (m) in the coin test means (31) so that the locking cam (5) is released for an opening motion. 
+</ABSTRACT>
+</TEXT>
+</DOC>

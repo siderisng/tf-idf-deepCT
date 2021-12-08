@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000397
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08G-69/46</main> C08G-69/00 C08G-69/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of polyamides.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende  <sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+cordes claus dr<sep>jeserich wolfgang-dieter dr<sep>cordes, claus, dr<sep>jeserich, wolfgang-dieter, dr.<sep>cordes, claus, drhalbergstrasse 13d-6719 weisenheimde<sep>jeserich, wolfgang-dieter, dr.anselm-feuerbach-strassed-6710 frankenthalde<sep>cordes, claus, dr <sep>jeserich, wolfgang-dieter, dr.  <sep>cordes, claus, drhalbergstrasse 13d-6719 weisenheimde<sep>jeserich, wolfgang-dieter, dr.anselm-feuerbach-strassed-6710 frankenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the production of polyamides by continuously polymerizing epsilon-caprolactam, extracting the polymer with water, concentrating the extract containing water, monomers and oligomers, the surfaces contacted by the extract being made of materials which are inert under the conditions of concentration, and recycling the concentrate to the polymerization zone without further purification or separation, characterized in that the extract concentrated to a solids content of at most 60% by weight is heated in a heat exchanger, for a short period, at a temperature above 140 degrees c but not exceeding 280 degrees c, and then directly introduced into the first polymerization stage. 
+</ABSTRACT>
+</TEXT>
+</DOC>

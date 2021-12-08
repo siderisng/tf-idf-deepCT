@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013259
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16C-29/06 F16C-31/00 F16C-29/00 <main>F16C-31/06</main> F16C-31/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+linearly moving and/or rotating guiding element.
+</TITLE>
+<APPLICANT>
+schmid sro kugellagerch<sep>sro kugellagerwerke j. schmid-roost ag<sep>sro kugellagerwerke j. schmid-roost agoerlikonerstrasse 70ch-8050 zurichch<sep>sro kugellagerwerke j. schmid-roost ag  <sep>
+</APPLICANT>
+<INVENTOR>
+borel denis<sep>borel, denis<sep>borel, denisrietacker 7ch-9548 matzingench<sep>borel, denis<sep>borel, denisrietacker 7ch-9548 matzingench<sep>
+</INVENTOR>
+<ABSTRACT>
+The axial-rotary guide element comprises an outdoor chon (1) and a cage (2) comprising closed circulation circuits (4) in which balls (6) and (7) circulate.The sleeve (1) having a continuous bore (3) on its circumference ensuring both the contact of the balls in work between the shaft (8) and the sleeve (1) and the radial return of these balls during recycling, the closed circuits (4) being two distinct categories, the first category comprising balls (6) smaller than the balls (7) of the second category, the means being intended to stop longitudinally the cage (2).At the sleeve (1).
+</ABSTRACT>
+</TEXT>
+</DOC>

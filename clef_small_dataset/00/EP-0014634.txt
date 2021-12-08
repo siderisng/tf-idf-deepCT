@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014634
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-10/20 H04B-10/16 H04B-10/00 G06F-3/00 H04B-10/213 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+active coupler between an optical bus line and one of the subscribers, and bus line having such active couplers.
+</TITLE>
+<APPLICANT>
+souriau & ciefr <sep>souriau & cie (s.a.)<sep>souriau &amp; cie (s.a.) 9/13, rue du général galliéni 92103 boulogne-billancourt fr<sep>
+</APPLICANT>
+<INVENTOR>
+crosnier jean-jacquesfr<sep>de mendez michelfr<sep>crosnier, jean-jacques<sep>de mendez, michel<sep>crosnier, jean-jacques31, ave de la paixf-92170 vanvesfr<sep>de mendez, michel7 voie de l'etoile du mesnilf-91310 montlheryfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an active coupler between an optical "bus" line and subscribers.It comprises an optical coupler (1), coupling a transmitter optical conductor (2) and a receiver optical conductor (3), and comprising a bypass device (4) not allowing a fraction of the incident light energy transmitted to the driverReceiver (3) and deriving another fraction of this individually illuminated light energy (5) controlling the injection into the optical coupler 1, by means of a photodeter (10).Luminous energy transmitted to the receiver conductor (3), in the restoration of the level.A switch (8, 9) controls the operation of the imageletter (10) and can itself be controlled by the photoreceptor or by an input signal emitted in (14) by the subscriber.Application to the transmission of digital information to subscribers by means of an optical "bus" bus line.
+</ABSTRACT>
+</TEXT>
+</DOC>

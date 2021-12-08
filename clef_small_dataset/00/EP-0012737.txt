@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012737
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+B27F-7/17 B27F-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stapling machine.
+</TITLE>
+<APPLICANT>
+luvinia agch<sep>luvinia a.g.<sep>luvinia a.g.baslerstrasse 102ch-8048 zurichch <sep>
+</APPLICANT>
+<INVENTOR>
+paulus jeanbe   <sep>paulus, jean<sep>paulus, jean12, avenue victor olivierb-1070 bruxellesbe<sep>
+</INVENTOR>
+<ABSTRACT>
+improved stapling machine comprising stapling heads (1, 1') actuated by a conventional control bar (10) in such a way that a lug (30, 30') for driving each head can penetrate into a receptacle in the bar.  in order to render one or more heads inoperative while retaining the other functions taken on by the stapler, such as jogging and transporting bundles, the said lug (30, 30') penetrates into a longitudinal uncoupling member (21, 21') of the bar, closed at its top part by a sliding bolt (24, 24').  <image>
+</ABSTRACT>
+<DESCRIPTION>
+machine d'agrafage perfectionnée. la présente invention est relative à des perfectionnements apportés aux machines d'agrafage en vue d'etendre leurs possibilités d'utilisation en facilitant des modifications opératoires de ces machines. les machines d'agrafage sont généralement utilisées dans des installations comportant en ligne au moins une assembleuse, une agrafeuse et ensuite une plieuse ou un autre équipement, par exemple, un bac de réception ou une table de réception descendante. les liasses produites par l'assembleuse peuvent être agrafées, par exemple, en un ou plusieurs points selon diverses dispositions par rapport au plan de la feuille, notamment "à cheval", est-à-dire en deux points situés sur la ligne médiane de l liasse, en un seul point dans un coin ou en un ou plusieurs points sur un bord longitudinal, etc. la position d'agrafage est déterminée d'une part par un positionnement des têtes d'agrafage sur une barre de commande et par un positionnement de butée arrotant la liasse en une disposition précise par rapport aux têtes après agrafage, la liasse passe dans une plieuse. dans le cas d'un agrafage "à cheval, par exemple, la feuille d'un format a3 peut être pliée en son milieu en format a4. des liasses de feuillets agrafées sur le côté ou en coin peuvent être aussi pliées,par exemple, pour une mise sous enveloppe. i1 est de nombreux cas dans lesquels le fonctionnement des différentes têtes d'agrafage doit être modifié pour procéder à des travaux différents0 c'est ainsi que l'on peut souhaiter ne pas agrafer des liasses et simplement transférer celles-ci depuis l'assembleuse vers la plieuse ou un autre équipement, tel qu'une table de réception qui permet le traitement de la liasse assemblée, par exemple, suparation, remariage, etc. l'installation comporte en fait des unités distinctes d'assemblage, d'agrafage et de pliage et il est donc possible de séparer et retirer l'agrafeuse de la ligne lorsque sa fonction ntest pas nécessaire. les utilisateurs ne souhaitent cependant pas devoir procéder à des démontages d'autant que l'agra feuse, même si elle n'est pas utilisée en tant que telle, est nécessaire pour assurer la fonction de réception et de taquage des liasses provenant de l'assembleuse et pour éjecter la liasse taquée vers la plieuse ou un autre équipement. i1 est également fréquent que lorsqu'une machine est équipée de deux têtes d'agrafage, on souhaite mettre l'une d'elles hors service, par exemple, lorsque la modification du travail entralne le passage d'un agrafage par deux agrafes à cheval" à un agrafage en coin. lorsqu'il est nécessaire de modifier de cette manière le fonctionnement d'une agrafeuse, les utilisa teurs recourent généralement à divcrs artifices. ' est ainsi qu'on procède dans certains cas au démontage de la tête qui n'est pas utilisée pour une opération donnée ce démontage est long et relativement compliqué et surtout, rend nécessaire, lors du remontage ultérieur, de réaliser un alignement précis avec l'enclume activée coopérant avec la tête pour l'agrafage. pour éviter de devoir procéder à ce réalignement, certains utilisateurs arrêtent l'alimentation du fil servant à former les agrafes. ceci est la cause non seulement d'une usure
+</DESCRIPTION>
+<CLAIMS>
+ revendications    1. machine d'agrafage perfectionnée dans laquelle les têtes d'agrafage   (1ss1')    sont actionnées par une barre de commande classique   (10),      dc    manière qu'un ergot d'entraînement (30, 30') de chaque tête puisse pénétrer dans un logement de la barre, caractérisée en ce que ledit ergot (30, 30') pénètre dans un décrochement longitudinal (21, 21') de la barre, fermé à sa partie supérieure par un verrou coulissant (24, 24').    2. machine d'agrafage selon la revendication 1, caractérisée en ce que le verrou (24, 24') est constitué par un coulisseau guidé dans une lumière pratiquée dans le sens longitudinal de la barre de commande et maintenu, et bloqué au besoin, par un dispositif de vis (26) et d'écrou (27), la longueur du coulisseau étant inférieure à celle de la lumière dans laquelle il coulisse, afin de pouvoir, dans un cas, solidariser la barre de commande à l'ergot   d'entraîne-    ment (30, 30') de la tête d'agrafage   (d,      1l)    et, dans un autre cas, permettre un mouvement libre de va-etvient de la barre de commande (10) sans entraîner l'ergot de la tête d'agrafage.     3. machine d'agrafage selon   l'une    quelconque des revendications 1 ou 2, caractérisée en ce que le verrou est loge dans l'épaisseur de la barre de commande.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008066
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-3/54 H04Q-11/04 H04Q-3/545 <main>H04Q-11/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+indirectly controlled telecommunication system equipped with time switching stages, in particular a telephone exchange system.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+muller helmut dipl-ing<sep>paulmichl erich dipl-ing<sep>rambold thomas dipl-ing<sep>von ow hans peter dr<sep>werres bernhard dipl-ing<sep>muller, helmut, dipl.-ing.<sep>paulmichl, erich, dipl.-ing.<sep>rambold, thomas, dipl.-ing.<sep>von ow, hans peter, dr.<sep>werres, bernhard, dipl.-ing.<sep>müller, helmut, dipl.-ing.meisenweg 3d-8033 planeggde<sep>paulmichl, erich, dipl.-ing.am würmufer 9d-8035 gautingde<sep>rambold, thomas, dipl.-ing.guardinistrasse 139d-8000 münchen 70de<sep>von ow, hans peter, dr.starnberger strasse 11d-8000 münchen 71de<sep>werres, bernhard, dipl.-ing.benediktenwand 23d-8000 münchen 90de<sep>muller, helmut, dipl.-ing.<sep>paulmichl, erich, dipl.-ing.<sep>rambold, thomas, dipl.-ing.<sep>von ow, hans peter, dr.<sep>werres, bernhard, dipl.-ing.<sep>müller, helmut, dipl.-ing.meisenweg 3 d-8033 planegg de  <sep>paulmichl, erich, dipl.-ing.am würmufer 9d-8035 gautingde<sep>rambold, thomas, dipl.-ing.guardinistrasse 139d-8000 münchen 70de<sep>von ow, hans peter, dr.starnberger strasse 11d-8000 münchen 71de<sep>werres, bernhard, dipl.-ing.benediktenwand 23d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  indirectly controlled telecommunications exchange system equipped with time channel couplers (tsu), in particular a telephone exchange system, comprising a control unit (gp1) which transmits items of informations, which are supplied by a working store (mu) and are destined to be emitted to a plurality of different switching devices (seu, ltu1. . . ltu8, tsu, cp, sesc) and which between supply and emission are supplemented by addresses, via time slot signal channels corresponding to the switching devices (seu, lzu1. . . ltu8, tsu, cp, sesc) at intervals of time to those determined inter alia by the time slots of the signal channels characterized in that a master unit (ssp) which controls the operating flow of the control unit (gp1) calls up the items of information from the working store (mu) by actually store positions of the working store (mu) by means of working store position addresses and forwards the items of information together with the working store position addresses to a fifo store (f), that the items of information are received unaltered by the fifo store (f), whereas the attached working store position addresses are firstly fed to a converter (u) by which they are converted into switching device addresses which are likewise stored in a fifo store (f) in individual assignment to the corresponding items of information, which simultaneously indicate the store positions of a buffer store (b) and which serve to actuate store positions of this buffer store (b), that the buffer store (b), which is operated in regular cyclic fashion, successively withdraws from the fifo store (f) the items of information with switching device addresses which it stores, with the aid of the switching device addresses which are likewise acquired, in its buffer store positions, and that in accordance with the cyclic mode of operation of the buffer store (b) the items of information are cyclically emitted to the switching devices (sesc) for which they are destined on the basis of their switching device addresses, and that in accordance with the actuation of the buffer store positions by means of the switching device addresses the buffer store positions are individually to the switching devices (seu, ltu1. . . ltu8, tsu, cp, sesc). 
+</ABSTRACT>
+</TEXT>
+</DOC>

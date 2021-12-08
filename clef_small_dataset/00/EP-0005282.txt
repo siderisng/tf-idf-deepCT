@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005282
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-3/24 H01B-3/18 C08L-19/00 <main>H01B-3/24</main> H01B-7/295 H01B-3/28 H01B-7/17 H01B-3/00 C08L-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+embedding mass for filling the voids in electrical apparatuses.
+</TITLE>
+<APPLICANT>
+micafil agch<sep>micafil ag<sep>micafil agbadenerstrasse nr.780ch-8048 zürichch<sep>micafil ag <sep>
+</APPLICANT>
+<INVENTOR>
+striffeler werner<sep>striffeler, werner<sep>striffeler, wernerhinterdorfstrasse 50ch-8405 winterthurch<sep>striffeler, werner<sep>striffeler, wernerhinterdorfstrasse 50ch-8405 winterthurch<sep>
+</INVENTOR>
+<ABSTRACT>
+The potting compound consists essentially of a chlorinated aliphatic or aromatic liquid hydrocarbon having at room temperature of low viscosity, a small amount of in the chlorinated hydrocarbon, acting as a HCl acceptor, to aliphatic amines inert, cycloaliphatic epoxy resin, a low molecular weight soluble in the chlorinated hydrocarbon, bromine-limiting Polybutadiene having a viscosity of about 2 x 10⁵ MPAs at room temperature, a coating at room temperature enabling aliphatic polyamine or polyaminoamide and a small amount of antimony trioxide. Further, the mass contains a mineral filler, color pigments, aging protection agents and up to 50% by volume of a gaseous substance in fine distributed state. The potting compound is particularly suitable for completing cavities in electrical apparatus, has good electrical dielectric strength and a low dielectric loss factor Tgδ and is self-extinguishing and compressible.
+</ABSTRACT>
+</TEXT>
+</DOC>

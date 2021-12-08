@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004350
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-17/42 H01C-7/12 H02G-7/00 H02H-9/04 H02G-7/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+aerial power transmission system.
+</TITLE>
+<APPLICANT>
+mitsubishi electric corpjp<sep>mitsubishi denki kabushiki kaisha<sep>mitsubishi denki kabushiki kaisha2-3, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>
+</APPLICANT>
+<INVENTOR>
+nagai nobuojp<sep>nagai, nobuo<sep>nagai, nobuo4-4-21, uegaharanishinomiya-shi, hyogo-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+lightning arresters, each comprising a non-linear resistor  made of a main component of zinc oxide and another  minor component are connected between a steel tower  and a power transmission cable supported on the steel  tower by an insulator and between the power transmission  cables in different phases whereby the lightning resistance  of the aerial power transmission system is improved.  
+</ABSTRACT>
+</TEXT>
+</DOC>

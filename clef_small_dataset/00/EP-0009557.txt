@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009557
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-5/02 H04L-25/30 H03M-5/16 <main>H04L-25/49</main> H03M-5/00 H04L-25/49 H04J-9/00 H04J-99/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuit for the simultaneous coding of two binary signal sequences into one pulse sequence, method and circuit for decoding the latter sequence, and their application to an interface transmitter-receiver.
+</TITLE>
+<APPLICANT>
+ibm us<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+monrolin jean-louis<sep>vachee pierre<sep>monrolin, jean-louis<sep>vachee, pierre<sep>monrolin, jean-louisle roc du triganf-06610 - la gaudefr<sep>vachee, pierrela cariatide 32 plan du boisf-06610 - la gaudefr<sep>monrolin, jean-louis  <sep>vachee, pierre<sep>monrolin, jean-louisle roc du triganf-06610 - la gaudefr<sep>vachee, pierrela cariatide 32 plan du boisf-06610 - la gaudefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for simultaneously coding two bit sequences in a single pulse sequence.Several binary signals are multiplexed in time using the RG1 and SER registers to generate a first bit sequence L applied to an encoder 10 which also receives a second bit sequence D and clock information CP.Each pair of bits L and D is coded as follows.When bit l is at a first binary level, the pair is coded in bipolar signal;In the other case, the pair is coded into a biphase signal.Application to interface circuits for data transmission.
+</ABSTRACT>
+</TEXT>
+</DOC>

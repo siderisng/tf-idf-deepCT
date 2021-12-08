@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004709
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-1/654 H04M-1/65 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to input circuits for telephone answering machines.
+</TITLE>
+<APPLICANT>
+ansafone ltdgb<sep>ansafone limited<sep>ansafone limitedlyon way frimley roadcamberley surrey gu16 5eygb <sep>
+</APPLICANT>
+<INVENTOR>
+gillott ralph gb  <sep>rawling howard simpsongb<sep>gillott, ralph<sep>rawling, howard simpson<sep>gillott, ralph16 hamesmoor road mytchettcamberley surrey gu16 6jbgb<sep>rawling, howard simpson4 lane end close shinfieldreading berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+an input circuit for a telephone answering machine.  the  circuit includes a first detector which gives a full-wave  rectified output representing an incoming ringing signal or  an outgoing dialling signal on a telephone line connected to  the machine.  the first detector is coupled via a delay to a first  input of a schmitt trigger circuit.  a second detector is  coupled to a high-pass filter which blocks an incoming  ringing signal but passes high frequency components of an  outgoing dialling signal.  the second detector, which also  gives a full-wave rectified output, is coupled via a pulse  stretch circuit to an inhibit input to the schmitt trigger  circuit.  the schmitt trigger circuit gives an output signal if  there is an output from the first detector but no output from  the second detector ie, only if there is an incoming ringing  signal.  each of the detectors includes a differencing amplifier  having resistors connected to its first and second inputs so  that the application of an a. c.  voltage causes a greater  current to flow to the second input then to the first input.  a  source of direct current is connected to the first input and the  ringing or dialling signal is applied to the second input.   when the alternating signal voltage makes an excursion in  one sense, the current flow into the second input is greater  than the sum of the current flows into the first, and the  output voltage of the amplifier moves in one direction.  when  the alternating voltage signal makes an excursion in the  opposite sense, the current flow into the first input is reduced  to zero and the output of the amplifier again moves in the  one direction.  
+</ABSTRACT>
+</TEXT>
+</DOC>

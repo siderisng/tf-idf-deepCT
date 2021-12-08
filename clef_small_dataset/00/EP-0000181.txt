@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000181
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21F-9/08 G21F-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for solidifying toxic and waste materials, in particular radioactive materials.
+</TITLE>
+<APPLICANT>
+stecker ingbuerode<sep>ingenieurbuero stecker<sep>ingenieurbüro steckerdelmenhorster strasse 20d-5000 köln 60de <sep>
+</APPLICANT>
+<INVENTOR>
+stecker josef de  <sep>stecker, josef<sep>stecker, josefgustav-cords-strasse 7d-5000 köln 60de<sep>
+</INVENTOR>
+<ABSTRACT>
+a process and apparatus for solidifying toxic and waste materials, in particular radioactive materials, by means of which it is possible to avoid an increase in volume, and to contain and render harmless the toxic or waste materials produced with the least possible amounts of neutral materials.  for this purpose, a solution or suspension of waste material is guided through a precoated filter which is subjected to freeze drying after being loaded with the waste materials, so that only the toxic waste materials remain attached to the surface of the filter.  a solidifying agent, e. g.  cement slurry, is then introduced into the dried filter, and penetrates into the cavities of the filter and completely surrounds the latter.  the process of filtering, freeze drying and solidification is carried out directly in the closed container (10) provided for the final disposal of the waste materials, which is filled with the filter medium (11a) and is connected to a cooling unit (31) which is connected on the other hand to a steam condenser (30) from which the extracted heat is once again supplied immediately to the container (10) in order to dry the filter medium (11a).  connected to the container (10) is a maser (25) which supplies the filter medium (11a) by means of microwaves with additional heat of an amount such that the frozen toxic material suspension is converted immediately from the solid ice phase into the steam phase.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

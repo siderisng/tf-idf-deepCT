@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008220
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-1/30 H04Q-1/457 <main>H04Q-1/457</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dual frequency tone decoder system interface.
+</TITLE>
+<APPLICANT>
+rolm corpus<sep>rolm corporation<sep>rolm corporation4900 old ironside drive, p.o. box 58075santa clara, ca 95052us<sep>rolm corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+hughes raymond jerald<sep>hughes, raymond jerald<sep>hughes, raymond jerald1745, maysong courtsan jose californiaus<sep>hughes, raymond jerald<sep>hughes, raymond jerald1745, maysong courtsan jose californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an interface between a telephone switch bus line (14)  and a dual tone multiple frequency (dtmf) type digital  tone decoder (12) is provided which minimizes false tone  decoding due to filter-induced transient oscillations (44)  caused by spurious impulse noise (40) and the like on the  input bus line (14).  the interface includes a limiter circuit  (20, 22) for generating a uniform amplitude output pulse  train (50) and a circuit (24) for automatically generating a  variable threshold which is time responsive to input signals  on the input bus line (14).  the variable threshold is used  by the limiter circuit (20, 22) to mask transient oscillations  (44) in the tone filter output.  only when persistent oscilla­ tions having a peak amplitude less than the threshold level  are delivered to the limiter from a tone filter (16, 18) will  input signals be recognised as valid switching tone signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

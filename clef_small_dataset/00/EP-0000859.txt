@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000859
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01F-3/02 G05D-11/13 B01F-3/00 G05D-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for mixing gases in accurate proportions.
+</TITLE>
+<APPLICANT>
+euratomlu<sep>europaeische atomgemeinschaft (euratom)<sep>europäische atomgemeinschaft (euratom)bâtiment jean monnet plateau du kirchberg boíte postale 1907l-1019 luxembourglu<sep>
+</APPLICANT>
+<INVENTOR>
+bobeldijk cornelisnl<sep>glaude philemon g j mnl<sep>kohnen hans willinl <sep>nagy endrenl <sep>schipper adrianus j j nl<sep>bobeldijk, cornelis<sep>glaude, philemon, g.j.m.<sep>kohnen, hans willi<sep>nagy, endre<sep>schipper, adrianus, j.j.<sep>bobeldijk, cornelis20, plevierweggroet (schoorl)nl<sep>glaude, philémon, g.j.m.62, hulstplantsoenschoorlnl<sep>kohnen, hans willi24, beekbergennl<sep>nagy, endre34 plevierweggroet (schoorl)nl<sep>schipper, adrianus, j.j.7, talingstraatgroet (schoorl)nl<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a method for mixing gases in accurate proportions with defined admixture of a first gas to a continuously flowing diluting gas and to an apparatus for carrying out the method.    the invention starts from the fact that particularly accurate dosing of the admixture of gas is possible in a wide range by a periodic addition of defined gas quantities, it being possible in a preferred further development of the invention to control the proportions in a simple manner via the pressure ratios selected.  by increasing the pressure of the gas to be admixed, the repetition frequency of the admixture of the defined volume is increased.  by altering the pressure of the gas to be admixed, dosing can be much finer than in the known methods and apparatuses.  altering the pressure of the gas components involved represents an essentially obvious means for adjusting the gas components of a gas mixture, familiar to the user from simple mixing apparatuses.  in the method according to the invention, however, the control of the pressure by evaluating a pressure difference is converted into a highly accurate control of quantities by volume.  the periodic admixture of small volumes of the first gas while keeping the flow of the diluting gas constant over time is effected in a gas dosing apparatus (5) which has a chamber (12) which is connected at least from time to time to a line (1) for the diluting gas and periodically connected to a feed line (line part) (2) for the first gas.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

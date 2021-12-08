@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005401
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-27/64 <main>G02B-23/08</main> G02B-23/02 G02B-23/16 G02B-23/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical panoramic-surveyance apparatus carried by a vehicle.
+</TITLE>
+<APPLICANT>
+telecommunications safr<sep>societe anonyme de telecommunications<sep>societe anonyme de telecommunications (s.a.t.)40 avenue de new yorkf-75116 parisfr<sep>societe anonyme de telecommunications<sep>
+</APPLICANT>
+<INVENTOR>
+baudot jean-jacques<sep>baudot, jean-jacques<sep>baudot, jean-jacquesle monastèref-92410 ville d'avrayfr<sep>baudot, jean-jacques  <sep>baudot, jean-jacquesle monastèref-92410 ville d'avrayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an optical device of the periscope type carried by a vehicle, comprising a rotary mounted wave tube in the vehicle around its optical axis, and a mirror placed at the upper end of the tube and mounted movable around thean orthogonal axis to the optical axis.The device comprises a first resolver (31) whose rotor is driven into synchronism with the sighting tube (3) and whose primers are connected to a vertical plant providing the pitch angle (θ₁) and the roll angle. roll.(θ₂) of the vehicle, a second resolver (41) providing a voltage representative of a site angle (S₀), a third resolver (33), a reaction loop (34, 35) for enslaving the output voltage of the thirdresolver (33) on the output voltage of the second resolver (41), and a ratio (15) of ratio 2: 1 mounted between the rotor of the third resolver (33) and the axis of the mirror (14).
+</ABSTRACT>
+</TEXT>
+</DOC>

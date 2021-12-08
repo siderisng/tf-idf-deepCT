@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002776
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-19/00 A61M-5/168 A61M-1/36 A61M-5/172 G06F-15/42 A61M-31/00 <main>A61M-5/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the preprogrammed insulin infusion.
+</TITLE>
+<APPLICANT>
+siemens agde <sep>siemens aktiengesellschaft berlin und munchen <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+franetzki manfred dr<sep>gagneur klaus<sep>prestele karl<sep>franetzki, manfred, dr.<sep>gagneur, klaus<sep>prestele, karl<sep>franetzki, manfred, dr.schleifweg 7bd-8521 uttenreuthde<sep>gagneur, klauswiesenweg 11d-8521 bubenreuthde<sep>prestele, karlleipziger strasse 74d-8520 erlangende<sep>franetzki, manfred, dr.<sep>gagneur, klaus<sep>prestele, karl<sep>franetzki, manfred, dr. <sep>gagneur, klaus<sep>prestele, karl<sep>franetzki, manfred, dr.schleifweg 7bd-8521 uttenreuthde<sep>gagneur, klauswiesenweg 11d-8521 bubenreuthde<sep>prestele, karlleipziger strasse 74d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a device (I, II) for the pre-programmable infusion of liquids in the human or animal body. Especially for diabetes therapy, it is desirable to infuse insulin in different rates in the patient's body because the insulin requirement of the culinary crankkin is subject to large fluctuations. A control device (I) therefore serves as a programmer for a microdosing unit (II). For a given program, the patient is forced to take the intake of meals u. Like. to comply with the preprogrammed control program. According to the invention, the control device (1) for the microdosing unit (11) storage means (5) for a predeterminable control program are assigned, wherein the control program on the control device (1) is directly retrievable from the patient. Only by selecting a number of the insulin units (IE) to be supplied in the body or the bread units (BE) recorded by the patient with a meal (BE) and a startup point of the program volunteer of the infusion started. In addition, certain basic rates of infusion can be selected by the patient. With the device according to the invention (I, II) diabetes patients can retrieve necessary insulin administrations for short programs during meals.
+</ABSTRACT>
+</TEXT>
+</DOC>

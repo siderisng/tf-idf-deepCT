@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008831
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-207/16 <main>C07D-207/16</main> C07D-207/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 1-(3-mercapto-2-d-methyl-propionyl)-l-proline and derivatives thereof.
+</TITLE>
+<APPLICANT>
+oce andeno bvnl<sep>oce-andeno b.v. <sep>océ-andeno b.v.grubbenvorsterweg 8nl-5928 nx venlonl   <sep>oce-andeno b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+de heij nicolaas antonius<sep>de heij, nicolaas, antonius<sep>de heij, nicolaas, antoniuswilgenstraat 22blericknl<sep>de heij, nicolaas, antonius  <sep>de heij, nicolaas, antonius wilgenstraat 22blericknl<sep>
+</INVENTOR>
+<ABSTRACT>
+prolin derivatives of the formula    wherein the part deriving from the prolin group has an  l-configuration and the part deriving from the 3-mercapto-2-­ methyl-propionic acid has a d-(-)- configuration; e. g.  1-­ (3-mercapto-2- d-methyl-propionyl)- l-prolin, and where r is  a hydroxyl group, an amino group or a lower alkoxy group  and r₁, and r₂ represent indpendently a hydrogen atom, a  hydroxyl group or a lower alkyl group, are prepared by  converting an optically active d-(-)-3-mercapto- 2-­ methyl-propionic acid, the mercapto function of which is pro­ tected, e. g.  by means of a benzoyl group, into the correspon­ ding acid chloride, reacting the acid chloride with an l-prolin  compound of the formula    having an l-configuration, and liberating the protected mer­ capto group in order to obtain the desired prolin derivative of  the formula ii.  
+</ABSTRACT>
+</TEXT>
+</DOC>

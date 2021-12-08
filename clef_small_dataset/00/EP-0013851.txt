@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013851
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12R-1/19 A61P-37/00 <main>C12P-21/00</main> C12R-1/43 C12P-21/00 A61K-39/09 A61K-39/102 A61K-39/02 A61K-39/108 A61K-39/085 C07K-14/41 A61K-35/74 A61K-39/07 C07K-14/195 A61K-39/05 A61P-37/04 C07K-14/00 A61K-35/66 C12R-1/22 A61K-39/39 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+purified bacterial proteoglycans, process for their preparation and vaccine containing them.
+</TITLE>
+<APPLICANT>
+fabre sa pierrefr<sep>pierre fabre s.a.<sep>pierre fabre s.a.125, rue de la faisanderief-75116 parisfr<sep>pierre fabre s.a. <sep>
+</APPLICANT>
+<INVENTOR>
+durand jacques<sep>dussourd d hinterland lucien<sep>normier gerard<sep>pinel anne-marie<sep>durand, jacques<sep>dussourd d'hinterland, lucien<sep>normier, gerard<sep>pinel, anne-marie<sep>durand, jacques6, rue du béarnf-81100 castresfr<sep>dussourd d'hinterland, luciendomaine de plombières avenue de lautrecf-81100 castresfr<sep>normier, gérard23, rue francis poullencf-81100 castresfr<sep>pinel, anne-marie22, rue des capucinsf-81100 castresfr<sep>durand, jacques <sep>dussourd d'hinterland, lucien  <sep>normier, gerard<sep>pinel, anne-marie<sep>durand, jacques6, rue du béarnf-81100 castresfr<sep>dussourd d'hinterland, luciendomaine de plombières avenue de lautrecf-81100 castresfr<sep>normier, gérard23, rue francis poullencf-81100 castresfr<sep>pinel, anne-marie22, rue des capucinsf-81100 castresfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for preparation of proteoglycans.It is a process for the preparation of purified bakterium membrane proteoglycans, characterized in that it comes to at least one step of treating gross proteoglycans in aqueous medium by a base or hypobromite, followed by the elimination of theExcess reagent and insoluble residue, purified proteoglycans in aqueous solution.These proteoglycans are useful as an ad adjuvant.
+</ABSTRACT>
+</TEXT>
+</DOC>

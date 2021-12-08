@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007878
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-31/06 H01L-31/07 <main>H01L-25/08</main> H01L-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photoelectric generator.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510 f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>
+</APPLICANT>
+<INVENTOR>
+chenevas-paule andre <sep>melnick igor<sep>vieux-rochas line<sep>chenevas-paule, andre<sep>melnick, igor<sep>vieux-rochas, line<sep>chenevas-paule, andré42, rue de stalingradf-38000 grenoblefr<sep>melnick, igor43 bis, rue malligandf-38000 grenoblefr<sep>vieux-rochas, line5, place de la mairief-38600 fontainefr<sep>chenevas-paule, andre<sep>melnick, igor<sep>vieux-rochas, line <sep>chenevas-paule, andré 42, rue de stalingrad f-38000 grenoblefr<sep>melnick, igor43 bis, rue malligandf-38000 grenoblefr<sep>vieux-rochas, line5, place de la mairief-38600 fontainefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a photovoltaic generator.This generator comprises a photovoltaic stack having a semiconductor layer (7) interposed between a layer (9) forming ohmic contact and a layer (8) forming a schottky contact.It is characterized in that it comprises at least one other voltaic photo stack formed on the basic stack, and having an identical struct, the layers (9, 11) forming ohmic contact being connected to each other, so as to constituteA first output terminal of the generator and the layer (8) for mant contact Schottky constituting a second output terminal of the generator.Application to the production of electrical energy.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011542
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-33/12</main> H01H-33/88 H01H-33/915 H01H-33/91 H01H-33/04 H01H-33/00 H01H-33/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit breaker with separated main and shunt current paths.
+</TITLE>
+<APPLICANT>
+merlin gerinfr<sep>merlin gerin<sep>merlin gerinrue henri tarzef-38050 grenoble cédexfr<sep>merlin gerin<sep>merlin gerin <sep>
+</APPLICANT>
+<INVENTOR>
+macaire marcel<sep>mircovich jean-louis<sep>macaire, marcel<sep>mircovich, jean-louis<sep>macaire, marcel3, rue adolphe muguetf-38120 saint-egrevefr<sep>mircovich, jean-louis15, avenue de grenoblef-38000 seyssinsfr<sep>macaire, marcel<sep>mircovich, jean-louis<sep>macaire, marcel<sep>mircovich, jean-louis  <sep>macaire, marcel3, rue adolphe muguetf-38120 saint-egrevefr<sep>mircovich, jean-louis15, avenue de grenoblef-38000 seyssinsfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The current supply terminals (20, 22) form bypass nodes of the main circuit (14) and the auxiliary circuit (16), which extend parallel to the low distance inside the envelope (10).A shunt conductor (54) is arranged in the auxiliary circuit (16) between the rod (46) and the lower terminal (22) and an intermediate wall (56) in the insulating riol sharing the internal space of the envelope (10) in two compartments (60, 62) superimposed, one (60) ren firm the main contacts (24, 38) and the other (62) the Inter Valle of cut (64).
+</ABSTRACT>
+</TEXT>
+</DOC>

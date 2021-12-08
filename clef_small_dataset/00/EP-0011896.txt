@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011896
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22D-11/16 B22D-11/124 <main>B05B-15/00</main> B05B-15/00 B22D-11/22 G01L-1/16 G01L-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for checking the operation of a plurality of liquid sprays, especially for use in a continuous casting apparatus.
+</TITLE>
+<APPLICANT>
+estel hoogovens bv nl<sep>estel hoogovens b.v.<sep>hoogovens groep b.v.p.o. box 10.000nl-1970 ca ijmuidennl<sep>estel hoogovens b.v. <sep>
+</APPLICANT>
+<INVENTOR>
+van der linden gerardus adrian<sep>van slooten mas<sep>van der linden gerardus adrianus cornelis<sep>van slooten, mas<sep>van der linden gerardus adrianus cornelislouise de colignylaan 31santpoort-zuidnl<sep>van slooten, masprof. ten doesschatestraat 303heemskerknl<sep>van der linden gerardus adrianus cornelis <sep>van slooten, mas  <sep>van der linden gerardus adrianus cornelislouise de colignylaan 31santpoort-zuidnl<sep>van slooten, masprof. ten doesschatestraat 303heemskerknl<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for continuous casting has pairs of rolls defin­ ing a path for the solidifying slab of steel.  between the rolls on  each side are rows of spray nozzles.  to check the operation of  the sprays and thus achieve uniform cooling, checking  apparatus (2) carrying detectors (5) for the sprayed water is  passed through the path.  to achieve a useful measure of the  spraying efficiency the detectors must be highly sensitive and  robust.  each detector(5) has a metal diaphragm which is set in  vibration by the sprayed water and a piezo-electric element  fixed to the diaphragm so as to emit a signal whose amplitude  is dependent on the amplitude of the vibration of the diap­ hragm.  
+</ABSTRACT>
+</TEXT>
+</DOC>

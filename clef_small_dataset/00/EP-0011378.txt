@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011378
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16F-15/26 F02B-67/00 F02B-3/00 F02B-77/00 F16F-15/22 F02B-75/00 F02B-75/20 <main>F16F-15/26</main> F02B-75/18 F02B-3/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an internal combustion engine having a balancing device.
+</TITLE>
+<APPLICANT>
+kubota ltd jp  <sep>kubota limited<sep>kubota limitedno. 22, 2-chome funade-machi naniwa-kuosaka-shi osaka 556jp<sep>kubota limited<sep>
+</APPLICANT>
+<INVENTOR>
+aketa masahiro<sep>sakano kenji<sep>yamashita kenji<sep>yamashita masahiro<sep>aketa, masahiro<sep>sakano, kenji<sep>yamashita, kenji<sep>yamashita, masahiro<sep>aketa, masahiroc/o kubota limited sakai seizosho64 ismizukitamachi sakaishi, osakajp<sep>sakano, kenjic/o kubota limited sakai seizosho64 ismizukitamachi sakaishi, osakajp<sep>yamashita, kenjic/o kubota limited sakai seizosho64 ismizukitamachi sakaishi, osakajp<sep>yamashita, masahiroc/o kubota limited sakai seizosho64 ismizukitamachi sakaishi, osakajp<sep>aketa, masahiro <sep>sakano, kenji<sep>yamashita, kenji  <sep>yamashita, masahiro<sep>aketa, masahiroc/o kubota limited sakai seizosho64 ismizukitamachi sakaishi, osakajp<sep>sakano, kenjic/o kubota limited sakai seizosho64 ismizukitamachi sakaishi, osakajp<sep>yamashita, kenjic/o kubota limited sakai seizosho64 ismizukitamachi sakaishi, osakajp<sep>yamashita, masahiroc/o kubota limited sakai seizosho64 ismizukitamachi sakaishi, osakajp<sep>
+</INVENTOR>
+<ABSTRACT>
+a balancing device comprises three rotating balancers  mounted within a housing 24 detachably mounted on a  reciprocating piston, internal combustion engine e.  the  balancers are driven by the crankshaft 4 of the engine and  the device generates a balancing force fb chosen to cancel a  second harmonic component of a vibrating force fr pro­ duced by the engine.  the vibrating force fr lies on a vibration  line s, and the balancing force fb is spaced a distance ℓ  therefrom, whereby a oscillatory moment m is generated.   the balancing device also generates a balancing moment  -m, chosen to cancel the oscillatory moment m.  
+</ABSTRACT>
+</TEXT>
+</DOC>

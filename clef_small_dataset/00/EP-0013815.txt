@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013815
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01L-21/56</main> H01L-23/29 H01L-21/56 H01L-23/28 H01L-21/316 H01L-21/02 H01L-23/31 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+glass-sealed multichip process.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+johnson joseph edgar<sep>johnson, joseph edgar<sep>johnson, joseph edgar39 churchill roadpittsburgh, pennsylvaniaus<sep>johnson, joseph edgar<sep>johnson, joseph edgar39 churchill roadpittsburgh, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+the preferred embodiment of the invention comprises a  glass sealed thyristor (10) and a method for simultaneously  constructing a plurality of thyristors on a common semicon­ ductor wafer (46).  the thyristor utilizes a body of semicon­ ductor material with the cathode and base regions (20, 24)  extending to one major surface (14) and the anode region  (22) extending to the second major surface (16).  a groove  (36) is etched in the first surface of the body of semiconduc­ tor material to expose the pn junction formed at the interface  of the cathode emitter and cathode emitter base regions.  a  second groove (40) is etched in the second major surface to  expose the pn junction formed at the interface of the anode  emitter region and the anode emitter base region.  ring  shaped glass members (42) are fused to the body of semi­ conductor material to form seals providing environmental  protection for the pn junctions exposed by etching the  grooves in the major surfaces of the body of semiconductor  material.  a plurality of thyristors can be simultaneously con­ structed on a common semiconductor wafer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

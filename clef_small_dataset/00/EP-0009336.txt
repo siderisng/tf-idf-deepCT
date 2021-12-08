@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009336
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F02P-7/02</main> F02P-7/00 F02P-7/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+voltage distributor for internal combustion engines.
+</TITLE>
+<APPLICANT>
+ford francefr<sep>ford motor cogb<sep>ford motor cous<sep>ford werke agde<sep>ford france societe anonyme <sep>ford motor company<sep>ford motor company limited  <sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor companythe american roaddearborn, mi 48121us<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+fedison walter william jr<sep>michie donald robert<sep>scussel august joseph<sep>fedison, walter william, jr.<sep>michie, donald robert<sep>scussel, august joseph<sep>fedison, walter william, jr.3150 groveland roadortonville michigan 48462us<sep>michie, donald robert6 snow courtdearborn michigan 48124us<sep>scussel, august joseph32849 robinhoodbirmingham michigan 48010us<sep>fedison, walter william, jr.<sep>michie, donald robert<sep>scussel, august joseph <sep>fedison, walter william, jr.3150 groveland roadortonville michigan 48462us   <sep>michie, donald robert6 snow courtdearborn michigan 48124us<sep>scussel, august joseph32849 robinhoodbirmingham michigan 48010us<sep>
+</INVENTOR>
+<ABSTRACT>
+a distributor for use in internal combustion engines  requiring sequential application of high voltage to pairs of  spark plugs in each cylinder by a separate high voltage  supply circuit comprises a base portion (12) and a cap  portion (14) formed of like insulative material.  the base  and cap portions of the distributor contain separate sets of  switching contacts (121, 221) connected to associated  external terminals (111, 211) and separate rotor conductors  (142, 242) on a common rotor element (16).  half the ex­ ternally mounted terminals in each portion extend in a  direction diametrically opposite to the other half so as to  eliminate external spark plug wire crossover at the distri­ butor and are electrically connected to the contacts by  means of wires internally moulded into the insulation of the  portions.  an installation alignment feature includes a series  of apertures (34, 36, 38) in the rotor and the base, whereby  a pin (20) inserted therein aligns the rotor conductors to  be in accurate registration with a predetermined pair of  switching contacts.  a unique hexagonal drive shaft (18)  provides for an allowable degree of error in mounting the  distributor with respect to an axial drive socket on the  engine.  
+</ABSTRACT>
+</TEXT>
+</DOC>

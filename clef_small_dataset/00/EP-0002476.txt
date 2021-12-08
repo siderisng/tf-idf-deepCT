@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002476
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07C-41/00 C07D-213/00 <main>G03C-1/34</main> C07C-29/00 C07C-201/00 G03C-1/34 C07C-33/48 C07C-43/225 C07D-233/56 C07C-67/00 C07C-205/11 C07C-43/00 G03C-7/30 C07C-43/23 C07C-43/295 C07D-521/00 C07C-29/62 C07D-233/00 C07C-33/40 G03C-7/00 C07C-33/00 C07C-27/00 C07D-213/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic material and photographic treating baths containing a stabiliser and a process for the fabrication of photographic images in the presence of a stabilising agent.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+jager gerhard dr<sep>liebe werner dr<sep>voigt armin dr<sep>von konig anita dr<sep>jager, gerhard, dr.<sep>liebe, werner, dr.<sep>voigt, armin, dr.<sep>von konig, anita, dr.<sep>jäger, gerhard, dr.claudiusweg 5d-5600 wuppertal 1de<sep>liebe, werner, dr.am thelenhof 28d-5090 leverkusende<sep>voigt, armin, dr.an der ruthen 6d-5000 köln 80de<sep>von könig, anita, dr.schoenwasserstrasse 230d-4150 krefeldde<sep>jager, gerhard, dr.<sep>liebe, werner, dr.<sep>voigt, armin, dr.<sep>von konig, anita, dr.<sep>jäger, gerhard, dr.claudiusweg 5d-5600 wuppertal 1de<sep>liebe, werner, dr.am thelenhof 28d-5090 leverkusende<sep>voigt, armin, dr.an der ruthen 6d-5000 köln 80de<sep>von könig, anita, dr.schoenwasserstrasse 230d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+Compounds of the formula given below are suitable as stabilizers for photographic materials, in photographic baths in the production of photographic images.The compounds correspond to the formula or a salt thereof: wherein R¹ is alkyl, aryl, aralkyl, heterocyclyl R² OH or heterocyclyl R³ aryl halogen halogen.
+</ABSTRACT>
+</TEXT>
+</DOC>

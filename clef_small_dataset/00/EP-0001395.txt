@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001395
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-405/06 C07D-207/40 C07D-209/52 C07D-209/96 C07D-405/00 A01N-37/32 C07D-207/408 C07D-207/404 C07D-209/00 C07D-207/00 C07D-405/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted n-phenyl-2,5-pyrrolidinones, method for their preparation and their use as fungicides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusen de<sep>
+</APPLICANT>
+<INVENTOR>
+brandes wilhelm dr de <sep>draber wilfried drde<sep>knops hans-joachim drde<sep>paul volker drde<sep>brandes, wilhelm, dr.<sep>draber, wilfried, dr.<sep>knops, hans-joachim, dr.<sep>paul, volker, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5653 leich-lingen 1de<sep>draber, wilfried, dr.in den birken 81d-5600 wuppertal 1de<sep>knops, hans-joachim, dr.claudiusweg 3d-5600 wuppertal 1de<sep>paul, volker, dr.ahornstrasse 5d-5650 solingen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+the compounds of the formula <image> in which r<1>, r<2>, r<3>, x and y have the meaning indicated in the description, are obtained when succinic anhydrides are reacted with anilines in the presence of a diluent and the resulting hemiamides are cyclised in the presence of a dehydrating agent.  the active compounds according to the invention have a broad spectrum of action and can be used against parasitic fungi, which infest above-ground parts of plants or attack the plants from the soil, and against pathogens which can be transferred by seeds.  the active compounds according to the invention can be used to particularly good effect as plant protecting agents for controlling botrytis and pellicularia, and as cereal dressing agents, in particular against wheat bunt. 
+</ABSTRACT>
+</TEXT>
+</DOC>

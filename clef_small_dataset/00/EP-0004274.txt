@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004274
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/082 H03K-19/091 H01L-27/08 <main>H03K-19/082</main> H01L-21/8222 H03K-19/082 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+basic integrated transistor logic circuit and logic circuit using such a basic circuit.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+harris james herbert<sep>harris, james herbert<sep>harris, james herberteight john perry drivedanbury connecticut 06810us<sep>harris, james herbert<sep>harris, james herberteight john perry drivedanbury connecticut 06810us<sep>
+</INVENTOR>
+<ABSTRACT>
+In a basic circuit of an integrated transistor logic, a constantly powered injector is attached to the base of a first normally operated transistor (T5). Depending on an additionally supplied logical input signal, the current is injected either into the base, so that the transistor (T5) is conductive, or derived from the base, so that the transistor (T5) is locked. The semiconductor zones forming the collector and the base of the first transistor (T5) simultaneously represent the collectors and bases of additional second transistors (T2, T3, T4) whose emitters form the outputs of the logical basic circuit. The second transistors (T2, T3, T4) likewise conductive in the switching state with conductive first transistor (T5) are operated in an inverse direction. This arrangement ensures primarily that even with the occurrence of short circuits or leakage current paths due to the base zones of the transistors, the functionality of the circuit is maintained in most cases.
+</ABSTRACT>
+</TEXT>
+</DOC>

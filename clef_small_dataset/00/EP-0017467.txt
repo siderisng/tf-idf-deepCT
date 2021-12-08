@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017467
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03H-3/08</main> G01R-31/02 H03H-9/25 H03H-9/00 H03H-3/00 H03H-3/08 H03H-9/145 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing acoustic surface wave device.
+</TITLE>
+<APPLICANT>
+fujitsu ltd jp <sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited  <sep>
+</APPLICANT>
+<INVENTOR>
+ono masaaki<sep>wakatsuki noboru<sep>ono, masaaki<sep>wakatsuki, noboru<sep>ono, masaaki599, chitosetakatsu-ku, kawasaki-shi kanagawa, 211jp<sep>wakatsuki, noboru1540-3-402, nakanoshimatama-ku, kawasaki-shi kanagawa 214jp<sep>ono, masaaki<sep>wakatsuki, noboru<sep>ono, masaaki599, chitosetakatsu-ku, kawasaki-shi kanagawa, 211jp<sep>wakatsuki, noboru1540-3-402, nakanoshimatama-ku, kawasaki-shi kanagawa 214jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of manufacturing an acoustic surface wave  device comprising: forming two pairs of transducers (2-1,2-2  and 3-1, 3-2), a multistrip coupler (8) and lead patterns (10)  for electrically shorting at least one pair of the transducers on  a piezoelectric material (1); mounting the piezoelectric  material (1) on a package base (11) having pins (12, 13);  bonding the electrodes (9) of the opened transducers to the  pins (12, 13) by wires (w1, w2, w3, w4); and testing the  device.  in this manufacturing method, testing is carried out  without using probing technology.  
+</ABSTRACT>
+</TEXT>
+</DOC>

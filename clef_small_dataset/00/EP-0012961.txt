@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012961
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02H-3/46 H02P-9/04 H02H-3/48 <main>G01R-23/15</main> H02J-3/46 G01R-23/00 G01R-23/15 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the determination of faults in electric distribution networks influencing the frequency and application of such a device for frequency regulation in said networks.
+</TITLE>
+<APPLICANT>
+grimm german ing grad<sep>grimm, german, ing. grad.<sep>grimm, german, dipl.-ing.am feldrain 8d-8061 hebertshausende<sep>grimm, german, dipl.-ing.<sep>
+</APPLICANT>
+<INVENTOR>
+grimm german ing grad<sep>grimm, german, ing. grad.<sep>grimm, german, dipl.-ing.am feldrain 8d-8061 hebertshausende<sep>grimm, german, dipl.-ing.<sep>grimm, german, dipl.-ing.am feldrain 8d-8061 hebertshausende<sep>
+</INVENTOR>
+<ABSTRACT>
+A device for determining the mains frequency affecting disturbances in electrical power supply networks is proposed and the use of such device in an adaptive frequency control for electrical power supply networks. A delay and button circuit (4), which is connected to a frequency deviation responsive measuring circuit (2), is operated by the output signals of a timing circuit (5) which is connected to a measuring circuit (19) responsive to the frequency changing speed. Output signals (6.7) of the delay and button circuit (4) containing information about the frequency profile in time before and after the fault are compared (8) and provide a display (12) via the fault-related power as well as more computational Processing (32) with the frequency changing speed representing signals information (13) via the troubleshooting location within the network.
+</ABSTRACT>
+</TEXT>
+</DOC>

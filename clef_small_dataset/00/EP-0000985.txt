@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000985
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/372 A61N-1/362 A61N-1/37 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+program alteration security for programmable pacers.
+</TITLE>
+<APPLICANT>
+stimtechus<sep>stimtech, inc.  <sep>stimtech, inc.9440 science center driveminneapolis, minnesota 55428us<sep>
+</APPLICANT>
+<INVENTOR>
+keller john walterus<sep>keller, john walter<sep>keller, john walter8600 s.w. 54th avenuemiami floridaus<sep>
+</INVENTOR>
+<ABSTRACT>
+in order to prevent erroneous interpretations of spurious  alterations, a distinct enabling signal is required in  order for programming alteration of data signals to be  logically processed by the pacer.  a magnetic enabling  signal is coupled to the patient, during which time pulse  width modulated programming alteration bits are separately  magnetically coupled to the pacer.  the logical combination  of both such signals is required for programming  changes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

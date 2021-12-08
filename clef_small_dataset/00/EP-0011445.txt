@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011445
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04B-43/08 F04B-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pump.
+</TITLE>
+<APPLICANT>
+millars wellpoint intgb<sep>millars wellpoint international limited<sep>millars wellpoint international limited station road barnhamthetford norfolk ip24 2pdgb <sep>
+</APPLICANT>
+<INVENTOR>
+potter ernest williamgb<sep>white james kerslakegb<sep>potter, ernest william<sep>white, james kerslake<sep>potter, ernest william2, armstrong closehundon suffolkgb<sep>white, james kerslake63, conway roadlondon n14 7bdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+in a pump capable of pumping water containing sand at  a rate of 10 m³/h a piston (8) is mechanically reciprocated  within a flexible sleeve (4) sealingly connected between a  movable member (3) carrying the piston (8) and a fixed  member (2) provided with an inlet port (11) and an outlet port  (12), each having non-return valves.  the sleeve (4) is of  polymeric material, preferably rubber or a fluorocarbon, is  capable of withstanding an internal pressure of at least 0. 5  mpa, and has a life of at least 20 million cycles.  the pump  can be used for de-watering foundations in building con­ struction.  
+</ABSTRACT>
+<DESCRIPTION>
+pimp this invention relates to pumps capable of pumping at the rate of 10 m3/h water containing solid particles such as sand. in the de-watering of foundations in the constructions of buildings, large quantities of water containing solid impurities often have to be raised through considerable heights for extended periods of time (e.g. several months). what is desired is a pump which can perform this function, which is robust in construction, and is not liable to damage by the solids. heavy duty pumps commonly have a reciprocating piston or rotary member moving in a metal casing. however, serious problems of wear and sealing arise because of the abrasive effect of the solid particles and the pressure differentials required to raise the water. diaphragm pumps might solve the problems of wear and sealing but would in general provide an insufficiently high pumping rate. in order to overcome these difficulties the present invention provides a pump capable of pumping at a rate of 10 m3/h water containing solid particles such as sand, the pump comprising a pump chamber of variable volume defined by a fixed end-member, an end-member movable towards and away from the fixed end-member, a flexible sleeve sealingly connected between the end-members, and a piston fixed to the movable end-member and projecting towards the fixed end-member, the fixed end-member having an inlet port and an outlet port each provided with a non-return valve, and mechanical reciprocating means for moving the movable end-member to and from a position at which the volume of the pump chamber is at a minimum and the sleeve is convoluted with at least one outward bulge, the sleeve being of polymeric material, being capable of withstanding an internal pressure of at least 0.5 mpa, and having a life of at least 20 million cycles of reciprocation before failure. the use of a piston reciprocating within a strong flexible polymeric sleeve avoids the necessity for mutually sliding surfaces and thus avoids -the problem of abrasion by solid particles. an advantage of polymeric material is its resistance to corrosion. the preferred sleeve is of natural or synthetic rubber or a fluorocarbon (e.g. pplytetrafluoroethylene). although the pump is primarily intended for pumping water containing solid particles such as sand, which may be in the form of a slurry (usually containing air), this does not preclude the use of the pump for pumping other fluids. the choice of polymeric material for the sleeve will depend on the range of fluids it is desired to pump. preferably the sleeve is circumferentially reinforced externally (e.g. by rings of metal or plastics material) and/or internally (e.g. by fabric or rings of metal or plastics material). the preferred sleeve is substantially barrel-shaped when the movable end-member is in the second extreme position. however, in order to reduce the maximum/minimum volume ratio of the pump chamber, the sleeve may have more than one convolution; this also limits the extent to which the sleeve bulges out at the minimum volume of the pump chamber. the distance
+</DESCRIPTION>
+<CLAIMS>
+1. a pump capable of pumping at a rate of 10 m3/h water containing   solid particles such as sand, the pump comprising a pump chamber (1) of variable volume defined by a fixed end-member (2), an end-member (3) movable towards and away from the fixed end-member (2), a flexible sleeve (4) sealingly connected between the end-members (2,3), and a piston (8) fixed to the movable end-member (3) and projecting towards the fixed end-member (2), the fixed end-member (2) having an inlet port (11) and an outlet port (12) each provided with a non-return valve, and mechanical reciprocating means (16 to 20) for moving the movable end-member (3) to and from a position at which the volume of the pump chamber (1) is at a maximum and the sleeve (4) is convoluted with at least one outward bulge, the sleeve (4) being of polymeric material, being capable of withstanding an internal pressure of at least 0.5 mpa,   and having a life of at least 20 million cycles of reciprocation before failure.   2. a pump as claimed in claim 1, in which the sleeve (4) is of rubber.   3. a pump as claimed in claim 1 or 2, in which the sleeve (4) is circumferentially reinforced.   4. a pump as claimed in any of claims 1 to 3, including guide means (13,14) for preventing rocking of the movable end-member (3) during reciprocation.     5. a pump as claimed in any of claims 1 to 4, in which the pump chamber (1) is one of a pair of similar pump chambers (1) whose movable end-members (3) are driven by the reciprocating means (16 to 20) in such a way that the volume of one chamber increases as that of the other decreases.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013651
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-39/02 <main>C07H-15/04</main> C07K-9/00 C08G-69/00 C08G-69/48 C08G-69/10 A61K-37/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+muramyl peptides fixed on peptide polymers and medicaments containing them.
+</TITLE>
+<APPLICANT>
+anvarfr<sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche<sep>
+</APPLICANT>
+<INVENTOR>
+audibert francoise<sep>chedid louis<sep>choay jean <sep>lederer edgar <sep>lefrancier pierre<sep>parant monique<sep>sela michael<sep>audibert, francoise<sep>chedid, louis<sep>choay, jean<sep>lederer, edgar<sep>lefrancier, pierre<sep>parant, monique<sep>sela, michael<sep>audibert, françoise44, rue ibryf-92200 neuilly sur seinefr<sep>chedid, louis16-18, rue gaston de caillavetf-75015 parisfr<sep>choay, jean130, faubourg saint-honoréf-75008 parisfr<sep>lederer, edgar9 boulevard colbertf-92330 sceauxfr<sep>lefrancier, pierre20, rue des bleuetsf-91440 bures sur yvettefr<sep>parant, monique33, rue croulebarbef-75013 parisfr<sep>sela, michaelthe weizmann institute of sciencerehovotil<sep>audibert, francoise<sep>chedid, louis<sep>choay, jean<sep>lederer, edgar<sep>lefrancier, pierre<sep>parant, monique<sep>sela, michael<sep>audibert, françoise44, rue ibryf-92200 neuilly sur seinefr <sep>chedid, louis16-18, rue gaston de caillavet f-75015 paris fr  <sep>choay, jean130, faubourg saint-honoréf-75008 parisfr<sep>lederer, edgar9 boulevard colbertf-92330 sceauxfr<sep>lefrancier, pierre20, rue des bleuetsf-91440 bures sur yvettefr<sep>parant, monique33, rue croulebarbef-75013 parisfr<sep>sela, michaelthe weizmann institute of sciencerehovotil<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to products with immunostimulatory properties, in particular anti-infectious, of formula: wherein R, R₁, R₂, R₄, R₆ are hydrogen or substituents, X is an aminoacycle of the series D, Y isHydroxyl or substituent, Z is formed from 1 to 3 aminoacyl residues, p is a peptide polymer structure, and n is at most equal to the number of amine functions carried by the structure p.
+</ABSTRACT>
+</TEXT>
+</DOC>

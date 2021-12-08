@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007001
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-12/10 G11C-9/06 <main>G06F-9/36</main> G06F-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+constrained paging data processing apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+beacom thomas joseph<sep>kindseth douglas michael<sep>mitchell glen robert<sep>beacom, thomas joseph<sep>kindseth, douglas michael<sep>mitchell, glen robert<sep>beacom, thomas joseph109 8th st., n.w.rochester, minnesota 55901us<sep>kindseth, douglas michael303 5th ave., s.e.stewartville, minnesota 55976us<sep>mitchell, glen robertroute no. 1pine island, minnesota 55963us<sep>beacom, thomas joseph <sep>kindseth, douglas michael<sep>mitchell, glen robert  <sep>beacom, thomas joseph 109 8th st., n.w.rochester, minnesota 55901us<sep>kindseth, douglas michael303 5th ave., s.e.stewartville, minnesota 55976us<sep>mitchell, glen robertroute no. 1pine island, minnesota 55963us<sep>
+</INVENTOR>
+<ABSTRACT>
+data processing apparatus is provided with a paging  facility constrained in that the number of pages of any group  of pages (defined by a specific bit pattern is a first subset of  virtual address bits) in residence in the direct access data store  is limited to n.  the address translation apparatus included  comprises two table look-up mechanisms arranged to main­ tain a mapping of selected virtual to real address relationships  of pages in residence, the first table look-up mechanism hav­ ing c/n addressable locations of n fields and the second table  look-up mechanism having c single field addressable loca­ tions, when c is the maximum number of pages in residence,  so that, for a filled direct access data store there is one field in  each table look-up mechanism for each page in residence.   both table look-up mechanisms are addressed by the first  subset of bits of a virtual address presented for translation  and, in addition, the second table look-up mechanism is  addressed in response to the operations of the first table  look-up mechanism.  either the first or the second table look-­ up mechanism generates, the real page addresses appropri­ ate to the current mapping.  the first table look-up mechanism  contains entries each identifying the states of a second subset  of virtual address bits of pages of the associated group in  residence.  the second subset bits of a virtual address pre­ sented for translation are compared with all the output fields  of the first table look-up mechanism using n compare circuits,  outputting to the second table look-up addressing mechan­ ism.  the remaining page address bit positions of the pre­ sented virtual address are compared with the output of the  second table look-up mechanism, the fields of the second  table look-up mechanism containing such remaining virtual  address bits appropriate to the pages in residence.  if either  comparator fails to detect an equality a miss is registered and  the second table look-up mechanism is only exercised in rela­ tion to potential hits.  
+</ABSTRACT>
+</TEXT>
+</DOC>

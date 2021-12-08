@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004813
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02B-23/16</main> G02B-27/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical observation instrument.
+</TITLE>
+<APPLICANT>
+sopelemfr<sep>societe d'optique, precision electronique et mecanique - sopelem<sep>societe d'optique, precision electronique et mecanique - sopelem102 rue chaptalf-92300 levallois-perretfr<sep>societe d'optique, precision electronique et mecanique - sopelem <sep>
+</APPLICANT>
+<INVENTOR>
+moirez jacques<sep>moirez, jacques<sep>moirez, jacques8 rue emile deslandresf-75013 parisfr<sep>moirez, jacques <sep>moirez, jacques 8 rue emile deslandres f-75013 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  optical observation instrument comprising on the one hand a housing (4) in which are mounted a convergent objective (1) and a converging eyepiece (3) and on the other hand an optical element (2) mounted on a frame (51) articulated onto the housing (4) by a pivot (6) situated in front of the said element (2) and maintained in a stable position, characterised in that this optical element (2) is a disc of optical fibres arranged so as to reflect onto the output surface (22) an inverted image in relation to the image on the input surface (21) which is substantially in the focus of the objective (1), the pivot (6) being positioned with regard to the front (21) of the disc at a distance (r) substantially equal to half the difference between the focal length (f) of the objective (1) and the thickness (e) of the disc (2). 
+</ABSTRACT>
+</TEXT>
+</DOC>

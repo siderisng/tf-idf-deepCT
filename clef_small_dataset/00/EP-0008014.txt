@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008014
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-491/04 C07D-211/00 C07D-211/58 C07D-491/00 C07D-491/056 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-(4-aminopiperidino)-3.4-dihydroisoquinoline derivatives, processes for their preparation, pharmaceutical compositions containing them and their use.
+</TITLE>
+<APPLICANT>
+hoechst agde <sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft 65926 frankfurt am main de <sep>
+</APPLICANT>
+<INVENTOR>
+bartmann wilhelm drde<sep>kaiser joachim drde<sep>lattrell rudolf drde<sep>bartmann, wilhelm, dr.<sep>kaiser, joachim, dr.<sep>lattrell, rudolf, dr.<sep>bartmann, wilhelm, dr.am dachsbau 5d-6232 bad soden am taunusde<sep>kaiser, joachim, dr.egerländer strasse 8d-6233 kelkheim (taunus)de<sep>lattrell, rudolf, dr.heuhohlweg 6hd-6240 königstein/taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+1-(4-aminopiperidino)-3,4-dihydroisoquinolines of the formula <image> in which r<1>, r<2>, r<3>, r<4> and n have the stated meanings, and the physiologically tolerated salts thereof, have valuable pharmacological properties, especially acting on the cardiovascular system, and can therefore be used as pharmaceuticals. 
+</ABSTRACT>
+</TEXT>
+</DOC>

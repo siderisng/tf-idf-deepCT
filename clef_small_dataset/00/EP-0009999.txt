@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009999
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-11/02 G01N-15/02 G01N-15/14 G01N-33/48 <main>G01B-11/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for determining  physical characteristics of plant root samples.
+</TITLE>
+<APPLICANT>
+victoria stateau<sep>the state of victoria<sep>the state of victoriatreasury placemelbourne victoria 3000au<sep>the state of victoria<sep>
+</APPLICANT>
+<INVENTOR>
+garwoli wolfgang nicholas<sep>garwoli, wolfgang nicholas<sep>garwoli, wolfgang nicholas46 rosken streetnorth balwyn victoriaau<sep>garwoli, wolfgang nicholas<sep>garwoli, wolfgang nicholas46 rosken streetnorth balwyn victoriaau<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for testing a sample of fibres or fila­ ments including a scanning zone (50) in which said sample  is located and scanning means (52).  transport means is  provided for producing relative movement between the  scanning zone (50) and the scanning means (52) whereby  to define a primary scan path therebetween.  the scanning  means includes irradiation means (9) arranged to irradiate  a portion of the scanning zone, and at least one radiation  detector (57) responsive to the irradation whereby to pro­ vide an output indicating the presence or otherwise of a  discrete length of fibre or filament in the portion and pro­ cessing means for processing the detector output to pro­ vide a measure of one or more parameters of the sample.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006052
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/122 G02B-6/34 G02B-6/124 <main>G02B-5/172</main> G02B-6/30 H04B-10/12 G03C-5/00 G02B-6/12 G02B-6/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compact optical structure with integrated source.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann 75008 parisfr<sep>"thomson-csf"<sep>
+</APPLICANT>
+<INVENTOR>
+carballes jean-claude <sep>huignard jean-pierre<sep>leclerc pierre<sep>nappo armand<sep>carballes, jean-claude<sep>huignard, jean-pierre<sep>leclerc, pierre<sep>nappo, armand<sep>carballes, jean-claude"thomson-csf" - scpi 173, bld haussmann75360 paris cedex 08fr<sep>huignard, jean-pierre"thomson-csf" - scpi 173, bld haussmann75360 paris cedex 08fr<sep>leclerc, pierre"thomson-csf" - scpi 173, bld haussmann75360 paris cedex 08fr<sep>nappo, armand"thomson-csf" - scpi 173, bld haussmann75360 paris cedex 08fr<sep>carballes, jean-claude <sep>huignard, jean-pierre<sep>leclerc, pierre  <sep>nappo, armand<sep>carballes, jean-claude"thomson-csf" - scpi 173, bld haussmann75360 paris cedex 08fr<sep>huignard, jean-pierre"thomson-csf" - scpi 173, bld haussmann75360 paris cedex 08fr<sep>leclerc, pierre"thomson-csf" - scpi 173, bld haussmann75360 paris cedex 08fr<sep>nappo, armand"thomson-csf" - scpi 173, bld haussmann75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to compact optical structures in which the source is integrated into the structure.It relates to a structure comprising a semiconductor semiconductor junction (3), laser or light-emitting diode, coupled with a plane waveguide formed of a photopolymer layer (4) deposited on a substrate comprising a layer (2)suitable index.On the surface portion of the photopolymer layer of the diffracting photoindic structures (10) making particular optical functions such as distributed, deflector, or lens reflector are made.Such compact structures are applicable, in particular, to the realization of simple and space-cumbersome devices, distributed external resonator laser source, interferometric, hydrophone, multiplexer or demultiplexer gyrometer.
+</ABSTRACT>
+</TEXT>
+</DOC>

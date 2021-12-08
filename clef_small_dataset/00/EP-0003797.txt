@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003797
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/04 A61B-5/0432 G11B-23/00 A61B-5/0436 <main>G11B-27/32</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+processing device for an information unit recorded on a magnetic tape.
+</TITLE>
+<APPLICANT>
+siemens agde   <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+kusserow bernd<sep>weigert kurt<sep>kusserow, bernd<sep>weigert, kurt<sep>kusserow, berndkulmbacher strasse 12d-8520 erlangende<sep>weigert, kurternst-heinkel-weg 19d-8500 nürnbergde<sep>kusserow, bernd <sep>weigert, kurt<sep>kusserow, berndkulmbacher strasse 12d-8520 erlangende<sep>weigert, kurternst-heinkel-weg 19d-8500 nürnbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  device for the processing of signal information stored on magnetic tape for the purpose of time measurement of fundamentally periodical signal complexes, e. g.  ecg, consisting of the recorder (1) for the recording of the signal information onto the magnetic tape (3), and of the reproduction device (8) for reading out the signal information from the magnetic tape with an analysis circuit for the analysis of the signal information, where the recorder comprises a standard clock pulse generator (6) for the simultaneous recording of standard clock pulses, and where the reproduction device comprises a separate unit (14, 15) for the with-drawal and preparation of the standard clock pulses which have been recorded on the magnetic tape, so that the standard clock pulses are available, as a concurrent time reference, to the analysis circuit for the purpose of signal analysis, characterized in that for signal analysis, in particular in the sense of a width measurement and/or spacing measurement of a fundamentally periodical signal complex by comparison with the time reference defined by the concurrent standard clock pulses and thus independently of changes in the running speeds of the magnetic tape (3, 10) which occur during recording and/or reproduction, the analysis circuit (13) comprises at least one counter (26, 34) or at least one store (45-59) for counting and/or storing occurring standard clock pulses, which can be switched on via a connected control circuit (23-25 ; 33) by means of a trigger pulse which is triggered on the occurrence of a significant signal event, and can be reset to zero either by means of a trigger pulse which is triggered at the end of the significant signal event (fig.  3), or by means of a trigger pulse which is triggered on the occurrence of a second significant signal event (fig.  4). 
+</ABSTRACT>
+</TEXT>
+</DOC>

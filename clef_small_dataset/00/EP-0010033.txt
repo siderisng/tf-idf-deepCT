@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010033
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02P-7/067 F02P-7/00 F02P-5/15 <main>F02P-7/06</main> H01T-15/02 F02P-5/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+angular position sensor for an internal combustion engine fitted with an electronic ignition system.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>psa etudes et recherches75, avenue de la grande arméef-75016 parisfr<sep>psa etudes et recherches<sep>
+</APPLICANT>
+<INVENTOR>
+gaches philippe<sep>menard christian<sep>gaches, philippe<sep>menard, christian<sep>gaches, philippe"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>menard, christian"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>gaches, philippe<sep>menard, christian  <sep>gaches, philippe "thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>menard, christian"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Angular position sensor whose output signals make it possible to synchronize the circuits of an electronic ignition system.Sensor characterized, on the one hand, in that it comprises electromechanical means 105a, comprising metal massels M, all identical, rotatably driven by an output axis A of the motor and a torque of detectors D1 and D2, fixed, fixed,Arranged with respect to the swallow, and electronic means 105b for processing the output signals E1 and E2 of the detectors for the purpose of developing S1 and S2 signals of synchronization of dual channel automatic advance circuits and a signalSo to synchronize the engine ignition cycle and, on the other hand, in that the electrified canic means 105a can be integrated into the engine.
+</ABSTRACT>
+</TEXT>
+</DOC>

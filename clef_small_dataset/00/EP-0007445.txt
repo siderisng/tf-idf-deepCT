@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007445
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-63/183 C08G-63/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermoplastic copolyesters and their use in the production of shaped articles.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+pirzer hans dr-chemde <sep>schlichting karl dr-chem de<sep>sterzel hans-josef dr-chemde<sep>pirzer, hans, dr.-chem.<sep>schlichting, karl, dr.-chem.<sep>sterzel, hans-josef, dr.-chem.<sep>pirzer, hans, dr.-chem.wildstrasse 22d-6710 frankenthalde<sep>schlichting, karl, dr.-chem.virchowstrasse 12d-6712 bobenheim-roxheim 2de<sep>sterzel, hans-josef, dr.-chem.haardtstrasse 13d-6701 dannstadt-schauernheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+thermoplastic copolyesters based on 1,4-butanediol and terephthalic acid in which from 10 to 30 mol% of the terephthalic acid has been replaced by a mixture of adipic acid, glutaric acid and succinic acid.  the copolyesters can be used to produce plastic mouldings by injection moulding or extrusion. 
+</ABSTRACT>
+<DESCRIPTION>
+rthermop1astiche mischpolyester und ihre verwendung zur herstellung von formkörpern die erfindung betrifft thermoplastische mischpolyester mit hoher zähigkeit und steifigkeit auf basis von butandiol-1,4 und terephthalsäure, bei denen ein teil der säurekomponente durch ein gemisch von aliphatischen dicarbonsäuren ersetzt ist. es ist bekannt, dass durch den ersatz von terephthalsäure durch langkettige aliphatische dicarbonsäuren polybutylenw terephthalat so modifiziert werden kann, dass die zähigkeit stark erhöht wird. diese zunahme an zähigkeit muss mit einem abfall der steifigkeit und der festigkeit erkauft werden. so wird zum beispiel polybuylenterephthalat dadurch modifiziert, dass man einen teil der terephthalsäure durch azelain- oder sebazinsäure ersetzt. derartige mlschpolyester eignen sich gut als spritzgussformmassen zur herstellung von verschlüssen, verschlussbändern und federnden teilen. im extrusionssektor werden sie zu schläuchen verarbeitet, die unempfindlich gegen alkohol, mineralöle oder bremsfltssig- keiten sind. in vielen anwendungsfällen wird neben der hohen zähigkeit und elastizität auch eine gute steifigkeit, d.h. ein hoher e-modul gefordert, so dass das material bei kle4- nen wandstärken höhere kräfte aufnehmen kann, ohne sich un- zulässig zu verformen. rufgabe der erfindung war es also, mischpolyester zu entwickeln, die sich neben hoher zähigkeit und elastizität auch durch eine höhere steifigkeit als mischpolyester nach dem stand der technik auszeichnen. diese aufgabe wird erfindungsgemäss dadurch gelöst, dass man bei polybutylenterephthalat 10 bis 30 mol-% der terephthalsäure durch ein gemisch aus adipinsäure, glutarsäure und bernsteinsäure ersetzt. das gemisch der aliphatischen dicarbonsäuren besteht zu 20 bis 80 mol % aus adipinsäure, 10 bis 60 mol % aus glutarsäure und 10 bis 40 mol ffi aus bernsteinsäure. bevorzugt verwendet man ein gemisch aus etwa 23 bis 33 mol % bernsteinsäure, 22 bis 32 mol % adipinsäure und 35 bis 55 mol % glutarsäure, welches bei der technischen herstellung von adipinsäure durch oxidation von cyclohexan als nebenprodukt anfällt. die thermoplastischen mischpolyester weisen vorzugsweise eine relative lösungsviskosität von 1,50 bis 1,80 gemessen an einer obigen lösung in einem lö sungsmittelgemls ch aus phenol/o-dichlorbenzol im gewichtsverhältnis 3 : 2 bei 250c auf. es war uberraschend, dass bei verwendung der kurzkettigen aliphatischen dicarbonsäuren die notwendig hohen schlagzähigkeiten erhalten werden. nach allgemeiner lehre wird die schlagzähigkeit von mischpolyestern vor allem dann er höht, wenn die methylenkette der aliphatischen dicarbonsäure besonders lang ist. die herstellung der mischpolyester erfolgt wie bekannt durch polykondensation von butandiol-1,4 terephthalsäure und dem dicarbonsäuregemisch bzw. deren ester. die erfindungsgemässen mischpolyester können die üblichen verstärkend wirkenden ftlllstoffe wie glasfasern, kaolin, talkum oder kreide sowie auberdem flammschutzmittel und stabilisatoren nach dem stand der technik enthalten. die mischpolyester lassen sich mit den vom polybutylenterephthalat her bekannten kurzen zykluszeiten zu formteilen mit hoher zähigkeit, gutem ruckstellvermögen und hoher festigkeit verarbeiten. es hat sich gezeigt, dass dabei mit vorteil auch mischungen aus unmodifiziertem polybutylenterephthalat mit den erfindungsgemässen mischpolyestern eingesetzt werden können. sie können auch zu profilen oder folien extrudiert werden. die folgenden beispiele zeigen einen erfindungsgemässen copolyester im vergleich mit einem copolyester nach dem stand der technik. beispiele die mischpolyester wurden folgendermassen hergestellt: a) 101 kg butandiol-1.4, 120 kg dimethylterephthalat sowie 20,6 kg (17 mol-%, bezogen auf dlmethylterephthalt) eines gemisches aus 28 mol % bernsteinsäuredimethylester, 27
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche 1. thermoplastische mischpolyester auf der basis von butandiol-1,4 und terephthalsäure, dadurch gekennzeich net, dass 10 bis 30 mol% der terephthalsäure ersetzt sind durch ein gemisch aus 20 bis 80   mol    adipinsäure 10 bis 60 mol% glutarsäure und 10 bis 40   mols    bernsteinsäure, wobei sich die prozentzahlen auf 100 addieren.   2.   thermoplastiscne    mischpolyester nach anspruch 1, gekennzeichnet durch folgende zusammensetzung des dicar    bonssuregemisches:    22 bis 32   molk    adipinsäure, 23 bis 33 mol  bernsteinsäure und 35 bis 55   molk    glutarsäure 3. verwendung der thermoplastischen mischpolyester nach anspruch 1 zur herstellung von formteilen durch spritz guss oder extrusion.  
+</CLAIMS>
+</TEXT>
+</DOC>

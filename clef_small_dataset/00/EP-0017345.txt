@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017345
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H02P-5/34</main> H02P-5/40 H02P-27/06 H02P-23/08 H02P-27/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+slip frequency control for variable speed induction motors.
+</TITLE>
+<APPLICANT>
+beckman instruments incus<sep>beckman instruments, inc.<sep>beckman instruments, inc.executive office 2500 harbor boulevard box 3100fullerton california 92634us<sep>beckman instruments, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+ehret robert james<sep>ehret, robert james<sep>ehret, robert james416 santa barbara drivelos altos california 94022us<sep>ehret, robert james<sep>ehret, robert james416 santa barbara drivelos altos california 94022us<sep>
+</INVENTOR>
+<ABSTRACT>
+a closed-loop drive system for variable speed induction  motors for maintaining a constant slip frequent, regardless  of motor speed.  a slip frequency oscillator (20) generates a  signal having a frequency proportional to the desired slip of  the motor (11) and a tachometer (14) generates a signal  having a frequency proportional to the actual rotational  speed of the motor.  the stator frequency is the sum of the  rotor speed and the slip frequency during acceleration and  the difference between the rotor speed and the slip frequen­ cy during braking.  exclusive or gates (30,31) are used to add  the slip frequency signal either to the tachometer signal or to  the stator signal, the outputs of the gates being applied to a  digital phase detector (36).  the phase detector (36) drives a  voltage controlled oscillator (33) which provides the stator  signal.  the output of the voltage controlled oscillator (33) is  used to trigger the slip frequency oscillator (20) to prevent  overlap of pulses to the digital phase detector (36).  
+</ABSTRACT>
+</TEXT>
+</DOC>

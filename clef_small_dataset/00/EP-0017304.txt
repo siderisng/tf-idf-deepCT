@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017304
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-15/332 G01S-13/00 G06F-17/14 <main>G01S-7/30</main> G01S-13/50 G01S-7/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+memory system for a doppler radar incorporating a fast fourier transform computer.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.vincent j. rauner 4350 e. camelback road suite 200fphoenix, arizona 85018us<sep>motorola, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+hines kenneth wayne<sep>hines, kenneth wayne<sep>hines, kenneth wayne2021 east manhatton drivetempe, arizona 85282us<sep>hines, kenneth wayne<sep>hines, kenneth wayne2021 east manhatton drivetempe, arizona 85282us<sep>
+</INVENTOR>
+<ABSTRACT>
+a data record memory system for use with a doppler  radar (10, 11) incorporating a fast fourier transform compu­ ter (25) wherein the memory system utilises a single memory  (21) constructed to read out and write in data at each address  and the data supplied to the memory (21) is sequenced so  that the data is read out of the memory system in numerical  range bin order.  
+</ABSTRACT>
+</TEXT>
+</DOC>

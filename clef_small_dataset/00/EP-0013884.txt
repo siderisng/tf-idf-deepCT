@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013884
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-27/10 <main>H03L-7/22</main> G11B-5/596 H03L-7/087 H03L-7/08 G11B-20/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phase-locked oscillator circuit and system for generating a clock signal using this circuit.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+oswald richard karl<sep>oswald, richard karl<sep>oswald, richard karl898 jansen avenuesan jose, california 95125us<sep>oswald, richard karl<sep>oswald, richard karl898 jansen avenuesan jose, california 95125us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention is directed to a system for generating  clock signals from a source signal having two harmonically  related and phase coherent frequencies.  the clock system  employs a pair of synchronous demodulators 30, 31 for  generating a phase error signal to control a voltage control­ led oscillator 50(vco).  the source signal is applied to the  pair of synchronous demodulators, each of which is sup­ plied with a different carrier frequency.  the output of each  demodulator represents the area of the signal being demo­ dulated.  the output of each demodulator is zero and a null  condition exists when the system is in a phase locked  condition.  at a non-locked condition, the output of one  demodulator has multiple null points.  the function of the  second demodulator is to resolve the ambiguity between the  desired and undesired null points.  carrier signals f and f/3  are generated under control of the vco by dividing the  output of the vco signal to obtain carrier signals having the  appropriate relationship to the source signal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

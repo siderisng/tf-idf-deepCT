@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000010
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07D-3/02 G07D-9/02 G07F-1/00 G07D-3/00 <main>G07F-1/04</main> G07F-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the temporary storage of coins of various denominations.
+</TITLE>
+<APPLICANT>
+scheidt & bachmann gmbhde<sep>scheidt & bachmann gmbh<sep>scheidt &amp; bachmann gmbhbreite strasse 132d-41238 mönchengladbachde<sep>scheidt & bachmann gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+diers franz<sep>hermanns hans-josef<sep>diers, franz<sep>hermanns, hans-josef<sep>diers, franzkorschenbroicher strasse 89d-4052 korschenbroich-peschde<sep>hermanns, hans-josefpeter-irmen-strasse 5d-4052 korschenbroichde<sep>diers, franz<sep>hermanns, hans-josef  <sep>diers, franz korschenbroicher strasse 89d-4052 korschenbroich-peschde<sep>hermanns, hans-josefpeter-irmen-strasse 5d-4052 korschenbroichde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a device for the temporary storage of coins of various values before their further conveying into the storage means of an automatic coin-freed machine for goods vending or services and comprising a coin slot, characterised in that a conveying screw (5) with a selector lever (19) is connected in series with the coin slot (12), the selector lever being selectively pivotal from a middle position in which the inserted coins (m) of a payment operation are retained at one end of the conveying screw (5), to either a return position in which the coins (m) are released for return, or an encashment position at which the coins (m) are transferred to the other end of the conveying screw (5), from which the coins (m) are delivered to down-stream storage stacks. 
+</ABSTRACT>
+</TEXT>
+</DOC>

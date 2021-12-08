@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013299
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-50/00 <main>B01D-47/00</main> F23J-15/04 B01D-47/06 F23J-15/00 F23J-15/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for treating flue gases.
+</TITLE>
+<APPLICANT>
+combustion engus<sep>combustion engineering, inc.<sep>combustion engineering, inc.1000 prospect hill road box 500windsor connecticut 06095-0500us<sep>combustion engineering, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+rader philip charles<sep>rader, philip charles<sep>rader, philip charles86 juniper drivewindsor locks connecticut 06096us<sep>rader, philip charles<sep>rader, philip charles86 juniper drivewindsor locks connecticut 06096us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for treating the flue gas, which is  produced as a by-product of the combustion process that  takes place during the course of the operation of a fossil  fuel-fired steam generation unit.  in accordance with the sub­ ject method and apparatus, the flue gas is made to pass  through an air quality control system embodying a particular  arrangement of scrubber means and spray tower means,  before the flue gas is released to the atmosphere.  the treat­ ment of the flue gas consists of feeding the flue gas (14) to the  inlet (12) of the air quality control system (10), passing the flue  gas through spray tower means (22) to effect the removal of  sulfur therefrom, effecting a first change in the direction of  flow of the flue gas through the air quality control system,  effecting a second change in the direction of flow of the flue  gas through the air quality control system, passing the flue  gas through rod scrubber means (40) to effect the removal of  entrained particulates therefrom, from the rod scrubber  means passing the flue gas through a dropout section (36) to  encourage agglomerates to fall out, effecting a third change in  the direction of the flue gas through the air quality control  system, passing the flue gas through a bulk entrainment  separator and demister means (48) to effect the removal of  entrained fine water droplets therefrom, and exhausting the  flue gas from the air quality control system (50).  
+</ABSTRACT>
+</TEXT>
+</DOC>

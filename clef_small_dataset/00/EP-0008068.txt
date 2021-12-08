@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008068
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23K-20/08</main> B32B-15/01 B23K-20/08 B23K-20/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+composite material and process for the manufacture thereof.
+</TITLE>
+<APPLICANT>
+deutsche forsch luft raumfahrtde<sep>fraunhofer ges forschung de <sep>deutsche forschungs -und versuchsanstalt fur luft-und raumfahrt e.v.<sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.<sep>deutsche forschungsanstalt für luft- und raumfahrt e.v.linderhöhed-51147 kölnde<sep>fraunhofer-gesellschaft zur förderung der angewandten forschung e.v.leonrodstrasse 5480636 münchende<sep>deutsche forschungs- und versuchsanstalt fur luft- und raumfahrt e.v.<sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.<sep>
+</APPLICANT>
+<INVENTOR>
+henne rudolf dr<sep>prummer rolf dr<sep>henne, rudolf, dr.<sep>prummer, rolf, dr.<sep>henne, rudolf, dr.teinacher strasse 2d-7030 böblingende<sep>prümmer, rolf, dr.steinackerstrasse 7ad-7803 gundelfingende<sep>henne, rudolf, dr.<sep>prummer, rolf, dr. <sep>henne, rudolf, dr. teinacher strasse 2 d-7030 böblingende<sep>prümmer, rolf, dr.steinackerstrasse 7ad-7803 gundelfingende<sep>
+</INVENTOR>
+<ABSTRACT>
+A composite material for operating temperatures is proposed up to 1250 ° C and 1350 ° C., which is chemically and mechanically stable at these temperatures, and mechanically stable, corrosive, gas-impermeable, and thermally well conductive, and at least on one side shows a low evaporation rate.The composite substance is constructed of at least two layers, one of which is consisting of a corrosion and high-temperature resistant nickel, iron or chromium alloy (high-temperature-resistant superalloy) and which is located on a highly warm refractory material.In addition, a method for producing such a composite is proposed, in which one connects the nickel, iron and chromium alloy and the refractory material by explosion plating with each other.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013290
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/04 G11C-29/00 H01L-21/822 G01R-31/28 G06F-11/22 G01R-31/26 <main>G01R-31/28</main> G01R-31/3185 H01L-21/66 G06F-11/26 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+large scale integrated circuit wafer and method of testing same.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+tsui frank fang<sep>tsui, frank fang<sep>tsui, frank fang34 simpson roadbriarcliff manor, new york 10501us<sep>tsui, frank fang<sep>tsui, frank fang34 simpson roadbriarcliff manor, new york 10501us<sep>
+</INVENTOR>
+<ABSTRACT>
+a large scale integrated circuit (lsi) wafer and a method  relates to testing same which allows lsi logic chips to be  tested on wafer without necessitating equipment involving  high-precision step-and-repeat mechanisms, and which  further allows chips to be tested individually in the  connected-on-module environment.  the circuit configuration  comprises various circuit structures including latches and  combinatorial networks.  the chips and wafers are configured that the lssd provi­ sion already incorporated in the chips can be utilized also for  the on-wafer and on-module testing.  the arrangements,  which can be made with a "cut-away" or "deactivate" or an  "extend-usage" approach, include five major extensions in  the chip-image design.  these are: the incorporation of gating  of serial test-data output from the chips, the provision if  necessary of supplementary latches on chips, the incorpora­ tion of gating of parallel inputs to the chip core, the incorpora­ tion of in-chip and/or interchip connections, which can be  done in a "self-sufficient" or a "neighbour-assisted"  arrangement, and the utilization of chip-layout design for  step-and-repeat juxtaposition.  in addition to these in-chip  extensions, the method requires proper wafer organization  and an arrangement of connecting the chip-image array to  probe-contact pads on the wafer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

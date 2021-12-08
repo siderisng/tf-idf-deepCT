@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000182
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/403 G01N-33/00 G01N-27/06 G01N-27/414 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for measuring the electrolytic content of air.
+</TITLE>
+<APPLICANT>
+arn georg agde<sep>arn. georg ag<sep>arn. georg aghofgründchen 66-70d-5450 neuwied am rheinde <sep>
+</APPLICANT>
+<INVENTOR>
+brechtel rudolf de  <sep>mandl johannesde<sep>sobotka hans friedrichde<sep>brechtel, rudolf<sep>mandl, johannes<sep>sobotka, hans friedrich<sep>brechtel, rudolfbeethovenstrasse 9d-5455 rengsdorfde<sep>mandl, johannesam reichelbach 24d-5450 neuwied 13de<sep>sobotka, hans friedrichhauptstrasse 94ad-5451 leutesdorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+the device for measuring the electrolyte content of air is capable of detecting even the smallest electrolyte concentrations rapidly and accurately.  the device operates using an electrical conductivity measurement circuit (20) with a sensor (2, 3), around which the air to be investigated flows and over which distilled water conducted within the closed circuit is passed, which distilled water is constantly deionised.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

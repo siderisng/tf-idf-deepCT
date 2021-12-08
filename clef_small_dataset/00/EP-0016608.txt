@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016608
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01S-3/106 H04B-10/00 H04B-10/04 H04B-10/155 H04B-10/145 H04B-10/12 H04B-10/152 H01S-5/026 H01S-5/00 H01S-5/10 H04B-10/06 H04B-10/142 H01S-5/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for signal transmission via an optical fiber.
+</TITLE>
+<APPLICANT>
+univ delawareus<sep>university of delaware<sep>university of delawaresouth college avenuenewark, delawareus<sep>
+</APPLICANT>
+<INVENTOR>
+ih charles chung-senus<sep>ih, charles chung-sen<sep>ih, charles chung-sen409 valley roadnewark, delawareus<sep>
+</INVENTOR>
+<ABSTRACT>
+the method comprises (and the apparatus implements)  providing a first monochromatic beam of radiation reserved  as a carrier radiation beam, providing a second monochro­ matic beam of radiation of preselected different frequency  than the first monochromatic beam of radiation frequency-­ interlocked with the first beam of radiation to a preselected  degree dependent upon the transmission service to be  effected reserved as an information radiation beam, impos­ ing an electrical signal to be transmitted upon the informa­ tion radiation beam, thereby responsively modulating the  information radiation beam, combining the carrier radiation  beam and the modulated information radiation beam, trans­ mitting the combined radiation via the optical fiber transmis­ sion line to a preselected destination, and detecting the  combined radiation with a square law detector to thereby  obtain a subcarrier signal constituting the difference in  frequency between the carrier radiation beam and the  information radiation beam upon which the electrical signal  is modulated and demodulating to reconstitute the original  electrical signal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

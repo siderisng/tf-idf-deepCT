@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005872
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01V-3/15 G01V-3/02 G01V-3/06 H01B-11/00 <main>G01V-3/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+means for water bottom logging.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v. <sep>
+</APPLICANT>
+<INVENTOR>
+bischoff jurgen heinrich<sep>sebulke joachim alfred<sep>bischoff, jurgen heinrich<sep>sebulke, joachim alfred<sep>bischoff, jürgen heinrichkunz-buntschuh strasse 9d-1000 berlin 33de<sep>sebulke, joachim alfredlünette 11d-1000 berlin 20de<sep>bischoff, jurgen heinrich<sep>sebulke, joachim alfred  <sep>bischoff, jürgen heinrichkunz-buntschuh strasse 9d-1000 berlin 33de<sep>sebulke, joachim alfredlünette 11d-1000 berlin 20de<sep>
+</INVENTOR>
+<ABSTRACT>
+the apparent electrical resistivities of various parts of a  marine bottom (3) are determined by supplying an alternating  electrical current to a pair of current supply electrodes  and measuring potential differences between pairs of  measuring locations.  the locations are on a straight line on  the marine bottom.  there is a fixed ratio between the  distance between the locations of each pair and the distance  between said pair and the pair of current supply locations.   adjoining pairs of measuring locations have a measuring  location in common.  a flexible cable (1) for taking these  measurements is described.  the determined resistivities are  subsequently compared with calculated resistivities to determine  the compositions and thicknesses of the soil layers (4, 5)  of the marine bottom.  
+</ABSTRACT>
+</TEXT>
+</DOC>

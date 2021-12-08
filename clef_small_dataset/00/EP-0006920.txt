@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0006920
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/24 G01C-21/22 G01S-7/04 G01C-21/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vehicle controlled raster display system.
+</TITLE>
+<APPLICANT>
+grumman aerospace corpus<sep>grumman aerospace corporation<sep>grumman aerospace corporationsouth oyster bay road bethpage, ny 11714us<sep>
+</APPLICANT>
+<INVENTOR>
+levy paul martin us<sep>levy, paul, martin<sep>levy, paul, martin3 butternut court dix hillsnew york, ny 11746us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

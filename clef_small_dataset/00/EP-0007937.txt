@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0007937
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-46/38 F23G-5/30 F23C-10/08 B01D-46/30 B01D-53/12 B01J-8/26 B01J-8/24 C10J-3/46 B01J-20/30 B01J-20/34 F23C-10/00 B01D-53/06 C10J-3/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for carrying out chemical and/or physical processes in a fluidized bed.
+</TITLE>
+<APPLICANT>
+berggren jan christerse<sep>bjerle ingemarse<sep>eklund hans ragnarse<sep>oscarsson bose<sep>svensson ove larsse<sep>berggren, jan-christer<sep>bjerle, ingemar<sep>eklund, hans, ragnar<sep>oscarsson, bo<sep>svensson, ove, lars <sep>berggren, jan-christerkämnersvägen 13:1068s-222 45 lund se  <sep>bjerle, ingemartalltitevägen 24s-230 50 bjärredse<sep>eklund, hans, ragnarvallmovägen 4, bosjöklosters-243 00 höörse<sep>oscarsson, bostallbacksgatan 3 e541 00 skövdese<sep>svensson, ove, larsmagistratsvägen 35:c304s-222 44 lundse<sep>
+</APPLICANT>
+<INVENTOR>
+berggren jan-christer<sep>berggren, jan-christer<sep>berggren, jan-christerkämnersvägen 13:1068s-222 45 lundse<sep>bjerle, ingemartalltitevägen 24s-230 50 bjärredse<sep>eklund, hans, ragnarvallmovägen 4, bosjöklosters-243 00 höörse<sep>oscarsson, bostallbacksgatan 3 e541 00 skövdese<sep>svensson, ove, larsmagistratsvägen 35:c304s-222 44 lundse<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

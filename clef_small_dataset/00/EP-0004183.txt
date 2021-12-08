@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004183
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C03B-37/02</main> G02B-6/00 C03B-37/02 C03B-37/00 C03B-37/023 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for drawing optical fibres by means of a double crucible.
+</TITLE>
+<APPLICANT>
+post officegb<sep>the post office<sep>the post office23 howland streetlondon w1p 6hqgb<sep>the post office<sep>
+</APPLICANT>
+<INVENTOR>
+beales keith john<sep>day clive richard<sep>newns george reginald<sep>beales, keith john<sep>day, clive richard<sep>newns, george reginald<sep>beales, keith john40 church lane henleyipswich suffolkgb<sep>day, clive richard15 hilly fieldswoodbridge suffolkgb<sep>newns, george reginaldwayside househintlesham suffolkgb<sep>beales, keith john<sep>day, clive richard<sep>newns, george reginald <sep>beales, keith john 40 church lane henley ipswich suffolkgb<sep>day, clive richard15 hilly fieldswoodbridge suffolkgb<sep>newns, george reginaldwayside househintlesham suffolkgb<sep>
+</INVENTOR>
+<ABSTRACT>
+method and apparatus for drawing optical glass fibres  by means of a double crucible.  the double crucible for producing  a graded index optical fibre having a core and a cladding  comprises inner and outer body portions (2) and (3) and  a heated exit flow tube (4) which is elongate to allow thermal  diffusion between the core and cladding to be prolonged.  
+</ABSTRACT>
+</TEXT>
+</DOC>

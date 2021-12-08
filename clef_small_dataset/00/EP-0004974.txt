@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004974
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C30B-15/00 G02B-1/00 C01G-28/00 G02B-1/02 C01B-25/45 C30B-9/04 C30B-29/14 C30B-9/00 C01B-25/00 C01G-23/00 C30B-11/00 C01B-25/37 C30B-29/10 C30B-9/02 <main>C03B-9/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing a single crystal of ktiopo4 or its analogues.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company<sep>
+</APPLICANT>
+<INVENTOR>
+gier thurman eugene<sep>gier, thurman eugene<sep>gier, thurman eugenep.o.box 33chadds ford pennsylvania 19317us<sep>gier, thurman eugene<sep>gier, thurman eugenep.o.box 33chadds ford pennsylvania 19317us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process is provided for the manufacture of single  crystals of mtioxo₄, wherein m is k, rb or tl and x is p or  as, of optical quality and of sufficient size for use in nonlinear  optical devices.  in the process, starting ingredients chosen to  be within the region of the ternary phase diagram in which  the desired crystal mtioxo₄ product is the only stable solid  phase, are heated to produce mtioxo₄ and then controllably  cooled to crystallize the desired product.  in a preferred  method the ingredients are placed in a temperature gradient  in which the hot zone ranges from about 800-1000°c and the  cold zone about 10-135°c cooler, maintaining the temperature  gradient for about 3 days to about 3 weeks, cooling, and  recovering mtioxo₄ crystals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

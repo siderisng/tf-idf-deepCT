@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003924
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24D-19/10 F24J-2/40 F24J-3/02 <main>F24D-17/00</main> F24D-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+water storage heater supplied with fluid heated by a solar collector.
+</TITLE>
+<APPLICANT>
+saunier duvalfr<sep>saunier duval - societe anonyme<sep>saunier duval eau chaude chauffage s.d.e.c.c. - société anonyme6, rue lavoisierf-93103 montreuilfr<sep>saunier duval eau chaude chauffage  s.d.e.c.c. - societe anonyme<sep>
+</APPLICANT>
+<INVENTOR>
+gouyou-beauchamps jacques le m<sep>gouyou-beauchamps, jacques le monastere<sep>gouyou-beauchamps, jacques"le monastère"f-92410 ville d'avrayfr<sep>gouyou-beauchamps, jacques  <sep>gouyou-beauchamps, jacques"le monastère"f-92410 ville d'avrayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Solar accumulation water heater (4) with bypassing on the main circuit (2, 6, 7) of the heating fluid from the solar energy collector (1), an extra heater device (13), ONundertake the inlet tube of hot water (7) common to the main circuit (2, 6, 7) and to the extraction (12) substantially in the middle of the accumulation flask (4) and the said circuit is powered(2, 6, 7) either directly by water levied in the tank (4) or by cold water from an external source (3).
+</ABSTRACT>
+</TEXT>
+</DOC>

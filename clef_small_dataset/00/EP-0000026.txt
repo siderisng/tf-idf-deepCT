@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000026
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-209/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of secondary amines.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+hoffmann herwig drde<sep>hupfer leopold drde<sep>mercker hans jochen drde<sep>merkel karl drde<sep>mueller herbert drde<sep>toussaint herbert drde <sep>hoffmann, herwig, dr.<sep>hupfer, leopold, dr.  <sep>mercker, hans jochen, dr.<sep>merkel, karl, dr.<sep>mueller, herbert, dr.<sep>toussaint, herbert, dr<sep>hoffmann, herwig, dr.knietschstrasse 21d-6710 frankenthalde<sep>hupfer, leopold, dr.waltershöhe 3d-6701 friedelsheimde<sep>mercker, hans jochen, dr.schwabenstrasse 14d-6800 mannheim 61de<sep>merkel, karl, dr.sperlinggasse 15d-6700 ludwigshafende<sep>mueller, herbert, dr.carostrasse 53d-6710 frankenthalde<sep>toussaint, herbert, dr-knietschstrasse 21d-6710 frankenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+secondary amines are prepared by n-alkylation of primary amines by means of aldehydes under hydrogenating conditions in the presence of a quaternary ammonium base. 
+</ABSTRACT>
+</TEXT>
+</DOC>

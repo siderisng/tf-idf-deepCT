@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003356
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-21/00 <main>B21D-3/00</main> B21D-3/16 F16H-25/00 B21D-3/00 F16H-25/10 F16H-21/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+straightening machine for elongated work-pieces.
+</TITLE>
+<APPLICANT>
+ibm us<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+jordan herbert lionel<sep>jordan, herbert lionel<sep>jordan, herbert lionel6 glen robert dr.east york toronto ontario m4b 1j5ca<sep>jordan, herbert lionel<sep>jordan, herbert lionel6 glen robert dr.east york toronto ontario m4b 1j5ca<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  straightening machine for elongated work-pieces, with means for causing reciprocatory deflection of varying magnitude of at least a section of the work-pieces, wherein this means comprises a lever (11) which, driven by drive means, is oscillated at constant amplitude about a shaft, a guided mounting (3) for supporting the work-pieces, reciprocable about a mid-position, and a link (7), connected with the lever (11) and with the mounting (3) and adjustable through positioning means (9, 10) so that the magnitude of the deflection of the mounting can be reduced to zero, characterized in that the mounting (3) is connected to the link (7) at a pivot point (6), the lever (11) is pivoted about a fixed point and has a groove (11a) in the form of an arc of a circle about the pivot point (6), and a follower element (16), connected to the link (7) is engaged in the groove (11a), so that its position within the groove (11a), and thereby the magnitude of the deflection, is determined by shift of the link (7) by positioning means (9, 10), the arrangement being such that the mid-position of the mounting (3) remains the same, irrespective of the position of the follower element (15) in the groove (11a). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005406
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-3/00 <main>C25B-3/10</main> C25B-3/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochemical catalytic system and process for the electrochemical selective dimerisation of conjugated diolefins.
+</TITLE>
+<APPLICANT>
+charbonnages ste chimiquefr  <sep>societe chimique des charbonnages<sep>société chimique des charbonnagestour aurore place des reflets cédex no 5f-92080 paris la défense 2fr<sep>societe chimique des charbonnages<sep>
+</APPLICANT>
+<INVENTOR>
+huchette dominique<sep>petit francis<sep>huchette, dominique<sep>petit, francis<sep>huchette, dominique18, rue de l'eglisef-62880 vendin le vieilfr<sep>petit, francis27 avenue de flandresf-59290 wasquehalfr<sep>huchette, dominique  <sep>petit, francis<sep>huchette, dominique18, rue de l'eglisef-62880 vendin le vieilfr<sep>petit, francis27 avenue de flandresf-59290 wasquehalfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The electrochemical catalytic system consists of: - an anode comprising an oxidizable metal, a cathode comprising a compound selected from the plate, iron and the vitreous carbon, an electrolyte comprising on the one hand a compound selected from a dinitrosylfer chloride. and a mixture of iron chloride and nitrogen monoxide no, and the other an electrochemical solvent. The selective dimerization method of cyclohexenic-shaped dimming diolefins consists in using the catalytic system above by putting in the presence in an electrochemical cell comprising an anode, a cathode and a reference electrode: a suitable solvent, the diolefin to dimerize , and a compound selected from dinitrosylfer chloride and the mixture of iron chloride and nitrogen monoxide no, then carrying the cathode, with respect to the reference electrode, to a potential corresponding to the last wave of reduction said compound and maintaining this potential for the duration of the reaction (preferably using a potentiostat that automatically provides the voltage and current between anode and cathode). The anode is aluminum or iron; FECL₂ or FECL₃ can be used in association with NO; The solvent is preferably propylene carbonate. This method makes it possible to prepare with a selectivity of 100% of the dimetres with cyclohexenic structure from conjugated diolefins.
+</ABSTRACT>
+</TEXT>
+</DOC>

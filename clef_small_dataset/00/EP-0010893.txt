@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010893
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-1/00 C07D-209/48 A61K-31/425 A61P-1/04 C07D-277/20 <main>C07D-277/48</main> C07D-209/00 C07D-277/48 C07D-277/14 A61K-31/426 C07D-277/00 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+antisecretory branched-chain heterocyclic guanidine derivatives, processes for their manufacture, intermediates, and pharmaceutical compositions containing said derivatives.
+</TITLE>
+<APPLICANT>
+ici america incus<sep>ici plcgb<sep>ici americas inc<sep>imperial chemical industries plc<sep>ici americas inc.concord pike &amp; new murphy roadwilmington delaware 19897us<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>ici americas inc<sep>imperial chemical industries plc <sep>
+</APPLICANT>
+<INVENTOR>
+gilman david john<sep>jones derrick fleet<sep>yellin tobias oregon<sep>gilman, david john<sep>jones, derrick fleet<sep>yellin, tobias oregon<sep>gilman, david john4 gloucester closetytherington macclesfield, cheshiregb<sep>jones, derrick fleet22 badger roadtytherington macclesfield, cheshiregb<sep>yellin, tobias oregon4 waterford waywallingford, pa 19086us<sep>gilman, david john <sep>jones, derrick fleet  <sep>yellin, tobias oregon<sep>gilman, david john4 gloucester closetytherington macclesfield, cheshiregb<sep>jones, derrick fleet22 badger roadtytherington macclesfield, cheshiregb<sep>yellin, tobias oregon4 waterford waywallingford, pa 19086us<sep>
+</INVENTOR>
+<ABSTRACT>
+heterocyclic guanidine derivatives of the formula:    in which d is o,s or nh; e is ch or when d is o or s, e  is n; y is s, o, ch₂, so or a direct bond; p is a direct  bond or c(₁₋₄)unbranched alkylene optionally substituted by  1 or 2 c(₁₋₄)alkyls and q is c(1-4)unbranched alkylene op­ tionally substituted by 1 or 2 c(1-4)alkyls, provided total  number of alkyls in p and q is 1 or 2, that when y is s, o  or so, p is alkylene and that when y is o or so, q is  c(2-4)alkylene; r¹ is h or c(1-10)alkyl; a is 3,4-dioxocyclo­ buten-1,2-diyl or c = z where z is s, o, ncn, nno₂,  chno₂, nconh₂, c(cn)₂, ncor², nco₂r², nso₂r² or nr³  where r³ is c(1-6)alkyl or c(₆-₁₂)aryl and r³ is h or c(1-6)al­ kyl; b is c(1-6)alkoxy, c(1-6)alkylthio or nr⁴r⁵ where r⁴ and  r⁵ are h, c(1-10)alkyl, c(3-6)alkenyl, c(3-6)alkynyl, c(2-6)(pri­ mary oh)alkyl, c(2-6)(primary nh₂)alkyl, c(3-6)cycloalkyl, or  r⁴ and r⁵ together are a 5- or 6-membered saturated ring  which may contain an additional o or nh-: and the salts  thereof.  a process for the manufacture of said compounds  is described; e. g.  2-guanidino-4-(5-amino-2-methylpentyl)-­ thiazole gives by reaction with dimethyl(cyanimido)dithio­ carbonate and then methylamine 2-guanidino-4[5-(2-cya­ no-3-methylguanidino)-2-methylpentyl]thiazole.  
+</ABSTRACT>
+</TEXT>
+</DOC>

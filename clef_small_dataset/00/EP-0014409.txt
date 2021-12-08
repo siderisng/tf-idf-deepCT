@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014409
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-231/00 <main>C07C-102/00</main> C07C-235/14 C07C-103/34 C07B-41/02 C07C-235/00 C07D-211/16 B01J-31/00 C07D-295/182 C07B-31/00 C07D-215/00 C07C-67/00 C07D-211/00 B01J-31/02 C07C-231/12 C07D-215/08 C07D-295/185 C07D-295/18 C07D-295/16 C07D-295/00 C07D-209/08 C07B-41/00 C07C-235/34 C07D-209/00 C07C-235/06 C07C-235/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of alpha-hydroxy carboxylic-acid amides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+diehr hans-joachim dr<sep>diehr, hans-joachim, dr.<sep>diehr, hans-joachim, dr.höhe 35d-5600 wuppertal 11de<sep>diehr, hans-joachim, dr.<sep>diehr, hans-joachim, dr.höhe 35d-5600 wuppertal 11de<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of α-hydroxycarboxamides of the formula in which R¹ is hydrogen or alkyl, R² and R³ are the same or different, and individually for hydrogen, optionally substituted, alkyl, alkenyl, alkynyl, aralkyl, cycloalkyl, aryl or a nitrogen-containing Heterocyclic residue or together with the nitrogen atom to which they are bonded, optionally substituted, optionally partially unsaturated and optionally benzaneled mono- or bicycles, which may optionally contain further heteroatoms, by reacting α-halocarboxamides with acetates to α-acetoxycarboxamides and Entacylism of these intermediates characterized in that in the first stage of α-halocarboxamides of the formula (wherein Hal is chlorine or bromine), with an alkaline or alkaline earthlycetate in the presence of a quaternary ammonium salt and optionally under use a Verdun substantifier at temperatures between 20 and 200 ° C and second stage the α-acetoxycarboxylic acid amides prepared in this way by reaction with an alcohol of the formula R⁴ - OH (IV) (where R⁴ is alkyl) in the presence of catalytic amounts An alkaline or alkaline arc lihydroxide or an alkaline or alkaline earthicarbonate at temperatures between 20 and 150 ° C. The α-hydroxycarboxylic acid amides (I) can be used as ZWi
+</ABSTRACT>
+</TEXT>
+</DOC>

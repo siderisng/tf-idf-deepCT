@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004764
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-3/42 G01D-5/36 G01P-3/481 G01P-3/483 <main>G01D-5/14</main> H01G-7/00 G01D-5/12 H01G-7/02 G01D-5/241 G01P-3/54 G01D-5/245 G05D-3/12 G01D-5/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a transducer for generating strobe signals.
+</TITLE>
+<APPLICANT>
+olivetti & co spait<sep>ing. c. olivetti & c., s.p.a.<sep>ing. c. olivetti &amp; c., s.p.a.via g. jervis 77i-10015 ivreait<sep>ing. c. olivetti & c., s.p.a.  <sep>
+</APPLICANT>
+<INVENTOR>
+fiorentino guido<sep>sella lino<sep>fiorentino, guido<sep>sella, lino<sep>fiorentino, guidovia monte giuliano 18i-10015 ivrea turinit<sep>sella, linovia castellamonte 33/bi-10010 banchette turinit<sep>fiorentino, guido<sep>sella, lino<sep>fiorentino, guidovia monte giuliano 18i-10015 ivrea turinit<sep>sella, linovia castellamonte 33/bi-10010 banchette turinit<sep>
+</INVENTOR>
+<ABSTRACT>
+a rotary motion transducer for generating strobe signals  includes a first conductive surface (40) substantially parallel  to the motion, and an electret disk (34) permanently polarized  in a spoked configuration in a direction perpendicular  to the motion to provide a selective flux pattern and secured  to the first conductive surface, a second conductive surface  (30) having a spoked conductor pattern lying in a plane  adjacent the electret disk, such that relative rotation between  the conductive surfaces generates strobe signals between  them by electrostatic induction of the electric charges  trapped in the electret.  a linear motion transducer of similar  construction using a comb configuration for the electret and  second conductive surface is also described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

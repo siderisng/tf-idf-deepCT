@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011204
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01M-3/40 G01M-3/18 G01M-3/00 A61B-19/00 G01M-3/16 <main>G01N-27/20</main> A61B-19/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a system for detecting and indicating the occurrence of perforations in protective operation gloves.
+</TITLE>
+<APPLICANT>
+moelnlycke abse<sep>molnlycke ab<sep>mölnlycke ab405 03 göteborgse<sep>molnlycke ab<sep>
+</APPLICANT>
+<INVENTOR>
+hoborn jan<sep>krebs ulrich<sep>hoborn, jan<sep>krebs, ulrich<sep>hoborn, janbox 1028s-436 00 askimse<sep>krebs, ulrichholm postbox 4700s-440 33 harestadse<sep>hoborn, jan  <sep>krebs, ulrich <sep>hoborn, janbox 1028s-436 00 askimse<sep>krebs, ulrichholm postbox 4700s-440 33 harestadse<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention refers to an electronic detector arranged in  such a way that the electric conductivity between e. g.  a  surgeon (4) and a patient (1) can be measured.  the detector (6)  is preferably placed in the shoes (5) of the surgeon and is  through contact members (7, 8) on one hand connected to the  surgeon's body and on the other hand to the bedding on  which the surgeon stands, preferably a floor having a certain  electric conductivity, or a round (3) for this purpose.  by the  fact that an electrically conductive operating table (2) is elec­ trically connected to the same bedding also the patient (1) will  be galvanically connected with said bedding.  a detector (6) arranged in this way can detect the conduc­ tivity between the surgeon and the patient and makes it poss­ ible to control possible biologic leakage, e. g.  germ-containing  liquid, through perforations in the operation gloves (24) of the  surgeon, at which infections in incisions can be avoided to a  great extent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

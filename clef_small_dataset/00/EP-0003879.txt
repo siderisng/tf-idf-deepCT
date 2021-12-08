@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003879
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C02F-1/32</main> C02F-1/78 C02F-1/32 A61L-2/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for sanitising liquids.
+</TITLE>
+<APPLICANT>
+thetford corpus <sep>thetford corporation<sep>thetford corporation 7101 jackson road ann arbor michigan 48103 us<sep>thetford corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bernardin frederick e jr<sep>coviello allan j<sep>rohrkemper robert r<sep>bernardin, frederick e., jr.<sep>coviello, allan j.<sep>rohrkemper, robert r.<sep>bernardin, frederick e., jr.2314 w 17th streetwilmington delaware 19806us<sep>coviello, allan j.645 hidden valley drive 102 ann arbormichigan 48104us<sep>rohrkemper, robert r.263 glazierchelsea michigan 48118us<sep>bernardin, frederick e., jr.<sep>coviello, allan j. <sep>rohrkemper, robert r.  <sep>bernardin, frederick e., jr.2314 w 17th streetwilmington delaware 19806us<sep>coviello, allan j.645 hidden valley drive 102 ann arbormichigan 48104us<sep>rohrkemper, robert r.263 glazierchelsea michigan 48118us<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for contacting contaminated water with  ultraviolet light to eliminate potentially harmful organisms as  well as to provide air cooling necessary for efficient operation  of the uv lamp and for simultaneous production of ozone in  the apparatus for secondary disinfection of the water, the  water after treatment by the ultraviolet light being discharged  into a water storage tank, and the irradiated air that contains  the ozone being discharged into the tank into contact with the  water for carrying out the secondary disinfection.  
+</ABSTRACT>
+</TEXT>
+</DOC>

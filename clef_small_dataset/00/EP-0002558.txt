@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002558
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F25B-23/00</main> F17C-13/00 F25B-23/00 F25B-9/12 F28D-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+superleak and heat exchanger.
+</TITLE>
+<APPLICANT>
+philips nv nl <sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+severijns adrianus petrus<sep>staas frans adrianus<sep>severijns, adrianus petrus<sep>staas, frans adrianus<sep>severijns, adrianus petrusc/o int. octrooibureau b.v. 6 prof. holstlaannl-5600 eindhovennl<sep>staas, frans adrianusc/o int. octrooibureau b.v. 6 prof. holstlaannl-5600 eindhovennl<sep>severijns, adrianus petrus  <sep>staas, frans adrianus<sep>severijns, adrianus petrusc/o int. octrooibureau b.v. 6 prof. holstlaannl-5600 eindhovennl<sep>staas, frans adrianusc/o int. octrooibureau b.v. 6 prof. holstlaannl-5600 eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a superleak in which a heat exchanger having a  superleak structure is included in order to drastically reduce  heat leak in the flow direction during operation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

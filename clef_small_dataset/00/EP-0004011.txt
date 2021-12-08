@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004011
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-3/06 A61K-31/165 A61K-31/18 C07C-303/00 C07D-209/48 A61P-7/02 A61P-3/00 A61K-31/195 A61K-31/085 C07C-303/38 C07C-311/29 A61P-7/00 C07C-311/00 C07C-67/00 C07C-301/00 A61K-31/22 C07C-311/04 A61K-31/19 C07C-311/17 <main>C07C-143/822</main> A61K-31/185 C07C-303/40 C07D-209/00 A61K-31/21 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phenoxyalkylcarboxylic-acid derivatives, process for their preparation and medicaments containing them.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+roesch egon dr<sep>stegmeier karlheinz dr<sep>thiel max dr<sep>witte ernst-christian dr<sep>wolff hans peter dr<sep>roesch, egon, dr.<sep>stegmeier, karlheinz, dr.<sep>thiel, max, dr.<sep>witte, ernst-christian, dr.<sep>wolff, hans peter, dr.<sep>roesch, egon, dr.am oberen luisenpark 22d-6800 mannheim 1de<sep>stegmeier, karlheinz, dr.kirchbergstrasse 17d-6148 heppenheimde<sep>thiel, max, dr.s 6, 35d-6800 mannheim 1de<sep>witte, ernst-christian, dr.beethovenstrasse 2d-6800 mannheim 1de<sep>wolff, hans peter, dr.rebenweg 24d-6945 hirschberg-grossachsende<sep>roesch, egon, dr.<sep>stegmeier, karlheinz, dr.  <sep>thiel, max, dr.<sep>witte, ernst-christian, dr.<sep>wolff, hans peter, dr.<sep>roesch, egon, dr.am oberen luisenpark 22d-6800 mannheim 1de<sep>stegmeier, karlheinz, dr.kirchbergstrasse 17d-6148 heppenheimde<sep>thiel, max, dr.s 6, 35d-6800 mannheim 1de<sep>witte, ernst-christian, dr.beethovenstrasse 2d-6800 mannheim 1de<sep>wolff, hans peter, dr.rebenweg 24d-6945 hirschberg-grossachsende<sep>
+</INVENTOR>
+<ABSTRACT>
+Phenoxyalkylcarboxylic acid derivatives of the general formula I in which R is hydrogen or a lower alkyl group, R₁ an alkyl group 0 of an aryl, aralkyl or R aralkenyl group whose aryl radicals, which are optionally one-or more times by hydroxyl, halogen, trifluoromethyl or lower alkyl , alkexy or acyl groups may be substituted, R₂ and R₃ may be the same or different, hydrogen or a wedding alkyl group, and n the numbers 0 to 3, and their physiologically harmless salts, esters and amides with thrombocyte aggregation inhibitor and / or lipid lowering Effect are described. The preparation of the substances according to the invention is carried out either by reacting an aminoalkylphenois with a sulfonic acid and a reactive alkanecarboxylic acid derivative or by reaction of a sulfonamide with a suitably substituted reactive phenoxyalkylcarboxylic acid derivative. In a conventional manner, medicines are prepared with these compounds.
+</ABSTRACT>
+</TEXT>
+</DOC>

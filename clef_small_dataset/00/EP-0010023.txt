@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010023
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/40 H03F-1/06 H04N-5/38 <main>H04N-5/40</main> H03F-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+high performance amplitude modulation transmission system and television transmitter and retransmitter comprising such a system.
+</TITLE>
+<APPLICANT>
+lgt lab gen telecommfr <sep>l.g.t. laboratoire general des telecommunications<sep>thomson-lgt laboratoire general des telecommunications 51, boulevard de la république 78400 chatoufr<sep>thomson-lgt laboratoire general des telecommunications<sep>
+</APPLICANT>
+<INVENTOR>
+beltzer bernard<sep>chemin henri<sep>cluniat claude<sep>beltzer, bernard<sep>chemin, henri<sep>cluniat, claude<sep>beltzer, bernardthomson-csf - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>chemin, henrithomson-csf - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>cluniat, claudethomson-csf - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>beltzer, bernard<sep>chemin, henri<sep>cluniat, claude<sep>beltzer, bernardthomson-csf - scpi 173, bld haussmann f-75360 paris cedex 08 fr  <sep>chemin, henrithomson-csf - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>cluniat, claudethomson-csf - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to amplitude modulization emission systems and in particular those transfering television signals.The transmitting system according to the invention comprises essentially a separate amplification, followed by a combination of its fixed relative amplitude and phase conditions, of a carrier signal modulated by the videofrequency information with a carrier level.Reduced, with this same non-modulated carrier, which makes it possible to resiliently improve the efficiency and reliability of classic transmitters.Applicable to transmitters and re-emissors of television of any known standard.
+</ABSTRACT>
+</TEXT>
+</DOC>

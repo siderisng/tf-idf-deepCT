@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011855
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-69/732 <main>C07C-69/732</main> C07C-69/00 C07C-67/22 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of alkyl esters of unsaturated alpha-hydroxy carboxylic acids.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+goetze walter dr dipl-chem<sep>kroener michael dr dipl-chem<sep>goetze, walter, dr. dipl.-chem.<sep>kroener, michael, dr. dipl.-chem.<sep>goetze, walter, dr. dipl.-chem.duerkheimer strasse 13d-6701 dannstadt-schauernheim 1de<sep>kroener, michael, dr. dipl.-chem.eislebener weg 8d-6800 mannheim 42de<sep>goetze, walter, dr. dipl.-chem.  <sep>kroener, michael, dr. dipl.-chem.<sep>goetze, walter, dr. dipl.-chem.duerkheimer strasse 13d-6701 dannstadt-schauernheim 1de<sep>kroener, michael, dr. dipl.-chem.eislebener weg 8d-6800 mannheim 42de<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing partially new unsetted hydroxy esters of the general formula wherein R¹ represents hydrogen, methyl or ethyl, R² hydrogen or alkyl with 1 to 3 C atoms and R 3 alkyl with 1 to 6 C atoms, wherein one is a cyanohydress of the general formulawherein R¹ and R² have the above meaning (or a corresponding equilibrium blend from an alkylalene nylketone of the formula CH₂ = CR¹-CO-CH₂-R² and hydrocyanic acid), in the presence of hydrogen chloride with an alcohol of the all mean formula R³OH (III) where R³ above aboveMeaning has, reacting and the resulting reaction mixture Hienach hydrolyzed.The compounds thus obtained are suitable for the manufacture of alkaloids and crop protection agents as well as monomers for mixing polymerization.
+</ABSTRACT>
+</TEXT>
+</DOC>

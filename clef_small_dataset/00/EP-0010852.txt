@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010852
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-513/00 C07C-91/08 C07D-233/06 C07D-513/04 C07C-93/04 C07D-233/42 <main>C07D-513/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of tetramisole.
+</TITLE>
+<APPLICANT>
+american cyanamid cous<sep>american cyanamid company<sep>american cyanamid companyberdan avenuewayne new jersey 06904us<sep>american cyanamid company<sep>
+</APPLICANT>
+<INVENTOR>
+raghu sivaraman<sep>raghu, sivaraman<sep>raghu, sivaraman45 lois streetnorwalk, connecticutus<sep>raghu, sivaraman<sep>raghu, sivaraman45 lois streetnorwalk, connecticutus<sep>
+</INVENTOR>
+<ABSTRACT>
+there is disclosed a process for the preparation of  tetramisole which comprises the steps of:   a) reacting an imidoyl halide having the formula f:  x-c(r₁)=nch(ar)ch₂-x wherein ar is phenyl, r₁ is hydrogen,  lower alkyl, or phenyl or lower alkyl-substituted  phenyl, r₂ is hydrogen or lower alkyl, and x is halo, with  hydroxyethylamine or alkoxyethylamine having the formula:  r₂o-(ch₂)₂-nh₂ wherein r₂ is hydrogen or lower alkyl to  obtain an amidine hydrohalide having the formula:   r₂o-ch₂-ch₂-nh-c(r₁)=nch(ar)ch₂x·hx;   b) reacting the latter amidine hydrohalide with either  an inorganic base, hydroxyethylamine or alkoxyethylamine  having the formula: h₂n-ch₂-ch₂-or₂ in the presence of  an inert halogenated hydrocarbon to obtain an imidazoline  having the formula:    where ar, r₁, and r₂ are as defined above;   c) hydrolyzing the latter imidazoline to cleave the ring  to thereby obtain an amidoamine having the formula:   r₁conh-ch(ar)-ch₂-nh-ch₂-ch₂-or₂   wherein ar, r₁, and r₂ are as defined above;   d) further reacting the latter amidoamine with a suitable  inorganic base or acid to obtain a diamine having the  formula: nh₂-ch(ar)-ch₂nh-ch₂-ch₂-or₂ wherein ar, r₁,  and r₂ are as above defined;   e) reacting the latter diamine with carbon disulfide  to provide a dithiocarbamate having the tautomeric formula: ⊖sc(s)-nh-c(ar)-ch₂-⊕nh₂(ch₂)₂-or₂;   f) heating the latter dithiocarbamate to produce a  thione having the formula:    g) reacting the latter thione with an acid having the  formula: ha to provide an imidazothiazole having the  formula:    wherein ar, r₁, and r₂ are as defined above, and a is an  anion of a pharmaceutically acceptable acid, and   h) neutralizing the latter to obtain tetramisole having  the formula:  certain of the intermediates obtained in this process,  as well as certain of the individual steps thereof, are novel  per se.  
+</ABSTRACT>
+</TEXT>
+</DOC>

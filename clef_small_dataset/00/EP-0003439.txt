@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003439
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01M-1/00 F01M-1/08 F02B-3/00 F02F-1/20 F16J-1/08 F02F-1/18 F16J-1/00 F02B-3/06 F02F-3/00 <main>F01M-1/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+internal combustion engine.
+</TITLE>
+<APPLICANT>
+fuji heavy ind ltdjp<sep>fuji jukogyo kabushiki kaisha<sep>fuji jukogyo kabushiki kaisha7-2 nishishinjuku 1-chome shinjuku-kutokyojp<sep>fuji jukogyo kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+hiroaki kaneko<sep>hiroshi yamaguchi<sep>toshihiro nagano<sep>hiroaki, kaneko<sep>hiroshi, yamaguchi<sep>toshihiro, nagano<sep>hiroaki, kaneko629-15 haraichi, ageo-shisaitama-prefjp<sep>hiroshi, yamaguchi111-2 naracho, ohmiya-shisaitama-prefjp<sep>toshihiro, nagano7-14-6 todoroki, setagaya-kutokyojp<sep>hiroaki, kaneko<sep>hiroshi, yamaguchi<sep>toshihiro, nagano<sep>hiroaki, kaneko629-15 haraichi, ageo-shisaitama-prefjp<sep>hiroshi, yamaguchi111-2 naracho, ohmiya-shisaitama-prefjp<sep>toshihiro, nagano7-14-6 todoroki, setagaya-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+an internal combustion engine (1) having at least one oil  port (10) in the wall member of the cylinder (3) for injecting  lubricating oil to the skirt portion (4a) of the piston (4) of the  engine in synchronism with the crank shaft, whereby oil film  may be formed on the skirt portion (4a) to prevent the swing  of the piston (4) at the stroke ends to abate the piston  slapping noise.  
+</ABSTRACT>
+</TEXT>
+</DOC>

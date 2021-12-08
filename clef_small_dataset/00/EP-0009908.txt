@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009908
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16N-7/14</main> F04B-53/10 F04B-15/00 F16N-7/00 F04B-15/02 F16N-7/12 F04B-9/02 F04B-9/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for pumping lubricant wicking material.
+</TITLE>
+<APPLICANT>
+gen electricus<sep>general electric company<sep>general electric company1 river roadschenectady new york 12305us<sep>general electric company<sep>
+</APPLICANT>
+<INVENTOR>
+bohde jr richard charles<sep>tomson james monroe<sep>bohde jr, richard charles<sep>tomson, james monroe<sep>bohde jr, richard charles1615 sherbrooke drivenew haven indiana 46774us<sep>tomson, james monroe9829 ernst roadfort wayne indiana 46809us<sep>bohde jr, richard charles  <sep>tomson, james monroe<sep>bohde jr, richard charles1615 sherbrooke drivenew haven indiana 46774us<sep>tomson, james monroe9829 ernst roadfort wayne indiana 46809us<sep>
+</INVENTOR>
+<ABSTRACT>
+extrudable and compressible lubricant storage and  wicking material is pumped from a supply hopper (12) and  into a supply conduit (22,24) wherein passive valve means  (66) are alternately opened and closed as pressure in a  pump cavity (27) alternates between low and high values  as material is pumped out of the cavity by a piston (28).  the apparatus includes means (19) for continuously  rotating an auger (17) in the supply hopper, and means  (31) for reciprocating the piston (28) in the pump chamber  (27).  the passive valve means is preferably a double flap­ per valve (67,68).  
+</ABSTRACT>
+</TEXT>
+</DOC>

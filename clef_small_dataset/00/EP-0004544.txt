@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004544
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-13/64 H01H-13/50 <main>H01H-13/64</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+switch unit with latching positions.
+</TITLE>
+<APPLICANT>
+demag ag mannesmannde<sep>mannesmann demag ag<sep>mannesmann demag agwolfgang-reuter-platzd-4100 duisburgde<sep>mannesmann demag ag<sep>
+</APPLICANT>
+<INVENTOR>
+karpe wolfgang<sep>kluge johannes<sep>oemus klaus-dieter<sep>karpe, wolfgang<sep>kluge, johannes<sep>oemus, klaus-dieter<sep>karpe, wolfgangschillerstrasse 33d-5802 wetter 2de<sep>kluge, johannesweststrasse 7d-5802 wetter 1de<sep>oemus, klaus-dieterbussardweg 6d-5870 hemerde<sep>karpe, wolfgang<sep>kluge, johannes <sep>oemus, klaus-dieter<sep>karpe, wolfgang schillerstrasse 33 d-5802 wetter 2 de <sep>kluge, johannesweststrasse 7d-5802 wetter 1de<sep>oemus, klaus-dieterbussardweg 6d-5870 hemerde<sep>
+</INVENTOR>
+<ABSTRACT>
+With each switching element, the electrical contacts (A-C) always have to be closed abruptly and disconnected, otherwise they welcome themselves through the arc resulting in switching. For suchable switching is therefore between a push button (4), which is usually manually operated and a contact carrier (7) a biasing spring (5) is clamped. This counteracts a return spring (6), which is arranged between the contact carrier (7) and the bottom (1a) of the main body (1) of the switching element. Between two opposing contact pairs (A-B) and (C-D) contact springs (8) are arranged, which press the contacts against the contact terminals (A - B) and (C - D) if they are not from the contact carrier (7) in which the contacts are guided, held in a separation position. The mentioned springs together with latch springs (9) and detection bodies (10) which lie in locking cams (7g) of the contact carrier (7), result in a sudden switching of the contacts (A - C).
+</ABSTRACT>
+</TEXT>
+</DOC>

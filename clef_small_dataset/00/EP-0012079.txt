@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012079
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-211/00 C07D-513/00 C07D-513/10 C07D-491/107 C07D-279/00 C07D-211/70 G03C-1/685 C07D-491/00 C07D-491/10 C09K-9/02 C07D-279/12 <main>C07D-491/107</main> G03C-1/733 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spiropyrane derivatives of piperidine or thiazine cycles, process for their preparation and their use in photochromic compositions.
+</TITLE>
+<APPLICANT>
+france etatfr<sep>etat-francais represente par le delegue general pour l'armement  <sep>etat-francais représenté par le delegue general pour l'armementbureau des brevets et inventions de la délégation générale pour l'armement 14, rue saint-dominiquef-75997 paris arméesfr<sep>etat-francais represente par le delegue general pour l'armement<sep>
+</APPLICANT>
+<INVENTOR>
+garnier francis<sep>guglielmetti robert j<sep>petillon gisele m c<sep>poirier yves m<sep>garnier, francis<sep>guglielmetti, robert j.<sep>petillon, gisele m.c.<sep>poirier, yves m.<sep>garnier, francis17, villa rémyf-94000 champignyfr<sep>guglielmetti, robert j.1 rue maurice donnayf-29200 brestfr<sep>petillon, gisèle m.c.raudaufloc'h edemf-29112 briecfr<sep>poirier, yves m.75, rue commandant groixf-29200 brestfr<sep>garnier, francis  <sep>guglielmetti, robert j.<sep>petillon, gisele m.c.<sep>poirier, yves m.<sep>garnier, francis17, villa rémyf-94000 champignyfr<sep>guglielmetti, robert j.1 rue maurice donnayf-29200 brestfr<sep>petillon, gisèle m.c.raudaufloc'h edemf-29112 briecfr<sep>poirier, yves m.75, rue commandant groixf-29200 brestfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to spiropyrannic compounds. They respond to the general formula (I) wherein: X represents a CH₂ group or a sulfur atom; R₁ and R₂ represent donor groups and / or electron acceptors chosen for example in the NO₂, COC₆H₅, CN, halogen, acyl substituents, alkoxy, hydrogen, alkyl, captoalkyl, groupings, ethers of formula CH₂OR, thioethers of Formula CH₂SR and amines of Formula CH₂NR₂ in which R represents an alkyl group; R₃ is an alkyl, linear or branched group, comprising 1 to 18 car bore atoms, an arylalkyl, alkenyl group. -R₄, R₅, R₆, R₇, R₈ and R₉ have one of the meanings indicated for R₃, or represent two to two, with the plant in ortho, a group - (CH₂) N- in which N is a number included between 5 and 10. R₁₀ represents if x = s a hydrogen atom and if x = CH₂ a hydrogen atom, an alkyl group compror for both 1 to 18 carbon atoms, an arylalkyl group in which the alkyl group comprises 1 to 5 carbon atoms, an alkenyl group comprising 1 to 10 carbon atoms. The compounds according to the invention are endowed with photochromed property and are suitable for recording informations on transparent or opaque media.
+</ABSTRACT>
+</TEXT>
+</DOC>

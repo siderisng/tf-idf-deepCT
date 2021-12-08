@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003906
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-10/00 C01B-25/00 B01J-14/00 C07C-51/41 C08G-63/54 C07D-213/00 C08G-63/78 B01J-8/10 C07D-213/22 D01D-5/00 C01B-25/28 B01J-19/08 B01J-19/12 B01J-10/02 B01J-16/00 C01G-3/02 D01D-5/11 B01J-19/18 D01D-5/18 C01F-11/24 C01F-11/00 C08G-63/00 C01G-21/00 C08G-85/00 <main>B01J-19/28</main> C01G-21/16 D04H-1/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+chemical process on the surface of a rotating body with subsequent discharge of the reaction product.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+cowen geoffrey<sep>norton-berry philip<sep>steel margaret lilian<sep>cowen, geoffrey<sep>norton-berry, philip<sep>steel, margaret lilian<sep>cowen, geoffrey132 b seneschal square southgateruncorn cheshiregb<sep>norton-berry, philiptan-y-coed llandeglaclwyd walesgb<sep>steel, margaret lilian21 bunbury driveruncorn cheshiregb<sep>cowen, geoffrey<sep>norton-berry, philip<sep>steel, margaret lilian<sep>cowen, geoffrey132 b seneschal square southgateruncorn cheshiregb<sep>norton-berry, philiptan-y-coed llandeglaclwyd walesgb<sep>steel, margaret lilian21 bunbury driveruncorn cheshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a wide variety of chemical processes using thin films of  reactants are carried out on the surface of a body (1) rotating  at high speed and the products are readily isolated (for  example as fine particles of fibres) by using centrifugal force  to fling the products from the rim (9) of the body.  
+</ABSTRACT>
+</TEXT>
+</DOC>

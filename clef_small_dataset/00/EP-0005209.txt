@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005209
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H02B-13/02</main> H02B-13/02 H01H-33/42 H01H-33/66 H01H-33/00 H01H-33/14 H01H-33/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+switch combination for bus-bar installations.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+silbermann erich<sep>silbermann, erich<sep>silbermann, erichdamaschkestrasse 61d-8521 bubenreuthde<sep>silbermann, erich<sep>silbermann, erichdamaschkestrasse 61d-8521 bubenreuthde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a switch combination for busbar systems for connecting at least one busbar (4) with at least one branch (5). The switch combination consists of a tube (6) with a rotatable switching tube (1) axially arranged in the tube (6) axially arranged. At the inner circumference of the tube (6) stationary counter contacts (7, 9, 10) are arranged, which are connected to a busbar (4) or a branch (5). The switch tube (1) carries on the outer circumference contact pieces (3) arranged in a circular arc with such a diameter about the switching tube (1), that by turning the switch tube (1) the contact pieces (3) with the counter contacts (7, 9, 10) can be electrically conductively connected. The contact pieces (3) are connected to the terminals of a circuit breaker (2) located inside the pipe. By closing the circuit breaker (2) associated contact pieces (3) and thus also the counteracts (7, 9, 10) connected to them (7, 9, 10) connected to them can be connected to each other.
+</ABSTRACT>
+</TEXT>
+</DOC>

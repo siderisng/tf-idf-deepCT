@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016666
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/06 G05D-16/20 F16H-61/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrohydraulic transducer, especially for controlling a pressure in an automatic gearing
+</TITLE>
+<APPLICANT>
+renaultfr <sep>renault vehicules indfr <sep>regie nationale des usines renault <sep>renault vehicules industriels societe dite:<sep>regie nationale des usines renaultboíte postale 103 8-10 avenue emile zola92109 boulogne-billancourtfr<sep>renault vehicules industriels société dite:30 quai claude bernardf-69007 lyonfr<sep>
+</APPLICANT>
+<INVENTOR>
+bouvet jean-mariefr<sep>quemerais philippefr<sep>bouvet, jean-marie<sep>quemerais, philippe<sep>bouvet, jean-marie133 rue de sillyf-92100 boulogne-billancourtfr<sep>quemerais, philippe"la giraud yzeron"f-69510 thurinsfr<sep>
+</INVENTOR>
+<ABSTRACT>
+An electromagnet coil 29 submits to an attraction force a moving tray 30 made of magnetic material inside which is housed a ball 32 made of non-magnetic material obtaining the end of a passage 33 for the hydraulic fluid.The device further comprises electronic means for supplying the coil 29 by means of a pulsed unidirectional current whose cyclic ratio and the average value are enslaved to a set-up size represented by a control electrical signal.The device can be used as a hydraulic potentiometer for the definition of a driving pressure proportional to a control electrical signal in a hydraulic circuit for controlling an automatic transmission of industrial vehicles.
+</ABSTRACT>
+</TEXT>
+</DOC>

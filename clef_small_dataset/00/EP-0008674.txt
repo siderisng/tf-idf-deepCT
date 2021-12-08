@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008674
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-15/02 H01L-27/10 <main>H03H-15/02</main> H03H-19/00 H03H-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+integrated filter network.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+pfleiderer hans-jorg dr<sep>pfleiderer, hans-jorg, dr.<sep>pfleiderer, hans-jörg, dr.franz-krinninger-weg 23d-8011 zornedingde<sep>pfleiderer, hans-jorg, dr.<sep>pfleiderer, hans-jörg, dr.franz-krinninger-weg 23d-8011 zornedingde<sep>
+</INVENTOR>
+<ABSTRACT>
+Integrated filter circuit with a CTD transversal filter (1) and a low-passed, further filter, which is preceded by the transversal filter (1), to improve its "aliasing" properties.For such filter circuits, a surface-saving, easily integrated shape is sought.This is achieved by a formation of the upstream filter as a four-pole circuit, which has two capacitors (C₁, C₂) and two alternating electronic switches (7, 8) operable electronic switches (7, 8).In particular, the scope includes CTD transversal filters which are used in systems with different clock frequencies.
+</ABSTRACT>
+</TEXT>
+</DOC>

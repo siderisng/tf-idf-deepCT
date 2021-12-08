@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011189
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16L-55/05 <main>F16L-55/04</main> B01D-35/00 F02M-37/22 B01D-27/08 F16L-55/04 B01D-35/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device with a membrane for damping oscillations in flowing liquids.
+</TITLE>
+<APPLICANT>
+knecht filterwerke gmbhde<sep>knecht filterwerke gmbh<sep>knecht filterwerke gmbhhaldenstrasse 48d-7000 stuttgart 50de<sep>knecht filterwerke gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+frey gunter<sep>frey, gunter<sep>frey, günterhauffstrasse 10d-7012 fellbachde<sep>frey, gunter<sep>frey, günterhauffstrasse 10d-7012 fellbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+For damping high-frequency vibrations in high-pressure liquids in line systems, a membrane (2) loaded by a spring (3) serves a membrane (2), which is surrounded by the liquid of the conduit system.In the case of resting liquid, the membrane (2) acts as a barrier in a free flow cross section of the Lei Tungssystems.In the case of flowing liquid, the membrane (2) is in the floating state in which it is held by the flow energy of the liquid against the counter-throwing force of the diaphragm (2) loading spring (3).The diaphragm (2) is inserted in a housing (1) built into the conduit system (1) so that the rinses on the upstream side of the membrane (2) by an annular space (6) radially around the membrane (2) by an annular space(6) radially flows around the membrane (2).The membrane device is particularly suitable for installation in the housing (9) of a liquid filter.
+</ABSTRACT>
+</TEXT>
+</DOC>

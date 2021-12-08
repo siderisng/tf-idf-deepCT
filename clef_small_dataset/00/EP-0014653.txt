@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014653
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-7/16 G08C-19/28 H04N-7/025 H04N-7/08 G08C-19/16 H04N-7/03 H04N-7/035 H04N-7/081 H04N-7/167 <main>H04N-7/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system for conveying information between a transmitting centre and receiving stations, the system being provided with control means for gaining access to the conveyed information.
+</TITLE>
+<APPLICANT>
+france etat fr <sep>telediffusion fsefr<sep>etablissement public de diffusion dit  "telediffusion de france"<sep>l'etat francais represente par le secretaire d'etat aux postes et telecommunications<sep>etablissement public de diffusion dit "télédiffusion de france"21-27 rue barbèsf-92120 montrougefr<sep>etat francais repr. par le secrétaire d'etat aux postes &amp; télécommunications (centre national d'etudes des télécommunications)38-40 rue du général leclercf-92131 issy les moulineauxfr<sep>etablissement public de diffusion dit  "telediffusion de france"<sep>l'etat francais represente par le secretaire d'etat aux postes et telecommunications  <sep>
+</APPLICANT>
+<INVENTOR>
+guillou louis claude<sep>guillou, louis claude<sep>guillou, louis claude7, rue de l'isef-35230 bourgbarrefr<sep>guillou, louis claude<sep>guillou, louis claude7, rue de l'isef-35230 bourgbarrefr<sep>
+</INVENTOR>
+<ABSTRACT>
+This system includes a transmission center (2) and receivers (4.4 '...).The transmitting center includes a signal forming circuit (6), a generator (22), a service key, a locking machine (24) and a message forming circuit (102).data and messages are transmitted by a circuit (12).Each receiver comprises a receiving member (14), a subscription support (108), a circuit (110) of the service key, an automaton to disembubble (38) and finally an organ (20) of visualizationinformations.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013508
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/40 H01L-21/822 <main>H01L-27/20</main> G11C-11/411 H01L-21/8222 H01L-27/02 H01L-21/762 H01L-27/04 H01L-27/082 H03K-19/091 H03K-19/082 H01L-21/331 H01L-29/73 H01L-27/10 H01L-29/66 H01L-21/02 H01L-21/76 H01L-21/70 H01L-21/8226 H01L-21/763 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor device and a method of producing the same.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+funatsu tsuneo<sep>funatsu, tsuneo<sep>funatsu, tsuneo670, kamikodanaka nakahara-kukawasaki-shi kanagawa 211jp<sep>funatsu, tsuneo<sep>funatsu, tsuneo670, kamikodanaka nakahara-kukawasaki-shi kanagawa 211jp<sep>
+</INVENTOR>
+<ABSTRACT>
+an i²l type semiconductor device having an elementary  region which is isolated by v-shape grooves (71,72,73,74,75  76,77) from the other portions of the device, said semiconduc­ tor device comprising an insulating layer coating covering the  surface of the semiconductor body of the device, wherein an  injector region (10) is formed under said insulating layer and  surrounded by thicker portions of said insulating layer, and  base regions (91) (92) are formed under said insulating layer  between said thicker portions of said insulating layer and said  v-shape grooves.  
+</ABSTRACT>
+</TEXT>
+</DOC>

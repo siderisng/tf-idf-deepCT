@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0015276
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06F-7/00</main> G06F-15/80 G06F-9/38 G06F-15/76 G06F-15/16 G06F-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a digital pipelined computer.
+</TITLE>
+<APPLICANT>
+ncr corpus<sep>ncr corporation<sep>ncr corporation<sep>
+</APPLICANT>
+<INVENTOR>
+marro daniel joseph<sep>schuck david burton<sep>marro, daniel joseph<sep>schuck, david burton<sep>marro, daniel joseph<sep>schuck, david burton <sep>marro, daniel joseph 1333 east grand avenue apt. c-201 escondido, ca 92027us<sep>schuck, david burton1640 queenston driveescondido, ca 92027us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013719
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B41J-1/30</main> B41J-1/30 B41J-1/00 B41J-1/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+print disc cassette assembly.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation<sep>international business machines corporation old orchard road armonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+habich adolph broaddus<sep>hunt ronald eugene<sep>habich, adolph broaddus<sep>hunt, ronald, eugene<sep>habich, adolph broaddus8004 ceberry driveaustin, tx 78759us<sep>hunt, ronald, eugene8702 honeysuckle trailaustin, tx 78759us<sep>habich, adolph broaddus<sep>hunt, ronald, eugene  <sep>habich, adolph broaddus8004 ceberry driveaustin, tx 78759us<sep>hunt, ronald, eugene8702 honeysuckle trailaustin, tx 78759us<sep>
+</INVENTOR>
+<ABSTRACT>
+Languette type printing wheel structure Radial latches designed to be housed and orushed in a cartridge during storage and use in a printer.The print wheel (2) comprises a hub (26), in the form of a cup, provided with a peripheral edge (55) from the end of which the radial tabs (27) carry (27) carrying characters (28).The hub (26) has a orientation element (29), asymmetric shape, intended to accommodate in a corresponding opening (7) of a cartridge (1), in order to block the print wheel (2)in a predetermined angular position.The orientation element (29) has a depression (30) for lightening the print wheel (2), as well as a depression (43) with an opening for the rotation drive of the wheel D'Print (2).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002792
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-25/02 A61K-31/403 A61P-25/00 A61K-31/405 A61K-31/4035 C07D-209/00 C07D-209/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3-aminopropoxyaryl derivatives, their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+sandoz agch<sep>sandoz ag<sep>sandoz aglichtstrasse 35 4002 basel ch <sep>
+</APPLICANT>
+<INVENTOR>
+achini roland drch<sep>berthold richard drch<sep>achini, roland, dr.<sep>berthold, richard, dr.<sep>achini, roland, dr.teichstrasse 104ch-4106 therwilch<sep>berthold, richard, dr.ahornstrasse 9ch-4103 bottmingench<sep>
+</INVENTOR>
+<ABSTRACT>
+the compounds of the type having an    side chain attached through the 1-oxygen atom thereof  directly to a heterocyclic nucleus comprising an n-carbonylisoindolinyl  radical and wherein the 1-oxygen atom of  the side chain is attached directly to the 4 position of the  isoindolinyl ring are useful as adrenergic blocking agents.  
+</ABSTRACT>
+</TEXT>
+</DOC>

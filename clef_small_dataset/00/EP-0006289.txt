@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006289
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-45/44 B29C-45/37 B29C-41/00 B29C-33/02 B29C-45/00 B29C-33/42 B29C-45/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mould for controlling sink-marks on moulded plastic articles and method of producing the articles.
+</TITLE>
+<APPLICANT>
+allied corpus<sep>allied corporation<sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.) morristown new jersey 07960 us <sep>
+</APPLICANT>
+<INVENTOR>
+progelhof richard carlus<sep>progelhof, richard carl<sep>progelhof, richard carl140 sutton driveberkeley heights, new jersey 07922us<sep>
+</INVENTOR>
+<ABSTRACT>
+sink-marks (22) on molded plastic articles (14), which  result from ribs or bosses (12) are controlled by the use  of a mold containing an insulating insert (16) which allows  the molded articles to solidify in such a way that a least one  surface of the rib or boss is '"free" or molten during solidifi­ cation.  
+</ABSTRACT>
+<DESCRIPTION>
+control of sink-marks on molded plastic articles this invention relates to the use of a mold containing an insulating insert for controlling sink-marks in molded plastic articles. ¯plastics are often used in high performance loadbearing applications. to accommodate such applications, molded plastics are designed so that internal structural components, such as ribs or bosses, are combined with and become part of the external molded article. these ribs and bosses are protuberances on the plastic article designed to add strength, to facilitate alignment during assembly, to provide for fastenings, etc. one serious problem associated with the use of ribs and bosses is that they cause sink-marks at the smooth surface above the intersection of the ribs or bosses. these sink-marks, or surface depressions, generally occur above sections where there is local thickening (ribs and bosses) and in which the internal mass contains sufficient heat to hold the surface in a plastic state and draw it inwards, or contract, as cooling proceeds. various attempts have been made heretofore to either eliminate or minimize the effect of these sink-marks. for example, where the flat surface intersecting the rib or boss does not have to have a smooth appearance, the sur face is sometimes textured in order to camouflage the sink-marks. another method which is generally used is to design the plastic article so that the thickness of the rib or boss is substantially less than the thickness of the intersected section of the plastic article. although these prior art methods have met with success in limited applications, there is still a need to eliminate or to effectively eliminate sink-marks wherein a smooth surface is required and wherein it is impractical for the rib or boss to be of lesser thickness in diameter than the thickness of section from which it protrudes. summary of the invention in accordance with the present invention there is provided a unique mold and a method for controlling the sink-marks normally appearing on flat surfaces of molded plastic articles wherein the flat surfaces are intersected on their underside by ribs or bosses. the present method comprises the use of an insulating insert in a conventional mold. when the plastic is a thermoplastic, the insert acts to maintain a higher temperature at the surface of the rib or boss to which it is contiguous to, thereby assuring that that surface develops rigidity at a slower rate than the other surfaces of the rib or boss. when the plastic is a thermoset, the insulating insert prevents the surface to which it is contiguous to cure at a slower rate than the other surfaces of the rib or boss. brief description of the drawings for a better understanding of the present invention, reference is made to the accompanying drawings, wherein all the drawings illustrate a cross-sectional view of a section of a mold that contains the means for molding a plastic article containing ribs and/or bosses and an insert which provides a way for effectively controlling or eliminating sink-marks. for example: fig.
+</DESCRIPTION>
+<CLAIMS>
+what we claim is:    1. a mold for shaping plastic articles from molten plastic resin wherein said articles are provided with ribs and/or bosses, characterised in that there is provided a means to effectively eliminate sink-marks, on the molded plastic articles, which are caused by said ribs and/or bosses upon solidification, which means is an insulating insert and an integral part of the mold and causes a lower rate of heat transfer at the surface of the plastic article to which it is contiguous to, upon solidification of the molded article.    2. a mold according to claim 1 wherein the diffusivity value of the mold is about 20 to 3000 times the diffusivity value of the insulating material of the insert.    3. a mold according to either of claims 1 and 2 wherein the insulating insert comprises a fluoropolymer, a ceramic, a polyamide, a polyurethane and a polysulfone.    4. a mold according to claim 3 wherein the insulating material insert is a fluoropolymer.    5. a mold according to any one of claims 1 to 4 which is used for molding thermoplastic resins.    6. a mold according to claim 5 wherein the thermoplastic resin is a polyamide.    7. a method of producing a substantially   sinkmark    free plastic molded article containing ribs and/or bosses characterised by feeding a molten plastic resin into a mold containing an insulating insert as an integral part thereof wherein said insert is aligned such that it causes at least one surface of the ribs and/or bosses to undergo heat transfer at a lower rate than any other surface of the article; cooling the molded article until it is solid; and removing the article from the mold.     8. a method according to claim 7 wherein the diffusivity value of the mold is 20 to 3000 times the diffusivity value of the insulating material of the insert.    9. a method according to either of claims 7 and 8 wherein the insulating insert comprises a fluoropolymer, a ceramic, a polyamide, a polyurethane or a polysulfone.    10. a method according to any one of claims 7 to 9 wherein the molten plastic resin is a polyamide.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012891
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-17/383 <main>C07C-25/08</main> C07C-25/08 C07C-25/00 C07C-17/38 C07C-17/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing dichlorobenzenes.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+bitners felix dipl-ing<sep>hauser werner dr  <sep>wambach raimund dr<sep>wissner adolf dr<sep>bitners, felix, dipl.-ing.<sep>hauser, werner, dr.<sep>wambach, raimund, dr.<sep>wissner, adolf, dr.<sep>bitners, felix, dipl.-ing.paul-klee-strasse 90d-5090 leverkusen 1de<sep>hauser, werner, dr.quellenweg 8d-5068 odenthalde<sep>wambach, raimund, dr.berta-von-suttner-strasse 65d-5090 leverkusen 1de<sep>wissner, adolf, dr.am wasserturm 13d-5090 leverkusen 3de<sep>bitners, felix, dipl.-ing. <sep>hauser, werner, dr.<sep>wambach, raimund, dr.  <sep>wissner, adolf, dr. <sep>bitners, felix, dipl.-ing.paul-klee-strasse 90d-5090 leverkusen 1de<sep>hauser, werner, dr.quellenweg 8d-5068 odenthalde<sep>wambach, raimund, dr.berta-von-suttner-strasse 65d-5090 leverkusen 1de<sep>wissner, adolf, dr.am wasserturm 13d-5090 leverkusen 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing ortho-, meta- and / or para-dichlorobenzene from an ISO series mixture of dichlorobenzene, in which one distilled in a first step the isomer mixture, separating as a swamp product of the distillation column ortho-dichlorobenzene separating and a head obtained is isomeric mixture, which is cooled in a second step to a temperature of 10 to 40 ° and can be separated as a solid phase para-dichlorobenzene and cooling the liquid phase in a third step to a temperature of -40 to -5 ° C, wherein the ejecting solid phase is mixed with the isomer mixture for the second step, and the liquid phase supplies in a fourth step of another distillation, in which one obtains an isomeric mixture in the bottom of the distillation column, which is mixed to the output isomeric mixture, and above head obtains an isomer mixture, which in a fifth step on a temperature of -25 to -40 ° C is cooled and a liquid phase is obtained which is supplied to the distillation of the fourth step and maintain territory meta-dichlorobenzene as a solid phase.
+</ABSTRACT>
+</TEXT>
+</DOC>

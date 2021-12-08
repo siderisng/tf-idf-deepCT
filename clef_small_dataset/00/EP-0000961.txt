@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000961
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21K-4/00 G03C-5/16 C01F-17/00 H01J-29/20 <main>G03C-5/17</main> C09K-11/02 C09K-11/77 C09K-11/24 C09K-11/08 C09K-11/46 G03C-5/17 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phosphor-containing compositions and their use in x-ray photography.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe  <sep>agfa-gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap<sep>
+</APPLICANT>
+<INVENTOR>
+suys andre roger<sep>van landeghem willy karel<sep>suys, andre roger<sep>van landeghem, willy karel<sep>suys, andré rogerlege veldkantlaan 7b-2540 hovebe<sep>van landeghem, willy karellaarstraat 2b-2780 sint-gillis-waasbe<sep>suys, andre roger<sep>van landeghem, willy karel<sep>suys, andré rogerlege veldkantlaan 7b-2540 hovebe<sep>van landeghem, willy karellaarstraat 2b-2780 sint-gillis-waasbe<sep>
+</INVENTOR>
+<ABSTRACT>
+a composition of matter is described suitable for use  as fluorescent screen in x-ray photography.  the composition  of matter comprises halide-containing phosphor particles  and in order to improve the stability against moisture  of these particles, a non-metal organic compound of the formula   r-x or x-r′-x   wherein r and r¹ are organic groups preferably comprising  at least 6 c-atoms, and not containing a reactive hydrogen  as does x, and   x is a group containing a reactive hydrogen atom.  the  compound has a solubility of not more than 5 g in 100 ml  of water at 15°c.  
+</ABSTRACT>
+</TEXT>
+</DOC>

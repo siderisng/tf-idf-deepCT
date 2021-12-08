@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009113
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-17/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data base system for a real-time computer
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+arndt gerhard dipl-ingde <sep>sammer werner dipl-math de<sep>schmitter ernst dipl-mathde<sep>arndt, gerhard, dipl.-ing.<sep>sammer, werner, dipl.-math<sep>schmitter, ernst, dipl.-math.<sep>arndt, gerhard, dipl.-ing.carl-weinberger-strasse 17d-8150 holzkirchende<sep>sammer, werner, dipl.-mathpapperitzstrasse 11d-8000 münchen 71de<sep>schmitter, ernst, dipl.-math.zwiedineckstrasse 40d-8000 münchen 50de<sep>
+</INVENTOR>
+<ABSTRACT>
+as a rule, databases are traffic bottlenecks in data processing systems operating in real-time mode, which several users in each case have access at the same time and with the same priority.  as a rule, the access to the data records must occur in several search steps and requires a corresponding time.  as a result, the required capacity of a database - expressed in "number of accesses per unit time" is frequently not achieved.  known systems, in which the said problem is dealt with by complex hardware arrangements, do not have the optimum effect and, moreover, require a high organisational effort.  the invention is based on the object of avoiding the said disadvantages in known database systems, and insupportable access waiting times being avoided in spite of the lower expenditure on software.  the object is achieved by a database system for data processing systems operating in real-time mode, which is characterised by the fact that several database computers, preferably constructed with microprocessors, are provided which can be accessed via a communication system with equal priority by operating stations by means of access control systems individually allocated to these, and in that each database computer is allocated its own functional area of the database system so that several access requests for different functional areas can be handled in parallel in time.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

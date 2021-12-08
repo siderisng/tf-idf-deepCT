@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000498
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22B-34/12 C22B-34/00 C22B-1/10 C01G-23/02 C01G-23/00 <main>C01G-23/02</main> C22B-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a flow process for chlorinating ferruginous titaniferous material.
+</TITLE>
+<APPLICANT>
+scm corpus<sep>s c m corporation  <sep>s c m corporation299 park avenuenew york new yorkus<sep>s c m corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bonsack james paul<sep>bonsack, james paul<sep>bonsack, james paul205 hemlock laneaberdeen marylandus<sep>bonsack, james paul<sep>bonsack, james paul205 hemlock laneaberdeen marylandus<sep>
+</INVENTOR>
+<ABSTRACT>
+ferruginous titaniferous material having an iron to  titanium molar ratio fe/ti of n:1, n being at least about 0,25 is  chlorinated in the presence of carbonaceous reductants with  not more than x + 2 moles of chlorine per gram atom of  titanium, in a laminar flow at about 1050-1950°c.  the atomic  ratio of carbon in the mixture to the oxygen content is greater  than 1:1.  a product stream of titanium chlorides and by-product  metallic iron is withdrawn.  in a preferred operational  mode the reaction zone is followed by a hot separation zone  and a cool separation zone.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005037
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-1/16 <main>H04R-9/04</main> H04R-9/00 H04R-7/16 H04R-9/04 H04R-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+acoustic speaker.
+</TITLE>
+<APPLICANT>
+nakamatsu yoshiro<sep>yoshiro nakamatsu<sep>nakamatsu, yoshiro1-10-309, 5-chome, minami aoyama minato-kutokyojp<sep>nakamatsu, yoshiro<sep>
+</APPLICANT>
+<INVENTOR>
+yoshiro nakamatsu<sep>yoshiro nakamatsu<sep>nakamatsu, yoshiro1-10-309, 5-chome, minami aoyama minato-kutokyojp<sep>nakamatsu, yoshiro<sep>nakamatsu, yoshiro1-10-309, 5-chome, minami aoyama minato-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+an acoustic device comprising a main body having a  magnet attached thereto, a vibrating means disposed to  cooperate with said magnet of said main body for converting  an electrical vibration into a mechanical vibration or vice  versa, and a means for floating up said vibrating means into  disengagement with said main body.  
+</ABSTRACT>
+</TEXT>
+</DOC>

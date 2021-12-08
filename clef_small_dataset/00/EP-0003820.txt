@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003820
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08J-5/12 C08L-23/00 C07F-15/04 C08K-5/00 C08L-101/00 C08L-7/00 C08K-5/04 C07F-15/00 C08L-21/00 C07F-15/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+chelate complexes of nickel and cobalt, process for their preparation, mixture of elastomers containing these complexes and process for increasing the adhesion of elastomers to nickel.
+</TITLE>
+<APPLICANT>
+ciba geigy agch <sep>ciba-geigy ag <sep>ciba-geigy ag klybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+batzer hans prof drch<sep>knobloch gerrit drde<sep>sinnreich joel drde<sep>batzer, hans, prof. dr.<sep>knobloch, gerrit, dr.<sep>sinnreich, joel, dr.<sep>batzer, hans, prof. dr.rainweg 7ch-4144 arlesheimch<sep>knobloch, gerrit, dr.luisenweg 2d-6145 lindenfels/odenwaldde<sep>sinnreich, joel, dr.karlstrasse 9d-6140 bensheim/bergstrassede<sep>
+</INVENTOR>
+<ABSTRACT>
+Nickel and cobalt chelat complexes made of a nickel or cobalt salt and a succinylamuccinic acid ester of the formula I wherein represents an optionally substituted hydrocarbon radical aliphatic or aromatic character are excellent adhesive improvers for vulcanized rubber on metal surfaces.
+</ABSTRACT>
+</TEXT>
+</DOC>

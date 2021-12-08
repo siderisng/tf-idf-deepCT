@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012742
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02M-7/49 H02M-1/12 H02J-3/01 H03H-7/01 H02M-7/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiple-bridge, three-phase converter arrangement including voltage harmonics cancellation.
+</TITLE>
+<APPLICANT>
+united technologies corpus<sep>united technologies corporation<sep>united technologies corporationunited technologies building 1, financial plazahartford, ct 06101us<sep>
+</APPLICANT>
+<INVENTOR>
+lipman kennethus<sep>lipman, kenneth<sep>lipman, kenneth15, rye ridge parkwaywest hartford, ct 06117us<sep>
+</INVENTOR>
+<ABSTRACT>
+all harmonics of an order less than (6 n-1) are cancel­ led from the fundamental signal presented in each output  phase of the three-phase converter as the sum of correspond­ ing phase angle fundamental signals from an n number of  converter bridges, where n is a non-power of two.  
+</ABSTRACT>
+</TEXT>
+</DOC>

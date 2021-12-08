@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005860
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-29/04 B65H-29/02 B65H-5/08 B65G-49/06 <main>C03B-35/00</main> C03B-35/20 C03B-27/052 C03B-35/00 B65G-47/36 B65G-47/61 B65G-49/05 C03B-27/00 B65G-47/34 B65G-47/60 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for automatically releasing glass panes which are suspended by gripping tongs.
+</TITLE>
+<APPLICANT>
+saint gobainfr<sep>ver glaswerke gmbhde <sep>saint-gobain industries<sep>vereinigte glaswerke gmbh  <sep>saint-gobain industries62, bd victor hugof-92209 neuilly sur seinefr<sep>vegla vereinigte glaswerke gmbhviktoriaallee 3-5d-52066 aachende<sep>saint-gobain industries<sep>vereinigte glaswerke gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+happich karl-christoph<sep>pagel werner ing<sep>rissmann heinz-bernd<sep>roth mario dipl-ing<sep>happich, karl-christoph<sep>pagel, werner, ing.<sep>rissmann, heinz-bernd<sep>roth, mario, dipl.-ing.<sep>happich, karl-christophviktoriaallee 56d-5100 aachende<sep>pagel, werner, ing.christian-derichstrasse 4d-5120 herzogenrathde<sep>rissmann, heinz-berndvereinsstrasse 5-7d-5100 aachende<sep>roth, mario, dipl.-ing.laurentiusstrasse 13d-5100 aachende<sep>happich, karl-christoph<sep>pagel, werner, ing. <sep>rissmann, heinz-bernd<sep>roth, mario, dipl.-ing.  <sep>happich, karl-christoph viktoriaallee 56d-5100 aachende<sep>pagel, werner, ing.christian-derichstrasse 4d-5120 herzogenrathde<sep>rissmann, heinz-berndvereinsstrasse 5-7d-5100 aachende<sep>roth, mario, dipl.-ing.laurentiusstrasse 13d-5100 aachende<sep>
+</INVENTOR>
+<ABSTRACT>
+In a device for automatic unhooking of perpendicular pendant glass panes from the holding tongs (2) following the biasing treatment, the glass sheets raising the glass panes consist of grippers which grain the glass panels (1) on their surface.The grippers consist in particular of two gripping jaws (31) provided with retaining pins (35), which clamp the glass panes (1) between them, lift after grasping, and place them by pivoting into the horizontal position on a horizontal conveyor.With the device, glass slices of any shape can be automatically unhooked from the holding tongs.
+</ABSTRACT>
+</TEXT>
+</DOC>

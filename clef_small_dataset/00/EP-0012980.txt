@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012980
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-309/49 C07C-309/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 2,5-dialkoxy-aniline-4-sulfonic acids.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft 65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+hoyer ernst dr de<sep>schlaefer ludwigde<sep>hoyer, ernst, dr.<sep>schlaefer, ludwig<sep>hoyer, ernst, dr.eptingweg 3d-6230 frankfurt am main 80de<sep>schläfer, ludwigzum gimbacher hof 9ad-6233 kelkheim (taunus)de<sep>
+</INVENTOR>
+<ABSTRACT>
+2,5-dialkoxyaniline-4-sulphonic acid is prepared by sulphonating a 2,5-dialkoxyaniline or an n-alkanoyl compound thereof using sulphuric acid or oleum as sulphonating agent; if the alkanoylamino compound is used as starting compound, the sulphonated alkanoylamino intermediate is hydrolysed.  the sulphonation reaction is preferably carried out with from 3 to 10 times the molar amount of the sulphonating agent and preferably at between 40 and 100 deg c.  2,5-dialkoxyaniline-4-sulphonic acids are used as diazo components for preparing azo dyes. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur il-fsellny von 2,5-dialkoxy-anilin-4-sulfonsäuren die erfindung liegt auf dem gebiet der sulfierung von anilinen zur herstellung von wasserlöslichen zwischen.produk- ten, insbesondere für farbstoffe. niedere 2,5-dialkoxy-anilin-4-sulfonsäuren sind in der literatur als diazokomponenten von azofarbstoffen bekannt (5 schweizerische patentschrift 273 297), jedoch ist deren herstellung nicht beschrieben. rs ist weiterhin bekannt, anisidin zu sulfieren. hierbei tritt die sulfogruppe in die ortho- und/oder in die para stellung zur methoxygruppe ein (s. z.b. houben-weyl, methoden der organischen chemie, 4. auflage (1955), georg thieme verlag stuttgart, band ix, seite 473). so entsteht aus 2-methoxyanilin die 1-xtethoxy-2-aminobenzol-4-sulfonsiure (s. auch bios final report 1153, 179 (1946)). desweiteren ist aus houben-weyl (loc. cit. seite 472) bekannt, dass bei 2-methoxyanilinen oder 2-aminophenolen, sofern bei diesen die 4-stellung besetzt ist, die sulfogruppe in die ortho-stellung zur methoxy- oder hydroxygruppe eintritt. so erhält man z.3. aus 4-chior-2-aminophenol die 4-chlor-2-aminophenol-6-sulfonsäure. mit der vorliegenden erfindung wurde ein verfahren zur herstellung von niederen dialkoxyanilin-sulfonsäuren der allgemeinen formel (1) emi2.1 gefunden, in welcher r für eine niedere alkoxygruppe, insbesondere für eine methoxy oder athoxygruppe, steht; die angabe "niedere" steht hier wie im folgenden bevorzugt für eine gruppe mit einem alkylrest von 1 bis 4 c-atomen. mit diesem erfindungsgemäben verfahren werden die verbindungen der formel (1) ohne derenisomeretverbindungen erhalten. das erfindungsgemässe verfahren ist dadurch gekennzeichnet, dass man eine verbindung der allgemeinen formel (2) emi2.2 in welcher z für ein wasserstoffatom oder eine niedere alkanoylgruppe, wie acetylgruppe, steht und r die obengenannte bedeutung hat, bei einer temperatur zwischen -10 c und+1200c, vorzugsweise zwischen 20 und 1000c, insbesondere bevorzugt zwischen 40 und 70"c, mit einem sulfierungsmittel aus der gruppe schwefelsäure und oleum umsetzt. als schwefelsäure wird eine 78 bis 100 gew.-%ige schwefelsäure, als oleum eine bis zu 30 gew.-% schwefeltrioxid enthaltende schwefelsäure verwendet. bevorzugt verwendet man als sulfierungsmittel eine 85 bis 100%ige, insbesondere eine 96 bis 100%ige schwefelsäure, oder eine schwefelsäure mit einem schwefeltrioxidgehalt von bis zu 10 gew.-%. das sulfierungsmittel wird in der 3- bis 10-fach molaren menge, berechnet aus so3 und bezogen auf 1 mol ausgangsverbindung der formel (2), eingesetzt; bevorzugt verwendet man das sulfierungsmittel in der 4- bis 6-fach molaren menge. bei der sulfierung kann das sulfierungsmittel selbst als reaktionsmedium dienen, jedoch können auch gegen sulfierungsmittel inerte organische lösungsmittel, wie beispielsweise chlorbenzol oder dichlorbenzol, reaktionsmedium sein. die sulfierungsreaktion der verbindung der formel (2) kann beispielsweise so ausgeführt werden, dass man die verbindung der formel (2) in fester oder in geschmolzener form unter rühren und kühlen des reaktionsmediums in das vorgelegte sulfierungsmittel einträgt, wobei man vorteilhafterweise die reaktionstemperatur zusätzlich durch regelung der zugabe der ausgangsverbindung der formel (2) kontrolliert und in dem gewünschten reaktionstemperaturbereich hält, der bevorzugt zwischen 40 und 70"c liegt. nach zugabe der ausgangsverbindung der formel (2) rührt man noch einige zeit, so beispielsweise 30 minuten7 nach, wobei man vorteilhaft die temperatur bis auf 100 c erhöht. nach beendigung der reaktion obt man cias reaktionsgemisch in wasser oder in ein gemisch aus wasser und eis, wobei das sulfierungsprodukt der allgemeinen formel (1) als inneres salz ausfällt. nach abkühlung des wässrigen zersetzungsgemisches wird das
+</DESCRIPTION>
+<CLAIMS>
+   patentanspruche:      1. verfahren zur herstellung von verbindungen der allgemeinen formel (1) emi7.1       in welcher r für eine niedere alkoxygruppe steht, dadurch gekennzeichnet, dass man eine verbindung der allgemeinen formel (2) emi7.2       in welcher r die obengenannte bedeutung hat und z ein    wasserstoffatoz    oder eine niedere alkanoylgruppe dar stellt, mit einem sulfierungsmittel aus der gruppe schwefelsäure und oleum behandelt und, im falle dass z für eine niedere alkanoylgruppe steht, die erhaltene    2, 5-dialkoxy-alkanoylamino-benzol-4-sulfonsäure    zur ver bindung der formel (1) verseift.    2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass man als sulfierungsmittel eine 78 bis 100%ige schwefel säure verwendet.   3. verfahren nach anspruch 1, dass man als sulfierungsmittel eine schwefelsäure mit einem schwefeltrioxidgehalt von bis zu 30 gew.-% verwendet.   4. verfahren nach anspruch 1, 2 oder 3, dass man die schwefelsäure in der 3- bis 10-fach molaren menge, be rechnet auf   so3    und bezogen auf mol ausgangsverbindung der allgemeinen formel (2), einsetzt.   5. verfahren nach einem der ansprüche 1, 2, 3 oder 4, da durch gekennzeichnet, dass man die reaktion bei einer   temperatur zwischen 40 und 1000c durchführt.  
+</CLAIMS>
+</TEXT>
+</DOC>

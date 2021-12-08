@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009116
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-5/033 H04R-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device and method for the electroacoustic reproduction of sound by earphones, as well as a device for transmitting sound vibrations to the human body.
+</TITLE>
+<APPLICANT>
+pomeranz rene dr <sep>pomeranz, rene, dr.<sep>pomeranz, rené, dr. schützenrütiweg 5 ch-8044 gockhausen ch<sep>
+</APPLICANT>
+<INVENTOR>
+pomeranz rene dr<sep>pomeranz, rene, dr.<sep>pomeranz, rené, dr.schützenrütiweg 5ch-8044 gockhausench<sep>
+</INVENTOR>
+<ABSTRACT>
+the device exhibits an electro-acoustic transducer (1) the vibrations of which are transferred to the human body.  with the transducer (1), a cushion (2) containing liquid is attached via which the vibrations pass to the surface of the body.  in this arrangement, the cushion adapts itself to the shape of the body or contours of clothing (3) and ensures a transmission with high efficiency.  the device is used in conjunction with headphones in that it is applied to the human body in the area of the thorax in order to provide by this means the possibility of a sound perception by means of the body, which is lacking in the case of reproduction by headphones, which conveys a natural listening experience.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

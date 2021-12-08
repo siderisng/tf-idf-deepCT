@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001772
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-44/34 B29C-39/16 B29C-39/38 B29C-39/22 B29B-7/00 B29C-39/00 B29C-39/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for the continuous production of foamed slabs.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>hennecke gmbh maschfde<sep>bayer ag<sep>maschinenfabrik hennecke gmbh<sep>bayer ag 51368 leverkusende<sep>maschinenfabrik hennecke gmbh d-51379 leverkusen de<sep>
+</APPLICANT>
+<INVENTOR>
+ebeling wilfried ing-gradde<sep>hauptmann guenter drde<sep>raffel reiner dipl-ingde<sep>reffelmann gerd ing-gradde<sep>ebeling, wilfried, ing.-grad.<sep>hauptmann, guenter, dr.<sep>raffel, reiner, dipl.-ing.<sep>reffelmann, gerd, ing.-grad.<sep>ebeling, wilfried, ing.-grad.vor selkoren 29d-5000 köln 80de<sep>hauptmann, günter, dr.carl-leverkus-strasse 2d-5068 odenthalde<sep>raffel, reiner, dipl.-ing.schwarzer weg 19d-5300 siegburgde<sep>reffelmann, gerd, ing.-grad.untergründemich 13d-5063 overathde<sep>
+</INVENTOR>
+<ABSTRACT>
+To avoid the bottom blackout for the continuous production of block foams, the bottom film (6) is preheated by means of heaters (3) prior to applying the reaction mixture and the preheating continues until the heat of reaction develops.
+</ABSTRACT>
+</TEXT>
+</DOC>

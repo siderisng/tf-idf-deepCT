@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001221
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-9/28 B23K-9/24 <main>B23K-37/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+torch arrangement for fully mechanized welding processes.
+</TITLE>
+<APPLICANT>
+linde agde  <sep>linde aktiengesellschaft<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>linde aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+haas burkhard<sep>pomaska hans-ulrich<sep>rampf herbert<sep>haas, burkhard<sep>pomaska, hans-ulrich<sep>rampf, herbert<sep>haas, burkhardwiesenweg 9d-8044 unterschleissheimde<sep>pomaska, hans-ulrichwiesenweg 3d-8044 unterschleissheimde<sep>rampf, herbertdülferstrasse 20ad-8000 münchen 45de<sep>haas, burkhard<sep>pomaska, hans-ulrich<sep>rampf, herbert<sep>haas, burkhardwiesenweg 9 d-8044 unterschleissheim de  <sep>pomaska, hans-ulrichwiesenweg 3d-8044 unterschleissheimde<sep>rampf, herbertdülferstrasse 20ad-8000 münchen 45de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a burner arrangement for fully automatic welding processes comprising an adjusting device, a guide plate (14) and a burner (7) which is directed towards the intended welding point (1) and is connected to the guide plate by means of a holder (3) which is secured to a sliding guide (9) movably located in an arcuate channel, characterised in that the burner (7) is so secured to the holder (3) that when the burner (7) is swivelled in the guide plate (14), which can be aligned parallel to the welding direction, the tip of the electrode (8) of the burner (7) lies in the swivel axis, and the arcuate channel (2) is so arranged in the guide plate (14) that the inclination of the burner (7) with respect to a perpendicular to the workpiece at the welding point (1), is adjustable between an extreme position in the welding direction and an extreme position in the direction opposite to the welding direction. 
+</ABSTRACT>
+</TEXT>
+</DOC>

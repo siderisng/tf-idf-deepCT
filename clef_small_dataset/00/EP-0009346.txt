@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009346
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F42B-3/04 F15B-15/00 F15B-11/072 F15B-15/19 F15B-1/26 <main>F15B-1/047</main> F04F-1/00 F15B-11/00 F15B-1/00 F15B-7/08 F42B-3/00 F15B-1/08 F15B-7/00 F04B-43/10 F04B-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluid supply systems.
+</TITLE>
+<APPLICANT>
+sperry ltdgb<sep>sperry limited<sep>sperry limitedsperry house 78 portsmouth roadcobham, surrey, kt11 1jzgb<sep>sperry limited<sep>
+</APPLICANT>
+<INVENTOR>
+bone geoffrey edward<sep>thomas alan vaughan<sep>bone, geoffrey edward<sep>thomas, alan vaughan<sep>bone, geoffrey edward6 thorbury closecrowthorne, berkshiregb<sep>thomas, alan vaughan10 grant roadcrowthorne, berkshiregb<sep>bone, geoffrey edward<sep>thomas, alan vaughan<sep>bone, geoffrey edward6 thorbury closecrowthorne, berkshiregb<sep>thomas, alan vaughan10 grant roadcrowthorne, berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+the fluid supply system comprises a multi-charge  solid propellant gas generator and a fluid expulsion unit  integrated into a single unit, the gas generator being pro­ vided in a cap (8) for a chamber (1) having a gas portion  (3) and a fluid portion (2) and a movable partition (4)  between these two portions operable to expel fluid from  the chamber when the gas generator is rendered operative.   the system also comprises ignition control means (22)  operable to control the ignition of the solid propellant  charges (13) when required to give a fully controllable  system output.  the system can be designed for supplying under pres­ sure fluids such as hydraulic oil, fuels, oxidents and water  and is particularly useful in aerospace applications.  
+</ABSTRACT>
+</TEXT>
+</DOC>

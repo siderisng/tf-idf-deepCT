@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000804
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-503/00 A61P-31/00 <main>C07D-498/04</main> A61K-31/42 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of ethers of clavulanic acid.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc <sep>
+</APPLICANT>
+<INVENTOR>
+gasson brian charles<sep>gasson, brian charles<sep>gasson, brian charles9, clarence walkredhill surreygb<sep>gasson, brian charles<sep>gasson, brian charles9, clarence walkredhill surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention provides a process for the preparation of  the ethyl and propyl ethers of clavulanic acid and salts and  esters thereof, which process comprises the reduction of an  ester of a compound of the formula (ii):    wherein r₂ is a ch = ch₂ or ch = chch₃ group, and thereafter  or simultaneously, if desired, converting the thus-formed  ester of the ethyl or propyl ether of clavulanic acid to the  corresponding acid or a salt thereof.  the compounds of the formula (ii) and salts and esters  thereof are novel and have β-lactamase inhibitory properties,  and this invention further provides these compounds, a process  for their preparation, and pharmaceutical compositions  containing them.  
+</ABSTRACT>
+</TEXT>
+</DOC>

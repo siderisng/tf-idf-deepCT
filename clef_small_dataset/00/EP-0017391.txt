@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017391
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F23D-3/00 <main>F23D-3/40</main> F23D-3/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+burner for liquid fuel.
+</TITLE>
+<APPLICANT>
+matsushita electric ind co ltd jp<sep>matsushita electric industrial co., ltd.  <sep>matsushita electric industrial co., ltd.1006, oaza kadomakadoma-shi, osaka-fu, 571jp<sep>matsushita electric industrial co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+adachi kinichi<sep>nishiguchi hisanori<sep>ogino toshiro<sep>ohmukai yoshimi<sep>adachi, kinichi<sep>nishiguchi, hisanori<sep>ogino, toshiro<sep>ohmukai, yoshimi<sep>adachi, kinichi21-24, sakuragaokatakarazuka-shijp<sep>nishiguchi, hisanori4-3, shimokidachonayagawa-shijp<sep>ogino, toshiro2-5-403, aoba-3-chome shimamotochomishima-gun osakajp<sep>ohmukai, yoshimid25-106, kori-danchi 4, korigaoka-9-chomehirakata-shijp<sep>adachi, kinichi<sep>nishiguchi, hisanori <sep>ogino, toshiro  <sep>ohmukai, yoshimi<sep>adachi, kinichi21-24, sakuragaokatakarazuka-shijp<sep>nishiguchi, hisanori4-3, shimokidachonayagawa-shijp<sep>ogino, toshiro2-5-403, aoba-3-chome shimamotochomishima-gun osakajp<sep>ohmukai, yoshimid25-106, kori-danchi 4, korigaoka-9-chomehirakata-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a liquid fuel burner for burning liquid fuel in the form of  gaseous mixture with air.  the liquid fuel burner has a porous  member (a) provided at least with a fuel receiving section (1)  for receiving the liquid fuel supplied to the burner and a fuel  evaporation section (3) from which the liquid fuel is evapo­ rated.  an air supplying device (11) is provided for forcibly  supplying air to the fuel evaporation section (3).  the rate of  air supply is variable by means of a damper (12) or the like  means.  heating means (15) are provided for maintaining the  fuel evaporation section (3) at a substantially constant  temperature.  the rate of burning is varied while maintaining  the air fuel ratio of the mixture substantially constant  because the rate of evaporation of fuel is almost in propor­ tion to the rate of supply of air to the fuel evaporation section  (3).  the heating means (15) facilitates the evaporation of the  fuel and permits a rapid rise and stabilization of the burning  after the ignition.  
+</ABSTRACT>
+</TEXT>
+</DOC>

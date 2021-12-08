@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001273
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01G-19/12 G01G-19/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vehicle weighing system.
+</TITLE>
+<APPLICANT>
+structural instr us <sep>structural instrumentation, inc.<sep>structural instrumentation, inc.4611 south 134th placetukwila washington 98188us<sep>
+</APPLICANT>
+<INVENTOR>
+mercer alfred r jrus<sep>mercer, alfred r., jr.<sep>mercer, alfred r., jr.810 153rd n.e. 1058bellevue washington 98007us<sep>
+</INVENTOR>
+<ABSTRACT>
+a transducer for measuring the load of a vehicle employing  an equalizing beam suspension.  in an equalizing beam  suspension a pair of tandem wheels are supported by opposite  ends of a pair of transversely spaced, center-mounted  equalizing beams.  each equalizing beam (12) carries one of  the transducers (24) which measures the deflection of the  respective equalizing beam responsive to vehicle loading.   the transducer includes a push rod (56) clamped to the  equalizing beam and extending into a measurement block  (50) which is clamped to a different point on the equalizing  beam.  the measurement block contains a strain gauge  instrumented cantilever beam (74) against which the motion  transmitting bar (56) abuts.  consequently, the cantilever  beam deflects responsive to movement of the motion transmitting  bar toward and away from the measurement block  produced by load induced deflections of the equalizing  beams.  the transducer is secured to the equalizing beam by removable  clamps (30) which accurately position the transducer  on the equalizing beam and facilitate quick and easy  installation of the transducer without altering the physical  properties of the equalizing beam.  
+</ABSTRACT>
+</TEXT>
+</DOC>

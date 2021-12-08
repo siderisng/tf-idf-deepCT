@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004264
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-29/68 B65H-29/00 <main>B65H-29/68</main> B41F-13/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sheet delivery device in printing machines.
+</TITLE>
+<APPLICANT>
+heidelberger druckmasch agde<sep>heidelberger druckmaschinen aktiengesellschaft<sep>heidelberger druckmaschinen aktiengesellschaftkurfürsten-anlage 52-60 postfach 10 29 40d-69019 heidelbergde<sep>heidelberger druckmaschinen aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+pollich gerhard<sep>pollich, gerhard<sep>pollich, gerhardadlerstrasse 5ad-6900 heidelberg 1de<sep>pollich, gerhard  <sep>pollich, gerhardadlerstrasse 5ad-6900 heidelberg 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a sheet feed device on pressurized presses equipped with pneumatically operating brake devices (5) which are intended to slow and tighten the outgoing and delegated sheets. The pneumatic brake devices (5) may be formed in one or two-part and are equipped with suction air brake rollers (16), which are applied to pressure-free zones in the printed image to prevent the freshly printed arc subordens. For the possibility of adapting the braking force of the brake rollers (16) to different types of paper, taking into account the width of the print-free sheet ranges vary depending on the printed product, the brake rollers (16) below the chain boom in front of the outlet stack (1) slightly replaceable against others with wider or narrower arc bearing surface arranged on a carrier shaft (4). Depending on whether the brake devices (5) integrally formed as brake rollers (16) with incorporated suction clips and integrated suction air supply (21) or two-part as brake rollers (16) with on this attachable, separate suction body, the carrier shaft (4) is continuously one-piece or multivided and separable.
+</ABSTRACT>
+</TEXT>
+</DOC>

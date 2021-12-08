@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008118
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09B-11/24 C09B-11/00 C07D-307/88 <main>C09B-11/24</main> C07D-307/885 C07D-307/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing 3,3-bis-(4-dimethylaminophenyl)-6-dimethylamino phthalide.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+seibert walter dr<sep>seibert, walter, dr.<sep>seibert, walter, dr.leuschnerstrasse 46d-6700 ludwigshafende<sep>seibert, walter, dr.<sep>seibert, walter, dr.leuschnerstrasse 46d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of crystal violet lactone by oxidation of 2- (4,4'-bisdimethylaminobenzhydryl) - 5-dimethylaminobenzoic acid in aqueous alkaline solution, wherein the oxidation takes place with water-soluble salts of the Hexa Cyanoferrat-III or in the presence of hexacyanofrrat-III.In high yield, a very pure crystal violet lactone is obtained.
+</ABSTRACT>
+</TEXT>
+</DOC>

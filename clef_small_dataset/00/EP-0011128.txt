@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011128
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03D-13/00 <main>H03D-13/00</main> H04B-1/06 H03J-7/04 H03L-7/08 H03J-5/02 H03J-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital phase comparing apparatus.
+</TITLE>
+<APPLICANT>
+sanyo electric cojp<sep>tokyo sanyo electric cojp<sep>sanyo electric co., ltd.<sep>tokyo sanyo electric co., ltd.<sep>sanyo electric co., ltd.18, keihanhondori 2-chomemoriguchi-shi, osakajp<sep>tokyo sanyo electric co., ltd.180, oaza sakata oizumi-machiora-gun gunma-kenjp<sep>sanyo electric co., ltd.<sep>tokyo sanyo electric co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+ozawa toshiyuki<sep>ozawa, toshiyuki<sep>ozawa, toshiyuki3086-10, ooaza kamikoizumi ooizumi-chooora-gun gunma-kenjp<sep>ozawa, toshiyuki<sep>ozawa, toshiyuki3086-10, ooaza kamikoizumi ooizumi-chooora-gun gunma-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a digital phase comparator, to be used in a phase locked  loop, for example, comprises a first and second input signal  terminals receiving a first and second input signals, respec­ tively, the phases of which are to be compared, and a pair of  first (710) and second (720) delay flip-flops.  the first input  signal terminal is connected to a clock terminal (cl1) of the  first delay flip-flop and a reset or set terminal (r2) of the  second delay flip-flop.  the second input terminal is connected  to a set or reset terminal (r1) of the first delay flip-flop and a  clock terminal (cl2) of the second delay flip-flop.  an inverted  or non-inverted output terminal of the first delay flip-flop is  connected to a day terminal (d2) of the second delay flip-flop.   an inverted or non-inverted output terminal of the second  delay flip-flop is connected to a data terminal (d1) of the first  delay flip-flop.  an output signal associated with the phase  difference between the first and second input signals is  obtained from the output terminals of the first and second  delay flip-flops.  
+</ABSTRACT>
+</TEXT>
+</DOC>

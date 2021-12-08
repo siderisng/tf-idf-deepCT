@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000559
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-1/12 C07K-7/06 A61P-25/00 C07K-14/435 A61P-1/00 C07K-7/00 C07K-14/675 A61P-25/04 A61P-11/00 <main>C07C-103/52</main> A61P-23/00 A61K-37/02 C07K-14/70 A61K-38/00 A61P-11/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pentapeptide-n-alkylamides and their acid addition salts, methods for preparation of these compounds and pharmaceutical formulations containing them.
+</TITLE>
+<APPLICANT>
+wellcome foundgb<sep>the wellcome foundation limited<sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb<sep>the wellcome foundation limited<sep>
+</APPLICANT>
+<INVENTOR>
+wilkinson samuel<sep>wilkinson, samuel<sep>wilkinson, samuel12 bevington roadbeckenham, kentgb<sep>wilkinson, samuel<sep>wilkinson, samuel12 bevington roadbeckenham, kentgb<sep>
+</INVENTOR>
+<ABSTRACT>
+peptides of their salts or their acid addition salts thereof of formula:   h. tyr. x². gly. x⁴. x⁵. r¹   wherein   x² is selected from d-alanyl, d-valyl, d-norvalyl, d-leucyl,  d-isoleucyl, d-norleucyl, d-methionyl, d-methionyl sulphoxide,  d-methionyl sulphone, c-methylalanyl, d-seryl,  d-threonyl, d-phenylalanyl, d-o-methylhomoseryl and  d-o-methyl-threonyl;   x⁴ is selected from l-phenylalanyl,l-4-nitrophenylalanyl,  l-4-chlorophenylalanyl and l-4-methylphenylalanyl;   x⁵ is selected from d-leucyl, d-methionyl, d-prolyl,  l-leucyl, l-methionyl, l-prolyl, d-methionyl, sulphoxide,  d-methionyl sulphone, l-methionyl sulphoxide, l-methionyl  sulphone and cycloleucyl; and   r¹ is selected from l-seryl, d-seryl l-threonyl,  d-threonyl, glycyl, pyrrolidyl, piperidyl, morpholinyl and  nhr;   wherein r is alkyl, benzyl, cyclohexyl or 1-hydroxyethyl;  provided that when   x² is d-alanyl, d-valyl, d-norvalyl, d-leucyl, d-isoleucyl,  d-norleucyl or c-methylalanyl;   x⁴ is l-phenylalanyl, l-4-nitrophenylalanyl, l-4-chlorophenylalanyl  or l-4-methylphenylalanyl;   x⁵ is d-leucyl, d-methionyl, d-prolyl, l-leucyl,  l-methionyl, l-prolyl, d-methionyl sulphoxide, d-methionyl  sulphone, l-methionyl sulphoxide or l-methionyl sulphone;   then r¹ is other than l-seryl, d-seryl, l-threonyl,  d-threonyl, pyrrolidyl, piperidyl, morpholinyl or nhr;   wherein r is alkyl of one to twenty carbon atoms;   furthermore that when   x² is d-seryl, d-phenylalanyl or d-methionyl;   x⁵ is l-leucyl or l-methionyl;   then r is other than alkyl of one to three carbon atoms;   furthermore that when   x² is d-methionyl;   x⁴ is l-phenylalanyl;   x⁵ is l-prolyl   then r is other than ethyl, pharmaceutical formulations  containing them and their use in medicine as morphine-like  agents and as anaesthetics.  
+</ABSTRACT>
+</TEXT>
+</DOC>

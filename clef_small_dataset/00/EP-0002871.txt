@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002871
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-299/00 C08F-299/04 C08F-2/48 C08F-283/00 C08F-283/01 C08F-4/00 C08L-67/00 C08F-4/40 C08F-2/00 C08L-67/06 C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of objects from an unsaturated polyester composition.
+</TITLE>
+<APPLICANT>
+akzo nv nl <sep>akzo n.v.<sep>akzo n.v.velperweg 76nl-6824 bm arnhemnl<sep>
+</APPLICANT>
+<INVENTOR>
+van der kallen ludovicus hermanl<sep>van der kallen, ludovicus hermanus<sep>van der kallen, ludovicus hermanusengelsestraat 8nl-4611 rr bergen op zoomnl<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a process for the manufacture  of objects having a thickness of at least 2 mm from an unsaturated  polyester composition, in which the emission of  ethylenically unsaturated monomer during the processing  of the polyester composition is limited by exposing the  latter to uv-radiation with a low-pressure uv-lamp, after  which the composition is cured under the influence of a  radical initiator at a temperature lower than 70° c.  
+</ABSTRACT>
+</TEXT>
+</DOC>

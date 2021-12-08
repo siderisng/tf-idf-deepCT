@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002676
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-299/00 B05D-3/06 C08F-2/48 C08F-2/54 C08F-290/00 C09D-175/14 C08F-2/50 D06N-3/08 C08J-7/00 C09D-4/00 C08F-290/06 C08J-7/18 D06N-3/00 B05D-7/24 C08F-2/00 C08G-18/67 C08F-2/46 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiation curable coating composition and a process for coating a substrate therewith.
+</TITLE>
+<APPLICANT>
+gaf corpus<sep>gaf corporation<sep>gaf corporation140 west 51st streetnew york new york 10020us<sep>
+</APPLICANT>
+<INVENTOR>
+lorenz donald hus<sep>tu shu tungus<sep>wyman donald pus<sep>lorenz, donald h.<sep>tu, shu tung<sep>wyman, donald p.<sep>lorenz, donald h.12 radel placebasking ridge new jersey 07920us<sep>tu, shu tung18 university roade. brunswick new jersey 08816us<sep>wyman, donald p.7 yorktown roadwayne new jersey 07470us<sep>
+</INVENTOR>
+<ABSTRACT>
+a radiation curable coating comprising:   a.  an oligomer of formula i:    wherein: r¹ is hydrogen or methyl;   y is a divalent urethane residue;   b.  an acrylic ultra-violet light absorber of formula iv:   wherein r⁴ is alkyl or hydroxy alkylene.  preferably the  coating composition contains a vinyl monomer copolymerizable  with the oligomer.  the process for curing the  coating and laminates containing the coating are also disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

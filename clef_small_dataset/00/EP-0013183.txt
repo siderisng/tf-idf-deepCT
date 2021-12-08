@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013183
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/0476 G06F-15/42 A61B-5/048 G06F-17/00 <main>A61B-5/04</main> A61B-5/0484 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electroencephalographic system for the quantitative description of patient brain states.
+</TITLE>
+<APPLICANT>
+roy john erwin<sep>john, erwin roy<sep>john, erwin roy930 greacen lanemamaroneck,new york 10546us<sep>john, erwin roy  <sep>
+</APPLICANT>
+<INVENTOR>
+john erwin roy<sep>john, erwin roy<sep>john, erwin roy930 greacen lanemamaroneck,new york 10546us<sep>john, erwin roy<sep>john, erwin roy930 greacen lanemamaroneck,new york 10546us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and system for the quantitative description of  human abnormal brain states, for example, to distinguish  cerebral death from a barbiturate induced deep coma,  includes an electroencephalograph (eeg) system utilizing  scalp electrodes 10 and amplifiers 11, 12.  a computer based  system controls a multimodal stimulator 17 (clicks, flashes,  etc) to provide evoked response data for different sensory  systems.  the ongoing eeg and averaged response data are  processed quantitatively and compared with previously  stored normative data, describing brain states in patients free  of head trauma, to calculate a set of z-transformations.  the  z-transormations define z, the brain state vector (bsv), which  may be visually displayed, for example, on a cathode ray tube  48.  the length, direction and change of bsv over time provide  an evaluation of the anatomical location of any damage, the  severity of functional impairment and the rate of improve­ ment or deterioration of the patients's state in order to aid in  selection and guidance of treatment.  
+</ABSTRACT>
+</TEXT>
+</DOC>

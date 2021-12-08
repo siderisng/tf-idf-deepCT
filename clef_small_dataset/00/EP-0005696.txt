@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005696
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60R-16/02 G01W-1/14 G08B-19/02 B60R-16/023 G08B-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+slippery road alarming device.
+</TITLE>
+<APPLICANT>
+decker peter dr ing<sep>decker, peter, dr.-ing.<sep>decker, peter, dr.-ing.sausenheimer strasse 29d-6718 grünstadt 1de<sep>
+</APPLICANT>
+<INVENTOR>
+decker peter dr-ing<sep>decker, peter, dr.-ing.<sep>decker, peter, dr.-ing.sausenheimer strasse 29d-6718 grünstadt 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+the slippery road (ice or aqua planing) alarming device consists of a light source which transmits light of a specific wavelength and a receiver which receives the light transmitted back from the road surface.  transmitter and receiver are installed above the carriageway surface, e. g.  on a motor vehicle.  incorporated in the transmitted light beam are filters whose translucency is selected in such a way that ice and/or water layers absorb the wavelengths allowed to pass and then cause changes in the receiver if ice and/or water are present on the carriageway surface.  the changes in the light beams transmitted back are utilised for triggering an alarm signal.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

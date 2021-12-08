@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009781
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12N-9/00 <main>C12N-9/00</main> C12Q-1/25 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the purification of long-chain acyl-coenzyme-a synthetase and the enzyme, acyl-coa synthetase, purified thereby.
+</TITLE>
+<APPLICANT>
+mitsubishi chem indjp <sep>mitsubishi chemical industries limited<sep>mitsubishi kasei corporation 5-2, marunouchi 2-chome chiyoda-ku tokyo 100 jp<sep>mitsubishi chemical industries limited<sep>mitsubishi chemical industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+hosaka kohei<sep>mishina masayoshi<sep>numa shosaku<sep>tanaka takao<sep>tatsuyuki kamiryo<sep>hosaka, kohei<sep>mishina, masayoshi<sep>numa, shosaku<sep>tanaka, takao<sep>tatsuyuki, kamiryo<sep>hosaka, kohei533, shimokoide-chomaebashi-shi, gunma-kenjp<sep>mishina, masayoshigästehaus der universität bergstrasse 13d-8520 erlangende<sep>numa, shosaku47-5, shogoin-entomi-chosakyo-ku kyoto-shi, kyoto-fujp<sep>tanaka, takao19-19, inaba-choibaragi-shi, osaka-fujp<sep>tatsuyuki, kamiryo6, otokoyama-sasadaniyawata-cho tsuzuki-gun, kyoto-fujp<sep>hosaka, kohei<sep>mishina, masayoshi<sep>numa, shosaku<sep>tanaka, takao<sep>tatsuyuki, kamiryo<sep>hosaka, kohei<sep>mishina, masayoshi <sep>numa, shosaku<sep>tanaka, takao  <sep>tatsuyuki, kamiryo <sep>hosaka, kohei533, shimokoide-chomaebashi-shi, gunma-kenjp<sep>mishina, masayoshigästehaus der universität bergstrasse 13d-8520 erlangende<sep>numa, shosaku47-5, shogoin-entomi-chosakyo-ku kyoto-shi, kyoto-fujp<sep>tanaka, takao19-19, inaba-choibaragi-shi, osaka-fujp<sep>tatsuyuki, kamiryo6, otokoyama-sasadaniyawata-cho tsuzuki-gun, kyoto-fujp<sep>
+</INVENTOR>
+<ABSTRACT>
+the purification of long-chain acyl-coenzyme-a synthet­ ase which involves solubilizing the enzyme with a surfactant  and subjecting the solubilized enzyme to affinity chromatog­ raphy and the enzyme, acyl-coa synthetase, purified  thereby.  the enzyme is useful in the preparation of a labelled  acyl-coa, and in the assay of free fatty acids in blood.  
+</ABSTRACT>
+</TEXT>
+</DOC>

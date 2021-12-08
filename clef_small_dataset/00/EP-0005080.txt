@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005080
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+F21V-7/09 F21V-7/00 F21V-7/04 F21V-11/00 H01K-7/02 <main>F21M-1/00</main> F21V-11/10 H01K-7/00 F21V-14/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spotlight lantern projection system.
+</TITLE>
+<APPLICANT>
+rank organisation ltdgb<sep>the rank organisation limited<sep>the rank organisation limited11 hill streetlondon w1x 8aegb<sep>the rank organisation limited<sep>
+</APPLICANT>
+<INVENTOR>
+mckenzie roderick alexander<sep>moore martin warwick<sep>mckenzie, roderick alexander<sep>moore, martin warwick<sep>mckenzie, roderick alexander'hillside' holcombebath somersetgb<sep>moore, martin warwick122 elmbridge avenuesurbiton surreygb<sep>mckenzie, roderick alexander  <sep>moore, martin warwick<sep>mckenzie, roderick alexander'hillside' holcombebath somersetgb<sep>moore, martin warwick122 elmbridge avenuesurbiton surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a light projection system for a spotlight lantern, comprising  a grid filament lamp and a rear reflector, wherein the  grid filament (11) is located to extend axially along the  optical axis of the reflector (12).  the rear reflector (12) and/or  a frontal reflector (13) used in conjunction therewith is  preferably regularly or irregularly facetted in such a manner  that each facet produces a patch of light just filling the  aperture of a gate, shaping pattern or iris (15).  the system  shows remarkably improved efficiency compared to known  systems having a grid filament disposed transverse to the  optical axis.  
+</ABSTRACT>
+<DESCRIPTION>
+spotlight lantern projection system this invention relates to a light projection system for a spotlight lantern. a spotlight lantern is required to produce a welldefined beam of light having an even distribution of light through its cross-section. for reasons of efficiency, it is necessary to employ a light source, e.g. an electric filament, in conjunction with one or more reflectors. this combination is referred to herein as a light projection system. the light projection system concentrates light through a gate, shaping pattern or iris, and then through an optical objective, in order to produce the required beam. the object in designing the light projection system is uniformly to fill the gate, pattern or iris with light so that as much light as possible is concentrated by the objective to produce the required uniform, well-defined beam having a minimum of light spill at its edges. from the prior art, various reflectors and combinations of reflectors are known. thus, european 220/240 volts lanterns conventionally employ a grid filament mounted perpendicular or approximately perpendicular to the optical axis of the lantern. in conjunction with such filaments, it has been proposed to use rear reflectors defined by various part surfaces of revolution, in particular conic sections such as spherical sections, ellipsoidal sections and parabolic sections. it is also known to combine one such rear reflector with a partial frontal reflector likewise conforming to a surface of revolution, such as a spherical rear reflector with an ellipsoidal frontal reflector or an ellipsoidal rear reflector with a spherical, ellipsoidal or hyperbolic frontal reflector. more complicated reflectors have also been proposed, including reflectors defined by curves representing cartographic projections and reflectors based on surfaces of revolution modified by localised flattening, the aim being to improve efficiency and light distribution. in the united states, the use of a 110/120 volts mains electric supply has made possible the development of spotlight lanterns incorporating a light projection system based on a linear spirally wound coil filament mounted along the optical axis. this system shows significantly improved efficiency compare with most european light projection systems. however, it has so far proved impossible to produce satisfactory short and reliable spirally wound coil filament lamps to operate at 220/240 volts. existing 220/240 volts linear lamps have fragile filaments which do not remain linear in use. furthermore, the length of the filament results in poor light distribution and undesirably large lanterns. the object of the present invention is to provide an improved light projection system which is suitable for the european 220/240 volts mains supply, according to the invention, there is provided a light projection system for a spotlight lantern, characterised by a flat grid filament lamp mounted with the grid disposed axially on the optical axis of a rear reflector. the main advantage of the invention is one of improved efficiency compared with known systems suitable for a 220/240 volts mains supply, and permitting use of a reflector arrangement which enables efficiency to be still further increased, thus, the rear reflector preferably comprises
+</DESCRIPTION>
+<CLAIMS>
+claims 1. a light projection system for a spotlight lantern, characterised by a flat grid filament lamp (10) mounted with the grid (11) disposed axially on the optical axis of a rear reflector (12), 2. a system as claimed in claim 1, wherein the rear reflector (12) comprises a partial surface of revolution defined by a large plurality of facets   (21).      3. a system as claimed in claim 2, in which the reflector (12).is regularly facetted.      4.    a system as claimed in claim 2, in which the reflector   (1z)    is irregularly facetted.    5. a system as claimed in any one of claims 1 to 4, in conjunction with a partial frontal reflector (13 or   14).      6. a system as claimed in claim 5, in which the frontal reflector (14) is facetted.   7. a system as claimed in claim 6 when appendant to claim 1, in which the rear reflector (12) is spherical.   8. a system as claimed in claim 5, in which the frontal reflector (13) is spherical.   9 a system as claimed in claim 5, in which the frontal reflector (13) is hyperbolic.   10. a system as claimed in any of claims 2 to 9, in combination with aperture means (15) in the form of a  gate, shaping pattern or   iris,-each    reflector facet (21) in use producing a patch of light which just fills said gate, pattern or iris.  
+</CLAIMS>
+</TEXT>
+</DOC>

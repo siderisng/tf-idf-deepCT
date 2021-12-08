@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013006
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/32 F16H-48/00 F16H-48/20 <main>G03F-7/02</main> G03F-7/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+developer composition for lithographic printing plates.
+</TITLE>
+<APPLICANT>
+mitsubishi chem indjp<sep>mitsubishi chemical industries limited<sep>mitsubishi kasei corporation5-2, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi chemical industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+ide hiroshi<sep>shimizu shigeki<sep>ide, hiroshi<sep>shimizu, shigeki<sep>ide, hiroshi1721, ichigao-cho, midori-kuyokohama-shi, kanagawa-kenjp<sep>shimizu, shigeki18-24, soshigaya 4-chomesetagaya-ku tokyojp<sep>ide, hiroshi  <sep>shimizu, shigeki <sep>ide, hiroshi1721, ichigao-cho, midori-kuyokohama-shi, kanagawa-kenjp<sep>shimizu, shigeki18-24, soshigaya 4-chomesetagaya-ku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a developer composition for a lithographic printing plate  of the type which has a coating layer of a photosensitive  polymer having in the main chain thereof a group represented  by the general formula (i)    (in which x and y independently represent a hydrogen atom,  a halogen atom, a cyano group or a nitro group, and n is an  integer of 1 or 2) comprising ethylene glycol monophenyl  ether and at least one acid selected from the group consisting  of mineral acids, organic carboxylic acids and organic sulfonic  acids.  it is capable of cleanly, rapidly removing unexposed  areas of the colored photosensitive coating without impeding  exposed areas of the coating layer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

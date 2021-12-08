@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012179
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/24 G01M-11/00 G02B-6/38 <main>G02B-6/24</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adjustment of two optical fibre terminations to be coupled.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+geckeler siegfried dr<sep>schicketanz dieter dr<sep>geckeler, siegfried, dr.<sep>schicketanz, dieter, dr.<sep>geckeler, siegfried, dr.tucholskystrasse 12d-8000 münchen 83de<sep>schicketanz, dieter, dr.sintpertstrasse 13d-8000 münchen 90de<sep>geckeler, siegfried, dr. <sep>schicketanz, dieter, dr.<sep>geckeler, siegfried, dr.tucholskystrasse 12d-8000 münchen 83de<sep>schicketanz, dieter, dr.sintpertstrasse 13d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+To adjust two ends to be connected to two optical fibers to be joined, is proposed to couple a light pulse at the free end of the one fiber. During passing through the light-line fibers, the light pulse sends backscatter light to the same free end, whose intensity (I) can be detected there as a function of the runtime (T). The connecting point of the two optical fibers represents a damping, so that the intensity curve shows a sudden intensity decrease in the other end of the light from one to the other end. The ends to be joined are adjusted so that this sudden intestity acceptance is virtually zero. At the free end can advantageously a signal corresponding to the intensity jump signal, z. b. A sound frequency, which is generated, which is transmitted to the assembly personnel at the connection point. The ends are then adjusted so that the signal assumes an extremal value, d. H. the extremal value belonging to the intensity jump zero is as close as possible.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009365
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02H-7/045 H02H-7/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transformer differential safety systems.
+</TITLE>
+<APPLICANT>
+arteche instr sistemases<sep>arteche, instrumentacion y sistemas electronicos,s.a.<sep>arteche, instrumentacion y sistemas electronicos, s.a.carmelo de echegaray, 7.munguia (vizcaya) es<sep>
+</APPLICANT>
+<INVENTOR>
+elizaran rodolfo di pietro es <sep>llona jesus gomezes<sep>elizaran, rodolfo di pietro<sep>llona, jesus gomez<sep>elizaran, rodolfo di pietrocarmelo de echegaray7.-munguia (vizcaya)es<sep>llona, jesus gomezcarmelo de echegaray7.-munguia (vizcaya)es<sep>
+</INVENTOR>
+<ABSTRACT>
+a transformer differential safety system includes a  plurality of active power measuring converter circuits (4),  one for each phase winding of the transformer.  an array  of adding circuits (5) combine the outputs of these circuits  with the output of a copper and iron loss calculating circuit  (11) in such a manner as to generate an output signal  related to the difference between the transformer input and  output power.  a comparison circuit (6) provides a tripping  output when this output signal exceeds a set level.  
+</ABSTRACT>
+</TEXT>
+</DOC>

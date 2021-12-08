@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002535
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/573 C12P-33/16 C07J-9/00 C12P-33/06 <main>C07J-9/00</main> C12R-1/32 C07J-5/00 C12P-33/18 A61K-31/57 C12P-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 21-hydroxy-20-methyl pregnanes.
+</TITLE>
+<APPLICANT>
+schering ag de  <sep>schering aktiengesellschaft berlin und bergkamen<sep>schering aktiengesellschaftd-13342 berlinde<sep>schering aktiengesellschaft berlin und bergkamen <sep>
+</APPLICANT>
+<INVENTOR>
+kennecke mario dr<sep>muller rudolf dr<sep>weber alfred dr<sep>kennecke, mario, dr.<sep>muller, rudolf, dr.<sep>weber, alfred, dr.<sep>kennecke, mario, dr.taubertstrasse 31fd-1000 berlin 33de<sep>müller, rudolf, dr.corneliusstrasse 17d-1000 berlin 46de<sep>weber, alfred, dr.brümmerstrasse 74d-1000 berlin 33de<sep>kennecke, mario, dr.<sep>muller, rudolf, dr.  <sep>weber, alfred, dr.<sep>kennecke, mario, dr.taubertstrasse 31fd-1000 berlin 33de<sep>müller, rudolf, dr.corneliusstrasse 17d-1000 berlin 46de<sep>weber, alfred, dr.brümmerstrasse 74d-1000 berlin 33de<sep>
+</INVENTOR>
+<ABSTRACT>
+a steroid of the formula   <image> in which @ is a single or double bond is manufactured by fermenting at ph 6 to 8 a sterol containing a free hydroxyl group in the 3-position or a corresponding compound containing another oxygen- containing function in the 3- position with a culture of a microorganism selected from mycobacterium spec.  nrrl b-3683 and b-3805 and their variants and mutants, at least a part of the fermentation being carried out in the presence of a boron- containing agent selected from borate ions and organic boron compounds. 
+</ABSTRACT>
+</TEXT>
+</DOC>

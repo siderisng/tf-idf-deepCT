@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012913
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-5/31 G11B-5/12 G11B-5/22 <main>G11B-5/42</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of making a thin film magnetic head and a head so made.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporation old orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+jones jr robert edward<sep>jones, jr., robert edward<sep>jones, jr., robert edward6776 hampton drivesan jose, california 95120us<sep>jones, jr., robert edward<sep>jones, jr., robert edward6776 hampton drivesan jose, california 95120us<sep>
+</INVENTOR>
+<ABSTRACT>
+a thin film magnetic head comprises a non-magnetic  substrate (10) and a pair of magentic pole pieces (p1, p2)  separated by a transducing gap layer (12).  when the first and  second pole pieces (p1, p2) are of equal width manufacturing  deposition variations will result in a tendency for second pole  piece layer p2 to overhang first pole piece layer p1, a condition  termed "wraparound", causing defective head operation.  the method disclosed avoids this problem by selecting  the nominal width of the second pole piece layer (p2) to be  less than the nominal width of the first pole piece layer (p1)  taking into account manufacturing deposition variations to  ensure that, when deposited, the second pole piece layer (p2)  overlies the first pole piece layer (p1) without overhang, and  by depositing the nominal widths of pole piece layers (p1, p2)  with the nominal widths so selected.  when used for recording on a magnetic medium, the effec­ tive width of a data track recorded is slightly greater than the  width of the second pole piece layer (p2) and is relatively  independent of the width of the first pole piece layer (p1).  
+</ABSTRACT>
+</TEXT>
+</DOC>

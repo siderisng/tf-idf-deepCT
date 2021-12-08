@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017057
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F23D-11/44</main> F23D-11/44 F23D-11/36 H05B-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fuel oil preheating device.
+</TITLE>
+<APPLICANT>
+meku metall kunststoffde <sep>meku metall- und kunststoffverarbeitungs-gmbh & co. kg <sep>danfoss a/snordborgvej 816430 nordborgdk<sep>danfoss a/s <sep>
+</APPLICANT>
+<INVENTOR>
+eder werner<sep>fischer gisbert<sep>eder, werner<sep>fischer, gisbert<sep>eder, wernerbondelstrasse 34d-7734 brigachtalde<sep>fischer, gisbertstormweg 6d-7735 dauchingende<sep>eder, werner<sep>fischer, gisbert  <sep>eder, wernerbondelstrasse 34d-7734 brigachtalde<sep>fischer, gisbertstormweg 6d-7735 dauchingende<sep>
+</INVENTOR>
+<ABSTRACT>
+For preheating heating oil before the nozzle of a burner, it is known to arrange a current-carrying powered conductor as a heating element in heat-conducting contact with the leading to the nozzle core oil line.In order to improve the efficiency of preheating and not to increase the diameter of the nozzle stick, according to the invention, at least one plate-shaped powered conductor element (14) is used VER which is inserted into the cross section of the nozzle stop and with its flat side on a wall of the as a flat channel (16,28) Trained heating oil line with was Mecontact.The preheating has a good we strengthen and the self-control of the heating power of the PTC is followed by a very low delay of the heating oil temperature.
+</ABSTRACT>
+</TEXT>
+</DOC>

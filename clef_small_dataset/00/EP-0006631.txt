@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006631
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-25/04 <main>G11B-23/02</main> G11B-19/20 G11B-23/02 G11B-5/012 G11B-33/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+disk storage apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+avina raymond<sep>merrill patrick foster<sep>avina, raymond<sep>merrill, patrick foster<sep>avina, raymond19600 graystone lanesan jose, california 95120us<sep>merrill, patrick foster12155 steffs courtsan martin, california 95046us<sep>avina, raymond  <sep>merrill, patrick foster<sep>avina, raymond19600 graystone lanesan jose, california 95120us<sep>merrill, patrick foster12155 steffs courtsan martin, california 95046us<sep>
+</INVENTOR>
+<ABSTRACT>
+a disk drive includes a housing (50) substantially  symmetrical about a central neutral plane (c) and support­ ing bearings (22 and 24) for a spindle (20) supporting a  hub (18) for a stack of magnetic disks (16).  the plane (c)  is normal to the spindle axis.  voice coil motor actuators  are disposed diametrically opposite each other relative  to the spindle axis and offset on each side of the plane (c),  which bisects the stack.  the drive is enclosed within a cas­ ing having cover plate and cover box to which filtered air  under pressure is supplied.  a bypass port (60) prevents  air passing through bearing (22) when rotation of the disks  reduces air pressure within the housing (50).  a sealing cap  (64) seals off the bearing (24).  this reduces contamination  by lubricant in the bearings, which would be collected by  air passing therethrough.  thermally conductive rings be­ tween the bearings and the housing compensate for tem­ perature differential.  symmetry of the assembly ensures  minimal vibration and resonance effects.  
+</ABSTRACT>
+</TEXT>
+</DOC>

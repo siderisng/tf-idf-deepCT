@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014600
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+D04G-1/02 <main>D04G-1/02</main> D03J-1/22 D04G-1/08 D03J-1/00 D06C-3/10 D04G-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making nets on a weaving loom.
+</TITLE>
+<APPLICANT>
+zang francois<sep>zang, francois<sep>zang, françoismanufactura andorrana i xarxes s.a. carrer camping popladosanta colomaad<sep>zang, francois<sep>
+</APPLICANT>
+<INVENTOR>
+zang francois<sep>zang, francois<sep>zang, françoismanufactura andorrana i xarxes s.a. carrer camping popladosanta colomaad<sep>zang, francois  <sep>zang, françoismanufactura andorrana i xarxes s.a. carrer camping popladosanta colomaad<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process of manufacture of bands by knotting threads into meshes on a loom provided with opposed temples having rotating cylinders (12) covered with points which cause transverse extension of the band at the outlet from the knotting zone, characterized in that the intensity of the tension applied by the temples to the selvedges of the band at the outlet from the knotting zone is regulated by obliquely orienting the direction (15) of the axes of the tentering cylinders (12) with respect to the transverse direction of the band so that such axes meet at a point located downstream of the position of the temples. 
+</ABSTRACT>
+<DESCRIPTION>
+l'invention se rapporte à un templet pour métier à tisser les filets. on sait qu'un templet est un appareil comportant un certain nombre de molettes métalliques garnies de pointes, qui est placé de chaque côté d'un métier à tisser et est destiné à retenir le tissu au sur et à mesum de sz fabrication, en le maintenant tendu dans le sens de la largeur. on utilise couramment des templets ae ce genre sur les métiers à tisser les filets, où leur présence est plus utile encore que sur les métiers à tisser les tissus ordinaires. toutefois, un filet est un tissu présentant des mailles plus ou moins grandes. si un filet à grandes mailles ne pose guère de problèmes à cet égard, ayant en effet peu tendance à se rétrécir en largeur à partir de la zone de nouage des fils formant les mailles, il nten va pas de même dans le cas des filets à petites mailles, dont la largeur diminue beaucoup dès la confection. or, le rétrécissement spontané d'un filet en cours de confection a de fâcheuses conséquences. les mailles extérieures du filet ont tenaance à devenir plus petites que les mailles intérieures, ce qui conduit à un filet irrégulier. les fils descendant verticalement vers la zone de nouage dans la région des lisières du filet prennent une obliquité néfaste et échappent parfois aux aiguilles de nouage, de sorte que certains noeuds ne sont pas confectionnés et que l'on obtient un filet défectueux. l'expérience a montré que les templets utilisés habituellement n'étaient pas assez efficaces pour maintenir étendu en largeur un filet à petites mailles, à moins d'savoir recours à des artifices difficiles à mettre en oeuvre. l'invention a pour but de remédier aux inconvénients exposés ci-dessus en augmentant l'efficacité des templets. le templet qui fait l'objet de l'invention comporte au moins un cylindre garni de pointes tournart librement autour de son axe parallèle au plan du filet, et l'angle que fait la direction dé cet axe avec la direction de la largeur du filet est réglable. un tel réglage d'inclinaison permet d'augmenter l'efficacité du templet en accroissant son action d'élargissement du filet, car il exerce ourla lisière correspondante du filet une force dirigée vers ltextérieur dont l'intensité est fonction de l'inclinaison donnée dans le sens convenable à l'axe du cylindre. lorsque le métier qui doit recevoir une paire de templets selon l'invention comporte une barre plate postérieure formant avec une barre plate antérieure un intervalle par où est évacué le filet en aval de la zone de nouage, il convient de loger le cylindre de chaque templet dans une ouverture pratiquée à l'extrémité correspondante de la barre plate postérieure, le cylindre venant en prise avec le filet dans l'intervalle précité. dans une forme d'exécution avantageuse, la position du cylindre est en outre réglable en direction perpendiculaire au plan du filet et desdites barres plates, ce réglage permettant ae faire s'avancer plus ou moins le cylindre vers la barre plate antérieure, dans laquelle est creusée une cavité où
+</DESCRIPTION>
+<CLAIMS>
+   5 t    ca   tions       1. - templet pour métier à tisser les filets par nouage   ae    fils en mailles, comportant au moins un cylindre garni   ae    pointes tournant librement autour de son axe parallèle au plan du filet, caractérisé par le fait que l'angle que   sai;    la direction de l'axe du cylindre avec la direction de a largeur au filet est réglable, ce sorte que le templet exerce sur le filet une traction plus ou moine grande   vers    l'extérieur  2.- templet selon la revendication 1, caractérisé par le fait que le cylindre est logé dans une ouverture pratiquée à l'extrémité correspondante d'une barre plate postérieure formant avec une barre plate antérieure un intervalle par où est évacué le filet en aval de la zone de nouage.      3. -    templet selon la revendication 2, caractérisé par le fait que la position ou cylindre est en outre réglable en direction perpendiculaire au plan au filet et desdites barres plates, ce réglage permettant   ae    faire s'avancer plus ou moins le cylindre vers la barre plate antérieure, dans laquelle est creusée une cavité où peut pénéter le cylindre en forçant la lisière correspondante du filet à y passer suivant un trajet sinueux.     4.- templet selon l'une quelconque des revendications 1 à   3,    caractérisé par le fait qu'il comporte une paire de cylindres garnis de pointes, d'axes parallèles, l'ensemble des deux cylindres étant monté sur un châssis oscillant autour a'un axe parallèle aux axes des cylindres.    5.- templet selon l'une quelconque des revendications 2 à 4, caractérisé par le fait que ses organes de réglage sont accessibles, après son montage sur le métier, par l'arrière de la barre plate postérieure.  
+</CLAIMS>
+</TEXT>
+</DOC>

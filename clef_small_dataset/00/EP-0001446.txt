@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001446
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-14/00 C08F-6/16 C08F-6/00 <main>C08F-6/24</main> C08F-214/06 C08F-14/06 C08F-6/06 C08F-214/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method to prevent foaming during the removal of residual monomers from aqueous dispersions of vinylchlorid polymers.
+</TITLE>
+<APPLICANT>
+wacker chemie gmbhde<sep>wacker-chemie gmbh<sep>wacker-chemie gmbhhanns-seidel-platz 4 d-81737 münchende<sep>wacker-chemie gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+balwe thomas dr <sep>bauer johann dr<sep>birke johann<sep>rostock kai dr<sep>wiedholz rudolf dr<sep>balwe, thomas, dr.<sep>bauer, johann, dr.<sep>birke, johann<sep>rostock, kai, dr.<sep>wiedholz, rudolf, dr.<sep>balwé, thomas, dr.brucknerstrasse 13d-8263 burghausende<sep>bauer, johann, dr.görresstrasse 3d-8263 burghausende<sep>birke, johannbruckberstrasse 216d-8261 marktl/innde<sep>rostock, kai, dr.seltenhornstrasse 11d-8263 burghausende<sep>wiedholz, rudolf, dr.gluckstrasse 41d-8263 burghausende<sep>balwe, thomas, dr.<sep>bauer, johann, dr.<sep>birke, johann <sep>rostock, kai, dr.<sep>wiedholz, rudolf, dr.  <sep>balwé, thomas, dr.brucknerstrasse 13d-8263 burghausende<sep>bauer, johann, dr.görresstrasse 3d-8263 burghausende<sep>birke, johannbruckberstrasse 216d-8261 marktl/innde<sep>rostock, kai, dr.seltenhornstrasse 11d-8263 burghausende<sep>wiedholz, rudolf, dr.gluckstrasse 41d-8263 burghausende<sep>
+</INVENTOR>
+<ABSTRACT>
+Foaming in residual monomer removal by vacuum distillation protective colloid-containing aqueous polymer dispersions obstructs a rapid and effective operation.Due to a water vapor in and-through line in aqueous polymer dispersions, this foaming no longer occurs, so that even in the most common cases on the use of dusting in the degassing process, which connects to the polymeric sation process, can be dispensed with.
+</ABSTRACT>
+</TEXT>
+</DOC>

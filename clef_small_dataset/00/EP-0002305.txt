@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002305
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28D-15/06 F28F-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat transportation device.
+</TITLE>
+<APPLICANT>
+philips nvde <sep>philips patentverwaltungde  <sep>koninklijke philips electronics n.v.<sep>philips corporate intellectual property gmbh<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips patentverwaltung gmbhröntgenstrasse 2422335 hamburgde<sep>
+</APPLICANT>
+<INVENTOR>
+asselman george a a irnl<sep>mahdjuri faramarz drit<sep>schroeder johann drde<sep>asselman, george a.a., ir.<sep>mahdjuri, faramarz dr.<sep>schroeder, johann, dr.<sep>asselman, george a.a., ir.venuslaan 413eindhovennl<sep>mahdjuri, faramarz dr.via s. sebastiano no 33i-24100 bergamoit<sep>schröder, johann, dr.adenauerallee 125d-5100 aachende<sep>
+</INVENTOR>
+<ABSTRACT>
+Heat transport device with an evaporator (2), a condenser (3), a heat transport means (5) and a valve (7) for interrupting the condensate feed to the evaporator (2), wherein the valve (7) is arranged in the condenser area and by a within theApparatus arranged and the pressure expansion vessel (10) exposed to the heat transport center vapor pressure is operated.
+</ABSTRACT>
+</TEXT>
+</DOC>

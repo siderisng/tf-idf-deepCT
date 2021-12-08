@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010436
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01L-23/00 G01M-15/04 F02B-77/08 B60Q-9/00 G01F-9/00 G01L-23/24 G01M-15/09 G01F-9/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of and apparatus for monitoring the operation of an internal combustion engine and a motor vehicle having an internal combustion engine monitored by such apparatus.
+</TITLE>
+<APPLICANT>
+kiloking pty ltdza<sep>kiloking (proprietary) limited<sep>kiloking (proprietary) limited140 second streetsprings, transvaalza<sep>
+</APPLICANT>
+<INVENTOR>
+henderson henning morganza<sep>henderson, henning morgan<sep>henderson, henning morganno. 2 clubview corner nigel and hills roadsselection park springs transvaalza<sep>
+</INVENTOR>
+<ABSTRACT>
+a monitoring device (100) for monitoring the operation of  a vehicle internal combustion engine having inlet ducting  (102) for admitting a fuel/air mixture into the engine com­ prises vacuum sensitive means (112. 1, 112. 2) for sensing the  degree of vacuum in the inlet ducting, speed sensitive means  (154) for sensing the rotational speed of the engine, and warn­ ing means including gates (152. 1, 152. 2, 152. 3), multivibrator  circuitry (146), a loudspeaker (148), and a recorder (150).   when the degree of vacuum falls below a predetermined  vacuum value, warning bleeps are issued by the loudspeaker  (148) and recordings are made on the recorder (150).  the  warning means is operative in response to the vacuum sensi­ tive means and the speed sensitive means to provide a pre­ determined vacuum value which is a stepwise increasing  function of rotational speed sensed.  an inclined mercury containing capsule (160) is provided  to inhibit bleeping and recording when the vehicle is inclined  at more than a predetermined angle to the horizontal in the  direction of travel of the vehicle.  
+</ABSTRACT>
+</TEXT>
+</DOC>

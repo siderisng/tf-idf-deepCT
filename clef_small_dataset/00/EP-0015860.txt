@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015860
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08G-59/06</main> C08G-59/00 C08G-59/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of polyglycidyl ethers of polyphenols.
+</TITLE>
+<APPLICANT>
+rhone poulenc rech fr <sep>rhone-poulenc recherches<sep>rhone-poulenc chimie de base25, quai paul doumer92408 courbevoiefr<sep>rhone-poulenc chimie de base<sep>
+</APPLICANT>
+<INVENTOR>
+locatelli jean-louis<sep>soula gerard<sep>locatelli, jean-louis<sep>soula, gerard<sep>locatelli, jean-louisles charavelles 10, rue de charavelf-38200 viennefr<sep>soula, gérard33, rue nungesserf-69330 meyzieufr<sep>locatelli, jean-louis <sep>soula, gerard<sep>locatelli, jean-louis les charavelles 10, rue de charavel f-38200 vienne fr <sep>soula, gérard33, rue nungesserf-69330 meyzieufr<sep>
+</INVENTOR>
+<ABSTRACT>
+The method includes reacting at least one polyphenol alkaline salt on at least one alcohol-2,3 alkane, anhydrous and substantially aprotic, in the presence of compound of formula (I) N [CH₁-CHR₂-o (chr₃-chr₄-o) n-r₅] ₃ wherein: - n is an integer greater than or equal to 0, and less than or equal to 10, - R₁, R₂, R₃, R₄, identical or different represent an atomhydrogen or alkyl radical having from 1 to 4 carbon atoms, and R₅ represents a hydrogen atom, an alkyl or cycloalkyl radical having from 1 to 12 carbon atoms, a phenyl radical (-φ), a radical radical-CMH2M-φ or CMH2M + 1-φ- In which 1 ≦ M ≦ 12. The method is particularly suitable for the preparation of glycidic polyethers of bisphenol-a.
+</ABSTRACT>
+</TEXT>
+</DOC>

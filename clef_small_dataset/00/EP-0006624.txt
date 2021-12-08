@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006624
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-17/00 A61B-8/00 B06B-1/06 H01L-41/22 G01N-29/24 <main>G10K-11/34</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for manufacturing ultrasonic transducers.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+sachs bertram<sep>sachs, bertram<sep>sachs, bertramdorfstrasse 30d-8520 erlangende<sep>sachs, bertram<sep>sachs, bertramdorfstrasse 30d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for the preparation of ultrasonic heads, in particular of wall lacrimines for ultrasonic arrays or compound scanners consisting of a predeterminable number of interlocking transducer elements. Desired is a tech niche particularly simple and cost-saving manufacturing method. This is achieved by the consequences of the method steps: a) a plurality of thin films (1a to 1n; 11a to 11n) of transducer element material, in particular piezo material, is at a distance from each other by stacking. b. due to alternating between storage of spacer strips (2a to 2n; 12a to 12n) or attaching spacers (17) to the films in adhesive connection to a film stack (3; 13), b) from the film stack thus formed (3; 13) If single packages are cut off in cross sections (S1, S2 etc.), C) Each single package then forms a wall lard for itself.
+</ABSTRACT>
+</TEXT>
+</DOC>

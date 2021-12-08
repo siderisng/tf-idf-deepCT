@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012467
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04B-21/04 F04B-13/02 F04B-3/00 F04B-13/00 <main>F04B-13/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pump.
+</TITLE>
+<APPLICANT>
+nestle sach<sep>societe des produits nestle s.a.<sep>societe des produits nestle s.a.case postale 353ch-1800 veveych<sep>societe des produits nestle s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+hersom albert charles<sep>wright kenneth william<sep>hersom, albert charles<sep>wright, kenneth william<sep>hersom, albert charlesalderley bearswood endbeaconsfield, buckinghamshiregb<sep>wright, kenneth william2 malvern waytwyford, berkshiregb<sep>hersom, albert charles<sep>wright, kenneth william<sep>hersom, albert charlesalderley bearswood endbeaconsfield, buckinghamshiregb<sep>wright, kenneth william2 malvern waytwyford, berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a pump is disclosed which comprises a cylinder (1)  having a first (8) and a second inlet (9) and an outlet (10),  means (11) for closing communication between the cyl­ inder (1) and the first inlet (8) and between the cylin­ der (1) and the outlet (10), and, inside the cylinder (1),  two movable pistons (2, 3), each having at least one port  provided with one or more valves (6, 7).  the piston (2)  has a central port which is normally held closed by a spring-­ loaded valve (6).  the pump is particularly intended for  metering and mixing a relatively thick fluid, or a suspension  of solid particles in a liquid, with, for example, another  liquid.  
+</ABSTRACT>
+<DESCRIPTION>
+pump the present invention relates to a pump, more particularly to a pump intended for metering and mixing a relatively thick fluid, or a suspension of solid particles in a liquid with, for example, another liquid. the pump according to the present invention comprises a cylinder having a first and a second inlet and an outlet, means for closing communication between the cylinder and the outlet, and, inside the cylinder, two movable pistons each having at least one port provided with one or more valves. in one embodiment of the present invention, communication between the cylinder and either the first inlet or the outlet is closed by a distributor valve, and at least one of the pistons is provided with a non-return valve. preferably, one piston has a port which is closable by a spring-loaded valve. preferred embodiments of the present invention are illustrated with reference to the accompanying drawings, in which: figure 1 is a diagrammatic section of an embodiment showing the components in the starting position of the pump cycle; figure 2 is the same section as in figure 1 but showing operation of the components during the cycle; figure 3 is a diagrammatic section of a second embodiment showing the components at the beginning of a metering stroke; figure 4 is the same section as in figure 3 but with the components nearing the end of the mixing or dilution stroke. in the drawings, the pump comprises a cylinder 1 in which two pistons 2 and 3 may reciprocate. piston 2 is mounted on a piston-rod 4, and piston 3 is mounted on a tube 5 coaxial with the piston rod 4. piston-rod 4 and tube 5 are actuated independently by means not represented (for example by air cylinders). in another embodiment, they are actuated and synchronised by cams. adjustable stops limit the piston stroke. piston 2 is provided with a central port which is normally held closed by a valve 6 by means of the tension on a spring coaxial with piston-rod 4. in another embodiment, piston 2 is mounted on piston-rod 4 and the valve 6 is actuated by independent means. piston 3 comprises several ports having non-return valves which enable a liquid to flow only from right to left in the drawing. cylinder 1 comprises two inlets preferably under adequate pressure, a first one 8 for a thick fluid or a suspension and a second one 9 for a liquid. the cylinder also comprises an outlet 10 through which the resulting mixture or diluate flows. in a preferred embodiment, a rotatable distributor valve 11 opens a port at the end of the cylinder (left on the drawing), thus enabling the cylinder to communicate either with the first inlet 9 (as shown in figure 1) or with the outlet 10 (as shown in figure 2). this distributor valve is actuated in synchronism with the movement of the pistons 2 and 3 by means not represented. in another embodiment, the first inlet 8 is provided with
+</DESCRIPTION>
+<CLAIMS>
+claims:    1. a pump comprising a cylinder having a first and a second inlet and an outlet, means for closing communication between the cylinder and the first inlet and between the cylinder and the outlet,   andr    inside the cylinder, two movable pistons each having at least one port provided with one more valves.     2. a pump as claimed in claim 1 wherein communication between the cylinder and either the first inlet or the outlet is closed by a distributor valve.    3. a pump as claimed in claim 1 or claim 2 wherein at least one inlet and the outlet are each provided with one or more non-return valves.    4. a pump as claimed in any of claims 1 to 3 wherein one piston has a port which is closable by a spring loaded valve.    5. a pump as claimed in any of claims 1 to 4 wherein at least one of the pistons is provided with a non-return valve.    6. a pump substantially as described with particular reference to either of the two drawings.  
+</CLAIMS>
+</TEXT>
+</DOC>

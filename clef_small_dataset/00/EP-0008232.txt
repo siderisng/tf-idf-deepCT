@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008232
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C25B-15/00</main> C25B-1/46 C25B-15/00 C25B-1/00 C25B-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxygen electrode rejuvenation methods.
+</TITLE>
+<APPLICANT>
+diamond shamrock corpus <sep>diamond shamrock corporation <sep>diamond shamrock corporation1100 superior avenuecleveland ohio 44114us<sep>diamond shamrock corporation<sep>
+</APPLICANT>
+<INVENTOR>
+labarre ronald lowry<sep>lieb donald foster<sep>solomon frank<sep>labarre, ronald lowry<sep>lieb, donald foster<sep>solomon, frank<sep>labarre, ronald lowry19806 bromley lanehuntington beach, californiaus<sep>lieb, donald foster10040 hobbyhorse lanementor, ohious<sep>solomon, frank8 hampton courtgreat neck, new yorkus<sep>labarre, ronald lowry  <sep>lieb, donald foster<sep>solomon, frank<sep>labarre, ronald lowry19806 bromley lanehuntington beach, californiaus<sep>lieb, donald foster10040 hobbyhorse lanementor, ohious<sep>solomon, frank8 hampton courtgreat neck, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed are methods for the rejuvenation of oxygen  electrodes which maximize the power efficiency available  from such oxygen electrodes while minimizing the voltage  necessary to operate such oxygen electrodes over ex­ tended periods of time.  these methods include in situ and  out of cell techniques using hot water washing followed  by air drying and dilute acid washing followed by air dry­ ing.  elevated pressure is employed in certain forms of the  methods, during the drying step.  the methods can also  include a step in which physical pressing of the washed  and dried electrodes is carried out.  
+</ABSTRACT>
+</TEXT>
+</DOC>

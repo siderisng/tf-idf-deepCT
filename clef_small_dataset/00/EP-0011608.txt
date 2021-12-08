@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011608
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/135 C07C-209/00 C07C-211/00 A61P-25/00 A61P-25/24 C07C-211/28 A61P-25/26 C07C-213/00 C07C-217/00 C07C-67/00 C07C-217/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+novel allenic amine and acid addition salts thereof, a process for their preparation, pharmaceutical preparations comprising them and the use of these compounds in the preparation of pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+astra laekemedel abse<sep>astra laekemedel aktiebolag<sep>astra läkemedel aktiebolagsträngnäsvägen 44151 85 södertälje se<sep>
+</APPLICANT>
+<INVENTOR>
+claesson alf se <sep>ross svante bertilse<sep>sahlberg christerse<sep>claesson, alf<sep>ross, svante bertil<sep>sahlberg, christer<sep>claesson, alftäljstensvägen 16bs-752 40 uppsalase<sep>ross, svante bertilhedvägen 8s-151 52 södertäljese<sep>sahlberg, christerlohäradsvägen 9s-194 00 upplands-väsbyse<sep>
+</INVENTOR>
+<ABSTRACT>
+novel allenic amine of the formula    and the pharmaceutically acceptable acid-addition salts  thereof exhibit monoamine oxidase enzyme inhibiting and  antidepressive activity.  the novel compound (i) is prepared  on the following way:  
+</ABSTRACT>
+<DESCRIPTION>
+allenic amines description technical field this invention relates to novel allenic amines and to methods for their preparation as well as to pharmaceutical compositions containing the allenic amines and to the use of the allenic amines for the preparation of pharmaceutical compositions. background art depressive disorders have with more or less success been treated with various compounds. many types of chemical substances have been used, among these amphetamine with the structure emi2.1 however, the euphoretic effect and the risk for dependence have to a great extent restricted the use of amphetamine in the therapy. the medical use of amphetamine is nowadays mainly restricted to the treatment of narcolepsy and asthenic states in aged people. a further type of chemical substances that have been suggested for use as an antidepressive agent in-cludes monoamine oxidase enzyme inhibiting chemical compounds, for example compounds of the formula emi2.2 wherein x is hydrogen or chloro. these compounds are disclosed in journal of pharmaceutical sciences, vol. 57, no. 3, march 1968, p 430-433, and in united states patent no. 3,397,236. disclosure of invention we have found that novel allenic amines of the formula emi3.1 and pharmaceutically acceptable acid-addition salts thereof, exhibit a higher monoamine oxidase enzyme lmao) inhibiting activity than the above-mentioned known allenic amines. the pharmacological profile of the compounds of the invention suggests a potential value of the compounds as antidepressants, and in the treatment of parkinson's disease. the compounds of this invention may be administered in the form of free bases or their salts with non-toxic acids. some typical examplcs of these salts are the hydrobromide, hydrochloride, phosphate, sulphate, citrate, and tartrate. pharmaceutical preparations in clinical practice the compounds of the present invention will normally be administered orally, rectally or by injection, in the form of pharmaceutical preparations comprising the active ingredient either as a free base or as a pharmaceutically acceptable non-toxic, acid addition salt, e.g. the hydrochloride, hydrobromide, lactate, acetate, sulphate, sulphamate and the like in association with a pharmaceutically acceptable carrier. accordingly, terms relating to the novel compounds of this invention whether generically or specifically are intended to inlcude both the free amine base and the acid addition salts of the free base, unless the context in which such terms are used, e.g. in the specific examples would be inconsistent with the broad concept. the carrier may be a solid, semisolid or liquid diluent or capsule. these pharmaceutical preparations constitute a further aspect of this invention. usually the active substance will constitute between 0.1 and 99 % by weight of the preparation, more specifically between 0.5 and 20 % by weight for preparation intended for injection and between 2 and 50 % by weight for preparations suitable for oral administration. to produce pharmaceutical preparations containing a compound of the invention in the form of dosage units for oral application, the selected compound may be mixed with a solid pulverulent carrier, e.g. lactose, saccharose, sorbitol, mannitol, starches such as potato starch, corn starch or amylopectin, cellulose derivatives, or gelatine, and a
+</DESCRIPTION>
+<CLAIMS>
+claims   1. a compound of the formula emi12.1       and pharmaceutically acceptable acid-addition salts thereof.   2. a compound according to claim 1 in the form of its acid -addition salt with hydrochloric acid.   3. a compound according to claim 1 in association with a pharmaceutically acceptable carrier.   4. a pharmaceutical preparation which comprises as active ingredient a therapeutically effective amount of a compound of the formula emi12.2       or a pharmaceutically acceptable acid-addition salt thereof, in association with a pharmaceutically acceptable carrier, 5. a pharmaceutical preparation according to claim 4 in dosage unit form.    6. the use of a compound of the formula emi12.3        or a pharmaceutically acceptable acid-addition salt thereof, as active ingredient for the preparation of pharmaceutical preparations having antidepressive activity.   7. a process for the preparation of a compound of the formula emi13.1       or a pharmaceutically acceptable acid-addition salt thereof, characterized in reacting an acetylenic aminoether of the formula    r-o-ch2-c-c-ch2-nh2    wherein r is lower alkyl or l-alkoxyalkyl, with a   grignard,    or lithium   reagent,      tf    the formula emi13.2       in the presence of a   cut salt    as a catalyst.  
+</CLAIMS>
+</TEXT>
+</DOC>

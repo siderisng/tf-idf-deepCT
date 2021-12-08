@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004363
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08K-5/524 C08K-5/52 C08L-67/00 C08L-67/02 C08K-5/00 <main>C08L-67/02</main> C08L-63/00 C08G-59/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flame retarding thermoplastic polyester composition.
+</TITLE>
+<APPLICANT>
+toray industriesjp <sep>toray industries, inc.<sep>toray industries, inc. 2, nihonbashi-muromachi 2-chome chuo-ku tokyo 103 jp<sep>toray industries, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+morikawa masanobu<sep>yamamonto yoshiyuki<sep>yoshioka akira<sep>morikawa, masanobu<sep>yamamonto, yoshiyuki<sep>yoshioka, akira<sep>morikawa, masanobuno. 1-1-12 mishiogi-minami suginami-kutokyojp<sep>yamamonto, yoshiyukino. 1490, ikeda-chosuzuka-shi mie-kenjp<sep>yoshioka, akirano. 1, ryugu-cho minato-kunagoya-shijp<sep>morikawa, masanobu <sep>yamamonto, yoshiyuki  <sep>yoshioka, akira<sep>morikawa, masanobuno. 1-1-12 mishiogi-minami suginami-kutokyojp<sep>yamamonto, yoshiyukino. 1490, ikeda-chosuzuka-shi mie-kenjp<sep>yoshioka, akirano. 1, ryugu-cho minato-kunagoya-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+to improve the solubility of halogenated polymeric  flame-retarding agents in polyesters and thereby to compensate  a deterioration of the mechanical properties of the  flame-retarding polyester composition, at least one phosphite  compound selected from the group consisting of the  compounds represented by the general formula (i) and (ii),    wherein r represents an alkyl group having 6 to 20 carbon  atoms, r′ represents hydrogen or an alkyl group having 1  to 6 carbon atoms, n is an integer of 2 to 4 and b represents  alkylene having 1 to 6 carbon atoms, ether, carbonyl, thioether  or sulfone group is incorporated in such flame-retarding  polyester compositions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

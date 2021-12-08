@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008238
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04J-3/06 B60R-16/02 H04L-7/06 B60R-16/03 G08C-15/00 <main>G08C-15/00</main> H04L-7/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a multiplex information handling system.
+</TITLE>
+<APPLICANT>
+ward goldstone ltdgb<sep>ward & goldstone limited<sep>ward &amp; goldstone limitedfrederick roadsalford, m6 6apgb<sep>ward & goldstone limited<sep>
+</APPLICANT>
+<INVENTOR>
+hampshire michael john<sep>williamson jonathan hugh<sep>hampshire, michael john<sep>williamson, jonathan hugh<sep>hampshire, michael john792 halifax roadliversedge west yorkshiregb<sep>williamson, jonathan hugh25 westbourne avenueclifton, swinton manchester, m27 2nngb<sep>hampshire, michael john<sep>williamson, jonathan hugh<sep>hampshire, michael john792 halifax roadliversedge west yorkshiregb<sep>williamson, jonathan hugh25 westbourne avenueclifton, swinton manchester, m27 2nngb<sep>
+</INVENTOR>
+<ABSTRACT>
+a multiplex information handling system has a plur­ ality of receivers and transmitters connected by a signal  bus and a power bus.  timing of transmitted data is con­ trolled by issuing clock pulses cp at intervals and so that  these clock pulses can be recognised they are made shorter  in duration than any other pulses transmitted.  a synchron­ ising pulse (sp) fronts each transmission of data and so  this can be recognised this pulse is made longer than any  other pulse in the transmission.  after a transmission, the  signal bus is held high for a period to prevent further trans­ mission so that switching of loads consequent upon the first  transmission does not affect these further transmission.   noise suppression circuitry is also provided.  
+</ABSTRACT>
+</TEXT>
+</DOC>

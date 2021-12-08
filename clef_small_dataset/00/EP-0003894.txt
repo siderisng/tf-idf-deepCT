@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003894
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16H-1/48</main> F16H-57/00 F16H-1/28 F16H-57/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gear mounting.
+</TITLE>
+<APPLICANT>
+hicks transmissions ltd r jgb<sep>r.j. hicks (transmissions) limited<sep>hicks transmissions limiteddolgerddon hallrhayader powys ld6 5adgb<sep>hicks transmissions limited <sep>
+</APPLICANT>
+<INVENTOR>
+hicks raymond john<sep>hicks, raymond john<sep>hicks, raymond johnthe rectory llanwrthwl llandrindod wellspowys walesgb<sep>hicks, raymond john <sep>hicks, raymond johnthe rectory llanwrthwl llandrindod wellspowys walesgb<sep>
+</INVENTOR>
+<ABSTRACT>
+in a gear mounting having a spindle (2;92,93) extending  generally normal to a carrier (3;90,91), the spindle is permitted  limited radial excursions to adapt itself to the tooth loading.   it is particularly suited to mounting planets in an  epicyclic gear and the spindle may be cantilevered or straddle  mounted.  part, at least, of the spindle is axially prestressed and by  the configuration and interengagement of the parts this  holds the mounting in position.  under load, the stress is  increased or imbalanced and the radial excursions are  resisted.  a cantilevered spindle comprises inner and outer  members (5,7;92,93) one being tensioned to compress the  other, and it may either flex and/or change lenght by cam  action with the carrier.  in staddle mountings (90, 91), the  spindle is under compression and locates against inclined  surfaces which increases the axial load upon radial excursion.  
+</ABSTRACT>
+</TEXT>
+</DOC>

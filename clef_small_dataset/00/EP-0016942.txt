@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016942
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-54/02 B65H-59/10 B65H-54/40 B65H-59/14 B65H-59/00 B65H-54/50 <main>B65H-54/28</main> B65H-59/16 D01D-7/00 B65H-54/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+winding machine.
+</TITLE>
+<APPLICANT>
+rieter ag maschfch<sep>maschinenfabrik rieter a.g.<sep>maschinenfabrik rieter agpostfach 290ch-8406 winterthurch<sep>maschinenfabrik rieter a.g.<sep>
+</APPLICANT>
+<INVENTOR>
+vetterli walter<sep>vetterli, walter<sep>vetterli, walterbettenstrasse 187ch-8400 winterthurch<sep>vetterli, walter<sep>vetterli, walterbettenstrasse 187ch-8400 winterthurch<sep>
+</INVENTOR>
+<ABSTRACT>
+a filament winder is adapted to enable it to produce  acceptable packages of filament despite variation in tension  of filament (10) fed thereto.  the adaption involves tension  control by controllably varying the contact length of the  filament with a body [preferably roller (14)] to vary the  dynamic friction exerted on the filament.  a roller for con­ trolling filament tension during package formation is also  described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

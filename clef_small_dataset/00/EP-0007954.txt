@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007954
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06M-1/00 F16H-21/16 <main>G01D-5/243</main> G08C-19/14 G01R-9/00 G06M-1/27 G01F-15/06 G01R-21/00 G01R-9/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+quantity converting and indicating apparatus.
+</TITLE>
+<APPLICANT>
+osaka gas co ltd jp<sep>osaka gas co., ltd<sep>osaka gas co., ltd1 hiranomachi 5-chome, higashi-kuosaka-shi, osaka, 541jp<sep>osaka gas co., ltd<sep>
+</APPLICANT>
+<INVENTOR>
+itakura tadayuki<sep>kawano akio<sep>oguchi yuzo<sep>itakura,tadayuki<sep>kawano, akio<sep>oguchi, yuzo<sep>itakura,tadayuki324-4, kobuchizawamachi kitakoma-gunyamanashi, 409-16jp<sep>kawano, akio808-153. higashigaokakishiwada-shi, osaka, 596jp<sep>oguchi, yuzo691-11 konamisuwa-shi, nagano, 392jp<sep>itakura,tadayuki  <sep>kawano, akio <sep>oguchi, yuzo<sep>itakura,tadayuki324-4, kobuchizawamachi kitakoma-gunyamanashi, 409-16jp<sep>kawano, akio808-153. higashigaokakishiwada-shi, osaka, 596jp<sep>oguchi, yuzo691-11 konamisuwa-shi, nagano, 392jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a quantity converting and indicating apparatus for use  in automatic remote systems for inspecting consumed  amounts of gas, city water, electric power or the like, by  which a detected value in the decimal system displayed on  such a counter as a gas meter is converted to a binary sys­ tem value convenient for transmission by a channel such  as a telephone circuit.  the apparatus is provided with plural  cams (2) cooperative with a figure wheel (4) of the counter  for converting the detected value to the binary system value,  plural vibrators (6a) placed facing each cam and fixed each  at one end, flexible vibrator controlling members (5) placed  adjacent to the concaves and convexes (2a, 2b) of each  cam and facing the respective vibrators at their other ends  for controlling the vibrators, means (10) for activating the  vibrators, and means (7, 8) for converting the vibration  to a a. c.  signal having a frequency in a band adopted for  transmission by means such as a telephone circuit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

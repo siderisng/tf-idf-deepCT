@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016400
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06K-9/20 H04N-1/107 G06K-7/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+information processing device for entering and further processing of optical information recorded on an information carrier
+</TITLE>
+<APPLICANT>
+agfa gevaert agde <sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert ag kaiser-wilhelm-allee d-51373 leverkusen de<sep>
+</APPLICANT>
+<INVENTOR>
+paulus rudolfde<sep>pfeifer josefde<sep>zieran eberhardde<sep>paulus, rudolf<sep>pfeifer, josef<sep>zieran, eberhard<sep>paulus, rudolfiltisstrasse 28d-8000 münchen 82de<sep>pfeifer, josefter meer-strasse 10d-8025 unterhachingde<sep>zieran, eberhardjos.-würth-strasse 9d-8022 grünwaldde<sep>
+</INVENTOR>
+<ABSTRACT>
+An information processing apparatus for receiving and further processing optical information comprises a hand reading device which is guided by hand via the information carrier for receiving the information along a first direction, wherein the information along a second direction perpendicular to the first direction, z.b.Column for column within the overlined line, is scanned.The handling device comprises means for clocking the scan along the second direction as a function of the relative speed between information carrier and hand reading device.
+</ABSTRACT>
+</TEXT>
+</DOC>

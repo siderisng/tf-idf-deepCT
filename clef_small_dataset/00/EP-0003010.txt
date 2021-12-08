@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003010
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02J-3/12 H02J-3/14 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for limiting the power demand in heating-ventilation-air conditioning.
+</TITLE>
+<APPLICANT>
+united technologies corpus <sep>united technologies corporation <sep>united technologies corporation united technologies building 1, financial plazahartford, ct 06101us<sep>
+</APPLICANT>
+<INVENTOR>
+games john earlyus<sep>shoenmann charles francisus<sep>games, john early<sep>shoenmann, charles francis<sep>games, john early24 zimmer roadgranby ct 06035us<sep>shoenmann, charles francis85 parker roadsomers ct 06071us<sep>
+</INVENTOR>
+<ABSTRACT>
+a central control system includes a central processing  unit (cpu) installed in a central location of a facility, and  interconnected with a plurality of remote controllers, each  located in an associated one of several buildings in the  facility and each including a remote microprocessor (rmp)  the cpu automatically controlling, simultaneously from the  central location, the closed loop operation of individual  environmental conditioning systems (ecs) in the several  buildings comprising the facility in combination with the  rmp associated therewith, and in dependence on the sensed  temperature conditions within the living spaces associated  with each system.  a watt meter measures the total power usage of the  facility in kilowatt hours (kwh) and provides signal information  representative of the instantaneous power usage  to an rmp associated therewith.  the cpu receives the  power usage signal information from the rmp, and provides  in response thereto, a predicted peak average power demand  signal value in each demand interval of time over  which the usage is monitored by the electric utility.  the  cpu compares the predicted peak average power demand  signal with a monthly demand limit (mdl) signal and  provides in response to a predicted signal value greater  than the mdl value, load shed command signals to each of  the rmps associated with ecs, each rmp providing a turn  off of selected one, or all of the ecs associated therewith,  in dependence on the load shed command signals from  the cpu.  
+</ABSTRACT>
+</TEXT>
+</DOC>

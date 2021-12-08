@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004700
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-3/28 H01J-65/04 <main>G09G-3/28</main> G06F-3/147 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gaseous discharge display system.
+</TITLE>
+<APPLICANT>
+ibmus   <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+lamoureux william roger<sep>martin william john<sep>trushell james bryce<sep>lamoureux, william roger<sep>martin, william john<sep>trushell, james bryce<sep>lamoureux, william roger165 highland avenuekingston new york 12401us<sep>martin, william john19 parkside drivelake katrine new york 12449us<sep>trushell, james bryce17 esopus drivesaugerties new york 12477us<sep>lamoureux, william roger <sep>martin, william john<sep>trushell, james bryce  <sep>lamoureux, william roger 165 highland avenuekingston new york 12401us<sep>martin, william john19 parkside drivelake katrine new york 12449us<sep>trushell, james bryce17 esopus drivesaugerties new york 12477us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention concerns a gaseous discharge display  system.  in an embodiment of the invention, a plasma discharge  display panel 10 is operated at a high frequency above the  response range of the inherent wall charge storage phenomenon  and uses refreshing to maintain the display.  the  vertical drive selection includes a pair of shift registers (15,  19) operated in parallel into which data from a host or  associated controller is loaded, with an individual driver  associated with each register stage.  the horizontal lines are  addressed through associated shift registers (29, 31) in an  interlace sequence to generate a display on a horizontal scan  basis.  the horizontal drivers (31, 33) are referenced at the  level and frequency of the high frequency energizing signals,  while the vertical drivers (21, 23) are selectively set to ground  or a positive a. c.  voltage according to the state of associated  register stages.  by using the high frequency signal in the  horizontal axis as a floating reference and using novel  selection techniques, the display is operated by low voltage  signals.  the normal sustain and erase operations associated  with conventional plasma discharge panels are eliminated,  while the write operation does not require either the precise  timing or logical considerations associated with the selective  operation of conventional plasma discharge display panels.   the low voltage drive requirements permits use of low  voltage driver circuitry which is susceptible to low cost  monolithic fabrication techniques.  
+</ABSTRACT>
+</TEXT>
+</DOC>

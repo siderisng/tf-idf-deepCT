@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013294
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-1/30 <main>B41J-1/24</main> B41J-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiple type disk printing mechanism for typewriters or printers.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+dollenmayer william lee<sep>dollenmayer, william lee<sep>dollenmayer, william leeroute 4, delaney ferry roadversailles, kentucky 40383us<sep>dollenmayer, william lee  <sep>dollenmayer, william leeroute 4, delaney ferry roadversailles, kentucky 40383us<sep>
+</INVENTOR>
+<ABSTRACT>
+Printing characters using a rotary element with radial character tabs. The printing element (35) according to the invention, consists of at least two wheels (43) and (45) with radial strip tongues, mounted on the same drive axis (51) and which can be entrenched selectively in rotation by the latter. Chached Wheel has a tab free area that is brought opposite the print position to allow printing by the character tabs of the other wheel with which cooperates a single striking happiness. The rotation of the roads and thus the selection of the characters, is ensured by a motor (49). The printing element (35) is removably mounted on the axis (51) in order to be interferedable. This arrangement makes it possible to increase the number of characters available without increasing the inertia of the print element since a single wheel at a time is rotated for the selection of the characters.
+</ABSTRACT>
+</TEXT>
+</DOC>

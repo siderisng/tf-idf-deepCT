@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006126
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+B64G-1/22 B64G-1/62 B64G-1/66 B64G-1/64 G05D-1/00 <main>B64G-1/00</main> B64G-1/28 B64G-1/00 B64G-1/14 B64G-1/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spin activated safety circuit for spacecraft.
+</TITLE>
+<APPLICANT>
+hughes aircraft cous<sep>hughes aircraft company<sep>hughes aircraft company7200 hughes terrace, p.o. box 80028los angeles, california 90080-0028us<sep>hughes aircraft company<sep>
+</APPLICANT>
+<INVENTOR>
+dutcher gerald l<sep>sengstock jr paul j<sep>dutcher, gerald l.<sep>sengstock, jr., paul j.<sep>dutcher, gerald l.1746 fith streetmanhattan beach californiaus<sep>sengstock, jr., paul j.20917 annrita avenuetorrance californiaus<sep>dutcher, gerald l.<sep>sengstock, jr., paul j.<sep>dutcher, gerald l.1746 fith streetmanhattan beach californiaus<sep>sengstock, jr., paul j.20917 annrita avenuetorrance californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a spacecraft (51) specifically adapted for launch from  the space shuttle (50) by means of a cradle (52) having  locking and ejection mechanisms mounted therein.  the  cradle fastens into the payload bay of the space shuttle and  return therewith for reuse in subsequent launches.  the  spacecraft mounts at three points to the cradle, and the  cradle mounts at three points to the shuttle such that a  plane through the attachement points passes through the  roll axis of the spacecraft at approximately the center of  mass thereof.  the cradle utilizes the truss structure of the  spacecraft to produce the required stiffness by providing  a structural tie between the two ends and the bottom of  the cradle.  at launch, the spacecraft is ejected with both  linear and angular momentum, the spin providing gyroscopic  stability.  the locking mechanisms in the cradle can  be remotely controlled to relock the spacecraft to the cradle in the event of an unsuccessful deployment attempt.  the spacecraft includes a safety circuit employing  acceleration sensing switches which sense spin-up of the  spacecraft and prevent premature ignition of the perigee  boost motor.  the spacecraft has imbedded within its envelope  a solid-propellant perigee boost motor (143) surrounded  by a liquid-propellant apogee motor.  by employing  apogee and perigee propulsion stages internal to the spacecraft,  the storage length in the space shuttle is minimized,  and the geometry and mass characteristics of the spacecraft  make for a stable spinning vehicle during both the  perigee and apogee boost phases.  
+</ABSTRACT>
+</TEXT>
+</DOC>

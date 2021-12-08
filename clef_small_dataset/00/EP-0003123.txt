@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003123
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+F27B-15/00 C04B-7/44 C04B-7/43 C04B-7/00 F27B-7/20 <main>C04B-7/44</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for pre-burning carbonate raw material.
+</TITLE>
+<APPLICANT>
+babcock krauss maffei indde<sep>bkmi industrieanlagen gmbh<sep>bkmi industrieanlagen gmbhsapporobogen 6 - 8d-8000 münchen 40de<sep>bkmi industrieanlagen gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+quittkat wolfram gotthold dr-i<sep>quittkat, wolfram gotthold, dr.-ing.<sep>quittkat, wolfram gotthold, dr.-ing.pippinstrasse 32d-8035 gautingde<sep>quittkat, wolfram gotthold, dr.-ing.<sep>quittkat, wolfram gotthold, dr.-ing.pippinstrasse 32d-8035 gautingde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for firing sintered material made of carbonatic raw materials in a rotary kiln (29) with downstream rust cooler and upstream pigs accumulator (27) is carried out in this by feeding fuel and combustion air, a pre-acid naming of the carbonatic raw materials.For the purpose of avoiding local overheating of the raw materials In this precalcination, the combustion air is fed in a stoichiometric amount only then (line 18) when the fuel has deposited in fine distribution on the raw materials and they have mixed well with the oven exhaust, with a flamelessOdixation is brought about.The mixing is determined by the fact that the oven exhaust gas is offset in a swirl flow.
+</ABSTRACT>
+</TEXT>
+</DOC>

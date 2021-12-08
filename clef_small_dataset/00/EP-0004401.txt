@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004401
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 C01B-3/36 <main>B01J-3/04</main> B01J-19/00 C10J-3/00 B01J-19/02 C10J-3/74 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reactor with screen and gasification process.
+</TITLE>
+<APPLICANT>
+shell int research nl  <sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v. <sep>
+</APPLICANT>
+<INVENTOR>
+ter haar leonard willem<sep>vogel jacobus elso<sep>ter haar, leonard willem<sep>vogel, jacobus elso<sep>ter haar, leonard willemcarel van bylandtlaan 30the haguenl<sep>vogel, jacobus elsocarel van bylandtlaan 30the haguenl<sep>ter haar, leonard willem <sep>vogel, jacobus elso<sep>ter haar, leonard willemcarel van bylandtlaan 30the haguenl<sep>vogel, jacobus elsocarel van bylandtlaan 30the haguenl<sep>
+</INVENTOR>
+<ABSTRACT>
+reactor suitable for reactions at elevated temperature  and pressures, in which gases are released which are corrosive  when dissolved in water.  the inner reactor steel shell  (5) is lined with a refractory and heat-insulating layer (2, 3).   a metal screen (7) provided with holes is arranged around  the reactor shell in order to limit heat losses from the reactor.   in this way corrosion of the inner reactor steel shell is  prevented.  the reactor is very suitable for gasification of  coal and oil.  
+</ABSTRACT>
+</TEXT>
+</DOC>

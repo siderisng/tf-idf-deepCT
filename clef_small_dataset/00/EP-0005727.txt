@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005727
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/28 H01L-21/68 G01R-1/073 H01L-21/67 H01L-21/66 <main>G01R-1/073</main> G05D-3/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sensing probe for determining location of conductive spots.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+faure louis henry<sep>hodge philo burton<sep>faure, louis henry<sep>hodge, philo burton<sep>faure, louis henry24 king drivepoughkeepsie, ny 12603us<sep>hodge, philo burtongarnet roadroxbury connecticut 06783us<sep>faure, louis henry <sep>hodge, philo burton<sep>faure, louis henry24 king drivepoughkeepsie, ny 12603us<sep>hodge, philo burtongarnet roadroxbury connecticut 06783us<sep>
+</INVENTOR>
+<ABSTRACT>
+History device for the exact determination of the location of conductive points on an insulating substrate (32) consisting of a base plate (40) and a number of flexible flat, elongated leaf spring elements (42) with end portions for contacting and manufacturing an electrically conductive connection with the electricalSingle points (37) on the surface of the substrate and insulation between the individual leaf spring elements and with a clamping device through which the leaf spring elements (42) are held curved so that the end portions in a plane are parallel to the plane of the top of the insulating substrate.
+</ABSTRACT>
+</TEXT>
+</DOC>

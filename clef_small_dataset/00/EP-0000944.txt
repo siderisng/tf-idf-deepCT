@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000944
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-65/30 C08G-65/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+filtration process for purifying polyols.
+</TITLE>
+<APPLICANT>
+basf wyandotte corpus<sep>basf wyandotte corporation<sep>basf wyandotte corporation1609 biddle avenuewyandotte michigan 48192us<sep>
+</APPLICANT>
+<INVENTOR>
+capraro michael anthonyus<sep>herring william michaelus<sep>louvar joseph francis us <sep>capraro, michael anthony<sep>herring, william michael<sep>louvar, joseph francis<sep>capraro, michael anthony15871 drysdalesouthgate michigan 48195us<sep>herring, william michael4664 colonial lanetrenton michigan 48183us<sep>louvar, joseph francis918 winchesterlincoln park michigan 48146us<sep>
+</INVENTOR>
+<ABSTRACT>
+filtration process for purifying polyols.  the alkaline  catalyst used for the preparation of the polyether polyol is  removed by mixing the crude polyol with water, an adsorbent  and a solvent; the mixing is followed by filtration.  the  filter cake is washed with the solvent.  the solvent and water  are removed from the polyol by means of a flash stripper.   the solvent can be an aliphatic, alicyclic or aromatic hydrocarbon,  a dialkylketone, a dialkyl ether, a halogenated  hydrocarbon or a mixture thereof; the solvent is recycled.  
+</ABSTRACT>
+</TEXT>
+</DOC>

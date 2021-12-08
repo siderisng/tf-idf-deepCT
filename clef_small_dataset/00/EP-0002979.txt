@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002979
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65G-51/04 B65G-51/00 <main>B65G-51/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+installation for the automatic and registered stocking and releasing of currency.
+</TITLE>
+<APPLICANT>
+fluidelec safr<sep>roneo sa fr<sep>compagnie du roneo societe anonyme  <sep>fluidelec societe dite:<sep>compagnie du roneo société anonyme21, avenue victor hugof-75116 parisfr<sep>fluidelec société dite:rue henri farmanf-78530 buc, z.i.fr<sep>compagnie du roneo societe anonyme<sep>fluidelec societe dite:<sep>
+</APPLICANT>
+<INVENTOR>
+douard pierre-rene<sep>thepot jean marie louis<sep>thibonnier jacques<sep>douard, pierre-rene<sep>thepot, jean marie louis<sep>thibonnier, jacques<sep>douard, pierre-rené2, place royalef-78000 versaillesfr<sep>thepot, jean marie louis122, rue nationalef-75013 parisfr<sep>thibonnier, jacques29 boulevard henri ruelf-94120 fontenay s/boisfr<sep>douard, pierre-rene<sep>thepot, jean marie louis<sep>thibonnier, jacques <sep>douard, pierre-rené2, place royalef-78000 versaillesfr   <sep>thepot, jean marie louis122, rue nationalef-75013 parisfr<sep>thibonnier, jacques29 boulevard henri ruelf-94120 fontenay s/boisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a fund transfer facility from a counter (1), to a strong room (2), a banking institution and vice versa.According to the invention, this installation is constituted by a routing line (3), a storage device (7), an extraction line (4) and a blower (15) selectively connected to the line (3),The device (7) and the line (4) from a control logic unit (19) connected to a console (18).The "motor" organs of the installation are placed in the chamber (2).application to the equipment of banking organizations.
+</ABSTRACT>
+</TEXT>
+</DOC>

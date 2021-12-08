@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002750
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-15/46 G05B-19/42 G05B-19/414 G05B-19/4155 <main>G05B-19/18</main> B23Q-15/00 G05B-19/4093 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+computerized numerical controller for a machine tool.
+</TITLE>
+<APPLICANT>
+toyoda machine works ltdjp<sep>toyoda koki kabushiki kaisha<sep>toyoda koki kabushiki kaisha1-1, asahi-machikariya-shi aichi-kenjp<sep>toyoda koki kabushiki kaisha <sep>
+</APPLICANT>
+<INVENTOR>
+honma hideo<sep>kato sadamu<sep>noda shigeo<sep>honma, hideo<sep>kato, sadamu<sep>noda, shigeo<sep>honma, hideo2-52, shintomi-chokariya-shi aichi-kenjp<sep>kato, sadamu6-1, koike yoshihama-chotakahama-shi aichi-kenjp<sep>noda, shigeo1-21, torimi-cho, nishi-kunagoya-shi aichi-kenjp<sep>honma, hideo<sep>kato, sadamu  <sep>noda, shigeo<sep>honma, hideo2-52, shintomi-chokariya-shi aichi-kenjp<sep>kato, sadamu6-1, koike yoshihama-chotakahama-shi aichi-kenjp<sep>noda, shigeo1-21, torimi-cho, nishi-kunagoya-shi aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a computerized numerical controller wherein a tape  reader, upon reading of input tapes, inputs machine control  data including source language instruction data into a storage  device of a data processing device.  the processing  device, when operated under the control of an automatic  programming program, converts the source language instruction  data into blocks of machine part instruction data  and stores the same in the storage device.  the processing  device, when operate under the control of a numerical  control program, produces command signals each indicative  of the length and velocity that a machine apparatus  connected thereto is to move, in accordance with each of  the blocks of the machine part instruction data and outputs  the command signals to the machine apparatus so as to  control the same.  the processing device is enabled to  operate selectively under the above-mentioned two programs  on a real time basis.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005751
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12R-1/465 <main>C12N-9/26</main> C12N-9/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hyaluronidase and its production.
+</TITLE>
+<APPLICANT>
+fujisawa pharmaceutical co jp<sep>fujisawa pharmaceutical co. ltd.<sep>fujisawa pharmaceutical co., ltd.3, doshomachi 4-chome higashi-kuosaka-shi osaka 541jp<sep>fujisawa pharmaceutical co. ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+fujii takashi musashiseki mans<sep>kikuchi hiroyuki<sep>yoshida keizo<sep>fujii, takashi musashiseki mansion 604<sep>kikuchi, hiroyuki<sep>yoshida, keizo<sep>fujii, takashi musashiseki mansion 604no. 4-kou 690-4, sekimachinerima-ku, tokyojp<sep>kikuchi, hiroyukino. 46-7, nanyoudai, no. 1755-89horinouchi, hachiouji-shijp<sep>yoshida, keizono. 11-11, takehashichoibaraki-shijp<sep>fujii, takashi musashiseki mansion 604<sep>kikuchi, hiroyuki <sep>yoshida, keizo<sep>fujii, takashi musashiseki mansion 604 no. 4-kou 690-4, sekimachi nerima-ku, tokyo jp <sep>kikuchi, hiroyukino. 46-7, nanyoudai, no. 1755-89horinouchi, hachiouji-shijp<sep>yoshida, keizono. 11-11, takehashichoibaraki-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+hyaluronidase bmp-8231 having the characteristics of   (a) type of action:   endo β-hexosaminidase,   (b) substrate specificity:   degradable; hyaluronic acid,   not degradable: chondroitin sulfate a,   chondroitin sulfate c and   chondroitin,   (c) optimum ph: around ph4. 0,   (d) stable ph range: ph4. 0-ph11. 3,   (e) optimum temperature: around 60°c and   (f) stable temperature range: below 60°c.  the invention also relates to a process for preparing  hyaluronidase bmp-8231 by culturing a hyaluronidase bmp-8231  producing strain belonging to the genus streptomyces,  particularly streptomyces koganeiensis atcc 31394.  hyaluronidase bmp-8231 is a new enzyme having  improved properties in comparison with known hyaluronidase-enzyms.  
+</ABSTRACT>
+</TEXT>
+</DOC>

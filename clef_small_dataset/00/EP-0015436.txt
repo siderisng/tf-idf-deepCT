@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015436
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-46/06 C07C-37/11 C07C-46/00 C07F-11/00 C07C-11/00 C07C-1/00 <main>C07C-50/14</main> C07C-1/32 C07C-11/28 C07C-11/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the stereospecific preparation of compounds of the vitamin k1- and k2-series, as well as new starting materials for the process.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+dotz karl heinz dr<sep>dotz, karl heinz, dr.<sep>dötz, karl heinz, dr.zeisigstrasse 30ed-8011 vaterstettende<sep>dotz, karl heinz, dr.<sep>dötz, karl heinz, dr.zeisigstrasse 30ed-8011 vaterstettende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a new method for producing compounds of the vitamin K₁ and K₂ series in particular in the form of the E-isomers.The method is that a phenyl-carbon-carbonyl-metal complex of the formula having an enin of formula CH₃-C≡C-R₂ II is converted into a compound of the formula.Subsequently, the metal ring bond is cleaved and, if necessary, oxidizes the naphtholder derivative obtained.In formulas I, II and III, R¹ is lower alkyl, acyl or benzyl and R² a dimethylallyl, geranyl, fernesyl or analogous isoprenoid terpenyl radical or the phytyl radical.The invention further relates to novel compounds of the formula CH₃-C≡C-R 2, wherein R² represents a geranyl, farnesyl or analog isoprenoid terpenyl radical and the phytyl radical and the formula where R¹ and R² have the above meaning.
+</ABSTRACT>
+</TEXT>
+</DOC>

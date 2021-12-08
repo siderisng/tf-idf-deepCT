@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011071
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01M-4/06 C25D-9/00 H01M-4/02 C25D-9/06 H01M-4/72 C25D-13/02 H01M-4/08 H01M-4/74 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+manganese dioxide electrode for electrochemical generators and methods for producing the same.
+</TITLE>
+<APPLICANT>
+sorapec<sep>sorapec societe de recherches et d'applications electrochimiques<sep>sorapec société de recherche et d'applications electrochimiques192 rue carnotf-94120 fontenay-sous-boisfr<sep>
+</APPLICANT>
+<INVENTOR>
+sorapec societe de recherches<sep>sorapec societe de recherches et d'applications electrochimiques<sep>sorapec société de recherche et d'applications electrochimiques192 rue carnotf-94120 fontenay-sous-boisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+positive electrode comprising manganese dioxide attached in the form of a deposit onto a backing made from conductive fibres of the woven fabric or felt type, such as carbon or graphite fibres.  the manganese dioxide is deposited by electrolysis of a solution containing a manganese salt, by electrophoresis or by impregnating the backing with a solution containing manganese dioxide in suspension. 
+</ABSTRACT>
+<DESCRIPTION>
+pii#s e1#trochim1#ues l'invention, objet du présent brevet concerne les piles électrochimiques. elle s'applique plus particulièrement aux générateurs dont 1'é- lectrode positive est dépolarisée par du bioxyde de manganèse. dans de tels générateurs, la masse positive, de par sa structure, est 8 11 origine d'un certain nombre d'inconvénients que la présente invention a pour objectif de pallier. dans les piles actuelles à cathode au bioxyde de manganèse, l'architecture classique de l'¯lectrode positive comprend, autour d'un collecteur de courant positif constitué par un barreau de graphite, une masse te noir de carbone et de bioxyde de manganèse. dans cette masse où le bioxyde de manganèse tient le rale du dépolarisant mais présente une très mauvaise conductibilité électronique, le noir de carbone est précisément utilisé pour ses propriétés de conducteur électronique. pour une efficacité maximale du dépolarisant, chacune de ses particules doit être en contact intime avec des particules de noir de carbone, assurant la conduction. le volume dévolu au dépolarisant ne peut ainsi normalement dépasser environ 60 ffi de celui de la masse positive. pour atteindre les capacités souhaitées pour le type de générateur en question, il est par conséquent nécessaire de consacrer un fort volume i la masse, ce qui n'est pas sans inconvénient et interdit pratiquement l'utilisation de ce procédé pour la réalisation de "piles minia turisées". de surcrott, le rendement obtenu est mauvais car toutes les particules de bioxyde de manganèse ne sont pas appelées à travailler de la même faqon : en effet, la résistance que rencontre le courant sur l'itind- raire qui sépare chaque particule du collecteur crott avec la distance du fait de la conductibilité imparfaite du noir de carbone. les parti cules les plus proches du collecteur seront donc épuisées et la pile "déchargée" avant que les particules les plus éloignées aient pu être utilisées. la présente invention permet de pallier l'ensemble de ces inconvénients grâce au remplacement du noir de carbone par un réseau de fibres du type tissage ou feutre conducteur, servant de support à un dépôt de bioxyde de manganèse et placé au contact du collecteur de courant. on s'attachera, à titre d'exemple non limitatif d'application du procédé, objet du présent brevet, à mettre en évidence les avantages de celui-ci par rapport au dispositif habituel dans le cas de l'utilisation d'un feutre de carbone, et on décrira un mode de réalisation préférentiel de la masse, n'ayant aucun caractère restrictif. selon ce procédé de fabrication qui consiste en une électrodéposition du bioxyde de manganèse sur le feutre, le dépolarisant produit par électrolyse peut être formé à l'anode de la cuve électrolytique directement sur le feutre de carbone qui sera ultérieurement utilisé dans la pile. l'électrolyte utilisé pourra notamment autre une solution molaire de sulfate de manganèse et d'acide sulfurique. l'électrolyse est effectuée d une température de 90 c, sous une densité de courant de 10 ma par centimètre carré de surface apparente de feutre. on peut rappeler ici qu'il existe différentes variétés de bioxyde de manganèse; parmi les plus actives en tant que
+</DESCRIPTION>
+<CLAIMS>
+revendications de brevet   1 - masse positive au bioxyde de manganèse, le générateur électrique,  caractérisée par le fait que le bioxyde de manganèse est fixé sous forme d'un   ddpot    sur un réseau de fibres conductrices du type tissage ou feutre, place au contact d'un collecteur de courant positif.   2 - masse au bioxyde de manganèse selon la revendication 1 caractéri    séz    par le fait que le réseau de fibres conductrices est un feutre de graphite ou carbone.    3 - masse au bioxyde de manganèse, selon la revendication 1, caracté  risée par le fait que   1¯ réseau    de fibres conductrices est un tissage de graphite ou carbone.      t      w   masse selon les revendications 1, 2 et 3 caractérisée par le fait  que le dépôt de bioxyde de manganèse est effectué directement sur le feutre ou tissage placé en anode dans une cuve d'électrolyse contenant un sel de manganèse.   5 - masse selon les revendications 1, 2 et 3 caractérisée par le fait  que le dépôt de bioxyde de manganèse est effectué par électrophorèse, ou par imprégnation du feutre ou tissage dans une solution contenant du bioxyde de manganèse en suspension.  
+</CLAIMS>
+</TEXT>
+</DOC>

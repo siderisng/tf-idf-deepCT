@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005989
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+D06F-39/02 A47L-15/44 <main>D06F-39/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+washing machine dispensers.
+</TITLE>
+<APPLICANT>
+eaton sa monacomc<sep>eaton s.a.m.<sep>eaton s.a.m.17 boulevard prince héréditaire prince albertmonaco 98000mc<sep>eaton s.a.m. <sep>
+</APPLICANT>
+<INVENTOR>
+rey pierre jean-marie<sep>rey, pierre jean-marie<sep>rey, pierre jean-marie23, chemin de la bordinaf-06240 beausoleilfr<sep>rey, pierre jean-marie <sep>rey, pierre jean-marie23, chemin de la bordinaf-06240 beausoleilfr<sep>
+</INVENTOR>
+<ABSTRACT>
+a powder dispenser (2) for a washing machine comprises  a pre-wash compartment (6) and a wash compartment (8)  each provided with a door (10 or 12) which is opened when  the powder in the compartment is required.  opening of both  doors (10 and 12) is achieved by operating a single solenoid  (63), a selector mechanism (66) being provided to determine  which door is to be opened.  in a preferred embodiment, the  selector mechanism (66) is moved to a first position, in which  the solenoid (63) is operable to open the pre-wash compartment  door (10), in response to the closing of this door (10).   on the opening of this door (10), the selector mechanism (66)  is caused to move to a second position in which the solenoid  (63) is operable to open the wash compartment door (12).  
+</ABSTRACT>
+</TEXT>
+</DOC>

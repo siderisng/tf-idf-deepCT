@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011961
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-17/14 H01L-27/04 H03K-19/018 H01L-21/822 G11C-17/08 G11C-11/414 G11C-11/41 G11C-11/416 H03K-19/082 G11C-17/00 <main>H03K-19/08</main> H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+three-state output circuit.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+fukushima toshitaka<sep>ueno kouji<sep>fukushima, toshitaka<sep>ueno, kouji<sep>fukushima, toshitaka1604-442, shiomidaiisogo-ku yokohama-shi, kanagawa 235jp<sep>ueno, kouji23-10, umegaokamidori-ku yokohama-shi, kanagawa 227jp<sep>fukushima, toshitaka<sep>ueno, kouji<sep>fukushima, toshitaka1604-442, shiomidaiisogo-ku yokohama-shi, kanagawa 235jp<sep>ueno, kouji23-10, umegaokamidori-ku yokohama-shi, kanagawa 227jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a three-state output circuit comprises a phase-splitter  transistor (tr₁), a pull-up transistor (tr₃) and a pull-down transistor  (tr₂) and further comprises a control circuit (21) which  operates to make the transistors active or non-active.  at least  one of the transistors is connected to the control circuit via the  emitter and base of a pnp transistor (tr₁₀, tr₂₀).  the collector  of the pnp transistor is connected to a ground point of the  three-state output circuit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

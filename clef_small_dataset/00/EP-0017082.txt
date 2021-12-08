@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017082
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-35/28 H01L-35/00 H01L-35/30 F25B-21/02 H01L-35/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermoelectric device for heat transfer between a first gaseous fluid and a second fluid.
+</TITLE>
+<APPLICANT>
+europ equip menagerfr<sep>compagnie europeenne pour l'equipement menager "cepem" societe anonyme dite:<sep>compagnie europeenne pour l'equipement menager "cepem" société anonyme dite:12, rue de la baumef-75008 parisfr <sep>
+</APPLICANT>
+<INVENTOR>
+berthet michel fr  <sep>kermarrec jean-claudefr<sep>ravelet robertfr<sep>berthet, michel<sep>kermarrec, jean-claude<sep>ravelet, robert<sep>berthet, michel2, domaine de miremont91190 gif sur yvettefr<sep>kermarrec, jean-claude73 bis rue lavoisier78140 velizy-villacoublayfr<sep>ravelet, robert26 boulevard diderot91120 palaiseaufr<sep>
+</INVENTOR>
+<ABSTRACT>
+A vertical battery (P1) consisting of thermic conductors (42, 16) and thermoelements (20, 22) is electrically powered in series, and the heat is transported horribly between this battery and at least one vertical air duct (28) Arrange alongside, with adequate extensions (42) of the thermal conductors which allow the heat to join the thermal exchange blocks (26) with finished finished in these ducts.Application to domestic heating.
+</ABSTRACT>
+</TEXT>
+</DOC>

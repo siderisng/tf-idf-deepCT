@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016336
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-25/36 <main>H04J-3/07</main> H04J-3/06 H04L-25/02 H04L-7/00 H04L-25/38 H04J-7/00 H04J-3/07 H04L-25/05 H04L-25/49 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital signal transmission system.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp   <sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+takasaki yoshitaka<sep>yoshine hiroki<sep>takasaki, yoshitaka<sep>yoshine, hiroki<sep>takasaki, yoshitaka5-12-12, naka-araitokorozawa-shi saitamajp<sep>yoshine, hiroki2-14-5, tsukushinomachida-shi tokyojp<sep>takasaki, yoshitaka<sep>yoshine, hiroki<sep>takasaki, yoshitaka5-12-12, naka-araitokorozawa-shi saitamajp<sep>yoshine, hiroki2-14-5, tsukushinomachida-shi tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+in a system wherein input digital signals having an arbit­ rary bit rate are converted into digital signals of a bit rate  higher than that of the input digital signals and then transmit­ ted through a signal format converter4; in order to realize the  signal format conversion in real time the signal format con­ verter 4 is constructed of a buffer circuit 6 of small capacity, a  circuit which writes the input signals into the butter circuit 6 at  the bit rate of said input signals and which reads out the  written signals at the bit rate of a transmission line 3, a circuit  which distinguishes the signals to be read as a mark, space  and empty, and an encoding circuit 7 which converts the  mark, space and empty into pulse signals discernible with the  unit being a time slot of the transmission line 3 or integral  times the time slot, in dependence on the levels of pulses or  the numbers of successive pulses (run length).  
+</ABSTRACT>
+</TEXT>
+</DOC>

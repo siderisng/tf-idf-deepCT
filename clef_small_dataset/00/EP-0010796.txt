@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010796
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09F-9/00 G02F-1/1335 G02F-1/13 G02F-1/01 <main>G02F-1/133</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+display device consisting of an electrooptical liquid cell.
+</TITLE>
+<APPLICANT>
+int standard electric corpus<sep>international standard electric corporation<sep>international standard electric corporation320 park avenuenew york new york 10022us<sep>international standard electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+tischer manfred<sep>voigt klaus-peter<sep>tischer, manfred<sep>voigt, klaus-peter<sep>tischer, manfredkiesweg 1d-7441 unterensingende<sep>voigt, klaus-peterkönigsberger strasse 10d-7300 esslingende<sep>tischer, manfred<sep>voigt, klaus-peter  <sep>tischer, manfred kiesweg 1d-7441 unterensingende<sep>voigt, klaus-peterkönigsberger strasse 10d-7300 esslingende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  indicating arrangement consisting of a liquid cell in which the light diffusion of a liquid layer lying between transparent electrodes is switchable by the application of a voltage and in which a light source is provided behind the rear cover plate of the liquid cell and a masking element is provided between the light source and the liquid coll, which masking element, in the direction of observation, prevents the direct passage of light to the observer viewing the liquid cell from the front, characterised in this, that the masking element and the rear cover plate, turned towards the light source (8), of the liquid cell (10) are integrated into a single plate as the rear wall (9). 
+</ABSTRACT>
+</TEXT>
+</DOC>

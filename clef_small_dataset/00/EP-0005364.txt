@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005364
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-39/24 <main>H01L-39/22</main> H01L-39/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+josephson junction devices.
+</TITLE>
+<APPLICANT>
+sperry rand corpus <sep>sperry rand corporation<sep>sperry corporation 1290, avenue of the americas new york, n.y. 10019us<sep>sperry corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+kroger harry<sep>kroger, harry<sep>kroger, harry67 wake robin roadsudbury massachusetts 01776us<sep>kroger, harry<sep>kroger, harry67 wake robin roadsudbury massachusetts 01776us<sep>
+</INVENTOR>
+<ABSTRACT>
+a josephson junction device consists of a barrier layer  (12) between layers (10, 11) of superconductive material.   the minimum size of the device is determined by its inductance  which is inversely related to the circulating supercurrent  density, so that for compactness this current density  requires to be high.  reliability in manufacture requires  that the barrier layer should not be excessively thin and  in order to obtain critical damping, the barrier capacitance  must be kept low, so that the barrier material should not  have a high dielectric constant.  the present invention provides  a josephson junction device with a barrier which can  support large circulating supercurrent densities without  being excessively thin, which can readily be manufactured,  and, if required, readily doped, and which has a relatively  low dielectric constant.  the barrier of a device according to the invention is  of hydrated amorphous semiconductor material, the semiconductor  being silicon, germanium or a silicon germanium  alloy.  the barrier layer may be deposited by sputtering in a  atmosphere containing hydrogen, and it may be doped  with phosphorus, arsenic or antimony in manufacture.  the device may include a control line (18).  
+</ABSTRACT>
+</TEXT>
+</DOC>

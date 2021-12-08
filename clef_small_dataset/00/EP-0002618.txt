@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002618
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+A63F-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for generating at least one moving object across a video display screen where wraparound of the object is avoided.
+</TITLE>
+<APPLICANT>
+atari inc us<sep>atari inc.  <sep>atari inc.1265 borregas avenuesunnyvale, california 94086us<sep>
+</APPLICANT>
+<INVENTOR>
+stubben david robertus<sep>stubben, david robert<sep>stubben, david robert301 merz courtmilpitas california 95053us<sep>
+</INVENTOR>
+<ABSTRACT>
+in a video game where an object, such as a ship, moves  across the screen and where wraparound exists when the  object is displayed near the edge of the screen, binary logic  architecture provides for use of only a single bit of data to  determine which portion of the object is to be displayed.  this  allows a standard bit capacity random access memory and  horizontal address counter to be utilized in the circuit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

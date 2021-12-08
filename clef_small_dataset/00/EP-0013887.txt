@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013887
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B61G-9/22 B61G-11/00 B61G-9/00 B61G-11/18 B61F-1/00 B61F-1/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+element for joining a side buffer to an underframe-headstock.
+</TITLE>
+<APPLICANT>
+ringfeder gmbhde<sep>ringfeder gmbh<sep>ringfeder gmbhduisburger strasse 145d-47829 krefeldde <sep>
+</APPLICANT>
+<INVENTOR>
+coenes ulrichde   <sep>fabel peterde<sep>friedrichs hansde<sep>haarkoetter hermannde<sep>rommerskirchen kurtde<sep>coenes, ulrich<sep>fabel, peter<sep>friedrichs, hans<sep>haarkoetter, hermann<sep>rommerskirchen, kurt<sep>coenes, ulrichkieler strasse 22d-4150 krefeldde<sep>fabel, peterhavelweg 2d-4950 mindende<sep>friedrichs, hansakazienwegd-4952 lerbeckde<sep>haarkötter, hermannphilipp-reis-strasse 24d-4150 krefeldde<sep>rommerskirchen, kurtgarnstrasse 3d-4154 tönisvorst 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+struts (5) for passing on the buffer forces into the underframe of the vehicle are connected to a head stop (1) for side buffers (2), in particular for rail vehicles.  an element (3) for securing the side buffer (2) is inserted into the head stop (1).  the element (3) is designed to receive the forces occurring in travelling operations and has connection pieces (4) for the struts (5) for passing on these forces into the underframe.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

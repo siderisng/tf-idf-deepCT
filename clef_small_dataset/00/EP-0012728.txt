@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012728
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-3/40 G01N-3/02 G01N-3/00 G01N-3/44 G01N-3/42 <main>G01N-3/44</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hardness testing apparatus provided with a safety stop device.
+</TITLE>
+<APPLICANT>
+ernst alfred<sep>ernst, alfred<sep>ernst, alfredvia san martino, 6ch-6943 vezia ticino (ti)ch<sep>ernst, alfred  <sep>
+</APPLICANT>
+<INVENTOR>
+ernst alfred<sep>ernst, alfred<sep>ernst, alfredvia san martino, 6ch-6943 vezia ticino (ti)ch<sep>ernst, alfred<sep>ernst, alfredvia san martino, 6ch-6943 vezia ticino (ti)ch<sep>
+</INVENTOR>
+<ABSTRACT>
+hardness testing apparatus operating under great  applied loads, for example up to kg 3. 000, provided with a  safety stop device preventing the main load application  and/or returns the instrument to a rest position, when the  workpiece to be tested is not exactly disposed under the  reference plane (18) in order not to be touched by the  indentor (17) or when under the instrument an operator's  hand is inserted accidentally.  
+</ABSTRACT>
+</TEXT>
+</DOC>

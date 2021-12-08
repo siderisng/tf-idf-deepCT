@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006958
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/04 H01L-21/822 G11C-5/06 H03K-3/356 G11C-11/418 G11C-11/417 H01L-21/82 H01L-29/66 H01L-29/78 H01L-27/118 G11C-11/412 H01L-21/90 <main>H01L-27/10</main> H03K-3/00 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+complementary mis-semiconductor integrated circuits.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+hoshikawa ryusuke<sep>ichikawa hiroaki<sep>matsumura nobutake <sep>sato syoji<sep>sugiura yoshihide  <sep>hoshikawa, ryusuke<sep>ichikawa, hiroaki<sep>matsumura, nobutake<sep>sato, syoji<sep>sugiura, yoshihide<sep>hoshikawa, ryusuke2130 yamazaki-chomachida-shi, tokyo 194-01jp<sep>ichikawa, hiroaki13-18, wakakusadai, midori-kuyokohama-shi, kanagawa 227jp<sep>matsumura, nobutake2-18, fuka-zawa 2-chomesetagaya-ku, tokyo 158jp<sep>sato, syoji6203, tanasagamihara-shi, kanagawa 229jp<sep>sugiura, yoshihide23-7-1001, nakano 2-chomenakano-ku, tokyo 164jp<sep>hoshikawa, ryusuke<sep>ichikawa, hiroaki <sep>matsumura, nobutake<sep>sato, syoji  <sep>sugiura, yoshihide <sep>hoshikawa, ryusuke2130 yamazaki-chomachida-shi, tokyo 194-01jp<sep>ichikawa, hiroaki13-18, wakakusadai, midori-kuyokohama-shi, kanagawa 227jp<sep>matsumura, nobutake2-18, fuka-zawa 2-chomesetagaya-ku, tokyo 158jp<sep>sato, syoji6203, tanasagamihara-shi, kanagawa 229jp<sep>sugiura, yoshihide23-7-1001, nakano 2-chomenakano-ku, tokyo 164jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor device having a plurality of unit cells,  wherein the unit cells arranged along the row direction of a  semiconductor substrate define unit cell arrays which are  arranged along a columnar direction of the semiconductor  substrate, and include depletion regions formed between  adjacent primitive cell arrays.  the unit cells are each com­ posed of first and second p-channel mis-transistors and first  and second n-channel mis-transistors.  the first p-channel  mis-transistor and first n-channel mls-transistor each have a  gate defining a first single common gate, and the second  p-channel mis-transistor and second n-channel mis-­ transistor each have a gate defining a second single common  gate.  the sources of drains of the first and second p-channel  mis-transistors each form a first single common source or  drain and, on the other hand, the sources or drains of the first  and second n-channel mis-transistors each form a second  single common source or drain.  the first and second single  common gates are each provided at both terminals of the unit  cell arrays with terminal electrodes and are further provided  at the center of the unit cell arrays with central terminal elec­ trodes.  the unit cells include small depletion regions extend­ ing along both sides of the unit cell arrays.  these small deple­ tion regions may be used as regions for wiring along the  columnar direction of the small depletion regions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

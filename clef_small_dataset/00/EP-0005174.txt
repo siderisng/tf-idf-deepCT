@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005174
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07D-285/12 C07D-285/00 <main>C07D-285/12</main> C07F-9/6539 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-methyl-5-(2-hydroxystyryl)-1.3.4-thiadiazole and its preparation.
+</TITLE>
+<APPLICANT>
+basf ag de<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+franke albrecht dr<sep>hagen helmut dr<sep>thieme peter c dr<sep>franke, albrecht, dr.<sep>hagen, helmut, dr.<sep>thieme, peter c., dr.<sep>franke, albrecht, dr.mandelring 11d-6706 wachenheimde<sep>hagen, helmut, dr.max-slevogt-strasse 17 ed-6710 frankenthalde<sep>thieme, peter c., dr.dr.-hans-hoffmann-strasse 5d-6706 wachenheimde<sep>franke, albrecht, dr.<sep>hagen, helmut, dr.  <sep>thieme, peter c., dr. <sep>franke, albrecht, dr.mandelring 11d-6706 wachenheimde<sep>hagen, helmut, dr.max-slevogt-strasse 17 ed-6710 frankenthalde<sep>thieme, peter c., dr.dr.-hans-hoffmann-strasse 5d-6706 wachenheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to the 2-methyl-5- (2-hydroxystyryl) -1,3,4-thiadiazole of the formula and methods for its preparation by condensation of salicylaldehyde with 2.5-dimethyl-1,3,4-thiadiazole or2-methyl-5- (triphenylphosphine-methylene) -1,3,4-thiadiazole.The 2-methyl-5- (2-hydroxystyrylic) -1,3,4-thiadiazole represents a valuable intermediate for the preparation of pharmacologically active compounds, for example, the alkylamino-hydroxypropyl ether can be used as a medicament due to their β-sympatholytic effect as a medicament.Treatment of coronary heart disease, used by cardiac arrhythmias and hypertension.
+</ABSTRACT>
+</TEXT>
+</DOC>

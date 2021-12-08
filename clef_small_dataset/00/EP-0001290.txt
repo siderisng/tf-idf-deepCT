@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001290
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-7/18 <main>C07D-275/06</main> C07D-455/00 C09B-11/00 C07D-417/12 C07D-455/02 C07D-279/00 C07D-275/00 C09B-11/26 C07D-417/10 C07D-417/14 C07F-7/00 C07C-43/225 C09B-11/04 C07D-455/04 G03C-8/48 G03C-8/00 C07D-279/02 C07C-43/00 C07D-275/06 C07D-295/00 C07D-295/073 C07D-309/12 C07D-309/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted 2,3-dihydrobenz-(d)-isothiazole-1,1-dioxides and 2,3-dihydronaphtho-(1,8-de)-1,2-thiazine-1,1-dioxides.
+</TITLE>
+<APPLICANT>
+polaroid corpus<sep>polaroid corporation<sep>polaroid corporation549 technology squarecambridge, massachusetts 02139us<sep>polaroid corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bloom stanley morton<sep>borror alan lawrence<sep>foley james walter<sep>bloom, stanley morton<sep>borror, alan lawrence<sep>foley, james walter<sep>bloom, stanley morton89 gordon roadwaban massachusettsus<sep>borror, alan lawrence18 heritage drivelexington massachusettsus<sep>foley, james walter48 jupiter roadandover massachusettsus<sep>bloom, stanley morton<sep>borror, alan lawrence<sep>foley, james walter<sep>bloom, stanley morton89 gordon roadwaban massachusettsus<sep>borror, alan lawrence18 heritage drivelexington massachusettsus<sep>foley, james walter48 jupiter roadandover massachusettsus<sep>
+</INVENTOR>
+<ABSTRACT>
+compound of formula    wherein ar represents a 4-op substituted phenyl or naphtyl (p  being a protecting group) which may be further substituted,  and ar′ a possibly substituted phenyl or naphtyl rest, r is  hydrogen, an alkali metal or a carbonyl residue, and x represents  the atoms to complete a 2,3-dihydrobenz(d) isothiazole-1,1-dioxide  or a 2,3-dihydronaphto (1,8-d,e) 1,2-thiazine-1,1-dioxide  ring, which are useful intermediates in the synthesis  of certain derivates of formula (i) wherein ar represents a  possibly further substituted 4-oh phenyl or naphtyl rest.  the product produced are useful, for example, as photographic  optical filter agents and filter agent precursors.  
+</ABSTRACT>
+</TEXT>
+</DOC>

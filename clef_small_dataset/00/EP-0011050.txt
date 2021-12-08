@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011050
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-9/18 H03M-11/04 G06F-3/023 <main>H04L-9/02</main> G06F-7/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+enciphering and deciphering apparatus.
+</TITLE>
+<APPLICANT>
+gretag agch <sep>gretag aktiengesellschaft <sep>gretag aktiengesellschaftalthardstrasse 70ch-8105 regensdorfch<sep>gretag aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+widmer walter rudolf<sep>widmer, walter rudolf<sep>widmer, walter rudolflangackerweg 12ch-8155 niederhaslich<sep>widmer, walter rudolf<sep>widmer, walter rudolflangackerweg 12ch-8155 niederhaslich<sep>
+</INVENTOR>
+<ABSTRACT>
+In addition to input keyboard (1), processing and control step (2) and output device (3), a modulo-N counter (4) acting as a random nerator, which is clocked over a 100 kHz clock, and a FIFO memory (5) Seen before.The keyboard causes each time that the current state of the counter is read in the memory.The counter readings form the key signs required for determinating the initial states of a cipher generator (21) contained in the processing and control stage (2) and are automatically discharged from the memory (5) at the beginning of the processing process and transferred to the encoder generator.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002787
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01M-12/00 C25B-11/00 <main>H01M-4/00</main> H01M-4/00 H01M-10/36 H01M-12/08 C25B-11/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+composite halogen electrode, rechargeable metal-halogen energy storage cell comprising said electrode and method of use of the electrode.
+</TITLE>
+<APPLICANT>
+diamond shamrock technch<sep>diamond shamrock technologies s.a.<sep>diamond shamrock technologies s.a.c/o peterhans treuhand ag artherstrasse 12ch-6301 zugch<sep>diamond shamrock technologies s.a. <sep>
+</APPLICANT>
+<INVENTOR>
+de nora vittorio<sep>spaziante placido m dr<sep>de nora, vittorio<sep>spaziante, placido m. dr.<sep>de nora, vittoriosandrigan housenassaubs<sep>spaziante, placido m. dr.panclor s.a. p.o.box 30ch-6809 taverne (lugano)ch<sep>de nora, vittorio <sep>spaziante, placido m. dr.<sep>de nora, vittoriosandrigan housenassaubs<sep>spaziante, placido m. dr.panclor s.a. p.o.box 30ch-6809 taverne (lugano)ch<sep>
+</INVENTOR>
+<ABSTRACT>
+a composite halogen electrode, a rechargeable metal-halogen  energy storage cell comprising said electrode and  a method of use of the electrode.  the composite metal-halogen  electrode for a rechargeable metal-halogen storage  cell comprises a thin foraminous sheet (8), typically a  valve metal with an electroconductive and electrocatalytic  non-passivating coating, in electrical contact over substantially  the entire electrode surface with a porous fluid-permeable  body (10) for example of carbon fibers or sintered  valve metal particles and having throughout its  porous structure an active surface coating of electroconductive  and electrocatalytic nonpassivating material forming  a three-dimensional percolating electrode.  the foraminous  sheet faces an opposing consumable electrode  (15) of a storage cell or battery.  during charging, halogen  evolves essentially at the surface of this sheet and during  discharge halogen contained in an electrolyte is ionized as  it percolates through the porous body.  
+</ABSTRACT>
+</TEXT>
+</DOC>

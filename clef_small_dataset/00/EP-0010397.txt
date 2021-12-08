@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010397
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01S-3/10 H01S-3/106 H01S-3/16 <main>H01S-3/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+broadly tunable chromium-doped beryllium aluminate lasers and operation thereof.
+</TITLE>
+<APPLICANT>
+allied chemus <sep>allied chemical corporation <sep>allied corporation columbia road and park avenue p.o. box 2245r (law dept.)morristown new jersey 07960us<sep>allied corporation<sep>
+</APPLICANT>
+<INVENTOR>
+jenssen hans<sep>morris robert c<sep>peterson otis g<sep>walling john c<sep>jenssen, hans<sep>morris, robert c.<sep>peterson, otis g.<sep>walling, john c.<sep>jenssen, hans153 waverly streetbelmont, massachusetts 02178us<sep>morris, robert c.98 emmans roadledgewood, new jersey 08752us<sep>peterson, otis g.33 forest roaddover, new jersey 07801us<sep>walling, john c.69 morris avenuemorristown, new jersey 07960us<sep>jenssen, hans <sep>morris, robert c.<sep>peterson, otis g.  <sep>walling, john c.<sep>jenssen, hans153 waverly streetbelmont, massachusetts 02178us<sep>morris, robert c.98 emmans roadledgewood, new jersey 08752us<sep>peterson, otis g.33 forest roaddover, new jersey 07801us<sep>walling, john c.69 morris avenuemorristown, new jersey 07960us<sep>
+</INVENTOR>
+<ABSTRACT>
+a high power, broadly wavelength-tunable laser is pro­ vided which comprises as the laser medium particular single  crystals of chromium-doped beryllium aluminate (be  al₂o₄:cr³⁺) having the chrysoberyl structure, means for excit­ ing the laser medium and tuning means.  the laser may be  operated over a broad temperature range from cryogenic  temperatures to elevated temperatures.  elevated tempera­ tures are preferred, however, since they result in higher laser  gain.  emission is in a spectral range from red to infrared, and  the laser is useful in the fields of defense, communications,  isotope separation, photochemistry, etc.  
+</ABSTRACT>
+</TEXT>
+</DOC>

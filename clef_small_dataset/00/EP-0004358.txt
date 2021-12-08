@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004358
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-411/06 C07D-411/14 C07D-405/06 C07D-411/00 A61P-25/00 A61P-25/24 C07D-405/00 <main>C07D-405/14</main> A61K-31/435 A61K-31/495 A61P-25/26 A61K-31/445 C07D-405/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-oxacyclylalkyl piperidines, process for their preparation, pharmaceutical compositions containing these compounds.
+</TITLE>
+<APPLICANT>
+ciba geigy ag ch <sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+huebner charles ferdinand dr<sep>huebner, charles ferdinand, dr.<sep>huebner, charles ferdinand, dr.40 edgewood roadchatham new jerseyus<sep>huebner, charles ferdinand, dr.<sep>huebner, charles ferdinand, dr.40 edgewood roadchatham new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention concerns compounds of the formula i   <image> wherein ph is unsubstituted 1,2-phenylene or 1,2-phenylene substituted by one to three identical or different members selected from lower alkyl, lower alkoxy, lower alkylene-dioxy, halogeno or trifluoromethyl, each of r1 and r2 is hydrogen or lower alkyl, each of r3 and r4 is hydrogen, lower alkyl or (r3 +r4) is ph or lower alkylene separating both nitrogens by 2 to 4 carbon atoms, r5 is hydrogen, lower alkyl or hph, x is oxo, thioxo, imino or lower alkylimino, y is epoxy, epithio or sulfinyl, m is an integerfrom 1 to 7, each of p and q is an integer from 1 to 3, but (p+q)=4, and acid additional salts thereof.  the compounds exhibit stimulant and antidepressive effects.  they are prepared by reduction of corresponding amides. 
+</ABSTRACT>
+</TEXT>
+</DOC>

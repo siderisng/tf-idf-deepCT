@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003528
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05F-1/10 G05F-1/42 H05B-41/39 <main>H05B-41/392</main> H05B-41/392 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic device for controlling the light intensity of a gaseous discharge lamp without a heated cathode.
+</TITLE>
+<APPLICANT>
+elstrom electronicch<sep>elstrom electronic ag<sep>elstrom control system agluchten 82ch-9427 wolfhaldench<sep>elstrom control system ag <sep>
+</APPLICANT>
+<INVENTOR>
+banziger walter<sep>coufal hanspeter<sep>banziger, walter<sep>coufal, hanspeter<sep>bänziger, walterkirschberg 932ch-9427 wolfhaldench<sep>coufal, hanspetersäntisstrasse 2ch-9034 eggersrietch<sep>banziger, walter <sep>coufal, hanspeter<sep>bänziger, walterkirschberg 932ch-9427 wolfhaldench<sep>coufal, hanspetersäntisstrasse 2ch-9034 eggersrietch<sep>
+</INVENTOR>
+<ABSTRACT>
+for controlling the electrical energy supplied with an electric gas discharge lamp (20) without the annealing cathode in response to a control soft voltage (US) there is a circuit arrangement (IC1, R3-R11, C4-C6, D1), with the help of which the timing or angle of the ignition of a Triac (TR1) can be changed within each AC half-wave. In order to prevent that when setting a minimum brightness of the lamp (20), this is unintentionally extended entirely, an additional circuitry (30, 42, R12-R20, C7, D3 T1) is provided by which a given minimum current thickness of the through the lamp ( 20) Flowing current is ensured, regardless of the height of the control level voltage (US). The additional circuit arrangement has a current transformer (30) and a rectifier arrangement (42) for generating a control voltage dependent on the lamp current strength (U.) which controls an electronically variable resistor (T1). The latter affects the voltage decisive for the ignition angle control when the lamp current thickness decreases under the allowed minimum value, so that a further decrease of the current is automatically counteracted. The device is z. b. For the brightness regulation of interior and road and tunnel lighting systems with mercury vapor lamps or sodium vapor high pressure lamps.
+</ABSTRACT>
+</TEXT>
+</DOC>

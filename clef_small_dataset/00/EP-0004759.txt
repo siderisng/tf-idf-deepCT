@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004759
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G10L-11/00 H04B-1/66 <main>G10L-1/08</main> G10L-21/00 G10L-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+methods and apparatus for encoding and constructing signals.
+</TITLE>
+<APPLICANT>
+gosling harold william<sep>king reginald alfred<sep>gosling, harold william<sep>king, reginald alfred<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation<sep>
+</APPLICANT>
+<INVENTOR>
+gosling harold william<sep>king reginald alfred<sep>gosling, harold william<sep>king, reginald alfred<sep>gosling, harold william4 beresford gardens westonbath avongb<sep>king, reginald alfred6 clevedon road tilehurstreading berkshiregb<sep>gosling, harold william<sep>king, reginald alfred<sep>gosling, harold william4 beresford gardens westonbath avongb<sep>king, reginald alfred6 clevedon road tilehurstreading berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+methods and apparatus for encoding electrical signals  for transmission in a narrow frequency band or at a low bit  rate are described together with methods and apparatus for  constructing signals from encoded signals.  a succession of  first signals representing the durations of sub-divisions, for  example, half cycles of the signal to be encoded are  generated as is a succession of second signals representing  the shape of the sub-divisions.  each pair of first and second  signals may then be replaced by one of a limited number of  symbols.  after an operation such as transmission to a  remote location, or removal or addition of symbols, the  symbols are translated back into first and second signals.   whether transmitted or from a store, the first and second  signals are used to construct analogue signals having  sub-divisions of duration derived from the first signals and  shapes derived from the second signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

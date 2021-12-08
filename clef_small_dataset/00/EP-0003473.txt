@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003473
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01G-3/16 G01G-19/18 G01L-1/04 G01G-19/00 G01G-3/00 G01L-1/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mass and force meter.
+</TITLE>
+<APPLICANT>
+wirth gallo & coch<sep>wirth, gallo & co<sep>wirth, gallo &amp; cosonnenbergstrasse 55ch-8032 zürichch<sep>
+</APPLICANT>
+<INVENTOR>
+saner kasparch<sep>saner, kaspar<sep>saner, kasparbuenstrasse 58ch-8600 dübendorfch<sep>
+</INVENTOR>
+<ABSTRACT>
+Mass and force meter with a frame, a load carrier and a two dynamometer, a reference size and a force input having measuring system, in which between the load carrier and the frame a load spring (16) and between the load carrier and the force input of the measuring system a weaker measuring spring (15) are arranged so that these springs are partially or completely replaced in mass meter and, if desired, for linearization of non-linear characteristic curves can also serve a wide range of functions.
+</ABSTRACT>
+</TEXT>
+</DOC>

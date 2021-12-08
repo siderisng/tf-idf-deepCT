@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003373
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09F-9/30 G02F-1/137 G02F-1/1333 G02F-1/13 <main>G02F-1/133</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid crystal display device.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken <sep>
+</APPLICANT>
+<INVENTOR>
+de zwart maarten<sep>heldens johannes leo antonius<sep>de zwart, maarten<sep>heldens, johannes leo antonius marie<sep>de zwart, maartenc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>heldens, johannes leo antonius mariec/o int.octrooibureau b.v. 6, prof.holstlaannl-5600 eindhovennl<sep>de zwart, maarten<sep>heldens, johannes leo antonius marie  <sep>de zwart, maartenc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>heldens, johannes leo antonius mariec/o int.octrooibureau b.v. 6, prof.holstlaannl-5600 eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+in a liquid crystal display device which upon controlling  with direct voltage shows a memory effect which can be  erased by alternating voltage, the written area can expand  beyond the edge of the electrode (5, 6, 7) so that edge zones  can no longer be erased readily.  this disadvantage is  avoided by covering the edges of the electrodes with an  insulating layer (9).  
+</ABSTRACT>
+</TEXT>
+</DOC>

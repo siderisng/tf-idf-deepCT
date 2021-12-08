@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007834
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-227/32 C07C-51/487 C07B-29/00 <main>C07C-99/00</main> C07C-227/00 C07C-51/42 C07C-101/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of optically active alpha-amino acids and their derivatives.
+</TITLE>
+<APPLICANT>
+anvarfr  <sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche <sep>
+</APPLICANT>
+<INVENTOR>
+duhamel lucette<sep>plaquevent jean-christophe<sep>duhamel, lucette<sep>plaquevent, jean-christophe<sep>duhamel, lucette32, rue jacques boutrollef-76130 mont-saint-aignanfr<sep>plaquevent, jean-christopherue paul painleve imm. bourbonnais no 37f-76150 marommefr<sep>duhamel, lucette <sep>plaquevent, jean-christophe  <sep>duhamel, lucette32, rue jacques boutrollef-76130 mont-saint-aignanfr<sep>plaquevent, jean-christopherue paul painleve imm. bourbonnais no 37f-76150 marommefr<sep>
+</INVENTOR>
+<ABSTRACT>
+This process is characterized in that the corresponding optical antipode is used as a starting product, the pure or mixture with said chiral amino acid, which the starting material is subjected to the action of a strong base, and thenWhether it is reacted on the product obtained a sterically cluttered chiral protona agent.Application to the splitting of alpha-amino acids and their derivatives.
+</ABSTRACT>
+</TEXT>
+</DOC>

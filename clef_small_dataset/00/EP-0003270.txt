@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003270
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01L-21/603</main> H01L-21/02 H01L-21/60 H01L-21/603 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of forming leads on a semiconductor device and apparatus designed for carrying out the process.
+</TITLE>
+<APPLICANT>
+thomson csffr <sep>"thomson-csf"- scpi <sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+gailland gilbert<sep>gailland, gilbert<sep>gailland, gilbert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>gailland, gilbert  <sep>gailland, gilbert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method of welding fine wires on connection lugs.The method implements a tube-shaped wire welding and sectioning tool (9) acting by its terminal face (11) containing the welding wire (12), whose external strand (13) must beWelded on the pod (6).To perform a sectioning primer (16) by the internal angle (17) of the tube, a limited crushing H is obtained by contact (40) of a portion of the terminal face with the pod.The magnitude h is determined by choice of an angle P, created between the lug (6) and the terminal face (11) of the tube.Applications are those in the field of microelectronics, and particularly the connection of the integrated circuits on the encapsulation browncases.
+</ABSTRACT>
+</TEXT>
+</DOC>

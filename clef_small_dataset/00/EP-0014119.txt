@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014119
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-3/30 H01L-21/683 H01L-21/68 H01L-21/67 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+positioning of micro components, especially in thin and thick film circuits.
+</TITLE>
+<APPLICANT>
+sercel rech const electfr<sep>societe d'etudes recherches et constructions electroniques sercel<sep>societe d'etudes recherches et constructions electroniques sercelavenue du bel air zone industriellef-44470 carquefoufr<sep>
+</APPLICANT>
+<INVENTOR>
+angelle philippe albertfr<sep>basset raymondfr<sep>bodin jacquesfr<sep>lacorre jean-baptistefr<sep>romeuf jean bernard mariefr<sep>angelle, philippe albert<sep>basset, raymond<sep>bodin, jacques<sep>lacorre, jean-baptiste<sep>romeuf, jean, bernard, marie <sep>angelle, philippe albert le fayautreillieres f-44215 la chapelle/erdrefr<sep>basset, raymond9, rue maurice chevalierf-44 nantesfr<sep>bodin, jacquesle corleveaubasse goulaine 44fr<sep>lacorre, jean-baptistel'ouche-arnaudlaloue haute goulaine 44fr<sep>romeuf, jean, bernard, mariela grassinieref-44 vertoufr<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to the manufacture of electronic circuits using microcomponents.  microcomponent beds are formed using matrices 10 comprising, in the upper portion, a plurality of identical housings 12, and in the lower portion, a plate 15 carrying a digital coding which defines an orientation code for the matrix and a component code.  this type of microcomponent bed can be utilised in various microcomponent manipulating machines, in automatic or semiautomatic mode.  application to the manufacture of thin or thick film circuits.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

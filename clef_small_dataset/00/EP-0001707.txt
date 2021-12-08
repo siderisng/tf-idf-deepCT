@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001707
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/482 G01R-19/03 H01L-21/60 H01L-23/14 H01L-23/495 H01L-23/48 H01L-21/76 H01L-29/06 G01R-19/02 <main>H01L-21/76</main> H01L-27/02 H01L-23/12 H01L-23/498 H01L-21/764 H01L-21/02 H01L-21/762 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a thermally isolated monolithic semiconductor die and a process for producing such a die.
+</TITLE>
+<APPLICANT>
+fluke mfg co johnus<sep>john fluke mfg. co., inc.<sep>john fluke mfg. co., inc.post office box 43210 7001 220th street southwestmountlake terrace washington 98043us<sep>john fluke mfg. co., inc.<sep>
+</APPLICANT>
+<INVENTOR>
+chapel roy w jr<sep>gurol i macit<sep>chapel, roy w., jr.<sep>gurol, i. macit<sep>chapel, roy w., jr.23417 93rd avenue west edmondswashington 98020us<sep>gurol, i. macit13048 42nd n.e.seattle washington 98125us<sep>chapel, roy w., jr.<sep>gurol, i. macit<sep>chapel, roy w., jr.23417 93rd avenue west edmondswashington 98020us<sep>gurol, i. macit13048 42nd n.e.seattle washington 98125us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for producing thermally isolated monolithic  semiconductor dies, the resultant dies and apparatus using  the dies.  the process comprises forming a semiconductor element/circuit  in a semiconductor silicon wafer having a sio₂  protective layer (19).  windows formed in the protective layer  (19) accomodate contacts (21).  support leads comprising an  adhesive material layer (23) and a layer (25) of a structurally  strong metal having a low thermal and high electrical conductivity  are formed along paths extending outwardly from  the windows to the edge of the wafer.  the protective layer (19)  and the silicon wafer material are then removed from between  the support leads in a region formed around islands (15)  and (17) within a surrounding frame (13).  such a semiconductor die is useful as the duel rms sensor  element of an rms convertor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

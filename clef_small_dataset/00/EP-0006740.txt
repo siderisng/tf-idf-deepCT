@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006740
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-17/00 H01L-29/84 G01L-1/20 G01L-1/22 G01B-7/16 G01R-17/16 H01L-29/66 G01L-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in strain gauges.
+</TITLE>
+<APPLICANT>
+gould incus<sep>gould inc.<sep>gould inc.10 gould centerrolling meadows, il 60008us<sep>
+</APPLICANT>
+<INVENTOR>
+busta heinz hus<sep>busta, heinz h.<sep>busta, heinz h.223 n. home streetpark ridge, illinois 60068us<sep>
+</INVENTOR>
+<ABSTRACT>
+a strain gauge element (10) having an elastic beam  (11) with field effect transistors (13, 14, 15, 16) deposited  on one surface arranged in a wheatstone bridge so that  deformation of the beam (11) produces a proportional  imbalance signal across the bridge, and means for apply­ ing a gate biasing voltage (vg) to the transistors with at  least one such voltage being adjustable so that the bridge  can be electrically balanced for a null or no load condition.  
+</ABSTRACT>
+</TEXT>
+</DOC>

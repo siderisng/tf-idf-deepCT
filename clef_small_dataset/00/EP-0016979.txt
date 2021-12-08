@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016979
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-9/02 H03H-9/25 H03H-9/42 H03H-9/00 H03H-9/64 H03H-3/00 H03H-3/08 <main>H03H-9/64</main> H03H-9/145 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+acoustic wave filter.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+bulst wolf-eckhart dipl-phys<sep>eschler hans dr<sep>bulst, wolf-eckhart, dipl.-phys.<sep>eschler, hans, dr.<sep>bulst, wolf-eckhart, dipl.-phys.arnikastrasse 2d-8011 vaterstettende<sep>eschler, hans, dr.auguste-viktoria-strasse 110d-1000 berlin 33de<sep>bulst, wolf-eckhart, dipl.-phys. <sep>eschler, hans, dr.<sep>bulst, wolf-eckhart, dipl.-phys.arnikastrasse 2d-8011 vaterstettende<sep>eschler, hans, dr.auguste-viktoria-strasse 110d-1000 berlin 33de<sep>
+</INVENTOR>
+<ABSTRACT>
+Surface wave filter (II), if applicable, resonator (40), with one and an output transducer structure (12, 13; 42, 43), as a resonator (40) having a shaft reflector pair (41, 141), wherein the a transducer structure (12;42, 43) wide bandy relative to the other transducer structure (13) and the reflector pair (41, 141), and wherein the broadband convertible structure (12; 42, 43) has a center frequency shifted by a measure Δf of the manner (F₁)that the zero len (FR₁ or FR₂) of interdigital reflections in the filter with the center frequency (F₂ and F₂ 1) of the narrow-band transducer structure (13; 41, 141) coincide.
+</ABSTRACT>
+</TEXT>
+</DOC>

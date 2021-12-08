@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007286
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B29F-3/01</main> B29C-49/00 B29C-47/38 B29C-47/92 B29C-47/10 B29C-47/22 B29C-55/28 B29D-7/24 B29C-47/60 B29C-47/76 B29B-7/00 B29C-47/58 B29C-47/20 B29C-55/00 B29C-47/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for the continuous extrusion and blowing of thin films of plastics material, in particular rigid pvc.
+</TITLE>
+<APPLICANT>
+pwt plastic world techli<sep>p.w.t. plastic world technology limited<sep>p.w.t. plastic world technology limited9495 triesenli<sep>p.w.t. plastic world technology limited<sep>
+</APPLICANT>
+<INVENTOR>
+tramezzani giancarlo<sep>tramezzani, giancarlo<sep>tramezzani, giancarlovia luganoch-6988 ponte tresach<sep>tramezzani, giancarlo<sep>tramezzani, giancarlovia luganoch-6988 ponte tresach<sep>
+</INVENTOR>
+<ABSTRACT>
+the heating of the powder of rigid polyvinyl chloride in an  extrusion machine of known type presents difficulties and  causes burning.  according to the invention this is avoided by  introducing continuously the raw material in the form of pow­ der after intense mixing with stabilizer and slides in the feed  opening of a monoscrew extruder.  the said monoscrew  extruder has eight different zones: an introduction zone pref­ erably without heating; a slightly heated compression zone; a  heated homogenization zone (h), a plasticizing zone; a heated  decompression zone (d); a heated degasifying zone (g); a  heated compression zone (k₂) and a heated expulsion zone.  for the plasticizing there is inserted in the extrusion screw  before the decompression zone (d) a ring (3) provided with  calibrated bores (4 and 5) which obstruct, that is, delay the  flow so as to plasticize it without having to increase the temp­ erature.  
+</ABSTRACT>
+</TEXT>
+</DOC>

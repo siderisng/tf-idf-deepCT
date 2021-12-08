@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005155
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+F23D-14/48 F23D-14/00 F23D-14/38 F23D-14/54 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+burner for heat applying machine
+</TITLE>
+<APPLICANT>
+messer griesheim gmbhde   <sep>messer griesheim gmbh<sep>messer griesheim gmbhhanauer landstrasse 330d-60314 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+hajok dieterde<sep>roeder georgde<sep>sachs helmutde<sep>hajok, dieter<sep>roeder, georg<sep>sachs, helmut<sep>hajok, dieternieder strasse 2d-6234 hattersheimde<sep>roeder, georgam hennsee 10d-6000 frankfurt/main 61de<sep>sachs, helmutgerh. hauptmann ring 202d-6000 frankfurt/main 50de<sep>
+</INVENTOR>
+<ABSTRACT>
+The attachment of nozzles (wearing part) at the burner body of a machine burner is previously done by means of union nuts, which are also very large according to the nozzle size and must be tightened with keys of large width.This is often problematic for constructive reasons, especially for multi-burner aggregates, which are associated with several nozzles in the narrowest space, often problematic.The invention is therefore based on the object to provide a simpler nozzle attachment and proposes to attach the nozzle to the burner body by means of a special locking socket.In this way, a simple nozzle attachment in the burner body is obtained, while at the same time a gas-tight arrangement of the nozzle in the burner body is guaranteed.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008791
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-39/64 H02K-31/04 H02K-31/00 <main>H02K-31/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvement in homopolar machines with a cylindrical air gap.
+</TITLE>
+<APPLICANT>
+anvarfr<sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche<sep>
+</APPLICANT>
+<INVENTOR>
+chabrerie jean-pierre<sep>chabrerie, jean-pierre<sep>chabrerie, jean-pierre140, allée de la pointe genetef-91190 gif chevryfr<sep>chabrerie, jean-pierre  <sep>chabrerie, jean-pierre140, allée de la pointe genetef-91190 gif chevryfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention consists essentially of concentrating the totality of induced currents in a non-magnetic conductive circuit (15-11-9-10-9-11-15) and carefully isolated from the magnetic circuit (1, 3, 4)From the machine, this circuit, which includes the contact crowns (9) and the outer connections (15), extending otherwise on both sides of the cylindrical gap opposite without stirring magnetic mass between its various parts.The invention further consists in giving the rotor and the stator a morphology allowing, by the use of liquid metals, to operate in "filled total sage" at start and in "LIQUID LIQUID RINGS" at high speed rotation.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011232
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-15/00 G11B-15/18 G11B-23/07 G11B-15/70 G11B-23/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+recording-reproduction apparatus for an endless tape.
+</TITLE>
+<APPLICANT>
+tokyo shibaura electric cojp<sep>kabushiki kaisha toshiba<sep>kabushiki kaisha toshiba72, horikawa-cho, saiwai-kukawasaki-shi, kanagawa-ken 210jp <sep>
+</APPLICANT>
+<INVENTOR>
+izawa fumio jp  <sep>yamashita hiroshijp<sep>yanagida seiichijp<sep>izawa, fumio<sep>yamashita, hiroshi<sep>yanagida, seiichi<sep>izawa, fumio256-6, sanmai-chokanagawa-ku, yokohama-shijp<sep>yamashita, hiroshi2-8-2, shiomidaiisogo-ku, yokohama-shijp<sep>yanagida, seiichi32-6, nakazatohiratsuka-shi, kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a recording-reproduction apparatus for an endless tape  (18) which comprises a hollow fixed reel (23), the outer wall  of which is wound with an endless tape (18) which is con­ ducted from the innermost portion and wound onto the out­ ermost side a magnetic head (16) for scanning the thus  guided, a pinch roller (14) and capstan (13) which are driven  with the tape held therebetween, a swingable arm (15) which  releases the pinch roller (14) from the capstan (13) before its  rotation is brought to an end, thereby causing the tape to be  slackened down-stream of the capstan, and a guide pin (31)  for pulling the slackened portion of the tape to release the  tape portion from the magnetic head (16), capstan (13) and  pinch roller (14).  
+</ABSTRACT>
+</TEXT>
+</DOC>

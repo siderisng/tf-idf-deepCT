@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004983
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28F-1/06 F28F-1/42 F28F-1/08 <main>F28F-1/08</main> F28F-1/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas-cooler with lead tubes finned on the inside.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde<sep>metallgesellschaft ag<sep>metallgesellschaft agpostfach 10 15 01, reuterweg 14d-60015 frankfurtde<sep>metallgesellschaft ag<sep>
+</APPLICANT>
+<INVENTOR>
+drefahl klaus<sep>gilles helmut<sep>drefahl, klaus<sep>gilles, helmut<sep>drefahl, klauskennedystrasse 72d-6450 hanaude<sep>gilles, helmutnordring 8d-6000 frankfurt am main 60de<sep>drefahl, klaus  <sep>gilles, helmut <sep>drefahl, klauskennedystrasse 72d-6450 hanaude<sep>gilles, helmutnordring 8d-6000 frankfurt am main 60de<sep>
+</INVENTOR>
+<ABSTRACT>
+For cooling in particular SO₂-containing gases, heat exchangers are used, which consist essentially of a bundle parallel arranged, end-mounted on pipe floors, externally cooled lead pipes with internal longitudinal ribs.To improve the stability and life of the extruded lead pipes (1), these are subjected perpendicular to their longitudinal axis of a partial reforming, which may consist of dome-shaped depressions (2) or annular constrictions.
+</ABSTRACT>
+</TEXT>
+</DOC>

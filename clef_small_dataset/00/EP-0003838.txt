@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003838
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-3/42 H02K-39/00 G01P-3/488 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+inductive pulse generator.
+</TITLE>
+<APPLICANT>
+beru werk ruprecht gmbh co ade<sep>beru-werk albert ruprecht gmbh & co kg<sep>beru-werk albert ruprecht gmbh &amp; co kgwernerstrasse 35d-7140 ludwigsburgde<sep>
+</APPLICANT>
+<INVENTOR>
+blessing hansde<sep>blessing, hans<sep>blessing, hansmax-planck-strasse 19d-7080 aalen-unterkochende<sep>
+</INVENTOR>
+<ABSTRACT>
+an inductive pulse generator (10) is proposed which is capable of supplying high voltage pulses by reducing the scattering of the magnetic field.  the pulse generator consists essentially of an induction coil (18) with a ferrite core (22), a terminal unit (14) and a mounting plate (16).  according to the invention, the mounting plate (16) has a centre web in the immediate vicinity of which the ferrite core (22) is arranged.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

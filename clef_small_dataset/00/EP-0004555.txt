@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004555
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/039 H01L-21/027 G03C-5/08 G03C-1/72 C08F-220/10 C08F-220/00 H01L-21/02 G03F-7/20 C08F-220/04 G03F-7/004 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electron sensitive resin containing a metallic methacrylate salt and its application in electron-beam lithography
+</TITLE>
+<APPLICANT>
+ibmus  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+hatzakis michaelus<sep>webb david johnus<sep>hatzakis, michael<sep>webb, david john<sep>hatzakis, michael21 collyer driveossining new york 10562us<sep>webb, david john7 parkway roadbriarcliff manor new york 10510us<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a non-crosslinked polymer-sensitive resin which comprises: (a) polymerized units of alkyl methacrylate in which the alkyl group contains from 1 to 4 carbon atoms and b) polymerized units of A salt of methacrylic acid and a metal, the latter being selected from the group consisting of barium, calcium, strontium, and lead, the amount of type A units) is between 50% and 99, 99% mole and the amount of type B units) is between 50% and 0.01% mole from the total number of mole, while the metal constitutes 0.001% to 10% by weight of the polymer. The preferred metal is lead. This resin finds application in the lithographic steps of the manufacture of the semiconductor integrated circuits, because in particular a solubility ratio S / NO (between the exposed and not exposed parts) higher than the conventional polymethacrylate type resins of Methyl (PMMA), for a given exposure.
+</ABSTRACT>
+</TEXT>
+</DOC>

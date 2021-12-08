@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016838
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60C-11/01 B60C-11/03 B60C-3/00 B60C-11/04 <main>B60C-11/06</main> B60C-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+anti-irregular wearing radial-ply tire.
+</TITLE>
+<APPLICANT>
+toyo tire & rubber co jp<sep>toyo rubber industry co., ltd.<sep>toyo tire &amp; rubber co., ltd .17-18, edobori 1-chomenishi-ku, osaka-shi, osaka-fujp<sep>toyo rubber industry co., ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+uemura yukihisa<sep>uemura, yukihisa<sep>uemura, yukihisa5-8 kudo 1-chome, ojichokitakatsuragi-gun, nara 636jp<sep>uemura, yukihisa<sep>uemura, yukihisa5-8 kudo 1-chome, ojichokitakatsuragi-gun, nara 636jp<sep>
+</INVENTOR>
+<ABSTRACT>
+to improve wear resistance of shoulder portions of a radi­ al-ply tire, the tire comprises a treat portion (5) provided with  central areas (7) (7) which each have circumferentially-ex­ tended, continuous grooves (9).  the central areas each have a  width (w) which is extended from the tire center line (i) across a  distance w defined by the following formula:   w = w/2 - 0. 365 h   (where w and h are width and height, respectively, of the tire  under its nominal inflation pressure).  
+</ABSTRACT>
+<DESCRIPTION>
+specification lmprovement in irregular wear resistance of radial ply tire technical field this invention relates to improvement in irregular wear resistance of radial ply tire, and more particularly to the provision of a radial ply tire capable of increasing the length of wear life by the alleviation in irregular wear or excessive wear liable to occur in the shoulder portions. background art in general, radial ply tires have many advantages over bias ply tires, for example,. better wear resis- tance, lower rolling resistance, lower heat build-up; better' durability, better cornering property, etc. on the other hand, however, it is also wellknown that radial ply tires, when used as a steering wheel, are accelerated to wear off in the shoulder portions and are likely to eventually cause irregular wear or excessive wear, because the radial ply tires mounted as steering wheels will run in a state that the distribution of load over the tread portion varies owing to the front wheel alignment they are set and with the change in tire posture occurring upon steering, and the magnitude of slipping varies locally over the tread portion. the irregular wear or excessive wear indispensably shortens the wear life of the tire, and the tread portion thus assuming uneven wearing state will disadvantageously cause vibration and slippage of the tire in order to eliminate the drawbacks inherent in prior art radial ply tires, the present invention is contemplated providing a novel radial ply tire in which a contrivance for diminishing the irregular wear which has hitherto remained to be solved may be readily applied merely by a slight modification to the productionline being currently practiced. the invention has been accomplished based on the investigation into a correlationship between the contoured profile and tread pattern of the tire under inflation condition of a prescribed pressure and the occurrence of irregular wear. thus, there is provided a radial ply tire capable of greatly improving on irregular wear by a specified configuration of grooves formed on a specified zone of the tread portion. disclosure of invention the radial ply tire of the invention has a tread portion comprising central zones which extend, on both sides of the mid-circumferential line of the tire, each in the range of up to a straight distance (w) of w = w/2 - 0.365 h (wherein w and h are a section width and a section height, respectively, of the tire when inflated to a prescribed air pressure) from said line, and are formed with continuous circumferential grooves, brief description of the drawings fig. 1 is a cross-sectional view of a conventional radial ply tire when inflated to a prescribed air pressure; fig. 2 is a graph showing the variation in magnitude of slipping of a conventional radial ply tire; fig. 3 is an enlarged view of the essential part of the tire as disclosed in fig. 1; ; fig. 4 is a cross-sectional view of a radial ply tire according to this invention when inflated to a prescribed air pressure;
+</DESCRIPTION>
+<CLAIMS>
+ claims    1. a radial ply tire improved in irregular wear resistance wherein a tread portion (5) comprises central zones (7)(7) which extend on both sides of the mid-circumferential line   (z)    of the tire each in the range of up to a straight distance (w) from said line which distance is represented by the equation:  w = w/2 - 0.365 h (wherein w and h are a section width and a section height outward of a rim flange, respectively of the tire when inflated to a prescribed air pressure), and are formed with continuous circumferential grooves   (9).       2. a radial ply tire as claimed in claim 1, wherein near-shoulder zones (8) extending laterally adjoining to said central zones (7) are formed with discontinuous grooves or sipes.  
+</CLAIMS>
+</TEXT>
+</DOC>

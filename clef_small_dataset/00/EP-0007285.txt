@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007285
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-39/11</main> C07F-5/04 C07F-5/00 C07C-37/00 C07C-67/00 C07C-37/20 C07C-37/01 C07C-39/00 C07C-39/11 C07C-37/055 C07C-27/00 C07C-37/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of orthohydroxy benzylic alcohols.
+</TITLE>
+<APPLICANT>
+rhone poulenc indfr<sep>rhone-poulenc industries<sep>rhone-poulenc specialites chimiques"les miroirs" 18, avenue d'alsace92400 courbevoiefr<sep>rhone-poulenc specialites chimiques <sep>
+</APPLICANT>
+<INVENTOR>
+le ludec joel<sep>le ludec, joel<sep>le ludec, joel11, rue de boyerf-69005 lyonfr<sep>le ludec, joel<sep>le ludec, joel11, rue de boyerf-69005 lyonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of orthohydroxybenzyl alcohols (eg saligenol) by reaction at a temperature of 20 to 120 ° C of boric acid esters with a small equimolar amount of formaldehyde or a body thatgenerates and decomposing borical esters of benzyl orthohydroxyl alcohols;Boric esters are obtained by reaction of 1.1 to 3 moles of a phenol with a mole of boric acid.Use of the same solvent (aromatic hydrocarbon) in esterification and condensation.Excess phenols are separated from the condensation product by treatment with an alkaline base.
+</ABSTRACT>
+</TEXT>
+</DOC>

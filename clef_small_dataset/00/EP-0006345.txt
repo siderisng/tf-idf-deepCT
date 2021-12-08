@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006345
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-14/00 C08F-2/18 C08F-14/26 C08F-2/12 C08F-2/00 <main>C08F-14/26</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+the use of an aliphatic, substantially non-telogenic carboxylic acid during suspension polymerization of tetrafluoroethylene.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market street; wilmington delaware 19898<sep>
+</APPLICANT>
+<INVENTOR>
+gangal subhash vishnu<sep>gangal, subhash vishnu<sep>gangal, subhash vishnu2805, 26th. streetparkersburg w. virginia 26101us<sep>gangal, subhash vishnu<sep>gangal, subhash vishnu2805, 26th. street; parkersburg w. virginia 26101<sep>gangal, subhash vishnu2805, 26th. streetparkersburg w. virginia 26101us<sep>
+</INVENTOR>
+<ABSTRACT>
+the presence of an aliphatic, substantially non-telo­ genic carboxylic acid having a -logk between 1. 5 and 10  in the aqueous polymerization mixture during the sus­ pension polymerization of tetrafluoroethylene in the pre­ sence of an ionic initiator has been found to reduce the  formation of adhesions between polymer particles during  the polymerization.  
+</ABSTRACT>
+<DESCRIPTION>
+this invention relates to an improvement in the suspension polymerization of tetrafluoroethylene. the homopolymerization of tetrafluoroethylene and the copolymerization of tetrafluoroethylene and ethylenically unsaturated comonomers in aqueous medium can be carried out by two distinctly different procedures. in one procedure, called suspension polymerization, little or no dispersing agent is employed and agitation is carried out vigorously in order to produce a precipitated resin, commonly referred to as "granular" resin. in the other procedure, sufficient dispersing agent is employed and agitation is mild in order to produce small colloidal size particles dispersed in the aqueous reaction medium. in this second procedure, called aqueous dispersion polymerization, precipitation (i.e., coagulation) of the resin particles is avoided. the two procedures produce distinctly different products. the granular product can be molded in various forms, whereas the resin produced by the aqueous dispersion method cannot be molded but is fabricated by dispersion coating or by converting to powder for paste extrusion with a lubricating medium. in contrast, the granular resin is incapable of being paste extruded or dispersion coated. a disadvantage which sometimes occurs during aqueous suspension polymerization is the formation of adhesions, i.e. unwieldy large clumps of resin particles, which form in the polymerization equipment, especially along the walls of the reactor, and may clog the equipment as well as reduce the yield of polymer produced. this formation is particularly evident when ionic radical polymerization initiators are employed. methods developed in the art to reduce the amount of adhesions formed have heretofore been directed to making the walls of the reaction vessel slick or smooth to make it difficult for the adhesions to build up. us-a-3032 543 has disclosed the preparation of tetrafluoroethylene polymers by polymerization in the presence of an initiator in the aqueous medium containing at least 10% by weight of formic acid, acetic acid or an inorganic acid liquid at the polymerization temperature of -40 to +30°c. the acid is said to make possible the formation of high molecular weight polymers without the need for rigid purification requirements. in accordance with this invention, formation of adhesions is reduced by carrying out the polymerization at a temperature of between 50°c and 100°c and at a pressure of between 10 × 10⁵ and 50 × 10⁵ pa in an aqueous medium containing an aliphatic, substantially non-telogenic carboxylic acid of 1 to 6 carbon atoms and having a -logk between 1.5 and 10.0 in an amount between 25 and 2500 ppm, based on the weight of water present. the polymerization of tetrafluoroethylene, alone or with other polymerizable ethylenically unsaturated comonomers, in aqueous medium to produce granular tetrafluoroethylene polymer is well known in the art. tetrafluoroethylene monomer, along with ethylenically unsaturated comonomer if desired, is typically mixed or contacted with an aqueous medium containing a polymerization initiator. ordinarily, the monomer (or monomers) is introduced into the medium under pressure. typical conditions include polymerization temperatures of 50-100°c; preferably 60-90°c; and pressures of 10-50 × 10⁵ pa. the polymerization is ordinarily carried out in a vigorously stirred autoclave.
+</DESCRIPTION>
+<CLAIMS>
+1. the use of an aliphatic, substantially non-telogenic  carboxylic acid of 1 to 6 carbon atoms and having  a -logk between 1.5 and 10 to reduce the formation of  adhesions which would otherwise form in a polymerizer  equipped with a rotating internal agitator providing  vigorous agitation during the suspension polymerization of  tetrafluoroethylene to provide a precipitated  tetrafluoroethylene polymer, the suspension polymerization  being carried out in the presence of an ionic radical  initiator in an aqueous medium containing between 25 and  2500 ppm of said non-telogenic carboxylic acid based on  water present, and at a temperature of between 50°c and  100°c and at a pressure of between 10 × 10⁵ and 50 × 10⁵ pa. 2. use according to claim 1, wherein at least one  copolymerizable, ethylenically unsaturated comonomer is  present in the aqueous medium during the polymerization. 3. use according to claim 1, wherein  tetrafluoroethylene is the sole polymerizable monomer  present during the polymerization. 4. use according to claim 1, 2 or 3, wherein the  carboxylic acid is an aliphatic carboxylic acid containing  up to three carboxyl groups and which may be substituted  with hydroxyl. 5. use according to claim 4, wherein the carboxylic  acid is citric acid or succinic acid. 6. use according to any one of claims 1 to 5, wherein  the carboxylic acid has a -logk of between 2 and 5 and the  initiator is a persulfate. 
+</CLAIMS>
+</TEXT>
+</DOC>

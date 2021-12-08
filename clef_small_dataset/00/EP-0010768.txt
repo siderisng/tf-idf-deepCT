@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010768
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01L-1/245 F16H-53/06 F01L-1/20 F01L-1/24 <main>F15B-21/00</main> F01L-1/25 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulic backlash adjuster.
+</TITLE>
+<APPLICANT>
+kellermann fa rudolfde<sep>kamax-werke± rudolf±kellermann gmbh & co. kg<sep>kamax-werke rudolf kellermann gmbh &amp; co. kgpetershütter allee 29d-37520 osterodede<sep>kamax-werke  rudolf kellermann gmbh & co. kg<sep>
+</APPLICANT>
+<INVENTOR>
+hetterscheidt gunter<sep>michel diethard ing grad<sep>turlach gerhard ing grad<sep>hetterscheidt, gunter<sep>michel, diethard, ing. grad<sep>turlach, gerhard, ing. grad<sep>hetterscheidt, güntervor dem berge 12d-3360 osterode 22de<sep>michel, diethard, ing. gradam oberen vogelherd 81d-3360 osterodede<sep>turlach, gerhard, ing. gradam butterberg 24d-3360 osterodede<sep>hetterscheidt, gunter<sep>michel, diethard, ing. grad<sep>turlach, gerhard, ing. grad <sep>hetterscheidt, günter vor dem berge 12 d-3360 osterode 22de<sep>michel, diethard, ing. gradam oberen vogelherd 81d-3360 osterodede<sep>turlach, gerhard, ing. gradam butterberg 24d-3360 osterodede<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  hydraulic play-compensating element with a piston displaceably guided in a cylinder and a working chamber formed between piston and cylinder and a reservoir chamber which is arranged in the piston and/or cylinder, is closed off outwardly to the pressure-tight, is partially filled by an air cushion and partly by hydraulic fluid and in which an element hindering the foaming of air in hydraulic fluid is provided wherein the reservoir chamber stands in communication with the working chamber through a channel displaying a non-return valve and the working chamber is connected through a throttle gap, characterised thereby, that the element hindering the foaming is a filling of filler bodies (22; 23), which receive the air cushion (13) finely distributed between them. 
+</ABSTRACT>
+</TEXT>
+</DOC>

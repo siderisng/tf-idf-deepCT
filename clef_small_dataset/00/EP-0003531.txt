@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003531
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/34 C10K-1/00 B01D-53/48 C01B-17/04 <main>C01B-17/04</main> C10K-1/06 C10K-1/12 C01B-17/00 B01D-53/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for treating residual gases produced by burning hydrogen sulfide to elementary sulfur according to the claus process.
+</TITLE>
+<APPLICANT>
+krupp koppers gmbhde<sep>krupp-koppers gmbh<sep>krupp koppers gmbhaltendorfer strasse 120d-45143 essende<sep>krupp-koppers gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+nolden kurt<sep>nolden, kurt<sep>nolden, kurtburggrafenstrasse 46d-4300 essen 1de<sep>nolden, kurt<sep>nolden, kurtburggrafenstrasse 46d-4300 essen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for treating residual gases which are produced when hydrogen sulfide is incinerated to elementary sulfur by the claus process, wherein said gases are washed with an aqueous ammoniacal solution which is separated from the coke oven gas, whereupon the residual gases are added to the raw coke oven gas prior to the tar separation and conducted, along with the raw coke oven gas, through the coke oven gas purification process equipment, characterized in that a part of the condensate (flushing liquor) which flows back from the flushing liquor separator to the gas collecting main of the coke oven battery, is used as washing liquor for the residual gases, wherein the residual gases and the washing liquor are added together to the raw coke oven gases, and the residual gases are supplied to the gas scrubber in a heated pipeline to the gas scrubber in a heated pipeline in which the temperature of the gas is maintained above the melting point of sulfur. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009599
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-23/00 H03F-3/72 H03G-3/34 G11B-5/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for reducing the noise in the read-signal of a magnetic layer memory.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+haarpaintner antonde<sep>haarpaintner, anton<sep>haarpaintner, antonglonnerstrasse 6d-8011 grosshelfendorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+the input stage of the read amplifier (4) comprises field effect transistors (12, 13), the gate electrodes (14, 15) of which are directly connected to the write/read lines (2) for the magnetic heads (1) and the source electrodes (16, 17) of which are driven by high voltages.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+schaltungsanordnung z1j:1. verringern des rauschens im lesesigbak von magnetschichtspeichern die erfindung bezieht sich auf eine schaltungsanordnung zum verringern des rauschens im lesesignal von magnetschichtspeichern mit mindestens einem übertragerkopf, der sowohl zum schreiben als auch zum lesen von iniorma- tionen vorgesehen und hierzu über schreib-/lese-leitun- gen sowohl an eine schreib stromquelle als auch an einen leseverstärker angeschlossen ist. es ist bekannt, zum schreiben und lesen von informatio- nen auf magnetisierbaren aufzeichnungsflächen, wie z.3. magnetbändern oder magnetplatten, jeweils einen getrennten schreib- bzw. lesekopf zu verwende ie zugehörigen schreib- und leseverstärker lassen sich dabei vollkommen getrennt voneinander aufbauen und schalten. dies hat zwar den vorteil einer vollkommen entkoppeltan schaltung, weist aber den nachteil auf, dass stets zwei magnetköpfe in bezug auf die ihr zugeordnete- aufzeichnungsspur ein- gestellt werden müssen. es sind deshalb, insbesondere in verbindung mit magnet- trommel- und magnetplattens ei chern, schaltungsanordnun- gen bekannt geworden, die es ermöglichen, ein sind denselben magnetkopf sowohl zum schreiben als allch man essen der information zu verwenden. bei solchen schaltungs an- ordnungen ergibt sich aber zwangsläuflg ia gewisse verkopplung von schreib- und leseverstärker. da beim schreiben an der wicklung des magnetkopies spannungssit- zen von mehreren volt auftreten. können, andererseits aber die lesespannungen in den meisten fällen nur werte von mehreren millivolt erreichen, liegen die von der schaltungsanordnung zu verarbeitenden signale um grössen- ordnungen auseinander. bei einer verkopplung von schreibund leseverstärkern besteht deshalb die gefahr, dass der leseverstärker von den hohen, beim schreiben auftreten- den spsnnungspitzeu übersteuert wird und anschliessend eine längere zeit benötigt, bis er zum verstärken der sehr viel geringeren lesespannungen wieder betriebsbereit ist. auch eine zerstörung des leseverstärkers ist möglich. um einerseits den leseverstärker gegen diese beim schrei- ben auftretenden hohen spannungsspitzen zu blockieren, andererseits aber die im verhältnis zu den schreibspan- nungen niedrigen lesespannungen während des lesens praktisch ungeschwächt durchzulassen, dienen in der regel diodenschaltungen aus zwei gegenseitig in reihe geschalteten dioden vor jeder eingangsklemme des leseverstär- kers. diese dioden erfüllen die an sie gestellten forderungen nach entkopplung von schreib- und leseverstärker an sich recht gut. sie weisen aber noch den nachteil auf, einen nicht zu vernachlässigenden anteil zum gesamtrauschen im lesesignal des leseverstärkers beizutragen. der erfindung liegt daher die aufgabe zugrunde, eine schaltungsanordnung der eingangs genannten art zu schaz- fen, die ohne solche entkopplungsdioden auskommt und somit eine erniedrigung des rauschens im lesesignal' be- wirkt. man könnte an sich daran denken, die entkopplungs dioden im eingang des leseverstärkers einfach wegzulassen und stattdessen die basis-emitterstrecken der eingangstransistoren des leseverstärkers durch anlegen entsprechend hoher spannungen jeweils zu sperren. diese lösung scheitert aber daran, dass transistoren, die derart hohe sperrspannungen vertragen, in der regel nicht rauscharm sind, bzw. die rauscharmen transistoren keine genügend hohe sperrspannungen aufweisen. erfindungsgemäss wird deshalb die aufgabe dadurch gelöst, dass als eingangstufe des leseverstärkers feldeffekttransistoren vorgesehen sind, dass die gate-elektroden der feldeffekttransistoren unmittelbar mit der schreib-/lese-leitung verbunden sind und dass die feldeffekttransistoren durch hohe spannungen an den sourceelektroden gesteuert werden. mit einer solchen schaltungsanordnung lässt sich das rauschen im lesesignal um all äene anteile verringern, die von den bisher üblichen entkotplungsdioden
+</DESCRIPTION>
+<CLAIMS>
+   patentanstruch    schaltungsanordnung zum erniedrigen des rauschens im le   sesignal    von magnetschicht- insbesondere magnetplatten   peichern    mit mindestens einem übertragerkopf, der sowohl zum schreiben als auch zum lesen von informationen vorgesehen und hierzu über gemeinsame schreib-/lese-leitungen sowohl an eine schreibstromquelle als auch an einen leseverstärker angeschlossen ist, d a d   u r    c h g e k e n n z e i c h n e t , dass als eingangsstufe des leseverstärkers (4) feldeffekttransistoren (12, 13) vorgesehen sind, dass die gate-elektroden (14,   15) der   feld-      effekttransistoren    unmittelbar mit den schreib-/lese leitungen (2) verbunden sind und dass die feldeffekttransistoren durch hohe spannungen   (ust)    an den source elektroden (16, 17) gesteuert werden.  
+</CLAIMS>
+</TEXT>
+</DOC>

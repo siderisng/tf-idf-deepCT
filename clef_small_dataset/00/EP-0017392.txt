@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017392
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-48/00 F16H-48/22 B60K-17/00 B60K-17/28 <main>F16H-1/44</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+latch mechanism for locking differential.
+</TITLE>
+<APPLICANT>
+eaton corpus<sep>eaton corporation<sep>eaton corporation100 erieview plazacleveland ohio 44114us<sep>eaton corporation <sep>
+</APPLICANT>
+<INVENTOR>
+goscenski edward john<sep>konkle phillip earl<sep>goscenski, edward john<sep>konkle, phillip earl<sep>goscenski, edward john2267 gethings roadbattle creek, michigan 49017us<sep>konkle, phillip earl911 n. iona streetalbion, michigan 49224us<sep>goscenski, edward john <sep>konkle, phillip earl  <sep>goscenski, edward john2267 gethings roadbattle creek, michigan 49017us<sep>konkle, phillip earl911 n. iona streetalbion, michigan 49224us<sep>
+</INVENTOR>
+<ABSTRACT>
+a differential gear mechanism of the limited slip type is  provided, and includes a machanism for locking up the  differential gear set, and a mechanism for actuating the  lockup mechanism.  the actuating mechanism includes a  flyweight mechanism (71) and a latch mechanism (111).  the  latch mechanism includes a latch member (115) defining a  pair of latch surfaces (125 and 127).  the latch mechanism  further includes a frame member (113) and a weighted  member (117) which is oppositely disposed from the latch  member about the axis of rotation of the differential gear set.   the weighted member is operable to move the latch  mechanism, in opposition to the biasing force of a spring  (123), along a straight, generally diametrally-oriented path,  in response to increasing rotational speed of the differential  gear mechanism.  such movement causes movement of the  latch member from an operative position to  an inoperative position, in which the latch member  is incapable of engaging either of the flyweights to prevent  rotation of the flyweight mechanism.  the position and mode  of operation of the weighted member is effective to reduce  missed engagements of the actuating mechanism.  
+</ABSTRACT>
+</TEXT>
+</DOC>

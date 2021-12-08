@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002097
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/84 C07C-213/00 <main>C07C-93/06</main> C07C-45/00 A61K-31/135 C07C-51/58 C07C-51/60 C07C-45/46 C07C-217/00 C07D-339/00 C07D-339/08 C07C-67/00 C07C-45/67 C07C-49/83 C07D-295/08 C07C-45/68 C07D-295/092 C07C-49/00 A61P-15/00 C07D-295/00 C07D-309/12 C07D-309/00 C07C-45/71 C07C-217/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+triphenylalkene derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+richardson dora nellie<sep>richardson, dora nellie<sep>richardson, dora nellie3 silverdale roadgatley cheshiregb<sep>richardson, dora nellie<sep>richardson, dora nellie3 silverdale roadgatley cheshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+1-p-aminoalkoxy phenyl-1-p-hydroxyphenyl-2-phenylalk-1-ene  derivatives of the formula:   r₁ = h, lower alkyl   r₂ = lower alkyl   or r₁ and r₂ forms a heterocyclic radical with the adjacent  n-atom   r₃ = halogen or lower alkyl   r₄ = h, halogen, oh, lower alkyl or forms with the benzene  ring a naphthyl radical   n = 2, 3, 4, 5, 6   possess anti-oestrogenic activity and are useful in the  treatment of anovulatory infertility and of breast tumours.   representative of the compounds is i-(p-ß-dimethylaminoethoxyphenyl)-trans-i-p-hydroxyphenyl-2-p-tolylbut-i-ene.  
+</ABSTRACT>
+</TEXT>
+</DOC>

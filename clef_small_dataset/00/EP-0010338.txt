@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010338
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-29/00 B01D-35/00 B29B-13/00 B29B-13/10 B29B-9/00 B01D-35/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+filter for filtering viscous liquids and particularly molten thermoplastic synthetic resins.
+</TITLE>
+<APPLICANT>
+beek g ter <sep>ter beek, gerrit jan<sep>ter beek, gerrit jan binnenhavenstraat 63 nl-7553 gh hengelo nl<sep>
+</APPLICANT>
+<INVENTOR>
+ter beek gerrit jan<sep>ter beek, gerrit jan<sep>ter beek, gerrit janbinnenhavenstraat 63nl-7553 gh hengelonl<sep>
+</INVENTOR>
+<ABSTRACT>
+a filter for filtering viscous liquids and particularly molten  synthetic resins comprising a house (1,2) with an inletport (3),  an outlet port (4) and a chamber defined therein having an  inner surface (6) which is partly shaped as a revolutional  surface.  the chamber accomodates a concentric smooth  straped revolutional body (7) while defining an annular slit (8)  between said body and the house, through shich slit the material  to be filtered is to be passed.  the smooth shape of the  body prevents congestion of the hot resins and any thermal  degradation.  
+</ABSTRACT>
+<DESCRIPTION>
+short title: filter the invention relates to a filter, comprising a house having an inletport and an outlet port, a chamber between these ports having an inner surface being at least partly-shaped as a revolutional surface, the chamber enclosing a concentric core being shaped as a revolutional body. a filter of this design is disclosed in dutch specification 4287 and is formed by a house having an inlet and an outlet port and having a cylindrical bore as a chamber, in which chamber a disc shaped core having a slicntly smaller diameter than the bore is supported by means of two coaxial pins. this filter is readily applicable, though is not suited for filtering heat plasticised synthetic resins prior to feeding such resins to an extruder, since for reason of the irregular shape of the path of flow through the house and about the core the synthetic resins are too long exposed to the high temperature and will degrade. moreover the flow resistance will be too. high for sufficiently quick filtering plasticized synthetic resins. the invention provides a filter of the kind set forth hereinbefore, which in order to obviate these objections is characterised in that the generatrix (generating line) of the core has predominantly a smooth shape. in particular the core is mainly spherical, giving the advantage of a favourable flow resistance and a relatively low price of it. for that reasons a sphere is preferred as core. in this connection is remarked that us specification 3,767,056 discloses a filter for filtering heat plasticised synthetic resins. this filter is meant for use in combination with extruders, in which synthetic resins at increased temperatures and under high pressure are moulded and comprises a house having an inlet and an outlet port defining a cylindrical bore in which a hollow cylindrical core w,ljch at one end is closed is such positioned that the flow of synthetic resin is forced through a plurality of tapered bores extending in radial direction in the wall of the core. manufacturing such filter is expensive, the constructional length with respect to the free passage is great and the flow resistance is important caused by the tortuous flow path. finally at several places in this filter the synthetic resin is prevented from flowing through, thereby increasing the dwelling time and increasing the risk of decomposition. in a modified embodiment of the invention the core is rotable about an axis being at square angles to the axis of revolution of the revolutional surface of the house and lying within the spherical surface defined by rotation of the largest circular section of the core about said axis of revolution and for the rest coinciding with that spherical surface. this embodiment is advantageous in that by rotating the core possible solid contaminations can be removed without the need of taking down the filter or removing it¯from¯the apparatus for working synthetic resin. for improving the flow resistance the inlet port, the outletport, the chamber and the core are preferable coaxially arranged.
+</DESCRIPTION>
+<CLAIMS>
+claims   1. filter comprising a house having an inletport and an outlet port, a chamber between these ports having an inner surface being at least partly shaped as a revolution surface,   tre    chamber enclosing a concentric core, being shaped as a revolutional body, the core and the house delimiting an annular slit, characterised in the generatrix of the core (7, 13) having predominantly a smooth shape.      2. filter    according to claim 1, characterised in the core (13) being mainly spherical.      3. fiiter    according to claim 1, characterised in the core (7)   being    essentially spherical.      4.    filter according to claim 2 or 3,characterised in the core  (13) being rotatable about an axis being at square angles to the axis of revolution of the revolutional surface of the house and lying within the spherical surface (14) defined by rotation of the largest circular section of the core about the axis of revolution and for the rest coinciding with that spherical surface.    5. fitter according to any claim 1 to 4, characterised in the inletport (3), the outlet port   (4),    the chamber and the core  (7, 13) being coaxial.      6.    filter according to any claim 1 to 5, characterised   ir.        the core   being      supported    at the side of the outlet port   (4)    by at least three point-shaped supporting elements (9).   7. filter according to claim 6, characterised in the three supporting elements being regularly distributed around the revolution axis.   8. filter according to any claim 1 to 7, characterised in the inner revolutional surface of the chamber being provided with at least three internal projections   (10).     
+</CLAIMS>
+</TEXT>
+</DOC>

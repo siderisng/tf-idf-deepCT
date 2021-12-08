@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008694
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H05K-13/02</main> H05K-13/00 G02B-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for equipping printed-circuit boards and method for programming the programme memory in said device.
+</TITLE>
+<APPLICANT>
+lemmer alfred<sep>lemmer, alfred<sep>lemmer, alfredmachtlfingerstrasse 24d-8000 münchen 70de<sep>lemmer, alfred <sep>
+</APPLICANT>
+<INVENTOR>
+lemmer alfred<sep>lemmer, alfred<sep>lemmer, alfredmachtlfingerstrasse 24d-8000 münchen 70de<sep>lemmer, alfred <sep>lemmer, alfred machtlfingerstrasse 24 d-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+The device serves to equip printed circuit boards (2) with electronic components. For this purpose, a projector (90) is moved over the Lei Terplatte, which provides a light point and a light beam onto the circuit board (2). The light beam is radially from the point of light. Direction and length of the light beam are changeable. Thereby, two any holes (3) on the printed circuit board (2) can be lightweight for equipping, wherein the light point on a hole and the end of the light beam facing the light spot are directed to the other hole. The pushing the projector (90) over the circuit board (2) and the operation of the optics for adjusting the direction and the length of the light beam is done motor. The engines - two of them, (88) and (74) are shown - are controlled by a control device containing a program memory. Thus, an automatic lighting of holes (3) of the circuit board (2) takes place when equipped there.
+</ABSTRACT>
+</TEXT>
+</DOC>

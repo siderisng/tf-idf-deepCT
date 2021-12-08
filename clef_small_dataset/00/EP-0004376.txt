@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004376
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04L-11/16</main> H04L-12/407 G06F-13/376 G06F-13/00 G06F-13/36 H04L-12/413 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiple access bus communications system.
+</TITLE>
+<APPLICANT>
+mitre corp us  <sep>the mitre corporation<sep>the mitre corporationroute 62 p.o. box 208bedford massachusetts 01730us<sep>the mitre corporation <sep>
+</APPLICANT>
+<INVENTOR>
+hopkins gregory t<sep>wagner paul e<sep>hopkins, gregory t.<sep>wagner, paul e.<sep>hopkins, gregory t.11 sleigh roadchelmsford mass. 01824us<sep>wagner, paul e.101 spitbrook rdapt. 19e nashua new hampshireus<sep>hopkins, gregory t. <sep>wagner, paul e.<sep>hopkins, gregory t.11 sleigh roadchelmsford mass. 01824us<sep>wagner, paul e.101 spitbrook rdapt. 19e nashua new hampshireus<sep>
+</INVENTOR>
+<ABSTRACT>
+a multiple access digital communications system  comprises a plurality of remotely located terminals coupled  to a communications bus including a pair of oppositely  directed, unidirectional signal paths (10, 12) and a unidirectional  path coupler (14) for transferring signals from  the inbound path (10) to the outbound path (12).  to send a message from one terminal to another desired  terminal, a corresponding bus interface unit (20a)  coupled to both the inbound and outbound paths (10, 12)  is adapted to perform an rf.  carrier sensing operation to  determine as to whether or not any other subscriber is  transmitting on the inbound path (10).  if no carrier is detected,  the bus interface unit (20a) confirms this determination  by first beginning to transmit a message packet and then  monitoring the outbound path (12) during a collision window.   if the transmitted message is received intact within  this collision window, the bus interface unit (20a) may transmit  any remaining portion of its message packet on the  inbound path (10).  
+</ABSTRACT>
+</TEXT>
+</DOC>

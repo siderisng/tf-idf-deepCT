@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013149
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03D-3/00 H03D-1/22 H04H-1/00 H04H-40/72 <main>H04H-5/00</main> H03D-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fm stereo signal demodulator.
+</TITLE>
+<APPLICANT>
+tokyo shibaura electric cojp<sep>tokyo shibaura denki kabushiki kaisha<sep>kabushiki kaisha toshiba72, horikawa-cho, saiwai-kukawasaki-shi, kanagawa-ken 210jp<sep>tokyo shibaura denki kabushiki kaisha  <sep>
+</APPLICANT>
+<INVENTOR>
+hashimoto masaru<sep>hashimoto, masaru<sep>hashimoto, masaru1425-12, fukaya ayasemachikoza-gun kanagawa-kenjp<sep>hashimoto, masaru<sep>hashimoto, masaru1425-12, fukaya ayasemachikoza-gun kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+an fm stereo signal demodulator for separating the  composite signal into left and right signals wherein the amp­ litude of the 38 khz switching signal necessary to separate the  composite signal is varied in accordance with the field  strength of the received signal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004950
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+D06M-13/47 D06M-13/02 D06M-13/322 D06M-13/00 D06M-13/328 C08L-23/00 D06M-13/473 C10M-173/00 C10N-40/00 C08L-71/00 D06M-101/16 D06M-15/53 D06M-101/02 C10N-30/00 C10N-20/00 D06M-13/38 <main>D06M-13/02</main> C10N-30/06 D06M-15/37 C10M-5/00 D06M-13/46 D06M-101/00 D06M-15/44 D06M-101/08 D06M-15/21 D06M-15/333 D06M-13/325 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+composition and process for the aqueous paraffin treatment of yarns.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kleber rolf dr<sep>wagemann wolfgang dr<sep>kleber, rolf, dr.<sep>wagemann, wolfgang, dr.<sep>kleber, rolf, dr.spechtstrasse 15d-6078 neu-isenburgde<sep>wagemann, wolfgang, dr.gartenstrasse 25d-6238 hofheim am taunusde<sep>kleber, rolf, dr.<sep>wagemann, wolfgang, dr.<sep>kleber, rolf, dr.spechtstrasse 15d-6078 neu-isenburgde<sep>wagemann, wolfgang, dr.gartenstrasse 25d-6238 hofheim am taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  agent for the wet paraffin waxing of yarns which consists of a dispersion of a) from 18 to 40% of paraffin, melting range of 45 to 60 degrees c ; b) from 2 to 8% of one or several alkylimidazolines of the formula i  see diagramm : ep0004950,p4,f3  in which r represents c12 -c22 -alkyl, alkenyl or hydroxyalkyl, r1 is h, c1 -c22 -aliphatic or aromatic acyl, r2 is h, c1 -c4 -alkyl or hydroxyalkyl, n is a number of from 2 to 6, and x stands for a halogen anion, a c1 -c4 -alkylsulfate anion, a c1 -c4 -dialkylphosphate anion, or a c1 -c4 -alkylcarboxylate anion ; c) from 1 to 7% of one or several aminoxides of the general formula ii  see diagramm : ep0004950,p4,f4 in which r represents c8 -c12 -alkyl or alkenyl, r1 is c1 -c4 -alkyl, r2 is h or c1 -c4 -alkyl, and n represents a number of from zero to 6 ; d) from 2 to 9% of an ethylene oxide/propylene oxide block polymer of the formula iii h-(c2 h4 o)y -(c3 h6 o)x -(c2 h4 o)y -h in which x represents a number of from 20 to 40 and y represents a number of from 25 to 1000 ; e) from 0 to 5% of a polyglycol ether of the formula iv r-o-(h2 h4 o)n -h in which r represents c8 -c18 -alkyl or alkenyl and n is a number of from 3 to 12 and f) from 0 to 2% of a copolymer of vinyl pyrrolidone and vinyl acetate, the weight ratio of vp to vac optionally varying from 3:7 to 8:2 and the balance to 100% by weight being water. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006461
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C25D-3/18</main> C25D-3/18 C25D-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+acid bath for electrodeposition of nickel-containing sulfobetaine as brightening and levelling agent.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende  <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+gotsmann guenther dr<sep>hettche albert dr<sep>patsch manfred dr<sep>schneider dieter dr<sep>gotsmann, guenther, dr.<sep>hettche, albert, dr.<sep>patsch, manfred, dr.<sep>schneider, dieter, dr.<sep>gotsmann, guenther, dr.max-beckmann-strassed-6710 frankenthalde<sep>hettche, albert, dr.kleiststrasse 12d-6711 hessheimde<sep>patsch, manfred, dr.fritz-wendel-strasse 4d-6706 wachenheimde<sep>schneider, dieter, dr.neumannstrasse 18d-6700 ludwigshafende<sep>gotsmann, guenther, dr.<sep>hettche, albert, dr.<sep>patsch, manfred, dr.<sep>schneider, dieter, dr. <sep>gotsmann, guenther, dr. max-beckmann-strasse d-6710 frankenthalde<sep>hettche, albert, dr.kleiststrasse 12d-6711 hessheimde<sep>patsch, manfred, dr.fritz-wendel-strasse 4d-6706 wachenheimde<sep>schneider, dieter, dr.neumannstrasse 18d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+Sour galvanic nickel bath usual composition containing special gloss and depressants.These means obey of formula I in it mean a heteroaromatic nitrogen ba SE such as pyridine u. a., R, R¹ and R² same or different radicals and hydrogen or alkyl, R³ a given if substituted arylene radical, such as phenylene or thienylene, x SO₃, Y the countercut, n 1 to 3 and m 1 to 2.5.The compounds are obtained by reacting the stick of fabric bases with a corresponding arylalkyl halide, wherein heterocyclic ammonium salts arise.The latter are solded and the resulting sulfobetaine, if worked with excess sulfating agent, is neutralized with a countercatient base.With these means, it is possible to produce with in very wide highly located current-tight nickel coatings with objection free shine.
+</ABSTRACT>
+</TEXT>
+</DOC>

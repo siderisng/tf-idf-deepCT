@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012815
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-43/00 <main>F16D-43/24</main> F16D-43/24 F02N-15/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+acceleration responsive clutch.
+</TITLE>
+<APPLICANT>
+ford francefr<sep>ford motor co gb<sep>ford motor co us  <sep>ford werke agde<sep>ford france s.a.<sep>ford motor company<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor companythe american roaddearborn, mi 48121us<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company<sep>ford motor company limited<sep>ford-werke aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+giardini dante s<sep>giardini, dante s.<sep>giardini, dante s.5702 heritage ct.dearborn heights michiganus<sep>giardini, dante s.<sep>giardini, dante s. 5702 heritage ct. dearborn heights michigan us<sep>
+</INVENTOR>
+<ABSTRACT>
+an acceleration responsive clutch (20) has a rotatable  input member (22) and coaxially rotatable output member  (24), with a torque transmitting member which has a mass  member (36) connected thereto and a spring biasing the  mass member (36) to move the torque transmitting member  to one of the torque transmitting or disengaged positions.   the mass member (36) is mounted such that angular accel­ eration of the input member above a predetermined rate  causes inertia of the mass to overcome the biasing force of  the spring to move the torque transmitting member to the  other of the torque transmitting or non-torque transmitting  position.  
+</ABSTRACT>
+</TEXT>
+</DOC>

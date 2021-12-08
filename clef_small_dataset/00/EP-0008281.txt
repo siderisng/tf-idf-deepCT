@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008281
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02B-27/00 F01N-1/02 F01N-1/06 F01N-1/00 F02B-27/04 F01N-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+exhaust system for a pulsating heat source.
+</TITLE>
+<APPLICANT>
+andersson jan se <sep>helger marie louisese<sep>andersson, jan<sep>helger, marie louise<sep>andersson, janmöllegatan 22s-244 65 furulundse<sep>helger, marie louise11a bergmästaregatans-981 00 kirunase<sep>
+</APPLICANT>
+<INVENTOR>
+andersson louisse<sep>andersson, louis<sep>andersson, louis73 götgatans-116 62 stockholmse<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to an exhaust system distinguished  by a low content of passing through impurities and a low sound  level and being intended for a pulsating heat source, especially  an internal combustion engine.  the exhaust gases from the  different cylinders in such an engine (1) are led through equally  long partial pipes (9) in a manifold (10) to a junction of said  partial pipes, where an exhaust pipe (12) uniform in wall thick­ ness and in diameter is attached.  said exhaust pipe is termi­ nated by an annular gable (13).  in a hole in said gable an inner  pipe (14) is gas-tightly inserted into the exhaust pipe (12).  the  length of the parts of the exhaust system is tuned so that three  kinds of standing waves arise.  one of said waves is a negative  pressure wave, beginning at about the bottom dead centre of a  piston (5) in the engine (1) and terminating at the in-side end  (15) of the inner pipe (14), and is so adapted that nodes appear  at both the ends.  another wave is a gas velocity wave beginning  at the exhaust valves (4) and terminating at the annular gable  (13) and is so adapted that loops appear at both the ends.  these  two waves concern the exhaust gases.  a third standing wave  relates to the loudness level and is adapted to operate between  the exhaust valve (4) and said gable (13), having a node at the  in-side end (15) of the inner pipe (14).  
+</ABSTRACT>
+</TEXT>
+</DOC>

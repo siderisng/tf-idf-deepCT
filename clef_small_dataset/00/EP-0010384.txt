@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010384
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01N-3/031 F02D-41/14 F01N-9/00 F02B-3/00 F02D-9/02 F01N-3/023 F02B-1/04 <main>F01N-3/02</main> F02M-25/07 F01N-3/02 F01N-3/18 F02D-41/02 F02M-7/24 F02B-1/00 F02D-41/04 F02B-3/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diesel engine exhaust particulate filter with intake throttling incineration control.
+</TITLE>
+<APPLICANT>
+gen motors corpus<sep>general motors corporation<sep>general motors corporationgeneral motors building 3044 west grand boulevarddetroit michigan 48202us<sep>general motors corporation<sep>
+</APPLICANT>
+<INVENTOR>
+ludecke otto alfred<sep>rosebrock theodore lee<sep>ludecke, otto alfred<sep>rosebrock, theodore lee<sep>ludecke, otto alfred2504 new england driverochester, michigan 48063us<sep>rosebrock, theodore lee221 langford driverochester, michigan 48063us<sep>ludecke, otto alfred<sep>rosebrock, theodore lee<sep>ludecke, otto alfred2504 new england driverochester, michigan 48063us<sep>rosebrock, theodore lee221 langford driverochester, michigan 48063us<sep>
+</INVENTOR>
+<ABSTRACT>
+in a diesel exhaust system including a filter to remove  particulates from the exhaust gases, the particulates are  periodically removed from the filter by burning them off, the  system including actuating and control means (30, 32, 36, 38,  40) by which the engine throttle is periodically operated to  restrict air flow and thus increase the exhaust gas tempera­ ture sufficiently to burn off the particulates.  
+</ABSTRACT>
+</TEXT>
+</DOC>

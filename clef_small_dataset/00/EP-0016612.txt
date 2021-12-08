@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016612
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-5/04 C07K-5/083 A61P-37/00 C07C-235/72 C07K-5/06 C07C-235/00 C07K-14/435 A61K-37/02 C07C-237/00 A61K-38/00 C07K-5/103 C07C-237/22 C07K-5/00 C07K-7/00 A61K-38/22 C07K-14/66 C07K-5/072 C07K-7/06 C07C-237/10 <main>C07C-103/52</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+peptides having ubiquitin-like activity, process for their preparation, therapeutic compositions containing them and their use.
+</TITLE>
+<APPLICANT>
+ortho pharma corpus<sep>ortho pharmaceutical corporation<sep>ortho pharmaceutical corporationu.s. route 202 p.o. box 300raritan new jersey 08869-0602us<sep>ortho pharmaceutical corporation<sep>
+</APPLICANT>
+<INVENTOR>
+goldstein gideon<sep>heavner george<sep>goldstein, gideon<sep>heavner, george<sep>goldstein, gideon30 dorison driveshort hills, new jerseyus<sep>heavner, georgebox 73b, rd no. 1flemington, new jerseyus<sep>goldstein, gideon<sep>heavner, george<sep>goldstein, gideon30 dorison driveshort hills, new jerseyus<sep>heavner, georgebox 73b, rd no. 1flemington, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+peptides of the following formula:   a-b   wherein a is a member selected from the group consisting of  deamino-gln, gln, and (sar)n-gln; n is an integer from 1  to 4; and b is a member selected from the group consisting  of lys-oh, lys-nh₂, decarboxy-lys,    lys-sar-oh and lys-sar-nh₂, have significantly increased  ubiquitin-like activity.  also provided are therapeutic com­ positions and methods for use thereof.  
+</ABSTRACT>
+</TEXT>
+</DOC>

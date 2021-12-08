@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013273
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02M-7/515 <main>H02M-7/515</main> H02M-7/525 H02M-7/505 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+auxiliary commutation circuit for an inverter.
+</TITLE>
+<APPLICANT>
+united technologies corpus<sep>united technologies corporation<sep>united technologies corporationunited technologies building 1, financial plazahartford, ct 06101us<sep>united technologies corporation<sep>
+</APPLICANT>
+<INVENTOR>
+messer gordon john<sep>messer, gordon john<sep>messer, gordon john24, carriage drivetolland, ct 06084us<sep>messer, gordon john  <sep>messer, gordon john24, carriage drivetolland, ct 06084us<sep>
+</INVENTOR>
+<ABSTRACT>
+a supplemental or auxiliary portion (52,56,58,60) of the  commutation circuit for an inverter is actuated only during  overload conditions which improve the inverter efficiency  during normal load conditions.  a control circuit responds to  the increased time period of the commutation pulse to delay  the firing of the thyristors which initiate the makeup pulse.   this modified operation continues for at least three commuta­ tion cycles in order to ensure that the supplemental portion of  the commutation circuit is properly initialized so that it is  ready for subsequent overcurrent conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

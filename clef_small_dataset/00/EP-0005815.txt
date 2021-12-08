@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005815
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B24B-33/02 B24B-33/06 B24B-33/00 <main>B24B-33/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+honing machine.
+</TITLE>
+<APPLICANT>
+rottler boring bar us <sep>rottler boring bar co.<sep>rottler boring bar co.8029 south 200th kentwashington 98031us<sep>rottler boring bar co.  <sep>
+</APPLICANT>
+<INVENTOR>
+engnell david<sep>rottler donald b<sep>engnell, david<sep>rottler, donald b.<sep>engnell, david975 wildwood s. w.issaquah, washington 98027us<sep>rottler, donald b.2423 8th north, apt. 401seattle, washington 98109us<sep>engnell, david<sep>rottler, donald b.<sep>engnell, david975 wildwood s. w.issaquah, washington 98027us<sep>rottler, donald b.2423 8th north, apt. 401seattle, washington 98109us<sep>
+</INVENTOR>
+<ABSTRACT>
+a "beam stroker" type of honing machine which can, at  the operator's option, be power stroked by means of a  double-acting pneumatic cylinder (70) or manually stroked.   both travel limits can be varied by the operator.  a hydraulic  double-acting cylinder system functions to limit the stroking  speed and has a needle valve adjustment to vary the speed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

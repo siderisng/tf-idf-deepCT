@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013834
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10G-73/00 <main>B01D-13/04</main> B01D-71/00 C10G-73/08 B01D-13/00 B01D-71/10 B01D-67/00 C10G-73/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of converting a hydrophilic, water-containing regenerated cellulose membrane to a membrane useful for separating organic liquids.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company<sep>
+</APPLICANT>
+<INVENTOR>
+gudelis david arvydas<sep>shaw david henry<sep>thompson john arthur<sep>gudelis, david arvydas<sep>shaw, david henry<sep>thompson, john arthur<sep>gudelis, david arvydas1230 sherwood trailsarnia, ontarioca<sep>shaw, david henry55 mockingbird lane, rricamlachie, ontarioca<sep>thompson, john arthur581 zone streetwyoming, ontarioca<sep>gudelis, david arvydas<sep>shaw, david henry<sep>thompson, john arthur<sep>gudelis, david arvydas1230 sherwood trailsarnia, ontarioca<sep>shaw, david henry55 mockingbird lane, rricamlachie, ontarioca<sep>thompson, john arthur581 zone streetwyoming, ontarioca<sep>
+</INVENTOR>
+<ABSTRACT>
+a hydrophilic, water-containing regenerated cellulose  membrane is sequentially permeated under differential pres­ sure with solvents of decreasing polarity so as initially to dis­ place water in the membrane with a first solvent, and the or  each other solvent in the sequence displacing the previous  solvent.  each solvent has bulk liquid-liquid miscibility with the  adjacent solvent(s) in the sequence, and the final solvents of  the sequence exhibits bulk liquid-liquid miscibility with a mate­ rial ultimately desired to be selectively permeated through the  membrane.  the first solvent is a lower (c₁-c₄) alcohol or ace­ tone.  the resulting membrane is practically suitable for at  least partially separating, by permeation, a solvent used in de­ waxing a waxy hydrocarbon oil from a solution of the oil and  solvent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016925
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-1/09 H05K-3/24 C04B-41/45 H01L-21/88 H05K-1/03 H01L-21/308 C23C-14/04 H05K-3/02 H01L-21/00 H01L-21/48 G03F-7/00 H01L-23/12 C04B-41/88 <main>H05K-3/24</main> H01L-21/02 C04B-41/51 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of depositing metal on metal patterns on dielectric substrates.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+schmeckenbecher arnold friedri<sep>schmeckenbecher, arnold friedrich<sep>schmeckenbecher, arnold friedrich228 wilbur boulevardpoughkeepsie, ney yorkus<sep>schmeckenbecher, arnold friedrich<sep>schmeckenbecher, arnold friedrich228 wilbur boulevardpoughkeepsie, ney yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+on a dielectric substrate (10) partially covered by a metal pattern (12) becomes a material (14), which can be brought to flow and curable, and which the substrate material but not the metal pattern (12) wets, so applied The metal pattern (12) is free. The material (14) is brought to flow, wherein a mask layer (16) is formed on the surface which is not covered by the metal pattern (12), and then hardened. For example, one can heat the material (14) over its melting point and then cool to room temperature. Subsequently, a metal layer (18) is applied over the entire surface. Finally, the mask layer (18) with a solvent and since at the same time the areas of the metal layer (18) lying on it are removed. The method serves to reinforce the metal pattern (12) or to coat it with a metal which has properties which are advantageously affected by subsequent process steps.
+</ABSTRACT>
+</TEXT>
+</DOC>

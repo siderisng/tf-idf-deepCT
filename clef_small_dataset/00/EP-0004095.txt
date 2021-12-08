@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004095
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03D-13/00 G03B-42/04 B65H-5/02 B65H-5/34 <main>G03D-13/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for taking film sheets from light-tight cassettes and for delivering same to a developper station.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company  <sep>
+</APPLICANT>
+<INVENTOR>
+turner george frederick albert<sep>turner, george frederick albert marriott<sep>turner, george frederick albert marriott"monks acres" woolmongers lane blackmoreingatestone essex cm4 0jxgb<sep>turner, george frederick albert marriott<sep>turner, george frederick albert marriott"monks acres" woolmongers lane blackmoreingatestone essex cm4 0jxgb<sep>
+</INVENTOR>
+<ABSTRACT>
+It is provided a film storage device, which is arranged between an X-ray film cassette and an X-ray film winding device. In the device, three X-ray films can be stored at the same time. Each film falls from the cassette (31) into a light-tight housing, where it comes to the clamping point of a S-shaped system of rollers and bands (8, 9) in contact. The film is then transported quickly to the end of the tape system where it is supplied via a curved plate (23) and a roller arrangement two slower rotating rollers (26, 27) which are part of the developing device. Due to the curved plate (23) and the rollers (26, 27) ensures that the X-ray film is curved accordingly and pressed together when waiting for further processing. An electrical display device on the developing device is electrically connected to a switch on the fast-running S-shaped roller system. The operation of these controls ensures that the film supply to the developing device may be required if necessary, while the first film is processed. When a third film is inserted into the system, the control devices ensure that the films are stored either in the S-shaped roller and tape arrangement or in the light-tight feed housing until the developing device can handle it.
+</ABSTRACT>
+</TEXT>
+</DOC>

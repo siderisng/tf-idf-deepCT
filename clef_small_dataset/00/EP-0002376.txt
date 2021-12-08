@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002376
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-66/02 F16D-66/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+brake pad wear detection system.
+</TITLE>
+<APPLICANT>
+lucas industries ltdgb<sep>lucas industries public limited company <sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb   <sep>
+</APPLICANT>
+<INVENTOR>
+wiley davidgb<sep>williams david gordongb<sep>wiley, david<sep>williams, david gordon<sep>wiley, david21, howdles lanebrownhills staffordshiregb<sep>williams, david gordon7, woodville road harbornebirmingham west midlandsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a brake pad wear detection  system which includes a sensor loop (18) embedded in a  brake pad (16), the sensor loop being broken when the wear  to the pad (16) exceeds the working limit (19).  in a known system, an indicator means is energised  when the loop is broken but this system suffers from the  disadvantage that no warning is given when wear to the pad  is approaching the working limit.  in order to overcome this, the system of the invention  includes a detecting means which detects contact between  the sensor loop (18) and a conductive braking face (14) which  engages the brake pad (16) during braking, as well as  detecting breakage of the sensor loop (18).  
+</ABSTRACT>
+</TEXT>
+</DOC>

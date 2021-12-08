@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008389
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/027 H05K-3/06 G03F-7/26 G03F-7/40 G03F-7/00 G03F-7/38 <main>G03F-7/02</main> H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for stabilizing an image layer on a support.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+ma william hsioh-lien<sep>ma, william hsioh-lien<sep>ma, william hsioh-lien3 cameron lanewappingers falls, n.y.us<sep>ma, william hsioh-lien<sep>ma, william hsioh-lien3 cameron lanewappingers falls, n.y.us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for stabilizing an image layer of an organic polymer material on a pad.For this purpose, the pad is treated with the resist image of an electrodilless glow discharge in an atmosphere with a content of fluorine, for example with a content of CF₄, under low pressure to cure the exposed areas of the resist layer, and then the layer is heated.With the method according to the invention resist images are obtained, which have temperature stabilities up to temperatoses of over 300 ° C.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005333
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/63 A61K-31/635 A61K-31/395 A61K-31/50 A61K-31/58 A61K-31/403 A61K-31/475 A61K-31/185 A61K-31/585 A61K-31/405 A61K-31/195 G06F-9/44 <main>A61K-31/195</main> A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a pharmaceutical composition comprising an amino acid for reducing blood serum prolactin levels.
+</TITLE>
+<APPLICANT>
+massachusetts inst technologyus<sep>massachusetts institute of technology<sep>massachusetts institute of technology77 massachusetts avenuecambridge, ma 02139us<sep>massachusetts institute of technology<sep>
+</APPLICANT>
+<INVENTOR>
+wurtman richard j<sep>wurtman, richard j.<sep>wurtman, richard j.271, woodward streetwaban massachusetts 02168us<sep>wurtman, richard j.<sep>wurtman, richard j.271, woodward streetwaban massachusetts 02168us<sep>
+</INVENTOR>
+<ABSTRACT>
+a material and composition for reducing blood serum  prolactin levels are provided.  the level of prolactin is reduced  by administering tyrosine, phenylalanine or a mixture  thereof.  the tyrosine can be administered alone where is  a disease condition or concomitantly with a drug which  tends as a side-effect to increase blood serum prolactin  levels.  
+</ABSTRACT>
+<DESCRIPTION>
+i. title of invention: a material m4d composition for reducing blood serum prolactin levels. ii. applicant(s): massachusetts institute of technology; iii. inventor(s): wurtman, richard j. iv. representativers reference: dgh:sa:3931 v. priority claimed: united states application serial no. 898,740 filed 24 april, 1978 and united states application serial no. filed 5 april, 1979. vi. states desgnated: belgium netherlands federal republic of germny sweden france (itzer1and italy united kingdom luxembourg a material and composition for reducing blood serum4 prolactin levels this invention is concerned with a material for use in reducing blood serum prolactin levels. the invention also relates to a pharmaceutical composition comprising such a material. it is known that the neurotransmitters dopamine and norepinephrine are derived from dihydroxyphenylalanine (dopa). dopa is, in turn,. produced in neurons by the enzymatic hydroxylation of the amino acid tyrosine. this process is catalyzed by the enzyme tyrosine hydroxylase. the dopa is decarboxylated to dopamine by the enzyme aromatic l-amino acid decarboxylase (aaad) and norepinephrine is produced from dopamine in neurons that also contain the enzyme dopamine beta-hydroxylase. it is also known that within this reaction chain, the ratelimiting step is the conversion of tyrosine to dopa. for this reason, dopa has been administered to patients who suffer medical disability resulting from dopamine deficiency in diseases such as parkinson's disease. unfortunately, dopa, when administered, is taken up by cells throughout the body and converted to dopamine and this interferes with the normal metabolic processes in these other cells. in addition, dopa interferes with the body's normal storage of the neurotransmitter serotonin, and lowers brain levels of thecompounds-adenosylmethionine. it is believed that these effects contribute to such unwanted side-effects as the "on-off phenomenon" and, in some patients, psychotic symptoms. other types of drugs that act by increasing dopamine and norepinephrine levels in synapses include the monoamine oxidase inhibitors (which slow the destruction of these neurotransmitters) and the tricyclic antidepressants; these compounds, which are used in treating diseases like depression; also relatively non-specific - producing many chemical effects besides increasing synaptic dopamine and norepinephrine levels - and thus have a range of unwanted side-effects such as the dangerous increases in blood pressure that occur when people receiving monoamine oxidase inhibitors eat certain foods. prior attempts to increase or decrease the levels of dopamine or norepinephrine by modifying neuronal tyrosine levels had been deemed unsuccessful because the total amounts of these compounds in brains and tissues were not noted to change. it was first observed in wurtman et al (science 185:183-184, july 12, 1974) that increases in brain dopa concentrations, which, under the conditions of the experiments, varied in proportion to the rates at which dopamine and norepinephrine were being synthesized could be obtained by increasing brain tyrosine concentrations, and that decreases in brain dopa concentrations could be produced by giving rats treatments that decreased brain tyrosine. an example of a treatment that increased brain tyrosine was the administration of tyrosine itself; and an example of a treatment that decreased brain tyrosine was the administration of one of
+</DESCRIPTION>
+<CLAIMS>
+ claims:    1. a material for use in reducing blood serum prolactin levels in the human or animal body characterised by an amino acid which is tyrosine, phenylalanine or a mixture thereof.     2. a drug which induces an increase in blood serum prolactin levels characterised by association with a material according to claim 1.    3. a composition in pharmaceutical dosage form comprising material according to claim 1.    4. a composition according to claim 3 suitable for administration in a dosage of the amino acid between 5 and 200 mg/kg body weight.    5. a pharmaceutical composition comprising an excipient and material according to claim 1.    6. a pharmaceutical composition comprising a drug which, when administered to a human, increases blood serum prolactin levels and a neutral amino acid which comprises tyrosine, phenylalanine or a mixture thereof.    7. a composition according to claim 6 in a form suitable for administration in a dosage of the amino acid between 5 and 200 mg/kg body weight.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013730
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/16 G03G-15/00 <main>G03G-15/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for transporting an image carrier through a printing station and device for swinging this image carrier on/off an intermediate carrier in the printing station of a printing or copying machine.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+kopp walter<sep>kopp, walter<sep>kopp, walterkirschenstrasse 70d-8021 taufkirchende<sep>kopp, walter<sep>kopp, walterkirschenstrasse 70d-8021 taufkirchende<sep>
+</INVENTOR>
+<ABSTRACT>
+For printing or copying machines, toner images of the character to be printed are on an intermediate carrier (ZT), z. b. a photoconductive drum generates. These must be reprinted in egg ner printing station (US) to a recording medium (at) with continuous movement of the recording medium. For starting and stopping the movement of the recording medium, a feed station (Vr) acting on the recording medium (AT) is provided behind the pressure station (AT), at the drive shaft (VRW), a drive device with an electromagnetic tables (EMK) and an electromagnetic brake (EMB) ) is arranged. In order to pivot the recording rates ger (at) to the intermediate carrier (ZT) or to swing from this, a Po-Larized HubMagnet (HM) in the Umpresspressstation is also present. When starting the recording medium, the feed means (VR) is set to the next by the electromagnetic clutch (EMK) in motion and upon reaching the nominal velocity, the hub magnet (HM) is energized so that it pivotes the recording medium to the intermediate carrier (Zt). When braking the recording medium, the hub magnet is first controlled, so that it is lowed the recording medium from the intermediate carrier (Zt). Subsequently, the electromagnetic brake (EMT) is actuated and thus the feed means (Vr) brought to a standstill.
+</ABSTRACT>
+</TEXT>
+</DOC>

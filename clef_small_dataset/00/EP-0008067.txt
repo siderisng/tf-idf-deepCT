@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008067
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-3/54 H04Q-11/04 H04Q-3/545 <main>H04Q-11/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+indirectly controlled telecommunication system equipped with time switching stages in particular a telephone exchange system.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+muller helmut dipl-ing<sep>paulmichl erich dipl-ing<sep>rambold thomas dipl-ing<sep>sturner lienhard dipl-ing<sep>von ow hans peter dr<sep>werres bernhard dipl-ing<sep>muller, helmut, dipl.-ing.<sep>paulmichl, erich, dipl.-ing.<sep>rambold, thomas, dipl.-ing.<sep>sturner, lienhard, dipl.-ing.<sep>von ow, hans peter, dr.<sep>werres, bernhard, dipl.-ing.<sep>müller, helmut, dipl.-ing.meisenweg 3d-8033 planeggde<sep>paulmichl, erich, dipl.-ing.am würmufer 9d-8035 gautingde<sep>rambold, thomas, dipl.-ing.guardinistrasse 139d-8000 münchen 70de<sep>stürner, lienhard, dipl.-ing.richard-strauss-strasse 17 bd-8033 planeggde<sep>von ow, hans peter, dr.starnbergerstrasse 11d-8000 münchen 71de<sep>werres, bernhard, dipl.-ing.benediktenwand 23d-8000 münchen 90de<sep>muller, helmut, dipl.-ing.  <sep>paulmichl, erich, dipl.-ing.<sep>rambold, thomas, dipl.-ing.<sep>sturner, lienhard, dipl.-ing.<sep>von ow, hans peter, dr.<sep>werres, bernhard, dipl.-ing.<sep>muller, helmut, dipl.-ing.<sep>paulmichl, erich, dipl.-ing.<sep>rambold, thomas, dipl.-ing.<sep>sturner, lienhard, dipl.-ing.<sep>von ow, hans peter, dr.<sep>werres, bernhard, dipl.-ing. <sep>müller, helmut, dipl.-ing.meisenweg 3d-8033 planeggde   <sep>paulmichl, erich, dipl.-ing.am würmufer 9d-8035 gautingde<sep>rambold, thomas, dipl.-ing.guardinistrasse 139d-8000 münchen 70de<sep>stürner, lienhard, dipl.-ing.richard-strauss-strasse 17 bd-8033 planeggde<sep>von ow, hans peter, dr.starnbergerstrasse 11d-8000 münchen 71de<sep>werres, bernhard, dipl.-ing.benediktenwand 23d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  indirectly controlled telecommunications exchange system equipped with time channel couplers, in particular a telephone exchange system comprising a control unit (cp) for which items of information emanating from a plurality of other switching devices (gp1, . . . ) are regularly received at specific intervals of time for further processing, for which purpose the items of information are firstly stored in a buffer store (b) which comprises buffer store positions in assignment to the switching devices (gp1, . . . ) and consecutive items of information which emanate from the same switching device (gp1, . . . ) are compared with one another before items of information are fetched from the buffer store by the control unit (cp) and are further processed on the basis of changes in the items of information, characterized in that, of the items of information which overlap in time and which are individually assigned to the switching devices (gp1, . . . ) in each case one is received by a register (r) and then fed to a comparator (v), that the corresponding items of information previously stored in a store position of the buffer store (b) individually assigned to the relevant switching device (gp1, . . . ) is read-out therefrom and likewise fed to the comparator (v), that in the event that these two items of information are not identical the comparator (v) causes the information contained in the register (r) to be input into the previously read-out store position of the buffer store (b) in place of the stored information, and likewise causes a one-bit item of information indicating this non-identily to be input into one of a series of store positions (f) which are individually assigned to the store positions of the buffer store (b), that in accordance with the operating rhythm of the control unit (cp) and only during intervals between input operations of this kind a control component (sspz) of the control unit (cp) obtains from the buffer store (b) items of information which are contained in said buffer store, where these are marked by the one-bit-items of information, simultaneously erasing the one-bit-item of information in question with the aid of buffer store addresses, which items of information are fed to a working store (muz) of the control unit (cp), and that the buffer store position addresses which are to be used during this acquisition process are converted by means of a converter (u) from addresses of working store position addresses to be used during the input into the working store (muz). 
+</ABSTRACT>
+</TEXT>
+</DOC>

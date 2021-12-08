@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010625
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06F-13/00</main> G06F-12/08 G11C-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hierarchical memory system.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+capozzi anthony joseph<sep>capozzi, anthony joseph<sep>capozzi, anthony joseph1416 livingston placebinghamton new york 13903us<sep>capozzi, anthony joseph<sep>capozzi, anthony joseph1416 livingston placebinghamton new york 13903us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  storage hierarchy consisting of a first small high speed storage (51 in fig.  3) and a big low speed main memory (29) and a data register (55) connected via a first bidirectional bus (57) to the data processing unit (25) via a second bidirectional bus (59) to an error correction generator (61) which is connected via a third bidirectional bus (63) to the main memory (29), the busses and the data register (55) having a data flow width of one double word (8 bytes), and one page respectively comprising n double words being transferred between the main memory and the data register, characterized in that a first ring counter (a) is associated to the third bidirectional bus (63), a second ring counter (b) to the error correction bit generator (61), and a third ring counter (c) to the data register (55) and the high speed small storage (51), and that a fourth ring counter (d) is associated to the first bidirectional bus (57), and that the ring counters have n count stages each characterizing a double word in an associated position (61, 63, 55, 57). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004136
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-75/23 C09D-181/06 C08G-75/00 C08G-65/00 C09J-181/00 C08G-65/48 C08L-81/00 C08L-27/00 C09J-181/06 C08L-1/00 C08G-75/20 C08G-65/38 C09D-181/00 C08L-81/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+aromatic polyethersulphones, their preparation, dispersions thereof and their use as adhesives and coatings.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>
+</APPLICANT>
+<INVENTOR>
+stuart-webb johngb<sep>stuart-webb, john<sep>stuart-webb, john9 roundwood drivewelwyn garden city hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+aromatic polyethersulphones that are particularly useful  as adhesives and coatings having end groups of formula  -och₂cor, where r is alkyl or alkoxy.  preferred examples  are -och₂coch₃ and -och₂cooc₂h₅.  such polymers may  be made by heating polyethersulphones made from  halophenates or bisphenate/dihalide mixtures, in the presence  of a reagent of formula xch₂cor (x is halogen, preferably  chlorine), such as chloroacetone or ethyl chloroacetate,  for a short period of time.  such polymers of low molecular  weight (rv < 0. 25) are of particular use in coating compositions  comprising a dispersion of a fluorocarbon polymer dispersed  in a solution or dispersion of the polyethersulphone.  
+</ABSTRACT>
+</TEXT>
+</DOC>

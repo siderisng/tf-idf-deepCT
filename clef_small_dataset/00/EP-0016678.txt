@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016678
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-25/20 H04L-25/24 <main>H04L-7/02</main> H04L-7/033 H04L-25/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+clock recovery device.
+</TITLE>
+<APPLICANT>
+thomson csf mat telfr <sep>thomson-csf telephone<sep>thomson-csf telephone 146, boulevard de valmy 92707 colombes fr<sep>thomson-csf telephone<sep>
+</APPLICANT>
+<INVENTOR>
+athenes claude<sep>blouin philippe<sep>salle jacques edmond<sep>athenes, claude<sep>blouin, philippe<sep>salle, jacques edmond<sep>athenes, claude"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>blouin, philippe"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>salle, jacques edmond"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>athenes, claude<sep>blouin, philippe <sep>salle, jacques edmond<sep>athenes, claude "thomson-csf" scpi - 173, bld haussmann f-75360 paris cedex 08 fr<sep>blouin, philippe"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>salle, jacques edmond"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a remote clock reconstitution device for digital donation transmission receiver.This device comprises first means (17, 22) for the preparation of a clock signal of the same nominal frequency (F) as the remote clock signal, the second means (7, 14, 15, 16) of detectionPulses of the received signals (R⁺ and R⁻), regeneration of these received signals and the development of synchronization pulses and third means (23, 24, 25, 26, 27) of regenerated pulses.The invention applies to telephony.
+</ABSTRACT>
+</TEXT>
+</DOC>

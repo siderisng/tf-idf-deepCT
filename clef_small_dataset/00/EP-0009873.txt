@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009873
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-2/28 B41J-2/25 <main>B41J-3/12</main> B41J-2/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+segmented-ring magnet print head.
+</TITLE>
+<APPLICANT>
+tally corpus<sep>tally corporation <sep>mannesmann tally corporation8301 south 180th streetkent washington 98031 us  <sep>mannesmann tally corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bringhurst edward d<sep>chandrasekaran verivada<sep>wagner richard e<sep>bringhurst, edward d.<sep>chandrasekaran, verivada<sep>wagner, richard e.<sep>bringhurst, edward d.10615 2nd south seattlewa 98168us<sep>chandrasekaran, verivada12662 94th avenuen.e. kirkland, wa 98033us<sep>wagner, richard e.4983 120th avenues.e.bellevue, wa 98006us<sep>bringhurst, edward d.<sep>chandrasekaran, verivada<sep>wagner, richard e. <sep>bringhurst, edward d. 10615 2nd south seattle wa 98168us<sep>chandrasekaran, verivada12662 94th avenuen.e. kirkland, wa 98033us<sep>wagner, richard e.4983 120th avenues.e.bellevue, wa 98006us<sep>
+</INVENTOR>
+<ABSTRACT>
+a serial dot matrix printer print head comprises a base  plate (11), a ring magnet (13) having spaced magnetised  segments (29), a print hammer disc (15) and a face plate (17).   the disc (15) is formed of a magnetically permeable, resilient  material and has a plurality of inwardly projecting arms (39)  (hammers), each of which is aligned with a magnetized seg­ ment (29).  print blades (45) on the hammers (39) are aligned  with radial slots (57) formed in the face plate (17).  each print  blade (45) includes a dot-printing tip that projects outwardly  from the blade (45), and lies in a central aperture (55) in the  face plate (17).  mounted on the base plate (11), in line with  each hammer (39), is a post (19) having a coil (21) mounted  thereon.  when the coils (21) are de-energized, the magnetic  field formed at the tips of the posts (19) overcomes the  spring force of the related hammer (39), whereby the air gap  therebetween is closed and the hammer (39) is cocked.  
+</ABSTRACT>
+</TEXT>
+</DOC>

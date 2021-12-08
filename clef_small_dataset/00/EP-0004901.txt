@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004901
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-1/26 <main>H04M-19/08</main> H04M-1/31 H04M-1/27 H04M-19/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for subscriber stations with selecting means and current supply over the lines in telecommunication systems, especially telephone systems.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+hartmann karl dieter<sep>hartmann, karl dieter<sep>hartmann, karl dieterstrassberger strasse 22d-8000 münchen 40de<sep>hartmann, karl dieter<sep>hartmann, karl dieterstrassberger strasse 22d-8000 münchen 40de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a circuit arrangement for connection lines fed subscriber stations with selector devices in telecommunications, in particular remote intercoms, with a selecting device having only three connection points, which is fed via a rectifier bridge. If circuit arrangements of this type of selecting means (K), which provide the possibility of speed dialing or redial, a feed must also be carried out in the discussion. The object of the invention is to minimize the insertion attenuation during the contact status. This is achieved once in that the supply via a double-graetz bridge takes place, wherein in the consultation state, a high-ohmic bridge (D1, D2, D5, D6, R) and in the dialing state a low-impedance bridge (D1 to D4) operatively switched effectively becomes. Upon circuitry of the above type, in which the pulse contact controllable by an electronic pulse generator circuit is formed by a transistor (T1), the above object is achieved by switching off the transistor (T1) acting as the NSI pulse contact. The invention is applicable in all line-fed subscriber stations.
+</ABSTRACT>
+</TEXT>
+</DOC>

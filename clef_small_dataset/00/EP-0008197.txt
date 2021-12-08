@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008197
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 G01S-15/89 A61B-8/00 G01S-15/00 A61B-8/08 G01N-29/06 A61B-8/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for ultrasonic examination of objects.
+</TITLE>
+<APPLICANT>
+commw of australiaau<sep>the commonwealth of australia<sep>the commonwealth of australiac/o the department of health alexander buildingphillip australian capital territory 2606au<sep>
+</APPLICANT>
+<INVENTOR>
+robinson david errolau<sep>robinson, david errol<sep>robinson, david errol73 the outlookbilgola plateau, new south walesau<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus and a method for the ultrasonic examina­ tion of an object is disclosed.  the apparatus comprises:   means (30) for transmitting pulses of ultrasonic ener­ gy along a plurality of beams into the object and receiving  echoes of the pulses reflected along the beams by acou­ stic impedance discontinuities within the object, the means  in use directing the beams from a plurality of spaced posi­ tions in a single plane relative to the object and along a  plurality of beam directions in the single plane at each  spaced position;   means (31, 32) for forming a first display of informa­ tion representative of the position of acoustic impedance  discountinuities within the object from the echoes received  along the plurality of beams; and   means (34, 35) for determining the shift of echoes  from a selected point or region within the object received  along the beam in each beam direction from different ones  of the spaced positions caused by divergences of the velo­ city of propagation of ultrasonic energy through the object  in the respective beam direction from a median value, and  correlating the determinations of the shift of echoes in  each beam direction to obtain information representative of  the divergences of the velocity of propagation of ultrasonic  energy from the median value within the object.  
+</ABSTRACT>
+</TEXT>
+</DOC>

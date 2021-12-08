@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013558
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-143/30</main> C07C-303/06 C07C-309/00 C07C-303/00 C07C-139/00 C07C-309/35 C07C-67/00 C07C-301/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of naphthalene-1,3,5-trisulphonic acid.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+behre horst dr<sep>blank heinz ulrich dr<sep>schenk wolfgang dr<sep>behre, horst, dr.<sep>blank, heinz ulrich, dr.<sep>schenk, wolfgang, dr.<sep>behre, horst, dr.im hellsiefen 4d-5068 odenthalde<sep>blank, heinz ulrich, dr.am geusfeld 35d-5068 odenthalde<sep>schenk, wolfgang, dr.odenthaler strasse 62/64d-5090 leverkusende<sep>behre, horst, dr.<sep>blank, heinz ulrich, dr.  <sep>schenk, wolfgang, dr. <sep>behre, horst, dr.im hellsiefen 4d-5068 odenthalde<sep>blank, heinz ulrich, dr.am geusfeld 35d-5068 odenthalde<sep>schenk, wolfgang, dr.odenthaler strasse 62/64d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing naphthalene-1,3,5-trisulfonic acid by sulfating 1.5 -disulfated naphthalene in the form of a mixture obtained by combining naphthalene and SO₃ in the presence of an inert solvent at temperatures of -40 to + 20 °C, obtaining a SO₃ / naphthalene ratio of 2.5 to 10 throughout the combination, in anhydrous sulfuric acid with oleum under prior or simultaneous separation of the inert solvent at 60 to 110 ° C.
+</ABSTRACT>
+</TEXT>
+</DOC>

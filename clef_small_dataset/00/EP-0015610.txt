@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015610
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01P-1/203 H01P-7/08 H01P-1/20 <main>H01P-1/203</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+microwave image-frequency reflecting filter and microwave receiver comprising such a filter.
+</TITLE>
+<APPLICANT>
+electronique & physiquefr<sep>philips nvnl<sep>laboratoires d'electronique et de physique appliquee l.e.p.<sep>n.v. philips' gloeilampenfabrieken<sep>laboratoires d'electronique et de physique appliquee l.e.p.3, avenue descartesf-94450 limeil-brévannesfr<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>laboratoires d'electronique et de physique appliquee l.e.p. <sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+de ronde francois<sep>de ronde, francois<sep>de ronde, françoissociété civile s.p.i.d. 209 rue de l'universitéf-75007 parisfr<sep>de ronde, francois  <sep>de ronde, françoissociété civile s.p.i.d. 209 rue de l'universitéf-75007 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Frequency reflection filter Picture An hyperfaré for transmission line of the micro-ribbon type.This filter is intended to prevent, in a hyperfree member equipped with a mixer, the transmission of a parasitic frequency signal FP = 2 FOL-FS (with FS and FOL = Frequencies respectively of the receiving signal and the signal ofThe local oscillator) returned from the mixer to the tracier of the receiver.It comprises at least one quarter wave filter (20), an adapter circuit (21) and a resonator of the odd mode (22), all placed substantially at the same point of the path of the parasitic signal.
+</ABSTRACT>
+</TEXT>
+</DOC>

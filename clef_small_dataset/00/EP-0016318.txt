@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016318
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/14 <main>H04N-5/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+correction circuit to improve the contour sharpness of television pictures.
+</TITLE>
+<APPLICANT>
+siemens ag albisch<sep>siemens-albis aktiengesellschaft<sep>siemens-albis aktiengesellschaftpv/patente und verträge postfach, albisriederstrasse 245ch-8047 zürichch<sep>siemens-albis aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+tschannen gottfried<sep>tschannen, gottfried<sep>tschannen, gottfriedseebahnstrasse 177/153ch-8004 zürichch<sep>tschannen, gottfried<sep>tschannen, gottfriedseebahnstrasse 177/153ch-8004 zürichch<sep>
+</INVENTOR>
+<ABSTRACT>
+There will be a correction circuit for improving the contour sharpness of video images in devices where video signals are converted into digital form. In this correction circuit, a straight number of series-connected shift registers (SG1 ,.,, SG6) is seen before, which are connected to adding circuits (AS1 ,.,, AS3), whose number of half of the straight number of skids is directed, where In each of these adder circuits, the input signal (eg SCL) of a particular sliding gyride (eg SG2) is added with the output signal (eg SC5) of a similar in the series of all shift registers symmetrically located otherwise Ren shift registers (eg SG5). In addition, there is at least one read-only memory (FWS1, FWS2, FWS3) in this correction circuit, which the output si metal of the adder circuits (AS1, AS2, AS3) and the output signal of the last (SG3) of the first half of the sliding registers are supplied, and which The improved video signal outputs.
+</ABSTRACT>
+</TEXT>
+</DOC>

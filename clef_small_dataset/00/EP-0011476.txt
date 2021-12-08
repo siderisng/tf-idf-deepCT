@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011476
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-23/46 <main>C07C-9/04</main> C07C-4/06 B01J-35/00 C07C-9/04 C07C-9/00 C07C-1/00 B01J-23/00 C07C-4/00 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of methane by hydrogenolysis of hydrocarbons; a process for the production of a supported ruthenium catalyst; a catalyst comprising ruthenium.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+whyman robin<sep>whyman, robin<sep>whyman, robin23 rowan park quarry lanechristleton, near chester cheshiregb<sep>whyman, robin<sep>whyman, robin23 rowan park quarry lanechristleton, near chester cheshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+ supported ruthenium metal catalysts prepared by  reduction of carbonyl compounds give improved yields of  methane in the hydro-cracking of hydrocarbons, especially  alkanes and alkyl aromatics.  alkanes may be cracked to  methane at low temperatures (200-300°c) and the de-­ alkylation of alkyl benzenes may be controlled sufficiently to  allow removal of isomers e. g.  ethylbenzene from xylenes.   the novel catalysts comprise ruthenium clusters having  average dimensions below 20 å.  
+</ABSTRACT>
+</TEXT>
+</DOC>

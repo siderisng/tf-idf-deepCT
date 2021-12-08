@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003910
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+G10H-1/08 G10H-5/06 G10H-1/06 G10H-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+divider keyer circuit for synthesis organ
+</TITLE>
+<APPLICANT>
+marmon co us  <sep>marmon company<sep>marmon company39 s. lasalle streetchicago illinois 60603us<sep>
+</APPLICANT>
+<INVENTOR>
+schrecongost ray burdellus<sep>schrecongost, ray burdell<sep>schrecongost, ray burdell2412 w. sibley streetpark ridge illinois 60668us<sep>
+</INVENTOR>
+<ABSTRACT>
+a divider keyer circuit arrangement for a synthesis organ  utilizing four integrated circuit chips to generate the notes for  a 61 key manual with 9 harmonic drawbars or tabs.  on-chip  cross wiring and the use of clock lines for synchronization  pulses and other design techniques enable the use of four  identical integrated circuit chips in standard 40 pin packages  to be used to generate the full complement of notes for a 61  note keyboard.  
+</ABSTRACT>
+</TEXT>
+</DOC>

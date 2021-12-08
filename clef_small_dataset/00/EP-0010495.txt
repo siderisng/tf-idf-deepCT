@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010495
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06K-9/03</main> G11B-5/02 G06K-9/03 G06K-9/00 G06K-9/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+error correction device in a coded-character recognition system.
+</TITLE>
+<APPLICANT>
+cii honeywell bullfr<sep>compagnie internationale pour l'informatique± cii-honeywell bull (dite±cii-hb)<sep>compagnie internationale pour l'informatique cii - honeywell bull (dite cii-hb)94, avenue gambetta75020 parisfr<sep>compagnie internationale pour l'informatique cii - honeywell bull (dite  cii-hb)  <sep>
+</APPLICANT>
+<INVENTOR>
+maussion daniel<sep>maussion, daniel<sep>maussion, danielsaint-lambert-la-potherief-49000 angersfr<sep>maussion, daniel<sep>maussion, danielsaint-lambert-la-potherief-49000 angersfr<sep>
+</INVENTOR>
+<ABSTRACT>
+For character recognition in CMC-7 code, a reading head (12) provides an analog signal with two different level crimpeners (SEB and SEM) with different thresholds.Two treatment chains (Reb and reh) each receive the signal of one of the two level discriminators and deliver representatives representative of the short or long intervals of the coded camper.A multiplexer (MX) allows you to choose one or other of the output groups of the two processing chains, depending on the state of two error detection circuits (ERB ER ERH).In the absence of an error, the multiplexer chooses the processing chain connected to the lowest threshold level discriminator (SEB).In case of error, the signal of the other chain is transmitted by the multiplexer.Extension to a device with two readings with four treatment chains.
+</ABSTRACT>
+</TEXT>
+</DOC>

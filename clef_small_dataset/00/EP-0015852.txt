@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015852
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01H-3/00 G01H-17/00 G01H-3/14 G01H-3/10 G01S-5/18 G01S-5/00 G01S-5/22 <main>G01H-3/14</main> G01H-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for measuring the total or the directional power emitted by an acoustical source.
+</TITLE>
+<APPLICANT>
+mesure et le traitement des vi fr <sep>societe pour la mesure et le traitement des vibrations et du bruit - metravib (societe anonyme)<sep>societe pour la mesure et le traitement des vibrations et du bruit - metravib (société anonyme)24, bis chemin des mouillesf-69130 ecullyfr<sep>societe pour la mesure et le traitement des vibrations et du bruit - metravib (societe anonyme)<sep>
+</APPLICANT>
+<INVENTOR>
+gaudriot lionel<sep>mercusot michel<sep>gaudriot, lionel<sep>mercusot, michel<sep>gaudriot, lionelle bourgf-69380 lozannefr<sep>mercusot, michel4, rue charles porcherf-69009 lyonfr<sep>gaudriot, lionel  <sep>mercusot, michel <sep>gaudriot, lionelle bourgf-69380 lozannefr<sep>mercusot, michel4, rue charles porcherf-69009 lyonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The apparatus according to the invention allows, from the pressure measurements made in the acousti field that close to the sound source considered, to rebuild the distant acoustic field by an additive type treatment, with or without temporal offsets of the con trignselementary fictitious acoustic sources located on a surface arranged in the vicinity of the source.This apparatus comprises an acoustic antenna which disposed in the vicinity of the sound source and consti with at least one sensor, as well as a societal equipment at said antenna for the processing of the informations it gives.It is characterized by the fact that the sensor (s) forming the antenna is constituted by a network of micro phones (3, 4), distributed on at least two parallel surfaces (1, 2) opposite, and which form between themThree-dimensional patterns, the third dimension allows both the calculation of the particulate acceleration of the fluid.
+</ABSTRACT>
+</TEXT>
+</DOC>

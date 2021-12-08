@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003273
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05B-33/08 H01S-5/0683 H01L-33/00 H01S-5/068 H04B-10/00 H04B-10/04 H05B-33/02 <main>H01S-3/13</main> H01S-5/00 H04B-10/06 H04B-10/14 H01S-5/042 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+power supply for a semiconductor light source.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>"thomson-csf"- scpi  <sep>
+</APPLICANT>
+<INVENTOR>
+lecomte daniel<sep>malissin roland<sep>lecomte, daniel<sep>malissin, roland<sep>lecomte, daniel"thomson$csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>malissin, roland"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>lecomte, daniel<sep>malissin, roland<sep>lecomte, daniel"thomson$csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>malissin, roland"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Semiconductor light source feeding device LED light diodes or LED lighting diodes, whose power is regulated a regulating loop, comprising a switching device consisting of two doors (10, 20) controlled by a rocker ( 40), a ramp generator (resistance 12 and capacity 22) whose output is connected to a first input of the switching circuit (input of the door 10), the output of the control loop being connected to the second entry of this. Circuit (inlet of the door 20), the control input of this circuit (input of the dipper 40) receiving a characteristic signal of the power emitted by the diode (D1). In transient regime the diode (D1) is powered by the voltage ramp and diet established by a signal regulated by the loop. The device is applicable, in particular, to the supply of lasers intended for registration and reading of videodisks.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011076
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-29/20 <main>B41F-21/00</main> B41F-21/00 B41F-22/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sheet supporting device.
+</TITLE>
+<APPLICANT>
+heidelberger druckmasch ag de<sep>heidelberger druckmaschinen aktiengesellschaft<sep>heidelberger druckmaschinen aktiengesellschaftkurfürsten-anlage 52-60 postfach 10 29 40d-69019 heidelbergde<sep>heidelberger druckmaschinen aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+gogele peter wilhelm<sep>jeschke willi<sep>gogele, peter wilhelm<sep>jeschke, willi<sep>gögele, peter wilhelmfrühmesser-strasse 14d-6909 rauenbergde<sep>jeschke, williberghalde 68d-6900 heidelbergde<sep>gogele, peter wilhelm<sep>jeschke, willi <sep>gögele, peter wilhelm frühmesser-strasse 14 d-6909 rauenbergde<sep>jeschke, williberghalde 68d-6900 heidelbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+An arc gauge on transfer drums of multicolor rotary printing machines has the purpose of absorbing the freshly printed bow on the circumference of the drum that damage the print image is avoided.For this purpose, arc gauge elements are used with a support edge.On which the bow can hang up.The invention makes it possible to arrange the arc gate elements to support the sheet on a non-printing site, for which individual arc gate elements are folded out of the working position and the sheet carrying device can be pushed axially and radially on the drum jacket.
+</ABSTRACT>
+</TEXT>
+</DOC>

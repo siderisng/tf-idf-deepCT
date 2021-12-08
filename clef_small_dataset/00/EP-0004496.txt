@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004496
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/58 B01J-27/00 C07C-51/00 C07C-51/04 <main>C07C-53/48</main> C07C-53/16 C07C-53/48 C07C-53/00 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of monochloroacetyl chloride and, possibly, of monochloroacetic acid by hydration of trichloroethylene.
+</TITLE>
+<APPLICANT>
+rhone poulenc indfr<sep>rhone-poulenc industries<sep>rhone-poulenc industries22 avenue montaigne75008 parisfr<sep>rhone-poulenc recherches<sep>
+</APPLICANT>
+<INVENTOR>
+correia yves<sep>dumas gerard<sep>correia, yves<sep>dumas, gerard<sep>correia, yvesles lauzièresf-04160 chateau arnouxfr<sep>dumas, gérard3, rue jacques levelf-04600 saint-aubanfr<sep>correia, yves  <sep>dumas, gerard<sep>correia, yvesles lauzièresf-04160 chateau arnouxfr<sep>dumas, gérard3, rue jacques levelf-04600 saint-aubanfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Continuous process for the manufacture of monochloracetyl chloride, if necessary, accompanied by monochloracetic acid, from trichlorethylene and / or tetrachloro-1,1,1,2 ethane.It is characterized by the fact that a hydration reaction of trichlorethylene and / or tetrachloro-1,1,1,1.2 is carried out under pressure of hydrogen chloride in the liquid phase, in the presence of ferric chloride partially insuspension.Application of said process to obtain monochloracetyl chloride with very good selectivity.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007174
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10G-1/00 C10J-3/72 C10J-3/00 C10G-1/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+combined coal liquefaction-gasification process.
+</TITLE>
+<APPLICANT>
+gulf research development cous <sep>gulf research & development company<sep>gulf research &amp; development company p.o. box 2038 pittsburgh pennsylvania 15230us<sep>
+</APPLICANT>
+<INVENTOR>
+carr norman lus<sep>schleppy ronaldus<sep>schmid bruce kus<sep>shah yatish tus<sep>carr, norman l.<sep>schleppy, ronald<sep>schmid, bruce k.<sep>shah, yatish t<sep>carr, norman l.4215 el rancho driveallison park, pa 15101us<sep>schleppy, ronald330 w. jersey street, 1opelizabeth, nj 07202us<sep>schmid, bruce k.305 south miami courtdenver, co 80224us<sep>shah, yatish t1212 powers run roadpittsburgh, pa 15238us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a combination coal  liquefaction-gasification process wherein hydrocarbonace­ ous mineral residue-containing slurry (58) from the liquefac­ tion zone (22, 26) is recycled to the liquefaction zone and all  non-recycled hydrocarbonaceous mineral residue-containing  slurry (74) is passed to a gasification zone (76) for conversion  to synthesis gas to supply hydrogen (92) for the liquefaction  zone (22, 26).  it has now been discovered that in this process a  surprisingly high reaction selectivity in favor of the desired  distillate oil product is achieved by combining low liquefac­ tion zone residence times and relatively high rates of recycle  of mineral residue-containing slurry compared to feed coal  rate.  under these conditions the yield of the desired distillate  oil product can be increased to an unexpectedly high level  while the yields of both higher and lower boiling products are  each being decreased and while hydrogen consumption is  being reduced.  
+</ABSTRACT>
+</TEXT>
+</DOC>

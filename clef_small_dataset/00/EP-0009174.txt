@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009174
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-401/04 C07D-217/14 A61P-33/00 C07D-401/00 C07D-217/00 A61K-31/47 A61P-33/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+novel (5-(3,4-dihydroisoquinolin-1-yl)-1h-benzimidazol-2-yl)-carbamic acid alkylesters, processes for the production thereof, medicaments based on said compounds and process for the production of anthelmintic agents.
+</TITLE>
+<APPLICANT>
+bayer agde <sep>bayer ag <sep>bayer ag 51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+niemers ekkehard drde<sep>thomas herbert drde<sep>niemers, ekkehard, dr.<sep>thomas, herbert, dr.<sep>niemers, ekkehard, dr.in den birken 51ad-5600 wuppertal-1de<sep>thomas, herbert, dr.bergerheide 82bd-5600 wuppertal-1de<sep>
+</INVENTOR>
+<ABSTRACT>
+the compounds of the general formula <image> in which r is alkyl, r<1> and r<2> can be identical or different and are hydrogen, halogen, alkyl, halogenoalkyl, alkoxy, alkylthio, alkoxyalkyl, halogenoalkoxy or halogenoalkylthio, e. g.  the compound methyl [5-(3,4-dihydroisoquinolin-1-yl)-1h-benzimidazol-2- yl]carbamate, and their physiologically tolerated salts, have pronounced anthelmintic activity in human and in veterinary medicine.  they are obtained by reacting substituted o-phenylenediamines of the general formula <image> in a solvent or mixture of solvents at temperatures of about 0 to 120 deg c with a carbonic acid derivative, especially n,n'-bis- methoxycarbonyl-isothiourea s-methyl ether of the formula <image> expediently in the presence of an acid. 
+</ABSTRACT>
+</TEXT>
+</DOC>

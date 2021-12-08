@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004415
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F22B-35/00 F01K-13/00 <main>F01D-17/20</main> F01D-17/00 F22B-35/06 F22B-35/10 F01K-13/02 F01D-17/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system for minimizing valve throttling losses in a steam turbine power plant.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus <sep>westinghouse electric corporation <sep>westinghouse electric corporation westinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+binstock morton harvey<sep>johnson steven james<sep>stern louis paul<sep>binstock, morton harvey<sep>johnson, steven james<sep>stern, louis paul<sep>binstock, morton harvey1150 windermere drivepittsburgh pennsylvaniaus<sep>johnson, steven james1168 prince andrew court mcknight toadpittsburgh pennsylvaniaus<sep>stern, louis paul412 red rock drivewadsworth ohious<sep>binstock, morton harvey  <sep>johnson, steven james<sep>stern, louis paul<sep>binstock, morton harvey1150 windermere drivepittsburgh pennsylvaniaus<sep>johnson, steven james1168 prince andrew court mcknight toadpittsburgh pennsylvaniaus<sep>stern, louis paul412 red rock drivewadsworth ohious<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a system for reducing steam  throttling losses which occur across turbine governor valves,  by adjusting boiler throttle pressure so as to obtain  optimum govenor valve setting thereby providing for maximum  power production efficiency.  in a typical valve grouping  sequential positioning pattern, the flow rate  is assumed to be f3 where valves 1, 2 and 3 are fully open  causing substantially no throttling losses; however, valves 4  and 5 are partially open causing some losses.  an optimum  valve position program (56) is operative to determine optimum  flow demands corresponding to optimum valve positions  (72 and 71) which are greater and less than the present  flow demand.  then, the closest optimum flow demand, e. g.   (72) is selected.  based on this optimum flow demand, a  throttle pressure control program (34) adjusts throttle  pressure setpoint so that the governor valve (4, 5) positions  change to (72).  a major advantage of this invention  is fuel savings due to maximum time spent in the optimum  valve position conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

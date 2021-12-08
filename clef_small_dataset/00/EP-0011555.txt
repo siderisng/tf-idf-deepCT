@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011555
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+E04C-5/01 E04C-5/065 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing prefabricated concrete beams.
+</TITLE>
+<APPLICANT>
+ceribfr<sep>centre d'etudes et de recherches de l'industrie du beton manufacture<sep>centre d'etudes et de recherches de l'industrie du beton manufacturerue des longs réages b. p. 42f-28230 epernonfr<sep>
+</APPLICANT>
+<INVENTOR>
+dran francis michelfr <sep>dutruel francis andrefr <sep>dran, francis michel <sep>dutruel, francis andre<sep>dran, francis michelallée de la grande haief-78610 le perray-en-yvelinesfr<sep>dutruel, francis andréchemin de la ferme de croixf-28130 hanchesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the heel (11) of the beam is mounted in at least one prefabricated element (15) with a substantially u-shaped cross-section and produced from a heat insulating foamed plastic material.  this mounting is effected in such a way as to join together with a rigid bond the beam (12) and the prefabricated element (15) in order to obtain directly an insulated prefabricated beam.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+procédé pour la réalisation de poutrelles en béton préfabriquées. la présente invention concerne la réalisation des poutrelles en béton préfabriquées destinées à la fabrication de planchers isolés thermiquement. une technique classique de fabrication de planchers consiste à poser des poutrelles adjacentes parallèles, puis des entrevous entre les poutrelles, et à couler une dalle de compression sur l'ensemble poutrelles-entrevous. il est connu de réaliser des entrevous au moins en partie en matériau isolant pour améliorer l'isolation thermique au niveau du plancher. les entrevous sont réalisés par exemple en polystyrène expansé et ne participent pas à la tenue mécanique du plancher. toutefois, l'isolation thermique est loin d'être parfaite du fait de l'existence de ponts thermiques au niveau des poutrelles. pour résoudre ce problème, plusieurs solutions ont été proposées. ainsi, il est connu de réaliser des entrevous isolants portant chacun une languette en saillie sur un de leurs bords inférieurs, languette destinée à se placer sous le talon d'une des poutrelles portant l'entrevous. or, il s'avère que ces languettes sont très fréquemment cassées lors de la ma- nipulation des entrevous. cette solution n'est donc pas satisfaisante. il a aussi été proposé de couler le béton des poutrelles dans des éléments isolants en mousse expansée mis en place au niveau du plancher à réaliser et servant de coffrage et d'appui pour les entrevous ou hourdis isolants disposés entre les poutrelles. une telle solution est pratiquement irréalisable car le peu de résistance mécanique des éléments en mousse expansée ne permet d'assurer ni le bétonnage, ni la sécurité du personnel travaillant sur le chantier. il a encore été proposé de munir les faces inférieures des poutrelles d'un plancher d'éléments de recouvrement reliés à la poutrelle au moyen d'agrafes ou d'étriers. ceci nécessite la manipulation sur le chantier d'éléments relativement fragiles. la présente invention a pour but de réaliser directement des poutrelles prefabriquées isolées pour compléter l'isolation thermique des planchers, tout en permettant d'assurer une protection vis-à-vis du feu sans avoir recours à des parties fragiles susceptibles d'être facilement cassées lors du transport et du montage sur chantier. ce but est atteint par un procédé comportant la mise en place du talon de la poutrelle dans au moins un élément préfabriqué à section tranvsersale sensiblement en forme de u et réalisé en un matériau en mousse isolant thermique, la mise en place étant effectuée de manière à réaliser l'assemblage avec liaison rigide de la poutrelle et de l'élément préfabriqué, procédé selon lequel, conformément à l'invention, l'assemblage est réalisé en coulant le talon de la poutrelle dans l'é- lément préfabriqué servant de coffrage. un talon de poutrelle peut être coulé dans une rangée constituée d'éléments placés bout à bout. les éléments préfabriqués servent de coffrage perdu à la place des profilés métalliques en u servant habituellement de coffrage pour couler les talons de poutrelle. on obtient directement une poutrelle isolée préfabriquée simple à monter. l'élément préfabriqué est réalisé en un matériau qui allie de préférence les propriétés d'isolation thermique, de résistance au feu et de résistance mécanique. ce
+</DESCRIPTION>
+<CLAIMS>
+ revendications   1. procédé pour la réalisation d'une poutrelle en béton préfabriquée pour plancher, procédé selon lequel on met en place le talon de la poutrelle dans au moins un élément préfabriqué à section transversale sensiblement en forme de u et réalisé en un matériau en mousse isolant thermique, cette mise en place étant effectuée de manière à réaliser l'assemblage avec liaison rigide de la poutrelle et de l'élément préfabriqué, caractérisé en ce que   l'on    coule le talon de la poutrelle dans ledit élément préfabriqué servant de coffrage de manière à obtenir directement une poutrelle préfabriquée isolée.   2. procédé selon la revendication 1, caractérisé en ce que   l'on    coule un talon de poutrelle dans au moins une rangée formée d'éléments préfabriqués placés bout à bout.   3. procédé selon l'une quelconque des revendications 1 et 2, caractérisé en ce que l'on utilise un élément préfabriqué en mousse phénolique.    4. procédé selon l'une quelconque des revendications 1 et 2, caractérisé en ce que   l'on    utilise un élément préfabriqué en mousse minérale.   5. procédé selon l'une quelconque des revendications 1 à 4, caractérisé en ce que   l'on    utilise un élément préfabriqué en mousse contenant des charges minérales ou organiques.   6. procédé selon la revendication 5, caractérisé en ce que les charges sont des perles de polystyrène expansé.   7. procédé selon l'une quelconque des revendications 1 à 6, caractérisé en ce que la mousse a un ph sensiblement neutre.   8. procédé selon l'une quelconque des revendications 1 à 7, caractérisé en ce que   l'on    munit la face inférieure dudit élément d'un revêtement en plâtre.  
+</CLAIMS>
+</TEXT>
+</DOC>

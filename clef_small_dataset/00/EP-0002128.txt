@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002128
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/22 C07F-3/14 C07F-3/00 C07D-501/00 C07D-205/095 C07D-501/08 C07D-205/00 C07D-205/08 <main>C07F-3/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing azetidinone mercury sulfides.
+</TITLE>
+<APPLICANT>
+lilly co elius<sep>eli lilly and company<sep>eli lilly and company307, east mccarty streetindianapolis indiana 46285us<sep>eli lilly and company  <sep>
+</APPLICANT>
+<INVENTOR>
+hatfield lowell deloss<sep>hatfield, lowell deloss<sep>hatfield, lowell deloss4, thornbriar lanebargersville indiana 46106us<sep>hatfield, lowell deloss<sep>hatfield, lowell deloss4, thornbriar lanebargersville indiana 46106us<sep>
+</INVENTOR>
+<ABSTRACT>
+azetidinone mercury sulfides of formula    wherein   n is 0 or 1,   x is chloro or bromo, and   r is hydrogen or a carboxylic acid ester protecting  group,  are prepared by the reaction of penicillin derived thiazoline-azetidinones  of formula    with a mercuric halide in the presence of an alcohol or  glycol.  they are useful intermediates in the preparation of  cephalosporin compounds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

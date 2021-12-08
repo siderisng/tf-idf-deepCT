@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017400
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01M-6/18 H01M-4/06 H01M-4/52 <main>H01M-4/48</main> H01B-1/06 C01G-53/00 H01M-4/48 H01M-10/36 C01G-51/00 H01M-4/58 H01B-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochemical cell and method of making ion conductors for said cell.
+</TITLE>
+<APPLICANT>
+atomic energy authority ukgb<sep>united kingdom atomic energy authority<sep>united kingdom atomic energy authority11 charles ii streetlondon sw1y 4qpgb<sep>united kingdom atomic energy authority <sep>
+</APPLICANT>
+<INVENTOR>
+goodenough john bannister<sep>mizushima koichi<sep>wiseman philip john<sep>goodenough, john bannister<sep>mizushima, koichi<sep>wiseman, philip john<sep>goodenough, john bannister31, linton roadoxfordgb<sep>mizushima, koichi1-3-7 nishi-kamakurakamakura, kanagawajp<sep>wiseman, philip john41, church streetkidlington, oxfordgb<sep>goodenough, john bannister <sep>mizushima, koichi  <sep>wiseman, philip john<sep>goodenough, john bannister31, linton roadoxfordgb<sep>mizushima, koichi1-3-7 nishi-kamakurakamakura, kanagawajp<sep>wiseman, philip john41, church streetkidlington, oxfordgb<sep>
+</INVENTOR>
+<ABSTRACT>
+fast ion conductors of the formula axmyo₂ where a is li,  na or k, m is a transition metal e. g.  co or ni + < 1 and y ≈ 1  have been made by electrochemical extraction at low  temperature a⁺ ions from compounds of the formula  axmyo₂ where o < x ≦ 1.  these ion conductors can be used as solid-solution  electrodes in electrochemical cells.  
+</ABSTRACT>
+</TEXT>
+</DOC>

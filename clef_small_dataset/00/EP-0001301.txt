@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001301
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-12/00 C07C-17/02 <main>C07C-17/02</main> C07C-67/00 C07C-17/00 B01J-12/02 C07C-21/00 C07C-21/09 C07C-21/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of a mixture of dichlorobutenes from butadiene and chlorine.
+</TITLE>
+<APPLICANT>
+du pont us <sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company<sep>
+</APPLICANT>
+<INVENTOR>
+redwine terry wayne<sep>redwine, terry wayne<sep>redwine, terry waynep.o. box 148la place louisiana 70068us<sep>redwine, terry wayne<sep>redwine, terry waynep.o. box 148la place louisiana 70068us<sep>
+</INVENTOR>
+<ABSTRACT>
+production of a mixture of dichlorobutenes by continuous  chlorination in vapor phase of butadiene to a mixture of  dichlorobutenes at a temperature about 90-250°c, wherein  chlorine is premixed with a portion of butadiene and introduced  in one end of a tubular reactor, while the remainder of  the butadiene, which is used in a large excess, is introduced at  one or more points downstream from the point of introduction  of the chlorine-butadiene mixture, the temperature and  volume of this additional butadiene being sufficient to effectively  cool the reacting mixture so the maximum temperature  in the reactor does not exceed about 250°c but does not fall  downstream from the butadient injection point below about  130°c.  
+</ABSTRACT>
+</TEXT>
+</DOC>

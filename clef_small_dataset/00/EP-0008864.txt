@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008864
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-471/00 C07D-241/44 C07D-471/04 C07D-241/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyridopyrazine and quinoxaline derivatives, processes for their preparation, and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+fisons plcgb<sep>fisons plc<sep>fisons plc fison house princes streetipswich suffolk ip1 1qhgb <sep>
+</APPLICANT>
+<INVENTOR>
+appleton richard anthonygb<sep>johnston davidgb<sep>appleton, richard anthony<sep>johnston, david<sep>appleton, richard anthony41 thirlmere road barrow-on-soarloughborough, leicestershiregb<sep>johnston, david29 cleeve mount, thorpe acreloughborough, leicestershiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+there are described compounds of formula i,    in which r₁ is phenyl substituted by halogen, alkoxy,  alkyl, carboxy-alkyl, -nr₄r₅, carboxy or alkoxy carbonyl,   r₃ is hydrogen, alkyl, mono- or di-carboxy alkyl, halo,  alkoxy, phenyl, halo-phenyl, hydroxy, phenoxy, thiol, thioal­ koxy, thiophenoxy, -nr₄r₅, cyano, -cooh, carboxyureido,  -cf₃, -cor₆, hydroxyalkyl, aminoalkyl, or alkoxy substituted  by nr₄r₅,   ring a is a benzene or a pyridine ring which optionally  carries up to 4 substituents r₃, which may be the same or  different,   r₄ and r₅, which may be the same or different, each  represent hydrogen, phenyl, halophenyl or alkyl, the alkyl  optionally being substituted by alkoxy or by a mono- or di­ alkyl or unsubstituted amino group; or r₄ and r₅, together  with the nitrogen atom to which they are attached, form a  piperidine, morpholine or an optionally alkyl substituted  piperazine ring, and   r₆ is hydrogen or alkyl,   provided that (i) when r₁ is phenyl substituted by  chlorine or bromine, ring a is not a benzene ring substituted  by chlorine or bromine, or (ii) when r₁ is phenyl substituted  my methoxy r₃ is not phenyl,   and pharmaceutically acceptable salts, esters and  amides thereof.  there are also described methods for making the com­ pounds and pharmaceutical, e. g.  anti-inflammatory, com­ positions containing the compounds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

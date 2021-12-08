@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003497
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-73/00 <main>H01H-71/74</main> H01H-71/74 H01H-3/08 H01H-71/00 H01H-73/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adjusting device with stopping steps to release electric switching devices.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+troebel werner<sep>troebel, werner<sep>troebel, werneralt-gatow 57/59d-1000 berlin 22de<sep>troebel, werner<sep>troebel, werneralt-gatow 57/59d-1000 berlin 22de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is concerned with an adjusting device for trigger electrical switching devices with an outer and an internal adjusting member. The inner adjustment member (40) carries a radially protruding resilient rastarm (43) which cooperates with stationary locking grooves. For connection to the outer adjustment member (60), a broken annular sleeved connection (46, 51, 64, 65) is designed so that both eccentric forces and the resilient rastarm can be transmitted asymmetrical spread forces and a torque. For this purpose, two larger pins (64) in the longitudinal axis (56) of the latching arm (43) serve with an approximately rectangular undercut and two smaller, provided with radial protrusions (65) provided between these pin (65). These protrusions have flanks (73, 74) which lie in parallel to the longitudinal axis (54) of the adjusting device planes (55). The adjusting members are made in the injection molding process made of plastic as complete parts.
+</ABSTRACT>
+</TEXT>
+</DOC>

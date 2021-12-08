@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012071
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-471/00 C07D-207/12 C07D-487/10 A61K-31/40 A61P-11/08 C07D-487/00 A61P-11/00 C07D-471/10 C07D-207/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+azoniaspiro derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+syntex incus<sep>syntex (u.s.a.) inc.  <sep>syntex (u.s.a.) inc.3401 hillview avenuepalo alto california 94303us<sep>
+</APPLICANT>
+<INVENTOR>
+pfister jurg rus<sep>pfister, jurg r.<sep>pfister, jurg r.1500 oak avenuelos altos, california 94022us<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula    wherein r¹ and r² are the same or different and are c₁ to  c₆ alkyl; c₅ or c₆ cycloalkyl; c₅ or c₆ cycloalkenyl; phenyl,  optionally substituted with a substitutent selected from the  group c₁ to c₆ alkyl, c₁ to c₆ alkoxy and halo; or c₄ or c₅  heterocyclic aryl, the heteroatom selected from the group  oxygen, nitrogen and sulfur;   n is the integer 4 or 5; and   x is a pharmaceutically acceptable anion.  these compounds are useful as anticholinergic agents.  the compounds of formula (i) are prepared by reacting a  compound represented by formula    with a compound of the formula x(ch₂)nx, wherein r¹, r², x  and n are as defined above.  
+</ABSTRACT>
+</TEXT>
+</DOC>

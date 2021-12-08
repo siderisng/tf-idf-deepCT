@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004036
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01B-5/00</main> G01B-11/30 G01B-21/30 H01L-21/68 G01B-5/00 G01B-5/28 H01L-21/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+planeness measuring device.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+dreisbach bodo dipl-ing<sep>eidling karl<sep>dreisbach, bodo, dipl.-ing.<sep>eidling, karl<sep>dreisbach, bodo, dipl.-ing.osterleite 21d-8170 bad tölzde<sep>eidling, karlergertshausen 1bd-8195 egling 1de<sep>dreisbach, bodo, dipl.-ing.<sep>eidling, karl<sep>dreisbach, bodo, dipl.-ing.osterleite 21d-8170 bad tölzde<sep>eidling, karlergertshausen 1bd-8195 egling 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+For checking and sorting Si slices with a flatness <6 μm, these are measured in the back in the back.The measurement accuracy ≦ 1 μm requires an intake plate which is more planable than 0.2 μm.For the slide, a pivoting device is provided, which ensures the maintenance of a once set wedge error compensation also under another measuring device.
+</ABSTRACT>
+</TEXT>
+</DOC>

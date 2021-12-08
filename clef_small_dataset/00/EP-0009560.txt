@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009560
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/50 A61P-9/08 A61P-15/00 C07D-237/00 A61P-13/02 <main>C07D-237/04</main> C07D-401/04 A61P-9/00 C07D-409/04 A61P-1/00 C07D-237/04 A61P-9/12 A61P-9/06 A61P-9/10 C07D-409/00 A61P-13/00 C07D-401/00 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1,4-dihydropyridazine-3-carbonyl compounds, process for their preparation, the compounds for use in curing diseases, medicaments containing them and process for the preparation of the medicaments.
+</TITLE>
+<APPLICANT>
+bayer ag de  <sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+bossert friedrich dr<sep>franckowiak gerhard dr<sep>heise arend dr<sep>towart robertson dr<sep>bossert, friedrich, dr.<sep>franckowiak, gerhard, dr.<sep>heise, arend, dr.<sep>towart, robertson, dr.<sep>bossert, friedrich, dr.claudiusweg 7d-5600 wuppertal 1de<sep>franckowiak, gerhard, dr.pahlkestrasse 17d-5600 wuppertalde<sep>heise, arend, dr.möbeck 50d-5600 wuppertal 11de<sep>towart, robertson, dr.claudiusweg 9d-5600 wuppertal 1de<sep>bossert, friedrich, dr.  <sep>franckowiak, gerhard, dr.<sep>heise, arend, dr.<sep>towart, robertson, dr.<sep>bossert, friedrich, dr.claudiusweg 7d-5600 wuppertal 1de<sep>franckowiak, gerhard, dr.pahlkestrasse 17d-5600 wuppertalde<sep>heise, arend, dr.möbeck 50d-5600 wuppertal 11de<sep>towart, robertson, dr.claudiusweg 9d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+New 1,4-dihydropyridazine-3-carbonyl compounds of formula I in which R is hydrogen, an alkyl radical, an aryl or aralkyl radical, R¹ for an alkyl, aryl or aralkyl radical or for the group OR⁵ or, z.b.The compound of formula Ia are obtained by reacting compounds of formula II in inert organic solvents with ozone and then with hydrazines of formula III.Herein R², R³, R⁴, R⁵, R⁶, R⁷, R¹ ', R²', R³ ', R⁴' and X have the meaning given in the description.The compounds thus obtained can be derivatized in accordance with generally known methods of saponification, esterification, transesterification or amidation.They can be used because of their circulatory influencing, spasmoly tables and anti-inflammatory action as antihyper tensive agents, as vasodilators, as coronar therapeutics, as spasmolytics and as anti-inflammatory inhibitors.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009070
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-23/06 C07F-7/18 C08L-23/00 C08K-5/34 <main>C07F-7/08</main> C08K-5/5425 C08K-5/00 C08L-101/00 C07F-7/00 C08K-5/5419 C07F-7/08 C08K-5/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+t-octyl silicon peroxides and their use for crosslinking polyethylenes.
+</TITLE>
+<APPLICANT>
+argus chemus<sep>argus chemical corporation<sep>argus chemical corporation633 court streetbrooklyn new york 11231us<sep>argus chemical corporation <sep>
+</APPLICANT>
+<INVENTOR>
+bock lawrence a<sep>halle reidar<sep>bock, lawrence a.<sep>halle, reidar<sep>bock, lawrence a.2216 comistas drivewalnut creek californiaus<sep>halle, reidar205 apollo courtnovato califoniaus<sep>bock, lawrence a. <sep>halle, reidar<sep>bock, lawrence a.2216 comistas drivewalnut creek californiaus<sep>halle, reidar205 apollo courtnovato califoniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a silicon peroxide selected from the formulas:   (a) (r′)4-n-si-(oor)n  wherein n is an integer of 1-3; r is a t-octyl group in which  a tertiary carbon atom is directly bonded to the peroxy  group; and r′ is selected from alkyl, phenyl, and alkenyl  (provided n is not more than 2), and a carbon chain which  forms a saturated heterocyclic ring with the silicon atom,  each r′ group having up to about 10 carbon atoms.  typi­ cal is trimethyl (2,4,4-trimethyl-2-pentylperoxy) silane.   these molecules are useful as catalysts for curing polyes­ ter resins and are particularly advantageous as crosslinking  agents for high density polyethylene in that crosslinking  is effected at lower temperatures than required by the prior  art.  
+</ABSTRACT>
+</TEXT>
+</DOC>

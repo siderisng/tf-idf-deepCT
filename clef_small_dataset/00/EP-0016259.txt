@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016259
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-5/00 B41J-5/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+key head for high-speed type keys.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+kraemer herbertde<sep>storm franzde<sep>kraemer, herbert<sep>storm, franz<sep>krämer, herbertfasanenweg 6d-8080 fürstenfeldbruckde<sep>storm, franzkarl-mathes-strasse 13d-8025 unterhachingde<sep>
+</INVENTOR>
+<ABSTRACT>
+in the case of key heads for key panels, a large operating surface should be given on the one hand, but, on the other hand, also sufficient distance between the key heads should also be given in order to avoid operating errors due to fingernails and the like.  for this purpose, the invention provides a square baseplate (1) on which a disc-like truncated cone of transparent material is applied, the surface of the truncated cone (3) being domed inward in the manner of a sphere.  between the truncated cone (3) and the baseplate (1), a symbol plate (2) is located for lettering purposes.  a key head according to the invention is particularly suitable for high-speed keys of data display devices.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+tastenkopf für schnellschreibtasten die sre sung betrifft einen tastenkopf für schnallschreib- tasten, insbesondere von datensichtgeräten. bei datensichtgeräten, aber auch bei anderen einrichtun- gen der elektrischen nachrichtentechnik, werden häufig tastenfelder benötigt, bei denen die einzelnen tasten neben- und untereinander angeordnet #nd. diese tastenköpfe dienen neben der bedienung der taste häufig#auc.h gleichzeitig für beschriftungszwecke. dabei soll das beschrif tungsfeld möglichst so ausgebildet sein, dass eine zweizeilige beschriftung bis an den rand ermöglicht wird. diese bedingung wird am besten von rechteckigen oder quadratischen tasten erfüllt. derart ausgebildete tastenköpfe haben jedoch den nachteil, dass sehr leicht auch nachbartasten gleichzeitig mitbetätigt werden können, z.b. durch fingernägel und dergleichen. aufgabe der vorliegenden erfindung ist es, einen tastenkopf für schnellschreibtasten zu schaffen, der neben op timalen bedingungen für eine eventuell aufzubringende schrift auch sicher in der bedienung ist. zur lösung dieser aufgabe wird die eri#dung derart ausgebildet, dass auf einer quadratischen grundplatte ein als scheibe ausgebildeter kegelstumpf mit elliptischer grundfläche aus durchsichtigem material aufgebracht ist, dass die oberfläche dieses kegelstumpfes kugelförmig nach innen gewölbt ist, und dass zwischen grundplatte und scheibe eine symbolplatte für eeschriftungszwecke liegt. durch diese ausbildung wird eine fast rechteckförmige be s chri ftung sf lache erhalten, wobei jedoch der abstand der tastenköpfe voneinander einen entsprechenden sicherheitsabstand gewährleistet, so dass ein sicheres bedienen des tastenfeldes auch bei rasch aufeinanderfolgenden be dienvorgängen sichergestellt ist. trotz des verlaufes - der oberfläche der ellipse nach unten in kugelform bleibt noch genügend raum für#die darunter liegende qua- dratische symbolplattev der tastenkopf ist gleichzeitig der form des fingers optimal angepasst. anhand der ausfmirungsbeispi.ele nach den figuren 1 und 2 wird die erfindung näher erläutert. fig. 1 zeigt mehrere neben- und untereinander liegende tasten, die zu einem tastenfeld zusammengeführt sind-, fig. 2 zeigt in draufsicht, seitenansicht und vorderan sicht einen einzelnen tastenkopf. das tastenfeld nach figur 1 weist eine grosse bedien- und beschriftungsfläche a in v#richtung auf, gleichzeitig aber auch einen grossen abstand b in x-richtung, wodurch das mitreissen der nächsten taste durch den fingetnagel vermieden wird. ein einzelner tastenkopf ist in figur 2 dargestellt. auf der quadratischen grundplatte 1 sitzt ein scheibenformig ausgebildeter kegelstumpf 3, der aus durchsichtigem material ausgeführt ist. unter diesem tastenkopf ist eine fast quadratische symbolplatte 2, die beschriftungszwekken dient, angeordnet. tastenkopf mit rechteckiger grundplatte, auf dem eine kegelstumpfförmige scheibe, deren oberfläche kugelförmig nach innen gewölbt ist, aufgebracht ist und die mit einer symbolplatte unterlegt ist.
+</DESCRIPTION>
+<CLAIMS>
+patentanspruch   tastenkopf für schnelischreibtasten, insbesondere von da   tensichtgeräten,    d a d u r c h g e k e- n n z e i c h n e t , dass auf   ener    quadratischen grundplatte ein als scheibe ausgebildeter kegelstumpf mit elliptischer grundfläche aus durchsichtigem material aufgebracht ist, dass die oberfläche dieses kegelstumpfes kugelförmig nach innen gewölbt ist, und dass zwischen grundplatte und scheibe eine symbolplatte für   beschriftungszvecke    liegt.  
+</CLAIMS>
+</TEXT>
+</DOC>

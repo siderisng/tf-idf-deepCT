@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004238
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/40 H01L-29/06 H01L-29/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+integrated circuit and method of manufacturing it.
+</TITLE>
+<APPLICANT>
+thomson csffr <sep>thomson-csf<sep>thomson-csf 173, boulevard haussmann 75008 parisfr<sep>
+</APPLICANT>
+<INVENTOR>
+tonnel eugenefr<sep>tonnel, eugene<sep>tonnel, eugène"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+these integrated circuits are disposed on a semiconductor crystal and operate at voltages of the order of 40 volts.  in this case of high voltages, the electric fields which exist between two layers of the integrated circuit are sufficiently great to cause migration of the charges of electrons which are situated within a layer (5), and to reverse the conductivity of the semiconductor.  the sensitive points of the integrated circuit are equipped with a screen (16), which is brought to a specified potential and which entirely surrounds each sensitive region.  applications to integrated circuits, especially to those intended for telephone installations.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

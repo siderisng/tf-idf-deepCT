@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010844
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09K-11/06 <main>C07C-143/74</main> C07C-301/00 C07D-213/76 C07D-213/72 C07C-311/00 C09K-11/07 C07D-213/00 C07C-67/00 C07C-311/51 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+novel n,n'-bis(trifluoromethylsulfonyl)oxamides, chemiluminescent compositions containing them and processes for generating chemiluminescence employing said compositions.
+</TITLE>
+<APPLICANT>
+american cyanamid cous<sep>american cyanamid company<sep>american cyanamid companyberdan avenuewayne new jersey 06904us<sep>american cyanamid company<sep>
+</APPLICANT>
+<INVENTOR>
+mohan arthur gaudens<sep>rauhut michael mckay<sep>tseng shin-shyong<sep>mohan, arthur gaudens<sep>rauhut, michael mckay<sep>tseng, shin-shyong<sep>mohan, arthur gaudens34 windy willow waysommerville new jerseyus<sep>rauhut, michael mckay1266 sherline drivebridgewater new jerseyus<sep>tseng, shin-shyong16 brentwood roadraritan new jerseyus<sep>mohan, arthur gaudens  <sep>rauhut, michael mckay <sep>tseng, shin-shyong<sep>mohan, arthur gaudens34 windy willow waysommerville new jerseyus<sep>rauhut, michael mckay1266 sherline drivebridgewater new jerseyus<sep>tseng, shin-shyong16 brentwood roadraritan new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+novel n,n′-bis(trifluoromethylsulfonyl)oxamides of the  formula (i)   cf₃-so₂--co-co--so₂-cf₃ (i)    wherein r and r′ have the meaning given in the descrip­ tion (preferably chlorinated phenyl or pyridyl, nitrophenyl  or methoxyethyl), when used in compositions comprising  also an organic fluorescer such as 1-chloro-9,10-bis(phe­ nylethynyl)-anthracene and a diluent such as dibutyl phtha­ late, will furnish chemiluminescent light with good light  intensity and quantum efficiency upon reaction with a  peroxide component such as hydrogen paroxide.  the pre­ paration of the compounds of the formula (i) is described;  e. g.  the particulary preferred compound n,n′-bis(2,4. 5-­ trichlorophenyl)-n,n′-bis-trifluoromethylsulfonyl)-oxamide  is prepared on the following way:  
+</ABSTRACT>
+</TEXT>
+</DOC>

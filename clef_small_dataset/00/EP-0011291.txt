@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011291
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B65H-3/06</main> G06K-13/16 B65H-3/06 B65H-5/06 G07D-11/00 G06K-13/02 B65H-3/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for separating sheets from a pile.
+</TITLE>
+<APPLICANT>
+nixdorf computer agde<sep>nixdorf computer aktiengesellschaft<sep>siemens nixdorf informationssysteme aktiengesellschaftfürstenallee 7d-33102 paderbornde<sep>nixdorf computer aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+weigel peter<sep>weigel, peter<sep>weigel, peterbeerengrund 114d-4791 borchen-dörenhagende<sep>weigel, peter<sep>weigel, peterbeerengrund 114d-4791 borchen-dörenhagende<sep>
+</INVENTOR>
+<ABSTRACT>
+In a triggering device, which is associated with a container for sheet material, peeling transport rollers (35) and at distances of the transport rollers (35) are provided dipping counterclockwise rollers (34).For individual deductions also of wrinkling sheet material, z.b.From value pods, the mating rollers (34) consist of a dimensionally stable material and the plurality of transport rollers (35) from an elastic material z.b.With cell structure.At least one transport roller (35) consists of a dimensionally stable and non-elastic material.
+</ABSTRACT>
+</TEXT>
+</DOC>

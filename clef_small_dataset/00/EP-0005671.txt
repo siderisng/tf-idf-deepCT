@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005671
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-45/12 B65H-45/18 <main>B65H-45/18</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+machine for folding drawings to a determined size.
+</TITLE>
+<APPLICANT>
+giovannini michel<sep>giovannini, michel<sep>giovannini, michel16 boulevard du parcf-92200 neuillyfr<sep>giovannini, michel<sep>
+</APPLICANT>
+<INVENTOR>
+giovannini michel<sep>giovannini, michel<sep>giovannini, michel16 boulevard du parcf-92200 neuillyfr<sep>giovannini, michel  <sep>giovannini, michel16 boulevard du parcf-92200 neuillyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a machine for folding portfolio-wise with a single hinge and to a determined format a band (23) having, in the direction of the length of said band, a length superior to the double of the length of the format by making a first folding, initiated by a blade (36) and guided by cylinders, at a distance of one end of the band which is equal to the double of the length (l) of the format, and a second folding initiated by a second blade (36') and guided by cylinders, in the middle of the length of the band already folded a first time, characterized in that the machine comprises a continuous conveyor element (24) positivly driven and including three strands (24a, 24b, 24c) following each other while being substantially perpendicular two by two, the two extreme strands being parallel and moving in reverse directions, and in that the band (23) to be folded is introduced in the machine with the surface having to form the two outer surfaces of the portfolio situated below and at the rear of the band in order to come in contact, under the pressure of pressure elements (26a), with the first strand (24a) of the continuous conveyor (24), the control of the folding blades being under the control of the detection by a detector (45) placed upstream at a distance at least equal to twice length of the folding format of the rear edge of the band, the double folding being effected in two directions substantially perpendicular, the band brought in contact with the first strand (24a) and folded a first time by a blade (36) the path of travel of which is substantially parallel to the second strand (24b) being moved in contact with said second strand (24b) by being applied against said strand by pressure elements (27 to 30), then folded a second time by a second blade (36') the path of travel of which is substantially parallel to the third strand (24c) in order to be then moved in contact with said third strand (24c) by being applied against said third strand by pressure elements (32 to 35), the rear portion of the band which corresponds to the folding format remaining, during the totality of the folding operation, in guiding contact with the first to third strands (24a, 24b and 24c) of the continuous conveyor element (24). 
+</ABSTRACT>
+</TEXT>
+</DOC>

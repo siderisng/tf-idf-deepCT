@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004398
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02C-1/04 F17D-1/075 F02C-1/00 F17D-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+installations for the distribution of gas combustible under pressure
+</TITLE>
+<APPLICANT>
+acecbe<sep>ateliers de constructions electriques de charleroi (acec) societe anonyme<sep>ateliers de constructions electriques de charleroi (acec) société anonymeavenue lloyd george 7b-1050 bruxellesbe  <sep>
+</APPLICANT>
+<INVENTOR>
+fremineur andrebe<sep>guiette jean-louisbe<sep>fremineur, andre<sep>guiette, jean-louis<sep>fremineur, andrérue de dahlem 19b-4540 visébe<sep>guiette, jean-louisavenue du pic vert, 37b-1640 rhode ste genesebe<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention is applicable to the installations for the distribution of pressurised combustible gas.  it consists in inserting at least one heat exchanger w through which the combustible gas flows in the inlet and outlet feed circuit - of a detensioning turbine t fed by the said combustible gas.  it is applicable to the assemblies comprising detensioning turbines/electrical generators for energy recovery.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

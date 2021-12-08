@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002446
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-13/043 G05D-7/06 F15B-13/00 F15B-11/05 F15B-11/00 F16K-31/42 F16K-31/12 <main>G05D-7/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrically controlled four way valve functioning independently from the load.
+</TITLE>
+<APPLICANT>
+rexroth mannesmann gmbhde<sep>mannesmann   rexroth gmbh<sep>mannesmann rexroth gmbhjahnstrasse 3 - 5d-97813 lohrde<sep>mannesmann rexroth gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+reiner bartholomaus<sep>reiner, bartholomaus<sep>reiner, bartholomäusweinbergstrasse 17d-8781 neuendorfde<sep>reiner, bartholomaus<sep>reiner, bartholomäusweinbergstrasse 17d-8781 neuendorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an electrically controlled valve (1), in the form of a four way valve, functioning independently of the load, comprising an electrical flow measuring device (m) whose electrical output signal (48) provides the true value signal in an electric control loop for regulating the position of the control piston (5) in order to maintain the quantity of flow preset by means of an electrical set value signal, characterized in that the flow measuring device is formed by an electrical flowmeter (m) which is mounted at least in one of the connections of the valve (1) and comprises a measuring piston (44) which is displaceable as a function of the flow rate and an inlet and outlet (piv, piii), and the measuring piston (44) is coupled to an electrical measuring instrument (46) which delivers the true value signal. 
+</ABSTRACT>
+</TEXT>
+</DOC>

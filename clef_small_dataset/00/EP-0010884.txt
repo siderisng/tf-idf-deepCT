@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010884
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05B-41/32 H05B-41/30 G03B-15/05 <main>G03B-15/05</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic flash device.
+</TITLE>
+<APPLICANT>
+polaroid corpus<sep>polaroid corporation<sep>polaroid corporation549 technology squarecambridge, massachusetts 02139us<sep>polaroid corporation<sep>
+</APPLICANT>
+<INVENTOR>
+biber conrad heinrich<sep>land edwin herbert<sep>biber, conrad heinrich<sep>land, edwin herbert<sep>biber, conrad heinrich120 stratford roadneedham, massachusetts 02194us<sep>land, edwin herbert163 brattle streetcambridge, massachusetts 02139us<sep>biber, conrad heinrich  <sep>land, edwin herbert<sep>biber, conrad heinrich120 stratford roadneedham, massachusetts 02194us<sep>land, edwin herbert163 brattle streetcambridge, massachusetts 02139us<sep>
+</INVENTOR>
+<ABSTRACT>
+a high-voltage battery (12) of low internal impedance  is connected directly across a flash discharge tube (14) to  provide a flash discharge current through the tube without  the use of a primary storage capacitor.  a gating means  (46) is connected in series with the flash discharge tube  (14) to stop the discharge when a sufficient amount of arti­ ficial illumination has been reached.  
+</ABSTRACT>
+</TEXT>
+</DOC>

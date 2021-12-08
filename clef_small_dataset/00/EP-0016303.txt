@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016303
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-29/00 G01N-21/65 G01N-21/63 G01J-3/44 G01N-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photoacoustic rotational raman spectroscopy.
+</TITLE>
+<APPLICANT>
+allied corpus<sep>allied corporation<sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.) morristown new jersey 07960 us <sep>
+</APPLICANT>
+<INVENTOR>
+barrett joseph johnus<sep>west gary allenus<sep>barrett, joseph john<sep>west, gary allen<sep>barrett, joseph john18 forest drivemorris plains, new jesey 07950us<sep>west, gary allen36 upper rainbow traildenville, new jersey 07034us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for spectroscopic material  analysis are provided.  two coherent beams of monochroma­ tic radiation are directed through a sample of material.  a  tuning mechanism adjusts the frequency difference between  the radiation beams to equal substantially the rotational fre­ quency of a preselected constituent of the material.  molecular  energy of a preselected constituent of the material is  increased, thereby producing a detectable signal in the form  of a pressure wave.  the signal is received by a detecting  mechanism which indicates the magnitude thereof.  
+</ABSTRACT>
+</TEXT>
+</DOC>

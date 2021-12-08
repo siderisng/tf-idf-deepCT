@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002174
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-47/90 B29C-69/00 B29C-47/00 B29D-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for producing a foil-clad hollow plastic profile.
+</TITLE>
+<APPLICANT>
+roehm gmbhde<sep>roehm gmbh<sep>röhm gmbhkirschenalleed-64293 darmstadtde<sep>
+</APPLICANT>
+<INVENTOR>
+vetter heinz drde<sep>wenzel franz drde<sep>vetter, heinz, dr.<sep>wenzel, franz, dr.<sep>vetter, heinz, dr.taunusstrasse 92d-6101 rossdorf/ darmst.de<sep>wenzel, franz, dr.zeyherweg 5d-6100 darmstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+By extrusion of plastic in the thermoplastic state, a hollow profile strand (8) is generated and retracted from the extrusion nozzle (1) with a film (7) and collected together with this into a mold channel (2), preferably a liquid lubricantvia a lubricating groove (13) between the film (7) and the inner wall of the mold channel is introduced.The entrance lips (9) of the mold channel (2) are separated from the nozzle (1) by a narrow passage gap (6) for the film.In the mold channel, the hollow profile strand covered with the film is pressed by elevated gas pressure in its hollow chambers or by a negative pressure in the mold channel at its inner wall and cooled to under the softening temperature.
+</ABSTRACT>
+</TEXT>
+</DOC>

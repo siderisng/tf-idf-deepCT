@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006220
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 <main>C07F-9/65</main> C07F-9/24 C07F-9/6584 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 3-acyl-2-alkyl(aryl)-1.3.2-benzoxazaphospholanes.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+felcht utz-hellmuth dr<sep>felcht, utz-hellmuth, dr.<sep>felcht, utz-hellmuth, dr.kaiserstrasse 99d-6793 bruchmühlbachde<sep>felcht, utz-hellmuth, dr.<sep>felcht, utz-hellmuth, dr.kaiserstrasse 99d-6793 bruchmühlbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+3-acyl-2-alkyl and 3-acyl-2-aryl-1,3,2-benzoxazaphos pholanes are prepared by reacting dichloro phosphans, 2-N acylaminophenolenes and chlorine water-binding organic nitrogen bases in molar ratio is about 1: 1: ≧ 2 in an inert solvent without isolating an intermediate stage in the entry method.The products, which are large part of new compounds, are intermediates for the production of alkyl and aryl-1-oxophospholanes, which in turn are catalysts for the production of polyurethane hard foams.
+</ABSTRACT>
+</TEXT>
+</DOC>

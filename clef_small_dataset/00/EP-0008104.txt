@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008104
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-17/32 G01S-17/00 G01S-17/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+distance and velocity measuring apparatus using a noise-frequency modulated transmitter.
+</TITLE>
+<APPLICANT>
+honeywell gmbhde<sep>honeywell gmbh<sep>honeywell gmbhkaiserleistrasse 55d-6050 offenbach am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+holzapfel wolfgang dr-ingde<sep>holzapfel, wolfgang, dr.-ing.<sep>holzapfel, wolfgang, dr.-ing.kilianstädter strasse 13d-6454 bruchköbelde<sep>
+</INVENTOR>
+<ABSTRACT>
+To create a high-resolution laser removal meter, the method known from the so-called Horton-heights from the microwave technology is used to modulate the transmitter frequency by the signal of a noise rator (7), used by the laser beam either inside or outside the laserreeso nator (2, 3, 4) Stochastically phase modulated.On the receiving side, an optical correlation (14) of the reflected target beam with a reference beam, which is either derived directly from the transmitter beam or supplied by a reference oscillator.By means of averaging the difference frequency, a one of the aiming distance is generated proportional to the signal, the system for the speed measurement provides an electrical signal for optical double frequency wrench.
+</ABSTRACT>
+</TEXT>
+</DOC>

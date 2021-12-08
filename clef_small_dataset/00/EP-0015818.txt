@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015818
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-15/00 C07F-9/38 C01B-15/037 <main>C01B-15/037</main> C09K-15/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stabilised aqueous solutions of hydrogen peroxide.
+</TITLE>
+<APPLICANT>
+oxysynthesefr<sep>oxysynthese<sep>oxysynthese6, rue cognacq-jayf-75007 parisfr<sep>oxysynthese<sep>
+</APPLICANT>
+<INVENTOR>
+thirion pierre<sep>thirion, pierre<sep>thirion, pierre15, hameau du manoir noyareyf-38360 sassenagefr<sep>thirion, pierre  <sep>thirion, pierre15, hameau du manoir noyareyf-38360 sassenagefr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  aqueous stabilized pure or commercial solution of hydrogen peroxide having a concentration between 30 and 90 per cent by weight of 100% hydrogen peroxide, characterized in that it contains as stabilizer diethylene triaminopenta (methyl phosphonic acid) having the formula  see diagramm : ep0015818,p8,f3  in the form of the acid, the sodium, potassium or ammonium salt, utilized in a concentration between 5 and 100 mg per liter of the solution of hydrogen peroxide. 
+</ABSTRACT>
+<DESCRIPTION>
+"solutions aqueuses stabilisees de peroxyde d'hydrogene" la présente invention concerne la stabilisation des solutions aqueuses de peroxyde d'hydrogène. les solutions de peroxyde d'hydrogène présentent une extrême sensibilité aux catalyseurs de décomposition, en général représentés par les ions des métaux lourds et polyvalents tels que : fer, cuivre, plomb, titane, manganèse, etc ... dans les solutions commerciales de peroxyde d'hydrogène, le niveau de concentration de l'ensemble de ces catalyseurs est en général inférieur au mg/litre et souvent au l/loe de mg/litre. malgré cette grande pureté, on ajoute toujours un ou plusieurs stabilisants b ces solutions. cette opération apporte en outre une certaine garantie contre une légère pollution accidentelle possible lors des opérations de transport, de dépotage et surtout de dilution. par solutions de peroxyde d'hydrogène on désigne les solutions aqueuses de peroxyde d'hydrogène "pures" ou commerciales fournies par les producteurs a des concentrations comprises entre 30 et 90 x en poids de peroxyde d'hydrogène 100 % et, par extension, les solutions plus diluées, avant emploi par les utilisateurs. il est communément convenu par les producteurs qu'une solution de peroxyde d'hydrogène ayant une perte relative de moins-de 5 x au test looo (soit plus de 95 eh de stabilité) correspond aux normes commerciales de stabilité. la stabilité du peroxyde d'hydrogène se mesure par des tests de laboratoire dont le plus employé consiste b porter un échantillon de peroxyde b une température comprise entre 95 et 100 c, de l'y maintenir durant 15 a 24 heures. après refroidissement et réajustement du volume a celui initialement jaugé, la mesure de la perte (t titre relative % du peroxyde : (t - t') x 100 de titre relative % du peroxyde : est t l'expression du taux de décomposition relative en "n" heures a 100 (ou 950 c). la stabilité est l'expression inverse, soit : 100 - (taux de décomposition r.). on a également utilisé une autre méthode permettant de suivre en fonction du temps et b tout moment, l'évolution de la décomposition. cette méthode consiste a recueillir dans une éprouvette a gaz graduee et a mesurer l'oxygène fourni par la decomposition d'un echantillon porté x 1000 c. au cours du test de mesure en continu de la vitesse de décomposition selon l'oxygène degagé, on constate après une période plus ou moins longue, que très nombreux sont les stabilisants couramment décrits ou connus par l'art antérieur qui deviennent subitement inefficaces. les acides r - aminodiacétiques, tels les acides amino triacétiques (nta) ou éthylène diamino tétracétique (edta) ou encore diéthylène triamino pentacétique (dtpa), spécialement synthétisés en vue de la complexion des cations métalliques en milieu aqueux, se révèlent des molécules très fragiles et dégradables dans les milieux peroxyde d'hydrogène chauds. ces molécules séquestrantes introduites dans les solutions de peroxyde d'hydrogène et soumises au test 1000 c en 15 heures se présentent comme des composés pratiquement inertes ; suivant les conditions, le gain de stabilite' est trop léger ou nul et parfois négatif. or, le test de mesure continue de la décompositions b 100 c, permet de
+</DESCRIPTION>
+<CLAIMS>
+ revend icat ions    1. solution aqueuse stabilisée de peroxyde d'hydrogène caractérisée en ce qu'elle contient   a    titre de stabilisant l'acide diéthylène triamino penta (méthyl phosphonique) de formule  (h2p03-ch2)2n   ch2-ch2-n-ch2-ch2-n(ch2-p03h2)2       ch2p03h2     2. solution aqueuse stabilisée de peroxyde d'hydrogène selon la revendication 1, caractérisée en ce que le stabilisant est sous forme acide, de sel de sodium, potassium ou ammonium.    3. solution aqueuse stabilisée de peroxyde d'hydrogène selon la revendication 1 ou 2 caractérisée en ce que le stabilisant est utilisé   9    une concentration comprise entre 5 et 100 mg par litre de solution de peroxyde d'hydrogène.    4. solution aqueuse stabilisée de peroxyde d'hydrogène selon la revendication 3, caractérisée en ce que le stabilisant est utilisé   x    une concentration comprise entre 25 et 50 mg par litre de solution de peroxyde d'hydrogène.     5. solution aqueuse stabilisée de peroxyde d'hydrogène selon une quelconque des revendications 1   g    4, caractérisée en ce que le stabilisant est associé   b    au moins un autre stabilisant de nature chimique très différente.    6. solution aqueuse stabilisée de peroxyde d'hydrogène selon une quelconque des revendications 1   9    5, caractérisée en ce que la solution de peroxyde d'hydrogène pure ou commerciale est une solution dont la  concentration est comprise entre 30 et 90 %, en poids de peroxyde d'hydrogène 100 %.    7. solution aqueuse commerciale stabilisée deperoxyde d'hydrogène selon la revendication 6, caractérisée en ce qu'elle est obtenue par dilution avant emploi d'une solution stabilisée comme précédemment.  
+</CLAIMS>
+</TEXT>
+</DOC>

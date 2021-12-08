@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002027
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07B-29/00</main> C07C-47/277 C07C-41/00 C07C-33/02 C07C-59/58 C07C-29/17 C07C-69/007 C07C-69/145 C07C-45/00 C07C-59/00 C07C-29/56 C07C-29/00 C07C-43/02 C07B-31/00 B01J-23/00 C07B-61/00 C07C-67/00 C07B-35/08 C07C-51/00 C07C-43/00 C07B-35/00 C07C-67/28 B01J-27/00 C07C-43/178 C07C-67/293 C07C-69/00 C07C-33/00 C07C-27/00 C07C-47/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 2-butene-1-ol compounds by isomerization of the corresponding 3-butene-1-ol compounds.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+rebafka walter dr<sep>rebafka, walter, dr.<sep>rebafka, walter, dr.schuetzenstrasse 4d-6901 eppelheimde<sep>rebafka, walter, dr.<sep>rebafka, walter, dr.schuetzenstrasse 4d-6901 eppelheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+Improvement of the method for producing 2-butene-1-ol compounds by isomerization of 3-butene-1-ol compounds in the presence of palladium catalysts and hydrogen by doping the palladium catalyst with selenium or tellurium.The 2-butene-1-ole prepared according to the invention are partly solvent, on the other part valuable starting materials for the production of solvents, dyes, paints, paints and pest control agents.
+</ABSTRACT>
+</TEXT>
+</DOC>

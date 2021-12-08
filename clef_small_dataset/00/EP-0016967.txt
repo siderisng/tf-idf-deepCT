@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016967
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-11/40 H02P-7/06 H02P-7/18 G05B-1/02 H02P-7/288 <main>H02P-5/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a device for driving a dc motor with feedback control.
+</TITLE>
+<APPLICANT>
+fanuc ltd jp<sep>fanuc ltd  <sep>fanuc ltd.3580, shibokusa aza-komanba, oshinomuraminamitsuru-gun, yamanashi 401-05jp<sep>fanuc ltd<sep>
+</APPLICANT>
+<INVENTOR>
+hachisuka yoshiaki<sep>kobari katsuo<sep>hachisuka, yoshiaki<sep>kobari, katsuo<sep>hachisuka, yoshiaki2-24-2, akatsuki-chohachioji-shi tokyojp<sep>kobari, katsuo17-35-210, fujimi-cho 6-chometachikawa-shi tokyojp<sep>hachisuka, yoshiaki  <sep>kobari, katsuo<sep>hachisuka, yoshiaki2-24-2, akatsuki-chohachioji-shi tokyojp<sep>kobari, katsuo17-35-210, fujimi-cho 6-chometachikawa-shi tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a device for driving a dc motor (1) with feedback  control provides a circuit (14) for judging whether the mo­ tor (1) is in acceleration or in deceleration and a circuit  (171-174) for switching the gain modification signal, and  said switch circuit (171-174) is controlled by the output  signals of said judgement circuit (14).  
+</ABSTRACT>
+</TEXT>
+</DOC>

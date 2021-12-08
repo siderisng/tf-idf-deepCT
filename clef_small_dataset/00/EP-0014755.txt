@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014755
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C01B-25/237</main> C01B-25/00 C01B-25/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing alkaliphosphate solutions free of zinc.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+ehlers klaus-peter dr<sep>mulder roelof<sep>schrodter klaus dr<sep>ehlers, klaus-peter, dr.<sep>mulder, roelof<sep>schrodter, klaus, dr.<sep>ehlers, klaus-peter, dr.am steinfeld 5d-5042 erftstadtde<sep>mulder, roelofwilgestraat 25s'gravenpoldernl<sep>schrödter, klaus, dr.röntgenstrasse 23d-5000 köln 30de<sep>ehlers, klaus-peter, dr. <sep>mulder, roelof<sep>schrodter, klaus, dr.  <sep>ehlers, klaus-peter, dr. am steinfeld 5d-5042 erftstadtde<sep>mulder, roelofwilgestraat 25s'gravenpoldernl<sep>schrödter, klaus, dr.röntgenstrasse 23d-5000 köln 30de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for producing zinc-free alkali phosphate solutions from zinc contaminated phosphoric acid solutions by adjusting a pH of 8 to 14 in the output product by adding alkali hydroxide or carbonate, then the above-lying suspension with H₂S or an alkali salvy solutionPressure and intensive mixing reacted and subsequently separating the entire th solids from the purified alkali phosphate solution while maintaining the pressure.
+</ABSTRACT>
+</TEXT>
+</DOC>

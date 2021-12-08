@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015640
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16C-3/02 F16F-15/34 F16F-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a balance weight and a method of balancing rotary shafts.
+</TITLE>
+<APPLICANT>
+gkn group services ltdgb<sep>gkn group services limited <sep>gkn group services limitedgroup head office p.o. box 55smethwick warley west midlands b66 2rzgb   <sep>
+</APPLICANT>
+<INVENTOR>
+harris leighton richardgb<sep>houghton raymond charlesgb<sep>harris, leighton richard<sep>houghton, raymond charles<sep>harris, leighton richard43 lawrence weston roadbristol 11gb<sep>houghton, raymond charles10 silverlow roadnailsea bristolgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of balancing a rotary shaft by applying a  balance weight temporarily thereto by a first adhesive  means, e. g.  an adhesive tape (13), and subsequently heat­ ing the balance weight to activate a second, permanent,  adhesive provided on the surface of the balance weight  applied to the shaft.  checking of shaft balance is permitted  while the weight is temporarily attached, before it is per­ manently fixed.  
+</ABSTRACT>
+<DESCRIPTION>
+balancing of shafts this invention relates to the balancing of rotary shafts. the invention has been developed in relation to transmission shafts of the type usually referred to as propeller shafts, for motor vehicles, and is particularly, although not exclusively, applicable to the balancing of shafts made of a fibre reinforced resin composite material. hitherto, motor vehicle transmission shafts have usually been made of steel tube with appropriate torque transmitting end fittings, e.g. universal joints, secured thereto, and the procedure for balancing such a shaft has been to place it in a balancing machine in which the shaft is rotated so that a reading can be obtained of the magnitude and position of extra weight needed to be applied to the shaft to balance it, an appropriate balancing weight or weights then being spot welded to the shaft. such a method of attachment is not possible in the case of a composite shaft as it is not a material which can be welded. it is the object of the present invention to provide for balancing of a shaft which is of composite or other material which cannot be readily welded, although it will be appreciated that the invention is also applicable to shafts of steel or other easily weldable material. according to one aspect of the present invention, we provide a balance weight for application to a rotary shaft, comprising a weight element having a surface shaped to conform to the surface of a shaft to which it is to be applied, a first adhesive means for securing the weight element temporarily to the shaft, and a second adhesive means provided on said surface of the weight element and capable of teing activated on subjection thereof to suitable treatment permanently to secure the weight element to the shaft. the first adhesive means preferably comprises an adhesive tape which adheres to the material of the shaft on contact therewith. there is then preferably provided a removable protective layer for said tape for preventing the latter from adhering before it is required. the second adhesive means may comprise a substance capable of being caused to adhere to the shaft surface upon the application of heat, and typically may thus be a thermosetting adhesive which is caused to adhere by chemical reaction when heated, or a "hot melt" adhesive. heat may be applied to the balance weight by the contact of a hot element therewith. according to a further aspect of the invention, we provide a method of balancing a rotary shaft, comprising rotating the shaft in a balancing machine and obtaining a reading of corrective weight needed to be applied to the shaft to balance same, applying an appropriate weight or weights to the shaft and holding it or them in position temporarily by first adhesive means, again rotating the shaft to check the balance thereof, and subjecting the weight or weights to treatment to activate second adhesive means associated therewith and permanently to secure the weight or weights to the shaft.
+</DESCRIPTION>
+<CLAIMS>
+claims   1. a balance weight for application to a rotary shaft, comprising a weight element having a surface shaped substantially to conform to the surface of a shaft to which it is to be applied, a first adhesive means for securing the weight element temporarily to the shaft, and second adhesive means on said surface of the weight element and capable of being activated on subjection of the weight element to suitable treatment permanently to secure the weight element to the shaft.   2. a balance weight according to claim 1 wherein the first adhesive means comprises an adhesive tape.   3. a balance weight according to claim 1 wherein said second adhesive means comprises an adhesive which is sensitive to heat.   4. a balance weight according to claim 1 wherein said second adhesive means comprises a relatively thick layer on said weight element surface for accommodating slight disconformity between said surface and said shaft surface.    5. a method of balancing a rotary shaft, comprising rotating a shaft in a balancing machine and obtaining a reading of corrective weight needed to be applied to the shaft to balance same, applying at least one appropriate weight to the shaft and holding said at least one weight in position temporarily by first adhesive means, again rotating the shaft to check the balance thereof, and subjecting said least one weight to treatment to activate a second adhesive means associated therewith and permanently to secure the weight or weights to the shaft.     6. a method according to claim 5 wherein said second adhesive means is sensitive to heat, and said treatment comprises contacting the weight or weights with a heated element.  
+</CLAIMS>
+</TEXT>
+</DOC>

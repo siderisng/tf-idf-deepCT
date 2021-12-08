@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013103
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60R-16/02 H04L-1/08 B60R-16/03 H04J-3/24 <main>B60R-16/02</main> H04L-5/00 H04Q-9/14 G08C-25/00 H04L-5/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+motor vehicle electrical system.
+</TITLE>
+<APPLICANT>
+lucas ind plcgb<sep>lucas industries plc<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>lucas industries public limited company<sep>
+</APPLICANT>
+<INVENTOR>
+mcculloch james mitchell<sep>mcculloch, james mitchell<sep>mcculloch, james mitchell83 acheson roadhall green, birmingham b28 ottgb<sep>mcculloch, james mitchell<sep>mcculloch, james mitchell83 acheson roadhall green, birmingham b28 ottgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an automotive vehicle electrical system includes a  transmitter device (10) which is sensitive to the status of a set  of control switches (s1 to s8) to produce a sequence of digital  words, each containing an address code, a repetition of the  address code, a command code, and a repetition of the com­ mand code.  a set of receivers (a,b,c) are distributed around  the vehicle and each controls a set of loads (la, lb, lc).  each  receiver includes address code recognition logic and operates  to control the associated loads in accordance with the com­ mand code included in the same word as its address code, and  also verification logic for checking that each code is consistent  with its inverse.  
+</ABSTRACT>
+</TEXT>
+</DOC>

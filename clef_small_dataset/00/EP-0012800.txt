@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012800
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-45/33 B01J-23/16 <main>C07C-49/12</main> B01J-23/34 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 2,3-butanedione and acetone from isobutanal.
+</TITLE>
+<APPLICANT>
+huels chemische werke agde<sep>chemische werke huls ag<sep>chemische werke hüls ag- rsp patente / pb 15 -d-45764 marlde<sep>chemische werke huls ag  <sep>
+</APPLICANT>
+<INVENTOR>
+scharf helmut dr<sep>scharf, helmut, dr.<sep>scharf, helmut, dr.schetterstrasse 82d-4235 schermbeckde<sep>scharf, helmut, dr.<sep>scharf, helmut, dr.schetterstrasse 82d-4235 schermbeckde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the manufacture of butane-2,3 dione and acetone by catalytic oxidation of isobutanal in the gas phase, characterized in that a mixture containing 1 - 4. 5% by volume of isobutanal, 1. 2 - 99% by volume of oxygen and, if necessary, an inert diluent is passed over a catalyst at a temperature of 150 - 250 degrees c and a reaction pressure of 1 - 5 bar for a contact period of 0. 5 - 8 sec. , the catalyst consisting of manganese oxide and at least one of the oxides of zinc or titanium, the manganese oxide concentration in the finished catalyst amounting to 0. 1 - 10% by weight. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur herstellung von butan-2.3-dion butan-2 3-dion (diacetyl) ist ein in der natur weit verbreiteter aro- mastoff und steht ein wertvoller ausgangsmaterial für chemische synthesen dar. es sind daher für seine herstellung eine reihe von verfahren sowohl für die flüssigphase als auch für die gasphase entwickelt worden (siehe z b. beilstein, band 1, i, - iv. ergänzung). auch die verwendung von isobutanal als ausgangsstoff für die synthese von butan-2. 3-dion ist bereits beschrieben worden. so wird zum beispiel in der de-ps 11 62 34d isobutanal in der flüssigphase mit kupfer(li)-chlorid oder eisen(iii)-chlorid oxidiert. bei diesem verfahren werden jedoch für die oxidation sehr grosse (überstöchiometrische) mengen an salzen benötigt und zusätzlich treten grosse korrosionsprobleme auf. in der jp-ps 766 233 wird ein verfahren vorgeschlagen, bei dem isobutanal in der gasphase bei 350 oc an einem katalysator umgesetzt wird, der aus den oxiden von molybdän, vanadin und antimon besteht. bei diesem verfahren entstehen neben butan-2. 3-dion grössere mengen an methacrolein, aceton, essigsäure und acetaldehyd. die bildung von mehreren rop- pelprodukten macht die aufarbeitung des reaktionsproduktes schwie - rig und ist auch aus markttechnischen gründen unerwünscht. hinzu kommt, dass die entstehendc essigsäure korrossionsprobleme aufwirft. die bei diesem verfahren erforderlichen hohen reaktionstemperaturen erfordern ausserdem vielrohrreaktoren, die mit hilfe von salzschmelzen thermostatisiert werden müssen, so dass das v erfah- ren einen hohen investitionsaufwand erfordert und ausserdem schwierig zu betreiben ist in der japanischen patentanmeldung 6201/58 wird ein verfahren mit einem katalysator aus molybdänoxid in nom- bination mit den oxiden von eisen, wismut, antimon, tellur oder kobalt vorgeschlagen. bei diesem verfahren beträgt jedoch die ausbeute an butan-2. 3-dion und aceton maximal 64 mol-%. über die restlichen 36 mol-%o werden keine angaben gemacht, jedoch ist zu vermuten, dass auch bei diesem verfahren methacrolein und essigsäure als weitere nebenprodukte auftreten. aufgabe der vorliegenden erfindung ist es, ein verfahren zur herstellung von butan-2. 3-dion durch katalytische oxidation von isobutanal in der gasphase zu entwickeln, bei dem neben butan-2. 3-dion hauptsächlich nur aceton entsteht, bei dem die summe der selektivitäten von butan-2. 3-dion und aceton möglichst hoch ist und das auf salzschmelzenreaktoren verzichten kann. diese aufgabe wird erfindungsgemäss entsprechend den angaben der patentansprüche gelöst. das erfindungsgemässe verfahren hat die vorteile, dass als koppelprodukt zum butan-2. 3-dion praktisch nur aceton entsteht, die ausnutzung des einsatzstoffes sehr hoch ist und die reaktion bei relativ niedrigen temperaturen in mit sie dewa s ser thermostatisierten vielrohrreaktoren durchgeführt werden kann, so dass das verfahren trotz der relativ niedrigen selektivität für butan-2. 3-dion wirtschaftlicher arbeitet. die erfindungsgemässen katalysatoren lassen sich als voll- oder trägerkatalysatoren nach den üblichen methoden herstellen. bevor- zugt werden vollkatalysatoren, da einige in der technik übliche träger einen selektivitätsminderndeff einfluss auf die reaktion aus üben. wegen der vielzahl der möglichen träger muss im einzelfall der vorgeschene träger unter reaktionsbedingungen auf seine selek tivitätsmindernden eigenschaften geprüft werden der manganoxid - gehalt des fertigen katalysators beträgt 0, 1 bis 10 gewichtsprozent. unter 0 > 1 gewichtsprozent wird der umsatz für technische zwecke zu niedrig und konzentrationen über 10 gewichtsprozent bringen keine zusätzlichen vorteile mehr. ausserdem
+</DESCRIPTION>
+<CLAIMS>
+patentanspruch:   verfahren zur herstellung von   butan-2    3-dion durch katalytische oxidation von isobutanal in der gasphase, dadurch gekennzeichnet, dass man ein gemisch aus 1 bis 4,   5 vol.    -% isobutanal,   1,2    bis 99   vol. -%    sauerstoff und gegebenenfalls einem inerten verdünnungsmittel bei temperaturen von 150 bis 250    c, reaktionsdrücken von 1 bis    5 bar und kontaktzeiten von 0, 5 bis 8 sec über einen katalysator leitet, der aus manganoxid und mindestens einem der oxide von zink oder titan besteht, wobei in dem fertigen katalysator die manganoxidkonzentration 0, 1 bis 10 gewichtsprozent beträgt.,  
+</CLAIMS>
+</TEXT>
+</DOC>

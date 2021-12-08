@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005047
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05D-21/02 G05D-21/00 B01J-49/00 C02F-1/42 B01J-47/00 C02F-1/00 B01J-47/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ water treatment system and control therefor.
+</TITLE>
+<APPLICANT>
+water refining cous   <sep>water refining company, inc.<sep>water refining company, inc.500 north verity parkwaymiddletown ohio 45042us<sep>
+</APPLICANT>
+<INVENTOR>
+davis stephen hus<sep>muckerheide donald jus<sep>davis, stephen h.<sep>muckerheide, donald j.<sep>davis, stephen h.c/o 500 north verity parkwaymiddletown ohio 45042us<sep>muckerheide, donald j.c/o 500 north verity parkwaymiddletown ohio 45042us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a water treatment system which  includes a water treatment tank (20) containing a resin bed  (22) through which water is passed for treatment thereof  during normal operation of the treatment system.  a brine  tank (24) contains a brine solution (26) which, when passed  through the resin bed, results in regeneration of the treatment  effectiveness of the bed.  a plurality of electrically  actuatable valves (28,30) direct water through the treatment  tank during normal operation of the treatment system and  direct brine solution through the treatment tank in a  regeneration operation.  a control for the water treatment  system includes switches (s1 to s5) for manually entering  control data, a display (98) for displaying data, and a sensor  (31) for sensing the volume of water treated by the water  treatment system.  a controller circuit (figure 2) is responsive  to the switches (s1 to s5) and to the sensor (31) and is  connected to display data on the display (98).  the controller  circuit provides electrical control signals to the plurality of  electrically actuatable valves.  the sequence, duration, and  time of occurrence of the electrical control signals is  determined by the control data entered through the  switches.  
+</ABSTRACT>
+</TEXT>
+</DOC>

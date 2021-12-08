@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012850
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 <main>C07C-45/45</main> C07C-45/75 C07C-45/45 C07D-307/46 C07D-333/00 C07D-333/22 C07D-307/00 C07D-333/16 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of ketones by reacting carboxylic-acid halides with alkyl aluminium compounds.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+schaeffer georg dr<sep>spielmann werner dr<sep>schaeffer, georg, dr.<sep>spielmann, werner, dr.<sep>schaeffer, georg, dr.herderstrasse 58d-6238 hofheim am taunusde<sep>spielmann, werner, dr.johann-strauss-strasse 18ad-6233 kelkheim (taunus)de<sep>schaeffer, georg, dr.<sep>spielmann, werner, dr.<sep>schaeffer, georg, dr.herderstrasse 58d-6238 hofheim am taunusde<sep>spielmann, werner, dr.johann-strauss-strasse 18ad-6233 kelkheim (taunus)de<sep>
+</INVENTOR>
+<ABSTRACT>
+Ketones are prepared by reacting car bonsäurehalogenids, in particular of carboxylic acidech lorids, with aluminum-alkyl compounds, optionally in the presence of an aluminum trihalide, in methylenec hloride as a solvent at temperatures between about 20 and about 100 ° C, preferably between 30 and about 60 °C and in particular at about 40 ° C - the reflux temperature of the methylene chloride.At temperatures above about 40 ° C is under pressure.The workup of the reaction mixture takes place in the usual way, expediently by decomposing water and distillation.
+</ABSTRACT>
+</TEXT>
+</DOC>

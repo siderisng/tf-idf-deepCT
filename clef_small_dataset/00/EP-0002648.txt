@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002648
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-47/18 G04F-1/00 <main>G04F-1/00</main> H03K-17/28 H03K-17/292 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stairway light time switch.
+</TITLE>
+<APPLICANT>
+sodeco compteurs de genevech<sep>sodeco-saia sa<sep>lgz landis &amp; gyr zug aggubelstrasse 22ch-6301 zugch <sep>sodeco-saia sa<sep>sodeco-saia sa<sep>
+</APPLICANT>
+<INVENTOR>
+andersen niels-thorup  <sep>petzold hartmut<sep>andersen, niels-thorup<sep>petzold, hartmut<sep>andersen, niels-thorupaugustusstrasse 10d-6000 frankfurt a.m. 50de<sep>petzold, hartmutam kreuzstein 51d-6457 maintal 2de<sep>andersen, niels-thorup<sep>petzold, hartmut<sep>andersen, niels-thorup  <sep>petzold, hartmut <sep>andersen, niels-thorupaugustusstrasse 10d-6000 frankfurt a.m. 50de<sep>petzold, hartmutam kreuzstein 51d-6457 maintal 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  time switch with a member determining the time and a contact device controllable thereby, whereby the member determining the time is formed as an electronic generator of which the period is shorter than a preselected time interval to be measured, and whereby the frequency of the generator is divided in a resetable electronic frequency divider, characterized in that the time switch is adapted to be connected to a common switching-on and reswitching line (e, n), in such a way, that the frequency divider is at least partially resetable from any state through this common line. 
+</ABSTRACT>
+</TEXT>
+</DOC>

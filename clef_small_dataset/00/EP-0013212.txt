@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013212
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21F-3/12 B21F-3/00 H01J-23/16 H01J-23/27 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+manufacturing method for a microwave delay line.
+</TITLE>
+<APPLICANT>
+thomson csffr  <sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>
+</APPLICANT>
+<INVENTOR>
+nazet renefr<sep>ribout pierrefr<sep>nazet, rene<sep>ribout, pierre<sep>nazet, rené"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>ribout, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The method according to the invention is to use a single metal wire (1) formatted by a so-called wire rolling operation which consists of putting the wire shaped jointly. The rolling is followed by a so-called curving operation of the yarn during which the turns at regular intervals, according to the line (00 ') of the line, using corners (C₁ and C₂) in a way that the line formed of a succession of identical groups of three turns in which the first and third turns (S₁ and S₃) have relative to the axis (00 ') of equal inclinations but of the opposite direction and in which one half of the Second Spire (S₂) remains joined with the first Spire (S₁) and the other half remains joined with the third Spire (S₃). Application to the manufacture of double helix delay lines, the "Ring and Bar" type and the "Ring and Loop" type, which are used in progressive wave tubes operating in amplifiers.
+</ABSTRACT>
+</TEXT>
+</DOC>

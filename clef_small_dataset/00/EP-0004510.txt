@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004510
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/0476 A61B-5/0448 A61B-5/0478 G01R-1/073 G01N-27/30 A61B-5/14 A61B-5/0488 A61B-5/0402 <main>A61B-5/04</main> A61B-5/0492 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+measuring device for physiological signals to be placed on or inside a part of the body.
+</TITLE>
+<APPLICANT>
+anvarfr<sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche<sep>
+</APPLICANT>
+<INVENTOR>
+bernard claude<sep>bernard, claude<sep>bernard, claude5, square des tilleulsf-92350 le plessis-robinsonfr<sep>bernard, claude<sep>bernard, claude5, square des tilleulsf-92350 le plessis-robinsonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Physiological measuring head, intended to be put in place on / or in body parts, especially on the cranial skin of the child not yet born.This measuring head is destined in particular to obtain electrocardiographic signals from the child, and the measurement of the tissue pH of the child.The invention facilitates the introduction and fixing of the head, ensures the attachment, and allows safe measurements.The body of the measuring head actively presents at the time of placement one or more electrodes (1a) sensitive to electrical activity and at least one electrode (6) sensitive to needle-shaped pH, as well asa reference electrode (12).Preferably, the electrodes (1a) and (6) are retractable and capable of being controlled from the outside, said electrodes being preferably connected mechanically, for simultaneous motion.The electrode (12) is fixed or disposable.
+</ABSTRACT>
+</TEXT>
+</DOC>

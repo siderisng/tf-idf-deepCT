@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005127
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/40 H03D-7/16 H03D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvement in systems of frequency translation of frequency-modulated signals
+</TITLE>
+<APPLICANT>
+selenia ind elettroniche it<sep>selenia industrie elettroniche associate s.p.a.<sep>selenia industrie elettroniche associate s.p.a.via tiburtina, km 12.400i-00131 romait<sep>
+</APPLICANT>
+<INVENTOR>
+cerra raffaeleit<sep>cerra, raffaele<sep>cerra, raffaelevia s. domenico 29i-80127 napoliit<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention is concerned with a method of frequency translation of frequency-modulated signals by means of two phase-locked loops.  
+</ABSTRACT>
+</TEXT>
+</DOC>

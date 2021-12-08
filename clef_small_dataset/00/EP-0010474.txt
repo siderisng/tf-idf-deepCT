@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010474
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-47/00 <main>H01J-47/02</main> G01T-1/185 G01T-1/29 H01J-47/02 A61B-6/03 G01T-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiation detector.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel  <sep>
+</APPLICANT>
+<INVENTOR>
+allemand robert<sep>laval michel<sep>allemand, robert<sep>laval, michel<sep>allemand, robertchemin de bouffièref-38330 saint ismierfr<sep>laval, michelle replat de pinetf-38410 saint martin d'uriagefr<sep>allemand, robert<sep>laval, michel<sep>allemand, robertchemin de bouffièref-38330 saint ismierfr<sep>laval, michelle replat de pinetf-38410 saint martin d'uriagefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a radiation detector.This detector comprises, in a first mode of realization, an ionization chamber having at least two juxtaposed electrodes, formed of plates (2), (3) respectively worn to a first and a second potential (23), (24);These plates are supported at at least their high and low ends by high and / or low insulating bars (6) (7) (8) (9).It is characterized in that the plates (2), (3) form, near the insulating bars, baffles of protection of the barrettes against the rays.Application to the detection of radiation and notice to X-ray tomography.
+</ABSTRACT>
+</TEXT>
+</DOC>

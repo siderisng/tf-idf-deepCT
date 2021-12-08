@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000895
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-313/00 C07D-295/00 A01N-47/24 C07C-323/07 A01N-47/10 C07D-295/26 C07C-323/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+aryl-n-alkylcarbamates, method for their preparation and their use as insecticides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende <sep>
+</APPLICANT>
+<INVENTOR>
+hammann ingeborg dr de  <sep>hoffmann hellmut prof drde<sep>homeyer bernhard drde<sep>stendel wilhelm drde<sep>hammann, ingeborg, dr.<sep>hoffmann, hellmut, prof. dr.<sep>homeyer, bernhard, dr.<sep>stendel, wilhelm, dr.<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 köln 1de<sep>hoffmann, hellmut, prof. dr.tersteegenweg 17d-5600 wuppertal 1de<sep>homeyer, bernhard, dr.obere strasse 28d-5090 leverkusen 3de<sep>stendel, wilhelm, dr.in den birken 55d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+aryl n-alkylcarbamates of the formula <image> are synthesised in which r and r<1> represent identical or different alkyl and r<2> represents dialkylamino or a nitrogen-containing heterocycle in which the heterocycle can additionally contain further heteroatoms.  these compounds are distinguished by strong insecticidal properties.  they are obtained when aryl n-alkylcarbamates of the formula <image> in which r and r<1> have the abovementioned meaning, are reacted with sulphenyl halides of the formula r<2>-s-hal, if appropriate in the presence of an acid acceptor and of a solvent. 
+</ABSTRACT>
+</TEXT>
+</DOC>

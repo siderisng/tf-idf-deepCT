@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012252
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02C-7/04 F02M-35/02 <main>F02C-7/04</main> B01D-45/12 F02C-7/052 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+inlet air cleaner and mist eliminator assembly for gas turbine engines.
+</TITLE>
+<APPLICANT>
+pall corpus<sep>pall corporation<sep>pall corporation30 sea cliff avenueglen cove, new york 11542us<sep>pall corporation <sep>
+</APPLICANT>
+<INVENTOR>
+roach charles j<sep>roach, charles j.<sep>roach, charles j.158 lefferts placebrooklyn, new york 11238us<sep>roach, charles j. <sep>roach, charles j.158 lefferts placebrooklyn, new york 11238us<sep>
+</INVENTOR>
+<ABSTRACT>
+an inlet air cleaner and mist eliminator assembly is pro­ vided for the air intake of gas turbine engines or other air  breathing devices comprising, in combination, in flow  sequence, a first array (10) of vortex air cleaners (69) remov­ ing coarse and heavy liquid droplets and solid contaminant  particles, but not light and well dispersed liquid and solid con­ taminant particles; a second array (50) of sheets of filamen­ tary woven or nonwoven material, arranged to receive partial­ ly cleaned air from the vortex air cleaner array, and remove  and coalesce light and well dispersed liquid contaminant  droplets and particles suspended therein, and a third array  (60) of vortex air cleaners (69), arranged at the same or pref­ erably a higher density and flow-through capacity per unit of  inlet open surface area than the first array (10) to receive re­ sidual cleaned air from the second array, and removing addi­ tional light and well-dispersed coalesced liquid droplets and  solid contaminant particles.  
+</ABSTRACT>
+</TEXT>
+</DOC>

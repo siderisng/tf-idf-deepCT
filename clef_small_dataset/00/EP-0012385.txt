@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012385
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-3/06 A61K-31/55 C07D-267/20 C07D-267/00 A61P-3/00 <main>C07D-267/20</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dibenz(b,f)(1,4)oxazepine derivatives, process for their preparation and pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+chugai pharmaceutical co ltdjp<sep>chugai seiyaku kabushiki kaisha<sep>chugai seiyaku kabushiki kaisha5-1, 5-chome, ukima kita-kutokyojp<sep>chugai seiyaku kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+hata shun-ichi<sep>koizumi masuo<sep>kubodera noboru<sep>murakami yasushi <sep>nakakimura hiroshi<sep>sasahara kazuo  <sep>wada sakae<sep>hata, shun-ichi<sep>koizumi, masuo<sep>kubodera, noboru<sep>murakami, yasushi<sep>nakakimura, hiroshi<sep>sasahara, kazuo<sep>wada, sakae<sep>hata, shun-ichi675-14, nishitani-chohodogaya-ku, yokohama-shi kanagawa-kenjp<sep>koizumi, masuo760, mizumotoiizuka-machikatsushika-ku tokyojp<sep>kubodera, noboru5-207-2, ina-chosakae, kitaadachi-gun saitama-kenjp<sep>murakami, yasushi2-12-6, shoansuginami-ku, tokyojp<sep>nakakimura, hiroshi4-13-14, nishikamakurakamakura-shi, kanagawa-kenjp<sep>sasahara, kazuo4-61, ohnari-choohmiya-shi, saitama-kenjp<sep>wada, sakae1-7-5, eirakudaikashiwa-shi, chiba-kenjp<sep>hata, shun-ichi<sep>koizumi, masuo<sep>kubodera, noboru<sep>murakami, yasushi<sep>nakakimura, hiroshi<sep>sasahara, kazuo<sep>wada, sakae<sep>hata, shun-ichi 675-14, nishitani-chohodogaya-ku, yokohama-shi kanagawa-kenjp <sep>koizumi, masuo 760, mizumotoiizuka-machi katsushika-ku tokyojp<sep>kubodera, noboru5-207-2, ina-chosakae, kitaadachi-gun saitama-kenjp<sep>murakami, yasushi2-12-6, shoansuginami-ku, tokyojp<sep>nakakimura, hiroshi4-13-14, nishikamakurakamakura-shi, kanagawa-kenjp<sep>sasahara, kazuo4-61, ohnari-choohmiya-shi, saitama-kenjp<sep>wada, sakae1-7-5, eirakudaikashiwa-shi, chiba-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+dibenz[b,f][1,4]oxazepine derivatives represented by  the formula    [wherein r₁ is hydrogen, a halogen, a lower alkyl group or a  lower alkoxy group; n is an integer of 1 or 2; r₂ is a hydroxyl  group, a lower alkoxy group or a nuclear-substitued or  unsubstituted anilino group; and r₃ is hydrogen or an acyl  group], a process for their preparation and pharmaceutical  compositions containing these compounds are disclosed.   the object compounds have eccellent serum cholesterol  lowering activity, serum lipid lowering activity, blood lipid  peroxide lowering activity and anti-aggregation of platelet  activity, and, therefore, are useful as drugs.  
+</ABSTRACT>
+</TEXT>
+</DOC>

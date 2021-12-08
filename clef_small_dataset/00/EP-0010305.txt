@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010305
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H05B-7/101</main> H05B-7/00 F28F-1/00 F27D-11/08 F27D-11/10 H05B-7/101 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid-cooled support for the head of an electrode.
+</TITLE>
+<APPLICANT>
+korf & fuchs syst techde<sep>korf & fuchs systemtechnik gmbh<sep>fuchs systemtechnik gmbhreithallenstrasse 1d-77731 willstättde<sep>korf & fuchs syst techde<sep>korf & fuchs systemtechnik gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+elsner emil dr-ing<sep>kasper rudolf dr-ing<sep>schwabe william ernst dr-ing<sep>elsner, emil, dr.-ing.<sep>kasper, rudolf, dr.-ing.<sep>schwabe, william ernst, dr.-ing.<sep>elsner, emil, dr.-ing.herrenäckerstrasse 5d-7570 baden-baden 21de<sep>kasper, rudolf, dr.-ing.albrecht-dürer-strasse 6d-7570 baden-badende<sep>schwabe, william ernst, dr.-ing.6668, rochelle blvd.parma heights 44130 cleveland, ohious<sep>elsner, emil, dr.-ing. <sep>kasper, rudolf, dr.-ing.<sep>schwabe, william ernst, dr.-ing.  <sep>elsner, emil, dr.-ing. herrenäckerstrasse 5d-7570 baden-baden 21de<sep>kasper, rudolf, dr.-ing.albrecht-dürer-strasse 6d-7570 baden-badende<sep>schwabe, william ernst, dr.-ing.6668, rochelle blvd.parma heights 44130 cleveland, ohious<sep>
+</INVENTOR>
+<ABSTRACT>
+Liquid cooled holder for the tip of an elec trodes of an arc furnace with a cylindrical clamping part (2) fastened at the electrode train, a metallic cooling system (3) which is mounted on this electrode stream, the on-free end of a threaded part (8) for screwing on the electrode tipcarries, further with a pipe shield surrounding the cooling system with a distance surrounding tubular shield.The hide roller consists of a metal tube (11), preferably of a steel tube, which is electrically insulated from the current-carrying cooling system and is sufficiently coolable via a refractory substance (17) between the cooling system and the metal tube.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012951
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11C-7/00</main> G06F-13/00 G06F-12/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data processing system including a data storage control unit.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+tan kwang gun<sep>tan, kwang gun<sep>tan, kwang gun37 collette drivepoughkeepsie new york 12601us<sep>tan, kwang gun<sep>tan, kwang gun37 collette drivepoughkeepsie new york 12601us<sep>
+</INVENTOR>
+<ABSTRACT>
+a control system for a data store comprising a plurality of  storage modules, only one of which is shown in the drawings,  includes an input register 20, an output register 24 and a  re-configurable table system 10.  storage addresses are  received by the input register.  the address bits defining the  upper boundaries of the basic storage modules are applied to  the table system, which in response thereto applies pre-­ determined upper boundary bits to the output register, which  also receives the remaining address bits from the input regis­ ter to form a new storage address.  thus, in accordance with  the content of the table absolute addresses from the devices  requiring access to the storage system are converted to  addresses in basic storage modules selected by the table.  
+</ABSTRACT>
+</TEXT>
+</DOC>

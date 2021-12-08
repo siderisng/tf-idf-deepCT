@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009131
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/488 B23K-1/00 H01L-21/60 B23K-35/36 H01L-23/48 H01L-23/485 <main>B23K-35/36</main> H01L-21/02 B23K-35/362 B23K-35/26 H05K-3/34 B23K-1/02 B23K-35/363 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for in situ modification of solder alloy compositions.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+koopman nicholas george<sep>marcotte vincent charles<sep>teed stephen<sep>koopman, nicholas george<sep>marcotte, vincent charles<sep>teed, stephen<sep>koopman, nicholas george9 francis drivehopewell junction, n. y. 12533us<sep>marcotte, vincent charleskuchler drive, rd no. 1la grangeville, n. y. 12540us<sep>teed, stephenso. fowler house roadwappingers falls, n. y. 12590us<sep>koopman, nicholas george<sep>marcotte, vincent charles<sep>teed, stephen<sep>koopman, nicholas george9 francis drivehopewell junction, n. y. 12533us<sep>marcotte, vincent charleskuchler drive, rd no. 1la grangeville, n. y. 12540us<sep>teed, stephenso. fowler house roadwappingers falls, n. y. 12590us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  method for the in-situ modification of the composition of a solder alloy containing lead and a wetting agent, characterized in that the solder alloy is heated in molten form for a sufficient time in contact with a fluxing agent to reduce the content of the wetting agent in the molten solder. 
+</ABSTRACT>
+</TEXT>
+</DOC>

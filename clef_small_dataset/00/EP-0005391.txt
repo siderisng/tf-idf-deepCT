@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005391
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-4/00 H03K-4/62 H04N-3/16 H04N-3/18 <main>H04N-3/18</main> H04N-3/185 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stabilized-power supply device for a line deflection circuit in a television receiver.
+</TITLE>
+<APPLICANT>
+thomson brandt fr <sep>"thomson-brandt"<sep>thomson-brandt173, boulevard haussmann75379 paris cedex 08fr<sep>"thomson-brandt"<sep>
+</APPLICANT>
+<INVENTOR>
+facon michel<sep>rilly gerard<sep>facon, michel<sep>rilly, gerard<sep>facon, michelthomson-csf - scpi 173, bld haussmann-75360 paris cedex 08fr<sep>rilly, gérardthomson-csf-scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>facon, michel  <sep>rilly, gerard<sep>facon, michelthomson-csf - scpi 173, bld haussmann-75360 paris cedex 08fr<sep>rilly, gérardthomson-csf-scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Regulated feeding device, in particular a television receiver-line scanning circuit, comprising a cutting circuit (10) which comprises in series an inductor (16) and a controlled bidirectional switch (15) mounted in parallel with a capacitor (13) forming a resonant circuit with the inductance (16) when opening the cutting switch (15). The inductance (16) comprises a winding (21) said of supply of a transformer (20), said of line, of which another winding (22) mounted in series with a tank capacitor (33) is connected in parallel with Another bidirectional switch (35 and 36) equipping the scanning-line output stage (30). The transfer of energy between the cutting circuit (10) and the output stage (30) is carried out through the windings (21 and 22) of the transformer (20) and it has the effect of loading the tank capacitor (33 ) which feeds, in addition to the outlet stage (30), the previous stages of the sweep circuit (not shown). The regulation is carried out using a regulating circuit (40) receiving the return-line pulses of an additional winding (25) of the transformer, by varying the phase delay between the blocking times (opening) two switches (10 and 35, 36).
+</ABSTRACT>
+</TEXT>
+</DOC>

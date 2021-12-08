@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001745
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02F-1/13</main> G02F-1/1347 G02F-1/137 G02F-1/13 G02F-1/133 G09F-9/35 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electro-optic modulator and use of it.
+</TITLE>
+<APPLICANT>
+merck patent gmbhde<sep>merck patent gesellschaft mit beschrankter haftung<sep>merck patent gmbhpostfach, frankfurter strasse 250d-64271 darmstadtde  <sep>merck patent gesellschaft mit beschrankter haftung<sep>
+</APPLICANT>
+<INVENTOR>
+eidenschink dr<sep>krause joachim dr<sep>pohl ludwig dr<sep>weber georg<sep>eidenschink, dr.<sep>krause, joachim, dr.<sep>pohl, ludwig, dr.<sep>weber, georg<sep>eidenschink, dr.dessauer strasse 57d-6110 dieburgde<sep>krause, joachim, dr.samuel- morse- strasse 14d-6110 dieburgde<sep>pohl, ludwig, dr.hoffmannstrasse 54d-6100 darmstadtde<sep>weber, georgwilhelm-leuschner-strasse 38d-6106 erzhausende<sep>eidenschink, dr.<sep>krause, joachim, dr. <sep>pohl, ludwig, dr.<sep>weber, georg  <sep>eidenschink, dr. dessauer strasse 57d-6110 dieburgde<sep>krause, joachim, dr.samuel- morse- strasse 14d-6110 dieburgde<sep>pohl, ludwig, dr.hoffmannstrasse 54d-6100 darmstadtde<sep>weber, georgwilhelm-leuschner-strasse 38d-6106 erzhausende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an electro-optical modulator based on a twisted liquid crystal cell in which two magnets are arranged parallel or perpendicular to the electrode surfaces, and the liquid crystal material has a positive dielectric and a negative diamagnetic anisotropy.With such an arrangement, the initial orientation of the liquid crystal molecules with respect to or electrode surfaces, the threshold voltage and / or the switch-off time of a display element can be influenced by electrical and / or magnetic fields.
+</ABSTRACT>
+</TEXT>
+</DOC>

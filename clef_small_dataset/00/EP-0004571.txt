@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004571
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-249/08</main> C07D-249/00 C07D-521/00 C08G-18/80 C07D-249/08 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1,2,4-triazole-blocked isphoronediisocyanate, isophoronediisocyanate derivatives containing biuret or urethane groups and 2 to 4 1,2,4-triazole-blocked isocyanate groups, binders for powder coating resins containing these compounds as crosslinking agents.
+</TITLE>
+<APPLICANT>
+bayer ag de<sep>bayer aktiengesellschaft  <sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+kreuder hans joachim dr<sep>muller hanns-peter dr<sep>wegner christian dr<sep>kreuder, hans joachim, dr.<sep>muller, hanns-peter, dr.<sep>wegner, christian, dr.<sep>kreuder, hans joachim, dr.doerperhofstrasse 35d-4150 krefeldde<sep>müller, hanns-peter, dr.berta-von-suttner-strasse 40d-5090 leverkusende<sep>wegner, christian, dr.roggendorfstrasse 65d-5000 köln 80de<sep>kreuder, hans joachim, dr.  <sep>muller, hanns-peter, dr. <sep>wegner, christian, dr.<sep>kreuder, hans joachim, dr.doerperhofstrasse 35d-4150 krefeldde<sep>müller, hanns-peter, dr.berta-von-suttner-strasse 40d-5090 leverkusende<sep>wegner, christian, dr.roggendorfstrasse 65d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+1,2,4-triazole-blocked polyisocyanates are excellent crosslinkers for polyhydroxyl compounds.Its comparatively high melting point makes these compositions appear as a vortex sintered powder or highly suited for electrostatic powder coating.
+</ABSTRACT>
+</TEXT>
+</DOC>

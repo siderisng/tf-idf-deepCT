@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008773
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-26/00 <main>B21D-28/24</main> B23K-26/14 B21D-28/12 B21D-28/02 B23K-26/08 B21D-28/36 B23K-26/38 B23K-26/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+punch press with laser cutting head attachment.
+</TITLE>
+<APPLICANT>
+houdaille industries incus<sep>houdaille industries, inc.<sep>houdaille industries, inc.1 financial plazafort lauderdale florida 33394us<sep>houdaille industries, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+carbone victor thomas<sep>clark stephen chester<sep>carbone, victor thomas<sep>clark, stephen chester<sep>carbone, victor thomas43 rowley hollowcheektowaga, n.y. 14224us<sep>clark, stephen chester364 hunters lanewilliamsville, n.y. 14221us<sep>carbone, victor thomas<sep>clark, stephen chester<sep>carbone, victor thomas43 rowley hollowcheektowaga, n.y. 14224us<sep>clark, stephen chester364 hunters lanewilliamsville, n.y. 14221us<sep>
+</INVENTOR>
+<ABSTRACT>
+a turret punch machine tool (10) equipped with control­ led automatic x-y axis workpiece movement mechanisms (21)  for moving the workpiece (w. p. ) over a stationary work table  section (11a) adjacent a punching station (23) is provided with  a separate laser beam generator (15) and with a tool frame  carried vertically retractable and extendable laser cutting  head (17) in optical communication with the beam generator  (15).  the beam generator (15) is capable of producing both  laser pulses of varying duration and spacing or continuous  beam.  the cutting head (17) is provided with two gas inputs  (67, 68) one for use with the continuous beam, a second for  use with the pulse beam, and controls (18) are provided to  automatically provide varying combinations of use of the  punch (10) and laser (15).  
+</ABSTRACT>
+</TEXT>
+</DOC>

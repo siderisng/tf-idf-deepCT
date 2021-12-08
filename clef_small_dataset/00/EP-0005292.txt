@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005292
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01C-1/02 <main>C01C-1/02</main> B01D-53/14 C01B-31/20 C01C-1/00 C01C-1/12 C01B-31/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separation of ammonia and carbon dioxide from mixtures containing ammonia, carbon dioxide and water.
+</TITLE>
+<APPLICANT>
+stamicarbonnl<sep>stamicarbon b.v.<sep>stamicarbon b.v.mijnweg 1nl-6167 ac geleennl<sep>stamicarbon b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+biermans andreas johannes<sep>biermans, andreas johannes<sep>biermans, andreas johannesslagboomweg 23nl-6129 ga urmondnl<sep>biermans, andreas johannes  <sep>biermans, andreas johannesslagboomweg 23nl-6129 ga urmondnl<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved process for the separate recovery of  substantially pure ammonia and substantially pure carbon  dioxide from mixtures containing ammonia and carbon  dioxide, and possibly water, such as are obtained as by-products  in the manufacture of melamine from urea or the  synthesis of urea from ammonia and carbon dioxide.  the  by-product mixture is introduced into a process loup having  an ammonia separation zone (1) with a nh₃- rectifying  column (3), a carbon dioxide separation zone (2) with a  co₂- rectifying column (18), and a desorption zone (3)  where virtually all nh₃ and co₂ are removed in desorber (10),  the zone to which the mixture is initially fed being dependent  upon its composition.  the separation is effected by  maintaining a system pressure differential between the  ammonia and carbon dioxide separation zones, or adding  diluting water to the carbon dioxide separation zone.  the  efficiency of the separation is enhanced by introducing  an ammonia containing gaseous phase into the bottom  of the carbon dioxide separation zone.  
+</ABSTRACT>
+</TEXT>
+</DOC>

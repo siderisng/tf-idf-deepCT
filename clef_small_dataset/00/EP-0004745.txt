@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004745
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-17/00 C01B-17/765 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the catalytic oxidation of sulphur dioxide to form sulphur trioxide.
+</TITLE>
+<APPLICANT>
+british oxygen co ltdgb<sep>boc limited <sep>boc limitedhammersmith houselondon w6 9dx gb  <sep>
+</APPLICANT>
+<INVENTOR>
+blakey philip garygb<sep>smith bryan keithgb<sep>blakey, philip gary<sep>smith, bryan keith<sep>blakey, philip gary20 chestnut avenueriddings derbyshiregb<sep>smith, bryan keith2 viggory cottages viggory lane horsellwoking surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+in a process for the catalytic oxidation of sulphur dioxide  to sulphur trioxide, an improvement is made possible by  introducing commercially pure oxygen at a temperature  below 0°c into the process.  with reference to figure 1 of the  drawings, a hot gas mixture including sulphur dioxide and  oxygen flows from a pipeline (120) into a catalytic converter  (102) having four successive catalyst layers (104, 106, 108  and 110).  as it flows over each catalyst layer so more of the  sulphur dioxide is converted to sulphur trioxide.  the gas  mixture after having passed over catalyst layer (104) is  cooled in an interstage heat exchanger (126).  the gas  mixture leaving the heat exchanger (126) has liquid oxygen  added to it in a pipeline (128).  the gas mixture then passes  over the second catalyst layer (108).  its temperature just  upstream of the catalyst layer (106) is sensed by temperature  sensor (115) which is used to control the setting of a valve  (113) in a liquid oxygen supply pipeline (101) such that the  temperature of the gas mixture is maintained at or above the  ignition temperature of the catalyst in the second layer (106).  
+</ABSTRACT>
+</TEXT>
+</DOC>

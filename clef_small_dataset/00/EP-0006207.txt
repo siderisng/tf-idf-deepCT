@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006207
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/365 A61N-1/362 A61N-1/37 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+implantable cardiac pacemaker.
+</TITLE>
+<APPLICANT>
+von leitner enz rudiger dr<sep>von leitner, enz-rudiger, dr.<sep>von leitner, enz-rüdiger, dr.kiefernweg 8d-1000 berlin 19de<sep>
+</APPLICANT>
+<INVENTOR>
+von leitner enz-rudiger dr<sep>von leitner, enz-rudiger, dr.<sep>von leitner, enz-rüdiger, dr.kiefernweg 8d-1000 berlin 19de<sep>
+</INVENTOR>
+<ABSTRACT>
+the pacemaker has a detector which picks up the electrical cardiac actions, which immediately follow the stimulation pulses, and a circuit element for subsequent detection of errors in pulse transmission, which remains in a first state when the electrical cardiac action comes a specific time or within a specific period of time after the stimulation pulse, and which passes into a second state when the electrical cardiac action comes later or not at all, in which respect the first or second state is permanently detectable and the stimulation pulse width and/or the stimulation pulse rate are altered, in particular increased, by the circuit element when the latter passes into its second state. 
+</ABSTRACT>
+<DESCRIPTION>
+implantierbarer herzschrittmacher die erfingung bezieht sich auf einen implantierbaren herzschrittmacher gemäss der im oberbegriff des anspruchs 1 erwähnten art. bei einem bekannten schrittmacher dieser art (us-ps 40 88 139) wird, wenn das schaltelement in seinen zweiten zustand gelangt, einerseits die amplitude der impulse vergrössert, womit man erreichen will, dass die stimulationsimpulse wieder übergeleitet werden (s. spalte 2, zeilen 53 ff.), und andererseits werden zusätzlich zeitverschobene impulse erzeugt, die die spätere erkennung des fehlverhaltens auf einem ekg-diagramm ermöglichen (s. spalte 3, zeilen 7 ff.). der erfindung liegt die aufgabe zugrunde, die sichtbarmachung eines fehlverhaltens des schrittmachers zu vereinfachen. diese aufgabe wird erfindungsgemäss gelöst wie im kennzeichen des anspruchs 1 angegeben. die änderung der impulsbreite und der impulsfrequenz ist schaltungstechnisch wesentlich einfacher durchführbar als die schaffung neuer impulse. andererseits werden bei routinemässiger überprüfung von herzschrittmachern gerade diese beiden grössen ohnedies herangezogen. sie werden mit einfachen zigarettenschachtelgrossen geräten erfasst. zusätzliche geräte und arbeitsgänge entfallen somit. mit den erwähnten geräten lässt sich somit auch feststellen, ob der schrittmacher durch ein früheres fehlverhalten in seinen zweiten zustand gesprungen ist. wiffl die impulsbreite vergrössert, so bringt das den weiteren vorteil mit sich, dass pro schrittmacherimpuls mehr reizenergie an das herz abgegeben wird. das ist bei erhöhung der amplitude nicht der fall, da der übergangswiderstand zwischen elektrode und herzmuskel sehr gross ist. die verbreiterung der impulse führt somit wieder zu herzaktionen. wird die frequenz (bei wirksamer stimulation) geändert, so ist man sogar in der lage, ohne jegliches gerät - allenfalls unter zuhilfenahme einer uhr - durch messung des pulses, z.b. am handgelenk die überprüfung vorzunehmen. zweckmässigerweise sollte die umschaltung des schaltelementes blockiert sein, wenn der herzschrittmacher festfrequent arbeitet. das ist z.b. dann der fall, wenn der herzschrittmacher störfeldern ausgesetzt ist. 9. herschrittmacher nach einem oder mehreren der ansprüche 1 bis 8, dadurch gekennzeichnet, dass das umspringen in den zweiten zustand nach einem oder mehrmaligem ausbleiben (unmittelbar oder nicht unmittelbar hintereinander) der zeit gerechten elektrischen herzaktion(en) vorzugsweise innerhalb eines vorgegebenen zeitraumes erfolgt. lo. herzschrittmacher nach einem oder mehreren der ansprüche 1 bis 9, dadurch gekennzeichnet, dass der zustand des schaltelementes durch ein optisches und/oder akustisches signal in einem exsternen kontrollgerät angezeigt wird.
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche :   1. implantierbarer herzschrittmacher mit einem detektor, der die elektrischen herzaktionen, die den stimu lationsimpulsen unmittelbar folgen, aufnimmt, und einem schaltelement, das in einem ersten zustand ver harrt, wenn die elektrische herzaktion eine bestimmte zeit oder innerhalb eines bestimmten zeitraumes nach dem stimulationsimpuls kommt, und das in einen zweiten zustand gelangt, wenn die elektrische herz aktion später oder gar nicht kommt, wobei der erste oder zweite zustand bleibend erkennbar ist, dadurch gekennzeichnet, dass von dem schaltelement, wenn dieses in seinen zweiten zustand gelangt, die stimulationsimpulsbreite und/oder die   stimulatonsimpulsfrequenz    geändert, insbesondere vergrössert werden.   2. herzschrittmacher nach anspruch 1, dadurch gekennzeichnet, dass die stimulationsfrequenz insbesondere von 70 auf ca. 9o bis loo   impulse    pro minute geändert wird.   3. herzschrittmacher nach anspruch 1 oder 2, dadurch gekennzeichnet, dass die stimulationsfrequenz bei auflegen eines prüfmagneten insbesondere von   70    auf ca. 9o bis loo pro minute geändert wird.     4. herzschrittmacher nach einem oder mehreren der    1 bis 3, ansprüche 1 bis 3,     dadurch gekennzeichnet, dass die impulsbreite verdoppelt wird.   5. herzschrittmacher nach einem oder mehreren der ansprüche 1 bis 4, dadurch gekennzeichnet, dass ein kondensator vorgesehen ist, der jedesmal, durch den stimulationsimpuls ausgelöst, ge- oder entladen wird und dessen ladungszustand das schalt element betätigt, sofern nicht vorher die elektrische herzaktion aufgetreten ist.    6. herzschrittmacher nach einem oder mehreren der ansprüche 1 bis 5, dadurch gekennzeichnet, dass das schaltelement durch eingriff von bussen wieder in seinen ersten zustand   zurückgebra-ht    werden kann.   7. herzschrittmacher nach einem oder mehreren der an sprüche 1 bis 6, dadurch gekennzeichnet, dass bei abnehmen des zum feststellen der frequenz dienenden prüfmagneten das schaltelement in seinen ersten zustand zurückgelangt.   8. herzschrittmacher nach einem oder mehreren der ansprüche 1 bis 7, dadurch gekennzeichnet, dass die umschaltung des schaltelementes blockiert ist, wenn der schrittmacher festfrequent arbeitet.  
+</CLAIMS>
+</TEXT>
+</DOC>

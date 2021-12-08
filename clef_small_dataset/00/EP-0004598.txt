@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004598
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21B-37/48 B21B-37/52 <main>B21B-37/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and circuit for interstand tension control in a continuous rolling mill having individual drives.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciede<sep>brown, boveri & cie aktiengesellschaft mannheim<sep>brown, boveri &amp; cie aktiengesellschaft mannheimkallstadter strasse 1d-6800 mannheim käfertalde<sep>brown, boveri & cie aktiengesellschaft mannheim<sep>
+</APPLICANT>
+<INVENTOR>
+wild ernst<sep>wild, ernst<sep>wild, ernstgerhart-hauptmann-strasse 3d-6806 viernheimde<sep>wild, ernst  <sep>wild, ernstgerhart-hauptmann-strasse 3d-6806 viernheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  method for regulating the longitudinal force in rolled stock (5) between roll stands (1, 2) of a continuous rolling mill with individual drives (3, 4), characterised in that the speed (v) of the rolled stock (5) at the delivery side of a roll stand (1, 2) and the peripheral speed (vu ) or the rotational speed (n) of the roll of this roll stand (1, 2) are measured and a mathematical logic value derived from these two values is used as a reference magnitude in order to regulate a given force. 
+</ABSTRACT>
+</TEXT>
+</DOC>

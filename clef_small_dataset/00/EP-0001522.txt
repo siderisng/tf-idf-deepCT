@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001522
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04Q-3/00</main> H04Q-3/72 H04M-19/02 H04M-19/00 H01P-5/16 H04Q-11/04 H04B-1/54 H04Q-1/18 H04B-1/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic line equipment with two-wire-four-wire conversion circuit for telephone exchange.
+</TITLE>
+<APPLICANT>
+jeumont schneiderfr  <sep>jeumont-schneider societe anonyme dite:<sep>jeumont-schneider société anonyme dite:31-32, quai de dion boutonf-92811 puteaux cedexfr<sep>jeumont-schneider societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+dumont alain<sep>oeillet guy<sep>piolat christian<sep>dumont, alain<sep>oeillet, guy<sep>piolat, christian<sep>dumont, alainrue henri barbusse71230 saint-vallierfr<sep>oeillet, guyp8, rue de paray le vernoisf-71300 montceau-les-minesfr<sep>piolat, christian5, place wilsonf-69100 villeurbannefr<sep>dumont, alain<sep>oeillet, guy <sep>piolat, christian  <sep>dumont, alainrue henri barbusse71230 saint-vallierfr<sep>oeillet, guyp8, rue de paray le vernoisf-71300 montceau-les-minesfr<sep>piolat, christian5, place wilsonf-69100 villeurbannefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Electronic subscriber equipment, two-wire-four-wire conversion circuit, for telephone exchange, which is connected to the subscriber by the terminals (1, 2) and the central office by the terminals (3, 4, 5, 5,6).It comprises a DC voltage source (8), four transistors (10, 12, 14, 16) and three pairs of equal resistors (9-11, 13-15 and 17-18).The elimination of the local effect is obtained by the circuit (18-16-17).Stabilization of the duty power supply of the subscriber line.Application to a multiplex type telephone exchange by sharing time.
+</ABSTRACT>
+</TEXT>
+</DOC>

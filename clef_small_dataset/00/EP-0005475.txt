@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005475
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-313/00 C07C-315/00 B41M-5/132 C07C-317/30 C07C-91/40 C07C-215/68 <main>C07C-89/00</main> C07C-215/00 C07C-213/00 B41M-5/136 C07C-317/00 C07C-317/28 C07C-67/00 C07C-317/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 4,4'-diaminobenzhydrol and its substitution products.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+raue roderich dr<sep>raue, roderich, dr.<sep>raue, roderich, dr.berta-von-suttner-strasse 48d-5090 leverkusen 1de<sep>raue, roderich, dr.<sep>raue, roderich, dr.berta-von-suttner-strasse 48d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of 4,4'-diamonobenzhydrol and its substitution products of the general formula  see diagramm : ep0005475,p6,f1  where in a and b independently of one another represent an optionally substituted 1,4-arylene radical and r1 , r2 , r3 and r4 independently of one another represent hydrogen or an optionally substituted alkyl, cycloalkyl, aralkyl or aryl radical, or r1 and r2 , and r3 and r4 together with the adjacent nitrogen atom, form a heterocyclic ring, or one or more of the radicals r1 , r2 , r3 and r4 , with the adjacent nitrogen atom and an adjacent carbon atom of the radical a or b, form a heterocyclic ring, characterised in that 4,4'-diaminobenzophenones of the general formula  see diagramm : ep0005475,p6,f2  are reduced in an organic solvent with the aid of an alkali metal borohydride in the presence of an alkali metal hydroxide. 
+</ABSTRACT>
+</TEXT>
+</DOC>

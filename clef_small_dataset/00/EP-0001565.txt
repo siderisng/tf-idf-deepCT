@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001565
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+B26D-5/38 B26D-5/40 <main>G05B-15/02</main> B23D-36/00 H02P-5/00 G05D-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric circuit for a directly driven rotary cutting device.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+matthiesen horst<sep>rubruck manfred<sep>matthiesen, horst<sep>rubruck, manfred<sep>matthiesen, horstzenkerstrasse 22d-8520 erlangende<sep>rubruck, manfredan den eichen 90d-8521 igelsdorfde<sep>matthiesen, horst<sep>rubruck, manfred<sep>matthiesen, horstzenkerstrasse 22d-8520 erlangende<sep>rubruck, manfredan den eichen 90d-8521 igelsdorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a circuit arrangement for the electrical direct drive of a rotating cutting device (18, 19, 23, 24) for format-correct division of a strip of material (20), in particular flying shears or a synchronous crosscutter, wherein there are provided a position regulator (3), a rotational speed regulator (5), an acceleration regulator (7), a subsidiary current regulator (9) and a calculator (1) for determining the set value for the position regulator (3), characterised by the following features : a) on the basis of measured values for the unused length of the strip (x) and on the basis of predetermined setting-up values for the format and for the mechanical machine data, the calculator (1) determines the set values for the position regulator (3), the rotation speed regulator (5) and the acceleration regulator (7) by means of function curves which are obtained from the movement equation (1a) s = vo /w .  x + m. r/2j .  1/w**2 . x**2 and (1b) s = x + m. r/2j .  1/w**2 .  x**2 .  of the cutting device where s the path of the cutting edge of the cutting tool vo the starting speed of the cutting tool t the time r the radius of the cylinder described by the cutting edge of the rotating cutting tool, j the moment of inertia m the emitted driving torque x the strip path w the speed of the strip b) the rotation speed regulator (5) is supplied with the set value (n*) determined by the calculator (1) and with the output signal of the position regulator (3) as a correction value (no ), c) the acceleration regulator (7) is supplied with the set value (b*) determined by the calculator (1) and with the output signal of the rotation speed regulator (5) as a correction value (bo ). 
+</ABSTRACT>
+</TEXT>
+</DOC>

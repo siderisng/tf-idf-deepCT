@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006445
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/40 H01L-23/473 <main>H01L-23/34</main> H01L-23/34 H01L-23/433 H01L-23/02 H01L-23/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+methods of fabricating electrical apparatus comprising one or more heat generating electrical components.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+chu richard chao-fan<sep>hwang un-pah<sep>simons robert edward<sep>chu, richard chao-fan<sep>hwang, un-pah<sep>simons, robert edward<sep>chu, richard chao-fan4 sun lanepoughkeepsie, new york 12601us<sep>hwang, un-pah6 simone drivepoughkeepsie, new york 12603us<sep>simons, robert edward16 shamrock circlepoughkeepsie, new york 12603us<sep>chu, richard chao-fan<sep>hwang, un-pah <sep>simons, robert edward  <sep>chu, richard chao-fan4 sun lanepoughkeepsie, new york 12601us<sep>hwang, un-pah6 simone drivepoughkeepsie, new york 12603us<sep>simons, robert edward16 shamrock circlepoughkeepsie, new york 12603us<sep>
+</INVENTOR>
+<ABSTRACT>
+electrical apparatus is disclosed in which heat from a semi-­ conductor chip (10) is conducted through a piston member (26)  to a housing (16) from which the heat is dissipated.  the piston  has circumferential grooves (40) and registering longitudinal  side grooves (42).  the grooves (40) are initially filled with a low  melting point, thermally conductive material, such as amber  wax.  a central bore (33) registering with radial grooves (34) is  similarly initially filled with the material.  when the assembly is  appropriately heated, the material melts and under gravity and  capilliary flow fills the interfaces between the end of the piston  and the chip and between the side wall of the piston and the  cylinder wall.  the lower edge of the grooves (40) are slanted to  facilitate flow of the material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008140
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C21B-13/08</main> C21B-13/08 C21B-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the direct reduction of materials containing iron oxide.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde<sep>metallgesellschaft ag<sep>metallgesellschaft agpostfach 10 15 01, reuterweg 14d-60015 frankfurtde<sep>metallgesellschaft ag<sep>
+</APPLICANT>
+<INVENTOR>
+reuter gerhard dr dipl-ing<sep>schnabel wolfram dr dipl-ing<sep>serbent harry dr dipl-ing<sep>reuter, gerhard, dr. dipl.-ing.<sep>schnabel, wolfram, dr. dipl.-ing.<sep>serbent, harry, dr. dipl.-ing.<sep>reuter, gerhard, dr. dipl.-ing.steinhauserstrasse 15d-6000 frankfurt/main 70de<sep>schnabel, wolfram, dr. dipl.-ing.goethestrasse 7d-6234 hattersheimde<sep>serbent, harry, dr. dipl.-ing.gustav-hoch-strasse 5d-6450 hanaude<sep>reuter, gerhard, dr. dipl.-ing.<sep>schnabel, wolfram, dr. dipl.-ing.<sep>serbent, harry, dr. dipl.-ing. <sep>reuter, gerhard, dr. dipl.-ing.steinhauserstrasse 15d-6000 frankfurt/main 70 de   <sep>schnabel, wolfram, dr. dipl.-ing.goethestrasse 7d-6234 hattersheimde<sep>serbent, harry, dr. dipl.-ing.gustav-hoch-strasse 5d-6450 hanaude<sep>
+</INVENTOR>
+<ABSTRACT>
+In the direct reduction of iron oxide-containing mate rials in the rotary kiln using solid, coal material-containing reducing agents with a high content of volatile constituents into the feed end of the rotary kiln, a reoxidation of the sponge iron in the final part of the reduction zone takes place, if there is not a certain excess of solid reducing agent therestill exists.To reduce the required excess and yet safe avoidance of the reoxidation are introduced into the final part, starting with at least 75% metalli sampling, reducing gases and / or liquid carbide materials by means of nozzle sticks at least partially inserted into the feedthrough via nozzle lenses.
+</ABSTRACT>
+</TEXT>
+</DOC>

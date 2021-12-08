@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013311
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-17/00 <main>B41J-19/14</main> B41J-19/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for controlling the movement of a print head assemblage of a serial printer.
+</TITLE>
+<APPLICANT>
+burroughs corpus<sep>burroughs corporation<sep>burroughs corporation (a michigan corporation)burroughs placedetroit, michigan 48232us<sep>burroughs corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+chu mosi<sep>chu, mosi<sep>chu, mosi7 flour winds roadsetauket, n.y. 11730us<sep>chu, mosi<sep>chu, mosi7 flour winds roadsetauket, n.y. 11730us<sep>
+</INVENTOR>
+<ABSTRACT>
+in a printer having a print head assemblage (18) longitudinally  moving along a path parallel to a record medium (16) a  portion of the print head assemblage is controlled to strike the  record medium at a desired point by measuring the time  required for sonic pulses generated in a rod (36) at the position  of the print head assemblage to arrive at a sensor, (34)  such time being a function of the distance from the print head  assemblage to the sensor.  a representation of this time is  compared against a similar representation of a time associated  with the position of the desired point and upon equality  the portion of the print head assemblage is driven toward the  record medium.  
+</ABSTRACT>
+</TEXT>
+</DOC>

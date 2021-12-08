@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013711
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23F-4/00 <main>H01L-21/31</main> H01L-21/308 H01L-21/3213 H01L-21/3065 H01L-21/302 C23F-1/00 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the etching of chrome.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporation old orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+chiu george tein-chu<sep>kitcher james robert<sep>ozols gunars miervaldis<sep>zingerman bryant nils<sep>chiu, george tein-chu<sep>kitcher, james robert<sep>ozols, gunars miervaldis<sep>zingerman, bryant nils<sep>chiu, george tein-chu48 brandy lanewappingers falls, new york 12590us<sep>kitcher, james robert11 van siclen drivepoughkeepsie, new york 12601us<sep>ozols, gunars miervaldis26 west academy streetwappingers falls, new york 12590us<sep>zingerman, bryant nils34 duelk avenuemonroe, new york 10950us<sep>chiu, george tein-chu<sep>kitcher, james robert <sep>ozols, gunars miervaldis<sep>zingerman, bryant nils  <sep>chiu, george tein-chu48 brandy lanewappingers falls, new york 12590us<sep>kitcher, james robert11 van siclen drivepoughkeepsie, new york 12601us<sep>ozols, gunars miervaldis26 west academy streetwappingers falls, new york 12590us<sep>zingerman, bryant nils34 duelk avenuemonroe, new york 10950us<sep>
+</INVENTOR>
+<ABSTRACT>
+The chromium to be corrosive is exposed to a glow discharge in an oxygen or a noble gas, a multi-choined organic compound and water vapor containing the gas atmosphere. In such a gasat mosphere chromium with a sensible etching speed and aluminum copper alloys are practically not etched. The etching speed, with which silicon containing materials are etched, can be changed in width limits by variation of the quantity ratio in the gas atmosphere. If the gas mixture contains 2 volumes of the multi-chlorinated organic compound, 8 VO lovers oxygen or noble gas and 1 to 2 volumes of water vapor, so the etching of silicon-containing materials can be suppressed virtually completely. Due to these properties, the method is applied, especially in the production of integrated circuits, for example when etching a chromium layer (3) applied to a semiconductor edge (1) and separated from the SEM by a SiO₂ layer (2), and which with a Layer from an aluminum copper alloy (4) is partially covered.
+</ABSTRACT>
+</TEXT>
+</DOC>

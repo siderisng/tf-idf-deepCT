@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009571
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24J-2/08 F24J-2/10 F24J-2/06 F24J-2/24 F24J-2/04 <main>F24J-3/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+solar energy collector with multiple lens array and process for its manufacture.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+bohg armin<sep>briska marian<sep>bohg, armin<sep>briska, marian<sep>bohg, arminmozartstrasse 13d-7031 neuweilerde<sep>briska, mariannürtinger strasse 51d-7030 böblingende<sep>bohg, armin<sep>briska, marian  <sep>bohg, arminmozartstrasse 13d-7031 neuweilerde<sep>briska, mariannürtinger strasse 51d-7030 böblingende<sep>
+</INVENTOR>
+<ABSTRACT>
+A solar energy collector acting as a black body contains a lentenra ster (1) adjacent to the radiation image, with a reflective surface mounted on its rear side, so that the light of the lens grid (1) facing away from the radiation side of the lens grid (1) incident light irradiation did not return. On the other hand, each lens of the lens grid (1) focuses the incident radiation (6) to radiation power layers in this reflective surface to thereby reach the absorber (4). Upon focusing in a large angular range, these radiation monstrosities are provided in a reflective surface provided without a specially accurate iris openings by the energy effective in focusing energy itself from case to case. For this purpose, a bimetal dandruff (13) serves on a substrate (2) which is arranged parallel to the lens grid plate (1) at the focal plane. Upon focusing the radiation, the respective bimetallic shed (3) for release of the radiation through gear (5) depart, while all other bimetallic sheds (13) remain in their restage and thus reflect radiation shares thrown back from the absorber (4). The lenses may be assigned about 100 bimetallic sheds (3) each.
+</ABSTRACT>
+</TEXT>
+</DOC>

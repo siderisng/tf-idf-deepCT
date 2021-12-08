@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002605
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/57 C07D-501/04 C07D-501/46 A61P-31/00 C07D-279/00 C07D-501/06 A61K-20060101S <main>C07D-501/36</main> C07D-271/02 C07D-501/02 C07D-501/60 C07D-271/00 A61K-31/545 A61K-31/546 C07D-279/08 A61P-31/04 C07D-501/36 C07D-501/00 C07D-20060101S 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cephalosporin compounds and formulations containing them for use in the treatment of bacterial infections and the preparation of the cephalosporin compounds.
+</TITLE>
+<APPLICANT>
+lilly co elius<sep>eli lilly and company<sep>eli lilly and company307, east mccarty streetindianapolis indiana 46285us<sep>eli lilly and company<sep>
+</APPLICANT>
+<INVENTOR>
+katner allen samuel<sep>katner, allen samuel<sep>katner, allen samuel219 w. 81st streetindianapolis indiana 46260us<sep>katner, allen samuel<sep>katner, allen samuel219 w. 81st streetindianapolis indiana 46260us<sep>
+</INVENTOR>
+<ABSTRACT>
+cephalosporin antibiotics of formula    wherein r is hydrogen, an alkali metal cation, or a carboxylic  acid protecting group; r₁ is hydrogen or methoxy; r₂ is  hydrogen or an amino protecting group; r₃ is hydrogen or  c₁-c₄ alkyl; and r₄ is c₁-c₄ alkyl.  
+</ABSTRACT>
+</TEXT>
+</DOC>

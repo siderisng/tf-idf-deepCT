@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001806
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05F-1/10 A61B-5/0424 A61N-1/36 G05F-1/573 A61N-1/08 G05F-1/58 <main>A61N-1/08</main> A61B-5/0408 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electromedical excitation apparatus.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+weigert kurt<sep>weigert, kurt<sep>weigert, kurternst-heinkel-weg 19d-8500 nürnbergde<sep>weigert, kurt<sep>weigert, kurternst-heinkel-weg 19d-8500 nürnbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an electromedical device, in particular irritant current device. Known devices of this type have a current shape generator (1) with current constant output stage (3) operating with relatively high operating pane tion (up to a few 100 volts), so that even with extremely high patient resistors, the required streams can be applied, with large-area electrodes In general, the load resistors are comparatively low. The operating voltage required for those normal cases for the required currents is much lower than the actual high operating voltage, which leads to unpleasant irritant phenomena by increasing the current density, when the resistance due to solving the electro the od. Like. Suddenly changes. According to the invention, current constant step (3) and operating voltage generator (UO) are turned on an operating voltage regulator (15), which, depending on the load resistor (9) and or current intensity, the operating voltage (UB) for a current constant stage (3) of an output voltage value (UV) With increasing load resistor to higher values, the control time constant is such that in a differential resistance change, which exceeds a pre-bare threshold, the change of operation is less rapid than the resilation stress. With rapid change, z. b. By loosening and dropping by electrodes, the operating voltage is only slowly highly regulated, so that unwanted irritation occurs is prevented.
+</ABSTRACT>
+</TEXT>
+</DOC>

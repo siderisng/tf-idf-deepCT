@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005996
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/00 G06F-3/045 G06F-3/033 G06F-3/03 G08C-21/00 <main>G01B-7/03</main> G01B-7/004 G06F-3/041 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in and relating to electrographic apparatus.
+</TITLE>
+<APPLICANT>
+quest automationgb<sep>quest automation limited<sep>quest automation limitedquest house princes road ferndowndorset bh22 9hqgb<sep>quest automation limited  <sep>
+</APPLICANT>
+<INVENTOR>
+lambden martin roy<sep>lambden, martin roy<sep>lambden, martin roy13 telston closebourne end buckinghamshiregb<sep>lambden, martin roy<sep>lambden, martin roy13 telston closebourne end buckinghamshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+electrographic apparatus includes a transducer pad  having a flexible membrane (4) mounted over a base  member (1) with facing surfaces of the membrane and base  member being electrically conductive and having electrical  voltages applied thereto whereby to provide electrical signals  representing the coordinates of a location at which  pressure is applied to the flexible membrane locally by a pen  or stylus, wherein in order to maintain an appropriate  tension in the flexible membrane, the membrane is attached  to and mounted on an outwardly tensioned rectangular  frame member.  the frame member may comprise separate  frame elements (14) and spring members (15) forcing the  elements away from one another.  alternatively, the frame  member may be resilient and be inwardly compressed  during the attaching thereto of the flexible membrane  whereby the inherent resilience of the frame member  subsequently tensions the flexible membrane.  
+</ABSTRACT>
+</TEXT>
+</DOC>

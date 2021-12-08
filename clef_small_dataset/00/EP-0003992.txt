@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003992
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-499/64 A61P-31/00 C07D-499/00 C07D-499/70 A61K-31/43 A61K-31/429 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beta-lactam compounds, process for their preparation and their use in medicines
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+koenig hans-bodo drde <sep>metzger karl-georg drde <sep>preiss michael dr de<sep>schmidt gunter drde<sep>koenig, hans-bodo, dr.<sep>metzger, karl-georg, dr.<sep>preiss, michael, dr.<sep>schmidt, gunter, dr.<sep>könig, hans-bodo, dr.herberts-katernberg 10d-5600 wuppertal-1de<sep>metzger, karl-georg, dr.pahlkestrasse 15d-5600 wuppertal-1de<sep>preiss, michael, dr.egenstrasse 21d-5600 wuppertal-1de<sep>schmidt, gunter, dr.pahlkestrasse 63d-5600 wuppertal-1de<sep>
+</INVENTOR>
+<ABSTRACT>
+β-lactam compounds of the formula <image> wherein R is hydrogen or alkoxy, b a heterocyclic radical, a ethylene, trimethylene or o-phenylene, d a carbonyl group or a direct binding and z hydrogen or a substituent, show in addition to good compatibility and solubilityWide antibacterial effect as well as the property, growth and feed utilization in animals.
+</ABSTRACT>
+</TEXT>
+</DOC>

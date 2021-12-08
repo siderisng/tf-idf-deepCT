@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004099
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-11/46 H03H-11/00 G05F-1/10 H03G-1/00 <main>H03H-11/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrically variable impedance circuit.
+</TITLE>
+<APPLICANT>
+tokyo shibaura electric cojp<sep>tokyo shibaura denki kabushiki kaisha<sep>kabushiki kaisha toshiba72, horikawa-cho, saiwai-kukawasaki-shi, kanagawa-ken 210jp<sep>tokyo shibaura denki kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+katakura masayuki<sep>katakura, masayuki<sep>katakura, masayuki256-6, sanmai-chokanagawa-ku yokohama-shijp<sep>katakura, masayuki<sep>katakura, masayuki256-6, sanmai-chokanagawa-ku yokohama-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrically variable impedance circuit in which a  voltage-current converter circuit (3) is provided to produce a  current (i') having a magnitude corresponding to an instantaneous  input signal potential (v) applied to an input terminal  (1) and a current variation of the voltage-current converter  circuit is fed back to the input terminal (1), the current variation  being controlled by a control signal (vc) to vary the circuit  impedance seen from the input terminal (1).  in order to  expand the range of linearity in impedance, the voltage-current  converter is so arranged that the varying component  of its output current is linearly proportional to the instantaneous  input signal potential (v), and a current converter  circuit (4) is provided which linearly converts the output current  of the voltage-current converter circuit and whose output  is coupled to the input terminal (1).  the current converter  circuit (4) is comprised of a pn junction (5₁) which develops a  voltage which is the logarithm of the output current of the  voltage-current converter (3) and a transistor (61) between  the base and emitter of which is applied the voltage  developed by the pn junction (51) to produce a current which  is the exponential of the voltage developed by the pn junction.  
+</ABSTRACT>
+</TEXT>
+</DOC>

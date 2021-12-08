@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005979
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01L-3/02 G01N-35/00 B01F-13/00 G01N-35/10 B01L-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a miniature reaction container and a method and apparatus for introducing micro volumes of liquid to such a container.
+</TITLE>
+<APPLICANT>
+dynatech agch<sep>dynatech ag<sep>dynatech aggartenstrasse 2ch-6300 zugch<sep>
+</APPLICANT>
+<INVENTOR>
+leaback david herbertgb<sep>leaback, david herbert<sep>leaback, david herbert5 links driveradlett hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a miniature reaction container for conducting reactions  with precise micro-litre volumes of liquid reactants, reagents  and samples for the purposes of enzyme assay procedures,  comprises a tubular reaction chamber (1) made from a  transparent wettable plastics material and an inlet tube (2)  made from a transparent non-wettable material, such as  teflon.  both the chamber and the inlet tube may be capillary  tubes and the volume of the chamber should not exceed 30  µl.  for the purposes of a particular assay procedure, the  chamber (1) may be pretreated so as to have a reactant  adhered or chemically bonded to its inside surface.  with a  plurality of such reaction containers, a multiplicity of reaction  mixtures may be prepared and incubated simultaneously.  to  this end, the containers (23), which may or may not have  been pretreated with reactant, are mounted in a slidable  assembly (17-20) together with syringes (26).  the needles  (28) of the syringes are connected to the reaction chambers (1)  and their plungers (33) are ganged together so as to be  movable by the mechanism (40) simultaneously to draw a  precisely metered micro-volume of liquid into the inlet tube  of each container.  by dipping the inlet tube successively into  different liquids and actuating the syringes, coherent threads  of these liquids are formed in the inlet tubes and subsequently  drawn into the reaction chambers to produce reaction  mixtures.  these reaction mixtures may be incubated within  the containers before being expressed therefrom and  assayed, for example, by fluorimetry.  
+</ABSTRACT>
+</TEXT>
+</DOC>

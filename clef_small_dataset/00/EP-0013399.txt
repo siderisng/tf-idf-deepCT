@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013399
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-6/04 H01F-6/00 H01F-36/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cooling device for superconducting magnet coil.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+hieronymus hansde<sep>hieronymus, hans<sep>hieronymus, hansbunsenstrasse 60d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an arrangement for the forced cooling of a magnetic coil winding with cooling center connection points for feeding and outing a coolant in the or from the winding whose superconducting conductors are determined by current density I, field strength H and temperature T sets of the next Jump point of the superconducting material differed far away. However, in these known cooling animals, a spread of a normal-conducting zone emanating from a critical conductor area is still supported by the coolant, since the cooling coil has always been fed into the winding on this critical conductor area. The invention therefore provides that EN of the coolant terminal (24) with the lowest transfer to the conductor portion (14) of the winding (2), whose operating point is closest to a jump point, a discharge of the coolant (A) from the winding (2 ) is provided. The superfers can be designed in particular as a waveguide. Such cooling arrangements can, in particular, be provided for superconducting large magnets with, for example, D-shaped shape.
+</ABSTRACT>
+</TEXT>
+</DOC>

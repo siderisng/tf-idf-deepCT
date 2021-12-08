@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011717
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-29/00 G11C-11/02 G11C-11/14 G11C-19/00 G06F-11/20 <main>G11C-19/08</main> G11C-19/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a magnetic bubble domain memory system.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+schreiner kenneth eugene<sep>schreiner, kenneth eugene<sep>schreiner, kenneth eugene13130 cumberland drivesaratoga, california 95070us<sep>schreiner, kenneth eugene<sep>schreiner, kenneth eugene13130 cumberland drivesaratoga, california 95070us<sep>
+</INVENTOR>
+<ABSTRACT>
+a bubble domain memory system having one or more  major/minor loop arrays is disclosed.  the bubble domain  memory system has a plurality of minor loops (20a-20n) for  the storage of data bits including some minor loops which  are defective.  a plurality of pointers are provided to identify  the defective minor loops.  at least one block of bits in each  major/minor loop array is reserved for the storage of the  pointers.  the pointer block is associated with a fast access  read write memory (28), for example, a volatile random-­ access read/write memory system, to which the pointer  information is transferred during power-on initialization of  the bubble domain memory system.  during the read/write  operations of the bubble domain memory system, the  read/write memory system enables the data positions to be  skipped that correspond to the defective loops.  
+</ABSTRACT>
+</TEXT>
+</DOC>

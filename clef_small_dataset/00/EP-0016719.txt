@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016719
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-13/00 F15B-11/05 F15B-11/00 F15B-11/02 <main>F15B-13/01</main> F15B-13/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulic motor control device.
+</TITLE>
+<APPLICANT>
+rexroth mannesmann gmbhde<sep>mannesmann rexroth gmbh<sep>mannesmann rexroth gmbhjahnstrasse 3 - 5d-97813 lohrde<sep>mannesmann rexroth gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+ewald roland<sep>ewald, roland<sep>ewald, rolandfrühlingstrasse 2d-8770 lohr/mainde<sep>ewald, roland<sep>ewald, rolandfrühlingstrasse 2d-8770 lohr/mainde<sep>
+</INVENTOR>
+<ABSTRACT>
+An apparatus for controlling a hydraulic motor (2) having a throttling path valve (1) and a balancing device (7) should be formed such that when connecting the hydraulic motor (2) with the pressure medium source (5), a starting jump of this motor is avoided.For this purpose, the compensation device is designed as a load compensation valve (7) which prevents a part of the loads which maintains a constant speed of the load in load changes regardless of the direction of the load and allows a leak-free barrier.Also, a pressure reducing valve (12) is switched on between the control side (X) of the load compensation valve (7) and the hydraulic motor (2) whose control line is connected to the line (11) connecting the pressure reducing valve with the load compensating valve.
+</ABSTRACT>
+</TEXT>
+</DOC>

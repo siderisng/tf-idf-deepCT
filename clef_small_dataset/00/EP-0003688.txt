@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003688
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-313/00 C07D-327/04 C07D-275/02 A01N-47/24 C07D-275/00 C07C-161/00 C07C-381/08 A01N-47/10 C07D-327/00 C07D-339/00 C07D-339/08 C07C-381/00 <main>A01N-47/24</main> C07C-67/00 C07D-339/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of controlling mollusc pest.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation<sep>
+</APPLICANT>
+<INVENTOR>
+haines robert gordon<sep>haines, robert gordon<sep>haines, robert gordon2820 admiral walk drive westorange park florida 32073us<sep>haines, robert gordon<sep>haines, robert gordon2820 admiral walk drive westorange park florida 32073us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of controlling molluscs by subjecting them  or their environment to a molluscicidally effective amount  of an n-substituted bis-carbamoyl sulfide compound of  the general formula:    wherein:   r is the group:    wherein:   r₂ is an alkyl, alkylthio, alkylsulfinyl, alkylsulfonyl,  alkoxy, alkanoyl or alkoxycarbonyl group, each of which  may be unsubstituted or aliphatically substituted in any  combination with one or more cyano, nitro, alkylthio,  alkylsulfinyl, alkylsulfonyl, alkoxy or r₄r₅-nco-groups;  or r₂ is a phenyl, r₄r₅nco- or r₆con(r₄)-group;  wherein:   r₄ and r₅ are each individually a hydrogen atom or  an alkyl group;   r₆ is a hydrogen atom or an alkyl or alkoxy group;   r₃ is a hydrogen atom or an alkyl, alkylthio, alkylsulfinyl,  alkylsulfonyl or cyano group;   a is a four or five membered divalent aliphatic chain  which includes one or two divalent oxygen or sulfur atoms  or sulfinyl or sulfonyl groups and which may include not  more than one divalent amino, alkylamino or carbonyl  group, in any combination; provided that the total number  of carbon atoms in the group r does not exceed eight and  provided further than when the group r₂ is an alkyl group  substituted with an alkylthio group, r₃ is a cyano, alkyl  or alkylthio group; and r′ is an alkyl group containing  from one to four carbon atoms.  a preferred compounds is n,n′-bis-[1-methylthioacetaldehyde  o-(n-methylcarbamoyl)oximino]sulfide.  
+</ABSTRACT>
+</TEXT>
+</DOC>

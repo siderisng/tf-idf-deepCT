@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0015253
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-27/26 H01G-7/00 H03M-1/00 G01M-3/02 <main>H03K-13/02</main> G01L-9/12 G01R-19/25 H03M-1/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a transducer for sensing a variable parameter and for converting a so-obtained analog signal to a digital signal.
+</TITLE>
+<APPLICANT>
+rosemount incus<sep>rosemount inc.<sep>rosemount inc.<sep>
+</APPLICANT>
+<INVENTOR>
+grindheim earl a<sep>grindheim, earl, a.<sep>grindheim, earl, a.<sep>grindheim, earl, a.6844 -17th avenue southminneapolis, mn 55423us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

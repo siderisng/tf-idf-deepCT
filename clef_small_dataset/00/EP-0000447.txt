@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000447
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-15/14 H01Q-15/18 <main>H01Q-15/18</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radar reflector.
+</TITLE>
+<APPLICANT>
+firth john hewitt<sep>firth, john hewitt<sep>firth, john hewitt15 the gowersharlow essexgb<sep>firth, john hewitt<sep>
+</APPLICANT>
+<INVENTOR>
+firth john hewitt<sep>firth, john hewitt<sep>firth, john hewitt15 the gowersharlow essexgb<sep>firth, john hewitt  <sep>firth, john hewitt 15 the gowersharlow essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+radar reflector (10) having at least six corner reflectors  (14a, 14b) directed outwardly of a major axis.  the reflectors  (14a, 14b) are disposed along two successive helical  paths, one of which paths is sinistrorse and the other of which  paths is dextrorse.  in a preferred embodiment, ten corner  reflectors are employed, which are directed evenly about an  angle of 360°.  
+</ABSTRACT>
+</TEXT>
+</DOC>

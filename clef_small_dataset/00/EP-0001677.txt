@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001677
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-35/362 B23K-35/36 B23K-35/363 B23K-35/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flux for soft soldering of aluminium, a fluxed solder composition containing said flux and a method of soft soldering aluminium using said flux.
+</TITLE>
+<APPLICANT>
+multicore solders ltdgb <sep>multicore solders limited<sep>multicore solders limited maylands avenue hemel hempstead hertfordshire hp2 7epgb<sep>
+</APPLICANT>
+<INVENTOR>
+allen bernard michaelgb<sep>rubin wallacegb<sep>watson briangb<sep>allen, bernard michael<sep>rubin, wallace<sep>watson, brian<sep>allen, bernard michaelkelsey house wood lane end hemel hempsteadhertfordshire hp2 4rfgb<sep>rubin, wallacekelsey house wood lane end hemel hempsteadhertfordshire hp2 4rfgb<sep>watson, briankelsey house wood lane end hemel hempsteadhertfordshire hp2 4rfgb<sep>
+</INVENTOR>
+<ABSTRACT>
+soft solders, namely solder alloys melting at a temperature  below about 350°c. , are generally preferred to the higher  melting point hard solders and to the brazing and welding  alloys for soldering a joint between a member made of  aluminium or aluminium alloy and another member which  may or may not be of aluminium or an aluminium alloy.   however a disadvantage arising from this use of soft solders  is that the corrosion resistance of such joints tends to be  unsatisfactory.  to deal with this problem, the invention provides a flux  containing as one of the essential constituents thereof a silver  halide which, when used in conjunction with a conventional  lead/tin soft solder alloy, ensures that silver is deposited at  the joint interface to prevent corrosion.  
+</ABSTRACT>
+</TEXT>
+</DOC>

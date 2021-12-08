@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007490
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-405/00 C07F-9/00 C07D-317/72 A61K-31/5575 A61K-31/557 C07F-9/535 C07D-317/00 C07F-9/54 <main>C07C-177/00</main> C07C-401/00 C07C-67/00 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+prostaglandin compounds with a delta-2,4-11 deoxy pge structure, a process for their preparation, and their use as medicaments.
+</TITLE>
+<APPLICANT>
+hoechst agde  <sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+bartmann wilhelm dr<sep>beck gerhard dr<sep>bickel martin dr<sep>lerch ulrich dr<sep>bartmann, wilhelm, dr.<sep>beck, gerhard, dr.<sep>bickel, martin, dr.<sep>lerch, ulrich, dr.<sep>bartmann, wilhelm, dr.am dachsbau 5d-6232 bad soden am taunusde<sep>beck, gerhard, dr.gustav-freytag-strasse 24d-6000 frankfurt am mainde<sep>bickel, martin, dr.breitlacherstrasse 25d-6000 frankfurt am main 90de<sep>lerch, ulrich, dr.schwalbenweg 19d-6238 hofheim am taunusde<sep>bartmann, wilhelm, dr.<sep>beck, gerhard, dr.  <sep>bickel, martin, dr.<sep>lerch, ulrich, dr.<sep>bartmann, wilhelm, dr.am dachsbau 5d-6232 bad soden am taunusde<sep>beck, gerhard, dr.gustav-freytag-strasse 24d-6000 frankfurt am mainde<sep>bickel, martin, dr.breitlacherstrasse 25d-6000 frankfurt am main 90de<sep>lerch, ulrich, dr.schwalbenweg 19d-6238 hofheim am taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to therapeutically active compounds of the formula I which were prepared according to the following scheme: wherein: R₁: H, a hydrocarbon or a physologically distracting ion R₂: aliphatic hydrocarbon Z: CH₂, C (CH₃) ₂ or a single bond R₃:A protecting group R₄: alkyl or phenyl.
+</ABSTRACT>
+</TEXT>
+</DOC>

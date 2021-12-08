@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001296
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25B-15/06 F25B-33/00 F25B-37/00 F25B-15/02 F25B-27/00 <main>F24J-3/04</main> F25B-30/00 F24D-11/00 F25B-29/00 F24J-2/46 F25B-30/04 F24J-2/00 F24D-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for the utilization of heat, especially solar energy, for the heating of rooms.
+</TITLE>
+<APPLICANT>
+knoche k f dr ing<sep>trumper heinrich dipl ing<sep>knoche, k.f., dr.-ing.<sep>trumper, heinrich, dipl.-ing.<sep>knoche, karl-friedrich, prof. dr.-ing.wiesenweg 87d-5100 aachen-horbachde  <sep>trümper, heinrich, prof. dipl.-ing.engler strasse 7d-7500 karlsruhede<sep>knoche, k.f., dr.-ing.<sep>trumper, heinrich, dipl.-ing. <sep>
+</APPLICANT>
+<INVENTOR>
+knoche k f dr-ing<sep>trumper heinrich dipl-ing<sep>knoche, k.f., dr.-ing.<sep>trumper, heinrich, dipl.-ing.<sep>knoche, karl-friedrich, prof. dr.-ing.wiesenweg 87d-5100 aachen-horbachde<sep>trümper, heinrich, prof. dipl.-ing.engler strasse 7d-7500 karlsruhede<sep>knoche, k.f., dr.-ing. <sep>knoche, karl-friedrich, prof. dr.-ing.wiesenweg 87d-5100 aachen-horbachde<sep>trümper, heinrich, prof. dipl.-ing.engler strasse 7d-7500 karlsruhede<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the use of heat-, in particular solar energy for room heating, whereby the heat absorbed from a collector (1) at a low temperature level is given off at a higher temperature level to a heating circulation (5), thereby characterized in that said collector (1) is flowed through by a diluted solution of a pair of working substances, whereby a part of said solution vaporizes and is transported to a first absorber (4) operated with concentrated solution, from which the absorption heat therein produced is fed to said heating circulation (5) and in that said diluted solution concentrated by vaporizing in said collector (1) dilutes in an at least two-stage second absorber (7a, 7b) resp.  resorber to the initial value and said diluted concentrate solution in the first absorber (4) concentrated in an at least two-stage desorber (11a, 11b) to the initial value, the vapour desorbed in the stages of said desorber (11a, 11b) fed to the corresponding stages of the second absorber (7a, 7b) and the absorption heat produced therein fed to at least one stage of said desorber (11a, 11b). 
+</ABSTRACT>
+</TEXT>
+</DOC>

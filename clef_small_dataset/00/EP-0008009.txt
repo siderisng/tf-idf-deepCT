@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008009
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/92 H04N-5/917 H04N-9/797 G11B-20/02 H04N-5/919 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuit arrangement for storing video signals.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende <sep>
+</APPLICANT>
+<INVENTOR>
+christiansen hans-martin dipl-de  <sep>koubek michael dipl-physde<sep>pfleiderer hans-joerg drde<sep>stein karl-ulrich drde<sep>christiansen, hans-martin, dipl.-ing.<sep>koubek, michael, dipl.-phys.<sep>pfleiderer, hans-joerg, dr.<sep>stein, karl-ulrich, dr.<sep>christiansen, hans-martin, dipl.-ing.minorstrasse 12ad-8000 münchen 71de<sep>koubek, michael, dipl.-phys.ortlindestrasse 2d-8000 münchen 81de<sep>pfleiderer, hans-jörg, dr.franz-krinninger-weg 23d-8011 zornedingde<sep>stein, karl-ulrich, dr.germersheimerstrasse 5d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for storing video signals (UV) on a band-shaped, continuously movable, magnetic recording carrier (3) with a decomposition of the video signals in a plurality of sub-signals and simultaneously recording thereof into a plurality of parallel longitudinal traces, as well as a circuit arrangement To carry out the procedure rens. In the case of methods of this type, the aim is to reduce the image information to be stored against the individual influences of the individual to be stored as well as a large recording density to a low level. This is achieved accordingly by the fact that the line signals (Z₁.,, Zn, Zn + 1..,, Z2N) of the video signal are used as partial signals, wherein the time-belonging to a television image of the signals are summarized to at least one group and can be recorded in succession . All the time belonging to one and the same group Lens signals (Z₁., Zn) are recorded simultaneously on n longitudinal tracks after a spoke. The scope of the invention comprises video recorder with longitudinal trace recording.
+</ABSTRACT>
+</TEXT>
+</DOC>

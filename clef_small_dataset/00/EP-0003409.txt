@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003409
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/00 C07C-101/04 C07C-255/45 <main>C07C-99/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing 4-amino-methylbicyclo(2,2,2)octane-1-carboxylic acid and intermediate compound therefor.
+</TITLE>
+<APPLICANT>
+daiichi seiyaku co jp<sep>daiichi seiyaku co. ltd.<sep>daiichi seiyaku co., ltd.14-10, nihonbashi 3-chomechuo-ku tokyo 103jp<sep>daiichi seiyaku co. ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+shimada sadakatsu<sep>yukimoto yusuke<sep>shimada, sadakatsu<sep>yukimoto, yusuke<sep>shimada, sadakatsu155-32, kuriyama yotsukaidomachiinbagun chibajp<sep>yukimoto, yusuke50-6, masago 5-chome chibashichibajp<sep>shimada, sadakatsu <sep>yukimoto, yusuke<sep>shimada, sadakatsu155-32, kuriyama yotsukaidomachiinbagun chibajp<sep>yukimoto, yusuke50-6, masago 5-chome chibashichibajp<sep>
+</INVENTOR>
+<ABSTRACT>
+process for producing 4-aminomethylbicyclo  (2,2,2)octane-1-carboxylic acid and intermediate therefor  4-aminomethylbicyclo(2,2,2)octane-1-carboxylic acid or a  pharmaceutically acceptable salt thereof is prepared by  reacting a compound of the formula:    (wherein r is a hydrogen atom or a lower alkyl group) with  ethylene, under a pressure of 60 to 300 kg/cm² at a  temperature of 100°-250°c, to produce a 4-cyanobicyclo(2,2,2)oct-2-en-1-carboxylic  acid of the formula:    (wherein r is the same as defined above), catalytically  reducing the bicyclo compound and hydrolyzing the reduction  product.  
+</ABSTRACT>
+</TEXT>
+</DOC>

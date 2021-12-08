@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017433
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-7/00 G11B-21/10 G11B-7/095 G11B-7/085 <main>G11B-7/08</main> G11B-7/0045 G11B-7/08 G11B-7/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for tracking an information track on a recording medium.
+</TITLE>
+<APPLICANT>
+discovision assus<sep>discovision associates<sep>discovision associatesp.o. box 6600 3300 hyland avenuecosta mesa california 92626us<sep>discovision associates <sep>
+</APPLICANT>
+<INVENTOR>
+yardy raymond<sep>yardy, raymond<sep>yardy, raymond6551, abbottswood driverancho palos verdes california 90274us<sep>yardy, raymond<sep>yardy, raymond6551, abbottswood driverancho palos verdes california 90274us<sep>
+</INVENTOR>
+<ABSTRACT>
+a servo control apparatus for maintaining a scanning  device, such as a beam (15) of radiation, aligned with an  information recording track on a moving recording medium,  such as a record disc (11).  the apparatus is especially  adapted for use in correcting for tracking deviations brought  about by temperature-induced expansion and contraction of  the disc, which causes the recording track being scanned to  move radially outwardly or inwardly relative to the beam of  radiation.  in the preferred embodiment, the apparatus  includes a movable mirror (39) for oscillating the beam in a  radial direction.  in accordance with a periodic dither signal.   this causes a corresponding variation in the  intensity of the beam (41) reflected by the disc, with the  amplitude and phase angle of this intensity variation  relative to that of the dither signal, indicating the direction  and magnitude of the deviation of the beam from the track  centerline.  whenever the magnitude exceeds a prescribed  level, a step forward or step reverse pulse signal is coupled  to a stepper motor (45) to increment the beam in the  appropriate radial direction, whereby the beam is main­ tained substantially aligned with the centerline of the  recording track.  
+</ABSTRACT>
+</TEXT>
+</DOC>

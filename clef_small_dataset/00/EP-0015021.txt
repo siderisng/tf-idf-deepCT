@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015021
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-22/00 C23F-7/10 C23C-22/36 C23C-22/05 <main>C23F-7/08</main> C23C-22/44 C25D-13/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the pretreatment of metal surfaces for electrophoretic dip painting.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde<sep>parker ste continentalede<sep>metallgesellschaft ag<sep>societe continentale parker<sep>metallgesellschaft agpostfach 10 15 01, reuterweg 14d-60015 frankfurtde<sep>société continentale parker51, rue pierref-92111 clichyfr<sep>metallgesellschaft ag<sep>societe continentale parker <sep>
+</APPLICANT>
+<INVENTOR>
+muller gerhard<sep>rausch werner dr<sep>muller, gerhard<sep>rausch, werner, dr.<sep>müller, gerhard hopfenstrasse 29d-6450 hanaude<sep>rausch, werner, dr.ursemerstrasse 43d-6370 oberurselde<sep>muller, gerhard<sep>rausch, werner, dr.  <sep>müller, gerhard hopfenstrasse 29d-6450 hanaude<sep>rausch, werner, dr.ursemerstrasse 43d-6370 oberurselde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for preparing metal surface, in particular those of steel, for electrophoretic dip coating it is known to contain with solutions to contain the zinc and PO₄ in the weight ratio of 1: (12 to 110).The phosphate layers produced thereby cause high corrosion protection and dissolve only slightly during electrophoretic paint.For further increase the corrosion protection and improvement of the reprehension behavior of the phosphate layer, the treatment with phosphating solutions, which additionally comprises a content of fluoborate, preferably in terms of 0.3 to 2.0 g / l and substantially ferro ion-free.In the preferred treatment of rod, chlorate and / or nitrite are expediently used.
+</ABSTRACT>
+</TEXT>
+</DOC>

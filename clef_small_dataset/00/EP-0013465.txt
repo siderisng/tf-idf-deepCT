@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013465
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/24 B01D-17/02 B03D-1/02 B03D-1/00 <main>B03D-1/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+staged froth flotation with intermediate recycle.
+</TITLE>
+<APPLICANT>
+chevron res<sep>chevron research company<sep>chevron research company555 market street, p.o. box 7141san francisco, california 94120-7141us<sep>chevron research company  <sep>
+</APPLICANT>
+<INVENTOR>
+hinds robert j<sep>hinds, robert j.<sep>hinds, robert j.167 knollwood drivesan rafael california 94901us<sep>hinds, robert j.<sep>hinds, robert j.167 knollwood drivesan rafael california 94901us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for separating a first liquid from a mixture with  a second liquid or particulate solid by a series of froth flotation  and froth separation stages (2,5,15 and 18) including at least a  first (2) and a last stage (18) in which a first recycle portion (23)  is recovered from the last stage (18) and recycled thereto is  improved by separately recovering a second recycle portion  (8) from a stage upstream with respect to last stage and  recycling the second recycle portion to the first stage (2) and,  optionally, to the stage from which it is recovered (5) and any  stages intermediate the first stage the stage from which it is  recovered.  
+</ABSTRACT>
+</TEXT>
+</DOC>

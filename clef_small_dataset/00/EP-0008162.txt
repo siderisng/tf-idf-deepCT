@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008162
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-17/21 B41J-5/30 G06K-15/00 G06F-3/023 G06F-3/09 G06F-3/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+text processing and editing device.
+</TITLE>
+<APPLICANT>
+desieno duane d<sep>desieno, duane d.<sep>desieno, duane d.1251 parker placesan diego, californiaus<sep>
+</APPLICANT>
+<INVENTOR>
+desieno duane d<sep>desieno, duane d.<sep>desieno, duane d.1251 parker placesan diego, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a text editing device has an input keyboard (10) with  data keys (13) and control keys (14).  a digital controller  (11) couples to the keyboard for receiving input signals  representative of the keys as they are manually depressed,  for storing digital data words representative of the depressed  data keys, and for performing predetermined editing opera­ tions on the data words in response to the depressed control  keys.  the editing operations produces edited data words.   an electrochemical keypusher (12) is coupled to receive  the output signals.  the keypusher mounts on any office  typewritter and depresses keys thereon corresponding to  the edited data words represented by the output signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

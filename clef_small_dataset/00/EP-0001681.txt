@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001681
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-31/00 C07C-29/00 C07C-29/80 C07C-67/00 C07C-29/82 C07C-31/02 C07C-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dehydration of alcohols, preferably ethanol, using a cyclohexane entrainer.
+</TITLE>
+<APPLICANT>
+bp chem int ltdgb<sep>bp chemicals limited <sep>bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0su gb  <sep>
+</APPLICANT>
+<INVENTOR>
+cane charlesgb<sep>cane, charles<sep>cane, charlesbp chemicals limited saltend hedonhull north humbersidegb<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention is a continuous process for producing  substantially anhydrous alcohols from aqueous solutions  by distilling the aqueous alcohol with cyclohexane in a drying  column withdrawing a ternary azeotrope overhead and  recoverying substantially anhydrous alcohol containing not  more than 0. 1% by weight of water from the base of the drying  column.  the overhead distillate is fed into a decanter maintained  at a temperature below the boiling point of the distillate  for at least 10 minutes to separate an organic hydrocarbon  phase from an aqueous phase, and the organic hydrocarbon  phase is recycled to the top of the drying column.  the aqueous  phase is fed into the lower half of a recovery column and  an overhead distillate product containing predominantly  organic compounds from the recovery column is recycled to  the drying column.  the invention not only obviates the use of  toxic entrainers such as benzenes but dramatically reduces  phase separation time in the decanter.  alcohols which may be  dried by this process include ethyl alcohol.  
+</ABSTRACT>
+</TEXT>
+</DOC>

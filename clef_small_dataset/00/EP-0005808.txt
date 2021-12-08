@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005808
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-13/25 H03K-4/00 H03K-4/02 H03M-5/18 G06G-7/00 <main>H04L-3/00</main> H04L-25/49 H03M-5/00 G06F-1/02 G06G-7/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arrangement for the generation from n binary signals of digital signals with 2n levels.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+meyer fritz dr-ing<sep>meyer, fritz, dr.-ing.<sep>meyer, fritz, dr.-ing.sudetenstrasse 9d-8032 gräfelfingde<sep>meyer, fritz, dr.-ing.<sep>meyer, fritz, dr.-ing.sudetenstrasse 9d-8032 gräfelfingde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an arrangement for the generation of 2**n -stage digital signals which consist of n binary signals, where n >= 2, and which are summed up by weighting in accordance with the significance of their position, comprising transistor amplifiers an a summation circuit, characterised in that there are provided first and second multi-emitter transistors (t1, t2; t11, t12), each having n emitter electrodes (11. . . n1, 12. . . n2), that the base electrodes of the multi-emitter transistors are mutually connected together and to a point of reference potential (0) via a common resistor (r1; r11), that the collector electrodes of the two multi-emitter transistors are individually connected via respective further resistors (r2, r3, r12, r13) to the point of reference potential (0), and that the collector electrode of the first multi-emitter transistor (t1, t11) is connected to the output terminal (a), that the emitter electrodes of the two multi-emitter transistors are individually connected to the operating voltage (-ub), via a respective current source, and also to the output terminal of a respective one of n emitter followers (t3, t5, t4, t6, t13, t15, t14, t16) that are connected to the signal inputs, in such manner that the first emitter electrode (11) of the first multi-emitter transistor (t1, t11) is connected both to a current source which emits a current having a value which is multiplied by 1, and to the emitter electrode of an emitter follower (t3, t13) to which the first input signal (e1) is fed, and the first emitter electrode (12) of the second multi-emitter transistor (t2; t12) is connected both to a current source which emits a current having a value which is multiplied by 1, and to the emitter electrode of an emitter follower (t4; t14) to which the first inverse input signal (e1) is fed, and the further emitter electrodes between the first and the n-th of the two multi-emitter transistors are correspondingly connected to the assigned emitter followers and current sources and the current sources emit a current having a multiple value which is graded in accordance with powers of 2, the n-th emitter electrode (n1) of the first multi-emitter transistor (t1; t11) being connected both to a current source which emits the current multiplied by 2**n-1 , and to the emitter electrode of an emitter follower (t5; t15) to which the n-th input signal (en) is fed, and the n-th emitter terminal (n2) of the second multi-emitter transistor (t2; t12) connected both to a current source which emits the current multiplied by 2**n-1 , and to the emitter electrode of an emitter follower (t6, t16) to whose input the n-th inverse input signal (en) is fed. 
+</ABSTRACT>
+</TEXT>
+</DOC>

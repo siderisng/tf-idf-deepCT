@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014891
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-12/38 D21H-17/00 D21H-17/49 C08G-12/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing impregnating resins.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+eisele wolfgang drde <sep>lelgemann ludwig de<sep>scholz fritzde<sep>eisele, wolfgang, dr.<sep>lelgemann, ludwig<sep>scholz, fritz<sep>eisele, wolfgang, dr.niedererdstrasse 103d-6700 ludwigshafende<sep>lelgemann, ludwigamsterdamer strasse 16d-6700 ludwigshafende<sep>scholz, fritzbergweg 3d-6145 lindenfels 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+aminoplastic impregnating resins for surface coating which have the properties of pure melamine resins are obtained by precondensation of melamine and formaldehyde until limited water-dilutability is achieved, and postcondensation in the presence of formaldehyde and urea at high ph. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur herstellung von tränkharzen die erfindung betrifft ein verfahren zur herstellung von tränkharzen auf der grundlage von melamin-formaldehyd -kondensaten, die anstelle von melamin teilweise harnstoff einkondensiert enthalten. melaminharze werden u.a. zur herstellung von oberflächenbeschichtungenvon span-, schichstoff- oder härtbare platten verwendet, wobei man papier mit der harzlösung tränkt und die getränkten getrockneten papiere mit den rohplatten verpresst. sie können zur verbilligung harnstoff-formaldehyd- -kondensat zugesetzt erhalten, bzw es werden melamin und harnstoff gemeinsam mit formaldehyd kondensiert. der zusatz von harnstoff wird bisher allerdings mit einer einbusse an den typischen qualitätseigenschaften der melaminharze erkauft: unter gewissen voraussetzungen liefern reine melaminharze harte, kratzfeste, chemikalien- und wasserdampfbeständige oberflächen mit hohem glanz und anderen wertvollen eigenschaften, die beim verschneiden des melamins mit harnstoff z.t. verloren gehen. der wunsch, den harzen z.b. aus wirtschaftlichen gründen harnstoff zuzusetzen, besteht jedoch fort; gleichzeitig wird angestrebt, die harze zu verbessern z.b. hinsichtlich ihrer elastizität und rissbeständigkeit, da melaminharze, die ohne mitverwendung gewisser zusätze (z,b. carbonsäureamide, sulfonsäureamide, mehrwertige alkohole) hergestellt werden, sehr spröde sind. es wurde nun gefunden, dass mischkondensate aus melamin (m), harnstoff (h) und formaldehyd (f) in einem wenigstens zweistufigen verfahren in wässriger lösung erhalten werden, wenn man zunächst melamin und formaldehyd in an sich ub sicher weise in einem molverhältnis von f:m oberhalb von 1,6 bis z.b. etwa 2 bis zur begrenzten wasserverdünnbarkeit kondensiert und die so erhaltene harzlösung mit formaldehyd und harnstoff wiederum bis zur beginnenden wasserunverträglichkeit umsetzt. die umsetzung von melamin und formaldehyd in der ersten stufe, findet wie üblich im alkalischen ph-bereich, also oberhalb von etwa ph 8 statt. es ist aus der sicht der kondensationsfuhrung unschwierig, in der ersten stufe bereits untergeordnete mengen (z.b. bis zu 1o molprozent, also etwa 5 gewichtsprozent, bezogen auf melamin) harnstoff mitzuverwenden. jedoch bewirkt dieser zusatz im fertigen harz keine vorteile. erfindungsgemass werden die so erhaltenen kondensate nunmehr mit formaldehyd und harnstoff einer zweiten kondensationsreaktion unterworfen, wobei abweichend von der gewehnlichen kondensationsreaktion von harnstoff mit formaldehyd wiederum im alkalischen ph-bereich gearbeitet wird. zur erzielung eines befriedigenden ergebnisses werden mindestens q,1 mol formaldehyd je mol bereits vorhandenen formaldehyds der vorhandenen melaminharzlösung aus der ersten kondensationsstufe zugesetzt und zweckmässig soviel harnstoff, dass eine menge von etwa 25 gewichtsprozent (40 molprozent), bezogen auf die summe von melamin und harnstoff nicht überschritten werden. natürlich muss die formaldehyd- menge und die harnstoffmenge in entsprechendem verhältnis stehen.bei grösseren harnstoffmengen (die technisch leicht möglich sind, wenn entsprechende mengen formaldehyd verwendet werden) tritt allmählich eine verminderung der ualitätseigen- schaften der harze ein. die kondensation wird bis zur beginnenden wasserunverträg lichkeit bzw. bis zur begrenzten was s erverdünnbarkeit weitergefuhrt. die was s erverdtinnbarkeit oder was s erverträglichkeit ist ein mass für den kondensationsgrad. die wasserverträglichkeit wird meistens ausgedruckt als die wassermenge, die einer volumeneinheit harzlösung gewöhnlicher konzentration (d.h. 50- bis 70prozentig) bei 200c zugesetzt werden muss, um eine bleibende trübung hervor zurufen. da die wasserverträglichkeit von der temperatur abhängt, kann auch der tri1bungspunkt als bequem bestimmbares mass fllr den kondensationsgrad verwendet werden. zur bestimmung des trübungspunktes werden einer volumeneinheit heisser harzlösung gewöhnlich 5 volumeneinheiten siedenden wassers zugesetzt
+</DESCRIPTION>
+<CLAIMS>
+   pat entansprilche    1. verfahren zur herstellung von tränkharzen durch wenigstens zweistufige mischkondensation von melamin und harnstoff mit formaldehyd in wässriger lösung, dadurch gekennzeichnet, dass man in einer ersten kondensationsstufe in an sich bekannter weise melamin  (m) mit formaldehyd (f) in einem molverhältnis f:m von wenigstens 1,6 bei einem anfänglichen ph-wert von etwa 8 bis 10,5 bis zur begrenzten   wasserverdünnbarkeit    kondensiert, in einer zweiten kondensationsstufe wenig stens 0,1 mol formaldehyd je mol bereits vorhandenen formaldehyds und so viel harnstoff (h), dass ein gesamt molverhältnis von f:  :(m+h) von 1,4 bis 2 erhalten wird, mindestens jedoch 10 molprozent harnstoff, bezogen auf die molsumme von melamin und harnstoff zusetzt und insgesamt bis zu 40 molprozent harnstoff vorhanden sind und bei einem ph-wert von 8,5 bis 10, der durch laufende alkalizugabe im wesentlichen konstant gehalten wird, bis zur begrenzten   wasserverdünnbarkeit    kondensiert.   2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass man als mass für die begrenzte wasserverdünnbarkeit in der ersten stufe einen trübungspunkt von 40 bis    50 c2    und in der zweiten stufe von 45 bis   606c    wählt.  
+</CLAIMS>
+</TEXT>
+</DOC>

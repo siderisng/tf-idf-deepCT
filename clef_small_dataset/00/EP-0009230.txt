@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009230
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-17/10 G01R-31/28 G01R-17/00 G01G-23/00 G01G-3/142 G01L-1/22 <main>G01R-17/10</main> G01G-3/12 G01G-3/00 G01G-23/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for producing a test tension.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+fritz harald ing grad<sep>schroder heinrich dipl-ing<sep>fritz, harald, ing.grad.<sep>schroder, heinrich, dipl.-ing.<sep>fritz, harald, ing.grad.hebelstrasse 5d-7517 waldbronn 3de<sep>schröder, heinrich, dipl.-ing.schneidemühlerstrasse 43bd-7500 karlsruhede<sep>fritz, harald, ing.grad. <sep>schroder, heinrich, dipl.-ing.<sep>fritz, harald, ing.grad.hebelstrasse 5d-7517 waldbronn 3de<sep>schröder, heinrich, dipl.-ing.schneidemühlerstrasse 43bd-7500 karlsruhede<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a circuit arrangement for the generation of a test voltage for an evaluation circuit (we), connected to the measuring diagonal of at least one electrical measurement bridge circuit (wz1 and wz2), and which comprises an additional bridge circuit (p) connected in parallel with the measurement bridge circuit supply diagonal, characterized in that the measuring diagonal of the additional bridge circuit (p) is connected directly in parallel with the measuring diagonal of the measurement bridge circuit (wz1 and wz2). 
+</ABSTRACT>
+</TEXT>
+</DOC>

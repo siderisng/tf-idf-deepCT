@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000070
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-3/20 B41J-2/39 B41J-2/395 H04N-1/032 <main>H04N-1/032</main> G03G-15/05 G03G-17/00 G01D-15/06 B41J-2/425 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+image printing head.
+</TITLE>
+<APPLICANT>
+cit alcatelfr<sep>s.a. dite: compagnie industrielle des telecommunications cit-alcatel<sep>compagnie industrielle des telecommunications cit-alcatel s.a. dite:12, rue de la baumef-75008 parisfr<sep>compagnie industrielle des telecommunications cit-alcatel s.a. dite:<sep>
+</APPLICANT>
+<INVENTOR>
+beduchaud michel<sep>decuyper jean-claude<sep>yvard marcel<sep>beduchaud, michel<sep>decuyper, jean-claude<sep>yvard, marcel<sep>beduchaud, michel6, résidence de villebon villebon sur yvettef-91120 palaiseaufr<sep>decuyper, jean-claude13, allée de la deulef-78310 elancourtfr<sep>yvard, marcel11, rue de la source ollainvillef-91290 arpajonfr<sep>beduchaud, michel<sep>decuyper, jean-claude <sep>yvard, marcel  <sep>beduchaud, michel6, résidence de villebon villebon sur yvettef-91120 palaiseaufr<sep>decuyper, jean-claude13, allée de la deulef-78310 elancourtfr<sep>yvard, marcel11, rue de la source ollainvillef-91290 arpajonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Image printing multistorlets with a first network of conductive ribbons (1), isolated from each other and of which one end of each of them forms a print stylus (10) and n diagonal matrices (21)Addressing the stylits whose columns are formed by the conductive ribbons of this first network (1) and are powered through the resistors (R) in electrical contact with the ribbons of said first network, and whose lines common to the n matrices areFormed by conductive ribbons of a second network (7) and are connected to the columns through diodes (d) mounted on the lines or columns.Application to facility transmission facilities.
+</ABSTRACT>
+</TEXT>
+</DOC>

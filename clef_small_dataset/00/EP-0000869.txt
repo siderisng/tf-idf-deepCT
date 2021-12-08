@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000869
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-401/00 C07D-211/00 C07D-401/14 C07D-211/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+new piperidine derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+egli christian drch<sep>eichenberger kurt drch<sep>kuehnis hans drch<sep>ostermayer franz drch<sep>schier oswald drch<sep>schroeter herbert drch<sep>egli, christian, dr.<sep>eichenberger, kurt, dr. <sep>kuehnis, hans, dr.<sep>ostermayer, franz, dr.  <sep>schier, oswald, dr.<sep>schroeter, herbert, dr.<sep>egli, christian, dr.auf eggch-4465 magdench<sep>eichenberger, kurt, dr.neubergweg 36ch-4106 therwilch<sep>kühnis, hans, dr.lange gasse 26ch-4052 baselch<sep>ostermayer, franz, dr.am hang 5ch-4125 riehench<sep>schier, oswald, dr.amselstrasse 15ch-4104 oberwilch<sep>schröter, herbert, dr.arisdörferstrasse 16ch-4414 füllinsdorfch<sep>
+</INVENTOR>
+<ABSTRACT>
+piperidine derivatives of the formula i <image> in which r1 is an optionally substituted heteroaryl radical, alk1 and alk2 are, independently of one another, lower alkylene radicals which each separate the nitrogen atom bonded to them and the methine group bonded to them by 2 carbon atoms, r2 is an optionally acylated hydroxyl group, ph is an optionally substituted o-phenylene radical, n = 0 or 1, r3 is a hydrogen atom, a lower alkyl radical or the hydroxyl group and r5 is a lower alkyl radical or a hydrogen atom or r3 and r5 together are a second bond and r4 and r6 are each a hydrogen atom, or r4 together with r3 is an oxo group, r5 is a lower alkyl radical or a hydrogen atom and r6 is a hydrogen atom, or r6 together with r5 is an oxo group, r3 is a hydrogen atom, a lower alkyl radical or the hydroxyl group, and r4 is a hydrogen atom, and the salts thereof, and processes for preparing these compounds and pharmaceutical products containing these compounds are described. 
+</ABSTRACT>
+</TEXT>
+</DOC>

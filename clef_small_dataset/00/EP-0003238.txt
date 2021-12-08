@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003238
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07C-9/00 E05B-49/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mobile cargo container with electro-mechanical lock.
+</TITLE>
+<APPLICANT>
+lavelle aircraft cous<sep>lavelle aircraft company<sep>lavelle aircraft companynewtown bucks county pennsylvaniaus<sep>
+</APPLICANT>
+<INVENTOR>
+barnes robert williamus<sep>barnes, robert william<sep>barnes, robert william108 deep dale drive eastlevittown pennsylvania 19056us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus comprising an electro-mechanical  device for locking and unlocking mobile cargo-container  doors, utilizing a re-settable electronic combination  lock arrangement (1) installed within the cargo container,  which electro-mechanically retains a special locking pin  (8) inserted through a channel in the container door structure,  such locking pin (8) being mechanically coupled to the  existing latching handle (6) on the door exterior.  the locking  pin (8), when retained by the electronic lock mechanism,  restricts travel of the container door handle (6) sufficient to  prevent opening of the container door.  a keyboard (5) array  of switches on the exterior of the cargo container, coupled to  the electronic lock circuitry of the container interior, must be  actuated in pre-selected code sequence to energize the  electronic lock mechanism, thus releasing the locking pin (8)  and enabling manual movement of the door handle (6) as  required to open the container door.  
+</ABSTRACT>
+</TEXT>
+</DOC>

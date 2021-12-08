@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016580
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/28 G03G-15/04 G03B-27/50 G03G-15/00 <main>G03G-15/28</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+copying machine with original carriage moving device.
+</TITLE>
+<APPLICANT>
+olivetti & co spait<sep>ing. c. olivetti & c., s.p.a.<sep>ing. c. olivetti &amp; c., s.p.a.via g. jervis 77i-10015 ivreait<sep>ing. c. olivetti & c., s.p.a.  <sep>
+</APPLICANT>
+<INVENTOR>
+navone lorenzo<sep>navone, lorenzo<sep>navone, lorenzolungo po machiavelli 27torinoit<sep>navone, lorenzo<sep>navone, lorenzolungo po machiavelli 27torinoit<sep>
+</INVENTOR>
+<ABSTRACT>
+in a copying machine having a movable carriage (5) for  carrying the original, the correct velocity ratio between the  carriage and the drive shaft (18) which advances the photo­ sensitive sheet (21) or photosensitive drum) is established by  driving the carriage from a shaft (25) at overspeed through a  friction clutch (38) and limiting the carriage velocity to the  correct value by a coupling (rack 32, gears 40,43, one-way  clutch 29) between the carriage (5) and the drive shaft (18).   the correct velocity is thereby maintained irrespective of  wear and tolerances in the drive to the carriage and the car­ riage guides.  
+</ABSTRACT>
+</TEXT>
+</DOC>

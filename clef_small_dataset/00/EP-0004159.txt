@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004159
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A01G-25/16</main> F16K-7/00 G05D-22/00 F16K-17/36 F16K-7/14 F16K-7/12 F16K-7/04 A01G-25/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of controlling the relative humidity in an environment and apparatus for accomplishing such method.
+</TITLE>
+<APPLICANT>
+ornstein leonard<sep>ornstein, leonard<sep>ornstein, leonard5, biltom roadwhite plains new york 10607us<sep>ornstein, leonard<sep>
+</APPLICANT>
+<INVENTOR>
+ornstein leonard<sep>ornstein, leonard<sep>ornstein, leonard5, biltom roadwhite plains new york 10607us<sep>ornstein, leonard<sep>ornstein, leonard5, biltom roadwhite plains new york 10607us<sep>
+</INVENTOR>
+<ABSTRACT>
+method and apparatus are disclosed for controlling the  relative humidity of a soil environment at a pre-set value  using an enclosed volume (6) of a water-soluable or water-swellable  material (14), said enclosed volume (6) separated  from the external environment by a relatively stiff and strong  semipermeable membrane (4) and separated from a pressurized  irrigation water supply (36) by a water-impermeable  constictable flexible section (8) or diaphragm in the supply  line.  when the soil is more moist than the pre-set value,  intake of water through the membrane (4) causes expansion  of the water-swellable material (14) which in turn contricts  the flexible section (8) of the water supply line to interrupt  the flow of water to the soil.  when the soil mixture falls  below the pre-set value, egress of water from the water-swellable  material (14) releases the constricting force on the  flexible section (8) thereby allowing increased flow of water  through the flexible section (8) of supply line to the soil.  
+</ABSTRACT>
+</TEXT>
+</DOC>

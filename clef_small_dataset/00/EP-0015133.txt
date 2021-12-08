@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015133
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41M-5/124 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pressure sensitive copying system
+</TITLE>
+<APPLICANT>
+mitsubishi paper mills ltdjp<sep>mitsubishi paper mills, ltd. <sep>mitsubishi paper mills, ltd.6-2, marunouchi 2-chomechiyoda-ku, tokyojp   <sep>
+</APPLICANT>
+<INVENTOR>
+simazaki tetsurojp<sep>simazaki, tetsuro<sep>simazaki, tetsuro4-1, higashikanamachi-1-chomechiyoda-ku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a pressure sensitive copying system having comparatively uniform thickness and resistant to smudging, which is suitable for spot-coated copying sheets such as chit is obtained by disposing a color forming components layer on the layer of a microcapsule protective agent which has been provided all over the paper sheet, at least one of the components being enclosed in microcapsules. 
+</ABSTRACT>
+<DESCRIPTION>
+pressure sensitive copying system this invention relates to a pressure sensitive copying system and, more particularly, to a pressure sensitive copying system having a microcapsule protective layer ano a method for preparing such a copying system. a pressure sensitive copying system which utilizes the color reaction between an electron donating color former (hereinafter referred to simply as color former) and an electron accepting color developer (hereinafter referred to simply as color developer) has been widely known. in such a system, a color image is formed on a paper sheet by the application cf localized pressure to rum the microcapsule wall separating a color former and a color developer from each other in the presence of a solvent, thus bringing reactants into contact with each other on the paper sheet to take part in = color-forming reaction. a typical pressure sensitive copying system. s composed of a paper sheet (generally called top sheet having on one side a layer of microcapsules containing a color former solution and another paper sheet (generally called undersheet) having on one side a ayer t a color developer. when the tor sheet is placed over the undersheet so that both layers may confront with each other and a localize pressure is applied by means of a writing instrument or the like t the surface of top sheet, the microcapsules are ruptured to allow a color-forming reaction to take place forming a color image on the surface of the undersheet. if a sheet (generally called intermediate sheet) having on one side a color former layer and on another si a color developer layer is inserted between the top sheet and the undersheet so that the color developer layer may confront with the color former layer of the top sheet and the color former layer with the color developer layer of the undersheet, a color image can be formed, on applying a localized pressure to the top-sheet, on both color developer bearing surfaces of the intermediate sheet and the undersheet. more copies are obtained by using more intermediate sheets. there is ase a well-known self-contained pressure sensitive copying paper sheet having on one side a layer containing a mixture of the aforementioned three materials participating in causing the color reaction to take place. this sheet also develops color image on application of a localized pressure to said layer. the foregoing description pertains to a typical pressure sensitive copying system. among the three materials participating in the color forming reaction, the one which is microencapsulated can be any, so long as any one of the color former, color developer and solvent is kept separated from the others by the mlcrocapsule wall; that is, the material to be encapsulate can be g color former solution or a color developer solution or, in some circumstances, a solvent alone. the color developer can be microencapsuled as a solution, whether the color former is microencapsulated or not. if the color former is encapsulated, the color developer can be in the form of fine
+</DESCRIPTION>
+<CLAIMS>
+claims   1. a pressure sensitive copying system including paper sheets and, disposed thereon in selcted areas, a stratum of pressure sensitive color forming composition comprising a combinations of an electron donating color former, an electron accepting color developer, and a solvent, at least one of the components if said combination being enclosed in microcapsules which are protected by a microcapsule protective agent, which is characterized in that an underlayer containing the microcapsule protective agent is disposed   @@@    over the paper sheet which to bear said color formig stratum, and a layer containin   at least one of the components of said combination i@    laid over said   under@@@er    in the selected areas.   2. a pressur sensi ve copying system according to claim 1, wherein the microcapsule-protective agentcontaining layer is disposed under the layer of microcapsules enclosing the electron donating color furter and the solvent.   3. a pressure sensitive copying system according to claim 1, wherein a microcapsule-protective agentcontaining layer is disposed under the layer containing a mixture of the electron accepting color developer and microcapsules enclosing the electron donating color former and the solvent.       4. a press re sensit v @ ing s stem according    to claim 1, wherein the microcapsule-protective agentcontaining layer containg the electron donating color.     former or the electron   accepting      ccir    developer which is not enclosed by microcapsules and is   dispose    under the layer containing microcapsules of ether the electron accepting color developer or the electron donating   color    former.   5. a pressure   sensitive    copying system according to claim 1, wherein the electron donating color former or the electron accepting color developer which is   not    enclosed by microcapsules is contained in the paper sheet over which microcapsule-protective agent-containing agent layer is disposed.  
+</CLAIMS>
+</TEXT>
+</DOC>

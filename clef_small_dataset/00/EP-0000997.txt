@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000997
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07F-9/09 C07F-9/53 C08F-10/00 C07F-9/02 <main>C08F-10/00</main> C07F-9/141 C07F-9/50 C08F-4/00 C08F-4/60 C08F-4/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+titanium trichloride compositions, preparation thereof, catalyst system containing them and polymerisation of olefins using this system.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+bye ashley dormer<sep>bye, ashley dormer<sep>bye, ashley dormerstalperstraat 13nl-the haguenl<sep>bye, ashley dormer<sep>bye, ashley dormerstalperstraat 13nl-the haguenl<sep>
+</INVENTOR>
+<ABSTRACT>
+a titanium trichloride composition has the formula:   ticl₃(alrxx3-x)nealb   where e is an ether or thioether; l is an organic phosphorus-containing  lewis base; and a and b are each greater  than 0. 001 and not more than 0. 50.  the composition has a  low surface area, typically less than 50 m²/g.  the composition  can be prepared by reacting titanium tetrachloride  with an organo-aluminium compound, optionally heating  the reaction product, contacting the reaction product at an  elevated temperature with at least one of e and l and washing  the product subsequent to the contacting with e.  in the  composition, e is conveniently di-n-butyl ether or di-iso-amyl  ether and l can be an organic phosphine, phosphine  oxide, phosphite or phosphate.  the composition can be  used in a polymerisation catalyst to polymerise or copolymerise  olefine monomers.  copolymers having an advantageous  combination of low temperature brittle point and  flexural modulus are disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

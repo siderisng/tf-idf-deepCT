@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007805
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/31 H01L-31/18 C23C-14/04 H01L-31/0216 <main>C23C-15/00</main> H01L-21/02 C23C-14/34 C23C-14/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of coating side walls of semiconductor devices.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+fujiwara takao<sep>imai hajime<sep>morimoto masahiro<sep>fujiwara, takao<sep>imai, hajime<sep>morimoto, masahiro<sep>fujiwara, takao1380 kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>imai, hajime17-23 kinuta 1-chomesetagaya-ku, tokyo 157jp<sep>morimoto, masahiro3016-1, nagatsuda-cho, modori-kuyokohama-shi kanagawa 227jp<sep>fujiwara, takao<sep>imai, hajime<sep>morimoto, masahiro<sep>fujiwara, takao1380 kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>imai, hajime17-23 kinuta 1-chomesetagaya-ku, tokyo 157jp<sep>morimoto, masahiro3016-1, nagatsuda-cho, modori-kuyokohama-shi kanagawa 227jp<sep>
+</INVENTOR>
+<ABSTRACT>
+the side walls of semiconductor devices (1) such as las­ ers, light emitting diodes, photodiodes, phototransistors and  avalanche photodiodes are provided with a sputtered coating  to protect the devices or modify their reflection coefficients.   the side walls are coated by placing the semiconductor  device (1) on a substrate (2) made of the coating material,  placing the substrate (2) with the semiconductor device (1) in  an environment including energetic particles, and causing the  energetic particles to bombard the substrate (2) and deposit it  on the side walls of the device to form the coating (6).  when  the device is placed on a substrate made from the coating  material, only the side walls of the device are coated and the  top and bottom faces (4 and 5) are not coated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

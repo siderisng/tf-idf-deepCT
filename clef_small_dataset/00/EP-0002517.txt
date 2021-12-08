@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002517
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-59/00 C08L-61/00 C08L-61/34 C08G-14/00 C08G-14/06 <main>C25D-13/06</main> C09D-5/44 C09D-163/00 C08L-63/00 C08G-59/62 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+paint binders and their use in the cathodic immersion electrocoating.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+kempter fritz erdmann dr<sep>schupp eberhard dr<sep>kempter, fritz erdmann, dr.<sep>schupp, eberhard, dr.<sep>kempter, fritz erdmann, dr.l 2,14,d-6800 mannheimde<sep>schupp, eberhard, dr.tilsiter weg 4d-6830 schwetzingende<sep>kempter, fritz erdmann, dr.<sep>schupp, eberhard, dr.<sep>kempter, fritz erdmann, dr.l 2,14,d-6800 mannheimde<sep>schupp, eberhard, dr.tilsiter weg 4d-6830 schwetzingende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to paint binders and their use.These paint binders are reaction products of (a) Mannich bases of at least one ether-free condensed phenol containing at least two phenolic hydroxyl groups per molecule, at least one per molecule-containing butadiene or isoprene homo or copolymer having an average molecular weight between 500and 6 000, at least one secondary amine containing at least one hydroxylalkyl group or a mixture of such a secondary amine with another secondary amine and formaldehyde or formaldehyde-supplying compound having (b) at least one epoxy resin.These paint binders are used in particular for the cathodic electrodeposition painting of metal parts.
+</ABSTRACT>
+</TEXT>
+</DOC>

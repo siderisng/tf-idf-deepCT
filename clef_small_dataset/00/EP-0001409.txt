@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001409
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16D-7/04</main> F16D-7/04 F16D-7/00 F16D-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+overload clutch.
+</TITLE>
+<APPLICANT>
+ringspann maurer kg ade<sep>ringspann albrecht maurer k.g.<sep>ringspann albrecht maurer k.g.schaberweg 32-34d-6380 bad homburg 1de<sep>ringspann albrecht maurer k.g.<sep>
+</APPLICANT>
+<INVENTOR>
+maurer ruprecht dipl-ing <sep>mayer bernd<sep>sebulke johannes dr-ing  <sep>maurer, ruprecht, dipl.-ing.<sep>mayer, bernd<sep>sebulke, johannes, dr.-ing.<sep>maurer, ruprecht, dipl.-ing.theodor-storm-strasse 20d-6380 bad homburg 1de<sep>mayer, berndsilberweg 5d-6380 bad homburg 1de<sep>sebulke, johannes, dr.-ing.ostpreussenstrasse 6d-6382 friedrichsdorf 4de<sep>maurer, ruprecht, dipl.-ing.<sep>mayer, bernd <sep>sebulke, johannes, dr.-ing.<sep>maurer, ruprecht, dipl.-ing. theodor-storm-strasse 20 d-6380 bad homburg 1 de <sep>mayer, berndsilberweg 5d-6380 bad homburg 1de<sep>sebulke, johannes, dr.-ing.ostpreussenstrasse 6d-6382 friedrichsdorf 4de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  overload safety device in the form of a shape-engaging coupling, disengaging on exceeding of a specific torque, of two coaxially arranged coupling elements having on their mutually facing end faces a toothing which generates an axial force component in torque transmission, of which elements at least the one is axially displaceable and held by spring force in engagement with the other, where the spring force acts through an axially displaceable snap ring upon the displaceable couling element, and this snap ring, after an uncoupling distance which is at maximum equal to the depth of engagement of the coupling toothing, snaps over into a position eliminating the application pressure between the coupling elements, characterised in that the snap ring (11, 27, 34, 42) is made resilient in the radial direction and in the uncoupling position snaps behind a shoulder (14, 23a, 35), extending around in the circumferential direction, of a coupling component into a position interrupting the force flux between the displaceable coupling element (2, 15, 26, 31, 45) and a separate pressure spring (8, 9, 28). 
+</ABSTRACT>
+</TEXT>
+</DOC>

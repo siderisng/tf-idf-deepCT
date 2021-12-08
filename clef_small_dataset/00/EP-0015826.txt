@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015826
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-11/275 <main>G01B-11/275</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for controlling the parallelism of the wheels of the front and rear carriage of motor vehicles, and apparatus for carrying out this process.
+</TITLE>
+<APPLICANT>
+muller & cie ets mfr<sep>etablissements m. muller & cie<sep>etablissements m. muller &amp; cie50-56, rue des tournellesf-75140 paris cedex 03fr<sep>etablissements m. muller & cie  <sep>
+</APPLICANT>
+<INVENTOR>
+coetsier paul<sep>coetsier, paul<sep>coetsier, paul4, impasse jean macéchelles, seine et marnefr<sep>coetsier, paul<sep>coetsier, paul4, impasse jean macéchelles, seine et marnefr<sep>
+</INVENTOR>
+<ABSTRACT>
+a) Method for controlling the parallelism of the wheel of the front and rear motor vehicles, as well as to measure the axial offset between the front wheels or "set-back". b) The neveau of each front wheel 1, 2 a laser beam emitter is projected, a first laser beam 7a, transversely in front of the vehicle on a receiver 17 placed in front of the other front wheel, and a second radius Laser 7B, 18B (from the same transmitter), to a reflective mirror 12 placed at the corresponding rear wheel, the reflected radius being received in a receiver 14. The different distances read on the receptors 17 and 14 are transmitted At the memory of an electronic calculator that automatically determines them their angles of pinching and opening the front or rear wheels as well as the "set-back". c) The use of laser beam makes it possible to execute with very high accuracy the different measures, regardless of the conditions of illumination.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011448
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/408 G11C-8/00 G11C-5/06 G11C-8/08 G11C-11/418 G11C-11/41 G11C-11/412 H01L-27/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor memory device.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp <sep>
+</APPLICANT>
+<INVENTOR>
+iwai takashijp   <sep>kobayashi yasuojp<sep>nakano motoojp<sep>sasaki nobuojp<sep>iwai, takashi<sep>kobayashi, yasuo<sep>nakano, motoo<sep>sasaki, nobuo<sep>iwai, takashi6743 sugetama-ku kawasaki-shi, kanagawa 214jp<sep>kobayashi, yasuo8-3 chiyogaoka 1-chometama-ku kawasaki-shi, kanagawa 215jp<sep>nakano, motoo312-3-9-913 imai-chohodogaya-ku yokohama-shi, kanagawa 240jp<sep>sasaki, nobuo14-240, kawara-cho 1-chomesaiwai-ku kawasaki-shi, kanagawa 211jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor memory device especially a ram  using mosfets has its access time dependent upon the  length of its word or bit lines.  in a device including a plurality  of bit lines (4), a plurality of memory cells (1) each of which is  connected to a different bit line (4), a plurality of common  word lines (3) each of which is connected to the memory  cells (1) via a transmission gate (2) at least one amplifier (7) is  provided between two memory cells (1) which are connected  to the same word line (3) or a bit line (4).  this reduces the  access time of the memory device by preventing an increase  in access time with length of word or bit line.  
+</ABSTRACT>
+</TEXT>
+</DOC>

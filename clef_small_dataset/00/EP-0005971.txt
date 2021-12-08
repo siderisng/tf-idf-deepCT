@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005971
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B61L-7/00 B61L-21/00 B61L-21/06 B61L-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sequential checking of railway control signals
+</TITLE>
+<APPLICANT>
+westinghouse brake & signalgb  <sep>westinghouse brake and signal company limited<sep>westinghouse brake and signal company limitedfoundry lanechippenham wiltshire sn15 1rtgb<sep>
+</APPLICANT>
+<INVENTOR>
+norton david johngb<sep>norton, david john<sep>norton, david johnwestinghouse brake and signal company limitedchippenham wiltshire sn15 1jdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an electronic or computer-based railway control system  including further safety checks in addition to normal safety  interlocking.  the present system carries out checks to see  that operations, such as print switching and signal setting,  are carried out in the correct sequence for a given route  having regard to the position and movement of a train as  indicated by track circuits.  in a computer-based system  appropriate checking routines may be written into the  computer soft-ware.  
+</ABSTRACT>
+</TEXT>
+</DOC>

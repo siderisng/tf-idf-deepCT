@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014395
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01K-7/20 G01K-7/16 G01R-17/00 G01D-5/249 G01K-7/24 G01D-5/12 H03M-1/00 G03G-15/20 G03G-21/00 <main>G01R-17/10</main> G01D-5/14 G01R-17/10 H03K-13/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+indicator circuit including a bridge circuit with means for error indication independent of voltage source variation.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+cunningham jr joseph edwin<sep>grombone anthony<sep>cunningham jr., joseph edwin<sep>grombone, anthony<sep>cunningham jr., joseph edwin4791 dorchester circleboulder, colorado 80301us<sep>grombone, anthony9773 phillips roadlafayette colorado 80026us<sep>cunningham jr., joseph edwin<sep>grombone, anthony<sep>cunningham jr., joseph edwin4791 dorchester circleboulder, colorado 80301us<sep>grombone, anthony9773 phillips roadlafayette colorado 80026us<sep>
+</INVENTOR>
+<ABSTRACT>
+an indicator circuit has an output corresponding to the  departure of a sensed condition from a particular condition.   the circuit provides digital representation of an anaiogue  error voltage present as an output of a bridge circuit 10 where  the digital representation is independent of variation in  supply voltage v to the bridge circuit.  the circuit includes a  capacitor 29 arranged to be charged from an initial voltage  vref representative of the "zero" point of the analogue error  voltage range to a full-scale error voltage in the amount of  time that it takes for a digital counter 51 to count from zero to  full scale.  the capacitor voltage vc is compared to the error  voltage vt in a comparator 40 to stop the count upon equality.  
+</ABSTRACT>
+</TEXT>
+</DOC>

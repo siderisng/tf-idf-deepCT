@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017219
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-21/00 F02D-21/08 F02M-7/00 F02M-23/00 F02M-23/04 F02P-5/15 <main>F02D-37/02</main> F02D-41/00 F02M-7/24 F02D-41/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic type engine control method and apparatus.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+furuhashi toshio<sep>furuhashi, toshio<sep>furuhashi, toshio993-1, horichomito-shijp<sep>furuhashi, toshio<sep>furuhashi, toshio993-1, horichomito-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+method and apparatus for electronically controlling an  internal combustion engine.  a plurality of engine controlling  programs to be executed by a central processing unit (cpu)  (102) is classified into a number of task programs (progo -  5) in accordance with processing functions of cpu.  the  periods at which the task programs are to be activated are  determined in consideration of the influential significance of  the tasks in controlling the engine, whereby the task  programs are executed in accordance with the activation  periods thereof under supervision of a program (104 - os) for  monitoring the plurality of the engine control programs.  
+</ABSTRACT>
+</TEXT>
+</DOC>

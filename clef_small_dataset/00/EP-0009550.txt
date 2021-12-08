@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009550
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-15/54 G11B-15/46 G11B-15/48 <main>G11B-15/54</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuit for shortening the stopping distance of the tape in magnetic tape recorders.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+dengler robert<sep>meyer franz-josef<sep>dengler, robert<sep>meyer, franz-josef<sep>dengler, robertrichard-wagner-strasse 14d-8081 türkenfeldde<sep>meyer, franz-josefheinrich-feller-strasse 12d-8080 emmeringde<sep>dengler, robert  <sep>meyer, franz-josef <sep>dengler, robertrichard-wagner-strasse 14d-8081 türkenfeldde<sep>meyer, franz-josefheinrich-feller-strasse 12d-8080 emmeringde<sep>
+</INVENTOR>
+<ABSTRACT>
+In magnetic tape devices in which a newly written information is then checked immediately with the help of a separate read head, the magnetic tape is weak during the entire control reading and immediately then delayed immediately until it comes to a standstill.
+</ABSTRACT>
+</TEXT>
+</DOC>

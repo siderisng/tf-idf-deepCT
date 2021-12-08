@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012195
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/372 <main>A61N-1/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dual mode programmable cardiac pacer.
+</TITLE>
+<APPLICANT>
+vitatron medical bvnl<sep>vitatron medical b.v.<sep>vitatron medical b.v.kanaalweg 24nl-6950 ab dierennl<sep>vitatron medical b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+mensink kornelis a<sep>mensink, kornelis a.<sep>mensink, kornelis a.cortenoeverseweg 76brummennl<sep>mensink, kornelis a.<sep>mensink, kornelis a.cortenoeverseweg 76brummennl<sep>
+</INVENTOR>
+<ABSTRACT>
+there is provided a programmable pacer which is ad­ apted to be programmed from an external source in either  a slow program mode, wherein the external source is a  simple magnet, or a fast program mode wherein the external  programming signals are generated automatically and  comprise a constant magnetic signal along with a modu­ lated relatively high frequency magnetic signal.  the pacer  has means (40, 110) for receiving both fast and slow type  program signals and means (48, 100, 104) for processing  the received program signals, whether of the fast or slow  type, to derive control signals therefrom when the program  signals conform to a predetermined program arrangement.  
+</ABSTRACT>
+</TEXT>
+</DOC>

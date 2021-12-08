@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001525
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01G-4/14 <main>H01G-4/18</main> H01G-4/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+capacitors having a dielectric plastic film, and method for producing them.
+</TITLE>
+<APPLICANT>
+charbonnages ste chimiquefr<sep>thomson csffr <sep>"thomson-csf"- scpi<sep>societe chimique des charbonnages  <sep>société chimique des charbonnagestour aurore place des reflets cédex no 5f-92080 paris la défense 2fr<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>societe chimique des charbonnages<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+charlot pierre<sep>decroix jean-yves<sep>dubois jean-claude<sep>seytre gerard<sep>charlot, pierre<sep>decroix, jean-yves<sep>dubois, jean-claude<sep>seytre, gerard<sep>charlot, pierre4 avenue de bourgognef-21800 quetignyfr<sep>decroix, jean-yves28, place des hérosf-62000 arrasfr<sep>dubois, jean-claude65 avenue nicolas ledoux f-78780 cressely/saint-remy-les-chevreusefr<sep>seytre, gérard33, bld de l'europef-69110 sainte-foy-les-lyonfr<sep>charlot, pierre<sep>decroix, jean-yves<sep>dubois, jean-claude <sep>seytre, gerard<sep>charlot, pierre 4 avenue de bourgogne f-21800 quetigny fr<sep>decroix, jean-yves28, place des hérosf-62000 arrasfr<sep>dubois, jean-claude65 avenue nicolas ledoux f-78780 cressely/saint-remy-les-chevreusefr<sep>seytre, gérard33, bld de l'europef-69110 sainte-foy-les-lyonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Plastic dielectric film capacitors and manufacturing process.They comprise conductive electrodes and a dielectric placed between the electrodes, said dielectric comprising a biaxially oriented film made from a mixture comprising less than 80% by weight of poly propylene isotactic and more than 20% by weight of polybu tene-1.Isotactic.Their manufacturing process consists of alternately winding on a cylindrical mandrel the electrodes and the dielectric film, thermally solder on itself the film outside the cylinder, to connect each electrode to a wire connecting and to treat thermally the cylinder.capacitor obtained before soldering the connecting wires.Their temperature coefficient allows thermal compensation of inductance variations between -55 ° C and + 100 ° C.Application to telephone channel filters.
+</ABSTRACT>
+</TEXT>
+</DOC>

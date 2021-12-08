@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008843
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-9/87 H04N-9/64 H04N-9/877 G06T-7/20 H04N-5/14 H04N-5/262 H04N-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and apparatus for movement portrayal with a raster, e.g. television, display.
+</TITLE>
+<APPLICANT>
+british broadcasting corp gb<sep>british broadcasting corporation<sep>british broadcasting corporationbroadcasting houselondon w1a 1aagb<sep>
+</APPLICANT>
+<INVENTOR>
+drewery john olivergb<sep>storey richardgb<sep>drewery, john oliver<sep>storey, richard<sep>drewery, john oliver27, the valecouldson surreygb<sep>storey, richardflat 9, 150 st. james' roadsutton surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+to portray movement in a television display, a field of the  signal is stored in an image store (110), and subsequent input  fields are compared in a motion detector (104) with the sorted  field to detect differences between them due to movement.  a  flag is retained in an auxiliary store (114) to indicate the posi­ tons in the field of the detected differences.  for those posi­ tions for which a new difference is detected, i. e.  for which no  difference has been detected previously, the corresponding  portions of the then current input scan are stored in the image  store (110), by a switch (106) being connected to the input  (102).  for portions which are flagged, the output of the auxi­ liary store (114) causes the switch (106) to take the output of  the image store (110), thus insetting past positions of move­ ment into the current field.  the background of the field in the  image store is nevertheless updated by the background of the  input field.  to allow for the 4-field ntsc or 8-field pal cycle,  transducers, or predictors, (170, 160) are placed at the input  and output of the image store (110) such that the image store  retains information in one state only of the cycle.  the motion  detector (104) comprises a subtractor, a rectifier and a low-­ pass filter.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003310
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-27/72 <main>G03B-27/80</main> G03B-27/73 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for determining the quantities of light necessary for photographic colour printing.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bunge konrad dr<sep>thurm siegfried dr<sep>bunge, konrad, dr.<sep>thurm, siegfried, dr.<sep>bunge, konrad, dr.morgengraben 16d-5000 köln 80de<sep>thurm, siegfried, dr.mutzbroicher strasse 29d-5068 voiswinkelde<sep>bunge, konrad, dr.  <sep>thurm, siegfried, dr.<sep>bunge, konrad, dr.morgengraben 16d-5000 köln 80de<sep>thurm, siegfried, dr.mutzbroicher strasse 29d-5068 voiswinkelde<sep>
+</INVENTOR>
+<ABSTRACT>
+When copying color templates at high speed, d.H.Without the templates assessed person, the problem is to compensate for general color pitches of the recording material by appropriate staining of the copying light, without distorting color dominates in the template.To solve this task, the film prior to development with known color temperature test exposures are applied, which are measured after development and to determine the exposure of the individual copy template, the measured values of the test copies are combined with the measured values of the respective copy template.
+</ABSTRACT>
+</TEXT>
+</DOC>

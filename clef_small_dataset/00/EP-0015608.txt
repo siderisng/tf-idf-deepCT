@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015608
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16H-53/06</main> G01J-3/18 G01J-3/00 G01J-3/06 G01J-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cam and follower arrangement, and monochromator of a spectrophotometer including such an arrangement.
+</TITLE>
+<APPLICANT>
+philips electronic associated gb<sep>philips nv nl  <sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>n.v. philips' gloeilampenfabrieken <sep>philips electronic and associated industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+firth john richard philips ele<sep>perkins charles vincent philip<sep>firth, john richard philips electronic and ass.<sep>perkins, charles vincent philips electronic and<sep>firth, john richard philips electronic and ass.ind., ltd. patent, dept. mullard h.torrington place london wc1e 7hdgb<sep>perkins, charles vincent philips electronic andassociated ind., ltd. patent, dept. mullard h.torrington place london wc1e 7hdgb<sep>firth, john richard philips electronic and ass.  <sep>perkins, charles vincent philips electronic and<sep>firth, john richard philips electronic and ass.ind., ltd. patent, dept. mullard h.torrington place london wc1e 7hdgb<sep>perkins, charles vincent philips electronic andassociated ind., ltd. patent, dept. mullard h.torrington place london wc1e 7hdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a cam and follower arrangement in which the cam  consists of a track (21), carried by a rotatable member  (12), and has one or more abrupt directional transitions  (30) and the follower (17) is biassed to engage one wall  or the other (31, 32) of the track (21) appropriate to the  direction of rotation of the member (12), by means includ­ ing a direct-current electric motor (20) operated in a stal­ led condition.  the arrangement is employed in a mono­ chromator for spectrophotometric apparatus to drive a  filter-holder 18, to position one of a number of optical fil­ ters (22, 23, 24, 25) in the incoming beam of light (26).  
+</ABSTRACT>
+</TEXT>
+</DOC>

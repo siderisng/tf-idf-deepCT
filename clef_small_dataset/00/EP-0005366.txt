@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005366
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/10 G03G-21/00 <main>G03G-15/10</main> G03G-15/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+toner head and toner clean-off head for use in electrostatic printing.
+</TITLE>
+<APPLICANT>
+gould incus<sep>gould inc.<sep>gould inc.10 gould centerrolling meadows, il 60008us<sep>gould inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+blumenthal john<sep>blumenthal, john<sep>blumenthal, john2151 valley view drivewickliffe ohio 44092us<sep>blumenthal, john<sep>blumenthal, john2151 valley view drivewickliffe ohio 44092us<sep>
+</INVENTOR>
+<ABSTRACT>
+a toner head for delivering liquid toner to a moving  record medium carrying a latent electrostatic image, the  toner being moved by vacuum pressure, requires lower  sealing pressures than in the prior art thereby preventing  excessive inward deflection of the record medium.  the toner  head (14) comprises a housing (24) having an inlet plenum  (56) and an outlet plenum (58) for receiving fresh and depleted  toner, respectively.  vacuum applied to the outlet  plenum (58) moves the liquid toner.  a manifold, formed as  a series of modules (44i, 46e) in one embodiment, communicates  with both plenums to direct toner flow therebetween  via image development zones located in the manifold.  the  manifold comprises a plurality of elongate, shallow channels  (68) across which toner liquid flows in operation, the  channels (68) being laterally bounded by a plurality of outwardly  extending wear rails (72, 74, 76) and the outer side  of the channels (68) being bounded by the record medium  (10) resting on the rails (72, 74, 76), so that several narrow  toning zones are formed.  the manifold modules (44i, 46e)  are formed of electrically conductive material so that their  upper surfaces (47) function as counterelectrodes during  the toning process.  as viewed end on, the manifold modules  and the wear rails collectively present a portion of a cylindrical  surface over which the record medium is drawn during  toning.  because of the cylindrical surface, an initial  sealing pressure is provided by the wrap and tension of  the record medium so that it conforms easily to the outer  edges of the wear elements and other contacting lands,  thereby ensuring good sealing engagement throughout  the toning process, without requiring the application of  high vacuum.  
+</ABSTRACT>
+</TEXT>
+</DOC>

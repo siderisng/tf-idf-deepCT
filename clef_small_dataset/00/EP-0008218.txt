@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008218
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C03C-11/00 C03B-19/08 C03B-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for making a cellulated vitreous material
+</TITLE>
+<APPLICANT>
+pittsburgh corning corpus<sep>pittsburgh corning corporation<sep>pittsburgh corning corporation800 presque isle drivepittsburgh, pennsylvania 15239us<sep>
+</APPLICANT>
+<INVENTOR>
+kirkpatrick john dus<sep>kirkpatrick, john d.<sep>kirkpatrick, john d.202 maple drivetrafford, pennsylvania 15085us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the manufacture of cellulated vitreous material which comprises forming a mixture of a pulverulent vitreous material or of powdered glass-making components capable of forming a vitreous material when sintered, and a cellulating agent, heating the powered mixture first to a sintering temperature effective to cause the particles of vitreous material to soften and coalesce, and then to a higher temperature effective to activate said cellulating agent, and thereafter cooling the sintered and cellulated mass to obtain a cellulated vitreous body, characterised in that the heating process is interrupted at the end of the sintering stage and before any substrantial activation of the cellulating agent and the sintered but uncellulated product allowed to cool down before reheating to the cellulation temperature.  
+</ABSTRACT>
+</TEXT>
+</DOC>

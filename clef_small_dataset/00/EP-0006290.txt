@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006290
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+A21D-15/00 A23L-3/36 F25D-31/00 A21D-15/02 F26B-5/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of vacuum cooling moisture-containing foodstuff articles and apparatus for carrying out the method.
+</TITLE>
+<APPLICANT>
+tweedy of burnley ltdgb  <sep>tweedy of burnley limited<sep>tweedy of burnley limitedpeel mill gannow laneburnley bb12 6jl lancashiregb<sep>
+</APPLICANT>
+<INVENTOR>
+dawson petergb<sep>dawson, peter<sep>dawson, peter270, coal clough laneburnley lancashiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of coating a moisture-containing foodstuff  article is described, which involves placing the article in a  chamber and evacuating the chamber to reduce the pres­ sure in the chamber, whereby moisture evaporates from the  article and the latent heat of the moisture is extracted from  the article.  in order to prevent damage to the article by a  too-rapid evaporation, the evacuation is controlled in re­ sponse to dimensional change (typically the height) of the  article.  the invention also includes a method of controlling the  evacuation of the chamber by progressively opening a valve  in the pumping system to reduce the impedance (and hence  increase the pumping rate) of the pumping system.  this  progressive opening of the valve is however, subject to an  over-riding control which may arrest the opening action or  initiate closing of the valve in response to a detected di­ mensional change of the article.  apparatus for carrying out the method is also described  including a vacuum chamber (10), a detection means (16)  arranged to detect changes in a dimension of the article  being cooled, a transducer (61) adapted to be operated by  the detection means and an actuator (63) controlled by  the transducer (61) and arranged to regulate the pressure  within the chamber in response to control signals from the  transducer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

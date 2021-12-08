@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011109
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-19/00 G11C-11/02 G11C-11/14 G11C-19/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+domain drag effect devices.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard road armonk, n.y. 10504 us <sep>
+</APPLICANT>
+<INVENTOR>
+deluca john cosimous<sep>gambino richard josephus<sep>deluca, john cosimo<sep>gambino, richard joseph<sep>deluca, john cosimo2650 gregory streetyorktown heights, ny 10598us<sep>gambino, richard joseph2433 hunterbrook roadyorktown heights, ny 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+a domain drag effect stripline pattern (10) of conductive  magnetic bubble material deposited upon a substrate (11) is  located in a magnetic bias field preferably normal to the plane  of the stripline.  magnetic bubbles can be propagated through  the stripline in response to passage of d. c.  current pulses  through the stripline.  the width and cross-sectional area of  the stripline is preferably substantially constant except at a  switching area (16) where it may be different, and preferably  wider.  there is a coil (13) juxtaposed with the stripline to apply  a magnetic field upon the switching area with the magnetic  field varying above and below a critical value to switch the  propagation of magnetic bubbles, along the stripline on and  off as a function of the current (ic) through the coil.  alterna­ tively the external magnetic bias field (h bias) can be mod­ ulated to turn the stripline switch on and off.  in another aspect of this invention a domain drag effect  velocity modulator apparatus is provided at modulation  points by varying the magnetic field at the modulation points.   such modulation can slow down or speed up the bubble  velocity, depending upon the design.  
+</ABSTRACT>
+</TEXT>
+</DOC>

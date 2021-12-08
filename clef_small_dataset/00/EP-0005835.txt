@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005835
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08K-5/07 C09K-17/14 C08F-8/00 C08L-33/00 C08L-33/24 E02D-3/12 C08L-33/26 C09K-17/40 C09K-17/48 C08F-8/06 C08K-3/24 C08K-13/00 C09K-17/00 C08K-13/02 E02D-3/00 C09K-103/00 C09K-8/512 <main>C08L-33/24</main> E21B-33/138 C09K-17/20 C09K-8/50 C08F-8/28 C09K-107/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gelable aqueous mixtures of polyamide aliphatic polyaldehyde and metal hypohalite; the resulting gel and rendering porous structures impermeable with the mixtures.
+</TITLE>
+<APPLICANT>
+dow chemical cous<sep>the dow chemical company<sep>the dow chemical company2030 dow center abbott road p.o. box 1967midland michigan 48640-1967us<sep>the dow chemical company<sep>
+</APPLICANT>
+<INVENTOR>
+pilny richard james<sep>regulski thomas w<sep>pilny, richard james<sep>regulski, thomas w.<sep>pilny, richard james3005 joanne streetmidland michiganus<sep>regulski, thomas w.1416 airfield lanemidland michiganus<sep>pilny, richard james<sep>regulski, thomas w.<sep>pilny, richard james3005 joanne streetmidland michiganus<sep>regulski, thomas w.1416 airfield lanemidland michiganus<sep>
+</INVENTOR>
+<ABSTRACT>
+aqueous solutions of amide polymers, such as polyacrylamide  when treated with small amounts of a water-soluble  polyaldehyde and a hypohalite salt at an alkaline ph, react to  form firm gels within a short time at ambient temperature.   such gels, which are stable under alkaline as well as acidic  conditions, are usefully employed to plug porous subterranean  formations, for grouting of leaking soil pipes or wells,  and to otherwise render porous structures impermeable to  the passage of liquids such as water.  
+</ABSTRACT>
+</TEXT>
+</DOC>

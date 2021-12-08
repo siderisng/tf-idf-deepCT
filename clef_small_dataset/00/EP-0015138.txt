@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015138
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-417/00 <main>C07D-417/14</main> C07D-213/55 C07D-417/14 A61K-31/505 A61K-31/425 A61K-31/44 C07D-213/00 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyrimidone derivatives, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+smith kline french labgb<sep>smith kline & french laboratories limited<sep>smith kline &amp; french laboratories limitedmundellswelwyn garden city hertfordshire, al7 1eygb<sep>smith kline & french laboratories limited<sep>
+</APPLICANT>
+<INVENTOR>
+brown thomas henry<sep>durant graham john<sep>brown, thomas henry<sep>durant, graham john<sep>brown, thomas henry17 godfries closetewin hertfordshiregb<sep>durant, graham john401 knightsfieldwelwyn garden city hertfordshiregb<sep>brown, thomas henry  <sep>durant, graham john <sep>brown, thomas henry17 godfries closetewin hertfordshiregb<sep>durant, graham john401 knightsfieldwelwyn garden city hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+pyrimidone derivatives, which have histamine  h₂-antagonist activity, of structure    in which r is hydrogen, alkyl, alkanoyl or aroyl, x is hydrogen,  chlorine, bromine or alkyl; y is sulphur or methylene, n is 2 or  3, z is hydrogen or lower alkyl, a is alkylene or -(ch₂)pw(ch₂)q  - where w is oxygen or sulphur and p and q are such that their  sum is from 1 to 4; b is hydrogen, methyl, cycloalkyl, or an  optionally substituted phenyl or heteroaryl group 
+</ABSTRACT>
+</TEXT>
+</DOC>

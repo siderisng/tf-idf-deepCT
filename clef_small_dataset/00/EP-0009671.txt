@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009671
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/59 C07D-319/06 C07D-501/04 <main>C07D-317/30</main> C07C-131/00 C07D-317/30 C07D-317/00 C07D-319/00 C07D-501/00 C07D-501/14 C07D-501/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+starting compounds for preparing cephem compounds and processes for their preparation.
+</TITLE>
+<APPLICANT>
+fujisawa pharmaceutical cojp<sep>fujisawa pharmaceutical co. ltd.<sep>fujisawa pharmaceutical co., ltd.3, doshomachi 4-chome higashi-kuosaka-shi osaka 541jp<sep>fujisawa pharmaceutical co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+kitaguchi tadashi<sep>kobayashi masakazu<sep>kochi hiromi <sep>masugi takashi <sep>takasugi hisashi<sep>takaya takao<sep>ueda ikuo<sep>kitaguchi, tadashi<sep>kobayashi, masakazu<sep>kochi, hiromi<sep>masugi, takashi<sep>takasugi, hisashi<sep>takaya, takao<sep>ueda, ikuo<sep>kitaguchi, tadashino. 1-9-9, kukuchinishimachiamagasakijp<sep>kobayashi, masakazuno. 1-5-2, hachitsukaikedajp<sep>kochi, hiromino. 1661-3, kanaoka-chosakaijp<sep>masugi, takashino. 3-17-15, kitamachihotarugaike toyonakajp<sep>takasugi, hisashino. 2-12-7, kohamanishisuminoe-ku osakajp<sep>takaya, takaono. 1-5-87, suimeidaikawanishijp<sep>ueda, ikuono. 4-13-36, kumano-chotoyonakajp<sep>kitaguchi, tadashi<sep>kobayashi, masakazu <sep>kochi, hiromi  <sep>masugi, takashi<sep>takasugi, hisashi<sep>takaya, takao<sep>ueda, ikuo<sep>kitaguchi, tadashino. 1-9-9, kukuchinishimachiamagasakijp<sep>kobayashi, masakazuno. 1-5-2, hachitsukaikedajp<sep>kochi, hiromino. 1661-3, kanaoka-chosakaijp<sep>masugi, takashino. 3-17-15, kitamachihotarugaike toyonakajp<sep>takasugi, hisashino. 2-12-7, kohamanishisuminoe-ku osakajp<sep>takaya, takaono. 1-5-87, suimeidaikawanishijp<sep>ueda, ikuono. 4-13-36, kumano-chotoyonakajp<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of formula (i) are used in the preparation of  cephalosporins of formula (ii) which are precursors of  cephaiosporins of formula (iii) which show a pharmacological  activity:    wherein:   x¹ = hydrogen or halogen   a₁, a₂ = acetal residue which may be linked together   r₁ = aliphatic hydrocarbon group which may have  suitable substituents   y¹ = carbonyl or protected carbonyl group   r₂ = carboxyl or protected carboxyl group   r = hydroxy, acyloxy or methylene 
+</ABSTRACT>
+</TEXT>
+</DOC>

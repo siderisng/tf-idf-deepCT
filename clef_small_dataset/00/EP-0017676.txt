@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017676
+</DOCNO>
+<TEXT>
+<DATE>
+19801029
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06G-7/19 G01R-27/26 G01R-25/00 <main>G01R-27/16</main> G05F-1/12 G01R-27/16 G01R-27/02 G06G-7/635 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for determining a virtual longitudinal reactance in an electric net.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciech<sep>bbc aktiengesellschaft brown, boveri & cie.<sep>bbc aktiengesellschaft brown, boveri &amp; cie.haselstrassech-5401 badench<sep>bbc aktiengesellschaft brown, boveri & cie.<sep>
+</APPLICANT>
+<INVENTOR>
+bonanomi peter dipl-ing<sep>bonanomi, peter, dipl.-ing.<sep>bonanomi, peter, dipl.-ing.niederdorfstrasse 58ch-8001 zürichch<sep>bonanomi, peter, dipl.-ing.<sep>bonanomi, peter, dipl.-ing.niederdorfstrasse 58ch-8001 zürichch<sep>
+</INVENTOR>
+<ABSTRACT>
+For purposes of guiding and regulation of electrical high performance networks, in particular the associated generators, a network identification with determination of the longitudinal replacement reactance (XE) of each with a measuring location (XM) or with a network portion coupled with a measurator (G) connected there is required.The latter is represented by this longitudinal reactance between the measuring site and a network site V₂.This longitudinal replacement reactance (XE) can be continuously from the local measurement sizes (P, Q, V₁) with the aid of a plurality of predetermined values (XE1 to XE3) of the desired reactance by similarity comparison of the time curves here made of formed phase angle differences (D₁ to D₃) and the localPhase angle (DM) can be determined.
+</ABSTRACT>
+</TEXT>
+</DOC>

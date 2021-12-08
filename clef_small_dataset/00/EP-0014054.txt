@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014054
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01D-13/04</main> B01D-71/00 B01D-71/82 C08G-69/00 C08J-5/18 B01D-71/56 C08G-69/28 B01D-69/00 C08G-73/00 B01D-69/12 C02F-1/44 C08G-73/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of a reverse osmosis membrane, reverse osmosis membrane thus produced, and use of such membrane in a desalination process.
+</TITLE>
+<APPLICANT>
+midwest research instus<sep>midwest research institute<sep>midwest research institute425 volker boulevardkansas city missouri 64110us<sep>midwest research institute<sep>
+</APPLICANT>
+<INVENTOR>
+cadotte john e<sep>cadotte, john e.<sep>cadotte, john e.5637 scenic driveminnetonka minnesota 55343us<sep>cadotte, john e.<sep>cadotte, john e.5637 scenic driveminnetonka minnesota 55343us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the preparation of a composite reverse  osmosis membrane characterised in that the process com­ prises the steps of:   (a) coating a porous support with a layer comprising  an aqueous solution containing, dissolved therein, an es­ sentially water-soluble monomeric polyfunctional secondary  amino or polyamide prepolymer terminated with secondary  amino functional groups, the secondary amine functionality  of the prepolymer being greater than 2. 0;   (b) contacting the layer with a polyfunctional acid ha­ lide for a time sufficient to effect in-situ chain extension  and crosslinking reactions between the secondary amino  and the acid halide; and   (c) drying the product of step (b) to form the compo­ site reverse osmosis membranes.  membranes produced by this process are useful in  separating components of fluid mixtures or solutions, such  as the removal of salts from aqueous solutions, in particu­ lar the desalination of saline water, by reverse osmosis.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003414
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-20/10 D21F-5/00 F26B-13/20 B65H-23/24 D21F-5/18 B65H-23/04 F26B-13/10 <main>D21F-5/18</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+float treatment apparatus.
+</TITLE>
+<APPLICANT>
+spooner edmeston enggb<sep>spooner edmeston engineering limited<sep>spooner edmeston engineering limitedmoorland engineering worksilkley, west yorkshire, ls29 8jbgb<sep>spooner edmeston engineering limited  <sep>
+</APPLICANT>
+<INVENTOR>
+coar ronald<sep>coar, ronald<sep>coar, ronaldbyfields cheltenham avenue ben rhyddingilkley west yorkshire, ls29 8bngb<sep>coar, ronald<sep>coar, ronaldbyfields cheltenham avenue ben rhyddingilkley west yorkshire, ls29 8bngb<sep>
+</INVENTOR>
+<ABSTRACT>
+an air cylinder for supporting a moving web of material  during heat treatment, particularly during drying, of such  web.  the cylinder comprises a plurality of nozzles which are  arranged in a part-circular array around which the moving  web passes, the nozzles being of the coanda type wherein  the discharged gaseous medium flows over a transversely  extended lip surface (58) of the nozzle between the extended  surface (58) and the adjacent surface of a web (18) being  treated and is caused to cling to such extended surface (58)  by the so-called coanda effect.  in order to support the moving web particularly stably in  the radial direction relative to the cylinder, the nozzles (38)  are arranged in pairs, with the respective transversely  extended surfaces (58) of the two nozzles (38) in each pair  extending in opposite directions whereby air flowing over  these two extended surfaces (58) flows in opposite circumferential  directions to respective radially inwardly directed  air outlets (64).  each air outlet (64) commonly serves two  nozzles (38), one from each of two adjacent pairs of nozzles,  respectively.  a plurality of the part-circular arrays of coanda nozzles  can be disposed with adjacent arrays inverted in relation to  each other so as to support the material web (18) in a  circuitous path around such arrays.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009884
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-65/00 C08J-7/04 B32B-37/14 B32B-27/32 B32B-27/08 B05D-1/26 B29C-65/70 B32B-27/30 C08J-7/00 B32B-27/28 C09J-123/00 C09J-123/02 B32B-37/15 B29C-55/00 B05D-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing a flexible coated heat-sealable packaging film.
+</TITLE>
+<APPLICANT>
+mobil oil corpus<sep>mobil oil corporation<sep>mobil oil corporation150 east 42nd streetnew york new york 10017us<sep>
+</APPLICANT>
+<INVENTOR>
+arbit harold abrahamus<sep>arbit, harold abraham<sep>arbit, harold abraham35 north sixth avenue highland parknew jersey 08904 middlesexus<sep>
+</INVENTOR>
+<ABSTRACT>
+biaxially oriented polyacrylonitrile film is treated with  corona discharge and coated on one or both sides with olefin  polymer or copolymer by extrusion coating.  the resultant  coated film has excellent flexibility as measured by the gelbo  flex test.  this film is readily heat sealed and is useful in pack­ aging application.  
+</ABSTRACT>
+<DESCRIPTION>
+this invention relates to flexible polyacrylonitrile film coated on one or both sides with olefin polymer or co-polymer. the present invention provides a corona discharge treated biaxially oriented polyacrylonitrile film extrusion coated on at least one side with an olefin polymer. the present invention further provides a process for preparing a flexible coated film which comprises subjecting a biaxially oriented polyacrylonitrile film to corona discharge treatment on each side of the film to be coated and thereafter extrusion coating at least one side of the film with an olefin polymer. in u.s. patent ilo. 3,823,061, there is described a process for laminating at least two dissimilar films, such as polyacrylonitrile and polyolefin, wherein both films are treated with corona discharge and then passed together. this disclosure does not teach the present invention, in which only the polyacrylonitrile film is treated with corona discharge and then the other film is formed thereon by extrusion coating. the biaxially oriented polyacrylonitrile film utilizable herein can be prepared by casting a film from a solution of polyacrylonitrile and biaxially stretching it, using known techniques. one procedure is described in u.s. patent no. 3,437,717, to which reference is made. a particularly preferred technique is described in u.s. patent no. 4,066,731, incorporated herein by reference. briefly, this technique involves pouring a hot, concentrated solution of polyacrylonitrile in a solvent that is water-soluble, e.g., dimethyl sulfoxide, onto a film supporting surface and stripping the resulting film from said surface. the resulting film containing solvent is subjected to contact with water, preferably under constrained conditions, thereby removing the solvent from the film and replacing it with water. the film composed essentially of acrylonitrile and water is then stretched to about 1.5 to about 4 times its original dimension in both the machine direction and the transverse direction. a suitable method is by use of the drafter-tenter frame arrangement (see u.s. patent o. 3,437,717). zjhile still under restrained conditions, the film is dried, thus producing biaxially oriented polyacrylonitrile contemplated for use in this invention. such film is available commercially. preferably, the biaxially oriented film is prepared from polyacrylonitrile homopolymer. it is contemplated however, to use films made from co-polymers of acrylonitrile with other ethylenically unsaturated monomers, such as alkyl acrylates. film thickness can be between about 1/4 mil and about 4 mils. as indicated hereinbefore, the biaxially oriented polyacrylonitrile film is extrusion coated on one or both sides with an olefin polymer or co-polymer, such as low density polyethylene (ldpe). the preferred ldpe ranges in density from about 0.915 to 0.935 and has a melt index (m.i.) between about lg/10 min. and about 15g/min. although ldpe is preferred, other thermoplastic olefin polymers and co-polymers can be used. such polymers and co-polymers include polypropylene, polybutene, ethylene-vinyl acetate, ethylene-alkyl (meth) acrylate co-polymer such as ethylene-ethyl acrylate, and ionomers (surlyn a). for the sake of brevity in this description, the olefinic polymers or co-polymers will be referred to as "olefin polymer". prior to extrusion coating the biaxially oriented polyacrylonitrile film with ldpe,
+</DESCRIPTION>
+<CLAIMS>
+ 1. process for preparing a flexible coated film characterized by subjecting a biaxially oriented polyacrylonitrile film to corona discharge treatment on each side of the film to be   coated-and    thereafter extrusion coating at least one side of the film with an olefin polymer.     2. the process of claim 1 characterized in that the polyacrylonitrile film is extrusion coated on one side with an olefin polymer.    3. the process of claim 1 characterized in that the polyacrylonitrile film is extrusion coated on both sides with an olefin polymer.    4. the process of claim 2 or 3 characterized in that the olefin polymer is low-density polyethylene.    5. the process of claim 2 or 3 characterized in that the olefin polymer is ethylene-vinyl acetate co-polymer.    6. the process of claim 2 or 3 characterized in that the olefin polymer is ethylene-ethyl acrylate co-polymer.    7. the process of claim 2 or 3 characterized in that the olefin polymer is an ionomer.  
+</CLAIMS>
+</TEXT>
+</DOC>

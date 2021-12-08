@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008369
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-102/00</main> C07C-103/90 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing n,n,n',n'-tetraacetylethylene diamine.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende <sep>basf aktiengesellschaft <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bott kaspar dr chem<sep>hoffmann herwig dr chem  <sep>wostbrock karl-heinz dr chem<sep>wulz klaus dr chem<sep>bott, kaspar, dr. chem.<sep>hoffmann, herwig, dr. chem.<sep>wostbrock, karl-heinz, dr. chem.<sep>wulz, klaus, dr. chem.<sep>bott, kaspar, dr. chem.rieslingweg 4d-6706 wachenheimde<sep>hoffmann, herwig, dr. chem.knietschstrasse 21d-6710 frankenthalde<sep>wostbrock, karl-heinz, dr. chem.amsterdamer strasse 16d-6700 ludwigshafende<sep>wulz, klaus, dr. chem.ungsteiner strasse 22d-6700 ludwigshafende<sep>bott, kaspar, dr. chem. <sep>hoffmann, herwig, dr. chem.<sep>wostbrock, karl-heinz, dr. chem.<sep>wulz, klaus, dr. chem.<sep>bott, kaspar, dr. chem.<sep>hoffmann, herwig, dr. chem.<sep>wostbrock, karl-heinz, dr. chem.<sep>wulz, klaus, dr. chem. <sep>bott, kaspar, dr. chem. rieslingweg 4 d-6706 wachenheimde<sep>hoffmann, herwig, dr. chem.knietschstrasse 21d-6710 frankenthalde<sep>wostbrock, karl-heinz, dr. chem.amsterdamer strasse 16d-6700 ludwigshafende<sep>wulz, klaus, dr. chem.ungsteiner strasse 22d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the production of n,n,n',n'-tetraacetylethylenediamine by reacting, ethylenediamine with a stoichiometric amount or an excess of acetic anhydride at a temperature of from 120 degrees to 190 degrees c in a single step, characterized in that the reaction is carried out continuously in a distillation column, the water and acetic acid being distilled off as they are formed, the tetraacetylethylenediamine which may contain acetic anhydride is recovered at the bottom of the column and distilled under reduced pressure after separating off and recycling any acetic anhydride present. 
+</ABSTRACT>
+</TEXT>
+</DOC>

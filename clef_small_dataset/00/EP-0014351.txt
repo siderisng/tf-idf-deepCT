@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014351
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-17/30 H03K-17/60 H03K-19/086 H03K-19/082 H03K-19/092 H03K-19/0175 <main>H03K-19/086</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monolithically integratable nand-gate.
+</TITLE>
+<APPLICANT>
+siemens ag de<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+guntner helmut<sep>wittenzellner ernst dipl-ing<sep>guntner, helmut<sep>wittenzellner, ernst, dipl.-ing.<sep>güntner, helmutfeldstrasse 11bd-8032 gräfelfingde<sep>wittenzellner, ernst, dipl.-ing.behringstrasse 75bd-8000 münchen 50de<sep>guntner, helmut<sep>wittenzellner, ernst, dipl.-ing.<sep>güntner, helmutfeldstrasse 11bd-8032 gräfelfingde<sep>wittenzellner, ernst, dipl.-ing.behringstrasse 75bd-8000 münchen 50de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is concerned with the task of developing a monolled theromatically integrable current driving circuit with high output voltage resistance, which is universally applicable for the power supply of the common logic circuits. For this purpose, according to the invention, a logic circuit with a NAND function and a Darlington stage serving as a signal outlet is beaten with the following construction before: the input transistors (Te₁, T₂.,.) The logic circuit form a differential amplifier with a common reference transistor (TR) DV) whose non-inverted exit is placed on the Darlington stage (DA) and the sen inverting output to a node (K₁). This node (K₁) forms the output of a transistors (T₁, T₂) and diodes (Z₁, Z₂ d₁, D₂) switching system (US). This switching system is designed so that the a passage transistors can be switched to different threshold voltage values.
+</ABSTRACT>
+</TEXT>
+</DOC>

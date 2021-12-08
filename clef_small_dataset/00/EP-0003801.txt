@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003801
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/28 H05K-3/42 G03F-7/16 H05K-3/10 G03C-5/00 H05K-3/18 <main>H05K-3/10</main> G03F-7/20 H05K-3/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+use of photosensitive stratum to create through-hole connections in circuit boards.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company<sep>
+</APPLICANT>
+<INVENTOR>
+andreades sam<sep>beske grant allen<sep>lott john walter<sep>andreades, sam<sep>beske, grant allen<sep>lott, john walter<sep>andreades, sam6 cindy ann drivered bank new jerseyus<sep>beske, grant allen4 berkshire driveprinceton new jerseyus<sep>lott, john walter40 fairfield drivetinton falls new jerseyus<sep>andreades, sam<sep>beske, grant allen<sep>lott, john walter<sep>andreades, sam6 cindy ann drivered bank new jerseyus<sep>beske, grant allen4 berkshire driveprinceton new jerseyus<sep>lott, john walter40 fairfield drivetinton falls new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+electrically conductive through-holes in a substrate (2)  are prepared by (a) laminating a film based plastic photosensitive  toner-receptive stratum (4) to at least one surface of the  substrate; (b) applying a pressure differential across the  stratum covering the substrate holes (8), the outside pressure  exceeding that inside the holes (8); in either order (c) removing  at least one film base or (d) exposing the photosensitive  stratum (4) imagewise, (e) adhering metal or catalytic particles  to hole walls and image areas, (f) optionally hardening or  curing the particulate areas and (g) providing an electrically  conductive printed circuit and through-holes, e. g. , by plating  metal electrolessly, soldering or conjoining the metallized or  catalyzed areas.  
+</ABSTRACT>
+</TEXT>
+</DOC>

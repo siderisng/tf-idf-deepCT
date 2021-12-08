@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008700
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-25/18 A47J-31/44 A47J-31/54 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+boiler.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft  <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+kleinschmidt peter dipl-physde<sep>magori valentin dipl-physde<sep>meixner hans drde<sep>kleinschmidt, peter, dipl.-phys<sep>magori, valentin, dipl.-phys<sep>meixner, hans, dr.<sep>kleinschmidt, peter, dipl.-physklagenfurter strasse 12d-8000 münchen 90de<sep>magori, valentin, dipl.-physlimburgstrasse 17d-8000 münchen 90de<sep>meixner, hans, dr.max-planck-strasse 5d-8013 haarde<sep>
+</INVENTOR>
+<ABSTRACT>
+Display device for display that the PTC Heated (11-19) water heater (1) descales who must.The display signal is derived from a change of the calcification resulting difference of heating currents (111, 191, K₁₁ K₁₉) of the inlet and the outlet area.
+</ABSTRACT>
+</TEXT>
+</DOC>

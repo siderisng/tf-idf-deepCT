@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010113
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-39/00 F16H-35/10 F16K-31/04 F16H-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for limiting the axial force, especially for valves.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciech  <sep>bbc aktiengesellschaft brown, boveri & cie.<sep>bbc aktiengesellschaft brown, boveri &amp; cie.haselstrassech-5401 badench<sep>
+</APPLICANT>
+<INVENTOR>
+klikar borek dipl-ingch<sep>klikar, borek, dipl.-ing.<sep>klikar, borek, dipl.-ing.bahnhofstrasse 71ch-5430 wettingench<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for limiting the axial force, especially for valves, with spring-loaded latching elements (18) which release the spindle nut (8) in the axial direction, for the purpose of preventing overstressing of the threaded spindle (6), if the axial force exceeds a specified level which can be set by suitable selection of the springs (24, 25).  <image>
+</ABSTRACT>
+<DESCRIPTION>
+einrichtung zur axialkraftbegrenzung, insbesondere für absperrorgane die vorliegende erfindung betrifft-eine einrichtung zur axialkraftbegrenzung, insbesondere für absperrorgane, nach dem oberbegriff des patentanspruchs 1. bei den üblichen absperrarmaturen werden die grenzlagen der beweglichen teile, im allgemeinen also die spindelendlagen, mit wegschaltern überwacht und gesteuert. versagt diese steuerung oder wird sie überbrückt, so erfolgt die ausschaltung des antriebmotors mit drehmomentschaltern. dabei ist aber wegen der trägheit des systems antriebsmotor und getriebe das auf die beanspruchten armaturenteile tatsächlich ausgeübte moment grösser als das am drehmomentschalter eingestellte moment. das tatsächlich auftretende moment kann dabei so gross werden, dass es die betreffenden armaturenteile beschädigt, oder z.b. keilschieber in den sitz soweit hineindrückt, dass sie nicht mehr geöffnet werden können. das gleiche kann auch über das versagen des drehmomentschalters gesagt werden. der antrieb wird dann in der regel erst durch den eigenen thermoschutz ausgeschaltet. wegen der unsicheren reibungsverhältnisse im antrieb und zwischen spindelmutter und spindel ist das drehmoment ein unzuverlässiges mass für die axiale spindelkraft. rutschkupplungen werden wegen mangelnder zuverlässigkeit bei armaturen nicht eingesetzt. eine auslegung der armatur auf das maximal mögliche antriebsmoment würde zu enorm grossen abmessungen und hohen kosten führen. zu den obenerwähnten unsicherheiten kommen die be anspruchungen durch dehnungsdifferenzen infolge temperatur änderungen zwischen spindel und armaturengehäuse, wenn die spindel in den endlagen festsitzt, wobei axiale verspannungen mit der gefahr des ausknickens oder zerreissens der spindel, festsitzens bzw. festfressens von keilschiebern usw., auftreten können. im falle eines rohrbruches nach ventilen, wie z.b. umschaltoder isolierventilen, kann beim schliessen die durch die druckdifferenz über den ventilteller entstehende axialkraft je nach dem vordruck und dem bruchquerschnitt nach der armatur so gross werden, dass die spindel unzulässig beansprucht wird oder das antriebsmoment nicht mehr ausreicht, um die spindel zu bewegen. das nichtschliessen kann z.b. bei umschaltarmaturen nach einem rohrbruch im vorwärmer die gefährdung der turbine durch wasser zur folge haben, da das wasser über die bruchstelle # den dampfraum des vorwärmers und dann über die anzapfleitung zur turbine strömen könnte. auch in frischdampfoder speisewasserdruckleitungen von kernkraftwerken ergeben sich solche probleme, da hier rohrbrüche angenommen werden müssen, wobei die armaturen sicher schliessen müssen, um radioaktivitätsabgabe an die umgebung zu verhindern. bei anwendung der heutzutage üblichen antriebsköpfe mit gefederter spindelmutter federt diese bei ueberschreitung der federvorspannung durch, so dass die armatur auch ohne antriebsmotor geschlossen und die axialkraft an der spindel begrenzt wird. bei grösseren nennweiten und hüben ist jedoch dieser armaturenkopf sehr lang. deshalb werden für diese zwecke oft eigenmediumbetätigte armaturen verwendet. im drucklosen zustand oder bei niedrigen drücken müssen jedoch diese armaturen von hand oder einem zusätzlichen antriebs motor betätigt werden. mit der im kennzeichnenden teil des patentanspruchs 1 definierten erfindung sollen die vorerwähnten nachteile vermieden werden. der erfindungsgegenstand wird im folgenden anhand eines in der zeichnung dargestellten ausführungsbeispiels näher beschrieben. in der zeichnung stellen dar: fig. 1 eine aussenansicht einer erfindungsgemässen einrich tung in anwendung auf eine grosse absperrarmatur, und fig. 2 die einrichtung nach fig. 1 im schnitt. in fig. 1 ist die einrichtung zur axialkraftbegrenzung mit 1 bezeichnet. sie sitzt auf einer absperrarmatur,von der nur der
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche 1. einrichtung zur axialkraftbegrenzung, insbesondere für absperrorgane, mit motorischem antrieb einer spindelmutter zwecks längsverschiebung einer in der spindelmutter ver schraubbaren gewindespindel, mit in axialrichtung der ge winde spindel nachgiebigen federelementen sowie mit end schaltern zur begrenzung des spindelhubes, gekennzeichnet durch eine axialverschieblich gelagerte spindelmutter (8), durch zwei axialverschiebliche, durch federn (24, 25) be lastete lagerringe (21, 22) mit einander zugewandten hohl kegelflächen (19, 20), die zusammen einen ringförmigen keil spalt bilden und rastelemente (18) aufnehmen, durch eine zum zusammenwirken mit den rastelementen (18) bestimmte ringnut (17) in der spindelmutter (8), sowie durch eine formschlüssige, eine axiale verschiebung zulassende dreh feste verbindung von spindelmutter (8) und antriebsrad (11).    2. einrichtung nach anspruch 1, dadurch gekennzeichnet, dass die rastelemente kugeln (18) sind.   3. einrichtung nach anspruch 1, dadurch gekennzeichnet, dass die federn aus tellerfedersäulen (24, 25) bestehen.   4. einrichtung nach anspruch 1, dadurch gekennzeichnet, dass die formschlüssige, drehfeste verbindung von spindelmutter  (8) und antriebsrad (11) eine passfederverbindung ist.     5. einrichtung nach anspruch 1, dadurch gekennzeichnet, dass das gehäuse (12) der spindelmutterlagerung einen ring förmigen anschlag (23) zur fixierung der lagerringe  (21, 22) in ihrer mittelstellung aufweist.  
+</CLAIMS>
+</TEXT>
+</DOC>

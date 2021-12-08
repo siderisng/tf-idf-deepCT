@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003566
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60K-15/03 G01F-23/292 G01F-23/284 B60K-15/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+level indicator.
+</TITLE>
+<APPLICANT>
+siemens agde   <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+kammermaier johann dr dipl-phyde<sep>schneider wolfgang dr dipl-phyde<sep>kammermaier, johann, dr.,dipl.-phys.<sep>schneider, wolfgang, dr.,dipl.-phys<sep>kammermaier, johann, dr.,dipl.-phys.ziehrerstrasse 19d-8025 unterhachingde<sep>schneider, wolfgang, dr.,dipl.-physschneefinkenweg 7d-8000 münchen 82de<sep>
+</INVENTOR>
+<ABSTRACT>
+the level indicator is preferably suitable for fuel tanks.  measurement of the level (3) in a container (1) is undertaken by means of a fracture-resistant rod (4) with light-conducting properties, which rod has a light emitter (5) and a light receiver (6) respectively at its two ends and is resistant to conventional fuels.  the light flux flowing through the rod (4) is influenced by the level (3), so that the electric current emitted by the light receiver (6) is employed as a measure of the level (fig.  2).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

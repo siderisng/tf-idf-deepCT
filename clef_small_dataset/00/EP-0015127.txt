@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015127
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-39/12 F16H-39/00 F04B-1/12 F04B-1/16 F04B-1/20 <main>F01B-3/00</main> F01B-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluid motor-pump assembly.
+</TITLE>
+<APPLICANT>
+garrett corpus<sep>the garrett corporation<sep>the garrett corporation9851-9951 sepulveda boulevard p.o. box 92248los angeles, california 90009us<sep>the garrett corporation<sep>
+</APPLICANT>
+<INVENTOR>
+mcgowan peter t<sep>mcgowan, peter t.<sep>mcgowan, peter t.1472 b s.e. 15th streetfort lauderdale, floridaus<sep>mcgowan, peter t.<sep>mcgowan, peter t.1472 b s.e. 15th streetfort lauderdale, floridaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a fluid pump or motor (10, 110) has a stationary cylinder  block (28), pistons (24), and a swash plate type mechanism  (36) to link reciprocation of the pistons with rotation of a shaft  (46, 146).  a valve plate (66) rotates with the shaft (46, 146), and  controls the flow of fluid between low and high pressure  connections (18, 16; 22, 20) and ports (60) in the cylinder block  (28), leading to the cylinder bores (26).  the valve plate (66) is  biased against the cylinder block (28) by an axially-movable  but non-rotating balancing member (80), which contains  balancing pistons (88), supplied with pressure from the ports  (76, 78) in the valve plate (66) through passages (86).  the  reaction from the pistons (88) biases the member (80) against  the valve plate (66).  the balancing member (80) is also biased  by the pressure from the high-pressure connection (16; 20)  acting on a shoulder (96).  
+</ABSTRACT>
+</TEXT>
+</DOC>

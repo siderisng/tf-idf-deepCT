@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009992
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-1/16 H05K-1/09 H01C-7/22 H05K-3/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+articles from resistance foils and their use.
+</TITLE>
+<APPLICANT>
+bakelite uk limitedgb<sep>bakelite uk limited<sep>bakelite uk limitedredfern roadtyseley birmingham, b11 2bjgb<sep>
+</APPLICANT>
+<INVENTOR>
+rippington georgegb<sep>rippington, george<sep>rippington, georgebakelite uk limited redfern roadtyseley birmingham, b11 2bjgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the resistance of an article (e. g.  a printed resistor for a  fuel gauge) to solvents e. g.  petrol, comprising a layer of  resistance foil bonded to an insulating substrate is  improved by providing the surface of the foil is in contact  with the insulating substrate with a layer of finely divided  resistance metal particles bonded to the foil.  laminates for  making printed resistors are disclosed.  
+</ABSTRACT>
+<DESCRIPTION>
+articles from metal foils the present invention relates to printed resistors for use in environments containing solvents and/or solvent vapours, and to insulating substrates carrying foils of resistance metal for preparing such printed resistors. wire-wound resistors made by winding a resistance wire onto a former are well known, and are used in control or measurement circuits of various types for example as rheostats. it is known to make resistors by the printed circuit technique in which a foil of resistance metal is bound to an electrical insulating material and a portion of the foil is etched away so as to leave a pattern of resistance material giving the desired resistance circuit. resistors made in this way (printed resistors) may be used as a replacement for wire wound resistors, and are disclosed for example in british patent specification 951 660. the nature of the insulating substrate may be such that it is possible to cause the metal foil to adhere to it without the use of a separate adhesive layer. adhesives for causing metal foils to adhere to insulating substrates such as laminates of fibrous reinforcement and thermosetting resin are well known. wire wound resistors are used as components in the production of fuel gauges for indicating the level of fuel in tanks, in particular the level of petrol or diesel fuel in the tanks of cars or other vehicles driven internal combustion engines. it would be desirable to replace wire wound resistors by resistors produced by the printed circuit technique mentioned above. however the resistors are located within the fuel tank and it is therefore e:-sential --o them to be resistant to the action of the liquid fuel. it 5 found that when printed resistors are prepared from foils of resistance metal which are fixed to the insulating substrate by a conventional adhesive the metal foil rapidly becomes detached from the underlying insulating substrate when immersed in petrol. the obvious solution to this problem is to use an adhesive which is stronger and more resistant to the action of petrol for example one based on a nitrile rubber. it is found however that even with such adhesives an undesirable reduction in peel strength takes place on immersion in petrol (gasoline). peel strength is a measure of the ease with which the metal foil can be removed from the underlying insulating material. in the preparation of printed resistors for use in contact with solvents such as petrol it is extremely undesirable for any change in peel strength to take place on immersion in the solvent. obtaining a material which has a high peel strength after immersion in petrol is of less importance than obtaining a material which has an adequate peel strength which remains unchanged after immersion in petrol. it does not appear possible to obtain such a material even when using adhesives believed to be resistant to petrol and some other solvents. according to the present invention there is provided an article comprising a layer of resistance foil bonded to
+</DESCRIPTION>
+<CLAIMS>
+ claims:   1. an article which comprises a layer of resistance foil bonded to an  insulating substrate characterised in that the surface of the  resistance metal foil in contact with the insulating substrate  carries a layer of finely divided resistance metal particles bonded  to the foil.   2.   ,    an article according to claim 1 wherein the resistance metal is a    copper/nickel    alloy.   3. an article according to claims 1 or 2 wherein the insulating substrate  is a laminate formed by subjecting one or more layers of fibrous reinforcement  and a   thermosetting binder    resin to the action of heat and -pressure.    4. an article according to any one of the preceding claims wherein there  is a layer of adhesive between the resistance metal and the insulating  substrate.   5, an article according to any one of the preceding claims which is a  printed resistor formed by removal of part of a sheet of resistance  metal bonded to the insulating substrate.   6. a fuel gauge which   comprises    a resistor across which an arm is  caused to move by the action of a float responding to the level of  fuel so as to produce a variation in resistance measured across the  resistor, characterised in that the resistor consists of a layer  of resistance foil bonded to an insulating substrate, and the  surface of the foil bonded to the substrate carries a layer of  finely divided resistance metal particles bonded to the foil.  
+</CLAIMS>
+</TEXT>
+</DOC>

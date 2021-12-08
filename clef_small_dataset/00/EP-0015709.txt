@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015709
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01L-23/56</main> H01L-23/58 H01L-23/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+constructional arrangement for semiconductor devices.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited <sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp   <sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+fukuden nobutoshi<sep>hirano yutaka<sep>saito toshiaki<sep>fukuden, nobutoshi<sep>hirano, yutaka<sep>saito, toshiaki<sep>fukuden, nobutoshi3-3, takeyama 4-chome midori-kuyokohama-shi kanagawa 226jp<sep>hirano, yutaka13-16, ooji 2-chomeatsugi-shi kanagawa 243jp<sep>saito, toshiaki12-3, miyamaedaira 3-chome takatsu-kukawasaki-shi kanagawa 213jp<sep>fukuden, nobutoshi<sep>hirano, yutaka<sep>saito, toshiaki <sep>fukuden, nobutoshi 3-3, takeyama 4-chome midori-ku yokohama-shi kanagawa 226jp<sep>hirano, yutaka13-16, ooji 2-chomeatsugi-shi kanagawa 243jp<sep>saito, toshiaki12-3, miyamaedaira 3-chome takatsu-kukawasaki-shi kanagawa 213jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a high-power and high-frequency semiconductor device  assembled on a base comprising a semiconductor chip, ca­ pacitors for grounding high-frequency components (40) and  capacitors for input impedance matching, (41-43) the capaci­ tors being arranged on a metal surface of the base.  
+</ABSTRACT>
+</TEXT>
+</DOC>

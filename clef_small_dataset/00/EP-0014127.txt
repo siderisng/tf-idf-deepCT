@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014127
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-1/10 G09G-1/06 <main>G06F-3/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+curve generator for making visible symbols on a cathode ray tube screen.
+</TITLE>
+<APPLICANT>
+thomson csffr <sep>thomson-csf<sep>thomson-csf 173, boulevard haussmann 75008 paris fr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+bouron jean-pierre<sep>postel michel<sep>bouron, jean-pierre<sep>postel, michel<sep>bouron, jean-pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>postel, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>bouron, jean-pierre <sep>postel, michel<sep>bouron, jean-pierre "thomson-csf" - scpi 173, bld haussmann f-75360 paris cedex 08 fr<sep>postel, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Device allowing in particular to develop such gnals relating to a circular plot from SIM clad algorithms.It comprises computing means (1) of a parameter ΔL defined by r = and 0 ≦ Δl <U with u elementary vector, θ angle in the center of a polygon U + ΔL circumscribed in circle R, and circuitsTreatment logic (2 to 6) ELA boring the polar direction PN plot according to the relationship: The invention applies to symbol visualization systems on a cathode screen.
+</ABSTRACT>
+</TEXT>
+</DOC>

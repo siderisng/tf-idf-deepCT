@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011269
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B30B-15/00</main> B30B-15/00 B05B-5/02 B05B-5/025 B05B-17/06 B05B-17/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for dotting moulding devices by means of discrete droplets of a liquid or suspended lubricant during the manufacture of moulded objects in the pharmaceutical, food or catalytic field.
+</TITLE>
+<APPLICANT>
+thomae gmbh dr kde<sep>dr.±karl±thomae gmbh<sep>dr. karl thomae gmbhbirkendorferstrasse 65d-88397 biberachde<sep>dr. karl thomae gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+gruber peter dr dipl-chem<sep>voss gunther m<sep>gruber, peter, dr. dipl.-chem.<sep>voss, gunther m.<sep>gruber, peter, dr. dipl.-chem.wetterkreuzstrasse 36d-7950 biberach 1de<sep>voss, gunther m.ziegelstadel 10d-8918 diessende<sep>gruber, peter, dr. dipl.-chem.<sep>voss, gunther m.<sep>gruber, peter, dr. dipl.-chem.wetterkreuzstrasse 36d-7950 biberach 1de<sep>voss, gunther m.ziegelstadel 10d-8918 diessende<sep>
+</INVENTOR>
+<ABSTRACT>
+Described is a method for intermittent bodies of the pressing zones of molded materials as z. b. used in tablet production. Certain zones of the pressing tools are targeted in defined quantities and in the form of discrete volume (5, 28, 38) of defined volume in defined quantities and in the form of discrete droplets (5, 28, 38). The pages of the shinging means is done, for example, with TELS piezo electrical converter (1, 11) or after a so-called high pressure method, wherein the liquid to be pitched is disassembled under high pressure by nozzles (6, 7) into individual droplets, the droplets then electrically charged and Electrostatically in the direction of the pitches of the mold tools are deflected. Various practical embodiments of such pitching systems will be described in detail. The systems are also suitable for high-speed tablet animal.
+</ABSTRACT>
+</TEXT>
+</DOC>

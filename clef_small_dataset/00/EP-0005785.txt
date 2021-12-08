@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005785
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/57 A61P-31/00 A61K-31/545 C07D-277/20 A61K-31/546 C07D-501/00 A61P-31/04 C07D-277/00 C07D-501/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cephalosporin derivatives, process for their preparation, pharmaceutical compositions containing them and their use.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft <sep>hoechst aktiengesellschaft65926 frankfurt am mainde   <sep>
+</APPLICANT>
+<INVENTOR>
+bormann dieter drde<sep>duerckheimer walter drde<sep>schrinner elmar drde<sep>bormann, dieter, dr.<sep>duerckheimer, walter, dr.<sep>schrinner, elmar, dr.<sep>bormann, dieter, dr.johann-strauss-strasse 20d-6233 kelkheim (taunus)de<sep>dürckheimer, walter, dr.im lerchenfeld 45d-6234 hattersheimde<sep>schrinner, elmar, dr.hedwigstrasse 2d-6200 wiesbadende<sep>
+</INVENTOR>
+<ABSTRACT>
+cephem derivatives of the general formula <image> are used in pharmaceutical products active against bacterial infections. 
+</ABSTRACT>
+</TEXT>
+</DOC>

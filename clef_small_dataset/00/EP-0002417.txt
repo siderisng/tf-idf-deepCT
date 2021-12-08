@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002417
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-13/05 G05D-3/12 H03M-1/00 <main>G05D-3/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system using digital signals to control the position of a moving part and digital-analog interface for use in such a system.
+</TITLE>
+<APPLICANT>
+aerospatialefr<sep>societe nationale industrielle aerospatiale<sep>aerospatiale societe nationale industrielle37 boulevard de montmorencyf-75016 parisfr<sep>societe nationale industrielle aerospatiale<sep>
+</APPLICANT>
+<INVENTOR>
+durandeau michel<sep>verdier jean-pierre<sep>voisin norbert<sep>durandeau, michel<sep>verdier, jean-pierre<sep>voisin, norbert<sep>durandeau, michel27 rue guynemerf-31200 toulousefr<sep>verdier, jean-pierre18 rue des fleursf-31220 cazeres-sur-garonnefr<sep>voisin, norbert3 impasse du soleilf-31150 bruguieresfr<sep>durandeau, michel  <sep>verdier, jean-pierre<sep>voisin, norbert<sep>durandeau, michel27 rue guynemerf-31200 toulousefr<sep>verdier, jean-pierre18 rue des fleursf-31220 cazeres-sur-garonnefr<sep>voisin, norbert3 impasse du soleilf-31150 bruguieresfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a digital-analog interface.digital control signals are decoded in 23, transformed into parallel signals, a register 20 applies to the contactors (from a network of resistors R and 2R, 18; an inductive sensor of the position of an organ SV,to be controlled by analog signals, has its two secondary windings, 1c and 1b, connected in parallel to the same inlet of a summer circuit A4, one through a fixed resistance 3, and the other through the adjustable resistancethe network 18; the output of A4 attacks the SV control circuit, for example via a synchronous demodulator 8 and a power amplifier 9. This interface can be inserted for example between the servo-control ofan aircraft governor and a digital flight calculator.
+</ABSTRACT>
+</TEXT>
+</DOC>

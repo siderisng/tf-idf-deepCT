@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004601
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-6/00 C08F-6/28 C08F-10/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for removing highly odorous components from particulate olefine polymers.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+gierth volker drde<sep>moorwessel dieter dr de<sep>paatz rudolf dr de  <sep>schoene werner drde<sep>zeitler gerhard drde<sep>gierth, volker, dr.<sep>moorwessel, dieter, dr.<sep>paatz, rudolf, dr.<sep>schoene, werner, dr.<sep>zeitler, gerhard, dr.<sep>gierth, volker, dr.alwin-mittasch-platz 1d-6700 ludwigshafende<sep>moorwessel, dieter, dr.dilsberger strasse 3-5d-6800 mannheim 51de<sep>paatz, rudolf, dr.auf der au 11d-6715 lambsheimde<sep>schoene, werner, dr.torwiesenstrasse 19d-6800 mannheim 1de<sep>zeitler, gerhard, dr.lessingstrasse 11d-6711 hessheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for removing high-odour constituents from polyolefin powders involves the action of steam in the absence of air, with the steam treatment lasting from 0. 5 to 15 hours, preferably from 1 to 10 hours, the amount of steam being from 5 to 50% by weight, preferably from 5 to 30% by weight, based on the weight of the polyolefin, and the steam pressure being from 0. 1 to 10 bar, preferably 1 bar.  this process allows complete removal of odorous substances from the polyolefin without the removed substances polluting the environment. 
+</ABSTRACT>
+</TEXT>
+</DOC>

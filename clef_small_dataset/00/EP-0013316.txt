@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013316
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04W-68/00 <main>H04Q-7/02</main> H04B-7/26 H04B-7/155 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiotelephone network with a main station, at least two relay stations working on the same radio channel and a plurality of substations.
+</TITLE>
+<APPLICANT>
+bosch gmbh robertde<sep>robert bosch gmbh<sep>robert bosch gmbhpostfach 30 02 2070442 stuttgartde<sep>robert bosch gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+wenzel manfred<sep>wenzel, manfred<sep>wenzel, manfredgruberzeile 73d-1000 berlin 20de<sep>wenzel, manfred <sep>wenzel, manfredgruberzeile 73d-1000 berlin 20de<sep>
+</INVENTOR>
+<ABSTRACT>
+A radio network is proposed, which comprises a main station (10), at least two relay stations (11, 12) and a plurality of substations (14, 15, 16). The understation introducing a speech radio sends a call signal (A) which is captured and evaluated by several relay stations EMP. Each relay station contains one time storage unit (25) downstream of its evaluator (20), which has a different characteristic time delay in each relay station. The relay station whose time-saving unit has the shortest time delay, sends its identifier (K) to the main station, and this answers the reception of the identification signal by a selective call signal determined only for the relay station in question and the transmission of the radio communication. All other time storage devices are reset by a particular signal that abuses the evaluers when they have not detected the selective call signal.
+</ABSTRACT>
+</TEXT>
+</DOC>

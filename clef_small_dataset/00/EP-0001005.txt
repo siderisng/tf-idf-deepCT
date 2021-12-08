@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001005
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/14 C07D-233/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+manufacture of imidazolines.
+</TITLE>
+<APPLICANT>
+albright & wilsongb<sep>albright & wilson limited<sep>albright &amp; wilson limitedalbright &amp; wilson house hagley road westoldbury warley west midlands, b68 onngb<sep>
+</APPLICANT>
+<INVENTOR>
+lambie alan jamesgb <sep>phillips bringley morris gb<sep>lambie, alan james<sep>phillips, bringley morris<sep>lambie, alan james7 lansdowne grovewhitehaven cumbriagb<sep>phillips, bringley morrisspringfield villas egrement roadhensingham whitehaven cumbriagb<sep>
+</INVENTOR>
+<ABSTRACT>
+the reaction between a fatty acid rcooh and a diamine  h₂nch₂ch₂nhr₁ wherein r represents an aliphatic group  comprising from 8 to 22 carbon atoms and r₁ represents a  substituted or unsubstituted alkyl or alkenyl group comprising  from 1 to 4 carbon atoms so as to produce an imidazoline  is carried out using a moderate initial excess of diamine  and when necessary reducing the pressure logarithmically  with respect to time until the reaction is completed.  the formation of undesirable diamide impurities is  avoided while using economic quantities of diamine and  non-specialised equipment.  the processes can be carried  out without any monitoring of the progress of the reaction  by skilled personnel being required and if through error  progress is unsatisfactory a single readjustment can serve  to carry the reaction to completion.  
+</ABSTRACT>
+</TEXT>
+</DOC>

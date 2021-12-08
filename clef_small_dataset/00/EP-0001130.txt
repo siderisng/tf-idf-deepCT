@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001130
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60T-15/48 B60T-15/24 B60T-13/24 B60T-15/08 B60T-15/00 <main>B60T-15/24</main> B60T-13/36 B60T-15/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+triple pressure control valve for an indirectly actuated compressed-air brake.
+</TITLE>
+<APPLICANT>
+oerlikon buehrle agch<sep>werkzeugmaschinenfabrik oerlikon-buhrle ag<sep>werkzeugmaschinenfabrik oerlikon-bührle agbirchstrasse 155ch-8050 zürichch<sep>werkzeugmaschinenfabrik oerlikon-buhrle ag<sep>
+</APPLICANT>
+<INVENTOR>
+fasoli mario comm dott ing<sep>fasoli, mario, comm. dott. ing.<sep>fasoli, mario, comm. dott. ing.via piccinotti, 89i-50129 firenzeit<sep>fasoli, mario, comm. dott. ing.<sep>fasoli, mario, comm. dott. ing.via piccinotti, 89i-50129 firenzeit<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  three-pressure control valve for use on an indirectly acting compressed air brake comprising : - a filling and isolating element (c) comprising - a first spring-loaded piston (20, 21) which is loaded on one side by the brake cylinder pressure and on the other side by atmospheric pressure ; - a second spring-loaded piston (30) which is loaded on one side by the control cylinder pressure and on the other side by the pressure in the main air line ; - a piston rod (22) which on one side is fixed to the first piston (20) and on the other side to a valve disc (62) which together with a valve seat (69) on the second piston (3) forms a first valve (61) for filling the control cylinder (33) ; - a stop (67) fitted to the piston rod (22) in order to transmit the brake cylinder pressure to the second piston (30) ; characterised in that - the filling isolating element (c) having a second valve (28) which can be actuated by the second piston (30) ; - the first valve has a cylindrical throttle body (71), which protrudes into a throttle orifice (70) and can be displaced relative to the throttle orifice and the central part of which has a similar diameter than the two ends. 
+</ABSTRACT>
+</TEXT>
+</DOC>

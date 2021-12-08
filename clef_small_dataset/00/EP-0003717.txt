@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003717
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07H-13/00 A23K-1/22 <main>C07H-13/12</main> C07H-13/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation and purification of lactosyl urea.
+</TITLE>
+<APPLICANT>
+battelle memorial institutech<sep>solagro sach<sep>battelle memorial institute<sep>solagro s.a.<sep>battelle memorial institute 7 route de drizech-1227 carouge/genèvech <sep>solagro s.a. rue du prince albert 33b-1050 bruxellesbe<sep>battelle memorial institute<sep>solagro s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+armanet jean-michel<sep>cuccolo sergio<sep>regnault alain<sep>sachetto jean-pierre<sep>tournier herve-noel<sep>armanet, jean-michel<sep>cuccolo, sergio<sep>regnault, alain<sep>sachetto, jean-pierre<sep>tournier, herve-noel<sep>armanet, jean-michelrue des bossons 8ch-1213 onexch<sep>cuccolo, sergiorue alcide jentzer 9ch-1205 genèvech<sep>regnault, alainvillard-tacon par ornexf-01210 ferney-voltairefr<sep>sachetto, jean-pierrel'escalade rue de savoie 3f-74160 st julien-en-genevoisfr<sep>tournier, hervé-noelle riondetf-74520 valleiryfr<sep>armanet, jean-michel<sep>cuccolo, sergio<sep>regnault, alain<sep>sachetto, jean-pierre<sep>tournier, herve-noel <sep>armanet, jean-michelrue des bossons 8ch-1213 onex ch   <sep>cuccolo, sergiorue alcide jentzer 9ch-1205 genèvech<sep>regnault, alainvillard-tacon par ornexf-01210 ferney-voltairefr<sep>sachetto, jean-pierrel'escalade rue de savoie 3f-74160 st julien-en-genevoisfr<sep>tournier, hervé-noelle riondetf-74520 valleiryfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of lactosylure and its N-methyl derivative, dietary supplements for ruminants.According to this process, lactose and urea are heated at 70-110 ° with a minimum of water and, as much as possible, this water is eliminated by evaporation during the reaction.The crude reaction product may be purified by trituration with iced water or ethanol and spraying so as to remove by dissolution in these solvents, the unsuccessable urea.The corresponding N-methylol derivative is obtained by reaction with formaldehyde.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005400
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-313/00 C07C-323/52 B01J-31/02 B01J-31/00 <main>C07C-148/00</main> C07C-319/04 C07C-20060101S C07C-321/04 C07C-149/06 C07C-323/00 C07C-319/00 C07C-67/00 B01J-19/08 C07C-321/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the synthesis of mercaptans.
+</TITLE>
+<APPLICANT>
+elf aquitainefr <sep>societe nationale elf aquitaine (production) <sep>societe nationale elf aquitainetour aquitainef-92400 courbevoiefr<sep>societe nationale elf aquitaine <sep>
+</APPLICANT>
+<INVENTOR>
+ollivier jean<sep>souloumiac guy<sep>suberlucq jeannine<sep>ollivier, jean<sep>souloumiac, guy<sep>suberlucq, jeannine<sep>ollivier, jeancroix de buzyf-64260 arudyfr<sep>souloumiac, guy3 allée duke ellingtonf-64000 paufr<sep>suberlucq, jeannine28 rue louis lacazef-64000 paufr<sep>ollivier, jean <sep>souloumiac, guy  <sep>suberlucq, jeannine<sep>ollivier, jeancroix de buzyf-64260 arudyfr<sep>souloumiac, guy3 allée duke ellingtonf-64000 paufr<sep>suberlucq, jeannine28 rue louis lacazef-64000 paufr<sep>
+</INVENTOR>
+<ABSTRACT>
+Mercaptan synthesis by the photochemical reaction of an olefin with hydrogen sulphoreous e R presence of an initiator.The initiator is constituted by benzophenone, thiobenzophenone or by a mixture of both, preferably supplemented by an organic compound of a group element ranges from the periodic classification.These initiators can wear substituents in one or both benzene nuclei.The light used can have a wavelength of 300 to 600 nm.The process allows the obtaining of different mercaptans with good yields.
+</ABSTRACT>
+</TEXT>
+</DOC>

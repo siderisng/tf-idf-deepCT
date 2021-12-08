@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001605
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03B-17/26</main> B65H-23/04 B65H-23/16 G03C-3/02 B65H-23/20 G03B-17/26 B65H-39/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for winding a film to a roll.
+</TITLE>
+<APPLICANT>
+agfa gevaert ag de  <sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+hilgers manfred ing-grad<sep>hoffacker franz dipl-ing<sep>klinkhammer ralf l dipl-ing<sep>steinbuchel gunter h<sep>hilgers, manfred, ing.-grad.<sep>hoffacker, franz, dipl.-ing.<sep>klinkhammer, ralf l., dipl.-ing.<sep>steinbuchel, gunter h.<sep>hilgers, manfred, ing.-grad.kurt-schumacher-ring 109d-5090 leverkusen 1de<sep>hoffacker, franz, dipl.-ing.schumannweg 11d-4018 langenfeldde<sep>klinkhammer, ralf l., dipl.-ing.hans-schulten-strasse 14d-5000 köln 91de<sep>steinbüchel, günter h.gezelinallee 25d-5090 leverkusende<sep>hilgers, manfred, ing.-grad.<sep>hoffacker, franz, dipl.-ing.<sep>klinkhammer, ralf l., dipl.-ing. <sep>steinbuchel, gunter h.  <sep>hilgers, manfred, ing.-grad.kurt-schumacher-ring 109d-5090 leverkusen 1de<sep>hoffacker, franz, dipl.-ing.schumannweg 11d-4018 langenfeldde<sep>klinkhammer, ralf l., dipl.-ing.hans-schulten-strasse 14d-5000 köln 91de<sep>steinbüchel, günter h.gezelinallee 25d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+Automatically working device for producing a perforated film wanded film wrap together with a perforated allonge, which allows film winding of the same quality with superimposed perforation holes of film and allonge to produce with defined initial position. The transport wheels (13) for film strap and allonge and allonge and allonge (13) which are formed positively by a drive (30) are connected to the winding shaft (26) via a toothed belt (27). The regulation of the rotational speed of the winding shaft (26) at the same feed rate of film strap and allonge according to the increase in winding diameter is carried out by pivoting the dancer roll (35) in the load trum (31) and the dancer roller (36) in the empty trim (32) according to the forces of the power parallelogram between the winding axis and dancer roller drive. To comply with an same starting position further temporarily acting sliding elements are provided, z. b. Air cushions between transport wheel and film strap or allonge.
+</ABSTRACT>
+</TEXT>
+</DOC>

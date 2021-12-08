@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014594
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-8/08 <main>G03C-5/54</main> G03C-8/02 G03C-8/32 G03C-8/00 G03C-5/50 G03C-8/36 G03C-8/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic image reversal process and photographic element for use therein.
+</TITLE>
+<APPLICANT>
+eastman kodak cous <sep>kodak ltd gb<sep>eastman kodak company<sep>kodak limited<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>kodak limitedkodak house, station roadhemel hempstead, hertfordshire hp1 1jugb<sep>eastman kodak company<sep>kodak limited <sep>
+</APPLICANT>
+<INVENTOR>
+marsden peter douglas<sep>morgan john<sep>marsden, peter douglas<sep>morgan, john<sep>marsden, peter douglaskodak limited headstone lanewealdstone harrow, middlesexgb<sep>morgan, johnkodak limited headstone lanewealdstone harrow, middlesexgb<sep>marsden, peter douglas <sep>morgan, john  <sep>marsden, peter douglaskodak limited headstone lanewealdstone harrow, middlesexgb<sep>morgan, johnkodak limited headstone lanewealdstone harrow, middlesexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a photographic reversal process is provided wherein a  compound which reacts with oxidized electron transfer agent  (eta) to form a dye or other visible product or intermediate  and which is associated with a negative-working silver halide  emulsion layer is prevented from reacting with the oxidized  eta formed on development of the, imagewise exposed,  silver halide by a competing oxidizable substance with which  the oxidized eta preferentially reacts so that no dye or other  visible product is formed by the reaction and wherein the  concentration of the competing oxidizable substance is  lowered and/or additional oxidized eta is formed at least in  the areas of the remaining silver halide, so that on reversal  development enough oxidized eta becomes available in  these areas to oxidise the remaining competing oxidizable  substance and to react with said compound and form a dye  image or other image.  preferably said dye diffuses into an image-receiving layer  to form a viewable image.  
+</ABSTRACT>
+</TEXT>
+</DOC>

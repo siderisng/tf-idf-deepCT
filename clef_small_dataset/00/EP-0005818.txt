@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005818
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-13/00 F15B-13/04 <main>F15B-13/042</main> F16K-31/122 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulically operated 3-way seat valve.
+</TITLE>
+<APPLICANT>
+rexroth gmbh g lde   <sep>g.l. rexroth gmbh<sep>mannesmann rexroth gmbhjahnstrasse 3 - 5d-97813 lohrde<sep>mannesmann   rexroth gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+beyer wolfgang<sep>graner peter<sep>beyer, wolfgang<sep>graner, peter<sep>beyer, wolfgangfrühlingstrasse 2d-8770 lohr/mainde<sep>graner, peterwombacher strasse 54d-8770 lohr/mainde<sep>beyer, wolfgang  <sep>graner, peter<sep>beyer, wolfgangfrühlingstrasse 2d-8770 lohr/mainde<sep>graner, peterwombacher strasse 54d-8770 lohr/mainde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  hydraulically actuated 3-way seat valve with two switching positions, which has an actuating piston (12), which is functionally connected to the control piston (4), that area (12a) of the actuating piston, which is to be subjected to the control pressure and acts in one switching direction, having a greater effective area than that area (12b) of the said piston, which is to be subjected to the control pressure and acts in the other switching direction, the smaller effective area (12b) having to be continuously subjected to the control pressure (23), and the larger effective area (12a) having to be subjected either to the control pressure or to the tank pressure, characterised by two pilot valves (38, 39), which are designed as 3-way seat valves with two switching positions (a, b), of which one pilot valve (39) controls the connection of the control chamber (20) containing the larger actuating-piston area (12a) to the tank (t), whilst the other pilot valve (38) controls the connection of this control chamber (20), via a non-return valve (45), to the source (23) of the control medium, this control chamber (20) being connected, via a restriction (36), to the consumer-connection (b) of the main valve. 
+</ABSTRACT>
+</TEXT>
+</DOC>

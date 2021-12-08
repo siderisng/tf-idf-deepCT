@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004562
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04J-3/06</main> H04J-3/06 H04J-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuitry for frame synchronisation of a time multiplex system.
+</TITLE>
+<APPLICANT>
+siemens ag de <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+grutzmann sigmar dr<sep>schenk erwin<sep>siglow joachim<sep>grutzmann, sigmar, dr.<sep>schenk, erwin<sep>siglow, joachim<sep>grützmann, sigmar, dr.röhrliberg 42ch-6330 cham / kanton zugch<sep>schenk, erwinimplerstrasse 53ad-8000 münchen 70de<sep>siglow, joachimtiroler strasse 5bd-8190 wolfratshausende<sep>grutzmann, sigmar, dr. <sep>schenk, erwin<sep>siglow, joachim  <sep>grützmann, sigmar, dr.röhrliberg 42ch-6330 cham / kanton zugch<sep>schenk, erwinimplerstrasse 53ad-8000 münchen 70de<sep>siglow, joachimtiroler strasse 5bd-8190 wolfratshausende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention has for its object to provide a method for frame synchronization, which requires only low transmission capacity for high synchronization security.According to the invention, before reaching a synchronous state, a synchronizing alarm (SA = 1) is given, and after detection of two consecutive synchronization words (10010), the beginning of a test time (P) is determined.If during this test time (P) continuously synchronizing words (10010) are received, the synchronizing alarm (SA = 1) is switched off.If only a single synchronization word (10010) is not detected during the test time (P), then the synchronizing alarm remains.Starting from the synchronous state, the synchronizing alarm is given if multiple synchronization words are not detected.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001804
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-235/22 A01N-39/02 C07C-235/14 C07D-307/08 C07C-303/00 <main>C07C-43/275</main> C07C-41/00 C07C-235/24 C07C-235/00 C07C-59/00 C07C-45/00 C07C-243/28 C07C-271/08 A01N-41/04 A01N-47/16 C07C-333/00 C07C-43/174 C07C-235/08 C07C-235/20 C07C-271/00 C07C-309/63 C07C-47/228 C07C-327/22 C07C-333/02 A01N-41/00 A01N-47/10 C07C-67/00 A01N-39/00 C07C-301/00 C07D-307/12 C07C-303/30 C07C-59/64 C07C-309/00 C07C-43/00 C07C-41/26 C07C-255/13 C07C-43/295 C07C-69/736 C07C-243/00 C07C-327/00 C07C-121/38 A01N-37/38 C07D-307/00 C07C-69/63 C07C-255/00 C07C-241/00 C07C-103/26 C07C-153/063 C07C-327/42 A01N-47/12 A01N-47/20 C07C-235/06 C07C-235/16 C07C-59/68 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beta-naphthyl- and beta-tetrahydronaphthylphenyl ethers, process for their preparation and their use as herbicides.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+horlein gerhard dr<sep>kocher helmut dr<sep>langeluddeke peter dr<sep>nestler hans jurgen dr<sep>horlein, gerhard, dr.<sep>kocher, helmut, dr.<sep>langeluddeke, peter, dr.<sep>nestler, hans jurgen, dr.<sep>hörlein, gerhard, dr.assmannshäuser weg 23d-6000 frankfurt/main 71de<sep>köcher, helmut, dr.kleiststrasse 9d-6238 hofheim am taunusde<sep>langelüddeke, peter, dr.nelkenweg 5d-6238 hofheim am taunusde<sep>nestler, hans jürgen, dr.steinweg 15d-6240 königstein/taunusde<sep>horlein, gerhard, dr.<sep>kocher, helmut, dr.<sep>langeluddeke, peter, dr.<sep>nestler, hans jurgen, dr.<sep>hörlein, gerhard, dr.assmannshäuser weg 23d-6000 frankfurt/main 71de<sep>köcher, helmut, dr.kleiststrasse 9d-6238 hofheim am taunusde<sep>langelüddeke, peter, dr.nelkenweg 5d-6238 hofheim am taunusde<sep>nestler, hans jürgen, dr.steinweg 15d-6240 königstein/taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  herbicidal compositions containing a compound of the formula i see diagramm : ep0001804,p19,f3  in which r1 is hydrogen or (c1 -c4 )-alkyl, q is a whole number from zero to 2, z is a group of the formula  see diagramm : ep0001804,p19,f4   see diagramm : ep0001804,p19,f5   see diagramm : ep0001804,p19,f6   see diagramm : ep0001804,p19,f7   see diagramm : ep0001804,p19,f8  -cn, -ch2 oh, see diagramm : ep0001804,p19,f9   see diagramm : ep0001804,p19,f10 see diagramm : ep0001804,p19,f11   see diagramm : ep0001804,p19,f12 or -ch2 -o-so2 -r12 r2 is hydrogen, (c1 -c12 )alkyl which may be substituted one to six times by the halogen and/or by hydroxy, (c1 -c6 )-alkoxy, (c1 -c4 )alkylthio, (c1 -c6 )alkoxy-(c2 -c6 )alkoxy, halo(c1 -c2 )alkoxy, methoxy-ethoxyethoxy, (c1 -c4 )alkylamino, di(c1 -c4 )alkylamino, phenyl, oxiranyl, or phenoxy, (the latter optionally being substituted once or twice by halogen and/or (c1 -c4 )alkyl ; (c5 -c6 )cycloalkyl, halo(c5 -c6 )alkyl, (c3 -c6 )alkenyl, halo(c3 -c6 )alkenyl, (c5 -c6 )cycloalkyl, (c3 -c4 )alkinyl which may be substituted once or twice by (c1 -c6 )alkyl, phenyl, halogen and/or (c1 -c2 )alkoxy ; phenyl which may be substituted one to three times by (c1 -c4 )alkyl, (c1 -c4 )alkoxy, halogen, no2 and/or cf3 ; furfuryl, tetrahydrofurfuryl, or a cation equivalent of an organic or inorganic base ; r3 is (c1 -c6 )alkyl which may be substituted by (c1 -c4 )alkoxy, halogen or phenyl (optionally mono- to tri-substituted by (c1 -c4 )alkyl and/or halogen) ; (c3 -c6 )alkenyl, or phenyl (optionally substituted one to three times by (c1 -c4 )alkyl and/or halogen) ; r4 and r5 , which are identical or different, are hydrogen, (c1 -c4 )alkyl, hydroxy(c1 -c6 )alkyl, (c5 -c6 )cycloalkyl, or phenyl (optionally substituted one to three times by (c1 -c4 )alkyl, (c1 -c4 )alkoxy, halogen and/or cf3 ; with the proviso that r4 and r5 cannot both be phenyl ; or r4 and r5 together form a methylene chain with 2, 4 or 5 members in which one ch2 group may be replaced by oxygen, nh or n(ch3 ) ; r6 is h or ch3 , r7 is h, ch3 or c2 h5 , r8 is h, ch3 , c2 h5 or phenyl, r9 and r10 , which are identical or different, are (c1 -c4 )-alkoxy, (c1 -c4 )alkylthio, (c1 -c4 )alkylamino, or di(c1 -c4 )alkylamino, or together are a radical of the formula =n-r12 ; r11 is (c1 -c6 )alkyl, (c1 -c6 )haloalkyl, c3 -, c5 - or c6 -cycloakyl, (c3 -c6 )alkenyl, phenyl, (c1 -c4 )alkylphenyl, (c1 -c4 )alkoxyphenyl, halophenyl, trifluoromethylphenyl, nitrophenyl or a radical of the formula  see diagramm : ep0001804,p20,f1  and r12 is (c1 -c4 )alkyl or phenyl optionally substituted one to three times by halogen, cf3 , no2 and/or (c1 -c4 )alkyl. 
+</ABSTRACT>
+</TEXT>
+</DOC>

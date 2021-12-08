@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003972
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-7/18 H01B-7/20 H01B-7/29 H01B-7/17 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric cable or electric conductor with an envelope of silicon rubber.
+</TITLE>
+<APPLICANT>
+siemens ag de <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+fischer berndde<sep>knoch rolandde<sep>fischer, bernd<sep>knoch, roland<sep>fischer, berndfreytagweg 16d-8632 neustadtde<sep>knoch, rolanduntere weinbergstrasse 2d-8632 wildenheidde<sep>
+</INVENTOR>
+<ABSTRACT>
+in the case of an electrical cable or an electrical lead with an envelope (4, 7) (wire insulation, sleeve) of silicon rubber, a siliconised film is embedded in the envelope (4, 7) or is arranged on the inner side of the envelope.  the film (5) is formed into a tube with overlapping strip edges.  the film consists, for example, of a heat resistant polymer or elastomer, or of metal, and is bonded or welded to the envelope by means of the silicon coating (6).  an improvement in the physical characteristics of the envelope of silicon rubber is achieved by means of the siliconised film, for example improved strippability from a multi-wire lead, increased resistance to permeation by hot vapour and humidity, higher tensile strength, and flame resistance.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

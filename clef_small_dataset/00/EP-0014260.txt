@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014260
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07F-9/02 <main>C07F-9/52</main> C09K-15/12 C07F-9/52 C09K-15/00 C09K-15/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+prevention of solid-matter separations in mixtures containing methylphosphinous dichloride.
+</TITLE>
+<APPLICANT>
+hoechst ag de <sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+auer eberhard dr<sep>gehrmann klaus dr<sep>ohorodnik alexander dr<sep>schafer stefan<sep>auer, eberhard, dr.<sep>gehrmann, klaus, dr.<sep>ohorodnik, alexander, dr.<sep>schafer, stefan<sep>auer, eberhard, dr.franz-rüth-strasse 12d-5042 erftstadtde<sep>gehrmann, klaus, dr.geschwister-scholl-strasse 32d-5042 erftstadtde<sep>ohorodnik, alexander, dr.kastanienweg 24d-5042 erftstadtde<sep>schäfer, stefanwittelsbacher strasse 21d-5040 brühlde<sep>auer, eberhard, dr.<sep>gehrmann, klaus, dr. <sep>ohorodnik, alexander, dr.<sep>schafer, stefan  <sep>auer, eberhard, dr. franz-rüth-strasse 12d-5042 erftstadtde<sep>gehrmann, klaus, dr.geschwister-scholl-strasse 32d-5042 erftstadtde<sep>ohorodnik, alexander, dr.kastanienweg 24d-5042 erftstadtde<sep>schäfer, stefanwittelsbacher strasse 21d-5040 brühlde<sep>
+</INVENTOR>
+<ABSTRACT>
+In the method of preventing solids discharges in methyldichlorophosphane containing mixtures containing the mixture of phosphoric acid or a soluble compound containing at least one acid group from the material class of phosphoric acid, phosphonic acid, sulfonic acid, phosphonic acid, thiophosphoric acid or dithiophosphoric acid as a stabilizer.
+</ABSTRACT>
+</TEXT>
+</DOC>

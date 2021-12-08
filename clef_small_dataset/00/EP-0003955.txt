@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003955
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65G-53/04 B65G-53/40 B65G-53/42 B65G-53/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+air nozzle and pneumatic conveyor for particulate material.
+</TITLE>
+<APPLICANT>
+krupp polysius agde <sep>krupp polysius ag <sep>krupp polysius aggraf-galen-strasse 17d-59269 beckumde<sep>
+</APPLICANT>
+<INVENTOR>
+heinemann ottode<sep>heinemann, otto<sep>heinemann, ottogalileistrasse 8d-4722 ennigerlohde<sep>
+</INVENTOR>
+<ABSTRACT>
+an air nozzle and a pneumatic conveyor for particulate material provided with such an air nozzle.  the air nozzle contains a central, relatively large air-outlet zone (3), around which a plurality of smaller air-outlet zones (4) are arranged peripherally.  such a configuration of the air nozzle significantly reduces the power input of a pneumatic conveyor for particulate material equipped with such an air nozzle.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

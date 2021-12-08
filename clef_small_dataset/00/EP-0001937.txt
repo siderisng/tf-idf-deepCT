@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001937
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-29/32 C07C-31/00 B01J-31/02 B01J-23/74 C07C-45/49 B01J-31/00 B01J-31/20 C07C-29/00 C07C-67/00 C07C-31/08 C07B-61/00 <main>C07C-31/08</main> B01J-31/24 B01J-31/16 B01J-31/04 C07C-27/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the hydrocarbonylation of methanol to ethanol in the presence of an inert liquid.
+</TITLE>
+<APPLICANT>
+british petroleum cogb<sep>the british petroleum company limited<sep>the british petroleum company p.l.c.britannic house moor lanelondon ec2y 9bugb<sep>the british petroleum company p.l.c.<sep>
+</APPLICANT>
+<INVENTOR>
+gane brian richard<sep>stewart david gordon<sep>gane, brian richard<sep>stewart, david gordon<sep>gane, brian richardbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>stewart, david gordonbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>gane, brian richard<sep>stewart, david gordon<sep>gane, brian richardbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>stewart, david gordonbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>
+</INVENTOR>
+<ABSTRACT>
+ethanol is produced by reacting methanol with hydrogen  and carbon monoxide at elevated temperature and  pressure in the presence of a catalyst comprising cobalt, an  iodide or a bromide and a compound having the formula  x(a)(b)(c) in which formula x is nitrogen or phosphorus and  a, b and c are individually monovalent organic radicals, or x  is phosphorus and any two of a, b and c together form an  organic divalent cyclic ring system bonded to the x atom, or  x is nitrogen and all of a, b and c form an organic trivalent  cyclic ring system bonded to the x atom, and in the  additional presence of an added inert liquid which is  characterised as a compound capable of forming, under  normal conditions of temperature and pressure, a separate  phase in the presence of methanol containing up to 20% w/w  water, which compound contains in its structure bonds other  than carbon/carbon and carbon/hydrogen.  typical of the  inert liquids which may be employed are chlorobenzene,  decanoic acid, polydimethylsiloxane fluid and methyl phenyl  silicone fluid.  the addition of the inert liquid suppresses  side-reactions and thereby increases the total yield and  selectivity to ethanol.  
+</ABSTRACT>
+</TEXT>
+</DOC>

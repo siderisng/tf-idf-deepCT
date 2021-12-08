@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001338
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06K-19/04 G09B-3/08 G09B-3/00 G09B-3/02 <main>G09B-3/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for determining the result of answers to a set of related questions.
+</TITLE>
+<APPLICANT>
+nat res dev gb<sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation <sep>
+</APPLICANT>
+<INVENTOR>
+foundos stavros<sep>foundos, stavros<sep>foundos, stavros6, west hillwembley park middlesexgb<sep>foundos, stavros <sep>foundos, stavros6, west hillwembley park middlesexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for determining the result of answers to a set of  related questions each having at least two answers includes  the step of operating respective answer devices for all the  questions.  operation of the answer devices results in presentation  of answer symbols forming part of an array.  the array  can be an array of answer symbols in which all possible  combinations of answers to the set of questions are represented,  as in a complete decision table.  after operation of all  the answer devices, the presented answer symbols define not  more than one complete path through the array.  the path  corresponds to a unique combination of answers and leads  the operator to one reference out of a set of references carried  by a record member.  the invention also provides apparatus  for performing the method.  
+</ABSTRACT>
+</TEXT>
+</DOC>

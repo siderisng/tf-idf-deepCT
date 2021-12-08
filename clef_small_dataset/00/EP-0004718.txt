@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004718
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-11/10 G11B-20/18 H03M-13/00 H03M-13/15 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and apparatus for decoding shortened cyclic block codes.
+</TITLE>
+<APPLICANT>
+british broadcasting corpgb<sep>british broadcasting corporation<sep>british broadcasting corporationbroadcasting houselondon w1a 1aagb<sep>
+</APPLICANT>
+<INVENTOR>
+byford roger grahamus<sep>byford, roger graham<sep>byford, roger grahambox 612rd2 apollo, pennsylvania 15613us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of and apparatus for decoding a shortened  cyclic block code in which the received codeword is serially  shifted forwardly through a bidirectional syndrome register  with the generator word being so subtracted from the  register content as to effect division of the received codeword  leaving the remainder in the register, and, if the  remainder is larger than the maximum correctable error, the  register contents are so reverse shifted as to reverse the  division operation until the register contents are not larger  than the maximum correctable error, the register contents  then being combined with the received codeword to produce  a corrected word.  the codeword length does not have to be  artificially increased to that of the maximum length code,  and thus a reduction of the processing time can be obtained.  
+</ABSTRACT>
+</TEXT>
+</DOC>

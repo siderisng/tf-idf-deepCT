@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009783
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-27/08 B60L-15/00 H02M-1/08 H02M-7/505 H02P-13/16 H02M-7/527 <main>H02P-7/62</main> H02P-27/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a system for driving a motor by a pulse width modulation inverter.
+</TITLE>
+<APPLICANT>
+fujitsu fanuc ltd jp<sep>fujitsu fanuc limited<sep>fanuc ltd.3580, shibokusa aza-komanba, oshinomuraminamitsuru-gun, yamanashi 401-05jp<sep>fanuc ltd <sep>
+</APPLICANT>
+<INVENTOR>
+ishida hiroshi<sep>kawada shigeki<sep>ishida, hiroshi<sep>kawada, shigeki<sep>ishida, hiroshi2-2-73, matsubara-cho hamuramachinishitama-gun, tokyojp<sep>kawada, shigeki346-15, oaza shimodahino-shi, tokyojp<sep>ishida, hiroshi <sep>kawada, shigeki<sep>ishida, hiroshi2-2-73, matsubara-cho hamuramachinishitama-gun, tokyojp<sep>kawada, shigeki346-15, oaza shimodahino-shi, tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a system for driving an alternate current motor includ­ ing a pulse width modulation inverter having the two-range  driving characteristics, wherein the motor is driven by the  pulse width modulation output having a simulated sine wave  form (pwm (1), pwm (2)) at the speed lower than the base  speed of the motor and by the pulse width modulation out­ put having a rectangular wave form (pwm (3), pwm (4)) at  the speed higher than the base speed of the motor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009717
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-19/10 C23F-11/18 C23F-11/08 C01B-25/00 C01B-25/37 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of particulate zinc phosphate.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft 65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+achsel eberhard dr de<sep>maurer alexander drde<sep>schuetz joachim drde<sep>achsel, eberhard, dr.<sep>maurer, alexander, dr.<sep>schuetz, joachim, dr.<sep>achsel, eberhard, dr.zum gimbacher hof 15d-6233 kelkheim (taunus)de<sep>maurer, alexander, dr.am grünen weg 7d-5030 hürthde<sep>schütz, joachim, dr.kurhausstrasse 57ad-6238 hofheim am taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+finely divided neutral zinc phosphate which is usable as corrosion protection pigment can be prepared by reacting equivalent amounts of zinc oxide and phosphoric acid in the presence of a diluent with ultrasonication and then removing the zinc phosphate formed.  it is particularly advantageous to work up the reaction batch by spray drying. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur herstellung von feinverteiltem zinkphosphat gegenstand der vorliegenden anmeldung ist ein verfahren zur herstellung eines zinkphosphats mit einem hohen anteil an feinkorn, insbesondere eines neutralen zinkphosphats, das als korrosionsschutzmittel einsetzbar ist. üblicherweise geht man bei der darstellung eines metallsalzes von einem metallhydroxid oder metalloxid und der äquivalenten menge an säure aus. dabei kann man vorgelegte säure mit hydroxid bzw. oxid neutralisieren; man kann auch umgekehrt das hydroxid bzw. oxid vorlegen und unter zugabe von säure neutralisieren. ausgehend von handelsüblichen zinkoxid und der äquivalenten menge an phosphorsäure kann nach dieser methode neutrales zinkphosphat jedoch nicht direkt erhalten werden, da stets ein saures reaktionsgemisch anfällt. dies bedeutet, dass in dem reaktionsgemisch neben nicht-umgesetztem zinkoxid saure zinkphosphate vorliegen, weshalb der salzbildung eine reinigungsstufe nachgeschaltet werden muss. so wird beispielsweise in der britischen patentschrift 962 182 ein verfahren zur herstellung von neutralem zinkphosphat angegeben, bei dem 15 kige phosphorsäure mit einem 20 %igen zno-slurry versetzt und anschliessend filtriert wird. aus dem filtrat kristallisiert bei 80 0c das gewünschte zn3(po)2.'1 h20 aus, welches abgesaugt und mit wasser gewaschen werden muss. gemäss der britischen patentschrift 815 284 stellt man festes zinkphosphat her, indem man eine lösung aus zinkphosphat in verdünnter phosphorsäure in einem heissluftstrom sprühtrocknet. dieses verfahren bietet den vorteil, dass ein pulverförmiges, feinverteiltes produkt erhalten wird. dabei ist jedoch nachteilig, dass im anfallenden zinkphosphat noch freie säure enthalten ist. es bestand daher die aufgabe ein verfahren zur herstellung von zinkphosphat zu finden, bei dem direkt, d.h. ohne nachgeschaltete reinigungsstufen, ein säurefreies, feinverteiltes produkt anfällt. es wurde nun ein verfahren zur herstellung von feinverteil- tem, säurefreiem zinkphosphat, ausgehend von zinkoxid und phosphorsäure gefunden, das dadurch gekennzeichnet ist, dass man 1,5 bis 1,6 mol zinkoxid pro mol phosphorsäure in gegenwart eines verdünnungsmittels und unter einwirkung von ultraschall zusammenführt. bevorzugt ist ein molverhältnis zn0/113po4 von 1.5 bis 1.55. bei .einem unterschuss an zno fallen saure produkte an. als verdünnungsmittel sind wasserlösliche organische lösungsmittel geeignet, die gegenüber phosphorsäure beständig sind (z.b. methanol oder aceton). in diesem fall soll der wassergehalt in der reaktionsmischung mindestens so hoch sein, dass sich das neutrale zinkphosphat-tetrahydrat bilden kann. besonders gut eignet sich jedoch wasser. die reaktion zwischen zinkoxid und phosphorsäure verläuft beim erfindungsgemässen verfahren sehr rasch und quantitativ. dabei ist es unerheblich, ob man in einem reaktionsbehälter mit rührer oder mit umpump arbeitet;man muss lediglich dafür sorgen, dass sich suspendiertes zinkoxid (oder gebildetes zinkphosphat) nicht absetzt. die drehzahl des rührers ist nicht kritisch. bevorzugt sind drehzahlen unter 2000 upm, insbesondere unter 1000 upm. es ist ferner ohne einfluss, ob man eine suspension aus zinkoxid in wasser vorlegt und zu dieser phosphorsäure hinzufügt oder ob man phosphorsäure vorlegt und diese mit zinkoxidsuspension neutralisiert. das zubereiten einer zinkoxid-suspension ist nicht nötig. beispielsweise kann man zinkoxid direkt in verdünnte phosphorsäure eintragen um ein neutrales salz zu erhalten. es ist vorteilhaft nach beendeter zugabe der phosphorsäure unter einwirkung von ultraschall weiterreagieren zu lassen bis der ph-wert der suspension auf mindestens 6.0 angestiegen ist. anschliessend kann das zinkphosphat-pigment in bekannter weise abgetrennt und getrocknet werden. die spezifische
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche:   1. verfahren zur herstellung von feinverteiltem, neutralem zinkphosphat, ausgehend von zinkoxid und phosphorsäure, dadurch gekennzeichnet, dass 1.5 bis 1.6 mol zinkoxid pro mol phosphorsäure in gegenwart eines verdünnungsmittels und unter einwirkung von ultraschall vereinigt werden.    2. verfahren nach anspruch 1, dadurch gekennzeichnet,   da9    wasser als verdünnungsmittel eingesetzt wird.   3. verfahren nach anspruch 1, dadurch gekennzeichnet, da die frequenz des ultraschalls 10 bis 100 khz beträgt.   4. verfahren nach anspruch 1, dadurch gekennzeichnet, dass die zugeführte spezifische   schal leistung    1 kw/m3 bis 50 kw/m3 suspension beträgt.   5. verfahren nach anspruch 2, dadurch gekennzeichnet,   dass    die zur verdünnung eingesetzte wassermenge so bemessen wird, dass der feststoffgehalt des resultierenden   trl-    stallbreis 5 bis 80   gew.-p    beträgt.   6. verfahren nach anspruch 1, dadurch gekennzeichnet, dass nach beendeter reaktion der resultierende kristallbrei sprühgetrocknet wird.  
+</CLAIMS>
+</TEXT>
+</DOC>

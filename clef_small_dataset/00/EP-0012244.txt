@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012244
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/10 H01L-27/112 <main>H03K-19/02</main> H01L-21/82 H03K-19/177 H01L-27/02 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+programmable logic array.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+cross jon l<sep>machol guenther keith<sep>cross, jon l.<sep>machol, guenther keith<sep>cross, jon l.6630 mount holly drivesan jose, california 95120us<sep>machol, guenther keith13597 ronnie waysaratoga, california 95070us<sep>cross, jon l.  <sep>machol, guenther keith<sep>cross, jon l.6630 mount holly drivesan jose, california 95120us<sep>machol, guenther keith13597 ronnie waysaratoga, california 95070us<sep>
+</INVENTOR>
+<ABSTRACT>
+a programmable logic array (pla) comprising a search  array in which the logical and of one or more inputs (product  terms) is formed and coupled to a read array in which each  output is formed from a logical or of one or more of the in­ puts (58) from the search array.  the read array has a plurality  of output circuits (70, 71, 72) each including a plurality of  gates (one gate for each product term input), a load device  (84) and an output connection.  the positions of inputs (58) are selected so that a plural­ ty of inputs to output circuits (70,71,72) are juxtaposed and  connected to gates in a single column.  all gates are placed  in a minimum of two columns with loads (84) in an adjacent  column.  the two column layout allows the inputs to overlap.  in an alternative two column layout, used when an input  requires connection to a plurality of output circuits, one of  the columns is devoted to a column conductor interconnect­ ing gates.  outputs are taken from the side, top and bottom of the  array.  this layout minimizes the area of chip required for the  read array and produces improved performance.  
+</ABSTRACT>
+</TEXT>
+</DOC>

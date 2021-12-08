@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010960
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-37/04 B22F-3/14 B22F-1/00 H01F-1/00 C22C-1/04 H01F-1/055 H01L-37/00 H01F-1/01 G01K-7/36 H01F-1/032 <main>B22F-3/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for producing a temperature sensitive ferromagnetic element.
+</TITLE>
+<APPLICANT>
+fujitsu ltd jp <sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited <sep>
+</APPLICANT>
+<INVENTOR>
+sagawa masato<sep>yamagishi wataru<sep>sagawa, masato<sep>yamagishi, wataru<sep>sagawa, masato2469-4-414 nagatsuda-chomidori-ku yokohama-shi, kanagawa 227jp<sep>yamagishi, wataru13-13, edakita 2-chomemidori-ku yokohama-shi, kanagawa 227jp<sep>sagawa, masato<sep>yamagishi, wataru<sep>sagawa, masato2469-4-414 nagatsuda-chomidori-ku yokohama-shi, kanagawa 227jp<sep>yamagishi, wataru13-13, edakita 2-chomemidori-ku yokohama-shi, kanagawa 227jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a ferromagnetic body comprises fine grain powder  of a spin reorientation type ferromagnetic material having  a transition temperature range, below which transition  temperature range the easy direction of magnetisation  of the material is one direction and above which the easy  direction of magnetisation is in another direction perpen­ dicular to the one direction.  thus, as the body is sub­ jected to temperatures in its transition temperature range  its easy direction of magnetisation varies and the property  is used to provide an indication of its temperature.  the  ferromagnetic body is produced by compacting the fine  grain powder (54) at a temperature higher than the  transition temperature range.  the apparatus for making  the bodies includes compacting means (51, 52, 53) means  for exerting a magnetic field (57) and heating means (55).   it is possible to use a polycrystalline rare earth cobalt  alloy ferromagnetic material where low curie point ferrite  or where bimetallic strips have been used before in, for  example, thermostats.  
+</ABSTRACT>
+</TEXT>
+</DOC>

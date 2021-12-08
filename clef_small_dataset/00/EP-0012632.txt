@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012632
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03M-3/04 H03M-3/00 H04N-7/32 G06T-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compression and expansion (quantification) of digital differentially encoded television signals.
+</TITLE>
+<APPLICANT>
+boudeville jean louisfr<sep>kretz francisfr<sep>telediffusion fse fr<sep>boudeville, jean-louis  <sep>etablissement public de diffusion dit "telediffusion de france"<sep>kretz, francis<sep>boudeville, jean-louis6, rue de la cotinièref-35500 vitrefr<sep>etablissement public de diffusion dit "télédiffusion de france"21-27 rue barbèsf-92120 montrougefr<sep>kretz, francis5, rue de la croix-connuef-35510 cesson-sevignefr<sep>
+</APPLICANT>
+<INVENTOR>
+boudeville jean-louisfr<sep>kretz francisfr<sep>boudeville, jean-louis<sep>kretz, francis<sep>boudeville, jean-louis6, rue de la cotinièref-35500 vitrefr<sep>kretz, francis5, rue de la croix-connuef-35510 cresson-sevignefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The coding of the television or trans television signals put in digital form is performed using the MO Differential coded pulses (MICD). A quantization feature that allows to reduce the digital flow to be transmitted or process. The characteristic is, at least partially, non-symmetrical with respect to zero, with regard to the number and goes their thresholds and levels of reconstruction of the differences. Digital examples are given. In a variant, the quantization characteristic varies according to the PN prediction value. The variation range of PN prediction is cut into zi pre-diction zones. At each prediction zone is associated with a characteristic AC quantization. Prediction areas are not symmetrical compared to the mid-dynamics of PN prediction. The quantization characteristics may or may not be segments of an extended characteristic, which is preferably not symmetrical.
+</ABSTRACT>
+</TEXT>
+</DOC>

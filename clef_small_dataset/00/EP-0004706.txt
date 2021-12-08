@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004706
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-19/00 G05D-1/03 B62D-1/00 G08G-1/00 B62D-1/28 <main>G06F-15/50</main> G05D-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+wire-guidance system.
+</TITLE>
+<APPLICANT>
+raymond corpus<sep>the raymond corporation<sep>the raymond corporationsouth canal streetgreene new york 13778us<sep>the raymond corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+paul ralph eugene<sep>sherman leigh erwin<sep>paul, ralph eugene<sep>sherman, leigh erwin<sep>paul, ralph eugener.d. no. 2 box 3mcdonough new york 13801us<sep>sherman, leigh erwin33 norman roadbinghamton new york 13901us<sep>paul, ralph eugene<sep>sherman, leigh erwin<sep>paul, ralph eugener.d. no. 2 box 3mcdonough new york 13801us<sep>sherman, leigh erwin33 norman roadbinghamton new york 13901us<sep>
+</INVENTOR>
+<ABSTRACT>
+routing decisions for vehicles following current-carrying  guidewires and carrying destination addresses are made at  intersections of a guidewire system without the need for  storing large amounts of data at the intersections by making  inequality and equality comparisons of destination addresses  with one or a few numbers stored at each intersection  and basing routing on the results of one or a combination of  two such comparisons.  
+</ABSTRACT>
+</TEXT>
+</DOC>

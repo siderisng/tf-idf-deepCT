@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>
+EP-0006613
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-231/02 C07C-231/00 <main>C07C-233/05</main> C07C-233/36 C07C-103/44 C07C-233/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing n,n'-diacetylethylene diamine.
+</TITLE>
+<APPLICANT>
+hoechst ag de <sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+pressler wilfried dr<sep>roscher gunter dr<sep>pressler, wilfried, dr.<sep>roscher, gunter, dr.<sep>pressler, wilfried, dr.am flachsland 15d-6233 kelkheim (taunus)de<sep>roscher, günter, dr.altkönigstrasse 7d-6233 kelkheim (taunus)de<sep>pressler, wilfried, dr.<sep>roscher, gunter, dr.<sep>pressler, wilfried, dr.<sep>roscher, gunter, dr.<sep>pressler, wilfried, dr.am flachsland 15d-6233 kelkheim (taunus)de<sep>roscher, günter, dr.altkönigstrasse 7d-6233 kelkheim (taunus)de<sep>
+</INVENTOR>
+<ABSTRACT>
+N, N'-diacetylethylenediamine (Daed) is prepared by first treating ethylenediamine with the stoichiometric amount of acetic acid (2 moles per mole of ethylenediamine) added, which is at least partially added in the form of aqueous acetic acid.In the second step, the water contained in the reactive mixture is distilled off.Then the residual product is treated with excess vinegar acid.Then heated and the acetic acid formed thereby distilled off and returns to the first stage.The daed to be removed when distilling off the acetic acid in the marsh is withdrawn.
+</ABSTRACT>
+<CLAIMS>
+a process for the preparation of n,n′-diacetylethylenediamine  from ethylenediamine and acetic acid, which  comprises  a) adding the stoichiometrically required amount of  acetic acid at least partially in the form of  aqueous acetic acid to ethylenediamine; b) distilling off, at 60-140°c, at least partially the  water contained in this neutralization mixture; c) adding excess acetic acid to the remaining neutralization  mixture; d) heating the mixture to 140-110°c and distilling off  the water formed in the reaction, with any water not  distilled off in process step b) and possibly also  with a small quantity of water which the acetic acid  added in process step c) may have contained, in the  form of an aqueous solution of acetic acid, and  withdrawing the n,n′-diacetylethylenediamine  obtained as a bottom product; e) recycling the aqueous acetic acid distilled off into  step a). 
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004491
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+B25C-1/00 <main>B25C-1/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+safety device for fastener driving tools.
+</TITLE>
+<APPLICANT>
+renaultfr<sep>regie nationale des usines renault<sep>regie nationale des usines renaultboíte postale 103 8-10 avenue emile zolaf-92109 boulogne-billancourtfr<sep>regie nationale des usines renault <sep>
+</APPLICANT>
+<INVENTOR>
+aunis jean-marie<sep>aunis, jean-marie<sep>aunis, jean-mariegrande ruef-27310 bourg. achardfr<sep>aunis, jean-marie <sep>aunis, jean-marie grande rue f-27310 bourg. achardfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Safety device for fixtures of fixings consisting of a palpage means circumscribe substantially the ejection passage of said fasteners and connected to the control member of said apparatus in order to allow the triggering of the latter only whenPalpage means is pressing pressure on a surface to be assembled.The palpage means consists of a set of independent key tips (10, 11a, 11b), only on simultaneous depression allows the triggering of the device.Only one of the key tips (10) is connected to the control member of the apparatus and its depression is normally prohibited by a blocking means (12a, 12b) whose erasure is linked to the simultaneous depression of the others.Touch tips (11a, 11b) recalled at rest in extreme erection position by elastic means.Application including hammers and pistols-pneumatic staplers.
+</ABSTRACT>
+</TEXT>
+</DOC>

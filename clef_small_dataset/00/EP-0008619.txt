@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008619
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 C09K-17/32 B01D-53/047 B01D-53/04 C09K-17/14 C09K-101/00 <main>B01D-53/04</main> C01B-3/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rapid adiabatic pressure swing adsorption process.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation<sep>
+</APPLICANT>
+<INVENTOR>
+jones russel lawrence<sep>keller ii george ernest<sep>wells rex cole<sep>jones, russel lawrence<sep>keller ii, george ernest<sep>wells, rex cole<sep>jones, russel lawrence5245 beachrest drivecharleston, west virginiaus<sep>keller ii, george ernest1207 ellen drivesouth charleston, west virginiaus<sep>wells, rex cole109 park avenuecharleston, west virginiaus<sep>jones, russel lawrence<sep>keller ii, george ernest <sep>wells, rex cole  <sep>jones, russel lawrence5245 beachrest drivecharleston, west virginiaus<sep>keller ii, george ernest1207 ellen drivesouth charleston, west virginiaus<sep>wells, rex cole109 park avenuecharleston, west virginiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a rapid adiabatic pressure swing process with a total  cycle time of less than 30 seconds, at least 150 kpa feed gas is  introduced to a single adsorbent bed of 20-120 mesh particles  and bed length (in cm) not exceeding 1. 1 times the feed-­ reverse flow pressure difference (in kpa) and less than 2. 4m.  a  reverse flow period at least twice the feed gas period, and a  one component enrichment factor of at least 4.  
+</ABSTRACT>
+</TEXT>
+</DOC>

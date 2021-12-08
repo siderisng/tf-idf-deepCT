@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001614
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09B-62/517 C09B-62/002 C09B-62/44 C09B-62/006 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+water-soluble, fibre-reactive, green azo-phthalocyanine dyestuffs, their preparation and their application, as well as the phthalocyanine pyrazolone intermediates and their preparation.
+</TITLE>
+<APPLICANT>
+cassella farbwerke mainkur agde<sep>cassella aktiengesellschaft<sep>cassella aktiengesellschafthanauer landstrasse 526d-60386 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+mueller rolf drde <sep>ribka joachim dr de<sep>mueller, rolf, dr.<sep>ribka, joachim, dr.<sep>müller, rolf, dr.dornbachweg 3d-6367 karben - 4de<sep>ribka, joachim, dr.rügener strasse 4d-6050 offenbach-bürgelde<sep>
+</INVENTOR>
+<ABSTRACT>
+water-soluble fibre-reactive green phthalocyanineazo dyestuffs of the formula i <image>  where    pc is the radical of a phthalocyanine,    b is a divalent aliphatic or aromatic radical,    d and d' are each divalent aromatic radicals,    a and y are each are each fibre-reactive radicals,    het and x are each divalent bridge members,   r1 and r1' are each hydrogen or monovalent aliphatic or aromatic radicals,    r2 and r3 are each hydrogen or monohydric aliphatic radicals,    k is 1, 2 or 3; g is 0 or 1; m is 1, 2 or 3;    n is 0 or 1 and p is 0 or 1,  with k + g + m being 3 or 4 and n + p being 1,  and their alkali metal, ammonium or alkaline earth metal salts,  their preparation by coupling a diazotised amine of the formula ii <image> a pyrazolone of the general formula iii <image> where in each case the variable radicals and indices are as defined above or, if p is 0, by acylation of a dye of the formula i a   <image> wherein the variable radicals and indices are each as defined above, with a chloride of the formula iv  c1-a (iv) where a is as defined above, their use for dyeing and printing textiles consisting of or containing fibres of wool, polyamide or cellulose, and also pyrazolones of the formula iii and their preparation by coupling a diazotised amine of the formula v b <image> where the variable radicals and indices are each as defined above and m is het r1' or c1, with a succinic acid derivative of the formula vi <image> where r3' and r3'' each have the meanings mentioned above for r3 other than hydrogen and z is hydrogen, alkyl, phenyl or alkoxycarbonyl, alkaline cyclisation of the resulting hydrazone to give a pyrazolone, optional hydrolysis of the ester group -coor3' and, if m is c1, reaction of the pyrazolone with a compound of the formula h-het-r1'. r
+</ABSTRACT>
+</TEXT>
+</DOC>

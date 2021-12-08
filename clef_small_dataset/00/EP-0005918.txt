@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005918
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-3/786 F41G-7/34 G06F-17/15 G06F-15/31 G06T-7/20 G01C-21/00 F41G-7/00 H04N-7/00 G01S-7/04 G01S-3/78 <main>G01S-3/78</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+scene tracker system.
+</TITLE>
+<APPLICANT>
+hughes aircraft co<sep>hughes aircraft company<sep>hughes aircraft company7200 hughes terrace, p.o. box 80028los angeles, california 90080-0028us<sep>hughes aircraft company <sep>
+</APPLICANT>
+<INVENTOR>
+ichida leroy f<sep>sacks jacob m<sep>sturla robert a<sep>ichida, leroy f.<sep>sacks, jacob m.<sep>sturla, robert a.<sep>ichida, leroy f.20748 malden streetcanoga park, californiaus<sep>sacks, jacob m.815 tamleithousand oaks, californiaus<sep>sturla, robert a.18956 kinbracenorthridge, californiaus<sep>ichida, leroy f.<sep>sacks, jacob m.  <sep>sturla, robert a.<sep>ichida, leroy f.20748 malden streetcanoga park, californiaus<sep>sacks, jacob m.815 tamleithousand oaks, californiaus<sep>sturla, robert a.18956 kinbracenorthridge, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+scene tracker, for use with imaging or quasi-imaging  sensors such as tv cameras, flirs, millimeter-wave scanners,  or the like, which is concerned with a form of  correlation tracking.  at the start of a track mode, part or parts  of a scene are stored in a memory (40).  every subsequent  video scan (via 10,20,14) is then compared (50) with the  scene or parts of the scene stored in memory (40) to find the  "best match" between live data and stored data.  this  process generates (90) signal output (46) proportional to  horizontal and/or vertical translations of the scene.  besides  pure translation, the scene tracker is capable of tracking and  original aim point in the presence of scene rotation, scene  growth (zooming), scene reduction (dezooming), distortion,  and/or partial scene obscuration.  features of the tracker  include a multi-cell correlation principle; a method of  computing and storing correlation functions for each cell; a  method to derive weighted average displacements for the  entities of all cell correlations; and video signal processing  technique.  
+</ABSTRACT>
+</TEXT>
+</DOC>

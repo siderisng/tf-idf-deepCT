@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017281
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-61/073 <main>H01J-61/073</main> H01J-61/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+high-pressure discharge lamp.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+glenny alfred edmund trevor<sep>van vliet johannes adrianus jo<sep>weerdesteijn petrus antonius m<sep>glenny, alfred edmund trevor<sep>van vliet, johannes adrianus josephus maria<sep>weerdesteijn, petrus antonius maria<sep>glenny, alfred edmund trevorc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van vliet, johannes adrianus josephus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>weerdesteijn, petrus antonius mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>glenny, alfred edmund trevor<sep>van vliet, johannes adrianus josephus maria<sep>weerdesteijn, petrus antonius maria<sep>glenny, alfred edmund trevorc/o int. octrooibureau b.v. prof. holstlaan 6 nl-5656 aa eindhoven nl  <sep>van vliet, johannes adrianus josephus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>weerdesteijn, petrus antonius mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a high pressure discharge lamp comprising a discharge  vessel (3) in which an electrode comprising a resistive  element (4) is present, said resistive element consisting of  two parallel arranged branches having substantially the  same electrical resistance.  with such an electrode construction it is achieved that  the starting point of the discharge on the electrode is  stabilized.  
+</ABSTRACT>
+</TEXT>
+</DOC>

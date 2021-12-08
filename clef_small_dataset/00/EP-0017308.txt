@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017308
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01F-3/36 G01F-13/00 G05D-11/00 G01F-3/00 <main>G05D-7/06</main> G05D-11/13 G01F-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for metering, controlling and blending liquid flows.
+</TITLE>
+<APPLICANT>
+ass octelgb<sep>octel sagb<sep>octel s.a.<sep>the associated octel company limited<sep>octel s.a.8 rue bellinif-75016 parisfr<sep>the associated octel company limited20 berkeley squarelondon w1x 6dtgb<sep>octel s.a.<sep>the associated octel company limited<sep>
+</APPLICANT>
+<INVENTOR>
+peres robert louis<sep>stirling william<sep>peres, robert louis<sep>stirling, william<sep>peres, robert louis45 boulevard koenigneuilly 92200fr<sep>stirling, williamglenmoriston cottage eastham rake eastham wirralmerseyside l 629 algb<sep>peres, robert louis<sep>stirling, william <sep>peres, robert louis 45 boulevard koenig neuilly 92200fr<sep>stirling, williamglenmoriston cottage eastham rake eastham wirralmerseyside l 629 algb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process and apparatus are disclosed for the accurate  measurement and control of liquid flow at low flow rates.   the invention is particularly applicable to the measurement  and control of continuous liquid blending operations, e. g.   gasoline blending, in which a liquid additive, e. g.  tetraethyl  lead, is fed into a continuously flowing liquid stream, the  additive being added in precisely controlled amounts requir­ ing precise control of liquid flow at very low flow rates.   according to the invention the additive is fed from a stock  tank 1 alternately into one or other of two reservoirs 6, 7  connected in parallel between the inlet line 3 from the stock  tank and an outlet line 20.  as the one reservoir is being  charged, the other is being discharged through the four-way  valve 5 to the outlet.  flow through the outlet line 20 is  controlled by a valve 22.  in accordance with the invention,  the mass of liquid is continuously monitored and by means  in each reservoir sensitive to the weight of liquid in the  reservoir and which emits a signal proportional to the mass  of liquid in the reservoir.  this signal is passed to a  differentiator for conversion into a flow signal proportional  to the mass flow rate.  the flow rate signal is fed to a ratio  controller 36 for comparison with a demand signal fed via  line 39 representing the desired flow rate.  depending on the  difference, if any, between the flow signal and the demand  signal, a control signal is sent via line 35 to automatically  adjust the setting of the valve 22 and bring the flow rate to  the desired value.  the control unit 33 also monitors the  analogue signals via lines 30 and 31 to initiate the change  over from one reservoir to the other at the end of each filling  and discharge phase of the operating cycle.  in the preferred  arrangement the rate of mass discharge of liquid from each  reservoir is sensed by detecting the change in apparent  weight of an elongated solid element suspended in each  reservoir and extending into the liquid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

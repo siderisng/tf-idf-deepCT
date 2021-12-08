@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000826
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-313/00 C07C-311/15 A61K-31/18 C07C-323/49 A61P-7/00 C07D-209/48 C07C-323/67 C07C-311/00 A61P-7/02 C07C-319/14 C07D-209/00 C07C-323/00 C07C-319/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diorthosubstituted benzene derivatives, especially for use in a method of therapy, processes for their preparation, and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+kabi abse<sep>a.b. kabi<sep>kabi ablindhagensgatan 133s-112 87 stockholmse<sep>
+</APPLICANT>
+<INVENTOR>
+hanshoff gunnarse <sep>joensson aake nilsse   <sep>karlsson lennart olofse<sep>merenyi ferencse<sep>moses pinchasse<sep>hanshoff, gunnar<sep>joensson, aake nils<sep>karlsson, lennart olof<sep>merenyi, ferenc<sep>moses, pinchas<sep>hanshoff, gunnartygelvaegen 1s-17538 jaerfaellase<sep>joensson, aake nilsjungfrudansen 15s-17156 solnase<sep>karlsson, lennart olofbasgraend 33s-16246 vaellingbyse<sep>merenyi, ferencgrindtorpsvaegen 7s-18332 taebyse<sep>moses, pinchasdalvaegen 6s-13200 saltsjoe-boose<sep>
+</INVENTOR>
+<ABSTRACT>
+new compounds of the general formula i    wherein r¹ and r² each independently represent an alkyl  group containing 1 to 4 carbon atoms, or an alkoxy group  containing 1 to 3 carbon atoms, or halogen, r³ represents  hydrogen, halogen, an alkyl group containing 1 to 4 carbon  atoms, an alkoxy group containing 1 to 3 carbon atoms, an  amino group or a nitro group, a represents    which is bonded to the benzene ring by its sulphur or nitrogen  atom and in which r⁴ is hydrogen or an alkyl group containing  1 to 4 carbon atoms together with salts thereof with  physiologically acceptable acids and, when r⁴ is hydrogen,  with physiologically acceptable bases are described.  the  compounds are of use in inhibiting thrombosis formation, in  treating thrombosis and in fibronolytic therapy.  various  methods of producing the new compound are described  involving the building up of the -a-ch₂-ch₂-s-ch₂ch₂-nh₂  side chain from aromatic precursors having an imcomplete  side chain or by introducing at least one of r¹, r² or r³ substituents  into a precursor lacking that substituent or from an  amino-protected precursor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

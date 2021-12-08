@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002115
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+E03D-5/016 <main>C02F-9/00</main> C02F-3/12 C02F-3/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+closed loop waste treatment and water recycling toilet system and method of operation.
+</TITLE>
+<APPLICANT>
+thetford corpus <sep>thetford corporation <sep>thetford corporation 7101 jackson roadann arbor michigan 48103us<sep>thetford corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bernardin frederick eugene<sep>coviello allan james<sep>kalb kathryn reynolds<sep>bernardin, frederick eugene<sep>coviello, allan james<sep>kalb, kathryn reynolds<sep>bernardin, frederick eugene2314 w. 17th streetwilmington delaware 19806us<sep>coviello, allan james645 hidden valley dr.102 ann arbor michigan 48104us<sep>kalb, kathryn reynolds9760 baudebrighton michigan 48116us<sep>bernardin, frederick eugene <sep>coviello, allan james<sep>kalb, kathryn reynolds  <sep>bernardin, frederick eugene2314 w. 17th streetwilmington delaware 19806us<sep>coviello, allan james645 hidden valley dr.102 ann arbor michigan 48104us<sep>kalb, kathryn reynolds9760 baudebrighton michigan 48116us<sep>
+</INVENTOR>
+<ABSTRACT>
+a closed loop waste treatment and water recycling  toilet system and method of operation in which waste is  flushed from a toilet stage (21) into a treatment zone in  which organic materials are removed biologically with purified  water therefrom being recycled as flush liquid in the  toilet stage (21).  in order to provide effective management  of nitrogen and to slow build-up of solids in the system the  flushed waste liquid is passed to an anoxic station (14)  where oxidised nitrogen compounds are broken down to  produce nitrogen gas and bicarbonates, the liquid passes  from the second stage to a third aerobic stage (16) containing  biological active solids in which ammonium compounds  are nitrified to oxidised nitrogen compounds at  the same time as organic materials are removed by bacteria.   the mixed liquid containing nitrates is transferred from the  third stage (16) to a fourth stage (17) in which the liquid  is filtered to provide liquid containing oxidise nitrogen  compounds and free of bacterial sludge which is returned  via a disinfection stage as flushing liquid to the toilet stage  (21).  
+</ABSTRACT>
+</TEXT>
+</DOC>

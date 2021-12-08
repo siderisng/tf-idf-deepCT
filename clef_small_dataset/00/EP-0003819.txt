@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003819
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21G-1/10 H05H-6/00 C25D-3/54 G21K-5/08 <main>C25D-3/54</main> C25D-3/02 G21K-5/00 H05H-5/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for production of a thallium-carrying target material.
+</TITLE>
+<APPLICANT>
+nihon mediphysics co ltdjp<sep>nihon medi-physics co., ltd.  <sep>nihon medi-physics co., ltd.no 4-2-1, takatsukasa takarazuka-shihyogo-kenjp<sep>nihon medi-physics co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+kato makoto<sep>matsushima hiroaki<sep>ueda nobuo<sep>kato, makoto<sep>matsushima, hiroaki<sep>ueda, nobuo<sep>kato, makoto1-4, warizukadouri fukiai-kukobe hyogojp<sep>matsushima, hiroaki3-12-13, nikawa-cho nishinomiyahyogojp<sep>ueda, nobuo10-11, komyo-cho takarazukahyogojp<sep>kato, makoto<sep>matsushima, hiroaki <sep>ueda, nobuo  <sep>kato, makoto1-4, warizukadouri fukiai-kukobe hyogojp<sep>matsushima, hiroaki3-12-13, nikawa-cho nishinomiyahyogojp<sep>ueda, nobuo10-11, komyo-cho takarazukahyogojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for production of a thallium-carrying target  material comprising a thermo-conductive support and  metallic thallium electro-plated thereon, which comprises  applying a dc-ac overlapped electric current between an  anode made of a metal or its alloy having lower ionization  tendency than hydrogen and the electro-conductive support  as a cathod, both electrodes being immersed in a bath of an  electro-plating solution comprising monovalent thallium  ions in the presence of at least one of aromatic amines and  phenols, so as to deposit the thallium metal on the surface of  the thermo-conductive support.  
+</ABSTRACT>
+</TEXT>
+</DOC>

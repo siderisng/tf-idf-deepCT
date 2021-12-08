@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003923
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C12N-11/06</main> C12N-9/00 C12N-11/00 C12N-11/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+support-enzyme complexes and method for preparing them.
+</TITLE>
+<APPLICANT>
+rhone poulenc rechfr<sep>rhone-poulenc recherches<sep>rhone-poulenc specialites chimiques"les miroirs" 18, avenue d'alsace92400 courbevoiefr<sep>rhone-poulenc specialites chimiques <sep>
+</APPLICANT>
+<INVENTOR>
+meiller francois<sep>mirabel bernard<sep>meiller, francois<sep>mirabel, bernard<sep>meiller, françois2, rue jeanne d'arcf-91120 palaiseaufr<sep>mirabel, bernard4, rue louis boninf-94310 orlyfr<sep>meiller, francois<sep>mirabel, bernard  <sep>meiller, françois2, rue jeanne d'arcf-91120 palaiseaufr<sep>mirabel, bernard4, rue louis boninf-94310 orlyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Support-enzyme complexes in which the enzymes are bonded by covalent bond to at least one reactive function of organic groups grafted to mineral supports by at least one ester bond.These complexes are obtained by reacting an insoluble mineral support having hydroxyl groups with a compound formed of an organic group having at least one alcohol or phenol function and at least one reactive function to which the enzyme is then linked.
+</ABSTRACT>
+</TEXT>
+</DOC>

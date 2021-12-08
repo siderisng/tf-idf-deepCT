@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013079
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-311/21 A61P-37/00 A61P-37/06 A61K-31/18 C07C-311/15 C07C-303/00 B29C-45/77 C07C-311/00 A61K-6/00 C07C-67/00 C07C-301/00 C07C-303/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+symm. phenyltris(sulfonylimino)tri-benzene sulfonic  acids and salts, a method of inhibiting the complement system in a body fluid with such a compound, a method for the preparation of such compounds and a pharmaceutical composition comprising such a compound.
+</TITLE>
+<APPLICANT>
+american cyanamid co us<sep>american cyanamid company  <sep>american cyanamid companyberdan avenuewayne new jersey 06904us<sep>
+</APPLICANT>
+<INVENTOR>
+bernstein seymourus<sep>conrow ransom bus<sep>bernstein, seymour<sep>conrow, ransom b.<sep>bernstein, seymour26 scott drivenew city, new yorkus<sep>conrow, ransom b.50 lt. cox drivepearl river, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+there are provided s-phenyltris (sulfonylimino) tri- ben­ zene mono- and di-sulfonic acids and their salts which are  useful as complement inhibitors.  the novel compounds have  the general formula:    wherein each r is selected from the group consisting of hyd­ rogen and alkali metal; each r₁, r₂ and r₃ is selected from the  group consisting of hydrogen and so₃a, wherein a is selected  from the group consisting of hydrogen and a pharmaceuti­ cally acceptable salt cation; provided that at least one of the  r₁, r₂ and r₃ groups on each phenyl is so₃a; and further  provided that when r₂ is so₃a, r₁ and r₃ may not be so₃a.   e. g. , these compounds may be prepared according to the  following flowchart:    wherein r′ stands for (ch₃)₃c    o-so₂-.   these compounds find utility as complement inhibitors in  body fluids and as such may be used to ameliorate or prevent  those pathological reactions requiring the function of com­ plement and in the therapeutic treatment of warm-blooded  animals having immunologic diseases.  
+</ABSTRACT>
+</TEXT>
+</DOC>

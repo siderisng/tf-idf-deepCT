@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016311
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-6/00 <main>F16F-1/02</main> F16F-1/02 H01F-7/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spring member.
+</TITLE>
+<APPLICANT>
+kernforschungsz karlsruhede<sep>kernforschungszentrum karlsruhe gmbh<sep>kernforschungszentrum karlsruhe gmbhpostfach 36 40d-76050 karlsruhede<sep>kernforschungszentrum karlsruhe gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+forster siegfried<sep>friesinger gunter<sep>forster, siegfried<sep>friesinger, gunter<sep>förster, siegfriedkolbergerstrasse 28 ed-7500 karlsruhede<sep>friesinger, güntermannheimer strasse 12d-7514 eggenstein-leopoldshafende<sep>forster, siegfried  <sep>friesinger, gunter<sep>förster, siegfriedkolbergerstrasse 28 ed-7500 karlsruhede<sep>friesinger, güntermannheimer strasse 12d-7514 eggenstein-leopoldshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+When joining components of different diletation, change changes occur at temperature changes, so that it can come in a structure for the loss of preload or the game.The spring element now serves to act on such components, such as housing (3) for superconducting coils (4) form and non-positive, even if there are high temperature fluctuations.For this purpose, the spring element consists of two pieces (1 and 2) flat material of a material lower and a material relatively high diletation, which are welded on each other.
+</ABSTRACT>
+</TEXT>
+</DOC>

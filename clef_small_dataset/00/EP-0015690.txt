@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015690
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07F-9/65 C07F-9/6561 C07D-499/00 C07F-9/6524 A61K-31/43 <main>C07D-499/46</main> C07D-499/21 C07F-9/6541 C07D-499/56 C07D-499/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+penicillin derivatives, process for their preparation and pharmaceutical composition comprising them.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+bentley peter hubert<sep>bentley, peter hubert<sep>bentley, peter hubertinishbeg park streetslinfold horsham, sussexgb<sep>bentley, peter hubert<sep>bentley, peter hubertinishbeg park streetslinfold horsham, sussexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a penicillin of formula (i) or a pharmaceutically acceptable  salt or in vivo hydrolysable ester thereof:    wherein r is c₁₋₆ alkyl; an optionally substituted 5-membered  heterocyclic ring containing one or two heteroatoms selected  from oxygen, sulphur and nitrogen; phenyl; mono-substituted  phenyl where the substituent is halogen, hydroxy c₁₋₆ alkoxy  nitro amino, c₁₋₆ alkyl, or c₁₋₆ haloalkyl, c₁₋₆ alkylcarbonyloxy,  or c₁₋₆ alkyl sulphonylamino; or di-substituted phenyl where  the substituents are selected from hydroxy, halogen, methoxy,  acetoxy and amino; and x represents a group of formula:    wherein r¹ represents c₁ to c₆ alkyl, or c₁ to c₆ alkoxy.  their preparation and use is described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007488
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B26F-1/28</main> B26F-1/00 B26F-1/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for finely perforating film-like webs of material by high tension pulses.
+</TITLE>
+<APPLICANT>
+feld gerhard de<sep>schmidt kufeke k p de  <sep>feld, gerhard, dr.-ing.<sep>schmidt-kufeke, klaus-peter, dipl.-phys.<sep>feld, gerhard, dr.-ing.am erl-anger 3d-8501 eckenthalde<sep>schmidt-kufeke, klaus-peter, dipl.-phys.bernhardstrasse 5d-7500 karlsruhe 1de<sep>feld, gerhard, dr.-ing.<sep>schmidt-kufeke, klaus-peter, dipl.-phys.<sep>
+</APPLICANT>
+<INVENTOR>
+schmidt-kufeke klaus-peter dip<sep>schmidt-kufeke, klaus-peter, dipl.-phys.<sep>feld, gerhard, dr.-ing.am erl-anger 3d-8501 eckenthalde<sep>schmidt-kufeke, klaus-peter, dipl.-phys.bernhardstrasse 5d-7500 karlsruhe 1de<sep>schmidt-kufeke, klaus-peter, dipl.-phys. <sep>feld, gerhard, dr.-ing.am erl-anger 3d-8501 eckenthalde   <sep>schmidt-kufeke, klaus-peter, dipl.-phys.bernhardstrasse 5d-7500 karlsruhe 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The material web (1) to perforated runs contact freely between two surface-formed electrode fields (3.4).The electrode fields (3,4) consist of a plurality of mirror-forming and arranged needles (9) arranged and arranged on each other, which form pair of sparks.The needles (9) of the first electrode field (3,4) are in the immediate conductive connection with a high-impedance resistor (14).Each needle pair is in the secondary circle of a ignition transformer (TR).These have a high gear ratio.The transformer switch (T) is connected to a low voltage DC power source primarily on the transistor switch (T).The transiSi Storver switch is controlled in groups via a distributor controlled by a clock generator.
+</ABSTRACT>
+</TEXT>
+</DOC>

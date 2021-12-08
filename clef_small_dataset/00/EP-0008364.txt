@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008364
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B25B-29/00 B23P-19/06 B25B-29/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for tensioning a series of screw bolts arranged in a circle, serving to lock pressure vessels, especially autoclaves.
+</TITLE>
+<APPLICANT>
+kraftwerk union agde<sep>kraftwerk union aktiengesellschaft<sep>kraftwerk union aktiengesellschaft c/o siemens ag postfach 261d-8000 münchen 22de <sep>
+</APPLICANT>
+<INVENTOR>
+exner gerhardde<sep>festinori volfangode<sep>exner, gerhard<sep>festinori, volfango<sep>exner, gerhardwaltersdorfer chaussee 41ad-1000 berlin 47de<sep>festinori, volfangohasenheide 58d-1000 berlin 61de<sep>
+</INVENTOR>
+<ABSTRACT>
+the device contains a supporting frame with slots for receiving screw bolts (2), nuts (6) and, if required tie bolts (8), separate turning units (5, 7) for the nuts (6) or tie bolts (8) and hydraulically actuable tensioning means (10) for stretching the screw bolts (2).  to achieve a saving in weight, apparatus elements (3), each used for one screw bolt (2), with the necessary turning units (5, 7) and hydraulic tensioning means (10, 11) are accommodated in a separate supporting body (4) surrounding the screw bolt (2) and having the necessary slots.  these supporting bodies (4) are provided with lateral suspension devices (20, 21) (extending in the radial direction), via which they are suspended in a supporting magazine (14) which consists of at least two profiles situated at a distance from one another, which form a toroid (15, 16) and permit exact alignment of the apparatus elements (3) suspended between them in accordance with the position of the screw bolts (2) on the hole circle.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

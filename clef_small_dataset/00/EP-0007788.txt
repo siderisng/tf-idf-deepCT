@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007788
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+B62D-1/26 B66F-9/06 B62D-1/00 B65G-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a warehousing system with an interrupted vehicle guidance track
+</TITLE>
+<APPLICANT>
+lansing bagnall ltdgb <sep>lansing bagnall limited<sep>lansing bagnall limited kingsclere road basingstoke hampshire rg21 2xj gb<sep>
+</APPLICANT>
+<INVENTOR>
+wuethrich fredch<sep>wuthrich, fred<sep>wüthrich, fredkeppelenring 40dch-3032 hinter-kappelench<sep>
+</INVENTOR>
+<ABSTRACT>
+a warehousing system including storage racks with an interrupted vehicle guidance track which provides the facility of pallet truck access beneath pallets stacked at the base of the racks.  heretofore raised guidance tracks at ground level have prevented the use of pallet trucks because the truck could not be wheeled over the track.  this problem is overcome by a warehousing system the guidance tracks (3) of which have spaces (4) in the positions necessary for the insertion of the pallet truck forks, a stacking vehicle (2) which is guided by the tracks (3) is provided with wheels (5) so arranged that at any time at least two wheels (5) on each side of the vehicle (2) are in engagement with sections of the track (3). 
+</ABSTRACT>
+<DESCRIPTION>
+a warehousing system with an interrupted vehicle guidance track this invention relates to warehousing systems including guided industrial vehicles servicing rows of racking, in particular, but not exclusively, from which it may be desired to remove floor level pallets by pallet trucks. warehouse stacking vehicles are often provided with horizontal guidance by means of wheels engaging with raised guidance tracks extending at floor level along either side of a clear aisle along which the vehicle travels. the presence of these tracks prevents use of pallet trucks because in use they must be wheeled into position under a pallet, which is not possible when, as in this circumstance, the pallet to be collected is on the other side of a raised track. accordingly the invention provides a warehousing system comprising a stacking vehicle, at least one row of storage racks open at the front thereof, and a guidance rail which runs along the front of the rack just above the level of the floor, the rail comprising spaced sections arranged to allow access to the racks and to be engaged by guidance wheels, disposed along the side of the vehicle, as the vehicle moves along the row, the guidance wheels and the spaced sections being so arranged that at any time at least two wheels are in contact with a section of the rail. in a preferred embodiment the storage racks are disposed in a multiplicity of rows separated by aisles, a rail as aforesaid extending along each side of each aisle and the truck having guidance wheels on each side. an embodiment of the invention will now be described with reference to the accompanying drawings in which: figure 1 is a plan view of the preferred embodiment of the invention; figure 2 is a cross-sectional view taken along the line a-a in figure 1 across the aisle; and figure 3 is a cross-sectional view taken along the line b-b in figures 1 and 2, along the aisle. referring to figures 1 and 2, warehouse racking, shown generally at 1, is arranged in rows with a clear aisle between each row. a loading vehicle such as a turret truck 2 is positioned to service the racking aisles by manoeuvring along the clear aisle. along the base of each rack equally spaced rail sections 3 provide guidance tracks which engage with guide wheels 5 extending laterally from the truck. the guide wheels 5 each rotate freely about a respective vertical axis whilst the truck 2 moves along. the wheels 5 are arranged longitudinally in pairs, with two pairs on either side of the truck 2. for each pair the spacing between wheel centres is no more than, and in this embodiment is the same as, the langth a of the gaps 4 between rail sections. this arrangement provides that as a leading wheel of a pair first contacts a section of rail the trailing wheel is just parting from the preceding section of rail. in order that as the leading wheels part
+</DESCRIPTION>
+<CLAIMS>
+claims:    1. a warehousing system comprising a stacking vehicle, at least one row of storage racks open at the front thereof, and a guidance rail which runs along the front of the rack just above the level of the floor, the rail comprising spaced sections arranged to allow access to the racks and to be engaged by guidance wheels, disposed along the side of the vehicle, as the vehicle moves along the row, the guidance wheels and the spaced sections being so arranged that at any time at least two wheels are in contact with a section of the rail.     2. a warehousing system according to claim 1 in which storage racks are disposed in a multiplicity of rows separated by aisles, a rail as aforesaid extending along each side of each aisle and the truck having guidance wheels on each side.    3. a warehousing system according to claim 1 or claim 2 wherein the racking includes a sectioned base platform, each platform section being disposed rearwardly of the rail sections of each respective row of racks.    4. a warehousing system according to claim 2  wherein said base platform sections are interconnected with said rail sections.    5. a warehousing system according to claim 2 wherein said base platform sections are formed integrally with respective rail sections.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005721
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/73 H01L-21/285 H01L-23/48 H01L-21/225 <main>H01L-21/60</main> H01L-29/62 H01L-21/033 H01L-29/66 H01L-29/54 H01L-21/02 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for fabricating a bipolar transistor having a polysilicon base contact and a polysilicon or metal emitter contact.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+ning tak hung<sep>yu hwa nien<sep>ning, tak hung<sep>yu, hwa nien<sep>ning, tak hung1720 maxwell driveyorktown heights, n.y. 10598us<sep>yu, hwa nien2849 hickory streetyorktown heights, n.y. 10598us<sep>ning, tak hung<sep>yu, hwa nien<sep>ning, tak hung1720 maxwell driveyorktown heights, n.y. 10598us<sep>yu, hwa nien2849 hickory streetyorktown heights, n.y. 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+This method consists first of all in the preparation of a conventional structure which comprises a p-type silicon substrate (12) provided with a buried sub-collector region (14) and covered by a type N epitaxial layer (10 ) Insulation regions (18) in SiO₂ define the base and collector regions and the collector crossing region (16). The base region comprises the extrinsic region (34, 36), formed by diffusion from the first-level polycrystalline silicon layer (24) and the intrinsic or active region (38). The transmitter region (42) is trained in a conventional manner. The contact with the transmitter region is carried out, either by means of the combination of a second-level polycrystalline silicon contact (43) and a metal contact (E 48) is the case of FIG. 11, Either directly with a metal contact (E 58), the latter embodiment is shown in FIG. 14. The method allows the reduction of the base resistance of the transistor and the manifold-based capacity. The invention therefore finds application in the ultatibly circuits with high integration density.
+</ABSTRACT>
+</TEXT>
+</DOC>

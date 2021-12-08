@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003930
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02B-5/16</main> H01B-13/00 G02B-6/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for simultaneously applying several optical fibres into several helicoidal grooves on the surface of a cylindrical support.
+</TITLE>
+<APPLICANT>
+lignes telegraph telephonfr <sep>societe anonyme  lignes telegraphiques et telephoniques <sep>lignes telegraphiques et telephoniques l.t.t.1, rue charles bourseulf-78702 conflans-ste-honorinefr<sep>lignes telegraphiques et telephoniques societe anonyme <sep>
+</APPLICANT>
+<INVENTOR>
+de vecchis michel s a lignes t<sep>hulin jean-pierre s a lignes t<sep>de vecchis, michel s.a. lignes telegraphiques<sep>hulin, jean-pierre s.a. lignes telegraphiques<sep>de vecchis, michel s.a. lignes telegraphiqueset telephoniques 89 rue de la faisanderief-75782 paris cedex 16fr<sep>hulin, jean-pierre s.a. lignes telegraphiqueset telephoniques 89 rue de la faisanderief-75782 paris cedex 16fr<sep>de vecchis, michel s.a. lignes telegraphiques <sep>hulin, jean-pierre s.a. lignes telegraphiques  <sep>de vecchis, michel s.a. lignes telegraphiqueset telephoniques 89 rue de la faisanderief-75782 paris cedex 16fr<sep>hulin, jean-pierre s.a. lignes telegraphiqueset telephoniques 89 rue de la faisanderief-75782 paris cedex 16fr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  means for the simultaneous arrangement of a plurality of optical fibres in a plurality of helically extending grooves of a cylindrical support, comprising a fixed frame and an assembly member (11) which comprises a centre opening (12) for passage of the support (a-b) and carries a group of fibre guides (1, 2) each formed by a tube, characterized in that the assembly member (11) can rotate freely with respect to the frame and that each of the tubes forming the fibre guides (1, 2) terminates at one end elastically by means of an inclined face (10) which bears under pressure on the bottom of one of the grooves. 
+</ABSTRACT>
+</TEXT>
+</DOC>

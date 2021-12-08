@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003073
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-37/18 B23K-15/06 H01J-37/315 B23K-15/00 <main>H01J-37/18</main> H01J-37/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electron beam welding machine.
+</TITLE>
+<APPLICANT>
+sciaky brosus<sep>sciaky bros., inc.<sep>sciaky bros., inc.4915 west 67th streetchicago illinois 60638us<sep>sciaky bros., inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+sciaky albert m<sep>sciaky, albert m.<sep>sciaky, albert m.11750 85th avenuepalos park illinois 60464us<sep>sciaky, albert m.<sep>sciaky, albert m.11750 85th avenuepalos park illinois 60464us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electron beam welding machine incorporating an  indexable work table carrying parts to be welded from a  loading position to a welding position under a stationery  electron beam gun and then to an unloading station.  the  parts to be welded are carried in sealable pockets in the table  through a sealed low volume space at atmospheric pressure  into a first pre-pumping station where air in the pocket is  brought to a pressure intermediate atmospheric pressure  and the pressure required during the welding of the parts.   after pre-pumping, the pockets are indexed to a second  pumping station wherein the pocket is evacuated to the  pressure suitable for welding.  the table is then indexed to  another station at the pre-pumping pressure and then  through another sealed space at atmospheric pressure to the  ejection station.  providing sealed spaces at atmospheric  pressure avoids the intake of a large volume of air at  atmospheric pressure into the pumping system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

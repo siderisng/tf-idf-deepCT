@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005724
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-9/02 <main>H01J-9/24</main> H01J-9/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the batch fabrication of plasma display panels.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard road armonk, n.y. 10504 us <sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+fritz richard arlen<sep>riley timothy john<sep>vecchiarelli nicholas<sep>fritz, richard arlen<sep>riley, timothy john<sep>vecchiarelli, nicholas<sep>fritz, richard arlenecho valley roadred hook new yorkus<sep>riley, timothy johnroute 212lake hill new yorkus<sep>vecchiarelli, nicholashudson terracemarlboro new yorkus<sep>fritz, richard arlen <sep>riley, timothy john<sep>vecchiarelli, nicholas  <sep>fritz, richard arlenecho valley roadred hook new yorkus<sep>riley, timothy johnroute 212lake hill new yorkus<sep>vecchiarelli, nicholashudson terracemarlboro new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a process for the batch fabrication  of plasma display panels.  the process uses a multiple processing technique in which  a series of individual plate patterns (13 to 20) are simultaneously  formed on a large master bottom plate (11).  when  the master plate processing is completed and inspected,  non-defective individual top plates (23-25, 28-30) with associated  tubulation members are provided and placed over  respective non-defective plate patterns on the master plate  and edge sealed.  the master plate is then divided into  individual panels by conventional glass separation techniques  such as cutting, scribing, etc.  and the individual panels  thus formed are completed by bakeout, backfill with an  ionizable gas, and tubulation tip-off.  this process permits  plasma display panel fabrication in a batch mode using  conventional fabrication techniques, permitting multiple  plasma panel fabrications in a single process cycle.  
+</ABSTRACT>
+</TEXT>
+</DOC>

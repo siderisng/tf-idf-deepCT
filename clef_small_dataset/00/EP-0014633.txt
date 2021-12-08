@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014633
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01H-3/00 G01H-9/00 A61B-8/00 G01H-3/10 <main>G03C-5/04</main> G03C-5/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing an ultrasonographic image.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company <sep>
+</APPLICANT>
+<INVENTOR>
+maskasky joe edward<sep>maskasky, joe edward<sep>maskasky, joe edwardkodak parkrochester, new yorkus<sep>maskasky, joe edward<sep>maskasky, joe edwardkodak parkrochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention concerns the preparation of  ultrasonographic images.  the process uses an element containing an imaging  catalyst and a diffusion barrier.  a dye-image generating  material can be included in the catalytic element in order to  obtain a dye image.  the element is placed into contact with a  solution containing a catalyst poison and is exposed to  ultrasound in an image pattern.  the catalyst is selectively  poisoned in ultrasonically exposed areas.  the remaining  unpoisoned catalyst is employed to form a viewable image.   the curves give the cyan dye density against ultrasound  exposure in mw. s/cm².  curves 1 and 2 correspond to  elements placed in the catalyst poison bath respectively for 20  s and 5s before an ultrasonic exposure.  ultrasonographic process carried out under ordinary  room lighting conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

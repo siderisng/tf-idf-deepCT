@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004446
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+B66F-9/24 G05B-19/427 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control systems for lift trucks.
+</TITLE>
+<APPLICANT>
+crown controls corpus<sep>crown control corporation<sep>crown control corporation40-44 s. washington streetnew bremen ohio 45869us<sep>
+</APPLICANT>
+<INVENTOR>
+koeper johnus<sep>koeper, john<sep>koeper, john507 north main streetnew bremen ohio 45869us<sep>
+</INVENTOR>
+<ABSTRACT>
+a control system for directing hydraulic fluid to selected  cylinders on a lift truck to perform selected power truck  functions, includes a control lever mounted on the truck  control panel and having upper and lower control positions  and a neutral position therebetween.  a function control  switch (106) includes a manually actuatable switch button  (38) on the control lever.  counter means (170) is responsive  to the function control switch (106) to cycle sequentially  through a plurality of count states from an initial count  state in response to actuation of the function control switch  (106).  hydraulic means is responsive to the control lever  and the counter means (170) for supplying hydraulic fluid  to selected one of the cylinders under control of the control  lever with selection of cylinders being determined by the  count state of the counter means (170).  
+</ABSTRACT>
+</TEXT>
+</DOC>

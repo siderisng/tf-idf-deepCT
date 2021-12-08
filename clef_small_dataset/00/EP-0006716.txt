@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006716
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/20 <main>G03G-15/20</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+contact fuser apparatus.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation <sep>
+</APPLICANT>
+<INVENTOR>
+mosher rabin<sep>mosher, rabin<sep>mosher, rabin739 ayrault roadfairport, new york 14450us<sep>mosher, rabin <sep>mosher, rabin739 ayrault roadfairport, new york 14450us<sep>
+</INVENTOR>
+<ABSTRACT>
+a heat and pressure roll fusing apparatus for fixing toner  images (20) to copy substrates (18), the toner comprising a  thermoplastic resin.  the apparatus includes an internally  heated, fuser roll (12) cooperating with a backup or pressure roll  (14) to form a nip through which the copy substrates pass with  the images contacting the heated roll.  the heated fuser roll (12)  has an outer layer or surface (30) which by way of example is  fabricated from a silicone rubber or viton material to which a low  viscoslty polymeric release fluid (36) is applied.  release fluid  (36) is contained in a sump (38) from which it is dispensed by  means of a metering roll (44) and a donor roll (42), the former of  which contacts the release fluid (36) in the sump and the latter of  which contacts the surface of the heated fuser roll (12).  
+</ABSTRACT>
+</TEXT>
+</DOC>

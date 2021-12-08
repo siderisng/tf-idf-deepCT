@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004256
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12Q-1/56 C07K-5/00 C07K-1/06 C07K-5/097 C07K-1/113 <main>C07D-207/28</main> C07K-1/00 C07D-311/16 G01N-33/68 C07C-103/52 C12Q-1/37 C07K-14/00 C12Q-1/00 C07K-5/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+easily split substrates for the quantification of proteases, a process for their production and a method for the quantification of proteases.
+</TITLE>
+<APPLICANT>
+kabi abse <sep>kabi ab <sep>kabi ab lindhagensgatan 133s-112 87 stockholmse<sep>kabi ab<sep>
+</APPLICANT>
+<INVENTOR>
+arielly salo<sep>aurell leif erik<sep>claeson karl goran<sep>simonsson leif roger<sep>arielly, salo<sep>aurell, leif erik<sep>claeson, karl goran<sep>simonsson, leif roger<sep>arielly, salosyrengatan 60s-434 00 kungsbackase<sep>aurell, leif eriksunnegärde 12s-430 40 säröse<sep>claeson, karl görannysätravägen 15s-181 61 lidingöse<sep>simonsson, leif rogerolshammarsgatan 10s-422 47 hisings backase<sep>arielly, salo<sep>aurell, leif erik  <sep>claeson, karl goran <sep>simonsson, leif roger<sep>arielly, salosyrengatan 60s-434 00 kungsbackase<sep>aurell, leif eriksunnegärde 12s-430 40 säröse<sep>claeson, karl görannysätravägen 15s-181 61 lidingöse<sep>simonsson, leif rogerolshammarsgatan 10s-422 47 hisings backase<sep>
+</INVENTOR>
+<ABSTRACT>
+easily split enzyme substrates for the quantification of  proteases having the general formula   r₁-p-glu-a₁-a₂-nh-r₂,   wherein   r₁ = h or a protective group, preferably t-butyl-oxycarbonyl,  benzyloxycarbonyl;   a₁ = gly, ala, val, leu, ile, ser, thr, pro, pip, phe or  tyr;   a₂ = arg or lys;   r₂ = an aromatic, possibly substituted, hydrocarbon  group, wherein -nh-r₂ is a physico-chemically  determinable group, preferably a chromogenic or  fluorogenic group which is split by a present  enzyme and then forms a cleavage product of the  formula h₂n - r₂ the amount of which can be  quantified.  process for the production of said substrates.  method in  the laboratory diagnostics of proteases using said substrates.  
+</ABSTRACT>
+</TEXT>
+</DOC>

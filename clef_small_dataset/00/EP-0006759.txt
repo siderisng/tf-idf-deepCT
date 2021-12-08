@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006759
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-17/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+anode materials for use in electrodeposition.
+</TITLE>
+<APPLICANT>
+inco europ ltdgb   <sep>inco europe limited<sep>inco europe limitedthames house millbanklondon swip 40fgb<sep>
+</APPLICANT>
+<INVENTOR>
+dill aloys johnus<sep>dill, aloys john<sep>dill, aloys john32 drewry lanetappan, new york 10983us<sep>
+</INVENTOR>
+<ABSTRACT>
+a composite, soluble anode material for use in the  electrodeposition of nickel-iron alloys comprising a sheet  of iron or low alloy steel coated on both sides with nickel  which preferably contains an activator, the ratio of the  exposed area of nickel to the exposed area of iron being  from 3 to 80.  
+</ABSTRACT>
+<DESCRIPTION>
+anode materials for use in electrodeposition this invention relates to anodes for use in electrodeposition and more particularly to composite anode materials for use in the electrodeposition of nickel-iron alloys. electrodeposition of nickel-iron alloys is carried out commercially both for decorative purposes and for the manufacture of magnetizable components for use in the electronics industry. the means by which such electrodeposition can be performed are well known. consumable anode materials which have been used commercially are of two types, firstly alloy anode materials and secondly individual iron and nickel anode materials in the form of small pierces, ie rondos, squares, pellets, etc, of nickel and iron contained in separate baskets, for example those made of titanium, or in the form of separate nickel and iron slabs. both types of anode materials previously used suffer from some disadvantages. the principal disadvantages of the separate iron and nickel anodes are firstly the necessity for maintaining separate inventories of iron and nickel, secondly the need in some instances for separate anode controls, thirdly the danger of placing the wrong material in a basket and fourthly the possible effect of the imbalance to the electroplating system if one anode loses current. alloy anodes have the disadvantage that they must be specially melted and cast and thus are more costly than the basic metals. it has now been found that such disadvantages can in general be avoided by use of the composite anode material of the present invention. according to the invention, a composite anode material for use in the electrodeposition of nickel-iron alloys is characterized by the fact that it comprises a sheet of iron or low alloy steel coated on both sides with nickel, the ratio of the exposed area of nickel to the exposed area of iron being from 3 to 80. the anode material is preferably of suitable size for use in conjunction with an anode basket and therefore, can conveniently be square in shape and have sides measuring from 1 to locum. ich square or other suitably shaped pieces of anode material are usefully prepared from a large sheet of composite material of, for example, lm square which is cut or sheared to provide pieces of the desired shape. the anode material is preferably prepared by electrodepositing the nickel coating onto the iron or steel sheet although other methods of forming the coating may be employed. for example, a sheet of nickel can be hot rolled onto the iron or steel sheet or alternatively nickel in the form of a powder can be sintered and compacted onto the surface of the iron sheet. whichever method is employed, it is essential that there is a relatively strong bond between the iron sheet and the nickel coating to avoid possible delamination during shearing or during use of the anode material. the nickel coating of the anode material can usefully contain, and preferably does contain, an activator for controlling or increasing the dissolution characteristics of the nickel during use of the anode material.
+</DESCRIPTION>
+<CLAIMS>
+ claims   1. a composite anode material for use in the electrodeposition of nickel-iron alloy, characterised in that it comprises a sheet of iron or low alloy steel coated on both sides with nickel, the ratio of the exposed area of nickel to the exposed area of iron being from 3 to 80.   2. an anode material according to claim 1 characterised in that the iron sheet is coated with the nickel by electrodeposition.   3. an anode material according to claim 1 or claim 2 characterised in that the nickel contains an activator.    4. an anode material according to claim 3 characterised in that the activator is sulphur in a range of up to 5% of the nickel.   5. an anode material according to claim 4 characterised in that the sulphur is present in the nickel in an amount up to   0.2*    6. an anode material according to claim 4 or claim 5 characterised in that when the sulphur is at the lower end of the range, the ratio of the exposed area of nickel to the exposed area of iron is at the higher end of the range and when the sulphur is at the higher end of its range, the ratio of the exposed area of nickel to the exposed area of iron is at the lower end of its range.   7. an anode material according to any preceding claim characterised in that it comprises a plurality of relatively small pieces cut or sheared from a larder size sheet.  
+</CLAIMS>
+</TEXT>
+</DOC>

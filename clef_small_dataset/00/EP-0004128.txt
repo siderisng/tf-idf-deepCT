@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004128
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-493/04</main> C07D-493/00 A61K-31/365 A61P-31/00 C07D-493/04 C12P-17/18 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+frenolicin b, process for preparation thereof and pharmaceutical compositions containing it.
+</TITLE>
+<APPLICANT>
+kitasato instjp<sep>the kitasato institute<sep>the kitasato institute9-1 shirogane 5-chome minato-kutokyo 108jp<sep>the kitasato institute<sep>
+</APPLICANT>
+<INVENTOR>
+awaya juichi<sep>iwai yuzura<sep>oiwa ruiko <sep>omura satoshi<sep>takahashi yoko  <sep>awaya, juichi<sep>iwai, yuzura<sep>oiwa, ruiko<sep>omura, satoshi<sep>takahashi, yoko<sep>awaya, juichi54-9-b-301 matsuecho souka-shisaitamajp<sep>iwai, yuzura2-2-1-9-303 karabe narita-shichibajp<sep>oiwa, ruiko384 hazawacho kanagawa-ku yokohama-shikanagawajp<sep>omura, satoshi5-12-7, seta setagaya-kutokyojp<sep>takahashi, yokomatsunoso,6-10-6 shirogane minato-kutokyojp<sep>awaya, juichi<sep>iwai, yuzura<sep>oiwa, ruiko <sep>omura, satoshi<sep>takahashi, yoko  <sep>awaya, juichi54-9-b-301 matsuecho souka-shisaitamajp<sep>iwai, yuzura2-2-1-9-303 karabe narita-shichibajp<sep>oiwa, ruiko384 hazawacho kanagawa-ku yokohama-shikanagawajp<sep>omura, satoshi5-12-7, seta setagaya-kutokyojp<sep>takahashi, yokomatsunoso,6-10-6 shirogane minato-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a novel compound frenolicin b of the formula:    is prepared by cultivating a microorganism belonging to  genus streptomyces, e. g.  streptomyces roseofulvus am-3867,  in a culture medium and isolating the compound  formed and accumulated in the medium from the cultured  product.  the compound is effective for prevention and therapy of  infectious diseases caused by eumycetes and mycoplasmas.  
+</ABSTRACT>
+</TEXT>
+</DOC>

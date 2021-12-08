@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012375
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06K-19/16 G03G-15/22 G06K-19/14 <main>G06K-19/08</main> B32B-27/00 B42D-15/02 G03H-1/00 B42D-15/10 G03G-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+identification card.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+moraw roland dr<sep>von dem bussche gotz dr<sep>moraw, roland, dr.<sep>von dem bussche, gotz, dr.<sep>moraw, roland, dr.buchenweg 4d-6200 wiesbaden-naurodde<sep>von dem bussche, götz, dr.steinweg 21d-6231 schwalbachde<sep>moraw, roland, dr.<sep>von dem bussche, gotz, dr.<sep>moraw, roland, dr.buchenweg 4d-6200 wiesbaden-naurodde<sep>von dem bussche, götz, dr.steinweg 21d-6231 schwalbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an identification card (1) from a plurality of layers (4 ', 2, 4 "or 4', 2, 14, 2, 4"), which have information for identifying the cardholder together with additional shear characteristics against counterfeiting.As fuse characteristics, git ter images (3) are provided with a line-shaped lattice structure whose lattice depths are differently deep and each reproduce a particular image color when reading.The cart of the card (2) of the card has a window (5) into which a grating image carrier (6) for the lattice images (3) is inserted.The lattice structures of the images (3) have a period length greater than or equal to the window diameter, but can also be smaller than the window diameter.In a practical embodiment, the period length is less than 1/400 mm.
+</ABSTRACT>
+</TEXT>
+</DOC>

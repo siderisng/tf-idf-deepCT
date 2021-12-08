@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002221
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-10/00 <main>C08F-10/00</main> C08F-4/00 C08F-4/60 C08F-4/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of a mixed catalyst and its use for the polymerization of alpha-olefins.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+diedrich bernd dr<sep>franke rainer dr<sep>diedrich, bernd, dr.<sep>franke, rainer, dr.<sep>diedrich, bernd, dr.ulmenweg 10d-6236 eschbornde<sep>franke, rainer, dr.geisenheimer strasse 88d-6000 frankfurt/main 71de<sep>diedrich, bernd, dr.  <sep>franke, rainer, dr.<sep>diedrich, bernd, dr.ulmenweg 10d-6236 eschbornde<sep>franke, rainer, dr.geisenheimer strasse 88d-6000 frankfurt/main 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing a mixed catalyst and its use for the polymerization of 1-olefins.The height activity of the known polymerization catalysts based on solid reaction products between a halogen-containing titanium compound and a metal alcoholate can be increased considerably by post-treating these catalysts with acid halides of the 3rd and 4th main and 4th subgroup of the periodic system.
+</ABSTRACT>
+</TEXT>
+</DOC>

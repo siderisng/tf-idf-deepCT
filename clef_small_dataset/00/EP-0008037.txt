@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008037
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21B-37/48 B21B-37/52 <main>B21B-37/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for tension control in a continuous rolling mill.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+rievel hans<sep>schmidt hans herbert dr<sep>weber roland<sep>rievel, hans<sep>schmidt, hans herbert, dr.<sep>weber, roland<sep>rievel, hansanderlohrstrasse 26d-8520 erlangende<sep>schmidt, hans herbert, dr.weiherstrasse 11d-8520 erlangende<sep>weber, rolandandreas-paulus-strasse 47d-8520 erlangende<sep>rievel, hans <sep>schmidt, hans herbert, dr.<sep>weber, roland  <sep>rievel, hans anderlohrstrasse 26d-8520 erlangende<sep>schmidt, hans herbert, dr.weiherstrasse 11d-8520 erlangende<sep>weber, rolandandreas-paulus-strasse 47d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  device for regulating the tension transmitted in the goods to be rolled in a rolling mill which contains m stages, comprising a speed regulator at each stage and comprising a regulating device (e. g.  1. 24) which is superimposed upon the speed regulator in at least m-1 stages and which serves to adjust the rolling speeds of the stages which follow one another in the direction of rolling, and with a calculating circuit (e. g.  1. 14) which is in each case assigned to the regulating devices and which serves to calculate the actual value of the regulating quantity (e. g.  mz1 ) from the relevant drive moment, acceleration moment and deformation moment, characterized in that in order to stabilise the speed characteristics of the rolling mill, each of the stages (1 to m) is assigned a regulating device (1. 24 to m. 24) of this kind and these regulating devices are superimposed by a common correcting regulator (27) which is supplied with the output signal (delta n*) of one of the regulating devices by way of input quantity, and from whose output signal (fk * or sigmak *), from the theoretical value of the tension force (fa * or sigmaa  *) on the drive side of the particular associated and of the possibly preceding stage and from other rolling parameters the theoretical value (mz*) for the regulating devices is formed in each case in a calculating means (1. 28 to m. 28). 
+</ABSTRACT>
+</TEXT>
+</DOC>

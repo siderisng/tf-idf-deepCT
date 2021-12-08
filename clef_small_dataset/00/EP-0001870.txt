@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001870
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-7/00 <main>C07F-7/22</main> C07F-7/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of organotin compounds.
+</TITLE>
+<APPLICANT>
+akzo nvnl<sep>akzo n.v.<sep>akzo n.v.velperweg 76nl-6824 bm arnhemnl<sep>akzo n.v.<sep>
+</APPLICANT>
+<INVENTOR>
+burley joseph william <sep>groenenboom cornelis jacobus<sep>hutton ronald eric  <sep>huysmans willem gerhard bernha<sep>jolley michael ralph john<sep>burley, joseph william<sep>groenenboom, cornelis jacobus<sep>hutton, ronald eric<sep>huysmans, willem gerhard bernhard<sep>jolley, michael ralph john<sep>burley, joseph william83, algernon streetwarringtongb<sep>groenenboom, cornelis jacobusmatenalaan 133nl-6825 dt arnhemnl<sep>hutton, ronald eric251, preston new roadsouthport pr9 8nt, lancsgb<sep>huysmans, willem gerhard bernhardhofstetterlaan 16nl-6955 ba ellecomnl<sep>jolley, michael ralph john14, eastleighskelmersdalegb<sep>burley, joseph william<sep>groenenboom, cornelis jacobus<sep>hutton, ronald eric<sep>huysmans, willem gerhard bernhard<sep>jolley, michael ralph john <sep>burley, joseph william83, algernon streetwarringtongb   <sep>groenenboom, cornelis jacobusmatenalaan 133nl-6825 dt arnhemnl<sep>hutton, ronald eric251, preston new roadsouthport pr9 8nt, lancsgb<sep>huysmans, willem gerhard bernhardhofstetterlaan 16nl-6955 ba ellecomnl<sep>jolley, michael ralph john14, eastleighskelmersdalegb<sep>
+</INVENTOR>
+<ABSTRACT>
+organotin compounds having the formula r₃snx or  r₄sn are prepared by reacting metallic zinc with organotin  compounds having the formula r sn x₃ or r₂ sn x₂, wherein  x stands for chlorine, bromine, iodine or an alkyl carboxylate  group having the formula cph2p+₁coo, wherein p=1-18,  and r represents an organic group.  satisfactory yields are obtained under mild reaction  conditions and without any catalyst being needed if both in  the reacting organotin compounds and in the organotin  compounds obtained the organotin group r has the structure   - ch₂ch₂ - a    with a being selected from the group consisting of alkyl  having 1-18 carbon atoms, 0-alkyl having 1-18 carbon atoms  and optionally carrying an alkoxy group, polyoxyalkylene  consisting of oxyalkylene groups having 1-4 carbon atoms,  and carrying as terminal group alkyl or a hydrogen atom,  o-cycloalkyl, o-alkenyl having 2-4 carbon atoms, o-phenyl,  nh₂ and alkyl substituted amino, and cl.  
+</ABSTRACT>
+</TEXT>
+</DOC>

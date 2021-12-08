@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012174
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03B-27/73</main> G01J-1/42 G03B-27/73 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+light measuring apparatus.
+</TITLE>
+<APPLICANT>
+durst ag it<sep>durst ag fabrik fototechnischer apparate<sep>durst ag fabrik fototechnischer apparategerbergasse 58i-39100 bozenit<sep>durst ag fabrik fototechnischer apparate <sep>
+</APPLICANT>
+<INVENTOR>
+obertegger franz<sep>obertegger, franz<sep>obertegger, franzsarnserstrasse 1i-39042 brixen-millandit<sep>obertegger, franz <sep>obertegger, franzsarnserstrasse 1i-39042 brixen-millandit<sep>
+</INVENTOR>
+<ABSTRACT>
+A light measuring device is with a manually movable over a container (22) movable diaphragm (A, B, C), which shields a light-electric converter (1) for the purpose of taking into account measurement errors before a measurement briefly from the light incident. To ensure a minimum shield time independently of the speed with which the actuating member (22) is moved, the movement of the aperture (A, B, C) relative to the measurement of the actuating body (22) by mechanical means (4, 13, 13a, 19, 21, 23) delayed. With deflection of the actuating body (22) at a certain angle, eat movement by means of a spring (23) on a tooth wheel (21) and via further transmission members (19, 13, 13a) to a color filter (5, 6, 7) containing filter wheel (4) transmitted. The regions (A, b, c) between the color filters (5, 6, 7) shields the light-electric converter (1) upon rotation of the filter wheel (4) from a filter position to the next from the light incidence.
+</ABSTRACT>
+</TEXT>
+</DOC>

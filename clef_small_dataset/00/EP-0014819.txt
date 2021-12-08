@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014819
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-15/00 H01J-37/34 C23C-14/36 <main>H01J-37/34</main> H01J-37/32 C23C-14/56 C23C-14/35 H01L-21/203 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sputtering cathode and system for sputter-coating large area substrates.
+</TITLE>
+<APPLICANT>
+advanced coating techus<sep>advanced coating technology, inc.<sep>advanced coating technology, inc.306, basly drivefranklin, tennessee 37064us<sep>advanced coating technology, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+chambers douglas l<sep>wan b chong tak<sep>chambers, douglas l.<sep>wan, b. chong tak<sep>chambers, douglas l.6417 westbourne drivebrentwood, tennessee 37027us<sep>wan, b. chong tak6409 westbourne drivebrentwood, tennessee 37027us<sep>chambers, douglas l.  <sep>wan, b. chong tak<sep>chambers, douglas l.6417 westbourne drivebrentwood, tennessee 37027us<sep>wan, b. chong tak6409 westbourne drivebrentwood, tennessee 37027us<sep>
+</INVENTOR>
+<ABSTRACT>
+a system for sputter coating architectural glass is dis­ closed which includes an evacuable enclosure 12, a conveyor  14 for moving glass 16 to be coated along parallel paths, an  elongated sputtering cathode 20 supported between the  paths, and structure 18 by which innizable gas is introduced  into the enclosure 12.  the cathode creates a continuous band  of plasma extending about it through a region defining later­ ally spaced first and second sections extending generally  parallel to glass on respective sides of the cathode and return  sections joining the ends of the laterally spaced sections.  the  cathode includes sputtering material target face portions  extending adjacent and parallel to the plasma sections and a  magnetic field directing system for constraining the plasma  flow in the sections of extend substantially uniformly over the  target face portions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

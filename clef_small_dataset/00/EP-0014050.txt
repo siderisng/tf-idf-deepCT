@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014050
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12P-21/00 A61K-38/21 C07K-14/555 C07K-14/435 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+interferon production
+</TITLE>
+<APPLICANT>
+beecham group ltdgb<sep>beecham group limited  <sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>
+</APPLICANT>
+<INVENTOR>
+robinson jeffery hughgb<sep>robinson, jeffery hugh<sep>robinson, jeffery hugh3 hillcrest closeepsom, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for preparing interferon in which mrc-5  cells are induced for 2 to 3 hours with an interferon-induc­ ing medium containing from 0. 1 to 50 mg 1⁻¹ of a ds-rna,  100 mg 1⁻¹ of deae-dextran and 250m. m of sucrose.  other sugars which can be used include glucose, ga­ lactose, fructose, mannose and maltose, and a preferred  ds-rna is naturally occurring ds-rna isolated from p.   chrysogenum.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008163
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 <main>C07C-87/40</main> C07C-211/00 A61K-31/055 C07C-87/457 A61K-31/045 C07C-39/00 A61K-31/135 A61K-31/13 A61K-20060101S C07C-85/24 C07C-211/29 C07C-67/00 C07C-39/30 A61P-25/24 C07C-20060101S C07C-211/26 A61P-25/00 A61P-25/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for preparing cis-2-aryl-3-aminomethyl-bicyclo (2,2,2) octanes and the compounds 2-aryl-3-aminomethylidene-bicyclo (2,2,2) octanes.
+</TITLE>
+<APPLICANT>
+lilly industries ltdgb<sep>lilly industries limited<sep>lilly industries limitedhenrietta house henrietta placelondon w1m 0edgb<sep>lilly industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+horwell david christopher<sep>timms graham henry<sep>horwell, david christopher<sep>timms, graham henry<sep>horwell, david christopher36, the findings, fernhill roadcove farnborough, hampshiregb<sep>timms, graham henry2, talbot close, mytchettcamberley, surreygb<sep>horwell, david christopher<sep>timms, graham henry<sep>horwell, david christopher36, the findings, fernhill roadcove farnborough, hampshiregb<sep>timms, graham henry2, talbot close, mytchettcamberley, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for preparing antidepressant 2-phenylbi­ cyclooctylamines of formula (i):    where r¹ and r² represent c₁₋₃ alkyl and ar represents a  phenyl group optionally substituted by up to two halogen  atoms, by reduction of a novel enamine intermediate of  formula:    where r³ and r⁴ are hydrogen or taken together represent  a single bond and where x is hydrogen, bromine or chlo­ rine.  
+</ABSTRACT>
+</TEXT>
+</DOC>

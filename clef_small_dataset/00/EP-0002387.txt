@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002387
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-19/165 G01R-27/16 G01R-27/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric power system fault warning arrangements.
+</TITLE>
+<APPLICANT>
+gen electric co ltdgb<sep>the general electric company, p.l.c. <sep>the general electric company, p.l.c.1 stanhope gatelondon w1a 1ehgb   <sep>
+</APPLICANT>
+<INVENTOR>
+elkateb makeen mohammedgb<sep>thomas alan johngb<sep>elkateb, makeen mohammed<sep>thomas, alan john<sep>elkateb, makeen mohammed11 somerville squaremoss pit stafford st17 9jugb<sep>thomas, alan john'niarbyl' raikeswood cresentskipton yorkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a fault warning arrangement for use in an electric power  system, wherein the system includes warning means (10, 11)  for producing a first signal when the value of the leakage  current in an insulator arrangement (5, 6), e. g.  supporting a  power line (3), of the system exceeds a first threshold value.   the warning means may be arranged to detect the passing of  threshold values by values of insulator leakage current by  detecting the passing of threshold values by values of total  insulator currents.  
+</ABSTRACT>
+</TEXT>
+</DOC>

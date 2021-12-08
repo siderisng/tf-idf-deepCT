@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005543
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-9/233 H01L-31/0248 <main>H01J-29/45</main> H01J-29/10 H01J-29/45 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photosensor.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+ataka saburo<sep>hirai tadaaki<sep>imamura yoshinori<sep>inao kiyohisa<sep>maruyama eiichi <sep>takasaki yukio<sep>tsukada toshihisa  <sep>ataka, saburo<sep>hirai, tadaaki<sep>imamura, yoshinori<sep>inao, kiyohisa<sep>maruyama, eiichi<sep>takasaki, yukio<sep>tsukada, toshihisa<sep>ataka, saburo2196-195, hirai hinodemachinishitama-gun tokyojp<sep>hirai, tadaaki1-6-12, sakura-cho koganei-shitokyojp<sep>imamura, yoshinori2-32, koyasu-cho hachioji-shitokyojp<sep>inao, kiyohisa460, shimo-nagayoshimobara-shi chiba-kenjp<sep>maruyama, eiichi1572-3, josuihoncho kodaira-shitokyojp<sep>takasaki, yukio1-47-1, akatsuki-cho hachioji-shitokyojp<sep>tsukada, toshihisa4-kou 704-17, sekimachi nerima-kutokyojp<sep>ataka, saburo<sep>hirai, tadaaki<sep>imamura, yoshinori<sep>inao, kiyohisa<sep>maruyama, eiichi<sep>takasaki, yukio<sep>tsukada, toshihisa<sep>ataka, saburo2196-195, hirai hinodemachinishitama-gun tokyojp  <sep>hirai, tadaaki 1-6-12, sakura-cho koganei-shitokyojp<sep>imamura, yoshinori2-32, koyasu-cho hachioji-shitokyojp<sep>inao, kiyohisa460, shimo-nagayoshimobara-shi chiba-kenjp<sep>maruyama, eiichi1572-3, josuihoncho kodaira-shitokyojp<sep>takasaki, yukio1-47-1, akatsuki-cho hachioji-shitokyojp<sep>tsukada, toshihisa4-kou 704-17, sekimachi nerima-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a photosensor, for instance such of an image tube, has  at least a light-transmitting conductive layer (2) which is  arranged on the side of light incidence, and a photoconductive  layer (3) in which charges are stored in correspondence  with the light incidence.  at least a region of said photoconductive  layer (3) for storing the charges is made of an  amorphous material which contains hydrogen and silicon as  indispensable constituent elements thereof, in which the  silicon amounts to at least 50 atomic % and the hydrogen  amounts to at least 10 atomic % and at most 50 atomic %,  and whose resistivity is no lower than 10¹⁰ω·cm.  
+</ABSTRACT>
+</TEXT>
+</DOC>

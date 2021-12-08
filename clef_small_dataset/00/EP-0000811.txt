@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000811
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-7/08 G03B-7/26 G03B-9/36 G03B-9/08 G03B-9/40 H01L-41/09 <main>G03B-7/26</main> G03B-9/62 H01L-41/00 G03B-7/083 G03B-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+camera having an automatic control mechanism and piezoelectric energy conversion means.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+lee fitzpatrick frank<sep>lee james kelly<sep>lee, fitzpatrick frank<sep>lee, james kelly<sep>lee, fitzpatrick frank30 rock beach roadrochester, new yorkus<sep>lee, james kelly20 medallion driverochester, new yorkus<sep>lee, fitzpatrick frank<sep>lee, james kelly<sep>lee, fitzpatrick frank30 rock beach roadrochester, new yorkus<sep>lee, james kelly20 medallion driverochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a camera having an automatic control mechanism, for  example, an exposure control mechanism, requiring electrical  energy and furnishing mechanical energy.  electrical  energy requirements are normally furnished by batteries or  induction generators; mechanical energy is furnished by electromagnets,  motors or solenoids.  such devices are generally  heavy, bulky and expensive in the context of modern  cameras.  batteries require replacement.  electrical energy is supplied to the automatic control  mechanism by a piezoelectric generator (10; 29; 135; 210;  342) which furnishes high voltage and low current.  mechanical  energy is supplied by a piezoelectric electrical-mechanical  transducer (14; 29; 158; 212; 352) which responds to high  voltage and low current.  in its preferred form, each piezoelectric element is a  piezoelectric bender which supplies electrical energy when  bent and bends when electrical energy is applied to it.  
+</ABSTRACT>
+</TEXT>
+</DOC>

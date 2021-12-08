@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015410
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16L-39/04 F16L-27/08 B65H-67/048 B65H-67/04 F16L-37/00 F16L-39/06 F16L-39/00 <main>B65H-67/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+textile machine with a coupling for transmitting pressure fluid to a rotatable member.
+</TITLE>
+<APPLICANT>
+rieter ag maschfch<sep>maschinenfabrik rieter a.g.<sep>maschinenfabrik rieter agpostfach 290ch-8406 winterthurch<sep>maschinenfabrik rieter a.g.  <sep>
+</APPLICANT>
+<INVENTOR>
+fluck jakob<sep>schefer kurt<sep>fluck, jakob<sep>schefer, kurt<sep>fluck, jakobgrünmattstrasse 1ch-8405 winterthurch<sep>schefer, kurtgutstrasse 7ch-8400 winterthurch<sep>fluck, jakob<sep>schefer, kurt<sep>fluck, jakobgrünmattstrasse 1ch-8405 winterthurch<sep>schefer, kurtgutstrasse 7ch-8400 winterthurch<sep>
+</INVENTOR>
+<ABSTRACT>
+a bobbin revolver for winding textile filaments has a rota­ table chuck carrier (12) with a plurality of bobbin chucks (16a,  16b).  the carrier is rotatable on a central shaft (14) to urge the  chucks successively towards a friction drive drum (18) which  rotates bobbins on the chucks (16a, 16b) to wind filament  packages thereon.  a fluid coupling, comprising co-axial, rela­ tively rotable parts (30, 34), having communicating passages  therethrough, is provided around the shaft to pass pressure  fluid to and/or from devices on the carrier (12).  the fluid cou­ ping is arranged so that there is no relative rotation of its parts  during winding of a package, thereby avoiding disturbances of  the contact pressure between a package and the friction drum  (18) through sliding friction between the coupling parts.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004525
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05D-23/19</main> F24H-9/20 F24F-11/00 G05D-23/19 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control unit for starting operation of a conditioning equipment which is effective to influence the temperature in a building.
+</TITLE>
+<APPLICANT>
+tour & andersson abse<sep>tour & andersson aktiebolag<sep>tour &amp; andersson absvärdlangsvägen 46s-121 72 johanneshovse<sep>tour & andersson aktiebolag <sep>
+</APPLICANT>
+<INVENTOR>
+christiansen jorn uffe<sep>christiansen, jorn uffe<sep>christiansen, jörn uffehvidovre strandvej 48hvidovredk<sep>christiansen, jorn uffe <sep>christiansen, jörn uffehvidovre strandvej 48hvidovredk<sep>
+</INVENTOR>
+<ABSTRACT>
+in a control unit for starting a climatization procedure in a  building to create agreeable climatic conditions at a pre-determined  time, an equivalent electric circuit (27) is used to imitate  the thermal properties of the building.  a temperature sensing  means (24) is provided within the interior of one or more of the  intermediate walls of the building, said sensor (24) influencing  the equivalent electric circuit (27) so that a reduced climatization  effect will exist also after the air inside of the building has got the  desired climatic properties, until the sensor indicates, that also  the climatic conditions inside of the said wall or walls differs from  the climatic conditions inside of the building by a pre-determined  small amount.  
+</ABSTRACT>
+</TEXT>
+</DOC>

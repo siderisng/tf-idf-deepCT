@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002540
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01T-1/164 G01T-1/29 <main>G01T-1/164</main> G01T-1/00 A61B-6/00 G06T-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiation imaging system.
+</TITLE>
+<APPLICANT>
+medtronic inc us<sep>medtronic, inc.  <sep>medtronic, inc.3055 old highway eightminneapolis minnesota 55440us<sep>medtronic, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+bennett matthew cole jr<sep>knoll glenn f<sep>strange donald ray<sep>bennett, matthew cole, jr.<sep>knoll, glenn f.<sep>strange, donald ray<sep>bennett, matthew cole, jr.609 w. washington st.ann arbor mi 48103us<sep>knoll, glenn f.3891 waldenwoodann arbor mi 48104us<sep>strange, donald ray7315 chilson roadhowell mi 48843us<sep>bennett, matthew cole, jr. <sep>knoll, glenn f.<sep>strange, donald ray  <sep>bennett, matthew cole, jr.609 w. washington st.ann arbor mi 48103us<sep>knoll, glenn f.3891 waldenwoodann arbor mi 48104us<sep>strange, donald ray7315 chilson roadhowell mi 48843us<sep>
+</INVENTOR>
+<ABSTRACT>
+a gamma ray scintillation camera generating (x, y)  spatial coordinate and z energy signals relative to detected  radiation events.  the camera signals are converted to their  digital equivalents subsequent to which the apparent coordinate  locations of detected events as determined by the  camera are corrected to their true spatial coordinates based  upon correction information stored in the system.  in addition  to spatial coordinate correction, the system provides  for calibration of the camera z signal response as a function  of camera face location.  
+</ABSTRACT>
+</TEXT>
+</DOC>

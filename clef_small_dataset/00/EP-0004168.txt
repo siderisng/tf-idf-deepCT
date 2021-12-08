@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004168
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-37/08 C07C-39/04 C07C-37/00 C07C-27/26 C07C-67/00 C07C-37/74 C07C-39/00 <main>C07C-37/74</main> C07C-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the removal of hydroxyacetone from phenol.
+</TITLE>
+<APPLICANT>
+bp chem int ltdgb<sep>bp chemicals limited<sep>bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>bp chemicals limited<sep>
+</APPLICANT>
+<INVENTOR>
+marsh christopher reginald<sep>russell james allardice<sep>marsh, christopher reginald<sep>russell, james allardice<sep>marsh, christopher reginaldbp chemicals limited bo'ness roadgrangemouth stirlingshire fk3 9xngb<sep>russell, james allardicebp chemicals limited bo'ness roadgrangemouth stirlingshire fk3 9xngb<sep>marsh, christopher reginald  <sep>russell, james allardice <sep>marsh, christopher reginaldbp chemicals limited bo'ness roadgrangemouth stirlingshire fk3 9xngb<sep>russell, james allardicebp chemicals limited bo'ness roadgrangemouth stirlingshire fk3 9xngb<sep>
+</INVENTOR>
+<ABSTRACT>
+phenol containing less than 30 ppm hydroxyacetone is  produced by feeding hydroxyacetone-contaminated phenol  obtained by the decomposition of cumene hydroperoxide,  which phenol is substantially free from cleavage catalyst and  light ends such as acetone and water, and up to 22% by  weight of cumene and/or alpha-methyl styrene to an intermediate  point in a distillation column from which there is  removed overhead a fraction containing cumene and/or  alpha-methyl styrene and a substantial proportion of the  hydroxyacetone in the feed and there is removed from the  base a fraction comprising phenol containing less than 30  ppm hydroxyacetone, whilst maintaining the column under  such conditions of temperature and pressure that cumene  and/or alpha-methyl styrene forms from 55 to 80% by  weight of the composition on the uppermost 15 to 70% of the  trays in the stripping section and phenol forms greater than  50% by weight of the composition on the bottommost 10 to  50% of the trays in the stripping section.  
+</ABSTRACT>
+</TEXT>
+</DOC>

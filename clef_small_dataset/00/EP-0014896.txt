@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014896
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-1/46 C25B-1/00 C25B-11/00 H01M-4/88 C25B-11/04 H01M-4/86 <main>C25B-1/34</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas diffusion electrode.
+</TITLE>
+<APPLICANT>
+asahi glass co ltdjp<sep>asahi glass company ltd.<sep>asahi glass company ltd.no. 1-2, marunouchi 2-chomechiyoda-ku, tokyojp<sep>asahi glass company ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+morimoto takeshi<sep>oda yoshio<sep>suzuki kohji<sep>morimoto, takeshi<sep>oda, yoshio<sep>suzuki, kohji<sep>morimoto, takeshino. 543, sanmaicho kanagawa-kuyokohama-shi kanagawa-kenjp<sep>oda, yoshiono. 435, kamisugetacho hodogaya-kuyokohama-shi kanagawa-kenjp<sep>suzuki, kohji2-59-1,tsurugamine asahi-kuyokohama-shi kaanagawa-kenjp<sep>morimoto, takeshi<sep>oda, yoshio<sep>suzuki, kohji<sep>morimoto, takeshino. 543, sanmaicho kanagawa-kuyokohama-shi kanagawa-kenjp<sep>oda, yoshiono. 435, kamisugetacho hodogaya-kuyokohama-shi kanagawa-kenjp<sep>suzuki, kohji2-59-1,tsurugamine asahi-kuyokohama-shi kaanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a gas diffusion electrode is used as a cathode for an  electrolysis of an alkali metal chloride or an electrode in a fuel  cell etc.  a gas diffusion electrode has a porous layer made of a  sintered mixture of a filler, a catalyst and a hydrophobic mat­ erial which is formed by decomposing a pore forming agent  selected from the group consisting of nickel, cobalt or iron  salts of a carboxylic acids which is incorporated in a mixture of  said filler, said catalyst and said hydrophobic material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

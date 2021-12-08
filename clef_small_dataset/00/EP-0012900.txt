@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012900
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-47/00 <main>H01J-47/02</main> G01T-1/185 G01T-1/29 H01J-47/02 A61B-6/03 G01T-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiation detector having a unitary free floating electrode assembly.
+</TITLE>
+<APPLICANT>
+gen electricus<sep>general electric company<sep>general electric company1 river roadschenectady new york 12305us<sep>general electric company  <sep>
+</APPLICANT>
+<INVENTOR>
+cotic dennis john<sep>cotic, dennis john<sep>cotic, dennis john10033 west hamptonmilwaukee wisconsinus<sep>cotic, dennis john<sep>cotic, dennis john10033 west hamptonmilwaukee wisconsinus<sep>
+</INVENTOR>
+<ABSTRACT>
+a multicell x-ray radiation detector includes a chamber  for confining a gas that produces electron-ion pairs incidental  to absorbing radiation.  the chamber (12) is formed by a channel  having a bottom (20) and sidewalls (22), one of the side  walls having a window (28) for admitting radiation to the  chamber.  a multicell unitary electrode assembly (34) is  mounted within the chamber.  an upper compressed elastic  member (70) is interposed between the electrode assembly  and the chamber and, similarly, a rear compressed elastic  member (74) is interposed between the assembly and the  sidewall opposite the window of the chamber.  the compressed  elastic members interposed between the electrode  assembly and the chamber isolate the electrode assembly  from any mechanical vibration and thermal distortion of the  chamber while maintaining a precise position of the electrode  assembly to the chamber window.  
+</ABSTRACT>
+</TEXT>
+</DOC>

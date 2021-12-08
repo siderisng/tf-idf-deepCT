@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004009
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-7/22 H01B-13/00 <main>H01B-12/00</main> H01F-6/06 H01B-12/02 H01B-12/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+superconductor structure and method of producing same.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+marsing helmut<sep>marsing, helmut<sep>marsing, helmutlerchenweg 8d-8524 neunkirchen a.br.de<sep>marsing, helmut<sep>marsing, helmutlerchenweg 8d-8524 neunkirchen a.br.de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a superconductor structure with a stabilized superconductor (7) which is surrounded by a shell (9) from a reinforcing material whose interior is provided with cavities (16) for guiding a cooling medium. About this shell (9), the superconducting can absorb high in large magnets occurring forces, without being damaged by the superconductor (7). Such superconducting should be prepared relatively easily and accordingly inexpensively, without affecting the cooling of the superconductor (7) enclosed in it and its power absorption capacity. The invention provides a sheath (9) from a protruded sheet metal bent around the superconductor (7), which extends in the conductor longitudinal direction, strip-shaped zones (14) applied to the superconductor (7) and therebetween from the surface (13) of the Supral conductor (7) spaced, strip-shaped zones (15) containing, wherein in the so-formed outer recesses (17) of the shell (9) filling strip (18) predetermined starch are arranged. In the corresponding manufacturing method, an initially smooth sheet is formed without choosing to a sheet with the gutter-like depressions, then the thus pre-profiled sheet metal about the superconductor (7) is rotated and closed to the shell (9) and finally the filling strips (18) in the External gutter-like depressions (17) laid and optionally attached there. Such superconducting is particularly suitable for multilayer windings in superconducting large magnets such as fusion magnets.
+</ABSTRACT>
+</TEXT>
+</DOC>

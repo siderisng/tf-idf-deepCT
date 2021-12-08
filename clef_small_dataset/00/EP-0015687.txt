@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015687
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/53 G01N-33/78 <main>G01N-33/56</main> G01N-33/74 G01N-33/543 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+measurements of free ligands.
+</TITLE>
+<APPLICANT>
+fortia abse<sep>ab fortia<sep>pharmacia abrapsgatan 7 box 604751 25 uppsalase<sep>ab fortia <sep>
+</APPLICANT>
+<INVENTOR>
+ekins roger philip<sep>ekins, roger philip<sep>ekins, roger philippondweed place friday streetnear dorking surreygb<sep>ekins, roger philip <sep>ekins, roger philippondweed place friday streetnear dorking surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for the measurement of the concentration of a  free ligand in a liquid sample also containing the ligand bound  to endogenous binding material includes the steps of incubat­ ing the liquid sample with an amount of an immobilised binding  agent such that an amount of the free ligand related to the initial  concentration of free ligand becomes bound to the immobi­ lised binding agent, and estimating with the aid of a labelled  reagent the amount to the ligand bound to the immobilised  binding agent and hence the initial concentration of free ligand,  using as a means of calibration the results obtained under the  same procedure using standard solutions containing known fi­ nal concentrations of the free ligand.  the measurement of the  free ligand concentration can be carried out by a direct or indi­ rect method and standard solutions free from endogenous  binding material can be used for direct or indirect calibration to  provide a method which does not eventually rely for standardi­ sation on another method of determining such a concentration  in standard samples containing endogenous binding material.   the method is of particular value for measuring free thyroid  hormone concentration using immobilised antibody specific to  thyroid hormone.  
+</ABSTRACT>
+</TEXT>
+</DOC>

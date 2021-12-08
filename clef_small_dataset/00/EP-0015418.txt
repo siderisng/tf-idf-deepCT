@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015418
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/135 A61P-25/02 C07C-93/06 A61P-25/00 A61K-31/13 A61K-31/045 A61K-31/05 A61K-20060101S C07B-31/00 C07C-213/00 C07C-217/00 C07C-39/00 C07C-217/34 <main>C07B-19/00</main> C07B-57/00 C07C-67/00 C07C-39/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separation of the two optical isomers of 1-(o-methoxyphenoxy)-3-isopropylamino-propan-2-ol, optical isomers obtained thereby and pharmaceutical compositions of the levorotatory antipode thereof.
+</TITLE>
+<APPLICANT>
+siemens spa italiana it  <sep>siemens spa italiana<sep>simes s.p.a. società italiana medicinali e sinteticivia bellerio 41i-20161 milanoit<sep>siemens spa italiana  <sep>
+</APPLICANT>
+<INVENTOR>
+ferrari giorgio<sep>vecchietti vittorio<sep>ferrari, giorgio<sep>vecchietti, vittorio<sep>ferrari, giorgiovia borgonuovo, 7i-20121 milanoit<sep>vecchietti, vittoriovia spartaco, 23i-20135 milanoit<sep>ferrari, giorgio<sep>vecchietti, vittorio<sep>ferrari, giorgiovia borgonuovo, 7i-20121 milanoit<sep>vecchietti, vittoriovia spartaco, 23i-20135 milanoit<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the separation of moprolol having formula  (i) into its two optical antipodes, by salifying racemic moprolol  with l(+)glutamic acid; treating the thus obtained mixture of  diastereoisomeric salts with a water/alcohol mixture, in this  way separating the l(+)glutamate insoluble salt of (+)moprol­ ol; treating the resultant mother liquors which contain in solu­ tion the l(+)glutamate sart of (-)moprolol with a base so as to  separate the levorotatory isomer of crystalline moprolol, which  finally undergoes a purification.  also a pharmaceutical composition containing said levo­ rotatory isomer of  
+</ABSTRACT>
+</TEXT>
+</DOC>

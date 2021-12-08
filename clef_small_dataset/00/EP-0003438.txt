@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003438
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-43/01 <main>H01R-43/04</main> H01R-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tool for loading an electrical connector with wires.
+</TITLE>
+<APPLICANT>
+amp incus<sep>amp incorporated<sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>amp incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+tucci john james<sep>tucci, john james<sep>tucci, john james1751 meadowglen lanewinston-salem north carolina 27107us<sep>tucci, john james  <sep>tucci, john james1751 meadowglen lanewinston-salem north carolina 27107us<sep>
+</INVENTOR>
+<ABSTRACT>
+a tool for loading an electrical connector with wires.  the tool is for loading wires into slotted plate terminals  of an electrical connector held in a jig (6, 92), a wire inserter  (32) being movable towards the jig (6, 92) to insert the wires  which are positioned between the teeth of a wire comb (72).  for the provision of a simple and compact tool, especially  for use in wiring large upright wiring panels, the inserter  (32) is swingable about a shaft (36) by means of a handle (33)  and is indexable along the shaft (36) to load each terminal of  the connector in turn.  
+</ABSTRACT>
+</TEXT>
+</DOC>

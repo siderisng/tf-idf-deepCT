@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013341
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G10L-21/04 H04B-1/66 G10L-21/00 <main>H04B-1/66</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+time compression system for speech signals.
+</TITLE>
+<APPLICANT>
+ibmus   <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bringol charles ronald<sep>snyder garry francis<sep>bringol charles ronald<sep>snyder, garry francis<sep>bringol charles ronald3903 sidehill pathaustin, texas 78731us<sep>snyder, garry francis1506 creekview driveaustin, texas 78664us<sep>bringol charles ronald  <sep>snyder, garry francis <sep>bringol charles ronald3903 sidehill pathaustin, texas 78731us<sep>snyder, garry francis1506 creekview driveaustin, texas 78664us<sep>
+</INVENTOR>
+<ABSTRACT>
+System comprising an analog-digital converter (6), two buffer memories (12, 16), a device (92) for loading the signals from the converter (6) alternately in one or the other of the buffersAccording to a first flow and read alternately either of the buffers in a second rate, digital-analog converters (20, 24), and a switching device (28) for alternatively loading one of the memories-Takes and read the other memory when the output levels of the digital-analog converters are equal and are located inside a predetermined Inter Valle, so that the juxtaposition of signal segments from memory comes without transitions.abrupt.
+</ABSTRACT>
+</TEXT>
+</DOC>

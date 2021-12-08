@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005779
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-229/42 <main>C07C-59/54</main> C07C-59/00 B01J-31/00 C07C-59/84 C07C-59/86 C07C-59/88 C07C-229/00 B01J-23/00 C07C-67/00 C07C-59/76 C07C-229/34 C07C-51/347 C07D-317/60 C07C-51/00 C07B-3/00 C07D-317/00 C07C-59/90 C07C-65/32 C07C-227/00 C07C-227/16 B01J-27/00 C07C-65/00 C07C-51/373 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of arylglyoxylic acids.
+</TITLE>
+<APPLICANT>
+bayer agde <sep>bayer aktiengesellschaft<sep>bayer ag 51368 leverkusen de <sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+bauer kurt dr<sep>fiege helmut dr<sep>molleken reiner dr<sep>wedemeyer karlfried dr<sep>bauer, kurt, dr.<sep>fiege, helmut, dr.<sep>molleken, reiner, dr.<sep>wedemeyer, karlfried, dr.<sep>bauer, kurt, dr.corveyblick 41d-3450 holzmindende<sep>fiege, helmut, dr.walter-flex-strasse 8d-5090 leverkusen 1de<sep>mölleken, reiner, dr.forstbachtal 35d-3451 golmbach ortsteil warbsende<sep>wedemeyer, karlfried, dr.bilharzstrasse 7d-5000 köln 80de<sep>bauer, kurt, dr.<sep>fiege, helmut, dr.<sep>molleken, reiner, dr.<sep>wedemeyer, karlfried, dr.<sep>bauer, kurt, dr.corveyblick 41d-3450 holzmindende<sep>fiege, helmut, dr.walter-flex-strasse 8d-5090 leverkusen 1de<sep>mölleken, reiner, dr.forstbachtal 35d-3451 golmbach ortsteil warbsende<sep>wedemeyer, karlfried, dr.bilharzstrasse 7d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a novel process for the preparation of aryl glyoxyl acids (e.g., phenylglyoxylic acid) by catalytic oxidation of α-hydroxyarylessic acids (e.g. b. of mandelic acid) of the general formula (with the meanings specified for the symbols R, M and N in the description).The method is characterized by the oxidation of oxygen or molecular oxygen-containing gases in aqueous-alkaline medium in the presence of platinum metal catalysts with simultaneous presence of lead and / or bismuth and / or dooren compounds and optionally in the presence of an inert organic solventperforms at temperatures up to the boiling point of the reaction mixture.The aryl glyoxyl acids serve as organic intermediates, e.g.b.for the production of pesticides.
+</ABSTRACT>
+</TEXT>
+</DOC>

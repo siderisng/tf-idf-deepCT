@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001150
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-10/00 C08F-6/00 <main>C08F-6/02</main> C08F-6/02 C08F-6/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separation of low-pressure polyolefins comprising the addition of carbon monoxide to the reaction mixture.
+</TITLE>
+<APPLICANT>
+solvaybe<sep>solvay & cie (societe anonyme)<sep>solvay &amp; cie (société anonyme)rue du prince albert, 33b-1050 bruxellesbe<sep>solvay & cie (societe anonyme) <sep>
+</APPLICANT>
+<INVENTOR>
+baekelmans paul<sep>cuypers herve<sep>baekelmans, paul<sep>cuypers, herve<sep>baekelmans, paulchemin sainte-anne, 16b-1320 genvalbe<sep>cuypers, hervéavenue des fauvettes, 1b-1341 céroux-moustybe<sep>baekelmans, paul <sep>cuypers, herve  <sep>baekelmans, paulchemin sainte-anne, 16b-1320 genvalbe<sep>cuypers, hervéavenue des fauvettes, 1b-1341 céroux-moustybe<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for separating the polyolefins manufactured at low pressure to the intervention of catalysts, such as those comprising a chlorinated titanium compound.The reaction medium is added to the polymer, carbon monoxide.The method makes it possible to obtain perfectly homogeneous polyolefins that can be used for the manufacture of films and fibers.
+</ABSTRACT>
+</TEXT>
+</DOC>

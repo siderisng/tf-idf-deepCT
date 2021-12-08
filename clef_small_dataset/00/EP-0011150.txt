@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011150
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-31/04 C07C-29/154 C07C-31/00 C07C-29/15 B01J-23/76 C07C-29/00 <main>C07C-31/04</main> C07C-67/00 B01J-27/20 B01J-23/00 C07B-61/00 C07C-27/00 B01J-23/80 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+manufacture of methanol by hydrogenation of carbon oxides and a method for producing a catalyst for this hydrogenation.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+broecker franz josef dr<sep>gruendler karl-heinz dr  <sep>marosi laszlo dr<sep>schwarzmann matthias dr<sep>triebskorn bruno dr<sep>zirker guenter dr<sep>broecker, franz josef, dr.<sep>gruendler, karl-heinz, dr.<sep>marosi, laszlo, dr.<sep>schwarzmann, matthias, dr.<sep>triebskorn, bruno, dr.<sep>zirker, guenter, dr.<sep>broecker, franz josef, dr.schwanthaler allee 20d-6700 ludwigshafende<sep>gruendler, karl-heinz, dr.hockenheimer strasse 16d-6703 limburgerhofde<sep>marosi, laszlo, dr.londoner ring 11d-6700 ludwigshafende<sep>schwarzmann, matthias, dr.carl-bosch-strasse 54d-6703 limburgerhofde<sep>triebskorn, bruno, dr.mohnstrasse 23d-6700 ludwigshafende<sep>zirker, guenter, dr.schelmenzeile 78d-6700 ludwigshafende<sep>broecker, franz josef, dr.<sep>gruendler, karl-heinz, dr.<sep>marosi, laszlo, dr. <sep>schwarzmann, matthias, dr.<sep>triebskorn, bruno, dr.  <sep>zirker, guenter, dr. <sep>broecker, franz josef, dr.schwanthaler allee 20d-6700 ludwigshafende<sep>gruendler, karl-heinz, dr.hockenheimer strasse 16d-6703 limburgerhofde<sep>marosi, laszlo, dr.londoner ring 11d-6700 ludwigshafende<sep>schwarzmann, matthias, dr.carl-bosch-strasse 54d-6703 limburgerhofde<sep>triebskorn, bruno, dr.mohnstrasse 23d-6700 ludwigshafende<sep>zirker, guenter, dr.schelmenzeile 78d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing methanol by transplexing a gas mixture of carbon monoxide, carbon dioxide and hydrogen at elevator temperature and at elevated pressure in the presence of a catalyst containing zinc, copper and aluminum, the catalyst of a mixed crystal of the formula Cu2.2zn2.8(OH) ₆ (CO₃) ₂ The aluminum hydroxide contains as a structural primer, produced by calcination and reduction at temperatures between 160 and 350 ° C.The advantage of using the new catalyst is a substantially improved space-time yield as well as in increasing the life of the catalyst.This fact is by FIG.1 illu, where curve 1 is the space-time yield (A) on methanol depending on time (T) with the help of the login-sizing catalyst and curve 2, the space-time yield depends on the time with the aid of a catalyst of the contemplation of the technique of higher copper content.
+</ABSTRACT>
+</TEXT>
+</DOC>

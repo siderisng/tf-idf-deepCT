@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016532
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04C-29/02 <main>F04C-29/02</main> F04C-18/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+scroll-type fluid compressor unit.
+</TITLE>
+<APPLICANT>
+sankyo electric cojp<sep>sankyo electric company limited<sep>sanden corporation20 kotobuki-choisesaki-shi gunma-kenjp<sep>sanden corporation <sep>
+</APPLICANT>
+<INVENTOR>
+hiraga masaharu<sep>terauchi kiyoshi<sep>hiraga, masaharu<sep>terauchi, kiyoshi<sep>hiraga, masaharu8-34, honjo 4-chomehonjo-shi, saitama-kenjp<sep>terauchi, kiyoshi8-14 heiwa-choisesaki-shi, gunma-kenjp<sep>hiraga, masaharu <sep>terauchi, kiyoshi  <sep>hiraga, masaharu8-34, honjo 4-chomehonjo-shi, saitama-kenjp<sep>terauchi, kiyoshi8-14 heiwa-choisesaki-shi, gunma-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a scroll type compressor unit including interfitting fixed  and orbiting scroll members in a compressor housing, a crank  shaft (15) projecting from the interior of the compressor hous­ ing and rotatably supported by a radial bearing (14), a crank  pin (22) on an inner end of the crank shaft, on which pin the  orbiting scroll member (23) is rotatably supported by another  radial bearing (26), and a rotation preventing mechanism for  preventing the orbiting scroll member from rotating.  an oil  accumulating chamber (32) is provided in the compressor  housing to connect with the fluid inlet port of the compressor  housing in order to lubricate those radial bearings and other  moving parts.  a shaft seal assembly (17) is mounted on the  crank shaft in a shaft seal cavity which communicates with the  oil accumulating chamber through a first oil passageway (33)  formed in the wall of the compressor housing.  the compres­ sor housing is provided with an oil defector (35) depending  from its inner surface and a second oil passageway (37)  formed in the wall of the compressor housing so as to provide  communication between the interior of the compressor hous­ ing adjacent to the oil deflector and the oil accumulating  chamber.  cool lubricating oil in the oil accumulating chamber  circulates through the first oil passageway (33), the shaft seal  cavity (17), the interior of the compressor housing and the  second oil passageway (37), lubricating the shaft seal assem­ bly, the radial bearings, the scroll members and other moving  parts in the compressor housing.  
+</ABSTRACT>
+</TEXT>
+</DOC>

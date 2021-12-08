@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010750
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-20/14 G01N-1/36 C08F-20/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and embedding system for embedding tissue specimens.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+mueck karl-friedrich drde <sep>post lotharde <sep>westen hannes dr de<sep>mueck, karl-friedrich, dr.<sep>post, lothar<sep>westen, hannes, dr.<sep>mück, karl-friedrich, dr.wittenberger strasse 17d-6200 wiesbadende<sep>post, lotharberliner ring 2d-6233 kelkheim (taunus)de<sep>westen, hannes, dr.gustav-mahler-strasse 6d-6200 wiesbadende<sep>
+</INVENTOR>
+<ABSTRACT>
+the process for embedding tissue specimens in methyl methacrylate, where appropriate mixed with other (meth)acrylates, takes place at low temperatures using a low-temperature initiator system.  this makes it possible substantially to retain the enzyme activity and cell morphology. 
+</ABSTRACT>
+</TEXT>
+</DOC>

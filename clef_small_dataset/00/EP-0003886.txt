@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003886
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-17/49 <main>H01J-65/04</main> G09G-3/28 G06F-3/147 G09G-3/29 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas discharge display apparatuses using self shift gas discharge panels, and methods of driving such panels.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+ishizaki hiroyuki<sep>kashiwara hirofumi<sep>kawada toyoshi <sep>murase kenji<sep>yamaguchi hisashi  <sep>ishizaki, hiroyuki<sep>kashiwara, hirofumi<sep>kawada, toyoshi<sep>murase, kenji<sep>yamaguchi, hisashi<sep>ishizaki, hiroyuki13-14, takaoka 6-chomeokubo-cho akashi-shi hyogojp<sep>kashiwara, hirofumi8-1, kubota-chokasai-shi hyogojp<sep>kawada, toyoshi10-20, tamondai 1-chometarumi-ku kobe-shi hyogojp<sep>murase, kenji343, shinzaike, hiraoka-chokakogawa-shi hyogojp<sep>yamaguchi, hisashi1179-98, rokubuichi inami-chokako-gun hyogojp<sep>ishizaki, hiroyuki<sep>kashiwara, hirofumi<sep>kawada, toyoshi<sep>murase, kenji <sep>yamaguchi, hisashi  <sep>ishizaki, hiroyuki13-14, takaoka 6-chomeokubo-cho akashi-shi hyogojp<sep>kashiwara, hirofumi8-1, kubota-chokasai-shi hyogojp<sep>kawada, toyoshi10-20, tamondai 1-chometarumi-ku kobe-shi hyogojp<sep>murase, kenji343, shinzaike, hiraoka-chokakogawa-shi hyogojp<sep>yamaguchi, hisashi1179-98, rokubuichi inami-chokako-gun hyogojp<sep>
+</INVENTOR>
+<ABSTRACT>
+gas discharge display apparatuses using self shift gas  discharge panels, and methods of driving such panels, are  provided which allow different areas of a panel to be operated  by means of common driving signals in respective different  modes selectively, to permit, for example, editing and  random address functions.  there may be a first row of areas (11, 12), into each of  which data characters can be independently written, and a  further row of areas (13, 14), alongside the first row, into  which data characters can be shifted from respective areas  (11, 12) of the first row.  the areas (11, 12, 13, 14) can be operated  so that normal shifting, sway shifting (or stationary display)  are simultaneously effected in different areas.  if complete data characters are written into successively  selected display areas (11, 12) of the first row in turn it may be  difficult for an operator to read the sense of the data characters.  data characters, each built up of a matrix of discharge  spots, may be written into respective successively selected  areas one line of discharge spots at a time, a first line of a  first character being written into a first area (11), then a first  line of a second character written into a second area (12) and  so on, so that the character matrices are built up line by line  and the characters seem, to an operator, to appear together.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005675
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60T-11/34 F16D-65/72 F16D-65/16 F16D-65/38 F16D-65/24 <main>B60T-11/34</main> B60T-11/10 B60T-8/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+wheel cylinder.
+</TITLE>
+<APPLICANT>
+dba safr<sep>societe anonyme d.b.a.<sep>bendix france126, rue de stalingradf-93700 drancy fr<sep>societe anonyme d.b.a.<sep>
+</APPLICANT>
+<INVENTOR>
+levrai roland  <sep>riquart christian<sep>levrai, roland<sep>riquart, christian<sep>levrai, roland9 bis avenue monmousseauf-93240 stainsfr<sep>riquart, christian33 rue fessartf-75019 parisfr<sep>levrai, roland  <sep>riquart, christian <sep>levrai, roland9 bis avenue monmousseauf-93240 stainsfr<sep>riquart, christian33 rue fessartf-75019 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a wheel cylinder comprising a body (12), in the interior of which a bore (14) is formed, with at least on actuating piston (16) being slidably mounted in the bore at one end thereof and bounding a pressure chamber (20) with the latter, said actuating piston (16) being adapted to be movable towards the exterior of the bore for urging a first shoe (22) of a drum brake, said cylinder comprising a supply passage (30, 32, 34, 36) for supplying said pressure chamber (20) with fluid under pressure from a source of pressure fluid, a valve (50) adapted to modulate the pressure in the pressure chamber (20) according to the pressure supplied by the pressure source being incorporated in the wheel cylinder, characterized in that the supply passage (30, 32, 34, 36) comprises a portion (32, 34, 36) constituted by an annular groove (32) of the actuating piston (16) adapted to receive fluid under pressure from the pressure source, a blind axial bore (34) being defined in the actuating piston, said blind bore (34) being in communication with the annular groove (32) and opening towards the pressure chamber (20), said valve (50) being of the differential piston type and being disposed in the blind bore (34) of the actuating piston (16), the valve (50) occupying, for an inlet pressure below a predetermined value, an opening position allowing a pressure increase in the pressure chamber (20) equal to the increase of the inlet pressure ; and the valve (50) for an inlet pressure above said predetermined value, performing a succession of opening and closing movements allowing only a pressure increase in the pressure chamber (20) smaller than the increase of the inlet pressure, according to the ratio of the effective surfaces of the differential piston (52). 
+</ABSTRACT>
+</TEXT>
+</DOC>

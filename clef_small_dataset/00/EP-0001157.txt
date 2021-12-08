@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001157
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-69/28 C08G-69/00 <main>C08G-69/28</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid phase process for preparing high molecular weight polyamides and shaped products made from the polyamides obtained.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company <sep>
+</APPLICANT>
+<INVENTOR>
+sprauer jerome william<sep>sprauer, jerome william<sep>sprauer, jerome william200 dakota avenue shipley heightswilmington delaware 19803us<sep>sprauer, jerome william <sep>sprauer, jerome william200 dakota avenue shipley heightswilmington delaware 19803us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for making a high molecular weight  polyamide, wherein a diacid-rich component and a diamine-rich  component are prepared separately in nonstoichiometric  proportions.  each of the separately prepared components  melts below the melting temperature of the polyamide product,  and preferably below 200°c.  the diacid-rich component  and the diamine-rich component are contacted in the liquid  state at a high enough temperature to prevent solidification,  and in proportions such that the total amounts of diacid and  diamine are as close as possible to stoichiometric.  a major  utility of this process is in the production of nylon 66, a known  fiber-forming polyamide and engineering plastic.  
+</ABSTRACT>
+</TEXT>
+</DOC>

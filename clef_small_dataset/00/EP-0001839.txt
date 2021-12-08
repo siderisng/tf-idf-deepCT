@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001839
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-45/02 F16H-61/14 F16H-45/00 <main>F16H-45/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a hydrokinetic torque transmission unit.
+</TITLE>
+<APPLICANT>
+ford francede<sep>ford motor co de <sep>ford werke agde<sep>ford france societe anonyme<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company limited <sep>ford-werke aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+ling ching-chung<sep>ling, ching - chung<sep>ling, ching - chung11854 tall tree driveplymouth michigan 48170us<sep>ling, ching - chung  <sep>ling, ching - chung11854 tall tree driveplymouth michigan 48170us<sep>
+</INVENTOR>
+<ABSTRACT>
+a hydrokinetic torque converter with an internal friction  clutch wherein provision is made for actuating the clutch in  response to changes in hydrokinetic torus circuit pressure  and wherein provision is made for engaging and disengaging  the clutch by controlling the direction of fluid flow to and  from the torus circuit of the converter.  
+</ABSTRACT>
+</TEXT>
+</DOC>

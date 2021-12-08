@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001773
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-14/81 C07K-1/113 C07K-14/435 C07K-1/00 A61P-3/00 A61P-29/00 A61K-38/55 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of bpti (basic pancreatic trypsin-inhibitor), process for their preparation and their use as medicines.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+opitz hans-georg drde<sep>reinhardt gerd drde<sep>schlumberger horst dieter profde<sep>schnabel eugen drde <sep>truscheit ernst drde <sep>tschesche harald prof dr de<sep>opitz, hans-georg, dr.<sep>reinhardt, gerd, dr.<sep>schlumberger, horst dieter, prof. dr.<sep>schnabel, eugen, dr.<sep>truscheit, ernst, dr.<sep>tschesche, harald, prof. dr.<sep>opitz, hans-georg, dr.steinberger weg 52d-5600 wuppertal 17de<sep>reinhardt, gerd, dr.am eckbusch 55ad-5600 wuppertal 1de<sep>schlumberger, horst dieter, prof. dr.schwartnerstrasse 5d-5600 wuppertal 2de<sep>schnabel, eugen, dr.schimmelweg 6d-5600 wuppertal 11de<sep>truscheit, ernst, dr.horather strasse 160d-5600 wuppertal 1de<sep>tschesche, harald, prof. dr.im strohsiek 24d-4800 bielefeld 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+derivatives of trypsin kallikrein inhibitor from animal organs, preferably from the organs of cattle are prepared by reacting bpti, or bpti derivatives with free carboxyl groups, with carbodiimides followed, where appropriate, by deamidation or azo coupling with diazonium salts, and these bpti derivatives are used as medicines, in particular medicines whose action is based on protease inhibition. 
+</ABSTRACT>
+</TEXT>
+</DOC>

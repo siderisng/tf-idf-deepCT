@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002109
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-19/04 H01L-31/0336 H01L-51/42 <main>H01L-21/477</main> C25D-7/00 C23C-18/00 H01L-21/208 H01L-31/18 C01B-17/20 H01L-51/05 H01L-51/30 H01L-21/479 C25D-13/02 C01B-17/00 H01L-21/428 H01L-21/477 H01L-31/0264 H01L-21/02 H01L-21/368 C01G-1/12 H01L-21/318 H01L-21/365 C01B-19/00 C23C-18/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for the preparation of thin photoconductive films and of solar cells employing said thin photoconductive films.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+barlow william andrew<sep>jones keith<sep>rhodes maurice<sep>roughley david james<sep>sherliker francis raymond<sep>williams edward watkin<sep>barlow, william andrew<sep>jones, keith<sep>rhodes, maurice<sep>roughley, david james<sep>sherliker, francis raymond<sep>williams, edward watkin<sep>barlow, william andrew23 westerton roadwest derby liverpool 12gb<sep>jones, keith20 banksideweaverham northwich cheshiregb<sep>rhodes, maurice19 bosburn drivemellor brook blackburn lancashiregb<sep>roughley, david james172 dentons green lanest. helen merseysidegb<sep>sherliker, francis raymond3 campbell avenueruncorn cheshiregb<sep>williams, edward watkin7 birchland close mortimer west endreading berkshiregb<sep>barlow, william andrew <sep>jones, keith<sep>rhodes, maurice  <sep>roughley, david james <sep>sherliker, francis raymond<sep>williams, edward watkin<sep>barlow, william andrew23 westerton roadwest derby liverpool 12gb<sep>jones, keith20 banksideweaverham northwich cheshiregb<sep>rhodes, maurice19 bosburn drivemellor brook blackburn lancashiregb<sep>roughley, david james172 dentons green lanest. helen merseysidegb<sep>sherliker, francis raymond3 campbell avenueruncorn cheshiregb<sep>williams, edward watkin7 birchland close mortimer west endreading berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+preparation of thin substantially pin-hole-free films  of a semiconducting sulphide, sulphoselenide, selenide  or telluride is achieved by the deposition of a film of the  semiconductor and the application of heat preferentially  to one surface of the film to establish a temperature differential  between the surfaces of the film.  the films may be  employed in solid state devices and particularly in solar  cells.  in a solar cell the film (2), deposited on an electrically  conducting substrate (1), forms a junction (4) with a semi-conductor  (3), which is in contact with an electrode (5).  
+</ABSTRACT>
+</TEXT>
+</DOC>

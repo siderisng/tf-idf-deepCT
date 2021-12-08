@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011407
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-6/08 A61B-6/00 A61B-6/04 A61B-6/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+x-ray examination apparatus, particularly for x-ray photographs of the head.
+</TITLE>
+<APPLICANT>
+pfizerus<sep>pfizer inc.<sep>pfizer inc.235 east 42nd streetnew york, n.y. 10017us<sep>
+</APPLICANT>
+<INVENTOR>
+iversen arthur henryus<sep>magyar john paulus<sep>iversen, arthur henry<sep>magyar, john paul<sep>iversen, arthur henry15315 sobey roadsaratoga californiaus<sep>magyar, john paul3851 caribbean lanephoenix arizona 85023us<sep>
+</INVENTOR>
+<ABSTRACT>
+precise orientation of an x-ray apparatus in which the  x-ray tube (10) and film cassette (11) are mounted on opposite  ends of a c-shaped arm (14) is facilitated by a chair (1) for the  patient which is precisely movable along x and y axes with  the digital readout of adjusted positions.  the angular rotation  of the chair (1) also has a digital readout.  all of the readouts  (60,62,64) may be adjusted to zero at basic positions to facili­ tate adjustment.  the angle of the c-arm (14) is displayed by an  inclinometer (48) which also may be adjusted to zero at a basic  position.  the chair (1) has an adjustable cradle (6) for the head  and the entire chair may be tilted to an acute angle to support  unconscious or disabled patients without interfering sup­ ports.  orientation of the c-arm (14) is also facilitated by a light  source (44) removably mounted over the film cassette (11),  which designates the exit point of the x-ray on the patient.  
+</ABSTRACT>
+</TEXT>
+</DOC>

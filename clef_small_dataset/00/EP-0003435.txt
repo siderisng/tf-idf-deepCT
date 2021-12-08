@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003435
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-4/24 H01R-20060101S H01R-12/38 H01R-12/00 <main>H01R-23/02</main> H01R-12/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical connector for establishing connections between a flat flexible cable and a further connector.
+</TITLE>
+<APPLICANT>
+amp incus<sep>amp incorporated<sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>amp incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+moser jessie lee<sep>shoemaker john robert<sep>moser, jessie lee<sep>shoemaker, john robert<sep>moser, jessie lee3423 corvair drivehigh point north carolina 27260us<sep>shoemaker, john robertbox 255 route 2reidsville north carolina 27320us<sep>moser, jessie lee  <sep>shoemaker, john robert<sep>moser, jessie lee3423 corvair drivehigh point north carolina 27260us<sep>shoemaker, john robertbox 255 route 2reidsville north carolina 27320us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrical connector comprises a body of electrically  insulating material carrying a plurality of electrical contacts  all lying in a common plane, each contact (5) having a first  contact portion (12) accessible through a window (13) in the  body (4) and adapted for reception in the slot of a slotted  plate terminal (15) of a further electrical connector (3), and  each contact (5) having a second contact portion (14)  projecting from the body (4) and in the form of a slotted plate  for receiving and establishing electrical connection to a  conductor of a flat flexible multi-conductor electrical cable  (2), all the second contact portions (14) of the contacts (5)  extending in the same direction and lying in a common  plane, the pitch distance between the first contact portions  (12) of the contacts (5) being different from that of the second  contact portions (14) of the contacts (5).  
+</ABSTRACT>
+</TEXT>
+</DOC>

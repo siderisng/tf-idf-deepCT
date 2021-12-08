@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001608
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 G01S-15/89 A61B-8/00 G01S-15/00 A61B-10/00 H04N-5/20 <main>G01S-7/62</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ultrasonic imaging apparatus.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+birk adalbert<sep>walz alfred<sep>birk, adalbert<sep>walz, alfred<sep>birk, adalbertpaul-gossen-strasse 34d-8520 erlangende<sep>walz, alfredtannenweg 14d-8501 burgthannde<sep>birk, adalbert<sep>walz, alfred<sep>birk, adalbertpaul-gossen-strasse 34d-8520 erlangende<sep>walz, alfredtannenweg 14d-8501 burgthannde<sep>
+</INVENTOR>
+<ABSTRACT>
+Ultrasonic image device for ultrasonic echo recording according to the pulse echo principle, with ultrasonic transmitter / receiver of the echo signals (E1) supplies with a specific dynamic range, and an image recording apparatus (12) for the echo signals having a non-linear luminance / drive characteristic.An image device should be provided with a signal transmission chain (16, 15; 6, 8; 9), which can be adjusted in a simple manner of the echodynamics range to the light sealing area detectable by the eye.This is achieved in that between the ultrasonic receiver (2) and image recording apparatus (12), a distortion (8), in particular linearization member, is turned on, the non-linear luminance / drive characteristic of the recording device (12) depending on a predefinable optimal dynamic range of the echo signalsDistorted by predefinable pattern, in particular linearized.
+</ABSTRACT>
+</TEXT>
+</DOC>

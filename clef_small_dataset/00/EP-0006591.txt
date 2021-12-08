@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006591
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+B61L-3/00 B61L-3/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data transmission system using a track circuit
+</TITLE>
+<APPLICANT>
+alsthom atlantiquefr<sep>societe anonyme dite: alsthom-atlantique<sep>alsthom-atlantique société anonyme dite:38, avenue kléberf-75784 paris cédex 16fr<sep>
+</APPLICANT>
+<INVENTOR>
+lallement roger fr<sep>pontier claude fr  <sep>lallement, roger<sep>pontier, claude<sep>lallement, roger2 rue des martyrsf-60110 merufr<sep>pontier, claude11 rue du berryf-78140 velizy-villacoublayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the system makes it possible to obtain a large flow of information and to increase the safety of railway traffic.  between a transmitter (3) disposed on the ground and a receiver (5) on board the railway vehicle receiving the information via the rail track short circuited by the axels of the vehicle, it comprises a frequency deviation modulated link.  applications: control of railway traffic safety.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+système de transmission de données par circuit de voie la présente invention concerne un système de transmission de données par un circuit de voie entre des équipements fixes situés sur ou à proximité immédiate d'une voie ferrée, d'une part, et des équipements mobiles situés à bord de véhicules ferroviaires circulant sur ladite voie terrée, d'autre part. le circuit de voie est un système classique de détection de la position des trains circulant sur une voie ferrée utilisée comme une ligne de transmission parcourue par un courant électrique lequel est court-circuité par les essieux du train. dans ce système, la voie est découpée en circuits de voie successifs et contigus avec chacun une source de courant (émetteur) les alimentant à leur extrémité aval - dans le sens de la marche des trains -et un récepteur de ce courant situé à leur extrémité amont. en l'absence de train entre les extrémités du circuit de voie, le courant délivré à la voie par l'émetteur parvient au récepteur et le circuit de vole est dit libre. en présence d'un train qui court-circuite la voie par ses essieux le courant de l'émetteur du circuit de voie ne parvient plus à son récepteur et le circuit de voie est dit occupé. dans ce cas le courant délivré à la voie par l'émetteur ne circule dans celle-ci qu'entre l'émetteur et le premier essieu (dans le sens de la marche) du train. le courant peut être reçu à bord du train, par induction par exemple, par des capteurs situés à proximité immédiate des rails constituant la voie et situés en avant de son premier essieu. jusqu'à présent, le courant transmis par la voie était modulé soit en amplitude soit en fréquence, soit par impulsions. les fréquences porteuses utilisées étaient soit à la fréquence du secteur 50 hz ou 60 hz, soit 2 khz soit 3 hz par impulsions. le principe de modulation des porteuses était d'interrompre l'émission de la porteuse et de t'ransmettre ainsi des informations par tout ou rien. l'inconvénient des procédés actuels réside dans la faiblesse du débit des informations par suite du principe de modulation et du fait que la fréquence porteuse est réduite. ainsi pour une porteuse de 50 hz l'interruption de celle-ci ne peut être réalisée que 270 fois par minute ce qui équivaut à un débit de 4,5 bauds ce qui est nettement insuffisant pour les besoins actuels. en effet si les trains sont rapides et si le canton est très court la lenteur du débit d'informations ne permet pas d'envoyer un grand nombre d'informations et d'utiliser une redondance suffisante des messages pour assurer un contrôle sûr à la réception. ces informations peuvent être des ordres d'arrêt envoyés au train, des limitation de vitesse, des autorisations de vitesse diverses, des indications de signalisation etc... le système selon la présente invention remédie à cet inconvénient. dans celui-ci en effet, le débit des données est très élevé et permet de couvrir largement les besoins d'une conduite de train automatisé. la présente invention a pour
+</DESCRIPTION>
+<CLAIMS>
+revendication    système de transmission des données par circuit de voie  comportant un émetteur disposé à proximité de la voie  ferrée et un récepteur à bord du véhicule ferroviaire  recevant les signaux électriques par l'intermédiaire de  la voie ferrée court-circuitée par les essieux du véhicule  ferroviaire, la modulation des messages télégraphiques  entre ledit émetteur et ledit récepteur étant réalisée  par déviation de fréquence,  de deux fréquences f1 et f2    sinusoldales,    caractérisé en ce que à la réception à bord  du véhicule les fréquences f1 et f2 sont transformées  en impulsions d correspondant aux zéros ascendants des  sinusoïdes déclenchant un premier monostable 17 dont la  durée t1 est inférieure à la période de f1 et dont le  front descendant commande les impulsions f d'un deuxième  monostable 18 de durée égale au double de la différence  entre t et la période de f1, une porte et, 19 recevant  à la fois les impulsions d et les impulsions f et permettent  en outre de délivrer des impulsions à la fréquence f1,  les impulsions d déclenchant un troisième monostable 20  dont la durée t3 est inférieure à la période de f2 et  dont le front descendant commande des impulsions k d'un  quatrième monostable 21 de durée égale au double de la  différence entre t3 et la période de f2,   une porte et, 22  recevant à la fois des impulsions d et des impulsions k  et permettant en outre de délivrer des impulsions à la  fréquence f2, lesdites impulsions f1, et f2 servant à  commander des états logiques 1 et 0.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006102
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-59/50 C07D-233/00 C07D-233/54 C07D-233/60 C08G-12/26 C10L-1/32 C08G-12/00 C07D-521/00 C07D-233/64 <main>C07D-233/60</main> C08G-59/40 C08G-59/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-hydroxymethylimidazoles, their preparation and use as chemical intermediates.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+dockner toni dr<sep>frank anton  <sep>karn helmut<sep>kempe uwe dr<sep>wetzler matthias<sep>dockner, toni, dr.<sep>frank, anton<sep>karn, helmut<sep>kempe, uwe, dr.<sep>wetzler, matthias<sep>dockner, toni, dr.grossgasse 6d-6701 meckenheimde<sep>frank, antonbannwasserstrasse 72d-6700 ludwigshafende<sep>karn, helmutsternstrasse 120d-6700 ludwigshafende<sep>kempe, uwe, dr.moenchhofstrasse 3 bd-6900 heidelbergde<sep>wetzler, matthiasliebermannstrasse 7d-6700 ludwigshafende<sep>dockner, toni, dr.<sep>frank, anton <sep>karn, helmut  <sep>kempe, uwe, dr.<sep>wetzler, matthias<sep>dockner, toni, dr.grossgasse 6d-6701 meckenheimde<sep>frank, antonbannwasserstrasse 72d-6700 ludwigshafende<sep>karn, helmutsternstrasse 120d-6700 ludwigshafende<sep>kempe, uwe, dr.moenchhofstrasse 3 bd-6900 heidelbergde<sep>wetzler, matthiasliebermannstrasse 7d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+1-hydroxymethylimidazoles of the formula in the R is a hydrogen atom or an alkyl radical having 1 to 18 C atoms, their preparation and their use as chemical intermediates, for example, for further imidazole derivatives or for the medicament cimetidine.
+</ABSTRACT>
+</TEXT>
+</DOC>

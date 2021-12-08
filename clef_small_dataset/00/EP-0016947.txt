@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016947
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12Q-1/62 <main>C12Q-1/00</main> C12Q-1/54 C12Q-1/60 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and reagent for the enzymatic determination of enzymatic substrates.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbh de<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+bernt erich<sep>klose sigmar dr<sep>scheibe peter dr<sep>bernt, erich<sep>klose, sigmar, dr.<sep>scheibe, peter, dr.<sep>bernt, erichgrünwalder strasse 34d-8000 münchen 90de<sep>klose, sigmar, dr.maxhöhe 17d-8131 bergde<sep>scheibe, peter, dr.schremelstrasse 39d-8000 münchen 60de<sep>bernt, erich<sep>klose, sigmar, dr.<sep>scheibe, peter, dr. <sep>bernt, erich grünwalder strasse 34 d-8000 münchen 90de<sep>klose, sigmar, dr.maxhöhe 17d-8131 bergde<sep>scheibe, peter, dr.schremelstrasse 39d-8000 münchen 60de<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for enzymatic determination of an enzyme substrate in the presence of interference substances which can react with the substrate itself or an intermediate or end product of the indicator reaction, a certain amount of the substrate with the reagent to be investigated first, one determines a certain amount of the substrate to be examined.Until it abreased and only starts the sample to be determined.A reagent for carrying this method contains a system for determining the substrate, which consists of at least one enzyme, little-stens of a buffer substance and at least one indicator of substance and optionally auxiliaries, and also has a content of a certain amount of the substrate, for example glucose, uric acidor cholesterol, in the lower point of the substrate mood capacity of the system for determining this substrate.
+</ABSTRACT>
+</TEXT>
+</DOC>

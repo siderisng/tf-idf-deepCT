@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000529
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/42 <main>G02B-5/14</main> H01B-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coupling device for an optical fibre.
+</TITLE>
+<APPLICANT>
+comp generale electricitefr  <sep>societe anonyme dite: compagnie generale d'electricite<sep>compagnie generale d'electricite société anonyme dite:54, rue la boétief-75382 paris cédex 08fr<sep>compagnie generale d'electricite societe anonyme dite: <sep>
+</APPLICANT>
+<INVENTOR>
+jeunhomme luc<sep>pocholle jean-paul<sep>jeunhomme, luc<sep>pocholle, jean-paul<sep>jeunhomme, luc43, avenue léninef-94110 arcueilfr<sep>pocholle, jean-paulparc des lierres - bât d - 16 rue des fermesf-91700 ste genevieve des boisfr<sep>jeunhomme, luc<sep>pocholle, jean-paul  <sep>jeunhomme, luc43, avenue léninef-94110 arcueilfr<sep>pocholle, jean-paulparc des lierres - bât d - 16 rue des fermesf-91700 ste genevieve des boisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an optical fiber coupling device.Modal coupling means (14,16,12) per alternating curvature of the fiber (18) are associated with an index adapter (3) surrounding the fiber and traveled by a set of light rays making the same angle withThe axis (2) thereof, and this adapter is provided with a conical optical surface (5) for matching a beam parallel to this set of rays.Application to telecommunications.
+</ABSTRACT>
+</TEXT>
+</DOC>

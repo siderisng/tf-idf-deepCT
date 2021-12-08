@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006051
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01L-5/04 G01D-5/04 G01D-5/02 G01L-1/26 G01L-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrodynamometric detector with overload indicator.
+</TITLE>
+<APPLICANT>
+sfenafr <sep>societe francaise d'equipements pour la navigation aerienne (s.f.e.n.a.)<sep>societe francaise d'equipements pour la navigation aerienne (s.f.e.n.a.) b.p. 59 aérodrome de villacoublay f-78140 velizy villacoublay fr<sep>
+</APPLICANT>
+<INVENTOR>
+dupuis jean-claudefr<sep>roudavitch georgesfr<sep>dupuis, jean-claude<sep>roudavitch, georges<sep>dupuis, jean-claude13 boulevard d'estréesf-86100 chatelleraultfr<sep>roudavitch, georges6, rue paul valéryf-86100 chatelleraultfr<sep>
+</INVENTOR>
+<ABSTRACT>
+electrodynamometric rod with force threshold forming a high- security electrical control detector, characterised in that it comprises a mechanical means for making electrical contact above a particular force, called the "operating dynamometric threshold", which can be applied either as tension or as compression, the said mechanical means comprising a dynamic threshold detector (12, 14, 15, 16, 19, 30, 31, 32) actuating a means (18) for tripping an electrical current.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

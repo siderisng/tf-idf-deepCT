@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000054
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-1/207 C07C-13/20 B01J-27/00 C07C-1/213 C07C-11/02 C07C-13/00 C07C-11/00 C07C-1/00 B01J-23/00 C07C-1/20 C07B-61/00 C07C-67/00 <main>C07C-1/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of olefinic unsaturated aliphatic or cycloaliphatic hydrocarbons.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+fuchs hugo dr<sep>grosskinsky otto-alfred dr<sep>horn peter dr<sep>fuchs, hugo, dr.<sep>grosskinsky, otto-alfred, dr.<sep>horn, peter, dr.<sep>fuchs, hugo, dr.egellstrasse 28d-6700 ludwigshafende<sep>grosskinsky, otto-alfred, dr.semmelweisstrasse 8d-6700 ludwigshafende<sep>horn, peter, dr.im bruennel 20d-6945 hirschbergde<sep>fuchs, hugo, dr.<sep>grosskinsky, otto-alfred, dr.<sep>horn, peter, dr.<sep>fuchs, hugo, dr.egellstrasse 28d-6700 ludwigshafende<sep>grosskinsky, otto-alfred, dr.semmelweisstrasse 8d-6700 ludwigshafende<sep>horn, peter, dr.im bruennel 20d-6945 hirschbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+Preparation of olefinically unsaturated aliphatic or cycloaliphatic hydrocarbons by heating alkanecarboxylic acids having 3 to 20 carbon atoms, alkandicarboxylic acids having 4 to 20 carbon atoms or 5- or 6-membered cycloalkancarboxylic acids or their alkyl, cycloalkyl, aralkyl or phenyl esters at temperatures of 250 to 800° C in the gas phase in the presence of catalysts using catalysts whose catalytically active mass of boron trioxide, boric acid and / or boron nitride, as well as at least one of the oxides of aluminum, silicon, tin, lead, titanium or zirconium.
+</ABSTRACT>
+</TEXT>
+</DOC>

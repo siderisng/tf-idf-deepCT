@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010438
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-47/22 B01D-53/18 <main>B01D-47/12</main> C07C-45/78 B01D-47/12 B01D-47/00 B01D-47/02 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for continuously removing fine dust particles from gases.
+</TITLE>
+<APPLICANT>
+mitsubishi rayon cojp <sep>mitsubishi rayon co. ltd.<sep>mitsubishi rayon co., ltd. 3-19, kyobashi 2-chome chuo-ku tokyo 104jp<sep>mitsubishi rayon co. ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+ikeda minoru<sep>murakami fumiki<sep>nakano toshiharu<sep>tokutomi takashi<sep>ikeda, minoru<sep>murakami, fumiki<sep>nakano, toshiharu<sep>tokutomi, takashi<sep>ikeda, minoru908-224, ono-chosaeki-gun, hiroshima-kenjp<sep>murakami, fumiki10-13, nishisakae 2-chomeotake-shi, hiroshima-kenjp<sep>nakano, toshiharu9-32, kurokawa 2-chomeotake-shi, hiroshima-kenjp<sep>tokutomi, takashi2-2, kurokawa 2-chomeotake-shi, hiroshima-kenjp<sep>ikeda, minoru <sep>murakami, fumiki<sep>nakano, toshiharu  <sep>tokutomi, takashi <sep>ikeda, minoru908-224, ono-chosaeki-gun, hiroshima-kenjp<sep>murakami, fumiki10-13, nishisakae 2-chomeotake-shi, hiroshima-kenjp<sep>nakano, toshiharu9-32, kurokawa 2-chomeotake-shi, hiroshima-kenjp<sep>tokutomi, takashi2-2, kurokawa 2-chomeotake-shi, hiroshima-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for continuously removing fine dust particles  from gases, comprising a single stage or a plurality of stages  each stage comprising a tray (5) having one or more slit(s) or  hole(s) (6) and a baffle plate (7) installed beneath the tray, a  gas inlet port (1) for introducing a gas containing fine dust  particles and a water inlet port (2) or introducing washing  water onto the first stage tray whereby the gas and liquid  travel together along each tray and are injected from said  slit(s) or hole(s) so as to impinge upon the baffle plate.  
+</ABSTRACT>
+</TEXT>
+</DOC>

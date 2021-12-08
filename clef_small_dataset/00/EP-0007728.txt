@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007728
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02J-3/12 H02H-3/06 H02J-13/00 G05F-1/66 <main>H02J-3/14</main> H02J-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+load shedding timer for a power management system.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+townsend greg michael<sep>townsend, greg michael<sep>townsend, greg michael1906 plum grove road, apt. 1arolling meadows illinois 60008us<sep>townsend, greg michael<sep>townsend, greg michael1906 plum grove road, apt. 1arolling meadows illinois 60008us<sep>
+</INVENTOR>
+<ABSTRACT>
+a central controller (20) is operable to transmit load shed  commands to a plurality of power loads should power con­ sumption become excessive.  an improved timer at the load  site (50) responds to a shed command to cause the load to be  shed for a random time period between predetermined  minimum and maximum time limits.  because the loads return  to the system at random times, peak instantaneous demands  on the power generating equipment are avoided.  
+</ABSTRACT>
+</TEXT>
+</DOC>

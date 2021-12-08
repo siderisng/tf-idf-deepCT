@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006168
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-11/00 G06F-11/27 G06F-15/00 <main>G01R-31/28</main> G06F-11/273 G06F-11/277 G06F-11/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for testing fixed function logic circuits.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+marshall john william<sep>woodward donald raymond<sep>marshall, john william<sep>woodward, donald raymond<sep>marshall, john william6601 longfellow drivetucson arizona 85718us<sep>woodward, donald raymond7621 east seneca streettucson arizona 85715us<sep>marshall, john william  <sep>woodward, donald raymond<sep>marshall, john william6601 longfellow drivetucson arizona 85718us<sep>woodward, donald raymond7621 east seneca streettucson arizona 85715us<sep>
+</INVENTOR>
+<ABSTRACT>
+testing the operation of a fixed function logic circuit 11  is accomplished by connecting the circuit into a feedback  shift register divider 10 to form the feedback operator there­ of which corresponds to the logic function of the circuit.  a  fixed input is gated into the divider at each shift after which  the contents of the shift register stages γr are passed through  an xor tree 12, the output of which is zero on even tests and  equal to the fixed input on odd test for correct operation.   detection is at 13 and 14 at times specified by a sequence  control 18.  multiple simultaneous testing of related logic  circuits and degenerate cases are disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

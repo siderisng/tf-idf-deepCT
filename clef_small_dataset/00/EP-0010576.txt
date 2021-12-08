@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010576
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02G-15/00 H02G-15/10 H01B-7/28 G02B-5/16 H01B-3/30 <main>H01B-3/30</main> C08G-18/28 C08L-75/04 C08K-5/05 H01B-7/17 G02B-6/44 H01B-7/285 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polyurethane based filler mass for longitudinally sealing electrical or optical telecommunication cables or cable connections and connecting parts and cables provided with this filler mass.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+nothe bjorn dipl-chem<sep>nothe, bjorn, dipl.-chem.<sep>nöthe, björn, dipl.-chem.abt-williram-strasse 25d-8019 ebersbergde<sep>nothe, bjorn, dipl.-chem.<sep>nöthe, björn, dipl.-chem.abt-williram-strasse 25d-8019 ebersbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a filling material having a polyurethane basis which serves for the longitudinal sealing of electrical or optical cables, and which consists of a polyester-polyether polyol or a polyester polyol and a diisocyanate in admixture with dibutyl zinc dilaurate as a catalyst and a low-viscosity, branched, long-chain, aliphatic mono-functional alcohol as a plasticiser, characterised in that hexamethylene-1,6-diisocyanate is used as the diisocyanate. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014122
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B62D-11/06 <main>B62D-11/18</main> B62D-11/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydromechanical skid steering device.
+</TITLE>
+<APPLICANT>
+france etatfr <sep>etat-francais represente par le delegue general pour l'armement <sep>etat-francais représenté par le delegue general pour l'armement bureau des brevets et inventions de la délégation générale pour l'armement 14, rue saint-dominiquef-75997 paris arméesfr<sep>etat-francais represente par le delegue general pour l'armement  <sep>
+</APPLICANT>
+<INVENTOR>
+heissler roger<sep>heissler, roger<sep>heissler, roger4, rue des libellules la jubaudièref-49000 jallaisfr<sep>heissler, roger<sep>heissler, roger4, rue des libellules la jubaudièref-49000 jallaisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a device for hydromechanical steering for tracked vehicles or vehicles with non-swivelling wheels designed for passing uninterruptedly and without jerks, when under load, from hydraulic operation to hydromechanical operation, driven by an ic engine (1) connected to a first transmission shaft (2) controlling the direction of a gear box and the operation of a hydrostatic transmission system (5), device comprising a double reduction train (14) consisting of two epicyclic gear trains, the central gear wheel (13) of the first epicyclic train meshing with the hydraulic receiver, the planet-wheel arm of the second train (18) meshing with an output shaft, characterized by the fact that the two epicyclic trains are joined so that the planet-wheel arm (respectively 15, 18) of each of them is connected to the crown wheel (respectively 17, 20) of the other, by the fact that the central gear wheel (33) of the second epicyclic train meshes with the first control shaft (2) by means of a clutch device (27), in the direction of rotation of the gear box and by the fact that the shaft (21) that carries the planet-wheel arms of the first epicyclic train and the crown wheel (17) of the second epicyclic train is fitted with a momentary immobilisation device (22). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013147
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-20/52 C07C-235/74 G03C-1/053 C08F-20/10 G03C-1/04 C07D-241/00 G03C-7/327 C07C-235/00 C07C-233/49 C07C-233/31 C07C-233/20 C07C-255/19 C08F-20/36 C07C-67/00 C07C-233/47 C07D-295/185 C07D-295/18 C08F-20/34 C07D-241/04 C07D-233/02 C08F-20/60 C07C-253/00 C07C-255/00 C07D-233/00 C07D-243/00 C07D-295/00 G03C-1/68 C07C-233/36 C08F-20/54 C07D-243/08 <main>C08F-20/36</main> C07C-255/27 C07C-233/38 C07C-233/00 C08F-20/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polymerisable monomers, their use to prepare cross-linkable polymers and the cross-linkable polymers.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+hollister kenneth r<sep>ponticello ignazio s<sep>tuites richard c<sep>hollister, kenneth r.<sep>ponticello, ignazio s.<sep>tuites, richard c.<sep>hollister, kenneth r.kodak parkrochester, new yorkus<sep>ponticello, ignazio s.kodak parkrochester, new yorkus<sep>tuites, richard c.kodak parkrochester, new yorkus<sep>hollister, kenneth r.<sep>ponticello, ignazio s.<sep>tuites, richard c.<sep>hollister, kenneth r.kodak parkrochester, new yorkus<sep>ponticello, ignazio s.kodak parkrochester, new yorkus<sep>tuites, richard c.kodak parkrochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+crosslinkable polymers which can be purified by conven­ tional purification techniques such as dialysis, diafiltration,  ultrafiltration without losing their capability of crosslinking  are prepared from monomers having the formula (i):    ch₂ =  -  - z -  - ch₂ - r¹   wherein r is hydrogen or methyl,   r¹ is cyano or -co-r²,   wherein r² is alkyl having from 1 to 6 carbon atoms;    wherein r³ is a divalent hydrocarbon,   each x is -o- or nr⁴- provided that at least one x is  -nr⁴-,   r⁴ is hydrogen or alkyl having from 1 to 6 carbon  atoms and   d¹ and d² represent the carbon and hydrogen  atoms necessary to complete a 5- to 7- membered  heterocyclic ring.  the monomers can be homopolymerized or copolymerized  with other monomers.  the resulting purified polymers are  particularly useful in photographic materials as gelatin exten­ ders, binders or polymeric color couplers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

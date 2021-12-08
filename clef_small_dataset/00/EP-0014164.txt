@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014164
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-11/10</main> G01N-11/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+viscometer and viscostat.
+</TITLE>
+<APPLICANT>
+tech ind aerauliques thermique fr<sep>centre tech ind aerauliques thermiques<sep>centre technique industriel dit "centre technique des industries aerauliques et thermiques"plateau du moulonf-92402 orsayfr<sep>centre tech ind aerauliq thermiq<sep>
+</APPLICANT>
+<INVENTOR>
+dietz roland<sep>dietz, roland<sep>dietz, rolanddomaine des varennes parcieuxf-01600 trevouxfr<sep>dietz, roland  <sep>dietz, rolanddomaine des varennes parcieuxf-01600 trevouxfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  viscosimeter comprising - a sealed casing (1) of a magnetic material having an inlet (2) and outlet (3) for receiving and dispersed a fluid material, - a mobile (5) of magnetic material, adapted to be displaced in said casing (1), - an electromagnetic detection device for detecting the position of the said mobile (5) within the casing (1) comprising one induction coil (6) and at least one inducing coil (9) surrounding said casing, characterized by the facts - that it comprises also means for balancing the apparent weight of said mobile which is displaced in the casing, when the mobile sinks in a laminar flow of the fluid whose viscosity is to be measured, - that the electromagnetic detection device detects the balanced position of the mobile (5) within the casing (1), - and that into the electromagnetic detection device . the inducing coil (9) is located at either of the ends (11) of said mobile (1) in its rest position and, . the induction coil (6) is located in the vicinity of the center of the said resting mobile (5). 
+</ABSTRACT>
+</TEXT>
+</DOC>

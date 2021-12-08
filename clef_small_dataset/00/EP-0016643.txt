@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016643
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04D-29/26 F04D-29/20 F16D-1/092 F16D-1/091 F16D-1/06 F04D-29/62 F04D-29/28 <main>F16D-1/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+impeller and shaft assembly for high speed gas compression.
+</TITLE>
+<APPLICANT>
+mcquay perfex incus<sep>mcquay-perfex inc.<sep>mcquay-perfex inc.13600 industrial park blvd. p.o. box 1551minneapolis, mn 55440us<sep>mcquay-perfex inc.<sep>
+</APPLICANT>
+<INVENTOR>
+watson thomas edward<sep>watson, thomas edward<sep>watson, thomas edward746 opie streetstaunton virginiaus<sep>watson, thomas edward<sep>watson, thomas edward746 opie streetstaunton virginiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+the impeller hub (12) is provided with an outwardly  tapered socket (38) in which is seated a frustoconical  extremity (20) of the drive shaft (22), the circumferentiai wall  of the extremity having formed therein axially extending  grooves (42) alternating with intervening lands (44), and the  socket and extremity being dimensioned and shaped in said  manner that, in the finally seated relation of the parts, the  lands plastically deform the socket wall material which has a  lower compressive yield strength than the extremity.  this assembly has a high torque capacity and is  especially suitable for use in centrifugal gas compressors  designed to operate at relatively high speeds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

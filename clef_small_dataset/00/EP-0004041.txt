@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004041
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04C-15/00 F04D-20060101S <main>F04C-15/04</main> G05D-7/01 F04C-14/26 F04C-14/00 F04C-15/02 G05D-7/00 F04B-49/08 F04C-15/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for limiting the fluid volume output in a rotary pump.
+</TITLE>
+<APPLICANT>
+eaton corpus<sep>eaton corporation<sep>eaton corporation100 erieview plazacleveland ohio 44114us<sep>eaton corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+davis michael dean<sep>gustner harold leonard<sep>davis, michael dean<sep>gustner, harold leonard<sep>davis, michael deanno. 6, s. hawley dr.coldwater, michiganus<sep>gustner, harold leonard29455 bermuda lanesouthfield, michiganus<sep>davis, michael dean<sep>gustner, harold leonard<sep>davis, michael deanno. 6, s. hawley dr.coldwater, michiganus<sep>gustner, harold leonard29455 bermuda lanesouthfield, michiganus<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for limiting the fluid volume output in a hydraulic  pump of the type including a by-pass valve.  the by-pass  valve is disposed within a portion of the pump housing  (15) which extends axially into the fluid reservoir (19) and  defines a pair of by-pass ports.  the pump is preferably balanced  and includes a pair of diametrically opposed inlet kidney  ports.  a tubular member (111, 113) is used to direct a  portion of the by-pass fluid from each of the by-pass ports  toward the adjacent inlet kidney.  each of the tubular members  is disposed to direct the by-pass flow axially into the  inlet kidney, thus improving filling of the pumping pockets,  and reducing cavitation and the resultant noise.  
+</ABSTRACT>
+</TEXT>
+</DOC>

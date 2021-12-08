@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003027
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23Q-3/157</main> B23Q-3/157 B23Q-3/155 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic tool changer for machine tool.
+</TITLE>
+<APPLICANT>
+kearney & trecker corpus <sep>kearney & trecker corporation <sep>kearney &amp; trecker corporation11000 theodore trecker waymilwaukee, wisconsin 53214us<sep>kearney & trecker corporation<sep>
+</APPLICANT>
+<INVENTOR>
+clegg russell b<sep>johnstone richard<sep>sipek charles b<sep>clegg, russell b.<sep>johnstone, richard<sep>sipek, charles b.<sep>clegg, russell b.3438 south 78th streetmilwaukee wisconsin 53219us<sep>johnstone, richard20300 west gebhardt roadbrookfield wisconsin 53005us<sep>sipek, charles b.10028 west ridge roadhales corners wisconsin 53130us<sep>clegg, russell b.<sep>johnstone, richard<sep>sipek, charles b. <sep>clegg, russell b. 3438 south 78th street milwaukee wisconsin 53219us<sep>johnstone, richard20300 west gebhardt roadbrookfield wisconsin 53005us<sep>sipek, charles b.10028 west ridge roadhales corners wisconsin 53130us<sep>
+</INVENTOR>
+<ABSTRACT>
+a tool storage drum (42) which is adapted to receive and  store a plurality of toolholders is rotatably mounted on top of  the upright of a horizontal machining center behind the  spindle (34) thereof.  a tool changer carriage (44) carrying a  tool change arm (46) is pivotally mounted on the upright  above the spindle (34) and is pivotable between a parked  position in which an end of the tool changer arm (46) is  adjacent to the tool storage drum (42) and an exchange  position in which an end of the tool changer arm (46) is  adjacent to the spindle.  the tool changer arm (46) is slidably mounted on the  carriage (44) for movement between an extended and a  retracted position to remove toolholders from their sockets  or insert them therein and is rotatable through 180° to  interchange its ends for the purpose of exchanging a tool in  the spindle (34) for a tool previously removed from the tool  storage drum (42).  
+</ABSTRACT>
+</TEXT>
+</DOC>

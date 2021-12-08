@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002339
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-1/16 <main>G06F-3/14</main> G01R-13/40 G01R-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements relating to data display techniques.
+</TITLE>
+<APPLICANT>
+gould incus <sep>gould inc. <sep>gould inc. 10 gould centerrolling meadows, il 60008us<sep>gould inc. <sep>
+</APPLICANT>
+<INVENTOR>
+bowers john j<sep>lecklider thomas h<sep>bowers, john j.<sep>lecklider, thomas h.<sep>bowers, john j.4509 coddingville roadmedina ohio 44256us<sep>lecklider, thomas h.12 pynchon paddocks wright's greenlittle hallingbury stortford, cm22 7rj.gb<sep>bowers, john j.<sep>lecklider, thomas h.<sep>bowers, john j.4509 coddingville roadmedina ohio 44256us<sep>lecklider, thomas h.12 pynchon paddocks wright's greenlittle hallingbury stortford, cm22 7rj.gb<sep>
+</INVENTOR>
+<ABSTRACT>
+the improvements relating to data display techniques  comprise a circuit for interpolating discrete data points of a  single valued function in one direction into a continuous line  display.  only one value need to be produced from a memory  for each display position along one axis of an x, y coordinate  system display, the circuit generates lines parallel to the  oither axis which connect the display at adjacent positions  along the first axis.  the circuit receives from a memory (10) a  series of pulse trains d each of which is delayed one clock  pulse position by flip,flop (2) to produce a pulse train d′.  d  and d′ are compared by exclusive or gate 26 to determine  the data end positions which are stored in a shift register  (34).  the output of shift register (34) is recirculated and  supplied to or gate (16), the composite data outputted by or  gate (18) representing the current input data d, the delayed  data d′ derived therefrom and data representative of end  positions of data in one or more proceeding lines.  and gate  (44) and and gate (28) cooperate with nor gate (40) to block  the recirculation through shift register (34) of data represen­ tative of rise lines and fill lines for avoiding illogical rise and  fall line generation.  a second circuit has separate circuits for  processing rise lines and fall lines.  
+</ABSTRACT>
+</TEXT>
+</DOC>

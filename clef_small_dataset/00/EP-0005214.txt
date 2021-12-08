@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005214
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+A63B-71/02 <main>B62D-63/02</main> A63G-19/20 A63B-71/00 A63B-69/04 B62D-39/00 A63G-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+motorized dummy polo horse.
+</TITLE>
+<APPLICANT>
+bade & theelen gmbhde<sep>bade & theelen gmbh<sep>bade &amp; theelen gmbhgermaniastrasse 9d-3160 lehrtede<sep>bade & theelen gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+theelen egon<sep>wippig werner<sep>theelen, egon<sep>wippig, werner<sep>theelen, egonimmenser strasse 10d-3151 steinwedelde<sep>wippig, wernercranachweg 10d-3160 lehrtede<sep>theelen, egon<sep>wippig, werner<sep>theelen, egonimmenser strasse 10d-3151 steinwedelde<sep>wippig, wernercranachweg 10d-3160 lehrtede<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a powered polo pony for imitation playing of normal polo with a driving unit and at least two steered pairs of wheels (9, 10), whose shafts are joined with the body (4) so as to make adjustment possible, and a saddle (8) may be placed on the saddle support which is adjustable to the height of the back of a horse or a pony alternatively, and there is a master controller (6) for the speed and braking, this being produced by motion of a controlling (6) part forwards for the speed and backwards for braking, and for sideways control by motion of the controlling part to the left or to the right, and there is a gear unit whose step-down effect may be steplessly controlled and which is joined with the motor driving unit. 
+</ABSTRACT>
+</TEXT>
+</DOC>

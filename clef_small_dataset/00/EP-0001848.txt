@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001848
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-13/87 G01S-13/44 H01Q-19/195 G01S-13/00 G01S-7/02 <main>G01S-13/68</main> H01Q-19/10 G01S-7/42 G01S-7/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monopulse radar apparatus.
+</TITLE>
+<APPLICANT>
+hollandse signaalapparaten bvnl<sep>hollandse signaalapparaten b.v.<sep>hollandse signaalapparaten b.v.zuidelijke havenweg 40 p.o. box 42nl-7550 gd hengelonl<sep>hollandse signaalapparaten b.v.  <sep>
+</APPLICANT>
+<INVENTOR>
+vaessen dorotheus constant leo<sep>vaessen, dorotheus constant leonie<sep>vaessen, dorotheus constant leoniedrilscholtenstraat 25hengelo (o)nl<sep>vaessen, dorotheus constant leonie<sep>vaessen, dorotheus constant leoniedrilscholtenstraat 25hengelo (o)nl<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for the automatic angle tracking of a moving  target, whereby angle tracking errors, incurred if the polarisation  of the received signals is orthogonal to the polarisation  of the radar receiver, are prevented.  the monopulse  radar thereto comprises two monopulse clusters (4, 5) tuned  to the same frequency band but attuned to receive mutually  orthogonal polarisations; only one of these clusters lends  itself for the transmission of r. f.  signals.  on the supply of  sum and difference signals from the two clusters (4, 5), the  receiver (8, 6, 7) produces the angular error signals required  to keep the radar directed at the target.  these error signals  are determined by the amplitude ratio between the difference  signals and the sum signal from the first cluster or by  the amplitude ratio between the difference signals and the  sum signal from the second cluster, depending on the ratio  (comparator 13) between the sum signals from the two clusters.  
+</ABSTRACT>
+</TEXT>
+</DOC>

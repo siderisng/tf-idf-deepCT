@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015204
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16F-15/133 F16F-15/134 F16D-13/68 <main>F16F-15/12</main> F16F-15/12 F16F-15/131 F16D-13/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+torsional vibration damper, particularly clutch plate for motor vehicle.
+</TITLE>
+<APPLICANT>
+valeofr<sep>valeo<sep>valeo64 avenue de la grande armée75017 parisfr<sep>valeo <sep>
+</APPLICANT>
+<INVENTOR>
+loizeau pierre<sep>loizeau, pierre<sep>loizeau, pierre1 allée de l'albainf-92140 ville d'avrayfr<sep>loizeau, pierre <sep>loizeau, pierre1 allée de l'albainf-92140 ville d'avrayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+This torsion shock absorber has two coaxial ties, namely a hub (10) and a rotary mounted friction disc (13) in relation to each other, within the limits of a determined angular travel, and toagainst springs (18).According to the invention, it further comprises at least one locking member (26) which is sensitive to the Centri Furge, and which is reversibly movable between a waiting position for which it is without effect and a position.service for which it causes a modification of the operating characteristics of the device.Application including clutch friction for motor vehicles.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008442
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/04 A61P-31/00 C07D-501/60 A61K-31/545 <main>C07D-501/14</main> C07D-277/20 A61K-31/546 C07D-501/00 C07D-501/14 A61P-31/04 C07D-277/00 C07D-501/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-lower alkyl-7-substituted-2 or 3-cephem-4-carboxylic acid compounds, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+fujisawa pharmaceutical cojp<sep>fujisawa pharmaceutical co. ltd.<sep>fujisawa pharmaceutical co., ltd.3, doshomachi 4-chome higashi-kuosaka-shi osaka 541jp<sep>fujisawa pharmaceutical co., ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+kamiya takashi<sep>takaya takao<sep>kamiya, takashi<sep>takaya, takao<sep>kamiya, takashino. 1-11-6, furuedaisuitajp<sep>takaya, takaono. 1-5-87, suimeidaikawanishijp<sep>kamiya, takashi <sep>takaya, takao<sep>kamiya, takashino. 1-11-6, furuedaisuitajp<sep>takaya, takaono. 1-5-87, suimeidaikawanishijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a compound of the formula:    wherein r¹ is lower alkyl,   r² is carboxy or a protected carboxy group,   r³ is amino or a protected amino group and   r⁴ is lower alkyl having halogen atom(s) or lower  unsaturated aliphatic group,   and pharmaceutically acceptable salt thereof, and process for  their preparation.  the invention also relates to the starting derivatives and  their preparation and to a pharmaceutical composition com­ prising, as an effective ingredient, the above compound in  association with a pharmaceutically acceptable, substantially  non-toxic carrier or excipient, and to a method for treating an  infectious disease caused by pathogenes, which comprises  administering the above compound to infected human beings  or animals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

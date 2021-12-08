@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008453
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07C-63/72 C07B-37/04 C07C-17/20 C07C-303/00 C07B-39/00 C07C-63/68 C07C-43/29 C07C-41/00 C07B-37/00 C07C-22/08 C07C-41/30 C07C-63/00 C07C-17/32 C07C-303/22 C07C-25/13 C07C-17/26 C07C-43/174 C07C-63/04 C07C-201/00 C07B-31/00 C07C-43/225 C07C-17/00 C07C-309/86 C07C-319/00 C07C-67/00 C07C-301/00 C07C-205/11 C07C-51/347 C07C-51/353 C07C-309/00 C07C-43/00 C07C-323/09 <main>C07C-17/32</main> C07C-22/00 C07C-17/38 C07C-319/20 C07C-41/22 C07C-313/00 C07C-149/32 C07C-17/266 C07C-65/21 C07C-25/00 C07C-205/12 C07C-25/18 C07C-65/00 C07C-323/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing trifluoromethyl aromatic compounds.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+klauke erich dr<sep>marhold albrecht dr<sep>klauke, erich, dr.<sep>marhold, albrecht, dr.<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthalde<sep>marhold, albrecht, dr.carl-duisbergstrasse 329d-5090 leverkusende<sep>klauke, erich, dr.<sep>marhold, albrecht, dr.<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthalde<sep>marhold, albrecht, dr.carl-duisbergstrasse 329d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+The patent application claims a method for producing aromatic trifuoromethyl compounds in which aromatic compounds are reacted with tetrachlorocar to fabric and hydrogen fluoride in the temperature range of 50 to 140 ° C.Some of the aromatic trifluoromethyl compounds prepared by the method according to the invention are new.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002954
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01J-65/04</main> G09G-3/28 H01J-11/00 G09G-3/285 G06F-3/147 G09G-3/29 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas discharge display apparatus of the self-shift type.
+</TITLE>
+<APPLICANT>
+fujitsu ltd jp <sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited  <sep>
+</APPLICANT>
+<INVENTOR>
+kurokawa kaneyuki<sep>kurokawa, kaneyuki<sep>kurokawa, kaneyuki9-7, nishiwaseda 2-chomeshinjuku-ku tokyojp<sep>kurokawa, kaneyuki<sep>kurokawa, kaneyuki9-7, nishiwaseda 2-chomeshinjuku-ku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+gas discharge display apparatus of the self-shift type  for displaying characters.  the panel has a plurality of  vertical parallel shift channels along which discharge spots  can be shifted.  characters made up of discharge spots are  displayed in "horizontal" lines.  apparatus which reduces operator fatique employs a  self-shift pdp (20) with write and shift circuitry (14 to 22)  such that discharge spots for making up characters are  initiated at adjacent ends of shift channels which run  "vertically".  the discharge spots are shifted vertically so  as to form the characters "horizontally" in a line in a  monitor area (11) of the self-shift pdp (10) next to those  ends of the shift channels.  the characters are formed in  their final "horizontal" positions in the monitor area (11),  with a saving of time, and characters can be readily altered.   the characters are then shifted jointly, from monitor area  (11), into a display area (12).  in a further embodiment the  apparatus also comprises a cursor display area (31) and a  second write row area (34).  
+</ABSTRACT>
+</TEXT>
+</DOC>

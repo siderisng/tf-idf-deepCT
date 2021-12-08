@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002479
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-15/29 G11B-15/67 G11B-15/28 G11B-15/66 G11B-15/675 B65H-17/20 <main>G11B-15/66</main> G11B-15/295 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for loading/unloading a tape cassette, particularly a magnetic tape cassette.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+cary paul d<sep>cary, paul d.<sep>cary, paul d.16371 hemlock streetfountain valley california 92708us<sep>cary, paul d.<sep>cary, paul d.16371 hemlock streetfountain valley california 92708us<sep>
+</INVENTOR>
+<ABSTRACT>
+A tape cassette loading / unloading device for use in a tape cartridge drive, which can accommodate a tape cartridge to be opened and closable tape cartridge with a unwinding roll, wherein this tape drive contains a drive roller and means for opening the cassette and for feeding the unwinding roll into a working position. The unwinding roll is mounted on a pivotable carrier and is initially within the cassette. First devices serve to convert the unwinding role mounted on the carrier into a working position and in a rest position. Second devices serve to transfer the cassette from their charging into their working position in which the center line of the cartridge opening coincides with the center of the drive roller, thereby preventing the opened cassette can mechanically disturb the geled unwinding roll. The device can be used in cartridge drives of any kind, which have the above-mentioned elements and functions, in particular with tape cassette systems, in which unwinding and take-up rolls are driven by surface contact with the drive roller. Other embodiments of this device refer to a special tape cassette with pivotally connected halves and special opening devices as well as control devices for coordinating the operations described herein described herein process sequences. The device can be used in all device types in which tape winding operations must be performed and where the tape is in a cassette. In particular, the device of the present invention can be used in magnetic tape transport systems, specifically for recording and reproducing video signals.
+</ABSTRACT>
+</TEXT>
+</DOC>

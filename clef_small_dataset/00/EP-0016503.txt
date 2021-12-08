@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016503
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-7/035 H03H-21/00 H04L-25/03 H04B-3/04 H03K-5/08 <main>H04L-25/06</main> H04L-25/06 H03H-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+waveform correction circuit.
+</TITLE>
+<APPLICANT>
+koninkl philips electronics nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>koninkl philips electronics nvnl <sep>koninklijke philips electronics n.v. <sep>
+</APPLICANT>
+<INVENTOR>
+summers christopher paulnl<sep>voorman johannes ottonl<sep>summers, christopher paul<sep>voorman, johannes otto<sep>summers, christopher paulc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>voorman, johannes ottoc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>summers christopher paul nl<sep>voorman johannes ottonl<sep>summers, christopher paul<sep>voorman, johannes otto<sep>summers, christopher paulc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>voorman, johannes ottoc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a waveform correction circuit having a slicer (13) and a  mutual adaptation of the threshold level of the slicer and the  input signal level by means of an automatic level control  circuit (29, 35, 3) comprises an automatic amplitude control  circuit (21, 39, 45, 51) to reduce the influence of amplitude  variations in the relevant portion of the input signal on the  level control as much as possible, so that a rapid and accurate  adaptation of the operation of the waveform correction circuit  is obtained in the case of level and amplitude variations of the  input signal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010741
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-4/64 <main>C08F-10/00</main> C08F-4/00 C08F-10/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing homo- and copolymers of alpha-monoolefins.
+</TITLE>
+<APPLICANT>
+basf agde <sep>basf aktiengesellschaft<sep>basf aktiengesellschaft carl-bosch-strasse 38 67063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bachl robert dr<sep>frielingsdorf hans dr<sep>hoehr lothar dr<sep>schweier guenther dr<sep>staiger gerhard dr<sep>bachl, robert, dr.<sep>frielingsdorf, hans, dr.<sep>hoehr, lothar, dr.<sep>schweier, guenther, dr.<sep>staiger, gerhard, dr.<sep>bachl, robert, dr.parsevalstrasse 16d-6520 wormsde<sep>frielingsdorf, hans, dr.auf dem koeppel 4d-6702 bad duerkheimde<sep>hoehr, lothar, dr.giselherstrasse 14d-6520 wormsde<sep>schweier, guenther, dr.mundenheimer strasse 148d-6700 ludwigshafende<sep>staiger, gerhard, dr.virchowstrasse 26d-6712 bobenheim-roxheimde<sep>bachl, robert, dr.<sep>frielingsdorf, hans, dr.<sep>hoehr, lothar, dr.<sep>schweier, guenther, dr.<sep>staiger, gerhard, dr. <sep>bachl, robert, dr. parsevalstrasse 16 d-6520 wormsde<sep>frielingsdorf, hans, dr.auf dem koeppel 4d-6702 bad duerkheimde<sep>hoehr, lothar, dr.giselherstrasse 14d-6520 wormsde<sep>schweier, guenther, dr.mundenheimer strasse 148d-6700 ludwigshafende<sep>staiger, gerhard, dr.virchowstrasse 26d-6712 bobenheim-roxheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the production of homopolymers and copolymers of c2 -c6 -monoolefins by polymerization of the monomer(s) at a temperature of from 30 degrees to 200 degrees c and a pressure of from 0. 1 to 200 bar using a ziegler catalyst system consisting of (1) a titanium-containing catalyst component and (2) a metal compound of the general formula me am-n xn where me is the metal aluminium, magnesium or zinc, a is a c1 -c12 -hydrocarbon radical, x is chlorine, bromine, iodine or hydrogen, m is the number of the valency of the metal me, and n is a number form 0 to m-1, with the proviso that the atomic ratio of titanium form catalyst component (1) to metal (me) from catalyst component (2) is from 1 : 0. 1 to 1 : 500, characterized in that there is used as titanium-containing catalyst component (1) the solide-phase product (vi) which has been obtained by bringing into contact with one another, with the formation of a suspension (iii), (1. 1) in a first stage (1. 1. 1) a particulate, porous, inorganic oxidic material (i) exhibiting a particle diameter of from 1 to 1000 mu m, a pore volume of from 0. 3 to 3 cm**3 /g and a surface area of from 100 to 1000 m**2 /g, and having the formula sio2 . aal2 o3 , where a is a number from 0 to 2, and (1. 1. 2) a solution (ii) formed by combining (iia) 100 parts by weight of an alcohol of the general formula z-oh where z is a saturated c1 -c8 -hydrocarbon radical, (iib) 0. 01 to 6 parts by weight (calculated as titanium) of a titanium trihalide, it being possible for the halogen to be chlorine and/or bromine, and (iic) 0. 01 to 4 parts by weight (calculated as magnesium) of a magnesium compound soluble in the alcohol (iia) and selected from the series of (a) magnesium alcoholates of the formulae mg(od)2 , mgx(od) and mgw [ek. x (od)y ]z where d is a monovalent c1 -c10 -hydrocarbon radical of saturated aliphatic and/or aromatic nature, x is chlorine, bromine or iodine, e is the element lithium, boron, aluminium or titanium, w is an integer from 1 to 6, k ist the number of the valency of the element e, x is an integer from 1 to 4, y is k. x + 1, 1 is an integer from 1 to 5, and z is 2w:(y-k. x) ; or (b) magnesium carboxylates of the formula mg(ocod')2 where d' is a monovalent c1 -c18 -hydrocarbon radical of saturated aliphatic and/or aromatic nature ; or (c) magensium salts of ch-acidic compounds, with the proviso that the weight ratio of inorganic oxidic material (i) to titanium in the titanium trihalide (iib) is from 1 : 0. 01 to 1 : 0. 2 and the weight ratio of inorganic oxidic material (i) to magnesium in the magnesium compound (iic) is from 1 : 0. 01 to 1 : 0. 25 ; the suspension (iii) is evaporated, at a temperature below 200 degrees c and above the melting point of the alcohol (iia) used, to dry consistency, a solid-phase intermediate product (iv) thus being formed, and then by bringing into contact with one another, with the formation of a suspension, (1. 2) in a second stage (1. 2. 1) the solid-phase intermediate product (iv) obtained from step (1. 1), and (1. 2. 2) an acyl halide (v), optionally dissolved in an organic solvent, of the general formula d"-co-x where d" is a saturated c1 -c18 -hydrocarbon radical, with the proviso that up to 3 hydrogen atoms in the said radical can be substituted by chlorine or bromine, and x is f, cl, br or i, with the proviso that the molar ratio of titanium from the solid-phase intermediate product iv to acryl halide (v) is from 1 : 0. 01 to 1 : 100, the solid-phase product vi thus obtained as suspended material being the titanium-containing catalyst component (1). 
+</ABSTRACT>
+</TEXT>
+</DOC>

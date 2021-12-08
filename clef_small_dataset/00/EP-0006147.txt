@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006147
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+E05B-45/12 <main>E05B-45/12</main> E05B-45/06 E05B-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+door lock, particularly mortise door lock.
+</TITLE>
+<APPLICANT>
+winkhaus fa augustde<sep>firma aug. winkhaus<sep>firma aug. winkhausaugust-winkhaus-strasse 78d-4404 telgtede<sep>firma aug. winkhaus  <sep>
+</APPLICANT>
+<INVENTOR>
+heiland bernd dr<sep>heiland, bernd, dr.<sep>heiland, bernd, dr.mühlenkamp 44d-4404 telgtede<sep>heiland, bernd, dr.<sep>heiland, bernd, dr.mühlenkamp 44d-4404 telgtede<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to trigger an electrical alarm system when a compressive force is exerted on the lock bolt (7), a piezoelectric element (9) is disposed between the lock bolt (7) and the lock frame (2), which outputs a tripping pulse to the alarm system when pressing stress.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002525
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-31/04 C07F-9/00 C07C-31/00 C07F-9/53 C07C-43/00 C07C-403/08 C07C-43/30 C07C-403/00 <main>C07F-9/53</main> C07C-29/00 C07C-29/80 C07C-67/00 C07C-29/76 C07C-403/12 C07C-401/00 C07C-27/00 C07C-29/84 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the treatment of methanolic-aqueous residues as a result of the syntheses with triphenyl-phosphonium salts.
+</TITLE>
+<APPLICANT>
+basf ag de  <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+grafen paul dr<sep>scholz hans-ulrich dr<sep>schulz bernard dr<sep>grafen, paul, dr.<sep>scholz, hans-ulrich, dr.<sep>schulz, bernard, dr.<sep>grafen, paul, dr.suedtiroler ring 18-20d-6719 weisenheimde<sep>scholz, hans-ulrich, dr.suedtiroler ring 8d-6719 weisenheimde<sep>schulz, bernard, dr.kurpfalzring 28d-6830 schwetzingende<sep>grafen, paul, dr.<sep>scholz, hans-ulrich, dr.<sep>schulz, bernard, dr.<sep>grafen, paul, dr.suedtiroler ring 18-20d-6719 weisenheimde<sep>scholz, hans-ulrich, dr.suedtiroler ring 8d-6719 weisenheimde<sep>schulz, bernard, dr.kurpfalzring 28d-6830 schwetzingende<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for preparing mainly methanol, triphenylphosphine oxide, salts and organic by-products existing residues, as accrued in the Wittigian olefin synthesis, by expelling the volatile constituents with water vapor under partial water vapor condensation and separating the thus forming aqueous organic mixture at 80 to 100 ° C in a salty aqueous phase and a organic phase containing mainly triphenylphosphine oxide. With the aid of this method, it is possible to easily relieve the wastewater of syntheses where triphenylphosphine oxide is obtained in a simple manner of triphenylphosphine oxide and other organic impurities, whereby on the one hand the wastewater statement is substantially facilitated and, on the other hand, a simple way to recover the triphenylphosphine oxide is shown. The triphenylphosphine oxide to be purified by distillation or recrystallization can then z. b. for the preparation of the triphenylphosphin necessary for Wittig-Syntheses or for the preparation of the triphenylphosphinichloride necessary for the synthesis of pesticidires.
+</ABSTRACT>
+</TEXT>
+</DOC>

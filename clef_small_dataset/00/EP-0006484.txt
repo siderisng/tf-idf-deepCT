@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006484
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/02 G11C-11/14 G11C-19/00 <main>G11C-19/08</main> G11C-19/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a closed loop bubble lattice system.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+brown byron richard<sep>brown, byron richard<sep>brown, byron richard6223 calle bonitasan jose california 95120us<sep>brown, byron richard<sep>brown, byron richard6223 calle bonitasan jose california 95120us<sep>
+</INVENTOR>
+<ABSTRACT>
+a bubble storage system includes a closed loop pro­ pagation pattern suitable for use with a bubble lattice.  the  closed loop propagation pattern (12a-h) is folded and  contains, for example, segments of a hexagonal lattice  (18-d, 20a-d, 22a-d, 24a-d) connected by 60° turns  to obtain a close pack bubble storage configuration.  the  bubbles are propagated along the pattern consisting, pre­ ferably, of c-bar or chevron type permalloy elements by  a rotating magnetic field in the plane of the pattern.  in a  preferred embodiment, the folded closed loop propagation  pattern is surrounded by a region of non-propagating  bubbles retained by permalloy dot confinement means (26).  
+</ABSTRACT>
+</TEXT>
+</DOC>

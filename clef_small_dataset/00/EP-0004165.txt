@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004165
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-15/00 F15B-15/14 F16J-10/00 F15B-13/00 B62D-33/07 B62D-33/06 <main>F15B-15/22</main> F16J-10/02 F15B-13/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+locking cylinders.
+</TITLE>
+<APPLICANT>
+applied power incus<sep>applied power inc.<sep>applied power inc.250 south executive drivebrookfield wisconsin 53005us<sep>applied power inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+skover nick jr<sep>skover, nick, jr.<sep>skover, nick, jr.2710 lasalle streetracine wisconsinus<sep>skover, nick, jr.<sep>skover, nick, jr.2710 lasalle streetracine wisconsinus<sep>
+</INVENTOR>
+<ABSTRACT>
+a piston-and-cylinder actuator for a tilting cab on a vehicle  has a main piston (38) with a piston rod (40) extendable  by application of hydraulic pressure to push port (28) and  retractable by hydraulic pressure applied to pull port (30).   during retraction return of fluid from expansion chamber  (34) is not possible through one-way supply valve (78) but is  controlled by poppet valve (68).  valve (68) is spring biassed  but can be opened by a combination of differential pressure  across the valve and the movement of a pilot piston (66)  acted upon by the pressure at the pull port (30).  the return  path to the push port (28) is by way of a passage (52) in the  poppet valve (68).  in a modification the pilot piston (66) first  acts by way of a floating rod to open a valve in the passage  (52).  the actuator provides smooth movement with a  minimum of bouncing because it prevents the weight of the  cab driving the piston rapidly after the cab passes the balanced  position.  
+</ABSTRACT>
+</TEXT>
+</DOC>

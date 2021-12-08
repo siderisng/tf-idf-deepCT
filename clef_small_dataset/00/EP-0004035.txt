@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004035
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-3/02 G05D-23/24 <main>B23K-3/02</main> B23K-3/03 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+soldering device with temperature control.
+</TITLE>
+<APPLICANT>
+cooper ind incus<sep>cooper industries inc.<sep>cooper industries inc.p.o. box 4446houston texas 77210us<sep>cooper industries inc.<sep>
+</APPLICANT>
+<INVENTOR>
+kruttschnitt friedrich<sep>rittmann gunter<sep>kruttschnitt, friedrich<sep>rittmann, gunter<sep>kruttschnitt, friedrichbinswanger strasse 47d-7107 neckarsulmde<sep>rittmann, güntereberhardstrasse 8d-7121 loechgaude<sep>kruttschnitt, friedrich<sep>rittmann, gunter  <sep>kruttschnitt, friedrich binswanger strasse 47d-7107 neckarsulmde<sep>rittmann, güntereberhardstrasse 8d-7121 loechgaude<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a soldering tool with temperature regulation wherein the heating element (1) of the soldering tool is fed with a. c.  current via an electronic switch device (6) which is switched on and off via a control circuit (4) in dependence on the output signal of a first temperature sensor (2) arranged on the heating element (1) and which has protection devices for protection against a thermal and/or electrical overload of the workpieces to be soldered, wherein the control circuit (4) includes a comparator (8) for comparing the output signal of the temperature sensor (2) with a desired value signal (11) and wherein a second temperature sensor (3) is arranged in the spatial vicinity of the first temperature sensor (2), characterized in that, the output signal of the second temperature sensor (3) is passed together with a second desired value signal (12) representing a limiting temperature to the inputs of a comparator (9) of a second control circuit (5) the output of which is connected to a further switch device (7) inserted in the energizing circuit of a relay (10) which, in the made operating condition, permits the energization of the heating element. 
+</ABSTRACT>
+</TEXT>
+</DOC>

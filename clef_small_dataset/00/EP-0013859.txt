@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013859
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-235/00 C07D-235/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of benzimidazol-(2)-one.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+heise hartmut drde<sep>hille ernst drde<sep>kuemmerle kurt dr de <sep>wagner reinhard drde<sep>heise, hartmut, dr.<sep>hille, ernst, dr.<sep>kuemmerle, kurt, dr.<sep>wagner, reinhard, dr.<sep>heise, hartmut, dr.am rehsteig 8d-6232 bad soden am taunusde<sep>hille, ernst, dr.im herlenstück 15d-6233 kelkheim (taunus)de<sep>kümmerle, kurt, dr.unter den eichen 1d-6233 kelkheim (taunus)de<sep>wagner, reinhard, dr.buchenweg 28d-6200 wiesbadende<sep>
+</INVENTOR>
+<ABSTRACT>
+The condensation of o-phenylenediamine with urea in water supplies benzimidazolone (2) in good yield and ho from purity when the reaction takes place at pH 4-9 and at least 90 ° C.It can be worked with a minimal urea over shot and without pressure.
+</ABSTRACT>
+</TEXT>
+</DOC>

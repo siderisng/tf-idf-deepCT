@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002915
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03G-15/22</main> G03G-15/00 G03G-21/16 B65H-7/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrophotographic machine.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+baumann gerald walter<sep>burdick robert leonard<sep>goff willie jr<sep>libby edwin langford<sep>baumann, gerald walter<sep>burdick, robert leonard<sep>goff, willie, jr.<sep>libby, edwin langford<sep>baumann, gerald walter2399 kalmia avenueboulder colorado 80302us<sep>burdick, robert leonard1155 woodland courtboulder colorado 80303us<sep>goff, willie, jr.3908 pebble pathaustin texas 78731us<sep>libby, edwin langford6074 brigadoon drivelongmont colorado 80501us<sep>baumann, gerald walter<sep>burdick, robert leonard <sep>goff, willie, jr.<sep>libby, edwin langford  <sep>baumann, gerald walter2399 kalmia avenueboulder colorado 80302us<sep>burdick, robert leonard1155 woodland courtboulder colorado 80303us<sep>goff, willie, jr.3908 pebble pathaustin texas 78731us<sep>libby, edwin langford6074 brigadoon drivelongmont colorado 80501us<sep>
+</INVENTOR>
+<ABSTRACT>
+a electrophotographic machine of the transfer type  having a main slide-out drawer (17) upon which is mounted  most of the paper path (18, 19, 21), including the fuser  (24) and the transfer corona (22).  the main drawer carries  paper storage bins (18, 19) paper feed mechanisms (20),  and transport guides (21).  the paper storage bins comprise  individual mini-drawers slidably mounted in the main  drawer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

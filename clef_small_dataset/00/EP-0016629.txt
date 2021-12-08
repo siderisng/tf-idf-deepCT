@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016629
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-3/15 H04N-5/335 <main>H04N-3/15</main> H04N-5/20 H04N-5/217 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system and method for restoring image signal levels and setting signal gain for image-viewing devices.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation <sep>
+</APPLICANT>
+<INVENTOR>
+wiggins douglas glenn<sep>wiggins, douglas glenn<sep>wiggins, douglas glenn129 timberline drivepenfield, new yorkus<sep>wiggins, douglas glenn<sep>wiggins, douglas glenn129 timberline drivepenfield, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a system for restoring image signal levels and setting  signal gain for image-viewing devices such as change-coupled  devices (ccds) (15).  following the last image signal  (or 'pixel') in a line of image data, a predetermined sequence  of dark level signals (d) and light level signals (l) are shifted  out of the ccd.  the dark level signals are the absence of all  image information, while the light level signals represent  signals introduced at the appropriate time early in the  shifting cycle.  at the ccd output, the dark and light level  signals are isolated and processed by an mpu (86) in  accordance with pre-established functions to provide an  offset potential and gain multiplicand.  the offset potential  and gain multiplicand determined are used to remove the  offset and set signal gain for the next succeeding line of  image signals.  the process is repeated as each line of image  signals is output from the ccd.  
+</ABSTRACT>
+</TEXT>
+</DOC>

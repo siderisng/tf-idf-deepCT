@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005393
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-4/10 C23C-26/00 G01T-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for manufacturing sensing elements for electron dosimeters.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>
+</APPLICANT>
+<INVENTOR>
+ducos mauricefr <sep>manfredi pierrefr <sep>petel maurice fr<sep>portal guyfr<sep>ducos, maurice<sep>manfredi, pierre<sep>petel, maurice<sep>portal, guy<sep>ducos, mauriceroute d'uchaux - mornasf-84420 piolencfr<sep>manfredi, pierrequartier saint marcel - serignanf-84100 orangefr<sep>petel, maurice41, rue fontaine grelotf-92340 bourg-la-reinefr<sep>portal, guy16, résidence du parcf-91300 massyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A method of producing a sensitive wafer for exolectrons dosimeter per embodiment on a support of a deposition of a mixture of two compounds, on the one hand, by a body having traps for the electrons and able to emit exopelectrons.By thermal or optical stimulation and, on the other hand, by a body with good ionic conductivity.The method comprises the following steps: a homogeneous mixture of the powders constitute the two compounds is carried out;and - said powder mixture is projected by means of an atomization projection device to obtain an adhering deposit on said support.Preferably, said method comprises a subsequent heat treatment step adhering at a temperature between 300 and 900 ° C.
+</ABSTRACT>
+</TEXT>
+</DOC>

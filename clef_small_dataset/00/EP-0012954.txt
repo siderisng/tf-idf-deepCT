@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012954
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-15/00 H01J-37/34 C23C-14/36 C23C-14/38 <main>H01J-37/34</main> H01J-37/32 C23C-14/35 H01L-21/203 H01L-21/02 C23C-14/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bias sputter deposition apparatus and its method of use.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation  <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kennedy thomas nolan<sep>lester william carl<sep>mcdonough george william<sep>michaelson john daniel<sep>kennedy, thomas nolan<sep>lester, william carl<sep>mcdonough, george william<sep>michaelson, john daniel<sep>kennedy, thomas nolan6897 campisi courtsan jose california 95120us<sep>lester, william carl14610 blossom hill roadlos gatos california 95030us<sep>mcdonough, george william912 rose blossom drivecupertino california 95014us<sep>michaelson, john daniel120 adrian placelos gatos california 95030us<sep>kennedy, thomas nolan <sep>lester, william carl<sep>mcdonough, george william  <sep>michaelson, john daniel<sep>kennedy, thomas nolan6897 campisi courtsan jose california 95120us<sep>lester, william carl14610 blossom hill roadlos gatos california 95030us<sep>mcdonough, george william912 rose blossom drivecupertino california 95014us<sep>michaelson, john daniel120 adrian placelos gatos california 95030us<sep>
+</INVENTOR>
+<ABSTRACT>
+method and apparatus for coating a thin film upon a  substrate 6 in a vacuum chamber 1 using the sputter deposi­ tion technique on both sides of the substrate.  the substrate 6  is held between two movable rams 7 and is located between  two sputter cathodes 3 equal to or larger in size than the  substrate.  the rams 7 conduct r. f.  power to the substrate and  have a conduit 9 to conduct cooling liquid to the inner ends of  the rams to remove heat from the substrate.  a d. c.  bias is  maintained between the cathodes 3 and the substrate to pro­ duce the required asymmetrical sputter.  an earthed suppres­ sion ring 16 encircles the periphery of the substrate 6.  this  ring is located sufficiently close to the substrate to suppress  plasma glow.  the cathodes 3 of the sputtering system are  magnetically enhanced for concentration of the sputtering  plasma.  
+</ABSTRACT>
+</TEXT>
+</DOC>

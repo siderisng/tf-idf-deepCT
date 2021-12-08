@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016485
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-31/04 H01J-35/10 <main>H01J-35/10</main> H01J-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+anode disc for x-ray tube with rotating anode.
+</TITLE>
+<APPLICANT>
+philips nvde <sep>philips patentverwaltungde <sep>n.v. philips' gloeilampenfabrieken <sep>philips patentverwaltung gmbh<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips patentverwaltung gmbhröntgenstrasse 2422335 hamburgde<sep>n.v. philips' gloeilampenfabrieken<sep>philips patentverwaltung gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+hubner horst dr<sep>lersmacher bernhard dr-ing<sep>lydtin hans dr<sep>wilden rof<sep>hubner, horst, dr.<sep>lersmacher, bernhard, dr.-ing.<sep>lydtin, hans, dr.<sep>wilden, rof<sep>hübner, horst, dr.kesselstrasse 40d-5100 aachende<sep>lersmacher, bernhard, dr.-ing.schlossweiherstrasse 31d-5100 aachende<sep>lydtin, hans, dr.am goepelschacht 9d-5190 stolbergde<sep>wilden, rofbrandstrasse 56d-5106 roetgende<sep>hubner, horst, dr.<sep>lersmacher, bernhard, dr.-ing.<sep>lydtin, hans, dr.<sep>wilden, rof<sep>hübner, horst, dr.kesselstrasse 40d-5100 aachende  <sep>lersmacher, bernhard, dr.-ing. schlossweiherstrasse 31d-5100 aachende<sep>lydtin, hans, dr.am goepelschacht 9d-5190 stolbergde<sep>wilden, rofbrandstrasse 56d-5106 roetgende<sep>
+</INVENTOR>
+<ABSTRACT>
+In the anode disk according to the invention, the focal stain is arranged on a pyrographitring, which is oriented so that the surfaces of the larger thermal and electrical conductivity are parallel to the axis of rotation of the ANO disk.As a result, a good heat dissipation is secured without the bearings being thermally overloaded.
+</ABSTRACT>
+</TEXT>
+</DOC>

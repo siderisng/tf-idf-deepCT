@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004244
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+B62D-6/00 B62D-5/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulic servomechanism, particularly for vehicle servo-steering
+</TITLE>
+<APPLICANT>
+dba safr<sep>societe anonyme d.b.a.<sep>societe anonyme d.b.a.centre paris pleyelf-93521 st-denis cédex 01fr<sep>
+</APPLICANT>
+<INVENTOR>
+kervagoret gilbertfr <sep>tanguy christianfr <sep>kervagoret, gilbert <sep>tanguy, christian<sep>kervagoret, gilbert5 impasse nobleterref-95100 argenteuilfr<sep>tanguy, christian34bis avenue gaston bourryf-95740 frepillonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the steering mechanism comprises an input shaft (16) and an output shaft (18) which are coaxial.  a closed-centre rotary distribution system comprises a piston (52) mounted slidably in a bore provided in a casing integral with an input shaft (16) and perpendicular to the axis of the input shaft (16) and output shaft (18).  one of the faces of the piston (52) is subjected to a high pressure, and the other face is subjected to an intermediate pressure communicated to a compartment of a hydraulic servomotor.  a control element (110) integral with the output shaft penetrates into the piston, perpendicularly to its axis.  when operating, the relative displacement of the piston (52) and of the control element, in response to a relative rotation of the input shaft and of the output shaft, acts on the distributor in order to increase or reduce the pressure communicated to the compartment of the hydraulic motor.  a spring mechanism (90) associated with the piston (52) enables the characteristic of the distributor to be modulated.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008721
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/26 G01R-31/265 <main>G01R-33/12</main> G01R-33/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+noncontacting measurement of hall effect in a semiconductor wafer.
+</TITLE>
+<APPLICANT>
+western electric co us <sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated <sep>
+</APPLICANT>
+<INVENTOR>
+miller gabriel lorimer<sep>robinson david arthur hall<sep>miller, gabriel lorimer<sep>robinson, david arthur hall<sep>miller, gabriel lorimer614 boulevardwestfield, new jersey 07090us<sep>robinson, david arthur hall60 greenwood roadmurray hill new jersey 07974us<sep>miller, gabriel lorimer<sep>robinson, david arthur hall  <sep>miller, gabriel lorimer614 boulevardwestfield, new jersey 07090us<sep>robinson, david arthur hall60 greenwood roadmurray hill new jersey 07974us<sep>
+</INVENTOR>
+<ABSTRACT>
+the magnitude and sign of the hall angle of the material  of a semiconductor wafer (13) are measured by a combined  capacitive and inductive coupling technique which does not  require physically contacting the wafer (13), thus avoiding  possible physical damage to the wafer.  an rf signal is applied  to a pair of concentric circular planar electrodes (11, 12) adja­ cent to the wafer (13), thus capacitively coupling a radial rf  current into the wafer.  a magnetic field applied (magnet 14)  perpendicular to the wafer produces a circular component of  current because of the hall effect.  this circular rf current  produces an axial rf magnetic field which couples to a pickup  coil (15).  the pickup signal is amplified (48) and detected (49)  to produce an output signal related to the sign and magnitude  of the hall angle of the wafer material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

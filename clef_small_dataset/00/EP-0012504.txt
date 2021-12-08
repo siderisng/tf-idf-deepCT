@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012504
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-2/66 C07C-15/085 <main>C07C-15/085</main> C07C-2/00 C07C-15/00 B01J-29/00 C07C-1/00 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of isopropylbenzene.
+</TITLE>
+<APPLICANT>
+mobil oil corpus<sep>mobil oil corporation<sep>mobil oil corporation150 east 42nd streetnew york new york 10017us<sep>mobil oil corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kaeding warren william<sep>kaeding, warren william<sep>kaeding, warren william700 mountain avenuewestfield, new jersey 07090 union countyus<sep>kaeding, warren william<sep>kaeding, warren william700 mountain avenuewestfield, new jersey 07090 union countyus<sep>
+</INVENTOR>
+<ABSTRACT>
+benzene is brought into contact with propylene, in the  presence of a specified type of crystalline zeolite catalyst,  to produce isopropylbenzene selectively.  the zeolite has a  silica to alumina ratio of at least 12 and a constraint index  within the approximate range of 1-12.  the process may be  carried out in the liquid or the vapor phase at temperatures  of from about 100°c to about 300°c and pressures ranging  from 10⁵n/m² to 6 x 10⁶ n/m².  the preferred zeolite is  zsm-12.  recycle of polyisopropylbenzenes is provided for.  
+</ABSTRACT>
+</TEXT>
+</DOC>

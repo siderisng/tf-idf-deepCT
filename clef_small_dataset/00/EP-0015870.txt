@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015870
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22D-11/041 B22D-11/01 B22D-11/124 <main>B22D-11/01</main> B22D-11/049 B22D-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electro-magnetic mould for continuous casting.
+</TITLE>
+<APPLICANT>
+alusuissech<sep>schweizerische aluminium ag<sep>schweizerische aluminium agch-8212 neuhausen am rheinfallch<sep>schweizerische aluminium ag<sep>
+</APPLICANT>
+<INVENTOR>
+haller walter<sep>haller, walter<sep>haller, walterplanzette 32ch-3960 sierrech<sep>haller, walter<sep>haller, walterplanzette 32ch-3960 sierrech<sep>
+</INVENTOR>
+<ABSTRACT>
+An electromagnetic continuous casting coil has a support body for an induction coil and a cooling device with at least one cooling nozzle directed on the surface of the casting strand for a liquid coolant.The nozzle opening formed as a annular gap (13) is switched on down a profile (15) in the flow direction of the coolant, which injects in the web of the coolant beam (14) exiting the ring gap (14) with a groomed or the casting direction extended replace baffle surface.This surrounds the formation of the casting strand and distracts the coolant beam from the annular gap in a different direction, so that the height and angles under which the coolant struck on the casting strand are subsequently changed.
+</ABSTRACT>
+</TEXT>
+</DOC>

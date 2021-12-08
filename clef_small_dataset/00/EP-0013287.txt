@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013287
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24D-10/00 F24D-19/10 <main>G05D-23/19</main> F24F-11/00 G05D-23/19 F24D-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for energy-optimising the change in temperature in buildings during non-occupied periods.
+</TITLE>
+<APPLICANT>
+landis & gyr ag ch <sep>lgz landis & gyr zug ag<sep>lgz landis &amp; gyr zug agch-6301 zugch<sep>lgz landis & gyr zug ag  <sep>
+</APPLICANT>
+<INVENTOR>
+eckstein volker<sep>steinle benedikt<sep>eckstein, volker<sep>steinle, benedikt<sep>eckstein, volkerriedmatt 36ch-6300 zugch<sep>steinle, benediktschönbühl 10ch-6300 zugch<sep>eckstein, volker<sep>steinle, benedikt<sep>eckstein, volkerriedmatt 36ch-6300 zugch<sep>steinle, benediktschönbühl 10ch-6300 zugch<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an arrangement for optimising the energy consumption in buildings upon the change in temperature in accordance with a predetermined program for a temperature to be attained at the end of the period of the change in temperature, comprising a control assembly which has a computer (8), a programmer (9) and a timer (10) controlled by the programmer, and serves for controlling the times of switching on and switching off a heating, cooling or air conditioning installation (11), wherein the computer (8), in a period before the respectively desired change in temperature, taking account of parameters which are affected by the characteristics of the building, and the measured instantaneous values in respect of outside and room temperatures, repeatedly determines the optimum time for switching on or switching off the heating, cooling or air conditioning installation (11), on the basis of the temperature-time relationship to be expected by computation, in order to attain the desired room temperature at the end of the period of the change in temperature, characterised in that a further computer (2) forms the parameters which take account of the characteristics of the building, during the changes in temperature, from the measured temperature patterns at predetermined time intervals, that the parameters of such a cycle can be stored in a first memory (ram1) and a correction member (f4) corrects, with a predetermined valuation, the old parameters stored in a second memory (ram2) from the preceding cycle, on the basis of the freshly defined parameters of the first memory (ram1), replaces the old values in the second memory (ram2) by the new values formed in that way, and stores same for computation of the next cycle, and that the one computer (8) performs the pre-computation of the temperature-time pattern to be expected, and the optimum switching time to be determined therefrom, on the basis of the parameters contained in the second memory (ram2) and the instantaneous outside and room temperatures. 
+</ABSTRACT>
+</TEXT>
+</DOC>

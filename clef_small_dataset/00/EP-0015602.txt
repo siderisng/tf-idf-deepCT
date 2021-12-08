@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015602
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09B-23/02 G03C-1/825 <main>G03C-1/84</main> G03C-1/83 C09B-23/00 G03C-1/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+novel light-absorbing methine dyes and photographic materials containing them.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe   <sep>agfa-gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap  <sep>
+</APPLICANT>
+<INVENTOR>
+depoorter henri<sep>moelants felix jan<sep>depoorter, henri<sep>moelants, felix jan<sep>depoorter, henrihof van rietlaan 39b-2510 mortselbe<sep>moelants, felix jansterrenlaan 143b-2610 wilrijkbe<sep>depoorter, henri<sep>moelants, felix jan<sep>depoorter, henrihof van rietlaan 39b-2510 mortselbe<sep>moelants, felix jansterrenlaan 143b-2610 wilrijkbe<sep>
+</INVENTOR>
+<ABSTRACT>
+light-absorbing fluorine-containing 2-pyrazolin-5-one  methine oxonol dyes corresponding to the formula    wherein r is c₁-c₅ alkyl, aryl, alkoxycarbonyl, carboxy,  or carbamoyl, and n is 0, 1, or 2.  the dyes can be used in light-sensitive silver halide  materials in an antihalation layer, in a filter layer or as  screening dyes in a light-sensitive layer.  they manifest  great stability while in dissolved state within a very large  ph-range and they are decolourized easily in one of the  processing baths.  they are prepared by joining 2 appropriately  substituted pyrazolone rings in 4-position by 1  methine group through reaction with an ester of an orthocarboxylic  acid or by a tri- or pentamethine group through  reaction with β-anilinoacrolein anil hcl or glutaconic dialdehyde  dianil hcl respectively.  
+</ABSTRACT>
+</TEXT>
+</DOC>

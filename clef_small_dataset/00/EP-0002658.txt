@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002658
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/208 <main>H01L-21/208</main> H01L-33/00 C30B-15/20 H01L-21/20 H01S-5/00 H01L-21/02 H01L-31/10 H01L-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing a semiconductor device.
+</TITLE>
+<APPLICANT>
+siemens agde  <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+endler wolfgang<sep>westermeier heinz<sep>zschauer karl-heinz dr<sep>endler, wolfgang<sep>westermeier, heinz<sep>zschauer, karl-heinz,dr.<sep>endler, wolfgangburgmairstrasse 16d-8000 münchen 21de<sep>westermeier, heinzjosef-kyrein-strasse 9cd-8014 neubibergde<sep>zschauer, karl-heinz,dr.pf.-dr.rauch-strasse 30d-8018 grafingde<sep>endler, wolfgang  <sep>westermeier, heinz<sep>zschauer, karl-heinz,dr.<sep>endler, wolfgangburgmairstrasse 16d-8000 münchen 21de<sep>westermeier, heinzjosef-kyrein-strasse 9cd-8014 neubibergde<sep>zschauer, karl-heinz,dr.pf.-dr.rauch-strasse 30d-8018 grafingde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing a semiconductor device, in particular for optoelectronic components, in which at least one layer of another semiconductor compound is deposited epitaxially on a substrate of a semiconductor compound.The invention is that the surface of the substrate (2) is provided with a plurality of facet structures (14) of the further semiconductor compound.Before epitaxy, the surface of the substrate is provided with a plurality of MESA mountains (10) in predetermined distribution, from which a facet structure (14) is then formed.The plane and trouble-free crystal surface of the facets retains further layers in the deposition.The method is therefore particularly suitable for the preparation of optoelectronic components and microwave components.
+</ABSTRACT>
+</TEXT>
+</DOC>

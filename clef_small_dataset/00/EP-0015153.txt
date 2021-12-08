@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015153
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09J-5/10 C09J-5/00 B29C-65/18 B42C-9/00 B42C-19/00 <main>B42C-9/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+binding apparatus and method.
+</TITLE>
+<APPLICANT>
+eastman kodak co us <sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company  <sep>
+</APPLICANT>
+<INVENTOR>
+mcglen james allen<sep>smith robert charles jr<sep>mcglen, james allen<sep>smith, robert charles, jr.<sep>mcglen, james allen901 elmgrove roadrochester, new yorkus<sep>smith, robert charles, jr.901 elmgrove roadrochester, new yorkus<sep>mcglen, james allen<sep>smith, robert charles, jr.<sep>mcglen, james allen901 elmgrove roadrochester, new yorkus<sep>smith, robert charles, jr.901 elmgrove roadrochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+binding apparatus and method for binding copy sheets  (12) having a heat-sealable material along an edge thereof  into booklets by arranging the sheets (12) in a stack and  heating the heat-sealable material so as to adhere adjacent  sheets (12) together.  the heating operation is accomplished  by a heating shoe (56) and a patterned heating bar (62) after  each group of a few sheets (12) is received from a copier/dup­ licator so that the finisher operation may be carried on at the  same rate as copies are produced by the copier/duplicator.  
+</ABSTRACT>
+</TEXT>
+</DOC>

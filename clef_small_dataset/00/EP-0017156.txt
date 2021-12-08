@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017156
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F23D-3/40</main> F23L-15/00 F23L-15/04 F23D-3/40 F23D-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ceramic burner head with flow ducts for fuel and oxidizing agents led in parallel to the burner tip.
+</TITLE>
+<APPLICANT>
+kernforschungsanlage juelichde<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>forschungszentrum jülich gmbhwilhelm-johnen-strasse52425 jülichde<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>
+</APPLICANT>
+<INVENTOR>
+forster siegfried dr<sep>kleemann manfred dr<sep>quell peter dr<sep>sack berthold<sep>forster, siegfried, dr.<sep>kleemann, manfred, dr.<sep>quell, peter, dr.<sep>sack, berthold<sep>förster, siegfried, dr.ottenfeld 1d-5110 alsdorfde<sep>kleemann, manfred, dr.im rauland 147d-5010 bergheimde<sep>quell, peter, dr.birkenweg 23d-5100 aachen-haarende<sep>sack, bertholdam weissenberg 36d-5100 aachende<sep>forster, siegfried, dr.<sep>kleemann, manfred, dr. <sep>quell, peter, dr.<sep>sack, berthold  <sep>förster, siegfried, dr. ottenfeld 1d-5110 alsdorfde<sep>kleemann, manfred, dr.im rauland 147d-5010 bergheimde<sep>quell, peter, dr.birkenweg 23d-5100 aachen-haarende<sep>sack, bertholdam weissenberg 36d-5100 aachende<sep>
+</INVENTOR>
+<ABSTRACT>
+In a ceramic burner head for liquid burning fabric, partition walls (7) are formed between adjacent arranged th flow channels (2,3) for fuel and oxidation means in the region of the burner mouth (6) of a porous material permeable to the fuel. When operating the burner head, the liquid fuel penetrates the porous material and evaporates on the surface of the partition walls (7) facing the oxidizing agent stream. The fuel-leading flow channels (2) of the burner head are closed to the combustion chamber. For the cold start of the burner head on the burner mouth (6), a transverse to the flow channels extended transversely to the flow channels is arranged, Figs. 2 and 3. The ignition device has a evaporative body (10), which also consists of a porous material permeable to the fuel. In a cavity (12) of the evaporative body open to the combustion chamber, an ignition wire (13) is arranged, which is electrically heated to the ignition of in the cavity. For generating high power, the burner heads are arranged in parallel circuit pairwise mirror image.
+</ABSTRACT>
+</TEXT>
+</DOC>

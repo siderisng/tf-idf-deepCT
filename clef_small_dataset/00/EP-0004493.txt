@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004493
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-37/00 C07D-307/88 C07B-19/00 C07C-41/00 C07C-37/86 C07C-45/00 C07C-41/18 C07C-29/00 C07B-31/00 C07D-307/93 C07B-57/00 C07C-62/02 C07B-61/00 C07C-67/00 <main>C07D-315/00</main> C07D-315/00 C07C-29/88 B01J-31/02 C07C-43/00 C07C-62/00 C07C-43/295 C07D-307/00 C07C-51/487 C07C-45/57 C07D-307/33 C07C-62/04 C07C-51/42 C07C-27/00 C07C-29/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ethers whose organic moieties have asymmetric atoms, methods for their preparation and their use for the resolution of alcohols, phenols or certain compounds with a lactone structure.
+</TITLE>
+<APPLICANT>
+roussel uclaf fr <sep>roussel-uclaf<sep>roussel-uclaf102, route de noisy boíte postale no.993230 romainvillefr<sep>roussel-uclaf<sep>
+</APPLICANT>
+<INVENTOR>
+martel jacques<sep>teche andre<sep>tessier jean<sep>martel, jacques<sep>teche, andre<sep>tessier, jean<sep>martel, jacques15 rue douvillezf-93140 bondyfr<sep>teche, andré51 avenue joliot curief-92000 nanterrefr<sep>tessier, jean30 rue jean moulinf-94300 vincennesfr<sep>martel, jacques<sep>teche, andre<sep>tessier, jean<sep>martel, jacques15 rue douvillezf-93140 bondyfr<sep>teche, andré51 avenue joliot curief-92000 nanterrefr<sep>tessier, jean30 rue jean moulinf-94300 vincennesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+New ethers whose organic remains have chiral atoms, their process for preparing and their application to duplication of alcohols, phenols or some lactose structure compounds.The invention relates to the new compounds of formula I: wherein A is a hydrocarbon chain of 1 to 10 chains, which may comprise one or more heteroatoms, one or more insaturations and can be of type mono or polycyclic, including spiro or endo,comprising one or more chiral atoms or spatial configuration leading to chirality, Z is a remaining alcohol or phenol comprising at least one asymmetric carbon, or spatial configuration between chirality, z being different from (R) or (s) α-cyano 3-phenoxy benzyl when A is a chain their process for preparing and their application to duplication of alcohols, phenols or some lactones.
+</ABSTRACT>
+</TEXT>
+</DOC>

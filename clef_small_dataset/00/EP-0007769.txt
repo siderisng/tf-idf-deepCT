@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007769
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01L-5/00 F16K-37/00 F17C-13/00 F17C-13/02 F02P-3/04 F16K-17/04 F02P-3/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for testing the setting of a valve.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company <sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us   <sep>
+</APPLICANT>
+<INVENTOR>
+barker brian geoffreygb<sep>grymonprez paul andrebe<sep>ruyssers robert hector mathildabe<sep>barker, brian geoffrey<sep>grymonprez, paul andre<sep>ruyssers, robert hector mathilda<sep>barker, brian geoffrey13 cherrytree closegrove, near wantage oxfordshiregb<sep>grymonprez, paul andreavenue de meise 125b-1020 brusselsbe<sep>ruyssers, robert hector mathildamechelsesteenweg 163b-2000 antwerpenbe<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for testing the setting of a valve  (particularly a safety valve mounted on a vessel (1)) compris­ ing a valve member (4) biassed towards a valve seat (6).   employs a pulling device (12, 13, 14) which is engaged with  the valve member (4) and operated to apply a tractive force  opposed to the bias which is just sufficient to separate the  valve member (4) from the valve seat (6).  the pulling device  (12, 13, 14) is preferably operated by a hydraulic or pneumatic  pump (19).  the hydraulic or pneumatic pressure which is just  sufficient to separate the valve member (4) from the valve seat  (6) is indicated by a suitable gauge (21) and is proportional to  the tractive force.  the sum of the tractive force and the force  acting on the valve from inside the vessel (1) and which can be  calculated from the internal pressure indicated on a pressure  gauge (2) communicating with the interior of the vessel (1) is  indicative of the setting of the valve.  the separation of the  valve member (4) from the valve seat (6) is conveniently indi­ cated by bubbles in a layer (22) of liquid overlying the valve  member (4).  
+</ABSTRACT>
+</TEXT>
+</DOC>

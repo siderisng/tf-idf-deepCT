@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002681
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/215 C07C-51/16 B01J-23/22 B01J-23/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vanadium oxide catalyst, its preparation and its use in the high pressure vapor phase oxidation of lower aliphatic hydrocarbons
+</TITLE>
+<APPLICANT>
+celanese corpus<sep>celanese corporation<sep>celanese corporation1211 avenue of the americasnew york new york 10036us<sep>
+</APPLICANT>
+<INVENTOR>
+aguilo adolfous<sep>baylis anthony bus<sep>degroot peter bus<sep>hughes michael pus<sep>slinkard william eus <sep>aguilo, adolfo<sep>baylis, anthony b.  <sep>degroot, peter b.<sep>hughes, michael p.<sep>slinkard, william e.<sep>aguilo, adolfo4606 oxfordcorpus christi texas 78411us<sep>baylis, anthony b.73 robbins avenueberkeley heights new jersey, 07922us<sep>degroot, peter b.906 catalinacorpus christi texas 78411us<sep>hughes, michael p.2800 teakwoododessa texas 78411us<sep>slinkard, william e.4521 sheffieldcorpus christi texas 78411us<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention provides a superior vanadium oxide catalyst, its preparation and its use in the high pressure vapor phase oxidation of lower aliphatic hydrocarbons such as n-butane to corresponding monocarboxylic acids such as acetic acid.  the catalyst is prepared by thermally decomposing in an inert atmosphere salts of vanadium and multibasic organic acids.  the use of said catalyst takes place in the hydrocarbon rich region in the presence of steam. 
+</ABSTRACT>
+</TEXT>
+</DOC>

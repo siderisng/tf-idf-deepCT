@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009156
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-73/18</main> H01H-73/18 H01H-73/00 H01H-9/44 H01H-71/12 H01H-9/30 H01H-71/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit-breaker with an additional blow-out loop.
+</TITLE>
+<APPLICANT>
+licentia gmbhde<sep>licentia patent-verwaltungs-gmbh<sep>licentia patent-verwaltungs-gmbhtheodor-stern-kai 1d-60596 frankfurtde<sep>licentia gmbh de<sep>licentia patent-verwaltungs-gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+ostermann werner ing grad<sep>ostermann, werner, ing.grad.<sep>ostermann, werner, ing.grad.grabbestrasse 30d-3250 hameln 5de<sep>ostermann werner ing grad<sep>ostermann, werner, ing.grad.<sep>ostermann, werner, ing.grad.grabbestrasse 30d-3250 hameln 5de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  line protection relay with a contact arrangement (3, 4) forming a blow-out loop and an arcing chamber which is equipped with parallel metal quenching plates arranged at an angle to the blow-out loop as well as with arc guide rails (5, 6), of which the one (5) flanks the metal quenching plate stack on the one side and a conductor piece (side 5'b) belonging to an additional blow-out loop is provided parallel to it in the travelling range of the arc in front of the metal quenching plates, characterized thereby, that the additional blow-out loop is housed in a free space (9) behind the one arc guide rail (5) in a current circuit which is switched off in normal operation and that furthermore that part of the arc guide rail (5), which faces the contact arrangement (3, 4) and is used for the course of the arc, projects into the range of the opening position of the movable contact piece (4) so that the putting into circuit of the additional blow-out loop takes place only on the jumping of the arc over from the movable contact piece (4) to the arc guide rail (5). 
+</ABSTRACT>
+</TEXT>
+</DOC>

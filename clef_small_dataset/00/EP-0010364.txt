@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010364
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/36 A61N-1/34 A61N-1/32 <main>A61N-1/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transcutaneous electrical nerve stimulator.
+</TITLE>
+<APPLICANT>
+stimtechus<sep>stimtech, inc.<sep>codman &amp; shurtleff inc.41 pacella park driverandolph massachusetts 02368us<sep>codman & shurtleff inc. <sep>
+</APPLICANT>
+<INVENTOR>
+keller john walter jr<sep>keller, john walter, jr.<sep>keller, john walter, jr.8600 southwest 54th avenuemiami, florida 33143us<sep>keller, john walter, jr. <sep>keller, john walter, jr.8600 southwest 54th avenuemiami, florida 33143us<sep>
+</INVENTOR>
+<ABSTRACT>
+a first oscillator dictates the pulse duration and frequency  of stimulating signals; the oscillator output wave form is coupled  to an output amplifier stage, and thence to the patient.  a  scanning oscillator provides a substantially linear ramp voltage,  which in turn controls pulse duration, pulse frequency,  and pulse intensity modulators.  in turn, these modulators  appropriately establish conditions within the first oscillator  and the output stage whereby the output parameters are  scanned through respective predetermined ranges, thereby  periodically achieving optimum stimulating conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

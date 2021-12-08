@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004626
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01S-15/10</main> A61B-8/00 G01S-15/00 A61B-10/00 G01S-15/10 G01S-7/524 G01S-7/523 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuit for producing ultrasonic pulses for use in an impulse echo system.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+hassler dieter<sep>schwarz robert<sep>hassler, dieter<sep>schwarz, robert<sep>hassler, dieterflurweg 3d-8521 uttenreuthde<sep>schwarz, roberterlanger strasse 6d-8521 hessdorfde<sep>hassler, dieter  <sep>schwarz, robert<sep>hassler, dieterflurweg 3d-8521 uttenreuthde<sep>schwarz, roberterlanger strasse 6d-8521 hessdorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and a circuit arrangement for exciting ultrasonic vibrators used in the pulse echo technique, in particular in the study of the human body, wherein the excitation in the sense of sending an ultrasonic pulse of the ultrasonic skid (1 ) A high frequency pulse of certain duration and amplitude is forwarded. The task is to show a way, however, however, however, in spite of significantly reduced maximum stimulation, optimal ratios are created with regard to the intensity to be created with the impulses with simultaneous pulse duration, so that preferably also switches limited in their maximum switching voltage can be used to control ultrasonic vibrators. According to the invention, this is possible by providing the ultrasonic skid (1) with a predeterminable number of periods of sinusoidal or sinusoidal oscillation (7) with such frequency, which extends the ultrasonic skid in its useful resonance frequency. Subsequent thereto, the ultrasonic skid is a stop signal, preferably a further number of periods of sinusoidal oscillation (9) smaller amplitude and at a phase jump of 180 °, is supplied. Re-vibrations of the oscillator are so easily extinguished.
+</ABSTRACT>
+</TEXT>
+</DOC>

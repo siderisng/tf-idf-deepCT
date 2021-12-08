@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003355
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F01C-1/063</main> F01C-1/063 F01C-1/00 F16H-1/32 F03G-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+unidirectional energy converter engine.
+</TITLE>
+<APPLICANT>
+battelle development corpus<sep>battelle development corporation<sep>battelle development corporation505 king avenuecolumbus ohio 43201 us<sep>battelle development corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+anno james n  <sep>fawcett sherwood l<sep>anno, james n.<sep>fawcett, sherwood l.<sep>anno, james n.5882 ropes drivecincinnati ohio 45244us<sep>fawcett, sherwood l.2820 margate roadcolumbus ohio 43221us<sep>anno, james n.<sep>fawcett, sherwood l.<sep>anno, james n.5882 ropes drivecincinnati ohio 45244us<sep>fawcett, sherwood l.2820 margate roadcolumbus ohio 43221us<sep>
+</INVENTOR>
+<ABSTRACT>
+thermal energy is converted into rational energy by  using the expansion of a fluid medium to propel a plurality of  pistons (27) within at least one continuous, closed-loop  passageway (30) mounted on a rotatable platform (11).  in at  least one region (33) of the passageway (30), the pistons (27)  must move inwardly against centrifugal force as the platform  (11) rotates.  in at least one other region (34) of the  passageway (30), the pistons (27) are moved outwardly  under the influence of centrifugal force.  means are provided  for imparting force to successive ones of the pistons (27) to  propel them against centrifugal force in said one region (33);  while means are provided for converting the energy of  pistons (27) moving outwardly under the influence of  centrifugal force in said other region (34) into rotational  energy.  this rotational energy is used to drive gears (17, 18)  mounted on the platform (11) which mesh with a stationary  gear (16) carried beneath the platform (11) to cause rotation  of the platform (11) about its rotational axis.  the energy used  to accelerate the pistons (27) is thereby converted into  rotational energy of the platform (11).  in one embodiment of  the invention, at least two continuous, closed-loop passageways  (30) are used on the platform (11) in order to prevent an  unbalanced condition.  in another embodiment of the invention,  a single passageway (104) is used on the platform (100)  comprising two essentially straight portions (106, 108) on  opposite sides of the axis of rotation of the platform (100)  interconnected at their opposite ends by curved portions  (110, 112), also on opposite sides of the axis of rotation of the  platform (100).  
+</ABSTRACT>
+</TEXT>
+</DOC>

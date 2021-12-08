@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006636
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01V-1/18 G01P-15/11 <main>G01P-15/08</main> G01P-15/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the measurement of accelerations of a vibrating body.
+</TITLE>
+<APPLICANT>
+deutsche forsch luft raumfahrtde<sep>deutsche forschungs -und versuchsanstalt fur luft-und raumfahrt e.v.<sep>deutsche forschungsanstalt für luft- und raumfahrt e.v.linderhöhed-51147 kölnde<sep>deutsche forschungs -und versuchsanstalt fur luft-und raumfahrt e.v. <sep>
+</APPLICANT>
+<INVENTOR>
+breitbach elmar dr-ing<sep>breitbach, elmar, dr.-ing.<sep>breitbach, elmar, dr.-ing.bornbreite 10d-3400 göttingende<sep>breitbach, elmar, dr.-ing. <sep>breitbach, elmar, dr.-ing.bornbreite 10d-3400 göttingende<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method and apparatus for mes sen of accelerations on oscillating bodies, a seismic mass (1) is suspended with the aid of a spring (4) against over a housing (3) connected to the oscillating body. The relative movement of the seismic mass (1), which may in particular be soft iron, is converted into an electrical measuring voltage. To achieve a great sensitivity with extremely low electrical or electronic effort, a magnetic field is built and this magnet field is influenced by the relative movement between the seismic mass (1) and the housing (3) in its shape and / or in its strength. This influence is set with magnetic field-dependent probes, in particular with field plates (5, 5a, 5b), in the electrical measuring voltage. The seismic mass can also consist of a white magnetic field. Magnetic field combinations can also be used.
+</ABSTRACT>
+</TEXT>
+</DOC>

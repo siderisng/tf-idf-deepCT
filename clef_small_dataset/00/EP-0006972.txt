@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006972
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/50 C08F-4/00 <main>C08F-2/50</main> C08F-4/04 C08F-2/00 C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photopolymerisation process.
+</TITLE>
+<APPLICANT>
+roehm gmbh de <sep>rohm gmbh<sep>röhm gmbhkirschenalleed-64293 darmstadtde<sep>rohm gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+hitzler otto<sep>wunderlich winfried dr<sep>hitzler, otto<sep>wunderlich, winfried, dr.<sep>hitzler, ottowilhelm-leuschner-strasse 57d-6106 erzhausende<sep>wunderlich, winfried, dr.spessartring 11d-6101 rossdorfde<sep>hitzler, otto  <sep>wunderlich, winfried, dr.<sep>hitzler, ottowilhelm-leuschner-strasse 57d-6106 erzhausende<sep>wunderlich, winfried, dr.spessartring 11d-6101 rossdorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+Radically polymerizable compounds such as acrylic and methacrylic compounds are polymerized under the action of light of a wavelength of 200 to 500 nm in the presence of symmetrical Azo compounds containing the azo group tertiary aliphatic hydrocarbon radicals having a molecular weight of 71 to 97, wherein by regulationThe light intensity is maintained by the polymy riability temperature below 100 ° C.The preferably th azoalkanes have the formula wherein either R₁ is a methyl group and R₂ an athyl or propyl group or R₁ and R₂ together a tetra or pentamethylene group.
+</ABSTRACT>
+</TEXT>
+</DOC>

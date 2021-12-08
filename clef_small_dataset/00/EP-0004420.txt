@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004420
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-19/63</main> H01H-19/63 H01H-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coded electric switch.
+</TITLE>
+<APPLICANT>
+amp incus <sep>amp incorporated <sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>amp incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+gilissen hermanus petrus johan<sep>janssen johannes theodorus mar<sep>soes lucas<sep>van der sanden ludovicus corne<sep>van dijk petrus richardus mart<sep>gilissen, hermanus petrus johannes<sep>janssen, johannes theodorus maria<sep>soes, lucas<sep>van der sanden, ludovicus cornelis<sep>van dijk, petrus richardus martinus<sep>gilissen, hermanus petrus johannes7a haarensewegeschnl<sep>janssen, johannes theodorus mariakarperlaan 4hedelnl<sep>soes, lucaslijsterbeslaan 36rosmalennl<sep>van der sanden, ludovicus cornelisde baken 4's-hertogenboschnl<sep>van dijk, petrus richardus martinusde baken 8's-hertogenboschnl<sep>gilissen, hermanus petrus johannes<sep>janssen, johannes theodorus maria<sep>soes, lucas<sep>van der sanden, ludovicus cornelis<sep>van dijk, petrus richardus martinus<sep>gilissen, hermanus petrus johannes7a haarensewegeschnl  <sep>janssen, johannes theodorus maria karperlaan 4hedelnl<sep>soes, lucaslijsterbeslaan 36rosmalennl<sep>van der sanden, ludovicus cornelisde baken 4's-hertogenboschnl<sep>van dijk, petrus richardus martinusde baken 8's-hertogenboschnl<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrical switch comprises a base (1) of electrically  insulating material carrying an input contact (3) and a  plurality of output contacts (3); a bridging contact (5) fixedly  mounted on the base (1) in permanent connection with the  input contact (2), and having a plurality of resilient contact  arms (6) respectively associated with the output contacts  (3), and an operating member mounted on the base and  formed with a plurality of cam projections (11) adapted  and arranged to engage the contact arms (6) of the bridging  contact (5) as the operating member (8) is moved relative  to the base (1), thereby to urge the contact arms (6) into  contact with the associated output contacts (3).  
+</ABSTRACT>
+</TEXT>
+</DOC>

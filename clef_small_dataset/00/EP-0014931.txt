@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014931
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01M-4/58</main> H01M-4/06 C01B-25/00 C01B-25/37 C01B-25/38 H01M-4/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochemical generator with non-aqueous electrolyte.
+</TITLE>
+<APPLICANT>
+gipelecfr<sep>gipelec s.a.<sep>gipelec s.a.125, rue du président wilsonf-92302 levallois-perretfr<sep>gipelec s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+caillaud therese<sep>lecerf andre<sep>caillaud, therese<sep>lecerf, andre<sep>caillaud, thèrèse80, rue de vendeuvre bellefoisf-86170 neuville de poitoufr<sep>lecerf, andré24, avenue le brixf-35740 pacefr<sep>caillaud, therese<sep>lecerf, andre  <sep>caillaud, thèrèse 80, rue de vendeuvre bellefoisf-86170 neuville de poitoufr<sep>lecerf, andré24, avenue le brixf-35740 pacefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Positive active ingredient (2) for non-aqueous electrolyte electro generator (4), consisting of an oxy phosphate of Formula Cunop (PO₄) ₂, being an integer greater than 3 and less than or equal to 6, and P beingequal to N - 3. Application to lithium batteries (5).
+</ABSTRACT>
+</TEXT>
+</DOC>

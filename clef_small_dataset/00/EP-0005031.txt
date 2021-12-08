@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005031
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60H-1/00 G05D-23/185 <main>G05D-23/185</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+temperature regulator assembly.
+</TITLE>
+<APPLICANT>
+eaton corpus<sep>eaton corporation<sep>eaton corporation100 erieview plazacleveland ohio 44114us<sep>eaton corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+franz rudolph joseph<sep>franz, rudolph joseph<sep>franz, rudolph joseph308 e. weathersfield wayschaumburg illinoisus<sep>franz, rudolph joseph<sep>franz, rudolph joseph308 e. weathersfield wayschaumburg illinoisus<sep>
+</INVENTOR>
+<ABSTRACT>
+a temperature regulator assembly for an automatic  temperature control system for the passenger compartment  of an automotive vehicle operates by vacuum signal modulated  by a sensor (20) responsive to the difference between  an operator selected temperature which sets the bias of the  preload mechanism (22) and the temperature of air in the  passenger compartment of the vehicle which is entrained  through opening (48) to flow over a bimetal temperature  sensing element (138) of the sensor.  a vacuum actuator (14)  operated by a modulated vacuum signal produced in the  sensor (20) operates an air-blend door via a control rod (40)  for controlling the passage of blower driven heated and  cooled air into the passenger compartment.  the improvement  lies in the subassembly of bimetal temperature sensing  element (138) directly coupled to a vacuum signal modulator  valve, the direct coupling of the preload mechanism to the  valve and the direct feedback of the position of the vacuum  actuator to the bimetal sensing element via a spring (160)  and lever (162).  with this arrangement, the sensor (20) may  be pre-calibrated for vacuum control output to the actuator  as a function of the temperature sensed by the element (138)  and final calibration may be readily achieved via the  adjustment of the anchorage of the preload spring (22).  by  providing feedback, selective control inputs by the operator  are attenuated and better regulation achieved.  
+</ABSTRACT>
+</TEXT>
+</DOC>

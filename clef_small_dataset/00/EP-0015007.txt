@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015007
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08B-17/103 G08B-17/107 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuitry for an optical flue gas indicator.
+</TITLE>
+<APPLICANT>
+hekatron gmbhde<sep>hekatron gmbh<sep>hekatron gmbhbetbergerstrasse 12 d-79295 sulzburgde<sep>
+</APPLICANT>
+<INVENTOR>
+klett werner de<sep>koehr horstde<sep>klett, werner<sep>koehr, horst<sep>klett, wernermühlenstrasse 40d-7801 dottingende<sep>köhr, horstgrossgartenweg 17d-7811 sulzburg 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+the circuitry has a light emitting diode (6) as light source and a measurement photocell (1), controlling an alarm circuit (5), for the measurement of flue-gas-dependent scattered light (15) as well as a regulation photocell (2).  the measurement photocell (1) forms, together with the regulation photocell (2), a voltage divider which forms, together with a further voltage divider consisting of fixed resistors (3, 4), a bridge circuit, at the diagonal of which (7, 8) the input of the alarm circuits (5) is connected.  the regulation photocell (2) receives via a light guide (16) light from the light emitting diode (6).  upon a change in the light intensity of the light emitting diode (6) or ageing phenomena of the photocells (1, 2), these effects are automatically compensated.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+die erfindung bezieht sich auf eine schaltungsanordnung für einen optischen rauchgasanzeiger mit einer leuchtdiode als lichtquelle und einer eine alarmschaltung steuernden messphotozelle für die messung von rauchgasabhängigem streulicht sowie einer regelphotozelle für die regelung des der leuchtdiode zugeführten stromes. aus der de-os 26 28 146 ist eine derartige schaltungsanordnung bekannt, bei der für die lichtemission eine leuchtdiode verwendet wird. um änderungen der leuchtintensität der leuchtdiode aufgrund von alterungen oder schwankungen der umgebungstemperatur auszugleichen wird bei der bekannten schaltungsanordnung der der leuchtdiode zugeführte strom in abhängigkeit von dem widerstandswert einer regelfotozelle geregelt, die ständig über einen lichtleiter licht von der leuchtdiode erhält. dabei bilden der lichtleiter, die regelfotozelle, der regelteil für die leuchtdiode und diese selbst eine rückkopplung. in dieser schaltung machen sich änderungen der regelfotozelle infolge alterung und änderung der umgebungstemperatur sofort bemerkbar, da die regelfotozelle in dieser schaltung gewissermassen als normal verwendet wird. derartige änderungen der regelfotozelle ver ändern damit in unerwünschter weise die lichtintensität der leuchtdiode und verschieben den jeweils gewünschten ansprechwert der schaltung. der erfindung liegt die aufgabe zugrunde, eine kompensation für die leuchtintensität der leuchtdiode zu schaffen, die von änderungen einer die leuchtdiode nachregelnden regelfotozelle weitgehend unabhängig ist. erfìndungsgemäss geschieht dies dadurch, dass die messphotozelle mit der regelphotozelle einen spannungsteiler bilden, der mit einem weiteren, aus festwiderständen bestehenden spannungsteiler eine brückenschaltung bildet, an deren diagonale der eingang der alarmschaltung angeschlossen ist. in dieser schaltung werden durch einen schwellwertschalter (brücke) die durch die beiden spannungsteiler gegebenen teilspannungswerte daraufhin verglichen, ob die durch den spannungsteiler aus den beiden festwiderständen vorgegebene referenzspannung von der durch den spannungsteiler aus der messfotozelle und regelfotozelle bestimmten spannung überschritten wird. die diagonalspannungen haben im ruhezustand ein gleichbleibendes spannungsverhältnis. bei der messung von ausreichendem streulicht über der messfotozelle ändert sich die aus dem spannungsteiler von messfotozelle und regelfotozelle resultierende diagonalspannung. erreicht diese diagonalspannung die eingestellte referenzspannung, spricht die alarmschaltung an. wenn sich nun die umgebungstemperatur ändert, so verschiebt dies den jeweiligen widerstandswert der beiden in dem einen spannungsteiler in reihe liegenden fotozellen jeweils um den gleichen faktor, so dass das betreffende spannungsteilerverhältnis sich nicht ändert. das gleiche gilt für alterungserscheinungen beider fotozellen, die sich erfahrungsgemäss praktisch in gleicher weise auswirken. wenn nun bei dieser schaltung die emlssionsfähigkeit der leuc..-- diode z.b. infolge altcrung zurückgeht, so wirkt sich dies bei beiden fotozellen wiederum um den gleichen faktor aus, so dass sich das spannungsteilerverhältnis nicht ändert. die ansprechschwelle der schaltung bleibt also stets bei dem gleichen wert. ein ausführungsbeispiel der schaltung ist in der figur dargestellt. an den beiden klemmen 9 und 10 liegt die gleichspannung, die zur stromversorgung der schaltung dient. diese gleichspannung wird der leuchtdiode 6 über den vorwiderstand 11 zugeführt, der ggf. regelbar ausgebildet sein kann, um eine bestimmte grundhelligkeit der leuchtdiode 6 einstellen zu können. die beiden klemmen 9 und 10 sind ausserdem über den aus den beiden festwiderständen 3 und 4 bestehenden spannunys- teiler und von dem aus der messphotozelle 1 und der regelphoto zelle 2 bestehenden spannungsteiler überbrückt, wobei der regelphotozelle 2 noch der regelwiderstand 12 vorgeschaltet ist, dessen funktion
+</DESCRIPTION>
+<CLAIMS>
+ patentanspruch   schaltungsanordnung für einen optischen rauchgasanzeiger mit einer leuchtdiode als lichtquelle und einer eine alarmschaltung steuernden messphotozelle für die messung von rauchgasabhängigem streulicht sowie einer regelphotozelle für die regelung des der leuchtdiode zugeführten stromes, dadurch gekennzeichnet, die messphotozelle   (1)    mit der regelphotozelle (2) einen spannungsteiler bilden, der mit einem weiteren, aus festwiderständen (3, 4) bestehenden spannungsteiler eine brückenschaltung bildet, an deren diagonale (7,   8!    der eingang der alarmschaltung (5) angeschlossen ist.  
+</CLAIMS>
+</TEXT>
+</DOC>

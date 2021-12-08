@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013020
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C01B-31/20</main> C07C-19/00 C07C-19/045 C07C-17/156 C07C-17/00 C01B-31/20 C07C-67/00 C01B-31/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+selective catalytic oxidation of carbon monoxide in the presence of olefin monomer.
+</TITLE>
+<APPLICANT>
+goodrich co b fus<sep>the b.f. goodrich company<sep>the b.f. goodrich company500 south main streetakron, ohio 44318us<sep>the b.f. goodrich company  <sep>
+</APPLICANT>
+<INVENTOR>
+eden jamal shahab<sep>eden, jamal shahab<sep>eden, jamal shahab502 north revere roadakron ohio 44313us<sep>eden, jamal shahab<sep>eden, jamal shahab502 north revere roadakron ohio 44313us<sep>
+</INVENTOR>
+<ABSTRACT>
+process for the selective catalytic oxidation of carbon  monoxide in the presence of olefin monomers without  appreciable oxidation of such monomers.  according to this  process, a gaseous waste stream containing carbon monox­ ide, olefin monomers, and a variety of other agents, is con­ tacted with a catalyticaily effective amount of copper chro­ mite, preferably in an oxygen enriched environment, at temp­ eratures in the range from about 200°c.  to about 325°c.  the  contact time of the stream with the catalyst bed can vary  within broad limits, and the duration of which will vary  inversely with the temperature of the catalyst bed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

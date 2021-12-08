@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004416
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02P-7/067 F02P-7/00 G01D-5/12 F02D-35/00 F02P-3/04 F02P-3/02 G01D-5/244 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+crankshaft position transducer system
+</TITLE>
+<APPLICANT>
+lucas ind plc gb<sep>lucas industries public limited company<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>
+</APPLICANT>
+<INVENTOR>
+armstrong clifford mauricegb<sep>armstrong, clifford maurice<sep>armstrong, clifford maurice6 the hamletleek wootton warwickgb<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a crankshaft positions transducer system for providing triggering pulses for an electronic ignition system.   <??>in a known system used with an internal combustion engine a single reference projection is mounted on the flywheel and a pair of transducers are mounted at circumferentially spaced locations on the flywheel housing.  this is inconvenient as space inside the flywheel housing is limited.   <??>in the present invention a pair of reference elements (34) are mounted at circumferentially and radially spaced locations on the flywheel (16) and a transducer head having two individual transducers (22, 24) is provided, each individual transducer (22, 24) co-operating with a respective one of the reference elements (34) to produce a triggering pulse.  
+</ABSTRACT>
+</TEXT>
+</DOC>

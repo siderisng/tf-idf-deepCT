@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011878
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-15/58 G01P-5/00 G01F-1/66 G01S-13/00 A61B-8/00 G01S-15/00 G01S-13/58 A61B-8/06 A61B-10/00 <main>G01P-5/00</main> G01P-5/24 G01S-15/50 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus to determine flow speeds, and their application in an ultrasonic diagnosing device.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+fehr rainer<sep>fehr, rainer<sep>fehr, rainerringstrasse 2ch-4153 reinachch<sep>fehr, rainer<sep>fehr, rainerringstrasse 2ch-4153 reinachch<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for determining flow velusades, by measuring the phase difference between DOP-LERS signals derived from shaft pulses which are reflected substantially from one and the same reflector to two different times, wherein the interval is predetermined between the times, at Wel Chem method of Each Doppler signal is derived by quadrature modulation a pair of electrical signals, which jointly carry information regarding the phase of the DopplerSi GnaS, as well as a device for carrying out the method. For complete utilization of the possible measuring range, even with a relatively poor signal / noise ratio, at least one first and a second signal pair (A and B or A 'and B') are linked together to a third pair of electrical signal (RE, in ) Creating common information which depends on the phases difference between the Doppler signals, mean value signals (RE, IM) which corresponds to the mean value of one of the signals from the third signal pair, and of the mean signals becomes Output signal abge, which corresponds to the mean value (Δ) of the phase difference between the Doppler signals. Particularly interesting is the use of this procedure rens in an ultrasonic diagnostic device, which serves to determine a speed profile of a flow, in particular the blood flow in a blood vessel. The characterizing features of the device for carrying out the above method are shown in FIG. 12 Advice Lich.
+</ABSTRACT>
+</TEXT>
+</DOC>

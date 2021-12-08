@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014976
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/396 A61K-31/395 A61P-37/00 <main>C07D-203/22</main> A61P-37/06 C07D-403/12 C07D-403/00 C07D-405/00 A61K-31/443 C07D-203/22 A61K-31/505 A61K-31/4427 C07D-405/12 C07D-203/00 A61K-31/44 C07D-401/00 A61P-35/00 C07D-401/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-substituted 2-cyanaziridines, methods for their preparation and medicaments containing them, correspondingly substituted aziridine-2-carbonamides and their preparation.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbh de<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+bicker uwe dr rer nat<sep>boerner dietmar dr med<sep>bosies elmar dr rer nat<sep>kampe wolfgang dr rer nat<sep>thiel max dr rer nat<sep>bicker, uwe, dr.rer.nat.<sep>boerner, dietmar, dr.med.<sep>bosies, elmar, dr.rer.nat.<sep>kampe, wolfgang, dr.rer.nat.<sep>thiel, max, dr.rer.nat.<sep>bicker, uwe, dr.rer.nat.hirschstrasse 59d-6143 lorschde<sep>boerner, dietmar, dr.med.joh.-walterstrasse 21d-6840 lampertheim-hüttenfeldde<sep>bosies, elmar, dr.rer.nat.delpstrasse 11d-6940 weinheimde<sep>kampe, wolfgang, dr.rer.nat.zedernstrasse 49d-6805 heddesheimde<sep>thiel, max, dr.rer.nat.s 6, 35d-6800 mannheim 1de<sep>bicker, uwe, dr.rer.nat. <sep>boerner, dietmar, dr.med.<sep>bosies, elmar, dr.rer.nat.  <sep>kampe, wolfgang, dr.rer.nat. <sep>thiel, max, dr.rer.nat.<sep>bicker, uwe, dr.rer.nat.hirschstrasse 59d-6143 lorschde<sep>boerner, dietmar, dr.med.joh.-walterstrasse 21d-6840 lampertheim-hüttenfeldde<sep>bosies, elmar, dr.rer.nat.delpstrasse 11d-6940 weinheimde<sep>kampe, wolfgang, dr.rer.nat.zedernstrasse 49d-6805 heddesheimde<sep>thiel, max, dr.rer.nat.s 6, 35d-6800 mannheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+NEW N-substituted Aziridine 2-carboxylic acid derivatives of the general formula in the X is a carboxyl, a nitrile, an alkomalycarbonyl or optionally substituted carbamoyl group, R hydrogen, a possibly substituted, saturated or unsaturated alkyl group, an optionally substituitive,unsaturated and / or hetero atoms interrupted cycloalkyl group or a gene-substituted aryl or dewetaryl group and R₁ is hydrogen, an alkyl or phenyl radical, wherein in the event that X is a carbamoyl or alkoxycar bamoyl group and R₁ is hydrogen, R.The methyl, ethyl, isopropyl or benzyl group may be, as well as their pharmacologically acceptable salts, processes for their preparation as well as medicaments with immunostimulus render action containing these compounds.
+</ABSTRACT>
+</TEXT>
+</DOC>

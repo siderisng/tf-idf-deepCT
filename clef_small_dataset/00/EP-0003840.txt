@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003840
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03M-1/50 H01J-43/30 H03M-1/00 <main>H03K-13/20</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of converting an input analog signal to an output digital signal and analog to digital converter.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company<sep>
+</APPLICANT>
+<INVENTOR>
+mack rodney leslie<sep>mack, rodney leslie<sep>mack, rodney leslie23488 bel aire courtlos gatos, california 95030us<sep>mack, rodney leslie<sep>mack, rodney leslie23488 bel aire courtlos gatos, california 95030us<sep>
+</INVENTOR>
+<ABSTRACT>
+comparators (14; 46) at the output of an integrator (12;  30) cause a counter (18; 68) to count up or down in accordance  with the relative amplitudes of the input analog and a feedback  reference signal to bring the stored charge in the integrator  (12; 30) back to the low nominal value.  the output of this  counter (18; 68) is applied to a range decoder (20; 70, 72)  which applied selected geometricaly varying ranges of digital  signals to a digital to analog converter (16; 42).  the output of  the digital to analog converter (16; 42) is applied both to the  subtracting or negative input of the integrator (12; 30), and  also provides a reference signal for the comparator (14; 46).   by controlling the time period of each integration and counting  the amount of stored energy removed from the integrator  (12; 30), the counter output which is related to the such  removed stored energy, is the digital equivalent of the analog  signal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011703
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G12B-17/00 B32B-15/08 G12B-17/02 B65D-85/575 H05K-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic composite structure and method for making said structure.
+</TITLE>
+<APPLICANT>
+allied corpus<sep>allied corporation<sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.)morristown new jersey 07960us<sep>
+</APPLICANT>
+<INVENTOR>
+nienart louis frankus<sep>nienart, louis frank<sep>nienart, louis frankbox 137d rdbloomsbury, new jersey 08804us<sep>
+</INVENTOR>
+<ABSTRACT>
+a composite mechanically stabilized, magnetic shield is  provided which comprises a superposed layer adhesively  bonded to a glassy metal alloy sheet (e. g.  ribbon or fabric).   further, a procedure for providing mechanical stabilization  for glassy metal alloy sheet is provided by bonding a super­ posed layer adhesively to the sheet.  the construction results  in a composite having a high degree of flexibility or rigidity.   the adhesively bonded sheet prevents the glassy metal alloy  ribbons or fabric from fraying when subjected to flexing and  torsioning or handling.  the stabilized magnetic shields are  useful as electromagnetic shields in electronics and com­ munications.  
+</ABSTRACT>
+</TEXT>
+</DOC>

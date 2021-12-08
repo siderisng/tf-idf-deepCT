@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003316
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-317/20 <main>C07D-407/04</main> C07D-317/00 C07D-303/22 C07D-407/04 C07D-303/00 C07D-407/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stereospecific process for the preparation of 2-oxiranyl-1,4-benzodioxanes.
+</TITLE>
+<APPLICANT>
+ciba geigy agch <sep>ciba-geigy ag <sep>ciba-geigy ag klybeckstrasse 1414002 baselch<sep>ciba-geigy ag  <sep>
+</APPLICANT>
+<INVENTOR>
+gschwend heinz werner dr<sep>huebner charles ferdinand dr<sep>gschwend, heinz werner, dr.<sep>huebner, charles ferdinand, dr.<sep>gschwend, heinz werner, dr.112 sherwood drivenew providence new jerseyus<sep>huebner, charles ferdinand, dr.40 edgewood roadchatham new jerseyus<sep>gschwend, heinz werner, dr.<sep>huebner, charles ferdinand, dr.<sep>gschwend, heinz werner, dr.112 sherwood drivenew providence new jerseyus<sep>huebner, charles ferdinand, dr.40 edgewood roadchatham new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a stereospecific process for the manufacture of a d,i-erythro- and d,i-threo-2-oxiranyl-1,4- benzodioxanne of the general formula i : see diagramm : ep0003316,p8,f1  wherein ph is 1,2-phenylene which may be substituted by one to three identical or different members selected from lower alkyl, lower alkoxy, lower alkylenedioxy, benzyloxy, halogen, trifluoromethyl or nitro, which process comprises condensing, in the presence of a strong base, a compound of the general formula ii :  see diagramm : ep0003316,p8,f2  in which r is formyl or m, and m is the radical of a strong quaternary organic nitrogenous base or an alkali metal atom ma , one of y and z is hydrogen and the other is x-ch2 , in which x is a halogen atom or, when r is m, x is also an other reactive esterified hydroxyl group, and in which compound ii the substituents of the oxirane ring are oriented to each other in the cis-configuration (z is h) or in the trans-configuration (z is ch2 x), said former isomer resulting in the threo- compound of the formula i, and said latter isomer in the erythro-compound of the formula i. 
+</ABSTRACT>
+</TEXT>
+</DOC>

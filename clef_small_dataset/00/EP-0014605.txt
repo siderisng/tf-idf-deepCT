@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014605
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-19/195 <main>H01Q-3/01</main> H01Q-25/00 H01Q-19/10 H01Q-3/01 H01Q-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reverse cassegrain antenna for multipurpose radar.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+commault yves<sep>gautier francois<sep>pierrot robert<sep>commault, yves<sep>gautier, francois<sep>pierrot, robert<sep>commault, yves"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>gautier, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>pierrot, robert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>commault, yves <sep>gautier, francois<sep>pierrot, robert  <sep>commault, yves"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>gautier, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>pierrot, robert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Inverted Cassegrain antenna to use, on the one hand, the qualities of a conventional fine beam for the standby and pursuit functions and, allowing, on the other hand, to have an expanded beam either in the plansite, either in the plane of deposit.This antenna is provided, in an exemplary embodiment, a mirror (M₁) consisting of two reflector-polarizer elements (E₁ and E₂) together with one to the other by means of a hinge (C₁) allowing their articulation., a remote control device regulating their relative orientation.Application: multiple functions radar.
+</ABSTRACT>
+</TEXT>
+</DOC>

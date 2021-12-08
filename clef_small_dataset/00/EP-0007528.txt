@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007528
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-19/00 F04C-19/00 <main>F04C-19/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid-ring pump arrangement.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+scheubeck egmont<sep>schmidt heribert<sep>scheubeck, egmont<sep>schmidt, heribert<sep>scheubeck, egmontdresdener strasse 14bd-8520 erlangende<sep>schmidt, heribertebrardstrasse 25d-8520 erlangende<sep>scheubeck, egmont  <sep>schmidt, heribert <sep>scheubeck, egmontdresdener strasse 14bd-8520 erlangende<sep>schmidt, heribertebrardstrasse 25d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a liquid seal pump arrangement for sucking off gaseous acid anhydrides and hydrogen halides, in which oil is used as working liquid which can be recirculated to the pump by way of a following liquid separator, characterized in that the oil (21) of the pump, which latter is made of material which is not resistant to acid, is led through a degasifying device (4). 
+</ABSTRACT>
+<DESCRIPTION>
+flüssigkeitsringpumpenanordnung die erfindung bezieht sich auf eir. flüssigkeitsring- pumpenanordnung zum absaugen von gasförmigen säuren, z.b. salzsäure und säureanhydriden, z.b. s02, bei der als betriebsflüssigkeit öl vorgesehen ist, das über einen nachgeschalteten flussigkeitsabscheider in die pumpe zurückführbar ist. bei der absaugung von aggressiven gasen der vorstehend genannten art, z.b. schwefeldioxyd, müssen zur verhinderung des säureangriffes in gegenwart von feuchtigkeit die pumpen im allgemeinen aus hochwertigem edelstahl und damit relativ aufwendig gefertigt werden, da selbst bei verwendung von öl als betriebsmedium dieses nach kurzer zeit aggressiv wird. die aufgabe der vorliegenden erfindung besteht darin, bei einer einrichtung der eingangs genannten art den säureangriff auf die pumpe möglichst zu verhindern. diese aufgabe wird erfindungsgemäss dadurch gelöst, dass das öl über eine entgasungseinrichtung geführt ist. die entgasung wird dabei vorteilhafterweise bei einem druck von etwa 20 bis 50 mbar und einer temperatur von 40 bis 80 0c vorgenommen. bei verwendung eines derart behandelten öls, das weitgehend neutral bleibt, können dann die pumpen aus gewöhnlichem stahl gefertigt werden. der entgasung liegt folgende überlegung zugrunde: wasserfreie schwefelsäure und trockener chlorwasserstoff sind z.b- gegenüber eisen nicht aggressiv. die eigentliche säurewirkung kommt durch die dissoziation in gegenwart von wasser zustande,und zwar durch die bildung von wasserstoffionen. werden säureanhydride in wasser gebracht, so ist die s > urestärke bzw. der ph-wert bei gegebenem dissoziationsgrad vor allem von der menge der eingebrachten säureanhydride abhängig. wird jedoch umgekehrt eine geringe begrenzte l.enge wasser zu einem grossen überschub an säureanhydriden gebracht, so kann nur soviel säure gebildet werden, wie der wassermenge entspricht. so wurde festgestellt, dass der ph-wert von z.b. 7 auf 1 absank, also eine starke säurewirkung auftrat. dies beruht darauf, dass das öl und auch das angesaugte schwefeldioxyd unvermeidlich spuren von feuchtigkeit enthalten, so dass die entstehende schweflige säure dissoziiert. da das angesaugte s02 im uberschuss vorliegt, ist der dissoziationsgrad und damit der ph wert vom wasseranteil anhängig oder umgekehrt, der ph wert ein mass sür den wassergehalt. durch entgasung des öls im vakuum zwischen 20 bis 80 mbar und 40 bis 80 0c lässt sich das wasser weitgehend aus dem öl entfernen und damit die wasserstoffionenkonzentration auf ein ungefährliches nass senken. anhand einer zeichnung sei die erfindung näher erläutert: aus einem behälter 3 wird z.b. schwefeldioxyd mit einem druck von 100 mbar über eine leitung 11 von einer flüssigkeitsringpumpe 1 angesaugt. das betriebsmedium der flüssigkeitsringpumpe ist öl. das druckseitige gemisch von öl und schwefeldioxyd wird silber eine leitung 12 zu einem flüssigkeitsabscheider 2 mit etwa einem druck von 1,3 bar geführt. im flüssigkeitsabscheider 2 wird das gas vom öl getrennt. das öl 21 sammelt sich am boden des abscheiders 2, während das gas über eine leitung 22 in den weiteren prozess geführt wird. das im abscheider 2 befindliche öl 21 gelangt über die leitung 24 wieder zurück in die flüssigkeitsringpumpe 1. ein teil des öls 21 gelangt über eine leitung 25 in eine entgasungseinrichtung 4. in der entgasungseinrichtung 4 wird das öl durch düsen 41 fein zerstäubt und mittels einer heizung 42 auf etwa 60 c aufgeheizt. bei einem
+</DESCRIPTION>
+<CLAIMS>
+   patentan s#rüche    1.   flüssigkeitsringpumpenanordnung    zum absaugen von gasförmigen säureanhydriden und halogenwasserstoffen, bei der als betriebsflüssigkeit   ül    vorgesehen ist, das über einen nachgeschalteten   flussigkeitsabsc#eider    in die pumpe rückführbar ist, d a d u r c h g e k e n nz e i c h n e t, dass das öl (21) über eine   entgasung    einrichtung (4) geführt ist.    2. flüssigkeitsringpumpenanordnung nach anspruch 1, d a d u r c h g e k e n n z e i c h n e t, dass die entgasungseinrichtung (4) zwischen   flüssigkeitsabschei    der (2) und saugseite der pumpe (1) angeordnet ist.   3. flüssigkeitsringpumpenanordnung nach anspruch 1, d a d u r c h g e k e n nz e   ic    h n e t, dass die entgasungseinrichtung (4) bei einem druck von 20 bis 50 mbar und einer temperatur von 40 bis 800c arbeitet und das zu entgasende öl durch düsen fein verteilt wird.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015055
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61L-2/00 A61L-2/08 <main>A61L-2/12</main> A61L-2/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+microwave sterilization of dry protein.
+</TITLE>
+<APPLICANT>
+collagen corpus<sep>collagen corporation<sep>collagen corporation (a california corporation)2455 faber placepalo alto, california 94303us<sep>collagen corporation<sep>
+</APPLICANT>
+<INVENTOR>
+daniels john richard<sep>luck edward eugene<sep>daniels, john richard<sep>luck, edward eugene<sep>daniels, john richard10 foxtailportola valley, californiaus<sep>luck, edward eugene216 robin waymenlo park, californiaus<sep>daniels, john richard  <sep>luck, edward eugene <sep>daniels, john richard10 foxtailportola valley, californiaus<sep>luck, edward eugene216 robin waymenlo park, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+method is provided for decontaminating proteinaceous  host materials from microorganisms while retaining chemi­ cal, physical and physiological properties of said host pro­ teinaceous materials, said method comprising substantially  dehydrating said host proteinaceous material, preferably by  lyophilization, and subjecting said host material to a lethal  dosage of microwave energy while said host material is main­ tained in substantially ambient conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

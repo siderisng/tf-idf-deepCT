@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000046
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24F-11/02 <main>B60H-1/00</main> B60H-1/00 G05G-7/04 G05G-7/00 G05G-1/00 G05G-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lever operated device for a vehicle's climatisation.
+</TITLE>
+<APPLICANT>
+renaultfr<sep>regie nationale des usines renault<sep>regie nationale des usines renaultboíte postale 103 8-10 avenue emile zolaf-92109 boulogne-billancourtfr<sep>regie nationale des usines renault  <sep>
+</APPLICANT>
+<INVENTOR>
+ha-pham pascal<sep>ha-pham, pascal<sep>ha-pham, pascal6, rue g.guynemerf-92600 asnieresfr<sep>ha-pham, pascal<sep>ha-pham, pascal6, rue g.guynemerf-92600 asnieresfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A single maneuver lever 1 is articulated on a platinum 2 between two rods 3.6 for the attachment of the control cables.Each rod is articulated on the plate by a fixed axis 9, 10 serving successively pivot X, Y at the lever during its displacement and on the lever by a movable axis 7, 8 rendering provisionally fixed when the internted rod is stopped 12, 13 against platinum.By stopping, the movable axis of a rod is superimposed with the fixed axis of the other rod to form the new pivot.Application in particular to the cable control of the air conditioning organs of a motor vehicle.
+</ABSTRACT>
+</TEXT>
+</DOC>

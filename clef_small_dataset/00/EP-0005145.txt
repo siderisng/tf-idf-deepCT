@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005145
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07C-45/65 C07C-45/66 C07C-45/61 <main>C07C-49/623</main> C07C-49/653 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing 5-(2-bromoethylidene)-2(3h)-4a-methyl-4,4a,5,6,7,8-hexahydronaphthalene-2-one and 5-ethenyl-2(3h)-4a-methyl-4,4a,7,8-tetrahydronaphthalene-2-one therefrom by dehydrobromination.
+</TITLE>
+<APPLICANT>
+sterling drug incus  <sep>sterling drug inc.<sep>sterling drug inc.90 park avenuenew york new yorkus<sep>sterling drug inc.<sep>
+</APPLICANT>
+<INVENTOR>
+akullian vahan<sep>bell malcolm rice<sep>herrmann john lawrence jr<sep>akullian, vahan<sep>bell, malcolm rice<sep>herrmann, john lawrence, jr.<sep>akullian, vahan27 brookside ave.menands new yorkus<sep>bell, malcolm ricer.d. 1 box 156aeast greenbush new yorkus<sep>herrmann, john lawrence, jr.46 williams streetkinderhook new yorkus<sep>akullian, vahan<sep>bell, malcolm rice <sep>herrmann, john lawrence, jr.  <sep>akullian, vahan27 brookside ave.menands new yorkus<sep>bell, malcolm ricer.d. 1 box 156aeast greenbush new yorkus<sep>herrmann, john lawrence, jr.46 williams streetkinderhook new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+5-ethenyl-4,4a,7,8-tetrahydro-4a-methyl-2(3h)-naphthalenone,  an intermediate useful in the total synthesis of  steroids, is prepared by dehydrohalogenation of 5-(2-bromo-ethylidene)-2(3h)-4a-methyl-4,4a,5,6,7,8-hexahydronaphthalen-2-one  by a pyrolytic procedure or by means  of dehydrohalogenating agents, for example, a mixture of  lithium bromide and lithium carbonate.  
+</ABSTRACT>
+</TEXT>
+</DOC>

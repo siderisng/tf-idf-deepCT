@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005874
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09K-8/72 E21B-43/25 C09K-8/60 E21B-43/26 C09K-8/62 <main>E21B-43/25</main> E21B-43/27 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for increasing the productivity of a well penetrating an underground formation.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30 nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+avison peter brian <sep>haafkens rudolf<sep>schols reinier sophi<sep>van der vlis abraham cornelis<sep>avison, peter brian<sep>haafkens, rudolf<sep>schols, reinier sophi<sep>van der vlis, abraham cornelis<sep>avison, peter briancarel van bylandtlaan 30nl-2596 hr the haguenl<sep>haafkens, rudolfvolmerlaan 62288 gd rijswijknl<sep>schols, reinier sophivolmerlaan 6nl-2288 gd rijswijknl<sep>van der vlis, abraham cornelisvolmerlaan 6nl-2288 gd rijswijknl<sep>avison, peter brian<sep>haafkens, rudolf<sep>schols, reinier sophi <sep>van der vlis, abraham cornelis<sep>avison, peter brian carel van bylandtlaan 30 nl-2596 hr the hague nl<sep>haafkens, rudolfvolmerlaan 62288 gd rijswijknl<sep>schols, reinier sophivolmerlaan 6nl-2288 gd rijswijknl<sep>van der vlis, abraham cornelisvolmerlaan 6nl-2288 gd rijswijknl<sep>
+</INVENTOR>
+<ABSTRACT>
+a low-viscosity acid is injected into a fracture containing  a high-viscosity fluid.  the injection takes place through  perforations in the casing or production tubing, and the acid  follows fingering flow paths in the fracture.  the perforations  are widely spaced (at least 60 centimetres distance between  the perforations) to prevent merging of these flow paths  close to the well.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008046
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08K-5/15 <main>C08K-5/16</main> C08L-67/02 C08L-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stabilized poly-(alkylene terephthalate) moulding compositions and their use in making shaped articles, films, monofils and fibres.
+</TITLE>
+<APPLICANT>
+basf ag de <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+schmidt franz dr<sep>seiler erhard dr<sep>sterzel hans-josef dr<sep>wurmb rolf dr<sep>schmidt, franz, dr.<sep>seiler, erhard, dr.<sep>sterzel, hans-josef, dr.<sep>wurmb, rolf, dr.<sep>schmidt, franz, dr.trommstrasse 3d-6800 mannheim 1de<sep>seiler, erhard, dr.erpolzheimer strasse 1d-6700 ludwigshafende<sep>sterzel, hans-josef, dr.haardtstrasse 13d-6701 dannstadt-schauernheim 1de<sep>wurmb, rolf, dr.kastellweg 10d-6900 heidelbergde<sep>schmidt, franz, dr.<sep>seiler, erhard, dr.<sep>sterzel, hans-josef, dr.<sep>wurmb, rolf, dr. <sep>schmidt, franz, dr. trommstrasse 3 d-6800 mannheim 1de<sep>seiler, erhard, dr.erpolzheimer strasse 1d-6700 ludwigshafende<sep>sterzel, hans-josef, dr.haardtstrasse 13d-6701 dannstadt-schauernheim 1de<sep>wurmb, rolf, dr.kastellweg 10d-6900 heidelbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+Polyalkylene terephthalate molding compounds containing a molecular weight of 200 to 2000 as a stabilizer and a catalyst of the catalyst is an alkali metal salt of a chelating agent which carries at least a -n (CH₂-COO) ₂ group in the molecule.Preferred catalysts are the trisodium salt of the Ni trilotriacetic acid and the tetranodium salt of ethylene diamine tetraacetic acid.The molding compounds can be used to produce form bodies, films, monofilaments and fibers.
+</ABSTRACT>
+</TEXT>
+</DOC>

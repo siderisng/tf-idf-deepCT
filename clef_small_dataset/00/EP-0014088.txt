@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014088
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/409 G01N-27/12 <main>G01N-27/12</main> G01N-27/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+exhaust gas sensor.
+</TITLE>
+<APPLICANT>
+ford francegb<sep>ford motor cogb<sep>ford werke aggb <sep>ford france societe anonyme<sep>ford motor company limited  <sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+horn william frederick<sep>springer jerry lee<sep>wells charles marvin<sep>horn, william frederick<sep>springer, jerry lee<sep>wells, charles marvin<sep>horn, william frederick9271 oakcliffe driveplymouth wayne county michigan 48170us<sep>springer, jerry lee38227 rosslivonia wayne county michiganus<sep>wells, charles marvin29609 oakviewlivonia wayne county michigan 48154us<sep>horn, william frederick<sep>springer, jerry lee <sep>wells, charles marvin<sep>horn, william frederick 9271 oakcliffe drive plymouth wayne county michigan 48170 us<sep>springer, jerry lee38227 rosslivonia wayne county michiganus<sep>wells, charles marvin29609 oakviewlivonia wayne county michigan 48154us<sep>
+</INVENTOR>
+<ABSTRACT>
+an exhaust gas oxygen sensor adapted for installation in  the exhaust conduit of an internal combustion engine com­ prises a ceramic (e. g.  titania) element (46, 48) to sense the  partial pressure of oxygen in the exhaust gases to which the  sensor is exposed.  the sensor has a steel body (12), a ceramic  insulator (16) which is used to support the sensing element  (46, 48) and its associated lead wires (30, 32) which pass  through passages (22) in the insulator.  terminal pins (50, 52,  54) are inserted into enlarged end portions (70) of the pas­ sages and are electrically connected to the lead wires (30, 32)  and retained therein by a cement material and include a shoul­ der (56) lying outside the passage, a second portion (58) lying  within the passage in contact with the internal surface thereof  and a third portion, preferably in the form of a groove (60) lying  out of contact with the internal surface of the passage.  inser­ tion of the pin into the passage causes the cement material to  flow into the space between the exterior of the terminal pin and  the interior of the insulator passage formed by the groove 60.   the bond thus formed between the terminal pin and the insula­ tor and prevents leakage of exhaust gases from the exhaust  conduit to flow through the sensor to the ceramic environ­ ment.  seepage of the cement material out of passage during  assembly is also prevented.  
+</ABSTRACT>
+</TEXT>
+</DOC>

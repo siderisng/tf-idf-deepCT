@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003913
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-315/04 C07C-323/00 A01N-33/26 A01N-47/24 C07C-149/30 C07C-303/00 C07C-309/67 C07C-323/48 A01P-7/04 C07C-303/28 C07D-333/00 C07D-307/68 A01N-31/00 C07C-309/76 C07C-323/32 C07C-315/00 A01N-41/04 A01N-43/10 A01N-43/02 C07C-309/63 A01N-47/28 C07C-143/24 C07C-311/00 C07D-333/38 A01N-41/00 <main>C07C-147/06</main> C07C-309/65 A01N-47/10 A01N-33/00 A01N-39/00 C07C-67/00 A01N-37/28 C07C-301/00 C07C-309/66 C07C-319/00 C07C-303/30 C07C-309/00 A01N-41/10 C07C-311/03 A01N-53/00 A01N-39/04 C07C-319/20 C07C-317/00 A01N-47/34 C07D-307/00 C07C-309/73 C07C-313/00 A01N-31/08 C07D-295/00 C07C-241/00 C07D-295/30 C07C-241/02 A01N-43/08 C07C-317/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pesticidally active benzophenone hydrazone derivatives, methods for their production and pesticidal compositions and methods.
+</TITLE>
+<APPLICANT>
+boots co ltdgb<sep>the boots company limited<sep>fbc limitedhauxtoncambridge cb2 5hugb<sep>fbc limited<sep>
+</APPLICANT>
+<INVENTOR>
+copping leonard george<sep>kerry john cecil<sep>palmer bryan harper<sep>watkins thomas iswel<sep>willis robert john<sep>copping, leonard george<sep>kerry, john cecil<sep>palmer, bryan harper<sep>watkins, thomas iswel<sep>willis, robert john<sep>copping, leonard george11 woodland drive southwellnottingham nottinghamshiregb<sep>kerry, john cecil6 wood view edwaltonnottingham nottinghamshiregb<sep>palmer, bryan harper2 st. helens grove burton joycenottingham nottinghamshiregb<sep>watkins, thomas iswel9 sherborne road west bridgfordnottingham nottinghamshiregb<sep>willis, robert john92 first avenue carlton nottinghamnottinghamshiregb<sep>copping, leonard george<sep>kerry, john cecil<sep>palmer, bryan harper<sep>watkins, thomas iswel<sep>willis, robert john<sep>copping, leonard george11 woodland drive southwellnottingham nottinghamshiregb<sep>kerry, john cecil6 wood view edwaltonnottingham nottinghamshiregb<sep>palmer, bryan harper2 st. helens grove burton joycenottingham nottinghamshiregb<sep>watkins, thomas iswel9 sherborne road west bridgfordnottingham nottinghamshiregb<sep>willis, robert john92 first avenue carlton nottinghamnottinghamshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+novel compounds are described which are substituted ben-    in which m is 0 and n is 0 or m is 1 and n is 0 or 1; p is 0, 2 or  3, x is 0 or 1; r¹, r⁵ and r⁷ are halogen, alkyl, haloalkyl, or  alkoxy or r¹ and an adjacent r⁵ group together with the benzene  to which they are attached for a naphthyl group; r² and  r⁴ may be the same or different and are are hydrogen, alkyl, acyl,  an ester or thioester group, optionally substituted carbamoyl  or optionally substituted thiocarbamoyl, or r² and r⁴  together with the nitrogen to which they are attached form a  5 to 7 membered ring which may optionally contain one or  more heteroatoms; r³ is optionally substituted alkyl, alkenyl,  n,n-dialkylamino, or phenyl optionally substituted by alkyl  or halogen; with the proviso that when p is 0, r² and r⁴ are  not both hydrogen.  they have pesticidal activity, especially  against insects and acarids, and pesticidal compositions and  methods are described.  methods of making the compounds,  and novel intermediates, are also described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

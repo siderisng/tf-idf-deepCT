@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005396
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03F-3/54 H03B-7/00 H01P-1/00 H01P-7/06 H01P-7/00 H03B-9/00 H03F-3/55 H03F-3/10 H03B-7/14 H03F-3/04 H03B-9/12 <main>H03B-7/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hyperfrequency circuit with a resonant cavity equipped with pairs of peripheral diodes.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+antoine robert<sep>bourrabier guy<sep>diamand felix<sep>antoine, robert<sep>bourrabier, guy<sep>diamand, felix<sep>antoine, robert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>bourrabier, guy"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>diamand, felix"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>antoine, robert <sep>bourrabier, guy  <sep>diamand, felix<sep>antoine, robert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>bourrabier, guy"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>diamand, felix"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The resonant high-cavity circuit equipped with pairs of peripheral diodes aims to pull the maximum power in very high frequency of avalanche diodes coupled two by two to the resonant cavity.One, two or n pairs of diodes (17, 18) are arranged to the cylindrical chamber funds communicating by their central part with a cylindrical cavity (10).Each pair of diodes is maintained and polarized by a metal bar (20), playing with the walls of the chamber the role of an impedance transformer between the diodes and the central cavity (10).The energy is taken in the center thereof by a coaxial antenna outlet (26).Application to negative resistance amplifiers and oscillators, especially in the band of 5 to 20 GHz.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003980
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02C-6/00 F28D-20/00 F24J-3/00 F02C-6/14 F28D-17/00 F24J-3/04 <main>F02C-1/02</main> F02C-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermal energy storage device.
+</TITLE>
+<APPLICANT>
+messerschmitt boelkow blohmde<sep>messerschmitt-bolkow-blohm gesellschaft mit beschrankter haftung<sep>messerschmitt-bölkow-blohm gesellschaft mit beschränkter haftungd-81663 münchende<sep>messerschmitt-bolkow-blohm gesellschaft mit beschrankter haftung<sep>
+</APPLICANT>
+<INVENTOR>
+weissenbach bertrand dr<sep>weissenbach, bertrand, dr.<sep>weissenbach, bertrand, dr.putzbrunnerstrasse 172d-8000 münchen 83de<sep>weissenbach, bertrand, dr.<sep>weissenbach, bertrand, dr.putzbrunnerstrasse 172d-8000 münchen 83de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  thermal accumulator with gas, preferably air, as the heat medium, characterized in that an alternatly working engine/generator (15, 47), a compressor (13, 31) and a turbine (11, 32) are linked together, in that compressor (13, 31) and turbine (11, 32) are connected via a piping system to a heast accumulator (12, 40) and a regenerator (10, 41), in that switchover elements (14a. . .  14e), via which the regenerator (10, 41) is located upstream of the compressor (13, 31) for charging and downstream of the turbine (11, 32) for discharging, are provided for controlling the flow of gas for charging and discharging the heat accumulator (12, 40), in that a fresh air inlet (16, 35) is provided upstream of the regenerator (10, 41) for charging and upstream of the compressor (13, 31) for discharging, and in that an exhaust air outlet (17, 36) is in turn located dowstream of the turbine (11, 32) for charging and downstream of the regenerator (10, 41) for discharging and in that the switchover elements (14a. . .  14e) can be switched in such a way that, for charging, fresh air can be passed in the direction of flow successively through the regenerator (10, 41), the compressor (13, 31), the heat accumulator (12, 40) and the turbine (11, 32) and in such a way that, for discharging, fresh air can be passed in the direction of flow successively through the compressor (13, 31), the heat accumulator (12, 40), the turbine (11, 32) and the regenerator (10, 41). 
+</ABSTRACT>
+</TEXT>
+</DOC>

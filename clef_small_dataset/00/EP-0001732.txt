@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001732
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28D-11/00 F02G-1/04 F25B-3/00 F01K-11/04 <main>F01K-11/04</main> F01K-25/06 F02G-1/00 F01K-25/00 F02C-1/00 F28D-11/04 F01K-11/00 F02C-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+energy conversion process and device.
+</TITLE>
+<APPLICANT>
+bailly du bois bernard<sep>bailly du bois, bernard<sep>bailly du bois, bernard15, rue lagrangef-75005 parisfr<sep>bailly du bois, bernard  <sep>
+</APPLICANT>
+<INVENTOR>
+bailly du bois bernard<sep>bailly du bois, bernard<sep>bailly du bois, bernard15, rue lagrangef-75005 parisfr<sep>bailly du bois, bernard<sep>bailly du bois, bernard15, rue lagrangef-75005 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the conversion into mechanical energy that the usable energy of a working fluid by means of the friction and coriolis excercoated on this fluid. The method includes varying the pressure of said fluid by circulating it in at least one duct (6) integral with a rotor (3) rotating about a fixed axis (1) and which imposes a fluid, in its relative movement. Compared with the rotor, azimuthal displacements being made in the same direction as rotation of the rotor, when the fluid approaches the axis, and in the opposite direction, when the fluid moves away from the axis. This method applies more particularly when one part at least the walls of said conduit is part of a heat exchanger, so that the working fluid suffers at the same time specific variations of its entropy and its enthalpy. It can be advantageously used with low-heat artificial fluids consisting of a suspension of particles in a gas. It applies to a variety of machines such as turbula nes, pumps, compressors, thermal engines, heat pumps.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014813
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21D-5/12 B21C-37/06 B21C-37/08 <main>B21C-37/08</main> B21D-5/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of fabricating slit tubes for a tube welding machine and device for carrying out this method.
+</TITLE>
+<APPLICANT>
+mannesmann agde<sep>mannesmann ag<sep>mannesmann aktiengesellschaftpostfach 10 36 41d-40027 düsseldorfde<sep>mannesmann ag<sep>
+</APPLICANT>
+<INVENTOR>
+jordans josef<sep>meurer hans<sep>jordans, josef<sep>meurer, hans<sep>jordans, josefpestalozzistrasse 2korschenbroich 2de<sep>meurer, hanspaul-vater-strasse 394050 mönchengladbach 1de<sep>jordans, josef  <sep>meurer, hans <sep>jordans, josefpestalozzistrasse 2korschenbroich 2de<sep>meurer, hanspaul-vater-strasse 394050 mönchengladbach 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing slot pipes for a tubular welding machine with which the conversion time of the Turbiegenvorrichtung auf be shortened and the structural design can be faded.For this purpose, the entire area of the sheet curved to down to the sheet curvature of the smallest slot pipe in a series of dimensional steps (3) is subdivided and from the total number of dimensional steps (3), in accordance with the respective pipe diameter to be formed, a suitable group portion in the contour bending device is claw, whereinThis will then be carried out without adjustment by the band.The formation of the contour bending device for carrying out the method is also described and illustrated.
+</ABSTRACT>
+</TEXT>
+</DOC>

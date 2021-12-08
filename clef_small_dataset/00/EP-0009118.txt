@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009118
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-67/20 B29K-105/04 B29C-39/22 B29B-7/00 B29C-39/24 <main>B29B-7/76</main> B29B-7/76 B29C-39/00 B29C-39/44 B29K-105/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for producing objects of a chemical substance containing a filler.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+ersfeld heinrich<sep>schulte klaus ing grad<sep>wirtz hans dr<sep>ersfeld, heinrich<sep>schulte, klaus, ing.grad.<sep>wirtz, hans, dr.<sep>ersfeld, heinrichbiesenbach 11d-5090 leverkusen 31de<sep>schulte, klaus, ing.grad.opladener strasse 5d-5090 leverkusende<sep>wirtz, hans, dr.am thelenhof 17d-5090 leverkusende<sep>ersfeld, heinrich<sep>schulte, klaus, ing.grad.<sep>wirtz, hans, dr.<sep>ersfeld, heinrich<sep>schulte, klaus, ing.grad.<sep>wirtz, hans, dr.<sep>ersfeld, heinrichbiesenbach 11d-5090 leverkusen 31de<sep>schulte, klaus, ing.grad.opladener strasse 5d-5090 leverkusende<sep>wirtz, hans, dr.am thelenhof 17d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+For the manufacture of articles consisting of filler-containing chemical material, in particular made of foam, a device is used, by that at least the filler-containing component under permanent maintenance of the injection pressure with a piston-cylinder unit (9) is metered by a hydraulic systemis driven, which is controlled in dependence on the control member (26) of the mixing head (5) with respect to the flow and return of the hydraulic fluid by means of a shut-off (20, 59, 60), which is either by a control element designed as a breaker (20) of the return line(7) or from the control member (26) via an ELEK tronic system (50, 51, 52, 53, 54, 57, 58) forcibly controllable.
+</ABSTRACT>
+</TEXT>
+</DOC>

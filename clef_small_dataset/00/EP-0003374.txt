@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003374
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-251/00 C07D-251/44 <main>C07D-251/50</main> C07D-251/50 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of a substituted triazine.
+</TITLE>
+<APPLICANT>
+shell int researchnl <sep>shell internationale research maatschappij b.v. <sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+colby thomas harold<sep>durland william ross<sep>freitas ernest robert<sep>colby, thomas harold<sep>durland, william ross<sep>freitas, ernest robert<sep>colby, thomas harold2622 pomeran drivehouston texas 77055us<sep>durland, william ross13714 alchesterhouston texas 77024us<sep>freitas, ernest robert2115 fulham courthouston texas 77042us<sep>colby, thomas harold<sep>durland, william ross <sep>freitas, ernest robert  <sep>colby, thomas harold2622 pomeran drivehouston texas 77055us<sep>durland, william ross13714 alchesterhouston texas 77024us<sep>freitas, ernest robert2115 fulham courthouston texas 77042us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the preparation of 2-chloro-4-ethylamino-6-isopropylamino-s-triazine  ("atrazine" herbicide) in which  cyanuric chloride is reacted in a first amination step with  either isopropylamine or ethylamine to give either 2,6-  dichloro-4-isopropyl-amino-s-triazine  or 2,6-dichloro-4-ethylamino-s-triazine respectively, which is subsequently  reacted in a second amination step with either ethylamine or  isopropylamine respectively, both reactions being performed  in a mixed acetone/water solvent and in the presence  of an acid binding agent, characterised in that in the first  amination step the molar ratio of cyanuric chloride to  alkylamine is at least 1. 04:1, and that subsequent to the first  amination step but prior to the second amination step, the  cyanuric chloride remaining in the reaction mixture is  hydrolysed, using a sufficient quantity of a base to maintain  the ph of the reaction mixture in the range of 6 to 11, to a  water-soluble salt of monohydroxydichlorotriazine.  
+</ABSTRACT>
+</TEXT>
+</DOC>

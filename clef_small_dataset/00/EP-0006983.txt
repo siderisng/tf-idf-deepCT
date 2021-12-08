@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006983
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/73 H01L-43/00 H01L-29/10 G01R-33/06 H01L-29/02 H01L-29/868 H01L-29/82 H01L-43/06 H01L-29/90 H01L-29/66 <main>H01L-29/82</main> H01L-29/68 H01L-21/02 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+controlled-avalanche tension transistor that can be sensitive to a magnetic field.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+vinal albert watson<sep>vinal, albert watson<sep>vinal, albert watson810 queensferry roadcary nc 27511us<sep>vinal, albert watson<sep>vinal, albert watson810 queensferry roadcary nc 27511us<sep>
+</INVENTOR>
+<ABSTRACT>
+The transistor has a stable stable conventional flow generation condensor mode and is sensitive to the magnetic field and can therefore be used as a magnetic detector, it comprises a source (1a), and two drains (4a), (4b), separated. by a distance (s) of conduction type opposite that of the substrate; an area (1b) of extension of the source comprises donor ions of minority carriers implanted which controls the injection of the minority carriers; A conductive electrode (7) placed above the substrate and separated from the substrate by an insulating layer serves as an accelerator for minority carriers and covers a portion of the transmitter and drains. Impact ionization makes it possible to obtain a variable avalanche voltage with the magnetic field. The characteristics of the structure of the transistor make it possible to create any avalanche voltage if the product of the electron-hole recombination probability probability murder m factor m factor is less than 1.
+</ABSTRACT>
+</TEXT>
+</DOC>

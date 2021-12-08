@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006619
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/02 C07C-7/00 C08F-110/00 C08F-6/00 C07C-7/10 C08F-6/28 C07C-11/06 C07C-1/00 C07C-11/00 C07C-67/00 C08F-110/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for purifying propylene
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+fischer eberhard drde <sep>mayer gunter drde  <sep>strametz helmut drde<sep>stroeer friedelde<sep>fischer, eberhard, dr.<sep>mayer, gunter, dr.<sep>strametz, helmut, dr.<sep>stroer, friedel<sep>fischer, eberhard, dr.am waldeck 8d-6233 kelkheim (taunus)de<sep>mayer, gunter, dr.grüner weg 17d-6240 königstein/taunusde<sep>strametz, helmut, dr.unterlindau 72d-6000 frankfurt/mainde<sep>ströer, friedelrobert-schumann-ring 75d-6239 kriftelde<sep>
+</INVENTOR>
+<ABSTRACT>
+particularly pure propylene which is suitable for bulk polymerisation is obtained if the polymer suspension withdrawn from the reactor is extracted at low temperature in order to separate the crystalline polypropylene from soluble polymers and from soluble catalyst constituents, and the propylene to be purified is added to the extraction liquid. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur reinigung von propylen propylen, welches von der raffinerie angeliefert wird, enthält meistens noch spuren von verunreinigungen, wie beispielsweise sauerstoff, stickstoff, wasserstoff, wasser kohlendioxid, kohlenmonoxid, reaktive kohlenwasserstoffe wie propadien, allen, methylacetylen usw. und inerte kohlenwasserstoffe wie methan, äthan, propan usw. vor der polymerisation des propylens müssen alle verunreinigungen, die mit einer der katalysatorkomponenten reagieren können, weitestgehend entfernt werden. es sind dies vor allem sauerstoff, wasser, kohlenoxide und reaktive kohlenwasserstoffe mit doppel- und dreifachbindungen. ublicherweise geschieht ihre entfernung durch kontakt des propylens mit sog. molekularsieben, aktiviertem aluminiumoxid, aktivem kupfer uä. oder durch erhöhung des anteils an aluminiumorganischer verbindung im katalysator -(vgl. de-os 2 512 941). indessen besitzt die anwendung von adorbentien den nachteil, dass eine gesonderte anlage aufgestellt werden muss, während die unkontrollierbare reaktion eines uberschusses an aluminiumorganischer verbindung mit den verunreinigungen in der polymerisationsmischung zu schwankungen des verhältnisses ubergangsmetall zu aluminiumorganischer verbindung führt, was in der regel den gleiclinässigen verlauf der polymerisation beeintrachtigt. ferner muss das propylen, das während der polymerisation im reaktor nicht verbraucht wurde und in den kreislauf zurückgegeben wird, von polymeren, katalysatoren und desaktivatoren (choppern) gereinigt werden. üblicherweise geschieht diese reinigung durch destillation, rektifikation oder adsorption. es ist auch bekannt, das kristalline polypropylen durch extraktion mit einem flüssigen kohlenwasserstoff vom löslichen ataktischen polymeren und katalysatorresten zu trennen (vgl. de-os 15 20 514, 15 95 211 und 20 19 828), es wird jedoch bei diesen bekannten verfahren der katalysator vor der extraktion desaktiviert, was zusätzliche anlagenteile (rührkessel, absitzbehälter etc.) notwendig macht. weiterhin ist ein verfahren zur herstellung von propylen homo- oder copolymerisaten bekannt, bei welchem die erhaltene polymersuspension im gegenstrom mit flüssigen monomeren extrahiert wird (vgl. de-os 25 01 614), indessen ist dieser druckschrift nicht zu entnehmen, wie das monomere gereinigt wird. es wurde nun gefunden, dass man die vorgenannten nachteile vermeiden kann, wenn man bei der polymerisation in flüssigem propylen, bei welcher das kristalline polypropylen durch extraktion von löslichen polymeren und von löslichen katalysatorbestandteilen abgetrennt wird, die aus dem reaktor abgezogene suspension bei tiefer temperatur extrahiert und das zu reinigende propylen der xtraktions- flüssigkeit zugibt. gegenstand der erfindung ist somit das in den ansprüchen genannte verfahren. der vorteil des erfindungsgemässen verfahrens besteht darin, dass keine gesonderte anlage zur reinigung des propylens errichtet werden muss und dass die eigentliche polymerisation nicht beeinflusst wird. dies ist vor allem bei verwendung hochaktiver katalysatoren von vorteil, weil in diesen fällen die pro volumeneinheit verwendete menge an schwermetall-komponente besonders niedrig und die störanfälligkeit besonders gross ist. ausserdem wird ein ungewöhnlich hoher reinheitsgrad des propylens erreicht, wodurch die ausbeute an polymerfbezogen auf die im polymerisationsreaktor eingesetzte menge an schwermetallverbindung,erhöht wird. weiterhin wird eine einsparung an aluminiumorganischer verbindung erreicht. das erfindungsgemässe verfahren findet in erster linie anwendung auf propylen, welches bei der polymerisation im flüssigen monomeren als dispergiermittel eingesetzt wird. das verfahren ist aber ebenso anwendbar bei propylen, welches in der gasphase polymerisiert wird, wobei anschliessend das polymerpulver mit flüssigem propylen zur entfernung löslicher katalysatorbestandteile extrahiert will. die aus dem polymerisationsreaktor abgezogene polymersuspension, welche isotaktisches polypropylen, suspendiert im überschüssigen flüssigen propylen, katalysatorreste, sowie
+</DESCRIPTION>
+<CLAIMS>
+patentanspruch      verfahren    zur   reinigung    von propylen für ein massepolymerisationsverfahren, bei welchem das erhaltene kristalline polypropylen durch extraktion der vom polymerisationsreaktor kommenden polymersuspension mit einem flüssigen kohlenwasserstoff von löslichen polymeren und von löslichen katalysatorbestandteilen abgetrennt wird, dadurch gekennzeichnet, dass die   polymersuspension    vor der extraktion so weit abgekühlt wird, dass   leine    nennenswerte polymerisation mehr stattfindet, und dass die extraktion ohne zusatz von desaktivatoren durchgeführt und das zu reinigende propylen der   extraktionsflüssigkeit    zugegeben wird.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008709
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/38 G02B-6/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+detachable connection, especially plug-in connection, for coupling light guides.
+</TITLE>
+<APPLICANT>
+siemens agde <sep>siemens aktiengesellschaft <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+saatze kuno dipl-ingde<sep>saatze, kuno dipl.-ing.<sep>saatze, kuno dipl.-ing.wulfingstrasse 19d-8080 emmeringde<sep>
+</INVENTOR>
+<ABSTRACT>
+formerly, the ends of the light guides were provided with plug-in circular mounts.  the fitting of the circular mounts is possible only in a special workshop.  the object of the invention is to provide a plug-in connection which can be mounted at the place of application as well, without special auxiliary means.  according to the invention, this object is achieved in that the end pieces (5, 6) exhibit a u-shaped profile in cross-section, the light guides (1, 2) are secured by means of grooved pressure pieces (11, 12) on the base of the profile so that their ends are free, and the free ends of the mutually impacting light guides (1, 2) are centred after the joining of two end pieces (5, 6) by means of a grooved centring piece (14).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

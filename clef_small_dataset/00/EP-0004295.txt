@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004295
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-13/04 <main>H01B-13/04</main> H01B-13/02 G02B-6/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for sz twisting stranding elements of electrical cables and lines, as well as a method for operating this device.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+koch klaus<sep>vogelsberg dieter<sep>koch, klaus<sep>vogelsberg, dieter<sep>koch, klausbelfaster strasse 54d-1000 berlin 65de<sep>vogelsberg, dieterfichtestrasse 7d-8630 coburgde<sep>koch, klaus<sep>vogelsberg, dieter<sep>koch, klausbelfaster strasse 54d-1000 berlin 65de<sep>vogelsberg, dieterfichtestrasse 7d-8630 coburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to be able to produce sash units with a device for SZ lines of squeaming elements of electrical cables with a relatively short length of the device, in which the distance of the reverses of the rotating direction is about 500 to 1000 m, the rectilinear memory line of the SZ stranding device (4) divided into several substrates.These partial stress are arranged in various, preferably parallel planes (A-D) and are connected to each other by deflection devices (14).The devices (13, 14) provided for guiding or deflecting the swivel goods allow or ensure the rotation of the sweep material (19) in the region of the individual sublinks of the memory device.The new SZ stranding device is particularly suitable for producing flexible lines, which are cut into relatively short use lengths.
+</ABSTRACT>
+</TEXT>
+</DOC>

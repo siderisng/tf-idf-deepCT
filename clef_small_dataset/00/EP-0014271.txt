@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014271
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23K-11/24</main> B23K-11/25 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+weld monitoring apparatus and method.
+</TITLE>
+<APPLICANT>
+crown cork & seal cous<sep>crown cork & seal company, inc.<sep>crown cork &amp; seal company, inc.9300 ashton road p.o. box 6208philadelphia, pa. 19131us<sep>crown cork & seal company, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+long george j<sep>long, george j.<sep>long, george j.9809 woodfern roadphiladelphia, pa. 19115us<sep>long, george j.  <sep>long, george j.9809 woodfern roadphiladelphia, pa. 19115us<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved weld monitoring apparatus and a method  for its use are disclosed.  specifically, the invention relates to  the application of integrating voltmeters 10, 11, 12 to the  monitoring of a resistance welding process wherein a blank­ ing pulse generator 8 is used to direct a voltage signal from  the welding process to suitably adapted integrating voltmet­ ers 10, 11, 12.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015059
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-14/62 A61K-39/385 C07K-14/435 C07K-1/00 C07K-1/10 <main>C07G-7/00</main> A61K-39/35 A61K-47/48 A61K-38/11 A61K-39/36 A61K-38/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+immunochemical conjugates: method and composition.
+</TITLE>
+<APPLICANT>
+scripps clinic resus<sep>scripps clinic and research foundation<sep>scripps clinic and research foundation10666 north torrey pines roadla jolla california 92037us<sep>scripps clinic and research foundation<sep>
+</APPLICANT>
+<INVENTOR>
+katz david harvey<sep>katz, david harvey<sep>katz, david harveyla jolla rancho roadla jolla california 92037us<sep>katz, david harvey<sep>katz, david harveyla jolla rancho roadla jolla california 92037us<sep>
+</INVENTOR>
+<ABSTRACT>
+techniques for preparing stable conjugates of  protein-ν-gl which can then be isolated in pure form are  disclosed, using hen egg ovalbumin (ova) as a prototype  protein, and conjugation and purification methods are  described which involve 1) application of a coupling method  employing m-maleimidobenzoyl-n-hydroxysuccinimide  ester (mbs) as the coupling reagent, and 2) introduction of  biotin moieties into ν-gl molecules to allow application of an  avidin-biotin system for affinity chromatographic purification  of conjugates.  these methods are applicable to the prepara­ tion of ν-gl conjugates of insulin and ragweed antigen e  and are of general applicability.  the conjugating link in the  conjugates is  
+</ABSTRACT>
+</TEXT>
+</DOC>

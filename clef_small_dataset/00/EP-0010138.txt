@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010138
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-15/00 H01L-21/88 <main>C23F-7/06</main> H01L-21/3213 H01L-21/3065 H01L-21/302 C23C-8/10 C23F-1/00 H01L-21/316 C23C-8/12 H01L-23/52 H01L-21/02 H01L-21/3205 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of treating aluminium microcircuits.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+eldridge jerome michael<sep>lee wen-yaung<sep>schwartz geraldine cogin<sep>eldridge, jerome michael<sep>lee, wen-yaung<sep>schwartz, geraldine cogin<sep>eldridge, jerome michael20568 lomita avenuesaratoga california 95171us<sep>lee, wen-yaung465 1/2 curie drivesan jose california 95123us<sep>schwartz, geraldine cogin19 woodward roadpoughkeepsie new york 12603us<sep>eldridge, jerome michael  <sep>lee, wen-yaung <sep>schwartz, geraldine cogin<sep>eldridge, jerome michael20568 lomita avenuesaratoga california 95171us<sep>lee, wen-yaung465 1/2 curie drivesan jose california 95123us<sep>schwartz, geraldine cogin19 woodward roadpoughkeepsie new york 12603us<sep>
+</INVENTOR>
+<ABSTRACT>
+aluminium microcircuits which have been prepared by  reactive-ion etching are stablized against open circuits and  short circuits by treating the microcircuits in an oxygen-­ containing atmosphere at a temperature of from 200°c to  450°c.  
+</ABSTRACT>
+</TEXT>
+</DOC>

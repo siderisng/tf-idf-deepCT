@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004937
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08J-9/02 <main>C08G-18/32</main> C08J-9/00 B29C-47/38 B01J-19/20 B29C-47/40 C08G-18/65 B29B-7/00 C08G-18/10 C08G-18/08 B01J-19/18 B29C-47/00 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing thermoplastic polyurethane elastomers.
+</TITLE>
+<APPLICANT>
+bayer ag de  <sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+goyert wilhelm dr<sep>niederdellmann georg dr<sep>quiring bernd dr<sep>wagner hans dr<sep>goyert, wilhelm, dr.<sep>niederdellmann, georg, dr.<sep>quiring, bernd, dr.<sep>wagner, hans, dr.<sep>goyert, wilhelm, dr.wolfskaul 10d-5000 köln 80de<sep>niederdellmann, georg, dr.heine strasse 6d-4047 dormagende<sep>quiring, bernd, dr.albrecht-haushofer strasse 2d-5090 leverkusende<sep>wagner, hans, dr.tizianstrasse 13d-4047 dormagende<sep>goyert, wilhelm, dr.<sep>niederdellmann, georg, dr.<sep>quiring, bernd, dr.<sep>wagner, hans, dr.<sep>goyert, wilhelm, dr.<sep>niederdellmann, georg, dr.  <sep>quiring, bernd, dr.<sep>wagner, hans, dr.<sep>goyert, wilhelm, dr.wolfskaul 10d-5000 köln 80de<sep>niederdellmann, georg, dr.heine strasse 6d-4047 dormagende<sep>quiring, bernd, dr.albrecht-haushofer strasse 2d-5090 leverkusende<sep>wagner, hans, dr.tizianstrasse 13d-4047 dormagende<sep>
+</INVENTOR>
+<ABSTRACT>
+Continuous process for the preparation of thermoplastic polyurethanes by reacting a) one or more substantially linear polyols having molecular weights between 400 and 10000, b) one or more organic diisocyanates and c) chain extension means having a molecular weight having a molecular weight having a molecular weight under 250, the ratio ofNCO groups of component b) to the CerewitinOffective groups of components A) and C) is between 0.90 and 1.2, in extruders, characterized in that as a chain extension means C) a mixture of at least 2 glycols is used, of whichone in an amount of 50 - 99 wt.-%, based on total component C), and a second in an amount of 1 - 50 wt.-%, based on entire component C), is available.
+</ABSTRACT>
+</TEXT>
+</DOC>

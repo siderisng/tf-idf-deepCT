@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000066
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-30/88 G01N-21/77 G01N-33/487 G01N-30/00 G01N-33/48 G01N-33/52 G01N-21/78 G01N-33/493 G01N-31/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+determination of aromatic aminocarboxylic acids.
+</TITLE>
+<APPLICANT>
+warren teed labus<sep>warren-teed laboratories, inc.<sep>warren-teed laboratories, inc.582 w. goodale streetcolumbus, ohio 43215us<sep>
+</APPLICANT>
+<INVENTOR>
+imondi anthony roccous<sep>mclaughlin james edwardus<sep>udinsky john richard us <sep>imondi, anthony rocco<sep>mclaughlin, james edward<sep>udinsky, john richard<sep>imondi, anthony rocco110 daniel drivewesterville, ohio 43081us<sep>mclaughlin, james edward14 terminal avenueerdenheim, pennsylvania 19002us<sep>udinsky, john richard1126 mckean roadambler, pennsylvania 19002us<sep>
+</INVENTOR>
+<ABSTRACT>
+the concentration of aromatic aminocarboxylic acids  and their conjugates in body fluids is determined by treating  the body fluid with a hydrolyzing agent, extracting said acid  with an ion exchange resin, washing residual body fluids  from the resin, eluting said acid from the resin with an acid  solution of a complexing agent and determining the concentration  of said acid by comparing the color of the extract with  the color of solutions having known concentrations of said  acid wherein the improvement comprises employing a non-acid  hydrolyzing agent, for example, a base or an enzyme.  
+</ABSTRACT>
+</TEXT>
+</DOC>

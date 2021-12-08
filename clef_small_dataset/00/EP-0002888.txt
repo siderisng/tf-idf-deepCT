@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002888
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-1/02 B63H-23/00 B63H-23/06 F16H-1/22 <main>F16H-1/22</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+power transmission system.
+</TITLE>
+<APPLICANT>
+sss patents ltdgb<sep>s.s.s. patents limited<sep>s.s.s. patents limitedpark roadsunbury-on-thames middlesexgb<sep>s.s.s. patents limited  <sep>
+</APPLICANT>
+<INVENTOR>
+clements herbert arthur<sep>clements, herbert arthur<sep>clements, herbert arthurberachah shores roadwokinggb<sep>clements, herbert arthur<sep>clements, herbert arthurberachah shores roadwokinggb<sep>
+</INVENTOR>
+<ABSTRACT>
+a power transmission system comprises a synchronous  main toothed clutch (20) and a subsidiary toothed clutch  (21) arranged in parallel in main and subsidiary power  paths (6, 7) respectively between an input shaft (1) and  an output shaft (2).  when the main clutch (20) is engaged  this causes engagement of the subsidiary clutch (21).  the  main power path (6) has a torsional stiffness which is  substantially less than that of the subsidiary power path  (7) over at least an initial part of the range of torque loading  between zero and full power, such that at full power or  at a pre-determined proportion of full power the main power  path (6) and the subsidiary power path (7) transmit substantially  the same load.  
+</ABSTRACT>
+</TEXT>
+</DOC>

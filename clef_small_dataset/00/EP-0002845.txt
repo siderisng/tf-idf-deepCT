@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002845
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/08 <main>G03G-15/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+developing device for xerographic copying machines.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa_gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap<sep>
+</APPLICANT>
+<INVENTOR>
+palmans willy joseph<sep>waterschoot william constant<sep>palmans, willy joseph<sep>waterschoot, william constant<sep>palmans, willy josephkastanjelaan 4b-2508 kesselbe<sep>waterschoot, william constantkoningin elisabethplein 33 ab-2700 st.niklaasbe<sep>palmans, willy joseph  <sep>waterschoot, william constant<sep>palmans, willy josephkastanjelaan 4b-2508 kesselbe<sep>waterschoot, william constantkoningin elisabethplein 33 ab-2700 st.niklaasbe<sep>
+</INVENTOR>
+<ABSTRACT>
+developing a xerographic toner image without the  use of carrier beads is carried out by means of an applicator  roller which transfers toner from a trough towards the  image bearing medium via a scraper element mounted  at the exit opening of the trough.  an exact regulation of the  amount of toner which is transferred in this way may be  carried out by providing a dc-voltage between the transfer  roller and the scraper.  
+</ABSTRACT>
+</TEXT>
+</DOC>

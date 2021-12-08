@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010769
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-39/26 C07H-1/00 C13J-1/06 C13J-1/00 B01J-39/06 <main>B01D-15/08</main> C13K-13/00 B01D-15/08 C13K-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adsorption separation method and apparatus therefor.
+</TITLE>
+<APPLICANT>
+mitsubishi chem indjp<sep>mitsubishi chemical industries limited<sep>mitsubishi kasei corporation5-2, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi chemical industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+ando masao<sep>hirota tetsuya<sep>shioda katashi<sep>ando, masao<sep>hirota, tetsuya<sep>shioda, katashi<sep>ando, masao8-4, nakacho 2-chomemusashino-shi tokyojp<sep>hirota, tetsuya311-1, imadafujisawa-shi kanagawajp<sep>shioda, katashi13-1, ogawa 1-chomemachida-shi tokyojp<sep>ando, masao<sep>hirota, tetsuya<sep>shioda, katashi<sep>ando, masao8-4, nakacho 2-chomemusashino-shi tokyojp<sep>hirota, tetsuya311-1, imadafujisawa-shi kanagawajp<sep>shioda, katashi13-1, ogawa 1-chomemachida-shi tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+method for separating a starting fluid containing at  least two components with different absorption character­ ic comprising a first step of feeding the starting fluid  to an intermediate portion of the packed bed 1 to 3 while  withdrawing a fluid rich in either of the components in a  corresponding amount from a position downstream a  second step of stopping the feed to and the withdrawal  from the separator and moving the remaining fluid in a  downward direction, and a third step of feeding a desor­ bent fluid to the separator and simultaneously with­ drawing a fluid rich in either of the components in a  corresponding amout from a position downstream of the  desorbent feed port, the withdrawal of the fluid being  conducted at least in two portions, the adsorption bands  being left in part of the packed bed (1 to 3), in the third  step, as well as an absorption separator for such method.  
+</ABSTRACT>
+</TEXT>
+</DOC>

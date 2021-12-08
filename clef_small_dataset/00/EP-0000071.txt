@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000071
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12N-9/10 C12Q-1/34 C12N-9/00 C12N-9/96 C12Q-1/18 <main>C12N-1/20</main> C12Q-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stabilised thymidine phosphorylase preparation and culture medium containing it.
+</TITLE>
+<APPLICANT>
+wellcome foundgb<sep>the wellcome foundation limited<sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb<sep>the wellcome foundation limited  <sep>
+</APPLICANT>
+<INVENTOR>
+krenitsky thomas anthony<sep>krenitsky, thomas anthony<sep>krenitsky, thomas anthony106 laurel hill roadchapel hill, north carolina 27514us<sep>krenitsky, thomas anthony<sep>krenitsky, thomas anthony106 laurel hill roadchapel hill, north carolina 27514us<sep>
+</INVENTOR>
+<ABSTRACT>
+a stabilised thymidine phosphorylase preparation is  obtained by addition of inorganic phosphate and uracil, the  stabilisation being most effective at ph 7.  furthermore, bovine serum albumin is added to prevent  loss of enzymic activity on filtration.  the solution may be  kept sterile by addition of sodium or potassium azide.  culture  media containing it are used, for testing the susceptibility  of bacteria to anti-folate antimicrobial agents, thymidine  phosphorylase counteracting antagonists to antifolate  agents.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007275
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01F-21/02</main> H01F-21/02 H04B-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adjustable inductance and transmitter comprising same.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+maillard gilbert<sep>maillard, gilbert<sep>maillard, gilbert"thomson-csf" - scpi 173, bld hausmannf-75360 paris cedex 08fr<sep>maillard, gilbert  <sep>maillard, gilbert "thomson-csf" - scpi 173, bld hausmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Variable inductance whose cursor pressure on the winding driver decreases when the cursor is on a quick move.The inductance comprises: a conductor (1) spilled according to a circular propeller, a mechanical axis of rotation (2) disposed along the geometric axis (XX) of the propeller and a cursor (3) mounted so as to remain in contactSliding with the driver and slide only longitudinally along the mechanical axis, so that his contact on the conductor moves depending on the propeller during a motion of rotation of the mechanical axis.To reduce friction, and thus wear, during a rapid rotational movement of the mechanical axis, a spacer device (8) is associated with the cursor (3) and tends, under the effect of forceCentrifugal, to reduce the cursor pressure (3) on the driver (1).Application, in particular, to variable inductors for medium power transmitters.
+</ABSTRACT>
+</TEXT>
+</DOC>

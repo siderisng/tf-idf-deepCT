@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017422
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-73/14 <main>C08G-73/14</main> C08G-73/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermoplastic polyamideimide copolymers and method of preparation.
+</TITLE>
+<APPLICANT>
+toray industriesjp<sep>toray industries, inc.  <sep>toray industries, inc.2, nihonbashi-muromachi 2-chome chuo-kutokyo 103jp<sep>toray industries, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+aya toshihiko<sep>kadoi sho<sep>sasagawa takashi<sep>aya, toshihiko<sep>kadoi, sho<sep>sasagawa, takashi<sep>aya, toshihikono.1-82, ikegamidaimidori-ku nagoya-shi, aichi-kenjp<sep>kadoi, shono.1-2 onoe-chokita-ku, nagoya-shi aichi-kenjp<sep>sasagawa, takashino.86-3, aza-mishinden oodaka-chomidori-ku nagoya-shi, aichi-kenjp<sep>aya, toshihiko <sep>kadoi, sho<sep>sasagawa, takashi  <sep>aya, toshihiko no.1-82, ikegamidaimidori-ku nagoya-shi, aichi-kenjp<sep>kadoi, shono.1-2 onoe-chokita-ku, nagoya-shi aichi-kenjp<sep>sasagawa, takashino.86-3, aza-mishinden oodaka-chomidori-ku nagoya-shi, aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+thermoplastic polyamideimide copolymers are pro­ vided which are excellent in both heat stability and melt  viscosity characteristics at a temperature of from about a  300°c to about 400°c.  the copolymers of the invention comprise units a of the  formula    in an amount of about 50 mole %, units b of the formula    in an amount of about 15-48 mole % and units c of the  formula    in an amount of about 35-2 mole %, wherein z is a trivalent  aromatic group having two of its three carbonyl groups  attached to adjacent carbon atoms, a is 0 or 1, b is 0, 1, 2, 3 or  4, r₁ is alkyl (c₁₋₄), r₂ is selected from alkyl (c₁₋₄), halo and  nitro, c is an integer from 1 to 25 and x is chosen from -so₂-,  -co-or-c(ch₃)₂-.  the copolymers may be made by reacting  diamines containing the units b and c respectively, e. g.  i and  ii, with trimellitic acid (or another aromatic tribasic carboxylic  acid with two carboxyl groups attached to adjacent carbon  atoms) in an organic polar solvent using a dehydrating  catalyst - or alternatively the diamines may be reacted with  the acid anhydride acid chloride using a hydrochloride  scavenger, subsequently closing the ring of the polyamide­ amic acid thus formed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001549
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03G-5/082</main> G03G-5/082 G03G-5/00 H01L-31/08 C23C-14/14 G03G-5/08 C23C-14/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing a photo-sensitive surface layer of a printing drum for an electrostatic photocopying process.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+kempter karl<sep>kempter, karl<sep>kempter, karloppenriederstrasse 28ad-8000 münchen 71de<sep>kempter, karl<sep>kempter, karloppenriederstrasse 28ad-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+Pressure drum (2) for electrostatic copying with photoelectric sensitive layer (4) made of amorphous silicon, which preferably contains a content of hydrogen.In particular, the layer is formed as a sheet-shaped Pn transition (41, 42).Method for producing such a layer by decomposition (5) silicon-containing gas, which may be added, if necessary gaseous doping material, in a glow discharge in additionally heated (7) printing drum (2).
+</ABSTRACT>
+</TEXT>
+</DOC>

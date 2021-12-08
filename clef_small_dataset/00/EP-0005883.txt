@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005883
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-1/00 H05K-1/09 B21H-1/00 B21H-1/18 H05K-1/03 <main>H01L-49/02</main> B23K-1/08 H05K-3/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device for soldering components to a thick-film substrate.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken <sep>
+</APPLICANT>
+<INVENTOR>
+van der put henricus cornelis<sep>van der put, henricus cornelis adrianus<sep>van der put, henricus cornelis adrianusp/a int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van der put, henricus cornelis adrianus<sep>van der put, henricus cornelis adrianusp/a int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+Method and apparatus for soldering individual parts with thick-layer substrates after the melting method, wherein the substrates are initially preheated in succession, then heated to soldering temperature and recently cooled, for preheating, heating and cooling the substrates a standing shaft of liquid metal of a certain temperature.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016695
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03D-9/06</main> H03D-9/00 H01P-5/02 H01P-1/00 H04B-1/26 H03D-7/14 H03D-9/06 H01P-5/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+symmetrical mixer for millimeter waves and receiver using such a mixer.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf  <sep>
+</APPLICANT>
+<INVENTOR>
+cachier gerard<sep>cachier, gerard<sep>cachier, gérard"thomson-csf" cspi - 173, bld haussmannf-75360 paris cedex 08fr<sep>cachier, gerard<sep>cachier, gérard"thomson-csf" cspi - 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The object of the invention is to obtain an intermediate frequency frief beat from two millimeter wave frequencies, attenuating as much as possible the amplitude variations of the frequency from the local oscillata. The mixer according to the invention comprises two modules (51, 52) each containing a diode whose electrode is at the mass of a conductive support. The modules are face to face. The diodes detect the electric field (es) of the wave of the signal to be treated in a cavity (42) on the one hand, and on the other hand, by the conductive strips (14) and (24) serving as outputs to the Mixer and extending into a cavity (41) where the electric field (EL) reigns by the local oscillator, each module also detects a portion of this electric field. The exit terminals of the intermediate frequency (140, 240), are connected to an operational operator amplifier. Application to millimeter wave receivers.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003602
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-25/28 <main>C07D-207/26</main> C07D-207/267 C07D-207/263 A61P-25/00 A61K-38/33 A61K-31/40 A61K-31/4015 A61K-38/35 C07D-207/00 C07D-207/27 C07D-207/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyrrolidine derivatives for use as therapeutically active substances and medicaments containing them.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+aschwanden werner<sep>kyburz emilio dr<sep>aschwanden, werner<sep>kyburz, emilio, dr.<sep>aschwanden, wernergrellingerstrasse 4ch-4107 ettingench<sep>kyburz, emilio, dr.unterer rebbergweg 127ch-4153 reinachch<sep>aschwanden, werner <sep>kyburz, emilio, dr.<sep>aschwanden, wernergrellingerstrasse 4ch-4107 ettingench<sep>kyburz, emilio, dr.unterer rebbergweg 127ch-4153 reinachch<sep>
+</INVENTOR>
+<ABSTRACT>
+Pyrrolidine derivatives of the general formula wherein R1 is O-methoxybenzoyl, M-methoxybenzyl, p-methoxybenzyl or p-fluorobenzyl, as pharmaceutical agents, usable in the control or prevention of cerebral failure or in improving intellectual performance.
+</ABSTRACT>
+</TEXT>
+</DOC>

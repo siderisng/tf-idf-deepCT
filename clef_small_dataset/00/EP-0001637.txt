@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001637
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-9/00 <main>F24H-3/02</main> H01S-3/00 B64G-1/44 H01S-1/00 B64G-1/42 H02J-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+solar energy system.
+</TITLE>
+<APPLICANT>
+davis charles e<sep>davis, charles e.<sep>davis, charles e.iyopawa islandcoldwater michigan 49036us<sep>davis, charles e. <sep>
+</APPLICANT>
+<INVENTOR>
+davis charles e<sep>davis, charles e.<sep>davis, charles e.iyopawa islandcoldwater michigan 49036us<sep>davis, charles e.<sep>davis, charles e.iyopawa islandcoldwater michigan 49036us<sep>
+</INVENTOR>
+<ABSTRACT>
+a solar energy system for transmitting solar energy from  space to an earth location and putting it to useful work either  as heat or light energy, or by converting it into some other  form of energy such as steam or electrical power.  a receiver  satellite is in polar orbit and a relay satellite is in equatorial  orbit, rotating with the earth and therefore stationary with  respect to earth location.  solar energy is collected by the  receiver satellite through an array of paraboloid collectors  and focused by a series of mirrors onto a coherent radiation  energy generator, preferably a laser beam generator.  the  laser beam is directed by an output mirror to another output  mirror on the relay satellite which redirects it to a selected  earth location.  alternatively, the relay satellite may convert  the laser beam to a maser beam to better penetrate clouds,  smoke and haze at the earth location.  the outlet mirrors on the  the two satellites are mounted on gimbals and are power-operated  under continuous automatic telemetry control between  the satellites and the ground to direct the laser or maser  beam to the earth location.  provision is made on one of the  satellites for modifying the beam through a constructive interference  filter or a diffuser/expander lens, or both, to regulate  the kind of energy and the area covered at the earth location.  
+</ABSTRACT>
+</TEXT>
+</DOC>

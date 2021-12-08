@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015844
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-5/02 <main>G01S-5/02</main> G01S-13/91 G01S-13/00 G01S-7/04 B63H-25/00 G01S-13/88 G01S-13/38 G01S-13/94 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for automatically taking bearings on board a vehicle fitted with radar.
+</TITLE>
+<APPLICANT>
+virnot alain d<sep>virnot, alain dominique<sep>virnot, alain dominique21 rue des canettesf-75006 parisfr<sep>virnot, alain dominique <sep>
+</APPLICANT>
+<INVENTOR>
+virnot alain dominique<sep>virnot, alain dominique<sep>virnot, alain dominique21 rue des canettesf-75006 parisfr<sep>virnot, alain dominique<sep>virnot, alain dominique21 rue des canettesf-75006 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+METHOD AND DEVICE FOR MAKING AUTO POINT ABOVE A VEHICLE using the information provided by the vehicle's radar equipment.An electronic CALE (1) compares the pre-recorded geographical location position data in a digital memory (2) for the vehicle position provided by an esteem computer (3) and the position data of the same references provided byThe radar and its interface (4) to update the position, attitude and speed information of the vehicle.Application: Navigation.
+</ABSTRACT>
+</TEXT>
+</DOC>

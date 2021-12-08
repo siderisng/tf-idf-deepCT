@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001799
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+locking device for the antenna part of a spacecraft.
+</TITLE>
+<APPLICANT>
+contraves agch <sep>contraves ag <sep>contraves agschaffhauserstrasse 580ch-8052 zürichch<sep>
+</APPLICANT>
+<INVENTOR>
+montanarini marco dr dipl physch<sep>montanarini, marco, dr. dipl. phys. eth<sep>montanarini, marco, dr. dipl. phys. ethspitalstrasse 76ch-8952 schlierench<sep>
+</INVENTOR>
+<ABSTRACT>
+for positioning a pivotally hinged on a support member and a first axis (a) from a rest position in a working position pivotable functional part (20) is for locking the functional part a tab (22) attached thereto and a pivotable about a second axis (B) pivotable pawl(30).In the locked position, in point (S), a circular end face (35) of the pawl (30. a sliding surface (25) of the tab (22) is touched, wherein by the particular arrangement of the second axis to the first axis and in distance (h) eccentrically to the second axis center (c) of the end face (35) the functional part (20) exactly positioned and fixed in the predetermined position itself self-locking. This locking device is particularly suitable for automatically swinging antennas to spacecraft with subsequent self-restoration.
+</ABSTRACT>
+</TEXT>
+</DOC>

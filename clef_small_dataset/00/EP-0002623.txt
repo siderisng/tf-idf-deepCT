@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002623
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05H-1/26 H01J-37/32 H05H-1/34 H05H-1/40 <main>H05H-1/34</main> H05H-1/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric arc apparatus and method for treating a flow of material by an electric arc.
+</TITLE>
+<APPLICANT>
+nat res dev gb<sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation<sep>
+</APPLICANT>
+<INVENTOR>
+chan anthony kok fai<sep>hilliard john clifford<sep>jones alan russell<sep>weinberg felix jiri<sep>chan, anthony kok fai<sep>hilliard, john clifford<sep>jones, alan russell<sep>weinberg, felix jiri<sep>chan, anthony kok fai22a brondesbury roadlondon nw6gb<sep>hilliard, john cliffordflat 3, 22 dagmar roadlondon se5gb<sep>jones, alan russell4 fairholme roadashford, middlesexgb<sep>weinberg, felix jiri59 vicarage roadlondon sw14gb<sep>chan, anthony kok fai<sep>hilliard, john clifford  <sep>jones, alan russell <sep>weinberg, felix jiri<sep>chan, anthony kok fai22a brondesbury roadlondon nw6gb<sep>hilliard, john cliffordflat 3, 22 dagmar roadlondon se5gb<sep>jones, alan russell4 fairholme roadashford, middlesexgb<sep>weinberg, felix jiri59 vicarage roadlondon sw14gb<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for treating a flow of material by an electric  arc and generating free radicals and/or atoms, and charged  species, in ground or excited states.  a cathode (13) comprising  a cylindrical rod having a plane end with an edge (39) for  striking the arc and an anode (14) having two frusto-conical  surfaces (35, 37) are arranged for obtaining an arc across a  preferably annular gap and provide a pathway for flow of  material through this gap.  means, preferably magnetic  means (19), cause the anode spot and cathode root to travel  around respective circular paths in parallel planes, in the  same sense and in substantially the same time, in such a  manner that the length of the arc remains substantially  constant during the motion of said anode spot and cathode  root.  
+</ABSTRACT>
+</TEXT>
+</DOC>

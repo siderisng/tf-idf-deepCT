@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003276
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-9/26 H01J-65/04 C03C-15/00 <main>C03C-15/00</main> H01J-15/00 H01J-9/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for perforating glass plates by etching, preferably for producing fine structures.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+weingand kaspar<sep>weingand, kaspar<sep>weingand, kasparmooshölzlweg 1d-8184 dürnbachde<sep>weingand, kaspar<sep>weingand, kasparmooshölzlweg 1d-8184 dürnbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for etching bumps or channels in glass plates, preferably with the finest structures, such as e.g.b.In gas discharge display elements, especially in such high pixel densities are needed.The breakthroughs or channels, z.b.Holes are etched into the glass plate (1) in a closed apparatus (etching chamber) in the gas phase of a concentrated hydrofluoric acid.The non-corrosive locations with a hydrofluorque cover (2) are provided.Figure 2 shows a section through a glass hole plate prepared by the method according to the invention.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002847
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+F26B-3/06 B01D-29/62 <main>B01D-35/16</main> F26B-3/02 B01D-29/38 B01D-29/44 B01D-29/66 B01D-35/16 B01D-29/46 B01D-29/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for drying filter residues.
+</TITLE>
+<APPLICANT>
+chemap agch<sep>chemap ag<sep>chemap aghölzliwisenstrasse 5ch-8604 volketswilch<sep>chemap ag<sep>
+</APPLICANT>
+<INVENTOR>
+muller hans dr-ing<sep>muller, hans, dr.-ing.<sep>müller, hans, dr.-ing.im allmendlich-8703 erlenbachch<sep>muller, hans, dr.-ing.<sep>müller, hans, dr.-ing.im allmendlich-8703 erlenbachch<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for drying filter residues in candle swemf filters.The filter cake is removed by compressed air from the elements (12) in countercurrent and dried in the filter container (4) itself by stirring with heated and / or pre-dried air in the filtration direction.The drying air is guided in the circulation by the filter elements (12) or directly via capacitors and heat exchangers (28, 20).
+</ABSTRACT>
+</TEXT>
+</DOC>

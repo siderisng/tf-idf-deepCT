@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012140
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-17/49 <main>H01J-17/49</main> H01J-65/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gaseous discharge display devices.
+</TITLE>
+<APPLICANT>
+ibm<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+perry charles hampton<sep>perry, charles hampton<sep>perry, charles hampton44 lamb avenuesaugerties new york 12477us<sep>perry, charles hampton  <sep>perry, charles hampton44 lamb avenuesaugerties new york 12477us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a gaseous discharge display  device (gas panel) of the kind comprising a pair of glass  plates each having an array of parallel conductors formed  thereon overlaid with a dielectric layer, the plates being  sealed together at their edges in superimposed spaced  parallel relationship with the conductor arrays being dis­ posed substantially orthogonally to one another to define  a plurality of discharge gaps, each formed at the cross-­ point of a conductor of one array with a conductor of the  other array, and metal spacers disposed between the di­ electric layers for maintaining the discharge gaps precisely  spaced over the area of the display device.  the spacers are in the form of rods 9 having a trape­ zoidal cross-section so that light 13 or 15 emanating from  an adjacent gas discharge tends to be reflected downwardly  into the panel, as shown by rays 17 and 19, rather than  outwardly from the panel.  this reduces the visibility of the  spacers 9 when the panel is viewed from the front.  
+</ABSTRACT>
+<DESCRIPTION>
+gaseous discharge display devices this invention relates to gaseous discharge display devices, hereinafter referred to as gas panels. it is necessary with large area high resolution devices of this type to provide a method of spacing the opposite plates of the device in a manner which does not inhibit the flow of gas particles within the panel and which maintains a uniform discharge gap between opposing cell electrodes across the entire display surface. various techniques have been employed in the prior art for providing and maintaining a uniform discharge gap between opposing glass plates of a gas panel, primarily involving the use of glass spacers in rod form. other arrangements modify the gas panel structure by cutting grooves in one or both of the glass plates and forming conductor arrays within the grooves whereby the plates themselves consititute the spacer elements. however, such devices are difficult to fabricate, particularly in high resolution panels which may contain about 5,000 cells per square inch. a further technique uses metallic spacers which are located on one of the glass plates prior to the deposition of the conventional dielectric coating. such a technique, however, makes it extremely difficult to provide a uniform dielectric coating over the entire surface of the panel so that the dielectric surface in the spacer areas is not perfectly flat and is mechanically weak, and unstable point contact may result. additionally, differences in dielectric thickness in respect of individual cells resulting from such arrangements require variations in the electrical parameters of control signals used to control the device, and eliminate or severely restrict the panel margin. the operation of cells or firing sites which are located adjacent to the spacers is adversely affected due to the meniscus effect of the dielectric reflow, since perturbations of the dielectric surface alters the dielectric thickness over conductor lines adjacent to the spacer elements, thereby preventing reliable operation of such cells. this disadvantage is avoided by the technique described in u.s. patent 3,998,510, wherein metal spacers are sandwiched between the glass plates after deposition of the dielectric coatings. it is stated that u.s. patent that in the resulting panel the spacers are substantially invisible to the observer. while this may be true for the spacers specifically disclosed therein, it would not be true for elongated spacers of rod form since the long edges thereof would present a substantial area for reflection. the use of rod-form spacers would be particularly desirable in high resolution panels with a very small conductor spacing, since this would reduce the number of spacers which are required compared to that required if disc-shaped spacers were used as described in u.s. patent 3,998,510, and also would facilitate their handling and placement due to their larger size. however, as mentioned above, the long edges of such spacers would present a substantial area for reflection and each would be visible to viewers as a narrow line of light in the displayed image. thus it is an object of the invention to provide a
+</DESCRIPTION>
+<CLAIMS>
+ claims   1. a gaseous discharge display device comprising a pair of glass plates each having an array of parallel conductors formed thereon overlaid with a dielectric layer, the plates being sealed together at their edges in superimposed spaced parallel relationship with the conductor arrays being disposed substantially orthogonally to one another to define a plurality of discharge gaps, each formed at the cross-point of a conductor of one array with a conductor of the other array, and metal spacers disposed between the dielectric layers for maintaining the discharge gaps precisely spaced over the area of the display device, characterised in that the spacers (9) are in the form of rods having a trapezoidal cross-section with the non-parallel edges thereof converging in a direction away from the front plate (31) of the device.    2. a device as claimed in claim 1, wherein the surface of the spacers is oxidized.  
+</CLAIMS>
+</TEXT>
+</DOC>

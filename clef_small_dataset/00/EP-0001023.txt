@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001023
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01F-7/00 <main>B01J-2/08</main> B01J-21/00 B01J-35/00 B01J-2/08 B01J-35/08 C01F-7/04 C01F-7/02 B01J-2/02 B01J-21/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing aluminium oxide spheres.
+</TITLE>
+<APPLICANT>
+rhone poulenc ind fr <sep>rhone-poulenc industries<sep>rhone-poulenc specialites chimiques"les miroirs" 18, avenue d'alsace92400 courbevoiefr<sep>rhone-poulenc specialites chimiques  <sep>
+</APPLICANT>
+<INVENTOR>
+jacques roland<sep>poisson regis<sep>jacques, roland<sep>poisson, regis<sep>jacques, roland579 montée de silholf-30100 alesfr<sep>poisson, régis résidence des hauts de sèvresf-92310 sevresfr<sep>jacques, roland<sep>poisson, regis<sep>jacques, roland579 montée de silholf-30100 alesfr<sep>poisson, régis résidence des hauts de sèvresf-92310 sevresfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method of manufacturing alumina balls from a soil of alumina by a so-called "soil-gel" process. According to a particular implementation of the invention, the method consists of mixing aluminum chloride and hexamethylenetetramine hydroxy solutions at a temperature below mixing temperature of the mixture, to disperse this mixture in the form of drop lettites in A non-miscible fluid at a temperature of between 85 and 95 ° C, to proceed in a non-miscible liquid with an aging of the beads formed at a temperature between 120 and 150 ° C and under a pressure greater than atmospheric pressure, to then perform an aging of the ammoniacal beads at a temperature of between 50 ° C and 105 ° C in a time between 1 and 10 hours, the pH of the middle being between 6 and 11. , wash, dry and calculate the resulting balls. The beads obtained by the invention are in particular applicable as catalyst supports in the reform reactions and in the processing of the exhaust gas of internal combustion engines or in the purification of industrial waste gases.
+</ABSTRACT>
+</TEXT>
+</DOC>

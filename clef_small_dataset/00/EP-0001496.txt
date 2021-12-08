@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001496
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 F25B-17/12 B01J-19/00 C09K-5/04 C09K-5/00 F25B-17/00 C01B-6/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for the transfer of thermal energy by hydrogen-hydride sorption systems and use for refrigeration and heat pump cycles.
+</TITLE>
+<APPLICANT>
+terry lynn ernest<sep>terry, lynn ernest<sep>terry, lynn ernest 22 suncrest avenuebridgeton, nj 08302us <sep>
+</APPLICANT>
+<INVENTOR>
+terry lynn ernest<sep>terry, lynn ernest<sep>terry, lynn ernest22 suncrest avenuebridgeton, nj 08302us<sep>
+</INVENTOR>
+<ABSTRACT>
+in improved hydrogen-hydride absorption systems  and methods for refrigeration and heat pump cycles, heat  is transferred between a heat source and a heat sink at  different temperatures for refrigeration or heat pumping  by means of a hydrogen-hydride absorption system operating  between an upper and a lower pressure and comprising  hydrogen and reversibly hydridable materials having different  absorption-desorption characteristics for hydrogen,  wherein each material is alternately and cyclically exothermically  hydrided at one temperature and pressure,  heated or cooled to activate it for dehydriding, dehydrided  at another temperature and pressure, and cooled or heated  to deactivate it for hydriding, hydrogen thereby being transferred  between the materials.  the system comprises three  or more different hydridable materials in a single hydrogen  flow circuit, and hydrogen is cyclically and successively  transferred between these materials so that the pressure  change between the upper and lower working pressures  in one direction takes place in two or more stages.  
+</ABSTRACT>
+</TEXT>
+</DOC>

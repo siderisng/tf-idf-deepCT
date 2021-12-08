@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004490
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-3/08 F16H-3/14 D06F-17/00 D06F-17/08 D06F-37/30 F16H-5/70 D06F-37/34 <main>D06F-17/08</main> D06F-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reversing drive mechanism for washing machines, and machine equipped with such a mechanism.
+</TITLE>
+<APPLICANT>
+seb safr<sep>societe dite: seb s.a. societe anonyme francaise<sep>seb s.a.f-21260 selongeyfr<sep>seb s.a. societe anonyme francaise  <sep>
+</APPLICANT>
+<INVENTOR>
+schwob pierre<sep>schwob, pierre<sep>schwob, pierre55 avenue des frères lumièref-69008 lyonfr<sep>schwob, pierre<sep>schwob, pierre55 avenue des frères lumièref-69008 lyonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a motion-reversing mechanism for a washing machine in which an input gearwheel (6) constantly engages two rims (11a, 11b) loosely mounted on an output shaft (7), each rim (11a, 11b) having projections (12) co-operating with a respective sliding coupling ring (14a, 14b) rotating integrally with the output shaft (7), each sliding ring (14a, 14b) being movable between a coupling position in which it secures the associated rim (11a, 11b) to the output shaft (7) and an uncoupling position in which it is moved apart from the rim (11a, 11b), each sliding ring (14a, 14b) being actuated by a reversing cam (37) via control means, the mechanism being characterised in that, for each sliding ring (14a, 14b), it comprises a rocking lever (28a, 28b) one end of which is rotatably mounted about a shaft (31) borne by a casing (27), the rocking lever also comprising a control lug (22a, 22b) engaging in a peripheral groove in the corresponding sliding ring (14a, 14b) and each rocking lever (28a, 28b) is disposed in an oscillating cage (35a, 35b) rotatably mounted about the same axis (31) as the rocking lever (28a, 28b) but independently thereof, the axis (31) being perpendicular to the plane of the cage (35a, 35b), which bears an actuating stud (36) co-operating with the reversing cam (37), which comprises a cross-sectional groove in a reversing wheel (33), the rocking lever (28a, 28b) being connected to the cage (35a, 35b) by a compression spring (41). 
+</ABSTRACT>
+</TEXT>
+</DOC>

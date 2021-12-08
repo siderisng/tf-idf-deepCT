@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0016218
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02P-17/00 F02P-11/06 F02P-5/15 F02D-45/00 F02D-35/00 F02P-15/00 <main>F02P-5/04</main> F02P-11/00 F02D-41/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for controlling, in combustion motor machines, operations which are repetitive and which depend on running parameters.
+</TITLE>
+<APPLICANT>
+bosch gmbh robertde  <sep>robert bosch gmbh<sep>robert bosch gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+honig gunther<sep>kiencke uwe<sep>schulz alfred<sep>honig, gunther<sep>kiencke, uwe<sep>schulz, alfred<sep>honig, gunther <sep>kiencke, uwe<sep>schulz, alfred  <sep>hönig, guntherhaldenstrasse 88d-7257 ditzingende<sep>kiencke, uwereichardshalde 35d-7140 ludwigsburgde<sep>schulz, alfredweilerstrasse 1d-7141 oberriexingende<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

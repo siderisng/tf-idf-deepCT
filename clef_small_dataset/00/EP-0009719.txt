@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009719
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01J-47/00</main> B01D-15/04 C25D-21/22 C02F-1/42 B01J-47/00 B01J-47/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for making visible the metalspecific load of an ion exchanger.
+</TITLE>
+<APPLICANT>
+dornier system gmbhde<sep>dornier system gmbh<sep>dornier system gmbhpostfach 1360d-7990 friedrichshafen 1de<sep>dornier system gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+purps klaus dipl-ing<sep>wahl klaus dipl-ing<sep>purps, klaus, dipl.-ing.<sep>wahl, klaus, dipl.-ing.<sep>purps, klaus, dipl.-ing.dr. zimmermannstrasse 31d-7759 hagnaude<sep>wahl, klaus, dipl.-ing.fitzenweilerstrasse 11d-7778 markdorfde<sep>purps, klaus, dipl.-ing.<sep>wahl, klaus, dipl.-ing. <sep>purps, klaus, dipl.-ing. dr. zimmermannstrasse 31 d-7759 hagnaude<sep>wahl, klaus, dipl.-ing.fitzenweilerstrasse 11d-7778 markdorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+To display the metal-specific loading of ione norm exchangers, loadable resin particles (10) are located together with inert particles (12) in a sight glass (8), or there are resin particles and inert particles in a sink body, which in the loading of the resin particleswith the metal ions to bottom decreases.
+</ABSTRACT>
+</TEXT>
+</DOC>

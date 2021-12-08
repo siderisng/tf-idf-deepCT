@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002058
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-477/20 A61P-31/00 C12P-17/10 A61K-31/40 C12P-17/18 C07D-477/00 A61K-31/397 A61P-31/04 <main>C07D-487/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3-(2-aminoethylthio-6-ethyl-7-oxo-1-azabicylo-(3.2.0)-hept-2-en-2-carboxylic acid, process for preparing it and compositions comprising it.
+</TITLE>
+<APPLICANT>
+sanraku ocean cojp<sep>sanraku-ocean co., ltd.<sep>sanraku-ocean co., ltd.15-1, kyobashi 1-chome chuo-kutokyojp<sep>sanraku-ocean co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+fukagawa yasuo<sep>hirata shoji<sep>ishikura tomoyuki<sep>kouno kageaki<sep>lein joseph<sep>okamura kazuhiko<sep>okumura yasushi<sep>shimauchi yasutaka<sep>fukagawa, yasuo<sep>hirata, shoji<sep>ishikura, tomoyuki<sep>kouno, kageaki <sep>lein, joseph <sep>okamura, kazuhiko<sep>okumura, yasushi<sep>shimauchi, yasutaka<sep>fukagawa, yasuo1194-146 imaizumikamakura-shi kanagawa-kenjp<sep>hirata, shoji51-8, aza tateminami watari-chowatari-gun miyagi-kenjp<sep>ishikura, tomoyuki640, kowadachigasaki-shi kanagawa-kenjp<sep>kouno, kageaki7-16-3, ikegami ohta-kutokyojp<sep>lein, joseph4, thornwood lnfayetteville new yorkus<sep>okamura, kazuhiko2412 kamiwadayamato-shi kanagawa-kenjp<sep>okumura, yasushi534-1, uekikamakura-shi kanagwa-kenjp<sep>shimauchi, yasutaka1-101-13, yurigaokaninomiya-machi kanagawa-kenjp<sep>fukagawa, yasuo<sep>hirata, shoji<sep>ishikura, tomoyuki<sep>kouno, kageaki<sep>lein, joseph<sep>okamura, kazuhiko<sep>okumura, yasushi <sep>shimauchi, yasutaka<sep>fukagawa, yasuo 1194-146 imaizumi kamakura-shi kanagawa-ken jp <sep>hirata, shoji51-8, aza tateminami watari-chowatari-gun miyagi-kenjp<sep>ishikura, tomoyuki640, kowadachigasaki-shi kanagawa-kenjp<sep>kouno, kageaki7-16-3, ikegami ohta-kutokyojp<sep>lein, joseph4, thornwood lnfayetteville new yorkus<sep>okamura, kazuhiko2412 kamiwadayamato-shi kanagawa-kenjp<sep>okumura, yasushi534-1, uekikamakura-shi kanagwa-kenjp<sep>shimauchi, yasutaka1-101-13, yurigaokaninomiya-machi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a new antibiotic ps-5 n-desacetyl derivative of the  formula    having strong antibiotic activity and ß-lactamase inhibiting  effect, and a method for producing it by chemically or biologically  cleaving off the n-acetyl group from the antibiotic  ps-5.  
+</ABSTRACT>
+</TEXT>
+</DOC>

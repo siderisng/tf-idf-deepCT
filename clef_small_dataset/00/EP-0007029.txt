@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007029
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09B-43/40 C07F-9/00 C07F-9/65 C07F-9/32 C07F-9/38 C09B-69/00 C07F-9/44 C07F-9/6503 <main>C07F-9/40</main> C07F-9/40 C09B-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for preparing aromatic phosphorus compounds.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+hamprecht rainer dr<sep>schallner otto dr<sep>hamprecht, rainer, dr.<sep>schallner, otto, dr.<sep>hamprecht, rainer, dr.saarstrasse 4d-5000 köln 40de<sep>schallner, otto, dr.andreas-gryphius-strasse 22d-5000 köln 80de<sep>hamprecht, rainer, dr.<sep>schallner, otto, dr.<sep>hamprecht, rainer, dr.saarstrasse 4d-5000 köln 40de<sep>schallner, otto, dr.andreas-gryphius-strasse 22d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+Phosphorus-containing compounds, in particular Azofarb substances with a grouping to the azo bridge ortho-constant grouping are obtained in good yields when conveying connections of the formula with compounds of the formula in aqueous medium in the presence of copper or copper compounds.The method is cheaper than the conventional solvent method.In the formulas mean: k = residue of a coupling component, V₁-V₃ = H or nonionic residue, x and y = -OR, -SR, -NR₂ or R, R = optionally substituted hydrocardration frest, z = -OR ', -SR'Or -NR'₂ and R' = H or R.
+</ABSTRACT>
+</TEXT>
+</DOC>

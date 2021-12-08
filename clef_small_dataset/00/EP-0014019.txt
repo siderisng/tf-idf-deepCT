@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014019
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/228 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dynamic beam current control circuit for use with a television camera tube.
+</TITLE>
+<APPLICANT>
+philips corpus<sep>north american philips corporation<sep>north american philips corporation100 east 42nd street 9th floornew york, n.y. 10017us<sep>
+</APPLICANT>
+<INVENTOR>
+safar johannnl<sep>safar, johann<sep>safar, johannc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a dynamic beam current control circuit for a television  camera tube (10) features a threshold circuit (24) so that  the correction is effected only for a large light intensities  impinging on the television camera tube (10) and a non­ linear circuit (26) which has a characteristic which is in  the inverse of the control electrode voltage versus beam  current characteristic of the camera tube (10).  this com­ bination provides a stable feedback loop.  
+</ABSTRACT>
+</TEXT>
+</DOC>

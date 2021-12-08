@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016840
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-15/00 F15B-15/06 F16H-19/00 B66F-9/14 F16H-7/00 F16K-31/12 F15B-15/08 <main>F15B-15/06</main> E02F-3/28 B63B-27/00 B25J-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multipurpose actuator.
+</TITLE>
+<APPLICANT>
+sugawa hiroshi<sep>sugawa, hiroshi  <sep>sugawa, hiroshi2-11, minaminagasaki 2-chometoshima-ku, tokyo 171jp<sep>sugawa, hiroshi<sep>
+</APPLICANT>
+<INVENTOR>
+sugawa hiroshi<sep>sugawa, hiroshi<sep>sugawa, hiroshi2-11, minaminagasaki 2-chometoshima-ku, tokyo 171jp<sep>sugawa, hiroshi  <sep>sugawa, hiroshi2-11, minaminagasaki 2-chometoshima-ku, tokyo 171jp<sep>
+</INVENTOR>
+<ABSTRACT>
+an actuator driven by fluid pressure and which is practi­ cally usable and capable of operating linearly and rockably.   specifically, a universal actuator is disclosed, which can, with a  small number thereof simply control complicated and high lev­ el functions that cannot be carried out by the conventional sin­ gle-function actuator and which can also operate reliably, par­ ticularly as a rockable actuator, to be useful for rectilinear drive  or the like, over a length much longer than the entire length of  the actuator itself.  to this end, the invention smoothly converts  the reciprocating motion of a piston into rotary motion of a cir­ cular post member via a non-telescoping but flexible transmis­ sion element, while leading the motion cut of a housing and  connecting it to a load via a complete shaft sealing mechanism.   the fact that the flexible transmission element does not tele­ scope through the housing assures high reliability and allows it  to be applied to long rectilinear drive for construction machin­ ery, load handling machines, robot mechanisms, valve drive,  and elevators, and also to the synchronization of a purality of  loads, or sequence control.  
+</ABSTRACT>
+</TEXT>
+</DOC>

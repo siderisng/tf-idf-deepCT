@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013662
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-499/00</main> A61P-31/00 A61K-31/43 C07D-205/00 C07D-205/09 C07F-9/568 C07F-7/00 C07D-499/88 A61K-31/429 C07D-499/861 C07D-205/08 C07F-7/10 C07D-499/00 A61P-31/04 C07D-499/887 C07F-9/00 C07D-499/06 C07D-499/86 C07D-499/87 C07D-499/897 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-penem compounds, a method for their preparation and pharmaceutical compositions comprising them.
+</TITLE>
+<APPLICANT>
+schering corpus<sep>schering corporation<sep>schering corporation2000 galloping hill roadkenilworth new jersey 07033us<sep>schering corporation<sep>
+</APPLICANT>
+<INVENTOR>
+mccombie stuart walter<sep>mccombie, stuart walter<sep>mccombie, stuart walter159 pleasant valley waywest orange, new jersey 07052us<sep>mccombie, stuart walter<sep>mccombie, stuart walter159 pleasant valley waywest orange, new jersey 07052us<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention relates to 2-penem compounds of  the formula    wherein r is lower alkyl, aminoloweralkyl, mono- or  diloweralkylaminoloweralkyl, acylaminolowerallyl, aralky,  heteroaralkyl, hydroxyloweralkyl, hydroxyaralkyl, carbox­ yloweralkyl or alkoxycarbonylloweralkyl;   r₁ is hydrogen, lower alkyl, aralkyl or a group of the formula:   r₆ choh- with r₆ being hydrogen, lower alkyl, aralkyl,  heteroaryl, heteroaralkyl, hydroxyaralkyl or aryl;   r₂ is hydrogen or methyl; and   x is cyano, tetrazol-5-yl, -coor₃ or -conr₄r₅ wherein   r₃ is hydrogen, an alkali metal cation, phthalidyl or a  pivaloyloxymethyl group; and   r₄ and r₅ are independently hydrogen or lower alkyl; with the  proviso that when x is -coor₃ both r₁ and r₂ cannot be  hydrogen;   to pharmaceutical compositions comprising such com­ pounds and methods for preparing them.  
+</ABSTRACT>
+</TEXT>
+</DOC>

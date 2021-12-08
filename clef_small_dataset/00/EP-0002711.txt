@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002711
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-33/48 B29C-37/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for discharging a plastic article built up around a core.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag 51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+brinkmann karl-josef ing-grad de<sep>moenig dieter ing-gradde<sep>mueller johannde<sep>brinkmann, karl-josef, ing.-grad.<sep>moenig, dieter, ing.-grad.<sep>mueller, johann<sep>brinkmann, karl-josef, ing.-grad.birkenbergstrasse 77d-5090 leverkusen 3de<sep>mönig, dieter, ing.-grad.hirschweg 58d-5068 odenthalde<sep>müller, johannreinhard-brauns-strasse 8d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+if a filamentous structure (2) is first wound, with the windings in firm contact with one another, around a mandrel (1), around which a wound grp container (3) is built up, this core can easily be removed if the filamentous structure is withdrawn first.  synthetic filaments are particularly advantageous; they are drawn on withdrawal and reduced in cross section.  use of profiled filamentous structures (2) makes it possible to structure the internal surface of a container.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

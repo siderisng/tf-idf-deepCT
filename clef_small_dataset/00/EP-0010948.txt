@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010948
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03G-15/00</main> G03G-15/22 B65H-23/30 G03G-21/00 G03G-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrostatographic printing machine.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+silverberg morton<sep>silverberg, morton<sep>silverberg, morton23 old pond roadrochester, new yorkus<sep>silverberg, morton<sep>silverberg, morton23 old pond roadrochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrophotographic printing machine in which  a photoconductive belt (12) is secured releasably to a  sub-belt (14).  the sub-belt (14) and photoconductive  belt (12) move in unison with one another about a defined  path over a supporting mechanism (18, 20, 22).  the sub-­ belt (14) is thicker and wider than the photoconductive  belt (12) and the latter is stretched over the former.  
+</ABSTRACT>
+</TEXT>
+</DOC>

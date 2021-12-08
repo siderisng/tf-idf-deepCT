@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003607
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-29/62 B01D-24/00 B01D-24/46 B01J-49/00 C02F-1/42 B01J-47/00 C02F-1/28 B01J-47/02 C02F-1/76 <main>B01D-23/24</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+regeneration of granular material contained in a column.
+</TITLE>
+<APPLICANT>
+nikex nehezipari kulkerehu<sep>nikex nehezipari kulkereskedelmi vallalat<sep>nikex nehézipari külkereskedelmi vállalatmészáros u. 48-54h-1368 budapest ihu<sep>nikex nehezipari kulkereskedelmi vallalat<sep>
+</APPLICANT>
+<INVENTOR>
+demeter akos<sep>demeter laszlo<sep>demeter, akos<sep>demeter, laszlo<sep>demeter, akosbocskai u.9h-1368 budapest xihu<sep>demeter, lászlobocskai u.9h-1368 budapest xihu<sep>demeter, akos  <sep>demeter, laszlo<sep>demeter, akosbocskai u.9h-1368 budapest xihu<sep>demeter, lászlobocskai u.9h-1368 budapest xihu<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the regeneration of an apparatus serving for the treatment of liquids by filtration and/or ion-exchanger in a column of a particulate treatment material, wherein the liquid is directed in horizontal flow through the column of material and is distributed over one side of the column of material from a vertical inlet aperture taking up substantially the total horizontal width of the material column and is discharged from the latter at its other side, characterized in that, after stopping the treatment process, a regenerating liquid is introduced through a vertical perforated collector pipe from the top downwardly at a high flow velocity, the collector pipe having a cross-section which is substantially smaller than that of the inlet aperture and serving for discharging the treated liquid from the column of material, and is drained from above the column via an overflow. 
+</ABSTRACT>
+</TEXT>
+</DOC>

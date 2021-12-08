@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009022
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07F-9/32 A01N-57/00 A01N-57/20 <main>C07F-9/30</main> C07F-9/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+processes for preparing d,l-2-amino-4((hydroxy)(methyl)phosphinoyl)-butyric acid and an acetal of an ester of 3-oxopropylmethyl phosphinic acid.
+</TITLE>
+<APPLICANT>
+meiji seika kaishajp<sep>meiji seika kaisha ltd.<sep>meiji seika kaisha ltd.2-4-16 kyobashi 2-chomechuo-ku, tokyo 104jp<sep>meiji seika kaisha ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+inouye shigeharu<sep>mizutani kazuko<sep>sekizawa yasuharu<sep>suzuki akira<sep>tachibana kunitaka<sep>takematsu tetuo<sep>tsuruoka takashi<sep>inouye, shigeharu<sep>mizutani, kazuko <sep>sekizawa, yasuharu<sep>suzuki, akira  <sep>tachibana, kunitaka<sep>takematsu, tetuo<sep>tsuruoka, takashi<sep>inouye, shigeharu16, tsutsujigaoka midori-kuyokohama-shi, kanagawa 227jp<sep>mizutani, kazuko321, hazawacho kanagawa-kuyokohama-shi, kanagawa 221jp<sep>sekizawa, yasuharu2-4, higashi 3-chome shibuya-kutokyo 150jp<sep>suzuki, akira17, daikanyamacho 17-chome shibuya-kutokyo 150jp<sep>tachibana, kunitaka6-1-1119, isogo 3-chome isogo-kuyokohama-shi, kanagawa 235jp<sep>takematsu, tetuo612, minemachiutsunomiya-shi, tochigi 320jp<sep>tsuruoka, takashikawarachodan-chi 14-833 kawaracho saiwai-ku,kawasaki-shi kanagawa 210jp<sep>inouye, shigeharu<sep>mizutani, kazuko<sep>sekizawa, yasuharu<sep>suzuki, akira<sep>tachibana, kunitaka<sep>takematsu, tetuo<sep>tsuruoka, takashi<sep>inouye, shigeharu16, tsutsujigaoka midori-kuyokohama-shi, kanagawa 227 jp<sep>mizutani, kazuko 321, hazawacho kanagawa-ku yokohama-shi, kanagawa 221 jp <sep>sekizawa, yasuharu2-4, higashi 3-chome shibuya-kutokyo 150jp<sep>suzuki, akira17, daikanyamacho 17-chome shibuya-kutokyo 150jp<sep>tachibana, kunitaka6-1-1119, isogo 3-chome isogo-kuyokohama-shi, kanagawa 235jp<sep>takematsu, tetuo612, minemachiutsunomiya-shi, tochigi 320jp<sep>tsuruoka, takashikawarachodan-chi 14-833 kawaracho saiwai-ku,kawasaki-shi kanagawa 210jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the production of d,l-2-amino-­ 4-methylsulphosphino-butyric acid having both herbicidic  and fungicidic activities, in which dialkylmethylphosphonite  is reacted with acrolein to synthesize an acetal of  3-oxopropylmethylphosphinic acid ester, the compound is  subjected to deacetalization to obtain 3-oxo-­ propylmethylphosphinic acid ester and then strecker reac­ tion for the synthesis of an amino acid is effected.  
+</ABSTRACT>
+</TEXT>
+</DOC>

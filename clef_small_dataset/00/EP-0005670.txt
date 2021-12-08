@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005670
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16L-55/16 F28F-11/00 B23K-11/30 <main>F28F-11/00</main> F16L-55/10 F16L-55/136 F28F-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for sealing a leak in a straight portion of a heat exchanger tube.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel  <sep>
+</APPLICANT>
+<INVENTOR>
+vrillon bernard<sep>vrillon, bernard<sep>vrillon, bernard15, rue des ecolesf-91320 wissousfr<sep>vrillon, bernard<sep>vrillon, bernard15, rue des ecolesf-91320 wissousfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Device for sealing a leak in a right portion of a heat exchanger tube (7) comprising an axial mandrel (14) with a good electrical conductor material, on which are threaded with metal washers (17) of revolution with profile Conical separated by insulating cylindrical pellets (18) and a support (20) also insulating traversed by a threaded portion (23) cooperating with a nut (22) for exerting on the conical washers (17) an adjustable initial tension such that The washers (17) are applied by their external peripheral edges against a thin cylindrical sleeve (24), coaxial with mandrel (14) and whose outer diameter is slightly lower than the inner diameter of the tube (7) comprising the leak in COLMATER. One exercising an effort on the washers (17), we distort them that coming to apply against the sleeve (24), itself brought into contact with the tube (7). The sleeve weld (24) is then carried out via the washers (17). Application to exchange tubes, including steam generators, for nuclear installations.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006558
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08J-9/00 C08L-23/00 C08J-9/06 C08L-23/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flame-resistant cross-linked olefin polymer foams and their manufacture.
+</TITLE>
+<APPLICANT>
+bayer italia spait<sep>bayer italia s.p.a.<sep>bayer italia s.p.a.viale certosa 12620156 milano it<sep>
+</APPLICANT>
+<INVENTOR>
+ambrosini massimo it <sep>bechlenberg karl theoit<sep>pellicelli brunoit<sep>ambrosini, massimo<sep>bechlenberg, karl theo<sep>pellicelli, bruno<sep>ambrosini, massimovia goldoni 19i-24036 mozzo (bg)it<sep>bechlenberg, karl theovia delle primule 6i-2430 brembate sopra (bg)it<sep>pellicelli, brunovia parini 1i-24030 mapello (bg)it<sep>
+</INVENTOR>
+<ABSTRACT>
+crosslinked, flame-resistant polyolefin foams containing 2-25% by weight of a halogenated polybutadiene. 
+</ABSTRACT>
+<DESCRIPTION>
+flammfeste, vernetzte polyolefinschäume und ihre herstellung die vorliegende erfindung betrifft vernetzte polyolefinschäume, die durch zugabe eines halogenierten polybutadiens eine verbesserte flexibilität, bessere flamm- festigkeit und bessere griffigkeit aufweisen. peroxidisch vernetzte polyolefinschäume insbesondere polyethylenschäume werden z. zt. eingesetzt in den verschiedensten techn. sektoren, wie z. b. der rohrisolation, der gebäudeisolation, in der schuhindustrie, für die kaschierung mit geweben, in der herstellung von schwimmwesten. diese polyethylenschäume haben aber aufgrund unzureichender flexibilität und brennbarkeit auf manchen gebieten nur eine begrenzte einsetzbarkeit. es ist bekannt, dass man die flexibilität durch beigabe von ethylen-vinyl-acetat (eva) copolymer verbessern kann, trotzdem sind die ergebnisse nicht ganz zufriedenstellend. die verbesserung der flammfestigkeit kann durch zugabe von produkten erreicht werden, die aufgrund der flammtemperatur halogene freisetzen. trotzdem ist die anwendung solcher additive nicht ratsam, da sie toxische gase in der herstellphase der schäume entwickeln. es ist deshalb eine aufgabe der vorliegenden erfindung, peroxidisch vernetzten polyethylenschaum herzustellen, die eine verbesserte flexibilität, geringere brennbarkeit und bessere griffigkeit aufweisen. ein weiterer gegenstand der vorliegenden erfindung ist ein verfahren zur herstellung der genannten schäume mit verbesserter treibgasausbeute. gegenstand der erfindung sind daher flammfeste vernetzte schäume aus polyolefin(co)polymerisaten,enthaltend 2-25 gew.-%, bezogen auf den schaum, eines halogenierten polybutadiens. unter dem ausdruck "polyolefine", wie er hier verwendet wird, sind hochdruck-, mitteldruck- oder niederdruckpolyethylen, mischpolymere, die im wesentlichen aus ethylen bestehen, sowie gemische daraus zu verstehen. solche mischpolymere sind z.b.: ethylen/propylen-mischpolymere, ethylen/buten-mischpolymere, mischpolymere aus ethylen und vinylacetat und derivaten desselben, mischpolymere aus ethylen und acrylsäureester und derivate derselben, mischpolymere aus ethylen und methacrylsäure und derivaten derselben. besonders bevorzugt wird polyethylen niederer dichte, mischungen aus polyethylen niederer dichte und hoher dichte oder mischungen aus polyethylen niederer dichte und ethylen/ vinylacetat copolymerisat eingesetzt, wobei das copolymerisat vorzugsweise einen vinylacetatgehalt von 1 bis 15 gew.-%, besonders bevorzugt unter 10 gew.-% aufweist. die schäume werden vorzugsweise peroxidisch vernetzt, wobei als organische peroxide beispielsweise dicumylperoxyd, 2,5-dimethyl-2,5-di(tert.-butylperoxy)-hexan, 2,5-dimethyl-2,5-di (tert.-butylperoxy) -hexin, di-tert.butyl-pertetraphthalat oder tert.-butyl-hydroperoxyd verwendet werden können. dicumylperoxid ist bevorzugt. die art und die menge des der polyolefinzusammensetzung zugesetzten organischen peroxyds richten sich nach der art und der menge des verwendeten polyolefins. in der regel werden 0,5-1,5 gew.-% peroxid verwendet. das zur schaumerzeugung verwendete schäummittel sollte eine zersetzungstemperatur haben, die gleich hoch oder höher liegt als diejenige des organischen peroxyds. beispiele für solche üblicherweise eingesetzten schäummittel sind p,p'-oxy-bis-benzolsulfonylhydrazid, azodicarbonamid oder di-nitrosopentamethylentetramin. azodicarbonamid wird bevorzugt eingesetzt. die menge des treibmittels sollte im bereich von 2 bis 25 gew.-% liegen, je nachdem welche dichte der schaum aufweisen soll. als halogeniertes polybutadien wird bevorzugt chloriertes, insbesondere 2-chlor-polybutadien eingesetzt. durch die zugabe von halogeniertem polybutadien wird das typische brandverhalten von z.b. polyethylenschaum d.h. leichtes entzünden und abtropfen des geschmolzenen materials'behoben, so dass eine kleine zugabe des additivs ausreicht, um den schaum als 'non burning' nach der norm astm 1692 einstufen zu können. schliesslich kann man durch die zugabe des halogenierten polybutadiens die ausbeute des treibgases erhöhen. das bedeutet, dass als folge dieser zugabe die menge des azodicarbonamids zum erreichen eines bestimmten gewicht/ volumenverhältnisses fühlbar herabgesetzt werden kann. die erfindungsgemässen schäume werden nach bekannten verfahren der schaumerzeugung hergestellt. besonders
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche   1. vernetzte, flammfeste schäume aus polyelefinen enthaltend 2-25 gew.-%, bezogen auf den schaum, eines halogenierten polybutadiens.    2. schäume gemäss anspruch 1, die peroxidisch vernetzt sind.   3. schäume gemäss ansprüchen 1 und 2, die als polyolefine polyethylene niederer dichte, mischungen aus poly ethylene niederer dichte und hohen dichte oder mischung aus polyethylene niederer dichte und einem ethylen/vinylacetat copolymerisat enthalten.   4. schäume gemäss ansprüchen 1 - 3, enthaltend poly-2 chlor-butadien als halogeniertes polybutadien.   5. schäume gemäss ansprüche 1-4, enthaltend zu mindest ein weiteres flammhemmendes additiv.   6. schäume gemäss ansprüche 1-5, enthaltend halogenierte diphenyle und gegebenenfalls antimontrioxid als weitere flammhemmende additive.   7. verfahren zur herstellung von flammfesten, ver netzten schäumen aus polyolefinen nach bekannten verfahren, dadurch gekennzeichnet, dass man den zu verschäumenden und vernetzenden polyolefin 2-25 gew.-% eines halogenierten polybutadiens zusetzt.  
+</CLAIMS>
+</TEXT>
+</DOC>

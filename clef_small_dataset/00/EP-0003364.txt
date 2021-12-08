@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003364
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-3/24 H05K-3/00 H05K-3/10 H05K-3/46 H05K-3/18 <main>H05K-3/10</main> H05K-3/38 H05K-3/34 G03F-7/20 H05K-3/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+producing printed circuits by conjoining metal powder images.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company<sep>
+</APPLICANT>
+<INVENTOR>
+peiffer robert william<sep>peiffer, robert william<sep>peiffer, robert william2 quincy drivejackson new jersey 08527us<sep>peiffer, robert william<sep>peiffer, robert william2 quincy drivejackson new jersey 08527us<sep>
+</INVENTOR>
+<ABSTRACT>
+by the process of this invention, printed circuits are  prepared containing an electrically conductive wiring trace  from materials having adherent and non-adherent surface  areas, e. g. , printed circuit substrates bearing an imaged  photoadhesive layer.  onto the adherent surface areas of the  material are applied ductile metal or alloy particles, and any  excess particles are removed from the non-adherent areas.   the metallized areas are conjoined, e. g. , with silicon carbide  brush or rounded metal rod.  the conjoined areas can be  electrolessly plated, electroplated or soldered.  multilayer  printed circuits can also be prepared by repeating these  steps with additional layers of photoadhesive material  adhered to underlying printed circuits.  
+</ABSTRACT>
+</TEXT>
+</DOC>

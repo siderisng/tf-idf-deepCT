@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001003
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-19/06 H02H-1/04 H02H-7/085 H02H-3/38 H02H-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for operating a dynamo-eletric machine
+</TITLE>
+<APPLICANT>
+coal industry patents ltdgb<sep>coal industry (patents) limited<sep>coal industry (patents) limitedhobart house grosvenor placelondon sw1x 7aegb<sep>
+</APPLICANT>
+<INVENTOR>
+gray george williamgb<sep>gray, george william<sep>gray, george william"grayways" mansfield roadwlaes bar sheffield s31 8rl. yorkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus and method for operating a dynamo-electric machine which is provided with a protective circuit arrangement (6) whereby the machine is caused to be switched off if a short circuit current flowing in the machine exceeds a predetermined level.   <??>false operation of the protective circuit is avoided by incorporating a discriminating circuit which is able to distinguish the phase angle between the current and the voltage.  this causes the protective circuit to trip for an over load current where the phase angle difference is small and the power factor near unity, which occurs with resistive fault situations; and not to trip where the phase angle difference is high, and thus there is a low power factor indicating a reactive condition, which occurs on start-up of the machine.  a machine is able to run more safely as a result.  
+</ABSTRACT>
+</TEXT>
+</DOC>

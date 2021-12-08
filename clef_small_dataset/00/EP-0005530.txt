@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005530
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-313/00 C07C-323/22 C07D-333/22 C09D-11/10 C08F-2/50 C07D-333/00 <main>C07C-149/32</main> C08F-2/00 C07C-323/62 C07C-323/00 C07C-323/25 C07C-67/00 C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+new mercaptophenylketones and their use as initiators for the photopolymerisation of ethylenically unsaturated compounds.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+felder louis dr<sep>kirchmayr rudolf dr<sep>felder, louis, dr.<sep>kirchmayr, rudolf, dr.<sep>felder, louis, dr.riehenring 5ch-4058 baselch<sep>kirchmayr, rudolf, dr.ettingerstrasse 9ch-4147 aeschch<sep>felder, louis, dr.<sep>kirchmayr, rudolf, dr.<sep>felder, louis, dr.riehenring 5ch-4058 baselch<sep>kirchmayr, rudolf, dr.ettingerstrasse 9ch-4147 aeschch<sep>
+</INVENTOR>
+<ABSTRACT>
+Mixtures of a) a mercaptophenyl ketone of the formula I, wherein N is 1 or 2, Ar is a unsubstituted or substituted aryl radical or a heteroaromatic radical, R¹ represents hydrogen, alkyl, or in the case of n = 1 also -sch₂X, and x in the case of of n = 1 is one of the groups -CH (R²) -OH, -CH (R²) -O-Co-R⁵, -CH₂SH or - (CH₂) ₁₋₃-NR³R⁴, wherein R² is hydrogen, methyl, phenyl or one The groups -CH₂OH, -CH₂-NR 13R⁴ or -CH₂-OR⁶, R³ and R⁴ independently of each other. Hydrogen, alkyl, or hydroxyalkyl or R³ and R⁴ together mean 1,4-butylene, 1,5-pentylene or 3-oxa-1,5 pentylene, R⁵ and R⁶ represent monovalent hydrocarbon radicals and X in the case of n = 2 alkylene, vinylene , phenylene or one of the divalent groups -CH₂S-SCH₂-, -CH (R²) -O-Co-O-CH (R²) -, -CH (R²) -O-Co-R⁷-Co-Och (R²) - , -CO-O-R⁸-O-CO, -CH₂COO-R⁸-OOCCH₂ - or -CH (OH) -CH₂-O-R⁸-O-CH₂-CH (OH) - wherein R⁷ is a divalent hydrocarbon radical or -NH-R⁹-NH and R⁸ and R⁹ represent divalent hydrocarbon radicals, and b) an organic amine are effective initiators for photopolymerization of ethylenically unsaturated compounds or for photochemical crosslinking of polyolefins.
+</ABSTRACT>
+</TEXT>
+</DOC>

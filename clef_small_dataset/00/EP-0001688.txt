@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001688
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-493/22 C07D-493/00 A61K-31/365 C12P-19/00 A61P-33/00 C07H-17/08 C07H-19/00 C12P-17/18 <main>C07D-493/22</main> C12P-19/62 A01N-43/22 C07H-19/01 A61P-33/10 A01N-43/90 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of c-076 compounds and their preparation.
+</TITLE>
+<APPLICANT>
+merck & co incus<sep>merck & co. inc.<sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us <sep>merck & co. inc.<sep>
+</APPLICANT>
+<INVENTOR>
+albers-schonberg george<sep>fisher michael herbert  <sep>kulsa peter<sep>mrozik helmut hugo<sep>albers-schonberg, george<sep>fisher, michael herbert<sep>kulsa, peter<sep>mrozik, helmut hugo<sep>albers-schonberg, george30 tyson laneprinceton new jersey 08540us<sep>fisher, michael herbert1140 concord drivebridgewater new jersey 08807us<sep>kulsa, peter933 belvidere avenueplainfield new jersey 07060us<sep>mrozik, helmut hugo159 idlebrook lanematawan new jersey 07747us<sep>albers-schonberg, george  <sep>fisher, michael herbert <sep>kulsa, peter<sep>mrozik, helmut hugo<sep>albers-schonberg, george30 tyson laneprinceton new jersey 08540us<sep>fisher, michael herbert1140 concord drivebridgewater new jersey 08807us<sep>kulsa, peter933 belvidere avenueplainfield new jersey 07060us<sep>mrozik, helmut hugo159 idlebrook lanematawan new jersey 07747us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides compounds having the formula    in which the broken line indicates a single or a double bond;   r₁ is hydroxy or acyloxy and is present only when the  broken line indicates a single bond;   r₂ is iso-propyl or sec-butyl;   r₃ is hydrogen, methyl or acyl; and   r is hydrogen, acyl, α-l-oleandrosyl, 4′-acyl-α-l-oleandrosyl,  4′-(α-l-oleandrosyl)-α-l-oleandroxyl, 4″-acyl-4′-(α-l-oleandrosyl)-  -l-oleandroxyl;  the above definitions  being subject to certain provisos.  these compounds are  derivatives of c-076 in which the substituents are certain  aromatic or non-aromatic acyl groups and the monosaccharide  and aglycone of c-076.  the acyl derivatives are prepared  by various procedures depending upon the particular  c-076 compound being substituted.  the mono-saccharide  and aglycone compounds are prepared by acid hydrolysis of  the parent c-076.  the compounds thus produced are used for  their profound anthelmintic, insecticidal, ectoparasiticidal  and acaracidal activity and compositions for such uses are  also disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

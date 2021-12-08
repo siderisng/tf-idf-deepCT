@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013302
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/24 <main>G11C-11/40</main> G11C-11/414 G11C-11/402 G11C-11/41 G11C-11/416 G11C-11/411 H01L-27/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and circuitry for operating an integrated semi-conductor memory.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+heuber klaus<sep>wiedmann siegfried dr<sep>heuber, klaus<sep>wiedmann, siegfried, dr.<sep>heuber, klaustaunusstrasse 62d-7030 böblingende<sep>wiedmann, siegfried, dr.im himmel 64ad-7000 stuttgart 80de<sep>heuber, klaus <sep>wiedmann, siegfried, dr.<sep>heuber, klaustaunusstrasse 62d-7030 böblingende<sep>wiedmann, siegfried, dr.im himmel 64ad-7000 stuttgart 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to readvantage different line capacities, a unloading circuit (DS) common for all memory cells is present, the control signals at the same time with the switching transistors (BLS) is obtained, via which the discharge currents of the conduction capacities are driven on the discharge circuit.The currents performed at the output of the discharge circuit (DS) are derived either ground or a word relief line (WDL) and from there on word line switching transistors (WLS) on the word lines (WL).
+</ABSTRACT>
+</TEXT>
+</DOC>

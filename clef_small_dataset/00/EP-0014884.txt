@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014884
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/04 C02F-1/58 <main>C01C-1/24</main> C01C-1/24 C01C-1/00 C02F-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for working up waste water containing ammonium sulfate.
+</TITLE>
+<APPLICANT>
+bayer antwerpen nvbe<sep>bayer antwerpen n.v. <sep>bayer antwerpen n.v.haven 507, scheldelaan 4202040 antwerpen be  <sep>bayer antwerpen n.v.<sep>
+</APPLICANT>
+<INVENTOR>
+claes ludo dipl-ing<sep>denecker gabriel dr<sep>putseys roland dr<sep>sluyts domien<sep>spott georg dipl-ing<sep>van herck willy dipl-ing<sep>claes, ludo, dipl.-ing.<sep>denecker, gabriel, dr.<sep>putseys, roland, dr.<sep>sluyts, domien<sep>spott, georg, dipl.-ing.<sep>van herck, willy, dipl.-ing.<sep>claes, ludo, dipl.-ing.paulusstraat 50b-2130 brasschaatbe<sep>denecker, gabriel, dr.vinkenlaan 16b-2180 heide-kalmthoutbe<sep>putseys, roland, dr.sparrendreef 3b-2180heide-kalmthoutbe<sep>sluyts, domienelzenlaan 4b-2091 stabroekbe<sep>spott, georg, dipl.-ing.ratherstrasse 75d-4150 krefeldde<sep>van herck, willy, dipl.-ing.jacobuslei 108b-2130 brasschaatbe<sep>claes, ludo, dipl.-ing.<sep>denecker, gabriel, dr.<sep>putseys, roland, dr.<sep>sluyts, domien<sep>spott, georg, dipl.-ing.<sep>van herck, willy, dipl.-ing.<sep>claes, ludo, dipl.-ing.paulusstraat 50 b-2130 brasschaat be  <sep>denecker, gabriel, dr.vinkenlaan 16b-2180 heide-kalmthoutbe<sep>putseys, roland, dr.sparrendreef 3b-2180heide-kalmthoutbe<sep>sluyts, domienelzenlaan 4b-2091 stabroekbe<sep>spott, georg, dipl.-ing.ratherstrasse 75d-4150 krefeldde<sep>van herck, willy, dipl.-ing.jacobuslei 108b-2130 brasschaatbe<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for working with organic compounds and gene ammonium nitrate contaminated ammonium sulfa-tantal wastewater, in which these wastewater is optionally concentrated in a plurality of stages under separation of crystalline ammonium sulfate, which subored the remainder of the mother liquor of a vacuum cooling crystallization, the resulting ammonium sulfate separatedand preferably returned to the evaporation crystallization and the solution is then treated with ammonia and the crystallizing ammonium sulfate is separated.
+</ABSTRACT>
+</TEXT>
+</DOC>

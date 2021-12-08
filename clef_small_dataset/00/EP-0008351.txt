@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008351
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01D-11/26 G01L-19/06 G01L-7/04 G01L-7/02 <main>G01L-19/14</main> G01L-19/00 G01L-19/14 G01D-11/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluid-filled pressure transducer.
+</TITLE>
+<APPLICANT>
+wiegand gmbh & co alexanderde<sep>alexander±wiegand gmbh & co. armaturen- und manometerfabrik<sep>alexander wiegand gmbh &amp; co. armaturen- und manometerfabrikd-63911 klingenbergde<sep>alexander wiegand gmbh & co. armaturen- und manometerfabrik<sep>
+</APPLICANT>
+<INVENTOR>
+berninger helmut<sep>berninger, helmut<sep>berninger, helmutlauterhofstrasse 11d-8751 eisenbachde<sep>berninger, helmut<sep>berninger, helmutlauterhofstrasse 11d-8751 eisenbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+in a liquid-filled pressure measuring apparatus with a piercing housing in which a measuring member is located, the interior of which is acted upon with the pressure to be measured, is on the front side of the housing a rigid viewing disc, on the inside of which a transparent compliant membrane is arranged at a distance,which completes the interior of the housing fluid-tight and deflected in temperature-related volume controls of the liquid filling.The room between the diaphragm and the viewer is vented outwards.The transparent membrane ensures pressure from the interior of the housing, while the stapply looks to the pressure gauge protects the pressure measuring device on its front of damage.
+</ABSTRACT>
+</TEXT>
+</DOC>

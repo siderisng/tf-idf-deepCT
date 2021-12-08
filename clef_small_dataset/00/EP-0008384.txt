@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008384
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60H-1/22 <main>B60H-1/00</main> G05D-23/20 B60H-1/00 F01P-11/20 G05D-23/24 F01P-11/14 B61D-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heating and ventilating device for short distance transport vehicles with electric traction.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+choschzick joachim<sep>rapp karl<sep>choschzick, joachim<sep>rapp, karl<sep>choschzick, joachimrenesstrasse 21d-8520 erlangende<sep>rapp, karlfriedrich-bauer-strasse 20d-8520 erlangende<sep>choschzick, joachim<sep>rapp, karl<sep>choschzick, joachimrenesstrasse 21d-8520 erlangende<sep>rapp, karlfriedrich-bauer-strasse 20d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a heating and ventilating system for an electric vehicle (1) which has an air channel (2) leading to the passenger compartment and an opening (6) leading from the passenger compartment to the ambient atmosphere, wherein the air channel (2) is provided with a fan (3) and an air heater formed by a secondary heat exchanger (32) connected to a primary heat exchanger (35) for the input of heating energy via a pipeline (33) comprising a circulating pump (34), the liquid heat carrier of which primary heat exchanger can be controlled by regulation of its circulation in order to influence the temperature in the vehicle interior, characterized in that when used for short-distance vehicles, the primary heat exchanger (35) is arranged in a cooling channel (36) for the air cooling of electrical devices (37) the heat exchanger is intermittently connected and disconnected with a pulse duty factor that is varied by a control device (9) in dependence upon the internal and external temperature, and a heat store (8) is provided to stabilise resultant temperature fluctuations of the air blown into the vehicle. 
+</ABSTRACT>
+</TEXT>
+</DOC>

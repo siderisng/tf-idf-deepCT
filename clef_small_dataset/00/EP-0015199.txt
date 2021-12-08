@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015199
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F41G-3/00 G01S-5/16 G01S-5/00 G01S-3/78 G01S-3/784 F41G-3/22 <main>G01S-3/78</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optoelectric device for localising a radiating source and direction locating system comprising such devices.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+reymond jean-claude<sep>trocellier roger<sep>reymond, jean-claude<sep>trocellier, roger<sep>reymond, jean-claude"thomson-csf"-scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>trocellier, roger"thomson-csf"-scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>reymond, jean-claude <sep>trocellier, roger  <sep>reymond, jean-claude"thomson-csf"-scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>trocellier, roger"thomson-csf"-scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Device for angularly locating a light source and identify a direction defined by a plurality of sources.It comprises a housing (1) with an optical cache (2) provided with circular transparent areas (4) so that the omnidirectional radiation transmitted by an appendix source (S1) is internal to a cone, and in a parallel planeThe cache, detective bars (5, 6, 7, 8) for determining the projected center (011) corresponding to the angular direction (Δ, θ) of the source.The invention applies in particular to headphone viewing systems.
+</ABSTRACT>
+</TEXT>
+</DOC>

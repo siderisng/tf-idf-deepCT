@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000893
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-251/70 <main>C07D-251/18</main> C07D-251/52 C07D-251/50 C08G-18/79 C07D-251/00 C08G-18/80 C07D-251/18 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of polyisocyanates and their use.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+grogler gerhard dr<sep>meyborg holger dr<sep>grogler, gerhard, dr.<sep>meyborg, holger, dr.<sep>grögler, gerhard, dr.von-diergardt-strasse 46d-5090 leverkusende<sep>meyborg, holger, dr.bergstrasse 92d-5068 odenthal-gloebuschde<sep>grogler, gerhard, dr.<sep>meyborg, holger, dr.<sep>grögler, gerhard, dr.von-diergardt-strasse 46d-5090 leverkusende<sep>meyborg, holger, dr.bergstrasse 92d-5068 odenthal-gloebuschde<sep>
+</INVENTOR>
+<ABSTRACT>
+S-TRIAZIN ring having polyisocyanates of the formula in which X is for a radical, as obtained by removal of the higher-reactive isocyanate group from an organic diisocyanate of the formula OCN-X-NCO with isocyanate groups of different reactivity in the sense of the isocyanate addition reaction,and Y for a chlorine, bromine, C₁-C₈-alkyl, C₁-C₈-alkoxy, C₆-C₁₀ aryl, C₆-C₁₀ aroxy radical or a remainder of the formula -NH-Co-NHX-CNO is a process for their preparation by reacting S-triazine polyamines having diisocyanates which have isocyanate groups of different reactivity, as well as the use of the new compounds as embarrassable fillers in the production of polyurethane imsves.
+</ABSTRACT>
+</TEXT>
+</DOC>

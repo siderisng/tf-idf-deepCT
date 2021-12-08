@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0016821
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-27/04 G11C-27/00 G11C-19/00 G11C-19/36 G11C-11/34 <main>G11C-19/28</main> G11C-7/06 G11C-19/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data storage system for storing multilevel signals.
+</TITLE>
+<APPLICANT>
+ncr corpus<sep>ncr corporation<sep>ncr corporation<sep>
+</APPLICANT>
+<INVENTOR>
+ward william pearson<sep>ward, william pearson<sep>ward, william pearson  <sep>ward, william pearson9330 sea turtle manorplantation, fl 33324us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

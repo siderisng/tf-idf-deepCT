@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008400
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09F-9/00 G02F-1/1335 G02F-1/13357 G02F-1/13 <main>G02F-1/133</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+display device comprising a liquid crystal cell and method of operating such a display device.
+</TITLE>
+<APPLICANT>
+fraunhofer ges forschung de  <sep>siemens agde<sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.<sep>siemens aktiengesellschaft berlin und munchen<sep>fraunhofer-gesellschaft zur förderung der angewandten forschung e.v.leonrodstrasse 5480636 münchende<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+baur gunther dr dipl-phys<sep>kruger hans dipl-phys<sep>windscheid fritz<sep>wittwer volker dr dipl-phys<sep>baur, gunther, dr., dipl.-phys.<sep>kruger, hans, dipl.-phys.<sep>windscheid, fritz<sep>wittwer, volker, dr., dipl.-phys.<sep>baur, günther, dr., dipl.-phys.waldhofstrasse 8dd-7800 freiburgde<sep>krüger, hans, dipl.-phys.peralohstrasse 13d-8000 münchen 83de<sep>windscheid, fritzetzmattenstrasse 24d-7800 freiburg 33de<sep>wittwer, volker, dr., dipl.-phys.kammertalstrasse 15d-7800 freiburg 33de<sep>baur, gunther, dr., dipl.-phys.<sep>kruger, hans, dipl.-phys.<sep>windscheid, fritz<sep>wittwer, volker, dr., dipl.-phys.<sep>baur, günther, dr., dipl.-phys.waldhofstrasse 8dd-7800 freiburgde  <sep>krüger, hans, dipl.-phys. peralohstrasse 13d-8000 münchen 83de<sep>windscheid, fritzetzmattenstrasse 24d-7800 freiburg 33de<sep>wittwer, volker, dr., dipl.-phys.kammertalstrasse 15d-7800 freiburg 33de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a display in which a liquid crystal-based light valve (3) is in optical contact with one of the image brightening serving fluorescent plate (2). In order to achieve sufficient optical contrast in this display device in the so-called "absorbent drive", the following construction is proposed according to the invention: the display is pulled backwards from a contrast filter (4) and a reflector (5) behind the filter; The contrast filter (4) is such that it allows the excitation light to pass for the fluorescent material of the fluorescence plate, the remaining proportions of the surrounding light, however. Such a display has a sufficient color contrast and an improved brightness conassae, since the reflector (5) extends the distance for the excitation light in the fluorescent plate and thus increases the useful fluorescent light. The proposed display device also provides a parallax reisuit image in "light-light operation" and can also be used in less favorable lighting ratios.
+</ABSTRACT>
+</TEXT>
+</DOC>

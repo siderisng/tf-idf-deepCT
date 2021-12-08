@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015076
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16G-13/06 F16H-7/00 <main>F16H-7/06</main> F16H-7/06 F16G-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+chain and sprocket transmissions.
+</TITLE>
+<APPLICANT>
+honda motor co ltdjp<sep>honda giken kogyo kabushiki kaisha<sep>honda giken kogyo kabushiki kaisha27-8, jingumae, 6-chomeshibuya-ku, tokyo 150jp<sep>honda giken kogyo kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+hashimoto yuji<sep>kawashima yoshinori<sep>hashimoto, yuji<sep>kawashima, yoshinori<sep>hashimoto, yuji4-33-2, tagaranerima-ku tokyojp<sep>kawashima, yoshinori6-18, moto-chosakado-shi saitamajp<sep>hashimoto, yuji  <sep>kawashima, yoshinori <sep>hashimoto, yuji4-33-2, tagaranerima-ku tokyojp<sep>kawashima, yoshinori6-18, moto-chosakado-shi saitamajp<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed is a chain (20) and sprocket (26,27) transmis­ sion in which an endless chain (20) composed of alternate  inner links (c) and outer links (d) runs around a drive sprocket  (26) and a driven sprocket (27).  to uniformize and reduce the  amount of wear and heat occurring, during running, at each  link-to-link connection, each inner link is made longer (pi)  than, and each outer link is made shorter (ps) than, the tooth  pitch (po) of the sprocket teeth.  
+</ABSTRACT>
+</TEXT>
+</DOC>

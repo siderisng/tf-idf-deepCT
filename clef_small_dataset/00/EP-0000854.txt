@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000854
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09B-7/00 G09B-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+teaching machine.
+</TITLE>
+<APPLICANT>
+lignes aeriennes interieures afr<sep>lignes aeriennes interieures "air inter" <sep>lignes aeriennes interieures "air inter"1 avenue du maréchal devauxf-91550 paray-vieille-poste fr  <sep>
+</APPLICANT>
+<INVENTOR>
+cabanis alain marcel leonfr<sep>cabanis, alain marcel leon<sep>cabanis, alain marcel léon11 rue d'athisf-91380 chilly-mazarinfr<sep>
+</INVENTOR>
+<ABSTRACT>
+teaching machine with at least one device for reading separate texts recorded on a recording medium and provided with manual control units.  in the event of an incorrect response, the machine includes at least one subroutine able to run automatically and cause a return to the main program at the question posed, the subroutine being skipped in the event of a correct response.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

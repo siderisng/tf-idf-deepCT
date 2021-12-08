@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016887
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61L-2/00 A61L-2/24 <main>A61L-2/20</main> A61L-2/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas sterilization method and apparatus.
+</TITLE>
+<APPLICANT>
+american sterilizer cous<sep>american sterilizer company<sep>american sterilizer company2424 west 23rd streeterie, pennsylvania 16512us<sep>american sterilizer company  <sep>
+</APPLICANT>
+<INVENTOR>
+baran walter john<sep>baran, walter john<sep>baran, walter john312 maryland avenueerie pennsylvania 16505us<sep>baran, walter john<sep>baran, walter john312 maryland avenueerie pennsylvania 16505us<sep>
+</INVENTOR>
+<ABSTRACT>
+goods are heated and moistened prior to addition of the  sterilizing gas utilizing repressurization after initial evacuation  to provide drive power for the conditioning vapour and improve  conditioning efficiency.  after initial evacuation to a selected  subatmospheric pressure of 8 × 10³ pa level, the sterilizing  chamber is repressurized with a conditioning vapour (steam)  to a subatmospheric pressure level of 12 × 10³ pa correspond­ ing approximately to desired sterilizing temperature, then the  chamber is held with evacuating and vapour injecting interrupt­ ed for a predetermined interval; this sequence of steps is re­ peated a selected number of times; and conditioning to vari­ ous sterilizing temperatures is available.  initial evacuation can  be accompanied by intermittent injection of conditioning va­ pour.  no chamber measurement of temperature or relative hu­ midity is required for conditioning control and conditioning va­ pour injection is free of flow rate control requirements.  
+</ABSTRACT>
+</TEXT>
+</DOC>

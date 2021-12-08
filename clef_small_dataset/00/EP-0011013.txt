@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011013
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/14 H05K-3/36 H01L-23/495 H01L-23/48 H01L-23/13 H01L-23/522 H01L-21/768 H01L-21/48 H01L-23/12 <main>H01L-21/48</main> H01L-21/02 H05K-3/34 H01L-23/52 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process of making devices comprising calibrated metallic spheres and electrocatalytic writing device.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+val christian<sep>val, christian<sep>val, christian"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>val, christian<sep>val, christian"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process of manufacturing devices comprising calibrated metallic bosses (5) on a carrier foil (1), characterized in that it comprises the steps of forming, in a plastic foil (1), windows (3) having predetermined dimensions, in the zones in which said bosses are to be located, gluing onto one of the surfaces of the carrier foil (1) a metallic foil (2), depositing a welding material (4) in that zones of said metallic foil which seal said windows, then placing into said windows calibrated balls (5) made of a deformable metal, said balls protruding from the other surface of the carrier foil so as to form said calibrated bosses, then heating the assembly to the welding temperature for fixing the balls on the conducting foil by means of the welding material, and, after welding, pressing at low temperature the assembly between two rigid plates for shaping by plastic deformation coplanar flattened portions at the apices of said balls. 
+</ABSTRACT>
+</TEXT>
+</DOC>

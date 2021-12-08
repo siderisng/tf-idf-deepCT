@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014181
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-498/00 A61K-31/395 C07D-498/18 <main>C12P-17/18</main> C12P-17/18 C07D-498/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compounds with antibiotic activity, their manufacture by fermentation and pharmaceutical preparations containing them.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag  <sep>
+</APPLICANT>
+<INVENTOR>
+nuesch jakob prof dr<sep>schupp thomas dr<sep>traxler peter dr<sep>nuesch, jakob, prof. dr.<sep>schupp, thomas, dr.<sep>traxler, peter, dr.<sep>nüesch, jakob, prof. dr.im lee 26ch-4144 arlesheimch<sep>schupp, thomas, dr.kurzrüttistrasse 11ch-4313 möhlinch<sep>traxler, peter, dr.gartenstrasse 24ch-4123 allschwilch<sep>nuesch, jakob, prof. dr.<sep>schupp, thomas, dr.<sep>traxler, peter, dr.<sep>nüesch, jakob, prof. dr.im lee 26ch-4144 arlesheimch<sep>schupp, thomas, dr.kurzrüttistrasse 11ch-4313 möhlinch<sep>traxler, peter, dr.gartenstrasse 24ch-4123 allschwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+New antibiotically effective compounds with the basic structure of rifamycin S, namely 3-hydroxyrif amycin-S (formula A: x = c = o; R¹ = OH; R² = H), 3,31-dihydroxyrifamycin-S (formula A:X = C = O; R¹ = R² = OH) and 1-deoxy-1-oxarifamycin-S (formula A: X = -O-; R¹ = R² = H) result from breeding under aerobic conditions of a tribe of Nocardia Mediterraneanwho derives from Streptomyces Mediterranean ATCC 13 685 as a base master and characterized by the ability to produce at least one of the compounds mentioned.As such, the recombinant strain Nocar Dia Mediterranean DSM 1415 has proven itself.The mentioned Rifamy Cin-S-analogs have analog antibiotic properties like this, but have a broader active spectrum, especially against gram-negative bacterine.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017248
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-13/06 C08G-18/64 C09D-3/49 C09D-5/40 C09D-5/44 C08G-18/80 C08G-18/08 <main>C08G-59/18</main> C08L-63/00 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+self-crosslinking cationic binders and process for their preparation.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kempter fritz erdmann dr<sep>schupp eberhard dr<sep>kempter, fritz erdmann, dr.<sep>schupp, eberhard, dr.<sep>kempter, fritz erdmann, dr.l 2,14d-6800 mannheimde<sep>schupp, eberhard, dr.tilsiter weg 4d-6830 schwetzingende<sep>kempter, fritz erdmann, dr.<sep>schupp, eberhard, dr.<sep>kempter, fritz erdmann, dr.l 2,14d-6800 mannheimde<sep>schupp, eberhard, dr.tilsiter weg 4d-6830 schwetzingende<sep>
+</INVENTOR>
+<ABSTRACT>
+These binders are reaction products of (a) addition products from ammonia or diamines and epoxide compounds with (b) partial or solid blocked di- or polyisocyanates, and optionally (C) di- or polyamines, wherein the amino-β-hydroxyalkyl groups of the component (A)Preferably, prior to their reaction with component (B) with a carbonyl compound, preferably one aldehyde, have been reacted to form an oxazolidine ring, and the reaction products are finally protonated with acid.These binders are used for the cathodic electro diving coating metallic conductive objects ver.
+</ABSTRACT>
+</TEXT>
+</DOC>

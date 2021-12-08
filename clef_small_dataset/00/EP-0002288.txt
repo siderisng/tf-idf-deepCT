@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002288
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-323/62 A01N-20060101S B01J-31/00 B01J-31/08 A01N-37/34 C07C-255/53 C07C-319/00 C07C-67/00 C07B-61/00 B01J-31/06 <main>C07C-121/75</main> B01J-31/02 C07C-255/38 C07C-319/20 C07C-253/00 C07C-255/00 C07C-313/00 C07C-121/66 C07C-323/00 C07C-149/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of alpha-cyanobenzyl esters.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+reinink arend<sep>sheldon roger arthur<sep>reinink, arend<sep>sheldon, roger arthur<sep>reinink, arendbadhuisweg 3nl-1031 cm amsterdamnl<sep>sheldon, roger arthurbadhuisweg 3nl-1031 cm amsterdamnl<sep>reinink, arend<sep>sheldon, roger arthur<sep>reinink, arendbadhuisweg 3nl-1031 cm amsterdamnl<sep>sheldon, roger arthurbadhuisweg 3nl-1031 cm amsterdamnl<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the preparation of an ester of the general  formula:    wherein r represents an optionally-substituted hydrocarbyl  group and a represents a hydrogen atom, or a phenoxy,  phenylthio or benzyl group by reating a benzaldehyde of the  general formula:    with an acid anhydride of the general formula:    wherein r had the same meaning as in formula i, in the  presence of water and a water-soluble cyanide.  
+</ABSTRACT>
+</TEXT>
+</DOC>

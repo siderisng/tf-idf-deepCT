@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008027
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G09F-3/10</main> B65C-11/00 G09F-3/02 B65C-11/02 G09F-3/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+self-adhesive label strip.
+</TITLE>
+<APPLICANT>
+esselte pendaflex corpus<sep>esselte pendaflex corporation<sep>esselte pendaflex corporation71, clinton roadgarden city new york 11530us<sep>esselte pendaflex corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+wippern gerhard<sep>wippern, gerhard<sep>wippern, gerhardodenwaldstrasse 2d-6932 hirschhorn/neckarde<sep>wippern, gerhard<sep>wippern, gerhardodenwaldstrasse 2d-6932 hirschhorn/neckarde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a label strip with self-adhesive labels which are separate from each other and which easily removably adhere in series to a continuous carrier strip, for label printing and dispensing apparatuses which are provided with a pull-off device for stepwise feed of the labels, characterized in that disposed below the carrier strip (1) is a continuous backing strip (3) which is joined to the carrier strip (1) or the self-adhesive labels (2) with such an adhesive force that either only the backing strip (3) or the backing strip (3) together with the carrier strip (1) can be pulled off by the pull-off device. 
+</ABSTRACT>
+</TEXT>
+</DOC>

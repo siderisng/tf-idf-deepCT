@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008522
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/16 <main>G01L-1/22</main> G01L-1/20 G01L-1/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thin film strain gage and method of manufacture therefor.
+</TITLE>
+<APPLICANT>
+gould incus<sep>gould inc.<sep>gould inc.10 gould centerrolling meadows, il 60008us<sep>gould inc. <sep>
+</APPLICANT>
+<INVENTOR>
+bolker barry f t<sep>tisone thomas c<sep>bolker, barry f.t.<sep>tisone, thomas c.<sep>bolker, barry f.t.3350 sunset laneoxnard, california 93030us<sep>tisone, thomas c.989 calle los trancasthousand oaks, california 91360us<sep>bolker, barry f.t. <sep>tisone, thomas c.  <sep>bolker, barry f.t.3350 sunset laneoxnard, california 93030us<sep>tisone, thomas c.989 calle los trancasthousand oaks, california 91360us<sep>
+</INVENTOR>
+<ABSTRACT>
+a strain gage comprising a flexure beam (11) has depo­ sited thereon a dielectric layer (16) on which is formed a  pattern of thin film resistors (17) which alter their value in  response to flexing of the beam.  the resistors are covered by  a passivation dielectric layer (18).  in accordance with the  invention, the dielectric layer(s) (16, 18) are deposited in such  a manner that they are normally in a state of compressive  stress so as to reduce the likelihood of cracking and failure.   the layer(s) (16, 18) are preferably deposited by sputtering.  
+</ABSTRACT>
+</TEXT>
+</DOC>

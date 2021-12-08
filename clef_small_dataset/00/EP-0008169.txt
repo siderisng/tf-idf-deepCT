@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008169
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10G-35/00 C10G-9/00 C10G-9/32 C10G-9/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydrocarbon processing.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>
+</APPLICANT>
+<INVENTOR>
+brown david johngb<sep>gough arthur us <sep>stephens anthony davidgb<sep>brown, david john<sep>gough, arthur<sep>stephens, anthony david<sep>brown, david john37 church viewbrompton, northallerton north yorkshiregb<sep>gough, arthur corpus christi petrochemical co.2500 pennzoil place north tower700 milam houston, texasus<sep>stephens, anthony david58 riversdenestokesley, middlesbrough clevelandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+pyrolysis of a hydrocarbon feedstock, for example  naphtha, is carried out by subjecting the feedstock to ele­ vated temperature during passage through a reaction cham­ ber, which is for example one or more tubes arranged hori­ zontally or vertically such as a cracking coil.  the reaction  chamber is disposed within a fluidised bed of hot inert  particles which are heated by firing a solid, liquid or gaseous  fuel.  a heavy fuel oil, for example pyrolysis fuel oil, is the  preferred fuel.  
+</ABSTRACT>
+</TEXT>
+</DOC>

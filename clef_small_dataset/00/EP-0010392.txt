@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010392
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-295/088 C07D-295/205 C07D-295/00 A61K-31/495 C07D-311/00 C07D-311/54 C07D-311/56 <main>C07D-405/06</main> C07D-405/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heterocyclic coumarin derivatives, their preparation and pharmaceutical compositions comprising said derivatives.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+buckle derek richard<sep>smith harry<sep>buckle, derek richard<sep>smith, harry<sep>buckle, derek richard18 hillfield roadredhill, surreygb<sep>smith, harrythornthwaite cottage copsale roadmaplehurst nr. horsham, surreygb<sep>buckle, derek richard<sep>smith, harry<sep>buckle, derek richard18 hillfield roadredhill, surreygb<sep>smith, harrythornthwaite cottage copsale roadmaplehurst nr. horsham, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a compound of formula (i):    and pharmaceutically acceptable salts thereof, wherein r is  hydrogen or an alkyl group containing up to 6 carbon atoms;  x is a bond or oxygen; y is -(ch₂)n-where n is 0 or an integer  from 1 to 5 wherein one carbon atom not bound to the nit­ rogen atom may be optionally substituted with a hydroxy  group; and z is hydrogen or halogen; e. g 1-(4-chlorobenzyl)  -4-[3-(4-hydroxy3-nitro-coumarin-7-yloxy) propyl]  piperazine; may be used in the prophylaxis and treatment of  diseases whose symptoms are controlled by the mediators of  the allergic response, for example asthma, hay-fever, rhinitis  and allergic eczema.  a compound of formula (i) is prepared by reacting a  compound of formula (ii) or a salt thereof    wherein r, x, y, and z are defined with respect to formula (i)  with a nitrating agent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

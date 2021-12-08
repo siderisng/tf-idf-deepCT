@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003526
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B29F-3/08</main> B29C-47/88 H01B-13/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for coating a conducting wire.
+</TITLE>
+<APPLICANT>
+kabel & lackdrahtfab gmbhde <sep>kabel- und lackdrahtfabriken gmbh <sep>kabel- und lackdrahtfabriken gmbhcasterfeldstrasse 62-64d-68199 mannheimde<sep>kabel- und lackdrahtfabriken gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+kotz walter<sep>schmitz dieter<sep>kotz, walter<sep>schmitz, dieter<sep>kötz, waltergermaniastrabe 1d-6831 brühlde<sep>schmitz, dieterwildbannstrabe 8d-6806 viernheimde<sep>kotz, walter<sep>schmitz, dieter <sep>kötz, walter germaniastrabe 1 d-6831 brühlde<sep>schmitz, dieterwildbannstrabe 8d-6806 viernheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  apparatus for sheathing an electrical conductor strand (13) with an insulation (14), the apparatus being equiped with an extruder (12), a vulcanising unit (1) and a cooling unit (5) located between the two, characterized in that the cooling unit (5) is connected in a fluid-tight manner to the vulcanising unit (1) by means of a sealing arrangement associated with the latter, and is constructed as a coolant vessel onto which spray-heads (10) can act and into which a downwardly inclined slide chute (8) clips. 
+</ABSTRACT>
+</TEXT>
+</DOC>

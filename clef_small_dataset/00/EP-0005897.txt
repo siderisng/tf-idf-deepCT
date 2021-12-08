@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005897
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-21/10 G01N-15/02 G02B-27/42 G02B-21/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diffractometer and method of detecting a light-diffracting specimen.
+</TITLE>
+<APPLICANT>
+vickers ltd gb <sep>vickers limited<sep>vickers limitedp.o. box 177 vickers house millbank towerlondon sw1p 4hagb<sep>
+</APPLICANT>
+<INVENTOR>
+gale richard williamgb<sep>smith francis hughesgb<sep>gale, richard william<sep>smith, francis hughes<sep>gale, richard william31 middlecave roadmalton yorkshiregb<sep>smith, francis hughes5 st. james' mount albemarle roadyorkgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a diffractometer comprising means for illuminating a  specimen plane and a lens for converging rays diffracted  from the specimen plane.  in order that an existing optical  apparatus may readily be adapted for use as a diffractometer,  the illuminating means (12a, 12b, 13, 14) are arranged  to illuminate the specimen plane (o-o′) at an acute angle,  and a positive lens (15) having its principal axis normal to the  specimen plane (o-o′) is arranged to converge rays diffracted  normally from the specimen plane.  the invention is  particularly applicable to converting microscopes for use as  diffractometers, which then are suitable for use in monitoring  respirable air-borne fibres.  method of detecting a light-diffracting specimen using  this diffractometer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

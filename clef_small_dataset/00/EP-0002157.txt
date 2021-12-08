@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002157
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F04D-29/16</main> F04D-29/46 F04D-29/22 F04D-29/18 F04D-29/08 F04D-29/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pump.
+</TITLE>
+<APPLICANT>
+air liquidefr<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude75, quai d'orsayf-75321 paris cédex 07fr<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude<sep>
+</APPLICANT>
+<INVENTOR>
+berthereau gilbert<sep>villard jean-claude<sep>berthereau, gilbert<sep>villard, jean-claude<sep>berthereau, gilbert24, rue ronsartf-38320 eybensfr<sep>villard, jean-claudeavenue de la républiquef-38130 echirollesfr<sep>berthereau, gilbert  <sep>villard, jean-claude<sep>berthereau, gilbert24, rue ronsartf-38320 eybensfr<sep>villard, jean-claudeavenue de la républiquef-38130 echirollesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to the realization of the internal sealing and the shaft outlet of a pump.On either side of a blade wheel 5 is formed a couple of coaxial discs (22-23) and (24-25), the face of a disc being smooth and the face of the other disk havingSpiral grooves, one of the discs of each torque being integral in rotation of the wheel 5, the whole so that the liquid between two disks shall undergo a radially outward pressure increase compensating at least the pressure increase due to the pressure.Pumping by the wheel 5. Application especially to cryogenic liquid pumps.
+</ABSTRACT>
+</TEXT>
+</DOC>

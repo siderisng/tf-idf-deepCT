@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015797
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-1/20 H04N-7/10 <main>H04N-5/44</main> H04N-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+selectively variable audio-video interconnection system.
+</TITLE>
+<APPLICANT>
+scartfr <sep>syndicat des constructeurs d'appareils radio recepteurs et televiseurs( s c a r t) syndicat professionnel francais<sep>syndicat des industries de materiels audiovisuels electroniques (s.i.m.a.v.e.l.e.c.) 11, rue hamelin f-75783 paris cedex 16 fr<sep>simavelec synd ind mat vis elect<sep>
+</APPLICANT>
+<INVENTOR>
+bourassin lucien<sep>condat bernard<sep>fortin jacques<sep>leger alain montgilet<sep>solvinto jean-claude<sep>soto joseph<sep>bourassin, lucien<sep>condat, bernard<sep>fortin, jacques<sep>leger, alain montgilet<sep>solvinto, jean-claude<sep>soto, joseph<sep>bourassin, lucien17 rue armengaudf-92210 saint cloudfr<sep>condat, bernard6 place alix la membrollef-49220 le lion d'angersfr<sep>fortin, jacques9 rue racinef-91600 savigny sur orgefr<sep>leger, alain montgiletf-49820 juigne sur loirefr<sep>solvinto, jean-claude123 rue de saint-cloudf-92000 nanterrefr<sep>soto, joseph212 avenue max dormoyf-92120 montrougefr<sep>bourassin, lucien<sep>condat, bernard<sep>fortin, jacques<sep>leger, alain montgilet<sep>solvinto, jean-claude<sep>soto, joseph<sep>bourassin, lucien17 rue armengaud f-92210 saint cloudfr<sep>condat, bernard 6 place alix la membrolle f-49220 le lion d'angers fr<sep>fortin, jacques9 rue racinef-91600 savigny sur orgefr<sep>leger, alain montgiletf-49820 juigne sur loirefr<sep>solvinto, jean-claude123 rue de saint-cloudf-92000 nanterrefr<sep>soto, joseph212 avenue max dormoyf-92120 montrougefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Dynamic audio video interconnection system for connecting at least one TV and several peripheral apps.The system S is constantly connected to a TV TV and peripherals P1, P2, P5, P23, P26.By a CT remote control keypad, the user sends interconnect orders that are managed by a micro-pro MP cessor to operate electronic switches that perform the desired interconnection.Application to complex domestic audio-visual installations.
+</ABSTRACT>
+</TEXT>
+</DOC>

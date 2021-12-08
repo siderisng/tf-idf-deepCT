@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016513
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-35/00 C07C-49/80 C07C-205/00 C07C-255/32 A01N-29/10 C07C-67/11 <main>C07C-69/743</main> C07C-69/747 C07C-63/00 A01N-31/00 C07C-255/55 C07C-67/03 C07C-45/00 A01N-37/10 C07C-25/13 A01N-31/04 C07C-49/807 A01N-35/04 C07C-17/26 C07C-67/14 C07C-63/70 C07C-201/00 A01N-37/34 C07C-17/00 C07C-255/53 C07C-67/10 C07C-67/00 A01N-53/06 C07C-51/15 C07C-67/08 C07C-205/42 C07C-121/52 A01N-53/00 C07C-17/14 C07C-255/50 C07C-255/49 A01N-37/38 C07C-253/00 C07C-61/40 C07C-49/00 C07C-255/00 C07C-49/82 C07C-69/78 C07C-69/743 A01N-29/00 C07C-69/76 C07C-79/22 C07C-25/00 A01N-37/36 C07C-205/12 C07C-69/00 C07C-61/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+esters of halogenated substituted cyclopropanoic acids, their preparation and use as insecticides.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+bentley philip david<sep>punja nazim<sep>bentley, philip david<sep>punja, nazim<sep>bentley, philip david32 buckden roadwoodley reading, berkshiregb<sep>punja, nazimdunster house 24 wiltshire avenuecrowthorne berkshiregb<sep>bentley, philip david<sep>punja, nazim<sep>bentley, philip david32 buckden roadwoodley reading, berkshiregb<sep>punja, nazimdunster house 24 wiltshire avenuecrowthorne berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of formula i wherein r¹ and r² are each  selected from halomethyl and halo and r is nitro, cyano, lower  alkoxycarbonyl, lower alkylcarbonyl, or di-or trifluoromethyl,  and n has a value of zero to four, and compositions compris­ ing them are useful as insecticides in agriculture, horticulture  and other outlets.  they may optionally be combined with  other pesticides and/or synergists.  the compounds may be  prepared by conventional esterification processes from the  corresponding acids and appropriately substituted benzyl  alcohols or halides, some of which are novel.   
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003700
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16L-55/04</main> F17D-1/00 F17D-1/20 F16L-55/04 F16L-55/052 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+desurging tank with automatic air control.
+</TITLE>
+<APPLICANT>
+roche emile <sep>roche, emile <sep>roche, emile20, rue de la côte-d'azurf-67100 strasbourgfr<sep>roche, emile<sep>
+</APPLICANT>
+<INVENTOR>
+roche emile<sep>roche, emile<sep>roche, emile20, rue de la côte-d'azurf-67100 strasbourgfr<sep>roche, emile  <sep>roche, emile20, rue de la côte-d'azurf-67100 strasbourgfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a surge fluid damping tank designed to be installed on a liquid conduct and provided at its upper part with a valve (4) connected with the atmosphere, admitting air into the tank when said tank is under negative pressure, characterized by the fact that the tank is provided with a dip tube (3) inside which the valve (4) is placed and through which said valve communicates with the inside of the tank, the closure of the valve (4) being controlled by the thrust of the liquid in the tube (3). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016594
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07J-51/00 C07G-7/00 G01N-33/74 <main>C07J-51/00</main> G01N-33/531 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+steroidal phosphonothioate compounds, process for preparing them, compositions containing said compounds, process for preparing said compositions, method of producing an antiserum and method of radioimmunoassay.
+</TITLE>
+<APPLICANT>
+commw scient ind res orgau<sep>commonwealth scientific and industrial research organization<sep>commonwealth scientific and industrial research organisationlimestone avenue campbell, australian capital territory 2601 au <sep>commonwealth scientific and industrial research organization<sep>
+</APPLICANT>
+<INVENTOR>
+cox ronald ian<sep>hoskinson ronald milton<sep>wong michael su fah<sep>cox, ronald ian<sep>hoskinson, ronald milton<sep>wong, michael su fah<sep>cox, ronald ian14 park avenuebeecroft new south walesau<sep>hoskinson, ronald milton26 carcolla crescentnormanhurst new south walesau<sep>wong, michael su fah37 devon streetnorth epping new south walesau<sep>cox, ronald ian<sep>hoskinson, ronald milton  <sep>wong, michael su fah <sep>cox, ronald ian14 park avenuebeecroft new south walesau<sep>hoskinson, ronald milton26 carcolla crescentnormanhurst new south walesau<sep>wong, michael su fah37 devon streetnorth epping new south walesau<sep>
+</INVENTOR>
+<ABSTRACT>
+novel phosphonothioate compounds of the general for­ mula    wherein r₁ is lower alkyl   r₂ is a steroid residue which is linked to the rest of the  molecule through any carbon atom which is not one of the  carbon atoms forming a ring junction, or through a side chain  carbon atom, and   n is 1 to 4,   are disclosed as well as the use of these compounds as  immunogenic haptens.  immunogenic hapten-protein complexes and conjugates  of these phosphonothioate compounds and of steroid phos­ phates are also disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

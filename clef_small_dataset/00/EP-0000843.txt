@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000843
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-27/08 H01J-3/04 H01L-21/265 H01J-27/14 <main>H01J-27/00</main> H01J-27/02 H01L-21/02 H01J-37/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+plasma discharge ion source.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+williams norman<sep>williams, norman<sep>williams, normanr.d. 1, box 28new hope pennsylvania 18938us<sep>williams, norman<sep>williams, normanr.d. 1, box 28new hope pennsylvania 18938us<sep>
+</INVENTOR>
+<ABSTRACT>
+it has been found that the proportions of the various ions  produced by a plasma discharge source depends on the  temperature of the plasma.  in this invention means are provided  increasing the temperature of the plasma.  this is  achieved by an arrangement (18, 34) which provides a containing  field 32 which restrains the passage of electrons from  the plasma to the anode (12), both radially outwards and  axially to the end walls (30).  
+</ABSTRACT>
+</TEXT>
+</DOC>

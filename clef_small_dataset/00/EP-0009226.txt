@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009226
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F03D-3/06 F03D-7/06 F03D-3/00 F03D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+wind motor
+</TITLE>
+<APPLICANT>
+eichholz heinz<sep>eichholz, heinz<sep>eichholz, heinzspeller strasse 31d-4441 schapende<sep>
+</APPLICANT>
+<INVENTOR>
+eichholz heinz<sep>eichholz, heinz<sep>eichholz, heinzspeller strasse 31d-4441 schapende<sep>
+</INVENTOR>
+<ABSTRACT>
+wind motor with at least one blade which revolves around a main spindle and can be rotated at half speed and in the opposite direction of rotation about its own axis, which lies parallel to the main spindle, the axes of rotation being arranged essentially horizontally, the entire apparatus being rotatable about a vertical spindle and the setting of the main spindle relative to the wind being controlled by a wind vane, characterised in that the vertical spindle (1) is arranged eccentrically in relation to the main spindle (4), the angle  alpha  between the spindles (4, 5, 5') and the wind vane (12) can be set by the wind pressure counter to an opposing force and the opposing force is of a size such that, as the wind speed increases, a reduction in the angle  beta  between the direction of the wind and the longitudinal axis of the blade (3) is obtained.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

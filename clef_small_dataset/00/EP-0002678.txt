@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002678
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-249/08 C07D-233/00 C07D-233/60 A01N-43/653 <main>C07D-401/12</main> C07D-249/00 C07D-521/00 A01N-43/50 A01N-43/64 C07D-401/00 A01N-43/48 C07D-401/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+azolylalkyl-pyridinyl ethers, process for their preparation and their use as fungicides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+brandes wilhelm dr <sep>buchel karl heinz prof dr <sep>frohberger paul-ernst dr<sep>kraatz udo dr<sep>paul volker dr<sep>stetter jorg dr<sep>brandes, wilhelm, dr.<sep>buchel, karl heinz, prof. dr.<sep>frohberger, paul-ernst, dr.<sep>kraatz, udo, dr.<sep>paul, volker, dr.<sep>stetter, jorg, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5653 leichlingen 1de<sep>büchel, karl heinz, prof. dr.bergerheide 62d-5600 wuppertal 1de<sep>frohberger, paul-ernst, dr.willi-baumeister-strasse 5d-5090 leverkusen 1de<sep>kraatz, udo, dr.körner strasse 6d-5090 leverkusen 1de<sep>paul, volker, dr.ahornstrasse 5d-5650 solingen 1de<sep>stetter, jörg, dr.pahlkestrassed-5600 wuppertal 1de<sep>brandes, wilhelm, dr.<sep>buchel, karl heinz, prof. dr.<sep>frohberger, paul-ernst, dr.<sep>kraatz, udo, dr.<sep>paul, volker, dr. <sep>stetter, jorg, dr.  <sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5653 leichlingen 1de<sep>büchel, karl heinz, prof. dr.bergerheide 62d-5600 wuppertal 1de<sep>frohberger, paul-ernst, dr.willi-baumeister-strasse 5d-5090 leverkusen 1de<sep>kraatz, udo, dr.körner strasse 6d-5090 leverkusen 1de<sep>paul, volker, dr.ahornstrasse 5d-5650 solingen 1de<sep>stetter, jörg, dr.pahlkestrassed-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to novel azolylalkyl-pyridinyl ether, several methods for their preparation as well as their use as fungicides.The compounds of the formula in which A, R, X, Y and N have the meaning given in the description may, for.b.When azolyl halo ketones are obtained with pyridinols in the presence of an acid binder and optionally in the presence of a diluent.There are other methods in addition.The active compounds according to the invention have a strong fungithoxic effect.They can be used with particularly good success for the fight against real mildew melts, as well as to combat venturia species as well as the fungi pyricularia and pellicularia.
+</ABSTRACT>
+</TEXT>
+</DOC>

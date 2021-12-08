@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005491
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/318 C23C-16/48 <main>C23C-11/08</main> H01L-21/02 C23C-16/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of low temperature silicon nitride films by photochemical vapor deposition.
+</TITLE>
+<APPLICANT>
+hughes aircraft cous<sep>hughes aircraft company<sep>hughes aircraft company7200 hughes terrace, p.o. box 80028los angeles, california 90080-0028us<sep>hughes aircraft company <sep>
+</APPLICANT>
+<INVENTOR>
+hall thomas c<sep>peters john w<sep>hall, thomas c.<sep>peters, john w.<sep>hall, thomas c.19196 sierra isabelle streetirvine californiaus<sep>peters, john w.18219 coastline drivemalibu californiaus<sep>hall, thomas c. <sep>peters, john w.<sep>hall, thomas c.19196 sierra isabelle streetirvine californiaus<sep>peters, john w.18219 coastline drivemalibu californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+low temperature photonitride (ltpn) films of excellent  quality have been prepared at temperatures ranging from  300°c downward to 100°c by a photochemical vapor deposition  process, wherein a mixture of silane, ammonia, and  hydrazine is caused to react to form si₃n₄ films at the  substrate interface.  these films are suitable for the preparation  of silicon nitride passivation layers on solid-state  devices, such as metaloxide semiconductors (mos) and  charge coupled devices to impart enhanced reliability.  
+</ABSTRACT>
+</TEXT>
+</DOC>

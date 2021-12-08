@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008821
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02B-13/02 H02B-11/26 H02B-11/00 <main>H02B-13/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+metal clad switchgear.
+</TITLE>
+<APPLICANT>
+coq bvnl<sep>coq b.v.<sep>coq b.v.no.72, kanaalwegnl-3502 ga utrechtnl<sep>coq b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+boersma rintje<sep>boersma, rintje<sep>boersma, rintjeno. 21, kerkwegharmelennl<sep>boersma, rintje  <sep>boersma, rintje no. 21, kerkwegharmelennl<sep>
+</INVENTOR>
+<ABSTRACT>
+metal clad switchgear, comprising in one of the com­ partments of, or in a separate casing associated with its  envelope a movable voltage measuring transformer (1) which  is adapted to be adjusted in various positions, in one of which  at least one of the high tension terminals (5) of said trans­ former is conntected to a conductor (7, 13) of the switchgear,  in another one of which said terminal may be connected to  earth and in still another one of which said terminal may be  dead.  
+</ABSTRACT>
+</TEXT>
+</DOC>

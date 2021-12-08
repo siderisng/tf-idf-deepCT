@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014461
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21D-7/02 B21D-7/024 B21D-7/025 <main>B21D-9/07</main> B21D-7/06 B21D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for bending metal tubes.
+</TITLE>
+<APPLICANT>
+rothenberger gmbh code<sep>rothenberger gmbh & co. werkzeuge-maschinen kg<sep>rothenberger gmbh &amp; co. werkzeuge-maschinen kgheidelberger strasse 13d-6000 frankfurt/mainde<sep>rothenberger gmbh & co. werkzeuge-maschinen kg<sep>
+</APPLICANT>
+<INVENTOR>
+rothenberger gunter<sep>rothenberger, gunter<sep>rothenberger, günterlandgraf-friedrich-strasse 21d-6380 bad homburg v.d.hde<sep>rothenberger, gunter  <sep>rothenberger, günterlandgraf-friedrich-strasse 21d-6380 bad homburg v.d.hde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a bending device for metal tubes with a cylinder segment (10), on the circumference of which is arranged the bending radius of the tube groove (11). The cylinder segment (10) is associated with an abutment (24) for the tangential holder of the pipe (27) to the groove (11) and a concocious about an axis (14) of the segment (10) pivotable lever (28) on which on one To the segment axis (14) parallel axis (31) a pressure piece (30) is arranged, which can also be referred to as sliding shoe. This pressure piece (30) has a working surface (32), which has a plane of semicircular, concave cross section with the radius RO in a plane extending parallel to the axes (14, 31) of segment (10) and pressure piece (30). While the work surface (32) was formed in the previously known bending devices by a cylindrical surface, to be able to bend pipes from the most varied materials, even from so-called "hard" metals with the smallest possible bending radius, according to the invention, the pressure piece ( 30) in a plane perpendicular to the axes (14, 31) of segment (10) and pressure piece (30) extending plane additionally concave are formed concave. In a particularly preferred embodiment of the working surface (32), this is formed as a torus surface whose large radius R₂ is between the 2-to 10 times the bending radius R₁ of the tube (27). The invention according to the invention can be formed except by a toroidal working surface (32) also by an analogous arrangement of rollers.
+</ABSTRACT>
+</TEXT>
+</DOC>

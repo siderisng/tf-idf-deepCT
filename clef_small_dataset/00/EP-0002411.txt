@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002411
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-7/00 C07C-2/00 C07C-2/52 B01J-31/26 C07C-7/148 C07C-7/167 B01J-31/28 C07C-7/177 <main>C07C-13/20</main> C07C-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+catalyst consisting of a mixture of dinitrosyl iron chloride and bis(cyclooctadiene) nickel and its application to the dimerisation of conjugated diolefines.
+</TITLE>
+<APPLICANT>
+charbonnages ste chimiquefr<sep>societe chimique des charbonnages<sep>société chimique des charbonnagestour aurore place des reflets cédex no 5f-92080 paris la défense 2fr<sep>societe chimique des charbonnages<sep>
+</APPLICANT>
+<INVENTOR>
+abab aurelien<sep>huchette dominique<sep>petit francis<sep>thery bernard <sep>yax emile <sep>abab, aurelien<sep>huchette, dominique<sep>petit francis<sep>thery, bernard<sep>yax, emile<sep>abab, aurélien37 avenue de la bliesf-57200 sarregueminesfr<sep>huchette, dominique18 rue de l'eglisef-62800 vendin-le-vieilfr<sep>petit francis27 rue de flandref-59290 wasquehalfr<sep>thery, bernard54 impasse st nicolasf-62290 noeux-les-minesfr<sep>yax, emile12 rue d'algerf-57600 forbachfr<sep>abab, aurelien<sep>huchette, dominique<sep>petit francis<sep>thery, bernard <sep>yax, emile  <sep>abab, aurélien37 avenue de la bliesf-57200 sarregueminesfr<sep>huchette, dominique18 rue de l'eglisef-62800 vendin-le-vieilfr<sep>petit francis27 rue de flandref-59290 wasquehalfr<sep>thery, bernard54 impasse st nicolasf-62290 noeux-les-minesfr<sep>yax, emile12 rue d'algerf-57600 forbachfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the selective conversion of hydrocarbons having conjugated double bonds into dimers having a cyclohexene structure, characterized in that the couple dinitrosyliron chloride/nickel bis(cyclooctadiene) is used as the dimerisation catalyst. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006426
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G10K-11/00 G21C-17/00 G21C-17/10 G01V-1/16 G01D-11/00 G01H-1/04 G01D-11/30 G01H-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vibrations-measuring device.
+</TITLE>
+<APPLICANT>
+interatomde<sep>interatom internationale atomreaktorbau gmbh<sep>interatom internationale atomreaktorbau gmbhfriedrich-ebert-strassed-5060 bergisch gladbach 1de<sep>
+</APPLICANT>
+<INVENTOR>
+schnapp herbertde<sep>schnapp, herbert<sep>schnapp, herbertmendener strasse 26d-5205 st.augustin i mülldorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+A device for vibration measurement, z.b.On components of nuclear reactors, which can be used remote control and because it can also be applied to poorly accessible locations by bringing the vibration sensor (3) stored in a pipe (8) to your site.In order to turn off the disturbing influence of these auxiliary construction on the measurement nucleability, all rigid connections to the measuring instruments (3) are triggered after the positions (3), which with the aid of a spring (7) against the transmission components (1) are automatically tensioned.
+</ABSTRACT>
+</TEXT>
+</DOC>

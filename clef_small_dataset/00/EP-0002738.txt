@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002738
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C03C-17/09 C23C-14/24 <main>C23C-13/00</main> C23C-14/04 C23C-14/28 H05K-3/02 H05K-3/04 C23C-14/14 H05K-3/14 C03C-17/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for applying a layer of a material to a surface of a platelike workpiece by means of a laser beam.
+</TITLE>
+<APPLICANT>
+ibm us<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+drew roland francis<sep>schmidt frank john jr<sep>vanduynhoven thomas jerome<sep>drew, roland francis<sep>schmidt, frank john, jr.<sep>vanduynhoven, thomas jerome<sep>drew, roland francis22 lori streetpoughkeepsie, n.y. 12603us<sep>schmidt, frank john, jr.cragstonhighland falls, n.y. 10928us<sep>vanduynhoven, thomas jerome27 russett roadpoughkeepsie, n.y. 12601us<sep>drew, roland francis<sep>schmidt, frank john, jr.<sep>vanduynhoven, thomas jerome<sep>drew, roland francis22 lori streetpoughkeepsie, n.y. 12603us<sep>schmidt, frank john, jr.cragstonhighland falls, n.y. 10928us<sep>vanduynhoven, thomas jerome27 russett roadpoughkeepsie, n.y. 12601us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  method of depositing a material layer in particular patterns upon a surface of a disk-shaped workpiece by vaporizing the material in a plane adjacent to the workpiece surface by means of a laser beam, characterized in that the workpiece consists of transparent material and that the laser beam moved in accordance with the pattern provided is directed to the workpiece from the opposite workpiece side. 
+</ABSTRACT>
+</TEXT>
+</DOC>

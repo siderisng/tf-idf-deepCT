@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000889
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/7028 A61K-31/7034 A61P-31/00 <main>C07H-15/22</main> A61K-31/70 C07H-15/00 C07H-15/236 C07H-15/234 A61K-31/7036 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3"-n-demethyl-3"-n-substituted-4,6-di-0-(aminoglycosyl)-1,3-diaminocyclitols, methods for their preparation and their application as antibiotics.
+</TITLE>
+<APPLICANT>
+bayer ag de<sep>bayer aktiengesellschaft  <sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+metzger karl georg dr<sep>petersen uwe dr<sep>stadtler peter dr<sep>voss eckart dr<sep>metzger, karl georg, dr.<sep>petersen, uwe, dr.<sep>stadtler, peter, dr.<sep>voss, eckart, dr.<sep>metzger, karl georg, dr.pahlkestrasse 15d-5600 wuppertal 1de<sep>petersen, uwe, dr.auf dem forst 4d-5090 leverkusende<sep>stadtler, peter, dr.ohligser strasse 85d-5657 haande<sep>voss, eckart, dr.morgengraben 10d-5000 koeln 80de<sep>metzger, karl georg, dr. <sep>petersen, uwe, dr.<sep>stadtler, peter, dr.  <sep>voss, eckart, dr. <sep>metzger, karl georg, dr.pahlkestrasse 15d-5600 wuppertal 1de<sep>petersen, uwe, dr.auf dem forst 4d-5090 leverkusende<sep>stadtler, peter, dr.ohligser strasse 85d-5657 haande<sep>voss, eckart, dr.morgengraben 10d-5000 koeln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+Pseudotrisaccharides of the formula in the X is for a radical, and Y denotes a radical, U, V, W is hydrogen or hydroxy, can be hydrogen, hydroxy or amino and R for alkyl (except methyl), alkenyl, alkynyl, cycloalkyl,Cycloalkenyl, cycloalkyl alkyl, cycloalkenylalkyl, aryl or aralkyl is antimicrobial agents having a wide range of activity and particular effectiveness against gram-negative bacteria.
+</ABSTRACT>
+</TEXT>
+</DOC>

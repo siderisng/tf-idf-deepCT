@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004958
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-209/18 C07C-211/00 B01J-23/86 C07C-211/46 C07C-87/62 C07C-93/04 <main>C07C-85/06</main> B01J-23/00 C07C-211/48 C07C-67/00 B01J-23/89 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 2,6-dialkyl-n-alkylanilines.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+radimerski paul dr<sep>rusek milos<sep>radimerski, paul, dr.<sep>rusek, milos<sep>radimerski, paul, dr.5852 hickory ridge boulevardbaton rouge louisiana, 70816us<sep>rusek, milosholeeholzweg 59ch 4102 binningench<sep>radimerski, paul, dr.<sep>rusek, milos<sep>radimerski, paul, dr.5852 hickory ridge boulevardbaton rouge louisiana, 70816us<sep>rusek, milosholeeholzweg 59ch 4102 binningench<sep>
+</INVENTOR>
+<ABSTRACT>
+A process for the preparation of 2,6-dialkyl-N-alkylanilines is described.The essential feature of this method is that corresponding 2,6-dialkyl anilines are converted to an alkanol at 200-350 ° C in the presence of a copper-containing catalyst containing 0.05-10% by weight of palladium or platinum.The 2,6-dialkyl-N-alkylanilines producible by this method are valuable intermediates for the production of pesticidal agents.
+</ABSTRACT>
+</TEXT>
+</DOC>

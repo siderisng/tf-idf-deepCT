@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014022
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/107 A43D-1/00 A61B-5/10 <main>A43D-1/02</main> A43D-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+foot-size measuring apparatus.
+</TITLE>
+<APPLICANT>
+hoogstraat tech advies handelnl<sep>hoogstraat tech advies handel<sep>technisch advies- en handelsbureau hoogstraat c.v. energiestraat 9nl-8263 ag kampennl <sep>hoogstraat tech advies handel<sep>
+</APPLICANT>
+<INVENTOR>
+brinkgreve peter<sep>snijders christiaan johannes j<sep>van dijk dominique maria<sep>brinkgreve, peter<sep>snijders, christiaan johannes, jhr.<sep>van dijk, dominique maria<sep>brinkgreve, peterwillibrorduslaan 61b5581 gb waalrenl<sep>snijders, christiaan johannes, jhr.hugo v. berckellaan 4 postbus 1165670 ac nuenennl<sep>van dijk, dominique mariawillibrorduslaan 805581 gb waalrenl<sep>brinkgreve, peter <sep>snijders, christiaan johannes, jhr.<sep>van dijk, dominique maria  <sep>brinkgreve, peterwillibrorduslaan 61b5581 gb waalrenl<sep>snijders, christiaan johannes, jhr.hugo v. berckellaan 4 postbus 1165670 ac nuenennl<sep>van dijk, dominique mariawillibrorduslaan 805581 gb waalrenl<sep>
+</INVENTOR>
+<ABSTRACT>
+measuring apparatus to measure the maximum length  and width of a foot which apparatus comprises a foot-­ receiving platform, a frame which a foundation plate and  at least one light-source device, and a first bank of radiant  energy sensing means for the indication of the width di­ mension and a second bank of radiant energy sensing  means for the indication of the length dimension, an elec­ trical circuitry and a read-out panel, and positioned in the  side-wall of the frame beside the platform at a level of the  foot to be measured the light-source device, which radiates  light in the horizontal direction, and at each opposing  lateral and longitudinal side-wall a carrier going with the  concerning bank of radiant energy sensing means, and the  carriers move forward simultaneous by means of convey­ ing means along the foot to be measured so the maximum  width and length of the foot is determined by means of the  electrical circuitry as an initial- and stopsignal is produced  by the radiant energy sensing means which is generated  by the interruption of a light-beam by the foot as well as in  the lateral direction as in the longitudinal direction and that  each carrier supports a holder (25) in which the bank of  radiant energy sensing means are mounted vertically.  
+</ABSTRACT>
+</TEXT>
+</DOC>

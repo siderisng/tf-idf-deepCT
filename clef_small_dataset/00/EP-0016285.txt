@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016285
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-45/50 B01J-31/00 <main>C07C-45/50</main> C07C-67/00 B01J-31/24 B01J-31/16 C07B-61/00 C07C-47/02 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of valeraldehydes by hydroformylation of butene-1.
+</TITLE>
+<APPLICANT>
+davy mckee londongb<sep>davy mckee (london) limited<sep>davy mckee (london) limited250, euston roadlondon nw1 2pggb<sep>davy mckee (london) limited<sep>davy mckee (london) limited  <sep>
+</APPLICANT>
+<INVENTOR>
+harris norman<sep>shevels thomas frederick<sep>harris, norman<sep>shevels, thomas frederick<sep>harris, norman22 grantham road, nortonstockton-on-tees, clevelandgb<sep>shevels, thomas frederick46 butterfield drive, eaglescliffestockton-on-tees, clevelandgb<sep>harris, norman<sep>shevels, thomas frederick<sep>harris, norman<sep>shevels, thomas frederick<sep>harris, norman22 grantham road, nortonstockton-on-tees, clevelandgb<sep>shevels, thomas frederick46 butterfield drive, eaglescliffestockton-on-tees, clevelandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a rhodium-catalysed hydroformylation process is dis­ closed in which an overhead vapour steam is recovered from  the hydroformylation zone containing reactant alkene, hyd­ rogen, carbon monoxide, alkene hydrogenation product(s),  aldehyde product and aldehyde condensation products.  this  vapour stream is subjected to condensation conditions in one  or two stages to condense therefrom condensible compo­ nents comprising unreacted alkene, aldehyde product, and  aldehyde condensation products.  non-condensed compo­ nents of the vapour stream (e. g.  h₂ and co) are recycled to the  hydroformylation zone.  unreacted alkene is also recycled in  liquid form to the hydroformylation zone.  
+</ABSTRACT>
+</TEXT>
+</DOC>

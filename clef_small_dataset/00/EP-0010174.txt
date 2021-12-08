@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010174
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/26 <main>B25J-9/00</main> F22B-37/02 F22B-37/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for accurately positioning heat exchanger tube within steam generator tube sheet.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation  <sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+castner raymond paul<sep>gerkey kenneth sylvester<sep>stiller richard lewis<sep>castner, raymond paul<sep>gerkey, kenneth sylvester<sep>stiller, richard lewis<sep>castner, raymond paul1154 lasalle roadmonroeville, pennsylvaniaus<sep>gerkey, kenneth sylvester186 seminole drivemount lebanon, pennsylvaniaus<sep>stiller, richard lewis1411 glenmar streetnatrona heights, pennsylvaniaus<sep>castner, raymond paul<sep>gerkey, kenneth sylvester <sep>stiller, richard lewis  <sep>castner, raymond paul1154 lasalle roadmonroeville, pennsylvaniaus<sep>gerkey, kenneth sylvester186 seminole drivemount lebanon, pennsylvaniaus<sep>stiller, richard lewis1411 glenmar streetnatrona heights, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for positioning either one of a pair of automat­ ically controlled remote mechanisms (12) for properly posi­ tioning the two opposed ends (30a, 30b) of a common heat  exchanger tube (18) within a tube sheet (20) of a steam  generator and having a tool (26) for securing the tube therein.   the apparatus includes a pair of microswitches (73, 90) pre­ cisely positioned closely adjacent the tool on each of said pair  of mechanisms.  the first switch (73) is actuated upon initial  engagement of the tube end (30) and the tool (28) to indicate  which of the opposed tube ends is first engaged, and the  second switch (90) is actuated upon proper positioning of the  tube end within the tube sheet.  in operation, the tube end  nearest the tube sheet of the two opposed tube ends to be  engaged is the first tube end to be positioned and secured  within the tube sheet.  conventionally, this has been a manual  operation.  this apparatus permits automatic positioning of  heat exchanger tubes within a tube sheet, reducing worker  exposure to radioactivity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

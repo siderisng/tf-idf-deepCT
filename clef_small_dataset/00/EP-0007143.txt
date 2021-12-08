@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007143
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25B-15/09 F25B-15/02 F25B-17/08 F25B-17/00 F25B-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for cycling a material in hydride/dehydride systems.
+</TITLE>
+<APPLICANT>
+standard oil cous<sep>standard oil company<sep>standard oil company200 east randolph drivechicago illinois 60601us<sep>
+</APPLICANT>
+<INVENTOR>
+bowman walker hillus<sep>sirovich bruce elliotus<sep>bowman, walker hill<sep>sirovich, bruce elliot<sep>bowman, walker hill4n011 thornetree roadst. charles, illinois 60174us<sep>sirovich, bruce elliot322 saw mill roadnaperville, illinois 60540us<sep>
+</INVENTOR>
+<ABSTRACT>
+moving bed hydride heat pumps and pressure pumps are  described in which a hydride-forming material is transported  between two or more reactor vessels (21,23).  each vessel can  be maintained at a predetermined temperature, and thus, the  hydride-forming material may be heated or cooled by moving  it into an appropriately heated or cooled reactor vessel  (21,23).  in this way thermal cycling of reactor vessels is  reduced or eliminated.  both continuously operating and mov­ ing batch hydride pumping systems are disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

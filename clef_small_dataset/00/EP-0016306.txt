@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016306
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/14 H05K-3/24 H05K-3/42 H01L-23/08 H05K-1/03 H01L-23/15 H05K-3/10 H01L-23/02 H01L-23/538 H05K-1/11 H05K-3/46 H01L-23/12 H01L-21/48 <main>H01L-21/48</main> H01L-21/02 H05K-3/38 H01L-23/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing a multi-layered glass-ceramic package for the mounting of semiconductor devices.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+narken bernt<sep>tummala rao ramamahara<sep>narken, bernt<sep>tummala, rao ramamahara<sep>narken, bernt83 albany streetpoughkeepsie, ny 12601us<sep>tummala, rao ramamahara20 split tree drivewappingers falls, ny 12590us<sep>narken, bernt<sep>tummala, rao ramamahara<sep>narken, bernt83 albany streetpoughkeepsie, ny 12601us<sep>tummala, rao ramamahara20 split tree drivewappingers falls, ny 12590us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a multilayered glass-cera micron (32) for attachment of Hal leading devices and a method for producing a connection lines provided with connection lines (30) for a number of semiconductor tiles (24) and producing a multilayer glass-ceramic structure with a more layer Distribution of connection lines on a previously produced Merhr-shield glass ceramic substrate, by repeated depressing a lei device pattern on the substrate and producing an overlying, consisting of a crystallizable glass of the Lectrical layer, which is then crystallia to a glass ceramic before further Conductor patterns and crystallizable glass layers are applied as dielectric layers to form a monolithic structure. This structure should be compatible with the operating properties of semiconductor clads which can be electrically connected on the surface which is freely accessible on the surface of the resulting glass-ceramic packing.
+</ABSTRACT>
+</TEXT>
+</DOC>

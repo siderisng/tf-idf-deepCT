@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015186
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-1/28 H04R-5/02 <main>H04R-1/28</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+three-channel acoustic system.
+</TITLE>
+<APPLICANT>
+thomson brandtfr<sep>thomson-brandt<sep>societe d'electronique industrielle de moulins - selimo173, bld haussmannf-75379 paris cédex 08fr<sep>selimo elect ind moulins <sep>
+</APPLICANT>
+<INVENTOR>
+maille michel<sep>maille, michel<sep>maille, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>maille, michel <sep>maille, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The box comprises two speakers supporting at least one low frequency speaker, so that the front panel of each speaker radiates inside a communicating cavity with the outside by an opening of predetermined dimensions.In a preferred embodiment of the invention, these speakers are face to face that the speaker of one is facing the speaker on the other.Such a low frequency box is used in particular in high loyalty triphonic sound reproduction systems.
+</ABSTRACT>
+</TEXT>
+</DOC>

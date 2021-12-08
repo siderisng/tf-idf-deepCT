@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006651
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-9/12 H01J-43/22 H01J-43/00 H01J-43/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+channel plate electron multipliers.
+</TITLE>
+<APPLICANT>
+philips electronic associatedgb<sep>philips nvgb<sep>koninklijke philips electronics n.v.<sep>philips electronics uk limited <sep>philips electronics n.v. groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>
+</APPLICANT>
+<INVENTOR>
+knapp alan georgegb<sep>mansell john reveregb<sep>overall colin douglasgb<sep>stone henry dermottgb<sep>washington derekgb<sep>knapp, alan george<sep>mansell, john revere<sep>overall, colin douglas<sep>stone, henry dermott<sep>washington, derek<sep>knapp, alan george c/o philips electronic &amp; ass.industries ltd., patent dept. berkshire house168-173 high holborn london wc1v 7aqgb<sep>mansell, john revere c/o philips electronic &amp; ass.industries ltd., patent dept. berkshire house168-173 high holborn london wc1v 7aqgb<sep>overall, colin douglas c/o philips electr. &amp; ass.industries ltd. patent dept. berkshire house168-173 high holborn london wc1v 7aqgb<sep>stone, henry dermott c/o philips electronic &amp; ass.industries ltd., patent dept. berkshire house168-173 high holborn london wc1v 7aqgb<sep>washington, derek c/o philips electronic &amp; ass.industries ltd., patent dept. berkshire house168-173 high holborn london wc1v 7aqgb<sep>
+</INVENTOR>
+<ABSTRACT>
+channel plate image intensifiers, for use as raster  intensifiers in cathode ray tubes for example, comprise a  stack of alternately arranged perforate laminar dynodes  m and perforate laminar separators d aligned to form  electron multiplier channels p.  each of the separators  comprise a perforate aluminium plate having an anodized  layer some 15 microns thick on the plate surface.  such  separators can be manufactured to have the desired  electrical characteristics and uniform thickness over their  entire area so that the dynodes m are parallel to each  other and provide a uniform gain over their entire area.  the invention also relates to a method of anodizing  perforate and imperforate aluminium foils.  
+</ABSTRACT>
+</TEXT>
+</DOC>

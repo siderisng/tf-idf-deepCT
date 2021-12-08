@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015604
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/19 A61K-31/215 A61K-31/185 A61K-31/16 A61K-31/275 A61K-31/21 <main>A61K-31/275</main> A61K-31/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compounds and compositions for use in inhibition of lipogenesis in mammals.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v. <sep>
+</APPLICANT>
+<INVENTOR>
+carr john bernard<sep>durham harry graham<sep>carr, john bernard<sep>durham, harry graham<sep>carr, john bernard5211 lodge creekhouston, texas 77066us<sep>durham, harry graham630 elm avenuemodesto, california 95351us<sep>carr, john bernard<sep>durham, harry graham<sep>carr, john bernard5211 lodge creekhouston, texas 77066us<sep>durham, harry graham630 elm avenuemodesto, california 95351us<sep>
+</INVENTOR>
+<ABSTRACT>
+there are provided compounds of formula    wherein r is c₄-c₁₆ alkyl, acetoxymethyl or phenyl, one of  r¹ and r² is hydrogen, the other of r¹ and r² being hydrogen  or -cn, and r³ is -oh, -nh₂ or -or⁴, wherein r⁴, is c₁-c₄  alkyl, and compositions containing such compounds, for  use in inhibition of lipogenesis in mammals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

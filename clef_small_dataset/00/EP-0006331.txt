@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006331
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01D-9/30</main> G01D-9/00 G01D-9/30 G01D-15/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+inking system for pen recorders.
+</TITLE>
+<APPLICANT>
+beckman instruments incus<sep>beckman instruments, inc.<sep>beckman instruments, inc.executive office 2500 harbor boulevard box 3100fullerton california 92634us<sep>beckman instruments, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+corwin william c<sep>corwin, william c.<sep>corwin, william c.25 balbo trailer clubla grange illinois 60525us<sep>corwin, william c.<sep>corwin, william c.25 balbo trailer clubla grange illinois 60525us<sep>
+</INVENTOR>
+<ABSTRACT>
+an ink priming system for a multi-pen recorder of  the gravity-fed capiliary tube type comprises a gas mani­ fold (50) common to all of the ink bottles (16) individually  provided for each channel of the recorder, individual control  valves (56) may be selectively actuated by the operator to  prime each pen.  when the control valve is closed, the gas  pressure is bled off so that the inking system thereafter  acts as a normal gravity-fed capillary tube system.  a non-­ clogging inking system is provided by utilizing a short  length of flexible thin walled tubing (26) to supply ink to  the movable recording pen (12).  the length of this tubing  is sufficiently short that evaporation of the ink solvent  through the walls of the tube is accompanied by diffusion  of the dye back to the ink bottle so that the concentration  of dye in the ink at the end of the tube adjacent the record­ ing pen does not exceed saturation value during prolonged  periods of non-use of the recorder.  
+</ABSTRACT>
+</TEXT>
+</DOC>

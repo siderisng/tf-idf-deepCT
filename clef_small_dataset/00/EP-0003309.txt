@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003309
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02F-3/00 <main>F16J-1/24</main> F16J-1/10 F16J-1/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reciprocating-piston drive for combustion engines.
+</TITLE>
+<APPLICANT>
+steyr daimler puch agat<sep>steyr-daimler-puch aktiengesellschaft<sep>steyr-daimler-puch aktiengesellschaftkärntnerring 7a-1010 wienat<sep>steyr-daimler-puch aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+dolenc anton<sep>visek tomas<sep>dolenc, anton<sep>visek, tomas<sep>dolenc, antonrudolf kassnergasse 5a-1190 wienat<sep>visek, tomaseisteichstrasse 9/12a-1110 wienat<sep>dolenc, anton<sep>visek, tomas  <sep>dolenc, antonrudolf kassnergasse 5a-1190 wienat<sep>visek, tomaseisteichstrasse 9/12a-1110 wienat<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a reciprocating-piston drive for internal-combustion engines, wherein the piston (2), which carries piston rings (4), is connected to the connecting-rod (8) by means permitting the piston to rotate on its longitudinal axis, the piston (2) constitutes a spherical socket, the connecting-rod (8) has a ball head (9) received by said spherical socket, a coupling is provided between the spherical socket and the ball head and serves to transform the pivotal movement of the connecting-rod to a rotation of the piston (2) and comprises a coupling pin (13), which is movable mounted in the ball head (9) and includes with the axis of the connecting-rod an angle differing from 90 degrees and extends transversely to the plane in which the connecting-rod is pivotally movable, characterized in that the coupling pin (13), which is rotatably mounted in the ball head (9), slides directly in a coupling element (7, 7'), which is fixed to the piston and for receiving the pin is slotted parallel to the piston axis and constitutes that portion of the spherical socket that is adjacent to the connecting-rod and has an opening (16) for the connecting-rod (8) and said coupling element preferably consists of two parts having interfaces (t) lying approximately in the plane in which the connecting-rod is pivotally movable. 
+</ABSTRACT>
+</TEXT>
+</DOC>

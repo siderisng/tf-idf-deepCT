@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013293
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B41J-33/44</main> B41J-33/52 B65H-23/182 B41J-33/14 B41J-33/54 B41J-35/36 B65H-23/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+printer ribbon supply mechanism with end-of-ribbon detection.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+firth iii rowland van dyke<sep>goff willie jr<sep>firth, iii rowland van dyke<sep>goff, willie, jr.<sep>firth, iii rowland van dyke11712 spotted horse dr.austin, tx 78759us<sep>goff, willie, jr.3908 pebbe pathaustin, tx 78731us<sep>firth, iii rowland van dyke  <sep>goff, willie, jr.<sep>firth, iii rowland van dyke11712 spotted horse dr.austin, tx 78759us<sep>goff, willie, jr.3908 pebbe pathaustin, tx 78731us<sep>
+</INVENTOR>
+<ABSTRACT>
+Ribbon power supply in impact printers, with the depletion of the ribbon on the reel debi trice.An elastically deformable element (4) is housed inside the hub (12) of the debtor coil (34) and is maintained in its curved state by the turns of the ribbon (102) wound on the coil.When the ribbon is almost completely unfolded, the spring (4) returns to its uninterposed state and activates a switch (13) via a control element (7).This switch then emits an electrical signal, on its lines (30), which indicates the depletion of the ribbon.Device usable especially with ribbon coils mounted in cartridges.
+</ABSTRACT>
+</TEXT>
+</DOC>

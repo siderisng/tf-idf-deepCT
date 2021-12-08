@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004377
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-27/00 A01N-47/16 C07C-333/00 A01N-47/22 <main>C07C-155/00</main> A01N-47/18 A01N-47/12 C07C-325/00 A01N-47/20 C07C-333/02 A01N-47/10 C07B-61/00 C07C-67/00 C07C-333/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thiocarbamate preparation utilizing quaternary ammonium salt catalysts.
+</TITLE>
+<APPLICANT>
+stauffer chemical cous<sep>stauffer chemical company<sep>stauffer chemical companywestport connecticut 06880us<sep>stauffer chemical company  <sep>
+</APPLICANT>
+<INVENTOR>
+hoch paul edwin<sep>tilles harry<sep>hoch, paul edwin<sep>tilles, harry<sep>hoch, paul edwin368 tharp drivemoraga california 94556us<sep>tilles, harry703 balra driveel cerrito california 94530us<sep>hoch, paul edwin<sep>tilles, harry<sep>hoch, paul edwin368 tharp drivemoraga california 94556us<sep>tilles, harry703 balra driveel cerrito california 94530us<sep>
+</INVENTOR>
+<ABSTRACT>
+thiocarbamates are prepared by a process comprising  reacting an aqueous solution of a thiocarbamate salt with  an organic halide in the presence of a catalytic amount  of a quaternary ammonium salt having the formula   r⁴r⁵r⁶r⁷n)⁺y⁻   in which r⁴ and r⁵ are independently selected from the  group consisting of c₁-c₂₅ alkyl and c₂-c₂₅ alkenyl, r⁶ and  r⁷ are independently selected from the group consisting of  c₆-c₂₅ alkyl and c₆-c₂₅ alkenyl, and y⁻ is an anion selected  from the group consisting of chloride and bromide; and  separating the thiocarbamate from the aqueous solution.  
+</ABSTRACT>
+</TEXT>
+</DOC>

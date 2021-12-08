@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009727
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/05 <main>A61N-1/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+implantable carbon electrode.
+</TITLE>
+<APPLICANT>
+siemens ag de  <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+richter gerhard dr<sep>weidlich erhard dr<sep>richter, gerhard, dr.<sep>weidlich, erhard, dr.<sep>richter, gerhard, dr.friedrich-bauer-strasse 18d-8520 erlangende<sep>weidlich, erhard, dr.am tennenbach 41d-8521 spardorfde<sep>richter, gerhard, dr.  <sep>weidlich, erhard, dr. <sep>richter, gerhard, dr.friedrich-bauer-strasse 18d-8520 erlangende<sep>weidlich, erhard, dr.am tennenbach 41d-8521 spardorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an implantable carbon felectrode.In such an electrode, the energy loss occurring after implantation should largely avoid and prevent thrombus formation.The invention provides a smooth coating made of Hyd rophilic ion-conducting plastic for the electrode, which is at least superficially made of body or blood-compatible material.The carbon ledge trode according to the invention serves in particular as a stimulus electrode, preferably in pacemakers.
+</ABSTRACT>
+</TEXT>
+</DOC>

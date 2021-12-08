@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003920
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/44 A61P-25/00 A61P-29/00 <main>C07D-495/04</main> A61P-25/08 C07D-495/00 C07D-495/04 A61K-31/435 A61K-31/495 A61P-25/20 A61K-31/445 A61K-31/54 A61K-31/535 A61K-31/381 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thieno (3,2-c)- and thieno (2,3-c)pyridines, process for their preparation and their therapeutical application.
+</TITLE>
+<APPLICANT>
+sanofi sa fr<sep>omnium financier aquitaine pour l'hygiene et la sante - sanofi  <sep>omnium financier aquitaine pour l'hygiene et la sante - sanofitour aquitaine cédèx no 4f-92080 paris la defensefr<sep>omnium financier aquitaine pour l'hygiene et la sante - sanofi <sep>
+</APPLICANT>
+<INVENTOR>
+frehel daniel<sep>maffrand jean-pierre<sep>frehel, daniel<sep>maffrand, jean-pierre<sep>frehel, danielrésidence la pléiade 28 boulevard de la marnef-31400 toulousefr<sep>maffrand, jean-pierre10 rue jean mermozf-31300 toulousefr<sep>frehel, daniel<sep>maffrand, jean-pierre<sep>frehel, danielrésidence la pléiade 28 boulevard de la marnef-31400 toulousefr<sep>maffrand, jean-pierre10 rue jean mermozf-31300 toulousefr<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula:   <image> in which r<1> and r<2> are independently: hydrogen; alkyl; cycloalkyl, alkenyl; alkynyl; aryl or aralkyl optionally substituted on a phenyl nucleus with one or more halogen atoms or alkyl, alkoxy, hydroxy or trifluoromethyl groups; heteroaryl or heteroaralkyl; or a group having the formula:   <image> in which n is 2 or 3, and r<3> and r<4> are independently c1-4 alkyl or, together with the nitrogen atom to which they are attached, form a heterocycle which may carry a second heteroatom selected from oxygen, sulfur and nitrogen, which nitrogen may carry a c1-4 alkyl radical; or, together with the nitrogen atom to which they are attached, r<1> and r<2> form a heterocycle which may carry a second heteroatom selected from oxygen, sulfur and nitrogen, which nitrogen may carry alkyl or phenyl optionally substituted with one or more halogen atoms or alkyl, alkoxy or trifluoromethyl groups; and their pharmaceutically acceptable acid addition salts have sedative, anticonvulsant and anti-inflammatory activity. 
+</ABSTRACT>
+</TEXT>
+</DOC>

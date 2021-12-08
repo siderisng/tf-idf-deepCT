@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000879
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-31/02 <main>C07C-69/96</main> C07C-69/96 B01J-31/00 C07C-20060101S B01J-31/12 C07C-69/00 C07C-68/00 C07B-61/00 C07C-67/00 C07C-67/03 C07C-68/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of aromatic carbonic acid esters.
+</TITLE>
+<APPLICANT>
+bayer agde   <sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+buysch hans-josef dr<sep>krimm heinrich dr<sep>rudolph hans dr<sep>buysch, hans-josef, dr.<sep>krimm, heinrich, dr.<sep>rudolph, hans, dr.<sep>buysch, hans-josef, dr.brandenburger strasse 28d-4150 krefeldde<sep>krimm, heinrich, dr.heyenbaumstrasse 65d-4150 krefeldde<sep>rudolph, hans, dr.haydnstrasse 9d-4150 krefeldde<sep>buysch, hans-josef, dr.<sep>krimm, heinrich, dr.<sep>rudolph, hans, dr.<sep>buysch, hans-josef, dr.brandenburger strasse 28d-4150 krefeldde<sep>krimm, heinrich, dr.heyenbaumstrasse 65d-4150 krefeldde<sep>rudolph, hans, dr.haydnstrasse 9d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the production of aromatic carbonic acid esters by transesterifying dialkyl carbonates with phenols under the elimination of alcohols and in the presence of transesterification catalysts, wherein organo tin compounds of the general formula i (r**1 )-sn-(y)x 4-x in which y represents an  see diagramm : ep0000879,p5,f2  oh or or**2 radical, r**2 denoting a c1 -c12 alkyl radical, a c6 -c12 aryl radical or a c7 -c13 alkylaryl radical, and r**1 has the meaning of r**2 and x denotes an integer from 1 to 3, or dialkyl tin oxides each with 1-12 c-atoms in the alkyl radical or organo tin compounds of the general formula ii  see diagramm : ep0000879,p5,f4  in which r**1 and r**4 are the same or different and have the above-indicated meaning of r**2 , and r**5 has the meaning of r**2 or represents a radical or**6 in which r**6 has the meaning of r**2 are used as reesterification catalysts, in quantities of from 0. 001 to 20% by weight, based on the total amount of the reaction mixture. 
+</ABSTRACT>
+</TEXT>
+</DOC>

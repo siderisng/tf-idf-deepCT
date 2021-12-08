@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006166
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-2/27 H01F-7/08 H01F-7/14 B41J-2/25 <main>B41J-3/12</main> B41J-2/29 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+print mechanism for use in printing apparatus and printing apparatus including such mechanisms.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+heath john stewart<sep>heath, john stewart<sep>heath, john stewart34 oliver's battery roadwinchester hampshiregb<sep>heath, john stewart<sep>heath, john stewart34 oliver's battery roadwinchester hampshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a mechanism for a matrix printer has a robust single  turn closed loop transformer secondary winding (3) as  the moving part for driving a print stylus (9) into and out  of a print position.  each secondary winding (3) threads  a transformer core (1) on which is wound a multiturn pri­ mary winding (2).  a stack of such secondary windings (3),  arranged with print styli (9) in a closely spaced print row  across the stack are supported in a static magnetic field  produced by a magnetic assembly (10).  energisation of a  primary winding (2) induces a large current flow in its se­ condary winding (3) which reacts with the field to drive the  associated print stylus (9) into the print position.  in one  embodiment, the stack of secondary windings (3) are all  mounted on a single pivot (6) and each swings about the  pivot (6) as a whole upon energisation of its associated  primary winding (2).  in another embodiment each secondary  loop of the stack is formed so as to be elastically deform­ able whereby a portion of the loop carrying the stylus is  deflected into the print position upon energisation of its  associated primary winding.  
+</ABSTRACT>
+</TEXT>
+</DOC>

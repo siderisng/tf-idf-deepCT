@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000238
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 C10G-9/00 C01B-3/30 B01J-8/24 <main>C10L-1/00</main> C10G-9/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of converting a sulphur-containing fuel to a substantially sulphur-free combustible gas.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company  <sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company<sep>
+</APPLICANT>
+<INVENTOR>
+johnes graham lloyd<sep>johnes, graham lloyd<sep>johnes, graham lloyd"applecross", mill paddock letcombe regiswantage, oxfordshiregb<sep>johnes, graham lloyd  <sep>johnes, graham lloyd"applecross", mill paddock letcombe regiswantage, oxfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+the amount of sulfur compounds in combustible gas  produced by partial oxidation of a sulfur-containing fuel, particularly  sulfur-containing mineral oil, in a fluidized bed of  particles comprising alkaline earth metal oxide can be maintained  below a desired level by expedients such as increasing  the amount of alkaline earth metal oxide relative to the sulfur  in the fuel.  these and other possible expedients may attain  limiting values due to excessive pressure drop in the fluidized  bed and/or reduced combustible gas production.  in the practics of the invention, it is surprisingly found  that the amount of sulfur compound may be maintained  below a desired level when a limiting operating condition  has been attained or approached by adding fine solids into  the combustible gas product.  the fine solids may be recovered  and re-used, e. g.  by injection into the fluidized bed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

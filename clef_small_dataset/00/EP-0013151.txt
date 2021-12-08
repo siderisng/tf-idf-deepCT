@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013151
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01D-53/14</main> B01D-53/40 C07D-233/00 C07D-243/00 C07D-239/00 C07D-233/34 C07D-239/10 B01D-53/14 C07D-245/00 C07D-245/02 C07D-243/04 B01D-53/46 B01D-53/77 B01D-53/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for maintaining the performance of aqueous hindered amine scrubbing liquid in acid gas scrubbing.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company<sep>
+</APPLICANT>
+<INVENTOR>
+hays sr james richard<sep>iyengar jagannathan nambi<sep>say geoffrey rhys<sep>hays sr., james richard<sep>iyengar, jagannathan nambi<sep>say, geoffrey rhys<sep>hays sr., james richard9878 chateau drivebaton rouge, louisianaus<sep>iyengar, jagannathan nambi443 west main streetrockaway, new jerseyus<sep>say, geoffrey rhys3020 tall timbers roadbaton rouge, louisianaus<sep>hays sr., james richard  <sep>iyengar, jagannathan nambi<sep>say, geoffrey rhys<sep>hays sr., james richard9878 chateau drivebaton rouge, louisianaus<sep>iyengar, jagannathan nambi443 west main streetrockaway, new jerseyus<sep>say, geoffrey rhys3020 tall timbers roadbaton rouge, louisianaus<sep>
+</INVENTOR>
+<ABSTRACT>
+acid gases such as co₂ and h₂s are scrubbed from a gas  mixture in an absorption zone (2) employing an aqueous  solution (22) comprising an alkali metal compound and a  sterically hindered amine of formula: r-nh₂-(ch₂)m-nh₂ in  which r is a secondary or tertiary alkyl or cycloalkyl c₄ to c₂₀  hydrocarbon group and m is from 2 to 5, under elevated  temperature and pressure causing the formation of a cyclic  urea of formula:    in which r is a secondary or tertiary c₄ to c₂₀ alkyl or cycloalkyl  hydrocarbon and m is from 0 to 3.  the solution containing  absorbed acid gases is steam stripped in a regeneration zone  (6, 8) and a portion of the resulting lean solution is cooled (in  19) to a temperature at which the cyclic urea selectively pre­ cipitates.  the cooled portion of the solution is passed through  a filter (16 or 17) to separate the cyclic urea solids before being  recirculated (23) with the rest (21) of the lean solution to the  absorption zone (2).  
+</ABSTRACT>
+</TEXT>
+</DOC>

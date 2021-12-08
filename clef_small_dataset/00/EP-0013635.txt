@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013635
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-8/00 B29B-17/04 C08F-8/50 C08J-11/00 B29B-17/00 B29B-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for producing rubber melt.
+</TITLE>
+<APPLICANT>
+japan steel works ltdjp<sep>japan synthetic rubber co ltdjp<sep>japan synthetic rubber co., ltd. <sep>the japan steel works, ltd.<sep>japan synthetic rubber co., ltd. 11-24, tsukiji-2-chome chuo-ku tokyo 104jp<sep>the japan steel works, ltd.12-1, yurakucho-1-chome, chiyoda-kutokyojp<sep>
+</APPLICANT>
+<INVENTOR>
+harada kunihirojp<sep>kasai kiyoshijp<sep>maki yoshikijp<sep>oda norimasajp<sep>harada, kunihiro<sep>kasai, kiyoshi<sep>maki, yoshiki<sep>oda, norimasa<sep>harada, kunihiro2657-6, narusemachida-shijp<sep>kasai, kiyoshi29, aobadai-2-chomemidori-ku yokohamajp<sep>maki, yoshiki660616, oaza yaguchikoyocho hiroshima-shijp<sep>oda, norimasa2009-1, funakoshichoaki-ku hiroshima-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+when pieces of rubber are melted and decomposed in a  screw extruder, a rubber melt can be produced without  necessarily using a heavy oil and with minimized evolution of  gas, this result being achieved by controlling the extruder  cylinder temperature in a decomposition section of the screw  within the range of 400° to 500°c and cooling the melt in the  discharge section of the screw to a temperature of not more  than 250°c.  a screw extruder suited for practising this method  comprises a screw (1) having a feed section (a), a compres­ sion section (b), a decomposition section (c) and a discharge  section (d) which are arranged in that order from the inlet (9),  and a cylinder assembly (4) consisting of a heating cylinder (5)  and a cooling cylinder (6) arranged in that order from the inlet  (9), the feed compression and decomposition section (a,b and  c) of the screw (1) being located to correspond to said heating  cylinder (5), and the discharge section (d) of the screw (1)  being located to correspond to said cooling cylinder (6).  
+</ABSTRACT>
+</TEXT>
+</DOC>

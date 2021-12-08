@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001967
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65B-21/04 B65G-47/32 <main>B65B-35/30</main> B65B-35/30 B65B-35/06 B65G-47/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for packing groups of articles in containers.
+</TITLE>
+<APPLICANT>
+focke & code<sep>focke & co.<sep>focke &amp; co.siemensstrasse 10d-27283 verdende<sep>focke & co.  <sep>
+</APPLICANT>
+<INVENTOR>
+focke heinz<sep>focke, heinz<sep>focke, heinzmoorstrasse 64d-2810 verdende<sep>focke, heinz<sep>focke, heinzmoorstrasse 64d-2810 verdende<sep>
+</INVENTOR>
+<ABSTRACT>
+in the packaging of objects (10), such as bottles, cans, etc., in a carton (11) od. Like., it is necessary to divide the objects supplied in continuous rows (13, 14) in groups (18), wherein each one group is inserted into a carton (11). The performance of such packaging machines demanded in practice brings it with it that the objects (10) or groups (18) of the same must be brought to relatively high speed until insertion into the cartons. In order to ensure a gentle treatment of the objects, it is envisaged that the acceleration of the objects takes place up to the final speed in steps. In this case, successive effective conveyors (19, 20, 21) for the articles or the groups are provided. At the same time, a first conveyor (19) has the task of dividing the groups to be accelerated from the subsequent strand (13, 14) of the articles.
+</ABSTRACT>
+</TEXT>
+</DOC>

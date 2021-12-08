@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005481
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01C-7/00 G01N-27/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas sensors and method for preparing them.
+</TITLE>
+<APPLICANT>
+siemens agde <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaft wittelsbacherplatz 2 80333 münchen de<sep>
+</APPLICANT>
+<INVENTOR>
+koepl rupertde<sep>pink hans drde<sep>treitinger ludwig dipl-ingde<sep>koepl, rupert<sep>pink, hans, dr.<sep>treitinger, ludwig, dipl.-ing.<sep>köpl, rupertsteinkirchnerstrasse 7d-8000 münchen 71de<sep>pink, hans, dr.possenhofenerstrasse 38ad-8130 starnbergde<sep>treitinger, ludwig, dipl.-ing.klobensteiner strasse 25d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to gas sensors in which the sensitive semiconductor body is composed of a thin layer of a metal-oxide semiconductor.  to prepare the metal-oxide semiconductor thin layer, a substrate is coated with a film of an organic solution and the film is converted into a thin metal-oxide semiconductor layer by stepwise heat treatment.  the solution contains a metal compound which is converted into metal oxide during thermal or hydrolytic decomposition.  suitable compounds are binary and ternary compounds of the formula a@o@ and anbmop, where both a and b represent an element of the group comprising the rare earths, the noble metals and the transition metals and o represents oxygen, and n, m and p are the proportions of the respective elements.  the coating can be carried out by immersion, spraying, spinning-on or applying drops.  the thin semiconductor layer may be doped with at least one element from the group comprising the rare earths, the noble metals and the transition metals.  gas sensors according to the invention are composed of a substrate (1), a thin metal-oxide semiconductor layer (2) prepared from the organic solution mentioned, and a noble-metal contact layer (3).  gas sensors according to the invention are suitable for detecting and determining various pollutant gases such as, for example, co, cnhm, c6h6 and, in particular, ethanol in air and exhaust gases (figure  1).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

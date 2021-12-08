@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001140
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-5/05 G03G-5/04 G03G-5/06 <main>G03G-5/09</main> G03G-5/087 C07F-7/00 C07F-7/22 G03G-5/08 G03G-5/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrophotographic recording material.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa_gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap  <sep>
+</APPLICANT>
+<INVENTOR>
+sneyers hendrik hubert<sep>suys andre roger<sep>sneyers, hendrik hubert<sep>suys, andre roger<sep>sneyers, hendrik hubertdalstraat 25b-2508 nijlenbe<sep>suys, andré rogerlege veldkantlaan 7b-2540 hovebe<sep>sneyers, hendrik hubert<sep>suys, andre roger<sep>sneyers, hendrik hubertdalstraat 25b-2508 nijlenbe<sep>suys, andré rogerlege veldkantlaan 7b-2540 hovebe<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrophotographic recording material comprising a  photoconductive layer incorporating photoconductive zinc  oxide in the presence of a compound within the scope of the  following general formula:   r - sh   wherein:   r represents (1) an unsubstituted aliphatic hydrocarbon  group containing at least 5 carbon atoms or (2) an aliphatic  hydrocarbon group substituted with a -cooq group  wherein q is an organometallic group or an aliphatic hydrocarbon  group, containing at least 5 carbon atoms, or (3)  an aliphatic hydrocarbon group substituted with a -cooh  group and containing at least two methylene groups between  the -cooh group and the -sh group, and said general  formula including the modification wherein the hydrogen  atom of the -sh group is substituted to form an  organometal mercaptide.  the above compound improves the charge retention of  the photoconductive layer, i. e.  lowers its dark-decay, under  conditions of high relative humidity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

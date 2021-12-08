@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008811
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-71/08 <main>C09D-3/49</main> C08L-79/00 C09D-179/04 C09D-175/00 H01B-3/30 C09D-179/00 C09D-201/00 C08L-79/04 H01B-7/02 C08L-75/00 C09D-171/00 C09D-5/25 C08L-71/00 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat-curable adhesive melt varnish, its preparation and its application.
+</TITLE>
+<APPLICANT>
+schweizerische isolawerke ch <sep>schweizerische±isola-werke<sep>schweizerische isola-werkech-4226 breitenbachch<sep>schweizerische isola-werke  <sep>
+</APPLICANT>
+<INVENTOR>
+allemann werner<sep>borer karl<sep>heim peter dr<sep>allemann, werner<sep>borer, karl<sep>heim, peter, dr.<sep>allemann, wernerarchweg 21ch-4226 breitenbachch<sep>borer, karlhofacker 138ch-4249 grindelch<sep>heim, peter, dr.achilles-bischoff-strasse 6ch-4053 baselch<sep>allemann, werner<sep>borer, karl<sep>heim, peter, dr.<sep>allemann, wernerarchweg 21ch-4226 breitenbachch<sep>borer, karlhofacker 138ch-4249 grindelch<sep>heim, peter, dr.achilles-bischoff-strasse 6ch-4053 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+The thermosetting hot melt plate contains a solution of a thermosetting mixture of various resins in a solvent or solvent mixture that boils at a temperature in the range of 50 to 230 ° C, preferably 130 to 210 ° C.The thermosetting mixture consists of a polyhydantoin resin, a polyhydroxypolyether or phenoxy resin and a polyu rethan resin, which each must have a particular structure and a particular specific viscosity.The composition of the thermosetting mixture must be within the hatched area in FIG.1 lie.The hot melt plate can be used to make back paint wires which serve to produce mecha nich and thermally highly stressed electromagnetic coils.However, it can also be applied to other carrier temers or can be converted by failures in a non-solvent in hot melt adhesive powder.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017090
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06K-9/32</main> G06K-9/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for sensing a line of characters, and character recognition apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+jih chentung robert<sep>jih, chentung robert<sep>jih, chentung robert3805 thousand oaks drivesan jose, californiaus<sep>jih, chentung robert <sep>jih, chentung robert3805 thousand oaks drivesan jose, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+character recognition apparatus detects baseline of a  line of characters as an aid to segmentation in a recognition  processor (16).  the characters may include underlined  characters, characters of different height, characters extend­ ing below the baseline, and characters with subscripts.  a line  of sensor elements of a scanner (11) makes vertical scans  successively along a line of characters.  the lowest character  parts occurring in a narrow band or search window extend­ ing along the line of characters and including the baseline  are determined by logic circuitry (26 to 29), and by a search  window selection circuit (31), responsive to a coarse baseline  prediction derived from character part histograms, each for a  respective group of characters along the line.  a histogram  generator (13) develops the histograms.  the search window  technique excludes underlinings from baseline determina­ tion.  averaging circuits (32) determine baseline from the  determined lowest character parts.  excessive coarse base­ line skew prediction is recognised by the processor (16) and  operation of the apparatus is halted to allow document  repositioning.  
+</ABSTRACT>
+</TEXT>
+</DOC>

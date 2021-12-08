@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012773
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-251/00 C07D-251/32 <main>C07D-251/32</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing cyanuric acid.
+</TITLE>
+<APPLICANT>
+nippon soda cojp<sep>nippon soda co., ltd.<sep>nippon soda co., ltd.2-1, ohtemachi 2-chomechiyoda-ku, tokyo 100jp<sep>nippon soda co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+ichihara ryoichi <sep>kikuchi ichiro - simonagaya-ch<sep>kizawa hidenori  <sep>yao toshio<sep>ichihara, ryoichi<sep>kikuchi, ichiro 2510-1, simonagaya-cho koonan-ku<sep>kizawa, hidenori<sep>yao, toshio<sep>ichihara, ryoichi1160-2, ohaza fujisawa nakago-muranakakubiki-gun, niigata, 949-23jp<sep>kikuchi, ichiro 2510-1, simonagaya-cho koonan-kuyokohama-shikanagawa, 233jp<sep>kizawa, hidenori2-33-15 kamisoshigayasetagaya-ku, tokyo 157jp<sep>yao, toshio5-24-2 mukainohonmachitakaoka-shi, toyama 933jp<sep>ichihara, ryoichi<sep>kikuchi, ichiro 2510-1, simonagaya-cho koonan-ku<sep>kizawa, hidenori<sep>yao, toshio <sep>ichihara, ryoichi1160-2, ohaza fujisawa nakago-muranakakubiki-gun, niigata, 949-23jp   <sep>kikuchi, ichiro 2510-1, simonagaya-cho koonan-kuyokohama-shikanagawa, 233jp<sep>kizawa, hidenori2-33-15 kamisoshigayasetagaya-ku, tokyo 157jp<sep>yao, toshio5-24-2 mukainohonmachitakaoka-shi, toyama 933jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a men of preparing cyanuric acid wherein molten  urea is heeted up to the temperature rnnge of from 180° c to  a 300° c by the use of high-frequency dielectric heating.  the  molten urea may be either molten urea substantially com­ posed of uraa or molten urea which includes molten biurets.   the molten urea is converted to cyanuric acid by the genera­ tion of heat caused by the dielectric loss in a high-frequency  electric field.  it will be noted that cyanuric acid does not gen­ erate heat.  thus, this invention eliminates the disadvantages  of the conventional methods, such as poor heat transfer to  the reaction system, contamination of product by raw mater­ ial, excess heating of product adhesion of product to the  walls of reaction vessel and the like.  
+</ABSTRACT>
+<DESCRIPTION>
+description technical field: this invention relates to a process of producing cyanuric acid from urea. background art: the commercial processes of producing cyanuric acid (hereinafter referred to as "ca") using urea as the starting raw material consist basically of heating urea at 180 x 3000c for several hours to convert it to ca with evolution of ammonia gas. however, the conversion of urea to ca in the commercial operation involves such difficulties as summarized below; (a) the reaction mass solidifies in the course of conversion, and it turns to an inclusion containing urea, biuret, ca and others which requires additional heating to con vert the remained urea and biuret to ca, however, the additional heating is not carried out effectively because of poor heat conduction of the solidified reaction mass. (b) an excessive heating of the solidified reaction mass necessary for converting the intermediates into ca causes decomposition of ca formed in the mass. (c) the solidified reaction product adheres so str.ongly to the wall of the reactor that the removal of produt from the reactor is difficult. numerous methods have been proposed to overcome these problems, and they include such troublesome processes as employing a pulverized mixture of urea and the recycled ca for the starting raw material to be heated, as shown for example in the japanese published examined patent applidation no. 49-25676 (1974). it is therefore an object of this invention to provide a process of producing ca from urea, whereby it is possible to overcome difficulties existed in the convertional processes. it is another object of this invention to provide a process of the type described, whereby the process is suitable for the commercial'prduction of ca from urea. disclosure of invention: in a process of producing cyanuric acid by heating urea at 180 x 300"c, the present invention consists of heating a fused state urea by means of a high frequency induction heating method. best mode of carrying out the invention: the fused state urea used as the starting raw material of this invention is prepared by heating conventionally available solid urea at a temperature above its melting point of about 1350c. the fused state urea is not necessarily composed of substantially pure melted urea but it may contain an amount of melted biuret which is formed when urea is heated to obtain melted urea. accordingly, the fused state urea is preferably prepared by heating urea at about 140 x 1500c for obtaining the substantially pure melted urea, or by hearing urea at about 160 x 2000c for obtaining a melted state urea containing up to about 30% of biuret. when the fused state urea is placed in a high frequency electric field, it is susceptible of generating heat due to its dielectric loss, and the dielectric heat thus generated converts the urea or biuret to ca. since the generation of dielectric heat occures internally in molecules of melted urea or melted biuret, the heating method eliminates the heat transfer problem of the conventional methods employing
+</DESCRIPTION>
+<CLAIMS>
+ claims   1. in a process of producing cyanuric acid comprising  the step of heating urea at from 1800c to 3000c, the  improvement wherein said heating of urea is carried  out by heating a fused state urea by means of a high  frequency induction heating method.   2. a process as claimed in claim 1, wherein said fused  state urea is substantially pure melted urea or a melted  state urea containing melted biuret.   3. a process as claimed in claim 2, wherein said melted  state urea contains melted biuret of up to 30%.   4. a process as claimed in claim 1, wherein said heating  is carried out at from 2000c to   2500c.      5. a process as claimed in claim 1, wherein said high  frequency induction heating employs high frequency    eletric    current of from 10mhz to 3000mhz.  
+</CLAIMS>
+</TEXT>
+</DOC>

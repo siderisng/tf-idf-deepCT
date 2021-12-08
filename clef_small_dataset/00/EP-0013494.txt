@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013494
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-3/66 G01B-21/06 G01B-7/04 G01P-3/64 G01B-7/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+measurement of velocity and/or distance.
+</TITLE>
+<APPLICANT>
+british gas corp gb<sep>british gas corporation<sep>british gas corporationrivermill house, 152 grosvenor roadlondon sw1v 3jlgb<sep>
+</APPLICANT>
+<INVENTOR>
+hayward iangb<sep>hayward, ian<sep>hayward, ian6 dunlin drivesouth beach estate blyth northumberlandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a non-contact system suitable for measuring veloc­ ity/distance of, an object travelling inside a ferromagnetic  pipeline utilizes magnetic dipoles written into the pipe surface  by a transmission coil.  these dipoles can be detected by a  magnetic detector situated a fixed distance from the trans­ mission point.  if the time taken for a dipole to travel from the  transmitter to the detector is recorded then this time will be  proportional to the velocity of the system.  the system therefore performs a dual role,   (a) as a velocity measurement device, and   (b) as a distance marker.  once the system detects a dipole it requests a further  imprint, hence, a constant spacing is maintained between  dipoles equal to the spacing between transmitter and detec­ tor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

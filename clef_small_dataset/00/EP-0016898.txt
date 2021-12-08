@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016898
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B21C-47/24</main> B65H-19/12 B21C-47/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coil carriage for transferring coils of sheet metal.
+</TITLE>
+<APPLICANT>
+voest alpine ag at<sep>voest-alpine aktiengesellschaft  <sep>voest-alpine aktiengesellschaftwerksgeländea-4010 linzat<sep>voest-alpine aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+sedlacek franz<sep>szolga karl<sep>sedlacek, franz<sep>szolga, karl<sep>sedlacek, franzhaiderstrasse 19a-4020 linzat<sep>szolga, karlleondingerstrasse 6a-4050 traunat<sep>sedlacek, franz  <sep>szolga, karl <sep>sedlacek, franzhaiderstrasse 19a-4020 linzat<sep>szolga, karlleondingerstrasse 6a-4050 traunat<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a coil car (1) for conveying sheet metal coils, comprising a lifting table (4), in which a coil support (7) is mounted for rotation about a vertical axis (8) and is pivotally movable by drive means comprising at least one hydraulic cylinder (13), which is mounted on the lifting table (4), characterized in that the coil support (7) is pivotally movable through 180 degrees and is adapted to be driven beyond the planet carrier (12) of a planetary gear train (9) which consists of a sun gear (10), which is non-rotatably connected to the coil support (7), a planet pinion (11) mounted on the planet carrier (12) and an internal gear segment (14), which is carried by the lifting table (4) and meshes with the planet pinion (11), and that the a axis of the sun gear (10) is coaxial to the vertical axis (8). 
+</ABSTRACT>
+<DESCRIPTION>
+bund-gen zum fördern von blechbunden die erfindung bezieht sich auf einen bundwagen zum fördern von blechbunden mit einem hubtisch, in dem eine bundauflage um eine vertikale achse drehbar gelagert und über einen antrieb verschwenkbar ist. fördervorrichtungen für blechbunde bestehen häufig aus zwei oder mehreren bundwagen, die miteinander gekuppelt und zwischen ortsfesten bundablagen verfahrbar sind. die von einem kran od. dgl. an der aufgabestelle auf der bundablage abgesetzten bunde werden durch anheben des hubtisches des ersten bundwagens von der bundablage abgehoben und zur nächsten bundablage gefahren, wo sie durch ein senken des hubtisches wieder abgesetzt werden. kehren die#bundwagen in ihre ausganslage zurück, so befindet sich der erste wagen wieder im bereich der aufgabestelle, während der zweite wagen unterhalb des abgesetzten bundes steht. durch ein anheben des hubtisches des zweiten wagens und ein wiederholtes verfahren der bundwagen kann somit eine reihe von bunden zwischen einer aufgabestelle und einer bearbeitungsanlage von ablage zu ablage weitergefördert werden. da zur weiterverarbeitung der bleche die bunde üblicherweise abgewickelt werden und der abwickelsinn zufolge der haspelkonstruktion festgelegt ist, müssen die bunde in einer bestimmten weise vom haspel übernommen werden. wird folglich ein bund an der aufgabestelle falsch orientiert abgelegt, so muss er, um den abwickelsinn des haspels beibehalten zu können, um 1800 gedreht werden, damit die zunächst in förderrichtung weisende stirnseite des bundes entgegen der förderrichtung zeigt. zu diesem zweck wird der bund durch ein hebezeug erfasst, gewendet und wieder abgelegt. dieses wenden der blechbunde erfordert aber - nicht nur einen zusätzlichen arbeitsaufwand, sondern bringt auch die zusätzliche gefahr einer bundbeschä dsgung mit sich. ausserdem kann nur mit aufwendigen mitteln gewährleistet werden, dass der bund wieder an der gleichen stelle abgesetzt wird. die mittige lage des bundes auf den einzelnen bundablagen wird daher gefährdet, was lagekorrekturen erforderlichen macht. der erfindung liegt somit die aufgabe zugrunde, diese mängel zu vermeiden und einen bundwagen der ein- gangs geschilderten art so zu verbessern, dass ein einfaches wenden der bunde ohne beschädigungsgefahr und ohne zusätzliche lagekorrekturen gewährleistet wird. die erfindung löst die gestellte aufgabe dadurch, 0 dass die bundauflage um 180 verschwenkbar und vorzugs weise über den steg eines umlaufgetriebes antreibbar ist, das aus einem drehfest mit der bundauftage verbundenen zentralrad, einem am steg gelagerten umlauf rad und einem mit dem umlaufrad kämmenden, am hubtisch angeordneten, innen verzahnten zahnkranzsegment besteht. auf grund der gegenüber dem hubtisch drehbaren lagerung der bundauflage braucht zum winden des bundes dieser nicht mehr vom bundwagen abgehoben zu werden, so dass auch alle mit dem abheben verbundenen nachteile entfallen. der mittig auf der bundauflage liegende bund wird bei angehobenem hubtisch einfach mit der bundauflage um deren drehachse um 1800 ver schwenkt, wobei die drehachse der bundauflage selbstverständlich durch die auflagenmitte hindurchgehen muss, um beim verschwenken keine versetzungen zu erhalten. grundsätzlich ist die schwenkbarkeit von bundauflagen bekannt, doch dienen die bekannten, schwenkbaren bundauflagen nur dazu, die einem abwickelhaspel zuzuführenden bunde mit hilfe einer senkrecht zur förderrichtung des bundes angeordneten schere beschneiden zu können, was einen schwenkwinkel von 900 erfordert. gemäss dem stand der technik soll durch das verschwenken
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche:   1. bundwagen zum fördern von blechbunden mit einem hubtisch, in dem eine bundauflage um eine vertikale achse drehbar gelagert und über einen antrieb verschwenkbar ist, dadurch gekennzeichnet dass die bundauflage (7) um 1800 verschwenkbar und vorzugsweise über den steg   (12)    eines umlaufgetriebes (9) antreibbar ist, das aus einem drehfest mit der bundauflage (7) verbundenen zentralrad (10), einem am steg (12) gelagerten umlaufrad (11) und einem mit dem umlaufrad (11) kämmenden, am hubtisch (4) angeordneten, innenverzahnten zahnkranzsegment (14) besteht.   2. bundwagen nach anspruch 1, dadurch gekennzeichnet, dass der steg (12) des umlaufgetriebes (9) in an sich bekannter weise über wenigstens einen am hubtisch (4) gelagerten hydraulikzylinder (13) verschwenkbar ist.  
+</CLAIMS>
+</TEXT>
+</DOC>

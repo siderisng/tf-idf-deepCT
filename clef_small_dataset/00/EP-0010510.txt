@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010510
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B21C-23/00</main> B21C-23/21 B21C-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvement in methods and devices for the continuous hydrostatic extrusion of metals.
+</TITLE>
+<APPLICANT>
+trefimetauxfr<sep>trefimetaux<sep>trefimetaux6, boulevard du général leclercf-92115 clichyfr<sep>trefimetaux<sep>
+</APPLICANT>
+<INVENTOR>
+moreau marc<sep>moreau, marc<sep>moreau, marc8, rue de champagnef-92600 asnieresfr<sep>moreau, marc  <sep>moreau, marc8, rue de champagnef-92600 asnieresfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a continuous hydrostatic extrusion methods and devices.In order to reduce the viscous fluid leaks by the games between rotor (3) and stator (6) necessary for the operation of the apparatus, it is used in the rotor bleeding, to advance the blank, a motor fluid having a motor fluid having a motor fluid having aViscosity greater than that of the fluid located in the isostatic chamber where the extrusion pressure reigns.The pumping power is, this in fact, strongly diminished, and we can avoid the use of expensive and fragile pressure multipliers.Application to continuous hydrostatic extrusion of metals.
+</ABSTRACT>
+</TEXT>
+</DOC>

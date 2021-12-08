@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008865
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-13/00 G01S-7/00 G01S-13/86 G01S-13/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fm/cw radar.
+</TITLE>
+<APPLICANT>
+decca ltdgb <sep>decca limited<sep>decca limited decca house 9 albert embankment london se1 7swgb<sep>
+</APPLICANT>
+<INVENTOR>
+pratt allan francisgb<sep>spiller basil harry roystongb<sep>pratt, allan francis<sep>spiller, basil harry royston<sep>pratt, allan francis10 beeches roadsutton, surreygb<sep>spiller, basil harry royston18 king's head lanebyfleet, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+in a frequency modulated carrier wave radar the detec­ tion of the beat frequency that represents range is inter­ rupted for short intervals that occur near maxima or minima  of the modulating signal (3a) that controls the frequency of  the transmitted carrier wave.  during these intervals of inter­ ruption the carrier wave is modulated in amplitude so that it  can convey information (b) to the target that it illuminates.  in  a preferred embodiment, the amplitude modulation consists  of a variable number of cycles of a voltage controlled oscil­ lator (7) of which the frequency is controlled by an integrated  signal which represents the beat frequency.  timing for the  short intervals of amplitude modulation and somewhat  longer intervals that extend before and after each interval of  amplitude modulation is derived from a square wave signal  (3b) that is produced by an oscillator that governs the fre­ quency of the carrier wave.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008497
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07D-265/00 C07F-7/10 C07D-265/06 C07D-477/20 A61K-31/40 C07F-9/568 C07D-477/04 C07F-7/00 C07D-477/00 C07D-205/00 C07D-205/08 <main>C07D-487/04</main> C07D-265/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beta-lactam-containing compounds, their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+ponsford roger john<sep>smale terence charles<sep>southgate robert<sep>ponsford, roger john<sep>smale, terence charles<sep>southgate, robert<sep>ponsford, roger john5 copse closewimblehurst park, horsham sussexgb<sep>smale, terence charles28 st. leonards roadepsom downs, surreygb<sep>southgate, robert7 tillets lanewarnham west sussexgb<sep>ponsford, roger john<sep>smale, terence charles<sep>southgate, robert<sep>ponsford, roger john5 copse closewimblehurst park, horsham sussexgb<sep>smale, terence charles28 st. leonards roadepsom downs, surreygb<sep>southgate, robert7 tillets lanewarnham west sussexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the compounds of the formula (ii):    wherein r₁ is a group such that co₂r₁ is a carboxylic acid  group or a salt or ester thereof; r₂ is a group of the sub-­ formula (a) or (b):   -cr₄ = c(r₅) nh. conr₆ (a)   -cr₇ = c(r₈)r₉ (b)   wherein r₄ is a hydrogen atom or a lower alkyl group; r₅ is a  hydrogen atom or a lower alkyl group; r₆ is a lower alkyl,  phenyl, fluorophenyl, chlorophenyl, bromophenyl or benzyl  group; and n is 1 or 2; r₇ is a hydrogen or a lowr alkyl group;  r₈ is a hydrogen atom or a lower alkyl group; r₉ is a hydrogen  atom or a lower alkyl or phenyl group; r₃ is a group of the  sub-formula (c):   cr₁₀r₁₁r₁₂ (c)   wherein r₁₀ is a hydrogen atom or a hydroxyl or o. co. r₁₃ or  o. co. or₁₃ group where r₁₃ is a lower alkyl, phenyl, benzyl,  fluorobenzyl, chlorobenzyl, bromobenzyl, lower alkoxybenzyl  or nitrobenzyl group; r₁₁ is a hydrogen atom or a lower alkyl  group; r₁₂ is a hydrogen atom or a lower alkyl group; said  compounds being in the form of r,s-mixture at c-5: are anti­ bacterial agents.  their use and a process for their preparation  is described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

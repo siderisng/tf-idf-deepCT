@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003197
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B24B-27/04</main> B24B-27/04 B24B-27/00 B23Q-1/38 B23Q-1/26 B23Q-1/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+grinding machine for very hard workpieces.
+</TITLE>
+<APPLICANT>
+produits refractairesfr<sep>societe europeenne des produits refractaires<sep>societe europeenne des produits refractaires67, boulevard du châteauf-92200 neuilly-sur-seinefr<sep>societe europeenne des produits refractaires <sep>
+</APPLICANT>
+<INVENTOR>
+parigot georges<sep>passerat jean-louis<sep>parigot, georges<sep>passerat, jean-louis<sep>parigot, georgesquartier le villagef-84520 althen des paludsfr<sep>passerat, jean-louis637, chemin de la croix de joannisf-84140 montfavetfr<sep>parigot, georges <sep>passerat, jean-louis  <sep>parigot, georgesquartier le villagef-84520 althen des paludsfr<sep>passerat, jean-louis637, chemin de la croix de joannisf-84140 montfavetfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The machine comprises an oscillating arm (1) in a vertical plane, movable about an axis (7) attached to a support (8);displacement means (10) of the arm;a table (13) raised by hydrostatic pads (15) powered by cutting fluid;A base (12) on which the table and the bidirectional displacement means (29, 32) of the table moves.A pressure-feed hydraulic device controls the vertical movement of the arm by a double-acting cylinder (10), one of which ensures safety in case of efforts too large on the grinding wheel.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009744
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-8/46 <main>G03B-17/52</main> G03C-8/00 G03B-17/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic film unit with an integral assembly.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kovacic guido<sep>luhrig hermann dipl-ing<sep>muller horst-peter ing grad<sep>kovacic, guido<sep>luhrig, hermann, dipl.-ing.<sep>muller, horst-peter, ing. grad.<sep>kovacic, guidoschulstrasse 7d-5463 unkelde<sep>lührig, hermann, dipl.-ing.heinrich-von-kleist-strasse 12d-5090 leverkusen 1de<sep>müller, horst-peter, ing. grad.eigelstein 22d-5000 köln 1de<sep>kovacic, guido <sep>luhrig, hermann, dipl.-ing.<sep>muller, horst-peter, ing. grad.  <sep>kovacic, guidoschulstrasse 7d-5463 unkelde<sep>lührig, hermann, dipl.-ing.heinrich-von-kleist-strasse 12d-5090 leverkusen 1de<sep>müller, horst-peter, ing. grad.eigelstein 22d-5000 köln 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+a photographic instant image unit consisting of a picture sheet (1) and a cover sheet (2) connected by a mask blade (3,4,5) and at one end a container (7) for photographic developers and on the other a trap(8) Own for excess developers, it is thus provided with laterally attached Füh tion channels (28) that the displaced air and about excess developing liquid can flow back from the trap (8) to the developing container (7).
+</ABSTRACT>
+</TEXT>
+</DOC>

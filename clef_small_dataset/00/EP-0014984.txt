@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014984
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-37/00 A61K-31/7028 <main>C07H-15/04</main> C07K-1/113 C07H-15/18 C07K-9/00 C07H-15/04 C07H-13/04 C07K-1/00 A61K-31/70 A61K-31/7024 C07H-13/08 C07H-15/00 A61P-37/04 C07H-13/00 A61K-38/00 A61K-39/39 A61P-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+glucosamine-peptide derivatives, their production and use.
+</TITLE>
+<APPLICANT>
+takeda chemical industries ltd jp<sep>takeda chemical industries, ltd.<sep>takeda chemical industries, ltd.1-1, doshomachi 4-chomechuo-ku, osakajp<sep>takeda chemical industries, ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+azuma ichiro hokko-komuinshuku<sep>shigeru kobayashi<sep>yamamura yuichi<sep>azuma, ichiro hokko-komuinshukusha 76<sep>shigeru kobayashi<sep>yamamura, yuichi<sep>azuma, ichiro hokko-komuinshukusha 762-higashi 3-chome kita 28-jo, higashi-kusapporo, hokkaido 065jp<sep>shigeru kobayashi22-18, higashi-korienchoneyagawa, osaka 572jp<sep>yamamura, yuichi9-22, nigawatakadai 1-chometakarazuka, hyogo 665jp<sep>azuma, ichiro hokko-komuinshukusha 76<sep>shigeru kobayashi<sep>yamamura, yuichi<sep>azuma, ichiro hokko-komuinshukusha 762-higashi 3-chome kita 28-jo, higashi-kusapporo, hokkaido 065jp<sep>shigeru kobayashi22-18, higashi-korienchoneyagawa, osaka 572jp<sep>yamamura, yuichi9-22, nigawatakadai 1-chometakarazuka, hyogo 665jp<sep>
+</INVENTOR>
+<ABSTRACT>
+novel glucosamine-ceptide derivatives of the formula:    wherein   m is 0 or 1;   n is 0 or an integer of 1 to 9;   r is lower alkyl which may be substituted with hydroxyl, or  aryl;   r¹ is hydrogen or acyl having an acyclic hydrocarbon group,  the terminal of which may be substituted with a cyclic hyd­ rocarbon group directly, via a carbonyl group or via an oxygen  atom;   provided that when r¹ is hydrogen m is i;   r² is hydrogen or lower alkyl which may form a ring by  connecting its terminal with the α-nitrogen atom when n is 0,  or hydrogen when n is an integer of 1 to 9;   r is hydrogen or lower alkyl;   r⁴ and r⁵ are each hydrogen or lower alkyl whch may be  substituted with hydroxyl or benzyloxyl;   r⁶ is hydrogen or lower alkyl;   r⁷ is alkyl which may be substituted with lower alkoxyl or  aralkyl;   r⁸ and r⁹ are each hydrogen, lower alkyl or aralkyl; and (d)  and (l) each indicate configurations if their respective carbon  atoms are asymmetric;   or an acid addition salt thereof, have immunostimulatory  activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

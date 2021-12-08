@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010927
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-31/00 <main>C07C-29/82</main> C07C-29/80 C07C-29/00 C07C-31/08 C07C-67/00 C07C-29/82 C07C-27/00 C07C-29/84 B01D-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved method of producing ethanol-water azeotrope from crude ethanol.
+</TITLE>
+<APPLICANT>
+bp chem int ltdgb<sep>bp chemicals limited<sep>bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>bp chemicals limited  <sep>
+</APPLICANT>
+<INVENTOR>
+griffiths michael john bp chem<sep>jenkins arthur evan owen bp ch<sep>griffiths, michael john bp chemicals limited<sep>jenkins, arthur evan owen bp chemicals limited<sep>griffiths, michael john bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>jenkins, arthur evan owen bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>griffiths, michael john bp chemicals limited<sep>jenkins, arthur evan owen bp chemicals limited<sep>griffiths, michael john bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>jenkins, arthur evan owen bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a process for purifying crude  ethanol, whether produced by fermentation or by the syn­ thetic route, to produce a pure ethanol-water azeotrope.   the process uses only two distillation columns for fermen­ tation ethanol and only three columns for synthetic ethanol  because the latter has diethyl ether as impurity.  the inven­ tive concept lies in the design and specification of the col­ umns and the specific distillation conditions which enable  each of the impurities in ethanol to be reduced below  1 ppm.  ethanol of such purity is most desirable when used  for potable or pharmaceutical purposes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

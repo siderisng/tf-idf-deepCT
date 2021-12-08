@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002304
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-333/00 <main>C07D-333/28</main> C07D-333/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of preparing a 3-iodothiophene.
+</TITLE>
+<APPLICANT>
+oce andeno bv nl <sep>oce-andeno b.v.<sep>océ-andeno b.v.grubbenvorsterweg 8nl-5928 nx venlonl<sep>oce-andeno b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+houbiers joannes paulus marie<sep>thijssen francina helena johan<sep>houbiers, joannes paulus marie<sep>thijssen, francina helena johanna<sep>houbiers, joannes paulus mariemetternichstraat 11tegelennl<sep>thijssen, francina helena johannavastenavondkampstraat 24venlonl<sep>houbiers, joannes paulus marie <sep>thijssen, francina helena johanna<sep>houbiers, joannes paulus marie metternichstraat 11 tegelen nl <sep>thijssen, francina helena johannavastenavondkampstraat 24venlonl<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for preparing a 3-iodothiophene from a  corresponding 3-bromothiophene comprising reacting with  copper (i)iodide in a polar aprotic solvent and at an elevated  temperature a 3-bromothiophene of formula    wherein   r₁ = h or a c₁₋₄ alkyl group   r₂ = h or a c₁₋₂ alkyl group   r₃ = h or a c₁₋₂ alkyl group   with the proviso that r₂ and r₃ do not represent an alkyl  group at the same time.  
+</ABSTRACT>
+</TEXT>
+</DOC>

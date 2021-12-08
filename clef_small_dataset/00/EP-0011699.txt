@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011699
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-5/19 H04L-25/02 H04L-7/00 H04B-3/04 G01R-29/02 H04L-1/00 H04Q-1/20 H04L-1/20 <main>G01R-29/02</main> H04L-25/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for measuring the phase jitter of digital signals, and its use.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kammerlander karl<sep>kammerlander, karl<sep>kammerlander, karlwiesenstrasse 10d-8190 wolfratshausende<sep>kammerlander, karl<sep>kammerlander, karlwiesenstrasse 10d-8190 wolfratshausende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is a circuit which makes it possible to measure the phase jitter of an incoming little-stens proportions in digital form on the terminal of a transmission path, in particular a mobile transmit receiving station without the need for recipient-side synchronization.The scarf device consists essentially of a differentiating circuit (DS, DS ') forming the digital signals or digital signal components in drawing pulses, at least one time function transmitter (ZG), which freely generates a periodic time function and from the character change pulse at the output of the differentiating circuitis reset to a predetermined starting position and an evaluation circuit (AS) forming a mean value, which is supplied to a passing side of the instantaneous time function values upon occurrence of a drawing pulse.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012884
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-27/227 <main>H04L-25/03</main> H04L-7/027 H04L-25/03 H04B-3/04 H04B-3/10 H04L-27/38 H04L-7/10 H04L-7/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for detecting a pseudo-random sequence of two symbols in a data receiver using a double sideband modulation with quadrature carriers.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+godard dominique noel<sep>godard, dominique noel<sep>godard, dominique noelvilla l'ormeau de barnaracf-06650 le rouretfr<sep>godard, dominique noel<sep>godard, dominique noelvilla l'ormeau de barnaracf-06650 le rouretfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A method for detecting a pseudo-random sequence of symbols chosen from one set of two pre-determined symbols in a quadrature carrier dual double band modulation system in which this sequence is preceded by an alternation sequence between two symbols.The phase and quadrature components of the received, demodulated, available, 39 and 40 signal filtered in 50 and 51. The measurement of the energy energy energies having the outputs of 50 and 51 makes it possible to determine theBeginning of the pseudo-random sequence.Application to the detection of the equalizer initialization sequence recommended by the CCITT V29 opinion.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013291
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-9/30 G06F-9/318 G06F-13/00 G06F-9/22 G06F-9/26 <main>G06F-9/06</main> G06F-9/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+instruction fetch control system in a computer.
+</TITLE>
+<APPLICANT>
+ibm us <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+berglund neil clair<sep>crowley richard douglas<sep>kempke william george<sep>richardson william cain<sep>berglund, neil clair<sep>crowley, richard douglas<sep>kempke, william george<sep>richardson, william cain<sep>berglund, neil clairrr nr.1 box 74hkasson, minnesota 55944us<sep>crowley, richard douglasrr nr.1mazeppa, minnesota 55956us<sep>kempke, william george919 nw 20 streetrochester, minnesota 55901us<sep>richardson, william cain1856 nw 18 1/2 streetrochester minnesota 55901us<sep>berglund, neil clair <sep>crowley, richard douglas<sep>kempke, william george  <sep>richardson, william cain <sep>berglund, neil clairrr nr.1 box 74hkasson, minnesota 55944us<sep>crowley, richard douglasrr nr.1mazeppa, minnesota 55956us<sep>kempke, william george919 nw 20 streetrochester, minnesota 55901us<sep>richardson, william cain1856 nw 18 1/2 streetrochester minnesota 55901us<sep>
+</INVENTOR>
+<ABSTRACT>
+an i-fetch control system for a computer includes a con­ trol store (30) for storing end op, i-1, i-2 and return words.  a  microinstruction decode and control unit (170) responds to  end op words to initialize and personalize computer compo­ nents to facilitate subsequent execution of a high level  instruction.  the control unit (170), in conjunction with a next  address logic (162), selects the next micro-instruction   to be  executed in response to a high level instruction.  the control  unit (170) and logic (162) are responsive to i-1 words to per­ sonalize the computer and to select a microinstruction to  begin e-phase of a high level instruction.  in response to i-2  control words, the control unit (170) and logic (162) select an  operand fetch routine in the control store (30), and write a first  e-phase address into a local store (138).  the return word gates  the first e-phase address from the local store (138) to select a  microinstruction in the control store (30) to being e-phase.  
+</ABSTRACT>
+</TEXT>
+</DOC>

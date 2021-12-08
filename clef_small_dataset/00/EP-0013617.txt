@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013617
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-499/00</main> C07D-513/00 C07D-499/00 C07D-513/04 A61K-31/43 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+penicillin derivatives, process for their preparation and pharmaceutical compositions containing certain of these compounds.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb <sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+denerley paul millington<sep>giddings peter john  <sep>john david ivor<sep>thomas eric james<sep>tyrrell nicholas david<sep>denerley, paul millington<sep>giddings, peter john<sep>john, david ivor<sep>thomas, eric james<sep>tyrrell, nicholas david<sep>denerley, paul millington12 the gables wimblehurst roadhorsham, sussexgb<sep>giddings, peter john28 orchard roadwestbury, wiltshiregb<sep>john, david ivor120 tattenham groveepsom downs, surreygb<sep>thomas, eric james25 alzey gardensharpenden, hertfordshiregb<sep>tyrrell, nicholas davidoak field house debden greenloughton, essexgb<sep>denerley, paul millington<sep>giddings, peter john <sep>john, david ivor<sep>thomas, eric james  <sep>tyrrell, nicholas david<sep>denerley, paul millington12 the gables wimblehurst roadhorsham, sussexgb<sep>giddings, peter john28 orchard roadwestbury, wiltshiregb<sep>john, david ivor120 tattenham groveepsom downs, surreygb<sep>thomas, eric james25 alzey gardensharpenden, hertfordshiregb<sep>tyrrell, nicholas davidoak field house debden greenloughton, essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a process for the preparation of  certain penicillin derivatives which are useful as β-lactamase  inhibitors.  the compounds which may be prepared by the  process of this invention have formula (i), or a pharmaceuti­ cally acceptable salt or ester thereof:    wherein r represents hydrogen, halogen, c₁₋₆alkylthio,  c₁₋₆alkyl or alkyl substituted with phenyl, carboxy,  c₁₋₆alkoxycarbonyl, hydroxy or c₁₋₆alkylthio, and n is zero, 1  or 2.  in addition certain of the compounds produced by the  process of the invention are novel compounds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

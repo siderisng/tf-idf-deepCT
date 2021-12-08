@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008241
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09J-103/02 C08B-30/12 C08B-31/00 <main>C13L-1/08</main> C09J-103/00 C08B-30/14 C08B-30/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+chemical-mechanical starch conversion.
+</TITLE>
+<APPLICANT>
+grain processing corpus  <sep>grain processing corporation<sep>grain processing corporation1600 oregon streetmuscatine, iowa 52761-0349us<sep>grain processing corporation<sep>
+</APPLICANT>
+<INVENTOR>
+gallaher thomas l<sep>harvey richard d<sep>mullikin raymond lee<sep>small thomas l<sep>gallaher, thomas l.<sep>harvey, richard d.<sep>mullikin, raymond lee<sep>small, thomas l.<sep>gallaher, thomas l.1106 robin roadmuscatine, iowaus<sep>harvey, richard d.r.r. 6, box 53muscatine, iowaus<sep>mulliken, raymond lee808 east 10th streetmuscatine, iowaus<sep>small, thomas l.920 west 3rd streetmuscatine, iowaus<sep>gallaher, thomas l.<sep>harvey, richard d. <sep>mulliken, raymond lee<sep>small, thomas l.  <sep>gallaher, thomas l. 1106 robin roadmuscatine, iowaus<sep>harvey, richard d.r.r. 6, box 53muscatine, iowaus<sep>mulliken, raymond lee808 east 10th streetmuscatine, iowaus<sep>small, thomas l.920 west 3rd streetmuscatine, iowaus<sep>
+</INVENTOR>
+<ABSTRACT>
+gelatinization and dispersion of starch with a starch  solvent such as sodium hydroxide and using mechanical  shear is described.  the process is operated very rapidly by applying a  shearing force to a mixture of an aqueous starch slurry  and the solvent, for example with a centrifugal pump oper­ ated under a back pressure.  no external heat need be ap­ plied.  the viscosity of the starch paste produced can range  from one to two times the shear stable viscosity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

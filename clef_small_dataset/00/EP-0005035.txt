@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005035
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+D04H-1/42 <main>A61F-1/00</main> A61L-27/00 A61L-27/14 D04H-1/70 D04H-1/72 D01D-5/00 A61F-2/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of preparing a tubular product by electrostatic spinning.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>univ liverpoolgb<sep>imperial chemical industries limited<sep>university of liverpool<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>the university of liverpoolmount pleasant, senate house, abercromby square, p.o. box 147liverpool l69 3bxgb<sep>imperial chemical industries plc<sep>university of liverpool  <sep>
+</APPLICANT>
+<INVENTOR>
+bornat alan<sep>bornat, alan<sep>bornat, alan5 kelvin groveliverpool 8gb<sep>bornat, alan<sep>bornat, alan5 kelvin groveliverpool 8gb<sep>
+</INVENTOR>
+<ABSTRACT>
+tubular products are prepared by electrostatically spinning  a fibre forming material and collecting the spun fibres  on a receiver comprising a core and a sheath.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003927
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25B-1/10 F24J-3/00 F04D-29/58 F24J-3/04 <main>F25B-1/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for supplying or extracting heat to or from a condensable working fluid and a device working according to this method.
+</TITLE>
+<APPLICANT>
+cem comp electro mecfr<sep>c e m compagnie electro mecanique societe anonyme<sep>c e m compagnie electro mecanique société anonyme12, rue portalisf-75008 parisfr<sep>c e m compagnie electro mecanique societe anonyme  <sep>
+</APPLICANT>
+<INVENTOR>
+sterlini jacques<sep>sterlini, jacques<sep>sterlini, jacques7, rue du mailf-75002 parisfr<sep>sterlini, jacques<sep>sterlini, jacques7, rue du mailf-75002 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for providing or removing heat from a condensable fluid.wherein at least one portion of the fluid is passed into the tubes of an exchanger under conditions such that there is diphasic with a mass title of 0.03 to 0.97 the fluid being in the saturation conditions.The input and output of the exchanger, and the loss of charge being distributed over the entire exchanger.A heat pump installation according to this method comprises successive modules each comprising a heat exchanger (1), a separator (2), a compressor stage (3) and an ejector (4).Application to heat pumps.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002401
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-295/192 A61K-31/495 A61K-31/425 A61K-31/42 A61K-31/535 C07D-295/205 C07D-295/20 C07D-295/096 C07D-279/12 A61K-31/54 A61K-31/5375 <main>C07D-295/08</main> C07D-295/22 C07D-295/185 C07D-295/18 C07D-295/08 C07D-295/215 C07D-295/00 C07D-295/26 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of naphthalene, process for their preparation and their therapeutic application.
+</TITLE>
+<APPLICANT>
+synthelabofr<sep>synthelabo<sep>synthelabo22, avenue galiléef-92350 le plessis robinsonfr<sep>synthelabo<sep>
+</APPLICANT>
+<INVENTOR>
+galtier daniel jean marie<sep>purcell thomas andrew<sep>shroot braham<sep>galtier, daniel jean marie<sep>purcell, thomas andrew<sep>shroot, braham<sep>galtier, daniel jean marie20, rue jean forestf-78210 st cyr l'ecolefr<sep>purcell, thomas andrew10, avenue gabriel périf-92260 fontenay aux rosesfr<sep>shroot, braham9bis, rue condorcetf-94230 cachanfr<sep>galtier, daniel jean marie<sep>purcell, thomas andrew<sep>shroot, braham<sep>galtier, daniel jean marie20, rue jean forestf-78210 st cyr l'ecolefr<sep>purcell, thomas andrew10, avenue gabriel périf-92260 fontenay aux rosesfr<sep>shroot, braham9bis, rue condorcetf-94230 cachanfr<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds responding to the formula (I) wherein R 'is a hydrogen atom the methyl radical and R represents a radical wherein Z is an O, S, S → O, SO₂ or NR₁ group wherein R₁ is a atom. hydrogen or an alkyl radical, ConR₂R₃, COOR₂, Cor₂ or SO₂R₂, R₂ and R₃ each independently representing one of the other, a hydrogen atom, an alkyl radical of 1 to 4 carbon atoms the phenyl radical or the Radical CF₃, in the form of racemates or enantiomers when R 'is CH₃, as well as their pharmaceutically acceptable acid addition salts. These compounds are prepared by reacting the acid halogen (II) with an HR amine, and then reducing the intermediate obtained, - either by reacting the mesylate (V) (obtained by reaction between the naphatalenic alcohol corresponding and a methylsulfonyl halide) with an HR amine, - or according to conventional methods, from another derivative of formula (I). The compounds can be used in human and veterinary therapy, particularly in the treatment of inflammatory states, such as arthritis.
+</ABSTRACT>
+</TEXT>
+</DOC>

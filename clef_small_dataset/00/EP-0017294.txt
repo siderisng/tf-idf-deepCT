@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017294
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-303/14 <main>C07D-301/32</main> C07D-301/32 C07D-303/04 C07D-303/08 C07D-301/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the purification of olefin oxides.
+</TITLE>
+<APPLICANT>
+propylox sabe<sep>propylox (societe anonyme)<sep>propylox (société anonyme)12, avenue de la renaissanceb-1040 bruxellesbe<sep>propylox (societe anonyme)<sep>
+</APPLICANT>
+<INVENTOR>
+durieux teddy<sep>hardy nicolas<sep>durieux, teddy<sep>hardy, nicolas<sep>durieux, teddyavenue des acacias, 46b-5790 jemeppe-sur-sambrebe<sep>hardy, nicolasrue de la taille, 52b-5790 jemeppe-sur-sambrebe<sep>durieux, teddy <sep>hardy, nicolas<sep>durieux, teddy avenue des acacias, 46 b-5790 jemeppe-sur-sambre be<sep>hardy, nicolasrue de la taille, 52b-5790 jemeppe-sur-sambrebe<sep>
+</INVENTOR>
+<ABSTRACT>
+The method includes sending the mixtures to be purified in a column to be distilled, in the presence of small amounts of water, to be taken from the column to be distilled part of the runoff liquid, to submit the fraction taken from a decantation so as to separateThe aqueous phase that is rejected from the organic phase and to return the organic phase into the column to be distilled at a point below the point of sampling.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006566
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/1335 G02F-1/1337 G02F-1/13 G02F-1/133 <main>G02F-1/133</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid-crystal cell.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+bechteler martin dr dipl-ing<sep>kruger hans dipl-phys<sep>bechteler, martin, dr., dipl.-ing.<sep>kruger, hans, dipl.-phys.<sep>bechteler, martin, dr., dipl.-ing.nelkenweg 10d-8011 kirchheim, ortsteil heimstettende<sep>krüger, hans, dipl.-phys.peralohstrasse 13d-8000 münchen 83de<sep>bechteler, martin, dr., dipl.-ing.  <sep>kruger, hans, dipl.-phys.<sep>bechteler, martin, dr., dipl.-ing.nelkenweg 10d-8011 kirchheim, ortsteil heimstettende<sep>krüger, hans, dipl.-phys.peralohstrasse 13d-8000 münchen 83de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an electro-optical display device, especially a liquid crystal display whose carrier plates are versed with a guide layer and a dielectric coating. In a liquid crystal cell, this coating is usually used to orient the liquid crystal layer. In order to antix with such a display, the conductive layers are proposed according to the invention, proposed to give the conductive layer and the coating the following thick D₁ or D₂: 0. 5 d₁ ≦ d₁ ≦ 1. 5d₁ and 0. 5 d₂ ≦ d₂ 1.5 d₂, wherein with D₁ = thickness of the guide layer, D₂ = thickness of the dielectric layer, λ = mean free wavelength of the operating light, N₁ = refractive index of the conductive layer, N₂ = refractive index of the di electric layer, N₀ = refractive index of the carrier plate and N₃ = refractive index of the medium At rest. In a particularly preferred embodiment, 0. 85D₁ ≦ D₁ ≦ 1. 15D₁ and 0. 85D₂ ≦ D₂ ≦ 1. 15 d₂. It is possible in the context of the invention. The thickness d₁ and d₂ should be dimensioned so that the guide layer-free behind basic surface of the display can be held reflection-free or that the reflections of the conductive layer and the guide layer-free background surface are the same.
+</ABSTRACT>
+</TEXT>
+</DOC>

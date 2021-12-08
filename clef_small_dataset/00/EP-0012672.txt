@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012672
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21D-1/00 G21C-1/00 H05B-3/06 <main>G21C-1/08</main> G21C-1/09 F24H-9/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the detachable mounting of an electric resistance heating element in the pressurizer of a nuclear reactor.
+</TITLE>
+<APPLICANT>
+framatome safr<sep>framatome<sep>framatometour fiat 1, place de la coupole92400 courbevoiefr<sep>framatome <sep>
+</APPLICANT>
+<INVENTOR>
+brunaud daniel<sep>coussau jean<sep>brunaud, daniel<sep>coussau, jean<sep>brunaud, danielroute de colombeyf-71300 ouroux saint germain du plainfr<sep>coussau, jean1 rue gossecf-75012 parisfr<sep>brunaud, daniel<sep>coussau, jean  <sep>brunaud, danielroute de colombeyf-71300 ouroux saint germain du plainfr<sep>coussau, jean1 rue gossecf-75012 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The heating element (3) is attached to a cuff (2) welded to the pressurizer body (1).The fixing device comprises a set of parts to symmetry of revolution having axis the axis of the heating element (3).These parts comprise a sequence sleeve (10) integral with the heating rod (3), a two-part ring (16) resting on a terminal shoulder (6) Mena ge on the cuff (2), a nut (20) and a threaded glass sleeve (21).The sealing and attachment of the cane (3) with respect to the cuff (2) are obtained by VISSA GE of the nut (20) on the sleeve 21. The invention applies to the assembly of the heating rods inPressurizers of pressurized water nuclear reactors.
+</ABSTRACT>
+</TEXT>
+</DOC>

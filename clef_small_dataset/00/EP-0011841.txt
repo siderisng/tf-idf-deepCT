@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011841
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C04B-41/45 C04B-41/50 C04B-35/565 C04B-35/573 C04B-41/04 <main>C04B-35/56</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for producing silicon carbide objects.
+</TITLE>
+<APPLICANT>
+kernforschungsanlage juelichde<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>forschungszentrum jülich gmbhwilhelm-johnen-strasse52425 jülichde <sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>
+</APPLICANT>
+<INVENTOR>
+dias francisco joachim  <sep>gupta ashok kumar<sep>gyarmati erno dr<sep>kampel marian<sep>luhleich hartmut dr<sep>munzer rudolf<sep>naoumidis aristidis dr<sep>dias, francisco joachim<sep>gupta, ashok kumar<sep>gyarmati, erno, dr.<sep>kampel, marian<sep>luhleich, hartmut, dr.<sep>munzer, rudolf<sep>naoumidis, aristidis, dr.<sep>dias, francisco joachiman der lünette 3d-5170 jülichde<sep>gupta, ashok kumarartilleriestrasse 49d-5170 jülichde<sep>gyarmati, ernö, dr.kopernikusstrasse 4d-5170 jülichde<sep>kampel, marianbelderweg 9d-5138 heinsberg-oberbruchde<sep>luhleich, hartmut, dr.chlodwigplatz 15d-5160 dürende<sep>münzer, rudolftilsiter strasse 7d-5110 alsdorfde<sep>naoumidis, aristidis, dr.kreisbahnstrasse 30d-5170 jülich-koslarde<sep>dias, francisco joachim<sep>gupta, ashok kumar<sep>gyarmati, erno, dr.<sep>kampel, marian<sep>luhleich, hartmut, dr.<sep>munzer, rudolf<sep>naoumidis, aristidis, dr. <sep>dias, francisco joachiman der lünette 3d-5170 jülich de   <sep>gupta, ashok kumarartilleriestrasse 49d-5170 jülichde<sep>gyarmati, ernö, dr.kopernikusstrasse 4d-5170 jülichde<sep>kampel, marianbelderweg 9d-5138 heinsberg-oberbruchde<sep>luhleich, hartmut, dr.chlodwigplatz 15d-5160 dürende<sep>münzer, rudolftilsiter strasse 7d-5110 alsdorfde<sep>naoumidis, aristidis, dr.kreisbahnstrasse 30d-5170 jülich-koslarde<sep>
+</INVENTOR>
+<ABSTRACT>
+The preparation of silicon carbide moldings, in particular pipes, starting from a porous pre-body (1) of carbon or carbon and silicon carbide by impregnating and implementing elemental silicon at at least 1400 ° C, is improved by the invention that silicon powder (5) on the approximately 1400 to 1500 ° C hot pre-body (1) is spared, which is then subjected to a filtration between 1800 and 2000 ° C for Si-C implementation. The pre-body (1) is preferably rotated during the suspension. Tubular bodies are in particular by sprinkling silicon powder (5) in which coated by about 30 ° against the horizontal and rotated tube coated or impregnated. Impregnation and implementation are carried out under inert gas, in particular argon. As a device, a tube furnace (3.7) having two separately controllable heating zones for impregnation (3) and reaction (7) and means for rotating (13) and axial feed of the pre-body and means (4,6) for sprinkling silicon powder suitable, which is preferably inclined towards the reaction zone against the horizontal.
+</ABSTRACT>
+</TEXT>
+</DOC>

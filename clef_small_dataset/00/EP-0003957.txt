@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003957
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/16 <main>C08F-6/16</main> C08F-2/22 C08F-12/08 C08F-4/00 C08F-4/28 C08F-6/00 C08F-4/40 C08F-257/02 C08F-2/12 C08F-2/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for reducing the residual styrene level of a polystyrene latex.
+</TITLE>
+<APPLICANT>
+isr holding sarllu<sep>isr holding s.a.r.l.<sep>isr holding s.a.r.l.15 rue notre damel-luxembourglu<sep>isr holding s.a.r.l.<sep>
+</APPLICANT>
+<INVENTOR>
+feast alan arthur john<sep>moore john david<sep>feast, alan arthur john<sep>moore, john david<sep>feast, alan arthur john3 lakewood roadchandlers ford hampshiregb<sep>moore, john david9 pear tree road dibden purlieuhythe hampshiregb<sep>feast, alan arthur john  <sep>moore, john david<sep>feast, alan arthur john3 lakewood roadchandlers ford hampshiregb<sep>moore, john david9 pear tree road dibden purlieuhythe hampshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for reducing the residual monomer level of a  polymer latex prepared by emulsion polymerisation comprises  exposing the latex in a separate vessel from that in  which the main polymerisation has been carried out to conditions  under which free radicals are produced by a secondary  catalyst added to the latex, the said catalyst being oil soluble  or having an oil soluble component.  in a preferred embodiment  a polymer latex prepared by the emulsion polymerisation  of styrene alone or a mixture containing styrene having a  residual styrene level not exceeding 0. 1% based on latex volume  may be obtained.  
+</ABSTRACT>
+</TEXT>
+</DOC>

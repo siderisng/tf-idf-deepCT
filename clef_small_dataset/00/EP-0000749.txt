@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000749
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-5/706 G11B-5/62 <main>H01F-1/11</main> C01G-49/08 G11B-5/70 C01G-49/06 H01F-1/11 C01G-49/02 H01F-1/032 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the preparation of needle-shaped ferrimagnetic iron oxides and their application.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+brodt rudolf dr<sep>jakusch helmut dr <sep>koester eberhard dr<sep>loeser werner dr  <sep>ohlinger manfred dr<sep>sarnecki wilhelm dr<sep>steck werner dr<sep>brodt, rudolf, dr.<sep>jakusch, helmut, dr.<sep>koester, eberhard, dr.<sep>loeser, werner, dr.<sep>ohlinger, manfred, dr.<sep>sarnecki, wilhelm, dr.<sep>steck, werner, dr.<sep>brodt, rudolf, dr.beethovenstrasse 6d-6940 weinheimde<sep>jakusch, helmut, dr.lorscher ring 6cd-6710 frankenthalde<sep>koester, eberhard, dr.max-slevogt-strasse 23d-6710 frankenthalde<sep>loeser, werner, dr.klagenfurter strasse 16d-6700 ludwigshafende<sep>ohlinger, manfred, dr.anselm-feuerbach-strasse 13d-6710 frankenthalde<sep>sarnecki, wilhelm, dr.woogstrasse 48d-6703 limburgerhofde<sep>steck, werner, dr.lorscher strasse 3d-6704 mutterstadtde<sep>brodt, rudolf, dr.<sep>jakusch, helmut, dr.<sep>koester, eberhard, dr.<sep>loeser, werner, dr. <sep>ohlinger, manfred, dr.<sep>sarnecki, wilhelm, dr.  <sep>steck, werner, dr. <sep>brodt, rudolf, dr.beethovenstrasse 6d-6940 weinheimde<sep>jakusch, helmut, dr.lorscher ring 6cd-6710 frankenthalde<sep>koester, eberhard, dr.max-slevogt-strasse 23d-6710 frankenthalde<sep>loeser, werner, dr.klagenfurter strasse 16d-6700 ludwigshafende<sep>ohlinger, manfred, dr.anselm-feuerbach-strasse 13d-6710 frankenthalde<sep>sarnecki, wilhelm, dr.woogstrasse 48d-6703 limburgerhofde<sep>steck, werner, dr.lorscher strasse 3d-6704 mutterstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for producing needle-shaped ferrimagnetic iron oxides by draining acicular iron (III) oxide hydroxides to acicular iron (III) oxides, subsequent reduction of these iron (III) oxides at temperatures between 300 and 650 ° C by means of organic compounds decomposing in this temperature range andOxidation of the reduction product with oxygen-containing gases at 200 to 500 ° C, wherein the needled acifle-shaped iron (III) oxide hydroxide consists of a mixture of goethit and lepidocrocitite with a lepidocontinated part of at least 60% and is dehydrated at temperatures of 250 to 700 ° C and theUse of the acicular ferrimagnetic iron oxides thus prepared for producing magnetic recording medium.
+</ABSTRACT>
+</TEXT>
+</DOC>

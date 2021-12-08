@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001737
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07J-63/00 C07J-7/00 <main>C07J-5/00</main> A61K-31/235 A61K-31/56 C07J-5/00 A61K-31/57 A61K-31/21 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+17-alpha-(3-iodobenzoyloxy)-9-alpha-chloro-4-pregnene-3.20-diones, their d-homo analogues and process for their preparation.
+</TITLE>
+<APPLICANT>
+schering agde   <sep>schering aktiengesellschaft berlin und bergkamen<sep>schering aktiengesellschaftd-13342 berlinde<sep>schering aktiengesellschaft berlin und bergkamen <sep>
+</APPLICANT>
+<INVENTOR>
+kerb ulrich dr<sep>stahnke manfred<sep>wiechert rudolf prof dr<sep>kerb, ulrich, dr.<sep>stahnke, manfred<sep>wiechert, rudolf, prof. dr.<sep>kerb, ulrich, dr.prinzregentenstrasse 7d-1000 berlin 31de<sep>stahnke, manfredmelanchthonstrasse 29d-1000 berlin 28de<sep>wiechert, rudolf, prof. dr.petzowerstrasse 8ad-1000 berlin 39de<sep>kerb, ulrich, dr.<sep>stahnke, manfred<sep>wiechert, rudolf, prof. dr.<sep>kerb, ulrich, dr.prinzregentenstrasse 7d-1000 berlin 31de<sep>stahnke, manfredmelanchthonstrasse 29d-1000 berlin 28de<sep>wiechert, rudolf, prof. dr.petzowerstrasse 8ad-1000 berlin 39de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the preparation of a 17 alpha-(3-iodobenzoyloxy)-9 alpha-chloro-4-pregnene-3,20-dione or a d-homo homolog thereof of the formula i  see diagramm : ep0001737,p9,f2  wherein n is 0 or 1 ; c1 ~-~-~- c2 represents a c-c single or c=c double bond ; r1 is hydrogen or lower alkanoyloxy ; r2 is hydrogen or methyl ; r3 is hydrogen, methyl or fluorine ; and when n is 0, c15 ~-~-~- c16 represents a c-c or c=c double bond, and when n is 1, c16 ~-~-~- c17 represents a c-c single or c=c double bond, which comprises esterifying a 17 alpha-hydroxy-4-pregnene-3,20-dione or a d-homo homolog thereof of the formula ii  see diagramm : ep0001737,p9,f4  wherein r1 is hydrogen or lower alkanoyloxy, and n, c15 ~-~-~- c16 or c16 ~-~-~- c17 and c1 ~-~-~- c2 , r2 and r3 have the meaning as given in formula i, with m-iodobenzoic acid, irridiating the thus produces 17 alpha-m-iodobenzoic acid ester with long wavelength ultraviolet radiation in the presence of phenyliodine dichloride, optionally in the presence of a basic buffer. 
+</ABSTRACT>
+</TEXT>
+</DOC>

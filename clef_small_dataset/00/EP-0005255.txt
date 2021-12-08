@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005255
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-5/115 G11B-5/10 G11B-5/187 G11B-5/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+erase head for erasing single tracks of a multi-track magnetic recording tape.
+</TITLE>
+<APPLICANT>
+basf agde <sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+rotter gerhard drus<sep>schomann klaus dieter drde<sep>rotter, gerhard, dr.<sep>schomann, klaus dieter, dr.<sep>rotter, gerhard, dr.25692 cervantes lanemission viejo californiaus<sep>schomann, klaus dieter, dr.kopernikusstrasse 47d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+an erase head (10) for erasing single tracks on multi-track  magnetic recording tapes (12) by means of a constant  magnetic field applied in a direction perpendicular to  the direction of tape travel, to avoid any asymmetrical residual  magnetization with respect to the direction of a magnetizing  field used for recording.  a configuration of two pole  pieces (14) and two corresponding shields (16), spaced  out from the pole pieces and generally coplanar with the  end faces thereof, ensures that the magnetic field strength  is relatively uniform in a region between the shields and  falls to a relatively low value outside this region.  
+</ABSTRACT>
+</TEXT>
+</DOC>

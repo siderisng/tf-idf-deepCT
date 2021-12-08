@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013944
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-17/02 <main>H04B-3/46</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and arrangement for error location in, and the monitoring of, a communication link.
+</TITLE>
+<APPLICANT>
+siemens ag de<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+aichholz eckhart<sep>meyer joseph<sep>aichholz, eckhart<sep>meyer, joseph<sep>aichholz, eckhartgabriele münter strasse 17d-8000 münchen 71de<sep>meyer, josephgartenpromenade 23d-8035 gautingde<sep>aichholz, eckhart <sep>meyer, joseph  <sep>aichholz, eckhartgabriele münter strasse 17d-8000 münchen 71de<sep>meyer, josephgartenpromenade 23d-8035 gautingde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for fault location and monitoring of a communications connection which contains a total of k intermediate stations (m1 . . .  mk) at periodic intervals and wherein i parallel communications transmission links are provided each of which are separately connected in the k intermediate stations (m1 . . .  mk) to i monitoring devices from which state messages are transmitted to an analysing station (me), that the i monitoring devices contained in each of the k intermediate stations (m1 . . .  mk) are arranged in the form of a matrix so that one matrix coordinate (k) represents a statement concerning the intermediate station in question and the other matrix coordinate (i) represents a statement concerning the monitoring device in question, that in the case of a communications connection for digital signals the intermediate stations (m1 . . .  mk) each represent a coupling which contains a number i of regenerators (pcm-r) corresponding to the number i of digital transmission links, each of which regenerators is connected to a monitoring device, characterized in that the state message consists of a fault message in the form of the transmission of the matrix coordinates (k, l) of the monitoring device which establishes the fault, that all the state messages of the monitoring devices of a coupling (m1 . . .  mk) are logic-linked to one another via an or function and on the recognition of a fault, the matrix coordinate (k, l) of the coupling (m1 . . .  mk) in question is supplied and moreover in an end station (es) the individual parallel communications transmission links are monitored and the matrix coordinate of the faulty communications transmission links is fed to a central position (mad) and only there are the two matrix coordinates (k, l) combined in order that the fault location may be recognised. 
+</ABSTRACT>
+</TEXT>
+</DOC>

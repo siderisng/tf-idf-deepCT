@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005180
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/23 <main>G03G-15/00</main> G03B-27/62 G03B-27/32 G03G-15/04 G03G-21/00 G03G-15/00 B65H-83/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrophotographic copying machine including an automatic document feeder.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+clark gary alan<sep>queener carl allan<sep>clark, gary alan<sep>queener, carl allan<sep>clark, gary alan1117 sherman streetlongmont colorado 80501us<sep>queener, carl allan6 newby placelongmont colorado 80501us<sep>clark, gary alan<sep>queener, carl allan<sep>clark, gary alan1117 sherman streetlongmont colorado 80501us<sep>queener, carl allan6 newby placelongmont colorado 80501us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrophotographic copier includes an automatic  document feeder (adf) 16 operable to feed sheets in turn  from a feed stack.  in order to produce duplex copies from  single sides of the original documents, two copying runs  are performed.  in the first run, the adf is controlled by  logic circuitry 140 and input circuits 165, 146 to pass odd  numbered documents from the feed stack to a receiving  stack directly.  even numbered documents are copied.  at  the end of the run, when all sheets have passed through  adf, the receiving stack is re-positioned to form the feed  stack, and a stack of produced copies is placed into the  copy feed bin.  in the second run, copies of the even numbered  documents are produced on the back of the copy  papers.  a collator receives the copies produced by both  runs.  during the first run, the collator 20 is controlled by  logic 142 to stack the sheets such that no re-ordering is  necessary when they are transferred to the copy feed bin.  
+</ABSTRACT>
+</TEXT>
+</DOC>

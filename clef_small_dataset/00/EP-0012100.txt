@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012100
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multi-core flat cable with round conductors.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchen de<sep>
+</APPLICANT>
+<INVENTOR>
+reissenweber wilfried de <sep>schilling wernerde<sep>schneider reinerde<sep>reissenweber, wilfried<sep>schilling, werner<sep>schneider, reiner<sep>reissenweber, wilfriedrothinestrasse 77d-8633 rödenthalde<sep>schilling, wernerarmin-nass-strasse 15ad-8632 wildenheidde<sep>schneider, reinerflurstrasse 32d-8624 ebersdorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+in a multi-core flat cable, the round conductors (2), whose common conductor cross-section is at most 0. 25 mm<2>, are arranged in a single plane with a constant distance between one another and are surrounded with a common, extruded insulation (3).  the insulation forms a web (4) between in each case two conductors.  at least some of the webs are provided, in each case in their centre, with a notch (6) on one or both sides over the complete length of the flat cable.  the insulation in each case forms a half-web (5) on both sides of the flat cable.  this design of the flat cable ensures that the flat cable can be split with high precision into a plurality of core groups and that, in each split-off core group, the distances of the conductor centres of the individual cores correspond to a predetermined raster, to the extreme limit of the core group.  the flat cable, which is provided particularly for wiring purposes in equipments and installations of the electronic industry, is thus particularly suitable for simple plug installation.  (figure 2) <image>
+</ABSTRACT>
+<DESCRIPTION>
+vieladrige flachleitung mit rundleitern 1. anwendungsgebiet der erfindung die erfindung liegt auf dem gebiet der vieladrigen flachleitungen, wie sie in den geräten und anlagen der elektronik-industrie für verdrahtungszwecke eingesetzt werden, und behandelt die konstruktive ausgestaltung einer solchen flachleitung im hinblick auf eine einfache steckermontage. 2. stand der technik bei den für verdrabtungszwecke entwickelten flachleitunn gen ist eine vielzahl von rund- oder flachleitern in einer ebene nebeneinander angeordnet und von einer ge meinsamen isolierung umgeben. diese kann beispielsweise aus zwei miteinander verschweissten folien bestehen zwi- schen denen die leiter mittels entsprechender walzen eingebettet werden, oder sie ist mittels eines extruders @fgebracht (zeitschrift "electronic design, heft 9, @aril 1977 seite 5 ff ftny d 9 42 784). flachleitun- gen mit rundleitern und gemein@@mer extrudierter isolierung werden dabei mitunter i stegleitungen auge- bildet, d. h. die verbindungsstelle der isolierung zwischen zwei benachbarten adern hat die form eines schmalen steges (dd-as 10 75 695). dies gilt insbesondere für flachleitungen mit geringem leiterquerschnitt, um bei der steckermontage die einzelnen adern voneinander trennen zu können (de-os 22 43 001). hinsichtlich der montage derartiger flachleitungen wird dabei gefordert, vieladrige flachleitungen mit beispielsweise 60 adern am leitungsende in mehrere adergruppen aufteilen und die einzelnen adergruppen jeweils mit einem stecker versehen zu können. für eine einfache steckermontage ist dabei wesentlich, dass die präzision der leitungsabmessungen, insbesondere der leitermittenabstände bzw. das rastermass, auch in den teilstücken erhalten bleibt. zur stromversorgung von häusern aus freileitungsnetzen ist bereits eine sogenannte stegleitung bekannt, die vom dachständer zu dem im haus befindlichen sicherungskasten verläuft und deren nebeneinander angeordnete adern (isolierte leiter) von einem gemeinsamen isoliermantel umgeben sind. dieser isoliermantel bildet zwi- schen den adern stege, die in der mitte beidseitig mit @ten wersehen sind: dadurch lässt sich der isolier @@@ zwischen zwei @ern leicht einreissen. @@@ sind an den beiden seiten der stegleitung ab @@@@are ansätze vorgesehen, mit denen die stegleitung innerhalb eines rohres auf abstand zum rohr gehalten wird (de-os 14 65 727). 3. darstellung der erfindung a) technische aufgabe der erfindung liegt die aufgabe zugrunde, eine vieladrige flachleitung, deren liter einen einheitlichen 2 leiterquerschnitt von hochstens 0,25 mm haben, so aus zugestalten, dass die leitungseden zum zwecke der steckermontage leicht in mehrere adergruppen unterteilt werden können, und zwar derart, dass in jeder abgetrene- ten adergruppe die präzision der leitungsabmessungen, insbesondere der sogenannte randabstand, erhalten bleibt. b) lösung der technischen aufgabe zur lösung dieser aufgabe geht die erfindung von eine: vieladrigen flachleitung mit rundleitern aus, bei der die leiter in einer einzigen ebene mit gleichem abstand zueinander angeordnet und mit einer gemeinsamen, extra dierten isolierung umgeben sind und bei der die isolierung zwischen jeweils zwei leitern einen steg bildet. gemäss der erfindung ist vorgesehenf dass die flachlei tung über ihre ganze länge mit einer oder mehreren ker- ben versehen ist, die sich ein- oder beidseitig in wenigstens einem der stege jeweils in dessen mitte be finden, und dass die isolierung an beiden seiten der flachleitung jeweils einen halbsteg bildet. c) vorteile durch eine derartige ausgestaltung der flachleitung ist gewährleistet, dass in jeder abgeteilten
+</DESCRIPTION>
+<CLAIMS>
+patentanspruch vieladrige flachleitung mit rundleitern, deren einheitlicher leiterquerschnitt höchstens 0,25 mm beträgt, bei der die leiter in einer einzigen ebene mit gleichem abstand zueinander angeordnet und mit einer gemeinsamen,   extrudierter    isolierung umgeben sind und bei der die isolierung zwischen jeweils zwei leitern einen steg bildet, d a d u   r    c h g e k e n n z e i c h n e t dass die   flachleitut      (1)   ber ihre ganze länge mit einer oder mehrerer kerben (6) versehen ist, die sich ein- oder beidseitig in wenigstens einem der stege (4) jeweils in dessen mitte befinden, und dass die isolierung (3) an beiden seiten der flachleitung jeweils einen halbsteg (5) bildet.  
+</CLAIMS>
+</TEXT>
+</DOC>

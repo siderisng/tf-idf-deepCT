@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001004
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C11D-3/00 <main>C08G-2/14</main> C08G-2/10 C08G-2/30 C08G-2/14 C08G-2/00 C08G-2/18 C11D-3/37 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polymeric acetal carboxylates, a method for their preparation and their use in a detergent composition.
+</TITLE>
+<APPLICANT>
+monsanto cous <sep>monsanto company<sep>monsanto company 800 north lindbergh boulevard st. louis missouri 63167us<sep>monsanto company<sep>
+</APPLICANT>
+<INVENTOR>
+crutchfield marvin mack<sep>papanu victor dennis<sep>warren craig bishop<sep>crutchfield, marvin mack<sep>papanu, victor dennis<sep>warren, craig bishop<sep>crutchfield, marvin mack1529 cerulean drivest. louis missourius<sep>papanu, victor dennis2477 westmeade drivemaryland heights missouri 63043us<sep>warren, craig bishop3 dogwood lanerumson new jerseyus<sep>crutchfield, marvin mack<sep>papanu, victor dennis<sep>warren, craig bishop<sep>crutchfield, marvin mack1529 cerulean drivest. louis missourius<sep>papanu, victor dennis2477 westmeade drivemaryland heights missouri 63043us<sep>warren, craig bishop3 dogwood lanerumson new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+the polymerization of an ester of glyoxylic acid aldehyde  followed by end group stabilization gives polymeric  acetal carboxylates which are stable under laundry use conditions,  but depolymerize in acid media, making the polymer  fragments more readily biodegradable in waste streams.   the polymeric acetal carboxylates have the empirical formula    they are useful as detergent builders to replace sodium tripolyphosphate  (stp) in detergent formulations.  
+</ABSTRACT>
+</TEXT>
+</DOC>

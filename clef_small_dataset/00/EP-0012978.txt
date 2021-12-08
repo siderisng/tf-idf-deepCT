@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012978
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01P-1/02</main> H01P-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+h-plane rectangular-wave guide bend.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+schuegraf eberhard dipl-ing<sep>schuegraf, eberhard, dipl.-ing.<sep>schuegraf, eberhard, dipl.-ing.mauthäuslstrasse 15d-8000 münchen 70de<sep>schuegraf, eberhard, dipl.-ing. <sep>schuegraf, eberhard, dipl.-ing.mauthäuslstrasse 15d-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+Rectangular waveguide elbow (H-elbace) made via the wave waveguide side (H-elbace) with a disengaged exposed by a conductive flattening plane (2) symmetrically obliquely inclined outlet, wherein the value XH / A of the relative corner flattening is chosen larger than 0.73, and in the region of the geometric bisinner Wof the Knic Kes capacitively acting agent, for example in the form of conductive pins (1) and transverse bars (3), are arranged.
+</ABSTRACT>
+</TEXT>
+</DOC>

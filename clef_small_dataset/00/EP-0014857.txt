@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014857
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06K-9/56</main> G01N-33/48 G06K-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the automatic marking of cells and for feature determination of cells from cytological smears.
+</TITLE>
+<APPLICANT>
+bloss werner h prof dr ingde<sep>bloss, werner h.,prof. dr.-ing<sep>bloss, werner h.,prof. dr.-inglindenstrasse 45d-7065 winterbachde<sep>bloss, werner h.,prof. dr.-ing<sep>
+</APPLICANT>
+<INVENTOR>
+erhardt rainer dipl-ing<sep>reinhardt erich dipl-ing<sep>erhardt, rainer, dipl.-ing.<sep>reinhardt, erich, dipl.-ing.<sep>erhardt, rainer, dipl.-ing.fellbacher strasse 45d-7000 stuttgart 60de<sep>reinhardt, erich, dipl.-ing.burgherrenstrasse 91d-7000 stuttgart 30de<sep>erhardt, rainer, dipl.-ing.<sep>reinhardt, erich, dipl.-ing. <sep>erhardt, rainer, dipl.-ing. fellbacher strasse 45 d-7000 stuttgart 60de<sep>reinhardt, erich, dipl.-ing.burgherrenstrasse 91d-7000 stuttgart 30de<sep>
+</INVENTOR>
+<ABSTRACT>
+A method of automatic marking and determining the characteristics of cells from cytological smear preparations is described, in which the visual evaluation is set by trained persons, a rating of TV images of the preparations that are recorded by a television camera. In the new method, only the cell cores for evaluation are raised, for which the TV images are stored in at least one digital spei cher and can be equipped by local operators of structures located under a predetermined size, according to which a transformation of the cleaned images a smoothing and simultaneous localization of the cell cores as image sections is performed, after which the localized cutouts of the images are subjected to a boundary invention, whereupon the cell nuclei found by the boundary finding process a determination of characteristics by measurements on the original image and to transformed images and / or logical or logical or Arithmatic links of the transformed images takes place.
+</ABSTRACT>
+</TEXT>
+</DOC>

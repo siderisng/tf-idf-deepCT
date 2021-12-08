@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012333
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-1/03 B32B-27/18 B32B-15/08 C08K-3/00 B32B-15/04 C08K-3/10 C23C-18/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing electrolessly metallisable insulating bodies.
+</TITLE>
+<APPLICANT>
+dynamit nobel agde<sep>huels troisdorf aktiengesellschaft<sep>hüls troisdorf aktiengesellschaftpostfach 11 65 d-53839 troisdorf de <sep>
+</APPLICANT>
+<INVENTOR>
+franz arnoldde<sep>huthwelker dirk drde<sep>koepnick siegfriedde<sep>franz, arnold<sep>huthwelker, dirk, dr.<sep>koepnick, siegfried<sep>franz, arnoldeifelstrasse 23d-5210 troisdorfde<sep>huthwelker, dirk, dr.mülheimer strasse 20d-5210 troisdorfde<sep>köpnick, siegfriedlangmarkstrasse 14ad-5210 troisdorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for the preparation of insulating bodies by introducing metal salt lubrications into the impregnating resin, thus obtained insulating sheet Fe with metal salt particles in the resin bond and their use for the production of printed circuits or printed circuit boards with wholly or partially measured surfaces.According to the method, one or more solutions of group VIII or Ib of the periodic system, optionally, may be achieved, optionally, together with on monchloride, in water or / and in the solvents with the resins and added to the resin solutions prior to the production of the insulating material body.
+</ABSTRACT>
+</TEXT>
+</DOC>

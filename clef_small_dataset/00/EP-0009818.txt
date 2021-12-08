@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009818
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-1/16 H04R-9/00 H04R-9/12 H04R-9/16 H04R-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dynamic pick-up cartridge for a record player.
+</TITLE>
+<APPLICANT>
+audio technica kk jp<sep>kabushiki kaisha audio technica<sep>kabushiki kaisha audio technica2206, naruse machida-shitokyojp<sep>
+</APPLICANT>
+<INVENTOR>
+honma kimiyasujp<sep>honma, kimiyasu<sep>honma, kimiyasuc/o audio-technica 2206, narusemachida-shi tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+A dynamic pickup head for a plate player comprises a pickup head body and a needle assembly, which is releasably mounted on the body. The body comprises a housing that holds a permanent magnet and two pole shoes tight. Between the two pole pieces in the area of ​​the lower opening of the housing, magnetic columns are defined. The housing carries a more number of electrical contact pins whose end protrudes externally from the rear end of the housing and whose ide res end projects through the bottom plate of the housing. The needle assembly comprises a button-like plug-in body, which carries a needle subgroup with an armature, which is on the other hand carries two coils. The plug-in body further has a plurality of electrical connecting sockets, which can be solved bar with the contact pins. The ends of the coils are electrically connected to the contact sockets. When the contact pins engage in the contact bushes, the two coils on the needle assembly are precisely arranged in the magnetic columns between the pole pieces on the body.
+</ABSTRACT>
+</TEXT>
+</DOC>

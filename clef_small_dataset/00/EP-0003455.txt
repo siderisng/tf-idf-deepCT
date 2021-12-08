@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003455
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/58 A61P-9/04 C07J-41/00 A61K-31/585 A61P-9/00 A61K-31/785 <main>C07J-41/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3-amino-cardenolides, process for their preparation and medicines containing them.
+</TITLE>
+<APPLICANT>
+nativelle sa etsfr   <sep>etablissements nativelle s.a.<sep>etablissements nativelle s.a.27, rue de la processionf-75015 parisfr<sep>etablissements nativelle s.a. <sep>
+</APPLICANT>
+<INVENTOR>
+jarreau francois-xavier<sep>koenig jean-jacques<sep>jarreau, francois-xavier<sep>koenig, jean-jacques<sep>jarreau, françois-xavier5, rue louis hervéf-78000 versaillesfr<sep>koenig, jean-jacques1, rue rodinf-91380 chilly-mazarinfr<sep>jarreau, francois-xavier<sep>koenig, jean-jacques  <sep>jarreau, françois-xavier5, rue louis hervéf-78000 versaillesfr<sep>koenig, jean-jacques1, rue rodinf-91380 chilly-mazarinfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to novel aminocardenolide derivatives and a reaction preparation method of an oxo-3-gengin with an ammonium salt in the presence of a borocyanohydride in an organic solvent, to form the compounds of formula: wherein R₁, R₂, R₄, R₅, and R₆, identical or different, represent a hydrogen atom or a hydroxy, alkoxy or acyloxy group;R₃ represents a lower alkyl, hydroxyalkyl, acyloxyalkyl, haloalkyl, or ethylene dioxyalkyl;R₇ represents a hydrogen atom, an alkyl or acyl group;R₈ represents a hydrogen atom or an achyl group, or a remaining amino acid.Application to preparation of drugs, especially for the treatment of cardiac conditions.
+</ABSTRACT>
+</TEXT>
+</DOC>

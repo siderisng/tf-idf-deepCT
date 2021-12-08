@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002181
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-315/04 C07D-209/48 C07C-317/44 C07C-317/40 C07C-315/00 C07C-247/00 G03F-7/008 C07C-247/18 <main>C07D-209/48</main> C07C-117/08 C07C-67/00 B29C-65/48 C08F-20/34 C07C-317/00 C07C-313/00 C07C-323/42 C07C-241/00 B29C-65/78 C07D-209/00 C07C-323/00 C08F-20/00 G03F-7/012 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3- and 4-azidophthalic acid derivatives and process for their preparation.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+greber gerd prof dr<sep>kvita vratislav dr<sep>zweifel hans dr<sep>greber, gerd, prof. dr.<sep>kvita, vratislav, dr.<sep>zweifel, hans, dr.<sep>greber, gerd, prof. dr.anzengruberstrasse 11a-2540 bad vöslauat<sep>kvita, vratislav, dr.st. jakobstrasse 2ch-4132 muttenzch<sep>zweifel, hans, dr.lothringerstrasse 93ch-4056 baselch<sep>greber, gerd, prof. dr.<sep>kvita, vratislav, dr.<sep>zweifel, hans, dr.<sep>greber, gerd, prof. dr.anzengruberstrasse 11a-2540 bad vöslauat<sep>kvita, vratislav, dr.st. jakobstrasse 2ch-4132 muttenzch<sep>zweifel, hans, dr.lothringerstrasse 93ch-4056 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+The substances according to the invention correspond to the formulas Ia or Ib wherein Y represents a divalent organic radical and Z -NH₂, -NH-alkyl with 1-4 C atoms, -OH, -COOH, -COC1, -O-CO-CH = CH₂, -COO-CH = CH₂ or -OCH = CH₂ represents.These new 3- or 4-acidophthalic acid derivatives are suitable for producing polymers crosslinkable under the action of light.Compared to corresponding photosensitive polymers of the prior art, these new polymers have the advantages that they are still photosensitive and also absorb in the long-wave UV range (over 320 nm).
+</ABSTRACT>
+</TEXT>
+</DOC>

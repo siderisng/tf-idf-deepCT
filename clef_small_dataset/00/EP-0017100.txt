@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017100
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16N-7/00 F04B-53/18 F01M-1/16 <main>F01M-1/16</main> F04B-53/00 F04B-43/08 F16N-7/36 F04B-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for supplying lubricant to a piston and cylinder arrangement.
+</TITLE>
+<APPLICANT>
+hydrowatt systgb<sep>hydrowatt systems limited<sep>hydrowatt systems limitedkingsgate house 115 high holbornlondon wc1v 6jegb<sep>hydrowatt systems limited  <sep>
+</APPLICANT>
+<INVENTOR>
+frey bernhard<sep>frey, bernhard<sep>frey, bernhardfreistrasse 2ch-8200 schaffhausench<sep>frey, bernhard<sep>frey, bernhardfreistrasse 2ch-8200 schaffhausench<sep>
+</INVENTOR>
+<ABSTRACT>
+The method and means for lubricant to guide operate with introduction of the lubricant into a gap space (3b) between a, for example, tubular, deformation-soft sealing element of a piston-cylinder arrangement and a support surface within the working handsheet with comparatively low working pressure.As a result, a relatively low-lubricant feed pressure is sufficient.Advantageously, the resignation of lubricant is excluded into the supply by a return shaft valve assembly (8d, 15).Preferably, a check valve member (15) is arranged in the region of the lubricant feeding mouth (9), resulting in a provisional function with secure pressure maintenance in the lubricant space (3b).
+</ABSTRACT>
+</TEXT>
+</DOC>

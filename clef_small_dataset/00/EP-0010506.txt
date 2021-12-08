@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010506
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/92 G11B-20/18 H03K-13/02 G11B-20/12 G11B-5/09 H03M-13/00 G11B-7/00 <main>G11B-5/09</main> G11B-20/10 G06F-11/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital coding and decoding methods and devices for the recording of audio signals with a television signal, particularly on a video disk.
+</TITLE>
+<APPLICANT>
+thomson brandtfr<sep>thomson-brandt<sep>thomson-brandt173, boulevard haussmann75379 paris cedex 08fr<sep>thomson-brandt  <sep>
+</APPLICANT>
+<INVENTOR>
+caillet pierre<sep>romeas rene<sep>caillet, pierre<sep>romeas, rene<sep>caillet, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cédex 08fr<sep>romeas, rené"thomson-csf" - scpi 173, bld haussmannf-75360 paris cédex 08fr<sep>caillet, pierre<sep>romeas, rene<sep>caillet, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cédex 08fr<sep>romeas, rené"thomson-csf" - scpi 173, bld haussmannf-75360 paris cédex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a numerical coding method that sound signals of accompanying a stored in successive slices at the rate of television images.The subject of the invention relates to a numerical coding method for the purpose of protecting the numerical signals thus encoded against the alterations encountered during the transcription process on a recording medium, a method compatible with the recording, method compatible with themultiplex recording of several sound paths.The invention applies in particular to an audio-visual signal diffu system comprising a video disk, in which the digital signals of the sound channels are stored during the line return intervals.
+</ABSTRACT>
+</TEXT>
+</DOC>

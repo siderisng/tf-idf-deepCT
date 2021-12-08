@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015379
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01J-31/40</main> B01J-38/70 B01J-38/00 B01J-31/40 B01J-38/68 C07C-45/50 C07C-47/02 C07B-61/00 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+regeneration of rhodium hydroformylation catalysts.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+dawes john leslie<sep>devon jr thomas james<sep>dawes, john leslie<sep>devon jr., thomas james<sep>dawes, john lesliep.o. box 7444longview texasus<sep>devon jr., thomas jamesp.o. box 7444longview texasus<sep>dawes, john leslie<sep>devon jr., thomas james<sep>dawes, john lesliep.o. box 7444longview texasus<sep>devon jr., thomas jamesp.o. box 7444longview texasus<sep>
+</INVENTOR>
+<ABSTRACT>
+rhodium hydroformylation catalysts are regenerated  by removing deactivated catalyst from the hydroformyla­ tion reaction, adjusting the aldehyde content of the deac­ tivated catalyst to have at least one mole of aldehyde pre­ sent per mole of rhodium and ligand present in the cata­ lyst, oxidizing the aldehyde-containing catalyst at a tem­ perature below the boiling point of the aldehyde, removing  any solid material from the catalyst formed during the oxi­ dation and adjusting the ligand to rhodium ratio of the ca­ talyst for use in a hydroformylation reaction.  
+</ABSTRACT>
+</TEXT>
+</DOC>

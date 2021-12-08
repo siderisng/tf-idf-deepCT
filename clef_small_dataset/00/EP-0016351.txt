@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016351
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/04 G01N-27/12 <main>G08B-21/00</main> G08B-17/10 G08B-21/00 G08B-17/117 G01N-33/00 G08B-21/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas detection device for use in an environment where explosions may occur.
+</TITLE>
+<APPLICANT>
+cerberus agch  <sep>cerberus ag<sep>cerberus agalte landstrasse 411ch-8708 männedorfch<sep>cerberus ag<sep>
+</APPLICANT>
+<INVENTOR>
+brandli hansheinrich<sep>christen peter<sep>durrer bernhard<sep>sauerbrey arnim<sep>brandli, hansheinrich<sep>christen, peter<sep>durrer, bernhard<sep>sauerbrey, arnim<sep>brändli, hansheinrichrehbühlstrasse 29ch-8610 usterch<sep>christen, peterim wiesli 8ch-8708 männedorfch<sep>durrer, bernharddorfstrasse 47ch-8712 stäfach<sep>sauerbrey, arnimfrowiesstrasse 14ch-8344 adetswilch<sep>brandli, hansheinrich<sep>christen, peter <sep>durrer, bernhard<sep>sauerbrey, arnim  <sep>brändli, hansheinrich rehbühlstrasse 29ch-8610 usterch<sep>christen, peterim wiesli 8ch-8708 männedorfch<sep>durrer, bernharddorfstrasse 47ch-8712 stäfach<sep>sauerbrey, arnimfrowiesstrasse 14ch-8344 adetswilch<sep>
+</INVENTOR>
+<ABSTRACT>
+Gas covers in explosion-proof design for detection of flammable gases in the atmosphere, which a gas sensor (6) which operates according to the principle of catalytic oxida tion or contains a semiconductor gas sensor. The gas detector has at least two separate spaces in a housing (1). The one space (2) is compressed pressure resistant and includes an electronic evaluation circuit for the gas sensor (6) of the other space (3) performed in explosion-protected design contains the gas sensor (6) and a matching element (16) and is from the atmosphere by a Sintered metal bush (5) separated. For connecting the lines in the gas detector, a third, explosion-proof space (4) may be provided. The gas sensor (6) forms with the adjustment adapter (7) a unit which is pluggable in the lid (1b) of the room containing the electronics (2). In such a gas detector, a replacement of the gas sensor (6) in a simple manner on the site is possible without the pressure-encapsulated room (2) for the electronics must be opened. The testing and adjustment of the gas sensor (6) can be done in the factory.
+</ABSTRACT>
+</TEXT>
+</DOC>

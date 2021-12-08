@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000711
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-4/30 <main>H01H-50/14</main> H01H-50/00 H01R-4/28 H01H-50/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+contactor with readily accessible wire connecting terminals disposed at different levels.
+</TITLE>
+<APPLICANT>
+starkstrom schaltgeratefabrikede<sep>starkstrom schaltgeratefabriken spindler - deissler gmbh & co. kg<sep>square d starkstrom gmbhd-5277 marienheide-rodtde<sep>square d starkstrom gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+lemmer helmut<sep>lemmer, helmut<sep>lemmer, helmutbleibergstrasse 16d-5277 marienheide-kalsbachde<sep>lemmer, helmut  <sep>lemmer, helmutbleibergstrasse 16d-5277 marienheide-kalsbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a contactor with a contact system accommodated in a housing (22, 23, 24) and a magnetic system (26, 28, 29) which actuates this actuating magnet system (26, 28, 29), the housing is completed on the end from the mounting side end by a lid (2) and the contact system has the contact systemContacts (3, 4, 5) with contact connecting screws (6, 7, 8) and fixed contact pieces (9, 10, 11) and normally closed and / or normally closed with movable bridges (16, 17, 18) and movable contact pieces (12, 13, 14, 15).In order to achieve a simple handling of the connections of the wiring optionally in different levels, without having to increase the limited width of the contactor, the contact rails (4, 5) with their contact terminal screws (7, 8) in planes with different distance from the attachmentServing housing end (1) arranged offset from one another without disturbing the wiring.Further embodiments are given.
+</ABSTRACT>
+</TEXT>
+</DOC>

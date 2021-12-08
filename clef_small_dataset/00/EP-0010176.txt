@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010176
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A01J-5/04</main> A01J-7/00 A01J-5/007 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic stripping method for machine milking.
+</TITLE>
+<APPLICANT>
+hoefelmayr bio melktechch<sep>bio-melktechnik swiss± hoefelmayr & co.<sep>bio-melktechnik swiss hoefelmayr &amp; co.steinwichslenstrasse 20ch-9052 niederteufench<sep>bio-melktechnik swiss  hoefelmayr & co.<sep>
+</APPLICANT>
+<INVENTOR>
+hoefelmayr tilman dr<sep>hoefelmayr, tilman, dr.<sep>hoefelmayr, tilman, dr.steinwichslenstrasse 20ch-9052 niederteufench<sep>hoefelmayr, tilman, dr.  <sep>hoefelmayr, tilman, dr. steinwichslenstrasse 20ch-9052 niederteufench<sep>
+</INVENTOR>
+<ABSTRACT>
+A method for the automatic remarks in the machine mildetzug will be described.For this purpose, the teat introduced into an elastic teat rubber of a milking bucker is normally exposed to a predetermined negative pressure.During milking, the change in milk flow per unit time is continuously detected and it will be detected immediately after a decrease in milk flow during a period of 5-10 seconds, which is more than 1 kg / min², the melctic acid is reduced.According to another preferred method, the control of the milking intensity is made such that the pressure in the front of the teat rubber is continuously detected below the sealing lip applied to the teat and that the milking intensity is reduced as soon as a drop of this pressure is detected.
+</ABSTRACT>
+</TEXT>
+</DOC>

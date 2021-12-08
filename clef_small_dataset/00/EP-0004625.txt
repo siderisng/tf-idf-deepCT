@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004625
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08C-15/08 G08C-15/00 A61B-5/0428 A61B-5/0402 <main>A61B-5/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electromedical apparatus for sensing and processing electrical physiological signals.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+welker manfred<sep>wolf herbert<sep>welker, manfred<sep>wolf, herbert<sep>welker, manfredmemelstrasse 42d-8520 erlangende<sep>wolf, herbertfrankenwaldallee 45d-8520 erlangende<sep>welker, manfred<sep>wolf, herbert<sep>welker, manfredmemelstrasse 42d-8520 erlangende<sep>wolf, herbertfrankenwaldallee 45d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an electromedical device for accepting and processing electrical physiological signals, which are incorporated in a plurality of input channels of a first device unit on the patient side and transmitted from there via galvanically separating coupling points to a second device unit on the further processing side with the corresponding number of output channels become. It is desirable that the transmission system uses a minimum of coupling points and associated drive effort. According to the invention, this is achieved in that in the first device unit (G1) in the input channels (17 to 19) a multiplexer unit (16) and in the second device unit (G2) on the side of the output channels (32 to 34) a demultiplexer unit ( 22) is arranged for the timed scanning of the signals in the input or output channels and that between the multiplexer unit of the first device unit and the demultiplexer unit of the second device unit in series, a pulse amplitude modulator (36) and a single galvanically separating coupling point (2) on the separation point between the two device units for the decoupled signal transmission in the time-multiplex principle are turned on.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016596
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/73 <main>H01L-21/66</main> G01R-31/26 H01L-29/10 H01L-29/72 H01L-29/66 H01L-21/66 H01L-23/544 H01L-21/02 H01L-29/08 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor device having a monitor pattern and method of monitoring the same.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited  <sep>
+</APPLICANT>
+<INVENTOR>
+fukuda takeshi<sep>watari kiyoto<sep>fukuda, takeshi<sep>watari, kiyoto<sep>fukuda, takeshi41-6, higashitamagawa 2-chomesetagaya-ku tokyo 158jp<sep>watari, kiyoto203, shimokodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fukuda, takeshi<sep>watari, kiyoto<sep>fukuda, takeshi41-6, higashitamagawa 2-chomesetagaya-ku tokyo 158jp<sep>watari, kiyoto203, shimokodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor device having a monitor pattern.  the  monitor pattern comprises a semiconductor layer, a first reg­ ion, a second region and a third region.  the first region is  formed in the semiconductor layer.  the second region is  formed in the first region.  the third region is formed in the  semiconductor layer and electrically connected to the subs­ trate.  the surface of the first region is divided into two por­ tions.  one of the two portions is electrically connected to the  third region.  
+</ABSTRACT>
+</TEXT>
+</DOC>

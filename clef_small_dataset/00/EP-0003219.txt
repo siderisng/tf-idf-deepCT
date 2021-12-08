@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003219
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-31/103 H01L-31/102 <main>H01L-31/10</main> H01L-31/101 H01L-31/09 H01L-31/08 H01L-31/113 G01T-1/20 G01T-1/24 G01T-1/00 H01L-31/0232 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiation sensing device.
+</TITLE>
+<APPLICANT>
+gen electricus<sep>general electric company<sep>general electric company1 river roadschenectady new york 12305us<sep>general electric company  <sep>
+</APPLICANT>
+<INVENTOR>
+brown dale marius<sep>garfinkel marvin<sep>brown, dale marius<sep>garfinkel, marvin<sep>brown, dale marius2338 st. joseph driveschenectady new yorkus<sep>garfinkel, marvin1052 merlin driveschenectady new yorkus<sep>brown, dale marius<sep>garfinkel, marvin<sep>brown, dale marius2338 st. joseph driveschenectady new yorkus<sep>garfinkel, marvin1052 merlin driveschenectady new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a layer (13) of transparent conductive material insulatingly  overlies a major surface (12) of a substrate (11) of  semiconductor material to provide a cis (conductor-­ insulator-semiconductor) capacitor.  a region (26) of opposite  conductivity type is provided in the substrate adjacent the  major surface of the substrate.  the capacitor is biased in  accumulation and the region of opposite conductivity type is  reversely biased with respect to the substrate.  minority  charge carriers generated in the semiconductor substrate  underlying the conductive layer in response to applied  radiation diffuse to the region of opposite conductivity type  and are sensed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

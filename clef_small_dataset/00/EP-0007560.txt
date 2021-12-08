@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007560
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41M-5/155 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+color-developing sheet for no-carbon copying process.
+</TITLE>
+<APPLICANT>
+mitsubishi paper mills ltdjp<sep>mitsubishi paper mills, ltd.<sep>mitsubishi paper mills, ltd.6-2, marunouchi 2-chomechiyoda-ku, tokyojp<sep>
+</APPLICANT>
+<INVENTOR>
+ohe hideo jp<sep>satoh tsutomu jp  <sep>senoho hideakijp<sep>torii takahirojp<sep>tsukahara hirokazujp<sep>ohe, hideo<sep>satoh, tsutomu<sep>senoho, hideaki<sep>torii, takahiro<sep>tsukahara, hirokazu<sep>ohe, hideo105, sakaemachitakasagocho takasago-shijp<sep>satoh, tsutomu105, sakaemachitakasagocho takasago-shijp<sep>senoho, hideaki105, sakaemachitakasagocho takasago-shijp<sep>torii, takahiro105, sakaemachitakasagocho takasago-shijp<sep>tsukahara, hirokazu105, sakaemachitakasagocho takasago-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a color-developing sheet for use in no-carbon copying  system, which contains a layer of a combination of a solid acid  with an acidic polymer is improved in preventing yellowing  during the preservation thereof, in giving high color intensity  and stability to image formed, by incorporating titan oxide  into the layer.  
+</ABSTRACT>
+<DESCRIPTION>
+color-developing sheet for no-carbon copying process the present invention relates to a color-develop ing sheet for use in no-carbon copying process. more particularly, it relates to a color-developing sheet for use in no-carbon copying process of which colordeveloping agent comprises a combination of a phenolic resin and an active silica compound, quite resistant to yellowing of color-developing sheet itself and to fading of the developed image even if exposed to sunlight, the light of fluorescent lamp or the atmospheric air for a long period of time. in general, a no-carbon copying paper is constituted of a "top sheet" and a "bottom sheet", where the top sheet is a paper coated with microcapsules containing a solution of electron-donating colorless dye such as crystal violet lactone, benzoyl leucomethylene blue, malachite green lactone, rhodamine anilinolactarn, 3-diethylamino-6-methyl-7-anilinofluoran and the like in a non-volatile oily solvent, and the bottom sheet is a paper coated with an electron-accepting colordeveloping agent (a solid acid such as activated clay, acid clay, attapulgite or the like or an acidic polymer such as a phenol-formaldehyde resin) and an appropriate binder. when the two sheets are superposed so that the coated surfaces confront each other and a pressure of pencil or typewriter is applied thereto, the capsules in the pressed part are ruptured and the color-forming agent (colorless dye) transfers to and contacts with the color-developing agent to form a color, whereby a colored image is obtained. as its applications, there are also known a "middle sheet" which is coated with color-forming and color-developing agents separately on its front and back sides, respectively, and is used by inserting between the top and bottom sheets, as well as a "self-contained paper" coated with a color-forming and a color-developing agents on the same side. accordingly, a color-developing sheet for use in no-carbon paper should satisfy the following requirements: (1) high whiteness and excellent resistance to yellowing after standing for a long period of time; (2) high color intensity and high storage stabilit of the image formed; and (3) good printing characteristics. attapulgite, acid clay, activated clay and the like, called under the generic name of solid add have a very porous surface, so that a color-developing paper prepared therefrom absorbs ink quite rapid @t the time of printing and has an excellent high-speed printability as a color-developing shef for no-carbon copying process which requires a very n1gh ink absorption as the result of th2 speed c - lng in t.ae more time. however, @bi@ type @@ @@l@ veloping @@@@ absorbs atmospheric moisture when left standing in the air for several months or gradually deteriorates its characteristics owing presumably to adsorption of atmospheric carbon dioxide and, as the result, loses its color-developing reactivity with a color-forming agent. in addition, the colored image obtained therefrom is poor in light resistance. particularly in the case of black-colored image, it turns to red with time even if it is not exposed to direct sunlight. these facts greatly injure its commercial value in respect of storability. in view
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a color-developing sheet for use in no-carbon copying system, comprising a support and an electronaccepting color-developing layer thereon of a combination of a phenolformaldehyde resin with a solid acid, which are capable of developing color upon reacting with an electron-donating coloress dye, characterized in that a titanium oxide is incorporated into the said electron-accepting color-developing layer.    2. a color-developing sheet as claimed in claim 1, in which titanium oxide is rutile.   3. a color-developing sheet as claimed in claim   1,    in which the solid acid is an active clay.   4. a color-developing sheet as claimed in claim 1, in which the amount of the titanium oxide incorporated is 0.1 to 5 parts by weight based on 1 part by weight of the phenolformaldehyde resin.   5. a color-developing sheet as claimed in claim 1, in which the combination ratio of the phenolformaldehyde resin with the solid acid is in the range of 1 : 2-16.  
+</CLAIMS>
+</TEXT>
+</DOC>

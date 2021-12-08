@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0013117
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/408 H03K-19/096 H01L-21/265 H01L-27/088 <main>H03K-19/094</main> G11C-11/407 H01L-27/08 H01L-29/66 H01L-29/78 H01L-27/085 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a mos dynamic logic circuit.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp <sep>fujitsu limited <sep>fujitsu limited 1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited <sep>
+</APPLICANT>
+<INVENTOR>
+baba fumio<sep>enomoto seiji<sep>nakano tomio<sep>baba, fumio<sep>enomoto, seiji<sep>nakano, tomio<sep>baba, fumio3-12-204, sakonyama, asahi-kuyokohama-shi, kanagawa 241jp<sep>enomoto, seiji3-2, susukino 3-chome, midori-kuyokohama-shi, kanagawa 227jp<sep>nakano, tomio7-9, miyazaki 2-chome, takatsu-kukawasaki-shi, kanagawa 213jp<sep>baba, fumio <sep>enomoto, seiji  <sep>nakano, tomio<sep>baba, fumio3-12-204, sakonyama, asahi-kuyokohama-shi, kanagawa 241jp<sep>enomoto, seiji3-2, susukino 3-chome, midori-kuyokohama-shi, kanagawa 227jp<sep>nakano, tomio7-9, miyazaki 2-chome, takatsu-kukawasaki-shi, kanagawa 213jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a mos dynamic logic circuit in which the impurity con­ centration of the semiconductor substrate (11) of said mos  dynamic logic circuit is selected to be low and the local impur­ ity concentration of the predetermined region of said semi­ conductor substrate is controlled so as to form a fet (q12)  having a low threshold voltage and a fet (q26) having a high  threshold voltage in said mos dynamic logic circuit.  
+</ABSTRACT>
+<DESCRIPTION>
+a mos dynamic logic circuit technical field the present invention relates to a mos dynamic logic circuit. a mos dynamic logic circuit in accordance with the present invention is applicable to circuits, such as a dynamic inverter circuit and a dynamic buffer circuit in electronic computers and the like. background art a structure of a prior art mos integrated circuit used for a static inverter is illustrated in fig. 1 attached to the present specification. the circuit diagram of the structure of fig. 1 is illustrated in fig. 2 attached to the present specification. the mos integrated circuit of fig. 1 comprises a silicon substrate 1, n+ layers 21, 22, 23 formed in the upper portion of the silicon substrate 1, silicon dioxide layers 41, 42 formed on the surface of the p type silicon substrate 1 corresponding to the channel region 31 between the n+ layers 21 and 22 and the channel region 32 between the n+ layers 22 and 23, gate electrodes of polycrystalline silicon 51, 52 formed on the silicon dioxide layers 41, 42, isolation coatings 6, a conductor 71 attached to the n+ layer 21 and the gate electrode 51, a conductor 72 connected to the n+ layer 22, a conductor 73 connected to the gate electrode 52, a conductor 74 connected to the n+ layer 23 and field silicon-dioxide layers 8. the n+ layer 21, the silicon dioxide layer 41the gate electrode 51 and the n+ layer 22 constitute a load side fet q1 , while the n layer 22, the silicon dioxide layer 42, the gate electrode 52 and the n+ layer 23 constitute a driver side fet q2. the driver side fet q2 and the load side fet q1 constitute a static inverter of fig. 2. the threshold voltage of a fet is determined by the impurity concentration of the silicon substrate 1 and the thickness of silicon dioxide layers 41, 42. in the prior art mos integrated circuit used for a static inverter, the threshold voltage vth(q2) of the driver side fet q2 and the threshold voltage vth(q1) of the load side fet q1 are of the same value of approximately 0.5 to 2. volts. 3encase of this relatively high value of the threshold voltage vth(q1) and vth(q2), the operation speed of the static inverter is low, the level of the output voltage of the static inverter is low and accordingly the noise-margin of the static inverter is small therefore, the operation characteristics of the prior art mos integrated circuit used for logic circuits such as inverters have been unsatisfactory. a static inverter has a disadvantage of high power dissipation. in order to avoid this disadvantage a dynamic inverter is used. in a dynamic inverter, the threshold voltage of the driver side fet q2 is required to be maintained higher than a predetermined level, because a leak current of fets occurs even when the gate voltage is below the threshold voltage. thus the driver side fet q2 is required to have a
+</DESCRIPTION>
+<CLAIMS>
+ claims    1. a mos dynamic logic circuit in which the electrical charges stored in the capacitive portion in the floating state are utilized for the   operat    of the circuit, characterized in that the impurity concentration of the semiconductor substrate of said   bos    dynamic   log#e    circuit is low and the local impurity concentration of the predetermined region of said   s°ticonductot    substrate is controlled, so that an enhancement type field effect transistor having the low threshold   voltage    which controls the charging of said capacitive portion and an enhancement type field effect transistor having the high threshold voltage which controls the discharging of said capacitive portion are formed in said mos dynamic logic circuit.     2. a mos dynamic logic circuit in which the electrical charges stored in the   capacitive    portion in the floating state are utilized   for    the operation of the circuit, characterized in that, the impurity concentration of the semiconductor substrate of said   mos    dynamic logic circuit is low and the local impurity concentration of the predetermined region of said   semicorductox    substrate is increased by means of ion implantation, so that an enhancement type field effect transistor having the low threshold voltage which controls the charging of said capacitive portion and an enhancement type field effect transistor having the high threshold voltage which controls the discharging of said capacitive portion are formed in said mos dynamic logic circuit.  
+</CLAIMS>
+</TEXT>
+</DOC>

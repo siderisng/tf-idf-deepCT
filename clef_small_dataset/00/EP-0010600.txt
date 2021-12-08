@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010600
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G10L-11/00 H04B-1/66 <main>H04B-1/66</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for coded transmission of speech signals, use of the method in a time-division multiplex transmission system and device for carrying out the method.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+schindler hans rudolf<sep>vettiger peter<sep>schindler, hans rudolf<sep>vettiger, peter<sep>schindler, hans rudolfwildenbühlstrasse 40ch-8135 langnau/zhch<sep>vettiger, peterlangmoosstrasse 33ch-8135 langnau/zhch<sep>schindler, hans rudolf  <sep>vettiger, peter <sep>schindler, hans rudolfwildenbühlstrasse 40ch-8135 langnau/zhch<sep>vettiger, peterlangmoosstrasse 33ch-8135 langnau/zhch<sep>
+</INVENTOR>
+<ABSTRACT>
+In the multiplex transmission of coded voice signals in periodic time frames, individual segments (blocks of coded samples) are suppressed for redun dimension reduction and replaced on the receiver by equal, optimally correlated cutouts from previously transmitted segments. On the transmitter side - for each speech signal - for the latest coded segment in a variety of comparisons with a gradually shifted window section of foregoing segments is determined, which of the best correlated, d. H. which is the most geous cutout and which are the relative vissue t (opt) and correlation C (max). For a group of speech signals, the one is then, or those with the best correlation are selected for suppressing a segment in the transmission. Instead of each missing segment, an indication of the associated optimum shift is transmitted in the frame head. In the receiver, some previous segments remain stored for each speech signal, from which the optimum section can be removed and can be used as a replacement segment with the aid of the received various different segments.
+</ABSTRACT>
+</TEXT>
+</DOC>

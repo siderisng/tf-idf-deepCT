@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003427
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-47/52 C07C-47/575 C07C-67/00 <main>C07C-47/55</main> C07C-45/63 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of m-(p-bromophenoxy)benzaldehyde.
+</TITLE>
+<APPLICANT>
+sumitomo chemical co jp  <sep>sumitomo chemical company limited<sep>sumitomo chemical company, limitedkitahama 4-chome 5-33chuo-ku osaka 541jp<sep>sumitomo chemical company, limited<sep>
+</APPLICANT>
+<INVENTOR>
+itaya nobushige<sep>ohsumi tadashi<sep>itaya, nobushige<sep>ohsumi, tadashi<sep>itaya, nobushige5-3-101, ryodochonishinomiya-shijp<sep>ohsumi, tadashi196, kanshadencho higashiiru takakuramanjujidori shimogyo-ku kyotojp<sep>itaya, nobushige  <sep>ohsumi, tadashi <sep>itaya, nobushige5-3-101, ryodochonishinomiya-shijp<sep>ohsumi, tadashi196, kanshadencho higashiiru takakuramanjujidori shimogyo-ku kyotojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for preparing m-(p-bromophenoxy)-benzaldehyde  of the formula:    is characterized by brominating m-phenoxybenzaldehyde  with bromine or bromine chloride as a brominating agent.  this process, achieving a nucleic halogenation is a  nucleus of an aldehyde which nucleus is not aldehyde-substituted,  is preferably carried out in a halogenation-resistant  solvent and may be carried out with heating.  if a  solvent is employed, however, the reaction temperature is  preferably below the boiling point of the solvent.  the presence of a catalyst is not essential to the  performance of the process of the invention.  
+</ABSTRACT>
+</TEXT>
+</DOC>

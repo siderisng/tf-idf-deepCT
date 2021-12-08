@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013733
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-19/418 B23Q-41/02 B23Q-41/00 B65G-37/02 B65G-37/00 B23P-21/00 B23P-19/00 B23Q-7/14 <main>B23Q-41/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+variable transporting and assembling system.
+</TITLE>
+<APPLICANT>
+bosch gmbh robertde<sep>robert bosch gmbh<sep>robert bosch gmbhpostfach 30 02 2070442 stuttgartde<sep>robert bosch gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+hirsch kurt<sep>kirsten wolfgang<sep>hirsch, kurt<sep>kirsten, wolfgang<sep>hirsch, kurtrobert bosch strasse 30d-8976 blaichachde<sep>kirsten, wolfgangaurikelweg 7d-8971 burgbergde<sep>hirsch, kurt<sep>kirsten, wolfgang<sep>hirsch, kurtrobert bosch strasse 30d-8976 blaichachde<sep>kirsten, wolfgangaurikelweg 7d-8971 burgbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a transport and assembly system for linking station locations (2a, 2b . . . ) to a conveyor belt (1), which are at the disposal of a working conveyor (4) which can be connected to the conveyor belt (1) by two oppositely running transverse conveyors (3a, 3b . . . ) for the supply and delivery of workpieces, characterized in that, the station locations (2a, 2b . . . ) can be occupied by basic untis (5, 6, 7) which are transportable and exchangeable or interchangeable as desired and each of which has its own transport system (4) connecting the two transverse conveyors (3a, 3b . . . ) and is provided with control means necessary for the particular operation concerned. 
+</ABSTRACT>
+</TEXT>
+</DOC>

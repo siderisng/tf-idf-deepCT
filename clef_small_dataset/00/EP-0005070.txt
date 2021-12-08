@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005070
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-265/00 A61P-37/00 C07D-333/36 A61K-31/55 C07D-417/12 A61K-31/425 C07D-333/00 C07D-207/16 A61K-31/535 C07D-277/00 C07D-307/14 C07D-279/00 C07D-279/12 A61K-31/54 C07D-223/00 C07D-211/00 C07D-211/60 C07D-417/00 C07D-223/06 C07D-307/52 C07D-317/00 A61K-31/445 <main>C07D-277/46</main> C07D-307/00 C07D-277/46 C07D-265/30 C07D-277/20 C07D-207/00 A61K-31/426 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-(2-thiazolyl)amides and their use as anti-inflammatory and immunoregulatory agents.
+</TITLE>
+<APPLICANT>
+pfizerus<sep>pfizer inc.<sep>pfizer inc.235 east 42nd streetnew york, n.y. 10017us<sep>pfizer inc.<sep>
+</APPLICANT>
+<INVENTOR>
+harbert charles armon<sep>lombardino joseph george<sep>harbert, charles armon<sep>lombardino, joseph george<sep>harbert, charles armon25 quinley way waterfordnew london connecticutus<sep>lombardino, joseph george13 laurel hill drive nianticnew london connecticutus<sep>harbert, charles armon<sep>lombardino, joseph george<sep>harbert, charles armon25 quinley way waterfordnew london connecticutus<sep>lombardino, joseph george13 laurel hill drive nianticnew london connecticutus<sep>
+</INVENTOR>
+<ABSTRACT>
+n-(2-thiazolyl) amides of the formulae:    are disclosed for use as anti-inflammatory and immunoregulatory  agents, in which x is hydrogen or alkyl having from  one to six carbon atoms; r is 2-pyrrolidinyl, 2-piperidyl,  2-homopiperidyl, 3-morpholinyl or 3-thiomorpholinyl; r₁ is  hydrogen, alkyl having from one to four carbon atoms,  benzyl or β-phenyl-ethyl; and r₂ is hydrogen, alkyl having  one to six carbon atoms, allyl, methallyl, cyclooctyl, cycloalkylmethyl  having from five to seven carbon atoms in the  cycloalkyl moiety, naphthylmethyl, picolinyl, furfuryl, tetrahydrofurfuryl,  thenyl or optionally ring-substituted phenylalkyl  having up to three carbon atoms in the alkyl moiety  wherein said ring substituent, when divalent, is methylenedioxy  or ethylenedioxy, directly attached to adjacent positions  of the phenyl ring and when monovalent is fluorine,  chlorine, bromine, trifluoromethyl, lower alkyl or lower  alkoxy (each having up to three carbon atoms).  such  compounds are novel, with the exception of those in which x  and r₁ are each hydrogen and r₂ is alkyl having one to three  carbon atoms.  
+</ABSTRACT>
+</TEXT>
+</DOC>

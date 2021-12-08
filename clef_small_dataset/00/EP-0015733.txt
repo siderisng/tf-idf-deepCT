@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015733
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-2/155 B41J-2/145 <main>B41J-3/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to ink jet printers.
+</TITLE>
+<APPLICANT>
+mead corpus<sep>the mead corporation<sep>the mead corporationmead world headquarters courthouse plaza northeastdayton ohio 45463us<sep>the mead corporation<sep>
+</APPLICANT>
+<INVENTOR>
+vedder james l<sep>vedder, james l.<sep>vedder, james l.8507 paragon drivedayton ohio 45459us<sep>vedder, james l.  <sep>vedder, james l. 8507 paragon drivedayton ohio 45459us<sep>
+</INVENTOR>
+<ABSTRACT>
+an ink jet printer for generating a plurality of fluid jet drop  streams includes a locating plate (20) having a plate receiving  recess (22) and an opening (24) within the recess and through  the locating plate.  a charge electrode plate (26) is positioned  within the recess (22) and has a plurality of electrode openings  (28) therethrough which are lined with charge electrodes.  print  data conductors (30) are connected electrically to the charge  electrodes for selectively supplying charge control signals to  the electrodes.  a print head (46) includes a fluid receiving re­ servoir and an orifice plate communicating therewith.  the ori­ fice plate has a plurality of orifices from which fluid jet drop  streams emerge.  the print head (46) is mounted on the locat­ ing plate (20) and is positioned by two locating pins (62, 64)  which extend from the print head and are received within regis­ tration openings (66,68) in the locating plate.  a drop deflection  electrode (142) and drop catchers (96) are also mounted on  the locating plate.  the locating plate provides a dimensional  reference from which the respective positions of the other  printer elements may be accurately set.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003662
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-3/00 G08B-17/10 H03K-3/354 G08B-17/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+single station type fire alarm system and a multivibrator used in the detection circuitry
+</TITLE>
+<APPLICANT>
+hochiki cojp<sep>hochiki corporation<sep>hochiki corporationno. 10-43, kamiosaki 2-chomeshinagawa-ku, tokyo 141jp<sep>
+</APPLICANT>
+<INVENTOR>
+arima takeojp<sep>furuyama akirajp<sep>arima, takeo<sep>furuyama, akira<sep>arima, takeono. 30-1 kita karasuyama 4-chome setagaya-kutokyojp<sep>furuyama, akirano. 1-7, tobio 3-chome atsuqi-shikanaqawajp<sep>
+</INVENTOR>
+<ABSTRACT>
+a multivibrator includes two c-mos inverters (10 and 11) with the input of one inverter (11) connected to the output of the other.  the output of the one inverter (11) is connected by a resistor (16) and capacitor (17) in series to its input and the junction of the resistor and capacitor is connected to the base of a transistor (14) having its emitter connected to one pole of the d. c.  supply and its collector connected to the input of said other inverter.  this arrangement reduces the current drawn by the multivibrator.   <??>a fire alarm system incorporating the multivibrator is also disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

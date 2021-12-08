@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002257
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03B-27/62</main> G03B-27/62 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+original feed apparatus for electrophotographic copying machine.
+</TITLE>
+<APPLICANT>
+ricoh kkjp<sep>ricoh company, ltd<sep>ricoh company, ltd3-6, 1-chome nakamagome ohta-ku tokyo 143 jp <sep>ricoh company, ltd<sep>
+</APPLICANT>
+<INVENTOR>
+kono masao<sep>ota sakae<sep>tanu tatsuo<sep>kono, masao<sep>ota, sakae<sep>tanu, tatsuo<sep>kono, masaono. 853, shimosakunobe takatsu-kukawasaki-shi kanagawa-kenjp<sep>ota, sakaeno. 6-8, takadanobaba 2-chome shinjuku-kutokyojp<sep>tanu, tatsuono. 8-7, minamisenzoku 1-chome ota-kutokyojp<sep>kono, masao <sep>ota, sakae<sep>tanu, tatsuo  <sep>kono, masao no. 853, shimosakunobe takatsu-kukawasaki-shi kanagawa-kenjp<sep>ota, sakaeno. 6-8, takadanobaba 2-chome shinjuku-kutokyojp<sep>tanu, tatsuono. 8-7, minamisenzoku 1-chome ota-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a multi-mode copying machine capable of effecting  copying in accordance with a moving original-fixed optics  mode copying system and a fixed original-moving optics  mode copying system is provided with an original feed  apparatus having means (6, 7, 9) for guiding conveyor belts  (3) to deflect away from an original irradiation position (1a) in  their travel, the conveyor belts (3) being adapted to transport  an original in sheet form.  further, the original feed apparatus has means for  transporting an original in sheet form exactly at a predetermined  rate in the moving original-fixed optics mode copying  system and for transporting the original without deformation  or breakage while being fed at a high rate in the fixed  original-moving optics mode copying system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

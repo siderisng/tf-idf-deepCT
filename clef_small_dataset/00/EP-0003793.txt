@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003793
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-13/00 <main>F16H-13/08</main> F16H-55/34 F16H-13/14 F16H-13/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+planetary-roller transmission with elastic roller or ring.
+</TITLE>
+<APPLICANT>
+mitsubishi heavy ind ltdjp<sep>mitsubishi jukogyo kabushiki kaisha<sep>mitsubishi jukogyo kabushiki kaisha5-1, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi jukogyo kabushiki kaisha <sep>
+</APPLICANT>
+<INVENTOR>
+oda shoichi<sep>takahashi hisayoshi<sep>oda, shoichi<sep>takahashi, hisayoshi<sep>oda, shoichi26-5, hinata-cho 3-chome mizuho-kunagoya city aichi pref.jp<sep>takahashi, hisayoshi28-11, aza-horoku oaza-uguiura yatomi-choama-gun aichi pref.jp<sep>oda, shoichi<sep>takahashi, hisayoshi<sep>oda, shoichi26-5, hinata-cho 3-chome mizuho-kunagoya city aichi pref.jp<sep>takahashi, hisayoshi28-11, aza-horoku oaza-uguiura yatomi-choama-gun aichi pref.jp<sep>
+</INVENTOR>
+<ABSTRACT>
+in a planetary-roller transmission for transmitting power  from one rotating shaft to another by a plurality of planet  rollers (2) pivotally supported, in contact with the outer  periphery of a sun roller (100) connected to the first rotating  shaft (80) and also with the inner periphery of an internal  contact ring (3) secured to a stationary member, (10) by a  carrier (6) connected to the second shaft, all or any of the  rollers and ring is an elastic one, which consists of a plurality  of thick-walled cylindrical parts spaced apart axially of the  associated shaft, a cylindrical part thinner than the thick-walled  parts, with its inner or outer periphery serving as a  surface to contact the mating roller or ring, and disk-shaped  parts thinner than the thick-walled parts and connecting the  both sides of the thin-walled cylindrical part separately to the  thick-walled parts, so that, when the thick-walled cylindrical  parts are pressed toward each other at the both outermost  sides, the diameter (ds) of the thin-walled cylindrical part is  changed, and then the elastic roller or ring is compressed  axially of the associated shaft to change its total width so as to  change the contact pressure to be exerted between all the  rollers and ring.  where the internal contact ring (3) is made  elastic, a torque cam mechanism for producing a compressive  force proportional to the load on the rotating shafts, axially of  the shafts, and imparting the same to the internal contact ring  (3) is disposed between the ring and the stationary member  (10).  planet pins (5) carrying the planet rollers (2) are supported  at both ends in bearings (4) in the form of slots formed  in the carrier (6) and are made movable along the slots only  radially of the sun roller.  
+</ABSTRACT>
+</TEXT>
+</DOC>

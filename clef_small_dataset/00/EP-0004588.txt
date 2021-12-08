@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004588
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+A62C-13/00 A62C-37/46 A62C-37/00 <main>A62C-37/06</main> F16K-31/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+valve-releasing mechanism for fire extinguisher.
+</TITLE>
+<APPLICANT>
+cerberus agch<sep>cerberus ag<sep>cerberus agalte landstrasse 411ch-8708 männedorfch<sep>cerberus ag  <sep>
+</APPLICANT>
+<INVENTOR>
+both marinus<sep>trunner josef<sep>both, marinus<sep>trunner, josef<sep>both, marinusalte landstrasse 388ch-8708 männedorfch<sep>trunner, josefbrunnenweg 634ch-8617 mönchaltorfch<sep>both, marinus<sep>trunner, josef<sep>both, marinusalte landstrasse 388ch-8708 männedorfch<sep>trunner, josefbrunnenweg 634ch-8617 mönchaltorfch<sep>
+</INVENTOR>
+<ABSTRACT>
+Tripping device for the opening of a valve of a fire extinguent system by a linearly movable release steadle (10) or triggering pin (20) at unlocking a biased coil spring (2) at which a movable ball pressure plate (6) is arranged, between the and another, fixed Ball pressure plate (9) balls (7) are arranged. A clamp pin (11) in the movable ball pressure plate (6) holds the coil spring (2) under a torsional tension and the movable ball pressure plate (6) in such an angular position, that the balls (7) the two ball pressure plates (6, 9) at an output distance can hold. In electromagnetic unlocking of the clamping pin (11) and reverse rotation of the coil spring (2), the movable spherical pressure plate (6) rotates, so that the spring (2) can relax axially and the release steadle (10) presses the tripping element of the valve and opens this . Concentrically to the first coil spring (2), another release pin (20) is provided, which can be operated manually by a hand outlet button (17), regardless of the electromagnetic tripping (4). The operating state of the device is visually and monitored by microswitches (16 and 24).
+</ABSTRACT>
+</TEXT>
+</DOC>

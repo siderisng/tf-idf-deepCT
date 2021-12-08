@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012838
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/265 H01J-27/14 H01J-27/02 <main>H01J-37/08</main> H01J-1/16 H01L-21/02 H01J-37/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ion source, especially for ion implantation apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hinkel holger dr<sep>kraus georg<sep>hinkel, holger, dr.<sep>kraus, georg<sep>hinkel, holger, dr.zeisigweg 13d-7030 böblingende<sep>kraus, georgim heinental 70d-7277 wildberg-4de<sep>hinkel, holger, dr.  <sep>kraus, georg <sep>hinkel, holger, dr.zeisigweg 13d-7030 böblingende<sep>kraus, georgim heinental 70d-7277 wildberg-4de<sep>
+</INVENTOR>
+<ABSTRACT>
+A rod-shaped DC heated annealing cathode in a discharge chamber of an ion source forming the anode is shown in the region of its electrically negative end relative to its residual part in its cross section.As a result, the electric resistance of the Glühka Thode is determined during nearly the entire lifetime of the cathode of the negative end, which is not under erosion, and not by the rapidly eroding positive end and remains almost constant.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000090
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-8/28 B01D-15/04 <main>C08G-14/06</main> C08G-8/00 C08G-14/00 C08G-14/06 B01J-45/00 C01G-13/00 C01G-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+modified phenolic resins, method for their preparation and their use as selective metal chelating agents.
+</TITLE>
+<APPLICANT>
+commw scient ind res orgau<sep>commonwealth scientific and industrial research organization<sep>commonwealth scientific and industrial research organisationlimestone avenuecampbell, australian capital territory 2601au<sep>commonwealth scientific and industrial research organization<sep>
+</APPLICANT>
+<INVENTOR>
+hodgkin jonathan howard<sep>hodgkin, jonathan howard<sep>hodgkin, jonathan howard28 celia streetburwood state of victoriaau<sep>hodgkin, jonathan howard<sep>hodgkin, jonathan howard28 celia streetburwood state of victoriaau<sep>
+</INVENTOR>
+<ABSTRACT>
+modified phenolic resins are prepared by condensing  approximately equimolar quantities of a phenolic component  comprising one or more phenols, and a diamino component  comprising one or more di-(secondary amino) compounds  with approximately twice the molar quantity of formaldehyde  under mannich reaction conditions.  mercury and  copper ions may be removed very selectively from aqueous  solutions using the new resin.  
+</ABSTRACT>
+</TEXT>
+</DOC>

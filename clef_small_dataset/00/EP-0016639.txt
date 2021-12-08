@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016639
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-3/56 <main>G01N-3/56</main> G01N-27/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for determining the abrasiveness of fluids, method of monitoring bearing wear using such method, and machine incorporating such apparatus.
+</TITLE>
+<APPLICANT>
+fulmer res inst ltdgb<sep>fulmer research institute limited<sep>fulmer research institute limitedstoke poges sloughbuckinghamshire sl2 4qdgb<sep>fulmer research institute limited<sep>
+</APPLICANT>
+<INVENTOR>
+anstey nicholas david<sep>cash david arnold<sep>stewart duncan<sep>williams gwilym iorwearth<sep>anstey, nicholas david<sep>cash, david arnold<sep>stewart, duncan<sep>williams, gwilym iorwearth<sep>anstey, nicholas davidwoodstock wynnswick road seer greenbeaconsfield, buckinghamshire hp9 2xwgb<sep>cash, david arnold2, the lakeside frogmoor park driveblackwater, camberley surrey gu17 0pqgb<sep>stewart, duncanbeeches roadfarnham common slough sl1 3prgb<sep>williams, gwilym iorwearthfircrest rosken grovefarnham royal, sloughgb<sep>anstey, nicholas david<sep>cash, david arnold<sep>stewart, duncan<sep>williams, gwilym iorwearth <sep>anstey, nicholas david woodstock wynnswick road seer green beaconsfield, buckinghamshire hp9 2xwgb<sep>cash, david arnold2, the lakeside frogmoor park driveblackwater, camberley surrey gu17 0pqgb<sep>stewart, duncanbeeches roadfarnham common slough sl1 3prgb<sep>williams, gwilym iorwearthfircrest rosken grovefarnham royal, sloughgb<sep>
+</INVENTOR>
+<ABSTRACT>
+abrasion testing, and hence particle content of fluids  including liquids and gases is carried out by abrading a thin  film (2, 25, 27) of an electrical conductor with the fluid, and  measuring the resulting change in electrical resistance of the  film.  the method can be used to monitor metal particles in oil,  and hence the state of wear of oil-lubricated metal parts, and  the level of particulate pollution in the atmosphere.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012651
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02F-1/13</main> G02F-1/13 H04N-3/12 G02F-1/133 G02F-1/135 G09F-9/35 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid crystal display device.
+</TITLE>
+<APPLICANT>
+thomson csf fr <sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+hareng michel<sep>le berre serge<sep>leclerc pierre<sep>hareng, michel<sep>le berre, serge<sep>leclerc, pierre<sep>hareng, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>le berre, serge"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>leclerc, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>hareng, michel<sep>le berre, serge<sep>leclerc, pierre <sep>hareng, michel "thomson-csf" - scpi 173, bld haussmann f-75360 paris cedex 08fr<sep>le berre, serge"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>leclerc, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the smatch liquid crystal display cells in which the liquid crystal is at the isotropic state under the action of a light beam (11) and returns to the smectic state by becoming diffusing.It consists of exciting a photo-conductive layer (9) with this light beam.Under the effect of an electrical voltage the points thus excited heat and carry the underlying portions of the liquid crystal (1) in the isotropic state.The action of the light beam is thus indirect.It makes it possible to make display cells use as the source of this light beam a Laser HE does not of reduced power.
+</ABSTRACT>
+</TEXT>
+</DOC>

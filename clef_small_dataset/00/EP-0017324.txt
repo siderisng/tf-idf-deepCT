@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017324
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01C-7/12 H01H-85/44 <main>H02H-7/00</main> H02H-9/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+surge voltage arrester with fail-safe feature.
+</TITLE>
+<APPLICANT>
+reliable electric cous<sep>reliable electric company<sep>reliance electric company29325 chagrin blvd.cleveland, ohio 44122us<sep>reliance electric company <sep>
+</APPLICANT>
+<INVENTOR>
+baumbach bertram william<sep>baumbach, bertram william<sep>baumbach, bertram william112 north waterman streetarlington heights illinois 6004us<sep>baumbach, bertram william<sep>baumbach, bertram william112 north waterman streetarlington heights illinois 6004us<sep>
+</INVENTOR>
+<ABSTRACT>
+a surge voltage arrester utilizes for surge protection a  varistor (16) of the zinc oxide type between a line terminal  (4,40) and a ground terminal (6,60).  the varistor is of a type  that has a resistance which decreases as increasing voltage  is applied thereacross.  with increasing temperature the  leakage current through the varistor increases at a given  voltage.  at a critical temperature and voltage condition, the  varistor is subject to a thermal runaway condition which  would cause the varistor to fail expelling hot particles.  to  avoid this failure condition, a fail-safe mechanism (34,26,30)  is provided which connects the line terminal to the ground  terminal by-passing the varistor when there is an over-­ current condition on the line that results in heating of the  varistor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

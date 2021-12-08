@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006777
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08F-2/46</main> C08F-2/48 C08F-2/50 B01D-21/01 C08F-2/00 C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for preparing polymers usable as flocculants.
+</TITLE>
+<APPLICANT>
+rhone poulenc indfr<sep>rhone-poulenc industries<sep>rhone-poulenc specialites chimiques"les miroirs" 18, avenue d'alsace92400 courbevoiefr<sep>rhone-poulenc specialites chimiques <sep>
+</APPLICANT>
+<INVENTOR>
+boutin jean<sep>neel jean<sep>boutin, jean<sep>neel, jean<sep>boutin, jean7, rue buzyf-69780 mionsfr<sep>neel, jean62, rue lieutenant colonel prévostf-69006 lyonfr<sep>boutin, jean <sep>neel, jean  <sep>boutin, jean7, rue buzyf-69780 mionsfr<sep>neel, jean62, rue lieutenant colonel prévostf-69006 lyonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for preparing organic polymers.According to this method, an ultra purple radiation is subjected to aqueous monomer (s) olefini solution (s), the atmosphere overcoming the photopolymerization medium being kept wet throughout the duration of the irradiation, including when,Under the effect of polymerization, the aqueous solution was transported until it is solid.These organic polymers are useful in particular, as flocculants.
+</ABSTRACT>
+</TEXT>
+</DOC>

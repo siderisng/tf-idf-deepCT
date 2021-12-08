@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004037
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-19/165 G01R-19/00 A61N-1/08 A61N-1/32 G01R-19/04 <main>G01R-19/165</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for measuring electric currents or tensions in a plurality of current or voltage circuits.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kusserow bernd<sep>kusserow, bernd<sep>kusserow, berndkulmbacher strasse 12d-8520 erlangende<sep>kusserow, bernd<sep>kusserow, berndkulmbacher strasse 12d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+Method and apparatus for measuring electrical currents and / or voltages in a plurality of current or voltage circuits, with power or voltage of each circle being compared with a comparison value. Here a possibility is to be created, with the rapid changes in signal behavior be detected and displayed. When using peak knives, even with a very large time constant, such rapid changes should also be used for rapid correction of the peak value display. According to the invention, this is achieved in that each in a single current or voltage circuit (1, 2, 3) separately detected current or voltage value is compared to a correspondingly associated comparator (29.30.31) with a mean value, which is formed from the current or voltage values ​​of all involved current or voltage circuits. The output signals of the comparators are then brought to display with the average value in the predeterminable limit on a separately associated display means (41 to 43) with the mean value in the predecessible limit. The invention finds its use in particular for measuring the peak of medium frequency currents in medium frequency current circuits in electromedical interference current therapy.
+</ABSTRACT>
+</TEXT>
+</DOC>

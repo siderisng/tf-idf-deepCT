@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001971
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C01B-21/14</main> C01B-21/00 C01B-17/45 C01B-21/14 B01J-19/02 C22C-38/44 C22C-30/00 B01J-23/00 C01B-17/00 C22C-38/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing hydroxylammonium salts in reactors made of stainless steel.
+</TITLE>
+<APPLICANT>
+basf ag de<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+muenster rolf<sep>rapp guenther dr<sep>thomas erwin<sep>muenster, rolf<sep>rapp, guenther, dr.<sep>thomas, erwin<sep>muenster, rolfherrmann-ehlers-strasse 2d-6720 speyerde<sep>rapp, guenther, dr.mundenheimer strasse 174d-6700 ludwigshafende<sep>thomas, erwinborngasse 12d-6713 freinsheimde<sep>muenster, rolf<sep>rapp, guenther, dr.<sep>thomas, erwin<sep>muenster, rolf  <sep>rapp, guenther, dr. <sep>thomas, erwin<sep>muenster, rolfherrmann-ehlers-strasse 2d-6720 speyerde<sep>rapp, guenther, dr.mundenheimer strasse 174d-6700 ludwigshafende<sep>thomas, erwinborngasse 12d-6713 freinsheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing hydroxylamm monomes by catalytic reduction of nitrogen monoxide with hydrogen in diluted aqueous mineral acids in the presence of suspended platinum catalysts at elevated temperature, wherein the reaction is carried out in reaction vessels whose walls of known, copper-free, molybdenum, austenitic chromium-nickel steel steelsconsist of a content of 16 to 28 wt.% chrome, 10 to 50 wt.% nickel, 1 to 4 wt.% molybdenum, at most 0.05 wt.% are carbon and additionally up to 0.5 wt.% Nitrogen included.
+</ABSTRACT>
+</TEXT>
+</DOC>

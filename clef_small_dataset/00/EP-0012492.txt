@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012492
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/02 G01N-33/06 <main>G01N-21/35</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for quantitatively determining fat in a fat-containing sample.
+</TITLE>
+<APPLICANT>
+foss electric as ndk<sep>a/s n. foss electric<sep>a/s n. foss electricslangerupgade 69dk-3400 hilleroeddk<sep>a/s n. foss electric<sep>
+</APPLICANT>
+<INVENTOR>
+andersen henrik rastrup<sep>nexo sten andersen<sep>andersen, henrik rastrup<sep>nexo, sten andersen<sep>andersen, henrik rastrupvester marie alle 38dk-2770 kastrupdk<sep>nexo, sten andersensteen blichers vej 8dk-3460 birkeroddk<sep>andersen, henrik rastrup  <sep>nexo, sten andersen<sep>andersen, henrik rastrupvester marie alle 38dk-2770 kastrupdk<sep>nexo, sten andersensteen blichers vej 8dk-3460 birkeroddk<sep>
+</INVENTOR>
+<ABSTRACT>
+fat in a fat-containing sample, in particular a milk  sample, is determined quantitatively by infra-red absorption  technique, using as sample waveband a band characteristic  to carbon-hydrogen bonds, instead of the conventional  triglyceride carbonyl band.  this avoids the dependency of  the measured result on the fat composition of the sample.   influences from other components in the sample are com­ pensated.  a preferred method uses double wavelength  determination, with sample wavelength in the interval from  3. 475 to 3. 51 µm and reference wavelength in the range  between 5. 51 µm and 3. 60 µm.  the accompanying drawing shows characteristic trans­ mission spectra in the wavelength range from 3. 3 to 3. 6 µm  for:   (a) fat (a double beam balance spectrum of a 3. 5%  fat milk sample against a skim milk having the same loctose  and protein content);  (b) protein + lactose (double beam balance spectrum  of skim milk against water); and   (c) lactose (double beam balance spectrum of 5%  lactose solution in water against water).  the path length in all three cases was 37 µm.  
+</ABSTRACT>
+</TEXT>
+</DOC>

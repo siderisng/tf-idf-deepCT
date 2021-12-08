@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013280
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-71/12 H01H-71/40 <main>H01H-71/14</main> H01H-37/46 H01H-71/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+selectively acting thermal circuit breaker, method for its release and its use for electrical protection.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & cie ch<sep>bbc aktiengesellschaft brown, boveri & cie.<sep>bbc aktiengesellschaft brown, boveri &amp; cie.haselstrassech-5401 badench<sep>bbc aktiengesellschaft brown, boveri & cie.<sep>
+</APPLICANT>
+<INVENTOR>
+melton keith dr<sep>mercier olivier dr<sep>melton, keith, dr.<sep>mercier, olivier, dr<sep>melton, keith, dr.sonnenrainstrasse 291ch-5435 busslingench<sep>mercier, olivier, drgiessbergstrasse 19ch-5400 ennetbadench<sep>melton, keith, dr.  <sep>mercier, olivier, dr <sep>melton, keith, dr.sonnenrainstrasse 291ch-5435 busslingench<sep>mercier, olivier, drgiessbergstrasse 19ch-5400 ennetbadench<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  thermal switch with a selective action, possessing a switching element (18) which is made from an alloy having a shape-memorising capability and which is located, at least at a first point (15), in a manner essentially permitting free movement, and is rigidly attached to a body (16), characterised in that the mass (m) of this body (16) is adjustable and is assigned to a limiting acceleration-value (xg ) for triggering this thermal switch, it bein possible to preset this limitting acceleration-value. 
+</ABSTRACT>
+</TEXT>
+</DOC>

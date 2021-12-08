@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015064
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/73 <main>H01L-29/167</main> H01L-21/225 H01L-21/322 H01L-21/22 H01L-29/02 H01L-29/167 H01L-29/66 H01L-21/02 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing bipolar semiconductor device.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited <sep>
+</APPLICANT>
+<INVENTOR>
+fukuda takeshi<sep>ichinose yoshito<sep>kobayashi naoaki<sep>fukuda, takeshi<sep>ichinose, yoshito<sep>kobayashi, naoaki<sep>fukuda, takeshi41-6, higashitamagawa 2-chomesetagaya-ku, tokyo 158jp<sep>ichinose, yoshito465, suwa, takatsu-kukawasaki-shi, kanagawa 213jp<sep>kobayashi, naoaki331, miyauchi, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fukuda, takeshi<sep>ichinose, yoshito  <sep>kobayashi, naoaki<sep>fukuda, takeshi41-6, higashitamagawa 2-chomesetagaya-ku, tokyo 158jp<sep>ichinose, yoshito465, suwa, takatsu-kukawasaki-shi, kanagawa 213jp<sep>kobayashi, naoaki331, miyauchi, nakahara-kukawasaki-shi, kanagawa 211jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for manufacturing a bipolar semiconductor  device is described.  an epitaxial layer is formed on a silicon  wafer, and a base layer is formed by the diffusion of impurities  having one conductivity type in a part of the epitaxial layer.  impurities having the opposite conductivity type are  deposited in a part of the base layer, polycrystalline silicon is  deposited on the entire surface of the wafer which is provided  with windows for emitter, base and collector electrodes, and a  gold-containing film is applied on the entire surface of the  polycrystalline silicon layer.  the deposited impurities having the opposite conductiv­ ity type are driven into the base layer so as to form an emitter  layer and simultaneously gold atoms are driven in through  the collector windows into a collector layer of the epitaxial  layer and through the base and emitter windows into the  collector layer.  thereafter, the emitter, base and collector layers are elec­ trically connected within the device.  
+</ABSTRACT>
+</TEXT>
+</DOC>

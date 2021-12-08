@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009202
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-77/00 <main>C07F-7/21</main> C07F-7/00 C07F-7/21 C08G-77/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of cyclic dimethylpolysiloxanes.
+</TITLE>
+<APPLICANT>
+wacker chemie gmbhde  <sep>wacker-chemie gmbh<sep>wacker-chemie gmbhhanns-seidel-platz 4d-81737 münchende<sep>wacker-chemie gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+burkhardt jurgen dr<sep>louis eckhart dr<sep>rauchberger werner<sep>burkhardt, jurgen, dr.<sep>louis, eckhart, dr.<sep>rauchberger, werner<sep>burkhardt, jürgen, dr.isenbreite 25d-8261 winhöringde<sep>louis, eckhart, dr.angererweg 20d-8263 burghausende<sep>rauchberger, wernerregerstrasse 7d-8263 burghausende<sep>burkhardt, jurgen, dr. <sep>louis, eckhart, dr.<sep>rauchberger, werner  <sep>burkhardt, jürgen, dr. isenbreite 25d-8261 winhöringde<sep>louis, eckhart, dr.angererweg 20d-8263 burghausende<sep>rauchberger, wernerregerstrasse 7d-8263 burghausende<sep>
+</INVENTOR>
+<ABSTRACT>
+According to the invention, cyclic dimethyl polysil oxane are prepared by heating a mixture of linear or branched organopolysiloxane, which consists of at least 50 mol percent of dimethylsiloxane units, and 50 to 85 weight-percent aqueous sulfuric acid and simultaneous distilling off the cyclic dlmethylpolysiloxanes formed in this heating.
+</ABSTRACT>
+</TEXT>
+</DOC>

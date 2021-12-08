@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002374
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24J-2/08 F24J-2/10 F24J-2/06 F24J-2/24 F24J-2/04 <main>F24J-3/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiation collector.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company  <sep>
+</APPLICANT>
+<INVENTOR>
+moss gerald<sep>moss, gerald<sep>moss, gerald"trevose" sarajac avenueeast challow wantage, oxfordshiregb<sep>moss, gerald<sep>moss, gerald"trevose" sarajac avenueeast challow wantage, oxfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a radiation collector (10) comprises a plurality of conduit  sections (17) which are connected or connectible to  form at least part of a continuous conduit for the passage  therethrough of a heat collecting fluid, a plurality of substantially  parallel cylindrical-form lenses (15) (which may be  fresnel lenses) disposed on one side of the conduit sections  (17) and substantially parallel thereto, and a plurality of  substantially parallel concave reflectors (16) disposed on the  other side of the conduit sections (17) and substantially  parallel thereto, the concave reflectors (16) facing towards  the conduit sections (17) and lenses (15) and the arrangement  of the lenses, conduit sections and reflectors being  such that for at least some angles of incidence of radiation on  the lenses, the incident radiation is concentrated on the  exterior surface of the conduit sections (17) directly from the  lenses (15) and/or indirectly after reflection from the reflectors  (16).  in some embodiments, all the conduit  sections (17) have their axes in a common plane and all the  reflectors (16) have equal concavity.  these embodiments  may be disposed with the conduit sections (17) in an  east-west direction for receiving solar energy over a relatively  long period of daylight.  in other embodiments best suited to be  mounted with their conduit sections in a north-south  direction, alternate conduit sections (17a, 17b) have their  axes in different respective planes and corresponding reflectors  (16a, 16b) have appropriate curvatures.  these other  embodiments can receive radiation over longer daylight  periods, but not all conduits will receive concentrated  radiation at all times.  the principal advantage of the radiation collector is that  it will collect radiation efficiently over a relatively wide range  of incident angles without the need for mechanical apparatus  to vary the attitude of the collector or to vary the relative  positions of the lenses, conduit sections and reflectors.  
+</ABSTRACT>
+</TEXT>
+</DOC>

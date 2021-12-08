@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001163
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-21/00 B25J-9/10 B25J-9/02 <main>B25J-11/00</main> F16H-21/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a straight-line linkage mechanism for an industrial manipulator.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc <sep>
+</APPLICANT>
+<INVENTOR>
+halsall james richard<sep>halsall, james richard<sep>halsall, james richard26 whitley close moughland lanegb-runcorn cheshire wa7 4sjgb<sep>halsall, james richard <sep>halsall, james richard26 whitley close moughland lanegb-runcorn cheshire wa7 4sjgb<sep>
+</INVENTOR>
+<ABSTRACT>
+linkage mechanisms for industrial manipulators are disclosed  which are based on so-called straight line mechanisms.   the preferred straight line mechanism is of the conchoid  type.  the linkage mechanisms may be employed to  move functional elements of industrial manipulators in  straight lines without the use of lead screws or revolute  jointed arms.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013358
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-31/00</main> H02B-13/035 H01H-33/42 H02B-13/02 H02B-13/075 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+power or load circuit-breaker, particularly for medium voltage systems.
+</TITLE>
+<APPLICANT>
+pfisterer elektrotech karlde<sep>karl pfisterer elektrotechnische spezialartikel gmbh & co. kg<sep>karl pfisterer elektrotechnische spezialartikel gmbh &amp; co. kgaugsburger strasse 375d-7000 stuttgart 60de<sep>karl pfisterer elektrotechnische spezialartikel gmbh & co. kg<sep>
+</APPLICANT>
+<INVENTOR>
+bauerle gottfried ing-grad<sep>bauerle, gottfried, ing.-grad.<sep>bäuerle, gottfried, ing.-grad.postweg 3d-7012 fellbach-schmidende<sep>bauerle, gottfried, ing.-grad.  <sep>bäuerle, gottfried, ing.-grad. postweg 3d-7012 fellbach-schmidende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  power or load circuit-switch, in particular for medium voltage networks, comprising a driving device (24) which can be brought into differing positions relative to the switch for the purpose of selective coupling to at least one switching unit (2) or one earthing and/or short-circuiting device (10, 12) and which is held in these positions by a support (1, 3), characterised in that the driving device (24) is guided to be movable between the various positions by means of a guide (swivel pin 25') provided on the support (1, 3). 
+</ABSTRACT>
+</TEXT>
+</DOC>

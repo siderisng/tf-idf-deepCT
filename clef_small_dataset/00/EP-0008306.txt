@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008306
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65C-11/02 <main>B65C-9/18</main> B65C-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+label positioning mechanism for printing machine.
+</TITLE>
+<APPLICANT>
+sato kenkyusho  <sep>kabushiki kaisha  sato kenkyusho<sep>kabushiki kaisha sato kenkyusho21-23, 3-chome kamikitazawa setagaya-kutokyojp<sep>kabushiki kaisha  sato kenkyusho<sep>
+</APPLICANT>
+<INVENTOR>
+yo sato mr<sep>yo sato mr.<sep>yo sato mr.21-23, 3-chome kamikitazawa setagaya-kutokyojp<sep>yo sato mr.  <sep>yo sato mr.21-23, 3-chome kamikitazawa setagaya-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a label positioning mechanism for use with a printing  machine which is operative to print one by one the labels.  the  label positioning mechanism includes a feed wheel (9) which  is mounted rotatably in the body of the printing machine and  formed on its circumference with such a label advancing sur­ face (35) as is engageable with the label strip (8) for advancing  the same in a preset direction.  further inclusive is a label  positioning member (29) which is connected pivotally to the  machine body such that it is rotatable to and from the label  advancing surface of the feed wheel.  an arm mechanism (25,  29) has its one end fixed to an operating shaft (18), which is  mounted rotatably in the machine body, and its other end  connected pivotally to the label positioning member so that  the operating force of the operating shaft may be transmitted  the label positioning member when the operating shaft is  actuated.  biasing means (38) is used to urge the label position­ ing member to the feed wheel.  
+</ABSTRACT>
+</TEXT>
+</DOC>

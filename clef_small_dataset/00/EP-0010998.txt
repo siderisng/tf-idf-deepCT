@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010998
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-9/00 G02B-27/42 H05K-3/00 G02B-7/00 G01B-11/27 <main>G03B-41/00</main> G02B-5/18 G02B-5/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for optically aligning patterns in two planes close to one another and alignment device to realize such a process.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+fay bernard<sep>frichet alain<sep>trotel jacques<sep>fay, bernard<sep>frichet, alain<sep>trotel, jacques<sep>fay, bernard"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>frichet, alain"thomson-csf",-scpi 173 bld haussmannf-75360 paris cedex 08fr<sep>trotel, jacques"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>fay, bernard<sep>frichet, alain  <sep>trotel, jacques<sep>fay, bernard"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>frichet, alain"thomson-csf",-scpi 173 bld haussmannf-75360 paris cedex 08fr<sep>trotel, jacques"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the alignment of patterns in two close planes, one (mask) bearing a pattern to produce on the second (sample). The subject of the invention relates to an opted alignment method of these two planes using a marking torque for mes of a linear Fresnel zone lens (4), listed on the mask (1), and a network. Reflector (3), suitable width inscribed on the sample (2). The illumination of a parallel monochromatic light beam, from the Fresnel zonal lennel produced on the sample a substantially rectangular illumination stain which when it is brought into coincidence with the line on the sample is reflected or transmitted, and provides a maximum or minimum of intensity detected, depending on whether the line is more reflector or less reflector than the rest of the sample. The invention also relates to the optical alignment device implementing this method. The invention applies to the alignment of lithographic X-ray masks or photomasques with respect to the samples on which reproduction should be performed.
+</ABSTRACT>
+</TEXT>
+</DOC>

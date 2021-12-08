@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004141
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02F-5/00 F16J-9/20 F02B-53/06 F16J-9/00 F02B-3/00 <main>F02B-3/00</main> F16J-9/14 F02B-3/06 F02F-1/00 F02B-53/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diesel engine and piston assembly therefor.
+</TITLE>
+<APPLICANT>
+int harvester cous <sep>international harvester company<sep>international harvester company 401 north michigan avenue chicago illinois 60611us<sep>international harvester company<sep>
+</APPLICANT>
+<INVENTOR>
+mccandless james c<sep>mccandless, james c.<sep>mccandless, james c.1109 charlesnaperville illinois 60540us<sep>mccandless, james c.<sep>mccandless, james c.1109 charlesnaperville illinois 60540us<sep>
+</INVENTOR>
+<ABSTRACT>
+an automotive diesel engine is provide with pistons  (21) each of which carries two compression rings (25-27) and  an oil control ring.  the cold end clearance of the lower compression  ring (27) is at least three times greater than the cold  end clearance of the top compression ring (25).  the annulus  defined by the second land (32) of the piston (21), the two  compression rings (25-27) and the engine cylinder wall (11)  has an empirically determined volume (35) which is within  the range of about 0. 12 cubic inches (0. 00196 litre) to about  0. 35 cubic inches (0. 00574 litre).  the top land (31) of the piston  is set back to provide exaggerated diametral clearance  from the cylinder wall.  
+</ABSTRACT>
+</TEXT>
+</DOC>

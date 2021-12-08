@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004592
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-207/00 C07D-207/44 C07D-207/448 C08G-73/12 C08G-73/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bisimide-ether compounds, compositions containing these compounds, and a method for their production.
+</TITLE>
+<APPLICANT>
+hitachi chemical co ltdjp<sep>hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi chemical co., ltd.1-1, nishishinjuku 2-chomeshinjuku-ku, tokyo 160jp <sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp   <sep>
+</APPLICANT>
+<INVENTOR>
+itoh yutakajp<sep>morishita hirosadajp<sep>nishikawa akiojp<sep>takahashi akiojp<sep>wajima motoyojp<sep>itoh, yutaka<sep>morishita, hirosada<sep>nishikawa, akio<sep>takahashi, akio<sep>wajima, motoyo<sep>itoh, yutaka6-20-3, ayukawa hitachiibarakijp<sep>morishita, hirosada288-5, ishinazaka hitachiibarakijp<sep>nishikawa, akio1346-12, mizuki hitachiibarakijp<sep>takahashi, akio3595, kanai hitachioutaibarakijp<sep>wajima, motoyo1-8-8, higashiounuma hitachiibarakijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a bisimide-ether compound having the general formula  is obtained by reacting an ethylenically unsaturated dicarboxylic  acid anhydride, a diamine compound and a phenolic  compound having in the molecule at least two hydroxyl  groups, or by reacting a prepolymer of the anhydride and  diamine compound with the phenolic compound:    wherein r₁ is a group containing at least two carbon atoms,  r₂ is a group containing at least two carbon atoms, r′₂ is a  group containing at least two carbon atoms and a carbon-carbon  double bond, r₃ is an aromatic group, the nitrogen  atoms of the imide rings being directly connected to different  carbon atoms of the group r₁, the carbonyl groups of the  imide rings being directly connected to different carbon  atoms of the group r₂ or r′₂, the oxygen atoms between the  groups r₂ and r₃ being directly connected to an aromatic  nucleus of the group r₃, and n is an integer of zero, one or  more than 1.  
+</ABSTRACT>
+</TEXT>
+</DOC>

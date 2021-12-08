@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015829
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B64G-1/10</main> H01Q-1/18 G12B-5/00 B64G-1/32 B64G-1/22 H01Q-1/27 G01C-21/24 H01Q-3/08 H01Q-1/28 G01C-21/18 G01C-21/10 G01C-21/16 G05D-1/08 B64G-1/24 G05D-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electromagnetic process for controlling the orientation of a platform and platform employing this process.
+</TITLE>
+<APPLICANT>
+aerospatialefr<sep>societe anonyme dite : societe nationale industrielle  aerospatiale<sep>aerospatiale société nationale industrielle37, boulevard de montmorencyf-75781 paris cédex 16fr<sep>societe nationale industrielle  aerospatiale societe anonyme dite:  <sep>
+</APPLICANT>
+<INVENTOR>
+hubert bernard<sep>poubeau pierre<sep>hubert, bernard<sep>poubeau, pierre<sep>hubert, bernardle sud est 28, rue notre dame des angesf-06110 le cannetfr<sep>poubeau, pierre6, allée du bois domaine de grandchampf-78230 le pecqfr<sep>hubert, bernard<sep>poubeau, pierre<sep>hubert, bernardle sud est 28, rue notre dame des angesf-06110 le cannetfr<sep>poubeau, pierre6, allée du bois domaine de grandchampf-78230 le pecqfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Electromagnetic method for adjusting the precision orientation of a platform along two axes.The pivoting of the platform (P) about two orthogonal axes passing through (O) is effected by electromagnetic MO such as (A'1, A'2).Sankrissement is obtained from an angle (ε + δ) blank detector, an amplifier (AS), a low pass filter (FP) of a filter (AP) and power amplifiers (A1, A2) delivering currents (I1 and I2) on electromagnetic devices (A'1, A'2).The invention applies particularly well to the orformed platforms carrying a pointless element such as an antenna or flywheel for controlling a spacecraft.
+</ABSTRACT>
+</TEXT>
+</DOC>

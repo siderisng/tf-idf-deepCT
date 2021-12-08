@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017573
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-15/02 C25B-15/00 C25B-1/00 C25B-9/00 C25B-1/04 C25B-15/08 C25B-9/08 C25B-9/06 <main>C25B-15/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+water-electrolysis plant with pressure-regulated electrolyte circuits.
+</TITLE>
+<APPLICANT>
+creusot loirefr<sep>creusot-loire<sep>creusot-loire42 rue d'anjouf-75008 parisfr<sep>creusot-loire <sep>
+</APPLICANT>
+<INVENTOR>
+pere gerard<sep>pere, gerard<sep>pere, gérard6 rue d'essertennef-71670 le breuilfr<sep>pere, gerard <sep>pere, gérard6 rue d'essertennef-71670 le breuilfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Installation of electrolysis such as an installation designed to the industrial production of hydrogen and oxygen by electrolysis of pressurized water.It comprises on each of the circuits (24,33) connecting the anolyte and catholyte outputs (20,21) of the electrolyzer (19) to the degasters (25, 34), a device (49) of flow controls ensuring, for the anolyte flow and for the flow of catholyte, concomitant variations.The invention finds its use in the field of industrial production of hydrogen and oxygen per elect trorolysis of pressurized water.
+</ABSTRACT>
+</TEXT>
+</DOC>

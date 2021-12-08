@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012193
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-7/00 F16K-31/06 F16K-7/18 <main>F16K-7/18</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+valve with rolling diaphragms.
+</TITLE>
+<APPLICANT>
+concordia fluidtechnik gmbhde<sep>concordia fluidtechnik gmbh<sep>concordia fluidtechnik gmbhtalstrasse 41d-7000 stuttgart 1de<sep>concordia fluidtechnik gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+stahle kurt<sep>stahle, kurt<sep>stähle, kurtgemmingenstrasse 8d-7531 steinegg/pforzheimde<sep>stahle, kurt  <sep>stähle, kurt gemmingenstrasse 8d-7531 steinegg/pforzheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+Electromagnet valve with a controllable movable valve body, which is designed as a rollable sealing body, preferably as a closed loop consisting of a band and rolled on sealing surfaces in a valve housing which are provided with the supply and exhaust openings for a stream of medium.Advantages of this valve guide are extremely low actuating forces that do not require large magnetic parts.
+</ABSTRACT>
+</TEXT>
+</DOC>

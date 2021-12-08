@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006939
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/039 G03F-7/02 C08F-20/52 H01L-21/027 <main>G03C-1/72</main> H01L-21/302 C08F-220/10 C08F-220/00 H01L-21/02 C08F-220/04 C08F-20/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+positive type resist polymer composition and method of making resist patterns.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211 jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+kitakohji toshisuke  <sep>kitamura kenro<sep>yoneda yasuhiro<sep>kitakohji, toshisuke<sep>kitamura, kenro<sep>yoneda, yasuhiro<sep>kitakohji, toshisuke2031-8, kitahassaku-cho, midori-kuyokohama-shi, kanagawa, 226jp<sep>kitamura, kenro7-1, sakuragaoka 2-chome, kugenumafujisawa-shi, kanagawa, 251jp<sep>yoneda, yasuhiro146-1323, nagatsuda-cho, midori-kuyokohama-shi, kanagawa, 227jp<sep>kitakohji, toshisuke <sep>kitamura, kenro<sep>yoneda, yasuhiro  <sep>kitakohji, toshisuke 2031-8, kitahassaku-cho, midori-kuyokohama-shi, kanagawa, 226jp<sep>kitamura, kenro7-1, sakuragaoka 2-chome, kugenumafujisawa-shi, kanagawa, 251jp<sep>yoneda, yasuhiro146-1323, nagatsuda-cho, midori-kuyokohama-shi, kanagawa, 227jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a positive type resist poiymer crosslinkable composition  resistant to ionizing radiation or ultraviolet rays and com­ posed of the following units (a), (b) and (c) respectively in a  polymerized state:   (a) about 70 to 99 molar percent of a unit derived from  methacrylic acid ester which is represented by the formula:   ch₂ =c(ch₃). coor   (wherein r represents alkyl or haloalkyl radicals having 1 to 6  carbon atoms, benzyl radical or cyclohexyl radical),   (b) about 1 to 20 molar percent of a unit derived from  methacrylamide, and (c) about 0. 05 to 20 molar percent of a  unit derived from methacrylic acid chloride,   (wherein the quantity of each of units (a), (b) and (c) is based  on the total molarity of units (a), (b) and (c)).  the polymer  composition is preferably either a copolymer consisting of  units (a), (b) and (c) or a composition in a blended state  composed of a copolymer consisting of a part of unit (a) and  unit (b) and a copolymer consisting of the residual part of unit  (a) and unit (c).  
+</ABSTRACT>
+</TEXT>
+</DOC>

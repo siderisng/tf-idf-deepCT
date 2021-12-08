@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000913
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24J-2/10 F24J-2/06 G02B-5/10 F24J-2/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reflector for solar collectors.
+</TITLE>
+<APPLICANT>
+maschf augsburg nuernberg agde<sep>m.a.n. maschinenfabrik augsburg-nuernberg aktiengesellschaft<sep>m.a.n. maschinenfabrik augsburg-nürnberg aktiengesellschaftdachauer strasse 667 postfach 50 06 20d-8000 münchen 50de<sep>
+</APPLICANT>
+<INVENTOR>
+wildenrotter karlde<sep>wildenrotter, karl<sep>wildenrotter, karlmotorstrasse 33d-8000 münchen 40de<sep>
+</INVENTOR>
+<ABSTRACT>
+Reflector for solar collectors consisting of a mirrored glass plate (23).To minimize the beam energy absorbed by the glass plate, a thin glass plate is provided, whose plate thickness is below the glass thickness required for a self-supporting glass plate.This glass plate is glued with its mirrored side to a support body (22), in particular on a honeycomb-type support body.
+</ABSTRACT>
+</TEXT>
+</DOC>

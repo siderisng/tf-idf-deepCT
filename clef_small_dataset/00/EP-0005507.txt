@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005507
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-205/085 C07D-205/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the fragmentation of 3-(2-hydroxyimino-acetylamino)-2-oxo azetidin compounds and compounds obtained thereby.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag  <sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+mueller beat drch<sep>scartazzini riccardo drch<sep>schaffner karl drch<sep>wehrli hansuli drch<sep>mueller, beat, dr.<sep>scartazzini, riccardo, dr.<sep>schaffner, karl, dr.<sep>wehrli, hansuli, dr.<sep>müller, beat, dr.stockackerstrasse 3ch-4153 reinachch<sep>scartazzini, riccardo, dr.conrad ferdinand meyer-strasse 38ch-4059 baselch<sep>schaffner, karl, dr.im goldbrunnen 37ch-4104 oberwilch<sep>wehrli, hansuli, dr.binningerstrasse 41ch-4153 reinachch<sep>
+</INVENTOR>
+<ABSTRACT>
+in the treatment of 3- (2-hydroxyiminoacetylamino) -2-oxo-azetidine compounds with reactive derivatives of carbonated bar bar bars in aqueous media in the presence of bases occurs a fragmentation, which also supplies nitriles in addition to 3-amino-2-oxo-azetidines whichOver the 2-hydroxyiminoacetyl group has a carbon atom less.The resulting products are intermediates for producing noocardicine-like antibiotics.The present desacylation method provides advantages compared to the previously known multi-stage desacylation method, in that higher yields of 3-amino-2-oxoazetidine compounds are obtained and the acyl group in the form of one.Carbon atom shortened nitriles can be taken.
+</ABSTRACT>
+</TEXT>
+</DOC>

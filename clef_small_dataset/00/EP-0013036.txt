@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0013036
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-21/90 G01N-21/88 <main>G01B-11/30</main> G01B-11/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of optical inspection for surface defects and the use of apparatus for carrying out said method.
+</TITLE>
+<APPLICANT>
+skf ind trading & devnl<sep>skf industrial trading & development company b.v.<sep>skf industrial trading &amp; development co, b.v.kelvinbaan 16nl-3439 mt nieuwegeinnl<sep>skf industrial trading & development company b.v. <sep>
+</APPLICANT>
+<INVENTOR>
+schouten marcel<sep>schouten, marcel<sep>schouten, marcelbovenkerkweg 23montfoortnl<sep>schouten, marcel <sep>schouten, marcelbovenkerkweg 23montfoortnl<sep>
+</INVENTOR>
+<ABSTRACT>
+optical inspection system for rolling elements according  to which the rolling elements (3) during photo-inspection (6,7)  and controlling (8) are moved through a reservoir (1) filled  with a liquid (2).  due to very small whirlings on the element-­ surfaces and by the choice of a specific cleaning liquid a highly  reliable and less expensive inspection system is obtained.  
+</ABSTRACT>
+<DESCRIPTION>
+inspection system for movable objects the invention relates to an inspection system for movable objects with reflective surface, which system comprises at least one optical measuring means as well as means for moving the object past the measu:- ing means at a determinate distance. such a system is disclosed in british patent 1,380,777 for example. it serves to inspect and select a number of objects per unit time. in this type of inspection system, the light reflected from the reflective surface is a measure of the surface condition of the objects and ultimately a criterion of acceptance or rejection. one of the disadvantages of these known systems, however, is the comparatively large number of preliminary treatments to which the objects must be subjected before they are ready for optical inspection. these preliminary treatments consist primarily of a washing operation, to remove coarse dirt particles, followed by a rinsing operation, after which the objects are subjected to a hot air treatment to obtain a spotless surface, and finally the objects - to prevent damage to the surface - are cooled in likewise uniform manner. it will readily be understood that especially the drying and cooling treatments are an expensive operation, if only because of the special facilities and energy-consuming equipment required therefor. now the invention avoids the problems outlined above in that the objects, once cleaned at least of coarse dirt particles, are passed through a liquid under the influence of which the optically observable surface of the objects remains sharply perceptible, while on the other hand the objects may change position in relation to the measuring means. surprisingly enough, it has been found that the objects traveling through the liquid provide an extraordinarily good reflection pattern from which for example defects in machining, damage or texturing can be clearly recognized, even notwithstanding the fact that the surroundings, that is to say the liquid, may be considerably fouled. this may be a consequence of the fact that on the surface in motion to be observed, small liquid vortexes are set up, which keep the sur face portion to be examined or inspected clean enough for reliable optical inspection. furthermore, besides the marked simplification of the system and the saving of ex pense, another result is that a larger area of the objects can readily be (optically) inspected in that the liquid set in motion can change the position of the objects, or the objects moving in the liquid can change position, i.e. surface to be viewed, in relation to the measuring means. it will be noted that the liquid may be set in motion by known means, as for example a wave generating apparatus; alternatively, a conveyor for the objects can be so constructed that while traveling in the liquid, the objects as it were automatically change attitude, that is, portion of surface in view. according to an advantageous embodiment of the invention, the liquid comprises a cleansing agent whereby finer dirt particles on the surface of the objects are removed,
+</DESCRIPTION>
+<CLAIMS>
+ claims    1. inspection system for movablc objects with reflective surface, which system comprises at least one optical measuring means as well as a means for moving the objects past the measuring means at a determinate distance, characterized in that the objects are passed through a liquid under the influence of which the optically observable surface of the objects remains sharply perceptible, while the objects may change position relative to the measuring means.     2. inspection system according to claim 1, characterized in that a cleansing agent is dissolved in the liquid.    3. inspection system according to claim 1, characterized in that a preservative or rust protective agent is dissolved in the liquid.    4. device wherein an inspection system according to claims 1 to 3 may be employed, equipped with optical measuring and control apparatus, characterized by comprising a tank (1) containing the liquid (2) as well as a conveyor means (4) capable of conveying the objects (3) to be inspected through the liquid (2), under the influence of which the objects (3), with the aid of an optical measuring and control apparatus (6, 7, 8) located outside the tank (1), can be inspected over at least a considerable or major portion of their surface and selected accordingly.  
+</CLAIMS>
+</TEXT>
+</DOC>

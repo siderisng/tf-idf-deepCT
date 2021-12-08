@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010399
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07B-1/00 G06Q-10/00 G07F-7/12 G07F-7/08 G07F-17/00 G07B-15/00 G07F-17/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+self-service passenger ticketing system.
+</TITLE>
+<APPLICANT>
+cubic western dataus  <sep>cubic western data<sep>cubic western data5650 kearny mesa roadsan diego, california, 92111us<sep>
+</APPLICANT>
+<INVENTOR>
+cekander eugene jus<sep>chuang jim pus<sep>kazaoka masaruus<sep>nora yurisus<sep>cekander, eugene j.<sep>chuang, jim p.<sep>kazaoka, masaru<sep>nora, yuris<sep>cekander, eugene j.5738 avenida sanchezsan diego, california 92124us<sep>chuang, jim p.545 eldorado driveescondido, california 92025us<sep>kazaoka, masaru10884 elderburry courtsan diego, california 92126us<sep>nora, yuris2518 via pisadel mar, california 92014us<sep>
+</INVENTOR>
+<ABSTRACT>
+a system is disclosed for issuing airline tickets without  the intervention of any ticket agent.  the system includes a  plurality of electro-mechanical ticket terminals (10) in com­ munication with a central computer.  each of the terminals has  a card reader (35), a modem (31 and 31a), destination select  buttons (37), and a printer (34).  in operation, the card reader  reads data from a magnetic strip (15) on a ticket purchasers  credit card (12) and the modem transmits signals identifying  this credit card to the central computer.  subsequently, the  modem receives signals from the central computer indicating  good or bad credit.  the push buttons are provided on the  terminal to enable the purchaser to manually select his desti­ nation; and the printer prints a ticket to the selected destina­ tion conditional on the credit check received from the  modem.  
+</ABSTRACT>
+</TEXT>
+</DOC>

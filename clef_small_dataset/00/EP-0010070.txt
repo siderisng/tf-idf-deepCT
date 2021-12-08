@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010070
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-14/35 G04B-31/00 G04B-31/08 <main>C23C-15/00</main> C23C-14/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cathodic sputtering method for depositing an autolubricant coating of metallic chalcogenides onto substrates.
+</TITLE>
+<APPLICANT>
+battelle memorial institutech<sep>battelle memorial institute<sep>asu composants s.a.ch-2316 les ponts-de-martelch<sep>asu composants s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+bergmann erich<sep>melet georges<sep>bergmann, erich<sep>melet, georges<sep>bergmann, erichrue des bains 26ch-2503 biennech<sep>melet, georgesrue des boudines 15ch-1217 meyrinch<sep>bergmann, erich  <sep>melet, georges <sep>bergmann, erichrue des bains 26ch-2503 biennech<sep>melet, georgesrue des boudines 15ch-1217 meyrinch<sep>
+</INVENTOR>
+<ABSTRACT>
+Application on substrates with a self-lubricating metal chalcogenide layer, by the cathode sputtering process, using as the target of the chalcogenides comprising an excess of one of the elements in the free state, constituting this chalcogenide.According to this pro cede the cathodic space of said target is subjected to a magnetic field and the spraying current density is selected such that the deposition rate is at least 0.1 μm / min.The coating layer obtained is of the TURBOS TURBOS type.
+</ABSTRACT>
+</TEXT>
+</DOC>

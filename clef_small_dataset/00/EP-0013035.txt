@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0013035
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-3/04 <main>C02F-3/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the biological purification of waste water.
+</TITLE>
+<APPLICANT>
+uhde gmbhde   <sep>uhde gmbh<sep>uhde gmbhfriedrich-uhde-strasse 15d-44141 dortmundde<sep>uhde gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+schoning horst<sep>thieme horst<sep>schoning, horst<sep>thieme, horst<sep>schöning, horstim lerchenfeld 1ad-5804 herdeckede<sep>thieme, horstdüsseldorfer strasse 17d-4600 dortmundde<sep>schoning, horst <sep>thieme, horst<sep>schöning, horst im lerchenfeld 1a d-5804 herdecke de <sep>thieme, horstdüsseldorfer strasse 17d-4600 dortmundde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  apparatus for the biological purification of waste water comprising percolating filters which are arranged within a closed, substantially cylindrical container and which are supplied with air, wherein a vertical, centrally arranged pipe is provided for mounting waste water distributors which are arranged above the percolating filters and which are possibly rotatable, and optionally for supplying the waste water to the waste water distributors, and the supply air which is supplied from below is sucked off from the top after passing through the percolating filters, characterised in that the centrally arranged pipe (8) is also arranged to suck away the air supplying the percolating filters (3). 
+</ABSTRACT>
+<DESCRIPTION>
+die erfindung betrifft eine vorrichtung zur biologischen reinigung von abwasser mit innerhalb eines geschlossenen, im wesentlichen zylindrischen behälters angeordneten, mit luft begasten tropfkörpern, wobei ein vertikales, zentral angeordnetes rohr zur lagerung von oberhalb der tropfkörper drehbaren abwasserverteilern und ggf. zur zufuhr des abwassers zu diesem dient und wobei die von unten zuge führ- te begasungsluft nach dem passieren der tropfkörper nach oben abgesaugt wird. bei bekannten vorrichtungen ieser art (de-os 25 24 678) erfolgt die abluftführung über dach mit grosskalibrigen, aussenliegenden rohren, an die ein entsprechend dimensioniertes abluftgebläse angeschlossen ist. das eigengewicht der ab luft leitung sowie des ablurtgebläses muss dabei von der dachkonstruktion des behälters aufgenommen werden, sofern man nicht besondere tragkonstruktionen oberhalb des behälters vorsieht. hinzu kommt, dass bei anordnung des gebläses in der durch das dach des behälters austretenden abluftleitung mit einem hohen schalldruckpegel gerechnet werden muss, was aus gründen des umweltschutzes in manchen fällen zusätzlich von nachteil ist. aufgabe der erfindung ist die schaffung einer lösung, mittels welcher einerseits der vorrichtungsmässige aufwand vereinfacht und andererseits die umweltbelastung verringert wird. bei einer vorrichtung der eingangs bezeichneten art wird diese aufgabe gemäss der erfindung dadurch gelöst, dass das zentral angeordnete rohr auch zur absaugung der die tropfkörper begasenden luft ausgebildet ist. diese ausbildung benötigt praktisch keinerlei zusätzlichen aufwand, da das zentral angeordnete rohr ohnehin vorhanden ist und ausserdem zur gewährleistung einer ausreichend sicheren lagerung der drehbaren abwasserverteiler einen solch geräumigen querschnitt ausweis, dass das zur absaugung der abluft benötigte gebläse wegen nur geringer druckverluste im zentralen absaugrohr entsprechend gering dimensioniert werden kann. hinzu kommt, dass aufgrund der erfindungsgemässen ausbildung das ablu-ftgebläse ohne weiteren aufwand in bodennähe angeordnet werden kann, so dass der beschallungsbereich entsprechend gering ist und ggf. auch noch leicht eine einkapselung möglich ist. letzteres ist dann besonders einfach, wenn das untere ende des zentral angeordneten rohres mit einem zu einem abluftgebläse führenden abluftkanal verbunden ist. da aufgrund der erfindungsgemässen ausgestaltung das dach des behälters von zusätzlichen belastungen vollkommen freibleiben kann, empfiehlt es sich schliesslich, dieses, wie an sich bekannt, aus einer leichten, nicht begehbaren kuppel in leichtbauweise, z.b. aus glasfaserverstärktem kunststoff, zu bilden, was den für die vorrichtung erforderlichen gesamtaufwand weiter verringert. die erfindung ist nachstehend anhand der zeichnung beispielsweise näher erläutert. diese zeigt in fig. 1 eine teilweise weggebrochen wiedergegebene drauf sicht auf eine vorrichtung gemäss der erfindung und in fig. 2 einen vertikalschnitt längs der linie ii-ii der fig. 1. in einem zylindrischen behälter 1 ist auf einem waagerechten, gas- und flüssigkeitsdurchlässigen tragrost 2 eine vielzahl von tropfkörpern 3 angeordnet, die beispielsweise in kunststoffbauweise ausgebildet und mit einem sogenannten biologischen rasen versehen sein können. unterhalb des waagerechten tragrostes 2 sind betonrippen 4 angeordnet, zwischen denen geneigte ablaufrinnen 5 gebildet sind, die in eine sammelrinne 6 münden, welche zu einem ablaufschacht 7 führt. zentrisch ist im behälter 1 ein ggf. aus einzelnen schachtringen gebildetes betonrohr 8 angeordnet, das an seinem unteren ende mit einem waagerechten abluftkanal 9 verbunden ist, an dessen ende ein entwässerungsbecken 10 mit daran anschliessender entwässerungsleitung 11 zur abführung mitgerissenen abwassers vorgesehen
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche :   1. vorrichtung zur biologischen reinigung von abwasser mit innerhalb eines geschlossenen, im wesentlichen zylind rischen behälters angeordneten, mit luft begasten tropf körpern, wobei ein vertikales, zentral angeordnetes rohr zur lagerung von oberhalb der tropfkörper drehbaren ab wasserverteilern und ggf. zur   zufhr    des abwassers zu diesen dient und die von unten zugeführte begasungsluft nach dem passieren der tropfkörper von oben abgesaugt wird, dadurch gekennzeichnet, dass das zentral   gngeord-    nete rohr (8) auch zur absaugung der die tropfkörper   (3)    verlassenden luft ausgebildet ist.    2. vorrichtung nach anspruch 1, dadurch gekennzeichnet, dass das untere ende des zentral angeordneten rohres  (8) mit einem zu einem   abluftg#äse    führenden abluftka nal (9) verbunden ist.   3. vorrichtung nach anspruch 1 oder 2, dadurch gekennzeich net, dass das dach des behälters   (1)    von einer an sich bekannten kuppel (15) in leichtbauweise gebildet ist.  
+</CLAIMS>
+</TEXT>
+</DOC>

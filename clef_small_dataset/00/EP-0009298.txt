@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009298
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07D-249/08 C07D-233/00 C07D-233/60 A01N-43/653 C07C-49/16 C07D-249/00 C07D-521/00 A01N-43/50 A01N-43/64 A01N-43/48 C07C-45/63 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heterocyclic compounds, processes for their preparation, pesticidal compositions containing them and methods of combating pests.
+</TITLE>
+<APPLICANT>
+ici plc gb<sep>imperial chemical industries plc  <sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>
+</APPLICANT>
+<INVENTOR>
+rathmell william georgegb<sep>skidmore anthony michaelgb<sep>worthington paul anthonygb<sep>rathmell, william george<sep>skidmore, anthony michael<sep>worthington, paul anthony<sep>rathmell, william george10 gypsy lanewokingham, berkshiregb<sep>skidmore, anthony michael7 tanglewood off foxcotefinchampstead wokingham, berkshiregb<sep>worthington, paul anthony22 boulters gardensmaidenhead, berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of formula:    and isomers thereof, wherein r¹ and r² are alkyl,  cycloalkyl or phenyl, y is =n- or =ch- and one of  z¹ and z² is carbonyl (or a functional derivative thereof)  and the other is choh, and esters, ethers, salts and  metal complexes thereof, have fungicidal, plant growth  regulating and herbicidal activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

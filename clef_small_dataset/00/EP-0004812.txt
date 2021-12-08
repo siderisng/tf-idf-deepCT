@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004812
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07B-43/02 C07C-205/00 C07C-201/00 C07C-201/08 C07B-43/00 C07C-205/02 <main>C07C-79/04</main> C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of nitroparaffins by nitration in the gas phase.
+</TITLE>
+<APPLICANT>
+azote & prod chimfr<sep>societe chimique de la grande paroisse azote et produits chimiques<sep>societe chimique de la grande paroisse, azote et produits chimiquestour aurore place des refletsf-92080 la défense 2 cédex 5 paris la défensefr<sep>societe chimique de la grande paroisse azote et produits chimiques<sep>
+</APPLICANT>
+<INVENTOR>
+jacquinot bernard<sep>lhonore pierre<sep>quibel jacques<sep>jacquinot, bernard<sep>lhonore, pierre<sep>quibel, jacques<sep>jacquinot, bernard59, rue léon bathiatf-59500 douaifr<sep>lhonore, pierre1090, bd jeanne d'arcf-59500 douaifr<sep>quibel, jacques40, rue de la muettef-78600 maisons laffittefr<sep>jacquinot, bernard <sep>lhonore, pierre<sep>quibel, jacques  <sep>jacquinot, bernard 59, rue léon bathiatf-59500 douaifr<sep>lhonore, pierre1090, bd jeanne d'arcf-59500 douaifr<sep>quibel, jacques40, rue de la muettef-78600 maisons laffittefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to the manufacture of nitropraffins by phase nitration under pressure, possibly in the presence of an oxygenated gas.The nitrer reagent is a mixture containing a substantial amount of propane, the temperature and the reaction pressure, the contact time as well as the quantitative ratios between the nitrant agent, the nitrer mixture and the oxygenated gas are chosen in such a way.The nitration reaction is carried out in the homogeneous gas phase.The process makes it possible to obtain a percentage of different nitropraffins in accordance with the industrial demand and also to use the less expensive raw materials at a given moment.
+</ABSTRACT>
+</TEXT>
+</DOC>

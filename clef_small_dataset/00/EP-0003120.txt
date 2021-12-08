@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003120
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+F26B-7/00 C08F-8/20 C08F-8/00 F26B-3/092 F26B-17/00 F26B-3/02 F26B-20/00 C08F-6/00 F26B-17/10 <main>C08F-6/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for drying chlorinated polymers.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kaiser karl dr<sep>scholz manfred<sep>kaiser, karl, dr.<sep>scholz, manfred<sep>kaiser, karl, dr.hubert-geuer-strasse 71d-5040 brühlde<sep>scholz, manfredbonnstrasse 10d-5030 hürthde<sep>kaiser, karl, dr.<sep>scholz, manfred<sep>kaiser, karl, dr.hubert-geuer-strasse 71d-5040 brühlde<sep>scholz, manfredbonnstrasse 10d-5030 hürthde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for drying out of an aqueous slurry, humid chlorinated polymers, in particular chlorinated polyethylene, who dried the like humid polymers in a centrifugal zone and completely dried in a downstream fluidized layer zone with a fluidized bed template maintained therein.To carry out the method, a system can be used, which consists of a spin nozzle (1) and a fluidized bed dryer (10).The discharge tube (9) of the spin nozzle (1) opens into the upper region of the fluidized bed dryer (10).The fluidized bed dryer (10) is further provided with a lockable discharge line (27).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016296
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-31/00 A61K-31/545 C07D-277/20 A61K-31/546 C07D-277/48 C07D-501/00 A61P-31/04 C07D-277/00 C07D-501/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cephalosporin derivatives, process for their preparation, compositions containing them, and intermediates and their preparation.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag  <sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+scartazzini riccardo drch<sep>wiederkehr rene drch<sep>scartazzini, riccardo, dr.<sep>wiederkehr, rene, dr.<sep>scartazzini, riccardo, dr.conrad ferdinand meyer-strasse 38ch-4059 baselch<sep>wiederkehr, rené, dr.grenzweg 9ch-4148 pfeffingench<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to aminothiazolacetamido-3-cephem-4-carboxylic acid compounds of the formula wherein the index n an integer of 1 to 4, x oxygen, sulfur, the group -NH-, or the direct binding, Y oxygen or sulfur, a methylene or by amino, hydroxy, carboxyl, sulfo, oxo, or the group = NOR ", wherein R is" hydrogen or optionally substituted lower alkyl, substituted methylene, R₁ hydrogen, lower alkyl, a esterified or etherified hydroxy or mercapto group, halogen, formyl or a Group of formula -CH₂-R₂, wherein R₂ represents a esterified or etherified hydroxy or mercapto group or a quaternary ammonium group, and R₃ mean hydrogen or methoxy, wherein functional groups may be present in protected form, salts of such compounds with acidic and / or basic compounds Groups, methods for producing these compounds, such substances-containing pharmaceutical agents and their therapeut Tables use. The compounds have antibiotic efficacy and can be used to combat infections. The invention further relates to new intermediates for the preparation of the above compounds, methods for their preparation and their use.
+</ABSTRACT>
+</TEXT>
+</DOC>

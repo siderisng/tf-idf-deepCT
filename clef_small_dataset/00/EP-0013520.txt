@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013520
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/40 H01L-21/02 H01L-21/285 H01L-29/47 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved process for producing schottky diodes and power diodes so made.
+</TITLE>
+<APPLICANT>
+lignes telegraph telephonfr<sep>lignes telegraphiques et telephoniques l.t.t.<sep>lignes telegraphiques et telephoniques l.t.t.1, rue charles bourseul f-78702 conflans-ste-honorine fr <sep>
+</APPLICANT>
+<INVENTOR>
+dameme guyfr<sep>watremez jean-mariefr<sep>dameme, guy<sep>watremez, jean-marie<sep>dameme, guy société anonyme lignes telegraphiqueset telephoniques 1 rue charles bourseulf-78702 conflans-sainte-honorinefr<sep>watremez, jean-marie s.a. lignes telegraphiqueset telephoniques 1 rue charles bourseulf-78702 conflans-sainte-honorinefr<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for producing a chromium-silicon silicide barrier for a schottky diode permitting an adjustment of the penetration (b) of the barrier below the surface by controlling the thickness (c) of a chromium layer (14) deposited on a silicon block (10) carrying an epitaxially grown layer (11).  the chromium vaporised under vacuum is entirely combined with the silicon in the course of a heat treatment at a temperature within the range between 600 deg c and 700 deg c.  this process permits the production of power diodes of differing characteristics by modification of the thickness of the chromium layer.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

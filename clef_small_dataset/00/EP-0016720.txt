@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016720
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-33/91</main> H01H-33/91 H01H-33/915 H01H-33/88 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas-blast circuit-breaker.
+</TITLE>
+<APPLICANT>
+siemens ag de<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+heiner marin<sep>heiner, marin<sep>heiner, marinzikadenweg 28d-1000 berlin 19de<sep>heiner, marin<sep>heiner, marinzikadenweg 28d-1000 berlin 19de<sep>
+</INVENTOR>
+<ABSTRACT>
+In a compressed gas switch, the extinguishing gas flow provided for the installation of the switch-off light sheet is generated from one of a ring piston (8) and a movable cylinder (7), associated with the contact system (3, 4, 5) associated blowing device.The annular piston (8) is sealed over each a sealing ring (10, 11) on the one hand relative to the cylinder (7) and on the other hand relative to the movable cylindrical contact pressure (5) of the contact system.It is provided with a check valve closed during the printing phase and opened during the suction phase.To achieve a space-saving valve construction, the check valve is formed by the two sealing rings (10, 11) lying in a plane, which disposed with axial play in annular grooves (12, 13) of the annular piston (8) in the course of flow paths (14) for the erasing gasand together with intermediate spacers (15) are slidably mounted transversely to the piston axis.
+</ABSTRACT>
+</TEXT>
+</DOC>

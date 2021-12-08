@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007098
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-39/00 <main>C01B-33/28</main> C01B-33/00 C07C-11/02 C01B-39/40 C01B-33/26 C07C-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the preparation of crystalline aluminosilicate zeolites.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafen de  <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+marosi laszlo dr chem<sep>schwarzmann matthias dr chem<sep>stabenow joachim dr phys<sep>marosi, laszlo, dr. chem.<sep>schwarzmann, matthias, dr. chem.<sep>stabenow, joachim, dr. phys.<sep>marosi, laszlo, dr. chem.londoner ring 11d-6700 ludwigshafende<sep>schwarzmann, matthias, dr. chem.carl-bosch-strasse 54d-6703 limburgerhofde<sep>stabenow, joachim, dr. phys.am feldrain 22d-6940 weinheimde<sep>marosi, laszlo, dr. chem.<sep>schwarzmann, matthias, dr. chem. <sep>stabenow, joachim, dr. phys.  <sep>marosi, laszlo, dr. chem.londoner ring 11d-6700 ludwigshafende<sep>schwarzmann, matthias, dr. chem.carl-bosch-strasse 54d-6703 limburgerhofde<sep>stabenow, joachim, dr. phys.am feldrain 22d-6940 weinheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the preparation of a crystalline aluminium silicate zeolite of the zsm-5 type from waterglass and an organic amine, characterized in that the cristallization is carried out without further addition of a metal salt, in the presence of hexamethylenediamine. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur herstellung von kristallinen aluminosilikat zeolithen die erfindung betrifft ein verfahren zur herstellung eines kristallinen aluminosilikatzeolithen vom zsm-5 typ sowie die nach diesem verfahren hergestellten zeolithe. die gebräuchlichsten zeolithe des a-, x- und y-typs haben eine grosse technische bedeutung erlangt. sie werden als ionenaustauscher, molekularsiebe und katalysatoren technisch eingesetzt. technische verfahren wie das katalytische und hydrierende kracken von kohlenwasserstoffen werden mit zeolithkatalysatoren durchgeführt. neuerdings ge widmen zeolithe vom typ zsm-5 oder zsm-8 zunehmend interesse, mit denen neuartige reaktionen, wie z.b. die umwand- lung von methanol in flüssige kohlenwasserstoffe katalysiert werden können. diese zeolithe zeichnen sich durch eine besonders hohe katalytische selektivität aus. der zeolith zsm-5 wird in der us-ps 3 702 886 beschrieben. seine herstellung erfolgt in gegenwart von tetrapropylammoniumhydroxid, der zeolith kann ein sio2/a1203-itolver- haltnis bis etwa 100 aufweisen. ein vereinfachtes herstellungsverfahren ist aus der dos 24 42 240 bekannt, wobei wasserglas nach zugabe von weiteren aluminiumsalzen in gegenwart von primären aminen umgesetzt wird. der entstehende zeolith weist ein sio2/al2 0 3-molverhältnis bis etwa 100 auf. aus der us-ps 3 941 871 ist schliesslich die herstellung besonders si-reicher zsm-5-artiger zeolithe bekann, die ein sio/a1203-molverheltnis von 800 bis etwa 4000 aufweisen. diese zeolithe werden in gegenwart von te trapropylammoniumhydroxid hergestellt. ein nachteil der beschriebenen si-reichen zeolithe (sio2i a1203 > 100) besteht darin, dass zu ihrer herstellung teure quaternäre stickstoffbasen erforderlich sind und ihre katalytische aktivität erheblich geringer ist als die ihrer al-reicheren analogen. es war daher die aufgabe gestellt, aus billigen ausgangsmaterialien zeolithe herzustellen, die bezüglich ihrer katalytischen aktivität und selektivität ein optimales sio2/ al203-molverhältnis 'aufweisen. es wurde nun gefunden, dass man kristalline aluminosilikatzeolithe mit optimalem sio2/al203-molverhältnis und ausgezeichneter katalytischer aktivität unter vermeidung der nachteile der bekannten herstellungsweisen aus wasserglas und organischen aminen erhält, wenn man die kristallisation ohne weitere zugabe eines metallsalzes in gegenwart von hexamethylendiamin durchfuhrt. man erhält nach diesem neuen verfahren zeolithe der genannten art, insbesondere mit einem sio2/a1203-molverhält- nis von grösser 100 bis etwa 700, insbesondere 100 bis 300, indem man technisches wasserglas in gegenwart von hexamethylendiamin auf temperaturen zwischen 100 bis 200 c unter dem eigendruck der lösungen erhitzt, bis die kristallisaticn: eintritt. es war überraschend, dass technisches wasserglas ohne zugabe eines weiteren metallsalzes in gegenwart eines nichtquaterneren organischen amins zu den oben beschriebe benen zeolithen kristallisiert. unter technischem wasserglas im sinne der erfindung wird eine durch alkalischen aufschluss aus sio2 hergestellte natriumsilikatlösung mit 7-9 gew.- na20, 25-30 gew.-% si02 und einem al203-gehalt zwischen 0,05 bis 0,25 gew.-, der stets als verunreinigung enthalten ist, verstanden. in der regel beträgt der al203-gehalt solcher wasserglaslösungen 0,15-0,20 gew.-%. das hexamethylendiamin kann sowohl in kristallisiert er als auch in gelöster form eingesetzt werden. als lösungsmittel verwendet man zweckme- ssig wasser, wobei vorteilhaft im gesamten ansatz mindestens soviel wasser enthalten sein soll, dass alles hexamethylendiamin in lösung geht. es ist zweckmässig, eine etwa 50 fliege lösung von hexamethylendiamin in wasser zu verwenden. gegebenenfalls kann man die alkalität des gesamtansatzes auch durch zugabe von mineralsäuren, z.b. durch schwefelsäure, regulieren. vorteilhaft stellt man den ansatz so ein, dass die konzentration an
+</DESCRIPTION>
+<CLAIMS>
+   patentansprüche      1. verfahren zur herstellung eines kristallinen aluminium silikatzeolithen vom   zsm-5    typ aus wasserglas und ei nem organischen amin, dadurch gekennzeichnet, dass die kristallisation ohne weitere zugabe eines metallsalzes in gegenwart von hexamethylendiamin durchgeführt wird.   2. kristalline aluminosilikatzeolithe, hergestellt nach anspruch   1    3. kristalline aluminosilikatzeolithe, hergestellt nach anspruch 1, gekennzeichnet durch ein   sio2/a1203-;tol-    verhältnis von 100 bis etwa 700.   4. kristalline   aluminosnlikatzeorlthe,    hergestellt nach anspruch 1, gekennzeichnet durch ein   sio2/a1203-mol-    verhältnis von 150 bis   300.#     
+</CLAIMS>
+</TEXT>
+</DOC>

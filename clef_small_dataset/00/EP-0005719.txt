@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005719
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B06B-3/00 A61B-17/32 A61F-9/007 B06B-3/02 A61B-18/00 A61M-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ultrasonic resonant vibrator.
+</TITLE>
+<APPLICANT>
+cavitron corp us<sep>cavitron corporation  <sep>cavitron corporationc/o haseltine, lake &amp; waters 122 east 42nd streetnew york new york 10017us<sep>
+</APPLICANT>
+<INVENTOR>
+wuchinich david gus<sep>wuchinich, david g.<sep>wuchinich, david g.116 pinehurst avenuenew york new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+an ultrasonic resonant vibrator has a connecting portion  (46) connecting an ultrasonic vibration transducer (18) to a  tool (20) which thereby ultrasonically vibrates at one end for  fragmenting contacted tissue.  the connecting portion is  bifurcated by a slot (64), and a mount (60) for mounting the  vibrator in the handpiece is positioned toward the transducer  from the slot.  this structure is shaped, dimensioned and  made of materials having acoustic properties such that there  is only one node of ultrasonic vibrational movement between  and including the slot and the mount and this node is  spaced from the mount toward the slot to obtain increased  ultrasonic vibration at the tissue-contacting end of the tool  for better fragmenting a wider variety of tissues.  
+</ABSTRACT>
+</TEXT>
+</DOC>

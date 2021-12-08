@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009052
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F03D-11/00 F03D-7/02 F03D-11/04 F03D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+aerodynamically self-governed wind turbine.
+</TITLE>
+<APPLICANT>
+messerschmitt boelkow blohm<sep>messerschmitt-boelkow-blohm gesellschaft mit beschraenkter haftung<sep>messerschmitt-bölkow-blohm gesellschaft mit beschränkter haftungd-81663 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+wortmann franz xaver prof dr-ide<sep>wortmann, franz xaver, prof. dr.-ing.<sep>wortmann, franz xaver, prof. dr.-ing.pfaffenwaldring 21d-7000 stuttgartde<sep>
+</INVENTOR>
+<ABSTRACT>
+aerodynamically self-governed wind turbine, the rotor blades of which are connected to the rotor hub (1) elastically or in articulated fashion, independently of one another, and in which, due to a very high transmission ratio, a small flapping motion leads to a large change in the angle of attack, coriolis forces thereby being suppressed and the aerodynamic force remaining individually constant for each blade and independent of the direction and strength of the wind.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

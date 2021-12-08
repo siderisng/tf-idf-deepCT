@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003891
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23Q-3/157</main> B23Q-3/157 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tool changer assembly.
+</TITLE>
+<APPLICANT>
+houdaille industries incus<sep>houdaille industries, inc.<sep>houdaille industries, inc.1 financial plazafort lauderdale florida 33394us<sep>houdaille industries, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+buonauro john andrew<sep>frazier james leon<sep>buonauro, john andrew<sep>frazier, james leon<sep>buonauro, john andrew26472 aracena drivemission viejo california 92675us<sep>frazier, james leon2731 st. albans streetlos alamitos california 90720us<sep>buonauro, john andrew<sep>frazier, james leon  <sep>buonauro, john andrew26472 aracena drivemission viejo california 92675us<sep>frazier, james leon2731 st. albans streetlos alamitos california 90720us<sep>
+</INVENTOR>
+<ABSTRACT>
+a tool changing mechanism or assembly (12) for a  machine tool (14), which has a spindle (15) for rotating a tool  (13) on an operating axis and has a tool storage magazine  (21) having at least one tool receiving means such as a socket  (22) for supporting a tool on a storage axis, has an improvement  which enables increased distances between the spindle  and the storage axis.  the improvement is that a tool changing  arm (27) is mounted on a housing or a shuttle (23) to  rotate about a first axis and the shuttle (23) is mounted on the  frame (24) of the machine tool (14) so that it can be moved  between two linear positions as the arm (27) is rotated so  that the axis of rotation of the arm (27) is shifted in a linear  path.  preferably, the arm (27) in addition to rotating about a  first axis is rotated about a second axis which extends along  or parallel to the length of the arm (27) so that the tool may  be turned end for end as it is being transferred and the  means (25, 26) for shifting the shuttle (23) is driven by the  same actuator (49) that rotates the arm (27) so that movement  of the arm (27) and shuttle (23) are synchronized.  in the  preferred embodiment, intermittent motion of the shuttle  (23) is obtained by using an intermittent motion mechanism.  
+</ABSTRACT>
+</TEXT>
+</DOC>

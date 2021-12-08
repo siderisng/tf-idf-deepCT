@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005223
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-91/26</main> C07C-20060101S 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for preparing 3-halogeno-2-hydroxyalkyl trialkyl ammonium chloride.
+</TITLE>
+<APPLICANT>
+zaltbommel chem fabnl<sep>chemische fabriek zaltbommel b.v.<sep>chemische fabriek zaltbommel b.v.postbus 52 koxkampseweg 14-20zaltbommelnl  <sep>chemische fabriek zaltbommel b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+houben marie joseph francicus<sep>van der maas hendrikus johanne<sep>houben, marie joseph francicus<sep>van der maas, hendrikus johannes hubertus<sep>houben, marie joseph francicusbrabantlaan 67vughtnl<sep>van der maas, hendrikus johannes hubertusde boogerd 25zuilichemnl<sep>houben, marie joseph francicus<sep>van der maas, hendrikus johannes hubertus <sep>houben, marie joseph francicus brabantlaan 67 vughtnl<sep>van der maas, hendrikus johannes hubertusde boogerd 25zuilichemnl<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of 3-halogen-2-hydroxyalkyltrialkylammonium chlorides in which an oxirane group is brought to reaction with a trialkylamine, characterized in that chloroalkylethylene oxide is employed as compound with an oxirane group and before or during the reaction tetrachloroethane is added. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur herstellung von 3-halogen-2- hydroxyalkyl-triethylammoniumchlorid gegenstand der vorliegenden erfindung ist ein verfahren zur herstellung von 3-halogen-2-hldroialkl-trialkyl- ammoniumchloriden, bei dem ein 1-halogen-2,3-epoxialkan mit trialkylaminen umgesetzt und-eine spaltung des. epoxirings durchgeführt wird. die umsetzung von i-halogen-2,3-epoxipropan mit trialkylaminen ist z.b. aus der us-ps 28 76 217 bekannt. dabei entstehen die entsprechenden epoxigruppenhaltigen trialk ylammoniurhalogenide in form einer wässrigen lösung, die direkt zur reaktion mit stärke eingesetzt wird0 das umsetzungsprodukt mit stärke verhindert eine vorzeitige gelatinierung letzterer und ermöglicht die herstellung von stärke in ausgeflockter foim. nachteilig bei der. in der us-ps 28 76 217 beschriebenen verfahrensweise ist das arbeiten in wässrigen milieu, des zu einer reihe von nebenreaktionen führt, die die reaktion mit der starke ungünstig beeinflussen. es wurde deshalb auch bereits vorgeschlagen, die herstellung des epoxidgruppenhaltigen trialkylammoniumhalogenids in einem wasserfreien organischen lörungsmittel durchzuführen, um zu einem wasserfreien produkt zu gelangen, das man bei der herstellung als niederschlag abfiltrieren kann und das dann in flockiger form vorliegt (vgl. de-ps 15 18 330 = nl-ps 151 081 und de-os 20 56 002 = noa 71 15 436). besonders nach dem verfahren des zuletzt genannten schutzrechtes erhält man die gewünschten produkte in hohen ausbeuten und in leicht abtrennbarer form. nachteilig wirkt sich bei diesem verfahren die tatsache aus, dass im wasserfreien medium gearbeitet werden muss, und wassergehalte über 2 6 zu zorsetzungen führen. man muss deshalb wegen der starken hydroskopie der verbindungen massnahmen durchführen, um den zutritt von luftfeuchtigkeit zu verhindern, da sonst das fertige produkt klumpt. die herstellung der 3-halogen-2-hydroxi-trialkylammonium- halogenide erfolgt deshalb immer noch aus wässriger lösung entsprechend der in der us-ps 28 76 217 beschriebenen verfahrensweise, indem das reaktionsprodukt aus trialkylamin und 1-halogen-2,3-epoxipropan mit salzsäure umgesetzt wird. dabei entsteht als nebenprodukt in mengen bis zu 20 % das halogenid des bis-trialkylammcnium-2- hydroxipropans.dieses nebenprodukt fällt mit aus und reagiert nicht mit stärke, während das zu etwa 80 5 < entstehende 3-halogen-2-hydroxi-trialkylammoniumhalogenid ebenfalls zur veresterung von stärke und damit zur ste- bilisierung letzterer eingesetzt wird. weiterhin entsteht bei der verfahrensweisde der us-ps 28 76 217 durch reaktion des epichlorhydrins mit salz- saure 1,3-dichlorpropanol-2, felchc mit starke unter vernetzung reagiert. der gehalt an diesem propanol muss in dem gewünschten endprodukt deshalb unter 50 ppm liegen. es bestand deshalb die aufgabe, 3-halogen-2-hydroxialkyl trialkylammoniumhalogenide so herzustellen, dass die bildung der oben genannten bis-verbindung und des 1,3-dichlorpropanol-2 unterbunden wird und das gewünschte endprodukt in einer reinheit von mindestens 97 % als kristallines produkt direkt anfällt. in erfüllung dieser aufgabe wurde nun ein verfahren zur herstellung von 3-halogen-2-hydroxialkyltrialkylammoniumhalogeniden gefunden, bei dem eine oxiran-gruppe mit einem trialkylamin zur umsetzung gebracht wird, das dadurch gekennzeichnet ist, dass man als verbindung mit einer oxiran gruppe chloralkyläthylenoxide einsetzt und vor oder während der reaktion tetrachloräthan hinzufügt. bei durchführung der erfindungsgemässen verfahrensweise erhält man ausbeuten an dem gewürischten endprodukt von über 90 %. das erhaltene produkt hat eine reinheit von über 97 96j und braucht vor seinem weiteren einsatz keiner weiteren reinigungsoperation unterworfen zu werden. es enthält weder die oben genannte bis-verbindung noch 1,3-dichlorpropanol-2. die erfindungsgemssse reaktion läuft bereits bei raumtemperatur ab.
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche:   1. verfahren zur herstellung von   3-halogen-2-h';droi-    alkyltrialkylammoniumchloriden, bei dem eine   oxiran-    gruppe mit einem trialkylamin zur umsetzung ge bracht wird, d a d u r c h g e k   e    n n z e i c h  n e t , dass man als verbindung mit einer oxiran    grube    chloralkyläthylenoxide einsetzt und vor oder    während    der reaktion   tetrachloräthan    hinzufügt.    2. verfahren gemäss anspruch 1, dadurch gekennzeichnet, dass man das trialkylamin den vorgelegten übrigen reaktionspartnern hinzufügt.   3. verfahren gemäss ansprüchen 1 oder 2, dadurch   gekann-    zeichnet, dass die reaktion mit überschüssigem chlor alkyläthylenoxid, bezogen auf eingesetztes trialkyl amin, durchgeführt wird.   4. verfahren gemäss einem der ansprüche 1 bis 3, dadurch gekennzeichnet, dass die reaktion mit   überschüssigem    tetrachloräthan, bezogen auf eingesetztes trialkylami durchgeführt wird.   5. verfahren gemass einem der ansprüche 1 bis 4, dadurch gekennzeichnet, dass man die umsetzung in einem or ganischen   j.osungsmittel    durchführt  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001081
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-23/195 B65H-23/198 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for controlling the conveying speed of a web-like material.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 38 67063 ludwigshafen de <sep>
+</APPLICANT>
+<INVENTOR>
+besmehn lotharde<sep>dzierzon rochusde<sep>kamm eugende<sep>besmehn, lothar<sep>dzierzon, rochus<sep>kamm, eugen<sep>besmehn, lothargoethestrasse 10d-7601 willstaettde<sep>dzierzon, rochusgoethestrasse 9d-7601 willstaettde<sep>kamm, eugenam sonnenhang 20d-7604 appenried-nesselriedde<sep>
+</INVENTOR>
+<ABSTRACT>
+device for controlling the conveying speed of a web-like material which is wound over from an unwinding element to a winding-on element, having a speedometer disc (2) which is connected to the belt conveyor and in which a forked gate (3) serving as transmitter is adjustably arranged at a distance from the periphery of the speedometer disc (2) and the forked gate (3) is connected to a pressure source and to the control input of a pneumatic pressure intensifier (4, 5) which, as controller, is in connection with the winding drive (6).  this device prevents electrical or magnetic interference fields from having an influence on the controlling.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

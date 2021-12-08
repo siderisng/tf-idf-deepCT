@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000472
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/40 H01L-27/04 H01L-21/822 H01L-27/06 H01L-29/40 <main>H01L-27/06</main> H01L-27/07 G11C-11/414 H01L-29/66 G11C-11/41 G11C-11/416 H01L-21/8222 H01L-29/872 H01L-29/47 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+high-density integrated semiconductor device comprising a diode-resistor structure.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporation old orchard roadarmonk, n.y. 10504us <sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+klein wilfried<sep>klink erich dipl-ing<sep>rudolph volker dipl-phys<sep>wernick friedrich dipl-ing<sep>klein, wilfried<sep>klink, erich, dipl.-ing.<sep>rudolph, volker, dipl.-phys.<sep>wernick, friedrich, dipl.-ing.<sep>klein, wilfriedulmenstrasse 86d-7031 holzgerlingende<sep>klink, erich, dipl.-ing.max-eyth-strasse 34d-7036 schönaichde<sep>rudolph, volker, dipl.-phys.finkenweg 20d-7031 aidlingen-dachtelde<sep>wernicke,friedrich,dipl.-ing.herdlauchring 6d-7036 schönaichde<sep>klein, wilfried <sep>klink, erich, dipl.-ing.<sep>rudolph, volker, dipl.-phys.  <sep>wernicke,friedrich,dipl.-ing.<sep>klein, wilfriedulmenstrasse 86d-7031 holzgerlingende<sep>klink, erich, dipl.-ing.max-eyth-strasse 34d-7036 schönaichde<sep>rudolph, volker, dipl.-phys.finkenweg 20d-7031 aidlingen-dachtelde<sep>wernicke,friedrich,dipl.-ing.herdlauchring 6d-7036 schönaichde<sep>
+</INVENTOR>
+<ABSTRACT>
+the highly integrated semiconductor device is intended as a separating diode cooperating with selector lines of an integrated memory.  the resistor (r) is of pinch-type whose pinch doping region (5) is greater than the cross sectional dimension of the resistor doping region (4).  simultaneously it forms a cathode connection doping region for the schottky diode (d).  preferably the pinched doping region carries a connection contact (k) for the schottky diode cathode terminal.  this doped region is of identical conductivity as the surrounding semiconductor material (3), but of higher doping rate, sufficient to form an ohmic contact with a metal electrode on the region.  on the resistance region (4) outside the pinch doping region is provided a metal contact (a), extending beyond the resistance region. 
+</ABSTRACT>
+</TEXT>
+</DOC>

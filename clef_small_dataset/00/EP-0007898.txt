@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0007898
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/02 <main>G21K-5/04</main> G21K-5/02 H01L-21/02 G03F-7/20 H01L-21/30 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+high-resolution x-ray lithographic system and a method for fabricating microminiature devices by irradiating with such a system.
+</TITLE>
+<APPLICANT>
+western electric cous  <sep>western electric company, incorporated<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+dean robert earl<sep>maydan dan<sep>moran joseph michael<sep>taylor gary newton<sep>dean, robert, earl<sep>maydan, dan<sep>moran, joseph, michael<sep>taylor, gary, newton<sep>dean, robert, earl<sep>maydan, dan<sep>moran, joseph, michael<sep>taylor, gary, newton <sep>dean, robert, earl47 valley view roadhigh bridge, nj 08829 us   <sep>maydan, dan14 vincent laneshort hills, nj 07078us<sep>moran, joseph, michael112 briarwood drivewest berkeley heights, nj 07922us<sep>taylor, gary, newton12 birchwood terracefanwood, nj 07023us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007241
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C01B-17/50</main> C01B-17/00 C01B-17/56 C01B-17/50 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for purification of gases containing elemental sulphur.
+</TITLE>
+<APPLICANT>
+stauffer chemical cous<sep>stauffer chemical company<sep>stauffer chemical companywestport connecticut 06880us<sep>stauffer chemical company<sep>
+</APPLICANT>
+<INVENTOR>
+creagh joseph patrick<sep>lusk edwin bruce<sep>riley douglas clifton<sep>creagh, joseph patrick<sep>lusk, edwin bruce<sep>riley, douglas clifton<sep>creagh, joseph patrick2346 nw glisan apt. 38portland, oregon 97210us<sep>lusk, edwin bruce206 pecan tree laneplaquemine, louisiana 70764us<sep>riley, douglas clifton5622 estelle drivebaton rouge, louisiana 70816us<sep>creagh, joseph patrick<sep>lusk, edwin bruce<sep>riley, douglas clifton <sep>creagh, joseph patrick 2346 nw glisan apt. 38 portland, oregon 97210us<sep>lusk, edwin bruce206 pecan tree laneplaquemine, louisiana 70764us<sep>riley, douglas clifton5622 estelle drivebaton rouge, louisiana 70816us<sep>
+</INVENTOR>
+<ABSTRACT>
+gases containing elemental sulphur as an impurity are  purified to remove said sulphur by contacting the gas with  sulphur trioxide in a pool of oleum at a temperature of 82°c to  121°c.  it may also be purified to remove any carbonaceous  material present.  in one embodiment, shown in the single  figure of the drawing, the process is used to remove elemental  sulphur from sulphur dioxide produced by reaction of molten  sulphur (3) with sulphur trioxide.  a portion of the sulphur  trioxide is by-passed (6) and introduced into the overhead line  (5) of the sulphur dioxide reactor (4).  the gases are purified in  a second reactor (11) containing a pool of oleum (10).  
+</ABSTRACT>
+</TEXT>
+</DOC>

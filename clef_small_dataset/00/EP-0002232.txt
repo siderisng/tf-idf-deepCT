@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002232
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-17/40 G06F-19/00 G06F-11/30 G08C-15/06 G07C-3/08 G06F-3/05 G08C-15/00 G06F-17/00 G08B-21/00 G06F-15/20 G08C-25/00 G07C-3/00 <main>G07C-3/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system and method for monitoring the operation of an apparatus.
+</TITLE>
+<APPLICANT>
+ird mechanalysisus<sep>ird mechanalysis, inc.<sep>ird mechanalysis, inc.6150 huntley roadcolumbus ohio 43229us<sep>ird mechanalysis, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+morrow robert samuel<sep>morrow, robert samuel<sep>morrow, robert samuel4148 rowanne courtcolumbus ohio 43214us<sep>morrow, robert samuel<sep>morrow, robert samuel4148 rowanne courtcolumbus ohio 43214us<sep>
+</INVENTOR>
+<ABSTRACT>
+a data acquisition system utilizing a microcomputer and  incorporating a plurality of monitors each adapted to  produce an electrical signal indicative of a physical condition  of apparatus to be monitored.  the electrical signals are fed  via multiplexing equipment and analog-to-digital converters  into the microcomputer which is equipped with print-out  means.  the system is such that the level of any one or all of  the signals from the respective monitors can be printed out  as well as a change in the condition of any signal.  means are  incorporated into the computer for calculating and printing  the trend (i. e. , the slope of a plot of signal amplitude versus  time) of a succession of stored signals from any monitor  which would indicate a probable malfunction of a device  being monitored and the probable time to failure.  in the case  where the signals from the monitors comprise vibration  signals, the system performs an automatic frequency spectrum  analysis whenever a probable or actual malfunction is  detected.  
+</ABSTRACT>
+</TEXT>
+</DOC>

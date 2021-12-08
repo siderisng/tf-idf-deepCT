@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014609
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02F-1/13</main> G02F-1/1335 G09F-9/40 G02F-1/13357 G02F-1/13 H04N-5/74 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+large screen visualisation apparatus.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+hareng michel<sep>le berre serge<sep>hareng, michel<sep>le berre, serge<sep>hareng, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>le berre, serge"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>hareng, michel  <sep>le berre, serge <sep>hareng, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>le berre, serge"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The image to be visualized is formed in a small liquid crystal cell and then is projected by an optical device on a screen.The invention consists in dividing this image into a set of pieces which each inscribed in separate crystal cells (6-7).These image fragments are projected by a set of lenses (2-3) on a screen (1) where they restore the complete image.The cells are of the type functioning by reflection, and to illuminate a transparent plate (5) forming a light guide and on which networks (8-9) have been spared (8-9) for extracting the light to illuminate the cells.The invention makes it possible to produce low thick visualization devices.
+</ABSTRACT>
+</TEXT>
+</DOC>

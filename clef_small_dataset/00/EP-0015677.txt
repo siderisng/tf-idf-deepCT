@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015677
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/76 H01L-21/31 <main>H01L-21/76</main> H01L-21/268 H01L-21/20 H01L-21/316 H01L-21/02 H01L-21/321 H01L-21/86 H01L-21/762 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of producing semiconductor devices.
+</TITLE>
+<APPLICANT>
+vlsi technology res assjp<sep>vlsi technology research association<sep>vlsi technology research association1-1, miyazaki 4-chome takatsu-kukawasaki-shi kanagawa 213jp<sep>vlsi technology research association<sep>
+</APPLICANT>
+<INVENTOR>
+togei ryoiku<sep>togei, ryoiku<sep>togei, ryoiku23-6, narusedai 2-chomemachida-shi tokyo 194jp<sep>togei, ryoiku<sep>togei, ryoiku23-6, narusedai 2-chomemachida-shi tokyo 194jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of producing a semiconductor device com­ prising a step of forming a field isolating oxide layer (14)  from an amorphous silicon layer (11) by oxidation at a  relatively low temperature.  prior to the oxidizing treatment,  a portion of the amorphous silicon layer (11) is recrystal­ lized into a single-crystalline silicon layer (13) by laser  irradiation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

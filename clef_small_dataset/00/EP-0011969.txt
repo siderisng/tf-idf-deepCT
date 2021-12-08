@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011969
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H02H-7/06</main> B60R-21/00 B60K-28/10 H02J-7/14 H02J-7/16 H02J-7/00 B60L-11/18 B60K-28/14 B60R-16/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+battery isolator switches for use in road vehicles.
+</TITLE>
+<APPLICANT>
+lucas industries ltdgb<sep>lucas industries limited<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>lucas industries public limited company<sep>
+</APPLICANT>
+<INVENTOR>
+holt william david<sep>holt, william david<sep>holt, william david'garth holme' keighley roadcolne, lancashiregb<sep>holt, william david<sep>holt, william david'garth holme' keighley roadcolne, lancashiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a battery isolator switch has main battery contacts  (10,11) and an auxiliary contact (12) for controlling the supply  of excitation current to an alternator.  in order to ensure that  there is a delay between opening the auxiliary contact and the  main contacts when the switch is tripped by a remote contact  (31), there is provided a latching circuit (22 to 28) which ener­ gises a relay (21) for opening the auxiliary contact, and a delay  circuit (34 to 40) for turning on a transistor (20) after a suitable  delay, to energise a main tripping winding (14) via another  relay (17, 18).  
+</ABSTRACT>
+</TEXT>
+</DOC>

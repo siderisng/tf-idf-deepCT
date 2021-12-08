@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017586
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06F-13/00</main> G06F-11/30 G06F-11/00 G06F-12/06 G06F-12/02 G06F-12/04 G06F-11/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data processing apparatus comprising two direct access memories cooperating as well in a reading as in a writing mode.
+</TITLE>
+<APPLICANT>
+cii honeywell bullfr<sep>compagnie internationale pour l'informatique  cii-honeywell bull (dite cii-hb)<sep>compagnie internationale pour l'informatique cii - honeywell bull (dite cii-hb)94, avenue gambetta75020 parisfr<sep>compagnie internationale pour l'informatique cii - honeywell bull (dite  cii-hb)<sep>
+</APPLICANT>
+<INVENTOR>
+bavoux robert jules adolphe<sep>lemaire francis rene jean-mari<sep>salkazanov pierre<sep>bavoux, robert jules adolphe<sep>lemaire, francis rene jean-marie<sep>salkazanov, pierre<sep>bavoux, robert jules adolphe11 avenue otis-mygattf-92500 rueil malmaisonfr<sep>lemaire, francis rené jean-marie9 rue du boisf-78370 plaisirfr<sep>salkazanov, pierre3 rue des ebisoiresf-78370 plaisirfr<sep>bavoux, robert jules adolphe  <sep>lemaire, francis rene jean-marie<sep>salkazanov, pierre<sep>bavoux, robert jules adolphe11 avenue otis-mygattf-92500 rueil malmaisonfr<sep>lemaire, francis rené jean-marie9 rue du boisf-78370 plaisirfr<sep>salkazanov, pierre3 rue des ebisoiresf-78370 plaisirfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to data operating systems using an addressable memory.It proposes a method and an operating system to peculate some addresses of the addressable memory 24 by creating indicators associated with the particular addresses.These indicators are active each time a particular address 23 is called and the system 28 is warned that it has just used a particular address.
+</ABSTRACT>
+</TEXT>
+</DOC>

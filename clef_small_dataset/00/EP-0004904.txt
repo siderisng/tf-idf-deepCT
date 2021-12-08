@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004904
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-417/04 A61P-9/08 C07D-403/04 C07D-239/00 C07D-417/00 A61P-9/00 C07D-405/00 C07D-403/12 A61P-9/12 A61K-31/505 A61P-9/10 C07D-405/12 C07D-239/70 <main>C07D-239/70</main> C07D-401/00 C07D-405/14 A61K-31/517 C07D-401/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-amino-3a,4,5,6-tetrahydroperimidine derivatives, medicaments containing them and process for their preparation.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+kabbe hans-joachim dr<sep>mayer karl heinrich dr<sep>stoepel kurt dr<sep>ziemann heinz dr<sep>kabbe, hans-joachim, dr.<sep>mayer, karl heinrich, dr.<sep>stoepel, kurt, dr.<sep>ziemann, heinz, dr.<sep>kabbe, hans-joachim, dr.walter-flex strasse 16d-5090 leverkusen 1de<sep>mayer, karl heinrich, dr.bürgerbuschweg 100d-5090 leverkusen 3de<sep>stoepel, kurt, dr.in den birken 69d-5600 wuppertal 1de<sep>ziemann, heinz, dr.am wiesenberg 10d-5653 leichlingen 1de<sep>kabbe, hans-joachim, dr. <sep>mayer, karl heinrich, dr.<sep>stoepel, kurt, dr.<sep>ziemann, heinz, dr.<sep>kabbe, hans-joachim, dr.walter-flex strasse 16d-5090 leverkusen 1de<sep>mayer, karl heinrich, dr.bürgerbuschweg 100d-5090 leverkusen 3de<sep>stoepel, kurt, dr.in den birken 69d-5600 wuppertal 1de<sep>ziemann, heinz, dr.am wiesenberg 10d-5653 leichlingen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+2-amino-3a, 4,5,6-tetrahydro-perimidine derivatives of the tautomeric formula (1) in which R for hydrogen or halogen, N for 1 or 2, R¹ for hydrogen, alkyl or aryl and R² for hydrogen, optionallySubstituted alkyl, alkenyl, cycloalkyl, optionally substituted aryl, acyl, amino, mono- and dialkylamino, arylamino or heteroarylamino, or R¹ and R² are common for an alkylene radical, which optionally interrupted by oxygen or nitrogen or the group S (O) Mis, where M is 0, 1 or 2, a method for producing the compounds and their use as a medicament, in particular as circulation effective substances.
+</ABSTRACT>
+</TEXT>
+</DOC>

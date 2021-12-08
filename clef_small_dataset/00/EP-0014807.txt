@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014807
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-5/02 C07F-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+synthesis of boroxarophenanthrenes
+</TITLE>
+<APPLICANT>
+mobil oil corpus<sep>mobil oil corporation<sep>mobil oil corporation 150 east 42nd streetnew york new york 10017us <sep>
+</APPLICANT>
+<INVENTOR>
+bridger robert frederickus<sep>bridger, robert frederick<sep>bridger, robert frederick101 west broad streethopewell, new jersey 08525 mercerus<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides an improved method of making boroxarophenanthrenes from bc13 and o-phenylphenols.  the improvement being the addition of bc13 to a liquid hydrocarbon slurry of o-phenylphenol maintained at a temperature of from about 0 deg c to about 80 deg c. 
+</ABSTRACT>
+<DESCRIPTION>
+syt4thesis of boroxarophenanthrenes the invention relates to the synthesis of boroxarophenanthrenes. specifically, it relates to the preparation of 10-hydroxy-10,9-boroxarophenanthrene by reaction of bc13 with o-phenylphenol in a liquid hydrocarbon slurry at from about 0 to about 800c room temperature. the product is useful as an antioxidant (see u.s. 3,287,270 or 3,320,165) or as an antifatigue agent for lubricants. it is well known that lubricating oil fractions are subject to deterioration from fatigue and oxidation under conditions of use such as in modern internal combustion engines. oxidation products are formed in the oil which products are acidic in nature and exert an oxidatlve effect on metal parts with which the oil comes in contact. furthermore, these oxidation products produce formations of varnish and sludge on the engine surfaces. this tends to lower the operating efficiency of the engine. the proper lubrication of engine parts is further hampered due to the detrimental effect of oxidation on the viscosity of the oil. similarly, it is known that the oxidation of fuels, particularly during storage, causes gum formation and layer deposits which tend to cause operating malfunctions. in order to overcome, insofar as possible, these undesirable effects, additives known as antioxidants are normally added to the lubricants and fuels. for example, phenolic or amine compounds are commonly employed as such additives. modern technology, however, requires lubricants and fuels possessing increased resistance to oxidation. it has been found that certain 10,9-boroxarophenanthrenes are effective in improving the oxidation and fatigue properties of lubricants. however, the presently known method of making them is time consuming and expensive. the known method is exemplified in u.s. 3,287,270. another reference of interest to this invention is u.s. 3,437,596 which, like u.sç 3,287,270, discloses the addition of a phenyiphenol to a mixture of bc13 and methylene while maintaining the mixture at from -500c tp -700c. the invention provides an improve process for synthesizing certain boroxarophenanthrenes by reacting bcl3 with o-phenylphenol, warming and-removing the chloride formed and the excess bcl3 and solvent, heating the product thus formed in the presence of aluminum halide and treating with water, the improvement whereby the bol3 is added to a slurry of o-phenylphenol maintained at from about ooc to about 800c, preferably at from about 200c to about 4000. these 10,9-boroxarophenanthrene compounds may be represented by the general formula emi2.1 where r represents hydroxy, hydrocarbylamino, hydrocarbylthio, hydrocarbyl, oxy-hydrocabl, halogen, halogenated hydrocarbyl, halogenated oxy-hydrocarbyl groups or, in the case of the anhydride, an oxy-10,9-boroxarophen- anthrene group, r' represents the same or different'hydrocarby1, halogen or halogenated hydrocarbyl groups or hydrogen, and n is an integer from 1 to 4, preferably 1 or 2. as used herein, by the term "hydrocarbyl" is meant groups composed of carbon and hydrogen atoms such as aliphatic, aryl, aliphatic-aryl, both alkaryl and aralkyl, and cycloaliphatic groups, containing from 1 to 30 carbon atoms. suitable substituents for r include the abovementioned hydroxy group as well as alkyl groups, both straight-chain and branched-chain, such as methyl, ethyl, propyl, isopropyl, tert-butyl, octyl, dodecyl, hexadecyl, octadecyl, tetracosyl
+</DESCRIPTION>
+<CLAIMS>
+ 1.   a    process for synthesizing a   -boroxarophen-      anthrene, which comprises the steps of reacting gaseous   bc13    with 0-phenylphenol, heating the   -product -so-    formed in the presence of an aluminum halide and converting the product thus obtained to the boroxarophenanthrene, characterized in that   the -bcl3    is added to a liquid hydrocarbon slurry   of-    o-phenylphenol   maintained    at a temperature of from about 0 c to about   so-oc.       2. the process of claim 1 wherein the product thus obtained is converted to the boroxarophenanthrene by reaction with water.    3. the--process of claim 1 wherein the liquid hydrocarbon is hexane.    4. the process of claim 1 wherein-the aluminum halide is aluminum chloride.    5, the process according to   any preceedlng    claim wherein from 1.0 to 2.0 moles of bc13 per mole of 0-phenylphenol is used.      6. the    process of claim 5 wherein 1.1 to 1.5 moles of bc13 per mole of   0-phenylphenol    is used.    7. the process according tb any preceeding claim wherein the   tempe-rature    during said improvement is from 20 c to 40 c.    8. the process according to any   proceeding    claim wherein the time of   reaction- during    the improvement ranges -from   15 minutes    to 1 hour.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009967
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-299/00 C08G-75/04 C08G-18/83 C08G-75/00 C09D-3/72 B23K-35/22 C08G-75/02 C08F-2/50 H05K-3/34 H05K-3/28 <main>G03C-1/68</main> G03F-7/032 C08F-299/06 C08G-18/67 C08F-2/46 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for protecting selected areas of circuitboards; protected circuitboards and boards bearing components.
+</TITLE>
+<APPLICANT>
+diamond shamrock ukgb<sep>diamond shamrock uk limited<sep>diamond shamrock uk limitedpeel house, monton roadeccles, manchester m30 onagb<sep>diamond shamrock uk limited <sep>
+</APPLICANT>
+<INVENTOR>
+davies william derrick<sep>skelhorne graham gerald<sep>warren john benjamin<sep>davies, william derrick<sep>skelhorne, graham gerald<sep>warren, john benjamin<sep>davies, william derrick6 knowl view, littleboroughol150bu, lancashiregb<sep>skelhorne, graham gerald143 butterstile lane, prestwichmanchester m258uwgb<sep>warren, john benjamintilston house, tilstonmalpas sy147ds, cheshiregb<sep>davies, william derrick <sep>skelhorne, graham gerald<sep>warren, john benjamin<sep>davies, william derrick6 knowl view, littleboroughol150bu, lancashiregb<sep>skelhorne, graham gerald143 butterstile lane, prestwichmanchester m258uwgb<sep>warren, john benjamintilston house, tilstonmalpas sy147ds, cheshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a photopolymerisable composition particularly useful  as a solder resist composition able to withstand molten  solder without loss of adhesion, pitmarks or shrinkage and  for forming durable coatings on substrates generally is  obtained by a combination of a photoinitiator, a polythiol  acting as a chain modifier, and a polymer having hydroxy  terminated chains capped by acrylate groups connected to  the chains via the residue of a polyisocyanate.  
+</ABSTRACT>
+</TEXT>
+</DOC>

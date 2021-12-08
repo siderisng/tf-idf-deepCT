@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015681
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-15/02 H03H-17/00 H03H-15/00 H03H-17/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+binary transversal filter.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>nippon telegraph & telephonejp<sep>fujitsu limited<sep>nippon telegraph and telephone public corporation<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>nippon telegraph and telephone public corporation 1-6 uchisaiwai-cho 1-chome chiyoda-kutokyo 100jp <sep>
+</APPLICANT>
+<INVENTOR>
+horikawa izumijp<sep>kurita osamujp<sep>ogawa kazuojp<sep>suzuki eijijp<sep>horikawa, izumi<sep>kurita, osamu<sep>ogawa, kazuo<sep>suzuki, eiji<sep>horikawa, izumi125-9, nishishiba kanazawa-kuyokohama-shi kanagawa 236jp<sep>kurita, osamu2-1-3-5-207, hayashiyokoshuka-shi kanagawa 238-03jp<sep>ogawa, kazuo3-25-10-504, kaminogesetagaya-ku tokyo 158jp<sep>suzuki, eiji1-9, shinsaku takatsu-kukawasaki-shi kanagawa 213jp<sep>
+</INVENTOR>
+<ABSTRACT>
+binary transversal filter having a plurality of stages of  shift registers (2, 12) that are driven by timing signals  (mlt; 3) of a frequency which is greater by a number of  times that of clock pulses (clk) being introduced, and  weighing circuits (4, 14) which weigh outputs of the stages  of each of the shift registers (2, 12) so that outputs of the  weighing circuits (4, 14) can be synthesized (5).  the cha­ racteristic feature resides in the facts that nrz signals (1)  are introduced into the shift registers (2, 12) and that the  shift registers are driven by timing signals (mlt; 3) of a  frequency which is greater by m times that of clock pulses  (clk) of the nrz signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

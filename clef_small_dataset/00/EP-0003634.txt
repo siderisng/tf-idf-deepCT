@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003634
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-1/26 <main>H04B-1/26</main> H04B-1/06 H04B-17/00 H03J-1/00 H03J-3/00 H03J-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of aligning a radio receiver and means for indicating the alignment of a radio receiver.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+gould larrie alan<sep>reed kim warren<sep>gould, larrie alan<sep>reed, kim warren<sep>gould, larrie alan5622 woodhollowarlington texas 76016us<sep>reed, kim warren6036 east belknapfort worth texas 76117us<sep>gould, larrie alan  <sep>reed, kim warren<sep>gould, larrie alan5622 woodhollowarlington texas 76016us<sep>reed, kim warren6036 east belknapfort worth texas 76117us<sep>
+</INVENTOR>
+<ABSTRACT>
+a radio receiver (10) having a tuned if stage (20) which is  followed by a detector stage (24) producing an output representative  of the change in frequency of a signal applied at its  input.  a predetermined frequency alignment signal (80) and a  white noise source signal are alternately switched through the if  amplifier stage (20) of the receiver being aligned.  a series  connected integrating capacitor (50) and a tuning meter (60) are  coupled between the receiver's detector output (24b) and  ground potential (70).  in operation, during the interval of white noise being  applied to the if stage, the tuning meter (60) is shorted (40, 44,  46) and the capacitor (50) is charged to a net voltage vn which is  representative of the center frequency of the if.  when the  alignment signal is applied to the if stage, the tuning meter (60)  short is removed and a signal vs appears across the capacitor-meter  circuit, whereby the meter reading is indicative of vs-vn  which represents relative receiver alignment.  
+</ABSTRACT>
+</TEXT>
+</DOC>

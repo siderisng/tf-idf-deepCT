@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008464
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07C-45/48 B01J-31/00 C07C-49/76 <main>C07C-49/76</main> C07B-61/00 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of propiophenone.
+</TITLE>
+<APPLICANT>
+union carbide corpus <sep>union carbide corporation<sep>union carbide corporation 39 old ridgebury road danbury connecticut 06817 us<sep>union carbide corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+smith charles arnold<sep>theiling louis foster jr<sep>smith, charles arnold<sep>theiling, louis foster, jr.<sep>smith, charles arnold1812 littlepage avenuecharleston west virginiaus<sep>theiling, louis foster, jr.1408 woodmere parkcharleston, west virginiaus<sep>smith, charles arnold<sep>theiling, louis foster, jr.<sep>smith, charles arnold1812 littlepage avenuecharleston west virginiaus<sep>theiling, louis foster, jr.1408 woodmere parkcharleston, west virginiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+in the production of propiophenone by a vapor-phase,  cross-decarboxylation process, an undesirable by-product,  isobutyrophenone, is suppressed by addition of water or  steam to the reactant stream.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000351
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-313/00 C07D-295/00 A01N-41/10 A01N-41/06 C07C-327/06 C07C-67/00 C07D-295/185 C07C-325/00 C07C-327/00 C07C-319/20 C07C-323/20 A01N-41/00 C07C-323/00 C07C-319/00 A01N-39/00 C07C-327/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phenoxy-phenyl-thio-alkanecarboxylic acid derivatives method for their preparation and their use as herbicides and plant growth regulators.
+</TITLE>
+<APPLICANT>
+ciba geigy ag ch<sep>ciba-geigy ag  <sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+boehner beat drch<sep>duerr dieter drch<sep>pissiotas georg drde<sep>rohr otto drch<sep>boehner, beat, dr.<sep>duerr, dieter, dr.<sep>pissiotas, georg, dr.<sep>rohr, otto, dr.<sep>böhner, beat, dr.hügelweg 3ch-4102 binningench<sep>dürr, dieter, dr.brändelistalweg 16ch-4103 bottmingench<sep>pissiotas, georg, dr.breslauerstrasse 8d-7850 lörrachde<sep>rohr, otto, dr.kilbertweg 19ch-4106 therwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+novel phenoxyphenylthioalkanecarboxylic acid derivatives having herbicidal and plant growth-regulating, in particular inhibiting, activity, of the formula <image>  in which   a denotes cyano, carboxyl, a carboxylic acid salt, an ester or thioester, an amide or an imido ether,   c denotes hydrogen, halogen, cyano, c1-c4-alkyl or c1-c4-alkoxy, d and e are the same as c, but also denote nitro, trifluoromethyl, methylsulphonyl or dimethylsulphonyl, "hal" denotes halogen, n denotes 0, 1 or 2 and q denotes an alkylene bridge which can be unsubstituted or substituted by halogen, alkoxy, alkoxycarbonyl or cyano. 
+</ABSTRACT>
+</TEXT>
+</DOC>

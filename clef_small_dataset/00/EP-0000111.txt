@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000111
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-35/06 F26B-3/06 B29C-67/24 B29C-35/04 D04H-1/58 F26B-13/10 <main>B29J-1/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the thermal treatment of a padding material formed from fibres with a thermosetting bonding material.
+</TITLE>
+<APPLICANT>
+saint gobain fr  <sep>saint-gobain industries<sep>saint-gobain industries62, bd victor hugof-92209 neuilly sur seinefr<sep>saint-gobain industries<sep>
+</APPLICANT>
+<INVENTOR>
+battigelli jean a<sep>bouquet francois<sep>battigelli,jean a.<sep>bouquet,francois<sep>battigelli,jean a.17, rue e.vaillantf-60290 rantignyfr<sep>bouquet,françois30, rue e. vaillantf-60290 rantignyfr<sep>battigelli,jean a.  <sep>bouquet,francois<sep>battigelli,jean a.17, rue e.vaillantf-60290 rantignyfr<sep>bouquet,françois30, rue e. vaillantf-60290 rantignyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  apparatus for heat treating a fibrous mat carrying a heat hardenable fiber binder comprising conveyor mechanism for advancing the fibrous mat through a treatment path, gas circulation boxes arranged at opposite sides of the mat in said path and defining a zone of thermal treatment, gas supply and exhaust ducts respectively connected with said circulation boxes and providing for passage of heated gas through the fibrous mat in said treatment zone, characterized in that it comprises in the downstream part of the treatment zone a pair of supply (33) and exhaust (38) gas circulation manifolds positioned within the circulation boxes (18, 19) and defining a localized treatment area within and smaller than said treatment zone, and heated gas circulating means associated with said manifolds and circulating heated gas through the fibrous mat at a pressure higher than that of the gas passed through the fibrous mat from one circulation box to another one. 
+</ABSTRACT>
+</TEXT>
+</DOC>

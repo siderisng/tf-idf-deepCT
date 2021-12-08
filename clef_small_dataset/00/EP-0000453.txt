@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000453
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-333/36 C07D-513/00 C07D-495/04 C07D-495/00 C07D-513/04 C07D-333/00 A61K-31/4365 A61K-31/4353 <main>C07D-495/04</main> C07D-333/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of thienopyridine derivatives.
+</TITLE>
+<APPLICANT>
+parcorfr <sep>parcor<sep>omnium financier aquitaine pour l'hygiene et la sante - sanofi tour aquitaine cédèx no 4 f-92080 paris la defense fr<sep>omnium financier aquitaine pour l'hygiene et la sante - sanofi <sep>
+</APPLICANT>
+<INVENTOR>
+bousquet andre<sep>braye emile<sep>bousquet, andre<sep>braye, emile<sep>bousquet, andré 2, rue léon blumf-31120 portet/garonnefr<sep>braye, emile"puntis"f-31190 lagardelle/lezefr<sep>bousquet, andre <sep>braye, emile<sep>bousquet, andré 2, rue léon blumf-31120 portet/garonnefr<sep>braye, emile"puntis"f-31190 lagardelle/lezefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a process for preparing compounds of formula wherein, R₁ represents hydrogen, alkyl, aryl or aralcoyl optionally substituted, R₂ and R₃ represent hydrogen or an aryl or heterocyclic alkyl radical and R₄ represents hydrogen, an alkyl radical, a cycloalcoyl, alkoxy carbonyl, carboxy, aryl or heterocyclic, by reaction of a compound of formula with a compound of formula wherein, x is halogen, optionally substituted alkoxy, optionally substituted thioalcoyl or amino possibly substituted; Y represents an optionally substituted alkoxy, possibly substituted thioalcoyl, an optionally substituted amino, or a group of formula-o-cor, where R is an alkyl or aryl radical; or the two X groups and form with the carbon atom on which they are fixed a heterocyclic hexahydro-sp- triazinic, trioxannic or trithianic core, in an inert solvent at a temperature between 0 and 150 ° C and in an anhydrous medium.
+</ABSTRACT>
+</TEXT>
+</DOC>

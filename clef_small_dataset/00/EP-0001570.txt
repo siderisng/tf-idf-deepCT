@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001570
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-45/38 B01J-8/02 B01J-8/06 C07C-47/052 <main>C07C-45/29</main> C07C-47/04 C07C-47/02 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of formaldehyde.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+aicher albrecht <sep>flory klaus dr<sep>petri norbert dr  <sep>schuchart peter dr<sep>sebastian robert<sep>aicher, albrecht<sep>flory, klaus, dr.<sep>petri, norbert, dr.<sep>schuchart, peter, dr.<sep>sebastian, robert<sep>aicher, albrechtsonnenstrasse 21d-6710 frankenthal 6de<sep>flory, klaus, dr.im schilling 2d-6906 leimende<sep>petri, norbert, dr.max-beckmann-strasse 17d-6710 frankenthalde<sep>schuchart, peter, dr.bensheimer ring 13bd-6710 frankenthalde<sep>sebastian, robertkatharinenstrasse 4d-6705 deidesheimde<sep>aicher, albrecht<sep>flory, klaus, dr.<sep>petri, norbert, dr.<sep>schuchart, peter, dr.<sep>sebastian, robert <sep>aicher, albrecht sonnenstrasse 21 d-6710 frankenthal 6de<sep>flory, klaus, dr.im schilling 2d-6906 leimende<sep>petri, norbert, dr.max-beckmann-strasse 17d-6710 frankenthalde<sep>schuchart, peter, dr.bensheimer ring 13bd-6710 frankenthalde<sep>sebastian, robertkatharinenstrasse 4d-6705 deidesheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for preparing formaldehyde by oxidizing methanol over a metal oxide catalyst at from 200 to 400 degrees c, with the aid of heat transfer, wherein the reaction is carried out in a tubular reaction zone which contains one or more catalyst-filled reaction tubes of from 10 to 50 mm internal width and one or more methanol vaporization tubes of from 10 to 50 mm internal width, a heat transfer medium and an air feed line connected to the reaction tubes and the vaporization tubes via a mixing chamber having a volume of from 25 to 150 cubic centimeters per square centimeter of total catalyst bed cross-section, and wherein the reaction zone is first heated to 200 - 400 degrees c, air is then passed through the reaction tubes, thereafter methanol is passed through the vaporization tubes and vaporized therein, following which the methanol vapor, at 150 - 350 degrees c, which issues at a flow rate of 0. 001 - 85 kilograms per minute from the vaporization tubes in counter-current to air supplied at a flow rate of from 0. 01 to 800 kilograms per minute is mixed with the said air, and finally the air-vapor mixture is reacted in the reaction tubes. 
+</ABSTRACT>
+</TEXT>
+</DOC>

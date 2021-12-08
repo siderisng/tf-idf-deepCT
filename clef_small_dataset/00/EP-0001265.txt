@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001265
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07F-9/6561 C07D-477/20 A61P-31/00 A61K-31/675 A61K-31/40 C07D-477/00 A61K-31/655 A61K-31/397 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+o-, n- and carboxyl derivatives of thienamycin sulfoxide and sulfone, their preparation and pharmaceuticals containing said compounds.
+</TITLE>
+<APPLICANT>
+merck & co incus<sep>merck & co., inc.<sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us<sep>
+</APPLICANT>
+<INVENTOR>
+chistensen burton grantus<sep>hannah johnus<sep>leanza william josephus<sep>ratcliffe ronald williamus<sep>shih david houng-min us<sep>chistensen, burton grant  <sep>hannah, john<sep>leanza, william joseph<sep>ratcliffe, ronald william<sep>shih, david houng-min<sep>chistensen, burton grant350 east lafayette st. apt. 1a, bldg. 10metuchen, n.j. 08840us<sep>hannah, john155 idlebrook lanematawan, n.j. 07747us<sep>leanza, william joseph20 rutherford roadberkeley heights, n.j. 07922us<sep>ratcliffe, ronald william234 matawan avenuematawan, n.j. 07747us<sep>shih, david houng-min9 hazel avenueedison, n.j. 08817us<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed are o-, n- and substituted carboxyl derivatives  of thienamycin sulfoxide (i, n = 1) and thienamycin sulfone (i,  n = 2):    wherein n is 1 or 2; r and r are independently selected from  hydrogen and acyl; r is, inter alia, hydrogen, acyl or alkyl; x is  o or nr; and r is, inter alia, hydrogen or a pharmaceutically  acceptable salt or ester moiety.  such derivatives are useful as  antibiotics.  also disclosed are processes for the preparation  of such derivatives, pharmaceutical compositions comprising  such derivatives and methods of treatment comprising  administering such derivatives and compositions when an  antibiotic effect is indicated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

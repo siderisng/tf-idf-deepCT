@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002504
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08G-1/097 <main>G08G-1/097</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+signal supervision circuit in light-signalling devices.
+</TITLE>
+<APPLICANT>
+siemens agde  <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+baumgartl franz<sep>brunner heinrich<sep>baumgartl, franz<sep>brunner, heinrich<sep>baumgartl, franzfrohnloherstrasse 13d-8000 münchen 71de<sep>brunner, heinrichkalkofen 6d-8183 rottach-egernde<sep>baumgartl, franz  <sep>brunner, heinrich <sep>baumgartl, franzfrohnloherstrasse 13d-8000 münchen 71de<sep>brunner, heinrichkalkofen 6d-8183 rottach-egernde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  circuit arrangement for the signal safeguard in light-signal arrangements where in each case a transformer (tr) is inserted into the lamp circuit parallel to the lamp switch (ls), on the secondary side of which transformer via a rectifier arrangement (gr) is measured a test voltage (up), which is proportional to the difference of the main voltage and the lamp voltage, and compared to the test voltage from another lamp circuit via logic circuits, characterized in that at the output of the rectifier arrangement is arranged a threshold switch (d1) which only transfers the test voltage (up ) to the output (a) when a predetermined theoretical value is exceeded. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001493
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24J-2/38 F24J-2/06 F24J-3/02 G01C-1/00 F24J-2/14 G01K-5/00 <main>G05D-3/00</main> G01K-5/24 G01K-5/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for temperature detecting and use for solar collectors.
+</TITLE>
+<APPLICANT>
+little david carlyleau<sep>little frederick aau<sep>little, david carlyle<sep>little, frederick adrian<sep>little, david carlyle35, second avenuemount isa queensland 4825au<sep>little, frederick adrian35, second avenuemount isa queensland 4825au<sep>little, david carlyle<sep>little, frederick adrian <sep>
+</APPLICANT>
+<INVENTOR>
+little david carlyle<sep>little, david carlyle<sep>little, david carlyle35, second avenuemount isa queensland 4825au<sep>little, frederick adrian35, second avenuemount isa queensland 4825au<sep>little, david carlyle <sep>little, david carlyle35, second avenuemount isa queensland 4825au<sep>little, frederick adrian35, second avenuemount isa queensland 4825au<sep>
+</INVENTOR>
+<ABSTRACT>
+temperature differential sensing means (10; 10a) are  suitable for sensing temperatures at respective opposite  sides of a heat shield (11) whereby alignment of the shield  with respect to a heat source may be monitored so as to  enable the shield to be maintained in operative aligned  relationship with the heat source.  
+</ABSTRACT>
+</TEXT>
+</DOC>

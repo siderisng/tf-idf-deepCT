@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008968
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22D-11/115 B22D-11/11 B22D-11/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for continuous casting of molten metal and installation to realize it.
+</TITLE>
+<APPLICANT>
+rotelec safr<sep>rotelec<sep>rotelectour gan cédex 13f-92082 paris la defensefr<sep>
+</APPLICANT>
+<INVENTOR>
+birat jean-pierre fr<sep>dussart bernard fr  <sep>nove marie-claudefr<sep>birat, jean-pierre<sep>dussart, bernard<sep>nove, marie-claude<sep>birat, jean-pierre10, chemin des pavillonsf-57210 semecourtfr<sep>dussart, bernard11 la résidencehaulchin, f-59121 prouvyfr<sep>nove, marie-claude47, bd. victor hugof-92200 neuilly-sur-seinefr<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and a device for the continuous casting of molten metals, in particular steel, wherein the liquid metal is set in rotation about the axis of the mould by means of rotating magnetic fields created by a polyphase static inductor arranged around the mould.  the invention is characterised in that the rotational frequency of the magnetic field is equalised to that of the electric current supplying the inductor, and in that the latter frequency is adjusted to a value of between 1 and 60 hz.  the invention applies to almost all continuously cast products and makes it possible, on the one hand, to employ inductors customarily used in this field and, on the other hand, permits a considerable saving in terms of the electrical supply, while allowing the use of rotating assemblies or, if necessary, simple autotransformers. 
+</ABSTRACT>
+</TEXT>
+</DOC>

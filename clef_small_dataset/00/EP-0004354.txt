@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004354
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-9/08 A01B-63/111 <main>F15B-9/08</main> G05D-1/00 F15B-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulic positioning device with a feedback arrangement.
+</TITLE>
+<APPLICANT>
+rexroth gmbh g lde<sep>g.l. rexroth gmbh<sep>mannesmann rexroth gmbhjahnstrasse 3 - 5d-97813 lohrde <sep>mannesmann rexroth gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+bartholomaus reiner<sep>bernhardt karl-heinz  <sep>eberhard wolfgang<sep>kokus hans-dieter<sep>lembke herbert<sep>schulte heinz<sep>bartholomaus, reiner<sep>bernhardt, karl-heinz<sep>eberhard, wolfgang<sep>kokus, hans-dieter<sep>lembke, herbert<sep>schulte, heinz<sep>bartholomäus, reinerweinbergstrasse 17d-8781 neuendorfde<sep>bernhardt, karl-heinzfinkenstrasse 13d-8770 lohr/mainde<sep>eberhard, wolfgangeichenstrasse 2d-8770 lohr/mainde<sep>kokus, hans-dieterewaldstrasse 44d-5216 niederkasselde<sep>lembke, herbertostlandstrasse 34d-8770 lohr/mainde<sep>schulte, heinzeichholzstrasse 19d-8772 marktheidenfeldde<sep>bartholomaus, reiner<sep>bernhardt, karl-heinz<sep>eberhard, wolfgang<sep>kokus, hans-dieter<sep>lembke, herbert <sep>schulte, heinz<sep>bartholomäus, reiner weinbergstrasse 17 d-8781 neuendorf de<sep>bernhardt, karl-heinzfinkenstrasse 13d-8770 lohr/mainde<sep>eberhard, wolfgangeichenstrasse 2d-8770 lohr/mainde<sep>kokus, hans-dieterewaldstrasse 44d-5216 niederkasselde<sep>lembke, herbertostlandstrasse 34d-8770 lohr/mainde<sep>schulte, heinzeichholzstrasse 19d-8772 marktheidenfeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+Each adjustable throttle (12, 22, 30) cooperates with a constant throttle point (39, 40) and the one between the throttle pairs (12, 39, 40, 22, 40, 30) according to the respective adjustment of the corresponding adjustable throttle point (1222, 30) Adjusting pressure forms the control pressure for the on both sides (6, 17) hydraulically actuatable the stopper (25, 26, 27, g) controlling control valve (7).The control pressure of the one throttle point pair (12, 39) acted upon the one control chamber (6) as a setpoint signal, and the control pressure of the other or another throttle point pair (22, 40, 30, 40) acted upon the other control chamber (17) for the hydraulic adjusting device of theControl valve as the actual value forming feedback signal.
+</ABSTRACT>
+</TEXT>
+</DOC>

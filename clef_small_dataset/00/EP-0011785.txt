@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011785
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+D01F-6/80 C08K-3/24 C08L-77/00 C08L-77/10 D01F-6/60 C08J-5/18 C08K-3/16 C08K-5/20 <main>C08L-77/10</main> C08K-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+aromatic polyamide composition and processes for preparing film and fiber therefrom.
+</TITLE>
+<APPLICANT>
+teijin ltdjp<sep>teijin limited<sep>teijin limited11 minami honmachi 1-chome higashi-kuosaka-shi osaka-fujp<sep>teijin limited<sep>
+</APPLICANT>
+<INVENTOR>
+aoki akihiro<sep>shimada keizo<sep>tamura yorikazu<sep>aoki, akihiro<sep>shimada, keizo<sep>tamura, yorikazu<sep>aoki, akihiro1-3, yamate-cho 3-chomeiwakuni-shi, yamaguchi-kenjp<sep>shimada, keizo1-40, yamate-cho 3-chomeiwakuni-shi, yamaguchi-kenjp<sep>tamura, yorikazu1-40, yamate-cho 3-chomeiwakuni-shi, yamaguchi-kenjp<sep>aoki, akihiro<sep>shimada, keizo  <sep>tamura, yorikazu <sep>aoki, akihiro1-3, yamate-cho 3-chomeiwakuni-shi, yamaguchi-kenjp<sep>shimada, keizo1-40, yamate-cho 3-chomeiwakuni-shi, yamaguchi-kenjp<sep>tamura, yorikazu1-40, yamate-cho 3-chomeiwakuni-shi, yamaguchi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+there is provided an aromatic polyamide composi­ tion, which comprises (a) a polyamide, the recurring  structural units of which are substantially totally aromatic,  preferably m-phenyleneisophthalamide units, (b) an  organic amide solvent, e. g.  dimethylformamide, and (c)  one or more salts selected from chlorides and bromides  of an alkali metal, an alkaline earth metal or ammonium,  preferably calcium chloride or lithium chloride.  the  amounts of the polyamide and the organic amide solvent  are in the ranges of 30 to 50% and 70 to 50% by weight,  respectively, based on the total weight of the polyamide  and the organic amide solvent.  the amount of the salt is  difined by the formulae:   in the case where 30 ≦ x ≦ 33. 6, y ≧ 10, and   in the case where 33. 6 < x ≦50, y > 2. 8 x -84   wherein "x" is the amount in % by weight of the  polaymide based on the total weight of the polyamide and  the organic amide solvent, and "y" is the amount in % by  mole of the salt based on the polyamide.  the polyamide  composition is useful for melt-shaping films, fibers and  other shaped articles.  
+</ABSTRACT>
+</TEXT>
+</DOC>

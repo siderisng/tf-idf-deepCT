@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000504
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A61B-5/04</main> A61B-5/0488 A61B-5/0444 A61B-5/0402 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit arrangement for the detection and recording of the activity of the uterus.
+</TITLE>
+<APPLICANT>
+biotronik mess & therapiegde<sep>biotronik mess- und therapiegerate gmbh & co ingenieurburo berlin<sep>biotronik mess- und therapiegeräte gmbh &amp; co ingenieurbüro berlinsieversufer 8d-12359 berlinde<sep>biotronik mess- und therapiegerate gmbh & co ingenieurburo berlin<sep>
+</APPLICANT>
+<INVENTOR>
+nagel joachim<sep>nagel, joachim<sep>nagel, joachimschobertweg 3ad-8520 erlangende<sep>nagel, joachim  <sep>nagel, joachimschobertweg 3ad-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+Apparatus for detecting and registering the uterine activity by means of electrical signals, in particular for use as levers, with means for electromyographic detection of the electrical fields associated with muscle activities in the abdominal region (electrodes 301 to 303) as electrical signals, means for generating signals which are substantiallythe intensity of the AC power portions of the electromyographically derived signals (OP 6, OP 7), means for the temporal averaging (C 16, R 31) of the signals which substantially correspond to the intensity of the AC voltage component of the electromyographically derived signals, as well as means for outputting the averagedSignals as a measure of the intrauterine pressure (labor roller 210).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005911
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-251/46 A61P-25/00 <main>C07D-251/46</main> A61P-25/04 C07D-251/38 C07D-403/02 C07D-251/00 A61K-31/53 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+analgesic 6-acylaminotetrahydro-1,3,5-triazine-2,4-dione derivatives, pharmaceutical compositions thereof, and process for their manufacture.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc  <sep>
+</APPLICANT>
+<INVENTOR>
+brown edward douglas<sep>brown, edward douglas<sep>brown, edward douglas27 ashworth parkknutsford cheshiregb<sep>brown, edward douglas<sep>brown, edward douglas27 ashworth parkknutsford cheshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula:    in which r¹ is an optionally substituted phenyl, phenyl-(1-4c)alkyl-  naphtyl, monocyclic or bicyclic heteroaromatic  or (monocyclic or bicyclic heteroaromatic)-(1-4c) alkyl radical,  r² is a (3-8c) alkyl or a (1-4c)-alkyl bearing one or two  (1-4c) alkoxy or a 1,3-dioxalanyl, tetrahydrofuryl or tetrahydropyranyl  substituent or is a (3-8c)cycloalkyl, [(3-8c)cycloalkyl]  - (1-4c)alkyl or 3-6c)alkenyl radical, or an  optionally substituted phenyl or phenyl- (1-4c)-alkyl radical,  and r³ is a (1-4c)alkyl radical, preferably a methyl radical;  together with pharmaceutically acceptable salts thereof.  also  provided are processes for the manufacture of, and pharmaceutical  compositions of the derivatives and salts thereof.   some of the derivatives possess anti-inflammatory properties  and/or are inhibitors of the enzyme prostaglandin  synthetase in addition to possessing analgesic properties.  
+</ABSTRACT>
+</TEXT>
+</DOC>

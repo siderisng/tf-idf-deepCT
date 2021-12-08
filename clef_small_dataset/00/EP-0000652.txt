@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000652
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02P-3/09 F02P-15/00 F02P-3/00 F02P-15/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+internal combustion engine spark ignition apparatus producing an oscillating discharge current of a capacitor.
+</TITLE>
+<APPLICANT>
+wainwright basil earle<sep>wainwright, basil earle <sep>wainwright, basil earle80 greenaleigh road yardley woodbirmingham, b14 4je gb  <sep>
+</APPLICANT>
+<INVENTOR>
+wainwright basil earle<sep>wainwright, basil earle<sep>wainwright, basil earle80 greenaleigh road yardley woodbirmingham, b14 4jegb<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for producing spark ignition of an internal  combustion engine in which a capacitor (c1) is connected in  a resonant circuit with the primary (1a) of an ignition coil (1).   an arrangement is provided to charge the capacitor (c1), and  a thyristor (scr) is connected in the circuit so that when fired  an oscillatory current flows in the circuit so as to induce in  the secondary (1b) of the coil (1) an oscillatory high voltage  for producing spark ignition.  the charging current to the  capacitor (c1) is inhibited during the current discharge so as  to maximise the period that the thyristor (scr) can be held  conductive without becoming locked in a permanently conductive  condition.  
+</ABSTRACT>
+</TEXT>
+</DOC>

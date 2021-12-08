@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000236
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24J-2/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for controlling the energy balance of a system for catching, accumulating and transferring solar energy and a system therefor.
+</TITLE>
+<APPLICANT>
+economic energy syst nvnl  <sep>economic energy systems investment n.v.<sep>economic energy systems investment n.v.kaminda michigan 3willemstad curaçao netherlands antillesnl<sep>
+</APPLICANT>
+<INVENTOR>
+baardman maartennl<sep>baardman, maarten<sep>baardman, maartenhoogstuk 48drutennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for controlling the energy balance of a system  for catching, accumulating and transferring solar energy and  a system therefor.  a system for catching, accumulating and transferring  solar energy and a method for controlling said system, in  which the system includes a closed fluid circuit (2) comprising  a soar energy collector (1) and a heat accumulator (4)  adapted to transfer its heat to an energy consuming  apparatus and also includes means (5)(5′) for measuring the  temperature difference between the input and the output of  the solar energy collector and using this temperature difference  to interrupt the fluid flow in said circuit, when the heat  output of said collector exceeds the heat input.  
+</ABSTRACT>
+</TEXT>
+</DOC>

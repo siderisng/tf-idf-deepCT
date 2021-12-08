@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007669
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/467 H01L-31/036 G01J-1/02 H01L-31/0296 H01L-31/18 H01L-21/3065 H01L-31/0248 H01L-27/14 H01L-21/302 H01L-31/0352 H01L-21/465 H01L-31/09 H01L-31/0224 H01L-31/08 <main>H01L-31/02</main> H01L-31/0264 H01L-21/02 H01L-27/144 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+the manufacture of an infra-red detector element, and detector elements so manufactured.
+</TITLE>
+<APPLICANT>
+philips electronic associatedgb  <sep>philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+blackman maurice victor c o ph<sep>jenner michael david<sep>blackman, maurice victor c/o philips electronic<sep>jenner, michael david<sep>blackman, maurice victor c/o philips electronicand ass. ind. ltd. patent dept. mullard housetorrington place london, wc1e 7hdgb<sep>jenner, michael davidc/o philips electronic and ass.industries ltd.torrington place london, wc1e 7hdgb<sep>blackman, maurice victor c/o philips electronic<sep>jenner, michael david<sep>blackman, maurice victor c/o philips electronicand ass. ind. ltd. patent dept. mullard housetorrington place london, wc1e 7hdgb<sep>jenner, michael davidc/o philips electronic and ass.industries ltd.torrington place london, wc1e 7hdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+in the manufacture of an infra-red radiation detector ele­ ment (51) a body of infra-red sensitive material (e. g.  cadmium  mercury telluride) secured to a substrate (22) is subjected to  ion-etching to remove part of the material over the whole  thickness of the element (51) at areas (56) between the contact  areas of the element electrodes (35 and 36b) so as to define a  current path between these electrodes (35 and 36b) which  extends through the remaining material and is longer than the  distance along a straight line between the electrodes (35 and  36b).  this longer current path increases the charge-carrier  transit time and resistance between the electrodes (35 and  36b) so that the responsivity of the detector element (51) can  be improved while still producing a compact element struc­ ture because of the advantages of defining the current path by  ion-etching.  this etch-removal may involve forming parallel  slots (56) which extend from opposite side walls of the ele­ ment (51) to define a meandering current path, and may addi­ tionally be used to form a mutual separation (55) between  portions (51 and 52) of the body each of which is to form a  separate infra-red detector element of an array formed on the  substrate (22).  it is suggested that figure 16 should accompany the abs­ tract when published.  
+</ABSTRACT>
+</TEXT>
+</DOC>

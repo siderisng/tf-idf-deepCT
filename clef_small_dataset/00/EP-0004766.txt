@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004766
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/58 C07J-71/00 C07J-7/00 C07J-5/00 A61K-31/57 C07J-21/00 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+4-halo-pregn-4-enes, their preparation and pharmaceutical use
+</TITLE>
+<APPLICANT>
+syntex incus   <sep>syntex (u.s.a.) inc.<sep>syntex (u.s.a.) inc.3401 hillview avenuepalo alto california 94303us<sep>
+</APPLICANT>
+<INVENTOR>
+alvarez francisco sus<sep>alvarez, francisco s.<sep>alvarez, francisco s.1089 rochester courtsunnyvale california 94087us<sep>
+</INVENTOR>
+<ABSTRACT>
+4-halo-pregn-4-enes of the formula: <chem>  wherein  x<1> is fluoro or chloro;  x<2> is hydrogen, fluoro or chloro;  x<3> is hydrogen, fluoro, chloro or bromo;  x<4> is =c=o or <chem>  or may be  when x<3> is chloro;  r<1> is hydrogen, fluoro, chloro, bromo, hydroxy or methoxy; r<2> is fluoro, chloro, hydroxy or alkanoyloxy of 2 to 6 carbon atoms when r<1> is hydrogen or r<2> is the same as r<1> when r<1> is fluoro, chloro, hydroxy or methoxy; r<3> is hydroxy or alkanoyloxy of 2 to 6 carbon atoms when r<4> is alpha -methyl or  beta -methyl or r<3> and r<4> together are <chem>  and the solid and broken lines between the 1- and 2-positions in the a ring of the steroid nucleus represents a single or a double bond; have topical anti-inflammatory activity in mammals.  they can be prepared by contacting the corresponding  delta <5> compound with a base.  the 17 alpha -alkanoyloxy compound can be prepared by esterifying the corresponding 17 alpha -hydroxy compound. 
+</ABSTRACT>
+</TEXT>
+</DOC>

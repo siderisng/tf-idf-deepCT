@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013568
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-14/62 C07K-1/113 C07K-14/435 C07K-1/00 C07K-14/575 A61P-5/00 A61K-38/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sulfonated insulines and process for their preparation.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+geiger rolf drde<sep>geisen karl drde<sep>neubauer horst drde<sep>regitz guenter dr de <sep>summ hans-dieter drde<sep>geiger, rolf, dr.<sep>geisen, karl, dr.<sep>neubauer, horst, dr.<sep>regitz, guenter, dr.<sep>summ, hans-dieter, dr.<sep>geiger, rolf, dr.heinrich-bleicher-strasse 33d-6000 frankfurt am main 50de<sep>geisen, karl, dr.jahnstrasse 43d-6000 frankfurt am mainde<sep>neubauer, horst, dr.am eichkopf 12d-6240 königstein/taunusde<sep>regitz, günter, dr.dachbergstrasse 68d-6232 bad soden am taunusde<sep>summ, hans-dieter, dr.heimchenweg 48d-6230 frankfurt am main 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+the insulin derivatives have the general formula i   <image> in which x is an alkanoyl or cycloalkanoyl radical which has 2-10 c atoms and carries a sulpho group and which optionally also contains carboxamide, urethane, hydroxyl or carboxyl groups, and are prepared by reacting n< alpha (a1)>, n< epsilon (b29)>-ditert-butyloxycarbonylinsulin with an excess of an activated derivative of a carboxylic acid x-oh, and treating the reaction product with a strong acid. 
+</ABSTRACT>
+</TEXT>
+</DOC>

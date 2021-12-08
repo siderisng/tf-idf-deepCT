@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002578
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-9/18 H04L-9/00 <main>H04L-9/02</main> G09C-1/00 G06F-21/22 H04L-9/08 H04L-9/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data communication method.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+ehrsam william friedrich<sep>elander robert carl<sep>matyas stephen michael<sep>meyer carl heinz wilhelm<sep>powers robert lowell<sep>prentice paul norman<sep>smith john lynn <sep>tuchman walter leonard<sep>ehrsam, william friedrich  <sep>elander, robert carl<sep>matyas, stephen michael<sep>meyer, carl heinz wilhelm<sep>powers, robert lowell<sep>prentice, paul norman<sep>smith, john lynn<sep>tuchman, walter leonard<sep>ehrsam, william friedrich3 park st. rd5kingston new york 12401us<sep>elander, robert carl3210 church rd.saugerties new york 12477us<sep>matyas, stephen michael2 bird lanepoughkeepsie, new york 12603us<sep>meyer, carl heinz wilhelmrt28 rd2 box 223-11kingston new york 12401us<sep>powers, robert lowell12 fieldstone rd.west hurley new york 12491us<sep>prentice, paul norman29 lawrence roadhyde park new york 12538us<sep>smith, john lynn7 holly hill drivewoodstock new york 12498us<sep>tuchman, walter leonard27 whitney drivewoodstock new york 12498us<sep>ehrsam, william friedrich<sep>elander, robert carl<sep>matyas, stephen michael<sep>meyer, carl heinz wilhelm<sep>powers, robert lowell<sep>prentice, paul norman<sep>smith, john lynn<sep>tuchman, walter leonard <sep>ehrsam, william friedrich3 park st. rd5kingston new york 12401us   <sep>elander, robert carl3210 church rd.saugerties new york 12477us<sep>matyas, stephen michael2 bird lanepoughkeepsie, new york 12603us<sep>meyer, carl heinz wilhelmrt28 rd2 box 223-11kingston new york 12401us<sep>powers, robert lowell12 fieldstone rd.west hurley new york 12491us<sep>prentice, paul norman29 lawrence roadhyde park new york 12538us<sep>smith, john lynn7 holly hill drivewoodstock new york 12498us<sep>tuchman, walter leonard27 whitney drivewoodstock new york 12498us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention concerns a data communication method  and network, and in particular establishing communication  security for data transmissions between a remote terminal  and a host system.  an embodiment of the invention includes  a plurality of remote terminals 8, 9 and 10 and a host system  each including respective data security devices 11, x capable  of performing a variety of cryptographic operations.  at  initialization time, a host master key is written into the host  data security device 11 and the host system generates a  series of terminal master keys for the remote terminals.   protection is provided at the host for the terminal master  keys by enciphering them under a variant of the host master  key.  the terminal master keys are then written into the data  security devices x of the respective remote terminals to  permit cryptographic operations to be performed.  when a  communication session is to be established between a  designated remote terminal and the host system, a random  number is generated and defined as a operational key  enciphered under the host master key which permits the  operational key to be used at the host system for enciphering  or deciphering data operations.  the host data security device  11, using the enciphered master key of the designated  remote terminal x, transforms the enciphered operational  key under control of the host master key into a form in which  the operational key is enciphered under the terminal master  key of the designated remote terminal.  the operational key  enciphered under the terminal master key of the designated  remote terminal is transmitted to the remote terminal to  permit the enciphered operational key to be used at the  remote terminal for enciphering or deciphering data operations.  
+</ABSTRACT>
+</TEXT>
+</DOC>

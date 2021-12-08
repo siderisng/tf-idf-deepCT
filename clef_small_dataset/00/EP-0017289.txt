@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017289
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11B-7/24</main> G11B-7/003 G11B-7/24 G11B-7/00 B41M-5/26 G11B-7/0045 G11B-7/243 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical recording device having several ablative recording layers.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+de poorter adriaan wilhelmus<sep>jacobs bernardus antonius joha<sep>zalm pieter<sep>de poorter, adriaan wilhelmus<sep>jacobs, bernardus antonius johannus<sep>zalm, pieter<sep>de poorter, adriaan wilhelmusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>jacobs, bernardus antonius johannusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>zalm, pieterc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>de poorter, adriaan wilhelmus<sep>jacobs, bernardus antonius johannus <sep>zalm, pieter<sep>de poorter, adriaan wilhelmus c/o int. octrooibureau b.v. prof. holstlaan 6 nl-5656 aa eindhoven nl<sep>jacobs, bernardus antonius johannusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>zalm, pieterc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+an optical recording device having a substrate plate  which is provided on at least one side with a first ablative  recording layer and a second ablative recording layer  provided hereon, the second ablative recording layer having  a higher surface energy than the first ablative recording  layer.  both recording layers preferably comprise the same  common metal, for example tellurium.  
+</ABSTRACT>
+</TEXT>
+</DOC>

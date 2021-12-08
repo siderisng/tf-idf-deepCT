@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008596
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/54 C07D-233/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of 4-hydroxymethyl-imidazole derivatives from the corresponding 4-imidazole carboxylic acid esters.
+</TITLE>
+<APPLICANT>
+devinter europ s a sabe<sep>devinter europe s.a. societe anonyme dite:<sep>devinter europe s.a. société anonyme dite:place du champ de mars 2b-1050 bruxellesbe<sep>
+</APPLICANT>
+<INVENTOR>
+bourrely jacques fr<sep>gignier jean pierre fr  <sep>bourrely, jacques<sep>gignier, jean pierre<sep>bourrely, jacques4 avenue du chateauf-92190 meudonfr<sep>gignier, jean pierre4 rue des capucinesf-92190 meudonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the process for preparing derivatives of formula: <image> in which r1, r2 and r3, which are identical or different, are chosen from hydrogen and alkyl radicals containing 1 to 4 carbon atoms, by reduction of the corresponding carboxylic esters, is characterised in that the reducing agent is a product chosen from trialkylaluminiums, alkylaluminium hydrides and alkoxyaluminium hydrides which may or may not contain an alkali metal atom, the said reduction reaction being carried out in a dry inert medium, and in that the product obtained is then hydrolysed with water or a water-alcohol mixture. 
+</ABSTRACT>
+</TEXT>
+</DOC>

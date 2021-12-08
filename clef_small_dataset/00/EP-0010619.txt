@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010619
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B61C-17/08 B61C-17/00 B61C-9/50 <main>B61C-9/50</main> B61C-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric motor-and-gearbox drive unit for railway vehicles such as tramways or the like.
+</TITLE>
+<APPLICANT>
+thyssen industriede<sep>thyssen industrie ag<sep>thyssen industrie agam thyssenhaus 1d-45128 essende<sep>thyssen industrie ag  <sep>
+</APPLICANT>
+<INVENTOR>
+korn gerhard<sep>korn, gerhard<sep>korn, gerhardmarienburger weg 15ad-4330 mülheimde<sep>korn, gerhard<sep>korn, gerhardmarienburger weg 15ad-4330 mülheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an electric motor-gear unit for driving rail vehicles, comprising a driving motor (1) and a reducing gear (28, 29, 36, 38) driven by said motor and acting on one or both wheel sets or directly on the wheels (52), characterized in that the motor armature (2) is supported on the drive shaft (4, 19, 24, 29, 30) of the gear (28, 29, 36, 38) in cantilever fashion and that the drive shaft is running in the gear housing (6, 18, 39, 51) in at least two oil-lubricated bearings (7), with the motor housing (5) and the gear housing (6, 18, 39, 51) being centrally positioned with respect to each other and connected by screws. 
+</ABSTRACT>
+</TEXT>
+</DOC>

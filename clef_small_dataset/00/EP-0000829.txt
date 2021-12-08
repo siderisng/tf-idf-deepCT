@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000829
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/73 H01L-51/42 H01L-29/28 <main>H01L-31/06</main> C09B-5/00 H01L-51/05 G03G-5/06 H01L-51/30 H01L-29/66 C09B-5/62 H01L-21/02 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photovoltaic elements.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+tang ching wan<sep>tang, ching wan<sep>tang, ching wan138 falmouth streetrochester new yorkus<sep>tang, ching wan<sep>tang, ching wan138 falmouth streetrochester new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+photovoltaic elements having improved conversion  efficiencies comprise a photovoltaic element which comprises   (1) a first layer comprising an organic electron donor  compound, in contact with   (2) a second layer comprising an organic electron acceptor  compound,   said layers forming a rectifying junction between them and at  least one of said layers being capable of absorbing radiation  at wavelengths between 350 and 1000 nm, and   (3) an electrode in operative ohmic contact with each of  said layers, at least one of said electrodes being  transparent to electromagnetic radiation to which the  photo-voltaic element is sensitive,   wherein the organic compound of each of layers (1) and (2)  has a molecule having a planar polycyclic nucleus and  wherein the combined thickness of the electron donor compound  layer or layers and the electron acceptor compound  layer or layers is no greater than 0. 5 micron.  
+</ABSTRACT>
+</TEXT>
+</DOC>

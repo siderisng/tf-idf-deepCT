@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001233
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-71/42 <main>B01D-13/04</main> B01D-71/00 B01D-71/44 C08F-220/44 B01D-71/40 C08F-220/00 C08F-220/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semi-permeable membranes from acrylonitrile copolymers and their application.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+bentz francis dr<sep>elfert klaus dr<sep>rosenkranz hans jurgen dr<sep>wolf gerhard dieter dr<sep>bentz, francis, dr.<sep>elfert, klaus, dr.<sep>rosenkranz, hans jurgen, dr.<sep>wolf, gerhard dieter, dr.<sep>bentz, francis, dr.helenenstrasse 9d-5000 kölnde<sep>elfert, klaus, dr.breslauer strasse 31d-4150 krefeldde<sep>rosenkranz, hans jürgen, dr.heinrich-kauert-weg 9d-4150 krefeldde<sep>wolf, gerhard dieter, dr.wilhelm-busch-strasse 29d-4047 dormagen 5de<sep>bentz, francis, dr. <sep>elfert, klaus, dr.<sep>rosenkranz, hans jurgen, dr.  <sep>wolf, gerhard dieter, dr.<sep>bentz, francis, dr.helenenstrasse 9d-5000 kölnde<sep>elfert, klaus, dr.breslauer strasse 31d-4150 krefeldde<sep>rosenkranz, hans jürgen, dr.heinrich-kauert-weg 9d-4150 krefeldde<sep>wolf, gerhard dieter, dr.wilhelm-busch-strasse 29d-4047 dormagen 5de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to semipermeable membranes of copolymers consisting of copolymerized units of a) 99-50 wt.-% acrylonitrile b) 1 to 50 wt.-% of an acrylonitrile copolymerizable ethylenically unsaturated monomers containing one or two disulfide moieties, and C) optionally further olefinically unsaturated with acrylonitrile copolymerizable monomers or mixtures thereof.The semipermeable membranes are used in reverse osmosis and ultrafiltration and are characterized by a water permeability and a low partition limit.
+</ABSTRACT>
+</TEXT>
+</DOC>

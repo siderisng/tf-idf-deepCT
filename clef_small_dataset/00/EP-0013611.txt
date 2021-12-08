@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013611
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-27/46</main> A61B-5/00 G01N-27/404 G01N-27/403 A61B-5/14 G01N-27/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochemical sensing apparatus.
+</TITLE>
+<APPLICANT>
+mcneilab incus<sep>mcneilab, inc.<sep>mcneilab, inc.camp hill roadfort washington pennsylvania 19034us<sep>mcneilab, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+tamura paul satoru<sep>tamura, paul satoru<sep>tamura, paul satoru21 bear paw apt. 22cirvine, california 92714us<sep>tamura, paul satoru<sep>tamura, paul satoru21 bear paw apt. 22cirvine, california 92714us<sep>
+</INVENTOR>
+<ABSTRACT>
+a disposable gas sensor, such as for monitoring po₂ in  blood or administered gases, includes a housing (101), a pas­ sageway (102) therein for blood or gas, a membrane-anode-­ cathode polarographic assembly (105, 106, 107), and a temp­ erature sensing element (119, 121).  the temperature sensing  element penetrates the housing and includes a removable  thermistor (121), which is matable with the housing for ther­ mal contact with a metallic element (119), and which in turn is  in direct contact with the fluid being monitored.  
+</ABSTRACT>
+</TEXT>
+</DOC>

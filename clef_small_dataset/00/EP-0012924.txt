@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012924
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-29/151 C07C-31/04 C07C-31/00 C07C-29/158 B01J-38/48 C07C-29/15 C07C-29/00 B01J-38/02 C07C-31/18 B01J-38/00 B01J-31/40 C07C-67/00 C07C-31/20 C07C-27/06 C07B-61/00 C07C-27/00 <main>C07C-29/15</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rhodium catalyst regeneration by thermal treatment.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation<sep>
+</APPLICANT>
+<INVENTOR>
+beisner robert william<sep>winans stephen carl<sep>beisner, robert william<sep>winans, stephen carl<sep>beisner, robert william1377 nottingham roadcharleston west virginiaus<sep>winans, stephen carl1008 knob waysouth charleston west virginiaus<sep>beisner, robert william<sep>winans, stephen carl<sep>beisner, robert william1377 nottingham roadcharleston west virginiaus<sep>winans, stephen carl1008 knob waysouth charleston west virginiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to the continuous production of  alkane polyols by the reaction of hydrogen and oxides of  carbon in a homogeneous liquid phase mixture containing a  rhodium carbonyl complex catalyst wherein the improve­ ment comprises periodically lowering the temperature of the  liquid phase mixture and thereafter raising it to about its  former value.  
+</ABSTRACT>
+</TEXT>
+</DOC>

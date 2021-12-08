@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004245
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-29/02 H01J-31/20 H01J-31/10 H01J-29/07 <main>H01J-29/07</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+shadow-mask tube for colour television.
+</TITLE>
+<APPLICANT>
+videocolor safr<sep>videocolor societe anonyme<sep>videocolor7, boulevard romain-rolland92128 montrougefr<sep>videocolor societe anonyme <sep>
+</APPLICANT>
+<INVENTOR>
+cormio ignazio<sep>cormio, ignazio<sep>cormio, ignaziovia pian disco', 9/asromeit<sep>cormio, ignazio <sep>cormio, ignaziovia pian disco', 9/asromeit<sep>
+</INVENTOR>
+<ABSTRACT>
+The peripheral edge (3a) of the mask is attached to a frame (6) attached to the slab of the television tube and is in contact with this frame only in areas spaced from each other.To minimize the disadvantages resulting from a mask temperature elevation, the frame has bosses to ensure its contact, in areas of reduced section spaced from each other, with the mask edge.These contact areas are found at the internal periphery of the frame.
+</ABSTRACT>
+</TEXT>
+</DOC>

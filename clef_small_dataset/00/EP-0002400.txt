@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002400
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-513/00 A61P-25/00 C07D-513/04 A61K-31/425 A61K-31/505 A61P-25/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thiazole derivatives, their preparation, intermediates and their use in therapeutics.
+</TITLE>
+<APPLICANT>
+synthelabofr <sep>synthelabo<sep>synthelabo 22, avenue galilée f-92350 le plessis robinsonfr<sep>
+</APPLICANT>
+<INVENTOR>
+bigg dennis claudefr<sep>bigg, dennis claude<sep>bigg, dennis claude24, rue curief-34590 marsillarguesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+thiazole derivatives corresponding to the formula (i) <image>  in which  n is 1 or 2,  y denotes o, s or so2, and ar is a phenyl radical, naphthyl radical or phenyl radical carrying one or more substituents chosen from the group comprising halogen atoms, no2, cf3, and phenyl, alkyl, alkoxy, alkylthio, hydroxyalkyl, alkenyl, acyl, benzoyl and benzyloxy radicals, endowed with a psychotropic activity.  these derivatives are prepared by reaction between a compound of formula: <image> and a compound aryh. 
+</ABSTRACT>
+</TEXT>
+</DOC>

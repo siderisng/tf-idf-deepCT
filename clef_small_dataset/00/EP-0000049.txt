@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000049
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03D-7/00</main> G03D-7/00 G03C-5/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device for the dry development of a two-component diazotype material.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am main de  <sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+blume erich<sep>schornig eberhard<sep>blume, erich<sep>schornig, eberhard<sep>blume, erichjosef-brix-strasse 11d-6200 wiesbadende<sep>schörnig, eberhardrömerstrasse 9d-6204 taunusstein-orlende<sep>blume, erich  <sep>schornig, eberhard <sep>blume, erichjosef-brix-strasse 11d-6200 wiesbadende<sep>schörnig, eberhardrömerstrasse 9d-6204 taunusstein-orlende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the dry development of two-component diazotype copying material, especially of microfilm duplicating film on a polyester basis, which can not be developed by the mere application of heat, and is developed by passing it at a temperature between about 105 and 120 degrees c and a predetermined pressure, preferably atmospheric pressure, through a developer gas atmosphere which substantially comprises a tensionally unsaturated ammonia gas/water vapor mixture containing from 3 to 25 per cent by weight of ammonia, the process being characterized in that, prior to entering the developer gas atmosphere, the diazotype copying material passes through a predeveloping atmosphere which has a temperature between 100 and 110 degrees c and an ammonia concentration amounting to 20 to 80 per cent of the ammonia concentration of the developer gas atmosphere. 
+</ABSTRACT>
+</TEXT>
+</DOC>

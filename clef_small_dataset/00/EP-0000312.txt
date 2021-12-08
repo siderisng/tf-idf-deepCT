@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000312
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05D-16/00 <main>G05D-16/00</main> A62B-17/00 A62B-7/14 B64D-10/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device to afford respiration and protection against acceleration in combat aircraft.
+</TITLE>
+<APPLICANT>
+intertechnique safr<sep>intertechnique (societe anonyme)<sep>intertechnique (société anonyme)boíte postale 1f-78374 plaisirfr<sep>intertechnique (societe anonyme) <sep>
+</APPLICANT>
+<INVENTOR>
+beaussant raymond<sep>claude jacques<sep>beaussant, raymond<sep>claude, jacques<sep>beaussant, raymond4, cité pasteurf-91220 bretignyfr<sep>claude, jacques32, avenue de la républiquef-94260 fresnesfr<sep>beaussant, raymond <sep>claude, jacques  <sep>beaussant, raymond4, cité pasteurf-91220 bretignyfr<sep>claude, jacques32, avenue de la républiquef-94260 fresnesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Respiratory installation and acceleration protection for combat addicts.Anti-G controller controlling the gas pressure in the pockets of a protection against acceleration.The detection member is constituted by a massel (20) displacing according to the direction of acceleration and establishing in the pockets a pressure increasing function of the acceleration.means (26) establish in the pockets a pressure that increases with the altitude.
+</ABSTRACT>
+</TEXT>
+</DOC>

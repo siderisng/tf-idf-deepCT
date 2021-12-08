@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004736
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03G-15/01</main> G03G-15/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an apparatus for line-to-line recording of different color component images.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us  <sep>xerox corporation <sep>
+</APPLICANT>
+<INVENTOR>
+damouth david e<sep>mott george r<sep>stange klaus k<sep>damouth, david e.<sep>mott, george r.<sep>stange, klaus k.<sep>damouth, david e.1196 clover streetrochester new york 14610us<sep>mott, george r.113 shirewood driverochester new york 14625us<sep>stange, klaus k.121 kirkless roadpittsford new york 14534us<sep>damouth, david e. <sep>mott, george r.  <sep>stange, klaus k.<sep>damouth, david e.1196 clover streetrochester new york 14610us<sep>mott, george r.113 shirewood driverochester new york 14625us<sep>stange, klaus k.121 kirkless roadpittsford new york 14534us<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for line-to-line recording of different color  component images.  four separate xerographic type processing  units (111, 112, 113, 114), one for each of the primary  colors plus black, are arranged in close nested relationship to  one another with image transfer stations (68, 69, 70, 71) in  close succession along the path of movement of the copy  sheets (12).  a combination air flotation type (35) and vacuum  based belt transport system (55) is used to move the copy  sheets (12) from supply tray (27) successively past the  processing units.  exposure is simultaneous.  a precise  dimensional relationship between the length (l) and spacing  (d) of each photoreceptor belt (110) assures registration of  the color images with one another.  the length of each photoreceptor belt (110) is the same.   vacuum tensioning means (122) provides the preset dimensional  relationship (l, d) between each photoreceptor belt  (110).  plural flying spot beams (261′, 262′, 263′, 264′) derived  from laser (222) provide simultaneous exposure of each  photoreceptor belt.  
+</ABSTRACT>
+</TEXT>
+</DOC>

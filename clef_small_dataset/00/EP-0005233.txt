@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005233
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-31/02 C07F-9/53 C07C-241/00 <main>C07C-119/055</main> C07C-267/00 C08G-18/78 B01J-31/06 C07C-265/00 C08G-18/02 C08G-18/79 C07C-265/12 C07C-67/00 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of liquid, storage-stable, partly carbodiimidated diisocyanate diphenyl methane and its application as isocyanate component in the isocyanate-polyaddition process.
+</TITLE>
+<APPLICANT>
+mobay chemical corpus<sep>mobay chemical corporation<sep>mobay chemical corporationpenn lincoln parkway westpittsburgh, pennsylvania 15205us<sep>mobay chemical corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+slack william e<sep>sundermann rudolf dr<sep>slack, william e.<sep>sundermann, rudolf, dr.<sep>slack, william e.2805 glenwood avenuemoudsville, wv 26041us<sep>sundermann, rudolf, dr.treptower-strasse 5d-5090 leverkusende<sep>slack, william e.<sep>sundermann, rudolf, dr.<sep>slack, william e.2805 glenwood avenuemoudsville, wv 26041us<sep>sundermann, rudolf, dr.treptower-strasse 5d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for producing liquid, storage-stable methylene bis (phenylisocyanate) in which methylene bis (phenyl isocyanate) in the presence of 1 ppb to 10 ppm of a phospholine oxide heated to 150 to 300 ° C andAfter reaching the desired isocyanate content, the reaction mixture cools to 100 ° C or lower temperature, the methylene bis (phenylisocyanate) obtainable according to this method and its use as an isocyanate component in carrying out the isocyanate polyaddition method.
+</ABSTRACT>
+</TEXT>
+</DOC>

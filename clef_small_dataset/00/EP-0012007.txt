@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012007
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05D-23/24 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic temperature compensated boiler thermostat.
+</TITLE>
+<APPLICANT>
+carco accessoriesgb  <sep>carco accessories limited<sep>carco accessories limitedacre housekilsyth glasgow g65 opt., scotlandgb<sep>
+</APPLICANT>
+<INVENTOR>
+johnstone frankgb<sep>johnstone, frank<sep>johnstone, frank5 mallaig placeglasgow s.w.1 scotlandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a control apparatus for a fuel fired central heating boiler  has a first temperature control circuit (17) including a first  thermistor (th2) for sensing external ambient temperature  and a second thermistor (th3) for sensing the temperature of  the circulating water produced by the boiler.  a second temperature  control circuit (16) has a thermistor (th1) for sensing  the temperature in the space to be heated.  a relay (rl1) is  operated by the outputs of the first (17) and second (16) control  circuits and itself controls the boiler.  the first and second  thermistors (th2, th3) are connected in series and have different  resistance/temperature characteristics so that a given  change in the external ambient temperature corresponds to a  greater change in the temperature of the circulating water.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003917
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of and apparatus for determining the capacity of a storage battery.
+</TITLE>
+<APPLICANT>
+anderson power products us<sep>anderson power products inc.<sep>anderson power products inc.145, newton streetboston massachusetts 02135us<sep>
+</APPLICANT>
+<INVENTOR>
+eby richard lus<sep>eby, richard l.<sep>eby, richard l.26, frisbie roadmarshfield massachusetts 02050us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for determining the capacity of  lead acid storage batteries are disclosed.  the battery's initial  open circuit voltage is stored in a settable memory (42).   thereafter, the open circuit voltage values of the battery  throughout the discharge period are determined by measuring  loaded voltages with reference to the stored open circuit  voltages to detect the discharge rates.  the rates of discharge  are used to reset the stored value of the initial open circuit  voltage measurement thereby producing a moving reference.   the memory output value is a function of the capacity  of the battery.  during the charge period, the charge voltages  are measured with reference to the stored open circuit voltages  to detect the charge rates.  the rates of charge are used  to reset the stored value of an initial open circuit voltage  measurement.  again, the memory output value is a function  of the capacity of the battery.  
+</ABSTRACT>
+</TEXT>
+</DOC>

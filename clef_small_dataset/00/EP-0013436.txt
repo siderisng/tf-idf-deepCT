@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013436
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-27/00 C07C-37/00 C07C-37/11 B01J-31/00 C07C-37/50 C07C-39/15 <main>C07C-39/15</main> C07C-67/00 C07C-39/00 B01J-23/00 C07B-61/00 C07C-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing p,p'-biphenol of high purity.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation <sep>
+</APPLICANT>
+<INVENTOR>
+cardenas jorge nicanor<sep>reichle walter thomas<sep>cardenas, jorge nicanor<sep>reichle, walter thomas<sep>cardenas, jorge nicanor574 auten roadsomerville new jerseyus<sep>reichle, walter thomas158 mountain avenuewarren new jerseyus<sep>cardenas, jorge nicanor<sep>reichle, walter thomas<sep>cardenas, jorge nicanor574 auten roadsomerville new jerseyus<sep>reichle, walter thomas158 mountain avenuewarren new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for producing p,p′-biphenol which comprises  heating a 4,4′-bis(substituted phenol) at elevated tempera­ tures below the decomposition termperature of p,p′-biphenol  in the absence of a catalyst under an inert non-reactive  atmosphere for the length of time sufficien to obtain a reac­ tion product containing a substantial amount of p,p′-biphenol  while removing the olefin by-product formed and then recov­ ering the p,p′-biphenol product.  the 4,4′-bis (substituted phenol) is made by oxidative  coupling of a phenol having the formula    wherein   r₁ and r₂ may be the same or different and is a member  selected from the group consisting of alkyl radicals containing  from 2 to 10 carbon atoms, aralkyl radicals containing from 8  to 10 carbon atoms and having a β alkyl carbon - hydrogen  group, and cyclic alkyl radicals having a β alkyl carbon -  hydrogen group with oxygen or an oxygen containing gas in  the presence of a catalytic quantity of a catalyst selected from  the group consisting of alkali metal hydroxides, alkali metal  salts of a weak acid, alkaline earth metal hydroxides, alkaline  earth metal salts of a weak acid, amine bases, and mixtures of  the same at an elevated temperature for the time necessary to  react up to a stoichiometric amount of oxygen with said  phenol to form a reaction product containing a substantial  amount of 4,4′-bis(2,6,-disubstitutedphenol).  
+</ABSTRACT>
+</TEXT>
+</DOC>

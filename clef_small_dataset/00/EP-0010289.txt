@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010289
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10L-9/06 C10L-9/00 C10L-9/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mild oxidative coal desulfurization.
+</TITLE>
+<APPLICANT>
+union carbide corpus <sep>union carbide corporation<sep>union carbide corporation 39 old ridgebury road danbury connecticut 06817 us<sep>
+</APPLICANT>
+<INVENTOR>
+wilson stephen thomasus<sep>wilson, stephen thomas<sep>wilson, stephen thomas1024 east main streetshrub oak, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the removal of pyrite from coal which com­ prises preparing an aqueous slurry containing finely-divided  coal particles; adding to the slurry an hydroxide or carbonate  of an alkali or alkaline earth metal selected from the group  consisting of sodium, lithium, potassium and magnesium, as  well as mixtures of these hydroxides and carbonates, in  amounts sufficient to continuously maintain the ph of the  slurry between about 8 and 12; and then agitating the slurry  while treating the slurry with oxygen or an oxygen-containing  gas.  
+</ABSTRACT>
+<DESCRIPTION>
+the present invention relates to a process for the removal of pyritic sulfur from coal. the present energy crisis has produced both economic and governmental incentives to use more coal as fuel to replace oil and gas imported in ever increasing amounts . counterbalancing these incentives are governmental regulations which establish a permissable level of pollutants from the combustion of these fuels. one of the major pollutants is sulfur dioxide. unfortunately, most of the coal reserves in this country contain sulfur in amounts which are too excessive to burn in compliance with existing law. major consumers of coal, such as electric utilities, have two alternatives to follow, namely they can buy low sulfur content coal or use flue gas desulfurization to remove sulfur dioxide after combustion. the first alternative would be most feasible if sulfur could be removed from the coal using methods whieh are both practical and economical. most coals which are available for use in this country contain sulfur in several different forms, i.e., sulfate sulfur, organic sulfur and pyritic sulfur. the organic sulfur is chemically bonded wijbi the organic molecular framework of the coal while the pyritic sulfur consists of sulfur in the form of iron pyrite, which@is disseminated as a separate mineral phase throughout the body of the coal. in general, sulfate sulfur constitutes a minor fraction of the sulfur content in coals, i.e. less than about 0.2 weight % of the coal. the organic sulfur and pyritic sulfur constitute a major fraction of sulfur in the coal and together they constitute up to about 5 - 8 weight % of the coal. the pyritic sulfur constitutes between about 40-60% of the total sulfur content in the coal. therefore, the removal of the pyritic sulfur alone can significantly reduce the sulfur content and, therefore, the sulfur emissions which occur upon combustion of coal. the pyritic sulfur exists as a distinct phase within the body of the coal. it is therefore possible to liberate the pyrite from the coal physically and by means of chemical techniques to remove the liberated pyrite from the coal, without altering in any significant waythe properties of the coal. it is generally known that pyritic sulfur can be removed from coal by chemical oxidation to a spites which is soluble in water. such processes are preferably carried out by employing a basic solution as the reaction medium. for example, in u.s. pat.-no. 3,960,513 to j. c. agarwal et al, an aqueous slurry containing crushed coal is treated with ammonium hydroxide in the presence of oxygen. the pyritic sulfur in the coal is converted to a soluble @pecies, e.g. ger@ic or f@rro@@ @@@f@@@, @@ong with ammonium sulfate as a by-product. the soluble sulfate may be removed by a conventional solids-liquid separation. ammonium sulfate may then be recycled to generate additional ammonium hydroxide. despite this advantage, however, the process is best carried out by employing both elevated temperatures and pressures, (e.g. about 300 psig). this of course necessitates the use of expensive equipment which
+</DESCRIPTION>
+<CLAIMS>
+what is claimed is:    1. a process for the removal   c      pyr@@e      rr'±n      -oa1-    which comprises preparing an aqueous slurry containing   finely-divided    coal particles; adding to the slurry an hydroxide or carbonate of an alkali or alkaline earth metal selected from the group consisting of sodium, lithium, potassium and magnesium, as well as mixtures of said hydroxides and carbonates, in amounts sufficient to continuously maintain the ph of the slurry between about 8 and 12; and then agitating the slurry while treating the slurry with oxygen or an oxygen-containing gas.     2. the process as defined by claim 1 wherein the ph of the coal slurry is continuously maintained at a value of about 10 or 11.    3. the process as defined by claim 2 wherein the ph of the coal slurry is maintained by the addition of sodium hydroxide.    4. the process as defined by claim 2 wherein the ph of the coal slurry is maintained by the addition of a mixture of sodium hydroxide and sodium carbonate.    5. the process as defined by claim 1 wherein the temperature of   coal    slurry is maintained in a range of between about 40 and 700c.    6. the process as defined by claim 5 wherein  the treatment of the slurry with oxygen or oxygencontaining gas is carried out at substantially atmospheric pressure.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014048
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-1/16 G11B-3/02 G11B-3/18 G11B-3/00 <main>G11B-3/18</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phonograph.
+</TITLE>
+<APPLICANT>
+cranfield inst of techgb<sep>cranfield institute of technology <sep>cranfield institute of technologycranfield, bedford mk43 0algb   <sep>cranfield institute of technology<sep>
+</APPLICANT>
+<INVENTOR>
+dinsdale jack<sep>hardwick john patrick<sep>parkins david walter<sep>dinsdale, jack<sep>hardwick, john patrick<sep>parkins, david walter<sep>dinsdale, jackcherry trees 10 the causewaycarlton, bedford, mk43 7ltgb<sep>hardwick, john patrick60 smethurst lanebolton, lancashire, bl3 3qegb<sep>parkins, david walter19 furzefieldbedfordgb<sep>dinsdale, jack<sep>hardwick, john patrick<sep>parkins, david walter <sep>dinsdale, jack cherry trees 10 the causeway carlton, bedford, mk43 7ltgb<sep>hardwick, john patrick60 smethurst lanebolton, lancashire, bl3 3qegb<sep>parkins, david walter19 furzefieldbedfordgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a phonograph comprising means for damping un­ wanted horizontal and vertical vibrations of a pick-up cart­ ridge (3) on an arm (1).  the damping means comprises a  paddle (10) moving in a trough (11) of viscous fluid.  the  paddle is fixed to the arm (1) near the pick-up cartridge  (3).  the trough (11) is fixed during use to extend with  clearance above a record surface.  the damping means thus acts to damp the pick-up  cartridge, giving relatively low damping below 5 hz, mode­ rate damping between 5 hz and 20 hz and high damping  above 20 hz.  the resonance frequency between arm and stylus can  be adjusted to be too high to be initiated by warps and too  low to fall within the audio bandwidth, by using a counter­ balance mass (7) comprising a plurality of individually re­ movable interfitting annular rings.  known phonograph damping, acting far from the pick-­ up cartridge, is subject to more complex vibration modes,  e. g.  torsional vibrations of the arm, at high frequencies.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002948
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>E05B-49/00</main> E05B-49/00 E05B-65/20 B60R-25/00 G07C-9/00 E05B-49/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+keyless locking and entry system.
+</TITLE>
+<APPLICANT>
+ford francegb<sep>ford motor cogb<sep>ford werke aggb<sep>ford france societe anonyme<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company limited<sep>ford-werke aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+harman ted lewis<sep>haygood juan charles<sep>harman, ted lewis<sep>haygood, juan charles<sep>harman, ted lewis920 south highlanddearborn michigan 48124us<sep>haygood, juan charles4731 lovettdetroit michigan 48210us<sep>harman, ted lewis <sep>haygood, juan charles  <sep>harman, ted lewis920 south highlanddearborn michigan 48124us<sep>haygood, juan charles4731 lovettdetroit michigan 48210us<sep>
+</INVENTOR>
+<ABSTRACT>
+a keyless locking and entry system for an automotive  vehicle permits a plurality of operations to be achieved  from outside the vehicle by one who is knowledgeable of  predetermined digital codes.  functions such as unlocking  the doors of the vehicle, opening the rear deck lid, opening  a roof window, lowering the windows or programming  the system with a user preferred digital access code are  all performed by proper sequential operation of a digital  keyboard mounted on the outside of the vehicle.  
+</ABSTRACT>
+</TEXT>
+</DOC>

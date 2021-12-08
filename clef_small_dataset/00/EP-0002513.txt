@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002513
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C04B-26/00 C08G-18/10 C04B-26/16 C08G-18/30 C08K-3/00 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of composite bodies.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 38 67063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+chakrabarti sarbananda de<sep>mueller gerhard drde<sep>volkert otto drde<sep>chakrabarti, sarbananda<sep>mueller, gerhard, dr.<sep>volkert, otto, dr.<sep>chakrabarti, sarbanandabrüsseler ring 45d-6700 ludwigshafende<sep>müller, gerhard, dr.benderstrasse 29d-8000 münchen 60de<sep>volkert, otto, dr.im eiertal 10d-6719 weisenheim/bergde<sep>
+</INVENTOR>
+<ABSTRACT>
+the process involves curing a mixture of granular solid particles and isocyanate group-containing binders in the presence of aqueous solutions of metal salts from the first or second main group of the periodic table, and ammonium salts. 
+</ABSTRACT>
+</TEXT>
+</DOC>

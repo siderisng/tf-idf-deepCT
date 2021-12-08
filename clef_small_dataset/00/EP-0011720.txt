@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011720
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-3/72 H04M-19/00 H04B-3/32 H04B-3/02 H04B-1/10 H04Q-3/00 H04M-3/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuitry for suppressing the influence of interfering voltages at the evaluation of the condition of a signal on transmission lines, particularly on subscriber lines in telephone installations.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+dalhof axelde<sep>lechner robert dipl-ingde<sep>dalhof, axel<sep>lechner, robert, dipl.-ing.<sep>dalhof, axelahornstrasse 7d-8031 puchheimde<sep>lechner, robert, dipl.-ing.haidfeldstrasse 5d-8256 otterfingde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a circuit arrangement for suppressing the DC power signal to be evaluated by undesirable influence on a periodic or non-periodic interference voltage supply to DC-feeding two-wire transmission lines, in particular for the in the subscriber circuit of the switching point via symmetrical branches (R1, R2) and with respect to the loop state standardsReviewed subscriber lines in telecommunications.By coupling to suitable circuit points (MP, T1, minus pole battery) of the subscriber circuit is separated by means of a differential amplifier (OP1, the superimposed interference signal is separated and supplied to the input of another DIF ferment amplifier (OP2). At the other a gear is the original troubleshooting Sleine Fensignal, At its output, the noise signal signaling the assignment state is formed.
+</ABSTRACT>
+</TEXT>
+</DOC>

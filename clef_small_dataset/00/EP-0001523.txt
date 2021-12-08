@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001523
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-23/04 G21K-1/02 A61B-6/06 G01N-23/02 G21K-1/04 <main>A61B-6/02</main> A61B-6/03 G21K-1/10 A61B-6/00 G01N-23/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for axial transverse tomography.
+</TITLE>
+<APPLICANT>
+radiologie cie glefr<sep>compagnie generale de radiologie<sep>compagnie generale de radiologie13 square max-hymansf-75741 paris cedex 15fr<sep>compagnie generale de radiologie<sep>
+</APPLICANT>
+<INVENTOR>
+d haenens jean-pierre<sep>d'haenens, jean-pierre<sep>d'haenens, jean-pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>d'haenens, jean-pierre<sep>d'haenens, jean-pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  method for axial transverse tomography in which a radiation source (1) emits one or more fan-shaped beams (2) obtained with the aid of a primary collimator (4, 5) against a body (3) to be investigated and the transmitted rays are then captured through a first row of secondary collimators (7) of large aperture by a plurality of detectors (8) which form a second row, characterized in that, for obtaining in certain cases an image of a section of the body (3) with increased spatial resolution between the radiation source (1) and the body (3) a removable primary grating (9) is inserted which is provided with slots (10) which each allow to pass a fine beam having a width which is smaller than the width defined by the apertures of the primary collimator and/or the secondary collimators (7) and that, for obtaining in other cases an image with increased density resolution, the removable grating (9) is taken out of the trajectory of the fan-shaped beam or beams (2). 
+</ABSTRACT>
+</TEXT>
+</DOC>

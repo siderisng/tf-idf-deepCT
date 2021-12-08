@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013173
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/04 H01L-21/822 H01L-29/94 H01L-27/06 H01L-27/07 <main>H01L-27/01</main> H01L-29/66 H01L-21/02 H01G-4/40 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monolithic distributed resistor-capacitor device utilizing polycrystalline semiconductor material.
+</TITLE>
+<APPLICANT>
+univ leland stanford juniorus<sep>the board of trustees of the leland stanford junior university<sep>the board of trustees of the leland stanford junior universityencina 105 stanford universitystanford california 94305us<sep>the board of trustees of the leland stanford junior university<sep>
+</APPLICANT>
+<INVENTOR>
+gerzberg levy<sep>meindl james d<sep>gerzberg, levy<sep>meindl, james d.<sep>gerzberg, levy88 roosevelt circlepalo alto california 94306us<sep>meindl, james d.1250 montclaire waylos altos california 94022us<sep>gerzberg, levy<sep>meindl, james d.<sep>gerzberg, levy88 roosevelt circlepalo alto california 94306us<sep>meindl, james d.1250 montclaire waylos altos california 94022us<sep>
+</INVENTOR>
+<ABSTRACT>
+a distributed resistor-capacitor device which is highly  reproducible with near ideal electrical characteristics com­ prises a doped semiconductor body forming a substrate (10),  an insulating layer (12) on a major surface of the substrate,  and a doped polycrystalline semiconductor material (14) on  the insulating layer.  the polycrystalline layer (14) is the resis­ tor and cooperates with the substrate as the capacitor.  fabri­ cation of the device is compatible with integrated circuit fabri­ cation and can be used with field-effect and bi-polar junction  transistors.  the body may comprise a single crystalline silicon  substrate with the layer (12) comprising silicon oxide.  the  semiconductor material (14) may be polycrystailine silicon.  
+</ABSTRACT>
+</TEXT>
+</DOC>

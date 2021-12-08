@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004340
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04K-1/00</main> H04K-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pseudorandom generation of orthogonal matrixes for scrambling purposes.
+</TITLE>
+<APPLICANT>
+tekade felten & guilleaumede<sep>te ka de felten & guilleaume fernmeldeanlagen gmbh<sep>felten &amp; guilleaume fernmeldeanlagen gmbhthurn-und-taxis-strasse 10 postfach 4943d-8500 nürnberg 10de<sep>te ka de felten & guilleaume fernmeldeanlagen gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+robra jorg dr dr-ing<sep>robra, jorg, dr. dr.-ing.<sep>robra, jörg, dr. dr.-ing.hallerstrasse 7d-8501 heroldsbergde<sep>robra, jorg, dr. dr.-ing. <sep>robra, jörg, dr. dr.-ing.hallerstrasse 7d-8501 heroldsbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  pseudo random generation of orthogonal number matrices for scrambling purposes, which is characterized in that another orthoganol number matrix is generated from an orthogonal number matrix already used for the scrambling, by a pseudo random permutation of its rows or columns. 
+</ABSTRACT>
+</TEXT>
+</DOC>

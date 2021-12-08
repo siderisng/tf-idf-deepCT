@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010670
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-13/06 C08G-18/66 <main>C09D-5/40</main> C09D-175/08 C08G-18/65 C09D-5/44 C08G-18/80 C08G-18/08 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing cathodically depositable electro-dipping varnish binding agents.
+</TITLE>
+<APPLICANT>
+basf agde <sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+gulbins erich dr dipl-chem<sep>kempter fritz erdmann dr dipl-<sep>schupp eberhard dr dipl-chem<sep>gulbins, erich, dr. dipl.-chem.<sep>kempter, fritz erdmann, dr. dipl.-chem.<sep>schupp, eberhard, dr. dipl.-chem.<sep>gulbins, erich, dr. dipl.-chem.ladenburger strasse 80d-6900 heidelberg-neuenheimde<sep>kempter, fritz erdmann, dr. dipl.-chem.l 2,14d-6800 mannheimde<sep>schupp, eberhard, dr. dipl.-chem.tilsiter weg 4d-6830 schwetzingende<sep>gulbins, erich, dr. dipl.-chem.  <sep>kempter, fritz erdmann, dr. dipl.-chem. <sep>schupp, eberhard, dr. dipl.-chem.<sep>gulbins, erich, dr. dipl.-chem.ladenburger strasse 80d-6900 heidelberg-neuenheimde<sep>kempter, fritz erdmann, dr. dipl.-chem.l 2,14d-6800 mannheimde<sep>schupp, eberhard, dr. dipl.-chem.tilsiter weg 4d-6830 schwetzingende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for the preparation of self-crosslinking cathodically deposited electro dip coating binders by reacting given polyether polyols containing solid-capped diisocyanates or partially capped poly isocyanates, wherein the capped isocyanate moieties containing reaction products (A) are reacted with a poly amine (b),The fact that at least one amino group of the polyamine (B) is formed with a capped isocyanate group of the reaction product (a) a urea group, and the self-crosslinking region of (a) and (b) is converted in a conventional manner by protonation with an acid in water-dilutable shape.The electrochemical paint binders prepared according to the invention are suitable for the cathodic electro dipping coating of metal parts.
+</ABSTRACT>
+</TEXT>
+</DOC>

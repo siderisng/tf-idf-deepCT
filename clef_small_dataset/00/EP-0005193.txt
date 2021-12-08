@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005193
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08J-5/20 <main>B01D-13/04</main> B01D-71/00 C08J-5/22 B01D-71/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+asymmetric cellulose hydrate-based ultrafiltration membranes and method for the fabrication thereof.
+</TITLE>
+<APPLICANT>
+sartorius gmbhde<sep>sartorius gmbh.<sep>sartorius gmbh.weender landstrasse 94-108d-3400 göttingende<sep>sartorius gmbh.<sep>
+</APPLICANT>
+<INVENTOR>
+nussbaumer dietmar dr<sep>perl horst dr<sep>nussbaumer, dietmar, dr.<sep>perl, horst, dr.<sep>nussbaumer, dietmar, dr.am kalten börn 39d-3400 göttingende<sep>perl, horst, dr.planckstrasse 8d-3400 göttingende<sep>nussbaumer, dietmar, dr.<sep>perl, horst, dr. <sep>nussbaumer, dietmar, dr. am kalten börn 39 d-3400 göttingende<sep>perl, horst, dr.planckstrasse 8d-3400 göttingende<sep>
+</INVENTOR>
+<ABSTRACT>
+In an asymmetric dry ultrafiltration membrane on the basis of cellulose hydrate, the wettability is improved by the addition of hydrophobic synthetic silica.
+</ABSTRACT>
+</TEXT>
+</DOC>

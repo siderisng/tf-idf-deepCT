@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011099
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-3/42 G01P-3/486 G07C-3/10 D05B-69/22 G01D-5/36 D05B-69/24 G01D-5/347 D05B-69/30 <main>D05B-69/10</main> G05D-13/62 G05D-13/00 G01P-3/36 G07C-3/00 G01D-5/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+impulse generator for drives.
+</TITLE>
+<APPLICANT>
+pfaff haushaltmaschde<sep>pfaff haushaltmaschinen gmbh<sep>pfaff haushaltmaschinen gmbhgritznerstrasse 11d-7500 karlsruhe-durlachde<sep>pfaff haushaltmaschinen gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+hanus helfried<sep>kemmel patrice jean<sep>winkler uwe<sep>hanus, helfried<sep>kemmel, patrice jean<sep>winkler, uwe<sep>hanus, helfriedd-7500 karlsruhe-durlachd-7500 karlsuhe-durlachde<sep>kemmel, patrice jeanparacelsusstrasse 6d-7513 stutenseede<sep>winkler, uwemerkurweg 12d-7505 ettlingende<sep>hanus, helfried<sep>kemmel, patrice jean  <sep>winkler, uwe <sep>hanus, helfriedd-7500 karlsruhe-durlachd-7500 karlsuhe-durlachde<sep>kemmel, patrice jeanparacelsusstrasse 6d-7513 stutenseede<sep>winkler, uwemerkurweg 12d-7505 ettlingende<sep>
+</INVENTOR>
+<ABSTRACT>
+a pulse generator for a speed-controlled drive with a synchronous to the main shaft of the machine circulating the shaft (2) and a pulse disc (5) provided with light-dark zones fixed thereon, which projects between a light transmitter and a light receiver module (31, 32) which are stiled in a pulse disk (5) surrounding the housing of the sewing machine capsule (11). For the automatic centering of the pulse disk (5) relative to the capsule (11), the shaft (2) on both sides of the pulse disk (5) bearing points (16 to 19) for the capsule (11). In order to achieve a good sealing of the pulse disk (5) and the blocks (31, 32) against foreign influences, the capsule (11) consists of two combustible and latched by latching elements (49) with one another capsule (12, 13) each with one Radial to the shaft (2) access-journal recording chamber (28, 28a) for the light transmitter or light receiver module (31, 32) are provided, of which attached to the interior (27) of the capsule (11) adjacent walls (35, 35a) axis parallel apertures ( 36, 36a, 37, 37a, 38, 38a) to pass through the light beams between the light transmitter and the light receiver module (31, 32).
+</ABSTRACT>
+</TEXT>
+</DOC>

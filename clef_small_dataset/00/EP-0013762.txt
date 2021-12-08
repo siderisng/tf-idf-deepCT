@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013762
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-417/12 C07D-209/48 C07D-501/20 C07D-285/08 C07D-249/12 C07C-17/26 C07D-501/30 <main>C07D-501/00</main> C07C-17/00 C07D-257/04 C07D-417/00 C07D-249/00 C07D-257/00 A61K-31/545 C07D-501/14 C07D-501/59 C07D-295/21 C07D-295/00 C07D-501/36 C07D-501/00 C07D-209/00 C07D-285/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cephem and cepham compounds, processes for their preparation, pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+fujisawa pharmaceutical cojp<sep>fujisawa pharmaceutical co. ltd.<sep>fujisawa pharmaceutical co., ltd.3, doshomachi 4-chome higashi-kuosaka-shi osaka 541jp<sep>fujisawa pharmaceutical co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+goto jiro<sep>sakane kazuo<sep>teraji tsutomu<sep>goto, jiro<sep>sakane, kazuo<sep>teraji tsutomu<sep>goto, jiroa-401 senridai-sukai-taun no. 21kashikiriyama, suitajp<sep>sakane, kazuono. 6-60-5, higashi-sonoda-choamagasakijp<sep>teraji tsutomuno. 6-20-6, kofudai, toyono-chotoyono-gun, osaka-fujp<sep>goto, jiro<sep>sakane, kazuo<sep>teraji tsutomu<sep>goto, jiroa-401 senridai-sukai-taun no. 21kashikiriyama, suitajp<sep>sakane, kazuono. 6-60-5, higashi-sonoda-choamagasakijp<sep>teraji tsutomuno. 6-20-6, kofudai, toyono-chotoyono-gun, osaka-fujp<sep>
+</INVENTOR>
+<ABSTRACT>
+cephem and cepham compounds of the formula:    wherein   r¹ is amino or a protected amino,   r² is hydrogen or certain substituent,   r³ is hydrogen or lower alkyl,   r⁴ is hydrogen or certain substituent,   r⁵ is carboxy or a protected carboxy   and the heavy solid line means single or double-bond and  pharmaceutically acceptable salt thereof and processes for  their preparation, and also an antibacterial composition  comprising, as an effective ingredient, the above com­ pound in association with a pharmaceutically acceptable,  substantially nontoxlc carrier or excipient.  the invention al­ so relates to the starting compounds    and    and their preparation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

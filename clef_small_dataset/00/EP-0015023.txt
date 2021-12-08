@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015023
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-5/24 G06K-15/02 <main>G09G-1/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+character generator arrangement for controlling the display of alpha-numeric characters.
+</TITLE>
+<APPLICANT>
+philips electronic associatedgb  <sep>philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+kinghorn john ritchie c o phil<sep>kinghorn, john ritchie c/o philips electronic<sep>kinghorn, john ritchie c/o philips electronicand ass. ind. ltd. patent dept. mullard housetorrington place london wc1e 7hdgb<sep>kinghorn, john ritchie c/o philips electronic  <sep>kinghorn, john ritchie c/o philips electronic and ass. ind. ltd. patent dept. mullard housetorrington place london wc1e 7hdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an alpha-numeric character generator arrangement hav­ ing as a character store a "read-only" memory in which  characters are stored in a character format composed of a  co-ordinate matrix (e. g.  a 7 × 5 dot matrix) of discrete charac­ ter elements.  one aspect of the invention resides in storing  the descender letters g, j, p, q and y such that those elements  forming the "tail" of the descender letter are stored in charac­ ter element rows which in a given row addressing sequence  for the store precede the character element rows in which the  remaining elements for the descender letter are stored.   another aspect of the invention resides in addressing the  character element rows of the character store in a partially  cyclic manner such that descender letters are read-out for  display in a "lowered", correctly aligned, position in a row of  displayed characters.  
+</ABSTRACT>
+</TEXT>
+</DOC>

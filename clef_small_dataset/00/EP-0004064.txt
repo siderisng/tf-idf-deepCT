@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004064
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-37/252 <main>H01J-37/252</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus in an ion microprobe for concentrating the primary ion beam.
+</TITLE>
+<APPLICANT>
+oesterr forsch seibersdorfat <sep>oesterr forsch seibersdorf<sep>österreichisches forschungszentrum seibersdorf ges.m.b.h. kramergasse 1 a-1010 wien at<sep>osterreichisches forschungszentrum seibersdorf ges. m. b. h.<sep>
+</APPLICANT>
+<INVENTOR>
+rudenauer friedrich prof dr<sep>steiger wolfgang dr<sep>rudenauer, friedrich, prof.dr.<sep>steiger, wolfgang, dr.<sep>rüdenauer, friedrich, prof.dr.nordmanngasse 9a-1210 wienat<sep>steiger, wolfgang, dr.anton kriegergasse 185a-1238 wienat<sep>rudenauer, friedrich, prof.dr.  <sep>steiger, wolfgang, dr.<sep>rüdenauer, friedrich, prof.dr.nordmanngasse 9a-1210 wienat<sep>steiger, wolfgang, dr.anton kriegergasse 185a-1238 wienat<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  apparatus in an ion microprobe for concentrating the primary ion beam upon a defined area of a test-material, comprising in beam-direction a primary ion source (1), an electromagnetic sector lense (3), a mass selecting diaphragm (4), an electrostatic objective lense (10), and deflection electrodes (11) for deflecting the primary ion beam, said electrodes (11) being arranged before or after the objective lense (10), characterized in that in between of the sector lense (3) and the objective lense (10) two electrostatic condenser lenses (5 and 9) are arranged having different lateral magnification, and in that a diaphragm (6) is arranged in between of said condenser lenses (5 and 9). 
+</ABSTRACT>
+</TEXT>
+</DOC>

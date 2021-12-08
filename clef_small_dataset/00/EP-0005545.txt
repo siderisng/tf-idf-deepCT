@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005545
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-405/04 C07D-233/00 C07D-401/14 C07D-401/04 C07D-409/04 C07D-409/14 C07D-405/00 <main>C07D-233/84</main> C07D-233/84 C07D-409/00 A61K-31/44 C07D-233/88 C07D-401/00 C07D-405/14 A61P-29/00 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+imidazole derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+schering agde<sep>schering aktiengesellschaft berlin und bergkamen<sep>schering aktiengesellschaftd-13342 berlinde<sep>schering aktiengesellschaft berlin und bergkamen<sep>
+</APPLICANT>
+<INVENTOR>
+bottcher irmgard dr<sep>niedballa ulrich dr<sep>bottcher, irmgard, dr.<sep>niedballa, ulrich, dr.<sep>böttcher, irmgard, dr.rodelbahnpfad 5d-1000 berlin 28de<sep>niedballa, ulrich, dr.gosslerstrasse 28ad-1000 berlin 33de<sep>bottcher, irmgard, dr.<sep>niedballa, ulrich, dr.<sep>böttcher, irmgard, dr.rodelbahnpfad 5d-1000 berlin 28de<sep>niedballa, ulrich, dr.gosslerstrasse 28ad-1000 berlin 33de<sep>
+</INVENTOR>
+<ABSTRACT>
+Imidazole derivatives of the general formula I wherein AR₁ and AR₂ may optionally mean a phenyl radical, a pyridyl radical, a furyl group or a thienyl radical by halogen atoms, alkyl radicals, alkoxy radicals, a pyridyl radical, a furyl group or a thienyl radical, with the proviso that not both substituents AR₁ and AR₂ represent an unsubstituted phenyl radical,wherein R₁ is a hydrogen atom or optionally substituted by hydroxy groups, alkoxy groups or acyloxy groups with 1 to 4 carbon atoms, wherein N represents numbers 0, 1 or 2, and wherein Z is a saturated or unsaturated by one to two hydroxy groups, alkoxy groups, alkylenedioxy groups, acyloxy groupsor by an alkoxycarbonyl group of substituted hydrocarbon radical containing 2 to 6 carbon atoms, and their salts with physiologically harmless acids are pharmacologically active substances.
+</ABSTRACT>
+</TEXT>
+</DOC>

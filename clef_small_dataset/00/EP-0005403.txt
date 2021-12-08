@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005403
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03B-1/04 H03B-5/00 H03B-5/18 H03B-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+single mode hyperfrequency oscillator tunable by varying a magnetic field.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>
+</APPLICANT>
+<INVENTOR>
+castera jean-paulfr<sep>castera, jean-paul<sep>castera, jean-paul"thomson-csf" - scpi 173, bld haussmann75360 paris cedes 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The monomode oscillator in microwave, tunable by variation of a magnetic field, uses the propagation of magnetostatic waves on the surface of a magnetic material.The oscillator comprises two different length delay lines formed on the surface of the magnetic material, one of which is common and materialized by a transducer (3), each of the other extremities being materialized by a second (41) and a thirdtransducer (42).The two lines are looped through a single amplifier (7).The choice of the two lengths makes it possible to obtain the deviation between modes, so that there is a single oscillation mode included in the bandwidth of the transducers, in a predetermined range of chord.Application to devices requiring a signal whose frequency is of the order of 2 GHz and can vary from several hundred MHz, such as radar, measuring devices.
+</ABSTRACT>
+</TEXT>
+</DOC>

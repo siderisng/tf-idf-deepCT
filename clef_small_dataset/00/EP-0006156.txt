@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006156
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-307/60 <main>C07D-307/32</main> C07B-3/00 C07D-307/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for the preparation of dihydro-4,4-dimethyl-2,3-furandion.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>hoffmann la roche ch<sep>f. hoffmann-la roche & co. aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+schmid max<sep>schmid, max, dr.<sep>schmid, max, dr.stapferstrasse 21ch-5200 brugg.ch<sep>schmid max<sep>schmid, max, dr.<sep>schmid, max, dr.stapferstrasse 21ch-5200 brugg.ch<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method of preparing dihydro-4,4-dimethyl-2,3-furanedion by oxi dation of dihydro-3-hydroxy-4,4-dimethyl-2 (3H) -Furanone, wherein the oxidationa solid alkaline or alkaline earth metal metal hypochlorite is carried out in the organic phase.
+</ABSTRACT>
+</TEXT>
+</DOC>

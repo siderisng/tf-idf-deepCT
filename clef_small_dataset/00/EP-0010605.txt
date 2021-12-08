@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010605
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-17/02 <main>G11B-5/016</main> A01D-34/76 G11B-17/04 A01D-34/63 G11B-17/028 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic disk drive apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+carlson john arthur<sep>rusch kenneth david<sep>sippel david lester<sep>carlson, john arthur<sep>rusch, kenneth david<sep>sippel, david lester<sep>carlson, john arthur1672 sixth avenue n.w.rochester, mn 55901us<sep>rusch, kenneth david2230 48th street n.e.rochester, mn 55901us<sep>sippel, david lester3126 crescent lane n.w.rochester, mn 55901us<sep>carlson, john arthur <sep>rusch, kenneth david<sep>sippel, david lester  <sep>carlson, john arthur 1672 sixth avenue n.w.rochester, mn 55901us<sep>rusch, kenneth david2230 48th street n.e.rochester, mn 55901us<sep>sippel, david lester3126 crescent lane n.w.rochester, mn 55901us<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for loading a collet (456) with respect to a  rotatable drive hub (430) of a magnetic disk drive apparatus  to grip a magnetic disk between the collet and drive hub,  includes a leaf spring (460) supported at opposite ends  with respect to a machine frame (422) and carrying the  collet (456) at an intermediate place between the ends.   one end of the spring (460) is pivotally mounted on a boss  (462) on the frame and the other end has a sliding con­ nection in a slot (468) in a web (466) of the frame.  a  manually rotatable shaft (470) has an offset portion (469)  carrying a roller (472) to apply force on the leaf spring  between its pivotal mounting and the collet so as to move  the collet to engage the disk between the collet and drive  hub against the resilience of the leaf spring.  the leaf spring  is relatively wide in its portion (461) between its pivotal  mounting and the collet and is relatively narrow between  the collet and its other end so that the narrow portion  (463) of the spring bends the wide portion (461) of the  spring as the collet is moved towards the hub.  the collet  thereby grips the disk uniformly with respect to the hub and  the longitudinal centre of the collet remains nearly coinci­ dent with the longitudinal centre of the hub as the collet  completes its disk engaging movement with respect to the  hub to avoid side thrust on the disk.  
+</ABSTRACT>
+</TEXT>
+</DOC>

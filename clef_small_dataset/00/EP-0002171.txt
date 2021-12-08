@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002171
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 C10G-49/00 B01D-53/14 C10G-47/00 C10G-35/00 C01B-3/50 <main>C10G-45/00</main> C01B-3/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for increasing the purity of gaseous recycle hydrogen.
+</TITLE>
+<APPLICANT>
+cosden technologyus<sep>cosden technology, inc.<sep>cosden technology inc.8350, north central expresswaydallas texas 75206us<sep>cosden technology, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+mayes warden w<sep>mayes, warden w.<sep>mayes, warden w.2906 stonehavenbig spring texasus<sep>mayes, warden w.<sep>mayes, warden w.2906 stonehavenbig spring texasus<sep>
+</INVENTOR>
+<ABSTRACT>
+A method for recovering a fraction of increased purity hydrocarbons and hydrogen from the effluent current of a hydrotreatment method of hydrocarbon charges. Hydrogen gaseous increased purity is either recycled or for other uses. relatively pure hydrogen is obtained by separating the effluent current, into a separator (25) into a gas stream containing hydrogen, and a liquid phase containing hydrocarbons, and submitting the gas stream containing hydrogen to a first Absorption step in an absorption column (37), by contacting a liquid phase containing hydrocarbons, and obtained after separation in the separator (25), and then submitting the gaseous stream containing hydrogen to a hydrogen Second absorption step in the absorption column (37), by contacting a stabilized portion of the liquid phase containing the hydrocarbons and from the foot of the stabilization column (39).
+</ABSTRACT>
+</TEXT>
+</DOC>

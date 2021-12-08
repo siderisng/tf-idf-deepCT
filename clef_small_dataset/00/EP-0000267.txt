@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000267
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01S-3/06 <main>H01S-3/19</main> H01S-5/00 H01S-5/10 H01S-5/20 H01S-5/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+light source in an optical communications system.
+</TITLE>
+<APPLICANT>
+post officegb<sep>the post office<sep>the post office23 howland street london w1p 6hqgb<sep>the post office<sep>
+</APPLICANT>
+<INVENTOR>
+matthews michael robert <sep>newman david henry<sep>smith david robert<sep>steventon alan geoffrey<sep>matthews, michael robert<sep>newman, david henry<sep>smith, david robert<sep>steventon, alan geoffrey<sep>matthews, michael robert20 riverviewmelton woodbridge, suffolkgb<sep>newman, david henry5 grove gardenswoodbridge suffolkgb<sep>smith, david robertoakburn harrier's walkeaston nr. woodbridge suffolkgb<sep>steventon, alan geoffreyeast briarwood ipswich roadwoodbridge suffolkgb<sep>matthews, michael robert<sep>newman, david henry <sep>smith, david robert<sep>steventon, alan geoffrey  <sep>matthews, michael robert20 riverviewmelton woodbridge, suffolkgb<sep>newman, david henry5 grove gardenswoodbridge suffolkgb<sep>smith, david robertoakburn harrier's walkeaston nr. woodbridge suffolkgb<sep>steventon, alan geoffreyeast briarwood ipswich roadwoodbridge suffolkgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a double heterostructure semiconductor laser having  the configuration of its optical cavity arranged to impose a  constraint on the lasing filament as the spatial distribution of  the lasing filament changes from that occuring at the start of  the lasing regime, so that the optical flux emitted by the laser  has self-saturating properties.  this protects the laser from catastrophic facet erosion  and enables a simpler control circuit to be used to drive this  laser when it is used as a light source for an optical communications  system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

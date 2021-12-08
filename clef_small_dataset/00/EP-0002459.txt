@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002459
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-207/40 C07D-207/46 A01N-47/24 A01N-47/38 C07D-209/48 A01N-47/28 C07D-207/404 C07D-209/00 C07D-207/00 A01N-47/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-sulfenyl-carbamoyl derivatives, process for their preparation and their fongicidal use
+</TITLE>
+<APPLICANT>
+bayer ag de<sep>bayer aktiengesellschaft  <sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+brandes wilhelm drde<sep>frohberger paul-ernst drde<sep>kuehle engelbert drde<sep>brandes, wilhelm, dr.<sep>frohberger, paul-ernst, dr.<sep>kuhle, engelbert, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5653 leichlingen 1de<sep>frohberger, paul-ernst, dr.willi-baumeister-strasse 5d-5090 leverkusen 1de<sep>kühle, engelbert, dr.von-bodelschwingh-strasse 42d-5060 bergisch gladbach 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to novel n-sulfenylated carbamoyl compounds, a method for their preparation and their use as fungicides.The compounds of general formula <image> in which Z, M and N have the meaning given in the description are obtained when reacting N-sulfenylated carbamide acid fluorides with a dicarbonimide derivative in the presence of a diluent and an acid-binding agent.The active compounds according to the invention have a strong fungithoxic effect.A particularly good effectiveness they develop against parasitic mushrooms on Oberiridian plant parts, such.b.Against phytophthora species and against the pathogen of the apple scab.They also show high efficacy against grain diseases.
+</ABSTRACT>
+</TEXT>
+</DOC>

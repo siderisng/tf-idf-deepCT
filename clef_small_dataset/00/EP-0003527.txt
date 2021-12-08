@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003527
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/027 H01J-37/30 H01J-37/21 <main>H01J-37/304</main> H01J-37/304 H01L-21/02 H01J-37/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for focusing a beam of charged particles onto semiconductor chips.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporation old orchard roadarmonk, n.y. 10504us <sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+albrecht drew edward<sep>doran samuel kay<sep>michail michel salib<sep>yourke hannon stanley<sep>albrecht, drew edward<sep>doran, samuel kay<sep>michail, michel salib<sep>yourke, hannon stanley<sep>albrecht, drew edward151 rt. 206 bldg. 4 apt. 9flanders nj 07386us<sep>doran, samuel kaybox 36 road no. 1putnam valley, ny 10579us<sep>michail, michel saliblaurel park road no. 3wappingers falls ny 12590us<sep>yourke, hannon stanley49 croft roadpoughkeepsie ny 12603us<sep>albrecht, drew edward<sep>doran, samuel kay <sep>michail, michel salib<sep>yourke, hannon stanley  <sep>albrecht, drew edward 151 rt. 206 bldg. 4 apt. 9flanders nj 07386us<sep>doran, samuel kaybox 36 road no. 1putnam valley, ny 10579us<sep>michail, michel saliblaurel park road no. 3wappingers falls ny 12590us<sep>yourke, hannon stanley49 croft roadpoughkeepsie ny 12603us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and arrangement for the focus adjustment on an electron beam or a charge carrier beam system for compensation of surface irregularities of a semiconductor pane or the inclination of a mask.In an electron beam system with an alignment system, which measures the position of four alignment marks by means of the beam and calculates the disclosed magnification error of a given semiconductor wafer, means are provided to use the magnification and rotation error for calculating a height error factor and therefrom a compensation current for the dynamic focus coil for the dynamic focus coil forDissrease the electron beam, thereby shifting the effective or effective focal plane to a position adapted to the semiconductor or mask plane at the site of each semiconductor tile.
+</ABSTRACT>
+</TEXT>
+</DOC>

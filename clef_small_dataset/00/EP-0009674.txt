@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009674
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-3/153 H04N-1/393 G06T-5/30 G06T-3/40 G06K-9/54 H04N-1/38 <main>G06K-9/54</main> H04N-1/411 G06T-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data manipulation apparatus for improving the legibility of scale changed image objects.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+brazdil pavel<sep>minshull john francis<sep>brazdil, pavel<sep>minshull, john francis<sep>brazdil, pavel13 regent terraceedinburgh, eh7 5bngb<sep>minshull, john francis4 austen avenue olivers batterywinchester hampshiregb<sep>brazdil, pavel<sep>minshull, john francis<sep>brazdil, pavel13 regent terraceedinburgh, eh7 5bngb<sep>minshull, john francis4 austen avenue olivers batterywinchester hampshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+data manipulation apparatus is described for converting  raster-scanned data received for example from a scanner 2 at  a first picture element (pel) resolution to a second lower pel  resolution for display for example on a crt terminal 4.  the  apparatus includes a scale-changing means 8 which functions  to replace selected sub-groups of pels in the input image by  single pels at its output.  the significance of each single pel  reflects the presence or absence of a pel representing part of  an image object in the associated sub-group of pels.  the  number of pels in the selected sub-groups are determined by  the degree of compression required to convert to the lower  pel resolution.  prior to scale change the apparatus functions  to modify the input data in order to minimise merging of  adjacent image objects as a result of scale change and thereby  improve the legibility of the output image at the lower resolu­ tion.  the scanned data is first supplied to a data sensitive  thinner 5 which detects narrow gaps between adjacent  objects and selectively detects image object edge pels in  order to widen the gap.  the selectively thinned scanned data  is then supplied to a further thinner 6 which removes excess  image pels from selected edges of the image objects.  the data  from thinner 6 is then supplied to a data sensitive merge  inhibit unit 7 which moves selected image object pels from a  sub-group in which merging as a result of scale change will  occur to an adjacent sub-group where merging will not occur.   removal of a pel by the selective thinner 5, or by the thinner 6  or movement of a pel by unit 7 is inhibited if to do so would  result in fragmentation of the associated image object.  
+</ABSTRACT>
+</TEXT>
+</DOC>

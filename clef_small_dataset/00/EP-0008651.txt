@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008651
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/653 <main>C07D-249/08</main> C07D-249/00 C07D-521/00 A01N-43/64 C07D-249/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of triazole, process for their production and insecticides containing them.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+adolphi heinrich dr<sep>linhart friedrich dr chem<sep>zeeh bernd dr<sep>adolphi, heinrich, dr.<sep>linhart, friedrich, dr. chem.<sep>zeeh, bernd, dr.<sep>adolphi, heinrich, dr.kalmitweg 11d-6703 limburgerhofde<sep>linhart, friedrich, dr. chem.leisberg 61d-6900 heidelbergde<sep>zeeh, bernd, dr.thorwaldsenstrasse 5d-6700 ludwigshafende<sep>adolphi, heinrich, dr.<sep>linhart, friedrich, dr. chem.  <sep>zeeh, bernd, dr.<sep>adolphi, heinrich, dr.kalmitweg 11d-6703 limburgerhofde<sep>linhart, friedrich, dr. chem.leisberg 61d-6900 heidelbergde<sep>zeeh, bernd, dr.thorwaldsenstrasse 5d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to novel triazole derivatives of the formula in R is a benz ylrest substituted by relocated or branched alkyl radicals with 1 to 4 carbon atoms on the phenyl ring, optionally substituted by halogen on phenyl ring 2-phenylvinyl, 3-phenyl-2-propenyl or 2 -Phenyl-2-propenyl radical, the 1-phenylethyl radical, the 3-phenylpropyl radical or the 2-phenyl-2-chloro-ethyl radical, and their salts, and methods for producing these triazoles z. b. by dehydrohalogenation of a compound of the formula wherein Y and Z are halogen and N is 0, 1 or 2, or by reacting the 1,2,4-triazole with a compound R-HAL; Furthermore, methods for producing consecutive materials are described. insecticidal agents having an insecticidal active ingredient from the group of carbamates, phosphorus (phosphon) (DI) - (thio) acid esters, pyrethine, pyrethoids, α-alkyl-phenyl acetic acid esters, α-cyclopropyl-phenyl-acetic acid esters and chlorinated hydrocarbons As well as a triazole derivative of formula I or one of its salts, there is a significant greater insecticidal effect than insecticidal agents containing the individual components.
+</ABSTRACT>
+</TEXT>
+</DOC>

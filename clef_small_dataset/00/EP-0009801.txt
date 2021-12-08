@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009801
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/00 C07D-261/20 C07D-261/00 C07C-255/46 A61K-31/275 C07C-67/00 C07C-253/00 A61P-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pharmaceutical compositions containing polycyclic cyanoketones.
+</TITLE>
+<APPLICANT>
+sterling drug incus <sep>sterling drug inc. <sep>sterling drug inc.90 park avenuenew york new yorkus<sep>
+</APPLICANT>
+<INVENTOR>
+neumann helmuth carlus<sep>neumann, helmuth carl<sep>neumann, helmuth carl12 point view driveeast greenbush, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+(18β and 18α)-2α-cyano-3,11-dioxo-olean-12-en-29-oic  acids and lower-alkyl esters thereof, useful as ulcer prevent­ ing and ulcer healing agents, are prepared from 18β- or  18α-glycyrrhetinic acid, the final step being alkaline cleavage  of 18β- or 18α-11-oxo-olean-2,12-dieno[2,3-d]isox-azol-29-­ oic acid followed by optional acidification of the basic salt  obtained and optional esterification of the free acid thus  obtained.  
+</ABSTRACT>
+<DESCRIPTION>
+this invention relates to cyanoketones derived from glycyrrhetinic acid and to their preparation and use as ulcer preventing and ulcer healing agents. carbenoxolone 13-o-(ss-carboxypropionyl)-ll-oxo- 18ss-olean-12-en-29-oic acid; glycyrrhetinic acid hydrogen succinate) is a known anti-inflammatory agent used for gastric ulcer in the form of its disodium salt, see u.s. pat. 3,070,623. tolstikov; goryev and simov, izvestiya akademi nauk kazakhskoi ssr, seriya khimicheskaya 17, 71-78 (1967) disclose the preparation of an isoxazole derivative of glycyrrhetinic acid having the formula: emi1.1 no physiological properties are disclosed for this compound. yasue, sakakibara and kaiya, yakugaku zasshi 93, 296-299 (1973), disclose the preparation of a cyanoketone derived from oleanolic acid, said cyanoketone having the formula: emi2.1 no phy-siological properties are disclosed for this compound. the cleavage of isoxazoles to cyanoketones by treatment under alkaline conditions is known in steroids, see u.s. patent 3,296,255. the invention relates to compounds of the formula: emi2.2 wherein r is hydrogen or lower-alkyl, 3-lower-alkanoyl enol ester thereof, or a basic salt, particularly an alkali metal salt, thereof. pharmacological evaluation of the compounds of formula i has shown that they are useful in the prevention and/or healing of gastric or intestinal ulcers in mammals. the invention also relates to a process for preparing a compound of formula.i which comprises reacting a compound of the formula: emi3.1 with a strong base until the isoxazole ring has been cleaved, and acidifying the resulting salt of a compound of formula i. according to the present invention there is also provided a composition for the prevention and/or healing of gastric or intestinal ulcers in a mammal which comprises a therapeutically effective amount of a compound of formula i incorporated in a pharmaceutical carrier suitable for oral administration. one can prevent and/or heal gastric or intestinal ulcers in a mammal by administering orally to said mammal a therapeutically effective amount of a compound of formula i. the compounds of formula i are readily prepared from the commercially available glycyrrhetinic acid or its 18a-isomer. the first step is an oxidation with chromic oxide to yield (18ss or 18a)-3,11-dioxo-olean-12-en-29-oic acid. the latter is then treated with ethyl formate in the presence of sodium methoxide in pyridine solution to afford (18b or l8a) -2-hydroxymethylene-3,ll-dioxo-olean-l2- en-29-oic acid. the hydroxymethylene derivative is reacted with hydroxylamine to produce (18b or 18a)-11-oxo-olean- 2,l2-dieno[2,3-d)isoxazd-29-oic acid of formula ii. the latter, when treated with a strong base such as an alkali metal hydroxide or alkoxide, undergoes cleavage of the isoxazole ring to form an alkali metal salt of (186 or 18a) 2a-cyano-3,11-dioxo-olean-12-en-29-oic acid of formula i, which is readily acidified to form the free acid. isomerization of the 18b compounds to the 18a compounds can be effected by treatment with a strong acid at any point in the reaction sequence. the compounds of formula i where r is lower-alkyl can be prepared from the compounds where r is hydrogen by conventional esterification reactions, carried out at any point in the reaction sequence. fischer esterification with a lower-alkanol in the presence of hydrogen chloride will also
+</DESCRIPTION>
+<CLAIMS>
+ what we claim is:   1. a compound having the formula i (herein) wherein r is hydrogen or lower-alkyl; a 3-lower-alkanoyl enol ester thereof; or an alkali metal salt thereof.   2.   (2a,5a,18b,30ss)-2-cyano-3,11-dioxo-olean-12-en-    29-oic acid.   3.   (5a,18ss,30ss)-3-acetoxy-2-cyäno-11-oxo-oleana-    2,12-dien-29-oic acid.   4.   (2a,5a,18a,306)-2-cyano-3,11-dioxo-olean-12-en-    29-oic acid.   5.   (2a,5a,18s,30ss)-2-cyano-3,11-dioxo-olean-12-en-    29-oic acid, methyl ester.   6.   (2a,5a,18a,30ss)-2-cyano-3,11-dioxo-olean-12-en-    29-oic acid, methyl ester.   7. a process for preparing a compound according to claim 1, which comprises reacting a compound of the formula ii (herein) with an alkali metal base until the isoxazole ring has been cleaved and, if desired, acidifying the resulting salt to obtain the compound where r is hydrogen, and, if desired, esterifying a compound obtained where r is hydrogen to obtain the corresponding compound where r is lower-alkyl.    8. a composition for the prevention and/or healing of gastric or intestinal ulcers in a mammal which comprises a therapeutically effective amount of a compound according to any one of claims 1 to 6, incorporated in a pharmaceutical carrier suitable for oral administration.   9. a method for the prevention and/or healing of gastric or intestinal ulcers in a mammal which comprises adminstering orally to said mammal a therapeutically effective amount of a compound according to any one of claims 1 to 6.  
+</CLAIMS>
+</TEXT>
+</DOC>

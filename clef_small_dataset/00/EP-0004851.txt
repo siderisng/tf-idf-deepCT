@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004851
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-20/00 C08F-2/02 C08F-12/08 <main>C08F-20/12</main> C08F-20/12 C08F-2/38 C08F-2/00 C08F-2/40 C08F-12/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the partial polymerisation of vinyl monomers and use of the polymer syrups obtained.
+</TITLE>
+<APPLICANT>
+roehm gmbhde<sep>rohm gmbh<sep>röhm gmbhkirschenalleed-64293 darmstadt de<sep>rohm gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+burgle peter dr  <sep>maurer karl<sep>munzer manfred dr<sep>rosskopp wilhelm<sep>wenzel franz dr<sep>burgle, peter, dr.<sep>maurer, karl<sep>munzer, manfred dr.<sep>rosskopp, wilhelm<sep>wenzel, franz dr.<sep>bürgle, peter, dr.spessartring 65d-6100 darmstadtde<sep>maurer, karlraidelbacher strasse 26d-6147 lautertal 2de<sep>munzer, manfred dr.hunsrückstrasse 15d-6140 bensheimde<sep>rosskopp, wilhelmriedlingerstrasse 39d-6100 darmstadtde<sep>wenzel, franz dr.zeyherweg 5d-6100 darmstadtde<sep>burgle, peter, dr.<sep>maurer, karl<sep>munzer, manfred dr.<sep>rosskopp, wilhelm <sep>wenzel, franz dr.  <sep>bürgle, peter, dr.spessartring 65d-6100 darmstadtde<sep>maurer, karlraidelbacher strasse 26d-6147 lautertal 2de<sep>munzer, manfred dr.hunsrückstrasse 15d-6140 bensheimde<sep>rosskopp, wilhelmriedlingerstrasse 39d-6100 darmstadtde<sep>wenzel, franz dr.zeyherweg 5d-6100 darmstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+Vinyl monomers, z.b.Methyl methacrylate are partially polymerized by means of a percumic acid ester, preferably in the absence of regulators, wherein the temperature can be maintained by the addition of cold monomer at 80-100 ° C, and the polymerization, for example, after a conversion of the vinyl monomer of at least 20 wt.-% By addition of a polymerization inhibitor acting tio ethers, Ogan Disulfits or Merkaptan canceled.
+</ABSTRACT>
+</TEXT>
+</DOC>

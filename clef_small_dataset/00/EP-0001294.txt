@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001294
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-307/10 C07D-309/10 <main>C07D-407/04</main> C07B-20060101S C07D-407/00 A61P-9/00 C07C-20060101S C07H-20060101S A61P-9/12 A61K-20060101S C12P-17/16 A61K-31/335 C07D-309/00 C07D-407/04 A61K-31/35 C07D-307/00 C07D-20060101S 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lasalocide derivatives, their preparation and intermediates, and the pharmaceutical preparations containing them.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+coffen david<sep>coffen, david<sep>coffen, david270 ridgewood avenueglenridge n.j.us<sep>coffen, david<sep>coffen, david270 ridgewood avenueglenridge n.j.us<sep>
+</INVENTOR>
+<ABSTRACT>
+LaSalocide derivatives of the formula wherein R¹ aryl, substituted aryl, heteroaryl, aralkyl, cycloal kyl, lower alkyl, low alkenyl, carbalkoxy lower alkyl, aminoalkyl, lower alkylaminoalkyl, di (lower-alkyl) - amino alkyl, hydroxyalkyl, alkoxyalkyl,Thioalkoxyalkyl, carboxy is lower alkyl or hydrogen, are anti-hypertensive effective and can be used to treat hypertension and other cardiovascular symptoms.The compounds of formula I were obtained by reacting the -COOH group of a compound of the formula into wherein R² and R³ are lower alkyl or together with the nitrogen atom a 5- or 6-membered heterocyclic ring which may contain another heteroatom,and then with a compound of the formula R'SH in -CH₂-SR₁.
+</ABSTRACT>
+</TEXT>
+</DOC>

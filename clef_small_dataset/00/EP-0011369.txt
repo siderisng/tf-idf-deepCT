@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011369
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/10 C07D-501/22 C07D-205/04 C07D-501/02 C07D-501/04 <main>C07D-501/08</main> C07D-501/46 C07D-501/18 C07C-41/00 C07D-501/00 C07D-501/08 C07D-501/14 C07D-205/00 C07D-205/08 C07C-67/00 C07C-67/03 C07D-20060101S 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing 3-exomethylenecepham sulfoxides.
+</TITLE>
+<APPLICANT>
+lilly co elius<sep>eli±lilly and company<sep>eli lilly and company307, east mccarty streetindianapolis indiana 46285us<sep>eli lilly and company<sep>
+</APPLICANT>
+<INVENTOR>
+chou ta-sen<sep>chou, ta-sen<sep>chou, ta-sen745 canyon roadindianapolis, indianaus<sep>chou, ta-sen<sep>chou, ta-sen745 canyon roadindianapolis, indianaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for preparing a 3-exomethylenecepham sulfox­ ide ester of the formula 2;    wherein r is the residue of a carboxylic acid and r₁ is a  carboxylic acid protecting group, which process comprises:   (a) mixing under anhydrous conditions in an inert organic  solvent a 2-chlorosulfinylazetidin-4-one of the formula 1:    with stannic chloride in the presence of an oxygen compound  selected from the group consisting of  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015485
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-1/047 <main>H01F-1/06</main> G11B-5/706 H01F-1/06 B22F-9/22 B22F-9/16 B22F-9/20 H01F-1/032 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ferromagnetic metallic pigment essentially consisting of iron, and process for its preparation.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusen de<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+buxbaum gunter dr  <sep>hund franz dr<sep>naumann rolf dr<sep>schopper heinrich-christian dr<sep>schroeder gerhard dr<sep>buxbaum, gunter, dr.<sep>hund, franz, dr.<sep>naumann, rolf, dr.<sep>schopper, heinrich-christian, dr.<sep>schroeder, gerhard, dr.<sep>buxbaum, gunter, dr.holzapfelweg 2d-4150 krefeldde<sep>hund, franz, dr.scheiblerstrasse 89d-4150 krefeldde<sep>naumann, rolf, dr.buschstrasse 165d-4150 krefeld 1de<sep>schopper, heinrich-christian, dr.glindholzstrasse 95ad-4150 krefeldde<sep>schroeder, gerhard, dr.scheiblerstrasse 85d-4150 krefeldde<sep>buxbaum, gunter, dr.<sep>hund, franz, dr.<sep>naumann, rolf, dr. <sep>schopper, heinrich-christian, dr.<sep>schroeder, gerhard, dr.  <sep>buxbaum, gunter, dr. holzapfelweg 2d-4150 krefeldde<sep>hund, franz, dr.scheiblerstrasse 89d-4150 krefeldde<sep>naumann, rolf, dr.buschstrasse 165d-4150 krefeld 1de<sep>schopper, heinrich-christian, dr.glindholzstrasse 95ad-4150 krefeldde<sep>schroeder, gerhard, dr.scheiblerstrasse 85d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+Metal pigment for magnetic recording purposes consisting essentially of iron and is characterized by well-formed needle-shaped particles and superior properties as a recording medium, as well as a method.The particles do not have more than five pores and consist of no more than two metal cores.
+</ABSTRACT>
+</TEXT>
+</DOC>

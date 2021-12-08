@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007553
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-5/01 G01P-5/00 G01F-1/32 <main>G01F-1/32</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flow meter based on the "kármán vortices" principle.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+klobe martin<sep>klobe, martin<sep>klobe, martinaugust-bebel-strasse 87d-7500 karlruhede<sep>klobe, martin<sep>klobe, martinaugust-bebel-strasse 87d-7500 karlruhede<sep>
+</INVENTOR>
+<ABSTRACT>
+Flow measuring device according to the principle of the Kár Mán's vertebral road with a reinforcing stew body (1) arranged within a pipe section, which is made of a front, with its larger parallel surface opposite the flow direction Prismatic part (2) with trapezoidal cross-section and one of its rearward Parallel surface subsequent, substantially cuboid. is formed in the flow direction extending extension (5). The length of the bullet body (1) in the flow direction is approximately one and a half times the larger parallel side length of the trapezoidal cross section, wherein about a half of the pris Matten part (2) and the other on the cuboid extension (5) is omitted. In the non-parallel side surfaces of the prismatic part (2), flat, with under pressure deflecting bare membranes (7) completed by the outer chambers are mounted, in or in conjunction with these transducers for the implementation of the periodic pressure fluctuations resulting from the vertebral dislocation or by this ver causes membrane deflections are arranged in electrical signals.
+</ABSTRACT>
+</TEXT>
+</DOC>

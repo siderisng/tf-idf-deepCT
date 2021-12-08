@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000746
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08K-5/57 <main>C07F-7/22</main> C08L-23/00 C08L-27/00 C08L-1/00 C08K-5/00 C08L-101/00 C07F-7/00 C07F-7/22 C08L-27/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+organo tin compounds, their preparation and their application.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+korbanka helmut dr<sep>scheidl franz dr<sep>korbanka, helmut, dr.<sep>scheidl, franz, dr.<sep>korbanka, helmut, dr.birkenstrasse 24d-8901 adelsriedde<sep>scheidl, franz, dr.hans-fischer-strasse 4d-8906 gersthofende<sep>korbanka, helmut, dr.<sep>scheidl, franz, dr.<sep>korbanka, helmut, dr.birkenstrasse 24d-8901 adelsriedde<sep>scheidl, franz, dr.hans-fischer-strasse 4d-8906 gersthofende<sep>
+</INVENTOR>
+<ABSTRACT>
+Mixtures of organotin compounds prepared by reacting organoocin halides with mercaptans, mercaptocarboxylic acid esters, carboxylic acids or partial esters of polycarboxylic acids are stabilizers for halogen-containing polymers.
+</ABSTRACT>
+</TEXT>
+</DOC>

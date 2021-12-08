@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000718
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/68 A61P-9/04 C07D-487/04 A61P-7/00 A61P-9/00 C07D-487/00 A61K-31/505 A61P-7/02 <main>C07D-487/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+quinazoline derivatives, process for their preparation, pharmaceutical preparations and their preparation.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+chodnekar madhukar subraya dr<sep>kaiser ado dr<sep>chodnekar, madhukar subraya, dr.<sep>kaiser, ado, dr.<sep>chodnekar, madhukar subraya, dr.rebhaldenstrasse 6ch-4411 seltisbergch<sep>kaiser, ado, dr.hirsweg 3ch-4415 lausench<sep>chodnekar, madhukar subraya, dr.<sep>kaiser, ado, dr.<sep>chodnekar, madhukar subraya, dr.rebhaldenstrasse 6ch-4411 seltisbergch<sep>kaiser, ado, dr.hirsweg 3ch-4415 lausench<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to new tricyclic compounds, namely imidazo-quinazoline of the formula wherein R¹ and R² is hydrogen, low-alkyl, hydroxy, low-alkoxy, hydroxy-lower-alkyl, lower-alkoxy-lower-alkyl, halogen, phenyl, phenoxy,Amino, low-alkylamino or di-lower-alkylamino, and R¹ and R² at neighboring carbon atoms also together methylenedioxy;R³ hydrogen, low-alkyl or phenyl;and R⁴ low alkyl, hydroxy-lower-alkyl, low-alkoxy-lower-alkyl, aryl-lower alkyl or aryl, whose tautomers and salts of such compounds.These compounds and salts inhibit the aggregation of the platelets and have positive inotropic effects without significant tachycardia.They can be prepared in a known manner, u. a.Based on new N- (2-aminobenzyl) - glycine derivatives.
+</ABSTRACT>
+</TEXT>
+</DOC>

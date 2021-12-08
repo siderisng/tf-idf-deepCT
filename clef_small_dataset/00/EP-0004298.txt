@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004298
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/06 <main>H01L-21/76</main> H01L-21/762 H01L-21/74 H01L-21/76 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of fabricating isolation of and contact to burried layers of semiconductor structures.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+murphy bernard thomas<sep>north james clayton<sep>murphy, bernard thomas<sep>north, james clayton<sep>murphy, bernard thomas276 summit avenuesummit new jersey 07901us<sep>north, james clayton29 jones drivenew providence new jersey 07974us<sep>murphy, bernard thomas  <sep>north, james clayton<sep>murphy, bernard thomas276 summit avenuesummit new jersey 07901us<sep>north, james clayton29 jones drivenew providence new jersey 07974us<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed is a method of isolating portions of integrated  circuits which permits closely packed structures.  a  semiconductor wafer is provided with a substrate (11) of  one conductivity type, a first layer (12) of opposite conductivity  type and high impurity concentration formed  thereon, and a second layer (13) of either conductivity  type but lower concentration formed over the first layer.   the major surfaces of the semiconductor layers are parallel  to the (110) plane.  narrow grooves (15) with sidewalls in  the (111) plane are etched into the first layer.  a shallow  diffusion (16) of impurities of the same conductivity type  as the first layer is performed in the sidewalls and bottom of  the grooves which permits the first layer to be contacted  from the surface of the second layer.  the groove is then  etched further until it extends into the underlying substrate.   impurities of the same conductivity type as the substrate  are diffused into the bottom and sidewalls of the grooves  (17).  the concentration of these impurities is chosen so  that a chanstop region is formed in the substrate without  appreciably affecting electrical conductivity between the  first layer and the regions formed by the previous diffusion.  
+</ABSTRACT>
+</TEXT>
+</DOC>

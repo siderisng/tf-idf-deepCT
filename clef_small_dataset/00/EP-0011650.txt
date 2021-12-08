@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011650
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B22D-11/10</main> B22D-11/16 B65G-65/46 B22D-11/11 B65G-65/00 B22D-11/10 B22D-11/108 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flux powder supplying apparatus for continuous casting.
+</TITLE>
+<APPLICANT>
+shinagawa refractories cojp<sep>shinagawa refractories co., ltd.<sep>shinagawa refractories co., ltd.2-1, ohtemachi 2-chome chiyoda-kutokyo 100jp <sep>shinagawa refractories co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+kashimoto satoru<sep>nishida shinji  <sep>otsuka takashi<sep>sato mitsukuni<sep>kashimoto, satoru<sep>nishida, shinji<sep>otsuka, takashi<sep>sato, mitsukuni<sep>kashimoto, satoru651, hinase, hinase-chowaka-gun, okayama 701-32jp<sep>nishida, shinji290-4, otami okayama-shiokayama 703jp<sep>otsuka, takashi1931, inbe, bizen-shiokayama 705jp<sep>sato, mitsukuni6-32, kitagata 2-chomeokayama-shi okayama 700jp<sep>kashimoto, satoru<sep>nishida, shinji<sep>otsuka, takashi <sep>sato, mitsukuni<sep>kashimoto, satoru 651, hinase, hinase-cho waka-gun, okayama 701-32 jp<sep>nishida, shinji290-4, otami okayama-shiokayama 703jp<sep>otsuka, takashi1931, inbe, bizen-shiokayama 705jp<sep>sato, mitsukuni6-32, kitagata 2-chomeokayama-shi okayama 700jp<sep>
+</INVENTOR>
+<ABSTRACT>
+improvements in a powder feeding apparatus for con­ tinuous casting comprising a powder feeder (7) and a screw  conveyor (11) carried by a truck (8) disposed in the vicinity of a  casting mould, a guide rod (16) mounted on the screw con­ veyor (11), said guide rod being operatively associated with  an arcuate guide (15) at the posterior portion of the screw  conveyor (11), a crank mechanism (13) connected to the screw  conveyor (11), a nozzle port (18) loosely fitted on the forward  end of the screw conveyor (11) via the guide rod (16), and  motors (12), (14) connected to the screw conveyor (11) and  crank mechanism (13), respectively.  this arrangement thus  provides a powder feeding apparatus for continuous casting,  wherein the nozzle port (18) can be adjustably reciprocated  along the direction of the mold width.  the optimum amount  of powder can therefore be continuously charged uniformly  spread over a molten steel surface during continuous casting.  
+</ABSTRACT>
+<DESCRIPTION>
+technical field this invention relates to an improvement in a flux powder supplying zrparvtus for continuous casting, and more particularly to 2 flux powder supplying apparatus in which it is possible to charge and sprinkle an optimum amount of flux powder onto the surface of molten steel continuously and uniformly when pouring for continuous casting. background art generally, when molten steel is poured from a tundish to a mould in a continuous casting equipment, flux powder is sprinkled onto the surface of the molten steel in the mould, with the principal object of providing lubrication and heat retention of the molten steel. conventionally, flux powder is charged in such a way that the flux powder is placed above a mould, and the operator charges a suitable amount of flux powder while observing the surface of molten steel when pouring, so that the working environment is deteriorated so much because of the high temperature and powdery dust generated from the molten steel, and the flux power results in being supplied in uneven distribution (i.e. uneven level). there is presently utilized a known apparatus for supplying flux powder besides one (japanese utility model publication no. 48581/76) in which a screw conveyor is used, but these apparatuses have most important disadvantages that a suitable amount of flux powder can hardly be sprinkled uniformly onto the surface of molten steel. these days, there is used an apparatus (japanese utility model publication no. 39057/77) which uses a spring feeder, but it has less strength in view of construction thereby causing many troubles. by the spring feeder is meant a feeder of known construction, in which a spring (coiled) is inserted, almost all over the length, in a flexible hose provided beneath a hopper containing flux powder (material), one end of said spring is directly connected to a motor, the flux powder proceeds following the rotation of said spring operating by means of the rotational, driving force of the motor, and then the flux powder is fed in said flexible hose to be supplied to a discharge port above a mould. further, japanese utility model publication no. 106410/77 proposes an automatic supply apparatus of flux powder, in which a supply pipe with internally mounted screw is provided together on the stand and which is driven by means of a motor fixed at the rear of said supply pipe. since the nozzle opening at the end of the screw makes a circular movement in tis apparatus, however, flux powder cannot be sprinkled linearly and uniformly. in addition, because of the rotary, circular movement by gear it is impossible to change or regulate the moving range (stroke) of the nozzle opening, as necessary, to the width direction of the mould, and it is impossible to freely exchange the nozzle opening for sprinkling flux powder in proper amount and evenly in conformity with the size of the mould. thus, conventional apparatuses having spring feeder or screw feeder ha#e fundamental, constructional faults or functional inconvenience and demerits so that at
+</DESCRIPTION>
+<CLAIMS>
+what   o      claimed    is:   1.   a    flux nowder   @@@@@@@@@    apparatus for continuous casting in which on a moving car arranged near a mould for   can    there are placed a fluw powder supplying apparatus   nd    a screw   con#eyor,    at the end of said screw conveyor there is connected a guide rod mounted on said conveyor to an arc-shared guide, a crank   mechanism    is   provided    connected to   id    screw conveyor,   a    nozzle open- ing is idly fitted at the end portion of the screw conveyor   thrcugh    said guide rod, the screw   conveyor    and the crank mechanism are respectively connected to motors,   and the nozzle opening is reciprocally movable with optional control over the width direction of the mould.  
+</CLAIMS>
+</TEXT>
+</DOC>

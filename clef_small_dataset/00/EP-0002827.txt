@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002827
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01S-3/06 H01L-21/306 H01L-21/208 H01L-33/00 H01S-5/223 H01S-5/227 <main>H01S-3/19</main> H01L-21/3063 H01L-21/203 H01L-21/02 H01S-5/12 H01S-5/187 H01S-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+strip buried heterostructure laser and method for producing same.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+logan ralph andre<sep>tsang won-tien<sep>logan, ralph andre<sep>tsang, won-tien<sep>logan, ralph andre179 mills streetmorristown new jersey 07960us<sep>tsang, won-tien78 woodcrest drivenew providence new jersey 07974us<sep>logan, ralph andre<sep>tsang, won-tien<sep>logan, ralph andre179 mills streetmorristown new jersey 07960us<sep>tsang, won-tien78 woodcrest drivenew providence new jersey 07974us<sep>
+</INVENTOR>
+<ABSTRACT>
+a strip buried double heterostructure laser having a  pair of opposite-conductivity-type, wide bandgap cladding  layers separated by a narrower bandgap active region.  the  active region includes a low-loss waveguide layer and  contiguous therewith a narrower bandgap active layer in  the form of a narrow strip extending along the longitudinal  (resonator) laser axis.  lateral current confinement means,  such as reversed biased p-n junctions, constrain pumping  current in a narrow channel through the active layer.  lasers  of this type exhibit relatively high pulsed power outputs  (e. g. , 400 mw), linear l-i characteristics, stable fundamental  transverse mode and single longitudinal mode oscillation.   in another embodiment waveguide layer surfaces  adjacent the active layer have distributed feedback gratings.   also described are techniques for shaping the active layer  without introducing debilitating defects therein, as well  as procedures for lpe growth on al-containing group  iii-v compound layers which are exposed to processing  in the ambient.  
+</ABSTRACT>
+</TEXT>
+</DOC>

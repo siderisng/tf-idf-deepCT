@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011105
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C09B-48/00</main> C09B-48/00 C07D-471/04 C07D-471/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bis-n-dialkylcarbamyl-quinacridones, process for their preparation and their application.
+</TITLE>
+<APPLICANT>
+hoechst ag de <sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+fuchs otto dr<sep>kroh adolf<sep>fuchs, otto, dr.<sep>kroh, adolf<sep>fuchs, otto, dr.oestricher weg 11d-6000 frankfurt am main 71de<sep>kroh, adolfvorderstrasse 27d-6251 seltersde<sep>fuchs, otto, dr.<sep>kroh, adolf<sep>fuchs, otto, dr.oestricher weg 11d-6000 frankfurt am main 71de<sep>kroh, adolfvorderstrasse 27d-6251 seltersde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  compounds of the general formula  see diagramm : ep0011105,p4,f1 wherein r is methyl or ethyl. 
+</ABSTRACT>
+<DESCRIPTION>
+bis-n-dialkylcarbamoyl-chinacridone, verfahren zu ihrer herstellung und ihre verwendung gegenstand der erfindung sind verbindungen der allgemeinen formel emi1.1 in der r methyl oder äthyl ist, sowie gemische dieser verbindungen. bevorzugt steht hierbei die gruppe -co-nr2 in 2,9- und 3,10-stellung. aus den de-ass 19 60 896 und 19 60 897 sind lineare trans-chinacridone bekannt, die in 2,9-stellung durch carbamoyl- oder n-alkylcarbamoylgruppen mit bis zu 6 kohlenstoffatomen substituiert sind. diese verbindungen stellen trotz der relativ langen reste pigmente mit ausgezeichneter lösemittel-, ausblut- und uberlackierechtheit dar, was auf die möglichkeit zurückgeführt wird, dass diese verbindungen am carbonamidstickstoff weitere wasserstoffbrückenbindungen eingehen können. im einklang damit zeigen die entsprechenden dialkylamide, deren alkylreste 3 und mehr kohlenstoffatomen haben, eine zunehmende löslichkeit in organischen lösemitteln und eine geringere ausblut- und tiberlackierechtheit. uberraschenders1eise nehmen jedoch die ersten beiden glieder dieser reihe eine sonderstellung ein und stellen gelbstichig-rote bis blaustichig-rote pigmente mit vorzüglichen echtheiten dar, die denen der monoalkylamid reihe entsprechen. gegenüber diesen bekannten verbindungen zeigen die er findungsgemässen chinacridone jedoch den vorteil, dass sie im gemisch mit 50 bis 95 gew.-e chinacridon, das durch methyl oder chlor substituiert sein kann, bei der pigmentierung von lacksystemen ausserordentlich transparente färbungen mit ausgezeichnetem glanz und einwandfreien rheologischen eigenschaften ergeben. die erfindungsgemässen verbindungen können dadurch hergestellt werden, dass man verbindungen der allgemeinen formel emi2.1 in der r methyl oder äthyl ist und x wasserstoff oder alkyl mit 1 bis 4 kohlenstoffatomen bedeutet, in anwesenheit von sauren kondensationsmitteln erhitzt. die ausgangsmaterialien können durch kondensation von succinylobernsteinsäureestern mit den entsprechenden aminen, beispielsweise in alkoholen, anschliessende oxydation, beispielsweise mit nitrobenzol und gegebenenfalls verseifung der intermediär gebildeten 2,5-diarylamino-dihy drotrephthalsäureester oder der 2,5-diarylamino-tereph thalsäureester erhalten werden. der chinacridon-ringschluss erfolgt bevorzugt durch erhitzen der diarylaminoterephthalsäuren in sauren kondensationsmitteln, beispielsweise polyphosphorsäure, niederen polyphosphorsäurealkylestern oder schwefelsäure. zur uberführung in eine optimale pigmentform können die rohchinacridone - gegebenenfalls nach einem vorherigen alkallauszug zur entfernung von spuren nicht umgesetzter diarylaminoterephthalsäuren - bei temperaturen zwischen 80 und 1700c, gegebenenfalls im geschlossenen gefäss, einer behandlung mit lösemitteln unterworfen werden. solche lösemittelbehandlungen sind beispielsweise in der de-ps 12 61 106 beschrieben. eine mahlung der suspension zur zerlegung der agglomerate des rohchinacridons vor dem erhitzen kann hierbei vorteilhaft sein. in den folgenden beispielen wird die erfindung näher erläutert. teile und prozentangaben beziehen sich hierbei auf das gewicht. temperaturen sind in grad celsius angegeben. beispiel 1 6 teile 2,5-bis-(3'-n-dimethylcarbamoyl-phenylamino)- terephthalsäure werden unter rühren bei 1250 in 30 teile polyphosphorsäure mit einem gehalt von ca. 83,5 % p205 eingetragen und anschliessend 2-3 stunden bei 125-1300 verrührt. die heisse schmelze wird dann in wasser von 500 unter rühren hydrolysiert. das isolierte neutrale rohchinacridon wird in der gleichen gewichtsmenge 50 %igem äthanol suspendiert und im geschlossenen gefäss 5 stunden bei 1500 verrührt. danach wird das äthanol abdestilliert, das pigment mit wasser gewaschen und getrocknet. das rote pigment hat gute rheologische eigenschaften und liefert in lacken und kunststoffen färbungen mit hervorragenden echtheiten. beispiel 2 in 30 teilen saurem polyphosphorsäuremethylester (p205 gehalt ca. 81 %) werden unter rühren bei 1000 5 teile 2,5-bis-(4'-n-dimethylcarbamoylphenylamino)-terephthalsäure eingetragen und 2 stunden bei 125 gerührt. die ringschlussschmelze wird
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche:   1. verbindungen der allgemeinen formel emi6.1       in der r methyl oder ethyl ist.   2. verbindungen nach anspruch 1, in denen die -conr2 gruppen in 2- und 9-stellung stehen.   3. verbindungen nach anspruch 1, in denen die   -co'nr2-    gruppen in 3- und 10-stellung stehen.    4. verfahren zur herstellung der verbindungen nach anspruch 1, dadurch gekennzeichnet, dass man verbin dungen der allgemeinen formel emi6.2       in der r methyl oder äthyl ist und x wasserstoff oder alkyl mit 1 bis 4 kohlenstoffatomen bedeutet, in anwesenheit von sauren kondensationsmitteln er hitzt.   5. verfahren nach anspruch 4, dadurch gekennzeichnet, dass das saure kondensationsmittel polyphosphorsäure, ein niederer polyphosphorsäurealkylester oder schwefel säure ist.   6. verfahren nach anspruch 4 und 5, dadurch gekennzeichnet,    dab    das kondensationsprodukt einer nachbehandlung mit einem lösemittel bei temperaturen von 80 bis   1700c    unterworfen wird.     7. verwendung der verbindungen nach anspruch 1 als pigmente.   8. verwendung der verbindungen nach anspruch 1 zum pigmentieren von lacken und kunststoffen.  
+</CLAIMS>
+</TEXT>
+</DOC>

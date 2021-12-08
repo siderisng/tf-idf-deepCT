@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0007918
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02N-13/00 H01L-21/67 H01L-21/302 H01L-21/02 H01L-21/683 H01L-21/673 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substrate clamping techniques in ic fabrication processes.
+</TITLE>
+<APPLICANT>
+veeco instr incus<sep>veeco instruments inc.<sep>veeco instruments inc.terminal drive plainview, ny 11803us<sep>
+</APPLICANT>
+<INVENTOR>
+bollinger lynn david us<sep>briglia donald dus<sep>bollinger, lynn, david<sep>briglia, donald, d.<sep>bollinger, lynn, david13 vine streetglenwood landing, ny 11547us<sep>briglia, donald, d.639 paco drivelos altos, ca 94022us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

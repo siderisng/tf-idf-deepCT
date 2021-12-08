@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013804
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-51/10</main> C07C-67/36 C07C-51/00 C07C-51/12 C07C-67/00 C07C-53/08 C07C-51/14 C07C-53/00 C07C-53/122 C07C-51/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved carbonylation process recycling a portion of the reacted gas.
+</TITLE>
+<APPLICANT>
+monsanto cous<sep>monsanto company<sep>monsanto company800 north lindbergh boulevardst. louis missouri 63167us<sep>monsanto company<sep>
+</APPLICANT>
+<INVENTOR>
+makin earle clement<sep>price jerry loyd<sep>wei yu wen<sep>makin, earle clement<sep>price, jerry loyd<sep>wei, yu wen<sep>makin, earle clement1208 deats roaddickinson, texas 77539us<sep>price, jerry loyd122 22nd avenue northtexas city, texas 77590us<sep>wei, yu wen15808 laurelfield drivehouston, texas 77059us<sep>makin, earle clement  <sep>price, jerry loyd<sep>wei, yu wen<sep>makin, earle clement1208 deats roaddickinson, texas 77539us<sep>price, jerry loyd122 22nd avenue northtexas city, texas 77590us<sep>wei, yu wen15808 laurelfield drivehouston, texas 77059us<sep>
+</INVENTOR>
+<ABSTRACT>
+there is provided an improved continuous homogeneous  catalytic carbonylation process wherein a mixed gas stream is  removed from the carbonylation reactor, condensable liquids  separated from said gas stream and said gas stream vented,  the improvement comprising contacting said gas stream with a  plurality of hollow fiber membranes selectively permeable to  hydrogen under conditions substantially non-degrading of the  membranes generating a non-permeated gas stream gas  stream of higher carbon monoxide content and recycling said  non-permeated gas stream to the carbonylation process reac­ tor.  there is also provided for the recovery and recycle to the  process of carbonylation products such as acetic or propionic  acids by adsorption and removal from a solid adsorbent or ab­ sorption in a liquid absorbent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

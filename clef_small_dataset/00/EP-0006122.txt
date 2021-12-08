@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006122
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09B-57/08 C08L-23/00 C08L-23/02 <main>C08K-5/34</main> C08L-27/00 C08K-5/3437 C09B-5/00 C08L-1/00 C08K-5/00 C08L-101/00 C09B-5/62 C08K-5/34 C08L-7/00 C09B-57/00 C08L-21/00 C08L-27/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for batch-colouring hard pvc and polyolefines.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+babler fridolin dr<sep>babler, fridolin, dr.<sep>bäbler, fridolin, dr.nussbaumweg 19ch-4123 allschwilch<sep>babler, fridolin, dr.<sep>bäbler, fridolin, dr.nussbaumweg 19ch-4123 allschwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for pigmenting polyolefins and hard PVC, characterized in that one uses as pigments of perylentetracarboxylic acidimides of the formula wherein R₁ is an aliphatic or cycloaliphatic radical having at least 12 C atoms and R₂ hydrogen, an aliphatic or cycloaliphatic radical, which is excellent for pigmentingare suitable by polyolefins and hard PVC, and the pigmented polyolefins and hard PVC thus obtained.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009593
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-3/153 G06F-3/14 G06F-17/21 G09G-5/08 <main>G09G-1/16</main> G09G-5/14 G09G-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+video display terminal with partitioned screen.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation <sep>international business machines corporationold orchard roadarmonk, n.y. 10504 us  <sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hughes michael alan<sep>johnson jeremy stewart marles<sep>winn graham charles edward<sep>hughes, michael alan<sep>johnson, jeremy stewart marles<sep>winn, graham charles edward<sep>hughes, michael alan11 trafalgar wayrownhams southamptongb<sep>johnson, jeremy stewart marles3 nutshalling avenuerownhams southamptongb<sep>winn, graham charles edward41 st evox close rownhamssouthampton hampshiregb<sep>hughes, michael alan<sep>johnson, jeremy stewart marles <sep>winn, graham charles edward  <sep>hughes, michael alan11 trafalgar wayrownhams southamptongb<sep>johnson, jeremy stewart marles3 nutshalling avenuerownhams southamptongb<sep>winn, graham charles edward41 st evox close rownhamssouthampton hampshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a data display terminal includes a mapped character buf­ fer (18) in which character bytes representing characters to be  displayed on a crt screen (23) are stored.  data streams from  a host processor or data from a keyboard (12) are entered into  the character buffer (18) by means of a microprocessor (7)  having a data bus (8) and address bus (9).  refresh hardware  including refresh logic control (19), line buffer (20, 28), charac­ ter generator (21, 29) and serializer (22) write data within  partitions on the screen is maintained by employing left hand  margin attributes for each partition.  efficiency is raised by  employing right hand margin attributes.  this requires slightly  more character buffer space but allows the display to handle  existing data streams.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000106
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/34 C07D-213/36 C07D-213/57 A01N-43/40 C07D-213/54 <main>C07D-401/04</main> C07D-207/16 C07D-207/00 C07D-213/38 C07D-213/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-alkyl nicotinoids and processes for their production and use.
+</TITLE>
+<APPLICANT>
+philip morris incus <sep>philip morris incorporated <sep>philip morris incorporated120 park avenuenew york, new york 10017us<sep>philip morris incorporated <sep>
+</APPLICANT>
+<INVENTOR>
+sanders edward barkev<sep>secor henry valette<sep>seeman jeffrey ira<sep>sanders, edward, barkev<sep>secor, henry valette<sep>seeman, jeffrey ira<sep>sanders, edward, barkev3625 frontier driverichmond, virginia 23225us<sep>secor, henry valette2730 west brigstock roadmidlothian, virginia 23113us<sep>seeman, jeffrey ira7370 prairie roadrichmond, virginia 23225us<sep>sanders, edward, barkev<sep>secor, henry valette<sep>seeman, jeffrey ira<sep>sanders, edward, barkev3625 frontier driverichmond, virginia 23225us<sep>secor, henry valette2730 west brigstock roadmidlothian, virginia 23113us<sep>seeman, jeffrey ira7370 prairie roadrichmond, virginia 23225us<sep>
+</INVENTOR>
+<ABSTRACT>
+2-alkyl-nicotinoids represented by formula (i)    wherein r₁ is hydrogen, lower alkyl, phenyl alkyl or aralkyl,  r₂ is lower alkyl or phenyl alkyl, and r₃ is represented by the  formula:    wherein r₄ is hydrogen or lower alkyl, r₅ is lower alkyl, and n  is one or two, which are prepared according to the scheme:  the compounds of formula (i) are useful as insecticides.  
+</ABSTRACT>
+</TEXT>
+</DOC>

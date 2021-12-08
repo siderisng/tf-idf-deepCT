@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005650
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-8/00 B01J-8/18 C02F-3/00 <main>B01J-8/20</main> B01J-4/00 B01J-47/10 B01J-47/00 C02F-3/08 B01J-47/02 C02F-3/12 B01J-8/20 C12M-1/40 B01D-15/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluidized bed reactor with fluidizing fluid flow distributors.
+</TITLE>
+<APPLICANT>
+dorr oliver incus<sep>dorr-oliver incorporated<sep>dorr-oliver incorporatedcorporate headquarters 77, havemeyer lane p.o. box 9312stamford connecticut 06904-9312us<sep>dorr-oliver incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+kos peter<sep>kos, peter<sep>kos, peter4, honeysuckle laneridgefield connecticut 06877us<sep>kos, peter<sep>kos, peter4, honeysuckle laneridgefield connecticut 06877us<sep>
+</INVENTOR>
+<ABSTRACT>
+a flow distributor for a fluid bed reactor (10) includes  means for decreasing velocity of incoming liquid streams in  a uniform, non-turbulent fashion.  inlet ports (19) communicate  with fluid portals (15) having divergent walls to slow  incoming flow.  the fluid portals feed liquid flow to a plurality  of diffusing flow paths (29) provided between diffusion  baffles (20) positioned at the bottom of the reactor.  the  diffusion baffles (20) may be prismatic shapes which are  trapezoidal in cross-section with the broadest horizontal  dimension at the bottom thereof.  the diffusion flow paths  (29) therefore have divergent walls (22) and act to further  slow the liquid flow passing therethrough.  
+</ABSTRACT>
+</TEXT>
+</DOC>

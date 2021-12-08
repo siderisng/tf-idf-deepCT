@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016412
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16K-31/363</main> F16K-31/363 F16K-31/122 F16K-31/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pneumatically operated valve.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+heyneman guido ing grad<sep>heyneman, guido, ing.grad.<sep>heyneman, guido, ing.grad.8-meilaan 48b-8300 knokkebe<sep>heyneman, guido, ing.grad.<sep>heyneman, guido, ing.grad.8-meilaan 48b-8300 knokkebe<sep>
+</INVENTOR>
+<ABSTRACT>
+For the installation or assembly compressed air operated ven Tile with devices for chemical analysis, it is necessary that you have the lowest possible dead volume and build space-saving.These conditions fulfills a compressed air actuated valve, which has a pusher arranged in the pressure direction (8), wherein to both sides of the slider (8) piston (18, 19) are arranged with different diameters.In this case, the piston (19) with the smaller diameter is constantly energized with compressed air, during the piston (18) with the larger diameter for controlling the slider movement via a controllable Ven til (36) with the compressed air (35) is communicated.
+</ABSTRACT>
+</TEXT>
+</DOC>

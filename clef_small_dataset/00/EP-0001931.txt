@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001931
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12R-1/19 C12P-19/00 C07H-21/00 C12P-19/34 C12N-15/09 C12P-21/02 C12N-15/70 C12N-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+synthetic dna, process for preparing it and recombinant microbial cloning vehicle containing such dna
+</TITLE>
+<APPLICANT>
+genentech incus   <sep>genentech, inc.<sep>genentech, inc.460 point san bruno boulevardsouth san francisco california 94080us<sep>
+</APPLICANT>
+<INVENTOR>
+itakura keiichius<sep>itakura, keiichi<sep>itakura, keiichi1180 coronet avenuepasadena californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+synthetic dna coding for a mammalian polypeptide, e. g.  somatostatin, is prepared in which at least a majority of the codons are those preferred for the expression of microbial genomes.  the dna is prepared by joining together two appropriately coded series of fragments by hydrogen bonding and then completing the two strands by ligation, the fragments lacking complementarity other than in the correct sequence.  such synthetic dna having a restriction endonuclease site at each end of the gene can be introduced into a microbial cloning vehicle which can then be used for transformation of bacterial hosts. 
+</ABSTRACT>
+</TEXT>
+</DOC>

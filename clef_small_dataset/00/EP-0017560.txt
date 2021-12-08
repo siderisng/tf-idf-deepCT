@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017560
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 <main>C07C-76/02</main> C07C-201/00 C07C-201/08 C07C-79/04 C07C-205/02 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and installation for the production of nitroparaffins by nitration of hydrocarbons in the gaseous phase.
+</TITLE>
+<APPLICANT>
+azote & prod chimfr   <sep>societe chimique de la grande paroisse azote et produits chimiques<sep>societe chimique de la grande paroisse, azote et produits chimiquestour aurore place des refletsf-92080 la défense 2 cédex 5 paris la défensefr<sep>societe chimique de la grande paroisse azote et produits chimiques<sep>
+</APPLICANT>
+<INVENTOR>
+jacquinot bernard<sep>lhonore pierre<sep>quibel jacques<sep>jacquinot, bernard<sep>lhonore, pierre<sep>quibel, jacques<sep>jacquinot, bernard59, rue léon bathiatf-59500 douaifr<sep>lhonore, pierre1090, bd jeanne d'arcf-59500 douaifr<sep>quibel, jacques40 rue de la muettef-78600 maisons laffittefr<sep>jacquinot, bernard<sep>lhonore, pierre <sep>quibel, jacques  <sep>jacquinot, bernard59, rue léon bathiatf-59500 douaifr<sep>lhonore, pierre1090, bd jeanne d'arcf-59500 douaifr<sep>quibel, jacques40 rue de la muettef-78600 maisons laffittefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method and installation of manufacturing of nitropraffins.The gas phase nitration reaction is carried out under closed loop pressure with recycling of unreacted products, continuous purge of deconcentration and continuous pressure in hydrocarbon and nitrant agent.The method is applicable to the nitration of saturated hydrocarbus below C₅, only or mixture.
+</ABSTRACT>
+</TEXT>
+</DOC>

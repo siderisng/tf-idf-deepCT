@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0014710
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>D02G-1/16</main> B65H-51/16 D02G-1/16 D02J-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of threading in a thread into a texturing nozzle and apparatus for implementing the method.
+</TITLE>
+<APPLICANT>
+rieter deutschland gmbhde<sep>rieter deutschland gmbh<sep>rieter deutschland gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+conzelmann gerhard <sep>gujer peter<sep>guldenfels dieter  <sep>herion dieter<sep>knopp hans<sep>wirz armin<sep>conzelmann, gerhard<sep>gujer, peter<sep>guldenfels, dieter<sep>herion, dieter<sep>knopp, hans<sep>wirz, armin<sep>conzelmann, gerhard<sep>gujer, peter<sep>guldenfels, dieter<sep>herion, dieter<sep>knopp, hans<sep>wirz, armin<sep>conzelmann, gerhardweidenstrasse 12d-6701 otterstadtde<sep>gujer, peterkernstrasse 22ch-8406 winterthurch  <sep>guldenfels, dieter büelstrasse 62ch-8474 dinhardch<sep>herion, dietermax-beckmann-strasse 10d-6710 frankenthalde<sep>knopp, hanscarl-bosch-strasse 94d-6700 ludwigshafende<sep>wirz, arminim grundch-8475 ossigench<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

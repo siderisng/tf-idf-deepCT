@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007476
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-21/76</main> C12Q-1/00 C12Q-1/66 C12Q-1/60 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and reagent for the determination of an oxidized pyridine coenzyme.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+michal gerhard dr<sep>stahler fritz dr<sep>wulff karl dr<sep>michal, gerhard, dr.<sep>stahler, fritz, dr.<sep>wulff, karl, dr.<sep>michal, gerhard, dr.kreuzeckstrasse 19d-8132 tutzingde<sep>stähler, fritz, dr.heimgartenstrasse 4d-8132 tutzingde<sep>wulff, karl, dr.pütrichstrasse 18d-8120 weilheimde<sep>michal, gerhard, dr.<sep>stahler, fritz, dr. <sep>wulff, karl, dr.<sep>michal, gerhard, dr. kreuzeckstrasse 19 d-8132 tutzing de<sep>stähler, fritz, dr.heimgartenstrasse 4d-8132 tutzingde<sep>wulff, karl, dr.pütrichstrasse 18d-8120 weilheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for the quantitative determination of an oxidized pyridine coerzyme under oxidation with oxygen in the presence of the luciferase system and measurement of the emit anxicated light, the oxidized pyriancenzyme is used in the presence of its specific alcohol dehydrogenase with an aliphatic alcohol with 8 to 16 C atoms and oxidizedThe formed aldehyde with reduced flavin mononucleotide (FMNH₂) and O₂ in the presence of Luciferase and the FMN reductase to be determined by the coenzyme to be determined and the reduced substrate coenzyme of the latter light emission.A suitable reagent contains luciferase, FMN reductase, an aliphatic alcohol having 8 to 16 C atoms, a reduced coenzyme, a coenzyme specific to be determined by coenzyme alcohol dehydrogenase, flavin mononucleotide (FMN), buffer and optionally an organic sulfhydryl compound or/ and a surface of naked agents.
+</ABSTRACT>
+</TEXT>
+</DOC>

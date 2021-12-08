@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006797
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/163 <main>G02F-1/17</main> G09G-3/19 G09G-3/16 G02F-1/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrolytic display cell with a reference electrode and controlled erasing voltage.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>
+</APPLICANT>
+<INVENTOR>
+delapierre gilles<sep>meyer robert<sep>delapierre, gilles<sep>meyer, robert<sep>delapierre, gilles216 percevalièref-38170 seyssinetfr<sep>meyer, robertchemin bonatière saint nazaire les eymsf-38330 saint ismierfr<sep>delapierre, gilles<sep>meyer, robert <sep>delapierre, gilles 216 percevalière f-38170 seyssinetfr<sep>meyer, robertchemin bonatière saint nazaire les eymsf-38330 saint ismierfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for controlling a trollytic elec display cell and corresponding device.The impedance of the cell is measured through a reference electrode and the electricity supply is served, including the erasure voltage at said impedance.Application to the character display.
+</ABSTRACT>
+</TEXT>
+</DOC>

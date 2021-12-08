@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001787
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C01B-21/14</main> C01B-21/00 B01J-39/04 C01B-21/14 B01J-39/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydroxylamine purification via cation exchange.
+</TITLE>
+<APPLICANT>
+allied chemus<sep>allied chemical corporation<sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.) morristown new jersey 07960 us <sep>allied corporation<sep>
+</APPLICANT>
+<INVENTOR>
+belden reed h<sep>koff fred w<sep>sifniades stylianos<sep>tunick allen abraham<sep>belden, reed h.<sep>koff, fred w.<sep>sifniades, stylianos<sep>tunick, allen abraham<sep>belden, reed h.clark roadbernardsville, new jerseyus<sep>koff, fred w.bartley road, 196long valley new jerseyus<sep>sifniades, stylianosdelbarton drive, 7madison new jerseyus<sep>tunick, allen abrahamoak road, r.d.3boonton new jerseyus<sep>belden, reed h.<sep>koff, fred w.<sep>sifniades, stylianos <sep>tunick, allen abraham<sep>belden, reed h. clark road bernardsville, new jersey us<sep>koff, fred w.bartley road, 196long valley new jerseyus<sep>sifniades, stylianosdelbarton drive, 7madison new jerseyus<sep>tunick, allen abrahamoak road, r.d.3boonton new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for separating hydroxylamine from an  aqueous solution containing hydroxylammonium  salts in mixture with salts of predominantly monovalent  cations whose corresponding free bases have base  dissociation constants greater than 10⁻⁷.  said solution  is passed through a bed of cation exchange resin  loaded predominantly with monovalent cations  whereby hydroxylammonium and the other cations in  solution substantially displace said cations from the  resin.  a second aqueous solution containing a monovalent  amine or hydroxide base of a least 0. 5 molar  concentration having a dissociation constant greater  than 10⁻⁷ is passed through the resin bed whereby  hydroxylamine is preferentially released to the solution  and the resin is correspondingly loaded with the  cation of said base.  hydroxylammonium salts can be  crystallized from the solution after addition of a  stoichiometric amount of an appropriate acid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

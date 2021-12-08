@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009178
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-315/04 C07B-29/00 C07D-233/90 C07D-213/00 C07C-315/00 C07D-213/76 C07C-67/00 C07C-301/00 C07D-473/08 C07D-235/00 C07D-473/00 C07D-235/26 G03C-7/36 C07C-317/00 <main>G03C-7/36</main> C07C-317/22 C07C-313/00 C07D-233/00 G03C-7/305 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 2-equivalent yellow couplers.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+renner gunter dr<sep>scheben quirin<sep>renner, gunter, dr.<sep>scheben, quirin<sep>renner, günter, dr.roggendorfstrasse 65d-5000 koeln 80de<sep>scheben, quirinschnellweiderstrasse 76d-5000 koeln 80de<sep>renner, gunter, dr.<sep>scheben, quirin<sep>renner, günter, dr.roggendorfstrasse 65d-5000 koeln 80de<sep>scheben, quirinschnellweiderstrasse 76d-5000 koeln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+As a basic condensing agent for the preparation of 2-equivalent yellow couplers by reacting α-halogen-substituted α-acylacetamides with a phenol or an NH-acid organic compound are non-alkylizable bicyclic nitrogen-containing bases, e.g.b.1.5-Diaza-Bicyclo [4,3,0] Non-5-EN or 1.8-Diaza-Bicyclo [5,4,0] andec-7-en.
+</ABSTRACT>
+</TEXT>
+</DOC>

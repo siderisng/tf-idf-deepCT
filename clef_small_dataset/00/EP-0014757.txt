@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014757
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-19/165 <main>G06F-11/00</main> H02H-3/24 G06F-11/00 G06F-1/30 G06F-1/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+power line fault detector circuit.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+driscoll carleton david<sep>hobbs jr james norwood<sep>driscoll, carleton, david<sep>hobbs, jr., james norwood<sep>driscoll, carleton, david902 palmetto dr.cary, nc 27511us<sep>hobbs, jr., james norwood415 sorrell streetcary, nc 27511us<sep>driscoll, carleton, david<sep>hobbs, jr., james norwood<sep>driscoll, carleton, david902 palmetto dr.cary, nc 27511us<sep>hobbs, jr., james norwood415 sorrell streetcary, nc 27511us<sep>
+</INVENTOR>
+<ABSTRACT>
+The circuit comprises a digital / decoder counter (16) controlled by clock pulses from the associated data processing system (12). A comparator-amplifier (26) compares, on a cycle basis by cycle, the primary alternating power supply supplied to the rectifier / demultiplier circuit (28) at a continuous reference voltage supplying the voltage regulator (30) which provides a threshold voltage . The circuit (26) generates a restore voltage during each alternative cycle when the AC voltage exceeds the threshold voltage. If the decoder circuit detects a statement exceeding the account reached by the composition between two normally occurring restoration pulses, this circuit (16) generates a disturbing signal (PLD) supplied to the associated system (12) and a circuit of Recovery of the power supply (20) allowing it to respond consistently to a subsequent recovery of the power supply. Can be used in any data processing system to allow volatile data backup.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009350
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04C-28/00 F04C-29/10 F04C-29/02 F04C-29/00 F04C-18/02 <main>F04C-18/02</main> F04C-28/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+scroll-type fluid compressor units.
+</TITLE>
+<APPLICANT>
+sanden corpjp<sep>sanden corporation<sep>sanden corporation20 kotobuki-choisesaki-shi gunma-kenjp<sep>sanden corporation<sep>
+</APPLICANT>
+<INVENTOR>
+terauchi kiyoshi<sep>terauchi, kiyoshi<sep>terauchi, kiyoshi8-14 heiwa-choisesaki-shi, gunma-kenjp<sep>terauchi, kiyoshi<sep>terauchi, kiyoshi8-14 heiwa-choisesaki-shi, gunma-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a scroll-type refrigerant compressor unit has a drive  shaft (17) supported in a front end plate (11) of a housing  by a single radial bearing (16), and a disk rotor (21) having  a drive pin (23) to effect orbital motion of an orbiting scroll  member (24) is fixedly mounted on an inner end of the  drive shaft and is supported on the front end plate by a  thrust bearing (22).  the orbiting scroll member (24) has  an axial boss (243) which is rotatably mounted on the  drive pin by means of a second radial bearing (26) and a  radial flange (271) which is supported by a second thrust  bearing (28) on the rear surface of the disk rotor.  the unit  is assembled by inserting parts into the compressor hous­ ing in a predetermined order and by finally securing a front  end plate onto the compressor housing by bolts, whereby  the production of the compressor unit is simplified.  the  drive shaft, and, therefore, the compressor unit are made  of reduced length and deflection and vibrations of the drive  shaft are securely prevented.  a lubricating system is pro­ vided to lubricate a shaft seal assembly on the drive shaft,  whereby the oil in the compressor housing is directed to  the shaft seal cavity (181) and returns to the interior of the  compressor housing after lubricating the radial and thrust  bearings and other parts.  a mechanism for automatically  reducing the compressed fluid amount at an increased high  speed operation of the compressor unit is provided.  
+</ABSTRACT>
+</TEXT>
+</DOC>

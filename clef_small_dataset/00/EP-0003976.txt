@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003976
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-33/70 H01H-33/88 H01H-33/985 H01H-33/915 H01H-33/91 H01H-33/18 H01H-33/04 H01H-33/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compressed-gas circuit breaker.
+</TITLE>
+<APPLICANT>
+licentia gmbhde<sep>licentia patent-verwaltungs-gmbh<sep>licentia patent-verwaltungs-gmbhtheodor-stern-kai 1d-60596 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+scheibe klaus dipl-ingde<sep>scheibe, klaus, dipl.-ing.<sep>scheibe, klaus, dipl.-ing.roswithastrasse 10d-3410 northeimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a compressed gas power switch having a valve bent (14) burning in a annular gap between two coaxial electrodes (1.2), which is placed in rotation by the magnetic field of a coaxially arranged coil (5).The electrodes (1,2) are displaceable against each other for contact separation or contact, and to achieve an additional transverse liner of the arc (14), a compression chamber (3) is provided with outflow bores (4).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000990
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-11/02 H04Q-3/42 H04M-19/00 H03H-7/42 H03H-7/00 H03H-11/32 H04B-1/54 H04B-1/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+unbalanced/balanced converter circuits.
+</TITLE>
+<APPLICANT>
+post officegb   <sep>the post office<sep>the post office23 howland streetlondon w1p 6hqgb<sep>
+</APPLICANT>
+<INVENTOR>
+tattersall graham davidfi<sep>tattersall, graham david<sep>tattersall, graham davidpellavarinne 4a902400 kirkkonammifi<sep>
+</INVENTOR>
+<ABSTRACT>
+unbalanced/balanced converter circuit in which a first  circuit (t1, t2) of controllable impedance is connected  between a first supply terminal (earth) and a first balanced  terminal (a-leg), a second circuit (t3, t4) of controllable  impedance is connected between a second supply terminal  (-48v d. c. ) and a second belanced terminal (b-leg), and  a control circuit (r, r2, a1) is connected to monitor any  departure from balance of the potentials of the first and  second balanced input/output terminals and to simultaneously  change the impedances of the first and second circuits  (t1, t2 and t3, t4 resp. ) of controllable impedance  in opposite directions to restore the potentials to balance.   a first unbalanced terminal (x) is connected (via c6) to one  balanced terminal (a-leg) and a second unbalanced terminal  is connected to a common point (earth).  a principal use of the invention is balance/unbalanced  conversion of a subscriber's telephone line.  
+</ABSTRACT>
+</TEXT>
+</DOC>

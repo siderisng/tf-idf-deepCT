@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008584
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-9/04 F03D-9/00 F03D-7/02 <main>G05D-3/00</main> F03D-7/04 F03D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multi-mode control system for wind turbines.
+</TITLE>
+<APPLICANT>
+united technologies corpus<sep>united technologies corporation<sep>united technologies corporationunited technologies building 1, financial plazahartford, ct 06101us<sep>united technologies corporation<sep>
+</APPLICANT>
+<INVENTOR>
+harner kermit ivan<sep>kos joseph michael<sep>patrick john peter<sep>harner, kermit ivan<sep>kos, joseph michael<sep>patrick, john peter<sep>harner, kermit ivan7, diana lanewindsor, connecticut 06095us<sep>kos, joseph michael5, lynn ann driveholyoke, massachusetts 01040us<sep>patrick, john peter68, mountain driveso. windsor, connecticut 06074us<sep>harner, kermit ivan<sep>kos, joseph michael <sep>patrick, john peter  <sep>harner, kermit ivan7, diana lanewindsor, connecticut 06095us<sep>kos, joseph michael5, lynn ann driveholyoke, massachusetts 01040us<sep>patrick, john peter68, mountain driveso. windsor, connecticut 06074us<sep>
+</INVENTOR>
+<ABSTRACT>
+a multi-mode electronic wind turbine control system  establishes a reference blade angle br for a two-bladed, hori­ zontal axis, variable pitch wind turbine rotor, the blade angle  being regulated by a hydraulic pitch change mechanism (38).   the rotor (10), via appropriate shafts and a gearbox (20), is  coupled to a synchronous generator (24) to produce electrical  energy which is fed to a power utility grid.  the control system  (36) provides closed loop pitch control for rotor acceleration  rate during start-up, for rotor deceleration rate during shut-­ down, for speed control when the synchronous generator is  off-line, and for power control when the synchronous  generator is on-line.  a single control integrator is used for all  closed loop operating modes, with a rate limiter circuit in front  of the control integrator to prevent integrator overtravel.  the  integrator has maximum and minimum blade angle stops, the  minimum stop being variable as a function of rotor speed and  wind speed.  when on-line, power control is provided by a  unique shaft torque control using proportional plus integral  plus derivative controls in combination.  
+</ABSTRACT>
+</TEXT>
+</DOC>

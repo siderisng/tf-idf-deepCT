@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001235
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16G-11/04 D07B-9/00 F16G-11/00 F16G-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for distributing traction forces in traction elements made of materials bonded with oriented fibres.
+</TITLE>
+<APPLICANT>
+bayer agde <sep>bayer ag<sep>bayer ag 51368 leverkusen de <sep>
+</APPLICANT>
+<INVENTOR>
+moenig dieter ing-gradde<sep>preis lothar drde<sep>moenig, dieter, ing.-grad.<sep>preis, lothar, dr.<sep>mönig, dieter, ing.-grad.hirschweg 58d-5068 odenthalde<sep>preis, lothar, dr.wolfskaul 7d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+device for distributing traction forces in traction elements made of material bonded with oriented fibres.  in order to be able to utilize the high tensile strength of the fibres located in the interior of the fibre bundle of material bonded with oriented fibres, as well, the fibre bundle (1) is tapered (2) toward the end in the anchorage region.  the fibres located on the outside in each case are connected to the element that passes on the force (3) via bonded or friction connections.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

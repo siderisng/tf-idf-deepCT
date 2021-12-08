@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013943
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03H-11/12</main> H03H-11/04 H03H-11/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monolithically integratable low-pass filter circuit.
+</TITLE>
+<APPLICANT>
+siemens ag de<sep>siemens aktiengesellschaft berlin und munchen  <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+dietze andreas dipl-ing<sep>kriedt hans<sep>dietze, andreas, dipl.-ing.<sep>kriedt, hans<sep>dietze, andreas, dipl.-ing.herrenchiemsee strasse 36d-8000 münchen 80de<sep>kriedt, hanstriester strasse 33d-8000 münchen 80de<sep>dietze, andreas, dipl.-ing.  <sep>kriedt, hans<sep>dietze, andreas, dipl.-ing.herrenchiemsee strasse 36d-8000 münchen 80de<sep>kriedt, hanstriester strasse 33d-8000 münchen 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a monolithically integrable low-pass filter circuit.It is the task of the invention to provide a circuit with the help of which one can achieve without afrage of outer circuit means Oh in the low frequency range of corner frequencies.The following circuit is used as a solution to this problem: to a circuit node is both a resistor (R) of the signal input as well as a resistor (R₂) of the noninverting input and the output of an operational amplifier (OP) over a third resistor (R₁).The non-inverting input of the operational amplifier (OP) is further connected to ground via a Kon Densator (C) and the inverting input is connected to the output of the operational amplifier (OP) at the same time the output of the filter shell device.
+</ABSTRACT>
+</TEXT>
+</DOC>

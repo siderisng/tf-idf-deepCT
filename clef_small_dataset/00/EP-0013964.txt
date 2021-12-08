@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013964
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01M-3/28 G01F-1/42 F16K-37/00 G01F-1/34 <main>G01F-1/34</main> B64C-25/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device responsive to fluid flows within a range from above a predetermined minimum to below a predetermined maximum and nonresponsive to fluid flows beyond said range.
+</TITLE>
+<APPLICANT>
+pall corpus<sep>pall corporation<sep>pall corporation30 sea cliff avenueglen cove, new york 11542us<sep>pall corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+silverwater bernard f<sep>silverwater, bernard f.<sep>silverwater, bernard f.72 mitchell avenueplainview, new yorkus<sep>silverwater, bernard f.<sep>silverwater, bernard f.72 mitchell avenueplainview, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a flow sensor is provided, responsive to fluid flows  within a range from above a predetermined  minimum to  below a predetermined maximum, to indicate that flow is  within that range and the minimum flow has been exceed­ ed, but nonresponsive to fluid flows below the predeter­ mined minimum or above the predetermined maximum, to  avoid giving a false indication of fluid flow, comprising a  flow-responsive valve (10) and a differential pressure in­ dicator (30).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009564
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01M-1/00 F01M-9/00 F01M-9/10 F01M-1/10 <main>F01M-9/10</main> F01M-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lubricating circuit for an internal-combustion engine.
+</TITLE>
+<APPLICANT>
+kloeckner humboldt deutz agde<sep>klockner-humboldt-deutz aktiengesellschaft<sep>klöckner-humboldt-deutz aktiengesellschaftnikolaus-august-otto-allee 2d-51149 kölnde<sep>klockner-humboldt-deutz aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+pluequet heinz dipl-ing<sep>pluequet, heinz, dipl.-ing.<sep>pluequet, heinz, dipl.-ing.dattenfelder strasse 24d-5000 köln 91de<sep>pluequet, heinz, dipl.-ing.<sep>pluequet, heinz, dipl.-ing.dattenfelder strasse 24d-5000 köln 91de<sep>
+</INVENTOR>
+<ABSTRACT>
+In a lubricating oil circuit for a internal force (1) is a lubricating oil pump (3) above an oil cooler (7) and a filter device (8) with bearing points (10), a spain of bellwave (11) and bearing points (14) of an exhaust gas turbocharger (15)connected.In this case, by a direct pressure oil pipe (17) from the lubricating oil pump (3) or a connecting point of the main pressure line (6) short behind the lubricating oil pump (3) ensures that further distant bearing points (14) are immediately supplied with lubricating oil.In order for the lubricating oil to be forced by the first revolutions of the lubricating oil pump (3) into the direct pressure oil line (17) and not only filled the main pressure line, the lubricating oil flow is controlled by a throttle (5) or a shut-off means (5a).The throttle (5) or the shut-off means (5a) are operable depending on the pressure at the outlet of the lubricating oil pump (3).
+</ABSTRACT>
+</TEXT>
+</DOC>

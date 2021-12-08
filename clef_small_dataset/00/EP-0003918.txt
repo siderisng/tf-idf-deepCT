@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003918
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-27/52 G02B-13/24 G02B-17/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+image focusing system and reprographic camera including such a system.
+</TITLE>
+<APPLICANT>
+dallmeyer ltd j hgb   <sep>j.h. dallmeyer limited<sep>j.h. dallmeyer limitedchurch end works high road willesdenlondon nw10 2dngb<sep>
+</APPLICANT>
+<INVENTOR>
+clark alan dennisgb<sep>harvey richard paulgb<sep>leming colin andrewgb<sep>clark, alan dennis<sep>harvey, richard paul<sep>leming, colin andrew<sep>clark, alan dennis9 linfieldslittle chalfont buckinghamshiregb<sep>harvey, richard paul7 pomeroy closeamersham buckinghamshiregb<sep>leming, colin andrew26 holyrood gardensedgeware middlesexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention concerns an image focusing system for  use in a reprographic camera.  to improve the compactness  of such a camera, it is known to provide a reflecting element  to fold the optical axis extending from an object plane to the  image plane.  the known disposition of the reflecting element  between a focusing lens system and the image plane necessitates  a very large reflecting surface area to satisfy the usual  operational requirements of the aperture and field angle.   this precludes the use of prisms as the reflecting element,  and therefore introduces instability where image reversal is  required since a roof mirror, in which the roof angle may  drift, must be used.  it is proposed to arrange the reflecting element 3 within  the focusing lens system, i. e.  between two lens assemblies 4  to permit smaller elements, and more particularly interchangeable  plane and roof reflector prisms, to be used.  
+</ABSTRACT>
+</TEXT>
+</DOC>

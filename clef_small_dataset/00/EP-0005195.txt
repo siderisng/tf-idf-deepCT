@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005195
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23H-7/28 B23H-7/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric discharge machine with mechanism for orbiting the electrode.
+</TITLE>
+<APPLICANT>
+gaumond william j  <sep>gaumond, william j.<sep>gaumond, william j.c/o haseltine, lake &amp; waters 122 east 42nd streetnew york new york 10017us<sep>
+</APPLICANT>
+<INVENTOR>
+gaumond william j<sep>gaumond, william j.<sep>gaumond, william j.c/o haseltine, lake &amp; waters 122 east 42nd streetnew york new york 10017us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electric discharge machine has an electrode and  mechanism for driving the electrode on an orbital path.  the  electrode is mounted on an electrode holder having an upstanding  post.  the electrode is driven on its orbital path by a rotor  about the post.  there are two resiliently loaded drive arms  mounted on the rotor and engaged with the post at circumferentially  spaced points so that the post is subject to the compound  driving force of both drive arms.  centering mechanism is provided  to restore the electrode to a centered position with respect  to its orbit in the event of a short circuit between the electrode  and the workpiece, thus to break the short circuit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

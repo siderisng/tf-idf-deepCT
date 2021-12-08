@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013833
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01F-7/00 H01M-6/18 C04B-35/113 H01M-10/39 H01M-2/16 <main>C04B-35/10</main> C01F-7/02 H01M-10/36 H01B-1/08 C04B-35/111 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of producing beta-alumina ceramic material and ceramic material made thereof.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+paruso deborah marie<sep>yoldas bulent erturk<sep>paruso, deborah marie<sep>yoldas, bulent erturk<sep>paruso, deborah marie1519 stonecliffe drivemonroeville pennsylvaniaus<sep>yoldas, bulent erturk1605 jamestown placepittsburgh pennsylvaniaus<sep>paruso, deborah marie<sep>yoldas, bulent erturk<sep>paruso, deborah marie1519 stonecliffe drivemonroeville pennsylvaniaus<sep>yoldas, bulent erturk1605 jamestown placepittsburgh pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a liquid polymer is formed in a low temperature polymeri­ zation reaction involving organo-metallic sodium and alumi­ nium compounds, at least one of which is partially hydrolyzed.   the polymer is hydrolyzed, dried to form an amorphous sodi­ um beta-alumina precursor, and then heated, at between  1,200°c and about 1,550°c, to form a ceramic, comprising  ion-conductive sodium beta-alumina which is useful as a solid  electrolyte.  
+</ABSTRACT>
+</TEXT>
+</DOC>

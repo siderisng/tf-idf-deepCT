@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000524
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-63/89 C08G-63/72 C08G-63/00 C08F-6/00 C08J-3/16 <main>C08J-3/16</main> C08J-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process of recovering polymeric beads from an aqueous slurry thereof.
+</TITLE>
+<APPLICANT>
+dulux australia ltdau<sep>dulux australia ltd<sep>dulux australia ltdmcnaughton roadclayton victoria 3168au<sep>dulux australia ltd  <sep>
+</APPLICANT>
+<INVENTOR>
+braun willy<sep>braun, willy<sep>braun, willy39, glencairn avenueeast brighton victoria, 3187au<sep>braun, willy<sep>braun, willy39, glencairn avenueeast brighton victoria, 3187au<sep>
+</INVENTOR>
+<ABSTRACT>
+process of recovering polymeric beads from an aqueous  slurry thereof, containing a poly(vinyl alcohol) dispersion  stabiliser, by a physical separation such as filtration; the process  can be seriously impeded by blinding of the filter bed,  reducing throughput rates to an intolerably low level.  in order to achieve an efficient dewatering, an insoluble  organic destabiliser is formed "in situ" in the slurry from a  soluble parent compound comprising solubilising ionisable  groups.  the slurry may then be filtered at a temperature not  lower than 50°c to yield a soft cake of polymer beads, essentially  free of poly(vinyl alcohol) dispersion stabiliser.  
+</ABSTRACT>
+</TEXT>
+</DOC>

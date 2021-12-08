@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003365
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01J-9/227</main> C09K-11/02 C09K-11/08 H01J-9/227 H01J-1/62 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the manufacture of a planar or unidirectionally curved colour picture screen, and colour picture screen manufactured by this method.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+huber wilhelm<sep>wengert rolf dr dipl-phys<sep>huber, wilhelm<sep>wengert, rolf, dr. dipl.-phys.<sep>huber, wilhelmam bach 44d-8055 goldachde<sep>wengert, rolf, dr. dipl.-phys.klingerstrasse 11d-8000 münchen 70de<sep>huber, wilhelm  <sep>wengert, rolf, dr. dipl.-phys.<sep>huber, wilhelmam bach 44d-8055 goldachde<sep>wengert, rolf, dr. dipl.-phys.klingerstrasse 11d-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+For the manufacture of a planar or in a direction curved phosphor screen for color screens or color image display devices, a double mask raster coating method is proposed, in which the phosphors for the individual colors are separated by each one of the respective paint surfaces coating mask (3, 4, 5) and by one for allColors used base mask (2), for example, by spraying, are applied to a shield glass (1).
+</ABSTRACT>
+</TEXT>
+</DOC>

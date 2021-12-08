@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008234
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G04G-9/02 G04G-9/00 G09D-3/12 G09D-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic calendar device.
+</TITLE>
+<APPLICANT>
+mackay simon brooke the baron gb<sep>mackay, simon brooke, the baron tanlaw<sep>mackay, simon brooke, the baron tanlawthe manor house little venicelondon w9 2pzgb<sep>
+</APPLICANT>
+<INVENTOR>
+wilson colin johngb<sep>wilson, colin john<sep>wilson, colin john2 bramley avenuemelbourn near royston hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+an electronic calendar device comprises an array of  thirteen liquid crystal devices each carrying a four-numeral  column of a conventional calendar.  by selecting an appro­ priate seven consecutive liquid crystal devices for display,  the correct calendar display for a particular month can be  generated.  the numerals 29, 30 and 31 are carried on sepa­ rate liquid crystal devices and can be energised when re­ quired for a particular month.  logic circuitry is provided  to enable the calendar device to run rapidly forward or  backward to provide calendars for selected months in the  future or in the past.  
+</ABSTRACT>
+</TEXT>
+</DOC>

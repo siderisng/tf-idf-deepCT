@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008383
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-21/16 B41J-29/42 B41J-29/50 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+margin control for a printhead.
+</TITLE>
+<APPLICANT>
+kienzle apparate gmbhde<sep>kienzle apparate gmbh<sep>mannesmann kienzle gmbhheinrich-hertz-strasse 45 d-78052 villingen-schwenningen de <sep>
+</APPLICANT>
+<INVENTOR>
+schmidt richardde<sep>schunggart walterde<sep>tauchert klausde<sep>schmidt, richard<sep>schunggart, walter<sep>tauchert, klaus<sep>schmidt, richardauf der wanne 29d-7730 villingende<sep>schunggart, walterdürrheimerstrasse 10d-7730 villingen 24de<sep>tauchert, klausdanzigerstrasse 19d-7730 villingende<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a margin control for a push button-key (5) in data processing systems.  in order to synchronise the left-hand margin of the printing format and the programme (p), at the start of operations the push-button key (5) is made to go through a search run in the course of which it detects a signal generator (g2), which can be adjusted to the format margin, in accordance with the left margin.  the detected position corresponds to the first printing point by means of which the programme (p) is aligned to this printing point.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

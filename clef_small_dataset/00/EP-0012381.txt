@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012381
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C09J-3/16 H01B-3/30 C07D-233/86 C07D-233/72 <main>C08G-18/38</main> C08G-73/00 C08G-18/38 C08G-18/30 C09D-3/48 C08G-73/06 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of compounds containing hydantoin groups.
+</TITLE>
+<APPLICANT>
+bayer agde <sep>bayer ag<sep>bayer ag 51368 leverkusen de <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+dunwald willi dr<sep>lewalter jurgen dr<sep>merten rudolf dr<sep>rottmaier ludwig ing-grad<sep>schulte bernhard dr<sep>zecher wilfried dr<sep>dunwald, willi, dr.<sep>lewalter, jurgen, dr.<sep>merten, rudolf, dr.<sep>rottmaier, ludwig, ing.-grad.<sep>schulte, bernhard, dr.<sep>zecher, wilfried, dr.<sep>dünwald, willi, dr.geschwister-scholl-strasse 16d-5090 leverkusen 1de<sep>lewalter, jürgen, dr.bergstrasse 88d-5068 odenthalde<sep>merten, rudolf, dr.berta-von-suttner-strasse 55d-5090 leverkusen 1de<sep>rottmaier, ludwig, ing.-grad.berstrasse 85d-5068 odenthalde<sep>schulte, bernhard, dr.südwall 80ad-4150 krefeldde<sep>zecher, wilfried, dr.treptower strasse 6d-5090 leverkusen 1de<sep>dunwald, willi, dr.<sep>lewalter, jurgen, dr.<sep>merten, rudolf, dr.<sep>rottmaier, ludwig, ing.-grad. <sep>schulte, bernhard, dr.<sep>zecher, wilfried, dr.  <sep>dünwald, willi, dr. geschwister-scholl-strasse 16d-5090 leverkusen 1de<sep>lewalter, jürgen, dr.bergstrasse 88d-5068 odenthalde<sep>merten, rudolf, dr.berta-von-suttner-strasse 55d-5090 leverkusen 1de<sep>rottmaier, ludwig, ing.-grad.berstrasse 85d-5068 odenthalde<sep>schulte, bernhard, dr.südwall 80ad-4150 krefeldde<sep>zecher, wilfried, dr.treptower strasse 6d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of hydantoing groups relieving compounds by reacting α-amino carboxylic acid derivatives and organic ISO (thio) cyanates in the presence of acidic groups either in the melt or in non-phenolic solvents.
+</ABSTRACT>
+</TEXT>
+</DOC>

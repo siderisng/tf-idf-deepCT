@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016900
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/57 A61P-31/00 C07D-333/00 C07D-333/04 C07D-501/20 C07C-143/58 C07D-307/54 C07D-333/24 C07C-143/86 C07D-307/34 C07D-501/34 C07D-307/52 <main>C07C-127/19</main> C07D-499/00 A61K-31/545 A61K-31/546 C07C-125/065 A61P-31/04 C07D-307/00 C07D-501/59 C07D-499/06 C07D-501/32 C07D-501/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+intermediates in the preparation of cephalosporin derivatives, process for their preparation and use.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+fechtig bruno dr<sep>kocsis karoly dr<sep>scartazzini riccardo dr<sep>schneider peter dr<sep>fechtig, bruno, dr.<sep>kocsis, karoly, dr.<sep>scartazzini, riccardo, dr.<sep>schneider, peter, dr.<sep>fechtig, bruno, dr.hinterlindenweg 1ch-4153 reinachch<sep>kocsis, karoly, dr.am chillweg 121ch-4305 olsbergch<sep>scartazzini, riccardo, dr.conrad ferdinand meyer-strasse 38ch-4059 baselch<sep>schneider, peter, dr.rheinfelderstrasse 21 a/1ch-4058 baselch<sep>fechtig, bruno, dr.<sep>kocsis, karoly, dr.<sep>scartazzini, riccardo, dr.<sep>schneider, peter, dr.<sep>fechtig, bruno, dr.hinterlindenweg 1ch-4153 reinachch<sep>kocsis, karoly, dr.am chillweg 121ch-4305 olsbergch<sep>scartazzini, riccardo, dr.conrad ferdinand meyer-strasse 38ch-4059 baselch<sep>schneider, peter, dr.rheinfelderstrasse 21 a/1ch-4058 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+Carboxylic acid compounds of the formula wherein the index n is an integer of 1 to 4, the index M 0 or 1, x oxygen, sulfur or the group -NH, W a group -Co, -CO-NHSO₂ or -SO₂NH -Co, or XW together a group -CO or -CO NHSO₂, a optionally substituted phenylene, thiylene or furylene, y hydrogen, hydroxyl, formyloxy, amino or optionally in salt form sulfo and z hydrogen, or y and z together an oxo group or a group = NOR °, wherein R ° represents hydrogen or optionally substituted lower alkyl, and wherein the aminocarboxylic acid grouping HOOC-CH (NH₂) - and optionally in the grouping -A- (Y) (Z) - existing additional functional groups in protected form and their reactive derivatives suitable for acylation, as well as methods for their preparation. The compounds owners are for the production of new cephalosorin derivatives, wherein the 7β-amino group are acylated by the acyl groups of these carboxylic acid derivatives.
+</ABSTRACT>
+</TEXT>
+</DOC>

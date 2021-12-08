@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016339
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-21/31 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for establishing the reflection capacity of the surface of an object.
+</TITLE>
+<APPLICANT>
+bartke rolf dr<sep>bartke, rolf, dr.<sep>bartke, rolf, dr.sybelstrasse 31d-4000 düsseldorfde<sep>
+</APPLICANT>
+<INVENTOR>
+bartke rolf dr<sep>bartke, rolf, dr.<sep>bartke, rolf, dr.sybelstrasse 31d-4000 düsseldorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+To determine the reflectivity of the surface of a measurement object (19), light of a normal wide band light source (10) is directed to the surface (18) to be measured. The reflected light is directed to a photodetector in the direction (25), which consists of two close to each other like photodetectors (27, 28). Each of the two photodetectors is covered by a narrow band filter (29, 30). The two narrow band filters are permeable to light difference of licher wavelengths. The two wavelengths are chosen so that they are absorbed differently from the surface to be measured. From the absorption of the two light beams, the measurement result is derived. The fact that the photodetectors are closely related to each other, they are substantially the same bedding, in particular the same temperature influence. In this way measurement inaccessities are largely closed. The photodetectors can also be artificially be kept at the same temperature, for example by a cooling device (31).
+</ABSTRACT>
+</TEXT>
+</DOC>

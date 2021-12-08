@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002997
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-21/8247 H01L-29/792 H01L-29/40 H01L-21/8234 H01L-21/033 H01L-27/088 H01L-29/788 H01L-29/49 H01L-29/66 H01L-27/085 H01L-21/02 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+field effect transistor with stacked self-aligned gates and method for making it
+</TITLE>
+<APPLICANT>
+ibm us <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+ning tak hus<sep>osburn carlton mus<sep>yu hwa nus<sep>ning, tak h.<sep>osburn, carlton m.<sep>yu, hwa n.<sep>ning, tak h.1720 maxwell driveyorktown new york 10598us<sep>osburn, carlton m.41 morningside drivecroton-on-hudson new york 10520us<sep>yu, hwa n.2849 hickory streetyorktown heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a superimposed field effect transistor and manufacturing process.The transistor is essentially characterized in that the floating door (6) and the control door (8) are self-aligned with each other and in addition, they are self-aligned with the source regions (12) and drain (13).Preferably the material constituting doors is the polycrystalline silicon.The manufacturing process only includes four masking steps to achieve the structure represented.This transistor can be used in electrically reprogrammed memories.
+</ABSTRACT>
+</TEXT>
+</DOC>

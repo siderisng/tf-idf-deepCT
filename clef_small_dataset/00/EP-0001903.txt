@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001903
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01F-3/04 <main>B01F-3/04</main> G21C-15/00 B01F-15/02 G05D-11/02 G21D-3/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and apparatus for introducing gas into the coolant liquid of nuclear reactors.
+</TITLE>
+<APPLICANT>
+babcock brown boveri reaktorde<sep>babcock-brown boveri reaktor gmbh<sep>brown boveri reaktor gmbhdudenstrasse 44d-6800 mannheim 1de<sep>brown boveri reaktor gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+stiefel max<sep>wolfbeiss erich<sep>stiefel, max<sep>wolfbeiss, erich<sep>stiefel, maxthüringerstrasse 69d-6800 mannheim 31de<sep>wolfbeiss, erichdrachenrebenweg 12d-7505 ettlingende<sep>stiefel, max  <sep>wolfbeiss, erich <sep>stiefel, maxthüringerstrasse 69d-6800 mannheim 31de<sep>wolfbeiss, erichdrachenrebenweg 12d-7505 ettlingende<sep>
+</INVENTOR>
+<ABSTRACT>
+in a method of and apparatus for injecting gas into a  liquid, in particular the reactor core coolant water for a pressurised  water nuclear power reactor system, only the gas  quantity needed to achieve a predetermined gas concentration  in the liquid is supplied, via a gas dosage pump (1), to  nozzles (5, 5a) within a bubble chamber (6).  the liquid also is  supplied to the bubble column (6), via an inlet (20).  a mixture  of the gas and water flows through static mixers (7) in the  bubble column (6) to produce the desired gas concentration  in the liquid, mixing taking place before the gas and liquid  leave the bubble column.  
+</ABSTRACT>
+</TEXT>
+</DOC>

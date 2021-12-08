@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004457
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-9/78 <main>H04N-9/64</main> H04N-9/537 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+processing method and circuit for pal colour television signals.
+</TITLE>
+<APPLICANT>
+british broadcasting corpgb<sep>british broadcasting corporation<sep>british broadcasting corporationbroadcasting houselondon w1a 1aagb<sep>british broadcasting corporation<sep>british broadcasting corporation<sep>
+</APPLICANT>
+<INVENTOR>
+clarke christopher keith perry<sep>clarke, christopher keith perry<sep>clarke, christopher keith perry3 stumblets pound hillcrawley sussexgb<sep>clarke, christopher keith perry<sep>clarke, christopher keith perry  <sep>clarke, christopher keith perry3 stumblets pound hillcrawley sussexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a signal processing circuit (10) for colour television  signals, e. g.  pal signals, has first and second one-line  delays (14, 16) connected in series to the input (12), an  averager (18) connected across the two delays and a subtractor  (20) connected to subtract the averager output  from the output of the first delay (14).  in this way the circuit  provides (i) a first signal at the output of the first  delay (14) which is the input signal delayed by one line  period and (ii) a second signal at the output of the subtractor  (20) which is the resultant of the average of the  undelayed input signal and the input signal delayed by two  line periods subtracted from the input signal.  a band-pass  filter (22) covering the chrominance band is connected to  the output of the subtractor (20).  a second subtractor (24)  subtracts the filtered signal from the one-line delayed signal.   separated luminance and chrominance are obtained  at the outputs of the second subtractor (24) and the filter  (22) respectively, which are especially suitable for line-locked  sampling frequencies.  either output may be used  on its own.  for n. t. s. c.  signals, a divide-by-two circuit is  included in series with the band-pass filter (22).  
+</ABSTRACT>
+</TEXT>
+</DOC>

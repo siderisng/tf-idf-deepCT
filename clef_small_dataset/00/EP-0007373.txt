@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0007373
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-63/06 G01B-13/20 D01H-13/22 <main>B65H-63/06</main> D01G-23/00 B65H-63/00 G01B-13/08 D01G-23/06 G01B-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for establishing measuring values corresponding to the material cross-section area of fibre slivers processed in spinning preparation.
+</TITLE>
+<APPLICANT>
+rieter ag maschf ch <sep>maschinenfabrik rieter a.g.<sep>maschinenfabrik rieter a.g.  <sep>
+</APPLICANT>
+<INVENTOR>
+moser robert<sep>moser, robert<sep>moser, robert<sep>moser, robertetzbergstrasse 34ch-8405 winterthurch<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

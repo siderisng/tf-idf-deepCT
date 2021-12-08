@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015535
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04D-29/58 <main>F04D-29/58</main> F04B-39/06 F04D-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the interstage cooling, without condensation, of compressed gases.
+</TITLE>
+<APPLICANT>
+maschf augsburg nuernberg agde<sep>maschinenfabrik augsburg-nurnberg aktiengesellschaft<sep>m.a.n. maschinenfabrik augsburg-nürnberg aktiengesellschaftbahnhofstrasse 66d-4200 oberhausende<sep>maschinenfabrik augsburg-nurnberg aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+blotenberg wilfried dipl-ing<sep>blotenberg, wilfried, dipl.-ing.<sep>blotenberg, wilfried, dipl.-ing.hasenstrasse 20d-4200 oberhausen 12de<sep>blotenberg, wilfried, dipl.-ing.<sep>blotenberg, wilfried, dipl.-ing.hasenstrasse 20d-4200 oberhausen 12de<sep>
+</INVENTOR>
+<ABSTRACT>
+Method, wherein a substantial, the state of the gas determined to be compressed is determined before the first compression stage and the setpoint for the state of the gas on the suction side of each of which the following compressor steps is calculated by means of a function linearized by the IX DIA gramwherein the dew point temperature (absolute humidity) τa of the gas to be compressed on the suction side of the first ver sealing stage and the pressure Pi of the gas to be compressed is measured on the suction side of which of the first subsequent compressed scales and from these measurements on the hand of equation Ti =AI · τa + bi · pi + ci the permissible cooling temperature Ti is calculated as a setpoint and further determines the temperature of the gas to be compressed on the suction side of each of the first subsequent sealing stage as an actual value, wherein Ai, BI and CI are constant.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008505
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/362 <main>A61N-1/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for tachycardia investigation or control.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens elema abse<sep>siemens aktiengesellschaft<sep>siemens-elema ab<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens elema abröntgenvägen 2s-171 95 solna 1se<sep>siemens aktiengesellschaft<sep>siemens-elema ab<sep>
+</APPLICANT>
+<INVENTOR>
+kappenberger jost lucas<sep>smale john richard<sep>sowton george edgar<sep>kappenberger, jost lucas<sep>smale,john richard<sep>sowton,george edgar<sep>kappenberger, jost lucasuniversity hospital ramistrasse 100ch-8091 zürichch<sep>smale,john richard100 woodbury avenuewinchmore hill london n21 3lbgb<sep>sowton,george edgar10 beech avenuesanderstead,surreycr2 onlgb<sep>kappenberger, jost lucas<sep>smale,john richard<sep>sowton,george edgar <sep>kappenberger, jost lucas university hospital ramistrasse 100 ch-8091 zürichch<sep>smale,john richard100 woodbury avenuewinchmore hill london n21 3lbgb<sep>sowton,george edgar10 beech avenuesanderstead,surreycr2 onlgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for the investigation and/or control of  tachycardia comprising an implantable pacemaker having a  short (typically 180 ms or lower) refractory period and provid­ ing in use, output pulses in response to external stimuli  applied to the skin of the patient, and an external stimulus  generator comprising means for generating the external  stimuli.  in the control of tachycardia, the implanted unit provides  output pulses (i) in response to natural heart beats (n).  these  output pulses are detected by the external stimulus generator  through electrodes thereon held in contact with the skin.  the  external generator determines the pulse rate of the detected  pulses and, if above a preset level, generates the external  stimuli (e) of an appropriate characteristic in time and number  to cause the implanted unit to issue output pulses to arrest the  tachycardia.  the apparatus may also be used to induce a tachycardia,  enabling non-invasive electrophysiological studies to be  made.  
+</ABSTRACT>
+</TEXT>
+</DOC>

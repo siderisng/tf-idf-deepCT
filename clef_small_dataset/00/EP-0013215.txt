@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013215
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/461 C02F-1/46 C25B-9/00 <main>C25B-9/00</main> C25B-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrolysis device.
+</TITLE>
+<APPLICANT>
+ecopol safr<sep>ecopol societe anonyme<sep>ecopol société anonyme26, rue du château des rentiersf-75013 parisfr<sep>ecopol societe anonyme <sep>
+</APPLICANT>
+<INVENTOR>
+cohen samuel<sep>cohen, samuel<sep>cohen, samuel35, rue de saint-quentinf-75010 parisfr<sep>cohen, samuel <sep>cohen, samuel35, rue de saint-quentinf-75010 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an electrolysis device, at least some of the electrodes (26) are consumable.The electrodes (26) are flat, arranged horizontally and rely on each other by severity on the inside of a tank (16) filled with electrolyte, two successive electrodes being separated by balls (28) of the sameDia meter made of inert material with electrolysis, so that the espa cement between two consecutive electrodes (26) remains constant whatever the wear of the electrodes consumed whees.Application to electrolyses using consumable electrodes and in which the yield should be maintained as constant as possible, in particular to the electro lysis of seawater.
+</ABSTRACT>
+</TEXT>
+</DOC>

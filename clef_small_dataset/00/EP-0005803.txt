@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005803
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/58 C01B-31/28 <main>C01B-31/00</main> C07B-9/00 C01B-31/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of carbonyl difluorides.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+franz raimund dr<sep>franz, raimund, dr.<sep>franz, raimund, dr.johann-strauss-strasse 36d-6233 kelkheim (taunus)de<sep>franz, raimund, dr.<sep>franz, raimund, dr.johann-strauss-strasse 36d-6233 kelkheim (taunus)de<sep>
+</INVENTOR>
+<ABSTRACT>
+Carbonyl difluorides of the formula F-(CO) NF, wherein n = 1 (difluorophosgen) or 2 (oxalyl fluoride) are prepared by fluorination of the corresponding carbonyl dichlorides (phosgene, oxalyl chloride) with HF in the presence of CH₃CN and, if necessary, still a HCl-binding tert.Amins.
+</ABSTRACT>
+</TEXT>
+</DOC>

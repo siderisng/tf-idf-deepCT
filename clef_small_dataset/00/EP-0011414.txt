@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011414
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-33/00 A61L-2/08 H01J-37/30 H01J-37/06 <main>A61L-2/08</main> H01J-37/073 H01J-37/00 G21K-5/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for electron beam irradiation of surfaces.
+</TITLE>
+<APPLICANT>
+tetra pak devch<sep>tetra pak developpement sa<sep>tetra laval holdings &amp; finance saavenue général-guisan 701009 pullych<sep>tetra pak developpement sa<sep>
+</APPLICANT>
+<INVENTOR>
+cheever richard norcross<sep>cheever, richard norcross<sep>cheever, richard norcross38 pope roadacton massachusettsus<sep>cheever, richard norcross<sep>cheever, richard norcross38 pope roadacton massachusettsus<sep>
+</INVENTOR>
+<ABSTRACT>
+this disclosure is concerned with a process of and  apparatus for producing relatively low energy electron beams  through pulsed cold-cathode beam generation in a mode of  operation involving an important intermediate region of a  substantially linear depth-dose profile characteristic that  reduces the sensitivity to possible voltage variations, and with  improved triggering structures that significantly improve  reliability and minimize erratic pulse generation and missing  pulses, thus particularly adapting the process and apparatus  for such stringent applications as production-line sterilization  of surfaces, materials or workpieces passed by the apparatus.  
+</ABSTRACT>
+</TEXT>
+</DOC>

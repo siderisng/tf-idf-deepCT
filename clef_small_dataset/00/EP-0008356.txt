@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008356
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-271/06 A61K-31/4245 A61K-31/41 A61P-33/00 C07D-271/00 C07D-413/00 C07D-413/12 C07C-323/60 C07C-323/00 A61P-33/02 <main>C07D-271/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxadiazole derivatives, process for their preparation and their pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+wellcome foundgb<sep>the±wellcome foundation limited<sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb<sep>the wellcome foundation limited<sep>
+</APPLICANT>
+<INVENTOR>
+weston john bernard<sep>weston, john bernard<sep>weston, john bernard32, chiltern waytring, herts.gb<sep>weston, john bernard<sep>weston, john bernard32, chiltern waytring, herts.gb<sep>
+</INVENTOR>
+<ABSTRACT>
+anti-protozoal 1,2,4-oxadiazole derivatives of the for­ mula:    wherein r¹ is amino or substituted amino; each r² is the same  or different in one or more of the 3, 4, 5 or 6 positions and is  hydrogen, lower alkyl, halogen, hydroxy, alkoxy, alkylthio,  arylthio, amino, substituted amino, cyano or nitro; x and y  together represent a bond or x and y are both hydrogen; r³ is  hydrogen, lower alkyl, aryl, substituted aryl or ars. ch₂-; and  ar is unsubstituted or mono-, di- or tri-substituted phenyl  wherein the substituents may be the same or different, and  acid addition salts thereof, methods for their preparation,  formulations thereof and their use in the treatment of anti-­ protozoal infections, especially malaria are described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011312
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60R-16/02 B60L-15/00 B60R-16/03 H04Q-9/14 G08C-25/00 B60L-15/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+road vehicle electrical systems.
+</TITLE>
+<APPLICANT>
+lucas ind plcgb<sep>lucas industries public limited company<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>
+</APPLICANT>
+<INVENTOR>
+reed kenneth richard bradburygb<sep>reed, kenneth richard bradbury<sep>reed, kenneth richard bradbury17 lynwood roadealing, london w.5gb<sep>
+</INVENTOR>
+<ABSTRACT>
+a digital multiplex type vehicle electrical switching sys­ tem includes a transmitter and a plurality of receivers, each  controlling a plurality of load devices (l₁. . . l₄).  the transmitter  produces a sequence of multibit digital words each including  a plurality an address code bits and a plurality of utilization  code bits.  each receiver recognises its own address code and  accepts the associated utilization code.  a command verifica­ tion logic circuit (58) is connected to recognise when the  utilisation codes accepted by the receiver in successive cycles  are identical.  a fail safe circuit (66) operates to cause all the  load devices (l₁ to l₄) to be driven to predetermined "safe"  condition in the event that the command verification logic  circuit fails to produce a "utilization code verified" signal  periodically.  
+</ABSTRACT>
+</TEXT>
+</DOC>

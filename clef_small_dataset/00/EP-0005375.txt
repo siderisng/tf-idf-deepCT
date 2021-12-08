@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005375
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09B-67/52 C09B-48/00 C07D-471/04 <main>C09B-48/00</main> C09B-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing pigmentary gammaquinacridone by oxidation of beta-dihydroquinacridone in the presence of a nitrogenous quinacridone.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company  <sep>
+</APPLICANT>
+<INVENTOR>
+johnson roger alvin<sep>johnson, roger alvin<sep>johnson, roger alvin2620 lamper lanewilmington delaware 19808us<sep>johnson, roger alvin<sep>johnson, roger alvin2620 lamper lanewilmington delaware 19808us<sep>
+</INVENTOR>
+<ABSTRACT>
+gamma-quinacridone pigments are known and  commonly prepared from beta-dihydroquinacridones  using a mild oxidizing agent and an aqueous alkaline  reaction medium containing a polar organic solvent.  gamma-quinacridones  prepared in this way have valuable pigment  properties but for many applications their tinctorial  properties need to be improved and this conventionally is  done by means of a finishing treatment, normally involving  contact with a solvent medium or milling.  such finishing  treatments are a disadvantage in that they add to the  cost and inconvenience or production.  the invention  enables production, without carrying out finishing treatments,  of gamma-quinacridones having tinctorial properties  comparable to those obtained when a finishing  treatment is conducted, by carrying out the oxidation of  the beta-dihydroquinacridones in the presence of a nitrogenous  quinacridone compound of the formula:    wherein r₁ and r₂ are, each independently, hydrogen,  fluorine, chlorine, bromine, methyl or methoxy and  wherein z represents a group of one of the formulae ii and  iii below:    in which x₁ and x₂ are, each independently, hydrogen,  fluorine, chlorine, bromine, methyl or methoxy, and m is  an integer of from 1 to 4, said group(s) z being substituents  for hydrogen on the terminal rings of the quinacridone  nucleus.  
+</ABSTRACT>
+</TEXT>
+</DOC>

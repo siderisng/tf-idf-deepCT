@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009901
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08B-17/00 G08B-25/00 G08B-21/00 G08B-13/00 G08B-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+alarm system.
+</TITLE>
+<APPLICANT>
+anglo amer corp south africaza<sep>anglo american corporation of south africa limited<sep>anglo american corporation of south africa limited44 main streetjohannesburg transvaalza<sep>
+</APPLICANT>
+<INVENTOR>
+bout bernardus johannesza<sep>van der walt nicholaas tjaartza<sep>bout, bernardus johannes<sep>van der walt, nicholaas tjaart<sep>bout, bernardus johannesplot no. 47, blignautruswalkerville transvaalza<sep>van der walt, nicholaas tjaart33 thomas streetmeredale transvaalza<sep>
+</INVENTOR>
+<ABSTRACT>
+an alarm system includes at least one detecting device  (10) which provides an analogue output signal (12), means  (18) to monitor the rate of change of the analogue output  signal and provide an alarm signal (50) when the rate of  change exceeds a preset limit, and means (20) to compare  the analogue output signal to a first reference level (20a)  and provide a pre-maintenance warning signal when the  analogue output signal reaches the first reference level.  the rate monitoring means (18) comprises a sample-­ and-hold circuit (40), a difference amplifier (42) and a com­ parator (50).  circuit (40) holds the signal (12) for a pre­ determined time and amplifier (42) substracts a predeter­ mined small voltage (46).  if in the holding time the signal  (12) changes by more than voltage (46), comparator (44)  produces signal (50) indicative of the rate of change  exceeding the preset limit.  drift of signal (12) to a level  (20a) indicates the need for maintenance and reaching  upper limit (22a) or lower limit (24a) indicates that detec­ tor (10) is inoperative.  
+</ABSTRACT>
+</TEXT>
+</DOC>

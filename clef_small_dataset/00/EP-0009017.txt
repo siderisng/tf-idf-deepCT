@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009017
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C21B-7/00 C21B-7/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+shaft furnace, particularly a pressure operated blast furnace.
+</TITLE>
+<APPLICANT>
+voest alpine agat<sep>voest-alpine aktiengesellschaft<sep>voest-alpine aktiengesellschaftwerksgeländea-4010 linzat  <sep>
+</APPLICANT>
+<INVENTOR>
+haslmayr johannat<sep>muellner paulat<sep>haslmayr, johann<sep>muellner, paul<sep>haslmayr, johannim neubruch 24a-4020 linzat<sep>müllner, paulwalzwerkstrasse 19a-4050 traunat<sep>
+</INVENTOR>
+<ABSTRACT>
+in a shaft furnace, in particular a gas pressure operated blast furnace producing pig iron, the shell (1) of the furnace contains cooling elements (10) of circular cross-section arranged with mutual offset.  to minimise the area of the less cooled areas between the cooling elements and to maximise the uniformity of cooling them without losing excess heat, the cooling elements (10) are arranged at the nodes of a network formed from essentially equilateral triangles which enclose the shell (1).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

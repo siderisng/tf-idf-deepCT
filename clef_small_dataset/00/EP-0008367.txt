@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008367
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-207/48</main> C07D-333/28 C07D-409/12 A61K-31/40 C07D-207/48 C07D-333/00 C07D-333/38 C07D-207/00 C07D-307/68 C07D-307/00 C07D-405/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-arylsulfonyl pyrroles, their preparation and medicaments containing them.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+bliesener jens-uwe dr chem<sep>geiss karl-heinz dr chem<sep>lenke dieter dr<sep>mueller claus d dr<sep>bliesener, jens-uwe, dr. chem.<sep>geiss, karl-heinz, dr. chem.<sep>lenke, dieter, dr.<sep>mueller, claus d., dr.<sep>bliesener, jens-uwe, dr. chem.silvanerweg 16d-6705 deidesheimde<sep>geiss, karl-heinz, dr. chem.kirchenstrasse 8d-6711 beindersheimde<sep>lenke, dieter, dr.kekuléplatz 1d-6700 ludwigshafende<sep>mueller, claus d., dr.odenwaldring 84d-6806 viernheimde<sep>bliesener, jens-uwe, dr. chem. <sep>geiss, karl-heinz, dr. chem.  <sep>lenke, dieter, dr.<sep>mueller, claus d., dr.<sep>bliesener, jens-uwe, dr. chem.silvanerweg 16d-6705 deidesheimde<sep>geiss, karl-heinz, dr. chem.kirchenstrasse 8d-6711 beindersheimde<sep>lenke, dieter, dr.kekuléplatz 1d-6700 ludwigshafende<sep>mueller, claus d., dr.odenwaldring 84d-6806 viernheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to compounds of formula 1 in the R¹ a saturated, optionally substituted aliphatic radical with 1 to 8 C atoms, an unsaturated alkyl radical having 2 to 8 carbon atoms, a cycloalkyl radical having 3 to 7 C atoms in the ring, one Alkyl radical having 1 to 4 C atoms substituted by phenyl or a 5- or 6-membered aromatic heterocyclis chen ring with an N-, O or S atom, wherein the phenyl ring or heterocyclic ring 1- to multiple can be substituted, R² is a hydrogen atom, R¹ and R² together with the nitrogen atom a 4 to 6-membered cycloaliphatic ring, R³ a hydrogen atom or an alkyl radical with 1 to 5 C atoms, R⁴ and R⁵ are the same or different and alkyl groups with 1 to 5 C atoms, X represents an oxygen, sulfur atom or the SO or NH group and AR optionally substituted 1- to 3-fold phenyl ring, and their therapeutically usable ammo Nium, alkali metal or acid addition salts having valuable pharmacological properties, their preparation, therapeutic agents containing their use as a medicament.
+</ABSTRACT>
+</TEXT>
+</DOC>

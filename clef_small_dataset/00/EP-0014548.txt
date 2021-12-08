@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014548
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-26/12 G03G-15/04 B41J-2/44 <main>G02B-27/17</main> H04N-1/113 G02B-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flying spot scanning apparatus.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+debenedictis leonard c<sep>starkweather gary k<sep>debenedictis, leonard c.<sep>starkweather, gary k.<sep>debenedictis, leonard c.3291 carse drivelos angeles, californiaus<sep>starkweather, gary k.13225 paramount drivesaratoga, californiaus<sep>debenedictis, leonard c.<sep>starkweather, gary k.<sep>debenedictis, leonard c.3291 carse drivelos angeles, californiaus<sep>starkweather, gary k.13225 paramount drivesaratoga, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a flying spot scanning apparatus including a laser (20)  and a multifaceted rotating polygon or pyramid (44) as the  scanner.  in particular, a beam of light (34) such as that gener­ ated by a laser beam, is directed onto a first facet (42) of the  scanner.  this beam is expanded and reflected back to the  same facet (42) or any other facet (46) on the scanner by  optical means (50) positioned adjacent the scanner so that the  beam is caused to follow the facet of the scanner upon which  the beam is reflected during a complete scan and to shift to the  next facet for the following scan.  
+</ABSTRACT>
+</TEXT>
+</DOC>

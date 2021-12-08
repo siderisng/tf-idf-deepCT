@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010461
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01B-11/18</main> H01B-11/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+anti-microphonic coaxial cable to function at a high temperature.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr <sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industriel b.p. 510 f-75752 paris cedex 15 fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>
+</APPLICANT>
+<INVENTOR>
+melet georges<sep>melet, georges<sep>melet, georges2, square de grenoblef-91300 massyfr<sep>melet, georges  <sep>melet, georges2, square de grenoblef-91300 massyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  noise-suppressed coaxial, cable, of the known type comprising between the core (1) and the external sheath (3) an insulation of high-density ceramic beads (2) threaded on the cable core, characterized in that all contact surfaces between the beads and the core, between the beads and the external sheath, and between adjacent beads, are provided with a conductive metallic lining, said lining being in particular continuous on the cable core. 
+</ABSTRACT>
+<DESCRIPTION>
+l'invention se rapporte d'une manière générale aux câbles coaxiaux que l'on utilise dans les techniques de l'électronique pour transmettre des signaux électriques d'intensité très faible et s'applique plus spécialement à ceux de ces câbles qui fonctionnent en milieu hostile et à température élevée. un tel câble coaxial en soi connu, est représenté sur la fig. 1 et se compose de deux électrodes à savoir une °xfie centrale t et une tresse extérieure 3 séparées par un milieu diélectrique 2 entourant l'amie centrale. l'âme centrale 1 est généralement constituée en cuivre rouge parfois étamé, le diélectrique 2 est composé d'un matériau à haute résistivité tel que le téflon et la tresse externe 3 conductrice est généralement en cuivre rouge parfois argenté. il est également connu qu'un tel cable présente ce que l'on appelle l'effet microphonique lorsqu'il est soumis même de façon très faible aux contraintes engendrées par un régime vibratoire. en effet, dans ce cas, les glissements relatifs qui existent entre les trois éléments rappelés précédemment, entraînent des frottements qui sont générateurs de charges électriques d'autant plus grandes que le diélectrique est plus parfait. ces charges créent un champ électrique qui par induction crée des courants venant se superposer aux signaux électriques que le câble est précisément chargé de véhiculer et perturbe d'une façon parfois inacceptable la réceptionsqredusignel à transporter. pour lutter contre ce phénomène, on a envisagé de placer entre le diélectrique 2 et la tresse 3, une enveloppe en matériau plastique chargée en carbone qui, étant par conséquent semiconducteur, limite le niveau des charges électriques engendrées et permet l'écoulement de celles-ci dans la tresse 3 avec laquelle il est en contact. cette protection antimicrophonique en soi connue a toutefois l'inconvénient qu'elle ne permet pas de s'affranchir des charges électriques induites par les phénomènes de friction se développant entre l'amie 1 et le diélectrique 2 ; d'autre part, lorsqu'il s'agit de réaliser un câble coaxial fonctionnant en milieu hostile présentant des vibrations et notamment à une température élevée de l'ordre de plusieurs centaines de degrés celsius comme c'est le cas pour la transmission de mesures en provenance d'un coeur de réacteur nucléaire, il est alors impossible d'utiliser une telle enveloppe plastique intermédiaire et le problème de la protection microphonique du câble est alors totalement remis en cause. d'une façon générale d'ailleurs, pour supporter des températures de plusieurs centaines de degrés centigrades, les câbles coaxiaux subissent une transformation concernant essentiellement leur diélectrique, lequel est alors constitué d'un certain nombre de perles en céramique à haute densité, généralement en alumine pure, enfilées sur l'amie du câble et recouvertes par une tresse extérieure en acier inoxydable. la fig. 1 représente un tel câble coaxial pour haute température d'un type connu en soi. sur cette fig. 1, on a représenté un câble coaxial comportant une âme centrale 1 en acier inoxydable ou en cuivre recouvert d'acier inoxydable sur lequel sont enfilées des perles 2, en alumine pure, constituant le diélectrique. comme on voit sur la fig. 1, les perles 2 ont de préférence la
+</DESCRIPTION>
+<CLAIMS>
+ revendications    1. câble coaxial antimicrophonique pouvant fonctionner en milieu hostile et notamment à haute température, du genre de ceux qui comprennent de façon connue entre   l'amie    et la tresse   exterieure    un   diélectriqe    constitué de perles en céramique à haute densité   enfilées    sur   l'âme    du câble, caractérisé en ce que toutes les parties des surfaces des éléments constituant le câble, en contact et pouvant avoir des mouvements relatifs entre elles, sont pourvues d1un revêtement métallique, ledit revêtement étant en particulier continu sur l'ême du câble.    2. câble coaxial selon la revendication 1, caractérisé en ce que le revêtement métallique desdites surfaces est constitué d'un alliage de molybdène et de manganèse.    3. câble coaxial selon la revendication 1, caractérisé en ce que le revêtement métallique desdites surfaces est constitué de bagues et de fourreaux   métallises    sertis sur lesdites perles.     4. câble coaxial selon l'une quelconque des revendications 1 et 2, caractérisé en   e    que les perles sont des billes d'alumine pure enfilées de façon jointive sur   l'âme    et métallisées sur leurs portions de surface en contact avec   l'âme,    la tresse extérieure et les perles voisines.    5. câble coaxial selon l'une quelconque des revendications i à 3, caractérisé en ce qu'il comporte un certain nombre de pièces intercalaires métalliques enfilees sur   l'même    et placées entre chacune des perles consécutives.    6. câble coaxial selon les revendications 3 et 5, caractérisé en ce que lesdits fourreaux métalliques sont enfilés à force dans   l'orifice    central de chaque perle et constituent en même temps les pièces intercalaires.  
+</CLAIMS>
+</TEXT>
+</DOC>

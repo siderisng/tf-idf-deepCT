@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007843
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/135 C07C-313/00 C07C-323/32 A61P-25/00 A61P-25/24 C07C-225/16 A61P-25/26 C07C-213/00 C07C-225/00 C07C-323/00 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of propiophenones, their use in therapeutics and their preparation.
+</TITLE>
+<APPLICANT>
+synthelabofr <sep>synthelabo <sep>synthelabo 22, avenue galiléef-92350 le plessis robinsonfr<sep>
+</APPLICANT>
+<INVENTOR>
+najer henryfr<sep>najer, henry<sep>najer, henry2 avenue emile acollasf-75007 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds corresponding to the formula (i) <image>  in which   r1 denotes a halogen atom or the trifluoromethyl or trifluoromethylthio radical,   r2 denotes a hydrogen atom, a halogen atom or the trifluoromethyl or trifluoromethylthio radical, and   r3 denotes a cyclobutyl or tert-butyl radical, with the exception of compounds in which r1 = halogen, r2 = h and r3 = tert-butyl.  they are prepared by reaction of an amine of formula: r3nh2 with a 2-bromopropiophenone.  application in therapeutics. 
+</ABSTRACT>
+<DESCRIPTION>
+derives de propiophenone , leur application en thera peutique et leur preparation la présente invention concerne des dérivés de propiophe- none, leurs sels d'addition aux acides pharmaceutiquement acceptables, leur préparation et leur application en thérapeutique. les. composés de l'invention répondent à la formule emi1.1 dans laquelle r1 représente un atome d'halogène, le radical trifluoro méthyle ou trifluorométhylthio, r2 représente un atome d'hydrogène, un atome d'halogène, le radical trifluorométhyle ou trifluorométhylthio et r3 représente un radical cyclobutyle ou tertiobutyle, à l'exception des composés pour lesquels r1= halogène, r2 = h et r3 = tertiobutyle.- - les composés de l'invention forment avec les acides pharmaceutiquement acceptables des sels qui font partie de l'invention. on peut préparer les composés par réaction entre un composé de formule emi2.1 et un composé r3nh2 ; dans un solvant tel que l'acétonitrile à une température de o à 250c. les composés (ii) sont préparés à partir des nitriles emi2.2 décrits par la demanderesse dans son brevet 76 39033, selon le schéma réactionnel suivant emi2.3 les exemples suivants illustrent l'invention. les analyses et les spectres ir et rmn ont confirmé la structure des composés. exemple 1 m-trifluorométhylt -tertiobutylamino propiophénone et son chlorhydrate. 1. trifluorométhyl-3' propiophénone. dans un erlenmeyer de 1000 ml avec chandelier à 2 branches, ampoule à brome de 100 ml, réfrigérant ascendant,(montage sec et protégé par des gardes à caca2), on introduit 11 g (0,452 mole) de magnésium en tournures et 30 ml d'éther anhydre. on ajoute un cristal d'iode et introduit lentement une solution de 61,5 g (0,564 mole) de bromure d'é- thyle. l'introduction terminée, on chauffe 2 heures à température de reflux puis on refroidit au bain d'eau glacée. on introduit alors, lentement et à froid, une solution de 63,7 g (0,372 mole) de métatrifluorométhylbenzonitrile. lorsque l'addition est terminée, on porte à la température de reflux pendant 4 heures. on refroidit et hydrolyse par 260 ml d'hcl 2n. on décante, lave la phase éthérée à l'eau, la sèche sur mgso4. on évapore à sec et distille le résidu sous vide. eb 0,03 = 60-700c. 2. chlorhydrate de trifluorométhyl-3' tertiobutylamino-2 propiophénone. a une solution de 19,8 g (0,098 mole) de trifluorométhyl-3' propiophénone dans 70 ml de chlorure de méthylène, on introduit goutte à goutte une solution de 15,5g (0,097 mole) de brome dans 25 ml de chlorure de méthylène. on agite 1 heure 30 jusqu'à décoloration de milieu réactionnel. on évapore à sec à la température ambiante puis évapore 2 fois 50 ml de benzène. on ajoute alors 50 ml d'açétoni- trile et filtre sur papier un léger insoluble. le filtrat est alors ajouté goutte à goutte à une solution refroidie au bain d'eau glacée de 20,8 g de tertiobutylamine dans 60 ml d'acétonitrile. on agite ensuite 4 heures à ooc et laisse reposer une nuit. on filtre le précipité formé, le lave à l'éther et concentre à sec le filtrat. le résidu est repris par de l'éther. on filtre l'insoluble et lave la solution éthérée à l'eau (2 fois). on sèche sur mgso4, filtre
+</DESCRIPTION>
+<CLAIMS>
+revendications   1. composés répondant à la formule (i) emi9.1       dans laquelle r1 représente un atome d'halogène, le radical trifluoro  méthyle ou trifluorométhyltio, r2 représente un atome d'hydrogène, un atome d'halogène,  le radical trifluorométhyle ou trifluorométhyltio et r3 représente un radical cyclobutyle ou tertiobutyle, à  l'exception des composés pour lesquels r1 = halogène,    r    = h et r3 = tertiobutyle, ainsi que leurs sels d'ad  2  dition aux acides pharmaceutiquement acceptables.    2. la   m-chloroo(-cyclobutylamino    propiophénone et ses sels d'addition aux acides pharmaceutiquement acceptables.   3. procédé de préparation des composés selon la revendication 1,procédé caractérisé en ce qu'on fait réagir un composé de formule   (iq    emi9.2       et un composé r3nh2.   4.   imedicament    caractérisé en ce qu'il   contiegt    un composé spécifié dans l'une quelconque des revendications   1et2.     
+</CLAIMS>
+</TEXT>
+</DOC>

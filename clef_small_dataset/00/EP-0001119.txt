@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001119
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60G-11/113 B60G-5/00 B60G-5/047 B60G-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+twin axle mounting for trailers
+</TITLE>
+<APPLICANT>
+bergische achsen kotz soehnede<sep>bergische achsenfabrik  fr. kotz & sohne<sep>bergische achsenfabrik fr. kotz &amp; söhneam ohlerhammerd-51674 wiehlde<sep>
+</APPLICANT>
+<INVENTOR>
+steiner helmutde<sep>steiner, helmut<sep>steiner, helmutfreiherr-vom-stein-strasse 1d-5276 wiehl 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a twin axle mounting with static and dynamic load and braking compensation, in which the bearings between the leaf springs and the axle beams are designed in such a way that the line of action of the load always runs through the centre of the axle even when the leaf springs are swivelled relative to the axle beam and the spring centre always lies above the centre of the axle.  for this purpose, the bearing is formed between the leaf springs and the axle beam by a convexly curved lower bearing shell firmly connected to the axle beam and a concavely curved upper bearing shell connected firmly to the leaf spring.  the bearing can be designed as a plain bearing or as a maintenance-free rubber bearing.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

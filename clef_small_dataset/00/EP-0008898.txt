@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008898
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-29/66 <main>H01L-21/316</main> H01L-29/78 H01L-21/203 H01L-21/316 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of forming an oxide layer on a group iii-v compound.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+tsang won-tien<sep>tsang, won-tien<sep>tsang, won-tien78 woodcrest drivenew providence new jersey 07974us<sep>tsang, won-tien<sep>tsang, won-tien78 woodcrest drivenew providence new jersey 07974us<sep>
+</INVENTOR>
+<ABSTRACT>
+an oxide layer is formed on a surface (18) of an  aluminium-free iii-v compound such as gaas by first form­ ing a precursor layer (16) of alumnium-containng iii-v com­ pound such as alas or algaas and then thermally oxidizing  the precursor layer.  the aluminium-containing compound  oxidizes much more readily than the aluminium-free com­ pound, so the formation of the oxide layer is facilitated.   furthermore the oxidation is essentially self-terminating at  the surface (18).  the invention can be applied to the fabrica­ tion of mos devices.  
+</ABSTRACT>
+</TEXT>
+</DOC>

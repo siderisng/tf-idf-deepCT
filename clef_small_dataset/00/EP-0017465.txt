@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017465
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07H-19/167 C07H-19/16 C07H-19/00 C07H-19/052 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of 2,6-diaminonebularines.
+</TITLE>
+<APPLICANT>
+takeda chemical industries ltdjp<sep>takeda chemical industries, ltd.<sep>takeda chemical industries, ltd.1-1, doshomachi 4-chomechuo-ku, osakajp <sep>
+</APPLICANT>
+<INVENTOR>
+kawakami yoshiyuki jp  <sep>marumoto ryujijp<sep>sawa yoichijp<sep>kawakami, yoshiyuki<sep>marumoto, ryuji<sep>sawa, yoichi<sep>kawakami, yoshiyukitsurumai-danchi 64-5071 tsurumaihigashimachi nara 631jp<sep>marumoto, ryuji1-67, sakuragaoka 3-chomeminoo osaka 562jp<sep>sawa, yoichi19-11, sengokuhigashimachikadoma osaka 571jp<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula (i):    wherein r is phenyl which may be substituted; or their acid  addition salts, are produced in good yield by reacting a  compound of the formula (ii):    wherein r¹, r² and r³, independently of one another, are  hydroxyl which may be protected, which is prepared in 2 or 3  steps from 5-amino-1-ß-d-ribofuranosylimidazole-4-carbox­ amide, with a compound of the formula (iii):    rnh-=nh (iii) 
+</ABSTRACT>
+</TEXT>
+</DOC>

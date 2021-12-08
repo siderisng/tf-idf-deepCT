@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015371
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-25/234 B01D-53/34 C01B-33/00 <main>C01B-7/20</main> C01B-33/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separation of fluor compounds from vapours in a phosphoric-acid concentration process.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+brunold andreas<sep>diehl lothar dr<sep>kroetzsch peter dr dipl-ing<sep>brunold, andreas<sep>diehl, lothar, dr.<sep>kroetzsch, peter, dr. dipl.-ing.<sep>brunold, andreasan der tuchbleiche 3d-6712 bobenheim-roxheim 2de<sep>diehl, lothar, dr.budapester strasse 45d-6700 ludwigshafende<sep>kroetzsch, peter, dr. dipl.-ing.von-siemens-strasse 17d-6834 ketschde<sep>brunold, andreas <sep>diehl, lothar, dr.<sep>kroetzsch, peter, dr. dipl.-ing.  <sep>brunold, andreasan der tuchbleiche 3d-6712 bobenheim-roxheim 2de<sep>diehl, lothar, dr.budapester strasse 45d-6700 ludwigshafende<sep>kroetzsch, peter, dr. dipl.-ing.von-siemens-strasse 17d-6834 ketschde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for isolating fluorine compounds from the vapors obtained when evaporatively concentrating phosphoric acid, by scrubbing the vapors with an aqueous solution of fluosilicic acid under reduced pressure and at a temperature at which condensation of steam is substantially avoided, characterized in that the aqueous solution of fluosilicic acid is injected at a speed of from 15 m/s to 40 m/s into the upper part of a scrubbing zone, finely distributed over the entire cross-section of the scrubbing zone, and the vapors are passed through the scrubbing zone at a speed of from ( m/s to 30 m/s, co-current with the aqueous fluosilicic acid solution, the residence time being from 0,4 to 1,5 s. 
+</ABSTRACT>
+</TEXT>
+</DOC>

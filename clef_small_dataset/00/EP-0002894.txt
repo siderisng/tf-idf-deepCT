@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002894
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-65/56 C25B-13/02 B29C-65/00 <main>B29C-27/00</main> B29C-65/72 B29C-65/18 B29C-53/00 C25B-13/00 B29C-65/62 B29C-65/02 B29C-65/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of joining together of a sheet or sheets of a non melt-processable organic polymer.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc <sep>
+</APPLICANT>
+<INVENTOR>
+krause janusz josef henryk<sep>stanier colin<sep>krause, janusz josef henryk<sep>stanier, colin<sep>krause, janusz josef henryk14 walnut lanenorthwich cheshiregb<sep>stanier, colinstrathfield 79 queensgate castlenorthwich cheshiregb<sep>krause, janusz josef henryk <sep>stanier, colin<sep>krause, janusz josef henryk14 walnut lanenorthwich cheshiregb<sep>stanier, colinstrathfield 79 queensgate castlenorthwich cheshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of joining together a sheet or sheets of an  organic polymer which is not normally melt-processable,  e. g.  polytetrafluoroethylene, the method comprising the  steps of   (a) contacting a strip of melt-processable organic  polymer, e. g.  fluorinated ethylene/propylene copolymer,  with the faces of the sheet or sheets in the region of juxtaposed  edges of the sheet or sheets,   (b) stitching the strip to the sheet or sheets by means  of a thread, and   (c) heating the strip in order to fuse the strip and/or  the thread to seal the holes created by the stitching step,  and, where the strip has not previously been fused to the  faces of the sheet or sheets, in order to fuse the strip to the  faces of the sheet or sheets.  preferably, the thread is of a melt-processable fluorine-  containing polymer and a gauze is placed in contact with  and stitched to the faces of the sheets opposite from the  faces contacted with the strip of melt-processable organic  polymer.  the joined sheets, when porous, may be used as  diaphragms in electrolytic cells.  
+</ABSTRACT>
+</TEXT>
+</DOC>

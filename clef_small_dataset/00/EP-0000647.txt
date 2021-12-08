@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000647
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/1339 G02F-1/095 G02B-6/14 G02F-1/313 H04Q-3/52 G02F-1/05 <main>G02F-1/29</main> G02B-6/287 G02F-1/125 G02F-1/13 G02F-1/29 G02F-1/01 G02F-1/03 G02B-6/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical crosspoint switch.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+gillette dean<sep>gillette, dean<sep>gillette, dean84 rumson roadrumson new jersey 07760us<sep>gillette, dean<sep>gillette, dean84 rumson roadrumson new jersey 07760us<sep>
+</INVENTOR>
+<ABSTRACT>
+an optical crosspoint switch has a mode-sensitive reflector  (121) at the crosspoint of two crossed optical waveguide  channels (36, 51).  mode switches (61, 101) are coupled to the  channels, one (61) in one channel upstream of the reflector  and the other (101) in the other channel downstream of the  reflector.  with the mode switches in a non-converting state  optical energy passes through the crosspoint without being  redirected.  with the mode switches in a converting state the  optical energy is changed in mode by one of the mode  switches, reflected into the other channel, and then changed  back again in mode by the other mode switch.  switches according to the invention can be used in a  switching array suitable for use in telecommunications  switching.  
+</ABSTRACT>
+</TEXT>
+</DOC>

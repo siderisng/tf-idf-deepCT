@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005963
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-16/50 <main>C03C-17/02</main> G02B-6/00 C23C-16/04 C03B-37/018 G02B-5/14 C03B-37/00 C23C-11/00 H05H-1/46 C23C-16/507 C23C-16/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of plasma depositing a glass, a glass or silica optical fibre preform produced by this method, and method of making a silica optical fibre from this preform.
+</TITLE>
+<APPLICANT>
+int standard electric corpus<sep>international standard electric corporation<sep>international standard electric corporation320 park avenuenew york new york 10022us<sep>international standard electric corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+drake miles patrick<sep>sterling henley frank<sep>drake, miles patrick<sep>sterling, henley frank<sep>drake, miles patrick79 morley groveharlow essexgb<sep>sterling, henley frank18 springfieldsgreat dunmow essexgb<sep>drake, miles patrick<sep>sterling, henley frank<sep>drake, miles patrick79 morley groveharlow essexgb<sep>sterling, henley frank18 springfieldsgreat dunmow essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a vitreous material, for example silica, is deposited on  the inner surface of a tube (11) from the decomposition of a  volatile silicon compound in a hot intense inductive plasma  material by the application of radio frequency power from a  generator (17) via a coupling coil (15) and a matching coil  (16).  the use of such an inductive plasma feed with gas at a  pressure within the range of 0,1 to 50 torr, provides fusion of  the deposited silica on the inner surface of the tube, the outer  surface of the tube (11) being water cooled.  the process may  be employed in the production of preform tubes for step or  graded index optical fibre manufacture.  
+</ABSTRACT>
+</TEXT>
+</DOC>

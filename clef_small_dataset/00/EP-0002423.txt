@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002423
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-15/01 D06L-3/08 C02F-1/461 C25B-1/00 D06L-1/00 D06L-3/02 C25B-1/30 C02F-1/467 D06F-35/00 <main>C25B-1/30</main> D06L-3/00 C02F-1/72 D06L-1/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and machine for laundering and bleaching textile materials.
+</TITLE>
+<APPLICANT>
+battelle memorial institute ch <sep>battelle memorial institute<sep>battelle memorial institute7 route de drizech-1227 carouge/genèvech<sep>battelle memorial institute<sep>
+</APPLICANT>
+<INVENTOR>
+groult alain<sep>kulhanek antonin<sep>porta augusto<sep>tournier herve-noel<sep>groult, alain<sep>kulhanek, antonin<sep>porta, augusto<sep>tournier, herve-noel<sep>groult, alain"les fossets" - juvignyf-74100 annemassefr<sep>kulhanek, antonin47, avenue du lignonch-1219 le lignonch<sep>porta, augusto31, avenue de miremontch-1206 genevech<sep>tournier, hervé-noêl"le riondet"f-74520 valleiryfr<sep>groult, alain<sep>kulhanek, antonin <sep>porta, augusto  <sep>tournier, herve-noel<sep>groult, alain"les fossets" - juvignyf-74100 annemassefr<sep>kulhanek, antonin47, avenue du lignonch-1219 le lignonch<sep>porta, augusto31, avenue de miremontch-1206 genevech<sep>tournier, hervé-noêl"le riondet"f-74520 valleiryfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for washing and whitening textile materials.The process according to the invention, which is operated by means of an aqueous lesiviel bath containing a substantially devoiding detergent composition of whitening agent, is characterized in that said bleaching is obtained by incorporation into the machine (70) Audit BianLessiviel at the desired time, an oxidizing alkaline aqueous solution containing hydrogenoperoxide ions, said oxidizing alkaline aqueous solution being immediately produced before its embedded electrolytic lesiviel bath, by reduction of oxygen on an alkaline electrolysis cathode (1) In a cell.Application to the washing and whitening textile materials.
+</ABSTRACT>
+</TEXT>
+</DOC>

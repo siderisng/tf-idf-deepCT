@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017301
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-27/10 <main>H04L-27/12</main> H04L-27/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+frequency shift modulator.
+</TITLE>
+<APPLICANT>
+trt telecom radio electrfr<sep>telecommunications radioelectriques et telephoniques t. r. t.<sep>telecommunications radioelectriques et telephoniques t.r.t.88, rue brillat savarin75013 parisfr<sep>telecommunications radioelectriques et telephoniques t. r. t.<sep>
+</APPLICANT>
+<INVENTOR>
+boudault robert<sep>pouzoullic gerard societe civi<sep>boudault, robert<sep>pouzoullic, gerard societe civile s.p.i.d.<sep>boudault, robertsociété civile s.p.i.d. 209 rue de l'universitéf-75007 parisfr<sep>pouzoullic, gérard société civile s.p.i.d.209 rue de l'universitéf-75007 parisfr<sep>boudault, robert <sep>pouzoullic, gerard societe civile s.p.i.d.<sep>boudault, robert société civile s.p.i.d. 209 rue de l'université f-75007 paris fr <sep>pouzoullic, gérard société civile s.p.i.d.209 rue de l'universitéf-75007 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+This modulator comprises an operational amplifier mounted to form an integrator circuit and followed by a threshold rocker with hysteresis supplied a bivalent voltage which is applied to a terminal of a first resistance whose other terminal is to connect to an entry of said. amplifier. Logical means are provided for applying to a terminal of a second resistor whose other terminal is common with that of the first resistance, an equal voltage or complementary to the said bivalent voltage depending on the value of the donation signal. Other logical means are provided for applying to a terminal of a third resistor whose other terminal is common with those of the two aforementioned resistors, an equal voltage or complementary to the said bivalent voltage, depending on whether the desired modulated signal has a desired. central frequency or other central frequency. Finally, common resistance is inserted between the common terminal of the three aforementioned resistors and the input of the operational amplifier. Application: data transmission.
+</ABSTRACT>
+</TEXT>
+</DOC>

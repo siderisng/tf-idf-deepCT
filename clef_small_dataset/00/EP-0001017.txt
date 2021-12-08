@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001017
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-309/73 C08L-33/00 C07C-309/00 C08L-23/00 C08L-51/00 C08K-5/42 C08K-5/00 C08L-101/00 C08K-5/41 C08L-33/18 C08L-7/00 C08J-9/00 C08L-21/00 C07C-67/00 C07C-301/00 C08L-51/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+haloaryl halobenzenesulfonates, their production and their use as flame retardants.
+</TITLE>
+<APPLICANT>
+velsicol chemical corpus<sep>velsicol chemical corporation<sep>velsicol chemical corporation341 east ohio streetchicago, illinois 60611us<sep>
+</APPLICANT>
+<INVENTOR>
+albright james andrewus<sep>albright, james andrew<sep>albright, james andrew2828 yost blvdann arbor michigan 48104us<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed are haloaryl halobenzene sulfonates of the  formula    wherein x and x′ are each independently selected halogen,  preferably chlorine or bromine; n is an integer of  from 1 to 5 and m is an integer from 1 to 4, provided that  the sum of n plus m is an integer of from 4 to 9; and r  is selected from hydrogen, halogen (preferably chlorine  and bromine), and    wherein y and y′ are each independently selected halogen,  preferably chlorine and bromine, m′ is an integer from  1 to 4 and n′ is an integer of from 1 to 5, providet that  m′ + n′ is from 4 to 9 and z is an alkylene or alkylidene  containing from 1 to 6 carbon atoms.  also disclosed are  processes for their production and polymeric compositions  containing these compounds as flame retardants.  
+</ABSTRACT>
+</TEXT>
+</DOC>

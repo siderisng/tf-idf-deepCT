@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004306
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-17/08 <main>H04L-25/08</main> H03K-17/082 H04L-25/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuitry for excess current protection of electronic sending and receiving devices.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+schuhbauer ernst dipl-ing<sep>schuhbauer, ernst, dipl.-ing.<sep>schuhbauer, ernst, dipl.-ing.sonnwendjochstrasse 86d-8000 münchen 82de<sep>schuhbauer, ernst, dipl.-ing.<sep>schuhbauer, ernst, dipl.-ing.sonnwendjochstrasse 86d-8000 münchen 82de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  circuit arrangement for the protection of electronic transmitting- and receiving-devices against excess current in systems of direct current telegraphy technology, characterised in that in each case in one section of a transmitting- and/or a receiving-line there are arranged a positive-temperature-coefficient resistor (rk) and a linear resistor (rp) which is connected in parallel with the latter, that there are provided a resistor (r1) which is arranged in the collector terminal of a switching transistor (t1) positioned in the transmitting device, and an auxiliary transistor (t2) of the opposite conductivity type which lies in parallel with the collector-base path of the switching transistor (t1) and which can be controlled by means of the voltage drop at the resistor (r1) and via which an additional base current for the switching transistor (t1) is produced when an excess current flows on the terminal line (sl). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011027
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/34 <main>B01J-20/34</main> B01J-20/30 B01J-20/34 C25C-3/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for treating an adsorbent material in the form of particles loaded with at least two volatile compounds of differing thermal stability.
+</TITLE>
+<APPLICANT>
+air indfr <sep>air industrie <sep>air industrie 19-21 avenue dubonnetf-92401 courbevoiefr<sep>air industrie<sep>
+</APPLICANT>
+<INVENTOR>
+dumortier philippe<sep>marchal paul<sep>rebours albert<sep>remillieux jean<sep>dumortier, philippe<sep>marchal, paul<sep>rebours, albert<sep>remillieux, jean<sep>dumortier, philippe3, rue des courlisf-78500 sartrouvillefr<sep>marchal, paul12, avenue de la bedoyèref-92380 garchesfr<sep>rebours, albert9, rue debrayf-78400 chatoufr<sep>remillieux, jean98ter, bl, avenue de parisf-78000 versaillesfr<sep>dumortier, philippe<sep>marchal, paul<sep>rebours, albert <sep>remillieux, jean<sep>dumortier, philippe 3, rue des courlis f-78500 sartrouville fr<sep>marchal, paul12, avenue de la bedoyèref-92380 garchesfr<sep>rebours, albert9, rue debrayf-78400 chatoufr<sep>remillieux, jean98ter, bl, avenue de parisf-78000 versaillesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A method of regenerating an adsorbent material in the form of particles charged with at least two volatile compounds of different thermal stabilities.Calcination of one of the volatile compounds is caused in a first contact column (8), wherein the material is caused and suspended by an oxidizing gas stream, therein at a high temperature.The desorbed gaseous products in this first column are resetsorbed by cooled in a second contact column (20).Main applications: regeneration of alumina particles having adsorbed tar and fluorinated compounds.
+</ABSTRACT>
+</TEXT>
+</DOC>

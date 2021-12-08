@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000392
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/57 C07D-501/46 A61P-31/00 C07D-499/68 A61K-31/43 C07D-277/00 C07D-501/20 A23K-1/17 C07D-499/64 C07D-307/54 <main>C07D-501/20</main> C07D-231/12 C07D-277/48 A61K-31/429 C07D-231/00 C07D-501/34 C07D-499/00 C07D-499/70 A61K-31/545 A61K-31/546 A61P-31/04 C07D-307/00 C07D-277/20 C07D-501/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cephalosporins and penicillins, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag51368 leverkusende<sep>bayer aktiengesellschaft<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+feyen peter dr<sep>konig hans-bodo dr<sep>metzger karl georg dr<sep>preiss michael dr<sep>feyen, peter, dr.mozartstrasse 1d-4020 mettmannde<sep>könig, hans-bodo, dr.herberts katernberg 10d-5600 wuppertal 1de<sep>metzger, karl georg, dr.pahlkestrasse 15d-5600 wuppertal 1de<sep>preiss, michael, dregenstrasse 21d-5600 wuppertal 1de<sep>preiss, michael, dr<sep>feyen, peter, dr.<sep>konig, hans-bodo, dr.<sep>metzger, karl georg, dr.<sep>preiss, michael, dr<sep>feyen, peter, dr.mozartstrasse 1d-4020 mettmannde<sep>könig, hans-bodo, dr.herberts katernberg 10d-5600 wuppertal 1de<sep>metzger, karl georg, dr.pahlkestrasse 15d-5600 wuppertal 1de<sep>preiss, michael, dregenstrasse 21d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+β-lactam compounds of formula I: methods for their preparation and their use as medicines, in particular as antimicrobial agents and as a means of promoting growth and improving feed utilization in animals.The compounds according to the invention show in addition to good tolerability and solubility a wide antibacterial effect.
+</ABSTRACT>
+</TEXT>
+</DOC>

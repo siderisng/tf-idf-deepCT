@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002153
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-49/40 H01J-47/00 H01J-49/34 H01J-49/02 H01J-47/02 H01J-49/06 G01T-1/20 G01T-1/00 G01T-1/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+panoramic ion detector.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr <sep>strahlen umweltforsch gmbhde   <sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>gesellschaft fuer strahlen- und umweltforschung mbh (gsf)<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>gesellschaft für strahlen- und umweltforschung mbh (gsf)ingolstädter landstrasse 1 post oberschleissheimd-85764 oberschleissheimde<sep>
+</APPLICANT>
+<INVENTOR>
+eloy jean-francoisfr<sep>unsold eberhardde<sep>eloy, jean-francois<sep>unsold, eberhard<sep>eloy, jean-françoislabis de dessousf-38330 saint ismierfr<sep>unsold, eberhardmohrstrasse 6d-8000 münchen 45de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a panoramic ion detector spatially distributed in different beams.This detector comprises a diaphragm (1) with flat symmetry, pierced with an opening allowing the passage of the beams;This diaphragm is carried to the potential of the Earth.an electrode (5) converts the ions into electrons;This electrode has the same plane of symmetry plan that the diaphragm and it is brought to a negative potential with respect to the potential of the Earth.The detector also includes a flat electrode (9), located opposite the conversion electrode and worn to a positive potential relative to the potential of the conversion electrode.Application to the detection of charged particles.
+</ABSTRACT>
+</TEXT>
+</DOC>

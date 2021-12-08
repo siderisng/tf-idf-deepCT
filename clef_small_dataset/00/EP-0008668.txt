@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008668
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-17/00 H04B-10/04 H03K-17/06 G05F-3/08 G05F-3/22 <main>G05F-1/56</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+constant current switch and its use for powering infrared light-emitting diodes.
+</TITLE>
+<APPLICANT>
+licentia gmbh de<sep>licentia patent-verwaltungs-gmbh<sep>licentia patent-verwaltungs-gmbhtheodor-stern-kai 1d-60596 frankfurtde<sep>licentia patent-verwaltungs-gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+moser helmut<sep>nutz karl-diether<sep>moser, helmut<sep>nutz, karl-diether<sep>moser, helmutbreslauerstrasse 53d-7100 heilbronnde<sep>nutz, karl-dietherblumenstrasse 33d-7101 oedheimde<sep>moser, helmut <sep>nutz, karl-diether  <sep>moser, helmutbreslauerstrasse 53d-7100 heilbronnde<sep>nutz, karl-dietherblumenstrasse 33d-7101 oedheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The object of the application is a constant current switch for adjusting a switchable load current with fluctuating supply voltage.The circuit serves in particular for uniform control of high-performance infrared diodes.According to the invention, the base-emitter voltage is measured on a transistor connected in the load circuit circuit by means of a parallel connected voltage divider.Upon reaching a determined value of the base emitter voltage, another transistor connected to the voltage divider is controlled and the transit stor connected in the load circuit is extracted in this way base current.
+</ABSTRACT>
+</TEXT>
+</DOC>

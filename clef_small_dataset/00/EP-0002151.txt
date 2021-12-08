@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002151
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-27/00 C07C-69/712 <main>C07C-69/67</main> C07C-67/30 C07C-69/00 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the synthesis of esters of parachlorobenzoyl-phenoxy-isobutyric acid.
+</TITLE>
+<APPLICANT>
+devinter salu <sep>devinter s.a. <sep>laboratoires fournier s.a. 9 rue petitotf-21100 dijonfr<sep>devinter s.a. <sep>
+</APPLICANT>
+<INVENTOR>
+bourrelly jacques<sep>gignier jean pierre<sep>bourrelly, jacques<sep>gignier, jean pierre<sep>bourrelly, jacques4, avenue du châteauf-92190 meudonfr<sep>gignier, jean pierre4, rue des capucinesf-92190 meudonfr<sep>bourrelly, jacques<sep>gignier, jean pierre  <sep>bourrelly, jacques4, avenue du châteauf-92190 meudonfr<sep>gignier, jean pierre4, rue des capucinesf-92190 meudonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for manufacturing methyl ester of 4-(parachlorobenzoyl)-phenoxyisobutyric acid, characterized in that a so-called perkin reaction is carried out between parachlorobenzoic anhydride and the methyl ester of phenoxyisobutyric acid, said reaction being carried out within a solvent using bf3  as a catalyst and by operating at a temperature close to ambiant temperature. 
+</ABSTRACT>
+</TEXT>
+</DOC>

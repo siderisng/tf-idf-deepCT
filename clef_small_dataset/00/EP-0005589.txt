@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005589
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10G-1/00 C01B-3/00 <main>C10G-1/00</main> C10J-3/00 C10G-1/06 C10J-3/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+integrated coal liquefaction-gasification process.
+</TITLE>
+<APPLICANT>
+gulf oil corpus<sep>mitsui src dev co ltdjp<sep>ruhrkohle agde<sep>gulf oil corporation<sep>mitsui src development co., ltd.<sep>ruhrkohle aktiengesellschaft<sep>chevron u.s.a. inc.p. o. box 1166pittsburgh pennsylvania 15230us<sep>mitsui src development co., ltd.1. 1-banchi, 2-chome, muromachi nihonbashichuo-ku tokyojp<sep>ruhrkohle aktiengesellschaftrellinghauser strasse 1d-45128 essende<sep>gulf oil corporation <sep>mitsui src development co., ltd.<sep>ruhrkohle aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+schmid bruce karl<sep>schmid, bruce karl<sep>schmid, bruce karl305 south miami courtdenver colorado 80224us<sep>schmid, bruce karl<sep>schmid, bruce karl305 south miami courtdenver colorado 80224us<sep>
+</INVENTOR>
+<ABSTRACT>
+conversion of raw coal to distillate liquid and gaseous  hydrocarbon products by solvent liquefaction in the presence  of molecular hydrogen employing recycle of mineral  residue is commonly performed at a higher thermal efficiency  than conversion of coal to pipeline gas in gasification  process employing partial oxidation and methanation reactions.   the prior art has disclosed a combination coal  liquefaction-gasification process employing recycle of mineral  residue to the liquefaction zone wherein all the normally  solid dissolved coal not converted to liquid or gaseous  products in the liquefaction zone is passed to a gasification  zone for conversion to hydrogen, where the amount of  normally solid dissolved coal passed to the gasification zone  is just sufficient to enable the gasification zone to produce  the process hydrogen requirement.  the process of the  present invention provides an unexpected improvement in  the thermal efficiency of the combination process by increasing  the amount of normally solid dissolved coal prepared in  the liquefaction zone (26) and passed to the gasification zone  (76) to enable the gasification zone (76) to generate not only  all of the hydrogen required by the liquefaction zone (26) but  also to produce synthesis gas in an amount adequate to  supply all or a significant amount of the fuel requirements of  the process.  it would have been expected that shifting some  of the processing load from the ordinarily more efficient  liquefaction zone (26) to the ordinarily less efficient gasification  zone (76) would decrease process efficiency, but the  present combination process unexpectedly achieves an  overall efficiency increase by said shift.  
+</ABSTRACT>
+</TEXT>
+</DOC>

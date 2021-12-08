@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008460
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/28 <main>A61B-5/14</main> G01N-27/40 A61B-5/00 A61B-5/0408 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adhesive support and its utilization.
+</TITLE>
+<APPLICANT>
+siemens ag de<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+reichenberger helmut dr dipl-p<sep>zachmann wilfried<sep>reichenberger, helmut, dr. dipl.-phys.<sep>zachmann, wilfried<sep>reichenberger, helmut, dr. dipl.-phys.irisstrasse 8d-8501 brand/eckentalde<sep>zachmann, wilfriednöttinger strasse 41d-7537 remchingende<sep>reichenberger, helmut, dr. dipl.-phys. <sep>zachmann, wilfried<sep>reichenberger, helmut, dr. dipl.-phys.irisstrasse 8d-8501 brand/eckentalde<sep>zachmann, wilfriednöttinger strasse 41d-7537 remchingende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an adhesive mounting for measured value pick-ups which require a membrane, in particular for transcutaneous oxygen electrodes, comprising an adhesive carrier (1), which at least in part has adhesive surfaces on both sides, for sticking on to the application surface (23) of the pick-up (20), on the one hand, and for sticking the adhesive carrier (1), together with the pick-up (20) to the measuring point, on the other hand, characterized in that the adhesive carrier (1) is in the form of a ring consisting of two superimposed foils (5, 7) which are adhesive on both sides, and between which the membrane (3) is arranged in such a way that the membrane (3) covers the central opening (2) of the adhesive carrier (1) and itself forms a part of the adhesive mounting for the measured value pick-up (20). 
+</ABSTRACT>
+</TEXT>
+</DOC>

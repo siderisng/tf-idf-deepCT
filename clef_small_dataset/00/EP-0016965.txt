@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016965
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16L-5/00</main> F16L-5/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for compensating the settling of buildings.
+</TITLE>
+<APPLICANT>
+bbc reaktor gmbh de<sep>brown boveri reaktor gmbh<sep>brown boveri reaktor gmbhdudenstrasse 44d-6800 mannheim 1de<sep>brown boveri reaktor gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+krausz eduard ing-grad<sep>krausz, eduard, ing-grad<sep>krausz, eduard, ing-gradeisenacherstrasse 15d-6114 gross-umstadtde<sep>krausz, eduard, ing-grad  <sep>krausz, eduard, ing-gradeisenacherstrasse 15d-6114 gross-umstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a device to compensate for subsidence of buildings occurring in the region of pipes which enter a building from the soil through a wall, where the piping (10) passes through a wall pipe (2) which is fitted at the end protruding into the soil with a hollow body (9) whose radial dimensions are larger than those of the wall pipe and which has an opening (15) at its front end through which the piping passes, characterized in that the hollow body is open on its downward facing side (13), that the opening (15) has the same inside diameter as the wall pipe, and that the piping (10) passes through the lower region of this opening (15). 
+</ABSTRACT>
+<DESCRIPTION>
+einrichtung zur kompensierung von gebäude setzungen i)ie erfindung betrifft eine einrichtung zur kompensierung von gebäudesetzungen, die im bereich von rohrleitungen auftreten, welche vom erdreich durch eine wand in ein gebäude führen > wobei eine rohrleitung durch ein mauerrohr geführt ist. zur aufnahme derartiger gebäude setzungen ist es allgemein bekannt, zwischen mauerrohr und rohrleitungen kompensatoren anzubringen. diese anordnung hat jedoch den nachteil, dass aufgrund der umgebenden erdmassen die elastizität der kompensatoren verloren geht. die rohrleitung ist dann gewissermassen fest im erdreich eingespannt und kann der setzbewegung des gebäudes nicht folgen. dieser zustand führt zu materialspannungen mit möglicherweise nachfolgendem riss oder bruch der rohrleitung. je nachdem welches medium in der rohrleitung enthalten ist können die folgen unangenehm bis bedrohlich für mittel- oder unmittelbar betroffene sein. die erfindung stellt sich daher die aufgabe eine einrichtung anzugeben mit deren hilfe eine beschädigung einer rohrleitung aufgrund von gebäude setzungen verhindert wird. gelöst wird die aufgabe erfindungsgemäss dadurch, dass das iauerrohr an seinem in das erdreich ragenden ende mit einem hohlkörper verbunden ist dessen radialmasse grösser sind als die des mauerrohres, dass der hohlkörper an seiner nach unten gerichteten seite offen ist und an seiner stirnseite eine öffnung mit der gleichen lichten weite wie die des mauerrohres aufweist, wobei die rohrleitung im unteren bereich dieser öffnung durchgeführt ist. damit wird sichergestellt, dass ein von der lichten weite des mauerrohres abhängiger setzungsweg ohne beschädigung der rohrleitung kompensiert werden kann. gemäss einer besonderen ausgestaltung ist eine scheibe über die rohrleitung geschoben und von der innenseite des hohlkörpers mittels federn oder elastischen puffern gegen die öffnung gedrückt wobei der rand der öffnung derart angeschrägt ist, dass eine schneidkante entsteht. damit wird das eindringen von schüttgut in den hohlkörper weitgehend verhindert. weiterhin hat es sich als vorteilhaft gezeigt, die unterseite des hohlkörpers bei sehr weichem schnittgut z.b. styroporkügelchen, zu verschliessen und wenigstens eine bohrung zur entwässerung des hohlkörpers anzubringen. die öffnung an der stirnseite des hohlkörpers ist vorzugsweise als langloch ausgebildet, dessen länge gleich der lichten weite des mauerrohres und dessen breite kleiner als diese lichte weite jedoch grösser als der aussendurchmesser der rohrleitung ist. anhand eines ausführungsbeispiels und der schematischen zeichnungen fig. 1 bis 5 wird die erfindungsgemässe einrichtung beschrieben. dabei zeigen: fig. 1 den teilbereich eines gebäudes mit einer rohr durchführung gem. der erfindung. fig. 2 eine ansicht in pfeilrichtung ii der fig. 1, fig. 3 einen querschnitt nach der linie iii-iii der fig. 2, fig. 4 eine andere ausbildung der erfindungsgemässen einrichtung gem. der fig. 1 und fig. 5 eine ansicht in pfeilrichtung v der fig. 4 aus fig. 1 ist die wand 1 eines nicht weiter dargestellten gebäudes zu ersehen in die ein mauerrohr 2 eingelassen ist das mittels daran befestigter flansche 3 mit der wand 1 verbunden ist. an dem zum gebäude innenraum 4 zugewandten ende des mauer-rohres 2 ist mittels eines klemmringes oder schweissnaht 5 ein faltenbalg 6 befestigt. die aussenseite der wand 1 ist mit erde 7 bedeckt und ist deshalb mit einer isolierung 8 versehen . durch das mauerrohr 2 führt eine
+</DESCRIPTION>
+<CLAIMS>
+ a n s p r ü c h e    1. einrichtung zur kompensierung von   gebäude    setzungen, die im bereich von rohrleitungen auftreten, welche vom erdreich durch eine wand in ein gebäude führen, wobei eine rohrleitung durch ein mauerrohr geführt ist, dadurch gekennzeichnet, dass das mauerrohr (2) an seinem in das erdreich ragenden ende mit einem hohlkörper (9) verbunden ist dessen radialmasse grösser sind als die des mauerrohres, dass der hohlkörper an seiner nach unten gerichteten seite offen ist und an seiner stirnseite eine öffnung (15) mit der gleichen lichten weite wie die des mauerrohres aufweist, wobei die rohrleitung (10) im unteren bereich dieser öffnung durchgeführt ist.     2. einrichtung nach anspruch 1, dadurch gekennzeichnet, dass eine scheibe (21) über die rohrleitung (10) geschoben und von der innenseite des hohlraumes mittels federn oder elastischen puffern (22) gegen die öffnung   gedrückt    ist, wobei der rand der öffnung (15) derart angeschrägt ist, dass eine schneidkante (23) entsteht.    3. einrichtung nach anspruch 1 oder 2, dadurch gekennzeichnet, dass die unterseite verschlossen ist und wenigstens eine bohrung (19) aufweist.    4. einrichtung nach anspruch 1 oder 2, dadurch gekennzeichnet, dass die öffnung (15) ein langloch ist dessen lange gleich der lichten weite des mauerrohres und dessen breite kleiner als diese lichte weite jedoch grösser als der aussendurchmesser der rohrleitung (10) ist.  
+</CLAIMS>
+</TEXT>
+</DOC>

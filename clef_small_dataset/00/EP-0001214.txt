@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001214
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-4/52 C08F-259/04 C08F-259/00 <main>C08F-259/04</main> C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing graft polymer of pvc.
+</TITLE>
+<APPLICANT>
+firestone tire & rubber cous   <sep>the firestone tire & rubber company<sep>occidental chemical corporationp.o. box 189niagara falls new york 14302us<sep>occidental chemical corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bohm georg gustav anton<sep>trivedi prakash druman<sep>valaitis joseph kestutis<sep>bohm, georg gustav anton<sep>trivedi, prakash druman<sep>valaitis, joseph kestutis<sep>böhm, georg gustav anton1212 sunset view dr.akron ohious<sep>trivedi, prakash druman2711 shoreline dr.akron ohious<sep>valaitis, joseph kestutis9193 windswept dr.brecksville ohious<sep>bohm, georg gustav anton<sep>trivedi, prakash druman <sep>valaitis, joseph kestutis  <sep>böhm, georg gustav anton1212 sunset view dr.akron ohious<sep>trivedi, prakash druman2711 shoreline dr.akron ohious<sep>valaitis, joseph kestutis9193 windswept dr.brecksville ohious<sep>
+</INVENTOR>
+<ABSTRACT>
+process for the preparation of a graft copolymer comprising  a pvc backbone and graft branches formed from cationically  polymerizable monomers such as styrene, isoprene,  butadiene and in particular, isobutylene.  the process includes  the steps of irradiating the pvc resin to form reactive sites  thereon, dissolving the irradiated resin in a suitable solvent,  adding a monomeric charge of isobutylene and a catalytic  amount of an alkylaluminum compound to polymerize a plurality  of polyisobutylene branches from the reactive sites, subsequently  terminating the reaction and separating the graft  copolymer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

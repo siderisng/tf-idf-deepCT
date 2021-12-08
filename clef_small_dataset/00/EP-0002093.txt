@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002093
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-29/94 H01J-29/02 H01J-29/00 <main>H01J-29/94</main> H01J-29/92 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+colour television display tube.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken <sep>
+</APPLICANT>
+<INVENTOR>
+compen johannes maria azalina<sep>compen, johannes maria azalina antonius<sep>compen, johannes maria azalina antoniusc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>compen, johannes maria azalina antonius <sep>compen, johannes maria azalina antoniusc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+in a colour television display tube having an internal  resistive layer (13) the getter (19) is connected to the high  voltage contact (15) by means of a metal connection strip  (25).  in order to reduce the radio interference radiation  level of the tube the connection strip (20) has a metal contact  spring (25) which contacts the internal magnetic  screening cone (12) of the tube.  
+</ABSTRACT>
+</TEXT>
+</DOC>

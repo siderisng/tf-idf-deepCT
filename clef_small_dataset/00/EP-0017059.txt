@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017059
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-65/28 C07C-69/708 B01J-31/00 C08G-65/00 A61K-9/08 <main>C07C-69/708</main> A61K-9/00 C07C-59/125 C07C-59/00 C07C-67/26 C07C-69/00 C08G-65/26 B01J-23/00 B01F-17/44 C07B-61/00 C07C-67/00 A61K-47/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of alkoxylated fatty acids and their use as solubilisers.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft  <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+krapf heinz dr<sep>lang siegfried dr<sep>oppenlaender knut dr<sep>krapf, heinz, dr.<sep>lang, siegfried, dr.<sep>oppenlaender, knut, dr.<sep>krapf, heinz, dr.in der schleit6718 gruenstadtde<sep>lang, siegfried, dr.thomas-mann-strasse 22d-6700 ludwigshafende<sep>oppenlaender, knut, dr.otto-dill-strasse 23d-6700 ludwigshafende<sep>krapf, heinz, dr.<sep>lang, siegfried, dr.<sep>oppenlaender, knut, dr.<sep>krapf, heinz, dr.<sep>lang, siegfried, dr.<sep>oppenlaender, knut, dr.<sep>krapf, heinz, dr.in der schleit6718 gruenstadtde<sep>lang, siegfried, dr.thomas-mann-strasse 22d-6700 ludwigshafende<sep>oppenlaender, knut, dr.otto-dill-strasse 23d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to the reaction of monohydroxy fatty acids of the formula CH₃- (CH₂) M-CHOH (CH₂) N-COOH, where M represents an integer from 4 to 9 and N an integer from 6 to 11, with 12 to 20Mol ethylene oxide and the products thus obtained.The invention further relates to the use of these products as a solubilizer.
+</ABSTRACT>
+</TEXT>
+</DOC>

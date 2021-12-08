@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004228
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01P-5/18</main> H01P-5/18 H01P-5/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+microwave directional coupler, and microwave device making use of integrated circuits comprising such a couplet.
+</TITLE>
+<APPLICANT>
+thomson csf fr <sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+houdart michel<sep>houdart, michel<sep>houdart, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>houdart, michel  <sep>houdart, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The microwave coupler comprises on one side of a substrate of dielectric material 1 an arrangement of zones and conductive strips forming two coplanar lines.The central conductive band 5, 6 of the coplanar lines is prolonged by another conductive strip 7, 8, a transverse conductive strip 9 electrically connecting the conductive strips 5, 6 and the conductive strips 7, 8. The second face of the substrate of dielectric materialopposite the first face comprises a conductive sole 10 electrically coupled to the central conductive zone 2 common to the coplanar lines.The conductive sole 10 forms with the conductive strips 7, 8 of the microbend lines.Application to hyper-frequency circuits and microcircuits.
+</ABSTRACT>
+</TEXT>
+</DOC>

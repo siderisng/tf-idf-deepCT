@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001102
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07J-5/00 C07J-1/00 C12P-33/00 C12P-33/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 7-hydroxy steroids.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 basel ch<sep>
+</APPLICANT>
+<INVENTOR>
+fujiwara akiko jp <sep>fujiwara mitsuhikojp<sep>miyamoto chikarajp<sep>fujiwara, akiko<sep>fujiwara, mitsuhiko<sep>miyamoto, chikara<sep>fujiwara, akiko1059-7 fuetakamakura-shi kanagawa-kenjp<sep>fujiwara, mitsuhiko1059-7 fuetakamakura-shi kanagawa-kenjp<sep>miyamoto, chikara505 maruma building 250 kuden-cho totsuka-kuyokohama-shi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+Steroids formally in which X is methylene, hydroxymethylene or carbonyl and X represents a residue or> -OH, are hydroxylated by microorganisms of the genus mucor in 7 position.The process products are known compounds which z.b.as intermediates for the synthesis of pharmaceuticals are worth.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004162
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-27/62 G03G-15/04 G03G-21/00 G03G-15/00 <main>G03B-27/62</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+document handling apparatus for a copier.
+</TITLE>
+<APPLICANT>
+rank xerox ltdgb<sep>rank xerox limited<sep>rank xerox limited338 euston roadlondon nw1 3bhgb<sep>rank xerox limited<sep>
+</APPLICANT>
+<INVENTOR>
+murayama yuichi<sep>sugiyama terumasa<sep>murayama, yuichi<sep>sugiyama, terumasa<sep>murayama, yuichic/o fuji xerox co. ltd. 2274 hongebina-shi kanagawa-kenjp<sep>sugiyama, terumasac/o fuji xerox co. ltd. 2274 hongebina-shi kanagawa-kenjp<sep>murayama, yuichi  <sep>sugiyama, terumasa<sep>murayama, yuichic/o fuji xerox co. ltd. 2274 hongebina-shi kanagawa-kenjp<sep>sugiyama, terumasac/o fuji xerox co. ltd. 2274 hongebina-shi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a low cost original document handling apparatus (a) for  a copying machine (6) for automatically discharging the original  document from the platen (35) after it has been copied.  it  is automatically driven for an electrically controlled time  period (13) by a helical spring drive system (b) which automatically  stores and subsequently utilizes the platen cover  (7) opening or closing force to eject documents and eliminate  the cost and power consumption of a conventional electrically  driven document drive system.  it includes automatic  over-winding protection (60).  a dual function electromechanical  release system (d) automatically unlatches the  platen cover after connecting the spring drive (b) to eject the  document.  
+</ABSTRACT>
+</TEXT>
+</DOC>

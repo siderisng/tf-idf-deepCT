@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017502
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-35/02 <main>G01N-27/16</main> G01N-27/12 G01N-27/16 G01N-27/14 G01N-27/407 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxygen sensor element.
+</TITLE>
+<APPLICANT>
+matsushita electric ind co ltdjp<sep>matsushita electric industrial co., ltd<sep>matsushita electric industrial co., ltd.1006, oaza kadomakadoma-shi, osaka-fu, 571jp<sep>matsushita electric industrial co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+ariga kozo<sep>sekido satoshi<sep>ariga, kozo<sep>sekido, satoshi<sep>ariga, kozo37-31, nishi-machitakatsuki-shi osakajp<sep>sekido, satoshi53-10, kurigatanihashimoto yawata-shi kyotojp<sep>ariga, kozo<sep>sekido, satoshi<sep>ariga, kozo37-31, nishi-machitakatsuki-shi osakajp<sep>sekido, satoshi53-10, kurigatanihashimoto yawata-shi kyotojp<sep>
+</INVENTOR>
+<ABSTRACT>
+oxygen sensor elements comprising an oxide substrate,  such as zirconia, titania or mgco₂o₄, and a pair of electrodes  electrically connected thereto are known.  sensor elements  having a zirconia substrate and platinum electrodes are  efficient but expensive, while sensor elements having a  titania or mgco₂o₄ substrate can be inexpensive but have no  catalytic function in the conversion of harmful gases in, for  example, exhaust gases into harmless gases.  the invention provides an oxygen sensor element  wherein the oxide substrate is a compound oxide of the  perovskite type having a formula abo₃ in which a represents  an element of the lanthanum family.  an alkaline earth metal  or a mixture thereof and b represents a transition metal.  not only does the compound oxide substrate of the  sensor element have a catalytic function, but also the sensor  element is relatively inexpensive and simple to construct.  
+</ABSTRACT>
+</TEXT>
+</DOC>

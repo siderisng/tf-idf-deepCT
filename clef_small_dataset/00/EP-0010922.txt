@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010922
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-27/26 H04Q-1/457 <main>G01R-23/15</main> G01R-23/00 H04Q-1/30 G01R-23/15 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for determining periodic components of an alternating signal.
+</TITLE>
+<APPLICANT>
+gurry george williamgb<sep>mccarthy bertram fgb<sep>gurry, george william<sep>mccarthy, bertram frederick<sep>consumer microcircuits limitedwheaton road industrial estatewitham, essexgb<sep>consumer microcircuits limited  <sep>
+</APPLICANT>
+<INVENTOR>
+gurry george william<sep>gurry, george william<sep>gurry, george william3 highfield closedanbury, essexgb<sep>gurry, george william<sep>gurry, george william3 highfield closedanbury, essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a device for sensing the frequency of an alternating  electrical input signal.  an autocorrelator (ac) at an input  to the device generates a signal having a periodic compo­ nent of frequency equal to four times the frequency of any  periodic component in the input signal.  the amplitude of  non-periodic components is substantially reduced.  the  autocorrelator (ac) is followed by a series of sixteen fre­ quency dividers (fd) whose outputs are applied to respec­ tive comparators (gc).  within each comparator (gc) the  signal from a divider is compared with one of sixteen win­ dow signals, each representing a predetermined range of  periods.  any output from the comparator (gc) is converted  to a binary decimal form and is applied to a qualifier cir­ cuit (qc).  the qualifier circuit only gives an output if at  least eleven of the last eighteen signals applied thereto  have represented a signal whose period lies within the  same one of the predetermined ranges of periods.  
+</ABSTRACT>
+</TEXT>
+</DOC>

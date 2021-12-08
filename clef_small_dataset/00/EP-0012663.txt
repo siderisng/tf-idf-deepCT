@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012663
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/24 <main>G11C-11/40</main> G11C-11/414 G11C-11/34 G11C-11/4093 G11C-11/409 G11C-7/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+memory information access time reduction device for an information processing system.
+</TITLE>
+<APPLICANT>
+cii honeywell bull fr  <sep>compagnie internationale pour l'informatique cii - honeywell bull (dite  cii-hb)<sep>compagnie internationale pour l'informatique cii - honeywell bull (dite cii-hb)94, avenue gambetta75020 parisfr<sep>compagnie internationale pour l'informatique cii - honeywell bull (dite  cii-hb)  <sep>
+</APPLICANT>
+<INVENTOR>
+girard paul marie<sep>girard, paul, marie<sep>girard, paul, marie2 bis, rue de savoief-78000 versaillesfr<sep>girard, paul, marie<sep>girard, paul, marie2 bis, rue de savoief-78000 versaillesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The dispositiv consists of a register of information (2) whose input and the output are connected with each other and at the information output of the memory (1) of the milking system, the output of the register ofinformation (2) that can or can not be connected to an emission member (3).Application: data processing system.
+</ABSTRACT>
+</TEXT>
+</DOC>

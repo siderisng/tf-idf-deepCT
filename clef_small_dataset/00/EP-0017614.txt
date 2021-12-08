@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017614
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-323/12 C08L-11/00 C10M-135/24 C08L-55/00 C09K-15/14 C08L-9/00 C10M-107/00 C10M-101/00 C07C-321/00 C07C-321/06 C10M-135/26 C08K-5/36 C08K-5/13 C10M-101/02 <main>C07C-149/18</main> C10M-107/08 C08L-55/02 C10M-107/42 C08K-5/00 C10M-135/00 C09K-15/00 C07C-323/00 C08K-5/37 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of esters of mercaptoalcanols with hydroxyphenylcarboxylic acids.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+rosenberger siegfried<sep>rosenberger, siegfried<sep>rosenberger, siegfriedim gehracker 11ch-4125 riehench<sep>rosenberger, siegfried<sep>rosenberger, siegfriedim gehracker 11ch-4125 riehench<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of phenols of formula I wherein R₁ is alkyl with 1 to 18 C atoms, cycloalkyl, phenyl, aralkyl or chloro, R₁ has hydrogen or the meaning of R₁, R₃ is hydrogen or C₁-C₁₂ alkyl, R₄, no matter, with arylor hydroxV substituted C₂-C₁₈ alkylene and n is an integer between 0 and 4, characterized in that one compound of formula II with a mercaptoalcohol of the formula HO-R₄-SH, wherein R₁, R₂, R₃ and R₄, is the claim1 have meaning and R₅ is alkyl with 1 to 4 C atoms, in the presence of a catalyst of the formula (R₆O) M, wherein R₆ is the same or different alkyl radicals having 1 to 18 C atoms, aryl or alkaryyl and MThe element Ti, Ge, Zr, Sn or V is transest.
+</ABSTRACT>
+</TEXT>
+</DOC>

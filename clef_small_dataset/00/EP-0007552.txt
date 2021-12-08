@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007552
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-21/00 H02P-21/14 H02P-27/06 H02P-21/10 H02P-21/06 H02P-27/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for forming a voltage signal which is proportional to a magnetic flux component within a rotating field machine.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+dreiseitl walter dipl-ingde <sep>koellensperger dieter dipl-ingde   <sep>salzmann theodor dipl-ingde<sep>schlegel thomasde<sep>weigel wolf-dieter dr dipl-ingde<sep>dreiseitl, walter, dipl.-ing.<sep>koellensperger, dieter, dipl.-ing.<sep>salzmann, theodor, dipl.-ing.<sep>schlegel, thomas<sep>weigel, wolf-dieter, dr. dipl.-ing.<sep>dreiseitl, walter, dipl.-ing.alterlanger strasse 23ad-8520 erlangende<sep>köllensperger, dieter, dipl.-ing.kulmbacher strasse 4d-8520 erlangende<sep>salzmann, theodor, dipl.-ing.leimbergerstrasse 29d-8520 erlangende<sep>schlegel, thomasdr. georg-dassler-strasse 36d-8551 hemhofende<sep>weigel, wolf-dieter, dr. dipl.-ing.nr. 126d-8524 kleinsendelbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+To form an electrical voltage signal proportional to a flow component (ψr) in a rotary field machine (M), a circuit arrangement (I) input is supplied to a voltage (UR) associated with the flow component. At the output of a lntegrator (V1), a voltage signal proportional to the flow component (ψr) is tapped. The input of a zero point controller (V2, V3, V4, F1, F2) dimensioned for suppressing the equal part of this voltage signal is connected to the output of the integrator (V1) and the output at a sum number (S1) at the input of the integrator (V1) Sen regardless of the frequency (ω) of the rotary field machine (m) the machine flow is detected phase corrective and amp literiform, wherein the zero point controller from the beginning of the location location of the rotor of the rotary field machine (m) to the nominal frequency of the rotary field machine (m) continuously in engagement should. The zero point controller (V2, V3, V4, F1, F2) has a P controller (V3) and an I-controller (V4) whose output signals are supplied to the totals point (S1). The output signal of the integrator (V1) is weighted proportional to the frequency (ω) of the rotary field machine (M) (A; F1) weighted to the input of the P controller (V3) and proportional to the quad council of the frequency (ω 2) (A²; F1, F2) supplied to the input of the I controller (V4), wherein the weighting factor (A) has a maximum value of 1. The circuit arrangement (I) represents an AC integrator whose natural frequency depends on the frequency of the rotary field machine, wherein the passage frequency and the DEMP function remain constant- Even the phase error remains dents over the entire speed range of the rotary field machine (M) cons.
+</ABSTRACT>
+</TEXT>
+</DOC>

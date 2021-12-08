@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002886
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-25/00 A61K-31/455 C07D-401/00 A61P-25/24 C07D-401/06 A61P-25/26 A61K-31/4427 C07D-209/00 C07D-409/00 A61K-31/445 A61K-31/4433 C07D-409/14 C07D-209/14 <main>C07D-401/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+indole derivatives, their preparation and use in pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+wyeth john & brother ltdgb<sep>john wyeth & brother limited<sep>john wyeth &amp; brother limitedhuntercombe lane south taplowmaidenhead berkshire, sl6 0phgb<sep>john wyeth & brother limited<sep>
+</APPLICANT>
+<INVENTOR>
+archibald john leheup<sep>ward terence james<sep>archibald, john leheup<sep>ward, terence james<sep>archibald, john leheup136 springfield roadwindsor, berkshiregb<sep>ward, terence james11 iona crescentcippenham slough, berkshiregb<sep>archibald, john leheup  <sep>ward, terence james<sep>archibald, john leheup136 springfield roadwindsor, berkshiregb<sep>ward, terence james11 iona crescentcippenham slough, berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention concerns a compounds of formula ii    or an acid addition or quaternary ammonium salt thereof  wherein r⁵ represents hydrogen, hydroxy, lower alkoxy or  lower alkyl.  r⁶ represents hydrogen or lower alkyl, and  r represents phenyl, lower alkoxy phenyl, halophenyl, or  thenyl and x represents oxygen or sulphur.  the invention  includes pharmaceutical compositions containing the novel  indole derivatives and processes for their preparation.   these indole derivatives exhibit psychotropic activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

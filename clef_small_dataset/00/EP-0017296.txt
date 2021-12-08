@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017296
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-3/00 G02B-6/124 <main>C03C-17/02</main> C03C-17/34 C03C-17/02 C03B-20/00 H01L-33/00 G03B-13/36 C03C-19/00 G02B-6/32 G02B-7/26 G02B-7/28 C03C-27/00 G02B-6/13 C03C-3/06 C03C-27/06 C03B-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for making microlenses and coupling element comprising a microlens prepared by this process.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>philips patentverwaltungde<sep>n.v. philips' gloeilampenfabrieken<sep>philips patentverwaltung gmbh<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips patentverwaltung gmbhröntgenstrasse 2422335 hamburgde<sep>n.v. philips' gloeilampenfabrieken <sep>philips patentverwaltung gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+franken adrianus jacobus josef<sep>khoe giok-djan<sep>kuppers dieter dr<sep>franken, adrianus jacobus josef<sep>khoe, giok-djan<sep>kuppers, dieter, dr.<sep>franken, adrianus jacobus josefpieter zeemanstraat 6nl-5621 ct eindhovennl<sep>khoe, giok-djanpieter zeemanstraat 6nl-5621 ct eindhovennl<sep>küppers, dieter, dr.monheimsallee 27d-5100 aachende<sep>franken, adrianus jacobus josef<sep>khoe, giok-djan<sep>kuppers, dieter, dr.<sep>franken, adrianus jacobus josefpieter zeemanstraat 6nl-5621 ct eindhovennl<sep>khoe, giok-djanpieter zeemanstraat 6nl-5621 ct eindhovennl<sep>küppers, dieter, dr.monheimsallee 27d-5100 aachende<sep>
+</INVENTOR>
+<ABSTRACT>
+Simply handled microlenses are prepared by mounting rotationally symmetrical deaf gene in a glass plate, then with a deposition process zetus from the vapor phase glassy layers are deposited on the plate until the recesses are completely filled, after which the thickness of the coated glass plate on the original or onesmaller value is reduced.Two lenses produced in this way are then combined to a lens by connecting the embedded lenses together with their flat sides.
+</ABSTRACT>
+</TEXT>
+</DOC>

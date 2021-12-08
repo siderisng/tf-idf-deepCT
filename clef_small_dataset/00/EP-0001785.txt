@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001785
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-9/083 <main>G03G-9/08</main> G03G-9/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+classified electrostatographic toner material, developing mixture and developing process using this mixture.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+abbott jerry joe<sep>fuller sterritt ray <sep>jachimiak paul daniel<sep>abbott, jerry joe  <sep>fuller, sterritt ray<sep>jachimiak, paul daniel<sep>abbott, jerry joe164 baylor drivelongmont colorado 80501us<sep>fuller, sterritt raydeer trail roadboulder colorado 80303us<sep>jachimiak, paul daniel1859 stillwater waylafayette colorado 80026us<sep>abbott, jerry joe <sep>fuller, sterritt ray<sep>jachimiak, paul daniel  <sep>abbott, jerry joe 164 baylor drivelongmont colorado 80501us<sep>fuller, sterritt raydeer trail roadboulder colorado 80303us<sep>jachimiak, paul daniel1859 stillwater waylafayette colorado 80026us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  classified electrostatographic toner material characterized in that it contains particles having the following size distribution : a) less than 2% by weight of the particles being greater than 16 microns ; b) from 9 to 15% by weight of the particles being smaller than 5 microns ; c) the remaining particles being between 5 and 16 microns in size ; and that it has a particle median size by weight between 8. 5 and 9. 5 microns. 
+</ABSTRACT>
+</TEXT>
+</DOC>

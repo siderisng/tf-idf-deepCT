@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004124
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/68 H01T-20/00 G01N-27/64 <main>G01N-27/62</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for trace vapour detection.
+</TITLE>
+<APPLICANT>
+pye electronic prod ltdgb<sep>pye (electronic products) limited<sep>pye (electronic products) limitedst. andrews roadcambridge cb4 1dpgb<sep>pye (electronic products) limited <sep>
+</APPLICANT>
+<INVENTOR>
+bradshaw robert fagan donat c<sep>kraicer alec c o philips elect<sep>bradshaw, robert fagan donat c/ophilips electronic<sep>kraicer, alec c/o philips electronic and ass.<sep>bradshaw, robert fagan donat c/ophilips electronicand ass. industries ltd, patent dept. berkshire h.168-173 high holborn london,wc1v 7aqgb<sep>kraicer, alec c/o philips electronic and ass.industries ltd, patent dept. berkshire house168-173 high holborn london wc1v 7aqgb<sep>bradshaw, robert fagan donat c/ophilips electronic<sep>kraicer, alec c/o philips electronic and ass.  <sep>bradshaw, robert fagan donat c/ophilips electronicand ass. industries ltd, patent dept. berkshire h.168-173 high holborn london,wc1v 7aqgb<sep>kraicer, alec c/o philips electronic and ass.industries ltd, patent dept. berkshire house168-173 high holborn london wc1v 7aqgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for detecting trace quantities of chemical  species in the form of a vapour by subjecting ions produced  in a sample of the mixed gases under flow to an ion repulsive  electric field which is directed in the opposite direction to the  flow of the gases, comprising means such as a fan (13) for  drawing the sample through a hollow body, having an inlet  (7), a first region (15) containing means (20) for ionising at  least a proportion of the molecules of the sample by a corona  discharge, a second region (16) in which the sample is subjected  to an oppositely directed ion repulsive electric field  and a third region (17) having an electrode (24) for collecting  ions of selected polarity.  ions of a selected polarity whose  ionic mobilities exceed a value dependent on the strength of  the ion repulsive electric field and the velocity of the gas flow  are prevented from entering the third region (17).  means  such as a resistor (71) may be provided to limit the current of  the corona electric discharge to a value not greater than 100  nanoamps.  
+</ABSTRACT>
+</TEXT>
+</DOC>

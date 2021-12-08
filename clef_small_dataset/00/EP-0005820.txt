@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005820
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22D-11/18 B22D-11/11 B22D-11/14 B22D-11/10 G05D-7/00 B22D-11/106 <main>B22D-11/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device for the continuous casting of metals by one or several lines.
+</TITLE>
+<APPLICANT>
+concast agch<sep>concast ag<sep>concast holding agtödistrasse 7ch-8027 zürichch<sep>concast holding ag <sep>
+</APPLICANT>
+<INVENTOR>
+heck klaus<sep>schmid markus<sep>heck, klaus<sep>schmid, markus<sep>heck, klausneuackerstrasse 2ch-8125 zollikerbergch<sep>schmid, markusfrauentalweg 14ch-8045 zürichch<sep>heck, klaus<sep>schmid, markus<sep>heck, klausneuackerstrasse 2ch-8125 zollikerbergch<sep>schmid, markusfrauentalweg 14ch-8045 zürichch<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method for the continuous casting of metal in singlestrand or multi-strand installations wherein the metal, especially steel, is poured from a casting vessel (2) through a casting tube (4) into at least one oscillating mould (1) having a closed-off gas-filled cavity (5) which is located above the bath level (6) in the mould and is under pressure and into which inert gas is introduced during casting and is then separated off upwardly into the atmosphere in the form of bubbles flowing in the direction opposite to that of the metal flowing into the casting tube, characterized in that, by means of a constant inflow of gas, the gas pressure in the cavity is held constantly and automatically at a value equal to the static pressure of the column of metal, irrespective of the height of the column of metal above the bath level in the mould. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013603
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-17/14 G11C-17/06 H01L-27/06 H01L-29/86 G11C-17/08 <main>G11C-17/00</main> H01L-21/268 H01L-29/66 H01L-21/02 H01L-27/102 H01L-21/8229 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved read only memory and method of programming such a memory.
+</TITLE>
+<APPLICANT>
+univ leland stanford juniorus<sep>the board of trustees of the leland stanford junior university <sep>the board of trustees of the leland stanford junior universityoffice of technology and licensing, 105 encina hall, stanford universitystanford, california 94305 us  <sep>the board of trustees of the leland stanford junior university<sep>
+</APPLICANT>
+<INVENTOR>
+gat arnon<sep>gerzberg levy<sep>gibbons james f<sep>melen roger<sep>gat, arnon<sep>gerzberg, levy<sep>gibbons, james f.<sep>melen, roger<sep>gat, arnon75-a escondido villagestanford california 94305us<sep>gerzberg, levy88 roosevelt circlepalo alto california 94306us<sep>gibbons, james f.320 tennysonpalo alto california 94301us<sep>melen, roger12992 vista del valle ct.los altos hills california 94022us<sep>gat, arnon<sep>gerzberg, levy  <sep>gibbons, james f. <sep>melen, roger<sep>gat, arnon75-a escondido villagestanford california 94305us<sep>gerzberg, levy88 roosevelt circlepalo alto california 94306us<sep>gibbons, james f.320 tennysonpalo alto california 94301us<sep>melen, roger12992 vista del valle ct.los altos hills california 94022us<sep>
+</INVENTOR>
+<ABSTRACT>
+a programmable read only memory (prom) includes a  first plurality of conductive lines (26), a second plurality of  conductive lines (32) and polycrystalline silicon material (28)  therebetween.  at the crossing points of the first and second  plurality of lines doped regions (30) are provided in the polycrystalline  silicon (28) in contact with a second line (32) and  which extend at least partially through the material.  to provide  a diode interconnect at any crossing point, the associated  region is irradiated by a laser beam, e. g.  at areas (34) spaced  from the second lines (32), to either cause diffusion of dopant  atoms to the underlaying conductive line (26) or activate  implanted ions, thereby electrically interconnecting the first  and second lines through a diode.  the prom is readily fabricated  as part of a monolithic integrated circuit or electrical  array and can be programmed after completion of the fabrication  process.  
+</ABSTRACT>
+</TEXT>
+</DOC>

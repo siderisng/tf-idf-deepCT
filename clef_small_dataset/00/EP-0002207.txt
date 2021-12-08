@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002207
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07C-51/58 C07C-57/76 C07C-51/00 C07C-45/89 C07C-51/62 C07C-49/88 C07C-61/16 C07C-67/00 C07C-51/60 <main>C07C-49/587</main> C07C-49/687 C07C-57/00 C07C-61/00 C07C-49/693 C07C-61/40 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dichlorovinylcyclobutanones, process for their preparation and their use as intermediates in the preparation of pesticides.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+bellus daniel dr<sep>martin pierre dr<sep>bellus, daniel, dr.<sep>martin, pierre, dr.<sep>bellus, daniel, dr.unterm schellenberg 81ch-4125 riehench<sep>martin, pierre, dr.meisenweg 38ch-4310 rheinfeldench<sep>bellus, daniel, dr.<sep>martin, pierre, dr.<sep>bellus, daniel, dr.unterm schellenberg 81ch-4125 riehench<sep>martin, pierre, dr.meisenweg 38ch-4310 rheinfeldench<sep>
+</INVENTOR>
+<ABSTRACT>
+Dichlorvinylcyclobutanone of the formula wherein one of R₁ and R₂ is methyl and the other hydrogen or methyl or R₁ and R₂ together alkylene with 2-4 C atoms, x chlorine and y are hydrogen or x hydrogen and y chlorine, methods for their preparation and theirUse as intermediates for the production of pesticides.
+</ABSTRACT>
+</TEXT>
+</DOC>

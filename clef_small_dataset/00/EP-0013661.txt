@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013661
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-31/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for the quantitative determination of nitrogen.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 141 4002 basel ch <sep>
+</APPLICANT>
+<INVENTOR>
+affolter jean drch<sep>affolter, jean, dr.<sep>affolter, jean, dr.chemin de la mouline 6ch-1022 chavannesch<sep>
+</INVENTOR>
+<ABSTRACT>
+the sample to be analysed is sent with the aid of a hydrogen and helium carrier gas stream through a reduction furnace (23) wherein the nitrogen compounds present in the sample are catalytically reduced to ammonia.  the acidic constituents are eliminated from the gas mixture.  the ammonia is then catalytically oxidised with oxygen in a second furnace (24) to give nitrogen oxides.  the nitrogen oxide content of the resulting gas mixture is determined with a selective analyser (21) and used in an integrator (22) to determine the total nitrogen content.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015884
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/00 F24D-19/10 F24H-1/22 F24H-9/20 F24H-7/00 <main>F24H-1/12</main> F24H-7/02 F24H-1/00 F24D-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for production of hot water.
+</TITLE>
+<APPLICANT>
+ctc abse <sep>ab ctc<sep>ab ctc box 135 s-341 00 ljungby se<sep>ab ctc<sep>
+</APPLICANT>
+<INVENTOR>
+fransson lennarth<sep>hillerstrom bjorn<sep>thuvander arne<sep>fransson, lennarth<sep>hillerstrom, bjorn<sep>thuvander, arne<sep>fransson, lennarthsunnerbostigen 34s-341 00 ljungbyse<sep>hillerström, björntorvavägen 7 as-430 34 onsalase<sep>thuvander, arnelingonstigen 12s-341 00 ljungbyse<sep>fransson, lennarth <sep>hillerstrom, bjorn<sep>thuvander, arne  <sep>fransson, lennarthsunnerbostigen 34s-341 00 ljungbyse<sep>hillerström, björntorvavägen 7 as-430 34 onsalase<sep>thuvander, arnelingonstigen 12s-341 00 ljungbyse<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for production of tap hot water com­ prising a heat exchanger (1), connected to a storage tank  with hot water, for example a boiler (2), the primary cir­ cuit of which is intended to be flowed through by the  said hot water and to the secondary circuit of which the  cold water is intended to be supplied.  a connection in  series of the primary circuit and the circulation pump (5)  is connected in parallel with a shunt line (6), in addition  to which a thermostat (11) in thermic contact with a con­ nection (12) in the heat exchanger (1) for the supplied  cold water is arranged to control the supply of hot water  from the storage tank (2) to the primary circuit in the  heat exchanger (1).  the thermostat (11) can be arranged  control engagement and disengagement of the circu­ lation pump (5).  also installed in a connection point be­ tween the inlet end of the shunt line (6) and a return line  (4) from the heat exchanger to the storage tank is a  thermostat-controlled regulating valve (7) for regulation  of the ratio between the water flow through the shunt  line (6) and the returned water flow through the return  line (4) to the storage tank (2).  
+</ABSTRACT>
+</TEXT>
+</DOC>

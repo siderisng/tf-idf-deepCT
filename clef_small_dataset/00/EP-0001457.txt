@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001457
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10G-21/00 C07C-7/00 <main>C07C-9/14</main> C07C-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the recovery of n-hexane free of benzene.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde<sep>metallgesellschaft ag<sep>metallgesellschaft agpostfach 10 15 01, reuterweg 14 d-60015 frankfurtde<sep>metallgesellschaft ag<sep>
+</APPLICANT>
+<INVENTOR>
+danulat hans-friedrich dipl-in <sep>john kamar percy<sep>klein helmut dipl-ing<sep>lukatsch stephan dipl-ing<sep>danulat, hans-friedrich, dipl.-ing.<sep>john, kamar percy<sep>klein, helmut, dipl.-ing.<sep>lukatsch, stephan, dipl.-ing.<sep>danulat, hans-friedrich, dipl.-ing.adalbert-stifter-strasse 4d-6000 frankfurt am mainde<sep>john, kamar percylandwehrweg 51d-6380 bad homburgde<sep>klein, helmut, dipl.-ing.auf dem unterfeld 2d-6450 hanaude<sep>lukatsch, stephan, dipl.-ing.nordweststrasse 55d-6057 dietzenbachde<sep>danulat, hans-friedrich, dipl.-ing.<sep>john, kamar percy<sep>klein, helmut, dipl.-ing. <sep>lukatsch, stephan, dipl.-ing.<sep>danulat, hans-friedrich, dipl.-ing. adalbert-stifter-strasse 4 d-6000 frankfurt am main de <sep>john, kamar percylandwehrweg 51d-6380 bad homburgde<sep>klein, helmut, dipl.-ing.auf dem unterfeld 2d-6450 hanaude<sep>lukatsch, stephan, dipl.-ing.nordweststrasse 55d-6057 dietzenbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for obtaining aromatic n-hexane from a mixture of aromatics and non-aromatics by extractive distillation. The mixture is transferred to a first distillation column, distilled and a benzene of relapsed marsh product and the non-aromatic-centered head product. The distillate is subtracted at the top of the feeding of the mixture to be processed since Lich and transferred to the upper part of a second DE Stillierkolonne. From this second Destillierko Lonne, the hexane section is pulled off as a marsh product and gives it approximately in the middle of an extractive distillation column. Then, it is extracted with a selective solvent which is abandoned above the supply of the sump product of the second Destil Lierkolonne which is cut out of the hexane. The selective solvent-containing marsh product is withdrawn and the head-led vapors after condensation as aromatics free N-hexane.
+</ABSTRACT>
+</TEXT>
+</DOC>

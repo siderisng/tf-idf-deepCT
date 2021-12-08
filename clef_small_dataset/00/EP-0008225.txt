@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008225
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B31F-1/20</main> B65H-29/00 B31F-1/24 B31F-1/20 B31F-1/00 B65H-29/12 B31F-1/28 B31F-1/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method and an apparatus for producing warp-free corrugated cardboard.
+</TITLE>
+<APPLICANT>
+mitsubishi heavy ind ltdjp   <sep>mitsubishi jukogyo kabushiki kaisha<sep>mitsubishi jukogyo kabushiki kaisha5-1, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi jukogyo kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+hirakawa tadashi<sep>kusubayashi toshiaki<sep>oku yukio<sep>hirakawa, tadashi<sep>kusubayashi, toshiaki<sep>oku, yukio<sep>hirakawa, tadashi934-2 nakano-chomihara-shi, hiroshima-kenjp<sep>kusubayashi, toshiaki1297-3, numata-chomihara-shi, hiroshima-kenjp<sep>oku, yukio4274, higashi-machimihara-shi, hiroshima-kenjp<sep>hirakawa, tadashi <sep>kusubayashi, toshiaki<sep>oku, yukio  <sep>hirakawa, tadashi934-2 nakano-chomihara-shi, hiroshima-kenjp<sep>kusubayashi, toshiaki1297-3, numata-chomihara-shi, hiroshima-kenjp<sep>oku, yukio4274, higashi-machimihara-shi, hiroshima-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to an improved method and  apparatus for the production of a warp-free corrugated  cardboard from a corrugating machine.  in one aspect a method for producing warp-free corru­ gated cardboard (17) is characterised in that a continuously  running web of corrugated cardboard is induced with al­ ternate upward and downward warps by applying moisture  alternately to the two liners (13, 16) of said corrugated card­ board for each length corresponding to a first predeter­ mined number of cut cardboard sheets, and subsequently,  after said web of corrugated cardboard has been con­ tinuously cut into sheets having a predetermined cut length,  a second predetermined number of said sheets are success­ ively stacked so that said induced warps may be reformed  by the weight of the sheets themselves.  preferably, the se­ cond predetermined number should be chosen to be an  integral multiple (2 or more multiple) of the first predeter­ mined number.  another aspect of the invention resides in the apparatus  for effecting the method of the invention.  
+</ABSTRACT>
+</TEXT>
+</DOC>

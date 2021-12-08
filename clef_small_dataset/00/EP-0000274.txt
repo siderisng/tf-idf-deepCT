@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000274
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-17/49 H01J-65/04 H01J-11/02 <main>H01J-17/20</main> H01J-17/20 H01J-61/12 H01J-17/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas discharge display memory panel.
+</TITLE>
+<APPLICANT>
+ibm us <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+ahearn william edmund<sep>park kyu chang<sep>ahearn, william edmund<sep>park, kyu chang<sep>ahearn, william edmundmills roadpurdeys new york 10578us<sep>park, kyu changr.f.d. 3 baldwin roadyorktown heights new york 10598us<sep>ahearn, william edmund <sep>park, kyu chang<sep>ahearn, william edmundmills roadpurdeys new york 10578us<sep>park, kyu changr.f.d. 3 baldwin roadyorktown heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+a gas display panel has improved resolution, colour,  memory margin and brightness by using helium based mixtures  in a panel structure using evaporated glass technology,  e. g. , borosilicate glass technology.  multicolour emissions  are achieved directly from the helium based mixtures, and  additional colour enhancement and selection is accomplished  by varying the gas parameters of pressure and dopant  concentration and the sustain voltage waveform drive conditions.   colour selection from the helium based mixtures with  molecular dopants is made using an optical filter or a coloured  glass substrate.  a gas panel is obtained that emits white light using a  helium based mixture doped with oxygen.  the mixture is a  penning mixture with optical radiation in the visible part of  the spectrum due to systems of emission bands from the  ionized oxygen molecules.  the first negative system exhibits  four strong bands that vary from 75 to 125å in width and  account for green, yellow and red colours.  in addition, four  weaker bands are conserved for the second negative system  which account for the blue colour.  
+</ABSTRACT>
+</TEXT>
+</DOC>

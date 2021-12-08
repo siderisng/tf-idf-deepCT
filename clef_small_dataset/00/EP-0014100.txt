@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014100
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G04G-9/06 G09G-3/36 <main>G04G-9/06</main> G01R-13/40 G02F-1/1343 G01R-13/00 G02F-1/137 G02F-1/13 G02F-1/133 G04G-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+analogue display.
+</TITLE>
+<APPLICANT>
+nat res devgb<sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+shanks ian alexander<sep>shanks, ian alexander<sep>shanks, ian alexander68, lower wyche roadmalvern hereford, worcestergb<sep>shanks, ian alexander<sep>shanks, ian alexander68, lower wyche roadmalvern hereford, worcestergb<sep>
+</INVENTOR>
+<ABSTRACT>
+an analogue display includes an electrically sensitive me­ dium (11) enclosed between two sets of electrodes (7) and (9).   the two sets of electrodes (7) and (9) are registered and over­ lap to provide background and one or more shaped index cha­ racters, each at a plurality, of selectable positions (r₀₁, r₀₃ to  r₉₉; r₀₂, r₀₄to r₉₈).  voltage signals are applied to the electro­ des so that the medium (11) is held in an off state in the re­ gion between selected electrodes, whilst simultaneously volta­ ge signals are applied so that in other regions of the medium  (11), the medium is in an on state.  the medium (11) may be of liquid crystal, electrolumines­ cent or gaseous material.  one set of electrodes (7) may have a  meander configuration, the other set (9) a segmented configu­ ration.  the index character or characters may be displayed at  one, two or three positions, each character being of different  shape, for meter or timepiece applications.  the voltage signals applied may be binary coded and in  preference pseudo-random sequence binary codes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

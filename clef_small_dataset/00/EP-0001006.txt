@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001006
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C11D-1/10 C07D-233/00 C07D-233/12 C07C-231/00 C11D-20060101S <main>C07C-102/00</main> C11D-1/02 C07C-233/36 C07C-233/47 C07C-20060101S C11D-3/26 C07C-103/46 C07D-233/78 A61K-7/08 C07C-233/00 C07C-67/00 C07D-20060101S C07D-233/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+carboalkylated derivatives of acylated ethylene diamines, process for their preparation and surface-active compositions.
+</TITLE>
+<APPLICANT>
+albright & wilsongb<sep>albright & wilson limited<sep>albright &amp; wilson limitedalbright &amp; wilson house hagley road westoldbury warley west midlands, b68 onngb<sep>albright & wilson limited<sep>
+</APPLICANT>
+<INVENTOR>
+lambie alan james<sep>phillips brinley morris<sep>thompson maurice ernest<sep>lambie, alan james<sep>phillips, brinley morris<sep>thompson, maurice ernest<sep>lambie, alan james7 lansdowne grovewhitehaven cumbriagb<sep>phillips, brinley morris4 springfield villas egremont roadhensingham whitehaven cumbriagb<sep>thompson, maurice ernest2 whitegateegremont cumbriagb<sep>lambie, alan james  <sep>phillips, brinley morris<sep>thompson, maurice ernest<sep>lambie, alan james7 lansdowne grovewhitehaven cumbriagb<sep>phillips, brinley morris4 springfield villas egremont roadhensingham whitehaven cumbriagb<sep>thompson, maurice ernest2 whitegateegremont cumbriagb<sep>
+</INVENTOR>
+<ABSTRACT>
+the reaction of an imidazoline base of the formula:    wherein r represents an aliphatic group comprising from  6 to 22 carbon atoms and r₁ represents a substituted or  unsubstituted alkyl or alkenyl group comprising from 1 to 4  carbon atoms, with a carbo-alkylating agent is carried out  in two stages.  initially the ph is maintained in the range 7  to 11 and subsequently it is maintained in the range 9 to  12. 5.  these conditions encourage at least part of the imidazoline  to undergo alkylation followed by hydrolysis and  further alkylation.  the di alkylated amido-amines thus produced  are believed to be novel.  they can be represented  by the formula    where a represents a group r₂-coo⁻ wherein r₂ represents  a substituted or unsubstituted alkylene group having  from 1 to 4 carbon atoms; or a group r₁ wherein r₁ represents  a substituted or unsubstituted alkyl or alkenyl group  having from 1 to 4 carbon atoms b and c which may be the  same or different represent a group r₂-coo⁻ or r₁ or  where a represents r₂coo⁻ one and only one of b or c  may represent a hydrogen atom with the proviso that at  least one but only one of a, b or c represents r₁.  the reaction products are surfactants which exhibit  very low skin irritancy and have a desirably low viscosity.   they find particular application in shampoo formulations.  
+</ABSTRACT>
+</TEXT>
+</DOC>

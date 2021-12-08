@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007548
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-17/32 <main>G11B-5/60</main> G11B-5/60 G11B-21/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a dual magnetic recording assembly for a flexible record member.
+</TITLE>
+<APPLICANT>
+burroughs corpus <sep>burroughs corporation <sep>burroughs corporation (a michigan corporation) burroughs placedetroit, michigan 48232us<sep>burroughs corporation<sep>
+</APPLICANT>
+<INVENTOR>
+morton dennis s<sep>nathanson marshall r<sep>stromsta roger r<sep>morton, dennis s.<sep>nathanson, marshall r.<sep>stromsta, roger r.<sep>morton, dennis s.2348 justin ave.simi valley, ca. 93065us<sep>nathanson, marshall r.247 w. sidlee st.thousand oaks, ca. 91360us<sep>stromsta, roger r.1990 smokewoodthousand oaks, ca. 91362us<sep>morton, dennis s. <sep>nathanson, marshall r.<sep>stromsta, roger r.  <sep>morton, dennis s. 2348 justin ave.simi valley, ca. 93065us<sep>nathanson, marshall r.247 w. sidlee st.thousand oaks, ca. 91360us<sep>stromsta, roger r.1990 smokewoodthousand oaks, ca. 91362us<sep>
+</INVENTOR>
+<ABSTRACT>
+embodiments include flying "catamaran" heads (10,10′)  with "tsf" rail-faces (r, r′) consisting of a flat-taper segment  (1) and an adjoining "spherical-flat" segment (3), adapted to  eliminate "pinch-off" instability and the like when flown on  opposing sides of a flexible medium.  
+</ABSTRACT>
+</TEXT>
+</DOC>

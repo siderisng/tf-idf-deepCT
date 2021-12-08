@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000060
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-315/04 C08G-64/30 C08G-63/66 C07C-315/00 B01J-31/00 C08G-64/20 C08G-65/32 C07B-61/00 C07C-67/00 C07C-319/00 C08G-64/00 <main>C07C-69/96</main> C07C-319/20 C07C-323/20 C07C-317/00 C07C-69/96 C07C-317/22 C08G-64/22 C07C-313/00 C08G-64/18 C08G-63/00 C08G-64/16 C07C-69/00 C07C-323/00 C08G-64/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of bis-carbonates from diphenols and polyoxyalkylene glycols lengthened by carbonate groups and their application in the preparation of macromolecular thermoplastic polycarbonate polyether block copolymers.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+bartl herbert dr <sep>freitag dieter dr <sep>konig klaus dr<sep>lindner christian dr<sep>schreckenberg manfred dr<sep>suling carlhans dr<sep>bartl, herbert,dr.<sep>freitag, dieter,dr.<sep>konig, klaus,dr.<sep>lindner, christian,dr.<sep>schreckenberg, manfred,dr.<sep>suling, carlhans,dr.<sep>bartl, herbert,dr.eichendorffweg 10d-5068 odenthalde<sep>freitag, dieter,dr.hasenheide 10d-4150 krefeld 1de<sep>könig, klaus,dr.heymannstrasse 50d-5090 leverkusen 1de<sep>lindner, christian,dr.riehler strasse 200d-5000 köln 60de<sep>schreckenberg, manfred,dr.doerperhofstrasse 15d-4150 krefeldde<sep>süling, carlhans,dr.carl-leverkus-strasse 10d-5068 odenthalde<sep>bartl, herbert,dr. <sep>freitag, dieter,dr.<sep>konig, klaus,dr.  <sep>lindner, christian,dr. <sep>schreckenberg, manfred,dr.<sep>suling, carlhans,dr.<sep>bartl, herbert,dr.eichendorffweg 10d-5068 odenthalde<sep>freitag, dieter,dr.hasenheide 10d-4150 krefeld 1de<sep>könig, klaus,dr.heymannstrasse 50d-5090 leverkusen 1de<sep>lindner, christian,dr.riehler strasse 200d-5000 köln 60de<sep>schreckenberg, manfred,dr.doerperhofstrasse 15d-4150 krefeldde<sep>süling, carlhans,dr.carl-leverkus-strasse 10d-5068 odenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing carbonic acid bisdipene molesters of carbonate-increasing polyalkylene oxide diols and their use for the preparation of high molecular weight, segmented thermoplastically processable polyether polycarbonates.Polyalkylene oxide diols are heated with carbon acid bisaryl esters in vacuo at temperatures between 100 and 200 ° C wherein less than 1 mole of carbonic acid bis-aryl ester is used per OH group of the polyalkylene oxide diol.Subsequently, diphenols are added.The resulting reaction product is reacted with other diphenols and with phosgene at pH values between 9 and 14 and temperatures between 0 ° and 80 ° C to polyether polycarbonates.
+</ABSTRACT>
+</TEXT>
+</DOC>

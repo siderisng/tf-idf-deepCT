@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000203
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/34 A01P-1/00 A01N-43/42 C07D-215/56 <main>A01N-43/42</main> C07D-215/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-ethyl-7-chloro-6-fluoro-4-quinolone-3-carboxylic acid, its preparation and application as plant bactericide.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+sturm elmar dr<sep>sturm, elmar, dr.<sep>sturm, elmar, dr.ziegelbündtenweg 20 bch-4147 aeschch<sep>sturm, elmar, dr.<sep>sturm, elmar, dr.ziegelbündtenweg 20 bch-4147 aeschch<sep>
+</INVENTOR>
+<ABSTRACT>
+Plant bactericidal agents containing as active ingredient a compound of formula I or one of their salts in which X is hydrogen, fluorine or chlorine and R a lower alkyl radical are suitable for controlling Erwinia spp., especially e.Amylovora (fire burn on fruit trees) and e.Carotovora (wet rot on potatoes and vegetables).
+</ABSTRACT>
+</TEXT>
+</DOC>

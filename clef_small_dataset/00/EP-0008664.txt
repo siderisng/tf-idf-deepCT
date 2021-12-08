@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008664
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-14/00 C08F-6/16 C08F-6/00 C08F-14/06 <main>C08F-14/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for pressure and rest degassing of a mixture of pvc and water.
+</TITLE>
+<APPLICANT>
+wacker chemie gmbhde<sep>wacker-chemie gmbh<sep>wacker-chemie gmbhhanns-seidel-platz 4d-81737 münchende<sep>wacker-chemie gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+hager claus ing grad<sep>wiedholz rudolf dr dipl-chem<sep>hager, claus, ing. grad.<sep>wiedholz, rudolf, dr. dipl.-chem.<sep>hager, claus, ing. grad.römerstrasse 23d-8341 julbachde<sep>wiedholz, rudolf, dr. dipl.-chem.gluckstrasse 41d-8263 burghausende<sep>hager, claus, ing. grad.  <sep>wiedholz, rudolf, dr. dipl.-chem.<sep>hager, claus, ing. grad.römerstrasse 23d-8341 julbachde<sep>wiedholz, rudolf, dr. dipl.-chem.gluckstrasse 41d-8263 burghausende<sep>
+</INVENTOR>
+<ABSTRACT>
+In the pressure or residual degree of polyvinyl chloride polymer water mixtures, the unavoidable foam is separated into separators from the vacuum pump leading gas stream.With increasing oversubs, the capacity of the separator (S) is reduced.According to the invention, the liquid or foam amount accumulated in the separator (3) is pumped back by a pump (5) arranged below the separator in the degassing (polymerization) autoclave (1).The advantages consist of a better outset of the separator capacity, better and consistent entertainment of the product and shorter degassing cycles.
+</ABSTRACT>
+</TEXT>
+</DOC>

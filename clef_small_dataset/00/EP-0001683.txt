@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001683
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05B-24/02</main> B65G-47/50 B65C-9/00 B65C-9/42 B65C-9/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a velocity dependent controlling device for the initiation of an actuator.
+</TITLE>
+<APPLICANT>
+label aire incus<sep>label-aire inc.<sep>label-aire inc.3801, artesia boulevardfullerton california 92633us<sep>label-aire inc.<sep>
+</APPLICANT>
+<INVENTOR>
+caudill donald lee<sep>caudill, donald lee<sep>caudill, donald lee10683 wells streetriverside california 92505us<sep>caudill, donald lee<sep>caudill, donald lee10683 wells streetriverside california 92505us<sep>
+</INVENTOR>
+<ABSTRACT>
+where a production process requires that a work operation  be performed on each article as it is moved through a  work station, the actuation signal which commands the operation  must be given before the article reaches the work station  since there are delays in the response to the actuation signal.   furthermore, it is likely that the rate of movement of the  articles will not be constant.  the velocity dependent controlling device disclosed  herein measures the velocity of an article being moved  toward an apparatus which is to perform a work operation on  the article.  the controlling device then provides an actuation  signal to the apparatus at an appropriate instant so that the  actuator will have sufficient time to perform the work operation  on the article as it is moved along.  the actuation signal is  produced by utilising the velocity measurement with a signal  representative of the said delays as a result of sensing the  arrival of an article at a predetermined position before the  work station.  an important application of the invention is in labelling  apparatus (11) operating articles (45) moved by a conveyor  (47).  
+</ABSTRACT>
+</TEXT>
+</DOC>

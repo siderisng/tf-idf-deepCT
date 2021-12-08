@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009108
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01S-3/10</main> H01S-3/10 G02F-1/35 H01S-3/108 H01S-3/08 H01S-3/30 H01S-3/098 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an improved laser having a nonlinear phase conjugating reflector.
+</TITLE>
+<APPLICANT>
+hughes aircraft cous<sep>hughes aircraft company<sep>hughes aircraft company7200 hughes terrace, p.o. box 80028los angeles, california 90080-0028us<sep>hughes aircraft company  <sep>
+</APPLICANT>
+<INVENTOR>
+wang victor<sep>yariv amnon<sep>wang, victor<sep>yariv, amnon<sep>wang, victor137 pasadena avenueoxnard beach, californiaus<sep>yariv, amnon2257 homet roadsan marino, californiaus<sep>wang, victor<sep>yariv, amnon<sep>wang, victor137 pasadena avenueoxnard beach, californiaus<sep>yariv, amnon2257 homet roadsan marino, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a laser which self-corrects for distortions introduced  into the laser beam wavefronts by aberrations and time-­ varying phenomena internal to the laser.  the improved laser  includes a partially transmissive first reflecting element, an  aperture stop, a lasing medium and a nonlinear phase con­ jugate reflecting device as the second reflecting element.   during laser operation, aberrated wavefronts impinging  upon the second reflecting element are reflected as the  phase conjugate waveform thereof.  the aperture stop re­ stricts laser operation to the fundamental mode which al­ lows only corrected, unaberrated waves to pass through the  aperture stop and to subsequently exit the laser.  four em­ bodiments are described utilizing stimulated brillouin scat­ tering (sbs), four-wave mixing, three-wave mixing and  photon echo devices as the second reflecting element.  
+</ABSTRACT>
+</TEXT>
+</DOC>

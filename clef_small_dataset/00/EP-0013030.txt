@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013030
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01K-7/34 G01N-27/22 G01D-21/02 <main>G01N-27/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+temperature-humidity detecting apparatus.
+</TITLE>
+<APPLICANT>
+matsushita electric ind co ltdjp<sep>matsushita electric industrial co. ltd.<sep>matsushita electric industrial co., ltd.1006, oaza kadomakadoma-shi, osaka-fu, 571jp<sep>matsushita electric industrial co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+nitta tsuneharu<sep>terada jiro<sep>nitta, tsuneharu<sep>terada, jiro<sep>nitta, tsuneharu2-15-8, myokenzakakatano-shi osaka-fujp<sep>terada, jiro4-23-8, kohzukatano-shi osaka-fujp<sep>nitta, tsuneharu<sep>terada, jiro<sep>nitta, tsuneharu2-15-8, myokenzakakatano-shi osaka-fujp<sep>terada, jiro4-23-8, kohzukatano-shi osaka-fujp<sep>
+</INVENTOR>
+<ABSTRACT>
+this is directed to a temperature·humidity detecting ele­ ment which can detect the temperature and humidity with a  single element and a detectilg apparatus using the tempera­ ture·humidity detecting element.  the temperature·humidity  detecting element of the present invention varies the element  impedance value with respect to variations in the temperature  and humidity, and the temperature·humidity detecting  apparatus is adapted to provide the variations in the tempera­ ture·humidity detecting element impedance as detection  signals of the temperature and humidity.  they are widely  used and of great value in industrial epplication wherein the  humidity control needs to perform simultaneously with the  temperature control, since temperature and humidity control­ ling operations can be made by the single element and the  one apparatus.  
+</ABSTRACT>
+</TEXT>
+</DOC>

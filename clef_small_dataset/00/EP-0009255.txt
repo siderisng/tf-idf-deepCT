@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009255
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/053 A61N-1/39 A61N-1/365 <main>A61N-1/38</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an automatic cardiac ventricular defibrillator.
+</TITLE>
+<APPLICANT>
+purdue research foundationus<sep>purdue research foundation<sep>purdue research foundationhovde hall purdue universitywest lafayette indiana 47907us<sep>purdue research foundation <sep>
+</APPLICANT>
+<INVENTOR>
+bourland joe d<sep>geddes leslie a<sep>terry reese s<sep>bourland, joe, d.<sep>geddes, leslie a.<sep>terry, reese s.<sep>bourland, joe, d.606 wilshire avenuewest lafayette, indiana 47907us<sep>geddes, leslie a.400 n. river roadwest lafayette, indiana 47907us<sep>terry, reese s.route 2, box 448, p-30freeport, texas 77541us<sep>bourland, joe, d. <sep>geddes, leslie a.<sep>terry, reese s.<sep>bourland, joe, d.606 wilshire avenuewest lafayette, indiana 47907us<sep>geddes, leslie a.400 n. river roadwest lafayette, indiana 47907us<sep>terry, reese s.route 2, box 448, p-30freeport, texas 77541us<sep>
+</INVENTOR>
+<ABSTRACT>
+an automatic cardiac ventricular defibrillator and a  defibrillation of the cardiac ventricles of a heart wherein  both the mechanical and electrical activities of the ventri­ cles are sensed and used as operating controls.  electrical  activity is detected and measured with a pair of electrodes  (5, 6) and the waves of an electrocardiogram (ecg) are  analyzed.  when such electrical analysis indicates that ven­ tricular fibrillation is present and persists, an electrical cir­ cuit (20) is actuated for detecting mechanical pumping ac­ tivity of the heart.  mechanical pumping activity is measured  by the change in impedance between the pair of electro­ des (5, 6) in one of the ventricles (3).  the change of ven­ tricular impedance is caused by varying volume of blood  contained within the ventricles (3) and depends upon whe­ ther the ventricles (3) are in a contracted or relaxed state.   the defibrillator (40) is actuated only when both the me­ chanical and electrical activity of the ventricles indicate a  need for defibrillation.  because some conditions may be  encountered which closely resemble ventricular fibrillation,  the defibrillator quantitatively preprogramms and weights  the relative importance of the electrical and mechanical  signs from the heart.  
+</ABSTRACT>
+</TEXT>
+</DOC>

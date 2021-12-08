@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001436
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08G-73/02</main> C10M-169/00 C07C-87/20 C08G-73/02 C08G-73/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of polyalkylene polyamines.
+</TITLE>
+<APPLICANT>
+basf ag de<sep>basf aktiengesellschaft  <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+beyer karl-heinz dr<sep>mueller hans dr<sep>streit werner dr<sep>wulz klaus dr<sep>beyer, karl-heinz, dr.<sep>mueller, hans, dr.<sep>streit, werner, dr.<sep>wulz, klaus, dr.<sep>beyer, karl-heinz, dr.knietschstrasse 6d-6710 frankenthalde<sep>mueller, hans, dr.mohnstrasse 54d-6700 ludwigshafende<sep>streit, werner, dr.im woogtal 11d-6719 bobenheimde<sep>wulz, klaus, dr.ungsteiner strasse 22d-6700 ludwigshafende<sep>beyer, karl-heinz, dr.<sep>mueller, hans, dr.<sep>streit, werner, dr. <sep>wulz, klaus, dr.  <sep>beyer, karl-heinz, dr.knietschstrasse 6d-6710 frankenthalde<sep>mueller, hans, dr.mohnstrasse 54d-6700 ludwigshafende<sep>streit, werner, dr.im woogtal 11d-6719 bobenheimde<sep>wulz, klaus, dr.ungsteiner strasse 22d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of polyalkylene polyamines by reacting primary or secondary amines with compounds of the formula in the X = -Cl, -Br or -oso₃H, R¹, R² = H or a saturated alkyl radical with 1 to 4 C atoms, and, referred toon the compounds of formula I, with at least stoichiometric amounts of 15 to 45 percent aqueous solutions of alkali or alkaline earth hydroxides at temperatures of 60 to 200 ° C, cooling the reaction mixture to a temperature in which 2 phases form and separate the upper, Polyalkylene polyamine-containing phase.The conversion speed can be increased by addition of catalytic amounts of compounds which initiate the polymerization of alkyleneimines.
+</ABSTRACT>
+</TEXT>
+</DOC>

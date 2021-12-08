@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015562
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-311/66 C07D-311/00 C07D-311/72 <main>C07D-311/66</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing chroman derivatives.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+horner michael dr<sep>nissen axel dr<sep>horner, michael, dr,<sep>nissen, axel, dr,<sep>horner, michael, dr,pfalzgrafenstrasse 15bd-6730 neustadtde<sep>nissen, axel, dr,panoramastrasse 51d-6906 leimende<sep>horner, michael, dr, <sep>nissen, axel, dr,  <sep>horner, michael, dr,pfalzgrafenstrasse 15bd-6730 neustadtde<sep>nissen, axel, dr,panoramastrasse 51d-6906 leimende<sep>
+</INVENTOR>
+<ABSTRACT>
+Preparation of chromone derivatives (I) (R¹-R³ = H, C₁-C₈-alkyl; R⁴ = H, C₁-C₈-alkyl or acyl; R⁵ = C₁-C₈-alkyl) by having a hydroquinone (II) with aLewis acid or a uniform Lewis acid derivative in the presence of an inert solvent with a nitrile (CH₂ = CH-C (R⁵) (OR⁶) Cn; III; R⁶ = H, C₁-C₄-acyl or alkyl) or with compounds from which IIIIn situ arises, reactive.
+</ABSTRACT>
+</TEXT>
+</DOC>

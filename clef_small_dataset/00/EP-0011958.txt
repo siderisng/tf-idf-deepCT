@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011958
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-9/54</main> H01H-33/59 H01H-9/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dc contactor with solid state arc quenching.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus <sep>westinghouse electric corporation<sep>westinghouse electric corporation westinghouse building gateway center pittsburgh pennsylvania 15222 us<sep>westinghouse electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+baker donal eugene<sep>doughman charles lanier<sep>shuey kenneth claude<sep>baker, donal eugene<sep>doughman, charles lanier<sep>shuey, kenneth claude<sep>baker, donal eugene2733 whippoorwill elidaohious<sep>doughman, charles lanier3962 ellen drivelima, ohious<sep>shuey, kenneth clauderoute 6 sellers roadcridersville, ohious<sep>baker, donal eugene<sep>doughman, charles lanier<sep>shuey, kenneth claude <sep>baker, donal eugene 2733 whippoorwill elida ohious<sep>doughman, charles lanier3962 ellen drivelima, ohious<sep>shuey, kenneth clauderoute 6 sellers roadcridersville, ohious<sep>
+</INVENTOR>
+<ABSTRACT>
+a solid state arc quenching circuit in a high voltage dc  contactor, senses initiation of an arc across the contacts of the  contactor, commutates a capacitor discharge to the contacts  that brings the contact voltage to zero for arc extinction and  promptly recharges the capacitor to enable reoperation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

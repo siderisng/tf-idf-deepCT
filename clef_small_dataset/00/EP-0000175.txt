@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000175
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03D-5/06 G03G-15/10 G03D-5/00 <main>G03D-5/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the development of a diazocopy material by the semi-wet process.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+broze arthur<sep>witte horst dipl-ing<sep>broze, arthur<sep>witte, horst, dipl.-ing.<sep>broze, arthurhäherweg 7d-6200 wiesbaden-kohlheckde<sep>witte, horst, dipl.-ing.eichenweg 24d-6201 naurodde<sep>broze, arthur  <sep>witte, horst, dipl.-ing. <sep>broze, arthurhäherweg 7d-6200 wiesbaden-kohlheckde<sep>witte, horst, dipl.-ing.eichenweg 24d-6201 naurodde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a developing device for the development of diazocopic material according to the semi-humidity method, a plane roller (3) with a liquid adsorbing, elastic coating (12) and a worn-off, a grooved hard surface-constructing press roller (2) by a centrally arranged press roll (1) against each otherpressed, with a developer zone being formed between the order roller (3) and the press roller (2).A slat (4) is at the application roller (3).In order to apply uniformly small amounts of developer fluid to the diazocopy material, the equatorial moment of inertia (J₂) of the press roller (2) is dimensioned to the equatorial moment of inertia (J₃) of the application roller (3) according to a particular relationship in which the weight (G₂) of the press roller (2), the weight (G₃) of the application roller (3), the delivery rejection (P₁) of the press roll (1) and the delivery force (P₄) and the friction force of the lamella.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001722
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02H-3/087 H03K-17/10 G05F-1/10 G05F-1/62 H02H-9/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fast high voltage on-off switch with possibility of voltage regulation, load- and self- protection
+</TITLE>
+<APPLICANT>
+euratomlu<sep>european atomic energy community (euratom)<sep>european atomic energy community (euratom)bâtiment jean monnet plateau du kirchberg boíte postale 1907l-2920 luxembourglu<sep>
+</APPLICANT>
+<INVENTOR>
+mondino dr pier luigigb<sep>mondino, dr pier luigi<sep>mondino, dr pier luigicosener's house abbey closeabingdongb<sep>
+</INVENTOR>
+<ABSTRACT>
+a power supply comprises at least two supply circuits the output terminals of which are connected in series to supply a voltage across a load (vl).  each circuit comprises a d. c.  voltage source (vm) in series with a switching valve (s), the maximum voltage across which is limited by diodes (d1) connected across the output terminals of the respective supply terminals, and a protection circuit (4).  the protection circuit responds to the current flowing through the load, and on the occurrence of a first current threshold switches off the valve (s), and in the event of a higher current threshold fires a crowbar link (i) which shunts the source (vm). 
+</ABSTRACT>
+</TEXT>
+</DOC>

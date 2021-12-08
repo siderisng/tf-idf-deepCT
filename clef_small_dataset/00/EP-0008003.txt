@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008003
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-405/00 A61K-31/5575 C07C-401/00 A61P-1/00 C07C-67/00 A61K-31/23 A61P-1/04 <main>C07C-177/00</main> A61K-31/21 A61K-31/557 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+(dl)-16-phenoxy- and 16-substituted phenoxy-9-keto prostatrienoic acids and derivatives and processes for the production thereof and their pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+syntex inc us <sep>syntex (u.s.a.) inc.<sep>syntex (u.s.a.) inc.3401 hillview avenuepalo alto california 94303us<sep>syntex (u.s.a.) inc.<sep>
+</APPLICANT>
+<INVENTOR>
+dwards john a<sep>garay gabriel<sep>van horn albert<sep>dwards, john a.<sep>garay, gabriel<sep>van horn, albert<sep>dwards, john a.5734 arboretum drivelos altos, cal. 94022us<sep>garay, gabriel725-k blair courtsunnyvale, cal. 94087us<sep>van horn, albert5971 countress drivesan jose, cal. 95129us<sep>dwards, john a.<sep>garay, gabriel  <sep>van horn, albert <sep>dwards, john a.5734 arboretum drivelos altos, cal. 94022us<sep>garay, gabriel725-k blair courtsunnyvale, cal. 94087us<sep>van horn, albert5971 countress drivesan jose, cal. 95129us<sep>
+</INVENTOR>
+<ABSTRACT>
+novel 16-phenoxy and 16-(o, m or p)-substituted phen­ oxy derivatives of (dl)-9-keto-11α,15α-dihydroxy-17,18,19,20-­ tetranorprosta-4,5,13-trans-trienoic acid, the pharmaceuti­ cally acceptable, non-toxic lower alkyl esters and salts  thereof and processes for the production of such com­ pounds.  these compounds possess prostaglandin-like ac­ tivities and thus are useful in the treatment of mammals  where prostaglandins are indicated.  they are particularly  useful as inhibitors of gastric acid secretion; and as agents  for the control of asthmatic attack, because of their broncho-­ dilating activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

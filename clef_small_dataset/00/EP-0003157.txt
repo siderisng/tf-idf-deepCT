@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003157
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-17/49 <main>H01J-17/48</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas discharge display panel, display apparatus comprising the panel and method of operating the display apparatus.
+</TITLE>
+<APPLICANT>
+philips electronic associatedgb<sep>philips nvgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited <sep>
+</APPLICANT>
+<INVENTOR>
+smith james c o philips electr<sep>smith, james c/o philips electr.&ass. ind. ltd.<sep>smith, james c/o philips electr.&amp;ass. ind. ltd.patent dept. berkshire house 168-173 high holbornlondon wc1v 7aqgb<sep>smith, james c/o philips electr.&ass. ind. ltd.<sep>smith, james c/o philips electr.&amp;ass. ind. ltd. patent dept. berkshire house 168-173 high holborn london wc1v 7aq gb<sep>
+</INVENTOR>
+<ABSTRACT>
+a gas discharge display including a gas discharge  display panel comprising a plurality of cells arranged in a  column/row matrix.  cathodes are connected to the rows and  anodes to the columns of the matrix.  the cells are arranged  in repeating groups each comprising at least two columns.   corresponding cells in each group are primed contamporaneously  in a desired sequence whereby the last cell in the  sequence to be primed is adjacent the first cell in the  sequence to be scanned.  in priming the cells each cell is  discharged at a low level.  various types of loop sequences are disclosed together  with several techniques for isolating priming pulses from  display pulses.  
+</ABSTRACT>
+</TEXT>
+</DOC>

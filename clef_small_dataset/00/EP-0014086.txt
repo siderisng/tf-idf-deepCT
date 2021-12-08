@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014086
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C21D-8/06 C21D-8/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for the production of alloyed steel products and such products thereby obtained.
+</TITLE>
+<APPLICANT>
+bekaert sa nvbe<sep>n.v. bekaert s.a. <sep>n.v. bekaert s.a.leo bekaertstraat 1b-8550 zwevegembe   <sep>
+</APPLICANT>
+<INVENTOR>
+bombeke martinbe<sep>lefever ignacebe<sep>bombeke, martin<sep>lefever, ignace<sep>bombeke, martin9, merellaanb-8500 kortrijkbe<sep>lefever, ignace220 pladijsstraatb-8740 deerlijkbe<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for the production of alloyed steel products hav­ ing substantially no ferrite matrix phase and having md and ms  conversion temperatures (as herein defined) such that plastic  deformation may cause phase transformation, comprises ef­ fecting plastic deformation partly at a cryogenic temperature  of from 0 °c to the ms conversion temperature (as herein de­ fined) and partly at a low temperature of from 0 °c to the re­ crystallisation temperature, the plastic deformation at said cry­ ogenic temperature being effected prior to plastic deformation  at said low temperature.  the method enables heat transfer and cooling problems  inherent in known methods to be overcome and may also be  employed to produce alloyed steel products having improved  properties e. g.  tenacity, creep resistance and/or fatigue  strength over similar products produced according to known  methods.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011864
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-39/12 A61K-39/215 <main>C12N-7/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+attenuated strain of feline infectious peritonitis virus, method for preparing it and vaccine comprising it.
+</TITLE>
+<APPLICANT>
+wellcome found gb<sep>the±wellcome foundation limited<sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb<sep>the wellcome foundation limited<sep>
+</APPLICANT>
+<INVENTOR>
+fishman bernarad<sep>hitchcock louise mary<sep>o'reilly kevin joseph<sep>fishman, bernarad<sep>hitchcock, louise mary<sep>o'reilly, kevin joseph<sep>fishman, bernarad7 rowlands closegillingham, kentgb<sep>hitchcock, louise mary65 kingswood avenueshortlands bromley, kentgb<sep>o'reilly, kevin josephlambardes drakeley's fieldmilland near liphook, hantsgb<sep>fishman, bernarad<sep>hitchcock, louise mary<sep>o'reilly, kevin joseph <sep>fishman, bernarad7 rowlands closegillingham, kent gb   <sep>hitchcock, louise mary65 kingswood avenueshortlands bromley, kentgb<sep>o'reilly, kevin josephlambardes drakeley's fieldmilland near liphook, hantsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+feline infectious peritonitis is a disease of members of  the genus felix which is almost invariably fatal, and for which  there is currently no vaccine available.  indeed many attempts  to isolate and grow the virus have failed.  by passaging a  virulent isolate of feline infectious peritonitis (fip) virus in  feline embryonic cell cultures about 100 times an attenuated  strain of fip virus can be produced which stimulates the pro­ duction of antibody in susceptible animals without causing  overt disease.  such an attenuated strain can be formulated  into a vaccine for administrative purposes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

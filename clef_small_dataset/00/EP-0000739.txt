@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000739
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+F27B-15/00 C04B-7/44 F27B-15/14 B01J-8/00 C04B-7/00 F27B-1/00 F27B-1/02 B01J-8/24 F27B-15/12 C04B-7/45 <main>C04B-7/44</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for making cement in a fluidized bed.
+</TITLE>
+<APPLICANT>
+krupp polysius agde<sep>krupp polysius aktiengesellschaft<sep>krupp polysius aggraf-galen-strasse 17d-59269 beckumde<sep>krupp polysius ag<sep>
+</APPLICANT>
+<INVENTOR>
+bauer klaus<sep>beyer rudiger<sep>goldmann wolf<sep>kreft wilfried<sep>kretzer horst<sep>ritzmann horst dr<sep>schaberg frank dr<sep>schepers georg<sep>schmelter herbert <sep>schnieder erich<sep>weber heinrich  <sep>weber rudolf<sep>bauer, klaus<sep>beyer, rudiger<sep>goldmann, wolf<sep>kreft, wilfried<sep>kretzer, horst<sep>ritzmann, horst, dr.<sep>schaberg, frank, dr.<sep>schepers, georg<sep>schmelter, herbert<sep>schnieder, erich<sep>weber, heinrich<sep>weber, rudolf<sep>bauer, klausvon ketteler strasse 11d-4740 oeldede<sep>beyer, rüdigerparkstrasse 37d-4780 bad waldliesbornde<sep>goldmann, wolfagnes-miegel-strasse 9d-4720 beckumde<sep>kreft, wilfriedkirschweg 12d-4722 ennigerlohde<sep>kretzer, horsttannenbergstrasse 4d-4720 beckumde<sep>ritzmann, horst, dr.riggenstrasse 4d-4735 ennigerde<sep>schaberg, frank, dr.zur dicken linde 17d-4740 oeldede<sep>schepers, georgwagenfeldstrasse 1d-4722 ennigerlohde<sep>schmelter, herberttümmler strasse 26d-4722 ennigerlohde<sep>schnieder, erichalte strasse 11d-4730 ahlen 5 (vorhelm)de<sep>weber, heinrichhammer strasse 65d-4720 beckumde<sep>weber, rudolfelisabethstrasse 37d-4740 oeldede<sep>bauer, klaus<sep>beyer, rudiger<sep>goldmann, wolf<sep>kreft, wilfried<sep>kretzer, horst<sep>ritzmann, horst, dr.<sep>schaberg, frank, dr.<sep>schepers, georg<sep>schmelter, herbert<sep>schnieder, erich<sep>weber, heinrich <sep>weber, rudolf<sep>bauer, klaus von ketteler strasse 11 d-4740 oelde de <sep>beyer, rüdigerparkstrasse 37d-4780 bad waldliesbornde<sep>goldmann, wolfagnes-miegel-strasse 9d-4720 beckumde<sep>kreft, wilfriedkirschweg 12d-4722 ennigerlohde<sep>kretzer, horsttannenbergstrasse 4d-4720 beckumde<sep>ritzmann, horst, dr.riggenstrasse 4d-4735 ennigerde<sep>schaberg, frank, dr.zur dicken linde 17d-4740 oeldede<sep>schepers, georgwagenfeldstrasse 1d-4722 ennigerlohde<sep>schmelter, herberttümmler strasse 26d-4722 ennigerlohde<sep>schnieder, erichalte strasse 11d-4730 ahlen 5 (vorhelm)de<sep>weber, heinrichhammer strasse 65d-4720 beckumde<sep>weber, rudolfelisabethstrasse 37d-4740 oeldede<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and apparatus for producing cement by burning powdered raw material in a fluidized bed.The preheated raw material is recalced before it with fuel (15), preheated air (27) and a recycled part of the burned good (11) into the fluidized bed - in a preliminal concalation zone (2) with additional fuel to a high degree of donation.From the fluidized bed, the well in a directly underneath cooling zone (5), the cooling air stream is introduced partly from below (19), partly from the side (30) in the fluidized bed.This results in a very stable operation of the fluidized bed, a uniformly burned end product and a low heat consumption.
+</ABSTRACT>
+</TEXT>
+</DOC>

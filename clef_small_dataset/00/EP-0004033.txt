@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004033
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B24B-1/00</main> H01L-21/302 B24B-37/04 B24B-37/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for equalizing the material removal rate of wafers by polishing.
+</TITLE>
+<APPLICANT>
+wacker chemitronicde<sep>wacker-chemitronic gesellschaft fur elektronik-grundstoffe mbh<sep>wacker-chemitronic gesellschaft für elektronik-grundstoffe mbhjohannes-hess-strasse 24d-84489 burghausende<sep>wacker-chemitronic gesellschaft fur elektronik-grundstoffe mbh<sep>
+</APPLICANT>
+<INVENTOR>
+kirschner helmuth chem-ing gra<sep>kramer hans chem-ing grad<sep>kirschner, helmuth, chem.-ing.grad<sep>kramer, hans, chem.-ing.grad.<sep>kirschner, helmuth, chem.-ing.gradhändel-strasse 7d-8263 burghausende<sep>krämer, hans, chem.-ing.grad.immanuel-kant-strasse 49cd-8263 burghausende<sep>kirschner, helmuth, chem.-ing.grad  <sep>kramer, hans, chem.-ing.grad.<sep>kirschner, helmuth, chem.-ing.gradhändel-strasse 7d-8263 burghausende<sep>krämer, hans, chem.-ing.grad.immanuel-kant-strasse 49cd-8263 burghausende<sep>
+</INVENTOR>
+<ABSTRACT>
+With increasing circuits of electronic components, electronic components are increasingly placed on the building material with regard to thickness tolerance, wedgefulness and surface texture.The invention is therefore an improved method for polishing semiconductor wafers (1) on conventional polishing machines.According to the invention, a compatible of the polishing removal is achieved in that between the pressure stamp (3) and carrier plate back (2) intermediate layers (4) of soft elastic bodies such as bubble films are placed.
+</ABSTRACT>
+</TEXT>
+</DOC>

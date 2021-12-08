@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002595
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-13/00 H03H-9/00 H04B-1/59 G08B-13/24 G01S-13/79 G01S-13/76 G01S-13/75 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transponders.
+</TITLE>
+<APPLICANT>
+lintech instr ltdgb<sep>lintech instruments limited<sep>lintech instruments limitedscience park milton roadcambridge cb4 4bngb<sep>
+</APPLICANT>
+<INVENTOR>
+plows graham stuartgb<sep>plows, graham stuart<sep>plows, graham stuartscience park milton roadcambridge cb4 4bngb<sep>
+</INVENTOR>
+<ABSTRACT>
+a tag transponder which is capable of receiving a signal  from a transmitter by antenna (2, 3) and re-transmitting the  signal after a delay.  the incident electromagnetic wave from  the transmitter is converted into an acoustic wave in a  piezoelectric member (4) of the tag (1), the acoustic wave  traversing the piezoelectric member before re transmission  as an electromagnetic wave; the lower velocity of the  acoustic wave compared with the electromagnetic wave  provides the delay between the signal received and transmitted  by the tag.  during the signal pulse from the transmitter  the tag continuously re-transmits the signal, and the re-transmitted  signal from the tag is sustained after cessation of  the signal from the transmitter for a sufficient duration to be  distinguished from the other transient reflected signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

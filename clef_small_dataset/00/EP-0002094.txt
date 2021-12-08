@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002094
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-3/34 G09F-9/37 G02F-1/167 <main>G02F-1/19</main> G09F-9/30 G03G-17/04 G02F-1/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrophoretic display with x-y addressing.
+</TITLE>
+<APPLICANT>
+philips corpus <sep>north american philips corporation <sep>north american philips corporation100 east 42nd street 9th floornew york, n.y. 10017us<sep>north american philips corporation <sep>
+</APPLICANT>
+<INVENTOR>
+dalisa andrew lawrence<sep>singer barry mana<sep>dalisa, andrew lawrence<sep>singer, barry mana<sep>dalisa, andrew lawrencec/o. int. octrooibureau b.v. 6 prof.holstlaannl-5600 eindhovennl<sep>singer, barry manac/o. int. octrooibureau b.v. 6 prof.holstlaannl-5600 eindhovennl<sep>dalisa, andrew lawrence <sep>singer, barry mana<sep>dalisa, andrew lawrencec/o. int. octrooibureau b.v. 6 prof.holstlaannl-5600 eindhovennl<sep>singer, barry manac/o. int. octrooibureau b.v. 6 prof.holstlaannl-5600 eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrophoretic display device comprises a first  panel and a second panel spaced a predetermined distance  apart and at least one of said panels is transparent.   a main first electrode adhers to the first panel and a main  second electrode adhers the second panel.  an opaque  insulating fluid is disposed between the first and second  electrodes and contains particles of at least one colour  pigment in suspension.  a substantial number of the particles  has a charge of one polarity.  an insulating layer is  adherently provided at least partially over the second electrode.   a third electrode is interposed between the first and  second electrodes and is separated at least in part by the  insulating layer.  the third electrode is a control electrode  for selectively adjusting the electric field between the first  and second electrodes to establish a threshold for transporting  the particles depending on the direction of the  electric field, causing an image to be formed on the main  electrodes by the presence or absence of said particles.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017269
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03B-41/18</main> G03D-13/00 G03B-42/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for unloading radiographic cassettes in daylight.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa-gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27 b-2640 mortsel be <sep>agfa-gevaert naamloze vennootschap<sep>
+</APPLICANT>
+<INVENTOR>
+hellemans julianus joannes<sep>neujens georges jozef<sep>plessers hendrik sylvester<sep>stievenart emile frans<sep>hellemans, julianus joannes<sep>neujens, georges jozef<sep>plessers, hendrik sylvester<sep>stievenart, emile frans<sep>hellemans, julianus joannesbiesaard 6b-2550 kontichbe<sep>neujens, georges jozeflaaglandlaan 837b-2060 merksembe<sep>plessers, hendrik sylvesterachterstraat 41b-2573 wychmaalbe<sep>stiévenart, emile fransnachtegaallaan 6 bus 57b-2710 hobokenbe<sep>hellemans, julianus joannes<sep>neujens, georges jozef <sep>plessers, hendrik sylvester<sep>stievenart, emile frans  <sep>hellemans, julianus joannes biesaard 6b-2550 kontichbe<sep>neujens, georges jozeflaaglandlaan 837b-2060 merksembe<sep>plessers, hendrik sylvesterachterstraat 41b-2573 wychmaalbe<sep>stiévenart, emile fransnachtegaallaan 6 bus 57b-2710 hobokenbe<sep>
+</INVENTOR>
+<ABSTRACT>
+a device 10 for unloading radiographic cassettes 18 in  daylight is disclosed which enables the rapid sequential  unloading of said cassettes.  therefore, use is made of an  intermediate storage magazine 14 to which the films 24 after  unloading are fed at a high speed whereinafter they are  dispensed towards a processing apparatus 12 at a speed  equal to the one of the processing apparatus.  as a consequ­ ence, the time necessary to unload a radiographic cassette  18 is substantially reduced, the unloading capacity of the  device 10 being tripled when compared with prior art  machines.  the device according to the invention may be controlled  with the help of a microprocessor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

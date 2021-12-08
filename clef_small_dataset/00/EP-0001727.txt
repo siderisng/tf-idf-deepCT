@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001727
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-37/00 C07D-277/44 C07D-277/46 A61K-31/455 C07D-417/00 C07D-417/12 A61K-31/425 C07D-277/20 <main>C07D-277/48</main> C07D-277/48 A61P-37/04 A61K-31/426 A61P-29/00 C07D-277/00 C07D-277/40 A61P-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+new derivatives of 4-phenyl-2-(2',2',2-trichlorethoxycarboxamido)-thiazole useful as medicaments, pharmaceutical compositions containing them and process for the preparation of these compounds.
+</TITLE>
+<APPLICANT>
+fabre sa pierrefr<sep>pierre fabre s.a.<sep>pierre fabre s.a.125, rue de la faisanderief-75116 parisfr<sep>pierre fabre s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+casadio silvano<sep>cousse henri<sep>lauressergues henri<sep>mouzin gilbert<sep>tarayre jean-pierre<sep>casadio, silvano<sep>cousse, henri<sep>lauressergues, henri<sep>mouzin, gilbert<sep>tarayre, jean-pierre<sep>casadio, silvanovia tantardini, 15i-20136 milanit<sep>cousse, henrifoun de los nobios chemin de lastinosf-81100 castresfr<sep>lauressergues, henriplateau saint-jeanf-81100 castresfr<sep>mouzin, gilbert21, rue sainte-foyf-81100 castresfr<sep>tarayre, jean-pierrerue des sports valdurenquef-81100 castresfr<sep>casadio, silvano<sep>cousse, henri <sep>lauressergues, henri<sep>mouzin, gilbert  <sep>tarayre, jean-pierre <sep>casadio, silvanovia tantardini, 15i-20136 milanit<sep>cousse, henrifoun de los nobios chemin de lastinosf-81100 castresfr<sep>lauressergues, henriplateau saint-jeanf-81100 castresfr<sep>mouzin, gilbert21, rue sainte-foyf-81100 castresfr<sep>tarayre, jean-pierrerue des sports valdurenquef-81100 castresfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to novel derivatives of phenyl-4 amino-2 thiazoles.They respond to the formula: wherein: X represents a hydrogen atom, a halogen, a lower alkoyl, an alkoxy, R is hydrogen, haloalkoxy, an aryl substituted or non, pyridyl, aryloxy or carboxyalcoyl.They are useful as medicines gifted with immunomodulatory properties, applicable in the treatment of rheumatoid arthritis and anticancer immunotherapy.
+</ABSTRACT>
+</TEXT>
+</DOC>

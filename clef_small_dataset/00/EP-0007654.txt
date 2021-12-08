@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007654
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-33/58</main> G01N-33/536 G01N-33/551 G01N-33/58 G01N-33/553 G01N-33/74 G01N-33/54 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the detection and/or determination of components of the reaction between a specific binding protein and the corresponding bindable substance in an aqueous test sample; freeze-dried reagent and test kit to be used in the process.
+</TITLE>
+<APPLICANT>
+akzo nv nl <sep>akzo n.v.<sep>akzo n.v.velperweg 76nl-6824 bm arnhemnl<sep>akzo n.v.<sep>
+</APPLICANT>
+<INVENTOR>
+leuvering johannes hendrikus w<sep>leuvering, johannes hendrikus wilhelmus<sep>leuvering, johannes hendrikus wilhelmusrijksweg 125heeschnl<sep>leuvering, johannes hendrikus wilhelmus  <sep>leuvering, johannes hendrikus wilhelmusrijksweg 125heeschnl<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention relates to a method for the detec­ tion and/or determination of one or more components of the  reaction between a specific binding protein and the corres­ ponding bindable substance, in which one or more labelled  components are used, that are obtained by coupling particles  of a dispersion of a metal, metal compound or polymer nucleï,  coated with a metal or metal compound, having a particle size  of at least 5 nm, directly or indirectly to the desired component  of said reaction.  during the reaction or after an adequate reaction time, the  physical properties and/or the amount of the metal and or  the formed metal containing agglomerate, is/are determined  in the test sample, or optionally after a separation of the  bound and free metal-labeled components in one of the  derived fractions by methods known by themselves.  
+</ABSTRACT>
+</TEXT>
+</DOC>

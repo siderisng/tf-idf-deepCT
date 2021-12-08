@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007801
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01F-7/00 B01J-21/00 B01J-37/00 <main>B01J-21/04</main> C01F-7/02 B01J-21/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for preparing a stable, high surface alpha-alumina from gamma-alumina.
+</TITLE>
+<APPLICANT>
+exxon research engineering co us  <sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company <sep>
+</APPLICANT>
+<INVENTOR>
+deluca john paul<sep>grenoble dane clarke<sep>murrell lawrence lee<sep>deluca, john paul<sep>grenoble, dane clarke<sep>murrell, lawrence lee<sep>deluca, john paul1826 orchard hill drivechesterfield, missourius<sep>grenoble, dane clarke1209 central avenueplainfield, new jerseyus<sep>murrell, lawrence lee400 irvington avenueelizabeth, new jerseyus<sep>deluca, john paul<sep>grenoble, dane clarke  <sep>murrell, lawrence lee<sep>deluca, john paul1826 orchard hill drivechesterfield, missourius<sep>grenoble, dane clarke1209 central avenueplainfield, new jerseyus<sep>murrell, lawrence lee400 irvington avenueelizabeth, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+in a process for preparing a stable high surface alpha-­ alumina from gamma-alumina a gamma-alumina having  pores of average size in the range 20 to 100 å is impregnated  with a carbonizable carbonaceous material such as a sugar.   the impregnated gamma-alumina is heated under non-­ oxidizing conditions to convert the carbonaceous material to  carbon.  the resulting carbon-containing gamma-alumina is  then further heated under non-oxidizing conditions to convert  the gamma-alumina to alpha-alumina, and finally the  carbon-containing alpha-alumina is heated in an oxidizing  atmosphere to remove the carbon by oxidation.  the product  is an alpha-alumina having a relatively high surface area and  which can withstand temperatures of at least 1000°c in the  presence of steam without a substantial loss of area.  the  alpha-alumina product is useful as a catalyst or catalyst sup­ port in, e. g.  petroleum refining processes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

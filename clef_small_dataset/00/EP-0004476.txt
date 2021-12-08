@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004476
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-7/12 G11B-7/00 H04N-5/85 H04N-9/82 H04N-5/93 G11B-19/28 H04N-5/84 <main>G11B-7/08</main> G11B-7/085 G11B-7/08 H04N-9/89 G11B-7/005 G11B-21/10 G11B-21/08 G11B-7/095 G02B-7/28 H04N-9/85 G11B-7/09 H04N-9/87 H04N-5/76 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+time base error correction for optical disc players.
+</TITLE>
+<APPLICANT>
+discovision assus<sep>discovision associates<sep>discovision associatesp.o. box 6600 3300 hyland avenuecosta mesa california 92626us<sep>discovision associates<sep>
+</APPLICANT>
+<INVENTOR>
+ceshkovsky ludwig<sep>dakin wayne ray<sep>ceshkovsky, ludwig<sep>dakin, wayne ray<sep>ceshkovsky, ludwig10435, morning glory avenuefountain valley californiaus<sep>dakin, wayne ray816, camino real20, redondo beach californiaus<sep>ceshkovsky, ludwig<sep>dakin, wayne ray<sep>ceshkovsky, ludwig10435, morning glory avenuefountain valley californiaus<sep>dakin, wayne ray816, camino real20, redondo beach californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an optical apparatus is described for use with a video  disc (7) having frequency modulated video information (9)  recorded thereon in the form of a plurality of concentric  circles or a single spiral.  the information track comprises  successively positioned light reflective and light non-reflective  regions (10, 11).  a focused light beam (4) is caused  to be positioned over the centre of an information track  and the light reflected from the information track is gathered  by an objective lens (17) for application to electronic  circuitry (30) for recovering the recorded frequency modulated  video signals.  radial tracking means are described for maintaining  the focused light spot to impinge upon the centre of an  information track.  lens focusing means are described for  positioning the objective lens at the optimum focused  position above the information track for gathering the  maximum amount of reflected light from the information  track.  fm processing means are described for reconstructing  the recovered frequency modulated video information  such that the ratio between the amplitude of the signals as  recorded is essentially the same in the signals as recovered  from the video disc member.  further servo means are  described for handling the selective change of the intersection  of the reading beam with the video disc member  in a predetermined preferred mode of operation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

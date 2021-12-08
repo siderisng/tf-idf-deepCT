@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007628
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04B-3/44</main> H04B-3/44 H04M-19/00 H04B-3/02 G01R-31/08 H04B-3/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for the remote feeding of intermediate stations in a telecommunication arrangement.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+knesewitsch jakob<sep>ziegler alfred dipl-ing<sep>knesewitsch, jakob<sep>ziegler, alfred, dipl.-ing.<sep>knesewitsch, jakobbannwaldseestrasse 69d-8000 münchen 70de<sep>ziegler, alfred, dipl.-ing.laimer platz 1d-8000 münchen 21de<sep>knesewitsch, jakob  <sep>ziegler, alfred, dipl.-ing.<sep>knesewitsch, jakobbannwaldseestrasse 69d-8000 münchen 70de<sep>ziegler, alfred, dipl.-ing.laimer platz 1d-8000 münchen 21de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  circuit arrangement for the remote feed of intermediate stations of a communications transmission system employing d. c.  series feed, wherein a remote feed circuit contains a series arrangement of two constant current sources which are arranged in feed stations in the communications transmission system and are connected to one another via a pair of feed wires, and wherein each of the two constant current sources is contrived to be such that it is capable of supplying the entire transmission link, characterized in that the two constant current sources (11, 12) are set at different current values, and that a device (6) which serves to monitor the output voltage (uf1 ) is connected to at least one of the two constant current sources, especially the constant current source (11) which is set at the lower current value. 
+</ABSTRACT>
+</TEXT>
+</DOC>

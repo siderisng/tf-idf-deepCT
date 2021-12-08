@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008907
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B62D-55/08 B62D-55/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vehicle with track tensioning system.
+</TITLE>
+<APPLICANT>
+priestman brothersgb<sep>priestman brothers limited<sep>priestman brothers limitedhedon roadhull, hu9 5pagb<sep>
+</APPLICANT>
+<INVENTOR>
+robinson frank melvillegb <sep>townsend peter roland gb<sep>robinson, frank melville<sep>townsend, peter roland<sep>robinson, frank melville42, thorn road hedonnr. hull,humbersidegb<sep>townsend, peter roland27, willow road burstwicknr. hull, humbersidegb<sep>
+</INVENTOR>
+<ABSTRACT>
+system for automatically tensioning an endless track (4)  of a tracklaying vehicle driven by a fluid motor (9).  the sys­ tem (8) comprises means (12, 13, 14, 15 and 17) for supplying  operating fluid to an adjusting cylinder (18) operatively cou­ pled to a wheel (6) which supports the track (4) to cause the  wheel (6) to be biased in a direction to tension the track (4).  a  pressure accumulator (16) may be provided for absorbing  shock loads imposed from the track (4) on the adjusting  cylinder (18).  
+</ABSTRACT>
+</TEXT>
+</DOC>

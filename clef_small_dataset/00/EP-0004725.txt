@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004725
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-31/00 B01J-27/00 C07C-29/48 C07C-29/00 C07C-67/00 C07C-29/50 <main>C07C-31/20</main> C07C-31/20 C07B-61/00 C07C-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of glycols.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+mee alec<sep>mee, alec<sep>mee, alec3 hastings close nunthorpemiddlesbrough clevelandgb<sep>mee, alec<sep>mee, alec3 hastings close nunthorpemiddlesbrough clevelandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a glycol is produced by reacting an olefine with oxygen  in an aqueous solution which comprises copper or iron ions,  bromide ions and iodide ions.  the catalyst may be recycled  to the reaction in the heavy ends of the process.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001892
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/495 H01L-23/48 <main>H01L-23/48</main> H01L-23/053 H01L-23/02 H01L-23/28 H01L-21/48 H01L-23/04 H01L-21/02 H01L-23/31 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lead frame and package for establishing electrical connections to electronic components.
+</TITLE>
+<APPLICANT>
+amp incus<sep>amp incorporated<sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>amp incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+keller joseph richard<sep>keller, joseph richard<sep>keller, joseph richard2406 walker mill road r.d. no. 2harrisburg pennsylvaniaus<sep>keller, joseph richard<sep>keller, joseph richard2406 walker mill road r.d. no. 2harrisburg pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a lead frame stamped and formed from sheet metal and  comprising a plurality of contact arms (1, 2, 3) arranged for  connection to respective contact areas of an electronic component  (100), each arm having integrally formed therewith a  terminal tab (4, 5, 6) for connection to an external conductor,  each tab being formed of a plurality of thicknesses of the  sheet metal.  the lead frame is part of a package in which it  has an electronic component (100) mounted thereon with the  contact arms (1, 2, 3) and associated terminal members (4, 5,  6) electrically isolated from each other, a substrate (18) of  electrically insulating material being bonded to the contact  arms (1, 2, 3), and a housing (21) in the form of a frame  surrounding the substrate (18), component (100), contact  arms (1, 2, 3) and portions of the tabs (4, 5, 6), with free end  portions of the tabs (4, 5, 6) extending outside the housing  (21), there being encapsulating material (24) filling the housing  (21).  
+</ABSTRACT>
+</TEXT>
+</DOC>

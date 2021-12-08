@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003612
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-29/32 <main>H01J-9/227</main> H01J-1/70 H01J-1/72 H01J-29/18 H01J-9/227 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of coloured, preferably black, picture-dot surrounds of preselected conductivity, preferably for flat colour-picture screens.
+</TITLE>
+<APPLICANT>
+siemens ag de  <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kobale manfred dr phil<sep>lorenz hans-peter dr rer nat<sep>wengert rolf dr rer nat<sep>kobale, manfred, dr.phil.<sep>lorenz, hans-peter, dr.rer.nat.<sep>wengert, rolf, dr.rer.nat.<sep>kobale, manfred, dr.phil.lärchenstrasse 11ad-8011 faistenhaarde<sep>lorenz, hans-peter, dr.rer.nat.sudetenstrasse 56d-8016 feldkirchende<sep>wengert, rolf, dr.rer.nat.klingerstrasse 11d-8000 münchen 70de<sep>kobale, manfred, dr.phil.<sep>lorenz, hans-peter, dr.rer.nat.  <sep>wengert, rolf, dr.rer.nat. <sep>kobale, manfred, dr.phil.lärchenstrasse 11ad-8011 faistenhaarde<sep>lorenz, hans-peter, dr.rer.nat.sudetenstrasse 56d-8016 feldkirchende<sep>wengert, rolf, dr.rer.nat.klingerstrasse 11d-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+For producing a black colored border of the pixels of a color screen, a method is proposed, which is applied to the shield glass (1) a slurry of glass powder with or without the brightest possible metal oxide particles in photoresist, this slurry is developed in photo molding technology and before or after the fluorescent applicationIt is annealed for the pixels (5), wherein in the case of the metal oxide additive, the particles are darkened by the annealing and annealed in the case of the pure glass slot in a reducing atmosphere.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013501
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-37/08 C07C-39/08 B01J-27/00 C07C-37/00 C07C-37/50 C07C-67/00 C07C-39/00 <main>C07C-39/08</main> C07C-37/52 C07B-61/00 C07C-27/00 C07C-37/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of recovering resorcinol.
+</TITLE>
+<APPLICANT>
+mitsui petrochemical indjp  <sep>mitsui petrochemical industries, ltd.<sep>mitsui petrochemical industries, ltd.2-5, kasumigaseki 3-chome chiyoda-kutokyo 100jp<sep>mitsui petrochemical industries, ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+isibasi masayasu<sep>nakagawa hiroaki<sep>nambu hirohiko<sep>isibasi, masayasu<sep>nakagawa, hiroaki<sep>nambu, hirohiko<sep>isibasi, masayasu4-7, 2-chome, waki-chokuga-gun, yamaguchi-kenjp<sep>nakagawa, hiroaki47-18, hirata 6-chomeiwakuni-shi, yamaguchi-kenjp<sep>nambu, hirohiko37-21, hirata 6-chomeiwakuni-shi, yamaguchi-kenjp<sep>isibasi, masayasu <sep>nakagawa, hiroaki  <sep>nambu, hirohiko<sep>isibasi, masayasu4-7, 2-chome, waki-chokuga-gun, yamaguchi-kenjp<sep>nakagawa, hiroaki47-18, hirata 6-chomeiwakuni-shi, yamaguchi-kenjp<sep>nambu, hirohiko37-21, hirata 6-chomeiwakuni-shi, yamaguchi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+when recovering resorcinol from high-boiling by­ products formed by the acid-cleavage of  m-diisopropylbenzene dihydroperoxide by thermal cracking  in the presence of ammonium sulfate and/or ammonium  bisulfate at a temperature of 170°c to 350°c under reduced  pressure, increased amounts of resorcinol can be recovered if  thermal cracking is carried out at a pressure of less than 50  mmhg gauge in the absence of any supplied inert gas.  
+</ABSTRACT>
+</TEXT>
+</DOC>

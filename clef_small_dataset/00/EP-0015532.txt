@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015532
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01G-4/30 H01G-4/015 H01G-4/005 <main>H01G-4/24</main> H01G-4/18 H01G-4/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing an electrical thin-film capacitor.
+</TITLE>
+<APPLICANT>
+siemens agde   <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+behn reinhard dipl-phys<sep>pachonik horst dipl-phys<sep>seebacher gerhard dr phil<sep>behn, reinhard, dipl.-phys.<sep>pachonik, horst, dipl.-phys.<sep>seebacher, gerhard, dr. phil.<sep>behn, reinhard, dipl.-phys.frasdorferstrasse 6dd-8000 münchen 90de<sep>pachonik, horst, dipl.-phys.lindenring 135d-8021 taufkirchende<sep>seebacher, gerhard, dr. phil.bert-brecht-allee 10d-8000 münchen 83de<sep>behn, reinhard, dipl.-phys.<sep>pachonik, horst, dipl.-phys.  <sep>seebacher, gerhard, dr. phil. <sep>behn, reinhard, dipl.-phys.frasdorferstrasse 6dd-8000 münchen 90de<sep>pachonik, horst, dipl.-phys.lindenring 135d-8021 taufkirchende<sep>seebacher, gerhard, dr. phil.bert-brecht-allee 10d-8000 münchen 83de<sep>
+</INVENTOR>
+<ABSTRACT>
+In layer capacitors, at least two against pole metallizations (3, 5) and an intermediate dielectric layer (4) of glow polymer are arranged on a substrate (1).These layers are bounded laterally with only one panel.In order to allow as complete exploitation of the substrate surface and a pretty corner shape of the component, which applies the adjacent layers (3-5) congricted in parallel and obliquely to the edges of the aperture.
+</ABSTRACT>
+</TEXT>
+</DOC>

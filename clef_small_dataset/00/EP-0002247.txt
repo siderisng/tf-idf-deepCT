@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002247
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-3/023 H04M-11/06 H03M-11/14 H03M-11/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for transmitting characters, applicable to a push button telephone set.
+</TITLE>
+<APPLICANT>
+cit alcatelfr  <sep>compagnie industrielle des telecommunications cit-alcatel s.a. dite:<sep>compagnie industrielle des telecommunications cit-alcatel s.a. dite:12, rue de la baumef-75008 parisfr<sep>
+</APPLICANT>
+<INVENTOR>
+picart alainfr<sep>picart, alain<sep>picart, alainrésidence val la croix bat.b esc.3f-91320 wissousfr<sep>
+</INVENTOR>
+<ABSTRACT>
+device of the multifrequency code type, the set having a transmission circuit and a reception circuit for the signals of the multifrequency code, a display device (vs) for the characters used on transmission and on reception, and a code extension device (tec) allowing several characters to be associated with each key, the transmission circuit transmitting a base-code multifrequency signal selected by actuating a key of the keypad and a multifrequency signal selected using the code extension device (tec).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

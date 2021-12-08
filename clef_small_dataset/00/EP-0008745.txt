@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008745
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 B01J-21/00 C10G-11/00 C10G-11/04 B01J-37/00 C01B-3/40 B01J-37/14 B01J-27/22 B01J-27/20 <main>B01J-21/06</main> B01J-27/224 B01J-21/06 B01J-21/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+support-free metal catalyst for the soot-free partial oxidation with air of liquid hydrocarbons.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+kostka hana<sep>kostka, hana<sep>kostka, hanasteigbeetstrasse 12d-8500 nürnbergde<sep>kostka, hana<sep>kostka, hanasteigbeetstrasse 12d-8500 nürnbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+For soot-free generation of a carbon monoxide, water fabric and gaseous hydrocarbons containing fuel gas mixtures with partial oxidation of liquid hydrocarbons with air at air numbers below 0.3 and temperatures between 600 and 800 ° C is used according to the invention a metal catalyst used from an aluminum retraining15 to 35 wt.-% silicon, which processes to form bodies and at least 10 hours at temperatures between 600 and 800 ° C of an oxidizing the atmosphere and gaseous or gasolated carbon hydrogen (advantageously a gas stream of air and koh lina hydrocons with a C: O₂ ratio between2 and 8) was exposed.Of the alloy originally available as an alertektikum with distributed Si primary phases, 5 to 30% of the aluminum is transferred to α-Al₂O₃ and 1 to 10% of the silicon in α-SiC during the heat treatment.
+</ABSTRACT>
+</TEXT>
+</DOC>

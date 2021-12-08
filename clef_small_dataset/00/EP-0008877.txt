@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008877
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-503/00 A61P-31/00 A61K-31/545 <main>C07D-498/04</main> A61K-31/43 A61K-31/42 A61K-31/44 A61K-31/47 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of clavulanic acid, a process for their preparation and their use.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+clarke brian peter<sep>stirling irene<sep>clarke, brian peter<sep>stirling, irene<sep>clarke, brian peterconeybury, drive spur forest drivekingswood, surreygb<sep>stirling, irene80 woodcrestreigate, surreygb<sep>clarke, brian peter  <sep>stirling, irene<sep>clarke, brian peterconeybury, drive spur forest drivekingswood, surreygb<sep>stirling, irene80 woodcrestreigate, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+the compounds of the formula (i):-    and esters thereof wherein r₁ is a lower alkyl group or a  phenyl group and r₂ is a hydrogen atom or r₂ together with  r₁ represents the residue of a fused benzene ring are  β-lactamase inhibitors and anti-bacterial agents.  their preparation and use is described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

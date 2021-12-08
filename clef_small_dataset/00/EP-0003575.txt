@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003575
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/34 G02B-6/42 G02B-27/10 <main>G02B-27/10</main> G02B-6/293 G02B-5/14 G02B-6/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for mixing or demixing optical beams for transmission on optical fibres.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecomit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>
+</APPLICANT>
+<INVENTOR>
+di vita pietro<sep>di vita, pietro<sep>di vita, pietroc.so francia, 351turinit<sep>di vita, pietro<sep>di vita, pietroc.so francia, 351turinit<sep>
+</INVENTOR>
+<ABSTRACT>
+the optical mixing-demixing is effected, as regards  the mixing operation, by suitably sending two light beams  having different wavelengths to a first separation surface  between transparent materials having suitable behaviours  of the refractive index.  the obtained multiple beam, with a  third beam having a different wavelength is then sent to a  second separation surface between transparent materials  having different suitable behaviours of the refractive index,  obtaining an only beam; the operation is repeated till all  the beams are mixed.  for demixing operation, the beam  formed by a plurality of beams, having different wavelengths  is suitably sent to a first separation surface between  transparent materials having suitable behaviours of  the refractive index and an only monochromatic beam is  drown out.  the resulting beam is then sent to a second  separation surface between transparent materials having  different suitable behaviours of the refractive index, for  drawing out a second monochromatic beam; the operation  is repeated until all the beams are demixed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003224
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05D-11/13</main> G05D-11/00 B05B-7/26 B05B-7/24 G05D-11/13 B01F-15/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for metering at least one component of a mixed liquid.
+</TITLE>
+<APPLICANT>
+behr hansde<sep>behr, hans<sep>behr, hanslenzhalde 82d-7000 stuttgart 1de<sep>behr, hans <sep>
+</APPLICANT>
+<INVENTOR>
+schweiker werner<sep>vetter kurt dipl-ing<sep>schweiker, werner<sep>vetter, kurt, dipl.-ing.<sep>schweiker, wernerfasanenweg 8d-7121 gemmrigheimde<sep>vetter, kurt, dipl.-ing.rechbergweg 24d-7148 remseck 3de<sep>schweiker, werner<sep>vetter, kurt, dipl.-ing.  <sep>schweiker, wernerfasanenweg 8d-7121 gemmrigheimde<sep>vetter, kurt, dipl.-ing.rechbergweg 24d-7148 remseck 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to increase the dosing accuracy it is proposed that the flow of the main component regulates and in this case the measured flow of the main component is used as a variable setpoint and that in the control of the flow rate of the secondary component, the control variable (actual value) of the flow of the main component for determining the control variable proportional Setpoint value of the flow of the minor component is used; as well as a gear pump (P₈) arranged between a pressure vessel (DS) and a transducer (12) for conveying the main component on a control line, an electric machine (M₈) which is operable as a motor and the pump (P₈) drives for the main component which forms an actuator with the electrical machine (M₈) associated with it, to use an electronic four-quadrant controller (16) for the machine (M₈) and two tachodynamos (T₈, T₁₀) associated with the main component, which each of the two electrical machines ( m₈, m₁₀) are coupled. The method and apparatus are provided for the main use when mixing a hardness of a 2-component paint with its stem paint.
+</ABSTRACT>
+</TEXT>
+</DOC>

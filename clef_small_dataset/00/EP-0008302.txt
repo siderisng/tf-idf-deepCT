@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0008302
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01T-1/00 G01T-1/164 G01T-1/29 G01T-1/205 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+detection and localization of neutral radiations.
+</TITLE>
+<APPLICANT>
+anvarfr<sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>
+</APPLICANT>
+<INVENTOR>
+charpak georgesfr<sep>nguyen ngoc hoanfr <sep>policarpo armandopt   <sep>charpak, georges<sep>nguyen ngoc, hoan<sep>policarpo, armando<sep>charpak, georges37, rue de la plainef-75020 parisfr<sep>nguyen ngoc, hoan21, rue rimbaudf-91370 verrières le buissonfr<sep>policarpo, armandodepartemento de fisica da universidadecoimbrapt<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

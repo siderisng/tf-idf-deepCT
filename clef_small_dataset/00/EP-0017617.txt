@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017617
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-498/00 C08L-23/00 C08K-5/00 C08L-101/00 C08K-5/35 C07D-498/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polyalkylpiperidine spirooxazolones, their application as light stabilisers and polymers stabilised therewith
+</TITLE>
+<APPLICANT>
+ciba geigy ag ch  <sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+nikles erwin drch<sep>slongo mario drch<sep>nikles, erwin, dr.<sep>slongo, mario, dr.<sep>nikles, erwin, dr.bodenackerstrasse 14ch-4410 liestalch<sep>slongo, mario, dr.unterwartweg 27ch-4132 muttenzch<sep>
+</INVENTOR>
+<ABSTRACT>
+Connection of the formula <image> and its acid addition salts, where n is an integer from 1 to 4, R1 is hydrogen or CH3, R2 and R3 independently of one another of each other, C1-C18 -alkyl, unsubstituted or by chlorine or C1-C4-Alkyl substituted C6-C10 aryl or C7-C9-aralkyl or R² and R³ together with the C atom to which they are bonded to a cycloalkan or alkylcycloalkano residue form with 5-20 C atoms or a polyalkylpiperidine residue, R<4> A monovalent radical and R <5> defined in claim 1, a one to four-talent remainder defined in claim 1 are effective light protection materials for plastics.Their preparation is done by N-substitution of the compounds in which R <4> and R <5> is hydrogen.
+</ABSTRACT>
+</TEXT>
+</DOC>

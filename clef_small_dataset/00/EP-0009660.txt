@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009660
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+B05D-1/06 B28C-7/16 B28C-5/06 B05D-7/00 B05D-1/02 E04G-21/04 B65G-53/32 B28C-7/00 E02D-17/20 B05D-7/24 B28C-5/00 B05B-7/14 E04G-21/02 B28C-7/04 B05D-1/04 <main>E04G-21/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for spraying concrete.
+</TITLE>
+<APPLICANT>
+intradym masch agch<sep>intradym maschinen ag<sep>intradym maschinen aghegmattenstrasse 26ch-8404 winterthurch<sep>intradym maschinen ag<sep>intradym maschinen ag<sep>
+</APPLICANT>
+<INVENTOR>
+egger hans-ruedi<sep>egger, hans-ruedi<sep>egger, hans-ruedirebhusstrasse 33ch-8126 zumikonch<sep>egger, hans-ruedi<sep>egger, hans-ruedi<sep>egger, hans-ruedirebhusstrasse 33ch-8126 zumikonch<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to reduce the impact velocity of the concrete mass on a wall (48), in the delivery hose (12, 12 '), one for compressed air is arranged away from the spray nozzle (10) in the open straight branch (40).This junction has a valve (42) for setting the pressure to be derived pressure.Due to the derivative, the rebound of concrete mass from the wall (48) is significantly reduced.The concrete mixture is first humidified for a constant moisture before it gets into the spray path (12, 12 ') and at the spray nozzle (10) is added to him a consaurs residual water amount.This method results in a constant water content and enables light, since in conveying path (12, 12 ') only aus humidifies, a lower pressure of the conveying air.
+</ABSTRACT>
+</TEXT>
+</DOC>

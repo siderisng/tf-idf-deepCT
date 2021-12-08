@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010237
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41F-7/24 B41F-7/36 B41F-7/00 B41F-31/02 B41F-33/10 <main>B41F-7/36</main> B41F-33/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+combined dampening and inking device for offset-printing machines and method for inking and dampening an offset-printing plate.
+</TITLE>
+<APPLICANT>
+heidelberger druckmasch agde<sep>heidelberger druckmaschinen aktiengesellschaft<sep>heidelberger druckmaschinen aktiengesellschaftkurfürsten-anlage 52-60 postfach 10 29 40d-69019 heidelbergde<sep>heidelberger druckmaschinen aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+beisel hermann<sep>kraft hermann<sep>beisel, hermann<sep>kraft, hermann<sep>beisel, hermannzeppelinstrasse 5d-6909 walldorfde<sep>kraft, hermannkirchstrasse 21d-6901 dossenheimde<sep>beisel, hermann <sep>kraft, hermann<sep>beisel, hermann zeppelinstrasse 5 d-6909 walldorf de<sep>kraft, hermannkirchstrasse 21d-6901 dossenheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+A combined wet color plant for offset printing machines is equipped with a series of the plate cylinder adaptable on support rollers, of which the, in the direction of rotation of the plate cylinder, first application roller (1) via an oleophilic intermediate roll (7) connected to the next order roller (2)and of which, in addition, the second and third order roller and possibly the following on support rollers are applied to a color frying roller (8).Further, a wet driving roller (11) of the moisture license part is provided, which cooperates with the first order roller.For quick production of the color humidity balance after pressure interruptions, the first application roller (1) in three switching positions is adjustably mounted and driven by frictional.In their three switching positions, said applicator roller (1) is either on the plate cylinder (6) and / or on the wet driving roller (11) and / or on the between the roller (7) applied.
+</ABSTRACT>
+</TEXT>
+</DOC>

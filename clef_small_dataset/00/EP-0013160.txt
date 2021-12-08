@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013160
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/12 B41J-2/39 B41J-2/40 G03G-15/05 <main>G01R-31/14</main> G01R-31/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for determining the applied voltage at which paschen breakdown occurs in electrography.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+marshall richard carlile<sep>marshall, richard carlile<sep>marshall, richard carlile30 ox laneharpenden hertfordshiregb<sep>marshall, richard carlile<sep>marshall, richard carlile30 ox laneharpenden hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+in electrographic printing paschen breakdown must be  exceeded for writing to occur, or the paschen breakdown level  can be used as a measure of the suitability of record media for  use in such printing.  the onset of paschen breakdown is  determined by the appearance or disappearance of second  harmonic current flow across a test gap (49).  the d c output of  an integrator (50) rises until the onset of paschen breakdown  occurs caused by the combination of the d c output and a  sinusoidal voltage from an osciliator (43).  
+</ABSTRACT>
+</TEXT>
+</DOC>

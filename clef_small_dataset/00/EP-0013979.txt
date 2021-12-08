@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013979
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-3/00 B65G-47/91 H05K-13/08 H05K-13/00 <main>H05K-13/02</main> H05K-13/04 B23P-21/00 H05K-13/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic parts mounting apparatus.
+</TITLE>
+<APPLICANT>
+matsushita electric ind co ltdjp <sep>matsushita electric industrial co. ltd.<sep>matsushita electric industrial co., ltd. 1006, oaza kadoma kadoma-shi, osaka-fu, 571jp<sep>matsushita electric industrial co., ltd<sep>
+</APPLICANT>
+<INVENTOR>
+araki shigeru<sep>misawa yoshihiko<sep>mori kazuhiro<sep>taki yasuo<sep>tanaka souhei<sep>araki, shigeru<sep>misawa, yoshihiko<sep>mori, kazuhiro<sep>taki, yasuo<sep>tanaka, souhei<sep>araki, shigeru3-4-5, aoyamakatano-shi, osaka-fujp<sep>misawa, yoshihiko9-207, ikuno 4-chomekatano-shi, osaka-fujp<sep>mori, kazuhiro16-17, myokenzaka 3-chomekatano-shi, osaka-fujp<sep>taki, yasuo51-7, nishifunahashi 2-chomehirakata-shi, osaka-fujp<sep>tanaka, souhei10-21-23, hashiridani 2-chomehirakata-shi, osaka-fujp<sep>araki shigerujp<sep>misawa yoshihikojp<sep>mori kazuhirojp<sep>taki yasuojp<sep>tanaka souheijp<sep>araki, shigeru  <sep>misawa, yoshihiko<sep>mori, kazuhiro<sep>taki, yasuo<sep>tanaka, souhei<sep>araki, shigeru3-4-5, aoyamakatano-shi, osaka-fujp<sep>misawa, yoshihiko9-207, ikuno 4-chomekatano-shi, osaka-fujp<sep>mori, kazuhiro16-17, myokenzaka 3-chomekatano-shi, osaka-fujp<sep>taki, yasuo51-7, nishifunahashi 2-chomehirakata-shi, osaka-fujp<sep>tanaka, souhei10-21-23, hashiridani 2-chomehirakata-shi, osaka-fujp<sep>
+</INVENTOR>
+<ABSTRACT>
+this is directed to an electronic parts mounting appa­ ratus comprising a means for carrying by given pitch an  electronic parts collector (t) which is composed of elec­ tronic parts (p), strip band (1) having many concaves (3), for  receiving the electronic parts (p), disposed at equal inter­ vals and coating tape (2) for covering the concaves (3) in  the receiving band; a support means (11) for horizontally  supporting said electronic parts collectors (t) with the  coating tape (2) being placed on the top side; a means (8,  12) for separating from the band the tape (2) of said col­ lector (t); and an picking means (14, 15) for adsorbing  the electronic parts (p) one by one from the concave (3)  of the band (1) under the cover-open condition by separat­ ing the tape (2) from the band placed on said support  means to carry and load the electronic parts (p) on a cir­ cuit board (13), thus allowing the electronic parts (p) to  be continuously and stably mounted on the circuit board  (13).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017355
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A61K-49/02</main> G01N-33/60 A61K-51/04 A61K-51/12 A61K-51/00 A61K-51/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+indium-111 oxine complex composition.
+</TITLE>
+<APPLICANT>
+amersham int plc gb  <sep>amersham international plc<sep>amersham international plcwhite lion roadamersham buckinghamshire, hp7 9llgb<sep>amersham international plc  <sep>
+</APPLICANT>
+<INVENTOR>
+kelly james duncan<sep>kelly, james duncan<sep>kelly, james duncanc/o the radiochemical centre ltd. white lion roadamersham buckinghamshire, hp7 9llgb<sep>kelly, james duncan<sep>kelly, james duncanc/o the radiochemical centre ltd. white lion roadamersham buckinghamshire, hp7 9llgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an indium-111 preparation comprises a complex of  indium-111 with a quinoline compound carrying an 8-­ hydroxyl group, e. g.  oxine, present in an aqueous medium  which also contains a surface active agent to prevent the  complex from becoming bound to the surface of the vessel  on autoclaving, and optionally a buffer to improve blood cell  labelling efficiency.  the surface active agent is preferably  non-ionic, e. g.  a polyoxyethylene sorbitan ester of a fatty  acid.  the buffer is preferably n-2-hydroxyethylpiperazine-n′-­ 2-ethanesulphonic acid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

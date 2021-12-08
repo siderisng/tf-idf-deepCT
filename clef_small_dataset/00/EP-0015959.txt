@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0015959
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02H-5/08 H02H-5/00 H02B-13/035 H02B-13/065 H02H-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+protection arrangement against a solicitation by suppression of the encapsulation upon an accidentel arc discharge in switching devices encapsulated and insulated by pressure gas.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciech <sep>bbc aktiengesellschaft brown, boveri & cie.<sep>bbc aktiengesellschaft brown, boveri &amp; cie. haselstrasse ch-5401 badench<sep>
+</APPLICANT>
+<INVENTOR>
+kloetzner gerdde<sep>kloetzner, gerd<sep>klötzner, gerdhohe-marks-strasse 21d-8755 altenau 3de<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

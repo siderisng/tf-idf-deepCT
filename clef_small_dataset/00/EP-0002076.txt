@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002076
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-3/14 G01S-3/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+direction finding apparatus.
+</TITLE>
+<APPLICANT>
+hollandse signaalapparaten bvnl<sep>hollandse signaalapparaten b.v.<sep>hollandse signaalapparaten b.v.zuidelijke havenweg 40 p.o. box 42nl-7550 gd hengelonl<sep>
+</APPLICANT>
+<INVENTOR>
+langeraar huibert barendnl<sep>langeraar, huibert barend<sep>langeraar, huibert barendflemmingstraat 24hengelo (0)nl<sep>
+</INVENTOR>
+<ABSTRACT>
+a radio direction finding apparatus comprising an  omnidirectional receiving element (21), an array of directional  receiving elements (1. 1-1. 2n), two log video detectors  (15, 16) suited for separate connection to two contiguous  elements of said array and a subtraction circuit (27)  for generating a signal containing the azimuth data of  an r. f.  transmitter.  in order to select echoes received through the main  lobes of the two connected receiving elements from those  received through the main lobe of the one element and a  side lobe of the other element, the radio direction finding  apparatus is provided with a threshold circuit (18) and two  gate circuits (19, 20) separately inserted between the log  video detectors (15, 16) and the subtraction circuit (27).   the threshold circuit (18) passes the applied signals  through the gate circuits (19, 20) if the strength of the latter  signals exceeds that of the echo signal obtained from  the omnidirectional receiving element (21) via a third log  video detector (22).  
+</ABSTRACT>
+</TEXT>
+</DOC>

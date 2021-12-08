@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004400
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 <main>G03C-5/54</main> C07D-231/00 G03C-8/02 C07D-209/42 G03C-8/14 C09B-29/00 C07D-231/46 G03C-7/00 C07D-209/00 C07C-205/37 C07D-209/14 G03C-8/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic diffusion transfer process and material for the production of colour images and suitable compounds therefor.
+</TITLE>
+<APPLICANT>
+agfa gevaert nv be <sep>agfa_gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap<sep>
+</APPLICANT>
+<INVENTOR>
+jaeken jan<sep>marx paul<sep>verhecken andre<sep>vetter hans<sep>jaeken, jan<sep>marx, paul<sep>verhecken, andre<sep>vetter, hans<sep>jaeken, janwouwstraat 106b-2540 hovebe<sep>marx, paulnauener strasse 25d-5090 leverkusende<sep>verhecken, andréedward arsenstraat 47b-2510 mortselbe<sep>vetter, hansgerstenkampd-5000 köln 80de<sep>jaeken, jan  <sep>marx, paul <sep>verhecken, andre<sep>vetter, hans<sep>jaeken, janwouwstraat 106b-2540 hovebe<sep>marx, paulnauener strasse 25d-5090 leverkusende<sep>verhecken, andréedward arsenstraat 47b-2510 mortselbe<sep>vetter, hansgerstenkampd-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+a compound of the following formula and use of this  compound in a photographic material and a photographic  diffusion transfer process for the production of colour  images:    wherein    r represents a hydrogen atom or an alkyl group with 1 to  4 c atoms;   a represents an oxyalkylene group, such as  -ch₂-ch₂-o-;   n represents 1 or 2;   x represents a residue of a dye or a dye precursor, which  either directly or by means of an intermediate link z  is linked to the so₂-group;   z represents an alkylene group of 1 to 6 c atoms, an  arylene group, or a heterocyclic group, which is linked  to the residue x either directly or by means of -o-, -s-,  -so₂-, -nr- (r being hydrogen or an alkyl group),  -co-, -co-nh, or -so₂-nh-;   r¹ represents -or², -sr² or    r² being hydrogen, an alkyl group with 1 to 22 c atoms,  a cycloalkyl group or an aryl group wherein said alkyl,  cycloalkyl and aryl groups may be further substituted,  r³ being one of the residues defined under r² or being  an acyl residue, which is derived from an aliphatic or  aromatic carboxylic or sulphonic acid, and r⁴ being  hydrogen or optionally a substituted alkyl group with  1 to 22 c atoms.  
+</ABSTRACT>
+</TEXT>
+</DOC>

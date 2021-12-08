@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010344
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-25/02 <main>H04L-1/20</main> H04L-25/40 G01R-23/00 H04Q-1/448 H04Q-1/30 H04L-1/20 H04L-7/033 G01R-23/15 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital signal detector.
+</TITLE>
+<APPLICANT>
+motorola incus  <sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+backof jr charles alphonsus<sep>sumner terence edward<sep>backof jr., charles alphonsus<sep>sumner, terence edward<sep>backof jr., charles alphonsus4050 whispering trailhoffmann estates, illinois 60195us<sep>sumner, terence edward600 salem drivehoffman estates, illinois 60194us<sep>backof jr., charles alphonsus<sep>sumner, terence edward<sep>backof jr., charles alphonsus4050 whispering trailhoffmann estates, illinois 60195us<sep>sumner, terence edward600 salem drivehoffman estates, illinois 60194us<sep>
+</INVENTOR>
+<ABSTRACT>
+a digital signal detector is disclosed that detects a serial  bit stream transmitted at a predetermined bit frequency.  bit  transistors are totalized in a counter (115) over a predetermined  time interval.  bit transistions occuring during a good  window interval from gate (111) increment the totalized count  by one.  bit transistions occurring during a bad window interval  from gate (112) decrement the totalized count by one.  bit  transistions occurring during a marginal window interval  from gate (110), situated between the good and bad window  intervals, do not affect the totalized count.  if the counter (115)  reaches a predetermined count during the time interval, a  detect signal is provided by flip flop (117) indicating that the  digital signal has been detected.  the counter (115) can be  further loaded with a threshold count for tailoring the digital  signal detector for operation at a particular signal-to-noise  ratio.  periodic signals that have frequencies that are submultiples  of the bit frequency are detected by correlating the  digital signal between two predetermined stages of a shift  register (101).  the digital signal detector may provide a detector  output signal when both the digital signal is detected at flip  flop (117) and periodic signals having submultiple frequencies  are not present at flip flop 106).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008353
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-21/89 G01N-21/892 <main>G01N-21/89</main> G01N-21/88 G01N-21/952 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of detection and classification of flaws on metallic surfaces.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus   <sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kennedy paul g<sep>miller robert c<sep>sarkozi miklos<sep>yaroshuk nicholas<sep>kennedy, paul g.<sep>miller, robert c.<sep>sarkozi, miklos<sep>yaroshuk, nicholas<sep>kennedy, paul g.1368 foxwood drivemonroeville, pennsylvaniaus<sep>miller, robert c.1746 williamsburg placepittsburgh, pennsylvaniaus<sep>sarkozi, miklos4206 lochner courtmurrysville, pennsylvaniaus<sep>yaroshuk, nicholas1708 educational drivewhite oak, pennsylvaniaus<sep>kennedy, paul g.<sep>miller, robert c.<sep>sarkozi, miklos <sep>yaroshuk, nicholas<sep>kennedy, paul g. 1368 foxwood drive monroeville, pennsylvania us <sep>miller, robert c.1746 williamsburg placepittsburgh, pennsylvaniaus<sep>sarkozi, miklos4206 lochner courtmurrysville, pennsylvaniaus<sep>yaroshuk, nicholas1708 educational drivewhite oak, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a system of automatically detec­ tingand classifying flaws on a surface of high quality tubing  such as nuclear steam generator tubing and nuclear reactor  fuel tubing.  the system uses a laser beam which is scanned  across the surface and at least two sensors (3,4) adjusted such  that the radiation is reflected from a deflect-free surface prin­ cipally received by one of the sensors but that there is a  predetermined amount of radiation in the other sensor.  a  dynamic average signal of the principal sensor is developed  as a function of scan position.  threshold circuitry (6,7) detects  when the ratio of sensor signal to average signal varies by a  predetermined amount.  special circuitry (8) is used to detect  the essentially simultaneous occurrence of at least two diffe­ rent preselected combinations of signal variations to identify  the type of defect.  this technique is an improvement over the  conventional visual flaw inspection method and provides a  quick, accurate and consistent inspection method.  
+</ABSTRACT>
+</TEXT>
+</DOC>

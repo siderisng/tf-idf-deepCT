@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000767
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07F-9/32 A01N-57/18 A01N-57/00 <main>C07F-9/30</main> C07F-9/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+glycylmethyl-phosphinic acid derivatives, their preparation and their use.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+maier ludwig dr<sep>maier, ludwig, dr.<sep>maier, ludwig, dr.im lee 28ch-4144 arlesheimch<sep>maier, ludwig, dr.<sep>maier, ludwig, dr.im lee 28ch-4144 arlesheimch<sep>
+</INVENTOR>
+<ABSTRACT>
+Herbicide effective and plant growth regulating glycymethylphosphinic acid derivatives of the formula wherein R is hydrogen, -CH₂COOH or a slightly cleaved radical (eg benzyl, tert butyl), R 'a -OH or -OR₁ group, wherein R₁ is a cation, a lower aliphatic residue,Cycloalkyl or NH₂ is, R "hydrogen, cation or lower alkyl and R ‴ optionally substituted alkyl or phenyl.The preparation of these compounds enclosed by reacting a n-substituted glycine HOOC-CH₂-NH-R with formaldehyde and a phosphonal acid in a strong acidic solution and optionally cleavage of the radical R by catalytic hydrogenation or by HBR.The active ingredients (I) are used as components of means in particular for post-emergy weed control or growth inhibition of plants.
+</ABSTRACT>
+</TEXT>
+</DOC>

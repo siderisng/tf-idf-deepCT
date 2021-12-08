@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013927
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29F-1/02 B29C-45/58 B29C-47/08 B29C-45/62 <main>B29F-3/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bimetal cylinder for plastics processing machinery.
+</TITLE>
+<APPLICANT>
+interatomde<sep>interatom internationale atomreaktorbau gmbh<sep>interatom internationale atomreaktorbau gmbhfriedrich-ebert-strassed-5060 bergisch gladbach 1de<sep>interatom internationale atomreaktorbau gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+cyron theo<sep>cyron, theo<sep>cyron, theohüttenfeld 1d-5060 bergisch gladbach 3de<sep>cyron, theo  <sep>cyron, theo hüttenfeld 1d-5060 bergisch gladbach 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a bimetal cylinder for plastics processing machines, such as plastics extruders, plastics injection machines or the like, consisting of a thick-walled, pressure-tight and thermally-stable outer tube and a thin-walled, wear-and corrosion-resistant inner tube of circular cylindrical cross-section, characterized in that the inner tube is plastically formed in the cold at the outer tube without a gap, by radial compressive forces, and is under tangential compressive stress which nearly reaches the elastic limit. 
+</ABSTRACT>
+</TEXT>
+</DOC>

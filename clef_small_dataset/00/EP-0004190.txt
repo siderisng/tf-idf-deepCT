@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004190
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01S-3/134 H01S-3/03 H01S-3/036 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a gas laser.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>
+</APPLICANT>
+<INVENTOR>
+dunn philip dus<sep>hamerdinger randolph wus<sep>hug william f us<sep>johnson richard c us  <sep>marlett calvin jus<sep>mcquillan robert cus<sep>reed edwin aus<sep>dunn, philip d.<sep>hamerdinger, randolph w.<sep>hug, william f.<sep>johnson, richard c.<sep>marlett, calvin j.<sep>mcquillan, robert c.<sep>reed, edwin a.<sep>dunn, philip d.511 south dawley ave.west covina california 91790us<sep>hamerdinger, randolph w.7453 thronhurstglendora california 91740us<sep>hug, william f.2021 e. oakdale streetpasadena california 91107us<sep>johnson, richard c.1205 e. woodbury roadpasadena california 91104us<sep>marlett, calvin j.2457 laughlin streetla crescenta california 91214us<sep>mcquillan, robert c.405 w. virginia avenueglendora california 91740us<sep>reed, edwin a.1092 w. 17th streetupland california 91786us<sep>
+</INVENTOR>
+<ABSTRACT>
+a gas laser in which the gas pressure is actively controlled  by releasing gas from a high pressure reservoir (150)  when the gas pressure is less than a predetermined value.   the laser described is an internal mirror helium-cadmium  laser discharge tube (10).  pressure control is accomplished  by providing a signal representing the sensed pressure of the  helium in the laser discharge tube (10) and comparing electronically  this signal with a signal representing the pressure  of helium at a reference pressure.  if the sensed pressure is  lower than the reference pressure, indicating a loss of helium  gas, a heating element (162) is operated to heat a  temperature-sensitive gas-permeable membrane (154).   when heated, the membrane allows the helium in the high-pressure  reservoir to leak into the laser tube until the sensed  pressure is substantially equal to the reference pressure.  
+</ABSTRACT>
+</TEXT>
+</DOC>

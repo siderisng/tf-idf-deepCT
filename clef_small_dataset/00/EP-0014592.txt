@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014592
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-29/14 H04L-25/08 G06F-11/00 H04L-25/02 G06F-13/00 G06F-11/267 H04L-1/00 G06F-13/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bus fault detector
+</TITLE>
+<APPLICANT>
+automation systus<sep>automation systems inc.<sep>automation systems inc.lancer park p.o. box k.eldridge, iowa 52748us<sep>
+</APPLICANT>
+<INVENTOR>
+bartlett peter gus<sep>bartlett, peter g.<sep>bartlett, peter g.2336 e. 11th streeteldridge, iowa, 52803us<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention comprises computer system  equipment useful for detection of faults in data transmission  within a computer system.  fault detection is accomplished by  monitoring the current flow through a digital signal source  means, which is characterized in that it only draws significant  current during a non-transition period when a fault condition  occurs.  
+</ABSTRACT>
+</TEXT>
+</DOC>

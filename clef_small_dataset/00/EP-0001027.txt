@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001027
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-21/49 G01N-21/85 <main>C01B-17/76</main> G01N-21/47 C01B-17/56 C01B-17/74 C01B-17/00 G01N-21/27 C01B-17/76 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the continuous and in situ measurement of the vesicular sulphuric acid content during the manufacture of sulphuric acid.
+</TITLE>
+<APPLICANT>
+ugine kuhlmannfr<sep>produits chimiques ugine kuhlmann<sep>p c u k produits chimiques ugine kuhlmannservice propriété industrielle tour manhattan92087 paris la défense 2 cédex 21fr<sep>p c u k  produits chimiques ugine kuhlmann  <sep>
+</APPLICANT>
+<INVENTOR>
+montamat michel<sep>montamat, michel<sep>montamat, michel73 rue gabriel périf-92700 colombesfr<sep>montamat, michel<sep>montamat, michel73 rue gabriel périf-92700 colombesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  device for the in situ and continuous measurement of the content of vesicular sulphuric acid in the gases leaving the gas/liquid exchange towers during the preparation of sulphuric acid by the contact process, characterised in that it comprises : (a) a body consisting of a hollow cylinder (1) made of stainless steel, inside which are located two guide tubes (2) and (2') made of stainless steel, which have axes parallel to the axis of said hollow cylinder and equidistant from said axis, each containing an optical fibre (3) and (3'), one being the transmitting fibre and the other the receiving fibre.  (b) a head made of polytetrafluoroethylene (4) force-fitting into the upper part of said body, the upper face of which has the form of a dish with a flat bottom and the lower face of which comprises two cylindrical sighting holes (5) and (5'), having the same axis as those of said guide tubes, and a central part (6) inserted in a leak-proof manner between said guide tubes.  (c) two cowls (7') made of polytetrafluoroethylene, each surrounding in a leak-proof manner one of said optical fibres in their upper part, containing in their upper part a bore (9) receiving a glass window fixed in a leak-proof manner, and in their lower part a thread corresponding to the thread made in the optical fibre used, said body being perforated in its lower part with two orifices located at the end opposite the head (4) and each receiving an air inflow pipe, one enabling the whole of the apparatus to be swept and the other opening at (10) into said head made of polytetrafluoroethylene at the level of the sighting holes. 
+</ABSTRACT>
+</TEXT>
+</DOC>

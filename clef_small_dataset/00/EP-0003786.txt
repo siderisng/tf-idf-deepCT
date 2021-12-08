@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003786
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12P-41/00 C12N-11/00 C07C-101/06 <main>C07B-19/02</main> C12N-11/02 C12P-13/04 C12P-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stereoselective separation of phenylglycine derivatives and 4-hydroxyphenylglycine derivatives with enzyme-containing polymers.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+schutt hermann dr<sep>schutt, hermann, dr.<sep>schutt, hermann, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>schutt, hermann, dr.<sep>schutt, hermann, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The stereoselective cleavage of DL-phenylglycine derivatives by hydrolysis of the ester or amide group of N-acyl-L-phenylglycine esters or amides in N-acyl DL-phenylglycine esters or amides by the action of enzymes, separation of the N-acyl-D-phenylglycine estersor amides from the N-acyl-L-phenylglycins and optionally subsequent acid hydrolysis of the ester or amide groups of the D-enantiomers and the acyl groups, it is improved by providing the substrate in solution and the enzyme is carrier bound.
+</ABSTRACT>
+</TEXT>
+</DOC>

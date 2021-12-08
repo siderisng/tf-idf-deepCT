@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016286
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-45/50 B01J-31/00 <main>C07C-45/50</main> C07C-67/00 B01J-31/24 B01J-31/16 C07B-61/00 C07C-47/02 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydroformylation process.
+</TITLE>
+<APPLICANT>
+davy mckee oil & chemgb   <sep>davy mckee (oil & chemicals)limited<sep>davy mckee (london) limited250, euston roadlondon nw1 2pggb<sep>davy mckee (london) limited<sep>
+</APPLICANT>
+<INVENTOR>
+dennis alan james<sep>harris norman<sep>shevels thomas frederick<sep>dennis, alan james<sep>harris, norman<sep>shevels, thomas frederick<sep>dennis, alan james27 fountains drive, acklammiddlesbrough, clevelandgb<sep>harris, norman22 grantham road, nortonstockton-on-tees, clevelandgb<sep>shevels, thomas frederick46 butterfield drive, eaglescliffestockton-on-tees, clevelandgb<sep>dennis, alan james <sep>harris, norman<sep>shevels, thomas frederick  <sep>dennis, alan james27 fountains drive, acklammiddlesbrough, clevelandgb<sep>harris, norman22 grantham road, nortonstockton-on-tees, clevelandgb<sep>shevels, thomas frederick46 butterfield drive, eaglescliffestockton-on-tees, clevelandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+n-valeraldehyde is produced by hydroformylation of  butene-1 in the presence of one or more of cis- and transbutene-2  and iso-butylene using a rhodium complex catalyst  such as hrh(co)pph₃)₃.  reaction conditions include use of at  least about 100 moles of free triorganophosphine per gram  atom of rhodium, a temperature of about 80°c to about 130°c,  a total pressure of not more than about 50kg/cm² absolute, a  partial pressure of carbon monoxide of not more than about  1. 5 kg cm² absolute, and a partial pressure of hydrogen of  from about 1. 5 to about 7. 5 kg/cm² absolute.  an n-iso-ratio  of 20:1 and a conversion efficiency of butene-1 to  n-valeraldehyde of over 85% are possible under these conditions  with essentially no resin formation despite the presence  of iso-butylene.  the n- iso-valeraldehyde mixture can be  aldolized and reduced without intermediate purification to  give a commercially acceptable c₁₀-plasticiser alcohol.  
+</ABSTRACT>
+</TEXT>
+</DOC>

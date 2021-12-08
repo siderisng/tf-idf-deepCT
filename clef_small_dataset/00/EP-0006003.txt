@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006003
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/482 H01L-29/73 H01L-21/306 H01L-21/338 H01L-23/48 H01L-29/40 H01L-29/423 H01L-29/812 H01L-29/66 H01L-29/417 H01L-21/58 H01L-21/02 H01L-29/80 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to field effect devices and their fabrication.
+</TITLE>
+<APPLICANT>
+secr defence britgb<sep>secretary of state for defence in her britannic majesty's gov. of the united kingdom of great britain and northern ireland<sep>secretary of state for defence in her britannic majesty's gov. of the united kingdom of great britain and northern irelandwhitehalllondon sw1a 2hbgb<sep>
+</APPLICANT>
+<INVENTOR>
+hughes brian thomasgb<sep>vokes john charlesgb<sep>wight david robertgb<sep>hughes, brian thomas<sep>vokes, john charles<sep>wight, david robert<sep>hughes, brian thomas12 almond drivegreen end, gamlingay, sandy bedfordshiregb<sep>vokes, john charles11 grasmere avenueharpenden hertfordshiregb<sep>wight, david robert54 whitehall roadhitchin hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of fabricating a field effect transistor comprising  the steps of forming an active layer (3) of semiconductor  material, eg gaas over the surface of a first substrate (1) of  semiconductor material, eg also gaas, forming source, drain  (6,7) and gate (10) electrodes over the surface of the active  layer, applying a second substrate (11) of insulating material  to the surface of this structure and removing the first  substrate.  to facilitate the removal of the gaas first substrate  by selective etching, a buffer layer (2) of gaa1as resistant to  the gaas etchant may be formed between the first substrate  and active layer, which buffer layer is removed, following  removal of the first substrate, using a selective etchant to  which the gaas active layer is resistant.  a second gate  electrode may be formed on the active layer following  removal of the first substrate.  the technique is particularly  applicable to high frequency fet devices.  
+</ABSTRACT>
+</TEXT>
+</DOC>

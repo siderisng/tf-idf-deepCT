@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004655
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09K-11/06 C08K-5/1545 <main>C09K-11/06</main> C09B-5/00 C08K-5/34 C08K-5/00 G02F-1/13 C09B-57/00 C08K-5/45 C08L-33/02 C08L-33/00 C09B-57/14 C08K-5/3472 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+application of fluorescent dyes for light intensification.
+</TITLE>
+<APPLICANT>
+fraunhofer ges forschungde<sep>hoechst agde<sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.<sep>hoechst aktiengesellschaft<sep>fraunhofer-gesellschaft zur förderung der angewandten forschung e.v.leonrodstrasse 5480636 münchende<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+baur gunter dr<sep>kelker hans prof dr<sep>troster helmut dr<sep>baur, gunter, dr.<sep>kelker, hans, prof. dr.<sep>troster, helmut, dr.<sep>baur, günter, dr.waldhofstrasse 80d-7800 freiburgde<sep>kelker, hans, prof. dr.rauenthaler weg 26d-6000 frankfurt/main 71de<sep>tröster, helmut, dr.am erdbeerstein 44d-6240 königstein/taunusde<sep>baur, gunter, dr.<sep>kelker, hans, prof. dr. <sep>troster, helmut, dr.  <sep>baur, günter, dr.waldhofstrasse 80d-7800 freiburgde<sep>kelker, hans, prof. dr.rauenthaler weg 26d-6000 frankfurt/main 71de<sep>tröster, helmut, dr.am erdbeerstein 44d-6240 königstein/taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  application of fluorescent dyestuffs of the formulae  see diagramm : ep0004655,p7,f1   see diagramm : ep0004655,p7,f2   see diagramm : ep0004655,p7,f3   see diagramm : ep0004655,p7,f4  and  see diagramm : ep0004655,p7,f5   see diagramm : ep0004655,p8,f1  and  see diagramm : ep0004655,p8,f2  in which x stands for oxygen or sulfur, y stands for oxygen or a group of the formula =n-r, in which r stands for hydrogen or an alkyl, cycloalkyl or a carbocyclic or heterocyclic aryl residue, r**1 and r**2 stand for hydrogen, halogen, alkyl, alkoxy, carbalkoxy, acyloxy, cyano or aryl, r**3 stands for hydrogen or alkoxy, r**4 stands for hydrogen or, if r**3 is alkoxy it likewise stands for alkoxy, r**5 stands for hydrogen, alkyl, alkoxy or aryl, r**6 stands for hydrogen or alkyl, r**7 stands for hydrogen, halogen or alkoxy, r**8 , r**9 , r**10 and r**11 stand for hydrogen, halogen, alkyl, alkoxy or aryl, r**12 stands for alkyl acyl or arylsulfonyl or for a direct bond to a free ortho-position of the phenyl nucleus a, and r**13 and r**14 stand for hydrogen, halogen, alkyl, alkoxy, alkylthio, carbalkoxy, acyl, alkylsulfonyl, acyloxy or aryl or r**13 and r**14 together designate an annellated benzene nucleus, wherein the designated residues in any case can be substituted by residues which do not extinguish the fluorescence, for the passive enhancement of the brightness of liquid crystal displays. 
+</ABSTRACT>
+</TEXT>
+</DOC>

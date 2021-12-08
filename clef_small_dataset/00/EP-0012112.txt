@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012112
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41M-5/333 B41M-5/30 <main>B41M-5/12</main> B41M-5/26 B41M-5/155 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pressure-sensitive or heat-sensitive recording material.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+petitpierre jean claude dr<sep>petitpierre, jean claude, dr.<sep>petitpierre, jean claude, dr.aeussere reben 322ch-4303 kaiseraugstch<sep>petitpierre, jean claude, dr.<sep>petitpierre, jean claude, dr.aeussere reben 322ch-4303 kaiseraugstch<sep>
+</INVENTOR>
+<ABSTRACT>
+a pressure-sensitive or heat-sensitive recording material  which contains in its colour reactant system, as developer for  colour formers, at least one compound of the formula    wherein z is the radical of a reactive organic methylene or  methyl compound or a radical of the formula    wherein each of a₁ and a₂ independently is carbon or unsubstituted  or substituted alkylene, arylene or aralkylene, each of  x₁ and x₂ is halogen, cyano or nitro, each of d₁, d₂ and e  independently is unsubstituted or substituted alkyl, aralkyl,  aryl, alkanoyl, alkysulfonyl, aroyl, arylsulfonyl,  cyanoamidino, or is the group    wherein each of r₁ and r₂ independently is hydrogen or  unsubstituted or substituted alkyl, aryl or aralkyl, whilst d₁  and d₂ are also hydrogen, or each of the pairs of substituents  (r₁ and r₂) and (d₁ and e) together with the nitrogen atom to  which said pair is attached is a 5- or 6-membered heterocyclic  radical, w is -co-, -so₂-, -coco-,   -co-  -co- or unsubstituted  or substituted alkylene or phenylene, g is unsubstituted  or substituted alkyl, aralkyl or aryl or is a 5- or 6-membered  heterocyclic radical, and m is 1 to 6.  the grouping -a₁-(x₁)m is  preferably -c(hal)₃ wherein hal is halogen.  
+</ABSTRACT>
+</TEXT>
+</DOC>

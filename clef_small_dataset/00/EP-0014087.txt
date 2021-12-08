@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014087
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01K-7/22 G01N-27/12 G01K-7/16 <main>G01N-27/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+exhaust gas sensor.
+</TITLE>
+<APPLICANT>
+ford francefr <sep>ford motor cogb   <sep>ford werke agde<sep>ford france societe anonyme<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company limited <sep>ford-werke aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+achari achyuta<sep>achari, achyuta<sep>achari, achyuta13160 w. outer drive, 206detroit wayne county michigan 48223us<sep>achari, achyuta  <sep>achari, achyuta13160 w. outer drive, 206detroit wayne county michigan 48223us<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved exhaust gas sensor for use in sensing the  partial pressure of oxygen in the exhaust gases from an inter­ nal combustion engine has titania ceramic elements (46, 48) in  each of which two electrodes (40, 42, 44) are embedded.  the  electrodes in the past have been made from pure platinum, this  precious metal being required to enable the sensor electrodes  to survive at temperatures up to about 900°c in the hostile  gaseous environment.  even with the use of this platinum elec­ trode material, electrode failures have occurred.  these now  have been found to be caused by the formation of platinum  carbide from the chemical reaction of the platinum electrode  material with exhaust gas constituents.  also, pt loss has oc­ curred from oxidation thereof and vapourization of the oxide.  it  has been found that deterioriation of sensor electrodes from  an alloy consisting essentially of platinum and another material  having a lower vapour pressure and lower surface tension than  platinum.  specifically, an alloy consisting essentially of plati­ num and another metal selected from the group consisting of  gold and rhodium may be used.  an alloy of platinum and gold is  preferred.  annealing the titania element electrodes functions,  as does the alloy formation, as a means for increasing the mag­ nitude of the energy required for reaction of the pt with carbon  or oxygen.  
+</ABSTRACT>
+</TEXT>
+</DOC>

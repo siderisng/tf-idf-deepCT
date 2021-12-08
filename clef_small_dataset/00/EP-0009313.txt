@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009313
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01L-9/00 G01L-9/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved pressure transducer and assembly.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us  <sep>
+</APPLICANT>
+<INVENTOR>
+ho roland kus<sep>ho, roland k.<sep>ho, roland k.rt. 2, box 361kmchenry, illinois 60050us<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved ceramic capacitive pressure transducer  adaptable for use in automobiles is disclosed.  the pres­ sure transducer comprises a thin flexible diaphragm  disc (22) having a capacitor electrode (24) deposited on  it.  a thick cylindrical base substrate (10) has a top sur­ face (11) with a second capacitor electrode (19) deposited  thereon and the diaphragm (22) is bonded to the top  surface (11) of the base substrate (10) by an annular  glass ring (18) such that the first and second electrodes  (19, 24) are separated from each other and face each  other directly across an air gap.  the diaphragm, the top  surface of the base substrate and the annular glass ring  form an internal cavity (34) in which a reference vacuum  is stored.  in response to pressure changes outside of  this cavity, the diaphragm (22) will flex and thereby  change the capacitance created by the first and second  electrodes.  the base substrate (10) has an integral an­ nular flange (21) laterally extending with respect to and  beyond the top surface (11) of the base and located  below the top surface (11) and between the top and  bottom surfaces (11, 12).  a sealing rubber o-ring (38) is  mounted on the flange and is used to sealingly mount  the transducer to a housing wall (40) without applying  stress to the diaphragm.  
+</ABSTRACT>
+</TEXT>
+</DOC>

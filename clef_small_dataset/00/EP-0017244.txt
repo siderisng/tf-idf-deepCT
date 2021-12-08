@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017244
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/148 G11C-27/04 H04N-3/15 G06G-7/19 G06F-17/15 G11C-27/00 H01L-27/105 H01L-21/339 G06G-7/00 H01L-29/66 H01L-21/02 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor circuit with pulse-controlled charge transfer devices.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+bardl artur ing gradde<sep>bardl, artur, ing. grad.<sep>bardl, artur, ing. grad.grabmannstrasse 21d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+As is recognized according to the invention, it is important for various objects, especially in the optical field, when the clock-controlled charge shifting plants (CCD₁, CCD₂) generated in two at the same half-conductor crystal, CCD₂) generated cells and one of the respective difference of the information of two eachGetting each other assigned cells corresponding output signal SIG.
+</ABSTRACT>
+</TEXT>
+</DOC>

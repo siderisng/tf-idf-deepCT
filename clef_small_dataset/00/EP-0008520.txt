@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008520
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B30B-15/00 F16P-3/00 <main>G01L-5/00</main> B30B-15/28 G01L-1/16 G01L-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in and relating to load monitoring systems and methods.
+</TITLE>
+<APPLICANT>
+dybel frank richardus<sep>dybel william pus<sep>dybel, frank r.<sep>dybel, william p.<sep>dybel, frank r.981 wingate roadolympia fields, illinois 60461us<sep>dybel, william p.981 wingate roadolympia fields, illinois 60461us<sep>dybel, frank r.<sep>dybel, william p. <sep>
+</APPLICANT>
+<INVENTOR>
+dybel frank r<sep>dybel, frank r.<sep>dybel, frank r.981 wingate roadolympia fields, illinois 60461us<sep>dybel, william p.981 wingate roadolympia fields, illinois 60461us<sep>dybel, frank r. <sep>dybel, frank r.981 wingate roadolympia fields, illinois 60461us<sep>dybel, william p.981 wingate roadolympia fields, illinois 60461us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a load monitoring system for  monitoring loads which are cyclically applied to a force-­ carrying member.  the system has a transducer for producing  a signal dependent on the load exerted during each cycle.  a  load tracking circuit (70) receives the transducer signals and  generates a normal load reference signal dependent on the  values of previous load signals received.  a monitoring circuit  (64, 68) compares the normal load reference signal with each  load signal to determine when any particular load exceeds the  load represented by the normal load reference signal.  an  inhibit circuit (72) inhibits the operation of the monitoring  circuit (64, 68) during initial start-up until such time as the  normal load reference signal is established.  an absolute load  monitoring circuit (60) detects when the load on the force-­ carrying member approaches the capacitor of the force-­ carrying member or any predetermined maximum load.  the  invention enables the system to take account of slow changes  in the applied loads due to the effect of heat-up in operation  and prevents unnecessary warning or shut down.  
+</ABSTRACT>
+</TEXT>
+</DOC>

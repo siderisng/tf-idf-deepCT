@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0015914
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/02 G06F-3/14 G06F-11/00 <main>G02F-1/13</main> G09G-3/00 G09G-3/04 G02F-1/13 G09G-3/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monitoring device for monitoring the segments of a liquid crystal display.
+</TITLE>
+<APPLICANT>
+mettler instrumente ag ch<sep>mettler instrumente ag<sep>mettler instrumente ag<sep>
+</APPLICANT>
+<INVENTOR>
+strobel felix<sep>strobel, felix<sep>strobel, felix  <sep>strobel, felixim langacker 13ch-8606 greifenseech<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

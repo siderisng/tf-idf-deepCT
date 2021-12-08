@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011997
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01D-53/14</main> C01B-3/00 C01B-3/52 C10K-1/00 C10K-1/14 B01D-53/48 C10K-1/16 B01D-53/14 C07C-7/00 C10K-1/08 C01B-3/50 C07C-7/11 B01D-53/77 B01D-53/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for removing hydrogen sulphide from gaseous mixtures containing hydrogen sulphide and carbon dioxide.
+</TITLE>
+<APPLICANT>
+air prod & chemus<sep>air products and chemicals, inc.<sep>air products and chemicals, inc.p.o. box 538allentown, pennsylvania 18105us<sep>air products and chemicals, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+antonas ioannis antonios<sep>antonas, ioannis antonios<sep>antonas, ioannis antonios102 ledbury roadlondon w.11.gb<sep>antonas, ioannis antonios<sep>antonas, ioannis antonios102 ledbury roadlondon w.11.gb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of removing hydrogen sulphide from a gase­ ous mixture (111) comprising hydrogen sulphide and carbon  dioxide, which method comprises the steps of bringing said  gaseous mixture into contact with a liquid absorbent in an  absorber (112) heating (212, 214) the liquid leaving the  absorber to desorb part of the hydrogen sulphide and carbon  dioxide dissolved therein, separating said liquid from said  desorbed carbon dioxide and hydrogen sulphide in a  separator (130) recycling at least part of said desorbed car­ bon dioxide and hydrogen sulphide to said absorber, and  expanding (120) said liquid downstream of said separator.  
+</ABSTRACT>
+<DESCRIPTION>
+this invention relates to a method for removing hydrogen sulphide from gaseous mixtures comprising hydrogen sulphide and carbon dioxide. figure 1 of the accompanying drawings shows a known installation for recovering a hydrogen rich stream from synthesis gas. in particular, 4006.4 lb moles/hr of synthesis gas comprising: 1756.5 lb moles hydrogen 22.2 n methane 6.4 " water 249.3 " carbon dioxide 1921.3 " carbon monoxide 41.9 n hydrogen sulphide 7.0 " nitrogen 1.8 n sulphidesulphide at 660 psia and 1220f is heated to 3100f in heat exchanger 2. 5565.4 lb moles/hr of steam at 770 psia and 5140f are added to the synthesis gas at junction 3 and the resulting mixture is subjected to high and low temperature shift reactions in unit 4. the carbonyl sulphide is substantially hydrolysed in unit 5 and the gas leaving unit 5 is cooled to l400f in heat exchanger 6. substantially all the water which condenses in heat exchanger 6 is separated from the gas in separator 7 and the remaining gas is cooled to 55 0f in heat exchangers 8 and 9. the water which condenses in heat exchangers 8 and 9 is separated from the gas in phase separator 10 and the residual gas at 637 psia and comprising (per hour) 3662.1 lb moles hydrogen 22.2 n methane 1.7 n water 2156.6 n carbon dioxide 15.7 " carbon monoxide 43.7 n hydrogen sulphide 7.0 " nitrogen 1.6 ppm carbonyl sulphide enters adsorber 12 through pipe 11. substantially all the hydrogen sulphide in the residual g-s is absorbed in absorber 12 and the gas leaving adsorber 1 through pipe 13 contains approximately 0.5. ppm hydrogen sulphide. the gas in pipe 13 is joined by gas from conduit 14 .mprising (per hour) 23.5 lb moles hydrogen 0.2 " methane 0.01. " water 43.8 " carbon dioxide 0.2 " carbon monoxide 0.05 " nitrogen the resulting gas mixture is cooled to 34 f in heat exchanger and is then introduced into the bottom of a second absorber 16 where a substantial portion of the remaining carbon dioxide is removed. the gas stream leaves the second adsorber 16 through conduit 17 at 26 f and passes through heat exchanger 9 which it leaves through conduit 19 at 840f. the gas in conduit 19 is at 634 psia and contains (per hour) 3651.6 lb moles hydrogen 21.5 n methane 0.3 n water 2.1 n carbon dioxide 15.6 " carbon monoxide 0.1 ppm hydrogen sulphide 6.9 lb moles nitrogen 0.3 ppm carbonyl sulphide the absorbent used in the process described is a mixture of ethers sold under the trade name selexol. 200,000 lbs/hr selexol together with 454.3 lb moles water enter second -edsorber 16 through conduit 20 at 650 psia and at 240f simultaneouslyr 634,000 lbs/hr selexol and 1438.3 lb moles wafer enter second absorber 16 through conduit 21 at 640 psia and 24 0f. as the selexol descends through the second absorber 16 it absorbs carbon dioxide and, in so doing, increases in temperature. the absorbent leaves
+</DESCRIPTION>
+<CLAIMS>
+ claims   1. a method of removing hydrogen sulphide from a gaseous mixture comprising hydrogen sulphide and carbon dioxide, which method comprises the steps of bringing said gaseous mixture into contact with a liquid absorbent in an absorber, and characterized in that it comprises the steps of heating the liquid leaving the absorber to desorb part of the hydrogen sulphide and carbon dioxide dissolved therein, separating said liquid from said desorbed carbon dioxide and hydrogen sulphide in a separator, recycling at least part of said desorbed carbon dioxide and hydrogen sulphide to said absorber, and expanding said liquid downstream of said separator.   2. a method according to claim 1, characterized in that said method further comprises the step of saturating said absorbent with carbon dioxide prior to introducing said absorbent into said absorber.    3. a method according to claim 1 or 2, characterized in that the temperature of the absorbent in said absorber is maintained between   00f    and   500f.      4. a method according to claim 3, characterized in that the temperature of the absorbent is maintained at between   oof    and 340f.' 5. a method according to any preceding claim, characterized in that substantially all the hydrogen sulphide is removed from the gaseous mixture in the absorber and substantially all the carbon dioxide is absorbed in a separate and distinct absorber.   6. a method according to any preceding claim, characterized in that the hydrogen sulphide dissolved in the liquid absorb  ent leaving the heat exchanger is desorbed and is passed through one or more claus reactors.  
+</CLAIMS>
+</TEXT>
+</DOC>

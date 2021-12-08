@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003703
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+B28C-7/16 F16K-7/00 <main>G05D-9/00</main> B28C-7/00 G05D-9/12 G05D-9/00 F16K-7/07 B01F-3/12 B01F-15/00 G05D-9/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for regulating the flow of evolutive pulps at the output of a tank.
+</TITLE>
+<APPLICANT>
+saint gobainfr<sep>saint-gobain industries<sep>s.p.a.f.i. societe anonyme de participations financieres et industrielles18 avenue d'alsacef-92400 courbevoiefr<sep>s.p.a.f.i. societe anonyme de participations financieres et industrielles  <sep>
+</APPLICANT>
+<INVENTOR>
+delcoigne adrien<sep>lanneau jacques<sep>delcoigne, adrien<sep>lanneau, jacques<sep>delcoigne, adrien25, avenue marie amélief-60500 chantillyfr<sep>lanneau, jacques24, résidence "la belle fontaine"f-60600 breuil-le-vertfr<sep>delcoigne, adrien<sep>lanneau, jacques<sep>delcoigne, adrien25, avenue marie amélief-60500 chantillyfr<sep>lanneau, jacques24, résidence "la belle fontaine"f-60600 breuil-le-vertfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for controlling the discharge of evolutive pulps, especially a mixture of plaster and water at the outlet of a container (6), so as to maintain constant the quality of pulp in the interior of the said container (6), in which the output of the outlet of the container is continuously controlled with the aid of a direct passage valve (v) having an elastic sleeve (3) controlled by a pneumatic control system associated with an apparatus which takes account of the quantity of the said pulp in the container (6) and in which, in order to prevent the formation of deposits on the internal walls of the elastic sleeve (3) a system of pulsed signals is superimposed on the control signal proper which determines the cross-section of the passage through this sleeve (3) in the direct passage valve (v), characterized in that : - the pneumatic control system is a leakage system (f) with which is associated a balance of forces (11, 12, 13, 14) which simultaneously takes into account the weight of the container (6) containing the evolutive pulp and vibrations generated in the said container (6) to produce the control signal proper which is thus directly and permanently modulated by the said system of pulsed signals corresponding the vibrations generated in the container (6) ; - the pulsed signals thus permanently superimposed on the control signal proper cause, permanently, periodic deformation of the elastic sleeve (3) of the direct passage valve (v) practically without changing the value of the passage cross-section defined by the said sleeve (3), this latter being a function of the control signal proper. 
+</ABSTRACT>
+</TEXT>
+</DOC>

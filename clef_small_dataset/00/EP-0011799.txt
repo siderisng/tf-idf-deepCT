@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011799
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C23F-1/00</main> C25F-7/00 C23F-1/46 C25F-7/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for regenerating an etching solution containing cupric and/or ferric chloride in an electrolytic cell.
+</TITLE>
+<APPLICANT>
+faul wolfgangde<sep>kastening bertel drde <sep>kernforschungsanlage juelichde   <sep>luft haraldde<sep>faul, wolfgang<sep>kastening, bertel, prof. dr.<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>luft, harald<sep>faul, wolfgangkopernikusstrasse 20d-5170 jülichde<sep>forschungszentrum jülich gmbhwilhelm-johnen-strasse52425 jülichde<sep>kastening, bertel, prof. dr.lofotenstrasse 21d-2000 hamburg 73de<sep>luft, haraldin den domänen 1d-5162 niederzier-hambachde<sep>faul, wolfgang<sep>kastening, bertel, prof. dr.<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>luft, harald<sep>
+</APPLICANT>
+<INVENTOR>
+faul wolfgang<sep>kastening bertel prof dr<sep>luft harald<sep>faul, wolfgang<sep>kastening, bertel, prof. dr.<sep>luft, harald<sep>faul, wolfgangkopernikusstrasse 20d-5170 jülichde<sep>kastening, bertel, prof. dr.lofotenstrasse 21d-2000 hamburg 73de<sep>luft, haraldin den domänen 1d-5162 niederzier-hambachde<sep>faul, wolfgang<sep>kastening, bertel, prof. dr.<sep>luft, harald<sep>faul, wolfgangkopernikusstrasse 20 d-5170 jülich de  <sep>kastening, bertel, prof. dr.lofotenstrasse 21d-2000 hamburg 73de<sep>luft, haraldin den domänen 1d-5162 niederzier-hambachde<sep>
+</INVENTOR>
+<ABSTRACT>
+A method for regenerating a used in chemical machining metallic surfaces Ten, copper (II) chloride and / or iron (III) chloride contain the etching solution and a device for carrying out the method. The regeneration of the etching solution takes place in an electrolytic cell (2) which has a diaphragm between the anode (8) and cathode (9) a diaphragm, or an ion outer cherm membrane (10). The AZT solution flows through the electrolytic cell for the anodic oxidation of copper (I) and / or iron (II) ions formed in the etching of the metallic surface (5). In order to avoid a development of chlorine in regeneration, without causing the environment of the environment, toxically acting substances, in the anodes space (12) of the electrolysis cell are active in the etching solution active coal powder particles are suspended. Preferably, the active coal powder particles in the etching solution are in a concentration between 5 and 25 wt. -%contain.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007204
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-3/06 C07C-229/38 C07C-233/12 C07C-219/28 A61K-31/165 C07C-231/00 A61P-3/00 C07C-213/00 C07C-253/06 C07C-103/28 C07C-93/26 C07C-215/30 A23K-1/16 C07C-237/30 A61K-31/135 A61K-31/137 C07C-29/00 C07C-229/00 C07C-215/00 A23C-1/16 C07C-103/76 A61P-3/04 C07C-237/00 C07C-67/00 C07D-303/00 C07C-215/60 A61K-31/215 C07C-5/00 A23C-1/00 <main>C07C-91/30</main> C07C-243/00 C07C-227/00 C07C-215/20 C07C-101/42 C07C-29/147 C07C-219/00 C07C-253/00 C07C-213/04 A61K-31/24 C07C-51/487 C07C-243/38 C07C-215/54 C07D-303/04 C07C-51/42 A61K-31/21 C07C-233/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phenethanolamines, their formulations, use and preparation.
+</TITLE>
+<APPLICANT>
+lilly co elius<sep>eli lilly and company<sep>eli lilly and company307, east mccarty streetindianapolis indiana 46285us<sep>eli lilly and company<sep>
+</APPLICANT>
+<INVENTOR>
+mills jack<sep>schmiegel klaus kurt<sep>shaw walter norman<sep>mills, jack<sep>schmiegel, klaus kurt<sep>shaw, walter norman<sep>mills, jack7902, timberhill driveindianapolis, indiana 46217us<sep>schmiegel, klaus kurt4507 staughton driveindianapolis, indiana 46226us<sep>shaw, walter norman4511 north broadwayindianapolis, indiana 46205us<sep>mills, jack<sep>schmiegel, klaus kurt<sep>shaw, walter norman<sep>mills, jack7902, timberhill driveindianapolis, indiana 46217us<sep>schmiegel, klaus kurt4507 staughton driveindianapolis, indiana 46226us<sep>shaw, walter norman4511 north broadwayindianapolis, indiana 46205us<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula (i):    wherein:   r₁ is hydrogen or fluorine;   r₂ is methyl or ethyl;   r₃ is hydroxy, c₁-c₄ alkanoyloxy, aminocarbonyl,  methylaminocarbony or c₁-c₂ alkoxycarbonyl;   c is an asymmetric carbon atom having the r  *   absolute stereochemical configuration; and   c is an asymmetric carbon atom having the s  **   absolute stereochemical configuration;   and pharmaceutically-acceptable salts thereof, are  useful in the weight control of mammals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005402
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+B67C-3/02 B67C-7/00 B67C-3/24 B65G-47/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transfer device for bottles or flasks in filling machines.
+</TITLE>
+<APPLICANT>
+bedin jean <sep>bedin, jean <sep>bedin, jean251, rue camille godardf-33000 bordeauxfr<sep>
+</APPLICANT>
+<INVENTOR>
+bedin jean<sep>bedin, jean<sep>bedin, jean251, rue camille godardf-33000 bordeauxfr<sep>
+</INVENTOR>
+<ABSTRACT>
+a transfer device for receptacles, such as bottles or flasks, in filling machines.  the device comprises means (7, 7', 8, 8', 9, 9', 32, 32') arranged so as to come into contact only with the necks, or collars, of the bottles (34), or flasks, to be transferred, thus to move these receptacles along by the simple displacement of the said means and to release them at specified points.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+dispositif de transfert de bouteilles ou flacons, sur les machines de conditionnement. dans l'industrie du conditionnement des liquides, il est fréquent d'utiliser une même installation pour l'emplissage, le bouchage et l'habillage de bouteilles ou de flacons de formats différente. le transfert des bouteilles entre les différents éléments de l'installation est assuré au moyen de systbmes de guidage qui comportent des alvéoles de dimensions correspondant à celles du corps des bouteilles b transférer et qui sont concçus pour recevoir des bouteilles dont le diamètre est compris entre d'étroites limites : c'est le cas des dispositifs appelés croix de sortie ou d'entrée. pour le traitement de bouteilles dont le format n'entre pas dans ces limites, il est nécessaire de changer le système de guidage sur chaque machine. or on sait que, contrairement aux corps des bouteilles, les diamètres des goulots et des bagues diffèrent peu d'un type de bouteille à un autre. l'invention a donc pour objet un dispositif de transfert caractérisé par le fait qu'il comporte des moyens agencés pour venir en prise uniquement avec des bouteilles ou flacons à transférer, entraîner ainsi ces récipients par le simple déplacement de ces moyens et les libérer en des points déterminés. dans une forme de réalisation particulièrement avantageuee, les moyens de prise sont des pinces agencées pour se refermer sur le goulot des bouteilles ou flacons à transférer. un tel dispositif à pinces présente de nombreux avantages. les bouteilles, étant maintenues symétriquement par les pinces, peuvent entre positionnées avec une grande précision, ce qui évite les jeux de guidage inévitables et souvent importants que présentent les systèmes actuellement utilisés. les dispositifs à pinces n'ont pas seulement un rtle d'entraine- ment, mais aussi de centrage et de support des bouteilles. on peut donc supprimer les autres éléments de guidage et de support. on sait que, dans les croix d'entrée et de sortie classiques,les bouteilles sont logées dans les alvéoles de la croix, mais sont, en outre, guidées par des pièces dont les parois sont suivies par les corps de bouteilles et les bouteilles reposent par leur fond sur un support, ou plaque d'usure. la suppression de ces éléments permet de réduire nettement l'es- pace entre les dispositifs de transfert d'entrée et de sortie d'une machine, entraînant un gain de place non négligeable et surtout une amélioration du rendement tant sur le plan quantitatif que qualitatif. les pinces peuvent être animées de mouvements verticaux d'une amplitude suffisante pour compenser les différences de niveau qui peuvent exister entre la chaine d'amenée des bouteilles et le plateau de la machine. avec de tels dispositifs à pinces, il n'est pas nécessaire de changer l'outillage de guidage et d'entrainement pour passer d'un format de bouteilles à un autre. en effet, étant réglables en hauteur, ils peuvent accepter des bouteilles de hauteurs différentes. de plus, les pinces ont la capacité de saisir des bouteilles de formes très différentes. dans une forme de réalisation, les pinces peuvent être constituées par deux bras pivotants dont le pivotement peut être commandé par un
+</DESCRIPTION>
+<CLAIMS>
+revendications de brevet      1. -    dispositif de transfert de bouteilles et flacons sur les machines de conditionnement, caractérisé par le fait qu'il comporte des moyens agencés pour venir en prise uniquement avec les goulots, ou bagues des bouteilles, ou flacons, à transférer, entraîner ainsi ces récipients par le simple déplacement desdits moyens et les libérer en des points déterminés.    2.- dispositif selon la revendication 1, dans lequel les moyens de prise sont des pinces agencées pour se refermer sur le goulot des bouteilles ou flacons à transférer.   3.- dispositif selon la revendication 2, dans lequel les pinces sont montées de façon à pouvoir être animées de mouvements verticaux.   4.- dispositif selon l'une des revendications 2 ou 3, dans lequel les pinces sont constituées par deux bras pivotants.   5.- dispositif selon l'une des revendications   l    à 4, dans lequel les pinces sont montées rotatives.   6.- dispositif selon l'une des revendications 4 ou 5, dans lequel les bras sont reliés de façon à pivoter simultanément en sens inverse et le pivotement est commandé par un galet de came relié à   l'un    des bras par une biellette.  
+</CLAIMS>
+</TEXT>
+</DOC>

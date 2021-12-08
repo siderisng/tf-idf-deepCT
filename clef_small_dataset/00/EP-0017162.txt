@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017162
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/08 G01N-33/497 G01N-33/483 <main>A61B-5/08</main> A61B-5/083 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for pulmonary function analysis.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+volker korn dipl-ing<sep>volker, korn, dipl.-ing.<sep>volker, korn, dipl.-ing.herrnhüttestrasse 10d-8500 nürnbergde<sep>volker, korn, dipl.-ing.<sep>volker, korn, dipl.-ing.herrnhüttestrasse 10d-8500 nürnbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+For lung function analysis, in particular for measuring functional respiratory volumes or breathing capacities, devices are known which regularly a breathing bag (4), which via a first valve system (2) to a breathing tube (1) and another valve system (11) or the like. is connected to test gas containers (10), and gas analysis devices for measuring the test gas concentration in the breathing bag (4). Exact concentration measurements have so far only been disconconiously with chemical methods or continuously with large apparatus expenses (mass spectrometer) possible. Simple thermal conductors are unsatisfactory in the measuring accuracy. According to the invention, the concentration determination by means of gas analysis device is now carried out by continuous density determination of the mixture of test gas and respiratory air in the breathing bag (4), for which purpose by means of a separate terminal (5) a measuring probe (6) in the breath bag (4) can be inserted, and with The measuring probe (6) removed gas density-dependent measurement signal corresponding to the present test gas concentration is indicative as a lung function measurement size. The determination of respiratory volumes or breathing capacities is so much simplified.
+</ABSTRACT>
+</TEXT>
+</DOC>

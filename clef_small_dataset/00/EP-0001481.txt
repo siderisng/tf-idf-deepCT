@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001481
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60T-8/18 <main>B60T-8/22</main> F16K-1/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+variable load valve apparatus with load independent initial pressure output in a braking system.
+</TITLE>
+<APPLICANT>
+bendix westinghouse ltd gb <sep>bendix westinghouse limited<sep>bendix limiteddouglas roadkingswood, bristol bs15 2nlgb<sep>bendix limited<sep>
+</APPLICANT>
+<INVENTOR>
+christmas michael charles<sep>christmas, michael charles<sep>christmas, michael charlesbendix westinghouse limited douglas roadkingswood bristol bs15 2nlgb<sep>christmas, michael charles  <sep>christmas, michael charlesbendix westinghouse limited douglas roadkingswood bristol bs15 2nlgb<sep>
+</INVENTOR>
+<ABSTRACT>
+variable load valve apparatus including a fluid pressure  proportioning valve device (1, 2) with a variable area  diaphragm (4), one side of which is subjected to output  pressure to control a double valve (5, 6, 7) to proportion  the output pressure in relation to input pressure, is provided  with a further valve (36, 37, 38, 42) for freeding a predetermined  initial pressure to the other side of the diaphragm  (4) to produce an initial output pressure which is  delivered to the brake actuators and which is independent  of load and the further valve has a double valve controlled  by a biassed pressure-responsive arrangement (34) having  a first area (33) acted upon by the pressure applied to said  other side of the diaphragm (4) and a second area (41)  of relatively small periphery in relation to the periphery of  the first area (33) and acted upon by the input pressure  (or the output pressure) of the proportioning valve.  
+</ABSTRACT>
+</TEXT>
+</DOC>

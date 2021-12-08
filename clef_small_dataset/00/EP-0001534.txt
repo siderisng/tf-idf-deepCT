@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001534
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-19/00 C07D-409/06 C07D-405/06 <main>C07D-207/34</main> C07D-405/00 A61K-31/40 C07D-207/34 C07D-409/00 C07D-207/00 A61P-19/06 A61K-31/4025 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyrrole derivatives, method for their preparation and their therapeutical use.
+</TITLE>
+<APPLICANT>
+rolland sa afr<sep>societe dite: albert rolland s.a.<sep>albert rolland s.a. société dite49, rue st-andré-des-artsf-75006 parisfr<sep>albert rolland s.a. societe dite <sep>
+</APPLICANT>
+<INVENTOR>
+bessin pierre<sep>bonnet jacqueline<sep>laforest jacqueline<sep>bessin, pierre<sep>bonnet, jacqueline<sep>laforest, jacqueline<sep>bessin, pierre1, allée bossuet91380 chilly-mazarinfr<sep>bonnet, jacqueline10 rue salignat03200 vichyfr<sep>laforest, jacqueline106, boulevard de la libérationf-94300 vincennesfr<sep>bessin, pierre <sep>bonnet, jacqueline  <sep>laforest, jacqueline<sep>bessin, pierre1, allée bossuet91380 chilly-mazarinfr<sep>bonnet, jacqueline10 rue salignat03200 vichyfr<sep>laforest, jacqueline106, boulevard de la libérationf-94300 vincennesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The subject of the invention is compounds of formula wherein R¹ represents hydrogen or an alkyl group R represents an alkyl group, a benzyl group or a phenyl group, ar represents an aromatic ring, and = cz represented a carbonyl group C= O, a group of formula c = noh or an alcoholic groupchoh.These compounds are usable in therapeutics, no tomage for the treatment of hyperuricemia.
+</ABSTRACT>
+</TEXT>
+</DOC>

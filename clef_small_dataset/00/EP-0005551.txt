@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005551
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/038 H01L-21/027 G03C-1/68 C08F-20/32 G03C-5/08 <main>G03F-7/10</main> H01L-21/02 G03F-7/20 C08F-20/00 G03F-7/004 C08F-12/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+article comprising a substrate and an overlying layer of electron beam radiation-sensitive material and process for fabrication thereof.
+</TITLE>
+<APPLICANT>
+western electric cous <sep>western electric company, incorporated<sep>western electric company, incorporated 222 broadway new york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+bowden murrae john stanley<sep>feit eugene david<sep>thompson larry flack<sep>wilkins jr cletus walter<sep>bowden, murrae john stanley<sep>feit, eugene david<sep>thompson, larry flack<sep>wilkins, jr., cletus walter<sep>bowden, murrae john stanley42 overhill roadsummit new jersey 07901us<sep>feit, eugene david57 dogwood laneberkeley heights new jersey 07922us<sep>thompson, larry flack712 long hill roadgillette new jersey 07933us<sep>wilkins, jr., cletus walter745 sherman avenueplainfield new jersey 07060us<sep>bowden, murrae john stanley<sep>feit, eugene david<sep>thompson, larry flack <sep>wilkins, jr., cletus walter  <sep>bowden, murrae john stanley42 overhill roadsummit new jersey 07901us<sep>feit, eugene david57 dogwood laneberkeley heights new jersey 07922us<sep>thompson, larry flack712 long hill roadgillette new jersey 07933us<sep>wilkins, jr., cletus walter745 sherman avenueplainfield new jersey 07060us<sep>
+</INVENTOR>
+<ABSTRACT>
+radiation sensitive negative resists with requisite stability  for dry processing of integrated circuits are polymerized  from aromatic moieties containing halogen atoms.  halogen-aryl  bridging, generally carbonaceous, increases sensitivity  to radiation.  exemplary materials, copolymers prepared  from aromatic and glycidyl methacrylate (gma) comonomers,  are suitable for direct processing of large-scale integrated  circuits.  while electron beam patterning is contemplated  both for direct processing and mask making, radiation  such as x-ray and deep u. v.  may be used.  
+</ABSTRACT>
+</TEXT>
+</DOC>

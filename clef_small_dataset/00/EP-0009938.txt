@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009938
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-12/08 <main>G06F-15/16</main> G06F-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+computing systems having high-speed cache memories.
+</TITLE>
+<APPLICANT>
+sperry rand corp us <sep>sperry rand corporation<sep>sperry corporation1290, avenue of the americasnew york, n.y. 10019us<sep>sperry corporation <sep>
+</APPLICANT>
+<INVENTOR>
+baber david james<sep>waite john clarence<sep>baber, david james<sep>waite, john clarence<sep>baber, david james22326 blueberry laneel toro, california 92630us<sep>waite, john clarence1630 fernwoodsaint paul, minnesota 55108us<sep>baber, david james<sep>waite, john clarence  <sep>baber, david james22326 blueberry laneel toro, california 92630us<sep>waite, john clarence1630 fernwoodsaint paul, minnesota 55108us<sep>
+</INVENTOR>
+<ABSTRACT>
+computer system with a main memory and a plurality of  requestors (a, b ), each of which having its own dedicated  high speed cache memory.  the data are being transferred  between the main memory and the cache memories.  each  requestor has access to its own as well to the cache  memories of the other requestors.  each cache memory com­ prises a data buffer (104) for storing data and a tag buffer  (100) for storing addresses of locations in the data buffer  (104).  if the same data are held in two or more cache  memories, then upon writing into its own dedicated cache  memory the requestor is connected to the other cache  memories containing the corresponding data for purposes of  invalidating these data.  the data buffer (104) has a substan­ tially longer cycle time of the data buffer and after the tag  buffer being addressed by its own dedicated requestor (a) a  selector (96) is switched, so that another requestor (b) which  has written into data can address the tag buffer (100) and  invalidate any corresponding entry which may be present.  
+</ABSTRACT>
+</TEXT>
+</DOC>

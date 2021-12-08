@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000513
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08J-11/04 C08F-112/00 C08F-112/08 <main>C08F-12/08</main> C08F-6/00 C08F-2/18 C08F-2/00 C08F-2/12 C02F-1/00 C08F-6/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the reutilisation of decantation material resulting from the treatment of waste water from the production of polystyrene.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft  <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+guhr uwe dr<sep>keppler hans georg dr<sep>kniese wilhelm dr<sep>moeller rolf dr<sep>guhr, uwe, dr.<sep>keppler, hans georg, dr.<sep>kniese, wilhelm, dr.<sep>moeller, rolf, dr.<sep>guhr, uwe, dr.beim hochgericht 9d-6719 grünstadt 1de<sep>keppler, hans georg, dr.gaesselweg 2d-6940 weinheimde<sep>kniese, wilhelm, dr.auf der wacht 13d-6702 bad duerkheimde<sep>moeller, rolf, dr.strassburger weg 1d-6700 ludwigshafende<sep>guhr, uwe, dr. <sep>keppler, hans georg, dr.<sep>kniese, wilhelm, dr.  <sep>moeller, rolf, dr.<sep>guhr, uwe, dr.beim hochgericht 9d-6719 grünstadt 1de<sep>keppler, hans georg, dr.gaesselweg 2d-6940 weinheimde<sep>kniese, wilhelm, dr.auf der wacht 13d-6702 bad duerkheimde<sep>moeller, rolf, dr.strassburger weg 1d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for reusing decanter material obtained in the form of fine polystyrene beads having a mean particle diameter of at least 0. 05 mm and at most 0. 3 mm when separating the solids in processing the waste water from the production of polystyrene by suspension polymerization, by dissolving the particles in monomeric styrene in a weight ratio of styrene to decanter material of from 100 : 1 to 1 : 1 and polymerizing the styrene in aqueous suspension in the presence of free-radical initiators and, if desired, further polymerization aids at elevated temperature, characterized in that prior to polymerization of the styrene the decanter material is treated with water in a weight ratio of from 1 : 50 to 1 : 1 at a temperature between 10 degrees and 100 degrees c, provided, however, that when carrying out the treatment in the presence of styrene and free-radical initiators the temperature of 80 degrees c must not be exceeded. 
+</ABSTRACT>
+</TEXT>
+</DOC>

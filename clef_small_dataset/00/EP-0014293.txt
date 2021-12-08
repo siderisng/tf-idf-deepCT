@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014293
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-299/00 C08F-299/04 C08F-283/00 C08F-283/01 C08F-2/50 C08L-67/00 C08K-5/00 G03F-7/031 C08F-2/00 C08L-67/06 <main>G03C-1/68</main> C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photocurable unsaturated polyester resin compositions and process for curing them.
+</TITLE>
+<APPLICANT>
+scott bader cogb<sep>scott bader company limited<sep>scott bader company limitedwollaston, northamptonshire nn9 7rlgb<sep>scott bader company limited <sep>
+</APPLICANT>
+<INVENTOR>
+alexander ian james<sep>scott roger john<sep>alexander, ian james<sep>scott, roger john<sep>alexander, ian james2 the fairwaywellingborough northamptonshiregb<sep>scott, roger john8 weir closewellingborough northamptonshiregb<sep>alexander, ian james <sep>scott, roger john<sep>alexander, ian james2 the fairwaywellingborough northamptonshiregb<sep>scott, roger john8 weir closewellingborough northamptonshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a photo-initiator system of a polyester resin is disclosed  which consists of an oxime carbonate of a vicinal diketone (i),  a photo-reducible dye (ii) and an amine (iii).  this system is  capable of polymerising and curing unsaturated polyester  resins by irradiation with visible light to provide coatings,  adhesives castings and fibre reinforced composites.  the formulae of the ingredients of the system are    where r′ and r″ are independently alkyl, aryl or aralkyl (r′  preferably being ch₂ and r″ c₂h₅)    wherein x = br or i on at least 2 positions   y = h, br, i   z = h, coom, coor wherein r = c₁-c alkyl.    m = h, k, na, li, nh₄   (there preferably being 4x substituents which are br, and z  preferably being -coom or -coor), and wherein also 4y  substituents may be present and preferably be i, and (iii)    wherein r₁ is h, alkyl, hydroxy-substituted alkyl, aryl or aral­ kyl.    r₂ is independently alkyl, hydroxyl substituted alkyl, aryl or  aralkyl.  the alkyl groups are preferably c₁-c₅, the aryl group  phenyl and the aralkyl benzyl (preferred such compounds  being tribenzylamine and dibenzylethanolamine).  
+</ABSTRACT>
+</TEXT>
+</DOC>

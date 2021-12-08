@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012155
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08B-13/22 G08B-13/08 G08B-25/00 G08B-25/01 G08B-13/02 G08B-25/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+intruder alarm device.
+</TITLE>
+<APPLICANT>
+int quartz ltdhk<sep>international quartz ltd.  <sep>international quartz ltd.24-26 sze shan streetyau tong, kowloonhk<sep>
+</APPLICANT>
+<INVENTOR>
+lam hau chungjp<sep>lee thomas kin pongjp<sep>lam, hau chung<sep>lee, thomas kin pong<sep>lam, hau chung57, waterloo road, 16kowloon, hong kongjp<sep>lee, thomas kin pong1002 gladiolus houseso uk estate kowloon, hong kongjp<sep>
+</INVENTOR>
+<ABSTRACT>
+the intruder alarm device (100) includes a housing  mounting a keyboard (112) on which the outside thereof  and a loudspeaker (750) and electric components within  the housing.  the housing is adapted for mounting on a  door or door frame adjacent a magnet mounted on the door  frame or door.  the device includes an audio alarm circuit  (320) including the loudspeaker for generating an audio  alarm when the door is opened, a control circuit (340)  coupled to the alarm circuit for controlling operation of  the alarm circuit, a signal generating circuitry including  door motion sensing logic (440) for sensing when the door  has been opened and for generating an alarm signal which  is applied to the control circuit for operating the alarm  circuit.  the device further includes a programmable alarm  inhibiting circuit including the keyboard upon which a  number can be keyed in through switches closed by the  keys for inhibiting operation of the audio alarm circuit.  the  alarm inhibiting circuit includes keyboard decoding logic  und three leads which are coupled to the keyboard de­ coding logic (460) and which are releasably connected to  one side of the switches operated by the keys on the key­ board.  the keyboard forms a means for presenting a num­ ber to the keyboard decoding logic which compares the  presented number with the predetermined number as de­ fined by the number switches to which the three leads are  connected.  the keyboard decoding logic is designed so  that when the number presented to the keyboard is pre­ sented in a proper timed sequence and corresponds with  the predetermined number stored, as defined by the selected  connections of the three leads to the key switches, an alarm  inhibit signal is produced by the keyboard decoding logic  which is supplied to the control circuit for inhibiting or  stopping the control circuit from operating the audio alarm  circuit.  the device also may include a bird chirp circuit  (330) for providing a bird chirping sound to announce  when a visitor has opened the door.  
+</ABSTRACT>
+</TEXT>
+</DOC>

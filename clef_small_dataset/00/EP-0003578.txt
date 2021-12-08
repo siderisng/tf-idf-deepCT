@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003578
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25B-41/04 F25B-49/02 F25B-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+refrigerant circuit of a heat pump
+</TITLE>
+<APPLICANT>
+kulmbacher klimageraetede<sep>kkw kulmbacher klimagerate-werk gmbh<sep>kkw kulmbacher klimageräte-werk gmbhpostfach 1569d-95306 kulmbachde<sep>
+</APPLICANT>
+<INVENTOR>
+ramming erichde<sep>ramming, erich<sep>ramming, erichhaus nr. 27d-8651 schimmendorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to the refrigerant circuit (1) of a heat pump.  the refrigerant circuit (1) contains a compressor (2), a liquefier (3) and an evaporator (4).  between the liquefier (3) and the evaporator (4), a thermostatically adjustable expansion valve (5) is arranged.  in order to prevent adjustment fluctuations, a further expansion device (7) is arranged parallel to the expansion valve (5).  the expansion device (7) advantageously consists of a choke capillary tube.  the maximum effective throughflow cross-section of the expansion valve (5) is reduced in favour of the effective throughflow cross- section of the expansion device (7).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

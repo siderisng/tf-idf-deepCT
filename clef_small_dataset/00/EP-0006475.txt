@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006475
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-14/40 H01J-37/34 C23C-14/36 C23C-14/50 H01J-37/32 C23C-14/34 <main>C23C-15/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for coating workpieces by cathodic sputtering.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+dykeman robert horton<sep>wong man-chong<sep>dykeman, robert horton<sep>wong, man-chong<sep>dykeman, robert horton13 spackenkill roadpoughkeepsie, ny 12602us<sep>wong, man-chong16 jackson drivepoughkeepsie, ny 12603us<sep>dykeman, robert horton<sep>wong, man-chong<sep>dykeman, robert horton13 spackenkill roadpoughkeepsie, ny 12602us<sep>wong, man-chong16 jackson drivepoughkeepsie, ny 12603us<sep>
+</INVENTOR>
+<ABSTRACT>
+In the discharge chamber of a device for the cathode dusts, half conductor structures formed as a wafer are placed on the anode by a carrier plate of quartz. The circular wafers are flush flush to the surface of the carrier plate in circular spacers. The wafers are arranged on the surface of the carrier plate with regular mutual intervals in the form of a concentric pattern. Wafer, which are placed at the edge of the concentric arrangement pattern, show a smaller layer thickness than the wafer arranged in the trum of the pattern. The thickness of the coating of all wafer involved in a coating process is more uniformly inserted by the arrangement of deepening extensions (35, 37) which are inserted in the radial direction extending beyond the surface of the carrier plate (33) in subregions of a wafer circumference over the edge of a wafer. . The geometric forms of the deepening extensions are preferably designed as sectors of circular rings or as a circle surfaces that overlap each other. The deepening extensions are inserted deeper into the carrier plate than the wells which raise the wafers.
+</ABSTRACT>
+</TEXT>
+</DOC>

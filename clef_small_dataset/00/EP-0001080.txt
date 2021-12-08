@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001080
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16L-37/28</main> F16L-37/32 F16L-37/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coupler connectable under pressure.
+</TITLE>
+<APPLICANT>
+semperit gmbhde<sep>deutsche semperit gesellschaft m.b.h.<sep>deutsche semperit gesellschaft m.b.h.triebstrasse 39d-8000 münchen 50de<sep>deutsche semperit gesellschaft m.b.h. <sep>
+</APPLICANT>
+<INVENTOR>
+fischer wolf e<sep>fischer, wolf e.<sep>fischer, wolf e.dieselstrasse 4d-7505 ettlingende<sep>fischer, wolf e. <sep>fischer, wolf e.dieselstrasse 4d-7505 ettlingende<sep>
+</INVENTOR>
+<ABSTRACT>
+The connecting coupling for hydraulic lines with spring-loaded valves arranged in the coupling halves is coupled under pressure.In order to prevent closing in the reversal of the flow direction, the free passage cross-section (18) around the valve guide (14) of the non-pressurized coupling half is significantly greater than that of the valve passage cross-section (13).
+</ABSTRACT>
+</TEXT>
+</DOC>

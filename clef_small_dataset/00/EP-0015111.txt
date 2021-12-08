@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015111
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/495 H01L-23/48 H01L-23/047 <main>H01L-23/48</main> H01L-23/02 H01L-23/04 H01L-23/50 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lead frame and housing for integrated circuit.
+</TITLE>
+<APPLICANT>
+amp incus<sep>amp incorporated<sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>amp incorporated <sep>
+</APPLICANT>
+<INVENTOR>
+grabbe dimitry g<sep>patterson ronald<sep>grabbe, dimitry g.<sep>patterson, ronald<sep>grabbe, dimitry g.301 main streetlisbon falls maineus<sep>patterson, ronald78a stoney creek drivedauphin pennsylvaniaus<sep>grabbe, dimitry g. <sep>patterson, ronald  <sep>grabbe, dimitry g.301 main streetlisbon falls maineus<sep>patterson, ronald78a stoney creek drivedauphin pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a lead frame is capable of use with integrated circuit  chips of different sizes and having different numbers of termi­ nal areas, in that it comprises a centrally located support  member, (5) and a plurality of leads (6,7) having inner end  portions (8,12) which are integral with the support member (5)  and having outer portions (10,16) forming a radiating pattern  relative to the support member, at least one (7) of the loads  being a composite lead comprising a trunk lead (12) and  branch leads (13) extending from side edges of the trunk lead  (12) at spaced intervals and at increasing distances from the  support member (5), whereby the lead frame can be used with  a relatively small chip by removing the support member (5)  and connecting the leads (6) excluding the trunk lead (12), to  the terminal areas of the chip, and the lead frame can be used  with larger sizes of chips by removing the support member (5)  and a portion of the trunk lead (12) adjacent to the support  member (5) whereby branch and other leads (13,6) can be  connected to terminal areas of the chip.  
+</ABSTRACT>
+</TEXT>
+</DOC>

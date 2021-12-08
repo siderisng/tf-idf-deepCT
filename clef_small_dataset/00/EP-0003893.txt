@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003893
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/38 C07C-41/00 C07C-59/00 C07D-313/00 C07C-43/00 C07C-41/26 C07C-43/295 A61P-25/04 C07C-65/34 C07D-337/00 C07D-295/194 C07D-295/00 A61P-25/00 C07D-313/14 C07D-337/14 <main>C07D-313/14</main> A61K-31/335 C07C-65/00 A61P-29/00 C07C-59/68 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+novel dibenz (b,f) oxepin and dibenzo (b,f) thiepin compounds and pharmaceutically acceptable salts thereof, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+dainippon pharmaceutical cojp<sep>dainippon pharmaceutical co. ltd.<sep>dainippon pharmaceutical co., ltd.25, doshomachi 3-chome higashi-kuosaka-shi, osaka 541jp<sep>dainippon pharmaceutical co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+nagai yasutaka<sep>nakamura hideo<sep>uno hitoshi<sep>nagai, yasutaka<sep>nakamura, hideo<sep>uno, hitoshi<sep>nagai, yasutaka49 minamikoji kamiueno-cho mukou-shikyoto-fujp<sep>nakamura, hideo449-65 ohjo-chotenri-shi nara-kenjp<sep>uno, hitoshi11-15, hiyoshidai sanbancho takatsuki-shiosaka-fujp<sep>nagai, yasutaka<sep>nakamura, hideo<sep>uno, hitoshi<sep>nagai, yasutaka49 minamikoji kamiueno-cho mukou-shikyoto-fujp<sep>nakamura, hideo449-65 ohjo-chotenri-shi nara-kenjp<sep>uno, hitoshi11-15, hiyoshidai sanbancho takatsuki-shiosaka-fujp<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides dibenz [b, f] oxepin and dibenzo  [b, f] thiepin derivatives of the formula    wherein x is an oxygen or sulfur atom, each of r1 and r2 is a  hydrogen atom or a methyl group, and r₃ is a hydrogen  atom or a 2-(2-hydroxyethoxy) ethyl group; provided that  when r₁ is a hydrogen    atom, the group -chcoor₃ is a group other than a  i-carboxyethyl group, and when x is a sulfur atom, both r₁  and r₂ are methyl groups; and pharmaceutically acceptable salts of said compounds  in which r3 is a hydrogen atom.  compositions of  said compounds or salts and processes for their preparation  are also provided.  these compounds and salts thereof have  excellent anti-inflammatory, analgesic and antipyretic  activities.  
+</ABSTRACT>
+</TEXT>
+</DOC>

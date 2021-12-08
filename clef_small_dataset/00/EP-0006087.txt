@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006087
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02C-6/00 F17D-1/00 B65D-88/76 F17D-1/07 F02C-6/16 B65D-88/00 F17B-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compressed-air tank.
+</TITLE>
+<APPLICANT>
+zeman hansat<sep>zeman, hans<sep>zeman, hansdonaustrasse 23a-2346 maria enzersdorf-südstadtat <sep>
+</APPLICANT>
+<INVENTOR>
+baumann ernstat   <sep>baumann, ernst<sep>baumann, ernstschönlaterngasse 11a-1010 wienat<sep>
+</INVENTOR>
+<ABSTRACT>
+the air pressure tank, wherein stored air (1) is under the pressure of a column of water is used as an energy tank.  the pressure air may, for example, by means of a compressor be pumped into the tank for actuating a turbine of a lake.  the pressure air is inside a floating tank (3), which is immersed in water (2), is opened to the bottom and loaded with ballast (23). 
+</ABSTRACT>
+</TEXT>
+</DOC>

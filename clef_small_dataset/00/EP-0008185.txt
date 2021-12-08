@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008185
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01F-1/684 <main>G01F-1/68</main> G01F-1/69 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flowmeter of hot wire type.
+</TITLE>
+<APPLICANT>
+nissan motor jp<sep>nissan motor company, limited<sep>nissan motor co., ltd.2 takara-cho, kanagawa-kuyokohama-shi kanagawa-kenjp<sep>nissan motor company, limited <sep>
+</APPLICANT>
+<INVENTOR>
+kobayashi hiroshi<sep>takeshi fujishiro<sep>toru kita<sep>kobayashi, hiroshi<sep>takeshi, fujishiro<sep>toru, kita<sep>kobayashi, hiroshib-412 kami-ohoka haitsu no. 4-15, ohokaminami-ku yokohama cityjp<sep>takeshi, fujishirono. 3-1-5-601, negishi-choyokosuka cityjp<sep>toru, kitano. 3-5-20, nakaharaisogo-ku, yokohama cityjp<sep>kobayashi, hiroshi <sep>takeshi, fujishiro  <sep>toru, kita<sep>kobayashi, hiroshib-412 kami-ohoka haitsu no. 4-15, ohokaminami-ku yokohama cityjp<sep>takeshi, fujishirono. 3-1-5-601, negishi-choyokosuka cityjp<sep>toru, kitano. 3-5-20, nakaharaisogo-ku, yokohama cityjp<sep>
+</INVENTOR>
+<ABSTRACT>
+the flow rate is determined from the heat transferred  from an electrically heated wire (3) stretched in a fluid  flow of the fluid.  the wire (3) is placed not on a plane  normal to the flow but within a section of the fluid passage  (2) bounded by two spaced planes normal to the flow.   preferably the wire (3) is composed of series of line seg­ ments (6d, 6h, 6l, 6p, 6t) which are distributed evenly not  only around the central axis of the passage but also in the  direction of the flow so that the heat release from the wire  (3) in its entirety corresponds to the mean value of fluid  velocities at various points.  
+</ABSTRACT>
+</TEXT>
+</DOC>

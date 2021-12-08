@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005734
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-50/16 H01H-50/46 H01H-50/22 H01H-50/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electromagnetically operated switch gear.
+</TITLE>
+<APPLICANT>
+asea abse<sep>asea ab<sep>asea abs-721 83 västerasse<sep>
+</APPLICANT>
+<INVENTOR>
+larsson torvald dipl-ingse<sep>larsson, torvald, dipl.-ing.<sep>larsson, torvald, dipl.-ing.öjas-740 47 harbonässe<sep>
+</INVENTOR>
+<ABSTRACT>
+an electromagnetically operated switchgear, e. g.  an electrical contactor, has a magnetic iron core which consists of two identical e- shaped magnet parts, specifically the magnet core (8), carrying the winding, and the armature (7).  a remanence air gap (d) is provided between the pole surfaces of the centre limb of the two magnet parts.  each of these said pole surfaces consists of two joint faces (12a, 12b; 13a, 13b) lying in different parallel planes.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

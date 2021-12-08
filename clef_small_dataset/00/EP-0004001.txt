@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004001
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01Q-1/32</main> H01Q-1/12 H01Q-1/32 B32B-17/10 B32B-17/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+car window antenna for mounting a vehicle body.
+</TITLE>
+<APPLICANT>
+saint gobainfr<sep>ver glaswerke gmbhde<sep>saint-gobain industries<sep>vereinigte glaswerke gmbh<sep>saint-gobain industries62, bd victor hugof-92209 neuilly sur seinefr<sep>vegla vereinigte glaswerke gmbhviktoriaallee 3-5d-52066 aachende<sep>saint-gobain industries<sep>vereinigte glaswerke gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+nuding werner ing<sep>roentgen paul ing<sep>sauer gerd ing<sep>nuding werner, ing.<sep>roentgen paul, ing.<sep>sauer gerd, ing.<sep>nuding werner, ing.lindenweg 155100 aachende<sep>roentgen paul, ing.talweg 75101 rott/roetgende<sep>sauer gerd, ing.karl-friedrich-strasse 255100 aachende<sep>nuding werner, ing.<sep>roentgen paul, ing. <sep>sauer gerd, ing.<sep>nuding werner, ing. lindenweg 15 5100 aachen de <sep>roentgen paul, ing.talweg 75101 rott/roetgende<sep>sauer gerd, ing.karl-friedrich-strasse 255100 aachende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a vehicle window antenna designed to be fixed in a vehicle body and having a t-like tuned conductor, whose horizontal part is placed in the top part of the window and with a heating resistor (4) separated galvanically by the window or a layer thereof from the antenna conductor, and having connection leads (7, 8), characterized in that the heating resistor (4), running horizontally generally over the full width of the window, is placed in the lower part of the window for producing better resonant properties of the window opening in the vehicle body, in that the connection lead (7) running to the body work, of the heating resistor (4) is made as short as possible and in that the length of the connection lead (8), running to the battery, of the heating resistor (4) is so designed that the resonant frequency of the window opening is changed so as to be in the range of the desired frequency band. 
+</ABSTRACT>
+</TEXT>
+</DOC>

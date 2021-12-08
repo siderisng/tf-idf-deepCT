@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011706
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-405/04 A61P-25/02 <main>C07D-211/90</main> A61K-31/455 C07D-401/04 A61K-31/4427 C07D-409/00 C07D-417/04 A61P-9/08 C07D-405/00 A61K-31/44 C07D-211/00 C07D-409/04 C07D-417/00 A61K-31/435 C07D-401/00 C07D-413/04 A61P-25/00 C07D-413/00 A61P-9/00 A61K-31/443 A61P-9/12 A61P-9/06 A61P-9/10 C07D-211/90 A61K-31/4433 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of derivatives of 1,4-dihydropyridine-3-carboxylic acid, derivatives of 1,4-dihydropyridine-3-carboxylic acid and the use of these derivatives for the preparation of 1,4-dihydropyridine-3,5-dicarboxylates.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+bossert friedrich dr<sep>wehinger egbert dr<sep>bossert, friedrich, dr.<sep>wehinger, egbert, dr.<sep>bossert, friedrich, dr.claudiusweg 7d-5600 wuppertalde<sep>wehinger, egbert, dr.donnenbergerstrasse 90d-5620 velbert 15de<sep>bossert, friedrich, dr.<sep>wehinger, egbert, dr.<sep>bossert, friedrich, dr.claudiusweg 7d-5600 wuppertalde<sep>wehinger, egbert, dr.donnenbergerstrasse 90d-5620 velbert 15de<sep>
+</INVENTOR>
+<ABSTRACT>
+1,4-dihydro-3-carboxylic acid derivatives of the formula wherein R for optionally substituted aryl or heterocyclic radicals, R¹ and R² are the same or different, for hydrogen, an alkyl, aryl or an aralkyl radical and X for one Carboxy group, a substituted carbonyl group or substituted thio, sulfinyl and sulfonyl groups, are characterized by alkaline hydrolysis of alkyl esters of the 1,4-dihydropyridine-3-carboxylic acid, which in the alkyl part an electron-picking group, such as. b. The cyano group, included. They have a circulatory influencing effect. From the compounds of the above formula are a part new, z. b. those, in which R for a 2-nitrophenyl, 3-nitrophenyl, 2-chlorophenyl, 2-trifluorphone, or a 2-methylmercaptopyridyl residue, R¹ and R² are methyl and, x for a carboxy or alkoxycarbonyl group, wherein the alkyl radical contains up to 6 C atoms and optionally interrupted by an oxygen atom in the chain or substituted by 1 to 2 trifluoromethyl groups or substituted by the residue (methyl, benzyl).
+</ABSTRACT>
+</TEXT>
+</DOC>

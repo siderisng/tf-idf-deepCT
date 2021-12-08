@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000444
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07B-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic taximeter.
+</TITLE>
+<APPLICANT>
+centrodyne corpca<sep>centrodyne corporation  <sep>centrodyne corporation9145 charles-de-latourmontreal quebecca<sep>
+</APPLICANT>
+<INVENTOR>
+steiner jackca<sep>steiner, jack<sep>steiner, jack centrodyne corporation9145, charles-de-latourmontréal, québecca<sep>
+</INVENTOR>
+<ABSTRACT>
+an electronic taximeter having a dedicated microprocessor.   the microprocessor is specifically designed to  carry out the desired calculating functions of a taximeter.   the taximeter is therefore superior in performance to conventional  mechanical taximeters.  the microprocessor has a  main memory (23) storing data relating to distance travelled  and fares charged, and an input data memory (19) storing  the predetermined data needed to update the data in  the main memory (23).  the storage locations of the main  memory (23) are sequentially selected by a cyclical counter  (21), and when the selected data needs updating, the contents  of the corresponding storage location of the memory  (19) are added in a bcd adder (25).  the updated data is  then stored again in the main memory (23).  selector circuits  (31) also driven cyclically by the counter (21) enable  selection of the desired updated data from the main memory  (23) for display.  
+</ABSTRACT>
+</TEXT>
+</DOC>

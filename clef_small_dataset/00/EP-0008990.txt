@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008990
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-1/34</main> H01H-1/34 H01H-69/00 H01H-1/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+low voltage multi-pole circuit breaker provided with a device for setting the bar.
+</TITLE>
+<APPLICANT>
+merlin gerinfr<sep>merlin gerin<sep>merlin gerinrue henri tarzef-38050 grenoble cédexfr<sep>merlin gerin<sep>
+</APPLICANT>
+<INVENTOR>
+vernier lucien<sep>vial denis<sep>vernier, lucien<sep>vial, denis<sep>vernier, lucienrue rabelaisf-38320 eybensfr<sep>vial, denis10, place du neronf-38600 fontainefr<sep>vernier, lucien<sep>vial, denis <sep>vernier, lucien rue rabelais f-38320 eybensfr<sep>vial, denis10, place du neronf-38600 fontainefr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  low voltage multipole circuits breaker with a molded case and an operating toggle mechanism (10) comprising : - an operating handle (14) manually movable between closed f and open o positions, - a trip cradle (28) cooperating with the trip unit for automatically opening the contacts (56, 58) when a fault current appears, - a common support bar (12) of the movable contact arms (54) of all poles, rotatably mounted on an axis (52) during a predetermined angular course corresponding to the movement of handle (14), - and a setting device (66) for compensating manufacturing tolerances of mechanism elements, characterized by the fact that said setting device (66) comprises a bar (12) support member (68, 70) and at least an assembling screw (76) of said member to a fixed part (16, 88) of the circuit breaker so that screwing or unscrewing of screw (76) provokes bringing nearer or away of said member (68, 70) with respect to said fixed part (16, 88) and a limited bidirectionnel movement of the bar (12) to an optimum set position. 
+</ABSTRACT>
+</TEXT>
+</DOC>

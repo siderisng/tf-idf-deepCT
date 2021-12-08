@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015434
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01C-17/06 H01C-10/00 H01C-1/142 H01C-10/04 <main>H01C-10/00</main> H01C-10/40 H01C-1/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical resistance element for variable resistance devices.
+</TITLE>
+<APPLICANT>
+spectrol electronics corpus<sep>spectrol electronics corporation<sep>hamilton standard controls, inc.bradley field roadwindsor locks connecticut 06096us<sep>hamilton standard controls, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+carter jerry lee<sep>carter, jerry lee<sep>carter, jerry lee13172 hedda drivecerritos, california 90701us<sep>carter, jerry lee<sep>carter, jerry lee13172 hedda drivecerritos, california 90701us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrical resistance element (2) for use in variable re­ sistance devices such as trimmers and potentiometers, having  two or more resistance materials (6, 8) on a nonconducting  base (4).  the resistance materials are aligned along a path of  travel of a movable wiper or contact (12) to provide a series of  variable linear resistances or a nonlinear resistance.  the inter­ face (16) between the resistance materials is arranged so that  individual contact elements of the wiper (12) traverse the inter­ face at different times.  
+</ABSTRACT>
+</TEXT>
+</DOC>

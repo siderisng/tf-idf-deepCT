@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000391
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-21/00 C01B-21/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of nitrous oxide.
+</TITLE>
+<APPLICANT>
+bayer ag de <sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+schwarz hans-helmut drde<sep>schwarz, hans-helmut, dr.<sep>schwarz, hans-helmut, dr.rather strasse 90d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for obtaining dinitrogen monoxide from the oxidation excavates resulting in the oxidation of cycloalkanols and / or cycloalkanones with nitric acid, which consist essentially of nitrous oxide, nitrogen oxide, nitrogen dioxide, nitrogen, oxygen, carbon dioxide and water vapor.In this case, the gas mixture of side components, such as nitrogen oxide, nitrogen dioxide, carbon dioxide and water, and then the pre-purified oxidation exhaust gas is compressed to prints in the range of 40 to 300 bar and cooled to temperatures in the range of 0 to -88 ° C.The resulting diet-containing monoxide-containing liquid phase is deducted, the remaining gas mixture cooled by relaxing and the cooled of dinitrogen monoxide largely released gas mixture used for cooling fresh oxidizing gas.
+</ABSTRACT>
+</TEXT>
+</DOC>

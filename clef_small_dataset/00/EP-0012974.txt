@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012974
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09C-1/06 E05B-49/00 <main>H04L-9/02</main> H04K-1/00 H04L-9/06 H04L-9/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for enciphering data blocks of a given length.
+</TITLE>
+<APPLICANT>
+ibm us<sep>international business machines corporation  <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+matyas stephen michael<sep>meyer carl heinz wilhelm<sep>tuckerman iii louis bryant<sep>matyas, stephen michael<sep>meyer, carl heinz wilhelm<sep>tuckerman iii, louis bryant<sep>matyas, stephen michaelrd 5, box 19fkingston new york 12401us<sep>meyer, carl heinz wilhelmroute 28, rd 2 box 223-11kingston, new york 12401us<sep>tuckerman iii, louis bryant121 schrade roadbriarcliff manor new york 10510us<sep>matyas, stephen michael<sep>meyer, carl heinz wilhelm  <sep>tuckerman iii, louis bryant<sep>matyas, stephen michaelrd 5, box 19fkingston new york 12401us<sep>meyer, carl heinz wilhelmroute 28, rd 2 box 223-11kingston, new york 12401us<sep>tuckerman iii, louis bryant121 schrade roadbriarcliff manor new york 10510us<sep>
+</INVENTOR>
+<ABSTRACT>
+The procedure operates controlled by a key and with concatenation. It also takes into account the possibility of the occurrence of shorter blocks, which so far could endanger data security. At the beginning of the encryption process, a previous concatenation word V is predicted and determines whether a new data block X is shorter. If he has full length, then V and X are linked in a reversible exclusive OR function, the product encrypted, the chiffetext Y simultaneously stored as a new concatenational word V 'for the next operation. If the data block X is shorter, then the chain word V is first encrypted, the cipher result W is linked to X in a reversible exclusive or function with X and output a short cipherblock Y. New Chain word V 'is an expression in a register that comprises the full chiffor Y and left to the predetermined length the far-string parts of the previous concativity word V.
+</ABSTRACT>
+</TEXT>
+</DOC>

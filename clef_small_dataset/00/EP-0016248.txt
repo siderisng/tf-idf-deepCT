@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016248
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08K-5/29 C08G-18/68 B29B-15/12 B29C-70/08 B32B-27/04 C03C-27/06 C08K-3/22 B29B-15/10 B32B-27/36 B29C-70/00 C08J-5/24 C08L-75/06 <main>C08J-5/24</main> C08J-5/04 C08G-18/67 C08L-67/06 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for producing prepreg rovings and method for producing fibre reinforced plastic articles.
+</TITLE>
+<APPLICANT>
+dainippon ink & chemicalsjp<sep>dainippon ink and chemicals, inc.<sep>dainippon ink and chemicals, inc.35-58, sakashita 3-chomeitabashi-ku, tokyo 174jp<sep>dainippon ink and chemicals, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+hiraishi shunichi<sep>yamada fumiyoshi<sep>hiraishi, shunichi<sep>yamada, fumiyoshi<sep>hiraishi, shunichi3-19-7, wakamatsudaisakai-shi osaka-fujp<sep>yamada, fumiyoshi844, obu-chokishiwada-shi osaka-fujp<sep>hiraishi, shunichi<sep>yamada, fumiyoshi<sep>hiraishi, shunichi3-19-7, wakamatsudaisakai-shi osaka-fujp<sep>yamada, fumiyoshi844, obu-chokishiwada-shi osaka-fujp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for producing a prepreg roving, which com­ prises impregnating a composition comprising an unsatu­ rated polyester, an unsaturated monomer (e. g.  styrene) and a  polysocyanate compound (e. g.  4,4′-diphenylmethane  diisocyanate) in a filamentary reinforcing material (1) (e. g.  a  glass roving) and then heating the impregnated reinforcing  material to react the unsaturated polyester with the  polyisocyanate compound, thereby bringing the resin to the  b-stage; and a method for producing a fiber-reinforced plastic  article, which comprises disposing prepreg rovings (a), said  prepreg rovings being prepared by the above method bet­ ween at least two plies of sheet molding compound (b)  obtained by impregnating a composition comprising an  unsaturated polyester and an unsaturated monomer in glass  fibers and forming the impregnated product into a sheet; and  consolidating the resulting assembly under heat and pres­ sure.  - figure 1 is a flow chart showing the production of the  prepreg roving mentioned above.  
+</ABSTRACT>
+</TEXT>
+</DOC>

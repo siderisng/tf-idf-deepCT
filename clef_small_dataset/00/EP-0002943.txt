@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002943
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C11D-3/50 C07D-233/06 C07D-233/16 C07D-233/10 <main>C07D-233/10</main> C07D-233/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of imidazolines.
+</TITLE>
+<APPLICANT>
+albright & wilsongb<sep>albright & wilson limited<sep>albright &amp; wilson limitedalbright &amp; wilson house hagley road westoldbury warley west midlands, b68 onngb<sep>albright & wilson limited<sep>
+</APPLICANT>
+<INVENTOR>
+lace robert briscoe<sep>lambie alan james<sep>phillips brinley morris<sep>lace, robert briscoe<sep>lambie, alan james<sep>phillips, brinley morris<sep>lace, robert briscoe1 high croftegremont cumbriagb<sep>lambie, alan james7 lansdowne grovewhitehaven cumbriagb<sep>phillips, brinley morris4 springfield villas egremont road hensinghamwhitehaven cumbriagb<sep>lace, robert briscoe<sep>lambie, alan james<sep>phillips, brinley morris <sep>lace, robert briscoe 1 high croft egremont cumbriagb<sep>lambie, alan james7 lansdowne grovewhitehaven cumbriagb<sep>phillips, brinley morris4 springfield villas egremont road hensinghamwhitehaven cumbriagb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides a process for reducing the  fiamide content of imidazolines having the formula:-    wherein r represents an aliphatic group having from at  least 4 carbon atoms and r₁ represents an alkyl or alkenyl  group having from 1 to 4 carbon atoms.  the mixture of imidazoline and diamide is reacted  with a primary of secondary amine which deacylates the  diamide to an amido-amine.  the product of this deacylation  is an imidazoline solution which remains clear even  on prolonged storage.  the imidazoline is produced by reaction of an acid  rcooh with a diamine nh₂(ch₂)₂nhr₁.  preferably this  diamine is used as the deacylating agent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

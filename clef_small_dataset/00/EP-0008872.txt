@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008872
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02H-7/18 B60Q-5/00 G01R-19/14 H02H-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a circuit for indicating the reverse connection of connection leads with the terminals of an electromotive force source.
+</TITLE>
+<APPLICANT>
+nissan motorjp <sep>nissan motor co., ltd.<sep>nissan motor co., ltd. 2 takara-cho, kanagawa-ku yokohama-shi kanagawa-kenjp<sep>
+</APPLICANT>
+<INVENTOR>
+fukumori yukitsugujp<sep>inoue hiroshijp<sep>fukumori, yukitsugu<sep>inoue, hiroshi<sep>fukumori, yukitsuguno. 772, nishiterao-chokanagawa-ku, yokohama cityjp<sep>inoue, hiroshinissan kami-ohoka shataku, 5-212 no. 3-4-5kami-ohoka-nishi konan-ku yokohama-cityjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a circuit for indicating the reverse connection of connect­ ing leads (+, -) with the terminals of a battery (4) has a diode  (d8) connected to a vehicle horn driving circuit which includes  manual switch (8), a relay (7) responsive to the manual  switch (8) and a horn (6) arranged to be energized by the relay.   the diode (d8) is connected in parallel with the relay contacts  (7b) so that the diode (d8) is biased in the forward direction  when the battery (4) is connected in the reverse direction so  that the horn (6) sounds to indicate that the battery (4) is  connected incorrectly.  
+</ABSTRACT>
+</TEXT>
+</DOC>

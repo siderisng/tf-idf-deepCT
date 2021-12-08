@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001991
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-405/04 C07F-9/00 C07F-9/65 C07C-309/00 <main>C07F-9/54</main> C07D-317/56 C07D-317/00 C07D-249/00 C07D-319/00 C07F-9/54 C07C-309/32 C11D-1/00 C07D-319/08 C09B-57/00 C07C-143/36 C07D-249/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phosphonium compounds, process for their preparation and process for the preparation of optical brighteners based on asymmetrically substituted stilbenes.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+marky michael dr<sep>marky, michael, dr.<sep>märky, michael, dr.bollwerkstrasse 50/2ch-4102 binningench<sep>marky, michael, dr.<sep>märky, michael, dr.bollwerkstrasse 50/2ch-4102 binningench<sep>
+</INVENTOR>
+<ABSTRACT>
+Phosphonium compounds of the formula (R) ₃P-CH₂-X-CH = CH-R₁-Y⊖ wherein R is preferably alkyl with 1 to 4 C atoms, cyclohexyl or phenyl, R₁, optionally substituted aromatic radical, in particular phenyl radical, x phenylene, 4, 4'-biphenylene or 1,4- or 2,6-naphthylene and Y⊖ SO₃⊖, SO₂⊖ or COO⊖, methods for their preparation and methods for the preparation of asymmetrically substituted brighteners of the formula Z-CH = CH-X-CH = CH-R₁-Y⊖ m⊕ wherein R₁, X and Y⊖ are as defined above, M⊕ a cation and Z is preferably an optionally substituted phenyl or 2-phenyl-triazole-4-ylrest, by reacting aBis-phosphonium compound of the formula wherein Q⊖ means an anion with an aldehyde of the formula M⊕ Y⊖-R₁-CHO and reacting of the obtained intermediate with an aldehyde of the formula Z-CHO.
+</ABSTRACT>
+</TEXT>
+</DOC>

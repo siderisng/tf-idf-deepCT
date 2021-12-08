@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009806
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01G-4/30 H01G-4/08 H01G-4/252 H01G-4/228 H01G-4/18 H01G-4/14 <main>H01G-4/30</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical stacked capacitor and method for its production.
+</TITLE>
+<APPLICANT>
+siemens agde   <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+behn reinhard dipl-phys<sep>pachonik horst dipl-phys<sep>seebacher gerhard dr<sep>behn, reinhard, dipl.-phys.<sep>pachonik, horst, dipl.-phys.<sep>seebacher, gerhard, dr.<sep>behn, reinhard, dipl.-phys.frasdorferstrasse 6dd-8000 münchen 90de<sep>pachonik, horst, dipl.-phys.fasanenstrasse 197d-8025 unterhachingde<sep>seebacher, gerhard, dr.bert-brecht-allee 10d-8000 münchen 83de<sep>behn, reinhard, dipl.-phys. <sep>pachonik, horst, dipl.-phys.  <sep>seebacher, gerhard, dr.<sep>behn, reinhard, dipl.-phys.frasdorferstrasse 6dd-8000 münchen 90de<sep>pachonik, horst, dipl.-phys.fasanenstrasse 197d-8025 unterhachingde<sep>seebacher, gerhard, dr.bert-brecht-allee 10d-8000 münchen 83de<sep>
+</INVENTOR>
+<ABSTRACT>
+For particularly small dimensions and a high volume capacitance, a layer capacitor is properly coated, in which a support (1) is coated on two end faces with contact metal layers (5, 5 ', 6, 6') and on this carrier metal layers of the coverings (2,2 ') and glow polyms rising layers (3, 3') are arranged one above the other.In this case, the metal layers (2 and 2 ') each surround a cover to each one end face of the carrier up to the end contact layers (5, 6 and 5', 6 ') and are connected to these electrically conductive.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007570
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-47/127 B01J-27/00 C07C-45/38 C07C-67/00 <main>C07C-47/127</main> C07C-45/29 B01J-23/00 C07B-61/00 C07C-47/02 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of glyoxal from ethylene glycol.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+engelbach heinz dr<sep>sprague michael jolyon dr chem<sep>engelbach, heinz, dr.<sep>sprague, michael jolyon, dr. chem.<sep>engelbach, heinz, dr.kropsburgstrasse 24d-6703 limburgerhofde<sep>sprague, michael jolyon, dr. chem.lachner strasse 3d-6800 mannheim 1de<sep>engelbach, heinz, dr.<sep>sprague, michael jolyon, dr. chem.<sep>engelbach, heinz, dr.kropsburgstrasse 24d-6703 limburgerhofde<sep>sprague, michael jolyon, dr. chem.lachner strasse 3d-6800 mannheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing glyoxal by vaporpha senoxidation of ethylene glycol with oxygen at a kuper containing oxidation catalyst at higher tempera ture and in the presence of a volatile phosphorus compound under the reaction conditions, wherein the amount of phosphorus (calculated P), based on the weight amount of ethylene glycol, 1 to100 ppm.
+</ABSTRACT>
+</TEXT>
+</DOC>

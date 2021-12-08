@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011183
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-1/02 B01D-1/00 C08G-16/02 C08L-61/00 C08G-8/00 C08G-79/00 C08G-79/08 C08L-61/10 B01D-3/34 C08G-8/28 <main>C08G-8/28</main> C08G-16/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the isolation of phenol-formaldehyde resins containing boron.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag <sep>bayer ag51368 leverkusende   <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+bandtel eberhard dipl-ing<sep>freitag dieter dr<sep>schmidt manfred dr<sep>spott georg dipl-ing<sep>traudisch walter<sep>bandtel, eberhard, dipl.-ing.<sep>freitag, dieter, dr.<sep>schmidt, manfred, dr.<sep>spott, georg, dipl.-ing.<sep>traudisch, walter<sep>bandtel, eberhard, dipl.-ing.dahler dyk 173d-4150 krefeldde<sep>freitag, dieter, dr.hasenheide 10d-4150 krefeld 1de<sep>schmidt, manfred, dr.bodelschwinghstrasse 20d-4150 krefeld 1de<sep>spott, georg, dipl.-ing.rather strasse 75d-4150 krefeld 1de<sep>traudisch, walterpaul-klee-strasse 47d-5090 leverkusende<sep>bandtel, eberhard, dipl.-ing.<sep>freitag, dieter, dr.<sep>schmidt, manfred, dr. <sep>spott, georg, dipl.-ing.  <sep>traudisch, walter<sep>bandtel, eberhard, dipl.-ing.dahler dyk 173d-4150 krefeldde<sep>freitag, dieter, dr.hasenheide 10d-4150 krefeld 1de<sep>schmidt, manfred, dr.bodelschwinghstrasse 20d-4150 krefeld 1de<sep>spott, georg, dipl.-ing.rather strasse 75d-4150 krefeld 1de<sep>traudisch, walterpaul-klee-strasse 47d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+Boron-containing phenol-formaldehyde resins can be isolated from their reaction media by evaporating the hard solution in a coiled evaporation tube with a ratio of throughput to pipe cross-section of 0.1 to 1.5 and with a ratio of throughput to evaporation surface from 100 to 400.It is thus obtained, even in approaches of technical order of magnitude, largely solvent-free and un = networked, meltable and storage-stable resins, the z.b.Can be used as amplifier resins for rubber.
+</ABSTRACT>
+</TEXT>
+</DOC>

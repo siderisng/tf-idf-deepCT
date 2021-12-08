@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014388
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/10 H01L-27/108 G11C-11/34 H01L-29/78 H01L-29/66 G11C-11/35 <main>G11C-11/34</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor memory device.
+</TITLE>
+<APPLICANT>
+nippon electric cojp<sep>nec corporation<sep>nec corporation7-1, shiba 5-chome minato-kutokyojp<sep>nec corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hamano kuniyuki<sep>ohta toskiyuki<sep>hamano, kuniyuki<sep>ohta, toskiyuki<sep>hamano, kuniyukic/o nippon electric co., ltd. 33-1, shiba gochomeminato-ku tokyojp<sep>ohta, toskiyukic/o nippon electric co., ltd 33-1, shiba-gochomeminato-ku tokyojp<sep>hamano, kuniyuki<sep>ohta, toskiyuki<sep>hamano, kuniyukic/o nippon electric co., ltd. 33-1, shiba gochomeminato-ku tokyojp<sep>ohta, toskiyukic/o nippon electric co., ltd 33-1, shiba-gochomeminato-ku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a high-density of semiconductor device is disclosed,  which comprises a semiconductor substrate (102) of a first  conductivity type, first and second semiconductor regions  (103)(104) of a second conductivity provided in the semicon­ ductor substrate, the first and second semiconductor regions  defining a channel region (113) therebetween at the surface of  the substrate, an insulator film (106) disposed on the channel  region, a conductive layer (110) formed on the insulator film  means for producing depletion layers (111)(112) from the first  and second semiconductor regions in such a manner that the  depletion layers contact with each other to isolate the channel  region from the substrate, means for selectively feeding  majority carriers of the substrate to the channel region at a  density higher than that of the substrate, and a means for  detecting the existence of the accumulation of the majority  carriers in the channel region.  
+</ABSTRACT>
+</TEXT>
+</DOC>

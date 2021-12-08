@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001905
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-17/34 C07C-21/21 C07C-17/38 C07C-17/00 C07C-21/00 <main>C07C-21/21</main> C07C-67/00 C07C-17/25 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of chloroprene.
+</TITLE>
+<APPLICANT>
+bp chem int ltdgb<sep>bp chemicals limited<sep>bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>bp chemicals limited  <sep>
+</APPLICANT>
+<INVENTOR>
+hall anthony harold patrick<sep>hall, anthony harold patrick<sep>hall, anthony harold patrickbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>hall, anthony harold patrick<sep>hall, anthony harold patrickbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>
+</INVENTOR>
+<ABSTRACT>
+the reaction rate can be increased when continuously  dehydrochlorinating 3,4-dichlorobutene-1 to give chloroprene  in a two phase c₃-c₄ alkanol/water reaction medium at  low temperatures by the addition of the quaternary  ammonium compounds without the loss of quaternary  ammonium compound in the aqueous effluent being such as  to require recovery or recycle of the compound.  
+</ABSTRACT>
+</TEXT>
+</DOC>

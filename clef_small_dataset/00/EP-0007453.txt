@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007453
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04S-7/00 H04S-3/00 H04R-1/26 H04R-5/02 H04R-1/22 H04R-5/00 H04R-1/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+varying loudspeaker spatial characteristics.
+</TITLE>
+<APPLICANT>
+bose corpus<sep>bose corporation<sep>bose corporation100 the mountain roadframingham, massachusetts 01701us<sep>
+</APPLICANT>
+<INVENTOR>
+poulo louis robertus<sep>poulo, louis robert<sep>poulo, louis robert4 enden roadwayland, massachusetts 01778us<sep>
+</INVENTOR>
+<ABSTRACT>
+a loudspeaker system having two angled rear panel  with four drivers on each rear panel and a single driver on the  front panel has the drivers connected in series between first  and second terminals and a third terminal connected to the  junction of the front driver and one of the banks of series-­ connected rear drivers.  first and second power amplifiers are  connected between the third terminal and the first and second  terminals, respectively.  a potentiometer is connected bet­ ween the inputs of the first and second power amplifiers with  the potentiometer arm coupled to the third terminal through a  capacitor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

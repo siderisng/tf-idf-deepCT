@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012691
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28D-7/16 F28D-1/02 <main>F28D-7/00</main> F28D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements to a heat exchanger.
+</TITLE>
+<APPLICANT>
+novatomefr<sep>novatome<sep>novatome20 avenue edouard herriotf-92350 le plessis robinsonfr<sep>novatome<sep>
+</APPLICANT>
+<INVENTOR>
+doublet philippe<sep>jullien georges<sep>doublet, philippe<sep>jullien, georges<sep>doublet, philippe56 avenue des perdrixf-94210 la varennefr<sep>jullien, georgesparc lormoy-jura, rue du harasf-91240 saint michel sur orgefr<sep>doublet, philippe<sep>jullien, georges  <sep>doublet, philippe 56 avenue des perdrixf-94210 la varennefr<sep>jullien, georgesparc lormoy-jura, rue du harasf-91240 saint michel sur orgefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to improvements to a nuclear reactor exchanger ensuring heat transfer between two refrigerant sodium streams.The exchanger according to the invention comprises a channeling output collector of the refrigerant sodium at the output of an exchange tube beam 21 internally traveled by said sodium and bathed externally by refrigerant sodium and comprising an inner tubular shirt 51 constituting aSurface of revolution about a vertical axis and an outer tubular shirt 52 and it is essentially characterized by the fact that the wall of the inner chet 51 has a pleated portion 511-512 marked by at least one flank 511, in the form ofCUROON NE.The exchanger according to the invention is intended to be used as an intermediate sodium-sodium exchanger in a fast neutron reactor.
+</ABSTRACT>
+</TEXT>
+</DOC>

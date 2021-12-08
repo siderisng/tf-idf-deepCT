@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006355
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 <main>C07D-317/26</main> C07C-59/205 C07D-317/26 A61K-31/58 C07C-51/56 C07C-69/716 C07J-17/00 A61K-31/585 C07D-317/00 C07C-59/82 C07J-1/00 C07C-49/597 C07C-69/00 C07C-51/54 C07C-49/613 C07C-59/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mixed anhydride steroid intermediate and process for preparing steroid intermediates.
+</TITLE>
+<APPLICANT>
+syntex incus<sep>syntex (u.s.a.) inc.<sep>syntex (u.s.a.) inc.3401 hillview avenuepalo alto california 94303us<sep>syntex (u.s.a.) inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+cooper gary f<sep>van horn albert r<sep>cooper, gary f.<sep>van horn, albert r.<sep>cooper, gary f.1943 palo alto waymenlo park, california 94025us<sep>van horn, albert r.1194 payne drivelos altos, california 94022us<sep>cooper, gary f.<sep>van horn, albert r.<sep>cooper, gary f.1943 palo alto waymenlo park, california 94025us<sep>van horn, albert r.1194 payne drivelos altos, california 94022us<sep>
+</INVENTOR>
+<ABSTRACT>
+(a process for preparing steroid intermediates of the  formula    in which pivaloyl chloride is added to a compound of the  formula    the resulting compound of the formula    is reacted with a grignard reagent of the formula    wherein x is cl or br,   and the resulting compound of the formula    is cyclized in the presence of a base.  compound i in turn may be readily converted by known  methods to valuable steroids.  disclosed as a mixed anhydride steroid intermediate  of formula iii is 7aβ-methyl-2,3,3aα, 4, 5, 6, 7; 7a-octahydro-­ 1h-inden-1,5-dione-4α-(3-propionic acid) pivalic acid mixed  anhydride. ) 
+</ABSTRACT>
+</TEXT>
+</DOC>

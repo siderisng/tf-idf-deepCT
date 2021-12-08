@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016923
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-21/14 <main>G03G-15/052</main> G03G-15/04 G03G-15/043 G03G-15/047 B41J-2/45 G03G-15/045 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrophotographic copier incorporating a border discharge device.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+armitage jr john denton<sep>barkley john allen<sep>hooker iii ross brian<sep>walker james robert<sep>armitage, jr. john denton<sep>barkley, john allen<sep>hooker, iii ross brian<sep>walker, james robert<sep>armitage, jr. john denton1021 collyerlongmont, colorado, 80501us<sep>barkley, john allen4652 berkshire placeboulder, colorada, 80301us<sep>hooker, iii ross brian5199 holmes placeboulder, colorado, 80303us<sep>walker, james robert7378 glacier viewlongmont, colorado, 80501us<sep>armitage, jr. john denton<sep>barkley, john allen <sep>hooker, iii ross brian  <sep>walker, james robert<sep>armitage, jr. john denton1021 collyerlongmont, colorado, 80501us<sep>barkley, john allen4652 berkshire placeboulder, colorada, 80301us<sep>hooker, iii ross brian5199 holmes placeboulder, colorado, 80303us<sep>walker, james robert7378 glacier viewlongmont, colorado, 80501us<sep>
+</INVENTOR>
+<ABSTRACT>
+a border discharge device for an electrophotographic  copier comprises a row of light emitting diodes (42 to 74)  positioned adjacent light channel sections (90 to 93).   the channels (90, 91 and 93) provide edge erase and  channel (92), together with the others, provide inter-image  erase, the diodes being selectively energised to effect  these functions.  the channels comprise blocks of trans­ parent material having reflective upper and lower surfaces  to allow propogation of light rays from each diode to the  photoconductive imaging element at a plurality of angles  of incidence.  thus each channel provides a substantially  uniformly illuminated strip area.  
+</ABSTRACT>
+</TEXT>
+</DOC>

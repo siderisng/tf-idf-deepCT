@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003164
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+B62D-53/08 B60D-1/66 B62D-51/00 B62B-5/00 B62B-1/26 B60D-1/00 B62D-53/00 <main>B62B-5/06</main> B62D-63/00 B62D-51/06 B62B-1/00 B62D-63/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+traction device for towed vehicles.
+</TITLE>
+<APPLICANT>
+morris lionel graham<sep>morris, lionel graham<sep>morris, lionel graham17 ferguson avenuemyrtle bank south australiaau<sep>morris, lionel graham<sep>
+</APPLICANT>
+<INVENTOR>
+morris lionel graham<sep>morris, lionel graham<sep>morris, lionel graham17 ferguson avenuemyrtle bank south australiaau<sep>morris, lionel graham<sep>morris, lionel graham17 ferguson avenuemyrtle bank south australiaau<sep>
+</INVENTOR>
+<ABSTRACT>
+a wheel (10) of a traction device for towed vehicles is  driven manually by a lever arm (18) through a pawl and  ratchet drive mechanism (40b).  the lever arm can be  manually oscillated about the horizontal axis of the wheel.   the ratchet (48), can be set by means of a control arm (45)  acting by means of a spring loaded plunger (46) on a curved  touch face (47) of the ratchet so as to communicate drive to  the wheel in either direction of rotation.  a non-return ratchet  (56) similar to the drive ratchet (48) may also be set by a  control arm (52) similar to control arm (45) to inhibit  back-rotation of the wheel.  the lever arm may also be used to steer the wheel by  rotating it about an intersecting vertical axis (4).  by choosing an appropriate effective lever length the  user can regulate his effective mechanical advantage: where  two or more wheels are provided, separate drivers will be  provided from a single lever arm thus doing away with the  need for a differential mechanism.  
+</ABSTRACT>
+</TEXT>
+</DOC>

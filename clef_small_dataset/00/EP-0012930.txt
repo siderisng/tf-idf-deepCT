@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012930
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-143/70</main> C07C-303/06 C07C-309/00 C07C-309/88 C08G-18/77 C07C-303/08 C07C-303/00 C07C-303/12 C07C-303/10 C07C-303/02 C07C-67/00 C07C-301/00 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of isocyanatoarylsulfonil chlorides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+dieterich dieter dr<sep>dieterich, dieter, dr.<sep>dieterich, dieter, dr.ludwig girtler-strasse 1d-5090 leverkusende<sep>dieterich, dieter, dr.<sep>dieterich, dieter, dr.ludwig girtler-strasse 1d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to isocyanatoarylsulfole lorasses of the formula in which R is hydrogen, a sulfochloride or a sulfonic acid group, a method for producing these compounds by simultaneous or successive treatment of 2,4-diisocyanatotoluene at 10 to 160 ° C with 02 to 2 moles per mole of output diisocyanate to sulfur trioxide or chlorosulfonic acid and with 0.3 to 20 moles per mole of output diisocyanate, an inorganic acid chloride and removal of hydrogen chloride from the reaction mixture, as well as the use of the new compounds as the starting material for manufactureof polyisocyanate polyaddition products.
+</ABSTRACT>
+</TEXT>
+</DOC>

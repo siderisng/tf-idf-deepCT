@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005823
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01M-6/12 H01M-2/02 H01M-2/04 H01M-2/08 H01M-6/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+leak-proof alkaline cell and its production.
+</TITLE>
+<APPLICANT>
+hitachi maxelljp <sep>hitachi maxell ltd. <sep>hitachi maxell ltd.no 1-1-88, ushitora ibaraki-shiosaka-fujp<sep>
+</APPLICANT>
+<INVENTOR>
+matsushima seiichijp<sep>taniguchi yasuyoshijp<sep>uetani yoshiojp<sep>yokoyama kenichijp<sep>matsushima, seiichi<sep>taniguchi, yasuyoshi<sep>uetani, yoshio<sep>yokoyama, kenichi<sep>matsushima, seiichi2-16-1, shinsenrinishi-machitoyonaka osakajp<sep>taniguchi, yasuyoshi2-7-12, koyamichi hirakataosakajp<sep>uetani, yoshio1-11-15, nishiai ibarakiosakajp<sep>yokoyama, kenichi40-20, takanouchi-cho takatsukiosakajp<sep>
+</INVENTOR>
+<ABSTRACT>
+a leak-proof alkaline cell comprising a negative electrode  collector and a gasket, characterized in that the  negative electrode collector is coated with a film comprising  a triazole compound at least at the part faced to the gasket.  
+</ABSTRACT>
+</TEXT>
+</DOC>

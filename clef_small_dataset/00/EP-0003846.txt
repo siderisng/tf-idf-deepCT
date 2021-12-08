@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003846
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08J-3/24 C08J-5/18 C08G-63/08 B29C-55/28 B29C-51/02 G03F-7/038 B29K-67/00 C08F-283/00 A61L-15/00 <main>C08G-63/08</main> C08F-299/00 C08F-290/00 B29C-51/00 C08G-63/52 B29C-47/00 C08F-2/46 B29K-105/24 A61L-15/07 C08F-2/48 C08F-299/04 A61F-5/01 C08G-63/00 B29L-7/00 C08F-2/00 C08F-283/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for producing a crosslinkable copolymer of a lactone and a polyfunctional acrylate, the so obtained copolymer, a method for the manufacture of articles therefrom and the so formed articles.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation<sep>
+</APPLICANT>
+<INVENTOR>
+potts james edward<sep>potts, james edward<sep>potts, james edward18 crest drive, rd 1millington new jerseyus<sep>potts, james edward<sep>potts, james edward18 crest drive, rd 1millington new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+thermoplastic, crosslinkable copolymer is produced by  reacting an active-hydrogen containing initiator with a lactone  monomer, such as epsilon-caprolactone, and a polyfunctional  acrylate, such as neopentyl glycol diacrylate.  the  copolymer can be crosslinked by exposure to ionizing or  actinic radiation or by free-radical peroxide catalysts.  the  degree of crosslinking can be controlled to produce a material  which is thermoplastically processable and displays modified  rheological properties which make it more easily processable  than the corresponding lactone homopolymer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

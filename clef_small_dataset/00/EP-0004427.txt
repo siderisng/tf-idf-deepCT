@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004427
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+B62D-11/12 F16H-47/04 C22C-9/00 B62D-11/06 B61C-9/00 F16H-47/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+four forward range hydromechanical steering transmission.
+</TITLE>
+<APPLICANT>
+gen electricus<sep>general electric company<sep>general electric company1 river roadschenectady new york 12305us<sep>
+</APPLICANT>
+<INVENTOR>
+reed oliver bradleyus<sep>reed, oliver bradley<sep>reed, oliver bradley59 sherwood drivepittsfield massachusetts 01201us<sep>
+</INVENTOR>
+<ABSTRACT>
+power is delivered through input gears (12), (15), and (17)  to variable speed hydraulic pump-motor drives (18) and (20)  which independently drive left and right output shafts (14) and  (16) through planetary gear sets (23) and (25).  in a first speed  range, the ring gear (23r) and (25r) of the output gear sets  (23) and (25) are held stationary by associated gears (42, 43,  38, and 48) by selectively operable brakes (11).  in a second  speed range, an average of the speeds of the hydraulic pump  motor drives (18) and (20) is obtained from planetary gear set  (21) and drives, through a gear train (21r, 41, and 40), the sun  gear (36s) of an additional range planetary gear set (36).  another  input is provided to gear set (36) by the driving of the  carrier (36c) by the carrier of an associated planetary gear set  (28) which is driven from input gear (12) in a gear reduction  mode when the ring gear of planetary set (28) is selectively  engaged by a brake (31).  the combined inputs to planetary gear  (36) drive gear (38) and gears (42) and (44) to apply an  additional speed component to the output gear sets (23) and  (25) through the ring gears (23r) and (25r).  in a third speed  range, a different speed is applied to the ring gears (23r, 25r)  by a drive through selectively engageable clutch (46) from input  gear (12) to gear (48) and thus to gears (42, 43).  in a fourth  speed range, a clutch (7) is selected for engagement to lock up  planetary set (28) to provide a direct drive from gear (12) to the  carrier (36c) of additional range planetary set (36) for combination  with the output from gear set (21) to provide still another  range of speeds to the ring gear (23r, 25r) to provide a fourth  range of output speeds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

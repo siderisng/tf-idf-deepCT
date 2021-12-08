@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008618
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B41J-35/10</main> B41J-35/04 B41J-35/14 B41J-2/525 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+printing apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+heath john stewart<sep>heath, john stewart<sep>heath, john stewart34 oliver's battery roadwinchester, hampshiregb<sep>heath, john stewart  <sep>heath, john stewart34 oliver's battery roadwinchester, hampshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+printing apparatus in particular for performing mul­ ticolour printing operations has a ribbon shift mechanism for  selectively interposing different transversely spaced portions  of a print ribbon (23) between a print head (14) and platen (not  shown).  the print head (14) is of the impact type and probably,  although not necessarily, of the type which moves along the  platen to define a print row.  when colour printing is required,  a print ribbon (23) having a plurality of longitudinally extend­ ing stripes of different colours transversely spaced across its  width is used.  selection of required portions of colours of the  print ribbon (23) is performed by moving the head (14) to  preselected positions along the print row to engage, for  example, a camming mechanism (including cam 21 and fol­ lower 28) which moves the shift mechanism the required  amount to make the selection.  selection of the ribbon portion  or colour is by program control and in the case of colour  printing, the range of colours is increased by superimposed  printing of the available colours on the print ribbon (23).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015732
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-31/036 C30B-25/02 H01L-31/18 <main>H01L-31/06</main> C30B-25/18 H01L-31/0392 H01L-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+silicon solar cells.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation <sep>
+</APPLICANT>
+<INVENTOR>
+thomas donald earl<sep>thomas, donald earl<sep>thomas, donald earl317 old farm roadpittsburgh, pennsylvaniaus<sep>thomas, donald earl<sep>thomas, donald earl317 old farm roadpittsburgh, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a substrate (1) is made for silicon solar cells by heating a  sheet of large-grained silicon steel at a temperature of at least  about 1300°c in an atmosphere of hydrogen and tungsten  hexafluoride (or hexachloride) at a partial pressure ratio of hy­ drogen to tungsten hexafluoride of about 3 to about 6 to de­ posit an epitaxial layer of tungsten (3) on said sheet of silicon  steel.  epitaxial silicon (4) can then be deposited in a conven­ tional manner on the layer of epitaxial tungsten.  with such substrate used, diffusion of iron into the silicon  layer which would otherwise make the cell ineffective is mini­ mized.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007824
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-405/04 A61K-31/55 A61K-31/495 C07D-413/14 A61K-31/4427 A61K-31/535 A61P-9/08 A61K-31/395 C07D-405/00 C07D-405/12 <main>C07D-405/04</main> A61K-31/40 A61K-31/445 C07D-405/14 C07D-307/00 A61K-31/4025 A61P-25/00 C07D-307/79 A61P-9/00 A61K-31/443 A61P-9/06 A61P-9/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+benzofurane derivatives, process for their preparation and therapeutic composition containing them.
+</TITLE>
+<APPLICANT>
+logeais labor jacquesfr<sep>societe dite: laboratoires jacques logeais<sep>laboratoires jacques logeais société dite:71, avenue du général de gaullef-92130 issy-les-moulineauxfr<sep>laboratoires jacques logeais societe dite:<sep>
+</APPLICANT>
+<INVENTOR>
+legeai jacky<sep>maillard jacques georges<sep>legeai, jacky<sep>maillard, jacques georges<sep>legeai, jacky3 résidence marceauf-91120 palaiseaufr<sep>maillard, jacques georges82 bis, avenue de parisf-78000 versaillesfr<sep>legeai, jacky<sep>maillard, jacques georges<sep>legeai, jacky3 résidence marceauf-91120 palaiseaufr<sep>maillard, jacques georges82 bis, avenue de parisf-78000 versaillesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The subject of the compounds of formula: wherein R₁ is a hydrogen atom and R₂ a hydrogen atom, a C₁-C₆ alkyl radical, C₂ - C₆ alkynyl alkynyl, phenyl,phenylalcoyle (C₁-C₆), mono, di or tri-methoxyphenylalcoyl (C₁ - C₆), C₁ - C₆ alkoxy, benzyloxy, dialkoyl (C₁ - C₆) amino-alkyl (C₁ - C₆), hydroxyalcoyl (C₁ - C₆),Alcoyl (C₁ - C₆) Oxycarbonyl Alcoyle (C₁ - C₆) or R₁ and R₂ are C₁ - C₆ or R₁ and R₂ alkyl radicals together form a radical of formula - (CH₂) -n (with N = 4.5or 6), - (CH₂) ₂-O- (CH₂) -₂, - (CH₂) ₂- -N- (CH₂) ₂- CH₃ as well as their salts with pharmacologically acceptable mineral or orga acid acids.These compounds can be used in therapeutics for the treatment of dysrythmias.
+</ABSTRACT>
+</TEXT>
+</DOC>

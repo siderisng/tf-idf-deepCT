@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000134
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/53 A61K-38/16 C07K-14/435 C07K-14/47 C07K-14/00 C07K-1/00 <main>C07G-7/00</main> A61K-39/00 G01N-33/48 C07K-1/22 C07K-16/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+glycoprotein, its preparation, its use for the manufacture of antiserum and the antiserum.
+</TITLE>
+<APPLICANT>
+behringwerke agde<sep>behringwerke aktiengesellschaft<sep>behringwerke aktiengesellschaftpostfach 114035001 marburgde<sep>behringwerke aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bohn hans dr<sep>winckler wilhelm<sep>bohn, hans, dr.<sep>winckler, wilhelm<sep>bohn, hans, dr.oberer eichweg 26d-3550 marburg/lahnde<sep>winckler, wilhelmam hang 23d-3551 wenkbachde<sep>bohn, hans, dr.  <sep>winckler, wilhelm<sep>bohn, hans, dr.oberer eichweg 26d-3550 marburg/lahnde<sep>winckler, wilhelmam hang 23d-3551 wenkbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is a new glycoprotein available from blood serum, from urine and the extract of human placents. It is characterized by a protein content, substantially consisting of α-amino acids, of 75 ± 6%, a carbohydrate part, of 24.6 ± 5.2%, of which hexoses 8.9 ± 2%, n-acetylated hexosamine 7.1 ± 1.5%, fucose O, 2 ± 0.2%, n-acetylated neuramic acid 8.4 ± 1.5%, a sedimentation coefficient S20W of 2.5 ± 0.3 S, a molecular weight of 35,000 ± 5,000 Due to the determination in the ultracentrifuge or a molecular weight of 65,000 ± 10,000 due to the determination in sodium dodel sulfate-containing polyacrylamide gel, an isoelectric point of pH 3.4 ± 0.4, an extinction coefficient E (280 nm) of 1.9 ± 0.3, electrophoretic mobility in the region between the α₁ and the α₂-globulins and a specific immunological reaction with a specific antibody directed against DEA glycoprotein. The glycoprotein is gained by fractionating body fluids or extracts of organs containing the glycoprotein. To obtain antisera vertebrates are immunized with the glycoprotein.
+</ABSTRACT>
+</TEXT>
+</DOC>

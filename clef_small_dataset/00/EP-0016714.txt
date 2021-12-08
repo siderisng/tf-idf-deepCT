@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016714
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-54/02 <main>H02P-7/68</main> H02P-5/68 B65H-54/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved equipment for controlling the variations in speed of cam-boxes of a textile machine.
+</TITLE>
+<APPLICANT>
+asa safr<sep>societe dite: asa s.a. (societe anonyme)<sep>société dite: asa s.a. (société anonyme)76, boulevard du 11 novembref-69100 villeurbannefr<sep>societe dite: asa s.a. (societe anonyme) <sep>
+</APPLICANT>
+<INVENTOR>
+derail yves<sep>derail, yves<sep>derail, yvesle chantilly 38, rue rabelaisf-42300 roannefr<sep>derail, yves <sep>derail, yvesle chantilly 38, rue rabelaisf-42300 roannefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Installation sophisticated for control variations of cam boxes of a textile machine having two symmetrical faces each having an identical number of cam boxes ensuring a motion of back and forth for the return of the thread, the boxes At cam of each face being controlled by an engine associated with means for varying according to a cycle determined the speed of said motor. This installation is characterized in that the motors (1-2) controlling each face of the machine comprises a common induced supply, obtained by means of a three-phase drive (3) fixing their average speed and allows so much to exchange the braking energies, variations around the average speed of said motors being modulated in phase opposition by variation of the flow in each motor (1-2) via two drasters (8-9) whose variable voltages are compared to TEN. sions given by two dynamos-tachimetric (10-11). There is thus obtained a shift of the wire turns from one layer to another, which avoids the formation of images on the trained winding.
+</ABSTRACT>
+</TEXT>
+</DOC>

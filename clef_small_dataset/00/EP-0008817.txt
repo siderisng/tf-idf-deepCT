@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008817
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02B-13/02 H02B-11/26 H02B-13/035 H02B-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+metal clad three phase switchgear.
+</TITLE>
+<APPLICANT>
+coq bvnl<sep>coq b.v.<sep>coq b.v.no.72, kanaalweg nl-3502 ga utrecht nl <sep>
+</APPLICANT>
+<INVENTOR>
+boersma rintjenl<sep>boersma, rintje<sep>boersma, rintjeno.21, kerkwegharmelennl<sep>
+</INVENTOR>
+<ABSTRACT>
+metal clad three phase switchgear the casing of which  accommodates not only the ordinary conductors for the  respective phases of the switchgear but also a terminal con­ ductor (29) leading through a wall of the casing to the outside  and a switch (11), by means of which each phase conductor  (12, 13, 14) can be individually connected for test purposes  with said terminal conductor either directly or through a test  transformer (9), if used.  
+</ABSTRACT>
+</TEXT>
+</DOC>

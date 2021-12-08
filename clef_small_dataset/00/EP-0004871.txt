@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004871
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/73 G11C-11/40 H01L-27/082 H03K-19/091 H01L-21/8226 H01L-21/331 H01L-27/02 <main>H01L-27/08</main> H01L-21/761 G11C-11/411 H01L-29/66 H03K-3/288 H03K-19/082 H01L-21/02 H03K-3/00 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monolithic integrated semiconductor device with at least one i2l structure, memory cell using such device and memory matrix using such memory cell.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporation old orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+heuber klaus dipl-ing<sep>klink erich dipl-ing<sep>rudolph volker dipl-phys<sep>wiedmann siegfried dr ing<sep>heuber, klaus, dipl.-ing.<sep>klink, erich, dipl.-ing.<sep>rudolph, volker, dipl.-phys.<sep>wiedmann, siegfried, dr. ing.<sep>heuber, klaus, dipl.-ing.taunusstrasse 62d-7030 böblingende<sep>klink, erich, dipl.-ing.max-eyth-strasse 34d-7036 schönaichde<sep>rudolph, volker, dipl.-phys.finkenweg 20d-7031 aidlingen 3de<sep>wiedmann, siegfried, dr. ing.im himmel 64ad-7000 stuttgart 80de<sep>heuber, klaus, dipl.-ing.<sep>klink, erich, dipl.-ing.  <sep>rudolph, volker, dipl.-phys. <sep>wiedmann, siegfried, dr. ing.<sep>heuber, klaus, dipl.-ing.taunusstrasse 62d-7030 böblingende<sep>klink, erich, dipl.-ing.max-eyth-strasse 34d-7036 schönaichde<sep>rudolph, volker, dipl.-phys.finkenweg 20d-7031 aidlingen 3de<sep>wiedmann, siegfried, dr. ing.im himmel 64ad-7000 stuttgart 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+Monolithic integrated semiconductor device with at least one i²L structure containing an injection zone (P1) and an inverting transistor (T1). In this case, the injection zone (P1) and laterally, the base zone (P2) of the same first line type is arranged in a semiconductor layer (N1) of the second conductor type forming the emitter zone of the transistor. The transistor (T1) is completed by a collector zone (N2) of the second conductivity type lying in the base zone (P1). The I²l structure is at least partially surrounded by a separating zone (N⁺) introduced at a predetermined distance into the semiconductor layer. Starting from fixed minimum dimensions of the structure, a maximum injection of the injection zone (P1) in the base zone (P2) and at conductive transistor (T1) also a maximum return injection from the base zone (P2) into the injection zone (P1) by ensuring the maximum possible Length of opposing active edges of the injection zone (P1) and the base zone (P2) achieved. At the same time, it is ensured that the parasitic capacities occurring remain relatively low. These results are achieved by extending the injection zone (P1) and the base zone (P2) in the region of its two opposite edges to or in the separation zone (N⁺), while in the area of ​​its remaining edges the predetermined distance thereof exhibit.
+</ABSTRACT>
+</TEXT>
+</DOC>

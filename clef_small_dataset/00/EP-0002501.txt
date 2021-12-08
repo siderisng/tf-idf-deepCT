@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002501
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-17/395 C07C-17/34 C07C-17/383 C07C-21/06 C07C-19/00 C07C-19/045 C07C-17/38 C07C-17/00 C07C-21/00 C07C-17/42 C07C-67/00 C07C-17/25 <main>C07C-21/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for recycling unreacted 1,2-dichloroethane from the cracking of 1,2-dichloroethane.
+</TITLE>
+<APPLICANT>
+wacker chemie gmbhde<sep>wacker-chemie gmbh<sep>wacker-chemie gmbhhanns-seidel-platz 4d-81737 münchende<sep>wacker-chemie gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+frey hellmuth<sep>schmidhammer ludwig dr<sep>frey, hellmuth<sep>schmidhammer, ludwig, dr.<sep>frey, hellmuthbaaderstrasse 2ad-8263 burghausende<sep>schmidhammer, ludwig, dr.pappelweg 5d-8261 haiming/marktlde<sep>frey, hellmuth  <sep>schmidhammer, ludwig, dr.<sep>frey, hellmuthbaaderstrasse 2ad-8263 burghausende<sep>schmidhammer, ludwig, dr.pappelweg 5d-8261 haiming/marktlde<sep>
+</INVENTOR>
+<ABSTRACT>
+In the large-scale production of vinyl chloride by pyrolysis of 1. 2-dichloroethar, u. a.1-chlorbutadiene-1.3 or 2-chlorine dadiene-1.3. When recycling unreacted 1. 2-dichloroethane in the pyrolysis reactor, 1- or 2-chlorobutadiene-1 must.3 are removed.According to the invention, it is possible to remove the disturbing connections by a chlorination step and a subsequent decoration step.
+</ABSTRACT>
+</TEXT>
+</DOC>

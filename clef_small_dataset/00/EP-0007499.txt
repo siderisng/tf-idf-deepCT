@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007499
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08J-9/08</main> C08J-9/00 C08J-9/08 C08J-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for foaming synthetic resins and foamed synthetic resins obtained according to this process.
+</TITLE>
+<APPLICANT>
+ciba geigy agch <sep>ciba-geigy ag<sep>ciba-geigy ag klybeckstrasse 141 4002 baselch<sep>ciba-geigy ag <sep>
+</APPLICANT>
+<INVENTOR>
+fussenegger werner<sep>illy hugo dr<sep>kirchmayr rudolf dr<sep>fussenegger, werner<sep>illy, hugo, dr.<sep>kirchmayr, rudolf, dr.<sep>fussenegger, wernerfasanenstrasse 150/5ch-4058 baselch<sep>illy, hugo, dr.hubackerweg 35ch-4153 reinachch<sep>kirchmayr, rudolf, dr.ettingerstrasse 9ch-4147 aeschch<sep>fussenegger, werner<sep>illy, hugo, dr.  <sep>kirchmayr, rudolf, dr.<sep>fussenegger, wernerfasanenstrasse 150/5ch-4058 baselch<sep>illy, hugo, dr.hubackerweg 35ch-4153 reinachch<sep>kirchmayr, rudolf, dr.ettingerstrasse 9ch-4147 aeschch<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for foaming thermoplastic plastics by addition of 0.05 to 5 wt.% of a 1.4.2 dioxazolone of the formula wherein n is 1.2 or 3, and at n = 1 r of C₁-C₁₂ alkyl C₂-C₁₂ alkenyl, C₇-C₉ aralkyl C₃-C₆ cycloal kyl, C₆-C₁₀ aryl,by C₁-C₉ alkyl, halogen, C₁-C₉ alkoxy or nitro substituted phenyl or a heterocyclic radical, or at n = 2 R C₁-C₈ alkylene, ethenylene, M or P-phenylene M or P-halophenylene, biphenylene,Oxy bis (p-phenylene), 2,5-thiylene, 2,5-furylene, 2,6-pyridylene or naphthylene, or is n = 3 R phenenyl, for plastic and heating of the mixture.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005692
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C21C-5/28 <main>C21C-5/40</main> C21C-5/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+conversion installation with a tiltable converter.
+</TITLE>
+<APPLICANT>
+voest alpine agat<sep>voest-alpine aktiengesellschaft<sep>voest-alpine aktiengesellschaftwerksgeländea-4010 linzat<sep>voest-alpine aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+laimer friedrich<sep>laimer, friedrich<sep>laimer, friedrichkerngraben 8a-4320 pergat<sep>laimer, friedrich  <sep>laimer, friedrichkerngraben 8a-4320 pergat<sep>
+</INVENTOR>
+<ABSTRACT>
+In a converter system with a tiltable converter (1) surrounded by a housing (2, 3, 6), a main triggering line (4) is connected to the ceiling (3) of the housing for deriving fresh gases, with a part (6 ) The housing is attached to a charging device (5) and movable with this. In order to safely detect gases both during freshness and during charging and drainage, and to avoid the escape of these gases into the hall, wherein the charging device (5) can be used for a plurality of converters arranged next to each other, the charging device is as a hall longitudinal direction, d. H. in the direction of the tilting axis of the converter (1) movable portal crane (5), on which a cellular housing part (6) is fixed, which is converter side (7) and has a gas exhaust opening (9) in the ceiling (8) but otherwise closed, wherein in the charging position and optionally also in the exhaust position of the cellular part (6) the housing (2) closes and the trigger opening (9) in the ceiling (8) below a secondary pipe (12) for deriving the secondary emissions to stand comes.
+</ABSTRACT>
+</TEXT>
+</DOC>

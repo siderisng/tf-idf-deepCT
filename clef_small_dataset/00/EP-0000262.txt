@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000262
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 <main>G03F-7/16</main> H01L-21/027 B05D-1/40 G03F-7/16 B05C-11/08 C25D-7/12 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and spinning head for spin coating resist onto a wafer.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us <sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+canavello benjamin john  <sep>hatzakis michael<sep>siegel arthur richard<sep>watters connell<sep>canavello, benjamin john<sep>hatzakis, michael<sep>siegel, arthur richard<sep>watters, connell<sep>canavello, benjamin john17 brewster avenuestoney point new york 10980us<sep>hatzakis, michael21 collyer driveossining new york 10562us<sep>siegel, arthur richard2786 springhurst st.yorktown heights new york 10598us<sep>watters, connell100 castle courtyorktown heights new york 10598us<sep>canavello, benjamin john <sep>hatzakis, michael<sep>siegel, arthur richard  <sep>watters, connell <sep>canavello, benjamin john17 brewster avenuestoney point new york 10980us<sep>hatzakis, michael21 collyer driveossining new york 10562us<sep>siegel, arthur richard2786 springhurst st.yorktown heights new york 10598us<sep>watters, connell100 castle courtyorktown heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a method of spin coating resist  onto a wafer 72 and to a spinning head for coating the wafer.   the spinning head has a chuck 10 to bo rotated by a spinner  motor shaft 14.  the resist is coated onto the wafer 72 through a hole 82  in the centre of an interchangeable top clamp plate 78.  the  plate 78 is tapered to a knife-edge 86 to seal the top of the  wafer and fuide the resist, during spinning, up the tapered  surface and off the head.  the plate 78 allows certain areas on  the wafers such as areas containing registration marks, to be  protected from resist coating.  
+</ABSTRACT>
+</TEXT>
+</DOC>
