@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002009
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-1/00 C25B-1/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and process for electrolysis using a cation-permselective membrane and turbulence inducing means.
+</TITLE>
+<APPLICANT>
+basf wyandotte corpus<sep>basf wyandotte corporation<sep>basf wyandotte corporation1609 biddle avenuewyandotte michigan 48192 us<sep>
+</APPLICANT>
+<INVENTOR>
+creamer edward dunnington us <sep>jorne jacobus<sep>krumpelt michaelus<sep>creamer, edward dunnington<sep>jorne, jacob<sep>krumpelt, michael<sep>creamer, edward dunnington5078 bosun's wayypsilanti michigang 48197us<sep>jorné, jacob812 moheganbirmingham michigan 48008us<sep>krumpelt, michael19829 brandywineriverview michigan 48192us<sep>
+</INVENTOR>
+<ABSTRACT>
+high current efficiency can be obtained in an electrolytic  cell by inducing turbulence in the catholyte preferably  by utilizing a gas-directing cathode (10) and cationpermselective  membrane (24) combination.  there is disclosed  a process for electrolysis, particularly, the electrolysis of  an alkali metal chloride such as sodium chloride to produce  chlorine and sodium hydroxide.  said cell has a cathode  and an anode (23) divided into catholyte and anolyte  compartments by a cation-permselective membrane.  turbulence  inducing means such as a gas-directing cathode  provides turbulence in said catholyte at the surface of said  membrane by directing gas evolving on said cathode toward  or away from said membrane.  multicell arrangements  are also disclosed wherein said cells are connected in  series.  
+</ABSTRACT>
+</TEXT>
+</DOC>

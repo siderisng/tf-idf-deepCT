@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001437
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/34 F23D-14/72 F23G-7/06 F23D-14/82 F23D-14/24 F23D-14/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for thermal afterburning of explosive gas.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende <sep>
+</APPLICANT>
+<INVENTOR>
+germerdonk rolf prof dr de  <sep>gockel clausde<sep>huening wernerde<sep>kremer hans prof drde<sep>kuehn friedhelmde<sep>wiebe herbertde<sep>germerdonk, rolf, prof. dr.<sep>gockel, claus<sep>huening, werner<sep>kremer, hans, prof. dr.<sep>kuehn, friedhelm<sep>wiebe, herbert<sep>germerdonk, rolf, prof. dr.im grundbirngarten 7d-6750 kaiserslautern 32de<sep>gockel, clausginsterweg 3d-5068 odenthalde<sep>hüning, wernercarl-leverkus-strasse 3d-5068 odenthalde<sep>kremer, hans, prof. dr.rüsbergweg 30d-5810 witten 3de<sep>kühn, friedhelmwiescher weg 18d-4330 mülheim/ruhrde<sep>wiebe, herbertroonstrasse 3d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+a burner for the thermal combustion of at least periodically explosive gases is described in which the gases are introduced into a combustion chamber substantially tangentially of the burner axis through a plurality of throughflow tubes which stabilise the gas streams and are burnt in said combustion chamber with formation of a supercritical spin field having peripheral forward flow and inner axial back flow.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

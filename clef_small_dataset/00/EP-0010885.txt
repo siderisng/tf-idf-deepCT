@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010885
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-23/04 G06T-11/00 G01N-23/02 G06F-15/42 <main>A61B-6/02</main> G01N-23/06 A61B-6/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+computerized tomographic apparatus.
+</TITLE>
+<APPLICANT>
+emi ltdgb<sep>emi limited<sep>emi limitedblyth roadhayes middlesex, ub3 1bpgb<sep>emi limited  <sep>
+</APPLICANT>
+<INVENTOR>
+hounsfield godfrey newbold<sep>hounsfield, godfrey newbold<sep>hounsfield, godfrey newboldsouth airfield farm winthorpenewark, nottinghamshiregb<sep>hounsfield, godfrey newbold<sep>hounsfield, godfrey newboldsouth airfield farm winthorpenewark, nottinghamshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+in a computerized tomographic apparatus of the kind  in which the performances of different detectors is normali­ sed by causing them to receive radiation along substantial­ ly similar paths in various overlap zones within a body un­ der examination, the normalisation can be adversely affec­ ted by the amount of radiation exposure suffered by each  detector prior to its receipt of radiation along the paths in  the overlap zones.  the invention permits such adverse ef­ fects to be reduced or eliminated by averaging the electri­ cal signals, produced by the detectors in respect of the  paths in the overlap zones; the signals relating to paths  near the centre of an overlap zone being combined with  the signals relating to other paths distributed substantially  across the overlap zone but the signals relating to paths  near the edges of an overlap zone being combined with  the signals relating to only a few, neighbouring, paths.  
+</ABSTRACT>
+</TEXT>
+</DOC>

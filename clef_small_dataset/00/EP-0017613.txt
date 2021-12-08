@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017613
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+D02H-13/00 D02H-13/10 G01B-7/04 B65H-61/00 <main>B65H-61/00</main> G01B-7/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of determining a value proportional to the length of yarn axially unwound from a bobbin of spun or cross wound yarn and devices for performing the method.
+</TITLE>
+<APPLICANT>
+mayer stephan<sep>mayer, stephan<sep>mayer, stephan, dr.schilfweg 18ch-6402 merlischachench<sep>mayer, stephan, dr.  <sep>
+</APPLICANT>
+<INVENTOR>
+mayer stephan<sep>mayer, stephan<sep>mayer, stephan, dr.schilfweg 18ch-6402 merlischachench<sep>mayer, stephan, dr.<sep>mayer, stephan, dr.schilfweg 18ch-6402 merlischachench<sep>
+</INVENTOR>
+<ABSTRACT>
+It is measured the length of a garn coil with a spinning coupled by a spinning coupled or by a garn coil with a Wilder winding over head withdrawn thread (14).In order to bypass the sources of error caused by slip and / or threads, a signal is generated after the movement of the thread release point (15) on the spinning coupling (11) or at the yarn coil periodically changing signal and the number of periods of the fundamental frequency of this signal is counted.The length is obtained by multiplying the counted number of periods with the in spinning copies or yarn coils of the same origin and with the same yarn constant thread length of two consecutive Wic Kellagen.The periodic signal can be derived from the thread draft force or from the circulation number of the release point.The method is particularly suitable when spu len from several spinning caps to each a cross coil.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015440
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-37/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted n1-vinyl-n1-methyl-n2-aryl-formamidines, process for their preparation and their application as pesticides.
+</TITLE>
+<APPLICANT>
+hoechst agde <sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft 65926 frankfurt am main de <sep>
+</APPLICANT>
+<INVENTOR>
+bonin werner drde<sep>sinharay akhileswar drde<sep>staehler gerhard drde<sep>bonin, werner, dr.<sep>sinharay, akhileswar, dr.<sep>staehler, gerhard, dr.<sep>bonin, werner, dr.im schulzehnten 18d-6233 kelkheim (taunus)de<sep>sinharay, akhileswar, dr.landgraf-philipp-strasse 28d-6000 frankfurt am main 50de<sep>stähler, gerhard, dr.loreleistrasse 87d-6230 frankfurt am main 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+Compounds of the formula wherein R¹ is halogen, alkyl, alkoxy, alkylthio, CF₃, NO₂, CN, phen oxy, halophenoxy, phenylthio or halophenylthio, R² CN or COOR 3, R³ alkyl, alkoxyalkyl or cycloalkyl and N 0-3 are effective insecticides andAkaricides, in particular special ectoparasiticides.
+</ABSTRACT>
+</TEXT>
+</DOC>

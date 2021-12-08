@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011003
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-2/465 B41J-2/435 <main>H04N-1/036</main> G03B-27/54 G02F-1/13 H04N-1/036 G06K-15/12 G02B-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+telecopyer using a liquid crystal cell.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+hareng michel<sep>le berre serge<sep>hareng, michel<sep>le berre, serge<sep>hareng, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>le berre, serge"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>hareng, michel  <sep>le berre, serge<sep>hareng, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>le berre, serge"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the reproduction of images encoded in the form of electrical signals corresponding to the line analysis per line of the image to be reproduced by optically. The subject of the invention relates to an optical image reproduction optical device comprising an optical modulator (100) formed of a length-length nematic liquid crystal cell at least equal to the paper width with impres Zioner comprising on an internal side n electrodes. (14) corresponding to the n points forming a line and a counter electrode (13) on the other side, this cell being placed between two polarizers (15-16). The modulator produces or does not produce an extinction of the radiation for each point depending that no voltage or a voltage is applied between the counter electrode and the ELEC Trode corresponding to the point to be reproduced. The photosensitive paper (18) scrolls against the second polarizer and is impressed by a modulated light line spatially following the n points. application, in particular, to an optical fax machine.
+</ABSTRACT>
+</TEXT>
+</DOC>

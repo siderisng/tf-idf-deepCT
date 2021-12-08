@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003271
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-35/00 G01J-5/12 H01L-35/32 G01K-17/20 G01K-17/00 G01K-7/02 G01K-7/04 <main>G01K-17/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermic flux meter.
+</TITLE>
+<APPLICANT>
+saint gobainfr<sep>saint-gobain industries<sep>saint-gobain industries62, bd victor hugof-92209 neuilly sur seinefr<sep>saint-gobain industries  <sep>
+</APPLICANT>
+<INVENTOR>
+degenne michel<sep>degenne, michel<sep>degenne, michel35, rue paul louisf-60600 clermontfr<sep>degenne, michel<sep>degenne, michel35, rue paul louisf-60600 clermontfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A sensor comprising a sensor formed of a substrate in an insulating material of the electricity in which a network of through holes and several thermocouples associated in series and whose hot and cold junctions are respectively disposed on the opposite faces of the substrate. substrate., the conductors of each thermocouple respectively passing through the adjacent holes of the substrate on the one hand to connect its hot and cold junctions to each other and on the other hand to connect this thermocouple to the one which precedes it and to the one.As follows in said standard mounting, the flowmeter being characterized in that said conductors are formed by metal coatings 6, 8, 9, 10, 11, 12, deposited respectively on the faces 2, 3 opposite substrate 1 and on the walls.Holes 4a, 4b, practiced in this one.
+</ABSTRACT>
+</TEXT>
+</DOC>

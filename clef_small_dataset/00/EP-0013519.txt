@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013519
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-59/10 <main>F16H-5/28</main> G05G-9/00 F16H-59/12 F16H-59/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control device for the automatic gear box of an automotive vehicle.
+</TITLE>
+<APPLICANT>
+cbm car bus le mansfr<sep>car et bus le mans - constructeur - c.b.m<sep>car et bus le mans - constructeur - c.b.m66, avenue olivier heuzé b. p. 62f-72002 le mans cedexfr<sep>car et bus le mans - constructeur - c.b.m<sep>
+</APPLICANT>
+<INVENTOR>
+bale alain<sep>bale, alain<sep>bale, alain133, avenue savorgnan de brazzale mans, sarthefr<sep>bale, alain  <sep>bale, alain133, avenue savorgnan de brazzale mans, sarthefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Apparatus for controlling a motor vehicle automatic velocity box, comprising means for rotating an axis of a gear selector to bring it to different positions corresponding to a range of candles.The device comprises an axis 2 detector of the positions assigned to the selector axis 1, cooperating with a set of electrical contactors x, yr......a matique electropaneular system 16, 17 comprising a keypad on the dashboard, and a rotary cam (4) integral with the axis (1) of selection and cooperating, of one, part with the axisDetector (2) and on the other hand with the electropneumatic system 16, 17, so that the depression of a key on the keypad 3 corresponds an order of the electropneumatic system (16, 17) placing the axis detector axis(2) As well as the cam (4) and the selector axle (1) in a position determine the selected speed range.
+</ABSTRACT>
+</TEXT>
+</DOC>

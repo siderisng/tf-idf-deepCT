@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001993
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-141/04</main> C07C-303/00 B01F-17/18 C11D-1/00 C07C-305/00 C07C-303/22 C07C-139/10 C07C-305/02 C07C-67/00 C11D-1/88 C07C-301/00 B01F-17/04 C07C-141/10 A62D-1/00 C07C-303/24 C11D-1/90 C07C-139/00 A62D-1/02 B01F-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluorinated alkyl-sulfato-betaines and process for their preparation.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+billenstein siegfried dr<sep>ehrl winfried dr<sep>billenstein, siegfried, dr.<sep>ehrl, winfried, dr.<sep>billenstein, siegfried, dr.samerbergweg 8d-8261 burgkirchen/alzde<sep>ehrl, winfried, dr.stethaimerstrasse 4d-8262 neuöttingde<sep>billenstein, siegfried, dr.<sep>ehrl, winfried, dr.<sep>billenstein, siegfried, dr.samerbergweg 8d-8261 burgkirchen/alzde<sep>ehrl, winfried, dr.stethaimerstrasse 4d-8262 neuöttingde<sep>
+</INVENTOR>
+<ABSTRACT>
+Fluorine-containing alkyl-sulfato-betaine of the formula wherein RF is a perfluoroalkyl radical having 3 to 16 C atoms, R¹ an alkyl radical having 1 to 4 C atoms, R² an alkyl radical having 1 to 4 C atoms, q the alkylene radicals -CH₂CH₂- or m is the number 0 or 1. These compounds are prepared by first connecting the formula to a sulfate agent such as sulfur trioxide or chlorosulfonic acid in the presence of an organic solvent in which the output transmits is released, after removing this solvent, the product dissolves in a polar solvent, neutralized with alkali neutralized and the neutral solution with a compound of formula R²z, wherein Z = Cl, BR, J or OSO₂or² and R² has the meaning mentioned above. Fluorine-containing alkyl-SUL FATO-BETAINE of the above-mentioned formula are surfactants with high efficacy, which can be used as dispersants for polytetrafluoroethylene dispersions, as a loading means for waxes and as cleaning amplifiers in the chemical cleaning and in particular as mixing components in fire extinguishers.
+</ABSTRACT>
+</TEXT>
+</DOC>

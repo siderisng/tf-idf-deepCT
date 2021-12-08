@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010562
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-3/02 C02F-1/461 C02F-1/46 C25B-9/00 <main>C25B-9/00</main> C02F-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochemical process.
+</TITLE>
+<APPLICANT>
+sorapecfr<sep>sorapec societe de recherches et d'applications electrochimiques<sep>sorapec société de recherche et d'applications electrochimiques192 rue carnotf-94120 fontenay-sous-boisfr<sep>sorapec societe de recherches et d'applications electrochimiques<sep>
+</APPLICANT>
+<INVENTOR>
+doniat denis<sep>doniat, denis<sep>doniat, denis14 rue des marronniersf-75016 parisfr<sep>doniat, denis<sep>doniat, denis14 rue des marronniersf-75016 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  electrolysis process designed to transform the compounds in solution in the electrolyte into other compounds also soluble in this same electrolyte, this process is characterized by the fact that the electrolytic solution carries a scattered electrode, made up of conducting particles and circulating freely in the electrolysis circuit, this scattered electrode goes through an electrolyser and its fixed electrodes which are mounted crosswise with respect to its flowing through, no separator is installed between the said fixed electrodes of opposite polarities, the polarity of the scattered electrode is determined by the direction of the reaction with the fastest kinetic characteristic. 
+</ABSTRACT>
+</TEXT>
+</DOC>

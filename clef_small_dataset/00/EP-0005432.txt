@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005432
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 G01S-15/89 A61B-8/00 G01S-15/00 H04N-7/00 A61B-10/00 G01S-15/02 <main>G01S-7/62</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+display device for images formed by ultrasonic pulse-echo technique.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+buchner klaus ing grad<sep>haerten rainer dr dipl-phys<sep>buchner, klaus, ing.grad.<sep>haerten, rainer, dr. dipl.-phys.<sep>buchner, klaus, ing.grad.schleifweg 7 ad-8521 uttenreuthde<sep>haerten, rainer, dr. dipl.-phys.im heuschlag 25d-8520 erlangende<sep>buchner, klaus, ing.grad.<sep>haerten, rainer, dr. dipl.-phys.<sep>buchner, klaus, ing.grad.schleifweg 7 ad-8521 uttenreuthde<sep>haerten, rainer, dr. dipl.-phys.im heuschlag 25d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an ultrasonic image device which is an ultrasonic applicator (1) for line by line ultrasonic scanning and a picture tube (9), e.g. b. of a television monitor (8) for which echo seal image comprises. The echo lines incurred by the ultrasonic applicator are alternately stored in alternating memories (17, 18) and read out to the image tube (9). Reading is single or several times in such read-out times corresponding to the row tilt time of the picture tube. Desirable is an image device which, in addition to direct playback, also allows playback of stored ultrasound images with the smallest technical effort among waiver of complex image storage. This is achieved in that in addition to the alternating memories at least one echal line additional memory (29) is present, which at the signal path between the ultrasonic applicator and the alternating memories for storing current echo lines of an ultrasonic image and for later reactive rows via the remote memory to the picture tube (9) is connected. The invention finds its application in particular in ultrasonic sectional diagnostics.
+</ABSTRACT>
+</TEXT>
+</DOC>

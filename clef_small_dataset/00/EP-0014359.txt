@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014359
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01J-29/96</main> H01J-29/00 H01J-31/20 H01J-29/96 H01J-31/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+colour image tube with beam landing correction device.
+</TITLE>
+<APPLICANT>
+int standard electric corpus  <sep>international standard electric corporation<sep>international standard electric corporation320 park avenuenew york new york 10022us<sep>international standard electric corporation <sep>
+</APPLICANT>
+<INVENTOR>
+andre wolfram<sep>muller hans<sep>andre, wolfram<sep>muller, hans<sep>andre, wolframeichenweg 7d-7307 aichwaldde<sep>müller, hans albstrasse 3d-7307 aichwaldde<sep>andre, wolfram<sep>muller, hans  <sep>andre, wolframeichenweg 7d-7307 aichwaldde<sep>müller, hans albstrasse 3d-7307 aichwaldde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a color picture tube with shadow mask (4) heats up in operation of the tube this mask expands, thereby causing landing errors of the electron beams (5) on the phosphor layer (2) of the tube.These land errors are corrected by temperature-dependent acceleration or brake fields between the mask (4) and a metal layer (3) applied to the phosphor layer (2).The temperature dependence of the bat is achieved by temperature-dependent resistors between the mask and metal layer.
+</ABSTRACT>
+</TEXT>
+</DOC>

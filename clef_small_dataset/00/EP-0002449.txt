@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002449
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-73/02 H01H-71/08 H01H-73/20 H01H-73/00 H01H-9/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+low voltage circuit breaker with a two-part insulating casing.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 2 80333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+berndt klaus-guenther dipl-ing de<sep>kummerow gerd dr-ingde<sep>preuss bernhard ingde<sep>troebel werner ingde<sep>berndt, klaus-guenther, dipl.-ing.<sep>kummerow, gerd, dr.-ing.<sep>preuss, bernhard, ing.<sep>troebel, werner, ing.<sep>berndt, klaus-günther, dipl.-ing.alt-tempelhof 44d-1000 berllin 42de<sep>kummerow, gerd, dr.-ing.hagenplatz 3cd-1000 berlin 33de<sep>preuss, bernhard, ing.finckensteinallee 152cd-1000 berlin 45de<sep>troebel, werner, ing.alt-gatow 57/59d-1000 berlin 22de<sep>
+</INVENTOR>
+<ABSTRACT>
+A low voltage circuit breaker has an insulating material housing (1), which is divided into a top (3) and a lower part (4) along a partial joint (2).At at least one side wall (10) of the lower part (4), a groove starting at the partial carrier (2) and up to the lower edge of the lower part (4) groove groove is provided, in which leads to an auxiliary device (11) are laid out.For these lines (20 to 27) an outlet is provided on the partial carrier (2).The groove (14) makes it possible to arrange several same low voltage circuit breakers with connected auxiliary wires directly next to each other.
+</ABSTRACT>
+</TEXT>
+</DOC>

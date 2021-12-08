@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012073
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-30/00 G01N-30/86 G01D-7/00 G06T-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for tracing a chromatogram.
+</TITLE>
+<APPLICANT>
+delsifr<sep>delsi<sep>delsi3, rue jean macéf-92150 suresnesfr <sep>
+</APPLICANT>
+<INVENTOR>
+caullier jean-claudefr  <sep>coustre andrefr<sep>elitzsch robertfr<sep>caullier, jean-claude<sep>coustre, andre<sep>elitzsch, robert<sep>caullier, jean-claude s.a. lignes telegraphiqueset telephoniques 1 rue charles bourseulf-78702 conflans-sainte-honorinefr<sep>coustre, andré s.a. lignes telegraphiqueset telephoniques 1 rue charles bourseulf-78702 conflans-sainte-honorinefr<sep>elitzsch, robert s.a. lignes telegraphiqueset telephoniques 1 rue charles bourseulf-78702 conflans-sainte-honorinefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a gram chromato plot process by covering the surface of the disparate graphics peaks according to whether it is the solvent or peaks of compounds in solution.It consists in comparing for each signaling interval the boxes of the appropriate dead memory of the same relative address than those of the RAM located between the point of the baseline point and the current point address of the PICand introduce the same binary state in the RAM.The invention is applicable to any curve tracer device consisting of a controlled thermal printer and a control unit.
+</ABSTRACT>
+</TEXT>
+</DOC>

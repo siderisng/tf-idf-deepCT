@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014925
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electroforming process.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecomit<sep>cselt centro studi e laboratori telecomunicazionis.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274 i-10148 turin it <sep>
+</APPLICANT>
+<INVENTOR>
+bonino gian francoit<sep>muoio riccardoit<sep>bonino, gian franco<sep>muoio, riccardo<sep>bonino, gian francov. g. di vittorio, 63rivalta di torino toit<sep>muoio, riccardovia delle primule 28/itorinoit<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention concerns an electroforming process for the  manufacture of a metallic article by electro-position in an  electrolytic bath, comprising the steps of making a master the  cathode, having an electroconductive external surface with  the same shape as the wanted internal surface of said article;  carrying out a first electro-position; filling the concave sur­ faces, the recesses and interstices with plastic material, elec­ troconductive at least on the surface and able to harden;  carrying out a second electrodeposition to a thickness that  with said first electrodeposition layer the article wanted thick­ ness is reached; and extracting the master from the article.  
+</ABSTRACT>
+<DESCRIPTION>
+eectrosort(intg process the present invention concerns the manufacture of metallic articles by electrolytic techniques and more particularly it relates to the improvements to electroforming processes. metallic articles of any shape, can be'realized, as known, by electrodeposition techniques in electrolytic bath. such a process proves particularly useful when an article with a quite complex interior surface is to be made. in this case, mechanical machining by machine tools proves extremely difficult as it must be carried out blindly; vlce versa by using electroforming only a master having an external shape similar to the internal shape of the wanted article is required and then the metal can be deposited in a galvanic bath till to the wanted thickness onto the master is attained. howeve r, while electroforming is being carried out, a metal overdeposition occurs in correspondence with convex surfaces and a lack of deposition occurs in correspondence with concave surfaces. it is clear that the latter problem is more serious as to a good execution of the article, as the structure is badly weakened in the area where mechanical stresses are usually encountered. said phenomenon can be due to a non-uniform distribution of the electrical field present inside the galvanic bath, where the master acts as cathode while an electrode of suitable material acts as anode. in fact the density of current lines increases in correspondence with convex surfaces and decreases in correspondence with concave surfaces and consequently the amount of metal transferred as ions in the electrolyte is higher where the current is higher and vice versa. to overcome this disadvantage various methods have been tried: some results have been obtained by those utilizingabathcomposition with low metal concentration, low current density or auxiliary anodes in combination with masking operations. however the results attained are not quite satisfactory because the performances of the manufactured articles are not yet high as to mechanical strength.a furthermethod utilizes metallic inserts to be placed in correspondence with greater concavity surfaces. thus a uniform metal layer can be deposited on the insert in order to strengthen the structure of the object.yetthe manufacture of said inserts often requires high accuracy particularly in the internal surface, that is not much different from that required of the machining of the article it self. the electroforming process, object of the present invention, overcomes said disadvantages and solves the technical problem described above; according to said process metallic articles of any shape and with high strength and precision features may be made. it is a particular object of the present invention an electroforming process for the manufacture of a metallic article by electrodeposition in electrolytic bath, in which a master is made the cathode having an electroconductive external surface with the same shape as the wanted internal surface of said article, that comprises: a a first electrodeposition; - a filling of the concave surfaces, of the recesses and interstices with plastic material, electroconductive at least on the surface and able to harden; - a second electrodeposition having such thickness that with
+</DESCRIPTION>
+<CLAIMS>
+ what we claim is:   1. electroforming process for the manufacture of a metallic article by  electrodeposition in electrolytic bath in which a master is made the  cathode, having an electroconductive external surface with the same  shape as the wanted internal surface of said article, characterized  in that it comprises:  - a first electrodeposition (2);  - a filling (3) of the concave surfaces, of the recesses and inter  stices with plastic material, electroconductive at least on the sur  face and able to harden;  - a second electrodeposition (5) having such thickness that with  said first electrodeposition can reach the article wanted thick  ness;  - the extraction of said master (1) from said article.    2. electroforming process according to claim 1, characterized in  that said plastic material consists of electroconductive resins.   3. electroforming process according to claim 1, characterized in that  on that plastic material there are deposited one or several electro  conductive metallic layers (4).   4. electroforming process as well as articles manufactured by such  a process according to the previous claims, the whole as described  in the text and depicted in the annexed drawing.  
+</CLAIMS>
+</TEXT>
+</DOC>

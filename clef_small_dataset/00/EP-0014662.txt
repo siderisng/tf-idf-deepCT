@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014662
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21D-1/04 G21D-5/08 G21D-1/00 G21D-5/00 G21C-15/24 <main>G21D-5/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+secondary coolant circuit for a liquid sodium cooled nuclear reactor.
+</TITLE>
+<APPLICANT>
+electricite de francefr<sep>electricite de france service national<sep>electricite de france service national2, rue louis muratf-75008 parisfr<sep>electricite de france service national  <sep>
+</APPLICANT>
+<INVENTOR>
+brachet alain<sep>brachet, alain<sep>brachet, alain34, avenue saint laurent, bât. 4f-91400 orsayfr<sep>brachet, alain<sep>brachet, alain34, avenue saint laurent, bât. 4f-91400 orsayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The secondary circuit comprises at least one intermediate exchanger (4), placed in the reactor (2) vessel, a vapor generator (6) and a circulation pump (12), of the secondary liquid metal.This circuit is characterized in that the storage reserve (24) of the secondary liquid metal and recovery of the products created by a possible reaction metal liquid-water, also serves as a steam anti-ram tank for the vapor generator.For this, the output of the steam generator plunges directly into the tank and a gaseous coverage is maintained above the liquid metal in the tank.Application to the realization of rapi neutron reactors cooling by a liquid metal.
+</ABSTRACT>
+</TEXT>
+</DOC>

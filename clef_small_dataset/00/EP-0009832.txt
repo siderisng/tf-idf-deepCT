@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009832
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/027 C08F-2/50 G03F-7/10 G03F-7/031 H01L-21/02 C08F-2/00 <main>G03C-1/68</main> C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved photopolymerisable recording materials.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa-gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap <sep>
+</APPLICANT>
+<INVENTOR>
+de winter walter frans<sep>kokelenberg hendrik emmanuel<sep>laridon urbain leopold<sep>marien august marcel<sep>de winter, walter frans<sep>kokelenberg, hendrik emmanuel<sep>laridon, urbain leopold<sep>marien, august marcel<sep>de winter, walter fransparklaan 11b-2232 's-gravenwezelbe<sep>kokelenberg, hendrik emmanuelbredabaan 902b-2060 merksembe<sep>laridon, urbain leopolddamhertenlaan 36b-2610 wilrijkbe<sep>marien, august marcelasterlaan 6b-2431 oevelbe<sep>de winter, walter frans<sep>kokelenberg, hendrik emmanuel  <sep>laridon, urbain leopold<sep>marien, august marcel<sep>de winter, walter fransparklaan 11b-2232 's-gravenwezelbe<sep>kokelenberg, hendrik emmanuelbredabaan 902b-2060 merksembe<sep>laridon, urbain leopolddamhertenlaan 36b-2610 wilrijkbe<sep>marien, august marcelasterlaan 6b-2431 oevelbe<sep>
+</INVENTOR>
+<ABSTRACT>
+a photosensitve material is described which comprises  a base and a solid photosensitive layer comprising a photo­ polymerisable compound and a photopolymerisation initiat­ ing mixture consisting of an oxime ester, a photopolymerisa­ tion initiator and a p-dialkylaminobenzene of the formula    wherein r¹ and r² are lower alkyl, r³ is hydrogen, alkyl,  alkoxy or n(r¹)(r²) and x is -co-, -cs-, ch₂, or -ch(oh)-.   synergistic photocuring sensitivity is obtained by said oxime  ester in admixture with said p-dialkyl aminobenzene com­ pound.  
+</ABSTRACT>
+</TEXT>
+</DOC>

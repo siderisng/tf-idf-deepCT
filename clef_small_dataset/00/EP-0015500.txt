@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015500
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F01D-5/18</main> F01D-5/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid-cooled gas turbine blades and method of cooling the blades.
+</TITLE>
+<APPLICANT>
+tokyo shibaura electric cojp<sep>tokyo shibaura denki kabushiki kaisha<sep>kabushiki kaisha toshiba72, horikawa-cho, saiwai-kukawasaki-shi, kanagawa-ken 210jp<sep>tokyo shibaura denki kabushiki kaisha  <sep>
+</APPLICANT>
+<INVENTOR>
+araki tatsuo<sep>araki, tatsuo<sep>araki, tatsuo6-32-5, fukasawasetagaya-ku tokyojp<sep>araki, tatsuo<sep>araki, tatsuo6-32-5, fukasawasetagaya-ku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+in apparatus and a method for cooling a gas turbine  blade (14), coolant in a liquid state, such as water, flows  from a blade root portion toward an outer blade end portion  under centrifugal force through one or more liquid coolant  passages (17) travelling longitudinally within the blade (14),  and such liquid flow coolant is introduced through a chan­ nel (18) to one or more nozzle (20) for converting the liquid  flow to a mist.  the mist flows from the outer blade end  portion toward the blade root portion through one or more  mist-flow coolant passages (19) and, having absorbed heat  includes mist and gaseous vapor, is discharged from the  blade into the motive fluid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

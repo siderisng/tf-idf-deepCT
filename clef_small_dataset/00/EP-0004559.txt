@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004559
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06K-19/16 G06K-19/14 <main>G06K-19/08</main> G09F-3/02 G03H-1/00 B42D-15/10 G06K-19/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+identification card with a hologram, method for the production of the identification card and device for recording the hologram on the identification card.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+flothmann detlev dipl-ing<sep>rull hartwig<sep>staimer angelika<sep>flothmann, detlev, dipl.-ing.<sep>rull, hartwig<sep>staimer, angelika<sep>flothmann, detlev, dipl.-ing.millöckerstrasse 28d-8000 münchen 71de<sep>rüll, hartwigbalduin-helm-strasse 39d-8080 fürstenfeldbruckde<sep>staimer, angelikapläntchweg 62d-8000 münchen 60de<sep>flothmann, detlev, dipl.-ing.<sep>rull, hartwig<sep>staimer, angelika<sep>flothmann, detlev, dipl.-ing.millöckerstrasse 28d-8000 münchen 71de<sep>rüll, hartwigbalduin-helm-strasse 39d-8080 fürstenfeldbruckde<sep>staimer, angelikapläntchweg 62d-8000 münchen 60de<sep>
+</INVENTOR>
+<ABSTRACT>
+Discovering, as a fingering against counterfeiting, provided with a single layer formed with the base material of a recording material, on which a hologram can be recorded by the layer, not holographic detection information and at the same time a hologram. In the manufacture of such a detection, after recording the readable information, the recording material is sensitized again and on the sensitized field, the hologram is recorded. A convenient device for recording the hologram has an imaging optics for reduced real imaging of the overall view of the ID card and mirror for deflecting the imaging beam path in the direction of the recording field for the hologram. Preferably, in the hologram, the overall view of the ID card together with machine-readable conventional information is recorded. In a method for evaluating the hologram content, the reconstructed hologram is converted by means of a video conse into electrical signals and then the signals corresponding to the machine-readable conventional information is separated from the other signals and also evaluated separately.
+</ABSTRACT>
+</TEXT>
+</DOC>

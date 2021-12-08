@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013666
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-37/00 C07D-471/00 A61P-37/08 C07D-215/26 C07D-471/04 A61K-31/47 C07D-215/00 C07D-215/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phenanthroline derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+haas georges drch<sep>jaeggi knut a dr ch <sep>rossi alberto drch<sep>sele alexch<sep>haas, georges, dr.<sep>jaeggi, knut a., dr.<sep>rossi, alberto, dr.<sep>sele, alex<sep>haas, georges, dr.im rehwechsel 24ch-4102 binningench<sep>jaeggi, knut a., dr.general guisan-strasse 44ch-4054 baselch<sep>rossi, alberto, dr.bündtenweg 30ch4104 oberwilch<sep>sele, alexlangmattstrasse 14ch-4132 muttenzch<sep>
+</INVENTOR>
+<ABSTRACT>
+NEW 4,7-phenanthroline derivatives of formula (I) wherein CH represents an optionally substituted 5.6 quinolinylene radical whose 6-position is connected to the group -N (RE), R is an optionally esterified or amidated carboxy group, and whereineither Ra and Rb together oxo, RC and Rd together mean an additional bond and represents a radical R₁, which represents hydrogen or an aliphatic, cycloaliphatically, araliphatic or heterocyclic-aliphatic radical, or Ra means an optionally etherified hydrody group and RBTogether with RC and Rd together with RE, an additional binding of representations, and salts of salt-forming compounds of the formula (I), compounds of formula (I) or their salts have antiaigger giant properties.They can be prepared by methods known per se and are useful as active ingredients of pharmaceutical preparations.
+</ABSTRACT>
+</TEXT>
+</DOC>

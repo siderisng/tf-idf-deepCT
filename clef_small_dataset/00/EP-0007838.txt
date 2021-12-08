@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007838
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21K-4/00 C01B-33/00 C01F-17/00 C01B-33/12 C09K-11/00 H01J-61/38 H01J-35/18 H01J-29/20 C09K-11/77 <main>C09K-11/465</main> C09K-11/08 H01J-61/44 G03C-1/815 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+luminescent blue-emitting materials based on bivalent europium, processes for their preparation and their use.
+</TITLE>
+<APPLICANT>
+rhone poulenc indfr <sep>rhone-poulenc industries <sep>rhone-poulenc specialites chimiques"les miroirs" 18, avenue d'alsace92400 courbevoiefr<sep>rhone-poulenc specialites chimiques <sep>
+</APPLICANT>
+<INVENTOR>
+fouassier claude<sep>garcia alain<sep>latourrette bertrand<sep>fouassier, claude<sep>garcia, alain<sep>latourrette, bertrand<sep>fouassier, clauderésidence saint-géry 12 rue de la chênaief-33170 gradignanfr<sep>garcia, alain46, rue frédéric mistralf-47000 passage d'agenfr<sep>latourrette, bertrand4, square xavier montenyf-93220 gagnyfr<sep>fouassier, claude<sep>garcia, alain  <sep>latourrette, bertrand<sep>fouassier, clauderésidence saint-géry 12 rue de la chênaief-33170 gradignanfr<sep>garcia, alain46, rue frédéric mistralf-47000 passage d'agenfr<sep>latourrette, bertrand4, square xavier montenyf-93220 gagnyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to new EUROPIENT EUROPIUM LUMINES DIVALENT LUMINES EMITTING IN BLUE.These substances respond to the formula: wherein: m represents BA1-β Srβ or Ba1-β CAβ being greater than or equal to 0 and less than or equal to about 0.1;α is greater than 0 and less than or equal to about 0.02;X represents CL1-γ BRγγ being greater than or equal to 0 and lower or equal to about 1. The phosphor according to the invention are used in fluorescent tubs, in the manufacture of X-ray reinforcing screens and in the display devices.Multi chrome.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015182
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-17/17 H04L-25/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+numerical interpolator for time-shared processing on several channels.
+</TITLE>
+<APPLICANT>
+thomson csf mat telfr<sep>le materiel telephonique thomson-csf<sep>le materiel telephonique thomson-csf146 boulevard de valmy92707 colombes cedexfr<sep>
+</APPLICANT>
+<INVENTOR>
+houdard jean-pierrefr<sep>julie jean-jacquesfr<sep>leoni bernard georges fr <sep>houdard, jean-pierre<sep>julie, jean-jacques<sep>leoni, bernard georges<sep>houdard, jean-pierre"thomson-csf" - scpi 173 boulevard haussmannf-75360 paris cedex 08fr<sep>julie, jean-jacques"thomson-csf" - scpi 173 boulevard haussmannf-75360 paris cedex 08fr<sep>leoni, bernard georges"thomson-csf" -scpi 173 boulevard haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+the network comprises a random-access memory (m), k arithmetic units (u0 to uk-1) disposed in parallel, each interacting with a read- only memory (h0 to hk-1) storing the weighting coefficients.  the samples to be interpolated are written into the read-only memory on each occasion instead of the oldest sample, the delayed discrete values being read commencing with the sample just written, and progressing in increasing order of age.  application: time-share processing of signals in pcm telephony.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+reseau numerique interpolateur pour traitement en temps partage sur plusieurs canaux la présente invention se rapporte à un réseau numérique interpolateur pour le traitement en temps partagé de signaux numériques se présentant sur plusieurs canaux de transmission. lorsque des signaux analogiques doivent être transmis sous forme numérique, on les échantillonne, pour des raisons économiques, de préférence à la fréquence d'échantillonnage la plus basse possible qui est égale, conformément au théorème de shannon, à deux fois la fréquence supérieure du signal à transmettre. d'autre part, pour obtenir la meilleure qualité possible au niveau du traitement des signaux échantillonnés, il faudrait que la fréquence d'échantillonnage soit la plus grande possible par rapport à ladite fréquence supérieure du signal à transmettre. pour concilier ces deux exigences contradictoires, on transmet des signaux échantillonnés à environ deux fois leur fréquence supérieure, et à la réception on utilise un réseau interpolateur calculant les échantillons intermédiaires des échantillons reçus. les réseaux interpolateurs actuellement utilisés ne permettent pas, même à l'aide d'unités arithmétiques très rapides, d'augmenter considérablement le nombre d'échantillons intermédiaires, en particulier pour un traitement en temps partagé sur plusieurs canaux. en outre, ces réseaux interpolateurs connus ont un encombrement tres important. la présente invention a pour objet un réseau numérique interpolateur pouvant fournir un nombre même tres élevé d'échantillons intermédiaires sans que l'on ait à augmenter la vitesse de calcul des unités arithmétiques utilisées. la présente invention a également pour objet un réseau numérique interpolateur ne comportant en général qu'une seule mémoire de valeurs discrètes retardées quel que soit le nombre d'interpolateurs utilisés, un tel réseau pouvant fonctionner en temps partagé sur plusieurs canaux et ayant un encombrement le plus faible possible. le réseau numérique interpolateur conforme à la présente invention fonctionnant en temps partagé sur i canaux de transmission, i étant un nombre entier supérieur ou égal à j, comporte : une mémoire vive pour le stockage de p valeurs discretes retardées pour chacun des i canaux ; k mémoires mortes pour le stockage de p coefficients de pondération chacune ; k unités arithmétiques -disposées en parallele pour le calcul des échantillons interpolés, k étant un nombre entier#supérieur ou égal à 1 ; un premier compteur modulo i pour l'adressage de chacun des i canaux un second compteur modulo p pour l'adressage des p valeurs discrètes retardées ; un troisième compteur modulo p pour l'adressage des p coefficients de pondération. la présente invention sera mieux comprise à l'-aide de la description détaillée d'un mode de réalisation pris comme exemple non limitatif et illustré par le dessin annesedont la figure unique est un bloc-diagramme dudit mode de réalisation. le réseau numérique interpolateur représenté sur la figure unique est branché entre une borne d'entrée e et une borne de sortie s. la borne d'entrée e à laquelle on applique le signal numérique à interpoler est reliée à une mémoire vive m organisee selon i pages correspondant chacune à un canal de transmission et pouvant contenir chacune au moins p mots de r éléments binaires chacun. dans le
+</DESCRIPTION>
+<CLAIMS>
+ revendications    1. réseau numérique interpolateur pour le traitement en temps partagé de signaux numériques se présentant sur i canaux de transmission, caractérisé par le fait   qutil    comporte : une mémoire vive pour le stockage de p valeurs discrètes retardées pour chacun des i canaux (i étant un nombre entier supérieur ou égal à 1) ; k mémoires mortes pour le stockage de p coefficients de pondération chacune k unités arithmétiques disposées en parallèle pour le calcul des échantillons interpolés, k étant un nombre entier supérieur ou égal à 1 ; un premier compteur modulo i pour l'adressage de chacun des i canaux ; un second compteur modulo p pour l'adressage des p valeurs discrètes retardées ; et un troisième compteur modulo p pour l'adressage des p coefficients de pondération.     2. réseau numérique interpolateur selon la revendication 1, caractérisé par le fait que la fonction de transfert de l'une des unités arithmétiques est équivalente à un retard pur.    3. réseau numérique interpolateur selon l'une quelconque des revendications i ou 2, caractérisé par le fait que la période d'échantillonnage des signaux à interpoler étant t, ledit premier    t compteur est incrémenté toutes les ,i secondes, que ledit deuxième  t1 compteur est incrémenté toutesles secondes sauf lorsque l'on    passe du canal   i-l    (dernier canal) au canal o (premier canal),    t/i et que ledit troisième compteur est remis à zéro toutes les i    secondes.  
+</CLAIMS>
+</TEXT>
+</DOC>

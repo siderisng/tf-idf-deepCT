@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002819
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02C-3/30 F02M-25/00 F23L-7/00 F23R-3/00 F02C-3/20 F23J-7/00 F23R-3/40 F02M-25/022 F23C-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for improving combustion processes.
+</TITLE>
+<APPLICANT>
+rawyler ehrat ernst<sep>rawyler-ehrat, ernst<sep>rawyler-ehrat, ernstkometsträsschen 40ch-8200 schaffhausench<sep>
+</APPLICANT>
+<INVENTOR>
+rawyler-ehrat ernst<sep>rawyler-ehrat, ernst<sep>rawyler-ehrat, ernstkometsträsschen 40ch-8200 schaffhausench<sep>
+</INVENTOR>
+<ABSTRACT>
+in a method for improving combustion processes, water vapour is fed to a mixture of air and hydrocarbon compounds in a combustion chamber prior to combustion in order to effect a considerable improvement in the progress of combustion, because, in contrast to air, water vapour has a substantially higher oxygen content.  catalysts, such as graphite and/or sponge iron, are used during combustion in order to promote the dissociation of the water into h2 + o2.  the method can be employed without special structural alterations in internal combustion engines, incineration plants and ovens.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

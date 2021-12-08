@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006668
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08L-27/06</main> C08L-27/00 C08L-27/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat-stabilized vinyl chloride-polymer compositions.
+</TITLE>
+<APPLICANT>
+solvay be <sep>solvay & cie (societe anonyme)<sep>solvay &amp; cie (société anonyme)rue du prince albert, 33b-1050 bruxellesbe<sep>solvay & cie (societe anonyme)  <sep>
+</APPLICANT>
+<INVENTOR>
+servotte andre<sep>servotte, andre<sep>servotte, andrémolenstraat, 89b-1950 kraainembe<sep>servotte, andre<sep>servotte, andrémolenstraat, 89b-1950 kraainembe<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  heat-stabilized compositions based on vinyl chloride polymers, which comprise a customary primary heat stabilizer of the type consisting of calcium-zinc stabilizing systems, and a polyhydroxylic costabilizer, characterized in that the polyhydroxylic co-stabilizer is a hyroxypropylcellulose. 
+</ABSTRACT>
+<DESCRIPTION>
+compositions stabilisées 8 la chaleur à base de polymères du chlorure de vinyle la présente invention concerne des compositions stabilisees à la chaleur à base de polymères du chlorure de vinyle. elle concerne plus particulièrement des compositions à base de polymères du chlorure de vinyle, contenant un costabilisant polyhydroxylé, qui présentent une stabilite thermique améliorée. la stabilité thermique d'un polymère s'évalue généralement à court terme et à long terme. la stabilité thermique à court terme, ou stabilité thermique initiale, est l'aptitude du polymère à résister à la dégradation provoquée par l'élévation de température à laquelle il faut le soumettre pour y incorporer les additifs usuels et le mettre en oeuvre. une mauvaise stabilité thermique initiale se marque par une altération de la coloration des objets façonnés qui est d'autant plus importante que la stabilité est faible. la stabilité thermique à long terme est mesurée par le temps qui s 'écoule avant qu'un échantillon de polymère ne noircisse dans des conditions données. pour de nombreuses applications des polymères du chlorure de vinyle, telles que par exemple la fabrication de corps creux et de feuilles calandrées destinés à l'emballage, il est impérieux de disposer de polymères qui présentent, non seulement une excellente stabilité thermique à long terme, mais également une bonne stabilité thermique initiale. dans le brevet belge 762 443 déposé le 2 février 1971 au nom de melle - bezons, on décrit l'utilisation d'acétates de polyvinyle partiellement hydroxylés (alcools polyvinyliques) pour améliorer la stabilité thermique des polymères du chlorure de vinyle contenant des sels organiques de calcium et de zinc comme stabilisants thermiques primaires. on a constaté que les alcools polyvinyliques- améliorent la stabilité thermique à long terme des polymères du chlorure de vinyle, mais que cette amélioration se fait au détriment de la stabilité thermique à court terme. la présente invention, telle qu'elle est caractérisée dans les revendications, a pour but de procurer des compositions stabilisées à la chaleur à base de polymères du chlorure de vinyle dont la stabilité thermique à long terme est améliorée sans diminution concomitante de la stabilité thermique à court terme et qui soient aptes à être transformées en objets façonnés présentant un excellent coloris initial, et ce, sur des machines fonctionnant à cadence élevée. il est surprenant de constater que les hydroxypropylcelluloses améliorent sensiblement la stabilité thermique à long terme sans détériorer la stabilité thermique à court terme des polymères du chlorure de vinyle, alors que les alcools polyvinyliques ont pour effet d'améliorer leur stabilité thermique à long terme au détriment de leur stabilité thermique à court terme. par ailleurs, il est à noter que les hydroxyalkylcelluloses autres que les hydroxypropylcelluloses, telles que les hydroxyéthylcelluloses, améliorent la stabilité thermique à long terme des polymères du chlorure de vinyle au détriment de la stabilité thermique à court terme et que les dérivés cellulosiques autres que les hydroxyalkylcelluloses, tels que par exemple les alkylcelluloses, n'ont pratiquement aucun effet stabilisant à long terme sur les polymères du chlorure de vinyle. toutes les hydroxypropylcelluloses conviennent à la réalisation
+</DESCRIPTION>
+<CLAIMS>
+ revendications  1 - compositions stabilisées à la chaleur à base de polymères du chlorure de vinyle comprenant un stabilisant thermique primaire usuel du type des systèmes stabilisants calcium-zinc et un costabilisant polyhydroxylé, caractérisées en ce que le costabilisant polyhydroxylé est une hydroxypropylcellulose.    2 - compositions suivant la revendication 1, caractérisées en ce que   lthydroxypropylwellulose    présente un nombre moyen de moles de réactif d'hydroxypropylation combinées avec la cellulose par unité d'anhydroglucose de 1,5 à 10.    3 - compositions suivant la revendication 2, caractérisées en ce que   l'hydroxypropylcellulose    présente un nombre moyen de moles de réactif d'hydroxypropylation combinées avec la cellulose par unité d'anhydroglucose de 2 à 5.     4 - compositions suivant l'une quelconque des revendications 1 à 3, caractérisées en ce qu'elles contiennent de 0,2 à 2 parties d'hydroxypropylcellulose pour 1000 parties en poids de polymère du chlorure de vinyle.    5 - compositions suivant l'une quelconque des revendications 1 à 4, caractérisées en ce que le stabilisant thermique primaire est choisi parmi les systèmes à base de sels de calcium et de zinc d'acides aliphatiques monocarboxyliques ayant de 6 à 30 atomes de carbone.    6 - compositions suivant l'une quelconque des revendications 1 à 5, caractérisées en ce qu'elles contiennent de 0,2 à 1 partie de stabilisant thermique primaire pour 100 parties en poids de polymère du chlorure de vinyle.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011963
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-265/00 A61K-31/41 C07D-265/08 C07D-279/00 C07D-277/18 C07D-279/06 C07D-417/12 C07D-413/12 <main>C07D-263/28</main> C07D-263/00 A61K-31/54 C07D-263/28 A61K-31/535 C07D-277/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heterocyclic carboxamidine compounds, their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb<sep>beecham group limited<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+cantello barrie christian char<sep>cantello, barrie christian charles<sep>cantello, barrie christian charles8 woodside wayredhill, surreygb<sep>cantello, barrie christian charles<sep>cantello, barrie christian charles8 woodside wayredhill, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a compound, with hypolgycaemic activity, having for­ mula (ii) or a pharmaceutically acceptable quaternary  ammonium or acid addition salt thereof:    wherein x represents oxygen or sulphur;   n represents zero or 1;   r⁷ represents hydrogen or c₁₋₆-alkyl;   r¹ and r² are the same or different and represent hydrogen,   c₁₋₆ alkyl, phenyl, benzyl, or c₃₋₆ cycloalkyl;   r³ represents hydrogen, c₁₋₆ alkyl, phenyl or benzyl;   r⁴ represents hydrogen or c₁₋₆ alkyl;   r⁵ represents c₁₋₆ alkyl, phenyl optionally substituted with up  to 3 groups selected from halogen, c₁₋₆ alkyl, and c₁₋₆ alkoxy;   or benzyl optionally substituted with up to 3 groups selected  from halogen, c₁₋₆ and c₁₋₆alkoxy; or r⁴ and r⁵ together  represent the remaining members of a 5-or 6-membered ring  optionally containing an oxygen, sulphur or additional nit­ rogen atom and being optionally substituted with c₁₋₆ alkyl,  carboxy or c₁₋₆ alkoxycarbonyl; and   r⁶ represents phenyl, optionally substituted with up to 3  groups selected from halogen, c₁₋₆ alkyl, c₁₋₆ alkoxy, c₁₋₆  alkanoyl, c₁₋₆ alkanoyloxy, nitro, hydroxy, amino, substituted  amino, carboxy, and c₁₋₆ alkoxycarbonyl.  
+</ABSTRACT>
+</TEXT>
+</DOC>

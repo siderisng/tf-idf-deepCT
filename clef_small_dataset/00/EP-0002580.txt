@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002580
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-9/18 H04L-9/32 G07F-7/10 <main>H04L-9/02</main> H04K-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for the verification of cryptographic operational keys used in data communication networks.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+lennon richard edward<sep>matyas stephen michael<sep>meyer carl heinz wilhelm<sep>oseas jonathan<sep>prentice paul norman <sep>tuchman walter leonard<sep>lennon, richard edward  <sep>matyas, stephen michael<sep>meyer, carl heinz wilhelm<sep>oseas, jonathan<sep>prentice, paul norman<sep>tuchman, walter leonard<sep>lennon, richard edwardbox 476a route 212woodstock new york 12498us<sep>matyas, stephen michael2 bird lanepoughkeepsie new york 12603us<sep>meyer, carl heinz wilhelmrt28,rd2 box 223-11kingston new york 12401us<sep>oseas, jonathanbox 147 hurleynew york 12443us<sep>prentice, paul norman29 lawrence roadhyde park new york 12538us<sep>tuchman, walter leonard27 whitney drivewoodstock new york 12498us<sep>lennon, richard edward<sep>matyas, stephen michael<sep>meyer, carl heinz wilhelm<sep>oseas, jonathan<sep>prentice, paul norman <sep>tuchman, walter leonard<sep>lennon, richard edward box 476a route 212 woodstock new york 12498 us <sep>matyas, stephen michael2 bird lanepoughkeepsie new york 12603us<sep>meyer, carl heinz wilhelmrt28,rd2 box 223-11kingston new york 12401us<sep>oseas, jonathanbox 147 hurleynew york 12443us<sep>prentice, paul norman29 lawrence roadhyde park new york 12538us<sep>tuchman, walter leonard27 whitney drivewoodstock new york 12498us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention concerns a process and apparatus for the  verification of cryptographic operational keys used in data  communication networks.  in a data communication network providing  communication security for communication sessions between  a first station and a second station where each station  has cryptographic apparatus provided with an operational  key which should be common to both stations for cryptographic  operations, an operational key verification arrangement  is provided in which a first number provided at the first  station is operated upon in accordance with the first station  operational key to obtain cryptographic data for transmission  to the second station, requiring the second station to  perform an operation on the first station cryptographic data  in accordance with the second station operational key to  obtain cryptographic data for transmission back to the first  station, and in which an operation is performed at the first  station in accordance with the first number and the second  station cryptographic data to verify that the second station is  the source of second station cryptographic data only if the  operational keys are identical.  
+</ABSTRACT>
+</TEXT>
+</DOC>

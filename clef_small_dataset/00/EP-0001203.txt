@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001203
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-47/34 <main>C07C-127/22</main> C07C-275/54 A01N-9/20 A01N-47/28 C07C-275/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-phenyl-n'-benzoyl ureas, process for their preparation, substances containing them, and their use as pesticides.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+ehrenfreund josef dr<sep>ehrenfreund, josef, dr.<sep>ehrenfreund, josef, dr.langenhagweg 11ch-4123 allschwilch<sep>ehrenfreund, josef, dr.<sep>ehrenfreund, josef, dr.langenhagweg 11ch-4123 allschwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to novel n-phenyl-n'benzoylurreas, methods for their preparation and their use in pest control.These n-phenyl-n'-benzoylurreas have the formula I wherein R₁ is CH₂ = CH-CH₂-, CHC1 = CC1, CHC1 = CH-CH₂-, CH₂ = CC1-CH₂-, CC1₂ = CH-CH₂-, CHC1 =CC1-CH₂- or CH = CH = C-CH₂ and R₂ hydrogen or chlorine.A preferred group of compounds of formula I according to the invention is characterized in that R₂ is hydrogen.
+</ABSTRACT>
+</TEXT>
+</DOC>

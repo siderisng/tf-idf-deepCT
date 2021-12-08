@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009317
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04W-88/18 <main>H03B-19/00</main> H04W-88/00 H04Q-7/02 G06F-1/02 H03B-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+microprocessor tone synthesizer with reduced quantization error.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+doyle james thomas<sep>muri david leo<sep>doyle, james thomas<sep>muri, david leo<sep>doyle, james thomas1293 n.w. 89th drivecoral springs, florida 33065us<sep>muri, david leo2605 n.w. 47th lanelauderdale lakes, florida 33313us<sep>doyle, james thomas  <sep>muri, david leo<sep>doyle, james thomas1293 n.w. 89th drivecoral springs, florida 33065us<sep>muri, david leo2605 n.w. 47th lanelauderdale lakes, florida 33313us<sep>
+</INVENTOR>
+<ABSTRACT>
+the accuracy of a required tone set, digitally syn­ thesized by a microprocessor (12), is improved beyond  the theoretical limit of the microprocessor circuitry by  producing each tone at a frequency which is a sub­ multiple of the desired frequency, then multiplying to  provide the desired frequency.  with the addition of a  multiplier (18) such as a doubler, a better choice of os­ cillator frequency becomes possible which further in­ creases the tone frequency accuracy.  the microprocessor  can also reduce the start up time and the time between  tones, eliminating delays in transmitting a series of coded  tones.  
+</ABSTRACT>
+</TEXT>
+</DOC>

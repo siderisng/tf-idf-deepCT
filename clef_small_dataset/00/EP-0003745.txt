@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003745
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21D-28/00 B30B-15/18 B30B-15/16 B21D-28/02 B30B-15/28 B21D-28/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for suppressing cutting shocks in hydraulic presses.
+</TITLE>
+<APPLICANT>
+moog gmbhde<sep>moog gmbh<sep>moog gmbhhanns-klemm-strasse 28d-71034 böblingende<sep>
+</APPLICANT>
+<INVENTOR>
+kollmar friedrichde<sep>kollmar, friedrich<sep>kollmar, friedrichkrähenweg 15d-7031 grafenau 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+In hydraulic presses, a cutting tool (4a, 4b) supporting lifting piston (2) is driven by a compact cylinder working on both sides.To control the lifting piston movement, the press cylinder is equipped with a servo valve control.For attenuation of the so-called cutting pad during the passage of the tool through the workpiece, a damping device is provided.It has a dispenser (7) which scans the lifting piston adjustment path.The output of the guide is given as an actual size to an electrical control loop (6);As a setpoint, a signal corresponding to a predetermined continuous function is supplied to the control loop (6) during the cutting movement of the tool.This follows the tool of a predetermined way time function, and the passage through the workpiece takes place at a relatively low speed.
+</ABSTRACT>
+</TEXT>
+</DOC>

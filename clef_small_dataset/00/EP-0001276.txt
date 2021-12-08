@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001276
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-143/70</main> B01J-31/02 C07C-303/02 C07C-309/00 B01J-31/00 C07C-303/00 C07C-309/86 C07B-61/00 C07C-67/00 C07C-301/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of sulphonyl chlorides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+blank heinz-ulrich dr<sep>pfister theodor dr<sep>blank, heinz-ulrich, dr.<sep>pfister, theodor, dr.<sep>blank, heinz-ulrich, dr.am geusfelde 35d-5068 odenthalde<sep>pfister, theodor, dr.willer strasse 51d-5600 wuppertal 1de<sep>blank, heinz-ulrich, dr.<sep>pfister, theodor, dr.<sep>blank, heinz-ulrich, dr.am geusfelde 35d-5068 odenthalde<sep>pfister, theodor, dr.willer strasse 51d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for the preparation of sulfonic acid chlorides of sulfonic acids and phosgene in the presence of catalysts of the class of N, N-dialkylcarboxylic acid amides in which the reaction is carried out in the presence of a sulfonating agent.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013991
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-50/56 <main>H01H-50/56</main> H01H-3/00 H01H-50/54 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arrangement of contact springs for polarized electromagnetic relays.
+</TITLE>
+<APPLICANT>
+matsushita electric works ltdjp<sep>sauer hansjp<sep>sds elektro gmbhde<sep>matsushita electric works ltd<sep>sauer, hans<sep>sds-elektro gmbh<sep>euro-matsushita electric works aktiengesellschaftrudolf-diesel-ring 2d-83607 holzkirchende<sep>matsushita electric works ltd1048 kadoma571-71 osakajp<sep>sauer, hansfichtenstrasse 5d-8024 deisenhofende<sep>matsushita electric works ltd <sep>sauer, hans<sep>sds-elektro gmbh  <sep>matsushita electric works ltd<sep>sauer, hans<sep>sds-elektro gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+antonitsch sepp dipl-ing<sep>nishikawa toyataka<sep>nishimura hiromi<sep>ono kenji <sep>sauer hans<sep>steinbichler wolf  <sep>antonitsch, sepp, dipl.-ing.<sep>nishikawa, toyataka<sep>nishimura, hiromi<sep>ono, kenji<sep>sauer, hans<sep>steinbichler, wolf<sep>antonitsch, sepp, dipl.-ing.holzham 2dd-8156 otterfingde<sep>nishikawa, toyatakakamikoshien 4-8-10nishinomiya hyagojp<sep>nishimura, hiromihigashiyosumi 2-32-13takatuki osakajp<sep>ono, kenjiikeda 1-7-4neyagawa osakajp<sep>sauer, hansflichtenstrasse 5d-8024 deisenhofende<sep>steinbichler, wolfam höhenpark 4d-8201 bad feilnbachde<sep>antonitsch, sepp, dipl.-ing.<sep>nishikawa, toyataka<sep>nishimura, hiromi<sep>ono, kenji<sep>sauer, hans<sep>steinbichler, wolf<sep>antonitsch, sepp, dipl.-ing.<sep>nishikawa, toyataka<sep>nishimura, hiromi<sep>ono, kenji<sep>sauer, hans<sep>steinbichler, wolf<sep>antonitsch, sepp, dipl.-ing.holzham 2dd-8156 otterfingde <sep>nishikawa, toyatakakamikoshien 4-8-10nishinomiya hyago jp   <sep>nishimura, hiromihigashiyosumi 2-32-13takatuki osakajp<sep>ono, kenjiikeda 1-7-4neyagawa osakajp<sep>sauer, hansflichtenstrasse 5d-8024 deisenhofende<sep>steinbichler, wolfam höhenpark 4d-8201 bad feilnbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  contact spring arrangement for polarized electromagnetic relays, in which the actuation force of the armature (8) created by the exciting current in cooperation with a permanent magnet arrangement progressively increases with increasing deviation from a zone of zero permanent magnetic force in mutually opposite directions of deviation up to a final attraction force - always reduced by the resilient force of the contact springs (1) -, wherein at least one contact spring (1) cooperates with at least one fixed contact (5) is fixed at an end or centrally to a terminal (3) and is covered with contact material in the respective region opposing a fixed contact (5), and wherein the contact spring (1) is guided by an actuating member (12) movable by the armature (8), characterized in that the actuating member (12) embraces the contact spring (1) and includes actuation pieces of which a first actuation piece (7) active in closing the contact (4, 5) engages the contact spring (1) on the side remote from the fixed contact (5) and a second actuating piece (6) active in opening the contact (4, 5) engages the contact spring (1) on the side facing the first contact (5), that the resilient length (l1  + l2  in fig.  1 ; l2  or l2 ' in fig.  2 ; . . . ) which rules the closing of the contact (4, 5) and lies between the location of engagement of the first actuating piece (7) at the contact spring and the contact location, is larger than the resilient length (l3  in fig.  1 ; . . . ) which rules the opening of the contact and lies between the location of engagement of the second actuating piece (6) at the contact spring (1) and the contact location, and that measures concerning the cross-section of the portion which rules the opening of the contact have been taken which cause a substantial stiffening of this section relative to the portion of the contact spring (1) which rules the closing of the contact. 
+</ABSTRACT>
+</TEXT>
+</DOC>

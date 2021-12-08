@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008229
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-491/107</main> A61P-25/02 A61P-27/02 A61P-15/00 C07D-491/107 A61P-13/02 A61P-25/00 A61P-27/12 C07D-491/00 C07D-491/10 A61P-27/00 A61P-13/00 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spiro-furanohydantoin derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+pfizerus<sep>pfizer inc.<sep>pfizer inc.235 east 42nd streetnew york, n.y. 10017us<sep>pfizer inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+kelbaugh paul r<sep>sarges reinhard<sep>kelbaugh, paul r.<sep>sarges, reinhard<sep>kelbaugh, paul r.33 york avenueniantic, new london connecticutus<sep>sarges, reinhard1063 river roadmystic, new london connecticutus<sep>kelbaugh, paul r.<sep>sarges, reinhard<sep>kelbaugh, paul r.33 york avenueniantic, new london connecticutus<sep>sarges, reinhard1063 river roadmystic, new london connecticutus<sep>
+</INVENTOR>
+<ABSTRACT>
+spiro-furanohydantoin derivatives of the formula:    and pharmaceutically acceptable metal salts wherein r  is hydrogen, methyl, fluoro, chloro or bromo and pharma­ ceutical compositions thereof are aldose reductase in­ hibitors useful as therapeutic agents for preventing or  alleviating chronic diabetic complications such as diabetic  cataracts and neuropathy.  
+</ABSTRACT>
+</TEXT>
+</DOC>

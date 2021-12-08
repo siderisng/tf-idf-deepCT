@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014264
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-21/00 B01J-27/00 C07C-251/06 B01J-21/16 C07C-241/00 C07C-251/20 B01J-20/10 C07C-20060101S <main>C07C-119/12</main> B01J-21/02 B01J-27/18 C07C-251/08 B01J-27/14 C07B-61/00 C07C-67/00 C07C-251/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of schiff bases by reaction of aromatic amines with aliphatic ketones in the presence of catalysts.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+george joachim dr<sep>george, joachim, dr.<sep>george, joachim, dr.tannenweg 1d-5090 leverkusen 31de<sep>george, joachim, dr.<sep>george, joachim, dr.tannenweg 1d-5090 leverkusen 31de<sep>
+</INVENTOR>
+<ABSTRACT>
+Ship bases of general formula 1 in the R₁ a C₁-C₃ alkyl radical, R₂ is a C₂-C₃ alkyl group or R₁ and R₂ together with cyclic C₅-C₇-alkyring and R₃ represents a remainder of the formulas, where X is aC₁-C₃ alkyl radical, M 0 to 3, Y is hydrogen or phenyl Z a C₁-C₃ alkyl radical and / or amino and N 0 to 3 are prepared by reacting an amine H₂-N-R₃ with a ketone in the presence ofCalcium hydrogen phosphate, apatite, alumi nium oxide, aluminum hydroxide and / or bleaching earth.Subsequently, the formed water is removed by azeotropic distillation in a known manner.The ship's base sites are intermediates for the production of phenylenediamines which can be used as aging protective agent for rubber.
+</ABSTRACT>
+</TEXT>
+</DOC>

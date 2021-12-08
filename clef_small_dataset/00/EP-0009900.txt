@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009900
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03H-9/56</main> H03H-9/54 H03H-9/00 H01L-41/00 H03H-9/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a monolithic crystal filter having a passband symmetrical about a center frequency.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+kamin jr ralph alfred<sep>loving jr robert olin<sep>kamin, jr., ralph alfred<sep>loving, jr., robert olin<sep>kamin, jr., ralph alfred212 harmony laneelk grove illinois 60007us<sep>loving, jr., robert olin408 audubon roadstreamwood illinois 60103us<sep>kamin, jr., ralph alfred <sep>loving, jr., robert olin  <sep>kamin, jr., ralph alfred212 harmony laneelk grove illinois 60007us<sep>loving, jr., robert olin408 audubon roadstreamwood illinois 60103us<sep>
+</INVENTOR>
+<ABSTRACT>
+a monolithic crystal filter (100) includes a monolithic  crystal filter element (101), a capacitive network (102) con­ nected in series with the monolithic crystal filter element (101)  and a bridging capacitor (103) connected across the mono­ lithic crystal element (101) and the capacitive network.  the  monolithic crystal filter (100) provides a passband that is  symmetrically located about the passband center frequency.   the monolithic crystal filter element (101) has two pairs of  electrodes that resonate at substantially the same frequency.   the resonating frequencies of the electrode pairs are prefer­ ably below the passband center frequency.  the capacitive  circuit (102) raises the resonating frequency of one of the  electrode-pairs such that the geometric mean of the raised  and non-raised electrode-pair frequencies is substantially the  same as the passband center frequency.  the monolithic  crystal filter (100) can be cascaded with one or more similar  monolithic crystal filters or monolithic crystal filter elements  to obtain greater selectivity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001692
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+B30B-15/28 B21J-13/00 <main>B21D-55/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+self-adjusting device for a press.
+</TITLE>
+<APPLICANT>
+delta materials research ltdgb<sep>delta materials research limited<sep>delta materials research limitedp.o. box 22 hadleigh roadipswich suffolk ip2 0eggb<sep>delta materials research limited <sep>
+</APPLICANT>
+<INVENTOR>
+robinson william derek<sep>robinson, william derek<sep>robinson, william derekwishing well elmsettipswich, ip7 6pa suffolkgb<sep>robinson, william derek <sep>robinson, william derekwishing well elmsettipswich, ip7 6pa suffolkgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a mechanical press has a self-adjusting device (28) for  automatically setting the position of the mould (20) in the  correct position with respect to the stroke of the press ram  (14).  the device is located between a fixed platen (12) and a  mould carrier (18) and comprises a cylinder (32) having at one  end a stiffly resilient plug (38) which normally covers a valve  port (42) in the cylinder (32); a volume of liquid (40) is located  between a piston (34) in the cylinder (32) and the plug (38).  if  the mould (20) is incorrectly set for the ram stroke (14), the  pressure generated in the liquid so compresses the plug (38)  to expose the port for release of sufficient liquid to re-position  the mould (20).  
+</ABSTRACT>
+</TEXT>
+</DOC>

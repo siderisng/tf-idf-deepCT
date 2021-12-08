@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008771
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-27/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for controlling the exposure time of photographic enlargers.
+</TITLE>
+<APPLICANT>
+durst agit<sep>durst ag fabrik fototechnischer apparate<sep>durst ag fabrik fototechnischer apparategerbergasse 58i-39100 bozenit<sep>
+</APPLICANT>
+<INVENTOR>
+vinatzer alexit<sep>vinatzer, alex<sep>vinatzer, alexangerweg 19i-39042 brixenit<sep>
+</INVENTOR>
+<ABSTRACT>
+In a circuit arrangement for controlling the exposure time for photographic magnification devices with variable magnification factor with a device for light quantity determination, a light-electric converter (10) is arranged at a fixed distance to a template plane of the enlargement device.A signal generator (20) generating a signal entitled to the variable magnification factor is set with the device for the light mark gene determination in such an effective basis in such a way that when changing the magnifying scale, a change in the exposure time is effected.The scarf device assembly may contain means (12, 17, 18) for taking into account the black sign effect.The circuit arrangement is suitable for controlling the exposure time in black and white and color copying methods.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002673
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01D-34/17 C08F-10/00 A01D-34/02 B01J-37/12 <main>C08F-4/24</main> C08F-4/00 B01J-23/16 B01J-37/00 C08F-4/06 C08F-4/24 C08F-4/60 C08F-4/02 B01J-23/26 C08F-4/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for activating a catalyst, catalyst and use of same for polymerisation of monoolefins.
+</TITLE>
+<APPLICANT>
+phillips petroleum cous<sep>phillips petroleum company<sep>phillips petroleum company5th and keelerbartlesville oklahoma 74004us<sep>phillips petroleum company  <sep>
+</APPLICANT>
+<INVENTOR>
+mcdaniel max paul<sep>welch melvin bruce<sep>mcdaniel, max paul<sep>welch, melvin bruce<sep>mcdaniel, max paul1601 se melmart drivebartlesville oklahomaus<sep>welch, melvin bruce4716 barlow drivebartlesville oklahomaus<sep>mcdaniel, max paul<sep>welch, melvin bruce<sep>mcdaniel, max paul1601 se melmart drivebartlesville oklahomaus<sep>welch, melvin bruce4716 barlow drivebartlesville oklahomaus<sep>
+</INVENTOR>
+<ABSTRACT>
+high melt flow olefin polymers suitable for such  applications as injection molding, and the like requiring  a narrow molecular weight distribution are produced  using a catalyst made by reducing and reoxidizing a chromium  catalyst on either a titaniumsilica cogel or a self-reduced  silica-containing composition.  in the first embodiment,  a cogel formed by coprecipitating silica and titania,  and containing a chromium compound, is treated in a  non-oxidizing atmosphere, such as co, hydrogen, n₂ or  a material decomposable to these materials, and thereafter  reoxidized.  in the second embodiment, a titanium-free  chromium-containing catalyst is first heated in air or  the like to dry the catalyst and oxidize the chromium  after which it is heated in an inert atmosphere wherein the  composition is self-reduced to give chromium in a lower  valence state.  the resulting selfreduced composition is  then heated in a reducing ambient and then reoxidized as  in the first embodiment.  
+</ABSTRACT>
+</TEXT>
+</DOC>

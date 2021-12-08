@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002963
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-33/50</main> G01N-21/64 C07G-7/00 G01N-33/544 G01N-33/545 A61K-39/00 G01N-33/58 G01N-33/533 G01N-21/76 A61K-38/00 G01N-33/543 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+aqueous stabilized fluorescent labels, proteins labelled therewith and methods of use.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company  <sep>
+</APPLICANT>
+<INVENTOR>
+frank david stanley<sep>sundberg michael william<sep>frank, david stanley<sep>sundberg, michael william<sep>frank, david stanley127 harrington driverochester new yorkus<sep>sundberg, michael william77 highledge drivepenfield new yorkus<sep>frank, david stanley<sep>sundberg, michael william<sep>frank, david stanley127 harrington driverochester new yorkus<sep>sundberg, michael william77 highledge drivepenfield new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+quenching of fluoresence in water of fluorescent  rare earth chelates is avoided by incorporating them into  the hydrophobic phase of a loadable polymeric latex.  the  aqueous stabilized fluorescent labels so formed may be  used to label proteins, antigens, antibodies or enzymes  which may be used in immunoassay analytical processes.   the fluorescent labelled antigens and antibodies are particularly  suited to temporal resolution fluoresence measurement  techniques.  
+</ABSTRACT>
+</TEXT>
+</DOC>

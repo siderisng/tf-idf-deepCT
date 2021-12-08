@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010107
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-59/16 A01N-55/00 A01N-47/36 A01N-47/28 <main>A01N-43/36</main> C09D-5/16 C07F-7/22 C07D-207/00 A01N-55/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+repellent against aquatic organisms.
+</TITLE>
+<APPLICANT>
+ihara chemical ind cojp <sep>ihara chemical industry co., ltd. <sep>ihara chemical industry co., ltd.4-26, ikenohata 1-chometaitoh-ku, tokyo 110jp<sep>ihara chemical industry co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+mori kogoro<sep>ohi hideo<sep>yazawa chihiro<sep>mori, kogoro<sep>ohi, hideo<sep>yazawa, chihiro<sep>mori, kogoro313, kusanagishimizu-shi shizuoka, 424jp<sep>ohi, hideo6-31, ohiwa 1-chome, shizuoka-shishizuoka, 420jp<sep>yazawa, chihiro11-12-306, shinohara kita 2-chomekohhoku-ku, yokohama-shi kanagawa, 222jp<sep>mori, kogoro <sep>ohi, hideo<sep>yazawa, chihiro  <sep>mori, kogoro 313, kusanagishimizu-shi shizuoka, 424jp<sep>ohi, hideo6-31, ohiwa 1-chome, shizuoka-shishizuoka, 420jp<sep>yazawa, chihiro11-12-306, shinohara kita 2-chomekohhoku-ku, yokohama-shi kanagawa, 222jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a repellent against aquatic organisms, characterized by  comprising as effective ingredients at least one compound of  n-arylmaleimide represented by the general formula:    wherein: x₁ and x₂ are the same or different, and denote  hydrogen and halogen atoms, respectively; y is a halogen  atom, alkyl group or lower alkoxy group; and n is 0 or an  interger from 1 to 3; and at least one compound selected from  a group of organotin compounds comprising bis (tri-n-butyl  tin) mesodibromosuccinate, tripenyl tin monochloroacetate,  triphenyl tin hydroxide and bis (tri-n-butyl tin) oxide.  
+</ABSTRACT>
+</TEXT>
+</DOC>

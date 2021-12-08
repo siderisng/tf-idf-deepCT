@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001251
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07D-307/00 C07D-307/52 C07B-43/00 C07B-31/00 C07C-275/00 C07C-275/28 C07C-275/30 C07C-67/00 C07C-273/00 C07C-273/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing substituted ureas.
+</TITLE>
+<APPLICANT>
+sueddeutsche kalkstickstoffde  <sep>skw trostberg aktiengesellschaft<sep>skw trostberg aktiengesellschaftdr.-albert-frank-strasse 32d-83308 trostbergde<sep>
+</APPLICANT>
+<INVENTOR>
+hintermaier helmut drde<sep>michaud horst drde<sep>obinger matthiasde<sep>hintermaier, helmut, dr.<sep>michaud, horst, dr.<sep>obinger, matthias<sep>hintermaier, helmut, dr.mühlbachweg 20d-8223 trostbergde<sep>michaud, horst, dr.sonnenleite 11d-8223 trostbergde<sep>obinger, matthiasludwig-thoma-strasse 6d-8223 trostbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+process for preparing urea derivatives of the general formula <image> in which r1, r2 and r3 denote identical or different lower alkyl groups which can optionally be substituted by other radicals such as ether or aryl groups, a heterocyclic radical or chlorine, r1 and r3 in each case represent an alkyl group and r2 represents hydrogen or r1 and r2 are alkyl groups which can optionally be replaced by hydrogen when r3 is an aryl group which is optionally substituted by a hydroxyl, chlorine, methoxy or alkyl group, from carbonyl sulphide and amines. 
+</ABSTRACT>
+</TEXT>
+</DOC>

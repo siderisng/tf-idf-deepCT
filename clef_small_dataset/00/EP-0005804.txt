@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005804
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-323/41 C07C-149/26 C07C-149/437 G03C-1/09 <main>G03C-1/06</main> C07D-333/00 C07D-333/06 C07C-323/44 C07C-311/55 C07C-311/00 C07C-67/00 G03C-1/005 G03C-1/10 C07D-333/18 C07C-313/00 G03C-1/035 C07C-323/42 C07C-323/00 C07C-323/25 C07C-149/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic materials, process for their preparation as well as the production of photographic images and thioethers.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+bergthaller peter dr<sep>lapp otto dr<sep>mucke bruno dr<sep>saleck wilhelm dr<sep>bergthaller, peter, dr.<sep>lapp, otto, dr.<sep>mucke, bruno, dr.<sep>saleck, wilhelm, dr.<sep>bergthaller, peter, dr.morgengraben 1d-5000 köln 80de<sep>lapp, otto, dr.heymannstrasse 28d-5090 leverkusen 1de<sep>mücke, bruno, dr.wipperfürther strasse 105d-5060 bergisch-gladbachde<sep>saleck, wilhelm, dr.im birkelshof 3d-5060 berg.-gladbachde<sep>bergthaller, peter, dr.<sep>lapp, otto, dr.<sep>mucke, bruno, dr.<sep>saleck, wilhelm, dr.<sep>bergthaller, peter, dr.morgengraben 1d-5000 köln 80de<sep>lapp, otto, dr.heymannstrasse 28d-5090 leverkusen 1de<sep>mücke, bruno, dr.wipperfürther strasse 105d-5060 bergisch-gladbachde<sep>saleck, wilhelm, dr.im birkelshof 3d-5060 berg.-gladbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+Thioether of the formula in the AC means an acyl group, were found.These thioethers improve the properties of photographic materials with at least one photosensitive silver halide emulsion layer.
+</ABSTRACT>
+</TEXT>
+</DOC>

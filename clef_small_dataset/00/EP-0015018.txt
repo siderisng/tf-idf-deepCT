@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015018
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01Q-15/04</main> H01Q-15/02 H01Q-25/00 H01Q-15/08 H01Q-3/24 H01Q-19/00 H01Q-19/06 H01Q-15/00 H01Q-3/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a lens antenna arrangement.
+</TITLE>
+<APPLICANT>
+philips nvse<sep>philips svenska abse<sep>n.v. philips' gloeilampenfabrieken<sep>svenska philipsforetagen ab<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips norden abtegeluddsvägen 1115 84 stockholmse<sep>n.v. philips' gloeilampenfabrieken<sep>svenska philipsforetagen ab  <sep>
+</APPLICANT>
+<INVENTOR>
+cassel knut erland<sep>cassel, knut erland<sep>cassel, knut erlandc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>cassel, knut erland<sep>cassel, knut erlandc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+an antenna, preferably in the microwave range, comprising  a luneberg lens with a disc (10) having radially varying  refraction index and provided with feeders (18 to 22) distributed  around the circumference.  each feeder has the shape of  a thin wire the projection of which, as seen radially relative to  the centrum of the round disc, forms a straight line inclined  45° against the plane of the disc.  all feeders are inclined in the  same direction in its respective radial plane, whereby the  feeders (e. g.  22) opposite a regarded feeder (e. g.  18) will be  oriented substantially perpendicular to the regarded feeder.   hereby they will permit passage of radiation to and from the  regarded feeder and all the feeders can be activated simultaneously.   each feeder can be connected to a control unit by a  coaxial cable (26) as indicated in the figure for the feeder (21).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012151
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10J-3/86 C02F-1/40 C10J-3/48 B01D-21/01 C10J-3/52 C10J-3/02 C10J-3/08 <main>C10J-3/46</main> C10J-3/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device for the removal of slag resulting from coal gasification.
+</TITLE>
+<APPLICANT>
+ruhrchemie agde<sep>ruhrkohle agde<sep>ruhrchemie aktiengesellschaft<sep>ruhrkohle aktiengesellschaft<sep>ruhrchemie aktiengesellschaftbruchstrasse 219d-4200 oberhausen 13de<sep>ruhrkohle aktiengesellschaftrellinghauser strasse 1d-45128 essende<sep>ruhrchemie aktiengesellschaft <sep>ruhrkohle aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+langhoff josef dr<sep>seipenbusch jurgen<sep>langhoff, josef, dr.<sep>seipenbusch, jurgen<sep>langhoff, josef, dr.kleinbergerhof 10d-4220 dinslakende<sep>seipenbusch, jürgenfalterweg 17d-4300 essen 14de<sep>langhoff, josef, dr.  <sep>seipenbusch, jurgen<sep>langhoff, josef, dr.kleinbergerhof 10d-4220 dinslakende<sep>seipenbusch, jürgenfalterweg 17d-4300 essen 14de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and a Vorrich device for eliminating the accumulating in a reactor or a downstream waste heat boiler in the gasification of coal and in a water bath collect the slag.According to the invention, they collect the slag particles by the addition of additives, in particular heavy heating oil on the water bath agglomerated.As a result, the buoyant particles are moved from the falling slag particles.
+</ABSTRACT>
+</TEXT>
+</DOC>

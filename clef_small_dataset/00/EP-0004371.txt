@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004371
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01G-25/00 A01G-25/16 A01G-25/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+overwatering prevention control system.
+</TITLE>
+<APPLICANT>
+eaton corpus<sep>eaton corporation<sep>eaton corporation100 erieview plazacleveland ohio 44114us<sep>
+</APPLICANT>
+<INVENTOR>
+hamilton martin wayneus<sep>hamilton, martin wayne<sep>hamilton, martin wayne24 w. berkley dr.arlington hts. illinoisus<sep>
+</INVENTOR>
+<ABSTRACT>
+a control system is provided for remotely controlling a  mobile irrigation system having a traveling sprinkler.  a  pressure switch (34) located on the traveling sprinkler senses  a predetermined water pressure build-up and energizes  the control system which includes timing circuitry (38) for  initially maintaining the sprinkler in a stationary irrigating  position.  after the passage of a predetermined time interval,  the system engages the traveling sprinkler drive mechanism  to permit movement thereof.  movement of the traveling  sprinkler is thereafter monitored by a magnetic pick-up  type wheel sensor (30) which sends a signal to the system  timing circuitry (38) indicating that the traveling sprinkler  is moving at a minimum required rate of speed.  the timing  circuitry (38) is also effective for detecting stalling of the  traveling sprinkler within a certain time interval due to  various causes, whereupon sprinkling is automatically  shut down to prevent overwatering.  automatic pump shut  down is achieved by transmitting (54) a coded signal from  the traveling sprinkler which is received by a remotely located  receiver near the water pump.  the coded signal is compared  with a reference signal to insure that extraneous  signals do not shut down the pump.  
+</ABSTRACT>
+</TEXT>
+</DOC>

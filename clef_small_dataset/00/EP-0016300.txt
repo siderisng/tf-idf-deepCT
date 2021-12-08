@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016300
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-21/10 G03G-21/00 G03G-15/02 <main>G03G-21/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrostatic copier.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+stack james bryan<sep>stack, james bryan<sep>stack, james bryan4640 kirkwood streetboulder, colorado 80301us<sep>stack, james bryan<sep>stack, james bryan4640 kirkwood streetboulder, colorado 80301us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrostatic copier has a moving photosensitive  drum 10 on which electrostatic images are formed and  developed by means of toner powder.  the drum is electrostat­ ically charged by a charge corona having emission wires 60  and 61 and a housing including a leading edge 42 and a  trailing edge 43.  the drum 10 carries a boundary layer of air in  which unwanted loose toner particles are entrained.  the  entrained toner particles contaminate the machine and par­ ticularly the charge corona if the boundary layer of air is  disturbed.  the corona housing is spaced from the drum 10  beyond the boundary layer of air and the trailing edge 43  presents a convex curved face to the boundary layer of air.  as  a result vortex formation and disturbance of the boundary  layer of air by the corona housing is avoided.  
+</ABSTRACT>
+</TEXT>
+</DOC>

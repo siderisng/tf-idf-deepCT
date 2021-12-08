@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000818
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01L-7/00 B60C-23/02 B60C-23/04 G01L-7/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tyre pressure monitoring system.
+</TITLE>
+<APPLICANT>
+gaertner oswald peter<sep>gaertner, oswald peter<sep>gaertner, oswald peter43 cambridge road mooroolbarkvictoria 3138au<sep>
+</APPLICANT>
+<INVENTOR>
+gaertner oswald peter<sep>gaertner, oswald peter<sep>gaertner, oswald peter43 cambridge road mooroolbarkvictoria 3138au<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a tyre pressure monitoring system  for vehicles having pneumatic or hydraulic tyres.  the  system includes an enclosed magnet (18) pivotally mounted  on the wheel of the vehicle and connected to the tyre so as to  pivot, about an axis (19) located mid-way between the poles of  the magnet, in response to changes in tyre pressure.  a pick-up  coil (21) is mounted on the vehicle body in a position wherein  the magnet passes the coil during each rotation of the wheel  so as to induce an electrical signal in the coil.  the electrical  signal varies according to the angular position of the magnet  relative to the coil during each pass.  an electronic circuit in the  vehicle cabin is connected to the coil and analyses the signal  to determine when the magnet is in a predetermined angular  position indicating that the pressure, is above or below a  predetermined limit.  the electronic circuit initiates a visual  and or audible alarm.  a system using a micro-processor to  provide a display of the actual tyre pressure is also mentioned.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009129
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/00 G05D-23/24 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the temperature-controlled heating of probes.
+</TITLE>
+<APPLICANT>
+siemens agde <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaft wittelsbacherplatz 2 80333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+biller maxde<sep>reichenberger helmut dr dipl-pde<sep>zachmann wilfriedde<sep>biller, max<sep>reichenberger, helmut, dr. dipl.-phys.<sep>zachmann, wilfried<sep>biller, maxhindenburgstrasse 49d-8520 erlangende<sep>reichenberger, helmut, dr. dipl.-phys.irisstrasse 8d-8501 brand/eckentalde<sep>zachmann, wilfriednöttinger strasse 41d-7537 remchingende<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a device for the temperature-controlled heating of probes, especially of measured value receivers for transcutaneous oxygen determination, consisting of a probe, e. g.  a receiver with measurement electrodes or the like, as well as an associated operating unit.  probes which are heated, for the measurement, to a temperature higher than the ambient temperature in general require not only the heating device but also separate temperature sensors with which a regulating quantity for the supply circuit in the operating unit (25) is generated.  according to the invention, a measured value receiver (1) includes as probe a resistance path (23) with a defined, temperature-dependent electrical resistance (36), which at the same time fulfils the function of a heating and of a temperature sensor, in the operating unit (25) the value (r theta ) of the temperature-dependent resistance (36) of the resistance path (23) is compared with the value (rs) of a predeterminable resistance (37) and the operating unit (25) gives a variable heating current, with which the temperature of the resistance path (23) and thus the value (r theta ) of the temperature-dependent resistance (36) is matched to the predetermined target value (rs).  accordingly, a heating and regulation in the body temperature range by means of a direct current measurement bridge is possible.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

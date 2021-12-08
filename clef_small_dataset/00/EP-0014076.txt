@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014076
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/86 A61K-31/4166 <main>C07D-233/78</main> C07D-233/78 C07D-309/12 C07D-309/00 A61K-31/4164 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydantoin derivatives, their preparation and pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb<sep>beecham group limited<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+wootton gordon<sep>wootton, gordon<sep>wootton, gordon51 park waysawbridgeworth hertsgb<sep>wootton, gordon<sep>wootton, gordon51 park waysawbridgeworth hertsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of formula (i), or salts thereof:    wherein:   x is oxygen or sulphur, or = c=x represents    y is -ch₂-ch₂- or -ch=ch-;   n is 1 to 5;   r₁ is hydrogen or c₁₋₆alkyl;   r₂ is hydrogen or c₁₋₄alkyl; and   r₃ is c₄₋₉alkyl, c₅₋₈cycloalkyl, or c₅₋₈ cycloalkyl -c₁₋₆alkyl;  or   r₂ and r₃ taken with the carbon atom to which they are  joined represent a c₅₋₈cycloalkyl group, having useful  pharmacological activity, pharmaceutical compositions  in containing them and a process for their preparation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

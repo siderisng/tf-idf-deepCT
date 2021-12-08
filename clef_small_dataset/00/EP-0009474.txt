@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009474
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-1/02 F02M-59/44 F02B-3/00 F02M-59/00 <main>F02M-59/20</main> F02B-3/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device permitting to increase the fuel supply during the starting of diesel engines.
+</TITLE>
+<APPLICANT>
+friedmann & maier ag at <sep>friedmann & maier aktiengesellschaft<sep>friedmann &amp; maier aktiengesellschaftfriedmannstrasse 7a-5400 hallein bei salzburgat<sep>friedmann & maier aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+pischinger anton dipl-ing dr<sep>rathmayr heinz ing<sep>pischinger, anton, dipl.-ing. dr.<sep>rathmayr, heinz, ing.<sep>pischinger, anton, dipl.-ing. dr.amschlgasse 29a-8010 grazat<sep>rathmayr, heinz, ing.schwarzstrasse 8a-5400 halleinat<sep>pischinger, anton, dipl.-ing. dr.  <sep>rathmayr, heinz, ing.<sep>pischinger, anton, dipl.-ing. dr.amschlgasse 29a-8010 grazat<sep>rathmayr, heinz, ing.schwarzstrasse 8a-5400 halleinat<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  device permitting to increase the fuel supply during the starting of diesel engines, wherein a stop (1) limiting the quantity of fuel supplied defines in its operating position the path of the control rod during operation of the diesel engine in dependence on influencing variables and is shifted at the start of the engine, and wherein a stop limiting the maximum path of the control rod at the start of the engine is provided, which stop is controlled by a temperature sensing means influenced by a temperature occurring within the engine, e. g.  the temperature of the cooling water, the oil temperature or the temperature of the cylinder head, or the ambient temperature, characterized in that the stop (1) limiting the quantity of fuel supplied can be displaced at the start of the engine beyond its operating position and is supported in the operating position against a locked lever system (2, 5) which can be unlocked at the start of the engine, the lever system (2, 5) being shiftable and the adjustment path of the lever system (2, 5) being limited at the start of the engine by a stop (16) controlled by a temperature sensing means (15). 
+</ABSTRACT>
+</TEXT>
+</DOC>

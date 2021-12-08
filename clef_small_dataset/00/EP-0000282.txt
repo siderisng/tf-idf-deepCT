@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000282
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/028 G02B-6/02 C03C-3/089 C03C-13/04 <main>C03C-3/089</main> C03C-3/076 G02B-6/18 C03C-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to optical fibres and glasses.
+</TITLE>
+<APPLICANT>
+post officegb   <sep>the post office<sep>the post office23 howland streetlondon w1p 6hqgb<sep>the post office<sep>the post office<sep>
+</APPLICANT>
+<INVENTOR>
+beales keith john<sep>duncan william james<sep>dunn anthony gladwyn<sep>newns george reginald<sep>beales, keith john<sep>duncan, william james<sep>dunn, anthony gladwyn<sep>newns, george reginald<sep>beales, keith john40 church lane henleyipswich suffolkgb<sep>duncan, william james34 birchwood drive rushmere st andrewipswich suffolkgb<sep>dunn, anthony gladwyn22 orchard close meltonwoodbridge suffolkgb<sep>newns, george reginaldwayside house hintleshamsuffolkgb<sep>beales, keith john<sep>duncan, william james<sep>dunn, anthony gladwyn<sep>newns, george reginald<sep>beales, keith john<sep>duncan, william james <sep>dunn, anthony gladwyn<sep>newns, george reginald  <sep>beales, keith john 40 church lane henleyipswich suffolkgb<sep>duncan, william james34 birchwood drive rushmere st andrewipswich suffolkgb<sep>dunn, anthony gladwyn22 orchard close meltonwoodbridge suffolkgb<sep>newns, george reginaldwayside house hintleshamsuffolkgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a range of alkali metal borosilicate glass compositions  modified by the addition of alkaline earth metal oxides has  been found to be especially suitable for the production of  graded index optical fibre by thermal diffusion using the  double crucible method.  the composition of the glass may  be calculated by taking a sodium borosilicate composition in  region a of figure 1 of the drawings and replacing sodium  oxide or sodium oxide and silica by alkaline earth metal  oxide.  a core glass chosen from this range may be paired with  a suitable cladding glass so that, in the nozzle of the double  crucible, alkaline earth metal ion exchange occurs to give a  composition gradient of alkaline earth metal oxide and hence  a gradation of refractive index.  using these glasses, fibres  have been produced having refractive index profiles that  approximate closely to the ideal parabolic distribution, numerical  apertures of up to 0. 21, and best loss values as low as  6. 4db/km at 850nm.  
+</ABSTRACT>
+</TEXT>
+</DOC>

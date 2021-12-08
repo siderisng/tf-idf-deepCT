@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009452
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-3/64 G01P-3/68 G01P-3/80 <main>G01P-3/68</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for measuring the velocity of a moving product by means of the correlation technique.
+</TITLE>
+<APPLICANT>
+siderurgie fse inst rechfr<sep>institut de recherches de la siderurgie francaise (irsid)  <sep>institut de recherches de la siderurgie francaise (irsid) france185, rue président rooseveltf-78105 saint-germain-en-layefr<sep>institut de recherches de la siderurgie francaise (irsid) france<sep>
+</APPLICANT>
+<INVENTOR>
+petit pierre<sep>verjux pierre<sep>petit, pierre<sep>verjux, pierre<sep>petit, pierre6, chemin des pavillonssemécourt f-57210 maizieres-les-metzfr<sep>verjux, pierre5, rue jacqueminsemécourt f-57210 maizieres-les-metzfr<sep>petit, pierre<sep>verjux, pierre <sep>petit, pierre 6, chemin des pavillons semécourt f-57210 maizieres-les-metzfr<sep>verjux, pierre5, rue jacqueminsemécourt f-57210 maizieres-les-metzfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a system for measuring the speed of a product in motion, including : - two detection elements (1, 2) opposite the product and spatially offset in the direction of motion, the said detection elements outputting, two random offset timeshifted signals, and linked with the product in motion, - two shaping networks (4), reach receiving one of the random signals, - a correlator (13), connected to the outputs of said elements (4), comprising, successively : - a shift register (8), receiving the output signal from one of the said elements (4), this register having two sampling outputs at two non-consecutive stages, - a multiplier stage (10), that multiplies each signal incoming from the first and second outputs of the shift register (8) together with the output signal from the other said element (4), - a differential amplifier (1), receiving the two products resulting from the multiplier stage (10), - an integrator (18), connected to the output of the differential amplifier (11), - speed measuring means (16), separate from the correlator, giving the approximate speed of the product, - a servo-loop that controls the shift-register (8) delay with the correlator output signal comprising : - a summator meter (14), one input of which is connected to integrator output (18), and another one to the output of the said sped-measuring means (16), - a voltage-period converter (9), the input of which is connected to the summation-meter output (14) and the output of which, in turn, is connected to the shift register (8), - a speed indicator (15), showing the speed of the product, and connected to the said converter (9), characterized by : - a system that slaves the servo-loop gain (9, 14) to the speed of the product (3), the said system including a multiplier (17) an input of which is connected to the integrator output (18) and the other input to the output of the speed-measuring means (16) and the multiplier output to the summation meter (14). 
+</ABSTRACT>
+</TEXT>
+</DOC>

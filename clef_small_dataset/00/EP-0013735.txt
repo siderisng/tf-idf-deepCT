@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013735
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B60C-15/04</main> D07B-1/00 D07B-1/18 B60C-15/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+package bead ring for a tire mounted on a rim with conical bead seats.
+</TITLE>
+<APPLICANT>
+kuhlmann otto gmbh co kgde<sep>otto kuhlmann gmbh. & co. kg<sep>otto kuhlmann gmbh. &amp; co. kglohstrasse 26d-5870 hemer-westigde<sep>otto kuhlmann gmbh. & co. kg<sep>
+</APPLICANT>
+<INVENTOR>
+pfeiffer herbert<sep>pfeiffer, herbert<sep>pfeiffer, herbertwittekindstrasse 5d-5870 hemerde<sep>pfeiffer, herbert  <sep>pfeiffer, herbertwittekindstrasse 5d-5870 hemerde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a packet core for the bead of a car tire, the wires (A, B, C) of each wire layer (8) of the package core (4) has trapezoidal cross-section.Between the wires (A, B, C) of the overlying next wire layer (8) are each wedge-shaped spacers (9) in front.As a result, it is achieved that the wires (A, B, C) of each wire layer (8) support on the edges of the wires of the wire layer underlying, so that they can not push against each other during the production of the tire.
+</ABSTRACT>
+</TEXT>
+</DOC>

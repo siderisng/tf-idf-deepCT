@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006665
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10G-73/00 C07C-7/00 C10G-25/00 C07C-7/13 <main>C10G-25/03</main> C10G-25/03 C10G-73/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separation of straight paraffins from a mixture.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v. <sep>
+</APPLICANT>
+<INVENTOR>
+florack petrus maria<sep>florack, petrus maria<sep>florack, petrus mariacarel van bylandtlaan 30nl-2596 hr the haguenl<sep>florack, petrus maria <sep>florack, petrus mariacarel van bylandtlaan 30nl-2596 hr the haguenl<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the separation of straight paraffins from  a mixture mainly consisting of straight and branched  paraffins (the feed), in which process consecutively   in step a) the feed (1) is passed downwardly through a  molecular sieve bed which contains substan­ tially no straight paraffins and the voids of  which bed contain branched paraffins, until  a desired quantity of straight paraffins has been  adsorbed on the molecular sieve,   in step b) a mixture of straight paraffins and hydrogen  (3) is passed downwardly through the molecular  sieve bed until substantially all the branched  paraffins have been expelled therefrom,   in step c) hydrogen (6) is passed upwardly through the  molecular sieve bed until most of the straight  paraffins have been desorbed and removed with  the gas stream (7), and   in step d) branched paraffins (9) are passed upwardly  through the molecular sieve bed until substan­ tially all the hydrogen has been expelled there­ from.  
+</ABSTRACT>
+</TEXT>
+</DOC>

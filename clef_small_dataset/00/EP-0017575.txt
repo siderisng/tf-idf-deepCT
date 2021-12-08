@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017575
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-77/10</main> H01H-81/00 H01H-73/00 H01H-73/36 H01H-51/00 H01H-3/22 H01H-81/04 H01H-89/06 H01H-3/00 H01H-89/08 H01H-51/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+contactor with rapid opening in the event of a fault.
+</TITLE>
+<APPLICANT>
+merlin gerinfr<sep>merlin gerin<sep>merlin gerinrue henri tarzef-38050 grenoble cédexfr<sep>merlin gerin<sep>merlin gerin<sep>
+</APPLICANT>
+<INVENTOR>
+bresson raymond<sep>ducluzaux andre<sep>bresson, raymond<sep>ducluzaux, andre<sep>bresson, raymond40, rue anatole francef-38100 grenoblefr<sep>ducluzaux, andré28, cours de la libérationf-38100 grenoblefr<sep>bresson, raymond<sep>ducluzaux, andre<sep>bresson, raymond  <sep>ducluzaux, andre <sep>bresson, raymond40, rue anatole francef-38100 grenoblefr<sep>ducluzaux, andré28, cours de la libérationf-38100 grenoblefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Thomson trigger (58) is associated with the contactor (10) for rapidly moving the contacts (18, 20, 22) into the opening position against the electromagnetic force of contacts.The contactor can be applied to the motor protection.
+</ABSTRACT>
+</TEXT>
+</DOC>

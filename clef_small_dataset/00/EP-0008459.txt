@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008459
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-31/00 <main>C07C-45/50</main> C07C-47/225 C07C-45/50 C07B-61/00 C07C-67/00 C07C-47/20 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of 3-(4-methyl-3-cyclohexene-1-yl)-butyraldehyde.
+</TITLE>
+<APPLICANT>
+ruhrchemie agde   <sep>ruhrchemie aktiengesellschaft<sep>ruhrchemie aktiengesellschaftbruchstrasse 219d-4200 oberhausen 13de<sep>ruhrchemie aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bahrmann helmut dr dipl-chem<sep>cornils boy dr dipl-chem<sep>frohning carl dieter dr dipl-c<sep>weber jurgen dr dipl-chem<sep>bahrmann, helmut, dr. dipl.-chem.<sep>cornils, boy, dr. dipl.-chem.<sep>frohning, carl dieter, dr. dipl.-chem<sep>weber, jurgen, dr. dipl.-chem.<sep>bahrmann, helmut, dr. dipl.-chem.im freihof 564224 hünxede<sep>cornils, boy, dr. dipl.-chem.friedrich-ebert-strasse 455220 dinslakende<sep>frohning, carl dieter, dr. dipl.-chemelsenbruch 14200 oberhausen 13de<sep>weber, jürgen, dr. dipl.-chem.bunsenstrasse 174200 oberhausen 13de<sep>bahrmann, helmut, dr. dipl.-chem. <sep>cornils, boy, dr. dipl.-chem.<sep>frohning, carl dieter, dr. dipl.-chem  <sep>weber, jurgen, dr. dipl.-chem. <sep>bahrmann, helmut, dr. dipl.-chem.im freihof 564224 hünxede<sep>cornils, boy, dr. dipl.-chem.friedrich-ebert-strasse 455220 dinslakende<sep>frohning, carl dieter, dr. dipl.-chemelsenbruch 14200 oberhausen 13de<sep>weber, jürgen, dr. dipl.-chem.bunsenstrasse 174200 oberhausen 13de<sep>
+</INVENTOR>
+<ABSTRACT>
+The known as a known component of perfume compositions 2- (4-methyl-3-cyclohexene-1-yl) - butyraldehyde of the formula is by hydroformylation of limonene of the formula at 100 - 350 bar and 110 - 160 ° C in the presence ofRhodium carbonyl complexes, which additionally contains a particular amount of tryphenyl or trialkylphosphine as ligands.
+</ABSTRACT>
+</TEXT>
+</DOC>

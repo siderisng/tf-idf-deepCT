@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011754
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03C-1/72</main> C07F-11/00 C07F-7/00 G03C-1/735 C07F-15/00 C07F-7/08 G03C-1/73 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic element having a te (ii) metal complex, te (ii) compounds and metal complexes thereof.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+gysling henry james<sep>gysling, henry james<sep>gysling, henry jameskodak parkrochester new yorkus<sep>gysling, henry james<sep>gysling, henry jameskodak parkrochester new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+photographic element containing a photosensitive metal  complex of a nonpolar, organic solvent-soluble tellurium  compound having the formula:   te[(ch₂)nsirr′r″]₂   wherein:   n is an integer from 1 to 10 and   r, r′ and r″ are alkyl, aryl or heterocyclic radicals.  transi­ tion metal complexes of these tellurium compounds can be  prepared from compounds of silver, copper, palladium, man­ ganese and cobalt.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014832
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01P-1/02</main> H01P-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+e-plane corner for a rectangular waveguide.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+schuegraf eberhard dipl-ing<sep>schuegraf, eberhard, dipl.-ing.<sep>schuegraf, eberhard, dipl.-ing.mauthäuslstrasse 15d-8000 münchen 70de<sep>schuegraf, eberhard, dipl.-ing. <sep>schuegraf, eberhard, dipl.-ing.mauthäuslstrasse 15d-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+via the waveguide surface-kinked rectangular wave gibber elbace (e-elbace) with a disengaged exposed by a conductive flattening plane (2) symmetrically sloped outlet, and with a ringing waveguard pages between the opposite-opposite hollow waveguide sides of the conductive cross bar (1), the middle region (3) optionally provided with a cross-sectional thickening.As a result, with little constructive wall in a relatively wide frequency band, a reduction in the reflection factor is ensured.
+</ABSTRACT>
+</TEXT>
+</DOC>

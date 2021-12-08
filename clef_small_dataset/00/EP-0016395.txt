@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016395
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-5/08 G01S-7/56 G01R-13/22 G01R-13/30 G01S-7/62 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mechanical/electrical controlling apparatus to shift an mechanical/electrical controlling apparatus to shift an object object
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+hoelzer georg dipl-ingde<sep>knoche jochem dipl-ingde<sep>hoelzer, georg, dipl.-ing.<sep>knoche, jochem, dipl.-ing. knoche, jochem, dipl.-ing.<sep>hölzer, georg, dipl.-ing.kellergasse 18d-8521 möhrendorfde<sep>knoche, jochem, dipl.-ing.hansengarten 19d-8500 nürnbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a mechanical / electric control device for moving an object, in particular markings on the screen of a picture tube, in a desired position, with at least one proportional transmitter deflected by hand from a rest position, the deflection signals corresponding to the deflection and with a position signal transmitter, The controlled by the deflection signals of the proportional generator position signals for displacing the article generates. The aim of the invention is to provide a control device in which the position setting on the proportional encoder without fatigue is feasible with particularly good accuracy and sensitivity. This object is achieved according to the invention in that between the proportional encoder (1 to 7) and position signal generators (24 to 31) a holding device (16 to 23) for holding in each case of the deflection signal of a deflection of the proportional generator (1 to7) is present, in the reversing point the deflection prior to stirring the proportional giver is in the rest position.
+</ABSTRACT>
+</TEXT>
+</DOC>

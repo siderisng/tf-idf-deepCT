@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003964
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+E03B-3/00 E03B-3/28 B01D-53/26 C01B-5/00 <main>E03B-3/28</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and installation for recovering water from the atmosphere.
+</TITLE>
+<APPLICANT>
+maschf augsburg nuernberg agde<sep>maschinenfabrik augsburg-nurnberg aktiengesellschaft<sep>m.a.n. maschinenfabrik augsburg-nürnberg aktiengesellschaftdachauer strasse 667 postfach 50 06 20d-8000 münchen 50de<sep>m.a.n. maschinenfabrik augsburg-nurnberg aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bulang wolfgang dr<sep>michel helmut dr<sep>bulang, wolfgang, dr.<sep>michel, helmut, dr.<sep>bulang, wolfgang, dr.lavendelweg 6d-8031 eichenaude<sep>michel, helmut, dr.gärtnerweg 21d-8047 karlsfeldde<sep>bulang, wolfgang, dr.  <sep>michel, helmut, dr.<sep>bulang, wolfgang, dr.lavendelweg 6d-8031 eichenaude<sep>michel, helmut, dr.gärtnerweg 21d-8047 karlsfeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+Method and plant for obtaining water from atmospheric air while utilizing a cheap heat source (4) such. b. The sun and using a water adsoring agent (5) such. b. Silica gel and a capacitor (7), wherein during a first phase, preferably at night, the water adsorbing means (5) water vapor from a first current (A1) cooler humid air absorbs and, during a second phase, preferably a day, a first in a closed second airflow (D) is heated by the heat source (4) and a portion of the captured heat to the water adsorbing means (5) releases to heat it, thereby a portion of the water adsorbed during the first phase in the second Air flow (D) merges. If the water adsoring agent (5) and the second air flow (D) have reached sufficiently high temperature and has the second air flow (D) saturated according to this temperature with water vapor, a partial stream (D2) is branched off from the second air flow (D) and guided through the capacitor (7) in which it cools and gives a portion of the water vapor contained by condensation. Thereafter, the partial stream (D2) is returned to the circulating residue (D1) of the second air flow (D) to be heated together with the residual current (D1) and passed through the water adsorbing agent (5).
+</ABSTRACT>
+</TEXT>
+</DOC>

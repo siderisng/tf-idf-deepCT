@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012657
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-1/28 H03D-7/14 H03C-1/00 H03C-1/54 <main>H03D-7/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+wideband passive ringmixer and receiver comprising such a mixer.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+boubouleix albert<sep>boubouleix, albert<sep>boubouleix, albert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>boubouleix, albert <sep>boubouleix, albert"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The mixer, used in very high frequency, com door, instead of the four conventional diodes, the transmitter-emitting spaces of transistors (7, 10, 11, 8) polarized with mass and powered on their bases by the oscil signalLocal (via 29) through a coupling system (21, 23) ensuring similar performance with those of the DIOs but with lower local oscillation power.Application to portable or portable receivers operating in metric or decimetric waves.
+</ABSTRACT>
+</TEXT>
+</DOC>

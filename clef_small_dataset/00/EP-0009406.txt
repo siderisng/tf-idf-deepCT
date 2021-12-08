@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009406
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-11/06 C25B-1/00 C25B-11/00 C25B-1/04 <main>C25B-11/06</main> H01M-4/88 C25B-11/04 C23C-18/12 H01M-4/90 C23C-18/00 C25B-11/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+metal electrodes for use in electrochemical cells and method of preparation thereof.
+</TITLE>
+<APPLICANT>
+british petroleum cogb<sep>the±british petroleum company limited<sep>the british petroleum company p.l.c.britannic house moor lanelondon ec2y 9bugb<sep>the british petroleum company p.l.c.<sep>
+</APPLICANT>
+<INVENTOR>
+brown david emmerson<sep>mahmood nouraldin mahmood<sep>brown, david emmerson<sep>mahmood, nouraldin mahmood<sep>brown, david emmersonbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>mahmood, nouraldin mahmoodbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>brown, david emmerson  <sep>mahmood, nouraldin mahmood<sep>brown, david emmersonbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>mahmood, nouraldin mahmoodbp research centre chertsey roadsunbury-on-thames middlesex, tw16 7lngb<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a method of producing metal  electrodes by treating a metal electrode substrate so as  to coat the substrate surface with a homogeneous solution  of the compounds of (i) at least one metal selected from  a first group of iron, cobalt, nickel and manganese (ii) at  least one other metal selected from a second group of  molybdenum, tungsten and vanadium, each of which com­ pound is capable of thermal decomposition to the corre­ sponding metal oxide.  the coated substrate is then ther­ mally decomposed and the oxide-coated substrate is cured  in a reducing atmosphere at elevated temperature.  sub­ strates coated with ni-mo oxides are preferred.  the elec­ trodes thus produced exhibit very low overvoltage, are of  high stability with respect to their activity and can be used  as cathodes for the electrolysis of water or brine.  
+</ABSTRACT>
+</TEXT>
+</DOC>

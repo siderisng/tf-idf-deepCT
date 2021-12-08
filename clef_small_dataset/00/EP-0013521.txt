@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013521
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+B61L-23/16 B61L-3/00 B61L-23/00 H04B-7/26 H04L-1/00 B61L-3/08 <main>B61L-3/24</main> B61L-3/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transmitting device for coded track circuits.
+</TITLE>
+<APPLICANT>
+signaux entr electriquesfr<sep>compagnie de signaux et d'entreprises electriques <sep>compagnie de signaux et d'entreprises electriques17, place etienne-pernetf-75738 paris cedex 15 fr  <sep>compagnie de signaux et d'entreprises electriques<sep>
+</APPLICANT>
+<INVENTOR>
+bilet claude<sep>guillard michel<sep>hedoin dominique<sep>bilet, claude<sep>guillard, michel<sep>hedoin, dominique<sep>bilet, claude60, rue du chemin vertf-92100 boulogne billancourtfr<sep>guillard, michel8, rue sévinf-94800 villejuiffr<sep>hedoin, dominique15, allée d'honneurf-92330 sceauxfr<sep>bilet, claude <sep>guillard, michel<sep>hedoin, dominique  <sep>bilet, claude60, rue du chemin vertf-92100 boulogne billancourtfr<sep>guillard, michel8, rue sévinf-94800 villejuiffr<sep>hedoin, dominique15, allée d'honneurf-92330 sceauxfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for coding track circuits and permitting the transmission of information a ciring vehicle on a railway channel divided into a success of cantons each equipped with a lane circuit, in which each of the carrier frequencies ofExcitation of the channel circuits is modulated in frequency by a certain name of modulation frequencies each representing information to be transmitted, characterized in that it consists in comparing the modulation frequency, obtained by demodulating the modulated carrier frequency, withAnother modulation source, in order to control that said modulation frequency is correct, and to allow the emission of the modulated carrier frequency in the corresponding corre channel circuit that when this control is positive.This process is applicable in particular to high-speed iron chem trains.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013140
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F02M-41/12</main> F02M-41/08 F02M-41/12 F04B-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fuel injection pump.
+</TITLE>
+<APPLICANT>
+ambac ind us<sep>ambac industries, incorporated<sep>ambac industries, incorporatedspringfield massachusetts 01107us<sep>ambac industries, incorporated <sep>
+</APPLICANT>
+<INVENTOR>
+parent christopher a<sep>richmond james a<sep>parent, christopher a.<sep>richmond, james a.<sep>parent, christopher a.397 cherry streetholyoke massachusettsus<sep>richmond, james a.1, reimers roadmonson massachusettsus<sep>parent, christopher a.<sep>richmond, james a.  <sep>parent, christopher a.397 cherry streetholyoke massachusettsus<sep>richmond, james a.1, reimers roadmonson massachusettsus<sep>
+</INVENTOR>
+<ABSTRACT>
+a single plunger distributor-type fuel injection pump (18)  for a multi-cylinder internal combustion engine having  improved features for preventing cavitation in the fuel dis­ tribution passages (164) upon fuel cutoff and for providing a  uniform residual fuel pressure in the idle fuel distribution  passages.  the pump does not have the usual delivery valve  for maintaining a high residual fuel pressure in the distribu­ tion passages.  instead, the passages, upon injection termina­ tion, drain into a spill chamber (178), the pressure within  which builds up to resist fuel flow from the passages and  minimize cavitation therein.  the spill chamber pressure is  relieved by a bleed passage (106) opening into the low pres­ sure fuel supply chamber (102).  the pressure in the idle fuel  distribution passages is maintained at a low predetermined  level by connection of these passages to the fuel supply  chamber between injection intervals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

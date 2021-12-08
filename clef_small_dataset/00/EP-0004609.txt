@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004609
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25B-1/047 F25B-9/06 F25B-1/04 F04C-23/00 F04C-18/16 F04C-27/00 F04C-23/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+screw compressor-expander cryogenic system
+</TITLE>
+<APPLICANT>
+hughes aircraft cous<sep>hughes aircraft company<sep>hughes aircraft company7200 hughes terrace, p.o. box 80028los angeles, california 90080-0028us<sep>
+</APPLICANT>
+<INVENTOR>
+leo bruno sus<sep>leo, bruno s.<sep>leo, bruno s.2442 beverly avenuesanta monica californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+cryogenic refrigeration system employs a power driven screw compressor which delivers pressurized refrigerant gas through a closed system to expand in a screw expander to produce refrigeration.  the screw expander is rotatively coupled to the compressor.  the screw compressor-screw expander cryogenic system includes heat exchangers and operates in the closed brayton cycle to produce refrigeration. 
+</ABSTRACT>
+</TEXT>
+</DOC>

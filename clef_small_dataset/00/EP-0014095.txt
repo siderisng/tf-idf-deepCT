@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014095
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03F-3/30</main> H03F-1/42 H03F-1/52 H03F-3/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pnp output short circuit protection.
+</TITLE>
+<APPLICANT>
+rca corp us <sep>rca corporation<sep>rca corporation30 rockefeller plazanew york, ny 10020us<sep>rca corporation<sep>
+</APPLICANT>
+<INVENTOR>
+leidich arthur john<sep>leidich, arthur john<sep>leidich, arthur johnrural delivery no. 8 molly bee roadflemington, new jerseyus<sep>leidich, arthur john<sep>leidich, arthur johnrural delivery no. 8 molly bee roadflemington, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+a limit is placed upon the maximum collector current  available from a common-emitter transistor (q7) in the driver  stage of an amplifier provided with overall feedback from its  output stage following the driver stage to its input stage preced­ ing the driver stage.  this limit is imposed by saturation of a  transistor (q4) in the input stage, which is of complementary  conductivity type to the common-emitter transistor and which  applies its collector current as base current to the common-­ emitter transistor, limiting the voltage applied to its base cir­ cuit.  the common-emitter transistor in the driver stage is pro­ vided with emitter degeneration resistance (r1), so limiting  the voltage applied to its base circuit results in limiting the  drive capability of the driver stage.  this prevents the overall  feedback increasing the output current of the driver stage so  much it interferes with restriction of the base-current drive  whenever a tendency towards overly large current flow  through the output transistor (q11) is sensed (r3, q13).  this  forestalls increased dissipation in the output transistor (q11)  that might damage or destroy it.  
+</ABSTRACT>
+</TEXT>
+</DOC>

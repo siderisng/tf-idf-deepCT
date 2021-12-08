@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015730
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-27/06 H04L-1/00 H04L-29/06 <main>H04L-3/00</main> H04L-25/49 H04L-5/14 H04L-29/10 H04L-5/00 H04L-5/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a data transmission system, and a method of passing data through a data transmission system.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>nippon telegraph & telephonejp<sep>fujitsu limited<sep>nippon telegraph and telephone public corporation <sep>fujitsu limited 1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>nippon telegraph and telephone public corporation1-6 uchisaiwai-cho 1-chome chiyoda-kutokyo 100jp<sep>fujitsu limited<sep>nippon telegraph and telephone public corporation<sep>
+</APPLICANT>
+<INVENTOR>
+aono tadashi<sep>fujimura noriaki<sep>kaku takashi<sep>kinoshita tsuneo<sep>tanaka yasuya<sep>aono, tadashi<sep>fujimura, noriaki<sep>kaku, takashi<sep>kinoshita, tsuneo<sep>tanaka, yasuya<sep>aono, tadashi619, nakamaruko nakahara-kukawasaki-shi kanagawa 211jp<sep>fujimura, noriaki24-3, matsubara 4-chomesetagaya-ku tokyo 156jp<sep>kaku, takashi488, takaishi tama-kukawasaki-shi kanagawa 215jp<sep>kinoshita, tsuneo998-2, oshidateinagi-shi tokyo 192-02jp<sep>tanaka, yasuyafujitsu nakanoshima-ryo no. 2 371 nakanoshimatama-ku kawasaki-shi kanagawa, 214jp<sep>aono, tadashi<sep>fujimura, noriaki<sep>kaku, takashi<sep>kinoshita, tsuneo <sep>tanaka, yasuya  <sep>aono, tadashi619, nakamaruko nakahara-kukawasaki-shi kanagawa 211jp<sep>fujimura, noriaki24-3, matsubara 4-chomesetagaya-ku tokyo 156jp<sep>kaku, takashi488, takaishi tama-kukawasaki-shi kanagawa 215jp<sep>kinoshita, tsuneo998-2, oshidateinagi-shi tokyo 192-02jp<sep>tanaka, yasuyafujitsu nakanoshima-ryo no. 2 371 nakanoshimatama-ku kawasaki-shi kanagawa, 214jp<sep>
+</INVENTOR>
+<ABSTRACT>
+in the system carrier is continuously transmitted from  transmitting side (1, 2) to receiving side (4, 5).  outside effective data sending periods continuous "1"  bits (all mark, waveform [c] fig.  2) are sent.  to detect effective data sending periods, a code convert­ er (22) on the transmitting side (1, 2) inverts selected data bits  for sending.  the bit coinciding with a send request signal rising to "1"  is inverted (waveforms [b] and [d]; fig.  2), and subsequently  any bit which follows four consecutive bits of equal value is in­ verted whilst the send request signal is "1".  a receiving side (4, 5) detector (45) detects the first in­ verted bit (first "0" bit) and then detects subsequent inver­ sions.  the beginning and continuation of an effective sending  period are thereby determined.  when no inversions are detected for a predetermined  number of received bits (e. g.  48) it is determined that the peri­ od has ended.  a decoder (44) restores the original values to detected in­ vertical bits.  
+</ABSTRACT>
+</TEXT>
+</DOC>

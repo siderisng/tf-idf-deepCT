@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000048
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03G-15/32</main> G03G-15/32 G03G-15/04 B41J-2/44 G03G-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the production from an original of a printing plate ready for printing.
+</TITLE>
+<APPLICANT>
+eocom corpus <sep>hoechst ag de<sep>eocom corporation<sep>hoechst aktiengesellschaft<sep>american hoechst corporationroute 202-206 northsomerville, n.j. 08876us<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>american hoechst corporation<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+amtower richard e<sep>jeffers william<sep>mcgowan norman<sep>schon klaus-peter<sep>amtower, richard e.<sep>jeffers, william<sep>mcgowan, norman<sep>schon, klaus-peter<sep>amtower, richard e.29641 via cebollalaguna niguel, california 92667us<sep>jeffers, william41 oaklawn roadfair haven, new jersey 07701us<sep>mcgowan, norman25572 antelope roadromoland, california 07701us<sep>schön, klaus-peter14 rathenauplatzd-6200 wiesbaden 12de<sep>amtower, richard e.<sep>jeffers, william<sep>mcgowan, norman <sep>schon, klaus-peter<sep>amtower, richard e. 29641 via cebolla laguna niguel, california 92667 us <sep>jeffers, william41 oaklawn roadfair haven, new jersey 07701us<sep>mcgowan, norman25572 antelope roadromoland, california 07701us<sep>schön, klaus-peter14 rathenauplatzd-6200 wiesbaden 12de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a fully automatic device (1) for the preparation of finished developed printing platelets on electrophotographic paths using lasers (28,228; 273) for the scanning of the template (292) and for synchronous illuminating the pressure plate (3,203). For the exposure, the laser beam is modulated according to the hell or dark areas of the template. For this purpose, the template is sampled on a sampling stage (281) from a sensor element (282) which may be a fiber optic and its optical output signal controls via a photomultiplier (290) a modulator (270) in the beam path of the laser (28,228) for exposure . Charging the pressure plate is carried out by means of a corona charge device (26, 226) attached to a travelable carriage carriage (21,221) which is an optical system of beam deflection device (277) and optical elements (278,279, 227, 280) for splitting and deflecting the laser beams (229 ; 269) wears. Together with the lasers, further optical elemante (270; 271, 276, 272; 273, 275, 274) are arranged on a stationary frame (284) of the device. The device further contexts (6,7,8,9) for the supply of the printing plate to an exposure platform (30,230), elements to generation of a modulated laser beam for the image-like exposure of the printing plate and devices (40.50.60) for developing, Fix and entable the printing plate for your use when offset printing.
+</ABSTRACT>
+</TEXT>
+</DOC>

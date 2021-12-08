@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017035
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-12/50 <main>H04L-11/00</main> H04L-12/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit arrangement for transmitting digital signals between transmitter/ receiver devices using different data transmission procedures and different data formats.
+</TITLE>
+<APPLICANT>
+siemens ag de <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bergmann ola dipl-phys<sep>hagen rolf dipl-ing<sep>harenberg jurgen<sep>steiner herbert<sep>bergmann, ola, dipl.-phys<sep>hagen, rolf, dipl.-ing.<sep>harenberg, jurgen<sep>steiner, herbert<sep>bergmann, ola, dipl.-physmauthäuslstrasse 39d-8000 münchen 70de<sep>hagen, rolf, dipl.-ing.fasanenstrasse 38d-8025 unterhachingde<sep>harenberg, jürgenschusterstrasse 15d-8000 münchen 71de<sep>steiner, herbertgut schwaigwalld-8191 geltingde<sep>bergmann, ola, dipl.-phys<sep>hagen, rolf, dipl.-ing.<sep>harenberg, jurgen<sep>steiner, herbert<sep>bergmann, ola, dipl.-physmauthäuslstrasse 39 d-8000 münchen 70 de  <sep>hagen, rolf, dipl.-ing.fasanenstrasse 38d-8025 unterhachingde<sep>harenberg, jürgenschusterstrasse 15d-8000 münchen 71de<sep>steiner, herbertgut schwaigwalld-8191 geltingde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a circuit arrangement for transmitting digital signals between two transmitting / receiving devices (TX, TTX), which work with from one of the various data transfer rates and data forms. In this case, the individual transmit / EMP catching devices (TX, TTX) should not be provided with individual einsrich tags in order to receive digital signals each, which occur with a data transfer rate and in a data format, with the respective transmitter / Reception device (TX or TTX) does not work on itself. For this purpose, the individual transmitting / receiving devices (TX, TTX) are connected to individual connection circuits (SAGA1 and SAGDN) of two different groups of terminal circuits (SAGA1 to Sagan or SAGD1 to SAGDN) of a data switching system (EDS), and also is connected to Zum Dest of a terminal circuit (SAGAN or SAGD1) of each of the two groups of terminal circuits a gissen of the conversion device TTU) connected. This converter (TTU) completely receives the digital signals supplied with the respective data transfer rate and in the respective data format and transmits in the data transfer rate and implemented digital signals in the data format.
+</ABSTRACT>
+</TEXT>
+</DOC>

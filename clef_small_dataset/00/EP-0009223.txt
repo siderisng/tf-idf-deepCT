@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009223
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/038 H01L-21/027 C08F-2/54 C08G-63/00 C08G-63/66 C08G-63/52 C08G-63/676 <main>G03C-1/68</main> H01L-21/02 C08F-2/00 G03F-7/032 C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photosensitive composition.
+</TITLE>
+<APPLICANT>
+mitsubishi chem indjp<sep>mitsubishi chemical industries limited<sep>mitsubishi kasei corporation5-2, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi chemical industries limited  <sep>
+</APPLICANT>
+<INVENTOR>
+oshima akinobu<sep>shimizu shigeki<sep>oshima, akinobu<sep>shimizu, shigeki<sep>oshima, akinobuno. 32-7, fukazawa 4-chomesetagaya-ku tokyojp<sep>shimizu, shigekino. 18-24, soshigaya 4-chomesetagayaku tokyojp<sep>oshima, akinobu<sep>shimizu, shigeki<sep>oshima, akinobuno. 32-7, fukazawa 4-chomesetagaya-ku tokyojp<sep>shimizu, shigekino. 18-24, soshigaya 4-chomesetagayaku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a photosensitive composition comprising a polyester  composed of dicarboxylic acid units represented by the ge­ neral formula (i):    in which ℓ, m, n, p and q are independently an integer of  0 or 1 but at least one of ℓ, m and n is a value of 1, x and  y are independently a hydrogen atom or x and y are com­ bined to form an alkylene group containing 1-4 carbon  atoms) and glycol units represented by the general formula  (ii):   - 0 ( r0 )r (ii)   (in which r represents an aklylene group containing 2-4  carbon atoms and r is an integer of 2-4) and by the gene­ ral formula (iii):    (in which  represents a hydrogenated benzene ring,  and r¹ and r² independently represont a hydrogen or an  alkyl group containing 1-6 carbon atoms) as well as a pho­ tosensitive plate with a support having coated thereon a  layer of this photosensitive composition.  
+</ABSTRACT>
+</TEXT>
+</DOC>

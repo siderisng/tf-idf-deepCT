@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000252
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-5/083 A61P-37/00 C07K-5/00 C07K-7/06 C07K-7/08 C07K-7/00 C07K-16/06 <main>C07C-103/52</main> A61K-39/00 C07K-5/06 A61K-37/02 A61K-38/00 C07K-5/103 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+peptides, pharmaceutical compositions containing the peptides and a process for the preparation of the peptides.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb<sep>beecham group limited<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc <sep>
+</APPLICANT>
+<INVENTOR>
+overell brian george<sep>roy peter<sep>stanworth denis raymond<sep>overell, brian george<sep>roy, peter<sep>stanworth, denis raymond<sep>overell, brian georgetresul, bentsbrook parknorth holmwood dorking, surreygb<sep>roy, peterold steyne house hanfield roadcowfield, sussexgb<sep>stanworth, denis raymond92 cowleigh roadmalvern, worcestershiregb<sep>overell, brian george <sep>roy, peter  <sep>stanworth, denis raymond<sep>overell, brian georgetresul, bentsbrook parknorth holmwood dorking, surreygb<sep>roy, peterold steyne house hanfield roadcowfield, sussexgb<sep>stanworth, denis raymond92 cowleigh roadmalvern, worcestershiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+peptides (6-12 amino acids) and their salts, useful in  allergy desensitisation composition, particularly vaccines,  have the formula   x-r-r₁-r₂-r₃-y   where r is optional and, if present, is a group resistant to  enzyme hydrolysis; r₁ is a basic amino acid residue optionally  linked to basic and/or neutral nonhydrophobic amino  acid residues; r₂ is one or more neutral nonhydrophobic  amino acid residues; r₃ is one or more hydrophobic amino  acid residues optionally linked to neutral nonhydrophobic  amino acid residues; x is hydrogen or an n-protecting  group; and y is hydroxyl or a c-terminal protecting group.   examples are:   lys thr lys gly ser gly phe phe och₃   arg lys thr lys gly ser gly phe phe och₃   lys thr lys gly ser gly phe phe val phe och₃   lys thr lys gly ser gly phe phe val phe oh   pro arg lys thr lys gly ser gly phe phe och₃   lys thr lys gly ser gly phe phe oh 
+</ABSTRACT>
+</TEXT>
+</DOC>

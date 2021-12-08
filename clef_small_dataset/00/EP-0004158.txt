@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004158
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-1/16 G11B-3/00 H04R-1/00 G11B-3/50 <main>H04R-1/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pick-up.
+</TITLE>
+<APPLICANT>
+ortofon mfg asdk   <sep>ortofon manufacturing a/s<sep>ortofon manufacturing a/smosedalvej 11 bdk-2500 valbydk<sep>ortofon manufacturing a/s<sep>
+</APPLICANT>
+<INVENTOR>
+andersen knud harbo<sep>gudmandsen robert<sep>hansen bjarne solberg<sep>andersen, knud harbo<sep>gudmandsen, robert<sep>hansen, bjarne solberg<sep>andersen, knud harbonoddehoj 8dk-2840 holtedk<sep>gudmandsen, robertjessensvej 5dk-2630 taastrupdk<sep>hansen, bjarne solbergkovangen 312dk-3480 fredensborgdk<sep>andersen, knud harbo<sep>gudmandsen, robert <sep>hansen, bjarne solberg<sep>andersen, knud harbo noddehoj 8 dk-2840 holte dk<sep>gudmandsen, robertjessensvej 5dk-2630 taastrupdk<sep>hansen, bjarne solbergkovangen 312dk-3480 fredensborgdk<sep>
+</INVENTOR>
+<ABSTRACT>
+in a pick-up of the type having a relatively flat, square  armature disposed perpendicularly to one end of a stylys  arm and supported on one side by an elastic damping device  which in turn is firmly supported by an air gap defining pole  piece, selective damping is provided by the application of a  particular damping device consisting of a disc shaped inertia  body clamped between two rubber pads.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002890
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-31/00 H01R-13/648 H01R-31/02 H01R-13/658 H01R-11/09 <main>H01R-23/12</main> H01R-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+shielded electrical connector.
+</TITLE>
+<APPLICANT>
+amp incus<sep>amp incorporated<sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>amp incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+walter donald percy george<sep>walter, donald percy george<sep>walter, donald percy george15 bruce house 195 preston hill kentonharrow middlesexgb<sep>walter, donald percy george<sep>walter, donald percy george15 bruce house 195 preston hill kentonharrow middlesexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrical connector comprises a housing (7) of  electrically insulating material carrying a plurality of electrical  contacts each having a post portion (8), the post  portions (8) being arranged in three parallel substantially  coterminous rows; and an electrically conductive shielding  member (1) mounted on the centre row of post portions  (8) and extending the length of the outer rows of post  portions (8) thereby to provide shielding between the outer  rows of post portions (8).  
+</ABSTRACT>
+</TEXT>
+</DOC>

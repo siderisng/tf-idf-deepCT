@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005001
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08G-69/24</main> C08G-69/00 C08G-69/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polymerisation of 2-pyrrolidone with alkali metal pyrrolidonates and quaternary ammonium salts, and polymerisation products thus obtained.
+</TITLE>
+<APPLICANT>
+barnes arthur cus<sep>barnes carl eus<sep>barnes, arthur conard<sep>barnes, carl edmund<sep>barnes, arthur conard482 trinity pass roadnew canaan connecticut 06840us<sep>barnes, carl edmund482 trinity pass roadnew canaan connecticut 06840us<sep>barnes, arthur conard  <sep>barnes, carl edmund <sep>
+</APPLICANT>
+<INVENTOR>
+barnes arthur conard<sep>barnes, arthur conard<sep>barnes, arthur conard482 trinity pass roadnew canaan connecticut 06840us<sep>barnes, carl edmund482 trinity pass roadnew canaan connecticut 06840us<sep>barnes, arthur conard<sep>barnes, arthur conard482 trinity pass roadnew canaan connecticut 06840us<sep>barnes, carl edmund482 trinity pass roadnew canaan connecticut 06840us<sep>
+</INVENTOR>
+<ABSTRACT>
+quarternary ammonium salts are used as adjuncts to the  primary catalyst of an alkali metal pyrrolidonate in the  polymerization of 2-pyrrolidone using so₂, co₂ or moo₃ as  initiator.  the catalysts may be recovered and recycled by washing  the resultant polymer with a solvent.  the structural formula  for the quarternary ammonium salt is    wherein r₁, r₂, r₃ and r₄ are alkyl, aralkyl, or aryl radicals, n  is 1 or 2 depending on the valence of x, and x is a sulfate,  hydrogen sulfate or halide.  such quaternary ammonium  salts reduce conversion time for polymerization and also act  as color suppressors when sulfur dioxide is used as an  activator at higher temperatures.  also disclosed is the use of  a cesium or rubidium pyrrolidonate as a color suppressor in  the so₂ activated 2-pyrrolidone polymerization.  
+</ABSTRACT>
+</TEXT>
+</DOC>

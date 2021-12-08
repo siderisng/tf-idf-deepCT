@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004057
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+E03D-3/00 E03B-11/00 <main>E03B-11/08</main> E03B-11/08 F04B-11/00 E03D-3/10 G05D-16/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pressure tank for a pressure-regulated water supply system.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+breyer eberhard<sep>schonwald siegfried<sep>breyer, eberhard<sep>schonwald, siegfried<sep>breyer, eberhardst.-brunno-strasse 9d-8740 bad neustadtde<sep>schönwald, siegfriedburgstrasse 18d-8740 bad neustadtde<sep>breyer, eberhard  <sep>schonwald, siegfried<sep>breyer, eberhardst.-brunno-strasse 9d-8740 bad neustadtde<sep>schönwald, siegfriedburgstrasse 18d-8740 bad neustadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a compressed air chamber for a pressure regulated water supply system, wherein in the interior of the chamber, a space (6) filled with air is separated from the water by means of an elastic diaphragm (5), the edge (7) of the diaphragm (5) is turned over the edge (8) of a rigidly-shaped basket-like insert (9), which presses the turned-over edge between itself and a diametric constriction of the chamber, characterized in that a sealing ring (11) is placed on the turned-over edge (7) of the diaphragm (5) and secured in its installed position by a peripheral supporting edge (10) which is provided on the insert (9). 
+</ABSTRACT>
+</TEXT>
+</DOC>

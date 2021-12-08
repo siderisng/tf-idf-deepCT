@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009385
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-29/151 C07C-31/04 C07C-31/00 C07C-29/15 C07C-29/00 <main>C07C-31/04</main> C07C-67/00 C07C-27/00 B01D-53/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for methanol production.
+</TITLE>
+<APPLICANT>
+monsanto cous<sep>monsanto company<sep>monsanto company800 north lindbergh boulevardst. louis missouri 63167us<sep>monsanto company  <sep>
+</APPLICANT>
+<INVENTOR>
+makin earle clement<sep>okamoto kiyonaga keith<sep>makin, earle clement<sep>okamoto, kiyonaga keith<sep>makin, earle clement1208 deats roaddickinson texas 77539us<sep>okamoto, kiyonaga keith1317 plantation drivedickinson texas 77539us<sep>makin, earle clement<sep>okamoto, kiyonaga keith<sep>makin, earle clement1208 deats roaddickinson texas 77539us<sep>okamoto, kiyonaga keith1317 plantation drivedickinson texas 77539us<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved methanol synthesis process is provided  wherein synthesis gas containing hydrogen and carbon  dioxide is passed over a methanol synthesis catalyst, cooled  to condense methanol and water in the reacted gas, the  liquids separated, a purge gas stream removed while the  remaining reacted gas is recycled to the synthesis catalyst,  the purge gas separated by contacting the outer surfaces  of a plurality of hollow fiber membranes selectively perme­ able to hydrogen and carbon dioxide to form a permeant  gas depleted in hydrogen and carbon dioxide and a perme­ ate gas enriched in said gases and the enriched permeate  gas is combined with the synthesis gas.  in an optional em­ bodiment, methanol vapor is first recovered from the purge  gas prior to contacting the selectively permeable mem­ branes, preferably by a water scrub.  
+</ABSTRACT>
+</TEXT>
+</DOC>

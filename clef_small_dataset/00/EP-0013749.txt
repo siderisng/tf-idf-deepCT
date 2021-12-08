@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013749
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/553 A61P-25/00 A61K-31/55 C07D-267/00 A61P-25/04 C07D-267/10 <main>C07D-267/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hexahydro-1,4-oxazepines, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+lenke dieter dr<sep>treiber hans joerg dr<sep>worstmann wolfgang dr<sep>lenke, dieter, dr.<sep>treiber, hans joerg, dr.<sep>worstmann, wolfgang, dr.<sep>lenke, dieter, dr.kekuleplatz 1d-6700 ludwigshafende<sep>treiber, hans joerg, dr.sperberweg 16831 bruehlde<sep>worstmann, wolfgang, dr.am bildstock 11d-6718 gruenstadt 1de<sep>lenke, dieter, dr. <sep>treiber, hans joerg, dr.  <sep>worstmann, wolfgang, dr.<sep>lenke, dieter, dr.kekuleplatz 1d-6700 ludwigshafende<sep>treiber, hans joerg, dr.sperberweg 16831 bruehlde<sep>worstmann, wolfgang, dr.am bildstock 11d-6718 gruenstadt 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to new hexahydro-1,4-oxazepins of the general formula I, wherein R¹ is a hydrogen atom or an alkyl or acyl group having 1 to 4 carbon atoms, R 2 of an alkyl group having 1 to 4 carbon atoms and R³ and R⁴ are the same or different andwater material atoms or methyl groups mean, as well as their salts with physiologically acceptable acids;Method for their preparation;Medicines containing these substances;and their use in therapy.The substances are suitable for pharmacotherapy of pain states of different cause.
+</ABSTRACT>
+</TEXT>
+</DOC>

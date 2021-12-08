@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000727
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-417/10</main> C07D-275/00 A61K-31/505 A61K-31/425 C07D-275/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3-(4-(1,3-diazacycloalkene-2-yl)-phenyl)-1,2-benzisothiazoles, process for their preparation and medicaments containing them.
+</TITLE>
+<APPLICANT>
+basf agde <sep>basf aktiengesellschaft<sep>basf aktiengesellschaft carl-bosch-strasse 38 67063 ludwigshafen de<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+hagen helmut dr<sep>lenke dieter dr<sep>von philipsborn gerda dr<sep>hagen, helmut, dr.<sep>lenke, dieter, dr<sep>von philipsborn, gerda, dr.<sep>hagen, helmut, dr.max-slevogt-strasse 17ed-6710 frankenthalde<sep>lenke, dieter, drkekuleplatz 1d-6700 ludwigshafende<sep>von philipsborn, gerda, dr.naechstenbacher weg 35d-6940 weinheimde<sep>hagen, helmut, dr.<sep>lenke, dieter, dr <sep>von philipsborn, gerda, dr.  <sep>hagen, helmut, dr.max-slevogt-strasse 17ed-6710 frankenthalde<sep>lenke, dieter, drkekuleplatz 1d-6700 ludwigshafende<sep>von philipsborn, gerda, dr.naechstenbacher weg 35d-6940 weinheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+Compounds of formula I in the R is a hydrogen atom, an alkyl radical having 1 to 4 C atoms, an alkoxy group having 1 to 3 C atoms, a halogen atom or a nitro group, and Y represents a bridge member of the formula and whose acid addition salts whoseProduction and pharmaceutical preparations with these compounds as active ingredients that can be used for pharmacotherapy of cardiac arrhythmias.
+</ABSTRACT>
+</TEXT>
+</DOC>

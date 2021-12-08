@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003324
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-10/00 C08F-2/34 C08F-210/02 C08F-210/00 C08F-2/00 <main>C08F-210/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of ethylene copolymers.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende  <sep>basf aktiengesellschaft  <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+boettcher klaus dr<sep>buechner oskar dr<sep>pfleger klaus dr<sep>skorczyk ronald<sep>zacher wieland dr<sep>boettcher, klaus, dr.<sep>buechner, oskar, dr.<sep>pfleger, klaus, dr.<sep>skorczyk, ronald<sep>zacher, wieland, dr.<sep>boettcher, klaus, dr.hubertusstrasse 57d-5047 wesselingde<sep>buechner, oskar, dr.sickingenstrasse 4d-6724 dudenhofende<sep>pfleger, klaus, dr.otto-strasse 6d-5047 wesselingde<sep>skorczyk, ronaldlangemarckstrasse 38d-5300 bonn-oberkasselde<sep>zacher, wieland, dr.lauenburger strasse 2d-5047 wesselingde<sep>boettcher, klaus, dr.<sep>buechner, oskar, dr.<sep>pfleger, klaus, dr.<sep>skorczyk, ronald<sep>zacher, wieland, dr.<sep>boettcher, klaus, dr.<sep>buechner, oskar, dr.<sep>pfleger, klaus, dr.<sep>skorczyk, ronald<sep>zacher, wieland, dr. <sep>boettcher, klaus, dr. hubertusstrasse 57 d-5047 wesselingde<sep>buechner, oskar, dr.sickingenstrasse 4d-6724 dudenhofende<sep>pfleger, klaus, dr.otto-strasse 6d-5047 wesselingde<sep>skorczyk, ronaldlangemarckstrasse 38d-5300 bonn-oberkasselde<sep>zacher, wieland, dr.lauenburger strasse 2d-5047 wesselingde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a continuous process for the preparation of ethylene copolymers at high pressure and at high temperature in a polymerization zone and transfer of the reaction mixture into a high-pressure product separation zone and from there into a low-pressure product separation zone and return of the unreacted gas quantities from the high-pressure product separation zone into the polymerization zone and from the Low-pressure product separation zone in a low-temperate separator from which the deposited Como Nomer is returned to the polymerization process while the ethylene is discharged as exhaust gas. In this method, the amount of gas withdrawn from the low pressure product separation zone is preferably compressed to 10 to 20 bar and cooled to -10 to -30 ° C before being guided into the cryogenic separator. The advantages achieved with the invention consist in particular in that a significant improvement of the separation effect of comonomers succeed.
+</ABSTRACT>
+</TEXT>
+</DOC>

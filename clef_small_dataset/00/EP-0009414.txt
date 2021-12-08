@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009414
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60S-1/08 B60S-1/46 <main>B60S-1/08</main> B60S-1/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for controlling windscreen wiper and windscreen washer apparatus of a vehicle.
+</TITLE>
+<APPLICANT>
+noack raymond james<sep>noack, raymond james<sep>noack, raymond james10 nicholls placehigginsau<sep>noack, raymond james<sep>
+</APPLICANT>
+<INVENTOR>
+noack raymond james<sep>noack, raymond james<sep>noack, raymond james10 nicholls placehigginsau<sep>noack, raymond james<sep>noack, raymond james10 nicholls placehigginsau<sep>
+</INVENTOR>
+<ABSTRACT>
+windscreen wiper control apparatus (10).  an infra-­ red radiation emitting device (26) directs radiation from  the interior of the vehicle through the windscreen.  the  radiation is reflected from the outer surface of the  windscreen back into the vehicle where it is detected by  a sensor (43).  dust or water and the windscreen causes  variations on infra-red radiation intensity reflected on  sensor (43), setting the windscreen wipers in operation.  the control apparatus also operates vehicle lights  (16) in response of a decrease in the ambient light level.  
+</ABSTRACT>
+</TEXT>
+</DOC>

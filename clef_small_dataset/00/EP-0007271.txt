@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007271
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B61L-3/22</main> B61L-3/00 B61L-3/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for transmitting information by the rails between a railway track and the vehicles running on this track.
+</TITLE>
+<APPLICANT>
+jeumont schneider fr <sep>jeumont-schneider societe anonyme dite:<sep>jeumont-schneider société anonyme dite:31-32, quai de dion boutonf-92811 puteaux cedexfr<sep>jeumont-schneider societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+dietrich michel<sep>dietrich, michel<sep>dietrich, michel5, rue gambettaf-60330 le plessis bellevillefr<sep>dietrich, michel  <sep>dietrich, michel5, rue gambettaf-60330 le plessis bellevillefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Information transmission device whose propagation zones of the information signals are independent of the sections of the cantonment system.A generator 11 of alternative signals modulated in 12 by the signals 13 to be transmitted is coupled to the rail lines 1 and 2 by induction, by means of a SPIRE 6 downstream of the zone.Each information transmission zone is delimited upstream and downstream by resonant circuits 4 and 5 granted on the carrier frequency of the transmitted signals.This frequency is chosen so as to avoid interaction between the channel circuits and the information transmission device.application to rail traffic.
+</ABSTRACT>
+</TEXT>
+</DOC>

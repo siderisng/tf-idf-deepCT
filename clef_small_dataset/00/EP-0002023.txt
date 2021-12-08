@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002023
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/008 G01B-7/00 B23Q-1/00 G01D-5/12 <main>B23Q-17/00</main> G05B-19/18 B23Q-15/007 G01B-7/012 B23Q-15/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spindle probe for numerically-controlled machine tool.
+</TITLE>
+<APPLICANT>
+kearney & trecker corpus<sep>kearney & trecker corporation<sep>kearney &amp; trecker corporation11000 theodore trecker waymilwaukee, wisconsin 53214us<sep>kearney & trecker corporation<sep>
+</APPLICANT>
+<INVENTOR>
+johnstone richard<sep>stobbe richard e<sep>johnstone, richard<sep>stobbe, richard e.<sep>johnstone, richard20300 west gebhardt roadbrookfield wisconsin 53005us<sep>stobbe, richard e.4221 south 104th streetgreenfield wisconsin 53228us<sep>johnstone richardus <sep>stobbe richard e us <sep>johnstone, richard<sep>stobbe, richard e.<sep>johnstone, richard20300 west gebhardt roadbrookfield wisconsin 53005us<sep>stobbe, richard e.4221 south 104th streetgreenfield wisconsin 53228us<sep>
+</INVENTOR>
+<ABSTRACT>
+a probe stylus (32) is mounted on the nose (28) of a  toolholder (14) which fits into the spindle (10) of a numerically  controlled machine tool.  an oscillator is mounted  within the toolholder (14) and is powered by a battery (20)  within the toolholder (14).  the output of the oscillator is  coupled to a primary coil (40) on the toolholder (14) which  is inductively coupled to a ringshaped secondary coil (84)  on the spindlehead (12) of the machine tool.  switches  within the toolholder (14) are wired to the oscillator to  cause it to shift frequency when the probe stylus (32) makes  contact with a workpiece when moving along any one of  the x, y or z axes.  the ring-shaped secondary coil (84)  is coupled to the machine tool's nc circuits to indicate  when the probe stylus (32) makes contact with the workpiece.  
+</ABSTRACT>
+</TEXT>
+</DOC>

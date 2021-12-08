@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014494
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03C-7/24</main> G03C-8/08 G03C-7/24 G03C-1/06 G03C-8/02 G03C-5/40 G03C-5/42 G03C-7/22 G03C-1/00 G03C-7/42 G03C-5/50 G03C-7/305 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic imaging process and materials suitable therefor.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa-gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap  <sep>
+</APPLICANT>
+<INVENTOR>
+pollet robert joseph<sep>roosen raymond albert<sep>vandenberghe antoon leon<sep>pollet, robert joseph<sep>roosen, raymond albert<sep>vandenberghe, antoon leon<sep>pollet, robert josephbroechemsteenweg 115b-2531 vremdebe<sep>roosen, raymond albertparklaan 12b 2232 's gravenwezelbe<sep>vandenberghe, antoon leonjozef mattheessensstraat 35b-2540 hovebe<sep>pollet, robert joseph<sep>roosen, raymond albert<sep>vandenberghe, antoon leon<sep>pollet, robert josephbroechemsteenweg 115b-2531 vremdebe<sep>roosen, raymond albertparklaan 12b 2232 's gravenwezelbe<sep>vandenberghe, antoon leonjozef mattheessensstraat 35b-2540 hovebe<sep>
+</INVENTOR>
+<ABSTRACT>
+novel photographic imaging process and materials  suitable therefor are provided, which can find their  application in multi-colour motion picture and simultaneous  sound recording, in direct-positive image formation, in  image-intensification processes, etc.  a photographic silver  image is formed in at least one hydrophilic colloid layer of a  light-sensitive photographic material incorporating silver  halide, by means of exposure and alkaline development  steps, followed by bleaching of quantities of silver which are  present in areas of said layer extraneous to those where  imaging silver is required.  a non-diffusible silver bleach  inhibitor is initially present in said layer or is released therein  during processing of the material but before the bleaching  step to prevent bleaching of the required imaging silver in  said layer in the bleaching step and the prevention of the  bleaching of the silver by the bleach inhibitor in the areas  extraneous to those where imaging silver is required is  counteracted by the presence in the corresponding areas of  such layer of a bleach accelerator which is caused to diffuse  into such areas from an adjacent hydrophilic colloid layer  during the development processing of the material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

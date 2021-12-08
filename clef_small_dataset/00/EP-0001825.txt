@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001825
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-205/00 C07C-209/36 C07C-211/00 B01J-31/00 <main>C07C-87/60</main> C07C-205/12 C07C-201/00 C07C-211/52 C07C-85/11 B01J-23/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of preparing 2,4-difluoroaniline.
+</TITLE>
+<APPLICANT>
+merck & co incus <sep>merck & co. inc.<sep>merck &amp; co., inc. 126, east lincoln avenue p.o. box 2000 rahway new jersey 07065-0900us<sep>merck & co. inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+shinkai ichiro<sep>tull roger james<sep>weinstock leonard maurice<sep>shinkai, ichiro<sep>tull, roger james<sep>weinstock, leonard maurice<sep>shinkai, ichiro121 north cottage placewestfield new jersey 07090us<sep>tull, roger james48 spring streetmetuchen new jersey 08840us<sep>weinstock, leonard mauricep.o. box 218bellemead new jersey 08504us<sep>shinkai, ichiro<sep>tull, roger james<sep>weinstock, leonard maurice<sep>shinkai, ichiro121 north cottage placewestfield new jersey 07090us<sep>tull, roger james48 spring streetmetuchen new jersey 08840us<sep>weinstock, leonard mauricep.o. box 218bellemead new jersey 08504us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of preparing 2,4-difluoroaniline by reacting 2,4,5-trichloronitrobenzene  with a fluorinating agent in the presence  of a solid-liquid phase interface, and utilizing a phase  transfer catalyst to form 2,4-difluoro-5-chlorinitrobenzene,  followed by hydrogenation with hydrogen in the presence of a  hydrogenation catalyst to form 2,4-difluoroaniline.  
+</ABSTRACT>
+</TEXT>
+</DOC>

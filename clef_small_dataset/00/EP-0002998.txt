@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002998
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-1/66 G10L-1/08 H04B-14/04 H03M-7/30 <main>H04B-1/66</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and system for speech data compression.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+esteban daniel jacques<sep>galand claude robert<sep>mauduit daniel <sep>menez jean <sep>esteban, daniel jacques<sep>galand, claude robert<sep>mauduit, daniel<sep>menez, jean<sep>esteban, daniel jacquesla fenière le peymondf-06610 la gaudefr<sep>galand, claude robertle suy blancf-06610 la gaudefr<sep>mauduit, daniel18 avenue cap de croixf-06100 nicefr<sep>menez, jean4 avenue de cannes résidence de l'hippodrome bf-06800 cagnes sur merfr<sep>esteban, daniel jacques<sep>galand, claude robert<sep>mauduit, daniel <sep>menez, jean<sep>esteban, daniel jacques la fenière le peymond f-06610 la gaude fr<sep>galand, claude robertle suy blancf-06610 la gaudefr<sep>mauduit, daniel18 avenue cap de croixf-06100 nicefr<sep>menez, jean4 avenue de cannes résidence de l'hippodrome bf-06800 cagnes sur merfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The spectrum of the voice signal initially constituted by 12-bit encoded SN samples, appearing at a frequency of 8 kHz is split into two bands.one serves to generate (calc) of the partial self-correlation coefficients providing after quantization (in QA2) information coef, the other, the lowest, is on the one hand, split (in LPFD andSBC) in quantified subbands with a dynamic setting of the bit rate assigned to each subband so as to provide such signal information, and on the other hand used (EN and QA1) for a tape energy measurementhigh providing an ENERG information.The ENERG, SIGNAL and COEF data characterize the recoded voice signal.They can be multiplexed (by MPX) on the same path of transmission.
+</ABSTRACT>
+</TEXT>
+</DOC>

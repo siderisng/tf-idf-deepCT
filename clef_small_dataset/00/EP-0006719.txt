@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006719
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/76 C07D-233/86 A61K-31/4166 C07D-233/78 A61K-31/4164 A61P-43/00 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+prostaglandin analogue imidazole derivatives, processes for their preparation and a pharmaceutical composition containing them.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>
+</APPLICANT>
+<INVENTOR>
+moore richard williamgb<sep>wootton gordongb<sep>moore, richard william<sep>wootton, gordon<sep>moore, richard william34 sunningdalebishops stortford herfordshiregb<sep>wootton, gordon51 park waysawbridgeworth, hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a compound of the formula (i):    wherein:   x is o or s;   y is -ch₂-ch₂-, -ch=ch- or -c≡c-;   n is 1 to 5;   r₁ is hydrogen or co₂r₁ represents an ester group in  which the r₁ moiety contains from 1 to 12 carbon atoms;   r₂ is hydrogen or c₁₋₄ alkyl;   r₃ is hydroxy or protected hydroxy;   r₄ is c₁₋₉ alkyl, c₃₋₈ cycloalkyl or c₃₋₈ cycloalkyl - c₁₋₆  alkyl; or   r₂ and r₄ taken with the carbon atom to which they are  joined represent a c₅₋₈ cycloalkyl group; and   r₅ is (ch₂)anr₆r₇, wherein a is 0 to 3 and r₆ and r₇ are  hydrogen, c₁₋₄ alkyl or phenyl c₁₋₄ alkyl, or r₆ and r₇ taken with  the nitrogen atom to which they are joined represent a 4 to 7  membered heterocyclic ring which may contain as sole further  hetero atom one oxygen atom or one optionally c₁₋₄ alkyl  substituted nitrogen atom; allyl or propargyl; (ch₂)b-co  -(ch₂)c-ch₃ wherein b+c is 1 to 5 and b is not zero; or s-r₈  wherein r₈ is c₁₋₆ alkyl, phenyl, or phenyl substituted by a  halogen, trifluoromethyl, c₁₋₆ alkyl, c₁₋₆ alkoxy or nitro group,  and salts thereof have useful pharmaceutical activity including  bronchodilator activity.  they can be prepared according to four  methods.  
+</ABSTRACT>
+</TEXT>
+</DOC>

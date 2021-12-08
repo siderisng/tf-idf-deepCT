@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008784
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-35/02 B65H-35/00 B65H-39/00 B21C-47/00 <main>B21C-47/04</main> B65H-39/16 B65H-39/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for obtaining fast wound coils of equal diameters by coiling several small bands.
+</TITLE>
+<APPLICANT>
+schmitz walzmaschde<sep>walzmaschinenfabrik±august±schmitz gmbh<sep>walzmaschinenfabrik august schmitz gmbhwahlerstrasse 2d-4000 düsseldorf-rathde<sep>walzmaschinenfabrik august schmitz gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+loewer werner<sep>rittinghaus siegfried ing grad<sep>loewer, werner<sep>rittinghaus, siegfried, ing. (grad.)<sep>loewer, wernerschwarzbachstrasse 81d-4020 mettmannde<sep>rittinghaus, siegfried, ing. (grad.)wittekindweg 4d-5860 iserlohn 7de<sep>loewer, werner  <sep>rittinghaus, siegfried, ing. (grad.)<sep>loewer, wernerschwarzbachstrasse 81d-4020 mettmannde<sep>rittinghaus, siegfried, ing. (grad.)wittekindweg 4d-5860 iserlohn 7de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a device for obtaining tightly wound coils of equal diameter when winding multiple narrow strips, here called "strands", produced by slitting a hot - or cold-rolled strip, whereby the said strands are wound into narrow coils on a common coiler mandrel (7) ; and wherein the device comprises a spacer shooter with a boom (6a) that can be swung in the vertical plane onto the mandrel.  the said boom comprising a magazine unit for storing long fiberboard spacers or the like, a device for moving the spacers out of the magazine unit in the direction of propulsion, and also an idling tracer roll (38) with a pinch roll unit (39, 40) arranged in front of it for propelling the spacers under the tracer roll, the said boom being characterized by the fact that the magazine unit has a number of parallel compartments (44 to 48) corresponding in number to the number of narrow coils and arranged over the entire width (bmax ) taken up by the narrow coils along the coiler mandrel, whereby the width of each magazine compartment is selected to match the strand width in the respective narrow coil ; the idea being that the compartments can be variably arranged side-by-side in the boom in such a way : that each magazine compartment, seen in the direction of strip travel, is aligned to the narrow coil to which it is allocated width-wise, that a selectively operation spacer shooter (60, 75) is allocated to each magazine compartment and that both the tracer roll (38) and the pinch roll unit (39, 40) are through-rolls which cover the strip width and all selectively inserted spacers (49). 
+</ABSTRACT>
+</TEXT>
+</DOC>

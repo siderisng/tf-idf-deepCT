@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004513
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-25/08 F16D-48/00 F16D-48/02 F16D-48/04 B60W-30/18 <main>B60K-41/22</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydropneumatic control device for clutch engagement with synchronised gear box locking.
+</TITLE>
+<APPLICANT>
+benditalia spait<sep>benditalia s.p.a.<sep>benditalia s.p.a.via cavalli 53/ai-26013 cremait<sep>benditalia s.p.a.  <sep>
+</APPLICANT>
+<INVENTOR>
+cadeddu leonardo<sep>cadeddu, leonardo<sep>cadeddu, leonardovia piacenza 29/0i-26013 cremait<sep>cadeddu, leonardo<sep>cadeddu, leonardovia piacenza 29/0i-26013 cremait<sep>
+</INVENTOR>
+<ABSTRACT>
+A synchronized synchronized motor vehicle synchronized motor vehicle control (1) comprises a cylinder (28), whose piston (40) is assisted by a pneumatic motor (48, 50, 52), and a cylinder (2)which supplies said hydraulic fluid cylinder (28) and controls the air supply of said motor (48, 50, 52) characterized in that the control chamber (58) of said cylinder (28) is connected to the locking hydraulic /Unlocking the speed box, the supply of said circuit being carried out through a valve (62) mounted in the piston (40).Admission of the hydraulic fluid of the cylinder (2) having effect at first to close said valve (62) interrupting the fluid intake in said chamber (58) and then cause the fluid transfer contained inThis towards the circuit of the speed box which is unlocked in synchronism with the clutch.
+</ABSTRACT>
+</TEXT>
+</DOC>

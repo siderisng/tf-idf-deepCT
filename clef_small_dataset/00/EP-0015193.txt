@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015193
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02M-37/00 B65D-88/54 F02M-37/22 B65D-88/00 B67D-5/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved liquid tank.
+</TITLE>
+<APPLICANT>
+raffinage cie francaisefr<sep>compagnie francaise de raffinage societe anonyme dite:<sep>compagnie francaise de raffinage société anonyme dite:5, rue michel-ange75781 paris cedex 16fr<sep>
+</APPLICANT>
+<INVENTOR>
+scherer gerardfr<sep>scherer, gerard<sep>scherer, gérard29, rue séryf-76600 le havrefr<sep>
+</INVENTOR>
+<ABSTRACT>
+this tank (1) contains a filtering element (20) forming a chamber inside the tank, from which chamber the said liquid is sampled by means of the extraction pipe (3).  the wall of the said chamber consists at least in part of a material suitable for retaining the particles of solid materials suspended in the said liquid and thus forms a filtering surface.  the chamber formed by the filtering element has a height such that at least a part of the filtering surface is located above the zone (25) in which the precipitated constituents are concentrated.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+réservoir perfectionné liquide. la présente invention concerne un réservoir perfectionné à liquide1 destiné à équiper notamment des systèmes d'alimentation en combustible liquide de moteurs ou de brûleurs. les systèmes d'alimentation en liquide d'appareils très divers utilisant ledit liquide comprennent généralement un réservoir, dans lequel le liquide est stocké avant son utilisation. i1 en est ainsi pour des appareils fonctionnant grâce à la combustion dudit liquide, les moteurs de véhicules automobiles par exemple, ou les installations de chauffage. les systèmes d'alimentation comprennent en outre plusieurs filtres destinés à arrêter les particules de matibres solides en suspension dans le liquide et garantes lors de son utilisation0 c'est le cas, notamment, pour les moteurs diesel où les particules de matières solides en suspension dans le gazole pourraient boncher les injecteurs. un exemple de système d'alimentation djà connu sera décrit immédiatement ci-après, pour plus de clarté, en référence à la figure 1 des dessins annexés. la figure 2, qui sera décrite ultérieurement, représente un exemple de réalisation d'un réservoir selon l'invention0 la figure i représente de façon schématique le circuit d'alimentation d'un moteur diesel d'automobile fonctionnant au gazole. le circuit d'alimentation comprend un réservoir 1, contenant du gazole 2. dans le gazole 2, plonge une canalisation de soutirage 3. la canalisation est équipée à son extrémité d'un premier filtre 4 appelé "crépine". cette crépine 4 est constituée par une toile métallique, dont la dimension des malles peut varier selon les installations, mais qui peut être voisine de 500 microns. le gazole est soutiré du réservoir 1 gracie à une pompe d'alimentation 5. préalablement à son entrée par la ligne 7 dans la pompe 5, le gazole passe au travers d'un deuxième filtre 6, appelé "préfiltre". ce préfiltre peut être cons titubé par un tamis métallique on par une toile de feutre, par exemple. la taille des particules arrêtées par le préfiltre varie selon les installations, mais elle peut aller de 50 à 150 microns environ. a la sortie de la pompe 5, le gazole est conduit par la ligne 8 dans un troisième filtre 9, appelé "filtre princi pal". ce filtre principal peut titre constitué par des éléments en fentre ou en papier spécial. la taille des particules arr8thes par le filtre principal varie selon les installations, mais elle peut aller de 3 à 5 microns. certains types de filtre principal arrêtent les particules dxun micron. a la sortie du filtre principal 9, une partie du gazole est renvoyée au réservoir par des lignes 10 et 11. l'autre partie est envoyée à la pompe d'injection 13 par a ligne 12. une partie du gazole entrant dans la pompe 13 alimente les injecteurs 14, vautre partie étant recyclée au réservoir par les lignes 15 et 11. les réservoirs à liquide ne sont géndralement pas équipés d'uno isolation thermique, et le liquide qu'ils contien nont subit donc les variations de la température extérieure0 clest le cas, notamment, pour les réservoirs des véhicules automobiles, tel que celui décrit précédemment, et pour certains réservoirs d'installation de chauffage. le
+</DESCRIPTION>
+<CLAIMS>
+revendications de brevet   1. - réservoir perfectionne à liquide,   susceptible    de se trouver à une température telle que certains constituants dudit liquide précipitent à ladite température, les constituant précités se concentrant alors dans une zone située dans la partie inférieure du   réservoir1    ledit réservoir contenant un élément filtrant formant une chambre    à-    l'intérieur du réservoir, chambre dans laquelle est préleve ledit liquide   grece¯åa    la canalisation de   sou-tirage,    la paroi de ladite chambre étant constituée au moins en partie par un matériau apte à retenir les particules de matières solides en suspension dans ledit liquide et formant ainsi une surface filtrante,  ledit réservoir étant caractérisé en ce que la chambre formée par l'élément   filtrant    a   urne    hauteur telle   qu1au    moins une partie de la surface   fi5-    trante est située au-dessus de la zone dans laquelle se concentrent les constituants précipités.    2.- réservoir selon la revendication 1, caractérisé en ce que le réservoir est un   réservoir- à    gazole ou à fuel-oil domestique pouvant   titre    employé   i    une température inférieure à la température limite de filtra   bilié,    en ce que la hauteur de l'élément filtrant est au moins égale à la moitié de la hauteur du   réservoir    et ce que le fond de l'élément filtrant est proche du   o:ad    du réservoir.   3.- réservoir selon la revendication 2, caractérisé en ce que la maille de l'élément filtrant est comprise entre 5 et 500 microns.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006361
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01D-11/28</main> G12B-11/00 G01D-11/28 G12B-11/04 G01D-13/28 G01D-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an illuminated indicator gauge.
+</TITLE>
+<APPLICANT>
+nissan motorjp<sep>nissan motor company, limited<sep>nissan motor co., ltd.2 takara-cho, kanagawa-kuyokohama-shi kanagawa-kenjp<sep>nissan motor company, limited<sep>
+</APPLICANT>
+<INVENTOR>
+ajimine akio<sep>ishikawa masao<sep>nakamura kenji<sep>ajimine, akio<sep>ishikawa, masao<sep>nakamura, kenji<sep>ajimine, akiono.6-17-12, matsubarasetagaya-ku, tokyojp<sep>ishikawa, masao3-5-20, nakaharaisogo-ku, yokohama cityjp<sep>nakamura, kenji3-68, oppama-higashichoyokosuka cityjp<sep>ajimine, akio<sep>ishikawa, masao  <sep>nakamura, kenji <sep>ajimine, akiono.6-17-12, matsubarasetagaya-ku, tokyojp<sep>ishikawa, masao3-5-20, nakaharaisogo-ku, yokohama cityjp<sep>nakamura, kenji3-68, oppama-higashichoyokosuka cityjp<sep>
+</INVENTOR>
+<ABSTRACT>
+light guiding plates (14b, 14c) integral with a transpa­ rent plate (14) of a dial board (12) are each formed with  a light reflecting surface (30, 32) which is such construc­ ted that the light entering the light guiding plate (14b,  14c) is reflected by the light reflecting surface (30, 32)  for focussing of the light in the vicinity of an opening  (18) of the dial board (12) through which a spindle (20)  of a movement passes.  light is reflected by boundary sur­ faces (18a, 18b) of the opening (18) into the hub section  of a transparent pointer (22) carried by the spindle (20).   the hub section of the pointer (22) has a reflecting sur­ face (22a) to reflect the light towards the end of the poin­ ter (22).  
+</ABSTRACT>
+</TEXT>
+</DOC>

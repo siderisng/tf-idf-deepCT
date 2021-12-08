@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007574
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-69/92 C08L-83/00 C08L-33/02 C08L-33/00 C09K-19/42 B29C-71/00 C09K-19/12 G02F-1/13 C07C-69/54 C07C-121/75 G02B-1/08 G02B-5/30 C07C-43/00 C07C-43/23 C07C-121/52 <main>C09K-3/34</main> C08L-83/02 C09K-19/10 C09K-19/20 C07C-69/76 C09K-19/38 C08L-33/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid-crystalline polymeric phase with a cholesteric structure, method for its preparation and its use.
+</TITLE>
+<APPLICANT>
+basf agde  <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+finkelmann heino dr dipl-chem<sep>portugall michael dipl-chem<sep>ringsdorf helmut dr dipl-chem<sep>finkelmann, heino, dr. dipl.-chem.<sep>portugall, michael, dipl.-chem.<sep>ringsdorf, helmut, dr. dipl.-chem.<sep>finkelmann, heino, dr. dipl.-chem.goslarer strasse 59d-3392 clausthal-zellerfeldde<sep>portugall, michael, dipl.-chem.steinheimer strasse 53d-6228 eltvillede<sep>ringsdorf, helmut, dr. dipl.-chem.kehlweg 51d-6500 mainz-gonsenheimde<sep>finkelmann, heino, dr. dipl.-chem.<sep>portugall, michael, dipl.-chem.<sep>ringsdorf, helmut, dr. dipl.-chem.<sep>finkelmann, heino, dr. dipl.-chem.goslarer strasse 59d-3392 clausthal-zellerfeldde<sep>portugall, michael, dipl.-chem.steinheimer strasse 53d-6228 eltvillede<sep>ringsdorf, helmut, dr. dipl.-chem.kehlweg 51d-6500 mainz-gonsenheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a liquid-crystalline polymer phase with a cholesteric structure consisting of a chiral component and a nematogenic homo or copoly mer, as well as a method for their preparation and their use.
+</ABSTRACT>
+</TEXT>
+</DOC>

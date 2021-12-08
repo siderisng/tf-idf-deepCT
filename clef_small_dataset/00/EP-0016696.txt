@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016696
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07D-5/00 G07D-5/08 <main>G07F-3/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coin detecting apparatus.
+</TITLE>
+<APPLICANT>
+gaea trade & dev co ltdhk<sep>gaea trade and development company limited<sep>third wave electronics company, inc.3021 n.e. fifth terracefort lauderdale florida 33334us<sep>third wave electronics company, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+davies ronald c<sep>davies, ronald c.<sep>davies, ronald c.1704 brady streetlas vegas nevadaus<sep>davies, ronald c.<sep>davies, ronald c.1704 brady streetlas vegas nevadaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a coin, spurious coin and the like (11) is passed in close  proximity with the inductance (l1) of the resonant tank  circuit of an oscillator and varies the losses of the tank circuit  and thereby the amplitude of a signal produced by the  oscillator in accordance with the metal content of the coin,  and the like.  the signal produced by the oscillator is  converted to a control signal having an amplitude which  when in a predetermined range indicates an acceptable coin  and which when outside the range indicates a retectable  spurious coin, and the like.  after passing the inductance, the  coin is selectively directed to an accepted location (19) or a  rejected location (18) in accordance with the amplitude of the  control signal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

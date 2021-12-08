@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004887
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04J-3/06 H04L-7/00 H04B-7/185 H04B-7/212 <main>H04J-3/06</main> H04L-7/02 H04L-7/10 H04L-7/033 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for synchronizing digital transmissions via satellite.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecomit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>
+</APPLICANT>
+<INVENTOR>
+cordaro giovanni<sep>dall olio cristiano<sep>di pino duccio<sep>guarene eugenio<sep>cordaro, giovanni<sep>dall'olio, cristiano<sep>di pino, duccio<sep>guarene, eugenio<sep>cordaro, giovanniv.fratelli rosselli n.1milena-caltanisettait<sep>dall'olio, cristianovia tolstoi 24-1milanoit<sep>di pino, ducciov. dei castagni, 18pino torinese torinoit<sep>guarene, eugeniovia massena, 94turinit<sep>cordaro, giovanni<sep>dall'olio, cristiano <sep>di pino, duccio<sep>guarene, eugenio  <sep>cordaro, giovanniv.fratelli rosselli n.1milena-caltanisettait<sep>dall'olio, cristianovia tolstoi 24-1milanoit<sep>di pino, ducciov. dei castagni, 18pino torinese torinoit<sep>guarene, eugeniovia massena, 94turinit<sep>
+</INVENTOR>
+<ABSTRACT>
+in a method and a device for synchronizing with the  on-board timing of a regenerative satellite information  symbols regenerated with the timing of the emitting earth  stations, in time-division multiplex-access digital transmissions,  there is effected a frequency conversion, so as to bring  to the nominal on-board operation frequency the frequency  of the regenerated signal, and a phase correction at the  transitions between adjacent bursts, so as to eliminate phase  discontinuities in the symbol sequence sent to the on-board  processing device.  
+</ABSTRACT>
+</TEXT>
+</DOC>

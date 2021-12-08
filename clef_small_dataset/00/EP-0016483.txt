@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016483
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F25B-23/00</main> F25B-9/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3he-4he dilution refrigerator.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken  <sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+severijns adrianus petrus<sep>staas frans adrianus<sep>van haeringen willem<sep>severijns, adrianus petrus<sep>staas, frans adrianus<sep>van haeringen, willem<sep>severijns, adrianus petrusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>staas, frans adrianusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van haeringen, willemc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>severijns, adrianus petrus<sep>staas, frans adrianus <sep>van haeringen, willem<sep>severijns, adrianus petrus c/o int. octrooibureau b.v. prof. holstlaan 6 nl-5656 aa eindhoven nl <sep>staas, frans adrianusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van haeringen, willemc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a ³he-⁴he dilution refrigerator having two chambers (1,2)  accommodated at two mutually different levels, of which the  uppermost (1) forms a mixing chamber for concentrated ³he  and injected superfluid (4) he.  a duct (12) has its lower end  opening into the top of the lower chamber (2) and its upper  end in an auxiliary chamber (13) the uppermost part of which  communicates (14) with the upper part of the mixing chamber  (1) and the lower part communicates (15) with the lower part  of the mixing chamber (1).  
+</ABSTRACT>
+</TEXT>
+</DOC>

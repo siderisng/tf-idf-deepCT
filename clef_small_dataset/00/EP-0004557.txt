@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004557
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/4097 H01L-27/04 G11C-17/06 G11C-7/00 G11C-11/34 <main>G11C-11/24</main> G11C-11/401 G11C-11/409 G11C-11/35 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+integrated semiconductor charge storage memory.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+lee hsing-san<sep>pricer wilbur david<sep>vogl norbert george jr<sep>lee, hsing-san<sep>pricer, wilbur david<sep>vogl, norbert george, jr<sep>lee, hsing-san100 lamplite lanewilliston vt 05495us<sep>pricer, wilbur david58 van patten parkwayburlington vt 05401us<sep>vogl, norbert george, jr18 biscayne heights road no. 2winooski vt 05404us<sep>lee, hsing-san<sep>pricer, wilbur david <sep>vogl, norbert george, jr  <sep>lee, hsing-san100 lamplite lanewilliston vt 05495us<sep>pricer, wilbur david58 van patten parkwayburlington vt 05401us<sep>vogl, norbert george, jr18 biscayne heights road no. 2winooski vt 05404us<sep>
+</INVENTOR>
+<ABSTRACT>
+the merged charge memory system has an accessing arrangement.  each of the word lines of the memory array is divided into a number of segments with cells associated only with a selected one or a portion of the segments being coupled at any particular time to bit driving and sensing devices.  thus, only relatively few sense amplifiers compared with the number of bits per word of the array are required to handle all of the cells of the array.  the flow of charges from charge source is released only to the cells of the selected word segment or segments which are simultaneously coupled to bit driving and sensing devices via associated it/sense lines. 
+</ABSTRACT>
+</TEXT>
+</DOC>

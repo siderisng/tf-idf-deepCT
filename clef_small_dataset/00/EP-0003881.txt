@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003881
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-323/41 A01N-33/26 C07C-323/48 C07C-323/65 A01N-51/00 C07C-323/63 A01N-41/00 C07C-255/58 A01N-33/00 C07C-67/00 C07C-317/36 C07C-323/43 A01N-41/10 C07D-249/00 C07C-317/00 C07C-291/00 C07C-253/00 C07C-255/00 C07C-313/00 C07C-317/48 C07C-323/42 C07D-249/14 C07C-323/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted phenylnitramines, their preparation and their application as fungicidal agents.
+</TITLE>
+<APPLICANT>
+american cyanamid cous<sep>american cyanamid company<sep>american cyanamid companyberdan avenuewayne new jersey 06904us<sep>
+</APPLICANT>
+<INVENTOR>
+cross barringtonus<sep>dawe david hus<sep>cross, barrington<sep>dawe, david h.<sep>cross, barrington27 toth lanerocky hill new jerseyus<sep>dawe, david h.534 dutch neck roadhightstown new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to substituted phenylnitramines  and derivatives with fungicidal properties, and to the use of  these compounds for the control of fungi, for example for the  protection of living plants from attack thereby.  the fungicidal  phenylnitramines of this invention are compounds selected  from formulae (i) and (iii):    wherein the formula (i) r₁ to r₅ each represent a hydrogen,  halogen, c₁-c₄ alkyl, halo(c₁-c₄)alkyl, c₁-c₄ alkylthio, c₁-c₄  alkylsulfonyl, c₁-c₄ alkanoylamino, c₁-c₄ alkyl-o-c-nh-,  cyano or nitrol; y is hydrogen, c₁-c₈ alkyl, c₃-c₈ alkenyl, c₃-c₅  alkynyl, r₆-o-r₇,    alkenyl or c₃-c₅ alkynyl; r₇ is c₁-c₄ alkylene; r₈ is c₂-c₄  alkylene; w and w′ each are hydrogen or halogen; z is hydroxy  or halogen; with the provisos, that at least two of the r  groups r₁ to r₅ are other than hydrogen; and that not more  than two of the r groups r₁ to r₅ are c₁-c₄ alkylthio, c₁-c₄  alkylsulfonyl or nitro; and wherein the formula (iii) cation x  represents h₃nr′, h₂nr′r″, hnr′r″r‴, or nr′r″r‴r″″,  wherein r′ to r″″ each represent c₁-c₁₈ alkyl, aryl or benzyl, or  r′ and r″ taken together with the nitrogen to which they are  attached form the cyclic moiety:  
+</ABSTRACT>
+</TEXT>
+</DOC>

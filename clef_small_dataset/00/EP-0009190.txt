@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009190
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-3/40 H01B-3/42 B23K-35/22 H05K-3/28 <main>C08L-63/04</main> H05K-3/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+curable composition useful for screen-printing, a cured coating comprising said composition and process for soldering printed circuit boards using said composition.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+kenney eugene john<sep>lazzarini donald joseph<sep>winters robert john<sep>kenney, eugene john<sep>lazzarini, donald joseph<sep>winters, robert john<sep>kenney, eugene johnbox 329a r. d. 2apalachin, ny 13732us<sep>lazzarini, donald joseph909 murray hill rd.binghamton, ny 13903us<sep>winters, robert john3616 lyndale dr.endwell, ny 13760us<sep>kenney, eugene john<sep>lazzarini, donald joseph  <sep>winters, robert john<sep>kenney, eugene johnbox 329a r. d. 2apalachin, ny 13732us<sep>lazzarini, donald joseph909 murray hill rd.binghamton, ny 13903us<sep>winters, robert john3616 lyndale dr.endwell, ny 13760us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a composition processed in screen printing with a content of an epoxidized novolak, a phenoxypolymer, a liquid anhydride, colloidal silica and a dilution agent.The composition is used to coating documents, for example, printed circuit cards, and serves as a solder mask and protective coating.
+</ABSTRACT>
+</TEXT>
+</DOC>

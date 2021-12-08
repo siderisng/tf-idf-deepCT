@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017178
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-54/28 B21C-47/02 B21C-47/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for controlling the high-speed winding of a metallic wire onto a reel in successive layers.
+</TITLE>
+<APPLICANT>
+cables de lyon geoffroy delorefr <sep>les cables de lyon societe anonyme dite:<sep>les cables de lyon société anonyme dite: 170, avenue jean jaurès 69353 lyon cedex 2 fr<sep>
+</APPLICANT>
+<INVENTOR>
+beucher michelfr<sep>beucher, michel<sep>beucher, michelserre du rieu la jasse de bernardf-30560 st hilaire de brethmasfr<sep>
+</INVENTOR>
+<ABSTRACT>
+device for monitoring the high-speed winding of a metal wire 5 onto a coil 4 in successive layers, comprising a unit for rotating the coil and a unit for regulating the speed of translation of an arm 6 for guiding the wire along the axis 1 of the coil.  it further comprises a unit 9 for detecting and for displaying the rate of winding of the wire onto the coil.  application to the manufacture of telephone cables. 
+</ABSTRACT>
+<DESCRIPTION>
+dispositif de controle d'enroulement â grande vitesse d'un fil métallique en couches successives sur une bobine la présente invention concerne un dispositif de controle de l'enroulement à grande vitesse d'un fil métallique en couches successives sur une bobine, comportant un organe de mise en rotation de la bobine et un organe de réglage de la vitesse de translation d'un bras de guidage du fil le long de l'axe de cette bobine. les dispositifs d'enroulement connus ne permettent à l'opérateur de régler correctement le pas d'enroulement du fil sur la bobine (ou pas de trancanage) que lors de la pose de le première couche de fil. le temps disponible pour ce réglage est très court, et l'opérateur ne peut effectuer qu'une correction manuelle approximative, dépendant de son expérience et de son habilité, sur la base de la vue qu'il a de la façon dont les différentes spires du fil se placent à côté les uns des autres. si le réglage n'est pas correct, il se crée des trous et des bosses entre les spires, et les couches supérieures du fil tombent en certains points d'un ou plusieurs étages lors des manipulations ultérieures de la bobine. on dit alors que les bobines sont molles. on risque des emmêlements et des casses lors du dévidage ultérieur de la bobine. pour pallier à ce défaut, il est courant que l'opérateur fasse tirer davantage le fil par l'enrouleur. mais ceci exerce sur le fil un effort de traction important, qui diminue les caractéristiques mécaniques du fil (diminution du diamètre, écrouissage) au détriment de sa qualité. le dispositif de l'invention a pour but de remédier à ces inconvénients, et de permettre l'enroulement du fil sur la bobine avec un pas correct, mais avec une tension faible. ce réglage est nécessaire notamment en cas de changement de diamètre du fil, de rotation par vibrations du potentiomètre fixant la vitesse de translation du bras de guidage, etc........... selon l'invention, le dispositif d'enroulement comporte en outre un organe de détection et d'affichage du pas d'enroulement du fil sur la bobine. cet organe de détection et d'affichage comprend de préférence un capteur de la vitesse de rotation de la bobine, un capteur de a vitesse de translation du bras de guidage du fil, et un organe affichant le quotient de la seconde vitesse par la première. 1 comporte enfin avantageusement un organe de correction du pas d'enroulement du fil par comparaison du pas affiché avec un pas de consigne. il est décrit ci-après, a titre d'exemple et en référence a la figure unique du dessin annexé, un dispositif d'enroulement d'un fil métallique isolé pour câble téléphonique sur une bobine, avec contrôle du pas d'enroulement (ou pas de trancanage). une bobine 4 d'axe de rotation 1 comporte des joues 2 et 3 entre lesquelles un fil solé 5 doit outre enroulé en couches successives, guidé par un bras de trancanage 6. l'expérience a montré que le fil s'enroule en couches régulières lorsque le pas d'enroulement ( ou trancanage) p est compris
+</DESCRIPTION>
+<CLAIMS>
+revendications   1/ dispositif de contrôle d'enroulement à grande vitesse d'un fil métallique (5) en couches successives sur une bobine   (),    comportant un organe de mise en rotation de la bobine et un organe de réglage de la vitesse de translation d'un bras de guidage du fil (6) le long de l'axe (1) de la bobine, caractérisé en ce qu'il comporte en outre un organe de détection et d'affichage du pas d'enroulement du fil sur la bobine.    2/ dispositif selon la revendication 1, caractérisé en ce que ledit organe de détection et d'affichage du pas d'enroulement du fil comprend un capteur de la vitesse de rotation de la bobine (7), un capteur de la vitesse de translation du bras de guidage du fil, et un organe affichant le quotient de la seconde vitesse par la première.   3/ dispositif selon les revendications 1 ou 2, caractérisé en ce qu'il comporte en outre un organe de correction du pas d'enroulement du fil par comparaison du pas affiché avec un pas de consigne.  
+</CLAIMS>
+</TEXT>
+</DOC>

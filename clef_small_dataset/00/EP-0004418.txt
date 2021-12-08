@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004418
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03G-3/34</main> H04B-1/10 H03G-3/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for inhibiting the operation of a noise blanker circuit.
+</TITLE>
+<APPLICANT>
+motorola incus  <sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+augustin michael john<sep>williams wade<sep>augustin, michael john<sep>williams, wade<sep>augustin, michael john6205 glengarry courtfort worth texasus<sep>williams, wade3151 chowen ave. south apt. 339minneapolis minnesotaus<sep>augustin, michael john  <sep>williams, wade <sep>augustin, michael john6205 glengarry courtfort worth texasus<sep>williams, wade3151 chowen ave. south apt. 339minneapolis minnesotaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved blanker circuit for a conventional radio  receiver having a blanker gate (20) and blanking circuitry  (30) for blanking the receiver processed signal is described.   the improvement comprises:   sense means (24) for sensing the relative signal to  noise ratio of the receiver processed signal; and   inhibitor means (32, 34, 36) for inhibiting blanking  action for a predetermined time period in response to said  sense means sensing a predetermined degradation in said  signal to noise ratio.  
+</ABSTRACT>
+</TEXT>
+</DOC>

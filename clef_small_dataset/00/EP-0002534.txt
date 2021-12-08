@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002534
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07K-5/00 C07D-207/40 C07K-1/113 A61P-31/00 C07K-1/00 <main>C07F-9/38</main> C07F-9/40 C07F-9/38 C07D-207/404 C07K-5/06 C07D-207/00 A61K-37/02 A61K-38/00 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+amino acid derivatives, process for obtaining them, intermediate compounds in obtaining them and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch <sep>f. hoffmann-la roche & co. aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+atherton frank ratcliffe  <sep>hall michael john<sep>hassall cedric herbert<sep>lambert robert wilson<sep>ringrose peter stuart<sep>atherton, frank ratcliffe<sep>hall, michael john<sep>hassall, cedric herbert<sep>lambert, robert wilson<sep>ringrose, peter stuart<sep>atherton, frank ratcliffe148 parkwaywelwyn garden city herts.gb<sep>hall, michael john15 connonsfield roadwelwyn herts.gb<sep>hassall, cedric herbert"trelech" tewin close tewin woodwelwyn herts.gb<sep>lambert, robert wilson5 grange hillwelwyn herts.gb<sep>ringrose, peter stuart41 the limesharston cambridgeshiregb<sep>atherton, frank ratcliffe<sep>hall, michael john  <sep>hassall, cedric herbert<sep>lambert, robert wilson<sep>ringrose, peter stuart<sep>atherton, frank ratcliffe148 parkwaywelwyn garden city herts.gb<sep>hall, michael john15 connonsfield roadwelwyn herts.gb<sep>hassall, cedric herbert"trelech" tewin close tewin woodwelwyn herts.gb<sep>lambert, robert wilson5 grange hillwelwyn herts.gb<sep>ringrose, peter stuart41 the limesharston cambridgeshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  amino acid derivatives of general formula i  see diagramm : ep0002534,p11,f1  wherein r**1 signifies hydrogen or methyl and r**2 signifies n-c2-4  -alkyl or 4-guanidinobutyl, with the r-configuration at the c-atom denoted by (a) (when r**1=methyl) and the l-configuration at the c-atom denoted by (b), and their pharmaceutically comptable salts. 
+</ABSTRACT>
+</TEXT>
+</DOC>

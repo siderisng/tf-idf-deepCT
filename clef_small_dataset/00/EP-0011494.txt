@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011494
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-19/24 G11B-5/09 <main>G11B-19/24</main> G11B-19/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for controllably rotating an information storage disc.
+</TITLE>
+<APPLICANT>
+discovision assus  <sep>discovision associates<sep>discovision associatesp.o. box 6600 3300 hyland avenuecosta mesa california 92626us<sep>discovision associates<sep>
+</APPLICANT>
+<INVENTOR>
+ceshkovsky ludwig<sep>dakin wayne ray<sep>ceshkovsky, ludwig<sep>dakin, wayne ray<sep>ceshkovsky, ludwig10435, morning glory avenuefountain valley california 92708us<sep>dakin, wayne ray816, camino realno. 204, redondo beach california 90277us<sep>ceshkovsky, ludwig  <sep>dakin, wayne ray <sep>ceshkovsky, ludwig10435, morning glory avenuefountain valley california 92708us<sep>dakin, wayne ray816, camino realno. 204, redondo beach california 90277us<sep>
+</INVENTOR>
+<ABSTRACT>
+method and apparatus for recovering information at a  substantially constant rate from a rotable information stor­ age disc (110).  the information is stored on the disc (110) in a  plurality of substantially circular and concentrically arranged  information tracks, with a substantially uniform recording  density, and it is recovered by controllably rotating the disc,  relative to a transducer (128) at an angular velocity substan­ tially inversely proportional to the radius of the correspond­ ing track.  the apparatus includes a coarse speed control  potentiometer (130) for producing a measure of the radius of  the particular information track from which information is  being recovered, and fine speed control means (136) for  comparing the relative phase angles of a periodic signal in  the recovered information and a periodic reference signal  and for producing a fine speed control signal proportional to  the phase difference.  the measure of radius and the fine  speed control signal are summed together and coupled to a  voltage-controlled oscillator (132) to produce a composite  speed control signal, which is coupled to a servo (134) to  rotate the disc (110) at a corresponding angular velocity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

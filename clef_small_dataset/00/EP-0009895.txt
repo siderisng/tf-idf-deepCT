@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009895
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-9/14 <main>H02P-9/30</main> H02J-7/24 H02J-7/16 H02P-9/30 G05F-1/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a voltage control apparatus for electric generators for vehicles.
+</TITLE>
+<APPLICANT>
+nippon denso cojp<sep>nippondenso co., ltd.<sep>nippondenso co., ltd.1-1, showa-chokariya-shi aichi-kenjp<sep>nippondenso co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+akita yoshio<sep>asahi taro<sep>banzai keiichiro<sep>itoh katsui <sep>iwaki katsutaro <sep>mase akira<sep>mori kazumasa<sep>muto katsuya<sep>nimura takayasu<sep>akita, yoshio<sep>asahi, taro<sep>banzai, keiichiro<sep>itoh, katsui<sep>iwaki, katsutaro<sep>mase, akira<sep>mori, kazumasa<sep>muto, katsuya<sep>nimura, takayasu<sep>akita, yoshio1437 mitsui tanyochoichinomiya-shijp<sep>asahi, taro12-42 showa-5-chomechiryu-shijp<sep>banzai, keiichiro16-5 tsukamoto wakabayashinishimachitoyota-shijp<sep>itoh, katsui1-86 tsutsubayashi nodachokariya-shijp<sep>iwaki, katsutaro7-8 sakura aizumachochiryu-shijp<sep>mase, akira180 sumiyoshicho-2-chomehanda-shijp<sep>mori, kazumasa13-12 aza kamiimaike oaza morioka higashiurachochita-gun aichi-kenjp<sep>muto, katsuya41-1 kamisawatari ogakiechokariya-shijp<sep>nimura, takayasu57-120 horagai narumichomidori-ku nagoyojp<sep>akita, yoshio<sep>asahi, taro<sep>banzai, keiichiro<sep>itoh, katsui<sep>iwaki, katsutaro<sep>mase, akira<sep>mori, kazumasa<sep>muto, katsuya<sep>nimura, takayasu<sep>akita, yoshio1437 mitsui tanyochoichinomiya-shi jp<sep>asahi, taro 12-42 showa-5-chome chiryu-shi jp <sep>banzai, keiichiro16-5 tsukamoto wakabayashinishimachitoyota-shijp<sep>itoh, katsui1-86 tsutsubayashi nodachokariya-shijp<sep>iwaki, katsutaro7-8 sakura aizumachochiryu-shijp<sep>mase, akira180 sumiyoshicho-2-chomehanda-shijp<sep>mori, kazumasa13-12 aza kamiimaike oaza morioka higashiurachochita-gun aichi-kenjp<sep>muto, katsuya41-1 kamisawatari ogakiechokariya-shijp<sep>nimura, takayasu57-120 horagai narumichomidori-ku nagoyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a voltage control apparatus for an electric generator (2-4)  for vehicles includes an armature winding (3), an exciting coil  (4), a rectifier (2) for rectifying an a. c.  output from the armature  winding (3), and a voltage regulator(5).  the voltage regulator  (5) comprises a differential amplifier circuit (26) producing a  detected voltage corresponding to a difference between a  battery charging voltage and a reference voltage, a com­ parator circuit (30) comparing the detected voltage with a  triangular waveform voltage generated at constant periods  and producing a pulsed output voltage, a first driver circuit  (51) effecting duty-factor-control of an exciting current flow­ ing through the exciting coil (4) in response to the pulsed  output voltage, and an initial excitation circuit (32) for causing  a predetermined small initial exciting current to flow through  the exciting coil (4) intermittently during a time interval after  the start of the electric generator (2-4).  
+</ABSTRACT>
+</TEXT>
+</DOC>

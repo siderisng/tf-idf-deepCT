@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005581
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23Q-9/00 G05B-19/414 B23Q-9/02 F22B-37/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+remotely controlled tool-positioning table and method for its operation.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation  <sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>
+</APPLICANT>
+<INVENTOR>
+castner raymond paulus<sep>gerkey kenneth sylvesterus<sep>smith edward henryus<sep>castner, raymond paul<sep>gerkey, kenneth sylvester<sep>smith, edward henry<sep>castner, raymond paul1154 lasalle roadmonroeville pennsylvaniaus<sep>gerkey, kenneth sylvester186 seminole drivepittsburgh pennsylvaniaus<sep>smith, edward henrybox 661brave, pennsylvania 15316us<sep>
+</INVENTOR>
+<ABSTRACT>
+a remotely operated and monitored tool support and  positioning apparatus for retubing a steam generator  adapted for mounting below the tubesheet of a vertically  standing nuclear steam generator.  a tool holding arm  comprises a platform with an opening and a rotatable plate  (50) supported thereon with a vertical hollow shaft (48)  extending downwardly through the opening (28).  the lower  surface of said plate (50) has a plurality of cavities (58) evenly  spaced along a circle whose center is the axis of rotation of  said plate (50), and an indexing means including a movable  pin (62) is associated with said platform (24) so as to be  received in said cavities (58), the pin (62) being movable  between a fully retracted position permitting rotation of said  plate (50) and a fully protruding position for indexed seating  within one of said cavities (58) to position said plate (50) in an  exact angular position.  this arrangement facilitates remote positioning of a tool  in limited and radioactive area of a nuclear steam generator  heat for repair work.  
+</ABSTRACT>
+</TEXT>
+</DOC>

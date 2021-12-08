@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007028
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-9/355 G06F-15/78 G06F-12/06 G06F-12/02 G11C-8/00 G06F-13/00 <main>G06F-9/36</main> G06F-9/26 G06F-9/24 G06F-9/34 G06F-15/76 G06F-9/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+external memory device with base register.
+</TITLE>
+<APPLICANT>
+burroughs corpus<sep>burroughs corporation<sep>burroughs corporation (a michigan corporation)burroughs placedetroit, michigan 48232us<sep>burroughs corporation<sep>
+</APPLICANT>
+<INVENTOR>
+drogichen daniel p<sep>drogichen, daniel p.<sep>drogichen, daniel p.bl magdalene house, 500w. rosedale ave.;w.chester, pa. 19380us<sep>drogichen, daniel p.<sep>drogichen, daniel p.bl magdalene house, 500w. rosedale ave.;w.chester, pa. 19380us<sep>
+</INVENTOR>
+<ABSTRACT>
+a device for use with a digital computer for storing stan­ dard software used by the computer and modifying the  address portions of the standard software prior to transmis­ sion to the computer.  the device includes a rom package  containing a rom within which is stored a standard software  subprogram written assuming it is stored at an absolute loca­ tion in the computer's memory other than its actual location in  the computer's memory system.  also included in the rom  package is a base register which can be loaded, under control  of the operating system software, with an offset value reflect­ ing the difference between the actual starting memory system  location of the subprogram stored in the rom and the  assumed absolute starting location of the subprogram.  each  rom word includes an extra bit to indicate whether the cor­ responding data word contains an address requiring reloca­ tion.  as a word is read out of rom, a gating circuit tests  whether an address relocation is required.  if the test is posi­ tive, the gating circuit gates the value in the base register into  one input of an adder located on the rom package, the other  input to the adder coming from the data word read out of the  rom.  the resulting modified data word outputted from the  adder is sent to the computer.  if the rom output does not  indicate that a relocation is required, the gating circuit pro­ vides a zero input to the adder so that the adder output reflects  the unmodified input from the rom.  
+</ABSTRACT>
+</TEXT>
+</DOC>

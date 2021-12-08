@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009794
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07B-43/02 C07C-231/12 C07C-231/00 C07C-233/15 C07B-43/00 C07C-233/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of nitro acetanilides.
+</TITLE>
+<APPLICANT>
+basf agde <sep>basf aktiengesellschaft<sep>basf aktiengesellschaft carl-bosch-strasse 38 67063 ludwigshafen de<sep>
+</APPLICANT>
+<INVENTOR>
+armbrust herbertde<sep>benz kurtde<sep>rotermund gerhard w drde<sep>armbrust, herbert<sep>benz, kurt<sep>rotermund, gerhard w., dr.<sep>armbrust, herbertjoh.-sebastian-bach-strasse 6d-6718 gruenstadt 1de<sep>benz, kurtwielandstrasse 6d-6725 roemerberg 3de<sep>rotermund, gerhard w., dr.landfriedstrasse 3d-6900 heidelbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+the process for nitrating acetanilides with concentrated nitric acid is characterised in that the acetanilides are dissolved in concentrated h2so4 and the solution is combined in a heat-conducting reactor with up to 65% strength nitric acid in such a way that the reactor temperature does not exceed approximately 30 deg c.  the products are useful starting materials, for example for preparing dyes. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur herstellung von nitroacetaniliden die erfindung betrifft ein verfahren zur herstellung von nitroacetanilicen aus acetaniliden durch nitrierung mit salpetersäure, das dadurch gekennzeichnet ist, dass man das acetanilid in konzentrierter schwefelsäure löst und die lösung in einem reaktor mit guter wärmeabführung mit bis zu 65 %iger salpetersäure so vereinigt, dass eine reaktionstemperatur von ungefähr 30 c nicht überschritten wird. bevorzugt ist eine salpetersäurekonzentration von 50 bis 65 z. als konzentrierte schwefelsäure wird zweckmässigerweise die übliche 96 ziege säure verwendet, in der die acetanilide zu einer ungefahr 25 zeigen lösung aufgelöst werden. reaktoren mit guter wärmeabführung sind beispielsweise plattenwärmetauscher oder dünnschicht- oder fallfilmverdampfer, wie die unter der bezeichnungen r sambay oder bekannten gerste. die acetanilid-lösungen und die salpetersäure werden in einer mischstrecke vermischt und reagieren lassen. die mengen der komponenten und die kühlung werden dabei so auf- einander abgestimmt, dass eine reaktionstemperatur von 30 c nicht überschritten wird. es kann dabei zweckmässig sein, einen teil der bereits nitrierten acetanilidlösung als verdünnungsmittel im kreis zu fahren. die nitrierung der acetanilide erfolgt praktisch momentan, so dass die abgezogene reaktionslösung praktisch keine aus gangsverbindung mehr enthält. die nitrooacetanilide können aus der rektionslösung z.b. durch eingiessen in wasser und abfiltrieren isoliert werden. nitroacetanilide sind vorprodukte zur herstellung von farb- stoffen; z.b. erhält man durch reduktion der nitrogruppe und anschliessende alkylierung der aminogruppe wertvolle xupplungskomponenten zur erstellung von beispielsweise marineblauen azofarbstoffen. in den folgenden beispielen beziehen sich angaben über teile und prozente, sofern nicnt anders vermerkt, auf das gewicht. beispiel 1 eine lösung von 25 teilen acet-p-anisidin in 75 teilen 96-98 %iger schwefelsäure und 18,9 teile 53 %ige sal petersäure werden getrennt dem sambay zugeführt. die bei den zuläufe werden im sambay mit hilfe von rückgeführter produktlösung im verhältnis 1:20 verdünnt (zwecks vermei- dung lokaler überhitzung). der sambay-ablauf mit maxima 30 c wird in einem bei +5 0c betriebenen kristallisator mit 200 teilen wasser verdünnt (teile wasser/teile reaktions- lösung = 1,5/1 bis 2/1). nach der trennung des auskristalli- sierten 2-nitro-acet-p-znisidins von der schwefelsauren lösung und der anschliessenden trocknung erhält man 28,6 teile (90 z d.th.) der nitrierten verbindung. beispiel 2 in einem mischkreis bestehend aus umwäzpumpe und platten- wärmetauscher wird die zugepumpte lösung aus 25 teilen acet-p-anisidin und 75 teilen 96-98 %iger schwefelsäure mit der im mischkreis schon umlaufenden menge im verhältnis 1:10 bis 1:20 verdünnt. gleichzeitig werden 15,4 teile 65 %ige salpetersäure in den mischkreis eindosiert. die aus dem mischkreis auslaufende reaktionslösung wird analog beispiel 1 aufgearbeitet. man erhält so ebenfalls 28,6 teie 2-nitro-acet-p-anisidin. beispiel 3 in einem mischkreis, bestehend aus umwälzpumpe und plattenwärmetauscher wird die zugepumpte lösung aus 20 teilen acetanilid und 80 teilen 96 zeiger schwefelsäure -mit der im mischkreis umlaufenden menge im m verhältnis 1:10 verdünnt. gleichzeitig werden 15 teile 65 %ige salpetersäure in den mischkreis eindosiert. die aus dem mischkreis überlaufende reaktionslösung mit maximal 300 wird in einem bei +5 c be- triebenen rührkessel mit 100 teilen wasser versetzt. nach der abtrennung des auskristallisierten 4-nitro-acetanilias und der trocknung erhält man 26,7 teile des produktes. alternativ kann man auch die aus dem
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche   1. verfahren zur nitrierung von   acetaniliden    mit konzen trierter salpetersäure, dadurch gekennzeichnet, dass man die acetanilide in konzentrierter h2so4 löst und die lösung in einem reaktor mit guter wärmeabführung mit bis zu 65 %iger salpetersäure so vereinigt, dass die reaktionstemperatur   ungefähr    30 c nicht über schreitet.   2. verfahren gemäss anspruch 1, dadurch gekennzeichnet, dass man 50-bis 65 %ige salpetersäure verwendet.   3. verfahren gemäss anspruch 1, dadurch gekennzeichnet, dass man als schwefelsäure 96 %ige säure verwendet.   4. verfahren gemäss anspruch 1, dadurch gekennzeichnet, dass man   acet-p-anisidin    nitriert.  
+</CLAIMS>
+</TEXT>
+</DOC>

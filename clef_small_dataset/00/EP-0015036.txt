@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015036
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-7/08 C07K-7/06 A61P-25/00 C07K-14/435 C07K-7/00 C07K-14/675 <main>C07C-103/52</main> A61K-38/22 A61K-37/02 C07K-14/67 A61K-38/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+psycho-pharmacological peptides, process for their preparation and therapeutical compositions containing them.
+</TITLE>
+<APPLICANT>
+akzo nvnl<sep>akzo n.v.<sep>akzo n.v.velperweg 76nl-6824 bm arnhemnl<sep>akzo n.v. <sep>
+</APPLICANT>
+<INVENTOR>
+de wied david<sep>greven hendrik marie<sep>de wied, david<sep>greven, hendrik marie<sep>de wied, davidlassuslaan 41bilthovennl<sep>greven, hendrik mariedeken van der cammenweg 13heeschnl<sep>de wied, david <sep>greven, hendrik marie  <sep>de wied, davidlassuslaan 41bilthovennl<sep>greven, hendrik mariedeken van der cammenweg 13heeschnl<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention relates to novel psycho-­ pharmacological active peptides and peptide derivatives of  the formula:   a-r-l-ser-r₁-l-thr-l-pro-l-leu-l-val-l-thr-b   wherein   r represents the amino acid residue l-lys or l-arg,   r₁ represents the amino acid residue l-glu or l-gln,   b represents one of the following amino acid or peptide-­ radicals:   l-leu-oh, (α-dehydro)leu-oh   d-leu-oh   l-leu-l-phe-oh   l-leu-l-phe-l-lys-oh   l-meleu-oh   or the radical    and a represents one of the following radicals or residues:   hydrogen   h-l-glu   z₁-l-glu   z₂-l-ser-l-glu-   h-q₁-l-thr-l-ser-l-glu-   q₂-l-thr-l-ser-l-glu-   z₃-q₁-l-thr-l-ser-l-glu- or   h₂n-alk-co-l-phe-q₁-l-thr-l-ser-l-glu-   in which z₁ represents h-l-ser, h-d-ser, desamino-ser,  2,3-dihydroxy propanoyl or  h₂n-alk-co-,   z₂ represents h-l-thr, h-d-thr, desamino-thr,  2,3-dihydroxybutanoyl or  h₂n-alk-co;   q₁ represents l-met, l-met(o), l-met(o₂) or  l-leu   q₂ represents h-d-met, h-d-met(o), h-d-leu,  h-d-met (o₂), desamino met,  desamino met (o), desamino met  (o₂),  desamino leu, 2-hydroxy-4-­ methylthiobutanoyl, 2-hydroxy-4-­ methylpentanoyl or the radical  h₂n-alk-co,   z₃, represents h-l-phe, h-d-phe,  desamino phe, 2-hydroxy-3-­ phenyl-propanoyl and  h₂n-alk-co-,   and alk represents an alkylene or alkylidene  group with 1-6 carbon atoms,  as well as the functional derivatives thereof.  
+</ABSTRACT>
+</TEXT>
+</DOC>

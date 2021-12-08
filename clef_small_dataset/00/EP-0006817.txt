@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006817
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01L-19/08 G01L-13/00 G01L-11/00 G01L-19/00 G01L-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+numerically operating pressure sensor.
+</TITLE>
+<APPLICANT>
+mecilec safr<sep>mecilec societe anonyme francaise<sep>mecilec société anonyme française29, rue du coliséef-75008 parisfr<sep>
+</APPLICANT>
+<INVENTOR>
+guillemot philippefr<sep>guillemot, philippe<sep>guillemot, philippe78, rue de l'ouestf-75014 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Pressure measuring device operating in digital. This device comprises: - a first chamber (70) subject to pressure to surrender; a second chamber (72) subjected to reference pressure and gathered at the first by at least one or verture (74) provided with a valve (78); - measuring means (82) of the gap, in size and in sign, between the pressures which respectively reign in the first and second chambers, this means delivering an electrical signal function of said gap; - a detection circuit (84) of the moments where the said gap reaches an increment + Δp or a decrement -Δo pre determined, and detection of the moments where this difference becomes zero; - means (80) connected circuit (84) and capable of controlling the opening of the valves (78) when the gap reaches the values ​​± ΔP and to control the closure of the valves when this difference becomes zero; - Count-counting means (86, 88) connected to said circuit and capable of counting the number of increments + Δp obtained decreased from the number of decrements -ΔP obtained. Application to the production of pressure sensors usable in the gases or liquids.
+</ABSTRACT>
+</TEXT>
+</DOC>

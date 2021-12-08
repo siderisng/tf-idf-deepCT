@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001955
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02F-1/17</main> G02F-1/155 G02F-1/153 G09F-9/30 G02F-1/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrode for an electrolytic display cell and process for its manufacture.
+</TITLE>
+<APPLICANT>
+commissariat energie atomique fr  <sep>commissariat a l'energie atomique<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel <sep>
+</APPLICANT>
+<INVENTOR>
+duchene jacques<sep>meyer robert<sep>duchene, jacques<sep>meyer, robert<sep>duchene, jacques23, boulevard maréchal leclercf-38000 grenoblefr<sep>meyer, robert1, rue wilsonf-38610 gieresfr<sep>duchene, jacques<sep>meyer, robert  <sep>duchene, jacques23, boulevard maréchal leclercf-38000 grenoblefr<sep>meyer, robert1, rue wilsonf-38610 gieresfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an electrode for electrolysis cell and in particular a transparent electrode for electrolytic display cell and its manufacturing process.The electrode is constituted by a conductive layer deposited on an electrical insulating carrier and is characterized in that said said first layer layer is coated with a said second-layer conductive layer made of a material different from that of said first layer andSelected in such a way as, under the operating conditions of said electrolysis cell, it can not occur parasitic side reactions that may degrade said layers.Application to electrolytic display devices.
+</ABSTRACT>
+</TEXT>
+</DOC>

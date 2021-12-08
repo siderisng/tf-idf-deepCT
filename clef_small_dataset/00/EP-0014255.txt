@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014255
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22B-1/14 <main>C22B-1/243</main> C22B-1/243 C22B-7/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the densification of flue dust containing zinc oxides.
+</TITLE>
+<APPLICANT>
+goldschmidt ag thde<sep>th. goldschmidt ag<sep>th. goldschmidt aggoldschmidtstrasse 100d-45127 essende<sep>th. goldschmidt ag<sep>
+</APPLICANT>
+<INVENTOR>
+muller wolfgang dr<sep>stroh arthur<sep>muller, wolfgang, dr.<sep>stroh, arthur<sep>müller, wolfgang, dr.relaisstrasse 179d-6800 mannheimde<sep>stroh, arthurgartenstrasse 42d-6831 rohrhofde<sep>muller, wolfgang, dr.  <sep>stroh, arthur <sep>müller, wolfgang, dr.relaisstrasse 179d-6800 mannheimde<sep>stroh, arthurgartenstrasse 42d-6831 rohrhofde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for consolidating airborne dusts containing zinc oxide, to form a compact mass, characterized in that the dusts are treated with an aqueous solution, acidified by means of a mineral acid and , if appropriate, containing a zinc salt of this acid. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur verfestigung von zinkoxidhaltigen flugstäuben die erfindung betrifft ein verfahren zur verfestigung von zinkoxidhaltigen flugstäuben zu einer kompakten masse. in der buntmetallverarbeitenden industrie fallen insbesondere beim einschmelzen von frischmetall oder beim aufarbeiten von rücklaufmetall feine hochvoluminöse flugstäube an, die in nachgeschalteten üblichen staubfilteranlagen zurückgehalten werden. diese stäube setzen sich hauptsächlich aus zinkoxid (40 bis 75 %), feinverteiltem russ und zu einem geringen teil aus weiteren legierungsmetallen teils in oxidischer oder metallischer form zusammen. beim entleeren der filteranlagen und beim abfüllen der stäube in die dafür vorgesehenen behälter belästigen die immer wieder dabei aufwirbelnden stäube in unangenehmer weise die umgebung. dieses kann gesundheitliche schädigungen nach sich ziehen. dazu kommt, dass diese fein verteilten flugstäube zur selbstentzündung neigen und deshalb beim wiederaufwirbeln zu explosionen führen können. ein weiterer nachteil dieser stäube ist ihr ausserordentlich niedriges schüttgewicht. sie nehmen aufgrund ihrer lockeren und sehr feinen verteilung erheblichen platz ein, so dass für den abtransport relativ geringer gewichtsmengen immer ein grosses raumaffgebot zur verfügung gestellt werden muss. es sind daher schon seit langem bestrebungen vorhanden, die staubbildung durch sogenannte staubbindemittel einzudämmen und die stäube zu verfestigen. als staubbindemittel für diese materialien ist bisher in grossem umfang wasser verwendet worden, das jedoch nur für kurze zeit nach dem einbringen abhilfe schafft, da nach dem verdunsten des wassers die verfestigungswirkung nachlässt, so dass das feinteilige metall wieder zur staubbildung befähigt ist. der erfindung liegt daher die aufgabe zugrunde, ein verfahren zu schaffen, mit dem es gelingt, die staubbildung dauerhaft wirksam zu unterbinden, wobei die so verfestigten stäube ein hohes schüttgewicht erreichen und deshalb weniger aufwendig transportiert werden können. die lösung dieser aufgabe gelingt dadurch, dass die stäube mit einer wässrigen, mineralsauren, gegebenenfalls ein zinksalz dieser säure enthaltenden lösung behandelt werden. mit hilfe dieses verfahrens wird eine dauerhafte verfestigung der stäube zu einer kompakten masse erreicht, welche nach dem verdunsten des wassers fest ist, kompakt bleibt und nicht wieder zur staubbildung neigt. das vorher niedrige schüttgewicht ist durch die erfindungsgemässe behandlung der stäube mit der wässrigen, mineralsauren zinksalzlösung verdrei- bis versechsfacht worden. man kann deshalb erheblich mehr flugstäube in den dafür vorgesehenen behältern unterbringen und gefahrlos transportieren, da diese so verfestigten stäube nicht mehr selbstentzündlich sind. bevorzugt verwendet man 10 bis 25 gew.-% der wässrigen, mineralsauren, gegebenenfalls ein zinksalz dieser säure enthaltenden lösung (bezogen auf das gewicht der stäube), weil damit ein optimum der verfestigung und ein sehr hohes schüttgewicht erreicht wird. die unbehandelten flugstäube haben ein schüttgewicht, das in der grössenordnung von 150 bis 250 g/l liegt. nach der behandlung mit der erfindungsgemässen lösung liegen'diese gewichte bei 450 bis 1600 g/l. die behandlung der flugstäube kann mit der bindenden lösung durch aufsprühen erfolgen. die stäube können auch in einer mischschnecke mit der lösung kompaktiert werden. es ist zweckmässig, die behandlung der stäube mit einer 5 bis 10 gew.-%igen wässrigen, mineralsauren lösung vorzunehmen, da mit diesem gehalt an säure die wirtschaftlich besten ergebnisse bei der kompaktlerung der stäube erzielt werden. dabei werden 5 bis 10 gew.-%ige wässrige säuren bevorzugt, die gegebenenfalls noch 17 bis 48 g/l
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche:    1. verfahren zur verfestigung von zinkoxidhaltigen flug stäuben zu einer kompakten masse, dadurch gekennzeich net, dass die stäube mit einer wässrigen, mineralsauren, gegebenenfalls ein zinksalz dieser säure enthaltenden lösung behandelt werden.   2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass die stäube mit 10 bis 25 gew.-% dieser lösung, bezogen auf das gewicht der stäube, behandelt werden.   3. verfahren nach anspruch 1 und 2, dadurch gekennzeich net, dass die behandlung mit einer 5 bis 10 gew.-%igen wässrigen säure durchgeführt wird.   4. verfahren nach anspruch 3, dadurch gekennzeichnet, dass als säure salzsäure, schwefelsäure oder salpetersäure verwendet wird.   5. verfahren nach anspruch 1 bis 3, dadurch gekennzeich net, dass die behandlung mit einer säure durchgeführt wird, welche zusätzlich 17 bis 48 g/l zink in form des entsprechenden zinksalzes dieser säure enthält.  
+</CLAIMS>
+</TEXT>
+</DOC>

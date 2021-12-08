@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011134
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-37/00 A61K-31/58 A61P-37/08 <main>C07J-21/00</main> C07J-21/00 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydrocortisone-ortho ester, pharmaceutical compositions containing them and process for their preparation.
+</TITLE>
+<APPLICANT>
+merck patent gmbhde<sep>merck patent gesellschaft mit beschrankter haftung <sep>merck patent gmbhpostfach, frankfurter strasse 250d-64271 darmstadt de  <sep>merck patent gesellschaft mit beschrankter haftung<sep>
+</APPLICANT>
+<INVENTOR>
+baumgarth manfred dr chem<sep>harting jurgen dr<sep>orth dieter dr chem<sep>schaefer hans prof dr chem<sep>zesch achim prof dr<sep>baumgarth, manfred, dr. chem.<sep>harting, jurgen, dr.<sep>orth, dieter, dr. chem.<sep>schaefer, hans, prof. dr. chem.<sep>zesch, achim, prof. dr.<sep>baumgarth, manfred, dr. chem.sachsenstrasse 53d-6100 darmstadtde<sep>harting, jürgen, dr.heidelbergerstrasse 123d-6100 darmstadtde<sep>orth, dieter, dr. chem.jahnstrasse 83d-6100 darmstadtde<sep>schaefer, hans, prof. dr. chem.avenue des pins domaine du pimeauf-06600 antibesfr<sep>zesch, achim, prof. dr.graneweg 11d-1000 berlin 28de<sep>baumgarth, manfred, dr. chem.<sep>harting, jurgen, dr.<sep>orth, dieter, dr. chem.<sep>schaefer, hans, prof. dr. chem. <sep>zesch, achim, prof. dr.<sep>baumgarth, manfred, dr. chem. sachsenstrasse 53 d-6100 darmstadt de<sep>harting, jürgen, dr.heidelbergerstrasse 123d-6100 darmstadtde<sep>orth, dieter, dr. chem.jahnstrasse 83d-6100 darmstadtde<sep>schaefer, hans, prof. dr. chem.avenue des pins domaine du pimeauf-06600 antibesfr<sep>zesch, achim, prof. dr.graneweg 11d-1000 berlin 28de<sep>
+</INVENTOR>
+<ABSTRACT>
+New hydrocortisone ortho ester of the general formal I wherein R¹ and R² are each H or CH₃ and N 1 or 2, can be prepared by reacting hydrocorti son with lactones of general formula II wherein R¹, R² and N have the meaning given above, ortheir reactive derivatives and show anti phlogistic effects.
+</ABSTRACT>
+</TEXT>
+</DOC>

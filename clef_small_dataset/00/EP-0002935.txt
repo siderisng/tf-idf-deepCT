@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002935
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-17/02 <main>F16K-31/36</main> F16K-17/04 F16K-17/08 F16K-31/365 F16L-55/04 F16K-31/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+differential pressure relief valve.
+</TITLE>
+<APPLICANT>
+honeywell braukmann gmbhde<sep>honeywell braukmann gmbh<sep>honeywell-braukmann gmbhhardhofwegd-74821 mosbachde<sep>honeywell-braukmann gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+braukmann heinz werner<sep>braukmann, heinz, werner<sep>braukmann, heinz, werner5601 steeles avenue westweston, ontarioca<sep>braukmann, heinz, werner <sep>braukmann, heinz, werner5601 steeles avenue westweston, ontarioca<sep>
+</INVENTOR>
+<ABSTRACT>
+a differential pressure relief valve has a housing with  first and second chambers sealed from the atmosphere  and separated by an annular diaphragm, with the  chambers and the diaphragm being traversed by a sleeve  movable with the diaphragm.  the first chamber communicates  with a primary pressure source through a first  channel in the valve housing, and the second chamber  communicates with a secondary pressure source through  holes provided in the sleeve and through a second channel  in the housing.  the end of the sleeve remote from the  second channel extends from the second chamber to  seal with a valve seat.  when the primary pressure exceeds  the secondary pressure by a predetermined amount, the  lower end of the sleeve engages the valve seat.  when the  primary pressure does not exceed the secondary  pressure by the predetermined amount, the lower end  of the sleeve does not engage the valve seat, and fluid  escapes from the second conduit through the second  channel and the sleeve past the valve seat until the  differential pressure rises to the predetermined amount.  
+</ABSTRACT>
+</TEXT>
+</DOC>

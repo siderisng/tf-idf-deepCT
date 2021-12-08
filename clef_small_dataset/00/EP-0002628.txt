@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002628
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+B24C-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic sand blasting machine for large-size objects.
+</TITLE>
+<APPLICANT>
+lutelec luchaire equipfr<sep>lutelec luchaire equipement<sep>lutelec luchaire equipement9, rue barbèsf-93100 montreuilfr<sep>
+</APPLICANT>
+<INVENTOR>
+sandillon bernardfr<sep>sandillon, bernard<sep>sandillon, bernard14, rue de saintongef-78310 maurepasfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to the field of metal surface treatment using an abrasive jet with particulate materials.  the abrasive-spraying members (8) are subjected to an alternately oscillating movement, the spraying members (8) and the surfaces to be treated (3) are displaced relative to one another, and the speed of the oscillating movement is modified for specified points of the travel of the members (8).  the means of displacement of the spraying members (8) comprise support means (10, 11, 12) arranged along a contour matching the shape of the piece to be treated (1), means of angular displacement (13), means of relative displacement (4, 19) of the spraying members, and means for monitoring the speed of displacement.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

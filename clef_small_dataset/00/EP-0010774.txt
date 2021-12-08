@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010774
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-25/04 <main>G01S-3/42</main> G01S-3/14 H01Q-25/00 G01S-3/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and system for tracking an object radiating a circularly or linearly polarized electromagnetic signal.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecom it <sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>
+</APPLICANT>
+<INVENTOR>
+bielli paolo<sep>de padova salvatore<sep>savini dario<sep>bielli, paolo<sep>de padova, salvatore<sep>savini, dario<sep>bielli, paolovia rossetti 68ciriè - torinoit<sep>de padova, salvatorevia frejus, 10torinoit<sep>savini, dariop.za carducci, 161torinoit<sep>bielli, paolo <sep>de padova, salvatore<sep>savini, dario  <sep>bielli, paolo via rossetti 68ciriè - torinoit<sep>de padova, salvatorevia frejus, 10torinoit<sep>savini, dariop.za carducci, 161torinoit<sep>
+</INVENTOR>
+<ABSTRACT>
+the method for tracking an object emitting a circu­ larly or linearly-polarized electromagnetic wave utilizes only  the te21 mode signals, extracted by means of two pairs  of slots (a, a′; b, b′) located on planes at π/4 in the  antenna feed.  the signals of a slot pair are substracted  one from the other and the resulting signals are made  proportional to the antenna displacement from nominal  object direction.  this is obtained by making an angle ,  that determines the angular position of the plane passing  through a pair, equal to half an angle α, that determines  the angular position of the polarization plane.  the system  that carries out the method is also described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

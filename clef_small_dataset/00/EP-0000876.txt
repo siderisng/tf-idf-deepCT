@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000876
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-11/11 <main>B23K-11/10</main> B23K-11/30 B23K-11/31 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spot welding apparatus for electric resistance welding especially for precision welding of small scale elements.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+dederer gunter<sep>murkl helmut<sep>dederer, gunter<sep>murkl, helmut<sep>dederer, günterwotanstrasse 12d-8034 germeringde<sep>mürkl, helmutgabriele-münter-strasse 15d-8000 münchen 71de<sep>dederer, gunter  <sep>murkl, helmut <sep>dederer, günterwotanstrasse 12d-8034 germeringde<sep>mürkl, helmutgabriele-münter-strasse 15d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+The precision spot welding head consists of a feed carriage (2) and a electrode carriage mounted therein (4), by means of which an always accurate reproducible resistive fan point welding groove is possible.The electrode carriage (4) is designed as a clamping device (5) for the welding electrode, wherein a pressure spring (21) serving for applying the electrode force is mounted within the electrode carriage.Both the electrode carriage as well as that of the latter feed carriage (2) are each guided in ball guide rails (32 and 33).
+</ABSTRACT>
+</TEXT>
+</DOC>

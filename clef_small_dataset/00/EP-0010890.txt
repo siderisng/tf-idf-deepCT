@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010890
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23B-39/20 G05B-19/23 B23Q-3/157 G05B-19/18 G05B-19/19 B23B-39/00 <main>B23Q-3/157</main> B23Q-3/155 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic tool changers for machine tools.
+</TITLE>
+<APPLICANT>
+fanuc ltdjp<sep>fanuc ltd<sep>fanuc ltd.3580, shibokusa aza-komanba, oshinomuraminamitsuru-gun, yamanashi 401-05jp<sep>fanuc ltd<sep>
+</APPLICANT>
+<INVENTOR>
+shimajiri tokiji<sep>toyoda kenichi<sep>yamazaki takahumi<sep>shimajiri, tokiji<sep>toyoda, kenichi<sep>yamazaki, takahumi<sep>shimajiri, tokiji2090-7, ikuta tama-kukawasaki-shi kanagawa-ken 214jp<sep>toyoda, kenichi3-27 tamadairahino-shi tokyo 191jp<sep>yamazaki, takahumi15-3, saiwai-cho suita-shiosada-fu 564jp<sep>shimajiri, tokiji  <sep>toyoda, kenichi <sep>yamazaki, takahumi<sep>shimajiri, tokiji2090-7, ikuta tama-kukawasaki-shi kanagawa-ken 214jp<sep>toyoda, kenichi3-27 tamadairahino-shi tokyo 191jp<sep>yamazaki, takahumi15-3, saiwai-cho suita-shiosada-fu 564jp<sep>
+</INVENTOR>
+<ABSTRACT>
+automatic tool changers for machine tools having  spindle mechanisms which can be driven selectively in op­ posite directions along the spindle have previously relied  on sensing switches to detect spindle mechanism position  and to control a spindle mechanism drive.  the use of  sensing switches has caused problems in attaining smooth  control and in reliability.  this invention uses a position signal generator (31)  arranged to provide position signals whenever a rotary  spindle mechanism drive (8, 9) rotates, and an arrange­ ment for computing the position of the spindle me­ chanism (7) on the basis of the position signals and for  varying the speed of the spindle mechanism in dependen­ ce upon the computed position.  no sensing switches need  be used.  this invention can be used in an automatic tool chan­ ger for a vertical machining center.  
+</ABSTRACT>
+</TEXT>
+</DOC>

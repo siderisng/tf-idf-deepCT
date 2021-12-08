@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005676
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01F-13/08 H02K-44/00 H02K-44/06 B22D-11/11 B01F-13/00 B22D-11/115 B22D-11/10 B22D-11/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electromagnetic agitating process applied to continuous casting
+</TITLE>
+<APPLICANT>
+cem comp electro mecfr <sep>c e m compagnie electro mecanique societe anonyme<sep>c e m compagnie electro mecanique société anonyme 12, rue portalis f-75008 paris fr<sep>
+</APPLICANT>
+<INVENTOR>
+burnier pierrefr<sep>kant michelfr<sep>burnier, pierre<sep>kant, michel<sep>burnier, pierre4, rue de condéf-93150 longjumeaufr<sep>kant, michel5 allée guillaume des flavyf-60150 thourottefr<sep>
+</INVENTOR>
+<ABSTRACT>
+the process enabling to rabble by electromagnetic means the molten liquid of a billet or a bloom in the course of continuous casting, consisting in applying a movable electromagnetic field to a region of the molten well formed by the billet or the bloom in the course of casting.  it consists in applying to said region an electromagnetic field which is displaced in a helical manner around said region in such a manner as to produce a helical movement of the molten metal in the peripheral portion of the molten well.  the invention enables the metallurgical quality of the billets or blooms obtained by continuous casting to be greatly improved.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

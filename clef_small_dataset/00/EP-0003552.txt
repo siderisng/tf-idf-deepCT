@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003552
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08B-15/00 C08B-15/06 G03F-7/10 C08F-8/30 C08F-8/00 G03F-7/038 C08G-81/02 <main>C08F-8/30</main> H01L-21/30 C08G-81/00 C08H-1/00 H01L-21/02 G03F-7/004 C08F-2/46 C08B-37/00 C08B-31/00 H01L-21/027 C08F-2/48 G03C-1/68 C08G-85/00 C08F-2/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polymers with lateral tricyclic imidyl groups, cross-linkable by the action of light, their preparation and their use.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+bellus daniel dr<sep>zweifel hans dr<sep>bellus, daniel, dr.<sep>zweifel, hans, dr.<sep>bellus, daniel, dr.unterm schellenberg 81ch-4125 riehench<sep>zweifel, hans, dr.lothringerstrasse 93ch-4056 baselch<sep>bellus, daniel, dr.<sep>zweifel, hans, dr.<sep>bellus, daniel, dr.unterm schellenberg 81ch-4125 riehench<sep>zweifel, hans, dr.lothringerstrasse 93ch-4056 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+It is under the action of light crosslinkable new polymers with pendant tricyclic imidyl groups, e.g.b.those of the formula described.The new light-crosslinkable polymers are suitable for photomechanical applications, e.g.b.For the production of pressure plates for the offset printing method and in particular as a so-called photoresist.They have high UV absorption and ensure a high degree of crosslinking speed even without the addition of photosensitizers.
+</ABSTRACT>
+</TEXT>
+</DOC>

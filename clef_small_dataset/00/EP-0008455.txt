@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008455
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-15/00 G01S-7/56 <main>G01S-7/52</main> G01S-15/34 G09B-21/00 A61F-9/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and apparatus for providing information as to the existence or position of objects.
+</TITLE>
+<APPLICANT>
+kay leslie<sep>kay, leslie<sep>kay, leslie82 scarborough roadchristchurch 8nz<sep>kay, leslie<sep>
+</APPLICANT>
+<INVENTOR>
+kay leslie<sep>kay, leslie<sep>kay, leslie82 scarborough roadchristchurch 8nz<sep>kay, leslie<sep>kay, leslie82 scarborough roadchristchurch 8nz<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of and apparatus for locating an object by  stress wave energy reflection in which the wave energy is  transmitted as a beam by transmitting transducer elements  (10a to 10j), and is scanned through successive sectors of a  field of view (2 ø ) by imposing differential transmission  delays on transmitting signals fed to the elements (10a to 10j)  by means of a delay line (19).  indicator signals are developed  in receiving channels connected respectively to receiving  transducers (28l, 28r) providing binaural characteristics, and  transducer (28) providing monaural characteristics but collec­ tively covering the field (2 ø).  the indicator means comprises  any, or any combination, of audible means (34l, 34r, 34),  visual means or tactile means the two latter providing coordi­ nate displays, and the receiving means including spectral  analysing means (f1-f7) for segregating the indicator signals  into separate different frequency band, and delay means  (d1-d7) for imposing differential delays compensating for  transit time of wave energy reflection in the medium corre­ lated with different range bands before coordinate display.  
+</ABSTRACT>
+</TEXT>
+</DOC>

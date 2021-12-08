@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009266
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22F-1/00 C22C-9/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+brazable memory alloy and process for the brazing of said memory alloy.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & cie ch  <sep>bbc aktiengesellschaft brown, boveri & cie.<sep>bbc aktiengesellschaft brown, boveri &amp; cie.haselstrassech-5401 badench<sep>
+</APPLICANT>
+<INVENTOR>
+melton keith drch<sep>mercier olivier drch<sep>melton, keith, dr.<sep>mercier, olivier, dr.<sep>melton, keith, dr.sonnenrainstrasse 291ch-5453 busslingench<sep>mercier, olivier, dr.geissbergstrasse 19ch-5401 badench<sep>
+</INVENTOR>
+<ABSTRACT>
+With hardlot solderable shape memory alloy of β-special measuring type consisting of copper, zinc and aluminum minium with a nickel additive for grain fueling.Drive to brazing a component consisting of the memory alloy with another metallic component.By bringing the workpiece thus formed according to the brazing total soil to the solution temperature for the β-phase of the memory alloy and then quenching in water.
+</ABSTRACT>
+</TEXT>
+</DOC>

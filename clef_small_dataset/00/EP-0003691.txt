@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003691
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-42/02 <main>G03B-41/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+exposing means for a radiodiagnostic apparatus comprising removable amplifying screens.
+</TITLE>
+<APPLICANT>
+radiologie cie glefr<sep>compagnie generale de radiologie<sep>compagnie generale de radiologie13 square max-hymansf-75741 paris cedex 15fr<sep>compagnie generale de radiologie<sep>
+</APPLICANT>
+<INVENTOR>
+bombray marcel<sep>caugant jean<sep>bombray, marcel<sep>caugant, jean<sep>bombray, marcel"thomson-csf" - scpi 173, bl. haussmannf-75360 paris cedex 08fr<sep>caugant, jean"thomson-csf" - scpi 173, bl. haussmannf-75360 paris cedex 08fr<sep>bombray, marcel<sep>caugant, jean <sep>bombray, marcel "thomson-csf" - scpi 173, bl. haussmann f-75360 paris cedex 08fr<sep>caugant, jean"thomson-csf" - scpi 173, bl. haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Device supporting the image reinforcing screens needed by X-rays, whose structure is such that these screens and supports can be very easily removed for radioscopies.The exposure device according to the invention comprises a chassis (7) attached to the radiodiagnostic apparatus in its exposure zone and a removable grade (8) supporting the sliding reinforcing screens in this chassis.Application to radiographic devices that can be used alternately in radiography and radioscopy.
+</ABSTRACT>
+</TEXT>
+</DOC>

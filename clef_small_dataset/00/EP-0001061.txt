@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001061
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07F-9/09 C07K-7/06 C07K-1/113 A61P-25/00 C07K-1/00 C07K-7/00 <main>C07C-103/52</main> A61K-37/02 A61K-38/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polypeptides, their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+sandoz agch<sep>sandoz ag<sep>sandoz aglichtstrasse 354002 baselch<sep>sandoz ag<sep>
+</APPLICANT>
+<INVENTOR>
+pless janos dr<sep>sandrin edmond<sep>pless, janos, dr.<sep>sandrin, edmond<sep>pless, janos, dr.kluserstrasse 24ch-4053 baselch<sep>sandrin, edmondweilstrasse 78ch-4125 riehench<sep>pless, janos, dr.<sep>sandrin, edmond<sep>pless, janos, dr.kluserstrasse 24ch-4053 baselch<sep>sandrin, edmondweilstrasse 78ch-4125 riehench<sep>
+</INVENTOR>
+<ABSTRACT>
+New polypeptides or polypeptide derivatives with ZnS activity of formula IA - B - C - D - E I where a for H-TRP, H-METRP, H-TRP (5-OH) or H-METRP (5-OH),B for Ala, C for Ser, Thr, Ala, Gly, Val or a radical of the formula wherein R is hydrogen, alkyl with 1 - 4 C atoms or an alkaline or alkaline earth metal and R₁ hydrogen or methyl, D for gly or sar, E for the radical -NH-H-CH₂-YX and Y independently of each other for CoZ or CH₂OH, Z for OH, OR, or₂, NH₂, NHR₃, R₂, R₃ and R₄ independently of each other for alkyl groups with 1 - 4 C atoms, wherein the radicals A, B, C and E may have the configuration of the L, D or D, L series, as well as salts, acid adding salts and complexes of these polypeptides or polypep tidder derivatives.
+</ABSTRACT>
+</TEXT>
+</DOC>

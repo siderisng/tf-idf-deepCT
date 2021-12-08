@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014115
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03B-5/18</main> H03B-1/00 H03B-5/18 H03H-2/00 H03B-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tunable high frequency magnetostatic wave oscillator.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+castera jean-paul<sep>dupont jean-marie<sep>castera, jean-paul<sep>dupont, jean-marie<sep>castera, jean-paul"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>dupont, jean-marie"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>castera, jean-paul  <sep>dupont, jean-marie<sep>castera, jean-paul"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>dupont, jean-marie"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a microwave oscillator, use of the magnetostatic surface or volume waves which can propagate in a thin layer of my genetic material (1).The oscillator is obtained from a resonator comprising two resonant coupled networking cavities (6, 7 and 7, 8) of different equivalent lengths so that the first multimode and the second monomode in the bandwidth in reflectionResolves, the cavities being arranged so that the second filter the modes propagated in the first.With microwave signals (e) being applied to one of the cavities, the resonant waves are collected in the second.The oscillator according to the invention can be used as a microwave source for devices requiring signals whose frequency is of the order of GHz and can run from several GHz.
+</ABSTRACT>
+</TEXT>
+</DOC>

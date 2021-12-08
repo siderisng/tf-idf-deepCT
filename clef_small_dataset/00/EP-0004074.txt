@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004074
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-77/38 C10M-107/00 C10M-105/76 C10M-3/44 C08G-77/14 C08G-77/00 C07F-7/00 <main>C08G-77/38</main> C10N-40/08 C10M-105/00 C10M-107/50 C07F-7/08 C08G-77/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+organosiloxanes with sic-linked ester groups, preparation and use thereof.
+</TITLE>
+<APPLICANT>
+consortium elektrochem indde <sep>consortium fur elektrochemische industrie gmbh <sep>consortium für elektrochemische industrie gmbh zielstattstrasse 20d-81379 münchende<sep>consortium fur elektrochemische industrie gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+deubzer bernward dr dipl-chem<sep>eibel ludwig<sep>friedrich wilhelm<sep>hafner walter dr dipl-chem<sep>kreis gerhard dr dipl-chem<sep>markl erich<sep>samrowski dietrich<sep>wick manfred dr dipl-chem<sep>deubzer, bernward, dr. dipl.-chem.<sep>eibel, ludwig<sep>friedrich, wilhelm<sep>hafner, walter, dr. dipl.-chem.<sep>kreis, gerhard, dr. dipl.-chem.<sep>markl, erich<sep>samrowski, dietrich<sep>wick, manfred, dr. dipl.-chem.<sep>deubzer, bernward, dr. dipl.-chem.virchowstrasse 14d-8263 burghausende<sep>eibel, ludwigpassauer strasse 170d-8000 münchen 70de<sep>friedrich, wilhelmernst-platz strasse 34d-8000 münchen 50de<sep>hafner, walter, dr. dipl.-chem.sommerfeld 15d-8024 furthde<sep>kreis, gerhard, dr. dipl.-chem.springerstrasse 7d-8000 münchen 71de<sep>markl, erichterofalstrasse 41d-8000 münchen 21de<sep>samrowski, dietrichgrünwalder strasse 47d-8000 münchen 90de<sep>wick, manfred, dr. dipl.-chem.mesnergasse 5d-8162 schlierseede<sep>deubzer, bernward, dr. dipl.-chem.  <sep>eibel, ludwig <sep>friedrich, wilhelm<sep>hafner, walter, dr. dipl.-chem.<sep>kreis, gerhard, dr. dipl.-chem.<sep>markl, erich<sep>samrowski, dietrich<sep>wick, manfred, dr. dipl.-chem.<sep>deubzer, bernward, dr. dipl.-chem.virchowstrasse 14d-8263 burghausende<sep>eibel, ludwigpassauer strasse 170d-8000 münchen 70de<sep>friedrich, wilhelmernst-platz strasse 34d-8000 münchen 50de<sep>hafner, walter, dr. dipl.-chem.sommerfeld 15d-8024 furthde<sep>kreis, gerhard, dr. dipl.-chem.springerstrasse 7d-8000 münchen 71de<sep>markl, erichterofalstrasse 41d-8000 münchen 21de<sep>samrowski, dietrichgrünwalder strasse 47d-8000 münchen 90de<sep>wick, manfred, dr. dipl.-chem.mesnergasse 5d-8162 schlierseede<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to organosiloxanes with SiC-bonded ester groups. The organosiloxanes according to the invention contain at least one unit of general formula ROCCH₂CH (COOR) CH₂CH₂SI (CH₃) AO in this formula means R same or various aliphatic multiple bonds free, optionally an etheric oxygen atomic hydrocarbon radicals having 1 to 12 carbon atoms, R 'hydrogen or CH₃ and A 0, 1 or 2. The organosiloxanes according to the invention may be, for example, by hydrolysis or mixed hydrolysis of silanes of the general formula ROCCH₂CH (COOR) CH₂CH₂SI (CH₃) AX3-A, where R and A each have the meaning given above and X represents the same or various hydrolyzable atoms or identical or different hydrolyzable groups, or prepared by attaching a diester of allyl succinic acid and / or methallyluccinic acid to organosiloxane with Si-bound hydrogen. A preferred use of the new organosiloxanes is their use as lubricants and hydraulic fluids.
+</ABSTRACT>
+</TEXT>
+</DOC>

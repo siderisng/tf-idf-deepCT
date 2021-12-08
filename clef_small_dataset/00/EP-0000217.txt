@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000217
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25D-11/02 F28D-15/02 F28D-15/00 F25B-23/00 F28D-15/06 F25B-25/00 <main>F25D-11/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+refrigerator.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken  <sep>
+</APPLICANT>
+<INVENTOR>
+asselman george albert apoloni<sep>van mensvoort adrianus johanne<sep>asselman, george albert apolonia<sep>van mensvoort, adrianus johannes<sep>asselman, george albert apoloniaprof.holstlaan 6nl-5600 eindhovennl<sep>van mensvoort, adrianus johannesprof.holstlaan 6nl-5600 eindhovennl<sep>asselman, george albert apolonia<sep>van mensvoort, adrianus johannes<sep>asselman, george albert apoloniaprof.holstlaan 6nl-5600 eindhovennl<sep>van mensvoort, adrianus johannesprof.holstlaan 6nl-5600 eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a refrigerator (1) comprising a freezing compartment  (2) and a refrigerating compartment (3) which refrigerator  (1) is provided with a primary refrigerating system (4, 5, 6, 7)  containing a refrigerant with a primary evaporator (7) disposed  in the freezing compartment (2), and a secondary  refrigerating system (8, 9) which also contains a refrigerant  with a secondary evaporator (8) disposed in the refrigerating  compartment (3), and a secondary condensor (9) which  is in heat-exchanging contact with the primary evaporator  (7), which condensor (9) has a condensation wall (10) on  whose surface the refrigerant condenses during operation,  means (12, 13, 16, 17) being provided for varying the available  condensation wall area (10), so as to control the temperature  of the secondary evaporator (8).  preferably, the secondary  condensor (9) is provided with a reservoir (12) containing  a control gas (13), which during operation constitutes  an interface (15) with the refrigerant vapour (14) at the  location of the condensation wall (10), the interface (15)  being movable along the condensation wall (10) with the aid  of a reversible control gas getter (16), which can be heated  and which is located in the reservoir (12), which getter (16)  enables the amount of free control gas (13) to be varied.  the  reversible control-gas getter (16) can be heated by means of  an electric heating element (17) which is included in an  electrical control circuit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

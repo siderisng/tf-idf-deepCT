@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000877
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+B25J-19/00 B25J-9/10 B25J-18/00 F16H-25/20 B25J-15/02 B25J-18/02 B25J-9/04 F16H-25/22 B25J-9/02 B25J-15/00 <main>B25J-11/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+manipulator for positionning workpieces or other loads.
+</TITLE>
+<APPLICANT>
+grisebach hans theodorde<sep>grisebach, hans-theodor<sep>grisebach, hans-theodorkampstrasse 7d-4750 unnade<sep>grisebach, hans-theodor<sep>
+</APPLICANT>
+<INVENTOR>
+betzing klaus<sep>betzing rudolf<sep>betzing ulrich<sep>betzing volker<sep>grisebach hans-th<sep>betzing, klaus<sep>betzing, rudolf<sep>betzing, ulrich<sep>betzing, volker<sep>grisebach, hans-th.<sep>betzing, klausvogelherd 3d-5800 hagende<sep>betzing, rudolfvogelherd 3d-5800 hagende<sep>betzing, ulrichvogelherd 3d-5800 hagende<sep>betzing, volkervogelherd 3d-5800 hagende<sep>grisebach, hans-th.kampstrasse 7d-4750 unnade<sep>betzing, klaus<sep>betzing, rudolf<sep>betzing, ulrich<sep>betzing, volker<sep>grisebach, hans-th.<sep>betzing, klausvogelherd 3d-5800 hagende<sep>betzing, rudolfvogelherd 3d-5800 hagende<sep>betzing, ulrichvogelherd 3d-5800 hagende<sep>betzing, volkervogelherd 3d-5800 hagende<sep>grisebach, hans-th.kampstrasse 7d-4750 unnade<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  manipulator (1) for positioning workpieces (2) or other loads with the aid of a pivotable jib (3), on which a lifting device (4) is arranged at a fixed angle and which lifting device is provided with load holding elements (5) and means which controllably change the spacing of the load holding elements (5) from the pivot axis (6) of the jib (3), characterised in that the pivot axis (6) of the jib (3) is arranged to be substantially vertical and is allocated a hinge (7) having a controllable brake (8), that the lifting device (4) consists of an outer telescopic component (9) which is displaceable in relation to the jib (3) in the direction of the longitudinal axis of the lifting device (4) and consists of at least one inner telescopic component (11) which is axially displaceable in relation to the outer telescopic component (9) by means of a ball-type worm gear (10), that at the free end (12) of the lifting device (4) is arranged a connection block (13) so as to be rotatable about the longitudinal axis of the lifting device (4), which connection block possesses connection surfaces (14), between which and the load holding elements (5) is arranged at least one spacing element (15), on which the load holding elements (5) are rotatably and/or pivotably arranged and driving means (16) for this movement are arranged in the spacing element (15). 
+</ABSTRACT>
+</TEXT>
+</DOC>

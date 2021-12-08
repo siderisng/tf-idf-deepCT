@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015592
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-65/329 C07C-59/135 G03C-1/85 C08G-65/00 C07C-65/21 G03C-1/38 <main>G03C-1/38</main> C11D-1/00 C07C-65/00 C07C-59/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+light-sensitive silver halide materials comprising fluorine-containing surfactants.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa-gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap<sep>
+</APPLICANT>
+<INVENTOR>
+de jaeger nikolaas cyriel<sep>kokelenberg hendrik emmanuel<sep>pollet robert joseph<sep>samijn rafael pierre<sep>sels frans jeanne<sep>ville frans jan<sep>de jaeger, nikolaas cyriel<sep>kokelenberg, hendrik emmanuel<sep>pollet, robert joseph<sep>samijn, rafael pierre<sep>sels, frans jeanne<sep>ville, frans jan<sep>de jaeger, nikolaas cyrielarmand segherslei 96b-2510 mortselbe<sep>kokelenberg, hendrik emmanuelbredabaan 902b-2060 merksembe<sep>pollet, robert josephbroechemsteenweg 115b-2531 vremdebe<sep>samijn, rafael pierremaurits leijtensstraat 29b-2610 wilrijkbe<sep>sels, frans jeanneooststatiestraat 182b-2550 kontichbe<sep>ville, frans janrombout keldermansstraat 22b-2520 edegembe<sep>de jaeger, nikolaas cyriel<sep>kokelenberg, hendrik emmanuel<sep>pollet, robert joseph <sep>samijn, rafael pierre<sep>sels, frans jeanne  <sep>ville, frans jan<sep>de jaeger, nikolaas cyrielarmand segherslei 96b-2510 mortselbe<sep>kokelenberg, hendrik emmanuelbredabaan 902b-2060 merksembe<sep>pollet, robert josephbroechemsteenweg 115b-2531 vremdebe<sep>samijn, rafael pierremaurits leijtensstraat 29b-2610 wilrijkbe<sep>sels, frans jeanneooststatiestraat 182b-2550 kontichbe<sep>ville, frans janrombout keldermansstraat 22b-2520 edegembe<sep>
+</INVENTOR>
+<ABSTRACT>
+fluorine-containing surfactants according to formula  (rf-x)n-a-l-z wherein rf is a short-chain fluorine-con­ taining group derived from hexafluoropropylene or trifluoro­ chloroethylene, x is -o-, -s-, or -so₂-, n is at least 2, the  rf groups being same or different, l is a monovalent bond  or a bivalent bridging group such as -coo-alkylene,  -conr¹-alkylene- or -so₂nr¹-alkylene, wherein r¹ is hy­ drogen or c₁-c₅ alkyl, and z represents a hydrophilic  polyoxyethylene group or a hydrophilic group such as    wherein m is hydrogen, an alkali metal, amonium, or orga­ nic ammonium, and r² is alkyl;   a is an aliphatic, aromatic, or aliphatic-aromatic group.   these surfactants can be used in hydrophilic colloid layers,  which may form part of light-sensitive silver halide mate­ rials.  
+</ABSTRACT>
+</TEXT>
+</DOC>

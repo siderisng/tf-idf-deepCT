@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005756
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-317/00 A01N-43/02 <main>C07D-317/46</main> A01N-43/30 C07D-317/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+5-arylamino-2,2-difluoro-benzodioxolanes, process for their preparation, and their use as pesticides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+brandes wilhelm dr<sep>frohberger paul-ernst dr<sep>hammann ingeborg dr <sep>hartmann alfons dr<sep>lantzsch reinhard dr  <sep>marhold albrecht dr<sep>brandes, wilhelm, dr.<sep>frohberger, paul-ernst, dr.<sep>hammann, ingeborg, dr.<sep>hartmann, alfons, dr.<sep>lantzsch, reinhard, dr.<sep>marhold, albrecht, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5653 leichlingende<sep>frohberger, paul-ernst, dr.willi-baumeister-strasse 5d-5090 leverkusende<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 köln 1de<sep>hartmann, alfons, dr.poststrasse 35d-6645 beckingen 4de<sep>lantzsch, reinhard, dr.heymannstrasse 32d-5090 leverkusen 1de<sep>marhold, albrecht, dr.carl-duisberg-strasse 329d-5090 leverkusen 1de<sep>brandes, wilhelm, dr.<sep>frohberger, paul-ernst, dr.<sep>hammann, ingeborg, dr.<sep>hartmann, alfons, dr.<sep>lantzsch, reinhard, dr.<sep>marhold, albrecht, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3 d-5653 leichlingen de  <sep>frohberger, paul-ernst, dr.willi-baumeister-strasse 5d-5090 leverkusende<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 köln 1de<sep>hartmann, alfons, dr.poststrasse 35d-6645 beckingen 4de<sep>lantzsch, reinhard, dr.heymannstrasse 32d-5090 leverkusen 1de<sep>marhold, albrecht, dr.carl-duisberg-strasse 329d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to the novel 5-arylamino-benzodioxoles of general formula I in which R is hydrogen, optionally by halogen-substituted alkyl or halogen.They have excellent insecticides, scriny and fungicidal properties.They are obtained when reacting 2-chloro-3,5-dinitrobenzo trifluoride of formula II with a 5-amino benzodioxol of the formula III.
+</ABSTRACT>
+</TEXT>
+</DOC>

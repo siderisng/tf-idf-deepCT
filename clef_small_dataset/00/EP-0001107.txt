@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001107
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21F-3/04 B21F-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and device for coiling prestressed helical springs.
+</TITLE>
+<APPLICANT>
+kern & liebersde <sep>hugo kern und liebers gmbh & co. platinen- und federnfabrik <sep>hugo kern und liebers gmbh &amp; co. platinen- und federnfabrik industriestrasse 35d-7230 schramberg 11de<sep>
+</APPLICANT>
+<INVENTOR>
+lassche jakobde<sep>lassche, jakob<sep>lassche, jakobschillerstrasse 3d-7213 dunningen 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+in the coiling of prestressed helical springs, the spring wire (14) is twisted about its longitudinal axis before being coiled round onto a driven mandrel (10).  for this purpose, the wire is first wound onto a freely rotatable reel (22), the axis of which runs substantially perpendicular to the axis of the mandrel (10).  the reel (22) has a draw-off guide (28) via which the wire is drawn off perpendicularly from the plane of the coiled winding and supplied to the mandrel (10).  in order to obtain greater prestressing of the spring, the coiling and drawing-off of the wire can be repeated several times.  before the first twist, the wire can be guided round a free-running reel to prevent it from unwinding.  similarly, between the last twist and the mandrel, the wire can be guided between clamping rollers in order to enable the wire on the winding mandrel to be detached while maintaining the twist.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

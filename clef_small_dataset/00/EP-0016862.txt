@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016862
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-21/00 <main>F15B-21/08</main> F15B-21/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control device for a hydraulic system.
+</TITLE>
+<APPLICANT>
+bosch gmbh robertde<sep>robert bosch gmbh<sep>robert bosch gmbhpostfach 30 02 2070442 stuttgartde<sep>robert bosch gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+friedrich richard ing grad<sep>friedrich, richard, ing. grad.<sep>friedrich, richard, ing. grad.rosenstrasse 4d-8035 gautingde<sep>friedrich, richard, ing. grad.<sep>friedrich, richard, ing. grad.rosenstrasse 4d-8035 gautingde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a control device for a hydraulic system with an adjustable, but not sweepable pump (10), which controls pressure means to at least one consumer (19,24).It is essential that a defined acceleration or delay of the consumers is sufficient by defiined increase in the pressure medium stream, wherein the device is designed by various electro niche control elements so that acceleration shocks are avoided.The pump (28) is adjustable but not reversible, by the type of controller it eliminates the character of a reversible pump.
+</ABSTRACT>
+</TEXT>
+</DOC>

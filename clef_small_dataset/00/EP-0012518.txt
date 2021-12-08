@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012518
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16L-3/00 B67D-9/02 B67D-5/68 B63B-22/02 <main>B67D-5/70</main> B67D-9/00 B63B-22/00 B63B-35/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+articulated fluid transferring apparatus.
+</TITLE>
+<APPLICANT>
+fmc corpus<sep>fmc corporation<sep>fmc corporation200 east randolph drivechicago illinois 60601us<sep>fmc corporation<sep>
+</APPLICANT>
+<INVENTOR>
+talafuse larry james<sep>talafuse, larry james<sep>talafuse, larry james7914 litchfield lanespring texasus<sep>talafuse, larry james<sep>talafuse, larry james7914 litchfield lanespring texasus<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for transferring oil or other fluid in an  offshore loading system comprises a vertical column (10)  pivoted to a base (12) on the ocean floor, and held vertical  by a buoy (23), and a loading arm (36) supported at the  upper end of the column.  the loading arm has an inboard  rigid conduit member 40 pivoted about a horizontal axis  at its inner end to the column and an outboard rigid conduit  member (41) pivoted about mutually perpendicular axes  at its inner end to the outer end of the inboard conduit  member.  the outer end of the outboard conduit member  includes a valve (119) and a universal joint (108) by which  the outboard member can be coupled to a manifold on  board a ship to be loaded.  the apparatus is operable by  power-operating means on board the ship.  
+</ABSTRACT>
+</TEXT>
+</DOC>

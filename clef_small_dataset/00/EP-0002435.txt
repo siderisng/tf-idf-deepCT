@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002435
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08C-23/02 G10L-15/00 G10L-15/26 H04B-1/20 G08C-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+remote control for controlling and switching variable and fixed functions and parameters in telecommunication equipment.
+</TITLE>
+<APPLICANT>
+ruppertsberg siegfried r<sep>ruppertsberg, siegfried r.  <sep>ruppertsberg, siegfried r.weinstrasse 1d-8630 coburgde<sep>
+</APPLICANT>
+<INVENTOR>
+ruppertsberg siegfried r<sep>ruppertsberg, siegfried r.<sep>ruppertsberg, siegfried r.weinstrasse 1d-8630 coburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+in a remote control transmitter of a remote control system for the controlling, switching on and switching over of variable and fixed functions and functional magnitudes in electronic apparatus, operating keys are provided, on the actuation of which function generators are switched on to provide signals which are transmitted, modulated in amplitude or frequency, to a receiver, demodulated and fed to function setters.  in order to be able to feed in control commands also without key pressure, a speech analyser (2) is arranged in the remote control transmitter and connected with a microphone (1), which receives acoustic commands.  the acoustic commands are evaluated according to frequency and word parts, compared with stored comparison signals and on agreement have the effect that a control command signal is transmitted from a transmitting stage (4) to apparatus to be controlled, the apparatus having a receiving circuit (5).  the setting information signals are, after decoding, fed to function setters (7a to 7d). 
+</ABSTRACT>
+</TEXT>
+</DOC>

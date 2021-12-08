@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0006903
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-83/14 H02H-3/32 H01H-77/00 H01H-83/00 H02H-3/33 H01H-77/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+defect current protection swtich, reacting to double biased direct defect currents.
+</TITLE>
+<APPLICANT>
+gath nicolas<sep>gath, nicolas<sep>gath, nicolas15, rue joseph tockert l-luxembourg hollerich lu <sep>
+</APPLICANT>
+<INVENTOR>
+gath nicolas<sep>gath, nicolas<sep>gath, nicolas15, rue joseph tockertl-luxembourg hollerichlu<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

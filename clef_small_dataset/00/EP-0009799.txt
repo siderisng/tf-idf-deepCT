@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009799
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06M-3/12 G06M-3/00 G06F-11/10 G06K-5/00 G06C-11/00 <main>G06K-5/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for representing and/or producing a modulus n check symbol next to a multiple-position sequence of characters.
+</TITLE>
+<APPLICANT>
+nixdorf computer agde   <sep>nixdorf computer aktiengesellschaft<sep>siemens nixdorf informationssysteme aktiengesellschaftfürstenallee 7d-33102 paderbornde<sep>nixdorf computer aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+miehe friedrich viktor<sep>unglaube uwe<sep>miehe, friedrich viktor<sep>unglaube, uwe<sep>miehe, friedrich viktor43, bertramstrassed-1000 berlin 28de<sep>unglaube, uwe5, staudenwegd-1000 berlin 22de<sep>miehe, friedrich viktor  <sep>unglaube, uwe<sep>miehe, friedrich viktor43, bertramstrassed-1000 berlin 28de<sep>unglaube, uwe5, staudenwegd-1000 berlin 22de<sep>
+</INVENTOR>
+<ABSTRACT>
+In a mechanically adjustable multi-digit Zechwerk is provided in addition to several character carriers (10-15), which are individually adjustable to one of N possible characters, a further drawing carrier (16) provided, which with the adjusting device of the (17, 17a, 18) adjustable characterCarrier (16) is coupled in such a way that each adjustment of a SER sign carrier (10-15) results in an adjustment of the further time carrier (16) by a predetermined amount.The further sign carriers (16) in this way allows the representation and / or generation of a modulotic test character.
+</ABSTRACT>
+</TEXT>
+</DOC>

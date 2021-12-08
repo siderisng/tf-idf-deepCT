@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005801
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01P-1/36 H01P-1/32 H01P-1/387 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+microwave ferrite component.
+</TITLE>
+<APPLICANT>
+hitachi metals ltdjp<sep>hitachi metals, ltd.<sep>hitachi metals, ltd.1-2, marunouchi 2-chomechiyoda-ku, tokyo 100jp<sep>
+</APPLICANT>
+<INVENTOR>
+kawashima masaharujp<sep>takeda shigerujp<sep>kawashima, masaharu<sep>takeda, shigeru<sep>kawashima, masaharu450, ohaza-niborishindenkumagaya-shi saitama-kenjp<sep>takeda, shigeru787-16, ohaza-jurokkenkumagaya-shi saitama-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a microwave ferrite component comprises one or two  ferrite cores (18) enclosed by a shield plate (20), at least one  central conductor (19) extending through the shield plate (20)  and the ferrite core (18).  this arrangement is disposed  approximately at the center of, and in close contact with, an  element (16) of soft magnetic material or an earth plate (17)  mounted on the soft magnetic material (16).  a permanent  magnet (21) optionally provided with magnetic field and  flux-regulating pieces on either side is disposed above or  upon the shield plate (20) enclosing the ferrite core (18) and  central conductor (19).  a dc magnetic field is applied to the  ferrite core (18).  this microwave ferrite component may be  used for a 30° circulator-isolator operating at 800 mhz under  high electric power.  
+</ABSTRACT>
+</TEXT>
+</DOC>

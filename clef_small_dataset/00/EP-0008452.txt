@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008452
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-65/56 F16D-65/38 F16D-65/14 <main>F16D-55/224</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+disc brake actuating mechanism.
+</TITLE>
+<APPLICANT>
+pont a moussonfr<sep>pont-a-mousson s.a.<sep>pont-a-mousson s.a.91, avenue de la libérationf-54017 nancyfr<sep>pont-a-mousson s.a. <sep>
+</APPLICANT>
+<INVENTOR>
+tosi pierre guy<sep>tosi, pierre guy<sep>tosi, pierre guy31 pré hayerf-54700 pont-a-moussonfr<sep>tosi, pierre guy <sep>tosi, pierre guy31 pré hayerf-54700 pont-a-moussonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Mechanical command carried by a floating stirrup 3 with frictional trim 9a, 9b around a brake disc 1. A system has 16-17-18 drum cams with four conjugated two-to-two helical ramps makes it possible to transform a movement ofRotation of a control lever 11 in a translation movement printed at friction trim 9a, 9b so that they are tightened on a disc 1. The cams-drums allow to transform and amplify the printed rotating motor motionby the control lever.Application to heavy vehicles, tractors, public works gear etc...
+</ABSTRACT>
+</TEXT>
+</DOC>

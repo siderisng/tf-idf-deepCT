@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000987
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/372 <main>A61N-1/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+demand pacer with programmable rate hysteresis.
+</TITLE>
+<APPLICANT>
+biotronik mess & therapiegde <sep>biotronik mess- und therapiegerate gmbh & co ingenieurburo berlin <sep>biotronik mess- und therapiegeräte gmbh &amp; co ingenieurbüro berlin sieversufer 8d-12359 berlinde<sep>biotronik mess- und therapiegerate gmbh & co ingenieurburo berlin<sep>
+</APPLICANT>
+<INVENTOR>
+digby dennis<sep>keller john walter<sep>digby, dennis<sep>keller, john walter<sep>digby, dennis2409 gunflint trailbrooklyn park minnesota 55444us<sep>keller, john walter8600 s.w. 54th avenuemiami floridaus<sep>digby, dennis  <sep>keller, john walter<sep>digby, dennis2409 gunflint trailbrooklyn park minnesota 55444us<sep>keller, john walter8600 s.w. 54th avenuemiami floridaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a demand pacer has a local memory element (13),  programmable from a remote source, which detects whether  or not the hysteresis rate adjustment is to be employed.   when hysteresis is disabled, the pacer operates in the normal  demand mode, at a rate optionally selected by the  same memory.  in the hysteresis mode, a flip-flop (7) controls  gating means (3, 4), ultimately operable at conventional  or hysteresis rates, ultimately for controlling the output  amplifier.  an input amplifier senses natural heart beat  signals, and enables a gating means (15), which has been  conditioned for hysteresis mode operation, to reset the  flip-flop and in turn the output controlling gates.  
+</ABSTRACT>
+</TEXT>
+</DOC>

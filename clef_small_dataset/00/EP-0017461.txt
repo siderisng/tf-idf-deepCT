@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017461
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-11/06 <main>G01B-11/06</main> G01N-21/17 G01N-21/31 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for determining the thickness, moisture content or other parameter of a film or coating.
+</TITLE>
+<APPLICANT>
+infrared enggb<sep>infrared engineering limited<sep>infrared engineering limitedblue millwoodham walter maldon essex cm9 6lsgb<sep>infrared engineering limited  <sep>
+</APPLICANT>
+<INVENTOR>
+edgar roger foers<sep>edgar, roger foers<sep>edgar, roger foers14, london roadmaldon essexgb<sep>edgar, roger foers<sep>edgar, roger foers14, london roadmaldon essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the apparatus employs two or more beams of radiation  of different spectral composition which are transmitted  through a sample (3) and received by a detector (8) which  provides signals for computing the required parameter by  ration measurements.  the beams are directed to a sample  zone where a part is transmitted through, and a part is  reflected by a sample (3).  the invention provides diffusing  means (7) to receive the transmitted and reflected parts and  pass the same onto a radiation responsive detector (8).  the  diffusing means (7) may be a ground glass plate or a  member made of fused alumina.  a concave mirror (9) may  be used to reflect the reflected part back through the sample  zone which is close to or at the centre of curvature of the  mirror.  a beamsplitter (12) may also be used so that the  beams are directed substantially normal to a plane in the  sample zone.  
+</ABSTRACT>
+</TEXT>
+</DOC>

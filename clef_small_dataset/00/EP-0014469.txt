@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014469
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-37/00 A61P-37/08 C07D-235/00 A61K-31/4184 C07D-235/12 A61K-31/4164 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+benzimidazole-2-yl derivatives as medicines, their application and pharmaceutical compositions containing them
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 141 4002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+ferrini pier giorgio dr ch<sep>habicht ernst drch<sep>sallmann alfred drch<sep>ferrini, pier giorgio, dr.<sep>habicht, ernst, dr.<sep>sallmann, alfred, dr.<sep>ferrini, pier giorgio, dr.im rehwechsel 22ch-4102 binningench<sep>habicht, ernst, dr.bienenstrasse 13ch-4104 oberwilch<sep>sallmann, alfred, dr.joachimsackerstrasse 12ch-4103 bottmingench<sep>
+</INVENTOR>
+<ABSTRACT>
+Core acylated benzimidazole 2-derivatives of the formula <image> wherein R1 represents an aliphatic cycloaliphatic, aromatic, araliphatic, heterocyclic or heterocyclic aliphatic radical, R2 is hydrogen or an aliphatic radical, and pH is a radical R1-C (= O)- Containing 1,2-phenylene group represents anti-allergic properties, serve as medicaments and can be used as drug active ingredients in pharmaceutical preparations.
+</ABSTRACT>
+</TEXT>
+</DOC>

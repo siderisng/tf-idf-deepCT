@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012278
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12P-19/26 C07D-211/00 C12R-1/01 C12P-19/00 C12R-1/645 C12P-17/10 C12P-19/44 C07C-271/00 <main>C07D-211/46</main> C12P-17/12 C07H-13/12 C07D-211/46 C07H-13/00 C07C-271/16 C12R-1/15 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of n-substituted derivatives of 1-deoxy-nojirimycine.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+kinast gunther dr<sep>schedel michael dr<sep>kinast, gunther, dr.<sep>schedel, michael, dr.<sep>kinast, günther, dr.am eckbusch 35/33d-5600 wuppertal 1de<sep>schedel, michael, dr.sillerstrasse 49d-5600 wuppertal 11de<sep>kinast, gunther, dr.<sep>schedel, michael, dr.<sep>kinast, günther, dr.am eckbusch 35/33d-5600 wuppertal 1de<sep>schedel, michael, dr.sillerstrasse 49d-5600 wuppertal 11de<sep>
+</INVENTOR>
+<ABSTRACT>
+optionally n-substituted 1-deoxynojirimycin compounds are obtained by obtaining n-protected 1-amino-1-deoxy-D-glucitols of the formula wherein R is hydrogen, optionally substituted alkyl, aralkyl or aryl and R₁ optionally substituted benzyl or β-alkenylmean oxidized with aerobic microorganisms to corresponding N-protected 6-amino-6-deoxy-L-Sorbo SE compounds of the formula and these compounds catalytically hydrogenated
+</ABSTRACT>
+</TEXT>
+</DOC>

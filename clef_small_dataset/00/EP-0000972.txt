@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000972
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-37/00 A61K-31/403 C07D-209/12 A61K-31/40 C07D-209/00 A61K-31/404 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-substituted-3-phenylindoles, their preparation, and pharmaceutical compositions containing them
+</TITLE>
+<APPLICANT>
+technobiotic ltdch<sep>technobiotic ltd.<sep>technobiotic ltd.töpferstrasse 5ch-6004 lucernech <sep>
+</APPLICANT>
+<INVENTOR>
+steinman martin us  <sep>tahbaz pirouzus<sep>steinman, martin<sep>tahbaz, pirouz<sep>steinman, martin46 glendale avenuelivingston new jersey 07039us<sep>tahbaz, pirouz96 oak drivecedar grove new jersey 07009us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to novel 3-phenyl-indoles of the formula <chem>  wherein x and y are independently hydrogen or halogen atoms;  each n is 1, 2 or 3,  q is an oxygen atom or the group (h,oh), z is a hydrogen atom, or provided that q is an oxygen atom, z can also be the group or, wherein r is a hydrogen atom or a lower alkyl or loweralkoxy-loweralkyl group, "lower" indicating groups with 1-6 carbon atoms, m is 1 or 2 when z is a hydrogen atom and m is o when z is the group or, to their preparation, and to pharmaceutical compositions containing them.  these compounds have immunosuppressant activity and can be used for example in the treatment of rheumatoid arthritis. 
+</ABSTRACT>
+</TEXT>
+</DOC>

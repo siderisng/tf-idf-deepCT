@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010784
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B03C-3/70 B03C-3/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device and method for avoiding a soiling turbulence during the ventilation of insulators in electrofilters.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde <sep>metallgesellschaft ag<sep>metallgesellschaft ag postfach 10 15 01, reuterweg 14 d-60015 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+hartmann wolfgangde<sep>hartmann, wolfgang<sep>hartmann, wolfganghinter den obstgärten 1d-6000 frankfurt/main 60de<sep>
+</INVENTOR>
+<ABSTRACT>
+insulators of this kind connect partially to the gas space of the electric filter so that dust depositions form on them which can lead to sparkovers.  in order to avoid this, the carrying devices (4) which are supported on the insulator (3) via a cap (5) and extend through an opening (2) of the filter wall (1) are surrounded with a so-called rinsing tube (7) which is mounted gas-tightly on the filter wall (1) and can be impacted with a ventilation gas stream.  the ventilation gas is introduced into the rinsing tube in a circular fashion into the rinsing tube [lacuna] nozzles (6) arranged around the orifice (2) via a feed device (10) and an annular pressure space (9), from which it emerges into the gas space (8) of the filter.  in devices of this kind, it must be prevented that inside the rinsing tube (7) eddies form which can lead to dust-containing gas being taken into the rinsing tube (7) and ultimately also to dust depositions on the insulator (3).  in order to achieve this object, it is provided according to the invention that impact plates (11) are arranged below the openings of the nozzles (6) vertically and symmetrically with respect to the jet axis of the nozzles (6).  in this way, an eddy-free ventilation gas stream is generated in the discharge plane of the rinsing pipe (7) and any return flow of dust-containing gases into the rinsing pipe (7) is avoided.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

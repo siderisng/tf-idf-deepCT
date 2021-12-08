@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011850
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-17/52 G03B-17/48 G03B-27/32 G03D-9/00 G03B-19/02 <main>G03B-27/30</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the exposure and development of light-sensitive material.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert ag<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+fergg berthold dr<sep>osegowitsch viktor<sep>stemme otto dr<sep>viehrig wolfgang<sep>fergg, berthold, dr.<sep>osegowitsch, viktor<sep>stemme, otto, dr.<sep>viehrig, wolfgang<sep>fergg, berthold, dr.enzianring 3d-8021 taufkirchende<sep>osegowitsch, viktorahornring 47d-8021 taufkirchende<sep>stemme, otto, dr.heideckstrasse 29d-8000 münchen 19de<sep>viehrig, wolfgangsachranger strasse 16d-8000 münchen 90de<sep>fergg, berthold, dr.<sep>osegowitsch, viktor <sep>stemme, otto, dr.<sep>viehrig, wolfgang  <sep>fergg, berthold, dr.enzianring 3d-8021 taufkirchende<sep>osegowitsch, viktorahornring 47d-8021 taufkirchende<sep>stemme, otto, dr.heideckstrasse 29d-8000 münchen 19de<sep>viehrig, wolfgangsachranger strasse 16d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+The device for exposing and developing photosensitive material has an exposure device (1), a receptacle (15) for the photosensitive material (15a) serving as a positive plane and a development station (18).The photosensitive material (15a) is to be treated according to the diffusion method.Below the receptacle (15) is a light-tight-lockable diffusion chamber (29) and laterally next to the receptacle (15) and the diffusion chamber (29) the development station (18), in which the material carried out under reversal of its direction of movement and into the diffusion chamber (29) is entered.By applying the diffusion method, the transport speed by the developer bath is little critical, so that the material promotion can be made by hand.Thus and due to the compact design, the device is particularly suitable as a home laboratory.
+</ABSTRACT>
+</TEXT>
+</DOC>

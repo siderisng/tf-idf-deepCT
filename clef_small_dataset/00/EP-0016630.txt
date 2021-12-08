@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016630
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-26/12 G03G-15/04 B41J-2/44 <main>G02B-27/17</main> H04N-1/113 G03B-27/52 G02B-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical scanning apparatus.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation<sep>
+</APPLICANT>
+<INVENTOR>
+brueggeman harry p<sep>brueggeman, harry p<sep>brueggeman, harry p980 sherwood roadsan marino californiaus<sep>brueggeman, harry p<sep>brueggeman, harry p980 sherwood roadsan marino californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+optical scanning apparatus for scanning a light beam (2)  across a photosensitive surface (12).  the scanner (6) is of the  rotating polygon type, and has a positive cylinder mirror (10)  located between the polygon scanner (6) and the photosensi­ tive surface (12).  the positive cylinder mirror, which has  power in the sagittal (cross-scan) plane but no power in the  tangential (scan) plane, minimizes scan-to-scan spot position  errors due to angular alignment errors between adjacent  facets (4) of the polygon scanner without introducing  significant sagittal field curvature.  residual sagittal field  curvature is compensated for by providing a negative  refractive cylinder lens (14), with power in the sagittal plane,  between the cylindrical mirror (10) and the polygon scanner  (6).  
+</ABSTRACT>
+</TEXT>
+</DOC>

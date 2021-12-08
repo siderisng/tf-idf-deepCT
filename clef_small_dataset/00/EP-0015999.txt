@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0015999
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+B63B-35/73 B63H-9/00 B63B-35/79 B63H-9/10 F16B-7/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+wishbone.
+</TITLE>
+<APPLICANT>
+marker hannesde<sep>marker, hannes<sep>marker, hannesalpspitzstrasse 37d-82467 garmisch-partenkirchende <sep>
+</APPLICANT>
+<INVENTOR>
+huess otto de  <sep>marker hans christiande<sep>huess, otto<sep>marker, hans christian<sep>hüss, ottohaus nr. 219d-8101 wallgaude<sep>marker, hans christianalpspitzstrasse 37d-8100 garmisch-partenkirchende<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

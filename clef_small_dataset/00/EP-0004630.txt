@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004630
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+B31B-1/74 B65H-7/06 B31B-1/92 B65H-45/00 B65H-9/16 B65H-29/70 D06F-89/00 B65H-45/16 B65H-7/02 B65H-29/62 <main>B65H-45/00</main> B65H-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+plastic bag handling system.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation<sep>
+</APPLICANT>
+<INVENTOR>
+mcdonald james anthonyus<sep>stachel earl frederickus<sep>mcdonald, james anthony<sep>stachel, earl frederick<sep>mcdonald, james anthony6230 carol lanepalos heights illinois 60463us<sep>stachel, earl frederick1042 n. oakley drive, w-104westmont illinoisus<sep>mcdonald, james anthony<sep>stachel, earl frederick<sep>
+</INVENTOR>
+<ABSTRACT>
+a system (16) for handling and transferring plastic bags  (15) between folding stations (14, 18) including control  means for monitoring the folding accuracy and alignment of  each bag (15) while advancing along a preditermined path  and means responsive to the control means for diverting  each improperly registered bag (15) from such path.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017277
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-18/14 B65H-19/22 B29C-71/00 <main>B65H-19/22</main> B65H-18/16 B65H-17/00 B29D-1/00 B65H-17/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for winding continuous webs.
+</TITLE>
+<APPLICANT>
+looser gottlieb<sep>looser, gottlieb<sep>looser, gottliebrigistrasse 28ch-8006 zürichch<sep>looser, gottlieb<sep>
+</APPLICANT>
+<INVENTOR>
+looser gottlieb<sep>looser, gottlieb<sep>looser, gottliebrigistrasse 28ch-8006 zürichch<sep>looser, gottlieb<sep>looser, gottliebrigistrasse 28ch-8006 zürichch<sep>
+</INVENTOR>
+<ABSTRACT>
+the apparatus (30) serves for winding continuous webs  onto a sequence of mandrels (350); the web (31) is in contact  with a rotating winding drum (33) and is guided onto an  empty mandrel (350) supported in a first operating position  defined by support (36) where winding is started and where a  partially wound mandrel is produced; the partially wound  mandrel is transferred into a second operating position  defined by support (38) without interruption of coil forma­ tion; when a predetermined coil (359) has been formed, the  web is cut by an automatic knife (37) and the leading web  edge so produced is taken up by another empty mandrel  (350) supplied from a magazine; the fully wound coil is  transferred from the second operating position (38) to  storage (351) and the operating cycle is repeated; a force-­ sensor (301) is connected with the winding drum (33) to  measure the force that is exerted by the outer surface of the  coil (359) on the mandrel (358) in the second operating  position and a compensator (39) is connected with the  support (38) that holds the mandrel (358) in the second  operating position; the output signal from the force-sensor  (301) is fed into a control device (306) that actuates the  compensator (39) so that the effective pressure exerted by  coil (359) against the winding drum (33) can be maintained at  a predetermined value; a drive (305) is provided for central  winding of coil (359) when in the second operating position.   as a consequence, film coil formation is not limited to a  surface winding mode in the second coil position but can be  supplemented or replaced by a center winding mode of  operation; such dual or even multiple mode is of substantial  advantage when adapting the operation of a winding  installation of a polymer film producing plant to polymer  films of varying surface properties including those that  cannot be processed but on conventional central winders  and those that cannot be processed on conventional surface  winders.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000863
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01L-23/56</main> H01L-27/04 H01L-21/822 H01L-23/34 G05D-23/20 H01L-27/08 H01L-27/02 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+temperature compensated integrated semiconductor resistor.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+bergeron david leo<sep>stephens geoffrey brownell<sep>bergeron, david leo<sep>stephens, geoffrey brownell<sep>bergeron, david leo7606 wedgewood drivemanassas, virginia 22110us<sep>stephens, geoffrey brownell10 mercer courtcatlett, virginia 22019us<sep>bergeron, david leo<sep>stephens, geoffrey brownell<sep>bergeron, david leo7606 wedgewood drivemanassas, virginia 22110us<sep>stephens, geoffrey brownell10 mercer courtcatlett, virginia 22019us<sep>
+</INVENTOR>
+<ABSTRACT>
+To compensate the temperature cycle of integrated semiconductor resistors, the knowledge is applied that the value of a resistor is also a function of the potential difference between the resistor (8) itself and the surrounding epitaxial layer 4.The temperature compensation is effected by connecting a temperature sensor to the epitaxial layer and provides a compensation voltage which influences the potential difference in opposite directions to the resistance temperature coefficient of resistance.In this way, the resistor (8) is kept constant over a wide temperature range.
+</ABSTRACT>
+</TEXT>
+</DOC>

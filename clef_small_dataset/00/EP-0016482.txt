@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016482
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/04 C07C-255/00 B01J-31/02 B01J-31/00 C07C-120/02 <main>C07C-121/24</main> C07C-255/10 C07B-61/00 C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of succinonitrile.
+</TITLE>
+<APPLICANT>
+stamicarbonnl<sep>stamicarbon b.v.<sep>stamicarbon b.v.mijnweg 1nl-6167 ac geleennl<sep>stamicarbon b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+nieuwkamp johannes gerardus ma<sep>suverkropp geertrudes herman<sep>nieuwkamp, johannes gerardus maria<sep>suverkropp, geertrudes herman<sep>nieuwkamp, johannes gerardus mariagrootveldstraat 11nl-6164 lv limbrichtnl<sep>suverkropp, geertrudes hermandebijestraat 7nl-6164 be geleennl<sep>nieuwkamp, johannes gerardus maria  <sep>suverkropp, geertrudes herman<sep>nieuwkamp, johannes gerardus mariagrootveldstraat 11nl-6164 lv limbrichtnl<sep>suverkropp, geertrudes hermandebijestraat 7nl-6164 be geleennl<sep>
+</INVENTOR>
+<ABSTRACT>
+succinonitrile of good purity and in high yields is pre­ pared by reacting acrylonitrile with hydrocyanic acid in the  presence of at least 2% by weight of triethanolamine catalyst  using an excess of acrylonitrile at a temperature below 90°c. ,  typically in the range of 60-80°c.  
+</ABSTRACT>
+<DESCRIPTION>
+process for the preparation of succinonitrile background of the invention the present invention relates to a process for preparing succinonitrile by reacting acrylonitrile with hydrocyanic acid in the presence of an alkaline catalyst. succinonitrile is a useful product known as a raw material for preparing pyrrolidone, which can, for instance, be converted into nylon-4. a known process for the preparation of succinonitrile is described in u.s. patent 2,434,606, according to which the alkaline catalyst may be alkali metal and earth alkali metal hydroxides, alkali metal cyanides, alkali metal carbonates, or other alkali metal salts of weak acids as well as organic bases. according to german auslegeschrift 1,007,313 the use of these known catalysts involves a number of disadvantages, such as, for instance, insufficient purity of the resulting product and the difficult upgrading of the reaction mixture on a technical scale. accordingly, other catalysts have been proposed, for example the tertiary alkali metal phosphates or the alkali metal pyrophosphates. these phosphate catalysts, however, have as a disadvantage that upon completion of the reaction they have to be separated off by means of a rather costly operation, typically filtration, after which they first have to be activated in a complicated manner before being suitable for reuse. according to u.s. patent 2,698,337, alkaline catalysts, such as, for instance, secondary and tertiary alkylamines, quaternary ammonium hydroxides, sodium or potassium hydroxide and sodium or potassium cyanide, can successfully be used if the reaction of hydrocyanic acid with acrylonitrile is carried out with the aid of dimethyl formamide or dimethyl acetamide. these amides are used to form a molecular complex with the hydrocyanic acid. the use of these amides, however, not only involves additional costs, it adversely affects the purity of the final product. in german offenlegungsschrift no. 2,719,867 a method is described in which the reaction of hydo- cyanic acid with acrylonitrile and, for instance, triethylamine as catalyst is carried out at elevated temperature, in particular at between 90 and 1000c, in view of the volatility of the reactants at such temperatures, elevated pressure or atmospheric pressure and reflux cooing are to be applied. the application of elevated pressure, however, necessitates taking costly safety measures in view of the toxicity of the reactants, while, when applying atmospheric pressure and reflux cooling, at temperatures of between 90 and 1000c. a large amount of hydrocyanid acid is evaporated and refluxed. regretably, this procedure substantially promotes the polymerization of this compound. according to the present invention, succinonitrile can be prepared without the disadvantages of the above-mentioned known processes background of the invention according to the present invention, a pro- cess is disclosed for the preparation of succinonitrile by reacting acrylonitrile with hydrocyanic acid in the presence of an alkaline catalyst, the process being characterized in that triethylamine is used as a catalyst and present in an amount of at least 2 percent by weight, calculated relative to the weight of the entire reaction mixture, and that the reaction is carried out using an excess of acrylonitrile and at
+</DESCRIPTION>
+<CLAIMS>
+ claims      1.      a    process for preparing succinonitrile by reacting acrylinitrile with hydrocyanic acind in the presence of an alkaline catalyst, characterized in that as the catalyst triethylamine is used in an amount of at least 2 percent by weight, calculated relative to the entire reaction mixture, and said reaction is conducted with an excess of acrylonitrile at a temperature below   90 c.       2. a process according to claim 1, characterized in that from about 4 to about 15 percent by weight of triethylamine, calculated relative to the entire reaction mixture, is used as the catalyst.     3. a process according to claim 1 or 2, characterized in that for each mole of hydrocyanic acid there are'from 1.05 to about 2.5 moles of acrylonitrile used.    4. a process according to any of claims 1-3, characterized in that the reaction is conducted at a temperature between about 60 and about   800c.       5. a process according to any of claims 1-4, characterized in that the amount of triethylamine used is more than the amount which can be dissolved in the reaction mixture, the resulting reaction mixture is then divided into two liquid layers, one rich in triethylamine and the other rich in succinonitrile, reusing the triethylamine layer formed and fractionally distilling the succinonitrile layer formed.  
+</CLAIMS>
+</TEXT>
+</DOC>

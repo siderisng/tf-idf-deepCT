@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008001
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22C-38/00 H01F-1/147 G11B-23/087 C22C-19/03 H05K-9/00 H01F-1/12 G11B-23/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+resilient shielding element, particularly for magnetic tape cassettes.
+</TITLE>
+<APPLICANT>
+vacuumschmelze gmbhde <sep>vacuumschmelze gmbh <sep>vacuumschmelze gmbhgrüner weg 3763450 hanaude<sep>
+</APPLICANT>
+<INVENTOR>
+greiner joachim drde<sep>mager albrecht drde<sep>greiner, joachim, dr.<sep>mager, albrecht, dr.<sep>greiner, joachim, dr.ulrich-von-hassell-strasse 15d-8026 ebenhausende<sep>mager, albrecht, dr.forststrasse 3d-6458 rodenbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+A resilient shielding element (1) is intended according to a resilient soft magnetic alloy.Particularly favorable are alloys that have a static coercive force thickness of less than 200 mA / cm, a rela-tive static permeability (measured as equivalent meability at 4 mA / cm) of at least 2000 and a vicker hardness of at least 180, and whose yield limit is at least 500 n /mm² is.Suitable are both crystalline and amorphous soft magnetic alloys.The resilient shielding elements are suitable for MA gnetic tape cassettes, in particular compact cassettes, as well as for other purposes where a spring effect is required simultaneously with the shielding effect.
+</ABSTRACT>
+</TEXT>
+</DOC>

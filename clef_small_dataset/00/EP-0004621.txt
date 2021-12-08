@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004621
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-403/08 C07D-317/10 C07C-29/136 C07C-401/00 C07C-45/00 C07C-49/497 C07C-403/24 C07C-29/00 C07C-69/16 C07C-29/143 C07C-67/00 C07C-45/59 C07D-317/00 C07C-49/703 <main>C07C-175/00</main> C07C-49/00 C07D-317/72 C07C-403/00 C07C-35/08 C07C-69/00 C07C-35/00 C07C-27/00 C07C-35/17 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the multi-step preparation of zeaxanthine and alloxanthine starting from derivatives of cyclohexanon and cyclohexanol; derivatives of cyclohexanon and cyclohexanol.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+saucy gabriel<sep>saucy, gabriel<sep>saucy, gabriel125 fells roadessex fells, n.j.us<sep>saucy, gabriel<sep>saucy, gabriel125 fells roadessex fells, n.j.us<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing cyclohexane derivatives, which is to convert a compound of the formula to a ketal of the formula such that desired Ketal obtained to a compound of the formula alkynyl, wherein Z is hydrogen or the group means that the alcohol compound obtained is desired.To the corresponding ketone of the formula hydrolyzed that desired, if desired, the resulting ketone is hydrogenated to the corresponding hydroxy compound of the formula and that if desired, the compound obtained is dehydrated and converted into alloxanthin or zeaxanthin in a manner known per se by means of a ylide reaction.This new process leads via the new intermediates V;VI;XII;VII, XIV and the dihydroxy compounds corresponding to the compounds VII and XIV
+</ABSTRACT>
+</TEXT>
+</DOC>

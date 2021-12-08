@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003736
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-73/00 H01H-73/06 H01H-71/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+low-tension power circuit-breaker with a split insulant housing.
+</TITLE>
+<APPLICANT>
+siemens agde <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaft wittelsbacherplatz 2 80333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+krueger manfredde<sep>preuss bernhardde<sep>krueger, manfred<sep>preuss, bernhard<sep>krüger, manfredwiesenstrasse 8bd-1000 berlin 65de<sep>preuss, bernhardfinckensteinallee 152cd-1000 berlin 45de<sep>
+</INVENTOR>
+<ABSTRACT>
+a low-tension power circuit-breaker (1) has a housing (2) of insulant which is divided along a joint (8) into an upper part (3) and a lower part (4) (figure 1).  the outer walls of the upper part overlap the outer walls (23) of the lower part (20).  in this manner, the upper part is able to absorb expansion forces which are exerted as a consequence of the pressure stress during the switching processes on the outer walls (23) of the lower part (20).  the invention is particularly suitable for insulant housings having a division ratio between the lower part and the upper part which is not equal, since the breaking force acting on an outer wall increases as the height of the outer wall increases (figure 3).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

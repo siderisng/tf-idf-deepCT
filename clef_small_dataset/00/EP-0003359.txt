@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003359
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-9/08 A61P-25/02 A61P-25/00 A61P-9/00 C07D-319/00 <main>C07D-319/20</main> A61K-31/357 A61P-9/10 A61K-31/335 C07D-319/20 C07D-407/04 C07D-407/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+specific optical isomers of 2-aminoethyl-1,4-benzodioxanes, process for their preparation and their pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag  <sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag  <sep>
+</APPLICANT>
+<INVENTOR>
+gschwend heinz werner dr<sep>huebner charles ferdinand dr<sep>gschwend, heinz werner, dr.<sep>huebner, charles ferdinand, dr.<sep>gschwend, heinz werner, dr.112 sherwood drivenew providence new jerseyus<sep>huebner, charles ferdinand, dr.40 edgewood roadchatham new jerseyus<sep>gschwend, heinz werner, dr.<sep>huebner, charles ferdinand, dr.<sep>gschwend, heinz werner, dr.112 sherwood drivenew providence new jerseyus<sep>huebner, charles ferdinand, dr.40 edgewood roadchatham new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula   <image> wherein each of x and y are hydrogen, lower alkyl, lower alkoxy, halogen or trifluoromethyl; each of p and q is the integer 1 or 2 and each of m and n is an integer from 1 to 4 and of acid addition salts thereof, with hypotensive and bradycardic effects are prepared, for example, by chiral reduction of schiff's bases corresponding to the formula i. 
+</ABSTRACT>
+</TEXT>
+</DOC>

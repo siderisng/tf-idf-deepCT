@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002911
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01T-1/164 G21K-1/02 G01T-1/00 A61B-6/00 <main>G21K-1/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of constructing collimators and/or detectors for penetrating radiation.
+</TITLE>
+<APPLICANT>
+emi ltdgb<sep>emi limited<sep>emi limitedblyth roadhayes middlesex, ub3 1bpgb<sep>emi limited  <sep>
+</APPLICANT>
+<INVENTOR>
+moore john fitzallen<sep>moore, john fitzallen<sep>moore, john fitzallen714, birch roadlake bluff illinois 60044us<sep>moore, john fitzallen<sep>moore, john fitzallen714, birch roadlake bluff illinois 60044us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of constructing arrays of collimators and/or  detectors for penetrating radiation is described.  a tape or  foil is wound alternatively over and under rods provided in  upper and lower sets to define a plurality of substantially  parallel or slightly inclined channels for the radiation.  the  channels can be filled with suitable plastics material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007421
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-37/10 C07C-43/00 C07C-69/767 C07C-43/23 A01N-53/00 C07C-41/00 C07C-69/00 <main>C07C-69/612</main> C07C-41/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+alpha-isopropyl-phenylacetic acid esters, their preparation and use as pesticides.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 basel ch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+ackermann peter dr  <sep>drabek jozef dr<sep>farooq saleem dr<sep>gsell laurenz dr<sep>kristiansen odd dr<sep>wehrli rudolf dr<sep>ackermann, peter, dr.<sep>drabek, jozef, dr.<sep>farooq, saleem, dr.<sep>gsell, laurenz, dr.<sep>kristiansen, odd, dr.<sep>wehrli, rudolf, dr.<sep>ackermann, peter, dr.reichensteinerstrasse 12ch-4153 reinachch<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>farooq, saleem, dr.im schaiengarten 2ch-4107 ettingench<sep>gsell, laurenz, dr.maiengasse 56ch-4056 baselch<sep>kristiansen, odd, dr.delligrabenstrasse 7ch-4313 möhlinch<sep>wehrli, rudolf, dr.dianastrasse 2ch-4310 rheinfeldench<sep>ackermann, peter, dr.<sep>drabek, jozef, dr. <sep>farooq, saleem, dr.<sep>gsell, laurenz, dr.  <sep>kristiansen, odd, dr. <sep>wehrli, rudolf, dr.<sep>ackermann, peter, dr.reichensteinerstrasse 12ch-4153 reinachch<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>farooq, saleem, dr.im schaiengarten 2ch-4107 ettingench<sep>gsell, laurenz, dr.maiengasse 56ch-4056 baselch<sep>kristiansen, odd, dr.delligrabenstrasse 7ch-4313 möhlinch<sep>wehrli, rudolf, dr.dianastrasse 2ch-4310 rheinfeldench<sep>
+</INVENTOR>
+<ABSTRACT>
+Acetate of the formula wherein X₁ is hydrogen, halogen or C₁-C₄-alkyl, x₂ water or halogen and y hydrogen, halogen or methyl, methods for their preparation and their use in pest control.
+</ABSTRACT>
+</TEXT>
+</DOC>

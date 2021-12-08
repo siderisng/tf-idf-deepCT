@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003818
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-29/10 B01J-29/08 B01J-29/00 B01J-29/12 B01D-53/94 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+treatment of exhaust gas streams.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>
+</APPLICANT>
+<INVENTOR>
+bezman richard davidus<sep>rabo jule anthonyus<sep>wolynic edward thomas us <sep>bezman, richard david<sep>rabo, jule anthony<sep>wolynic, edward thomas<sep>bezman, richard david383 s. lexington avenuewhite plains new yorkus<sep>rabo, jule anthony19 windmill roadarmonk new yorkus<sep>wolynic, edward thomas235 garth roadscarsdale new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+the treatment of gas streams such as exhaust gases from  internal combustion engines to remove carbon monoxide and  hydrocarbons by oxidative combustion and nox constituents  by reduction to nitrogen and water is accomplished by contacting  the gas streams with a catalyst composition comprising  a group viii metal supported on the surface of the pores  of a hydrothermally stable hydrophobic form of zeolite y.  
+</ABSTRACT>
+</TEXT>
+</DOC>

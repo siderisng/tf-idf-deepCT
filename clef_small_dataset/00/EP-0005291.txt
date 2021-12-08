@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005291
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07C-251/46 B01D-20060101S C07C-20060101S <main>C07C-131/04</main> C07C-67/00 C07C-251/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the recovery of cyclohexanone oxime.
+</TITLE>
+<APPLICANT>
+stamicarbonnl<sep>stamicarbon b.v. <sep>stamicarbon b.v.mijnweg 1nl-6167 ac geleennl   <sep>stamicarbon b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+rulkens peter franciscus maria<sep>wassen willem joseph<sep>rulkens, peter franciscus maria<sep>wassen, willem joseph<sep>rulkens, peter franciscus mariakerkhofweg 23nl-6142 bp limbrichtnl<sep>wassen, willem josephmoutheuvellaan 4anl-6365 az schinnennl<sep>rulkens, peter franciscus maria  <sep>wassen, willem joseph <sep>rulkens, peter franciscus mariakerkhofweg 23nl-6142 bp limbrichtnl<sep>wassen, willem josephmoutheuvellaan 4anl-6365 az schinnennl<sep>
+</INVENTOR>
+<ABSTRACT>
+recovery of cyclohexanone oxime from a solution of  the oxime in toluene by separating the toluene and the  oxime by distillation whereby the distillatory separation is  started from a solution of the oxime in toluene obtained by  incomplete conversion of cyclohexanone and having a  cyclohexanone content of over 0. 5 gram per 100 grams of  oxime, and recovering of cyclohexanone oxime with less  than 0. 1 gram of cyclohexanone per 100 grams of the  oxime.  
+</ABSTRACT>
+<DESCRIPTION>
+process for the recovery of cyciohexanone oxime the invention relates to a process for the recovery of cyclohexanone oxime from a solution of the oxime in toluene obtained in the preparation of cyclohexanone oxime from cyclohexanone. according to british patent specification 1,303,739, such a solution can be obtained by making a solution of cyclohexanone in toluene react with a hydroxylamine salt dissolved in an aqueous buffered reaction medium. in this known process the conversion is not always complete, so that an aiter-reaction at elevated ph, e.g. a ph of 4.5, may be necessary to obtain a solution of oxime in toluene that contains hardly any more cyclohexanone, the final result is a solution of cyclohexanone oxime in toluene from which the oxime can be recovered by distillation. a method for the recovery of cyclohexanone oxime from a solution of this compound in toluene by distillation has been described in british patent specification 1,138,750. in this known method part of the toluene is first removed in a distillation column and, next, the remainder of the toluene is removed from the residual bottom product in a second distillation column, so that the bottom product remaining in the second distillation column no longer contains toluene and consists of virtually pure cyclohexanone oxime. the toluene thus obtained still contains some oxime and is re-used as a solvent in the formation of oxime. it has now been found that cyclohexanone oxime of sufficient purity can be economically recovered by distillation from a solution of the oxime in toluene that contains over 0.5 gram of cyclohexanone per 100 grams of oxime, as obtained in the incomplete conversion of cyclohexanone, so that an after-reaction at such an elevated ph that complete conversion is achieved can be omitted in the formation of oxime. the process according to the invention for the recovery of cyclohexanone oxime from a solution of the oxime in toluene obtained in the preparation of cyclohexanone oxime from cyclohexanone by separating the toluene and the oxime by distillation and recovering substantially pure oxime is characterized in that the distillatory separation is started from a solution of the oxime in toluene obtained by incomplete conversion of the cyclohexanone and having a cyclohexanone content of over 0.5 gram per 100 grams of oxime, and cyclohexanone oxime with less than 0.1 gram of cyclohexanone per 100 grams of oxime is recovered. the starting solution in the process according to the invention may contain such an amount of cyclohexanone that no after--reaction at elevated ph is required in the formation of oxime. this constitutes a considerable saving, as an increase of the ph results in the production of salt, e.g. ammonium salt if the ph is raised by means of ammonia, and this salt has to be removed. incomplete conversion of cyclohexanone into cyclohexanone oxime may give rise to the formation of a reaction product containing oxime with a varying cyclohexanone content. the process according to the invention can be effected economically with starting solutions containing considerably more than
+</DESCRIPTION>
+<CLAIMS>
+ claims   1. process for the recovery of cyclohexanone oxime from a solution of  the oxime in toluene obtained in the preparation of cyclohexanone  oxime from cyclohexanone by separating the toluene and the oxime  by distillation and recovering substantially pure oxime, charac  terized in that the distillatory separation is started from a  solution of the oxime in toluene obtained by incomplete conversion  of the cyclohexanone and having a cyclohexanone content of over  0.5 gram per 100 grams of oxime, and cyclohexanone oxime with less  than 0.1 gram of cyclohexanone per 100 grams of oxime is recovered.   2. process according to claim 1, as substantially described and  further elucidated in the examples.   3. cyclohexanone oxime obtained with the use of the process according  to any one of the preceding claims.  
+</CLAIMS>
+</TEXT>
+</DOC>

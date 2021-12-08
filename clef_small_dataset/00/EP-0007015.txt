@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007015
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/473 H01L-23/46 H01L-23/44 H01L-23/34 <main>H01L-23/42</main> H01L-23/427 H05K-7/20 H01L-23/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for cooling semiconductor chips with monolithic integrated circuits.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation  <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+oktay sevgin<sep>torgersen gerard joseph<sep>wong alexander chun-bong<sep>oktay, sevgin<sep>torgersen, gerard joseph<sep>wong, alexander chun-bong<sep>oktay, sevgin097 fox runpoughkeepsie, new york 12603us<sep>torgersen, gerard joseph29 sans souci drivepawling, new york 12564us<sep>wong, alexander chun-bong32 daisy lanewappingers falls, new york 12590us<sep>oktay, sevgin<sep>torgersen, gerard joseph  <sep>wong, alexander chun-bong<sep>oktay, sevgin097 fox runpoughkeepsie, new york 12603us<sep>torgersen, gerard joseph29 sans souci drivepawling, new york 12564us<sep>wong, alexander chun-bong32 daisy lanewappingers falls, new york 12590us<sep>
+</INVENTOR>
+<ABSTRACT>
+In electrical circuits operated semiconductor structures attached to a support plate (40), those for the purpose of cooling in a container (44) angeord Net receiving a boiling fluid (46).The heat to be dissipated by the heated component (32) is transmitted by gas bubbles which are formed during the boiling process to a thermal shear (50).The heat transfer of the boiling fluid is improved by the fact that surfaces of the components to be cooled are verbun with thermally conductive elements (34), in which perpendicular to the surface of the boiling fluid, the boiling liquid receiving channels (36) are provided.
+</ABSTRACT>
+</TEXT>
+</DOC>

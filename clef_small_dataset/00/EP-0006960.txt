@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006960
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-3/042 <main>G06F-3/02</main> G06F-3/033 G02B-5/14 G06K-9/00 G06F-3/041 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coordinate input apparatus.
+</TITLE>
+<APPLICANT>
+nippon telegraph & telephonejp<sep>nippon telegraph and telephone public corporation  <sep>nippon telegraph and telephone public corporation1-6 uchisaiwai-cho 1-chome chiyoda-kutokyo 100jp<sep>nippon telegraph and telephone public corporation<sep>
+</APPLICANT>
+<INVENTOR>
+katayama yuzo<sep>kurokawa takashi<sep>oikawa shigeru<sep>takato norio<sep>katayama, yuzo<sep>kurokawa, takashi<sep>oikawa, shigeru<sep>takato, norio<sep>katayama, yuzo231-2, miwa 2-chomemito-shi, ibaraki-ken 310jp<sep>kurokawa, takashi231-2, miwa 2-chomemito-shi, ibaraki-ken 310jp<sep>oikawa, shigeru2057-52, senbachomitoshi, ibaraki-ken 310jp<sep>takato, norio2090, higashi akatsukamito-shi, ibaraki-ken 310jp<sep>katayama, yuzo<sep>kurokawa, takashi<sep>oikawa, shigeru<sep>takato, norio<sep>katayama, yuzo231-2, miwa 2-chomemito-shi, ibaraki-ken 310jp<sep>kurokawa, takashi231-2, miwa 2-chomemito-shi, ibaraki-ken 310jp<sep>oikawa, shigeru2057-52, senbachomitoshi, ibaraki-ken 310jp<sep>takato, norio2090, higashi akatsukamito-shi, ibaraki-ken 310jp<sep>
+</INVENTOR>
+<ABSTRACT>
+the coordinate input device of the invention includes an  input plate (100) comprising two light-guiding path arrays  formed by parallel arrays of a required number of light-­ guiding paths (11, 12) which include light-scattering bodies  (22), the two light-guiding path arrays being superposed such  that the parallel light-guiding paths in one array perpendicu­ larly cross the parallel light-guiding paths in the other.  when a  point on the input plate (100) is irradiated by means of a light  pen (10), the light is scattered by the light-scattering body (22)  located in the light-scattering paths (11, 12) perpendicularly  intersecting at the irradiated point.  the light is transmitted to  the end faces (11a, 12a) of these light-guiding paths where it is  detected.  the corresponding detection signal is then used to  obtain the positional coordinates of the light pen (10) expre­ ssed in terms of a two-value system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

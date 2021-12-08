@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002670
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/73 H01L-21/285 H01L-21/225 G11C-11/403 G11C-11/404 H01L-27/07 H01L-21/74 H01L-21/70 <main>H01L-21/225</main> H01L-29/66 H01L-21/8222 H01L-21/02 H01L-27/102 H01L-21/8229 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making a bipolar transistor in a semiconductor substrate.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bhattacharyya arup<sep>wiedman iii francis walter<sep>bhattacharyya, arup<sep>wiedman iii, francis walter<sep>bhattacharyya, arup18 glenwood driveessex junction, vt 05452us<sep>wiedman iii, francis walterroad 2stowe, vt 05672us<sep>bhattacharyya, arup<sep>wiedman iii, francis walter<sep>bhattacharyya, arup18 glenwood driveessex junction, vt 05452us<sep>wiedman iii, francis walterroad 2stowe, vt 05672us<sep>
+</INVENTOR>
+<ABSTRACT>
+The inventive method provides a semiconductor structure, which is housed within an embedded oxide insulation zone (12). It consists of a semiconductor substrate (10) of a first conductivity type within which a collector (22) of the opposite line type is formed below the surface of the substrate and can extend to the surface of the substrate for light contacting. A first layer of doped polycrystalline silicon is formed on a first part of the surface of the substrate and in electrical contact with the substrate which acts as a base (29) of a transistor. The first, consisting of polycrystalline silicon (polysilicon) layer (30) is oxidized to form an outer overlying insulating layer (32). A second doped polysilicon layer is deflected over the outer insulating layer (32) on a second part of the surface of the substrate in such a way that it has a distance from this, which only by the thickness of the outer insulating layer on the first polysilicon Layer is intended. The dopant in the second polysilicon layer is then driven into the surface of the semiconductor substrate and forms an emitter (33).
+</ABSTRACT>
+</TEXT>
+</DOC>

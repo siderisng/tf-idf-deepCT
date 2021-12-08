@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014277
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-17/24 F16K-17/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluid pressure-operated valves.
+</TITLE>
+<APPLICANT>
+d s b valves limited <sep>d s b valves limited<sep>d s b valves limited 91 ormonde crescent glasgow, g44 3swgb<sep>
+</APPLICANT>
+<INVENTOR>
+deane moray palmergb<sep>deane, moray palmer<sep>deane, moray palmer91 ormonde crescentglasgow, g44 3swgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a fluid pressure-operated valve comprises a housing  (1,2) and two valve members (12,13) having openings there­ through which, when the valve members (12,13) are spaced  apart, permit flow of fluid through the valve but, when the  valve members are pressed together, are blocked off by  imperforate portions of the valve members.  the valve may be  in the form of an emergency two-way shut-off valve in which  both valve members are movable and spring-urged (15) apart  towards respective stops (9,11) within the housing.  the valve  may also be in the form of a check valve in which only one of  the valve members is movable.  
+</ABSTRACT>
+<DESCRIPTION>
+this invention relates to fluid pressure-operated valves. according to the invention there is provided a fluid pressure-operated valve comprising a housing and two valve members at least one of which is movable apart from and towards the other valve member, the valve members having openings therethrough,which, when the valve members are spaced apart, permit flow of fluid through the valve but, when the valve members are pressed together, are blocked off by imperforate portions of the valve members. the valve may be in the form of an emergency two-wav shut-off valve in which both valve members are movable and spring-urged apart towards respective stops within the housing. thus, in the event of 2 pipeline failure downstream of the installed valve, the loss of back pressure on the downstream side of the upstream valve member causes a sufficient pressure differential to be set up across the upstream valve member to result in the upstream valve member moving in a downstream direction off its stop against the spring bias into contact with the downstream valve member and thus block-off fluid forward flow through the valve. conversely in the event of a.pipeiine failure upstream of the installed valve, the loss of forward pressure on the upstream side of the downstream valve member causes a sufficient pressure differential to be set up across the downstream valve member to result in the downstream valve member moving in an upstream direction off its stop against the spring bias into contact with the upstream valve member and thus block-off fluid back flow through the valve. the valve may also be in the form of a check valve in which only one of the valve members is movable. in this case, the valve is installed in a pipeline in such a manner that the movable valve member is downstream of the stationary one. in the event of a reversal in the direction of fluid flow the movable valve member is pushed by fluid pressure into contact with the stationary one to shut off the flow. embodiments of the invention will now be described, by way of example, with referece to tne accorr.parlyinb drawings in which: fig. 1 is an axial section through an emergency two-way shut-off valve; fig. 2 is a view from line h-ii in fig. 1; fig. 3 is an axial section through a check valve; and fig. 4 is an axial section through iwomodlfieåa valve plates which may replace the valve plates in pigs. 1, 2 and 3. referring to figs, 1 and 2, an emergency two-way shutoff valve comprises a housing formed in two portions 1 and 2 each having at one end an annular flange 3, 4 from which a neck 5, 6 reduces in its internal diameter from about double the internal diameter of the pipeline to the internal diameter of the pipeline at the other end 7, 8 where it can be connected to a pipe end. housing portion 1 has a hard steel ring 9 removably fitted about the opening
+</DESCRIPTION>
+<CLAIMS>
+ claims   1. a fluid pressure-operated valve comprising a housing (1, 2j and two valve members (12, 13) at least one of which is movable apart from and   towards    the other valve member, the valve members having openings (14) therethrough which, when the valve members are spaced apart, permit flow of fluid through the valve but, when the valve members are pressed together, are blocked off by imperforate portions of the valve members.   2. a fluid pressure-operated valve according to claim 1, in the form of an emergency   two-way    shut-off valve in which both valve members (12, 13) are movable and spring-urged (15) apart towards respective stops (9, 11) within the housing (1, 2).   3. a fluid pressure-operated valve according to claim 1, in the form of a check valve in which only one of the valve members (12, 13) is movable.       w. a    fluid pressure-operated valve according to claim   l,    2 or 3, in which there is a plurality of openings (14) through each valve member (12, 13) equally spaced apart around an axis.   5. a fluid pressure-operated valve according to claim 4, in   which    the movement of one valve member relative to the other valve member is accompanied by a turning movement of the movable valve member so that when the valve members (12, 13) are fully spaced apart the openings (14) therein are in substantial alignment.   6. a fluid pressure-operated valve according to claim 1, 2 or 3, in which there is a central opening (27) through one of the valve members (25, 26) and a ring of openings (28) through the other valve member.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008869
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07C-37/08 C07C-409/08 C07C-37/00 C07C-39/04 <main>C07C-37/08</main> C07C-29/132 C07C-39/14 C07C-49/08 C07C-29/00 C07C-45/53 C07C-67/00 C07C-409/14 C07C-409/00 C07C-27/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of a phenol and a carbonyl compound by the catalysed decomposition of an aromatic hydroperoxide.
+</TITLE>
+<APPLICANT>
+bp chem int ltdgb<sep>bp chemicals limited<sep>bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>bp chemicals limited<sep>
+</APPLICANT>
+<INVENTOR>
+wirth max marin<sep>wirth, max marin<sep>wirth, max marinbp chemicals limited bo'ness roadgrangemouth, stirlingshire, fk3 9xngb<sep>wirth, max marin<sep>wirth, max marinbp chemicals limited bo'ness roadgrangemouth, stirlingshire, fk3 9xngb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a process in which an aromatic  hydroperoxide of formula:    wherein independently r₁ is methyl or ethyl, r₂ is hydrogen,  mothyl or ethyl, or where r₁ and r₂ together form an  alicyclic ring of 5 or 6 carbon atoms, r₃ is hydrogen or alkyl  and r₄ and r₅ are hydrogen, alkyl or together form an  aromatic ring, n is 0, 1 or 2 and n¹ is 1 or 2, is converted to a  phenol and a carbonyl compound in a catalysed cleavage  decomposition reation.  in particular cumene hydroperoxide  is converted to phenol and acetone.  instead of removing the  decomposition products from the reactor in the liquid phase  and dissipating the reaction heat as in prior art processes the  heat is used to remove the phenol and the carbonyl com­ pound in the vapour phase leaving a liquid residue of  higher-boiling compounds and catalyst in the case where a  liquid cleavage catalyst is employed.  although a wide range  of both solid and liquid cleavage catalysts may be used sul­ phuric acid is preferred.  various additives, including the hyd­ rocarbon from which the hydroperoxide is derived and polar  reaction products may be added.  typical reaction conditions  are temperatures in the range 120 to 200°c and either  atmospheric or sub-atmospheric pressure.  the process of  the invention avoids the conventional catalyst neutralisation  and removal steps.  
+</ABSTRACT>
+</TEXT>
+</DOC>

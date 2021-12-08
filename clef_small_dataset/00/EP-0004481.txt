@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004481
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-10/00 <main>C08F-10/00</main> C08F-4/00 C08F-4/60 C08F-4/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+catalyst compositions containing a trialkyl aluminium co-catalyst and the use for the polymerization of olefins.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company  <sep>
+</APPLICANT>
+<INVENTOR>
+langer arthur walter jr<sep>langer, arthur walter, jr.<sep>langer, arthur walter, jr.175 oakwood roadwatchung new jerseyus<sep>langer, arthur walter, jr.<sep>langer, arthur walter, jr.175 oakwood roadwatchung new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+a catalyst suitable for alpha olefin polymerization comprises   (a) a group iva to viii transition metal chloride or  bromide on a support, e. g.  ticl₄ on mgcl₂,   (b) an alkyl metal compound having at least one    group where r″ is methyl or ethyl and r‴ is a c₁ to c₁₀  alkyl group, e. g.  neopentyl al(c₂h₅)₂ and   (c) a lewis base e. g.  ethyl benzoate.  
+</ABSTRACT>
+</TEXT>
+</DOC>

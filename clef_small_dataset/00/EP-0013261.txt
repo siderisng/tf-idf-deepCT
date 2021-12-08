@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013261
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/095 <main>C07C-149/23</main> A61P-11/00 C07C-323/60 A61K-31/21 C07C-327/06 C07C-154/00 A61K-20060101S C07C-327/22 C07C-69/017 C07C-319/00 A61P-11/10 C07C-67/00 A61K-31/22 C07C-327/20 C07C-153/09 C07C-153/11 A61K-31/215 A61K-31/10 C07C-20060101S C07C-325/00 C07C-327/00 A61K-31/265 C07C-319/20 A61K-31/24 C07C-313/00 C07C-327/32 C07C-69/00 C07C-323/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+guaiacol esters of alpha- and beta-mercaptopropionylalanine and alpha- and beta-mercaptopropionylglycine, process for their preparation and pharmaceutical compositions containing same.
+</TITLE>
+<APPLICANT>
+sigma tau ind farmaceutiit<sep>sigma-tau industrie farmaceutiche riunite s.p.a.<sep>sigma-tau industrie farmaceutiche riunite s.p.a.viale shakespeare, 47i-00144 romait<sep>sigma-tau industrie farmaceutiche riunite s.p.a.<sep>
+</APPLICANT>
+<INVENTOR>
+cavazza claudio<sep>cavazza, claudio<sep>cavazza, claudio35, via maroccoi-00144 romeit<sep>cavazza, claudio<sep>cavazza, claudio35, via maroccoi-00144 romeit<sep>
+</INVENTOR>
+<ABSTRACT>
+guaiacol esters of alpha- and beta-mercaptopropionyl  alanine and of alpha- and beta-mercaptopropionyl glycine  having formulae:    wherein r is hydrogen or methyl and y is hydrogen or an acyl  radical (acetyl, benzoyl or methoxycarbonyl).  pharmaceutical compositions containing these guaiacol  esters have mucolytic activity.  the process for manufacturing these guaiacol esters  comprises preparing in a known per se manner a sulhydryl  group-containing intermediate wherein the sulfhydryl is pro­ tected by a trityl or p-methoxybenzyl group, and removing the  protective group under acid conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

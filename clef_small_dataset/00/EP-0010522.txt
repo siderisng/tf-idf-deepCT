@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010522
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-69/28 C08G-69/26 C08G-69/00 <main>C08G-69/26</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transparent copolyamides, process for their production and their use in the manufacture of moulded articles.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+pfeifer josef dr<sep>pfeifer, josef, dr.<sep>pfeifer, josef, dr.brunnmattstrasse 32ch-4106 therwilch<sep>pfeifer, josef, dr.<sep>pfeifer, josef, dr.brunnmattstrasse 32ch-4106 therwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+Transparent copolyamides are described, which consist of recurrent structural elements of the formula I, wherein R₁ to R₄ independently of each other is water or alkyl C 1-4, R₅ and R₆ independently of each other ethyl, N-propyl, isobutyl, -CH (R₇) (R₈)) or -CH₂CH (R₉) (R₁₀), R₇ C₁₋₈-alkyl, R₈ C₁₋₄-alkyl, R₉ is hydrogen or C₁₋₄-alkyl and R₁₀ C₂₋₈-alkyl and the proportion of structural elements (I)R₅ / R₆ = -CH₂CH (R₉) (R₁₀) 10-40 wt.% and R₅ / R₆ = -CH₂CH (R₉) (R₁₀) 35-55 wt.%, based on the total weight of the polymer, is.The new copolyamides are characterized by good thermoplastic processability, low water absorption, good hydrolysis resistance and low dependence of mechanical and electrical properties from the ambient moisture and are suitable for the production of transparent moldings.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006467
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-27/04 G11C-27/00 G11C-19/00 G11C-11/56 G11C-19/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+interlaced charge-transfer memory
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+aichelmann jr frederick johnus<sep>aichelmann, jr., frederick john<sep>aichelmann, jr., frederick johnrd. no. 7, taconic drivehopewell jct., ny 12533us<sep>
+</INVENTOR>
+<ABSTRACT>
+A charge transport memory (CCD memory) with interlocked storage contains at least one pair of CCD loops (loop 1, loop 2;) of the type serial-parallel-serial (PLC loop). The data elements to be stored, z. b. Bytes, bit by means of suitable timing signals (time control selector L1) are placed bitwise and distributed to the two PLC loops; The odd-numbered bits A1, A3, A5, A7 of a first byte A are placed with the even-numbered boses b2, b4, b6, b8 of a second byte b in a line of the parallel portion P1 in the first PLC loop and accordingly the even-numbered bits of the first Bytes A together with the odd-numbered bits of the second byte b in the parallel portion P2 of the second PLC loop. At the end of the parallel portions, the thus-linked bits of both data etching together are placed together in the output shift register according to the PLC loop and output from there with the help of properly controlled gate circuits (A1, A2) in the original bit order of the bytes.
+</ABSTRACT>
+</TEXT>
+</DOC>

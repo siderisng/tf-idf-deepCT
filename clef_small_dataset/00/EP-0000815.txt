@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000815
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-29/88 <main>C07C-125/06</main> C07C-271/00 G06F-3/037 G06F-3/033 C07C-271/06 H01J-29/89 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing n-aryl or n-aralkyl substituted urethanes.
+</TITLE>
+<APPLICANT>
+mitsui toatsu chemicalsjp <sep>mitsui toatsu chemicals, incorporated<sep>mitsui toatsu chemicals, inc. 2-5 kasumigaseki 3-chome chiyoda-ku tokyo 100jp<sep>mitsui toatsu chemicals, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+aiga makoto<sep>hasegawa seiji<sep>miyata katsuharu<sep>aiga, makoto<sep>hasegawa, seiji<sep>miyata, katsuharu<sep>aiga, makoto300, hirabaru-machiomuta-shi fukuoka-kenjp<sep>hasegawa, seiji50, katahira-machiomuta-shi fukuoka-kenjp<sep>miyata, katsuharu300, hirabaru-machiomuta-shi fukuoka-kenjp<sep>aiga, makoto<sep>hasegawa, seiji  <sep>miyata, katsuharu <sep>aiga, makoto300, hirabaru-machiomuta-shi fukuoka-kenjp<sep>hasegawa, seiji50, katahira-machiomuta-shi fukuoka-kenjp<sep>miyata, katsuharu300, hirabaru-machiomuta-shi fukuoka-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+n-aryl and n-aralkyl substituted urethanes can be produced  by reacting an aryl or aralkyl primary amino compound  having a nitro group, a nitroso group or a carbamate group, an  organic compound having at least one hydroxyl group, and  carbon monoxide in the presence of a catalytic system composed  of a metal and/or a compound thereof chosen from  palladium, rhodium and ruthenium and compounds thereof  serving as catalyst and a lewis acid and/or a compound  thereof as promoter under elevated temperature and high  pressure conditions.  for instance, the reaction of 2-amino -4-nitrotoluene,  ethanol and carbon monoxide in the presence of  palladium chloride and a ferrous chloride-pyridine complex  under high temperature and high pressure conditions can  yield 2,4-diethylcarbamatetoluene.  
+</ABSTRACT>
+</TEXT>
+</DOC>

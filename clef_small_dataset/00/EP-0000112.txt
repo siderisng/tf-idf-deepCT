@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000112
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/653 <main>C07D-249/08</main> C07D-249/00 C07D-521/00 A01N-43/64 C07D-249/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+triazol-substituted sulphur derivatives, their preparation and their utilisation as fungicides.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+buschmann ernst dr<sep>gutsche klaus dr<sep>hartleben york dr<sep>linhart friedrich dr<sep>pommer ernst-heinrich dr<sep>zeeh bernd dr<sep>buschmann, ernst, dr. <sep>gutsche, klaus, dr.<sep>hartleben, york, dr.  <sep>linhart, friedrich, dr.<sep>pommer, ernst-heinrich, dr.<sep>zeeh, bernd, dr.<sep>buschmann, ernst, dr.in der froschlache 7d-6700 ludwigshafende<sep>gutsche, klaus, dr.ehmschenkamp 5d-2084 rellingende<sep>hartleben, york, dr.kleiner ring 7d-2081 heistde<sep>linhart, friedrich, dr.leisberg 61d-6900 heidelbergde<sep>pommer, ernst-heinrich, dr.berliner platz 7d-6703 limburgerhofde<sep>zeeh, bernd, dr.thorwaldsenstrasse 5d-6700 ludwigshafende<sep>buschmann, ernst, dr.<sep>gutsche, klaus, dr.<sep>hartleben, york, dr.<sep>linhart, friedrich, dr.<sep>pommer, ernst-heinrich, dr. <sep>zeeh, bernd, dr.<sep>buschmann, ernst, dr. in der froschlache 7 d-6700 ludwigshafen de <sep>gutsche, klaus, dr.ehmschenkamp 5d-2084 rellingende<sep>hartleben, york, dr.kleiner ring 7d-2081 heistde<sep>linhart, friedrich, dr.leisberg 61d-6900 heidelbergde<sep>pommer, ernst-heinrich, dr.berliner platz 7d-6703 limburgerhofde<sep>zeeh, bernd, dr.thorwaldsenstrasse 5d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a triazole-substituted sulfur compound of the general formula i see diagramm : ep0000112,p13,f3  where r**1 denotes hydrogen, fluorine, chlorine, bromine, alkyl of 1 to 5 carbon atoms, trifluoromethyl, phenyl or alkoxy of 1 to 3 carbon atoms, n denotes one of the integers 1, 2 and 3 (r**1 being identical or different when n is 2 or 3), r**2 denotes a linear or branched alkyl of 1 to 14 carbon atoms, which, if it is a branched one, contains more than 2 carbon atoms, phenyl of the formula  see diagramm : ep0000112,p13,f4 or benzyl of the formula  see diagramm : ep0000112,p13,f5  r**4 denotes hydrogen, fluoro, chloro, bromo, alkyl of 1 to 5 carbon atoms, trifluoromethyl, phenyl, or alkoxy of 1 to 3 carbon atoms, r**5 denotes hydrogen, fluoro, chloro, bromo, alkyl of 1 to 5 carbon atoms, trifluoromethyl, phenyl, or alkoxy of 1 to 3 carbon atoms, m denotes one of the integers 1, 2 and 3 (r**4 being identical or different when m is 2 or 3), l denotes one of the integers 1, 2 and 3 (r**5 being identical or different when 1 is 2 or 3), and k denotes one of the integers 0, 1 and 2, and its salts and metal complex salts. 
+</ABSTRACT>
+</TEXT>
+</DOC>

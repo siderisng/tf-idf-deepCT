@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013608
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07C-281/00 A61P-7/02 C07C-41/00 C07C-45/44 C07C-59/62 C07C-251/00 C07C-59/00 C07C-45/00 C07C-251/82 A61P-7/00 C07C-133/06 C07C-67/00 C07C-59/46 C07C-43/00 C07C-41/54 A61K-31/16 C07C-59/74 C07C-59/80 C07C-43/315 A61K-31/19 C07C-405/00 A61K-31/175 C07C-281/08 A61K-31/185 C07C-241/00 <main>C07C-109/12</main> A61K-31/557 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted bicyclo (2,2,1)heptanes and hept-2-enes and their pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+nat res devgb<sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation<sep>
+</APPLICANT>
+<INVENTOR>
+jones robert leslie<sep>wilson norman happer<sep>jones, robert leslie<sep>wilson, norman happer<sep>jones, robert leslie62 caiystane gardenedinburgh eh10 6sy scotlandgb<sep>wilson, norman happer47 west saville terraceedinburgh eh9 3dp scotlandgb<sep>jones, robert leslie<sep>wilson, norman happer<sep>jones, robert leslie62 caiystane gardenedinburgh eh10 6sy scotlandgb<sep>wilson, norman happer47 west saville terraceedinburgh eh9 3dp scotlandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+novel bicyclo[2,2,1] heptanes and hept-2-enes are sub­ stituted at the 5-position by a 6-carboxyhex-2-enyl group or a  modification thereof, and at the 6-position by a grouping  -c(r)-n-nhco-(nh)a-r′ in which r is hydrogen, an aliphatic  hydrocarbon residue, an aromatic residue or an aliphatic hyd­ rocarbon residue substituted by an aromatic residue, a is 0 or  1 and r′ in an aliphatic hydrocarbon residue, an aromatic  residue, or an aliphatic hydrocarbon residue substituted  directly or through an oxygen or sulphur atom by an aromatic  residue.  the compounds are of value for use in pharmaceuti­ cal compositions particularly in the context of the inhibition of  thromboxane activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009508
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65G-39/00 B65G-39/02 B65G-13/07 B65G-13/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+conveyor roller.
+</TITLE>
+<APPLICANT>
+schenck ag carl <sep>carl schenck ag<sep>carl schenck agd-64273 darmstadtde<sep>
+</APPLICANT>
+<INVENTOR>
+stoesser hartmutde<sep>zschau siegfriedde<sep>stoesser, hartmut<sep>zschau, siegfried<sep>stösser, hartmuthähnleiner strasse 2d-6144 zwingenbergde<sep>zschau, siegfriedam bangert 4d-6101 modautal 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+a conveyor roller (1) having a guide collar (2) is envisaged to form, in conjunction with other such conveyor rollers, a conveying path on which articles to be transported having a smooth bottom face or support rails can be moved.  the conveyor roller (1) is designed simultaneously as a drive roller, in which arrangement it guides the endless drive means (6) between the guide collar (2) and a further collar (10).  <image>
+</ABSTRACT>
+<DESCRIPTION>
+förderrolle die erfindung betrifft eine förderrolle mit einer, das fördergut tragenden rolle und einem führungsbund. bisherige förderrollen, bei denen das fördergut von einer rolle getragen wird, und welche einen führungsbund besitzen, so genannte bundrollen, benötigen für ihren antrieb eine zusätzliche antriebsvorrichtung, welche beispielsweise als zahnrad auf derselben welle aufgekeilt ist, wie die bundrolle. wird anstelle eines zahnrades als das das antriebsmoment übertragende element ein riemenantrieb gewählt, so ist es erforderlich, wenn derartige bundrollen zu einer bundrollenbahn zusammengefasst werden, nicht nur die bundrollen auszurichten, sondern auch gleichzeitig die getrennt auf der welle aufgekeilten umlenkrollen fluchtend auszurichten, um einen erhöhten verschleiss des antriebsbandes zu vermeiden und auch um ein ablaufen des bandes von der antriebsrolle zu vermeiden. ausgehend von diesem stand der technik hat sich die vorliegende erfindung die aufgabe gestellt, einen direkten antrieb für förderrollen in vorschlag zu bringen. diese aufgabe wird erfindungsgemäss dadurch gelöst, dass die förderrolle gleichzeitig als antriebsrolle ausgebildet ist, und dass das, das antriebsmoment übertragende element zwischen der förderrolle und einem weiteren bund geführt wird. hierdurch wird der nachteil beseitigt, dass zusätzlich die umlenkrolle für den antrieb auf die welle aufgekeilt werden mub; es wird weiter vermieden, dass ein ungleichförmiger verschleiss zwischen antriebsrolle und förderrolle auftritt, was insbesondere beim rauhen betrieb auf förderstraben und beim stapeln auftritt und was dazu führt, dass beim antrieb der einzelnen förderrolle eine weitere stossbelastung zufolge des vorhandenen spiels zwischen umlenkrolle und welle, auf die förderrolle einwirkt. weiterhin wird durch verwenden der förderrolle als dem einen anlaufbund bei einem band- oder zahnriemenantrieb es nur noch erforderlich, einen weiteren bund vorzusehen, der bereits bei der herstellung der erfindungsgemässen förderrolle ohne zusätzlichen aufwand mit hergestellt werden kann. eine erfindungsgemässe ausgestaltung besteht darin, dass der führungsbund der förderrolle und ein weiterer bund das das antriebsmoment übertragende element führen. durch verwenden des führungsbundes der antriebsrolle als führungselement, lässt sich mit einfachen mitteln eine übersetzung bewerkstelligen, ohne zusätzliche übersetzungsräder in den bandantrieb einbauen zu müssen. eine andere ausgestaltung des erfindungsgegenstandes besteht darin, dass die stirnfläche der förderrolle und ein weiterer bund das das antriebsmoment übertragende element führen. hierdurch wird es möglich, eine grosse bandbreite von übersetzungsmöglichkeiten bereits bei der herstellung von erfindungsgemässen förderrollen zu erreichen, was insbesondere in der verwendung bei der för dertechnik zu einer beachtlichen einsparung im hinblick auf lagerhaltung der gesamten förderanlage führt. anhand einer figur wird der erfindungsgegenstand näher erläutert. eine förderrolle 1 besteht aus einem führungsbund 2 und einer eine last 3 tragenden rolle 4, welche einstückig mit dem führungsbund 2 hergestellt ist. gleichzeitig einstuckig mit der förderrolle 1 wird eine antriebsrolle 5 bzw. 5' hergestellt, die zur aufnahme eines, das antriebsmoment übertragenden zahnriemens 6 bzw. 6' dient. diese einstückige einheit wird nunmehr mit einer welle 7 drehfest verbunden, wobei die welle 7 in einem schematisch dargestellten lager 8 gelagert ist. wird die welle 7 verlängert und trägt an ihrem anderen ende eine gleichartige, erfindungsgemässe förderrolle 1, die in einem nicht dargestellten lager ebenfalls gelagert ist, so stellt diese einrichtung ein bauelement einer bundrollenbahn dar, auf der die last 3 transportiert werden
+</DESCRIPTION>
+<CLAIMS>
+    patentansprüshe:      1. förderrolle mit einer das fördergut tragenden rolle und einem führungsbund, dadurch gekennzeichnet, dass die   förderroile    [1) gleichzeitig als antriebsrolle  (5 bzw. 5') ausgebildet ist, und dass das, das antriebs moment übertragende element (6) zwischen der förder rolle (1) und einem weiteren bund (10 bzw. 10') ge führt wird.   2. förderrolle nach anspruch 1, dadurch gekennzeichnet, dass der führungsbund (2) der förderrolle (1) und ein weiterer bund   (.10    bzw. 10') das das antriebselement  übertragende element (6) führen.   3. förderrolle nach anspruch 1, dadurch gekennzeichnet, dass die stirn-fläche (12) der förderrolle (1) und ein uas weiterer bund (10 bzw. 10')/das antriebsmoment über tragende element   (6)    führen.  
+</CLAIMS>
+</TEXT>
+</DOC>

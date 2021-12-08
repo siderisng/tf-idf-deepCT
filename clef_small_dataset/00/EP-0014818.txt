@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014818
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01K-13/00 G01K-7/16 <main>G01K-7/22</main> G01K-7/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for making a device for measuring temperature.
+</TITLE>
+<APPLICANT>
+gambro crafon abse<sep>gambro crafon aktiebolag<sep>gambro crafon aktiebolagbox 10101s-220 10 lund se<sep>gambro crafon aktiebolag<sep>
+</APPLICANT>
+<INVENTOR>
+hakan hakansson bo  <sep>oettle george w<sep>hakan, hakansson bo<sep>oettle, george w.<sep>hakan, hakansson boastrakanvägen 6s-223 56 lundse<sep>oettle, george w.42 clayton courtwoodbridge new jersey 07095us<sep>hakan, hakansson bo <sep>oettle, george w.<sep>hakan, hakansson bo astrakanvägen 6 s-223 56 lund se<sep>oettle, george w.42 clayton courtwoodbridge new jersey 07095us<sep>
+</INVENTOR>
+<ABSTRACT>
+the disclosure relates to an apparatus for measuring  temperature, comprising a temperature-sensitive sensor,  whose electric properties, for example, resistance, vary with  the temperature, for example, a thermistor (2, 2′, 3 or 3′) which  is connected to two electric lines (5, 6), which, in their turn,  may be connected to a read-off unit for reading off values of  current, voltage or the like corresponding to the temperature.  the apparatus comprises one or more further sensors (2, 2′,  3 or 3′) which, together with the first-mentioned sensor, are  selected and coupled such that they, at least within a deter­ mined temperature range, have a value of the above-­ mentioned electric property accurately corresponding to the  temperature.  in this instance, the sensors are preferably cou­ pled in series between the above-mentioned electric lines  (5,6) and are selected such that their deviations from certain  determined values have a predetermined value, for example,  zero.  the disclosure also relates to a method of producing the  above-defined apparatus, the above-mentioned electric  property being measured for a large number of sensors and  forming the basis of a sorting within accurately determined  intervals, whereafter two or more sensors are selected for  each apparatus, the sensors, on desired coupling to the elec­ tric lines, giving a desired value of the above-mentioned elec­ tric property.  
+</ABSTRACT>
+</TEXT>
+</DOC>

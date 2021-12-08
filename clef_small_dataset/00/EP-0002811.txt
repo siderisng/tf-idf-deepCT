@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002811
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/32 H03B-21/00 <main>A61N-1/32</main> H03B-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for therapy with interference currents.
+</TITLE>
+<APPLICANT>
+somartec sach<sep>somartec sa<sep>somartec sa17 bd. helvetiquech-1311 genfch<sep>somartec sa<sep>somartec sa<sep>
+</APPLICANT>
+<INVENTOR>
+rodler hans<sep>rodler, hans<sep>rodler, hansbahnhofplatz 3d-8228 freilassingde<sep>rodler, hans<sep>rodler, hans<sep>rodler, hansbahnhofplatz 3d-8228 freilassingde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  apparatus for interference current therapy with a common oscillator for both the circuits present, characterized in that the oscillator is a radio-frequency oscillator (1), that the radiofrequency oscillator (1) is connected to the inputs of at least two digital frequency dividers (2, 3) and that on at least one frequency divider (2) is provided a digital feedback device (8, 9, 10; 19; 32, 33, 40, 41, 42, 43) for setting a limited frequency difference of the treatment currents at the outputs of the frequency divider (2, 3). 
+</ABSTRACT>
+</TEXT>
+</DOC>

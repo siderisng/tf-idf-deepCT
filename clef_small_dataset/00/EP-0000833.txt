@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000833
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 A61P-9/00 H01L-29/10 C07F-9/572 A61K-31/675 H01L-29/02 A61P-9/12 H01L-29/78 H01L-29/66 <main>C07F-9/65</main> A61K-33/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of phosphonoacyl prolines and their pharmaceutical use.
+</TITLE>
+<APPLICANT>
+squibb & sons incus  <sep>e.r. squibb & sons, inc.<sep>e.r. squibb &amp; sons, inc.lawrenceville-princeton roadprinceton, n.j. 08540-4000us<sep>e.r. squibb & sons, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+ondetti miguel a<sep>petrillo edward w<sep>ondetti, miguel a.<sep>petrillo, edward w.<sep>ondetti, miguel a.79 hemlock circleprinceton new jerseyus<sep>petrillo, edward w.433 sked streetpennington new jerseyus<sep>ondetti, miguel a.  <sep>petrillo, edward w.<sep>ondetti, miguel a.79 hemlock circleprinceton new jerseyus<sep>petrillo, edward w.433 sked streetpennington new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+new phosphonoacyl prolines and related compounds  have the general formula    where r₁ and r₂ each is hydrogen, lower alkyl, lower  alkenyl, unsubstituted or substituted phenyl-lower alkyl, or a  metal ion;r₃ is hydrogen or lower alkyl;r₄ is hydrogen, lower  alkyl, phenyl-lower alkyl or a metal ion; and n is 0 or 1.  these compounds may be used as hypotensive agents in  the treatment of mammals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

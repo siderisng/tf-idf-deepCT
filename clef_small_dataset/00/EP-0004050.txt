@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004050
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-33/00 C08J-9/224 C08L-51/00 <main>C08J-9/22</main> C08J-9/22 C08L-25/00 C08K-5/00 C08L-7/00 C08L-33/02 C08J-9/00 C08L-21/00 C08L-51/02 C08L-25/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flame-protected expandable styrene polymers useful in foam preparation.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+hahn klaus dr<sep>naarmann herbert dr<sep>penzien klaus dr<sep>weber heinz dr<sep>hahn, klaus, dr.<sep>naarmann, herbert, dr.<sep>penzien, klaus, dr.<sep>weber, heinz, dr.<sep>hahn, klaus, dr.burggasse 2d-6840 lampertheimde<sep>naarmann, herbert, dr.haardtblick 15d-6719 wattenheimde<sep>penzien, klaus, dr.bensheimer ring 18d-6710 frankenthalde<sep>weber, heinz, dr.am wehrhaus 26d-6718 gruenstadt 1de<sep>hahn, klaus, dr.<sep>naarmann, herbert, dr.<sep>penzien, klaus, dr.<sep>weber, heinz, dr.<sep>hahn, klaus, dr.<sep>naarmann, herbert, dr. <sep>penzien, klaus, dr.  <sep>weber, heinz, dr.<sep>hahn, klaus, dr.burggasse 2d-6840 lampertheimde<sep>naarmann, herbert, dr.haardtblick 15d-6719 wattenheimde<sep>penzien, klaus, dr.bensheimer ring 18d-6710 frankenthalde<sep>weber, heinz, dr.am wehrhaus 26d-6718 gruenstadt 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to particulate propellant-containing styrene polymers containing an organic bromine compound as a flame retardant and an organic compound having Labiler C-C, O-O-O or N = N binding as a flame retardant synergist.The flame retardant is superficially applied to the particles, while the flame retardant synergist is uniformly incorporated in the particles.The polymers can be processed to self-extinguishing foams.
+</ABSTRACT>
+</TEXT>
+</DOC>

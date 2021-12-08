@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017351
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/06 B60G-17/015 <main>B60G-17/04</main> F15B-11/00 B60G-17/00 F15B-11/08 B60G-17/04 B60G-17/056 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in high pressure hydraulic systems.
+</TITLE>
+<APPLICANT>
+lucas ind plcgb<sep>lucas industries public limited company<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>lucas industries public limited company<sep>
+</APPLICANT>
+<INVENTOR>
+harrison anthony william<sep>harrison, anthony william<sep>harrison, anthony william63 middle park roadselly oak birmingham 29gb<sep>harrison, anthony william<sep>harrison, anthony william63 middle park roadselly oak birmingham 29gb<sep>
+</INVENTOR>
+<ABSTRACT>
+in a high pressure hydraulic system a source (1) supplies  pressurised fluid to a slave unit (7) through a control valve (3)  operative to maintain the slave unit (7) in a desired condition.  leakage from the slave unit (7) past the control valve (3)  when the source (1) is inoperative is undesirable, but it is  difficult to provide durable leakproof seals and to minimise  valve operating forces at high fluid pressures.  the control  valve (3) therefore comprises two solenoid-operated valves  (11, 12), oppositely acting and arranged in series between  the source (1) and the slave unit (7), each valve (11, 12) being  closed to prevent flow through the valve in a direction from  the other valve and opened to permit flow in both directions,  under the control of a solenoid (32, 38) and the pressure  differential acting across the valve (11, 12), a seating portion  (29) on a first valve (11) is of elastomeric material to provide  a leakproof seal when that valve (11) is closed.  in the construction shown the slave unit (7) is an  hydraulic suspension strut, and the system is adapted as a  vehicular suspension levelling system, with the valves (11,  12) and the source (1) being manipulated as required by an  electronic control system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

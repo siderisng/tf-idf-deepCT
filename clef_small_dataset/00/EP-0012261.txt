@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012261
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/86 <main>C07D-263/52</main> C07D-263/00 A01N-43/76 C07D-263/52 A01N-43/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted spiro-derivatives of 3-(3,5-dichlorophenyl)-2,4-oxazolidine diones, processes for their preparation and their use as fungicides.
+</TITLE>
+<APPLICANT>
+bayer agde  <sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+brandes wilhelm dr<sep>draber wilfried dr<sep>heine hans-georg dr<sep>knops hans-joachim dr<sep>brandes, wilhelm, dr.<sep>draber, wilfried, dr.<sep>heine, hans-georg, dr.<sep>knops, hans-joachim, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5623 leichlingende<sep>draber, wilfried, dr.in den birken 81d-5600 wuppertal 1de<sep>heine, hans-georg, dr.heckerhof 14d-4150 krefeldde<sep>knops, hans-joachim, dr.claudiusweg 3d-5600 wuppertal 1de<sep>brandes, wilhelm, dr.<sep>draber, wilfried, dr. <sep>heine, hans-georg, dr.<sep>knops, hans-joachim, dr.  <sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5623 leichlingende<sep>draber, wilfried, dr.in den birken 81d-5600 wuppertal 1de<sep>heine, hans-georg, dr.heckerhof 14d-4150 krefeldde<sep>knops, hans-joachim, dr.claudiusweg 3d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Compounds of the formula in which A is oxygen or sulfur, X and Y are the same or different and is for haloged hen, Z for alkyl or condensed cycloalkyl or Cy cloalkenyl, M is for all numbers 1, 2, 3 or 4 andn is for all numbers 2 or 3, z.b.obtained when α-hydroxy-cyclo alkylcarboxylic acids or their esocyanates are reacted in the presence of a base and in the presence of a perched dilant.These compounds are used as fungicides.
+</ABSTRACT>
+</TEXT>
+</DOC>

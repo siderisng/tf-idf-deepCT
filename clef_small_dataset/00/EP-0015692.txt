@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015692
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-10/18 C23C-15/00 G11B-5/851 H01F-10/10 G11B-5/84 <main>G11B-5/70</main> H01F-41/14 G11B-5/64 C23C-14/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for producing a magnetic recording medium.
+</TITLE>
+<APPLICANT>
+seikisui chemical co ltdjp<sep>sekisui kagaku kogyo kabushiki kaisha<sep>sekisui kagaku kogyo kabushiki kaisha4-4 nishitenma 2-chome kita-kuosaka shi osakajp<sep>sekisui kagaku kogyo kabushiki kaisha  <sep>
+</APPLICANT>
+<INVENTOR>
+hotta masahiro<sep>kanki kazuhiko<sep>nakata shinsaku<sep>takagi toshinori<sep>hotta, masahiro<sep>kanki, kazuhiko<sep>nakata, shinsaku<sep>takagi, toshinori<sep>hotta, masahiro1-3-1305 toyosato 2-chomehigashiyodogawaku osakajp<sep>kanki, kazuhiko29-95 kowata hiraouji-shi kyoto-fujp<sep>nakata, shinsaku6-15 hattori minamimachi 4-chometoyonaka-shi osaka-fujp<sep>takagi, toshinori10-13 tomooka, 2-chomenagaokakyo-shi kyoto-fujp<sep>hotta, masahiro<sep>kanki, kazuhiko<sep>nakata, shinsaku<sep>takagi, toshinori<sep>hotta, masahiro1-3-1305 toyosato 2-chomehigashiyodogawaku osakajp<sep>kanki, kazuhiko29-95 kowata hiraouji-shi kyoto-fujp<sep>nakata, shinsaku6-15 hattori minamimachi 4-chometoyonaka-shi osaka-fujp<sep>takagi, toshinori10-13 tomooka, 2-chomenagaokakyo-shi kyoto-fujp<sep>
+</INVENTOR>
+<ABSTRACT>
+a magnetic recording medium comprising a non-magnet­ ic substrate, such as a polyethylene terephthalate film, and  deposited on the surface of the substrate by a ionized cluster  beam deposition method, at least one ferromagnetic material  selected from cobalt, cobalt-containing alloys, mixtures of co­ balt with other elements, and chromium dioxide; and a process  for its production.  the magnetic recording medium is charac­ terised by having superior magnetic properties, especially su­ perior coercive force, residual magnetic flux density and  squareness ratio, and high mechanical strength.  
+</ABSTRACT>
+</TEXT>
+</DOC>

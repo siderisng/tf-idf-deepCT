@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011979
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/60 H01L-21/00 G05B-19/18 G05B-19/29 H01L-21/607 G05B-19/19 H01L-21/02 G05B-19/401 <main>H01L-21/68</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+processor-controlled drive apparatus for a semiconductor-wire bonder and method of operating same.
+</TITLE>
+<APPLICANT>
+kulicke & soffa ind incus<sep>kulicke and soffa industries inc.<sep>kulicke and soffa industries inc.507 prudential roadhorsham pennsylvania 19044us<sep>kulicke and soffa industries inc.<sep>
+</APPLICANT>
+<INVENTOR>
+bilane glen bradley<sep>rubin lawrence matthew<sep>soffa albert<sep>vilenski dan<sep>bilane, glen bradley<sep>rubin, lawrence matthew<sep>soffa, albert<sep>vilenski, dan<sep>bilane, glen bradleyc/o act 46 gravelhill roadhuntington valley, pennsylvania 19006us<sep>rubin, lawrence matthewc/o rubin engineering, 900 woodview drivecoatesville, pennsylvania 19320us<sep>soffa, albert1421 sussex roadwynnewood, pennsylvania 19096us<sep>vilenski, dan16 hunters wayhatboro, pennsylvania 19040us<sep>bilane, glen bradley<sep>rubin, lawrence matthew <sep>soffa, albert  <sep>vilenski, dan<sep>bilane, glen bradleyc/o act 46 gravelhill roadhuntington valley, pennsylvania 19006us<sep>rubin, lawrence matthewc/o rubin engineering, 900 woodview drivecoatesville, pennsylvania 19320us<sep>soffa, albert1421 sussex roadwynnewood, pennsylvania 19096us<sep>vilenski, dan16 hunters wayhatboro, pennsylvania 19040us<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for bonding wires onto semiconductor is  provided with a processor controlled vertical drive mechan­ ism (26,27,28) coupled to a bonding head of the type having a  bonding tool (21) mounted therein.  known numerical control  arrangements for tools are too slow for such bonding opera­ tions.  in this apparatus height of the bonding tool (21) at a  reset position and at a bonding position is programmed into  the processor for each bonding operation on a semiconductor  device of workpiece, the processor learning from the first  operation.  sensing contacts (56,59) are provided on the bond­ ing head for establishing and sensing the reset position and  the bonding positions.  the processor is programmed to com­ pute intermediate positions between said predetermined ver­ tical positions to obtain optimum high speed movement of  the bonding head and the bonding tool (21) during subse­ quent bonding cycles.  
+</ABSTRACT>
+</TEXT>
+</DOC>

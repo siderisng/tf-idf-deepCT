@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017106
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-33/28</main> G01N-33/26 G01N-33/28 G01N-35/08 G01N-1/22 G01N-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic analyzer for combustible gas in oil.
+</TITLE>
+<APPLICANT>
+katayama hirokazujp<sep>mitsubishi electric corpjp<sep>yamada mitsuhirojp<sep>katayama, hirokazu <sep>mitsubishi denki kabushiki kaisha<sep>yamada, mitsuhiro  <sep>katayama, hirokazukansai electric power company incorporated sohgo gijyutsu kenkyusho no.1, nakohji ichinotsuboamagasaki-shi hyogo-kenjp<sep>mitsubishi denki kabushiki kaisha2-3, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>yamada, mitsuhirokansai electric power company incorporated sohgo gijyutsu kenkyusho no.1, nakohji ichinotsuboamagasaki-shi hyogo-kenjp<sep>katayama, hirokazu<sep>mitsubishi denki kabushiki kaisha<sep>yamada, mitsuhiro<sep>
+</APPLICANT>
+<INVENTOR>
+ishii toshitsugu mitsubishi de<sep>kamio masashi mitsubishi denki<sep>katayama hirokazu kansai elect<sep>makino yoshihiro mitsubishi de<sep>yamada mitsuhiro kansai electr<sep>ishii, toshitsugu mitsubishi denki k.k.<sep>kamio, masashi mitsubishi denki k.k.<sep>katayama, hirokazu kansai electric power co., inc.<sep>makino, yoshihiro mitsubishi denki k.k.<sep>yamada, mitsuhiro kansai electric power co., inc.<sep>ishii, toshitsugu mitsubishi denki k.k.akoh seisakusho, no.651,tenwaakoh-shi,hyogo-ken,jp<sep>kamio, masashi mitsubishi denki k.k.itami seisakusho,no.80,aza-nakanominamishimizu amagasaki-shi hyogo-kenjp<sep>katayama, hirokazu kansai electric power co., inc.sohgo gijyutsu kenkyusho,no.1,nakohji ichinotsuboamagasaki-shi,hyogo-kenjp<sep>makino, yoshihiro mitsubishi denki k.k.akoh seisakusho, no.651,tenwaakoh-shi,hyogo-ken,jp<sep>yamada, mitsuhiro kansai electric power co., inc.sohgo gijyutsu kenkyusho, no. 1,nakohjiichinotsubo amagasaki-shi,hyogo-kenjp<sep>ishii, toshitsugu mitsubishi denki k.k.<sep>kamio, masashi mitsubishi denki k.k.<sep>katayama, hirokazu kansai electric power co., inc.<sep>makino, yoshihiro mitsubishi denki k.k.<sep>yamada, mitsuhiro kansai electric power co., inc. <sep>ishii, toshitsugu mitsubishi denki k.k.akoh seisakusho, no.651,tenwaakoh-shi,hyogo-ken, jp   <sep>kamio, masashi mitsubishi denki k.k.itami seisakusho,no.80,aza-nakanominamishimizu amagasaki-shi hyogo-kenjp<sep>katayama, hirokazu kansai electric power co., inc.sohgo gijyutsu kenkyusho,no.1,nakohji ichinotsuboamagasaki-shi,hyogo-kenjp<sep>makino, yoshihiro mitsubishi denki k.k.akoh seisakusho, no.651,tenwaakoh-shi,hyogo-ken,jp<sep>yamada, mitsuhiro kansai electric power co., inc.sohgo gijyutsu kenkyusho, no. 1,nakohjiichinotsubo amagasaki-shi,hyogo-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+an automatic analyzer (26) for measuring a combustible  gas dissolved in an oil such as an insulating oil in a  transformer (1) comprises a gas desorbing device (15) a gas  discharger (19) and a combustible gas detector (25).  the oil is sampled and the gas dissolved in the oil is  desorbed by bubbling air and a mixed gas of the desorbed  gas and air is fed into a bellows type gas discharger (19) and  the concentration of the combustible gas is measured by the  combustible gas detector (25).  
+</ABSTRACT>
+</TEXT>
+</DOC>

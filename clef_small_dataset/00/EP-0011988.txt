@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011988
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/42 <main>B23K-26/10</main> G02B-6/26 G02B-6/10 G02B-6/00 B23K-26/06 H01L-21/26 H01L-21/265 H01S-3/00 H01L-21/268 H01L-21/20 G02B-6/12 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+laser beam annealing.
+</TITLE>
+<APPLICANT>
+nat res devgb<sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+bailey paul<sep>cullis anthony george<sep>webber hugh charles<sep>bailey, paul<sep>cullis, anthony george<sep>webber, hugh charles<sep>bailey, paul4 rook streetoldham lancashire ol4 5hegb<sep>cullis, anthony george56 hallow roadworcester wr2 6bj worcestershiregb<sep>webber, hugh charles3 sandpiper crescentmalvern worcestershiregb<sep>bailey, paul<sep>cullis, anthony george<sep>webber, hugh charles<sep>bailey, paul4 rook streetoldham lancashire ol4 5hegb<sep>cullis, anthony george56 hallow roadworcester wr2 6bj worcestershiregb<sep>webber, hugh charles3 sandpiper crescentmalvern worcestershiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a laser beam diffuser for use in laser beam annealing  comprises a silica laser beam guiding pipe (3), having a diffusing  surface (6) or layer at one end and a polished surface (12)  at the other end.  the diffusing surface (6) may be a ground  surface.  a bend (8) or bends removes axial component of  speckle produced by the ground surface.  adjacent the  polished end (12) the pipe maybe of reduced cross section  (10,11).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013968
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B65H-17/22</main> B65H-20/04 B26D-5/22 B26D-5/20 B23D-36/00 B65H-20/02 B26D-7/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for transporting a web in register and its use.
+</TITLE>
+<APPLICANT>
+tetra pak devch<sep>tetra pak developpement sa<sep>tetra laval holdings &amp; finance saavenue général-guisan 701009 pullych<sep>tetra pak developpement sa  <sep>
+</APPLICANT>
+<INVENTOR>
+ljungcrantz billy<sep>ljungcrantz, billy<sep>ljungcrantz, billyen montimbertch-1618 châtel-st-denisch<sep>ljungcrantz, billy<sep>ljungcrantz, billyen montimbertch-1618 châtel-st-denisch<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  method for advancing a workpiece strip in register and successively severing separate portions of predetermined length form the strip, in which the strip, which is provided with discontinuities (c) through the thickness of the strip which extend over only a part of its width and are arranged at a spacing in the longitudinal direction corresponding to the length of the portions, is advanced through a registration station and, whenever a discontinuity reaches the registration station, is temporarily held in a registered position with the discontinuity at a setting mark provided in the registration station, in which at least one of the edges, defining this discontinuity, of the region (f) of the strip lying on both sides of the discontinuity is moved relatively in the direction of the strip thickness and is temporarily supported against an abutment (33a) forming the setting mark and in which, during this registered locating, in which the edge (g) contacts the abutment (33a), the portion of the strip lying foremost in the direction of advance and having a length equal to the length of the portion, is separated from the strip, characterized in that each discontinuity (c), when it reaches the registration station, first moves past the abutment (33a), whereupon the strip (a) in the displaced position of the region (f) of the strip corresponding to the edge (g) is moved rearwards opposite to the direction of advance until the forward edge (g) runs to the abutment (33a) and the rearvard movement is thus stopped and in that the advance of the strip (a) is resumed only when the foremost part (e) of the strip has been severed. 
+</ABSTRACT>
+</TEXT>
+</DOC>

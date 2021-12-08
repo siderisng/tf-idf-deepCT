@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010959
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-7/033 H03L-7/085 H03L-7/08 G11B-20/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phase lock loop.
+</TITLE>
+<APPLICANT>
+sperry corpus<sep>sperry corporation<sep>sperry corporation1290, avenue of the americasnew york, n.y. 10019us<sep>
+</APPLICANT>
+<INVENTOR>
+moulton robert kirkus<sep>thompson john warneus<sep>moulton, robert kirk<sep>thompson, john warne<sep>moulton, robert kirk731a north wales roadnorth wales pa. 19454us<sep>thompson, john warne2944 banner roadwillow grove pa. 19090us<sep>
+</INVENTOR>
+<ABSTRACT>
+a phase lock loop (11) is supplied with a pre­ conditioned pulse stream derived in a preconditioning  circuit (10) from coded data pulse sequences not having  transitions in every data cell.  the data pulses are applied to bi-stable devices  (14, 23) of the preconditioning circuit (10), to produce a  delay of one and three halves of a data cell period.  the  delayed data pulses, one of which also inverted, are  applied to an exclusive or gate (28) whose output  connects to a further bistable device (29).  the bistable  device (29) provides a signal, having pulse transitions  when the output of the exclusive or gate is high, to a  second exclusive or gate (31) which also receives data  delayed by one data cell period and which provides the  preconditioned pulse stream at its output.  an additional exclusive or gate (33) connected to the  outputs of the bistable devices (14, 23) enables an nrz  coded signal to be derived from nrzi coded data pulses.  
+</ABSTRACT>
+</TEXT>
+</DOC>

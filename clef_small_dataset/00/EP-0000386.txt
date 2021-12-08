@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000386
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08J-5/18</main> C08J-7/00 C08J-5/18 C08L-67/02 B29C-55/12 B29C-49/00 B29C-55/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+biaxially stretched polyester film.
+</TITLE>
+<APPLICANT>
+toray industriesjp<sep>toray industries, inc.<sep>toray industries, inc.2, nihonbashi-muromachi 2-chome chuo-kutokyo 103 jp<sep>toray industries, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+deguchi yukichi  <sep>minami satoyuki<sep>okamoto satoru<sep>yabe kenji<sep>deguchi, yukichi<sep>minami, satoyuki<sep>okamoto, satoru<sep>yabe, kenji<sep>deguchi, yukichic/o shiga factory toray industry1-1 chome, sonoyama otsu-shi, shiga-kenjp<sep>minami, satoyukic/o shiga factory toray industry1-1 chome, sonoyama otsu-shi, shiga-kenjp<sep>okamoto, satoruc/o shiga factory toray industry1-1 chome, sonoyama otsu-shi, shiga-kenjp<sep>yabe, kenjic/o shiga factory toray industry1-1 chome, sonoyama otsu-shi, shiga-kenjp<sep>deguchi, yukichi<sep>minami, satoyuki <sep>okamoto, satoru<sep>yabe, kenji  <sep>deguchi, yukichic/o shiga factory toray industry1-1 chome, sonoyama otsu-shi, shiga-kenjp<sep>minami, satoyukic/o shiga factory toray industry1-1 chome, sonoyama otsu-shi, shiga-kenjp<sep>okamoto, satoruc/o shiga factory toray industry1-1 chome, sonoyama otsu-shi, shiga-kenjp<sep>yabe, kenjic/o shiga factory toray industry1-1 chome, sonoyama otsu-shi, shiga-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  biaxially stretched polyester film which is corona-treated in a nitrogen atmosphere, characterised in that it is made up of a copolyester comprising a a residue of dibasic acids wherein at least 90 mole % are terephthalic acid units and b glycols which contain from 0. 1 to 3. 0% by weight of at least one poly(alkylene oxide)glycols having a molecular weight in the range from 500 to 40,000, preferably from 800 to 30,000 and that is is corona-treated at an energy ranging between 10 and 100 w .  min/m**2 . 
+</ABSTRACT>
+</TEXT>
+</DOC>

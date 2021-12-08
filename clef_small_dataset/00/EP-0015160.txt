@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015160
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02G-15/00 H02G-15/26 <main>H02G-15/26</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric cable installations.
+</TITLE>
+<APPLICANT>
+british insulated callendersgb<sep>bicc limited<sep>bicc public limited company21, bloomsbury streetlondon, wc1b 3qngb<sep>bicc public limited company<sep>
+</APPLICANT>
+<INVENTOR>
+papadopulos michael savvas<sep>papadopulos, michael savvas<sep>papadopulos, michael savvas12 charles dickens avenuehigham kentgb<sep>papadopulos, michael savvas<sep>papadopulos, michael savvas12 charles dickens avenuehigham kentgb<sep>
+</INVENTOR>
+<ABSTRACT>
+in an oil-filled electric power cable installation, the oil is  pressurised using oil tanks (13) connected to stop joints (11) in  the usual way, and an oil-purifying unit is connected between  stop joint and tank.  the oil-purifying unit comprises a column  or bed (1) of a molecular sieve or other active purifying agent  with particle sizes, and interstice sizes, big enough to limit the  pressure drop across the unit to 20 kn/m² at the most.  this  eliminates the need to provide bypass passages controlled by  valves as the oil can flow both ways through the column.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004321
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-2/00 G01R-15/24 G02F-1/09 <main>G01R-15/07</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for magneto-optical current measuring.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+papp alfred dr<sep>papp, alfred, dr.<sep>papp, alfred, dr.winternitzstrasse 6d-8000 münchende<sep>papp, alfred, dr.<sep>papp, alfred, dr.winternitzstrasse 6d-8000 münchende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method of magneto-optical current measurement utilising that rotation of the polarisation plane of a linearly polarised light beam which is dependent upon the current and on which is superimposed a high-frequency modulating rotation, the total rotation being converted into a change in intensity of the light beam, and this change being converted into an electric measuring signal, characterised in that separate frequency bands having the fundamental frequency and the first harmonic of the modulation signal as respective centre frequencies are filtered from the measuring signal, the frequency band of the harmonic and that of the fundamental frequency being subsequently demodulated, and the quotient of the two demodulation signals then being formed. 
+</ABSTRACT>
+</TEXT>
+</DOC>

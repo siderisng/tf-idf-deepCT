@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004699
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+A63H-18/12 A63H-19/00 A63H-19/24 A63H-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+model railway control system.
+</TITLE>
+<APPLICANT>
+goddin derek joseph harrygb<sep>goddin lynnegb <sep>goddin, derek joseph harry <sep>goddin, lynne <sep>goddin, derek joseph harry56 yew tree road, southboroughtunbridge wells, kent tn4 0bngb<sep>goddin, lynne56 yew tree road southboroughtunbridge wells kentgb<sep>
+</APPLICANT>
+<INVENTOR>
+goddin lynne<sep>goddin, lynne<sep>goddin, derek joseph harry56 yew tree road, southboroughtunbridge wells, kent tn4 0bngb<sep>goddin, lynne56 yew tree road southboroughtunbridge wells kentgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a model railway control system for controlling a train on  a model railway track layout comprises a power supply unit  which is arranged, in operation, to produce a d.  c.  voltage  which periodically changes in potential between two levels.   one potential serves to provide power to drive the motor (m)  of the train locomotive while the other potential is supplied  as a series of pulses.  the control system further comprises a  control unit connected between the power supply unit and  the rails (f) of the track layout for varying the width and/or  magnitude of the pulses and a control module (g) provided  in the train.  the control module (g) is adapted to receive and  decode the pulses from the control unit and, using the  decoded information, serving to control the operation of the  motor (m).  the control module receives the pulses via  pick-ups (h) which are arranged to contact the wheels of the  locomotive and the control module may also be arranged to  control the operation of a de-coupler (j).  the control module  preferably takes the form of a silicon chip.  
+</ABSTRACT>
+</TEXT>
+</DOC>

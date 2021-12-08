@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014849
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01K-11/12 G01K-11/00 G01J-5/58 G01J-5/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical temperature sensor utilizing birefringent crystals.
+</TITLE>
+<APPLICANT>
+rockwell international corpus<sep>rockwell international corporation <sep>rockwell international corporation2230 east imperial highwayel segundo california 90245 us  <sep>
+</APPLICANT>
+<INVENTOR>
+james kenneth allanus<sep>quick william henryus<sep>strahan virgil haskellus<sep>james, kenneth allan<sep>quick, william henry<sep>strahan, virgil haskell<sep>james, kenneth allan320 iris avenuecorona del mar, ca 92625us<sep>quick, william henry1818 kanola roadlahabra heights, ca 90631us<sep>strahan, virgil haskell2519 dorothy driveorange, ca 92619us<sep>
+</INVENTOR>
+<ABSTRACT>
+a temperature sensor comprising an optical transducer  member having an array of birefringent crystals (32).  the  length and, accordingly, the sensitivity to temperature change  of successive birefringent crystals (32) varies according to a  particular relationship.  the transducer is interconnected with  a fiber optic transmission (26,38) and detecting system (40).   respective optical output signals that are transmitted from  the birefringent crystals (32) via the fiber optic transmission  system (38) are detected (40) and decoded (42) so as to cor­ respond to digits of a numbering system, whereby an accu­ rate digital representation of temperature can ultimately be  provided.  
+</ABSTRACT>
+</TEXT>
+</DOC>

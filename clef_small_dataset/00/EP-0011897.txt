@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011897
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-23/203 G01N-23/04 G01N-23/02 G01N-23/20 <main>A61B-6/02</main> A61B-6/03 A61B-6/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for tomographic examination of a body by x or gamma ray scanning.
+</TITLE>
+<APPLICANT>
+electronique & physiquefr <sep>philips nvnl <sep>laboratoires d'electronique et de physique appliquee l.e.p. <sep>n.v. philips' gloeilampenfabrieken<sep>laboratoires d'electronique et de physique appliquee l.e.p.3, avenue descartesf-94450 limeil-brévannesfr<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>laboratoires d'electronique et de physique appliquee l.e.p.<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+chalmeton vincent<sep>jatteau michel<sep>pauvert joseph<sep>chalmeton, vincent<sep>jatteau, michel<sep>pauvert, joseph<sep>chalmeton, vincentsociété civile s.p.i.d. 209, rue de l'universitéf-75007 parisfr<sep>jatteau, michelsociété civile s.p.i.d. 209, rue de l'universitéf-75007 parisfr<sep>pauvert, josephsociété civile s.p.i.d. 209, rue de l'universitéf-75007 parisfr<sep>chalmeton, vincent <sep>jatteau, michel<sep>pauvert, joseph  <sep>chalmeton, vincent société civile s.p.i.d. 209, rue de l'universitéf-75007 parisfr<sep>jatteau, michelsociété civile s.p.i.d. 209, rue de l'universitéf-75007 parisfr<sep>pauvert, josephsociété civile s.p.i.d. 209, rue de l'universitéf-75007 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Method and apparatus for exploring X-ray media or gamma exploration, intended to allow the representation of slices of the medium examined by determining the electron density in each element of volume (EI) of these slices.Using a source (2) of X or gamma rays, a stationary main detector (3) and an auxiliary detector (4) aligned with the source (2), one carries out for each volume elementof each slice (SJ) two componal diffusion measurements to the main detector (3) and two source transmission measurements (2) - auxiliary detector (4), progressing from the nearest slice towards the furthest from the detectormain (3).The measurement results are progressively used to rigorously calculate the electron densities throughout the environment examined.Application: Exploration of biological tissues for medical diagnosis purposes.
+</ABSTRACT>
+</TEXT>
+</DOC>

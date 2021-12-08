@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008711
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-263/20 C07D-263/24 <main>C07C-93/06</main> C07D-285/10 C07C-213/00 C07C-217/00 C07D-263/00 C07C-217/30 C07D-285/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of preparing a 2-hydroxy-3-isopropyl or a 2-hydroxy-3-tert-butylaminopropyl aromatic ether.
+</TITLE>
+<APPLICANT>
+smithkline corpus<sep>smithkline corporation<sep>smithkline beckman corporationp.o. box 7929 1 franklin plazaphiladelphia pennsylvania 19101us<sep>smithkline beckman corporation <sep>
+</APPLICANT>
+<INVENTOR>
+kirkpatrick david samuel<sep>webb robert lee<sep>kirkpatrick, david samuel<sep>webb, robert lee<sep>kirkpatrick, david samuel2625 summit avenuebroomall, pennsylvania 19008us<sep>webb, robert lee512 n. veronica roadwest chester, pennsylvania 19380us<sep>kirkpatrick, david samuel <sep>webb, robert lee<sep>kirkpatrick, david samuel2625 summit avenuebroomall, pennsylvania 19008us<sep>webb, robert lee512 n. veronica roadwest chester, pennsylvania 19380us<sep>
+</INVENTOR>
+<ABSTRACT>
+methods and intermediates for introducing the two  blocking side chains, 2-hydroxy- 3-isopropyl or tert. -­ butylaminopropyl, into aromatic nuclei containing a  phenolic hydroxyl group by condensing a 5-halomethyl-­ 3-isopropyl or 3-tert.  -butyl-2-oxazolidinone with an aroma­ tic compound containing a phenolic hydroxy group in the  presence of an acid binding agent at 80-150°c then subs­ quently splitting the oxazolidinone ring using an alkali  metal hydroxide or lower alkoxide at a temperature in the  range of 100-150°c in an organic solvent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

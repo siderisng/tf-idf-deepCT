@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014720
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/022 <main>A61B-5/02</main> A61B-5/0225 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sphygmomanometer.
+</TITLE>
+<APPLICANT>
+matsushita electric works ltdjp<sep>matsushita electric works, ltd.<sep>matsushita electric works, ltd.1048, oaza-kadomakadoma-shi osaka 571jp<sep>matsushita electric works, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+ichinomiya tsutomu<sep>kitagawa fumio<sep>ichinomiya, tsutomu<sep>kitagawa, fumio<sep>ichinomiya, tsutomumatsushita electric works, ltd. 1048, oaza-kadomakadoma-shi, osaka, 571jp<sep>kitagawa, fumiomatsushita electric works, ltd. 1048, oaza-kadomakadoma-shi, osaka, 571jp<sep>ichinomiya, tsutomu<sep>kitagawa, fumio <sep>ichinomiya, tsutomu matsushita electric works, ltd. 1048, oaza-kadoma kadoma-shi, osaka, 571jp<sep>kitagawa, fumiomatsushita electric works, ltd. 1048, oaza-kadomakadoma-shi, osaka, 571jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a haemadynamometer for automatic tonometry pro­ vided with a temporary sealing belt (1), an automatic pressure  controller (2) to supply air under pressure in the belt, a circuit  (22) to distinguish korotkov's sounds and a digital indicator  (20) to display by digital signals the highest and the lowest  blood pressure values.  the automatic pressure controller (2)  is so structured that the intermittent increase of the air supply  is continued as long as korotkov's sounds are detected and  that it is automatically switched to its exhaust phase when  korotkov's sounds are no longer detected and during the  exhaust process the highest and the lowest blood pressure  values detected by means of the beginning and ending of  korotkov's sounds are displayed by digital signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

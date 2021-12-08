@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009741
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-67/05 <main>C07C-69/16</main> C07C-69/16 B01J-23/40 C07C-67/055 C07C-69/00 B01J-23/00 C07B-61/00 C07C-67/00 C07C-69/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of butenediol diesters.
+</TITLE>
+<APPLICANT>
+basf ag de<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+schwarz helmut dr dipl-chem<sep>weitz hans-martin dr dipl-chem<sep>schwarz, helmut, dr. dipl.-chem.<sep>weitz, hans-martin, dr. dipl.-chem.<sep>schwarz, helmut, dr. dipl.-chem.weinbrennerstrasse 5d-6700 ludwigshafende<sep>weitz, hans-martin, dr. dipl.-chem.auf dem koeppel 40d-6702 bad duerkheim 1de<sep>schwarz, helmut, dr. dipl.-chem.<sep>weitz, hans-martin, dr. dipl.-chem.<sep>schwarz, helmut, dr. dipl.-chem.weinbrennerstrasse 5d-6700 ludwigshafende<sep>weitz, hans-martin, dr. dipl.-chem.auf dem koeppel 40d-6702 bad duerkheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the preparation of butenediol diacetate or butenediol dipropionate by reacting butadiene with oxygen and acetic acid or propionic acid, or a compound which liberates acetic acid or propionic acid under the reaction conditions, especially methyl acetate or methyl propionate, over a solid catalyst which contains a platinum metal and at least one element of main group 5 or 6, characterized in that the reaction is carried out in the presence of a solvent which has a higher boiling point than the butenediol diacetates or butenediol dipropionates, and which neither chemically influences the reaction not is altered by it. 
+</ABSTRACT>
+<DESCRIPTION>
+erfahren zur merstellunz von butendioldiestern die erfindung. betrifft ein verfahren zur herstellung von butendiol-diacetaten oder -dipropionaten durch umsetzung von butadien mit sauerstoff und essigsäure bzw. propionsäure in gegenwart eines hochsiedenden lösungsmittels zn einem festen katalysator, der ein platinmetall und mindestens ein element der 5. oder 6. hauptgruppe-enthalt. es ist - z.b. aus der de-os 22 17 452 - bekannt, carbonscu- re-diester eines ungesättigten diols durch umsetzung eines konjugierten diens mit sauerstoff und einer carbonsäure an einem festen katalysator herzustellen, der palladium und mindestens eines der elemente antimon, wismut, tellur und selen enthält. nach derde-os 24 17 658 gelingt die umsetzung von butadien mit sauerstoff und essigsäure zu butendioldiacetaten auch an einem festen katalysator, der platin und mindestens ein element der 5. oder 6. hauptgruppe enthält. die im falle der verwendung von essigsäure als carbonsäure entstehenden butendioldiacetate (beda), sind das cis- bzw. trans-2-buten-1,4-dioldiacetat (1,4-beda) und l-buten-3,4- -dioldiacetat (3,4-beda). sie haben - bei atmosphärischem druck - siedepunkte von 227 bzw. 235 und 2060c. tie siedepunk'e der entsprechenden butendol-diproponate liegen - bei normaldruck - ca. 200c höher. da die vorliegende erfindung vorzugsweise ein verfahren zur herstellung von butendioldiacetaten (beda), insbesondere von cis- bzw. trans-2-buten-1,4-dioldiacetat und 1-3uten-3,4-dioldiacetat (3,4-beda) durch umsetzung von butadien mit sauerstoff und essigsäure in gegenwart hochsiedender lösungsmittel an einem festen katalysator betrifft, soll im folgenden die erfindung im einzelnen an diesem beispiel veranschaulicht werden. entsprechendes teilt bei einsatz von propionsäure anstelle von essigsäure. bei der technischen durchführung dieser als acetoxllierungs- reaktion bezeichneten umsetzung nach bisher bekannten verfahren sind einige randbedingungen zu berücksichtigen, die die wirtschaftlichkeit des technischen verfahrens begrenzen. hierzu gehört vor allem die löslichkeit von sauerstoff in essigsäure und die erforderliche wärmeabfuhr von etwa 196 kj/mol beda (bei einsatz von flüssigem oder in essigsäure gelöstem butadien). zu berücksichtigen sind ferner polymerenbildung, einfluss des wassers, das bei der reaktion entsteht, reaktionstemperatur, katalysatorleistung usw. aufgrund dieser voraussetzungen enthält das erzielbare reaktionsgemisch im allgemeinen neben etwa 1 % wasser nur 5 bis 10 % beda und im übrigen essigsäure. wegen des hohen siedepunkts der butendioldiacetate können diese aus dem reaktionsgemisch nur dadurch isoliert werden, dass neben dem stöchiometrisch anfallenden wasser grosse mengen essigsäure abdestilliert werden. auberdem ist es erforderlich, die mit wasser verdünnte essigsäure zu entwässern, da beim fortlaufenden verfahren die essigsäure wieder in die synthese zu rückgeführt werden muss und dabei nur gewisse wassermengen toleriert werden können. schliesslich muss auch das abgetrennte wasser möglichst essigsäurefrei gemacht werden. da bekanntlich die destillation zu den energieaufwendigsten verfahrensmassnahmen gehört, ist die wirtschaftlichkeit des gesamten verfahrens in frage gestellt. die erfindung hat sich die aufgabe gestellt, ein verfahren aufzuzeigens das den energiebedarf gegenüber den bekannten verfahren deutlich herabsetzt. es wurde gefunden, dass man butendioldiacetat (beda), speziell 1,4-beda und 3,4-beda, kostengünstig herstellen kann durch umsetzung von butadien mit sauerstoff und essigsäure an einem festen katalysator, der ein platinmetall und mindestens ein element der 5. und 6. hauptgruppe enthält, wenn man die reaktion in gegenwart eines hochsiedenden lösur.gs- mittels durchfuhrt. mit hochsiedenden lösungsmitteln sind lösungsmittel gemeint, die die reaktion weder chemisch beeinflussen noch von ihr verändert werden, mit
+</DESCRIPTION>
+<CLAIMS>
+   latetansoruch      verfahren zur herstellung von butendiol-diacetat oder -dipropionat durch umsetzung von butadien mit sauerstoff und essigsäure bzw. propionsäure oder einer verbindung, die unter den reaktionsbedingungen essigsäure bzw. propionsäure freisetzt, insbesondere methylacetat bzw. methylpropionat, an einem festen katalysator, der ein platinmetall und mindestens ein element der 5. oder 6. hauptgruppe enthält, dadurch   zekennzeichnet,    dass die umsetzung in gegenwart eines lösungsmittels durchgeführt wird, das einen höheren siedepunkt als die butendiol-diacetate bzw.   -dipropionate    unter vergleichbaren bedingungen aufweist.      zeichn.     
+</CLAIMS>
+</TEXT>
+</DOC>

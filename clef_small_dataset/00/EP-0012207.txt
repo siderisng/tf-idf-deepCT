@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012207
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-12/08 G11C-27/04 <main>G11C-9/06</main> G06F-13/00 G11C-27/00 G11C-19/00 G11D-1/00 G11C-11/56 G11C-19/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+memory hierarchy using a charge coupled memory device.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+schunemann claus dr<sep>schunemann, claus, dr.<sep>schünemann, claus, dr.cheruskerstrasse 27d-7036 schönaichde<sep>schunemann, claus, dr.<sep>schünemann, claus, dr.cheruskerstrasse 27d-7036 schönaichde<sep>
+</INVENTOR>
+<ABSTRACT>
+To reduce the middle access time to Spei cher blocks in the charge shift memory (CCD memory 4), after each access the block with the highest probability is determined for the next access. During the processing of the previously read block, the high-rotational speed of the CCD memory is brought into a feed position X and then switched to the CCD memory at a slow voltage. The distance d of the feed position from the reading / write head (41) is selected to pass through the low speed succession with a low speed within the mean time between two accesses to the CCD memory. Upon next access, the subleless block is therefore very true very close to the read / write head. In Syste Men with virtual addressing, the block with the next virtual address can be selected as a sublock block. In another embodiment, the access sequences are stored about CCD blocks and later used for selecting the block with the highest to handle probability.
+</ABSTRACT>
+</TEXT>
+</DOC>

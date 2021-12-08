@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014873
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05F-1/66 H05B-3/00 G05D-23/19 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of melting vitreous materials and use of the suitable device for the accomplishment of the method.
+</TITLE>
+<APPLICANT>
+siv soc italiana vetroit <sep>tironi electromeccit <sep>elettromeccanica tironi s.r.l. <sep>societa anonima italiana del vetro d'ottica saivos.p.a.<sep>elettromeccanica tironi s.r.l.85, via degli scarlattii-41100 modenait<sep>società anonima italiana del vetro d'ottica saivo s.p.a.360, via reginaldo giulianii-50141 firenzeit<sep>
+</APPLICANT>
+<INVENTOR>
+barbini marioit<sep>del sere giannettoit<sep>tironi maurizio ginoit<sep>barbini, mario<sep>del sere, giannetto<sep>tironi, maurizio gino<sep>barbini, mario32, via xxiv maggioi-50129 firenzeit<sep>del sere, giannetto4, largo cantùi-50134 firenzeit<sep>tironi, maurizio gino85, via degli scarlattii-41100 modenait<sep>
+</INVENTOR>
+<ABSTRACT>
+method of melting vitreous materials, in which the ther­ mal power to be supplied electrically to the vitreous mass is  controlled by supplying the melting plant with the maximum  electric power, for which the plant is rated, during pre-­ established intervals of time, spaced by pre-established inter­ vals of time during which no electric power is applied.  the  length of said intervals of time is equivalent to an entire  number of cycles of the alternating voltage applied to the  plant.  the power control is obtained by changing the length of  said intervals of time by means of a device suitable for realis­ ing a pre-established sequence of conduction and non-­ conduction intervals of the electric power circuit of the melt­ ing plant.  
+</ABSTRACT>
+</TEXT>
+</DOC>

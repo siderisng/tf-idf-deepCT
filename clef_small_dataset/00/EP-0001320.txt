@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001320
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-13/00 B62D-5/08 F15B-13/14 B62D-5/06 B62D-5/087 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reaction force limiting means and steering gear including such means.
+</TITLE>
+<APPLICANT>
+cam gears ltdgb <sep>cam gears limited <sep>cam gears limited 45, wilbury way hitchinhertfordshire sg4 0tugb<sep>
+</APPLICANT>
+<INVENTOR>
+adams frederick johngb<sep>adams, frederick john<sep>adams, frederick john"pelba" 27 princes roadclevedon avongb<sep>
+</INVENTOR>
+<ABSTRACT>
+reaction force limiting means and a steering gear including  such means.  a valve includes a spool assembly (100)  having first (5) and second (10) spool parts and which is axially  displaceable in a spool housing (101) to control flow of fluid  under pressure from a pressurised port (1) to an actuating port  (8) intended for communication with a ram.  the first and second  spool parts (5,10) form a reaction chamber (105), the  volume of which is variable.  the spool parts (5,10) can be  connected by a pin and slot mechanism (108,14) so that the  chamber (105) has maximum and minimum volumes.  control  means (4) acts on one (5) of the spool parts for manually  displacing the spool assembly in one axial direction to open  communication between said pressurised port (1) and the  actuating port (8).  a biasing spring (12) opposes axial displacement  of the other (10) of the spool parts in the one axial  direction.  the reaction chamber (105) communicates with the  actuating port (8) when that port (8) communicates with the  pressurised port (1) and upon pressurisation of the reaction  chamber (105) by its communication with the pressurised port  the other spool part (10) reacts against the biasing spring (12)  to oppose and provide a reaction to the manual force which is  applied to displace the spool assembly (100) in one axial  direction.  a secondary spring (9) which is weaker than the biasing  spring (12) biases the reaction chamber (105) to its expanded  condition.  the valve can be double acting to be displaceable  from a neutral condition and in either sense of axial direction  to control fluid flow to one or the opposite sides of a ram; in  the neutral condition both sides of the ram may communicate  through the valve with exhaust.  
+</ABSTRACT>
+</TEXT>
+</DOC>

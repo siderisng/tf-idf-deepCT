@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013590
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 C10G-9/00 C10J-3/54 C10J-3/46 C01B-3/34 C10G-9/32 <main>C10J-3/54</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of converting liquid and/or solid fuel to a substantially inerts-free gas.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company<sep>
+</APPLICANT>
+<INVENTOR>
+moss gerald<sep>moss, gerald<sep>moss, gerald'trevose' sarajac avenue east challowwantage oxfordshiregb<sep>moss, gerald  <sep>moss, gerald'trevose' sarajac avenue east challowwantage oxfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to the conversion of fuel (solid  and/or liquid) to reducing and/or synthesis gas by contacting  the fuel in a fluidized conversion bed (13) with a solid oxygen  donor (e. g.  caso₄) at a fuel conversion temperature (e. g.  850  to 1150°c) in the presence of at least one gas/vapour phase  substance such as h₂ and/or h₂o and/or co and/or co₂  which serves to promote and or mediate the transfer of  oxygen from the donor to the fuel and preferably in the  absence of non-reactive gases (e. g.  n₂) whereby the fuel is  converted to a reducing and-or synthesis gas product by  (inter alia) partial oxidation employing the oxygen of the solid  oxygen donor, the latter being reduced (e. g.  cas).  the  reduced donor is exothermically oxidized in a fluidized oxida­ tion bed (35) by contact with an oxygen-containing gas (e. g.   air) and re-used for converting further quantities of fuel.   moieties (e. g.  sulfur/sulfur compounds) whose presence is  undesirable in the gas product may be removed by a solid  moiety-fixing agent (e. g.  cao) in the conversion bed (13).  the  moiety-fixing properties of the latter are at least partly regen­ erated in a fluidized regenerator bed (48) by treatment in a  suitable regenerating atmosphere, and the regenerated  moiety-fixing agent is returned to the conversion bed (13)  directly and/or indirectly via the oxidation bed (35).  
+</ABSTRACT>
+</TEXT>
+</DOC>

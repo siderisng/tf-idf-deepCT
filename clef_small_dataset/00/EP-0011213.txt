@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011213
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-29/04 <main>G21C-17/00</main> G21C-17/007 G01N-29/26 G01N-27/82 G01M-3/00 G21C-17/003 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for inspecting the walls of a pressure vessel.
+</TITLE>
+<APPLICANT>
+kraftwerk union agde<sep>kraftwerk union aktiengesellschaft<sep>kraftwerk union aktiengesellschaftc/o siemens ag postfach 261d-8000 münchen 22de<sep>kraftwerk union aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+gugel georg<sep>huber franz<sep>gugel, georg<sep>huber, franz<sep>gugel, georgfürther strasse 17d-8501 kalchreuthde<sep>huber, franzdaimlerstrasse 38d-8520 erlangende<sep>gugel, georg  <sep>huber, franz<sep>gugel, georgfürther strasse 17d-8501 kalchreuthde<sep>huber, franzdaimlerstrasse 38d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+For testing container walls having protrusions (4), they can use rails (9) between the projection gene which leads to a test device (41) carriage (25).The tester (41) may be reacted with the aid of a carriage (12) to the individual rails, which is movable on one of the ends of the guide rails (9) connecting rail (11).The carriage (25) is connected to a tensile and pressure-strip thrust hose (37), which is guided on the rail (9) and is operated with a drive (65) arranged on the carriage (12).The drive (65) is assigned to a boom (13) of the carriage which is dimensioned for the toe of the carriage (25) with the test device and arranged movable for adaptation to the rails.The new device is used in particular for testing the lid (1) of reactor pressure containers in the area of the nozzle (4) for control rod drives.
+</ABSTRACT>
+</TEXT>
+</DOC>

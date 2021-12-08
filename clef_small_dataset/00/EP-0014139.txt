@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014139
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-47/08 <main>F16H-47/08</main> F16H-47/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+continuously variable transmission.
+</TITLE>
+<APPLICANT>
+plas gerardfr<sep>plas patrickfr<sep>plas, gerard<sep>plas, patrick<sep>plas, gérarddomaine du triadouf-34190 st bauzille de putoisfr<sep>plas, patrickdomaine du triadouf-34190 st bauzille de putoisfr<sep>plas, gerard<sep>plas, patrick  <sep>
+</APPLICANT>
+<INVENTOR>
+plas gerard<sep>plas, gerard<sep>plas, gérarddomaine du triadouf-34190 st bauzille de putoisfr<sep>plas, patrickdomaine du triadouf-34190 st bauzille de putoisfr<sep>plas, gerard<sep>plas, gérarddomaine du triadou34190 st bauzille de putoisfr<sep>plas, patrickdomaine du triadou34190 st bauzille de putoisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a transmission having an infinitely variable speed ratio, notably for automotive vehicle, comprising an input shaft (a1), two planetary gear trains (d1, d2 ; 22, 23) and a hydrokinetic torque converter (c-24), a planetary gear (6 or 25) of the first planetary gear train (d1 or 22) being connected for rotation with a planetary gear (15 or 30) of the second planetary gear train (d2 or 23) by a first intermediate transmission link (f), one of the other elements of the first planetary gear train (d1 or 22) being connected for rotation with one of the other elements of the second planetary gear train (d2 or 23) by a second intermediate transmission link (e), the third element (16 or 32) of the second planetary gear trains (d2 or 23) transmitting the torque on the output shaft, wherein said the input shaft (a or 21) simultaneously drives the satellite carrier (2 or 28) of the first planetary gear train (d1 or 22) and the impeller (19 or 35) of the hydrokinetic torque converter is connected for rotation with the intermediate transmission (e). 
+</ABSTRACT>
+</TEXT>
+</DOC>

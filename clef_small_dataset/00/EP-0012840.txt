@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012840
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-27/04 G11C-27/00 G11C-19/00 H01L-27/105 H01L-21/339 <main>G11C-19/28</main> H01L-29/66 G11C-11/401 G11C-11/56 H01L-21/02 G11C-19/28 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+line-addressable memory with serial-parallel-serial configuration.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+lee hua-tung<sep>lee, hua-tung<sep>lee, hua-tung2 skyview drivepoughkeepsie n. y. 12603us<sep>lee, hua-tung<sep>lee, hua-tung2 skyview drivepoughkeepsie n. y. 12603us<sep>
+</INVENTOR>
+<ABSTRACT>
+This memory in the series-parallel-series configuration made of serially parallel-serially connected shift registers with memory cells made of charge coupling elements is also time lens-detectable.With the input register (10), the output register (14) and the intervening parallel registers (12), a DC control line and two phase control lines (P1 and P2) are connected.The sequentially arranged cells within a register are formed by P + ranges (31 to 37) in a p-conductive substrate (30).The three specified control lines are controlled by applying three different potential levels.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017681
+</DOCNO>
+<TEXT>
+<DATE>
+19801029
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-57/04 C07C-53/08 <main>C07C-53/02</main> C07C-51/47 C07C-51/42 C07C-53/122 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for removing chromium ions from aqueous solutions of organic acids.
+</TITLE>
+<APPLICANT>
+mitsubishi rayon cojp<sep>mitsubishi rayon co. ltd.<sep>mitsubishi rayon co., ltd.3-19, kyobashi 2-chome chuo-kutokyo 104jp<sep>mitsubishi rayon co. ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+ikeda minoru <sep>matsuzawa hideo<sep>okada kazuya  <sep>yoshioka teruhiko<sep>ikeda, minoru<sep>matsuzawa, hideo<sep>okada, kazuya<sep>yoshioka, teruhiko<sep>ikeda, minoruno. 908-224, ono-chosaiki-gun hiroshima pref.jp<sep>matsuzawa, hideono. 10-4, 2-chome nishisakaeotake city hiroshima pref.jp<sep>okada, kazuyano. 2-3, 3-chome kurokawaotake city hiroshima pref.jp<sep>yoshioka, teruhikono. 6-17, 7-chome kubaotake city hiroshima pref.jp<sep>ikeda, minoru<sep>matsuzawa, hideo<sep>okada, kazuya<sep>yoshioka, teruhiko <sep>ikeda, minoru no. 908-224, ono-cho saiki-gun hiroshima pref.jp<sep>matsuzawa, hideono. 10-4, 2-chome nishisakaeotake city hiroshima pref.jp<sep>okada, kazuyano. 2-3, 3-chome kurokawaotake city hiroshima pref.jp<sep>yoshioka, teruhikono. 6-17, 7-chome kubaotake city hiroshima pref.jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of removing chromium ion from an aqueous  solution of an organic acid by an ion exchange process at  a temperature above 55° c.  
+</ABSTRACT>
+<DESCRIPTION>
+"method of removing chromium ion" this invention relates to a method of efficiently removing chromium ions from an aqueous solution of an organic acid containing chromium. an aqueous solution of an organic acid is often handled industrially using apparatus made of a stainless steel. examples include the recovery from aqueous solutions of acetic acid, acrylic acid or methacrylic acid by extracting and distilling operations and the production of tertiary butyl alcohol by reacting isobutylene with water containing an organic acid as mentioned in japanese published patent applications nos. 32116 and 126603/1975. in such cases, depending on the operating conditions, metals such as iron, nickel and chromium may dissolve out slightly due to corrosion of the stainless steel material. occasionally it is necessary, in order to prevent poisoning the catalyst, or for other reasons, to remove these metals. for example, in the method of the abovementioned japanese published patent applications nos. 32116 and 126603/1975, metallic ions in a circulating aqueous solution of an organic acid are removed. the natural way to remove such metallic ions would be by an ion exchange process, using a cation exchange resin. the present inventors have attempted to remove them by ion exchange but have unexpectedly encountered the problem that iron and nickel can be removed but that chromium is very difficult to remove. we have discovered that where the organic acid is at 100% concentration, chromium ions are comparatively well ion-exchanged but, in the case of an aqueous solution of an organic acid, chromium ions are very difficult to ion-exchange, and furthermore the ease or difficulty of the ion exchange of chromium ion depends remarkably on the temperature: the higher the temperature, the easier the ion exchange. this fact is hereafter explained in the case of acetic acid. (1) variation of chromium ion removal with the acetic acid concentration. aqueous solutions of acetic acid of various concentrations containing chromium acetate (containing 595 ppm as chromium) and an acetic acid solution were prepared and were passed at s.v. (space velocity) = 2 at a room temperature (270c) through a layer charged with 5 ml of a strong acid cationic exchange resin (ir-200). the results are shown in table 1. table 1 emi4.1 <tb> <sep> i <tb> acetic <sep> acid <sep> 0 <sep> 10 <sep> 30 <sep> 50 <sep> 70 <sep> 85 <sep> 95 <sep> 100 <tb> concentration <tb> (%) <sep> by <sep> weight <tb> amount <sep> of <sep> the <tb> solution <sep> passed <tb> until <sep> chromium <sep> about <sep> 10 <sep> about <sep> about <tb> ion <sep> began <sep> to <sep> 110 <sep> 180 <tb> leak <sep> (ml) <sep> <tb> the theoretically ion-exchangeable amount of the solution was about 220 ml. it is evident from these results that, in the case of an aqueous solution of acetic acid of concentration less than 85%, the leakage of chromium ions can be recognized immediately; in the case of 100% acetic acid, the ion exchange will be possible up to 180 ml, near the theoretical amount of 220
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a method of removing chromium ions from an aqueous solution of an organic acid of concentration not more than 95% (by weight), containing chromium ions, by an ion exchanging process carried out at a temperature of   55oc    or above using a cation exchange resin.   2. a method according to claim 1 wherein the organic acid comprises at least one selected from among formic acid, acetic acid, propionic acid, acrylic acid and methacrylic acid.   3. a method according to claim 1 wherein the acid is acetic acid.   4. a method according to any of claims 1 to 3 wherein the aqueous solution is of concentration not more than 85% (by weight).   5. a method according to any preceding claim wherein the temperature is at   70 0c    or above.  
+</CLAIMS>
+</TEXT>
+</DOC>

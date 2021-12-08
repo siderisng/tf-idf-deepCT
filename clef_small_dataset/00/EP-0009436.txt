@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009436
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-3/10 H04N-5/335 <main>H04N-3/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+acousto-electric device for processing a two-dimensional optical image.
+</TITLE>
+<APPLICANT>
+thomson csffr  <sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+gautier herve<sep>maerfeld charles<sep>gautier, herve<sep>maerfeld, charles<sep>gautier, hervé"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>maerfeld, charles"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>gautier, herve<sep>maerfeld, charles  <sep>gautier, hervé "thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>maerfeld, charles"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+This device comprises a piezoelectric medium (1) associated with a semiconductor and photosensitive medium (2) on which the optical image (1) is projected.FOUR TRANS DUCTORS (T₁ - T₄) arranged on the piezoelectric medium (1) emit four elastic waves (S₁ - S₄) in separate two directions (OX, OY), with wave numbers such as the signal resulting from the interactionOf these waves has a null wave number.Depending on the form of the signals applied to the transducers, the point point by point of the image is made, or the Fourier transform of this image.
+</ABSTRACT>
+</TEXT>
+</DOC>

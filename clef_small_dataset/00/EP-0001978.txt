@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001978
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-9/00 A61P-9/12 A61K-31/425 C07D-277/06 A61K-31/426 C07D-277/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a derivative of thiazolidine-4-carboxylic acid, method for the preparation and pharmaceutical compositions comprising the compound.
+</TITLE>
+<APPLICANT>
+santen pharma co ltdjp<sep>yoshitomi pharmaceuticaljp<sep>santen pharmaceutical co., ltd<sep>yoshitomi pharmaceutical industries, ltd.<sep>santen pharmaceutical co., ltd163 shimoshinjo-cho 2 higashi yodogawa-kuosaka 533jp<sep>yoshitomi pharmaceutical industries, ltd.35 hiranomachi 3-chome higashi-kuosaka-shi osaka 541jp<sep>
+</APPLICANT>
+<INVENTOR>
+jun-ichi iwaojp <sep>masayuki oyajp   <sep>tadashi isojp<sep>takehisa chibajp<sep>toshio babajp<sep>jun-ichi, iwao<sep>masayuki, oya<sep>tadashi, iso<sep>takehisa, chiba<sep>toshio, baba<sep>jun-ichi, iwao7-27, nogami 4takarazuka 665jp<sep>masayuki, oya407-668, oaza aiibaragi 567jp<sep>tadashi, iso2-102, takabedai 3-2tondabayashi 584jp<sep>takehisa, chibaf-215, higashi nara 3 chome 13 ibaragi 567osakajp<sep>toshio, babaa-23-105, tsukumodai 3suita 565jp<sep>
+</INVENTOR>
+<ABSTRACT>
+the compound, (4r)-3-[(2s)-3-mercapto-2-methyl-propanoyl]-4-thiazolidinecarboxylic  acid is obtained by  treating the corresponding s-benzoyl derivative with acid  or alkali.  the compound has an inhibitory activity against  angiotensin i-converting enzyme and is useful as an antihypertensive  agent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

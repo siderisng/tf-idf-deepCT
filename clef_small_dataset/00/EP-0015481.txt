@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015481
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-27/18 C08L-27/12 C08L-3/00 C08L-27/00 C08C-1/075 C08F-6/00 C08J-3/02 C08F-6/20 C08F-6/24 C08J-3/04 C09D-127/12 C08C-1/00 <main>C08L-27/18</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+concentrated dispersions of fluorinated polymers and process for their manufacture.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+kuhls jurgen dr<sep>weiss eduard<sep>kuhls, jurgen, dr.<sep>weiss, eduard<sep>kuhls, jürgen, dr.unghausen 16ad-8263 burghausen/salzachde<sep>weiss, eduardpergerstrasse 18d-8263 burghausen/salzachde<sep>kuhls, jurgen, dr.<sep>weiss, eduard<sep>kuhls, jürgen, dr.unghausen 16ad-8263 burghausen/salzachde<sep>weiss, eduardpergerstrasse 18d-8263 burghausen/salzachde<sep>
+</INVENTOR>
+<ABSTRACT>
+Aqueous, colloidal dispersions of fluoropolymers can be concentrated to high solids content after the addition of a stabilization emulsifier by ultrafiltration (part A) over conventional semipermeable membranes, when pumping pumps are used for the promotion that holds the dispersion-free parts of frictional forces. A significant portion of the added stabilizing emulsifier and high proportions of the fluorine-containing emulsifiers originally contained from the emulsion polymerization in the fluoropolymer dispersion can be removed via the aqueous permeate. By a downstream basic anion exchanger (part B), the fluorine-containing emulsifier can be recovered, in which the filtrate driven out of the anion-sensing filtrate, the stabilizing emulsifier contained therein can be concentrated by reverse osmosis (part C) and, if necessary, be returned to the ultrafiltration process. Fluoropolymer dispersions can be obtained, which are characterized by a high solids content by particularly low levels of fluorine-containing emulsifier and stabilizing emulsifier. The method is applicable to all known aqueous colloidal dispersions of fluorinated homo and copolymers.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002444
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 <main>C07D-233/74</main> C07D-233/76 C07D-233/86 C09D-175/00 C08G-73/00 C07D-233/72 C08G-18/78 C07D-233/78 C08G-18/79 C08G-18/67 C08G-73/06 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing hydantoins and compounds obtainable by this process.
+</TITLE>
+<APPLICANT>
+bayer ag de  <sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+dunwald willi dr<sep>lewalter jurgen dr<sep>merten rudolf dr<sep>zecher wilfried dr<sep>dunwald, willi, dr.<sep>lewalter, jurgen, dr.<sep>merten, rudolf, dr.<sep>zecher, wilfried, dr.<sep>dünwald, willi, dr.geschwister-scholl-strasse 16d-5090 leverkusen 1de<sep>lewalter, jürgen, dr.bergstrasse 88d-5068 odenthalde<sep>merten, rudolf, dr.berta-von-suttner-strasse 55d-5090 leverkusen 1de<sep>zecher, wilfried, dr.treptower strasse 6d-5090 leverkusen 1de<sep>duenwald willi drde<sep>lewalter juergen drde<sep>merten rudolf dr de  <sep>zecher wilfried drde<sep>duenwald, willi, dr.<sep>lewalter, juergen, dr.<sep>merten, rudolf, dr.<sep>zecher, wilfried, dr.<sep>dünwald, willi, dr.geschwister-scholl-strasse 16d-5090 leverkusen 1de<sep>lewalter, jürgen, dr.bergstrasse 88d-5068 odenthalde<sep>merten, rudolf, dr.berta-von-suttner-strasse 55d-5090 leverkusen 1de<sep>zecher, wilfried, dr.treptower strasse 6d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of compounds consisting of structural units of the general formula iia and iib  see diagramm : ep0002444,p10,f1  which recur once to 1,000 times and are optionally linked via at least one r**5 or r**6 radical and optionally contain terminal nco groups, in which the radicals r**1 and r**2 are identical or different and denote hydrogen, halogen or an optionally substituted aliphatic, aliphatic-aromatic, aromatic or heterocyclic radical, a denotes a -cn group, a -cor group, with r = hydrogen, or an aliphatic, aliphatic-aromatic, aromatic or heterocyclic radical ; or an optionally substituted aromatic, aliphatic, aliphatic-aromatic or heterocyclic radical, and r**5 and r**6 represents an optionally substituted aliphatic, aliphatic-aromatic, aromatic or heterocyclic radical, characterized in that organic isocyanates of the general formual (v) r**5(-nco)n or agents which split off isocyanate, are reacted with unsaturated carboxylic acids or unsaturated carboxylic acid derivatives of the general formulae  see diagramm : ep0002444,p10,f2  wherein r**1, r**2, a, r**5 and r**6 have the abovementioned meaning, m denotes 1 or 2 and n denotes an integer from 1 to 4, if appropriate in the presence of a catalyst and one or more solvents at temperatures from -20 to 500 degrees c. 
+</ABSTRACT>
+</TEXT>
+</DOC>

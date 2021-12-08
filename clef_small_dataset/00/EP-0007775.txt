@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007775
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05D-23/19 F24F-11/02 B60H-1/32 <main>B60H-1/00</main> B60H-1/00 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric control method and apparatus for automobile air conditioning system.
+</TITLE>
+<APPLICANT>
+nippon denso cojp<sep>nippondenso co., ltd.<sep>nippondenso co., ltd.1-1, showa-chokariya-shi aichi-kenjp <sep>nippondenso co., ltd.<sep>nippondenso co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+iwata yasuhiro  <sep>kojima yasuhumi<sep>nabeta teiichi<sep>naganoma masanori<sep>usami kiyoshi<sep>iwata, yasuhiro<sep>kojima, yasuhumi<sep>nabeta, teiichi<sep>naganoma, masanori<sep>usami, kiyoshi<sep>iwata, yasuhiro1-71 aza shimoimaike oaza morioka, higashiura-chochita-gun aichi-ken, 470-21jp<sep>kojima, yasuhumi449 midorigaoka, sagiyamagifu-shi, gifu-ken 500jp<sep>nabeta, teiichi19-13 aza ikenoiri dodo-chookazaki-shi aichi-ken 444-21jp<sep>naganoma, masanori18,3-chome oyama-chokariya-shi aichi-ken 448jp<sep>usami, kiyoshi69, 4-chome momoyama-choobu-shi aichi-ken, 474jp<sep>iwata, yasuhiro<sep>kojima, yasuhumi<sep>nabeta, teiichi<sep>naganoma, masanori<sep>usami, kiyoshi<sep>iwata, yasuhiro<sep>kojima, yasuhumi<sep>nabeta, teiichi <sep>naganoma, masanori<sep>usami, kiyoshi  <sep>iwata, yasuhiro1-71 aza shimoimaike oaza morioka, higashiura-chochita-gun aichi-ken, 470-21jp<sep>kojima, yasuhumi449 midorigaoka, sagiyamagifu-shi, gifu-ken 500jp<sep>nabeta, teiichi19-13 aza ikenoiri dodo-chookazaki-shi aichi-ken 444-21jp<sep>naganoma, masanori18,3-chome oyama-chokariya-shi aichi-ken 448jp<sep>usami, kiyoshi69, 4-chome momoyama-choobu-shi aichi-ken, 474jp<sep>
+</INVENTOR>
+<ABSTRACT>
+in an electric control method and apparatus for an auto­ mobile air conditioning system, an air-blend door (7) is  arranged between an evaporator (4) and a heater (6) within an  air duct (1) to control an amount of the cooled air flowing  through the heater (6) into a passenger compartment (8) and  to control an amount of the cooled air directly flowing into the  compartment (8), and a refrigerant compressor (5) for the  evaporator (4) is connected to a prime mover of the auto­ mobile when the air-blend door (7) is opened to allow the  cooled air flowing through the heater (6) in a limited range and  is disconnected from the prime mover when the airblend door  (7) is further opened to allow the cooled air flowing through  the heater (6) beyond the limited range.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007744
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/53 <main>G01N-33/58</main> G01N-33/78 G01N-33/74 G01N-33/543 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+assay for thyroid hormone binding capacity.
+</TITLE>
+<APPLICANT>
+becton dickinson cous<sep>becton dickinson & company<sep>becton, dickinson and companymack centre drive p.o. box 2224paramus new jersey 07652-1149us<sep>becton, dickinson and company<sep>
+</APPLICANT>
+<INVENTOR>
+johnson lavell r<sep>reese max g<sep>johnson, lavell r.<sep>reese, max g.<sep>johnson, lavell r.3201, teton drivesalt lake city, utahus<sep>reese, max g.977 e. 5600 southsalt lake city, utahus<sep>johnson, lavell r.  <sep>reese, max g. <sep>johnson, lavell r.3201, teton drivesalt lake city, utahus<sep>reese, max g.977 e. 5600 southsalt lake city, utahus<sep>
+</INVENTOR>
+<ABSTRACT>
+in an automated assay for qualitative determination of  thyroid hormone binding capacity of a serum sample, serum  and t₃ tracer are caused to flow through a chamber contain­ ing a t₃ binder supported on a solid support, t₃ being  triiodothyronine.  the amount of t₃ tracer which passed  through the chamber, and the amount of t₃ tracer bound to  the binder in the chamber are determined thereby to deter­ mine the percent of bound t₃ tracer.  such percent is then  compared with the percent of t₃ tracer bound in a reference  sample to determine qualitatively the t₃ binding capacity of  the serum sample.  
+</ABSTRACT>
+</TEXT>
+</DOC>

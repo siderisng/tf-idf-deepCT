@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000353
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-213/53 C07D-213/00 C07D-277/00 C07D-279/00 C07D-233/84 C07D-213/50 A61K-31/429 A61K-31/4164 C07D-277/18 C07D-513/04 A61K-9/20 A61K-31/4188 C07D-233/00 C07D-513/00 A61P-9/00 C07D-279/06 C07D-277/20 A61P-9/06 A61P-29/00 C07D-277/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bicyclic thiadiaza compounds, process and intermediates for their preparation, and medicaments containing these compounds or the intermediates.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+ferrini pier giorgio drch<sep>goeschke richard drch<sep>ferrini, pier giorgio, dr.<sep>goschke, richard, dr.<sep>ferrini, pier giorgio, dr.im rehwechsel 22ch-4102 binningench<sep>göschke, richard, dr.felix-häglistrasse 21ch-4103 bottmingench<sep>
+</INVENTOR>
+<ABSTRACT>
+bicyclic thiadiaza compounds, especially 1,3-diazacyclopent-2- eno[2,1-b]-(1-thia-3-azacycloalkanes) of the general formula <image> whose 1,3-diazacyclopent-2-ene ring can have another double bond, alk is lower alkylene which separates the thia from the aza atom by 2-4 carbon atoms, ar1 and ar2 are, independently of one another, optionally substituted phenyl, pyridyl or thienyl, and n is 0, 1 or 2, with the proviso that at least one of the radicals ar1 and ar2 is different from phenyl when alk is ethylene and the 1,3-diazacyclopent- 2-ene ring is an imidazole ring, and the salts thereof, and intermediates of the formula va or vb <image> have valuable pharmacological properties. 
+</ABSTRACT>
+</TEXT>
+</DOC>

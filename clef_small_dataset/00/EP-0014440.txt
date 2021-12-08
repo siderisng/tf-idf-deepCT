@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014440
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-333/24 C07D-409/04 C07D-333/00 C07D-409/00 C07D-333/22 C07D-333/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ketal derivatives and the use thereof as intermediate products.
+</TITLE>
+<APPLICANT>
+sagami chem resjp<sep>sagami chemical research center<sep>sagami chemical research center4-5, marunouchi 1-chomechiyoda-ku tokyo 100jp<sep>
+</APPLICANT>
+<INVENTOR>
+kondo kiyosijp <sep>matsui kiyohidejp <sep>sugimoto kikuo jp<sep>kondo, kiyosi<sep>matsui, kiyohide<sep>sugimoto, kikuo<sep>kondo, kiyosi16-4, chuorinkan 5-chomeyamato-shi kanagawa-kenjp<sep>matsui, kiyohide9-2, minamidai 1-chomesagamihara-shi kanagawa-kenjp<sep>sugimoto, kikuo1780, sanogawa, fujino-machitsukui-gun kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+ketal derivative having the formula:    in which r¹ and r² individually represent alkyl groups, or r¹  and r² may together form an alkylene group, and x is a  hydrogen atom, a halogen atom or a cyano group, and the use  thereof as intermediate products for producing suprofen.  
+</ABSTRACT>
+<DESCRIPTION>
+metal derivatives and the use thereof as intermediate products. this invention relates to a ketal derivative and the use thereof as intermediate products. particularly the invention relates to a ketal derivative that can be employed as an intermediate product or heparin suprofen (a registered trademark) which shows ovominent analgesic and anti-inflammatory effects. heretofore known processes for preparing suprofen are as follows: (1) a process in which p-f luorobenzoyl chloride is reacted seouently with thiophene and methyl malonate (see german offenlegungsschrif, p 23 53 357); (2) a process in which fluorobenzene is reacted with 2thenoyl chloride and the resulting product then is redacted with methyl malonate (see chemical abstracts 84, 43737x); (3) a process in which a phenylacetylene derivative is treated with thallium nitrate (see japanese patent provisional publication (jppp) no. 52-36642); ; (4) a process in which a diester is, in the first stage, alkylated and then subjected to hydrolysis and decarboxz- lation (see jppp no. 49-93346); (5) a process in which an aretophenone derivative is subjected to willgerodt reaction in the presence of rhodanine (see jppp ng. 49-93346); (6) a process in wghic!l an &alpha;-haloethylbenzene derivative is subjected to cyanation followed by hydrolysis (see jppp no. 49-93346 and p.g.p. van daele et al., arzneim porch, 25, 1495 (1975)); and others. these process have certain drawbacks such as rather long reaction route, the use of starting materials not so readily available, the involvement of reaction stages giving low yields, and so forth. therefore, these processes do not appear to be ones industrially applicable. in the processes, the process (6) is considered to be most industrially advantageous and the process (6) is illustrated as follows: emi2.1 in which y is a halogen atom. in this synthetic route, the reaction of the compound (2), i.e., (1-halogenoethyl)phenyl thienyl ketone, to yield the compound (3), i.e., (l-cyanoethyl)phenvl thienyl ketone, also gives a substantial amount of a by-product having the formula (2'): emi3.1 and this means a decreased yield of the compound (2) and also means a decreased yield of the compound (4), i.e., suprofen, which is naturally disadvantageous. as a result of earnest studies on intermediates for obtaining suprofen in good yield which then obviates the drawbacks mentioned above, the present inventors have achieved this invention upon finding that a ketal derivative in which the carbonyl group in the para-position is converted to a ketal can produce suprofen in a high yield. accordingly, the primary object of this invention is to provide a novel ketal derivative of value as an intermediate for preparing suprofen and such use. other objects will be apparent from the contents of this specification. the ketal derivative of this invention has the formula (i): emi3.2 in which r1 and r2 individually represent alkyl groups, or r1 and r2 may together form an alkylene group, and x is a hydrogen atom, a halogen atom or a cano group. in the formula [i], each of r1 and r2 is the same or different, and preferably represents a lower alkyl group of from
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a ketal derivative having the formula [i]: emi15.1        in which r1 and   r2    individually represent alkyl  groups, or r1 and r2 may together form an alkylene  group, and x is a hydrogen atom, a halogen atom or  a cyano group.   2. a ketal derivative as claimed in claim 1 wherein the alkyl group is a lower alkyl group of from 1 to 4 carbon atoms and the alkylene group is a substituted or unsubstituted   dimethylene    or trimethylene group of from 2 to 6 carbon atoms.   3. a ketal derivative as claimed in claim 1 wherein the halogen atom is chlorine or bromine.   4. the use of a ketal derivative according to any of claims   1-3 as    an intermediate product for preparing suprofen.  
+</CLAIMS>
+</TEXT>
+</DOC>

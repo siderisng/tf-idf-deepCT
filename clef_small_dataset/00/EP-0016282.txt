@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016282
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22C-7/00 B29C-45/77 <main>B29F-1/06</main> B22C-7/02 B29C-67/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+wax injection molding apparatus and control system.
+</TITLE>
+<APPLICANT>
+tempcraft tool & moldus<sep>tempcraft tool & mold, inc. <sep>tempcraft tool &amp; mold, inc.3960 s. marginal roadcleveland, ohio 44114us   <sep>tempcraft tool & mold, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+cutler robert alan<sep>kasper kenneth roger<sep>stanciu virgil vasile<sep>cutler, robert alan<sep>kasper, kenneth roger<sep>stanciu, virgil vasile<sep>cutler, robert alan10033 wilson mill road, chardongeauga, ohio 44024us<sep>kasper, kenneth roger7681 cecilia drive, parmacuyahoga, ohio 44134us<sep>stanciu, virgil vasile22085 hilliard road rocky rivercuyahoga, ohio 44116us<sep>cutler, robert alan<sep>kasper, kenneth roger <sep>stanciu, virgil vasile  <sep>cutler, robert alan10033 wilson mill road, chardongeauga, ohio 44024us<sep>kasper, kenneth roger7681 cecilia drive, parmacuyahoga, ohio 44134us<sep>stanciu, virgil vasile22085 hilliard road rocky rivercuyahoga, ohio 44116us<sep>
+</INVENTOR>
+<ABSTRACT>
+an injection molding apparatus capable of producing  disposable wax patterns or the like and which apparatus  includes a logic control and a servo-control especially  designed to provide a substantially automatic molding pro­ cess and to continuously monitor and to dynamically control  certain variable parameters during the molding process.  the servo-control is a "closed loop" servo type of control  which continuously provides signals relating to the fluid (wax)  flow and fluid pressure which is then occurring in the molding  cycle and which signals are then compared with preselected  input or reference signals whereupon the difference there-­ between is used to adjust or drive the fluid flow and pressure  control systems of the apparatus toward a dynamic or bal­ anced state, thus providing a substantially automatic molding  process.  
+</ABSTRACT>
+</TEXT>
+</DOC>

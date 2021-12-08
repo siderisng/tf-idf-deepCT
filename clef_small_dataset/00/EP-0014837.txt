@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014837
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-27/10 B23P-15/00 B21K-1/00 B21K-1/24 <main>B21K-1/20</main> F16K-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for producing valve-housings from metal and apparatus for producing a valve-housing.
+</TITLE>
+<APPLICANT>
+thyssen industriede<sep>thyssen industrie ag<sep>thyssen industrie agam thyssenhaus 1d-45128 essende<sep>thyssen industrie ag<sep>
+</APPLICANT>
+<INVENTOR>
+balz josef<sep>kollmann bernd dipl-ing <sep>muller erwin ing grad<sep>petzolt gert  <sep>risse friedrich<sep>sonnabend ferdinand ing grad<sep>walloschek bernhard<sep>balz, josef<sep>kollmann, bernd, dipl.-ing.<sep>muller, erwin, ing. grad.<sep>petzolt, gert<sep>risse, friedrich<sep>sonnabend, ferdinand, ing. grad<sep>walloschek, bernhard<sep>balz, josefamtsstrasse 80d-4620 castrop-rauxelde<sep>kollmann, bernd, dipl.-ing.dorneystrasse 41d-5810 witten-stockumde<sep>müller, erwin, ing. grad.auf dem schnee 66d-5804 herdeckede<sep>petzolt, gertwagenfeldstrasse 16d-4717 nordkirchen 2de<sep>risse, friedrichauf dem aspei 32d-4630 bochum-querenburgde<sep>sonnabend, ferdinand, ing. gradbaroper schulstrasse 13ad-4600 dortmund 50de<sep>walloschek, bernhardsträterkampstrasse 10d-5810 witten-stockumde<sep>balz, josef<sep>kollmann, bernd, dipl.-ing.<sep>muller, erwin, ing. grad.<sep>petzolt, gert<sep>risse, friedrich<sep>sonnabend, ferdinand, ing. grad<sep>walloschek, bernhard<sep>balz, josefamtsstrasse 80 d-4620 castrop-rauxelde<sep>kollmann, bernd, dipl.-ing. dorneystrasse 41 d-5810 witten-stockum de<sep>müller, erwin, ing. grad.auf dem schnee 66d-5804 herdeckede<sep>petzolt, gertwagenfeldstrasse 16d-4717 nordkirchen 2de<sep>risse, friedrichauf dem aspei 32d-4630 bochum-querenburgde<sep>sonnabend, ferdinand, ing. gradbaroper schulstrasse 13ad-4600 dortmund 50de<sep>walloschek, bernhardsträterkampstrasse 10d-5810 witten-stockumde<sep>
+</INVENTOR>
+<ABSTRACT>
+This method makes it possible in the printing area of ​​the nuclear reactor, where high level of security levels can be used, such as slides to use from up to about 800 mm nominal diameters, by making the slide housing from two housing halves (1,2). For this purpose, a compactable steel-existing board is provided as one of the housing halves (1 or 2) with a hole, the smaller is to be the light diameter of the lateral pipe inside (12, 13) to be adopted later. The edge region of the hole is then deformed by rollers such that flange-shaped beads (4.5) are formed on both sides of the circuit board. In the subsequent pressing operation, the still flat parts of the board obtain the final contours of the housing half (1,2), wherein the beads (4, 5) are supported and maintained so that they do not forgive themselves. They are supposed to the sealing surfaces (8.9) for the lock body bil in the housing. Finally, the housing earridge (12,13) ​​is welded and the housing halves (1, 2) joined together to the slide hood by welding. Thanks to the good accessibility of the welds from the outside, they can also be tested during operation by ultrasonic and X-ray devices.
+</ABSTRACT>
+</TEXT>
+</DOC>

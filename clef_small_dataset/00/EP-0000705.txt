@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000705
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 G03C-1/68 C08F-2/50 C07C-45/46 G03F-7/031 <main>C08F-2/50</main> C08F-2/00 C07C-45/63 C07C-49/784 C08F-2/46 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+use of esters or amides of benzoylbenzoic acids as photoinitiators and photopolymerisable composition containing them.
+</TITLE>
+<APPLICANT>
+stauffer chemical cous<sep>stauffer chemical company<sep>stauffer chemical companywestport connecticut 06880us<sep>stauffer chemical company<sep>
+</APPLICANT>
+<INVENTOR>
+photis james mitchell dr<sep>via francis a dr<sep>photis, james mitchell, dr.<sep>via, francis a., dr.<sep>photis, james mitchell, dr.35 donnelly driveridgefield connecticut 06877us<sep>via, francis a., dr.2389 ridge streetyorktown heights new york 10598us<sep>photis, james mitchell, dr.<sep>via, francis a., dr.<sep>photis, james mitchell, dr.35 donnelly driveridgefield connecticut 06877us<sep>via, francis a., dr.2389 ridge streetyorktown heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+a photopolymerizable composition comprising photopolymerizable  ethylenically unsaturated compounds and, as  the photoinitiator, a benzoyl benzoate having the formula:    wherein x is or, nhr or nrr; r is an independently selected  hydrocarbon of 1 to 30 carbon atoms, alkoxysubstituted alkyl  of 2 to 12 carbon atoms or aminosubstituted alkyl of 2 to 12  carbon atoms; r' is an independently selected halogen or x;  and n and m are independently selected integers from 0 to 3.  
+</ABSTRACT>
+</TEXT>
+</DOC>

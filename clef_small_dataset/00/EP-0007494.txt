@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007494
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-15/295 B65H-23/16 G11B-15/28 G11B-15/60 B65H-23/04 B65H-23/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+guiding device for a recording tape, in particular a magnetic tape.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+hoffmann wernerde<sep>kaemmer eduard ingde<sep>schoettle klaus ingde<sep>hoffmann, werner<sep>kaemmer, eduard, ing.<sep>schoettle, klaus, ing.<sep>hoffmann, wernerbannwasserstrasse 62d-6700 ludwigshafende<sep>kaemmer, eduard, ing.südetenstrasse 10d-6704 mutterstadtde<sep>schoettle, klaus, ing.ladenburger strasse 70d-6900 heidelbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a tape guide device, in particular for thin magnetic straps, which are subjected to strong accelerations in longitudinal directions and a contact wrap belt transport device having such a band guide device.One or two rotatable, otherwise stationary band guide roller (s) is (are) with partially formed flanges provided flanges with inlet and outlet compasses for the tape.The magnetic head is arranged from the free tape length in a guide roller between the tape roll and guide roller and in the case of two guide rollers between them.It can also be formed on the guide roller for generating an air cushion for stabilizing the rotation of the roll.
+</ABSTRACT>
+</TEXT>
+</DOC>

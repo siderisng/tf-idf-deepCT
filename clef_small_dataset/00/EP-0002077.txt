@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002077
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-69/743 A01N-53/10 C07C-20060101S A01N-53/00 C07C-69/74 C07C-69/00 C07C-67/22 <main>C07C-69/74</main> C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+esters of substituted cyclopropanecarboxylic acids and process for the preparation thereof.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.  <sep>
+</APPLICANT>
+<INVENTOR>
+syrier johannes leopold marie<sep>syrier, johannes leopold marie<sep>syrier, johannes leopold mariebadhuisweg 3nl-1031 cm amsterdamnl<sep>syrier, johannes leopold marie<sep>syrier, johannes leopold mariebadhuisweg 3nl-1031 cm amsterdamnl<sep>
+</INVENTOR>
+<ABSTRACT>
+process for the preparation of an ester useful as an  intermediate in the manufacture of insecticidal pyrethroids  having the general formula:    wherein each of r¹ and r² independently represents an  alkyl group of 1 to 4 carbon atoms or r¹ and r² together  represent an alkylene group of up to 5 carbon atoms, each  of x¹ and x² independently represents a hydrogen atom,  an alkyl group of 1 to 4 carbon atoms, a halogen atom, or  x¹ and x² together represent an alkylene group of up to  5 carbon atoms, or x¹ represents a hydrogen atom and  x² a 2-halovinyl group, a 2,2-dihalovinyl group or a 2 methyl-1-propenyl  group and r represents a 2-methoxyethyl  or a 2-ethoxyethyl group, characterized in that a substituted  cyclopropanecarbonitrile having the general formula:    wherein r¹, r², x¹ and x² have the same meaning as in  formula i, is reacted with 2-methoxyethanol or 2-ethoxy-ethanol  under substantially anhydrous conditions and in  the presence of mineral acid acting as reaction catalyst  and as scavenger for ammonia produced during the reaction.  
+</ABSTRACT>
+</TEXT>
+</DOC>

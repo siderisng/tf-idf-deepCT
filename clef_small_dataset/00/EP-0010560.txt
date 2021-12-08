@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010560
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-239/48 C07D-409/12 C07D-521/00 A01N-47/36 A01N-47/28 <main>C07D-251/52</main> C07D-251/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+herbicidal sulfonamides, their preparation, compositions containing them and use thereof.
+</TITLE>
+<APPLICANT>
+du pontus <sep>e.i. du pont de nemours and company <sep>e.i. du pont de nemours and company 1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company  <sep>
+</APPLICANT>
+<INVENTOR>
+levitt george<sep>levitt, george<sep>levitt, george3218 romilly roadcardiff wilmington, delaware 19810us<sep>levitt, george<sep>levitt, george3218 romilly roadcardiff wilmington, delaware 19810us<sep>
+</INVENTOR>
+<ABSTRACT>
+herbicidal suifonamides and the preparation and use  thereof, the sulfonamides having the general formula    wherein    or    r₂ and r₃ are independently hydrogen, fluorine, chlo­ rine, bromine, methyl, methoxy, nitro or trifluoromethyl;   w is oxygen or sulfur;   x is -nhch₃ or -n(ch₃)₂;   z is methyl or methoxy; and   a is  or n   or its agriculturally suitable salts provided that when r₂  is nitro or trifluoromethyl, r₃ cannot be nitro or trifluoro­ methyl.  the compounds can be formulated into compositions  for agricultural use by conventional means.  the compounds  are useful for the regulation of plant growth and as herbi­ cides, particularly for controlling volunteer corn in soybeans.   they can be prepared by reacting an appropriate 2-amino-­ heterocycle with an appropriately substituted sulfonyl iso­ cyanate or isothiocyanate.  
+</ABSTRACT>
+</TEXT>
+</DOC>

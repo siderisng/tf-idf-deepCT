@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007991
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 A61P-9/08 A61P-9/00 A61P-9/10 C07D-233/50 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted 2-phenylamino-imidazolines-(2), their acid addition salts, medicaments containing them and processes for their preparation.
+</TITLE>
+<APPLICANT>
+boehringer sohn ingelheimde<sep>c.h. boehringer sohn<sep>c.h. boehringer sohnpostfach 200d-6507 ingelheim am rheinde<sep>
+</APPLICANT>
+<INVENTOR>
+kobinger walter prof drat<sep>koeppe herbert drde<sep>kummer werner drde<sep>lillie christian dr magat <sep>pichler ludwig drat <sep>staehle helmut dr de<sep>kobinger, walter, prof. dr.<sep>koeppe, herbert, dr.<sep>kummer, werner, dr.<sep>lillie, christian, dr.mag.<sep>pichler, ludwig, dr.<sep>staehle, helmut, dr.<sep>kobinger, walter, prof. dr.belghofergasse 27a-1120 wienat<sep>köppe, herbert, dr.neuweg 72d-6507 ingelheimde<sep>kummer, werner, dr.georg-scheuing-strasse 15d-6507 ingelheimde<sep>lillie, christian, dr.mag.hansi-niese-weg 12a-1130 wienat<sep>pichler, ludwig, dr.gusshausstrasse 24a-1040 wienat<sep>stähle, helmut, dr.rotweinstrasse 23d-6507 ingelheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+the 2-phenylamino-2-imidazolines of the general formula i <image> in which ar is the radical 2,6-dibromophenyl, 2-fluoro-6- trifluoromethylphenyl, 2-fluoro-6-chlorophenyl, 2-chloro-6- bromophenyl, 2,6-difluorophenyl, 2,4-dichlorophenyl, 2-bromo-3- chlorophenyl, 2,6-dichloro-4-hydroxycarbonylphenyl, 2,6-dichloro-4- ethoxycarbonylphenyl, 2,6-dichloro-4-methoxyphenyl or 2-bromo-6- fluorophenyl can be used as cardiac and coronary therapeutics. 
+</ABSTRACT>
+</TEXT>
+</DOC>

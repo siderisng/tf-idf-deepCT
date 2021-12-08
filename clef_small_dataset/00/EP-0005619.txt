@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005619
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/12 C08F-2/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+suspension polymerisation process, apparatus and product
+</TITLE>
+<APPLICANT>
+rohm & haasus<sep>rohm and haas company<sep>rohm and haas companyindependence mall westphiladelphia pennsylvania 19105us<sep>
+</APPLICANT>
+<INVENTOR>
+albright robert leeus<sep>cichy paul timothyus <sep>roberts edward jeffreyus <sep>albright, robert lee <sep>cichy, paul timothy<sep>roberts, edward jeffrey<sep>albright, robert lee36 autumn roadchurchville pennsylvania, 18966us<sep>cichy, paul timothy301 prospect avenuelanghorne pennsylvania, 19047us<sep>roberts, edward jeffreyvillage of stoney run, apt. 51amaple shade new jersey, 08052us<sep>
+</INVENTOR>
+<ABSTRACT>
+in suspension polymerisation, for example in the production of polymer beads for use in the preparation of ion exchange resins, the formation of monomer suspension using a baffled in-line mixer, most preferably with a specified liquid flow rate, and subsequently polymerising, without bead coalescence, in a stirred polymerisation vessel produces beads of narrow particle size distribution.  preferred beads have an average particle diameter of less than 200 microns and a particle standard deviation of less than 100 microns. 
+</ABSTRACT>
+</TEXT>
+</DOC>

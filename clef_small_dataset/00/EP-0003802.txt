@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003802
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-25/24 <main>F16H-25/24</main> F16H-25/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spindle bearing without backlash.
+</TITLE>
+<APPLICANT>
+moser fernand<sep>moser, fernand<sep>moser, fernandsur le crêt 83 hch-2606 corgémontch<sep>moser, fernand  <sep>
+</APPLICANT>
+<INVENTOR>
+moser fernand<sep>moser, fernand<sep>moser, fernandsur le crêt 83 hch-2606 corgémontch<sep>moser, fernand<sep>moser, fernandsur le crêt 83 hch-2606 corgémontch<sep>
+</INVENTOR>
+<ABSTRACT>
+The spindle bearing for a threaded spindle (8) with respect to a support (1) to be displaced has at least one rotatably mounted around its axis roller (9) which is engaged with the thread of the threaded spindle (8) via grooves (10) at its circumference.In order to maintain the required precision in the feed even when the occurrence of more axial forces in the spindle bearing, the roller (9) and the spindle (8) are supported against each other such that the relative position of spindle and roller axis remains unchanged during operation.The roller (9) is adjusted adjustable by means of axial and radial forces receiving rolling bearings (11, 21) transversely to the threaded spindle (8) to achieve complete clearance.
+</ABSTRACT>
+</TEXT>
+</DOC>

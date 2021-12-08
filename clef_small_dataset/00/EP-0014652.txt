@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014652
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-7/16 H04N-7/08 H04N-7/025 H04N-7/03 H04N-7/035 H04N-7/081 H04N-7/167 <main>H04N-7/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+videography system provided with control means for gaining access to the information.
+</TITLE>
+<APPLICANT>
+france etatfr<sep>telediffusion fsefr<sep>etablissement public de diffusion dit  "telediffusion de france"<sep>l'etat francais represente par le secretaire d'etat aux postes et telecommunications<sep>etablissement public de diffusion dit "télédiffusion de france"21-27 rue barbèsf-92120 montrougefr<sep>etat francais repr. par le secrétaire d'etat aux postes &amp; télécommunications (centre national d'etudes des télécommunications)38-40 rue du général leclercf-92131 issy les moulineauxfr<sep>etablissement public de diffusion dit  "telediffusion de france"<sep>l'etat francais represente par le secretaire d'etat aux postes et telecommunications  <sep>
+</APPLICANT>
+<INVENTOR>
+guillou louis claude<sep>guillou, louis claude<sep>guillou, louis claude7, rue de l'isef-35230 bourgbarrefr<sep>guillou, louis claude<sep>guillou, louis claude7, rue de l'isef-35230 bourgbarrefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The system includes a transmission center 2 and the POS your receivers 4. The resignation center includes a source of composition of a magazine 6, a locking controller 24, a service key generator 22, a transmission circuit 12. A subscription center 100 provides subscriber keys that a circuit 102 turns into messages.All messages consists of a special access control page.In the receiver station the service key is returned by a circuit 36 using the received messages and a subscription key registered in a support 106 and the Everrouil LAGE of the information is performed in a circuit 38.Subscription supports are loaded in a position 112.
+</ABSTRACT>
+</TEXT>
+</DOC>

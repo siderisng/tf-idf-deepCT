@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009561
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03C-5/54</main> G03D-9/02 G03C-8/32 G03C-8/34 G03C-8/46 G03C-8/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+integrally constructed photographic film pack and process for its manufacture.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kovacic guido<sep>luhrig hermann<sep>muller horst-peter ing grad<sep>tabel walter<sep>kovacic, guido<sep>luhrig, hermann<sep>muller, horst-peter, ing.grad.<sep>tabel, walter<sep>kovacic, guidoschulstrasse 7d-5463 unkelde<sep>lührig, hermannheinrich-von-kleist-strasse 12d-5090 leverkusen 1de<sep>müller, horst-peter, ing.grad.eigelstein 22d-5000 köln 1de<sep>tabel, walterjakob-böhme-strasse 23d-5000 köln 80de<sep>kovacic, guido<sep>luhrig, hermann <sep>muller, horst-peter, ing.grad.<sep>tabel, walter  <sep>kovacic, guido schulstrasse 7d-5463 unkelde<sep>lührig, hermannheinrich-von-kleist-strasse 12d-5090 leverkusen 1de<sep>müller, horst-peter, ing.grad.eigelstein 22d-5000 köln 1de<sep>tabel, walterjakob-böhme-strasse 23d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+A photographic imaging unit with an integral structure consists of an image sheet (1) and a cover sheet (2) of the same size, wherein the two sheets are firmly connected to each other by a combination of individual mask strips and spacer strips (6), the combination of the mask strips from a mask strip(3) which consists of the developer container (7) on one side and a mask strip (4) folded over the trap (8) for excess development paste paste on the other side and on each of the two longitudinal sides individual mask strips (5) are attached.
+</ABSTRACT>
+</TEXT>
+</DOC>

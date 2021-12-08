@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001555
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-3/36 H01B-7/08 H05K-7/02 <main>H05K-13/06</main> H05K-1/11 H01R-12/24 H01R-23/00 H05K-7/14 H01R-12/00 H02B-1/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+housing containing a flat cable as cable harness for an internal wiring.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+oliv wilhelm<sep>oliv, wilhelm<sep>oliv, wilhelmtraubingerstrasse 40d-8133 feldafingde<sep>oliv, wilhelm<sep>oliv, wilhelmtraubingerstrasse 40d-8133 feldafingde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  housing (1) which relates to electrical communications transmission technology and is equipped with printed circuit boards (2) and provided at an upper or lower end with a terminal array which consists of plug contact strips (4, 5), and wherein the printed circuit boards (2) can be inserted into further plug contact strips (3) which are arranged on the inner side of the housing (1) and wherein a ribbon- or foil cable (6) is used to wire the further plug contact strips (3) to the plug contact strips (4, 5) of the terminal array, characterised in that, in plan view of the sheathing, the foil cable (6) is forked when unfolded, with a long central lug (b) and at least two shorter lateral lugs (a, c) which are staggered relative to one another, and that the longest lateral lug (c) is folded over the central lug (b) with the shorter ones over this, and that furthermore the central lug (b) is bent at its upper end and is there soldered to the plug contact strips (4, 5) of the terminal array like the other lugs on the same side of the sheathing. 
+</ABSTRACT>
+</TEXT>
+</DOC>

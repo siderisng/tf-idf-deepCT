@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015830
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01S-5/0687 G01M-11/02 H01S-5/0683 G02B-6/00 H01S-3/10 H01S-5/00 G01M-11/00 <main>G01M-11/00</main> H01S-5/042 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the measurement of the transfer function modules of an optical fiber and its use.
+</TITLE>
+<APPLICANT>
+moalic jeanfr<sep>pophillat lucienfr <sep>sorel yvonfr <sep>moalic, jean <sep>pophillat, lucien<sep>sorel, yvon<sep>moalic, jean40, avenue d'alsacef-22300 lannionfr<sep>pophillat, luciencroix rollandrospez f-22300 lannionfr<sep>sorel, yvonkernu, louannecf-22700 perros guirecfr<sep>moalic, jean<sep>pophillat, lucien<sep>sorel, yvon <sep>
+</APPLICANT>
+<INVENTOR>
+pophillat lucien<sep>pophillat, lucien<sep>moalic, jean40, avenue d'alsacef-22300 lannionfr<sep>pophillat, luciencroix rollandrospez f-22300 lannionfr<sep>sorel, yvonkernu, louannecf-22700 perros guirecfr<sep>pophillat, lucien <sep>moalic, jean 40, avenue d'alsace f-22300 lannionfr<sep>pophillat, luciencroix rollandrospez f-22300 lannionfr<sep>sorel, yvonkernu, louannecf-22700 perros guirecfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The apparatus includes a generator (1) at freen this variable, a laser transmit circuit (2), a photodetec (5) and a spectrum analyzer (6) visualizing the function of transfer of an optical fiber ( 9). In the genera, predetermined frequency oscillators are selected. The apparatus also comprises two con nectors and an optical fiber primer (3) which plays the role of a modes equilibrator. When calibrating, the connector (41) connected to the primer fiber and the other con nector (42) are driven into alignment with the detector photo (5) and the component frequency levels on the analyzer (6) are adjusted successively at a common level. This makes it possible to visualize, during the measurement, the transfer function of the optical fiber (9) which is independent of the clean transfer functions of the elements composing the apparatus. During the measurement, the optical fiber (9) is interconnected between the connectors (41, 42) and traversed by a signal modulated by a simultaneous mixture or by a time multiplexing of discrete frequencies selected in the generator.
+</ABSTRACT>
+</TEXT>
+</DOC>

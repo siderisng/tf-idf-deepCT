@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005674
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-3/66 <main>C25B-11/10</main> C25B-11/00 C25B-11/04 C25B-11/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process of manufacturing a dimensionally stable anode.
+</TITLE>
+<APPLICANT>
+anger roger<sep>anger, roger<sep>anger, roger8 rue brémontierf-75017 parisfr<sep>anger, roger  <sep>
+</APPLICANT>
+<INVENTOR>
+anger roger<sep>anger, roger<sep>anger, roger8 rue brémontierf-75017 parisfr<sep>anger, roger<sep>anger, roger8 rue brémontierf-75017 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for manufacturing an anodic electrode, stable in dimensions, of the type comprising a core made of electroconducting material and an electrocatalytic conducting coating, characterized in that an electroconducting core is firstly made from a common metal melting at high temperature, such as iron, an iron alloy, aluminium, an aluminium alloy, copper, a copper alloy, said core is then introduced into a first molten high temperature electrolytic bath constituted by a mixture of alkali metal chlorides and of chlorides of valve metals, to form a first conducting coating on the core, said core provided with its first coating is then introduced into a second electrolytic bath comprising noble metals, to form a second electrocatalytic conducting coating on the core provided with its first conducting coating. 
+</ABSTRACT>
+</TEXT>
+</DOC>

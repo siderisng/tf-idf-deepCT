@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016297
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01C-7/00 E21C-35/24 G01C-7/06 G01C-15/00 E21D-9/10 <main>E21D-9/10</main> E21C-35/00 G05D-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for controlling the position of a tunnel boring machine.
+</TITLE>
+<APPLICANT>
+voest alpine agat<sep>voest-alpine aktiengesellschaft<sep>voest-alpine aktiengesellschaftfriedrichstrasse 4a-1011 wienat<sep>voest-alpine aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+droscher bernhard dipl ing<sep>zitz alfred<sep>droscher, bernhard, dipl.ing.<sep>zitz, alfred<sep>dröscher, bernhard, dipl.ing.erzstrasse 14a-8740 zeltwegat<sep>zitz, alfredgranitzenweg 13ba-8740 zeltwegat<sep>droscher, bernhard, dipl.ing.  <sep>zitz, alfred<sep>dröscher, bernhard, dipl.ing.erzstrasse 14a-8740 zeltwegat<sep>zitz, alfredgranitzenweg 13ba-8740 zeltwegat<sep>
+</INVENTOR>
+<ABSTRACT>
+The device for controlling the position of a stretching machine (7) comprises means for the abstraction of two mutually parallel light or laser beams (5, 6) and two transversely to the axis of the route driving machine (7) attached light or laser receiver (8,9).The axis distances of the receiver from each other should be hiebei equal to the normal distance of the emitted light or laser beams (5, 6) and the receivers (8, 9) are not only offset from the route driving machine longitudinal axis (15), but also in the direction of this route engagement machine longitudinal axis (15) placed staggered.Deviations of the route driving machine (7) from the desired layer are recognized by the fact that no signal is received on one or both receivers (8, 9), wherein the exact position of the route driving machine (7) can be determined due to simple geometric considerations.
+</ABSTRACT>
+</TEXT>
+</DOC>

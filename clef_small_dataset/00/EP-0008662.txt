@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008662
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65D-83/14 F16K-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for filling and emptying storage containers containing gaseous and/or liquid matter, and application to a pump and/or dosing apparatus.
+</TITLE>
+<APPLICANT>
+lachner otto <sep>lachner, otto<sep>lachner, otto reinhardsried 69 d-8951 unterthingaude<sep>
+</APPLICANT>
+<INVENTOR>
+lachner otto<sep>lachner, otto<sep>lachner, ottoreinhardsried 69d-8951 unterthingaude<sep>
+</INVENTOR>
+<ABSTRACT>
+in a device allowing to introduce or take out gases and/or liquid materials, possibly under pressure, into or out of a container (6), the latter comprises a pusher (5) which may slide actually in a cover (9) and which cooperates with a gasket (13).  this seal or gasket (13) is in contact with a wall (18) of the container and divides the container into two chambers, of which one (11), away from the cover (9) contains the material to be charged and the other (19), close to the cover (9), is used as a transport chamber for the material to be charged.  the outer end of the pusher (5) may be connected to a filling frame and to an emptying frame.  in its closed condition, the emptying frame may take a position which is fixed with respect to the cover (9) and in which the flow channel for the material is blocked.  yet, it may be brought, for emptying purposes, in a position where the flow channel is free.  the filling frame may take a filling position by means of an axial translation and/or a rotation of the pusher (5) with respect to the container (6), wherein the flow channel towards the inside (11) of the container is open.  the gasket (13) cooperates in the chamber (11) with a ceiling surface allowing to cancel the ceiling function in order to fill the chamber when the axial translation or the rotation of the pusher (5) exceeds a certain extend. 
+</ABSTRACT>
+</TEXT>
+</DOC>

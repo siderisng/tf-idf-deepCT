@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003444
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-15/61 <main>H04N-5/782</main> G11B-5/53 H04N-5/91 G11B-5/52 H04N-5/7824 G11B-5/008 G11B-23/087 G11B-15/18 G11B-20/02 H04N-5/7826 G11B-15/26 G11B-15/60 G11B-15/14 G11B-15/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for video signal recording.
+</TITLE>
+<APPLICANT>
+arvin ind incus<sep>arvin industries, inc.<sep>arvin industries, inc.1531 e. thirteenth streetcolumbus indiana 47201us<sep>arvin industries, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+maxey alexander r<sep>maxey, alexander r.<sep>maxey, alexander r.2901 middlefield rd. - 2palo alto california 93406us<sep>maxey, alexander r.<sep>maxey, alexander r.2901 middlefield rd. - 2palo alto california 93406us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for video signal recording  comprises helically scanning a plurality of transducer heads  (20, 21) sequentially along separate parallel paths of equal  width on a record medium (10) at a rate such that a plurality  of the scans occur within a field interval, and diverting the  signal in predetermined sequence to different ones of the  heads.  the scanning of said heads (20, 21) and diverting of  the signal to different heads is arranged to cause some  redundant recording of information in different ones of the  paths, information recorded in a path that is adjacent an  edge of the medium having corresponding redundant information  recorded in an internal path that is bounded by other  parallel paths.  the apparatus includes a rotary scanner (12)  having at least three transducer heads (20, 21, 22) spaced  along and around the axis of rotation of the scanner whereby  each head scans along a different circular orbit and at a  different time across a segment of a cylindrical surface  defined by the plural orbits, and a transport for moving a  recording tape (10) across a segment of such cylindrical  surface in timed relation to scanning rotation of the heads  and at an angle to the axis of rotation such that each head  traces a series of helical scans on the medium within  non-overlapping paths along the direction of motion of the  medium.  the heads (20, 21, 22) rotate at a speed sufficient to  separate each scan of a head along the corresponding path.  
+</ABSTRACT>
+</TEXT>
+</DOC>

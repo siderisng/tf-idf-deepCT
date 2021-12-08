@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011922
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-7/04 <main>B01D-3/22</main> B01D-3/22 B01D-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+distillation sieve tray.
+</TITLE>
+<APPLICANT>
+british petroleum co plcgb  <sep>the british petroleum company p.l.c.<sep>the british petroleum company p.l.c.britannic house moor lanelondon ec2y 9bugb<sep>the british petroleum company p.l.c.  <sep>
+</APPLICANT>
+<INVENTOR>
+day herbert anthony<sep>day, herbert anthony<sep>day, herbert anthonybritannic house moor lanelondon, ec2y 9bugb<sep>day, herbert anthony<sep>day, herbert anthonybritannic house moor lanelondon, ec2y 9bugb<sep>
+</INVENTOR>
+<ABSTRACT>
+a distillation sieve tray contains one or more apertures  which are star shaped in plan and which are formed by cutting  a series of lines intersecting at a point in a plate (2) and  bending the resulting segments (3) to form a number of v-­ notch weirs (4).  
+</ABSTRACT>
+<DESCRIPTION>
+mass transfer equipment this invention relates to mass transfer equipment. distillation, absorption and extraction are mass transfer operations widely used in the oil refining, chemical and petrochemical industries. the equipment used to enable this mass transfer to take place is a column or tower. in the column, liquids and vapours contact each other and components from one phase can be transferred to the other. the amount of interphase diffusion of the components is increased when the contacting surface area is increased, i.e., the more intimate the phase contact, the higher the mass transfer efficiency. columns may be classified under two broad headings packed and plate-type. packed columns generally use meshes or rings whereas plate-type columns utilise plates or trays, spaced apart by a predetermined distance, which serve as the phase contacting area. the trays carry the phase contacting devices of which there are three main types, with many variants of each. bubble caps and sieves have traditionally been used as vapour/liquid contactors. the bubble cap consists of a riser which acts as a liquid seal and through which the vapour rises. the vapour then proceeds through a reverse path and is dispersed into the liquid via slots in the cap. with a sieve tray, liquid is maintained on the tray surface by the kinetic energy of the vapour. bubble caps have a limited efficiency and also they are expensive to manufacture. sieves are largely used because of their simplicity in both manufacture and maintenance. an alternative to bubble caps and sieves is the valve tray. the vapour pressure drop across the tray is of importance in tray design and in vacuum distillation particularly it should be as low as possible. we have now designed a novel sieve tray which is more efficient in operation than those of the prior art. thus according to the present invention there is provided a sieve tray comprising one or more apertures which are star shaped in plan and which are formed by cutting a series of lines intersecting at a point in a plate and bending the resulting segments to form a number of v-notch weirs. the fabrication of the apertures is facilitated if a central hole is provided centred on the intersection of the lines before the segments are bent. this results in the provision of truncated segments. preferably the intersecting lines are eidistant radii of a circle. most preferably the number of radii is in the range 3 to 8. suitably the segments are bent to an angle in the range o0 to 450 from the vertical, most preferably 300. the invention is illustrated with reference to figures 1 - 3 of the accompanying drawings wherein figure 1 is a plan of a plate showing the lines along which the metal will part during a forming operation, figure 2 is an elevation of the plate after forming and figure 3 is a plan of the plate after forming. eight radial cuts (1) are made in a plate (2) forming eight segments (3).
+</DESCRIPTION>
+<CLAIMS>
+ claims:   1. a sieve tray characterised by the fact that it contains one  or more apertures which are star shaped in plan and which  are formed by cutting a series of lines (1, 11) inter  secting at a point in a plate (2, 12) and bending the  resulting segments (3, 13) to form a number of v-notch  weirs (4,   14).      2. a sieve tray according to claim 1 characterised by the  fact that the segments are truncated by virtue of a central  hole (10) formed prior to bending.   3. a sieve tray according to either of the preceding claims  characterised by the fact that the intersecting lines (1,  11) are equidistant radii of a circle.    4. a sieve tray according to claim 3 characterised by the  fact that the number of radii (1, 11) in the range 3 to 8.   5. a sieve tray according to any of the preceding claims  characterised by the fact that the segments (3, 13) are  bent to an angle in the range   0     to 450 from the vertical 6. a sieve tray according to claim 5 characterised by the  fact the segments (3, 13) are bent to an angle in the  range 300 from the vertical.   7 a sieve tray according to any of the preceding claims  characterised by the fact that the segments (3, 13)  defining the aperture project above the tray (2, 12).   8. a sieve tray according to any of claims 1 to 6 characterised  by the fact that the segments (3, 13) defining the aperture  project below the tray (2, 12).  
+</CLAIMS>
+</TEXT>
+</DOC>

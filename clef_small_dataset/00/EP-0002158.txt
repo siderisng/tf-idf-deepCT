@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002158
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08F-8/32</main> C07D-207/412 C10M-133/56 C10N-30/12 C10M-1/32 C10M-133/16 C10N-40/25 C07D-207/00 C10N-30/04 C08F-8/00 C10N-30/18 C10M-133/00 C08F-8/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+alkenylsuccinimides, process for preparing them and their application as lubricant additives.
+</TITLE>
+<APPLICANT>
+orogilfr<sep>societe orogil<sep>orogil25, quai paul doumerf-92408 courbevoiefr<sep>societe orogil  <sep>
+</APPLICANT>
+<INVENTOR>
+lefevre jean-paul<sep>soula gerard<sep>lefevre, jean-paul<sep>soula, gerard<sep>lefevre, jean-paul42, rue démidofff-76600 le havrefr<sep>soula, gérard33, rue nungesserf-69330 meyzieufr<sep>lefevre, jean-paul<sep>soula, gerard<sep>lefevre, jean-paul42, rue démidofff-76600 le havrefr<sep>soula, gérard33, rue nungesserf-69330 meyzieufr<sep>
+</INVENTOR>
+<ABSTRACT>
+New compositions containing at least one alkenylsuccinimide of formula: where R is a C₂₀-C₂₀₀ m alkenyl group is an integer between 1 and 3 n is an integer of between 0 and 2 m + n being between 1 and 3.They are obtained from an alkenylsuccinic anhydride comprising a C₂₀-C₂₀₀ alkenyl group and at least one amine of formula: where X is an integer between 1 and 3, including NNN-Tris (amino-9-Dioxa-3,6-nonyl) amine.They can be used as dispersing detergent, anti-rust and anti-foam additives for lubricating oils.
+</ABSTRACT>
+</TEXT>
+</DOC>

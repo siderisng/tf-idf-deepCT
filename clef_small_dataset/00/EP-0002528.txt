@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002528
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B65H-54/30</main> B65H-54/48 B65H-54/40 B65H-54/06 B65H-54/28 B65H-57/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+yarn winding apparatus for winding cross-wound yarn packages and method of winding advancing yarn.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company  <sep>
+</APPLICANT>
+<INVENTOR>
+akers richard lawrence<sep>akers, richard lawrence<sep>akers, richard lawrence6 pinecrest drivewilmington, del. 19810us<sep>akers, richard lawrence<sep>akers, richard lawrence6 pinecrest drivewilmington, del. 19810us<sep>
+</INVENTOR>
+<ABSTRACT>
+a yarn windup for generally cylindrical packages employing  dual mode traverse that includes a first traverse  device (13) in the form of a reciprocable thread guide (14)  and a second traverse device in the form of a grooved roll  (15) to take over the traverse stroke near the ends of the  traverse stroke of the reciprocating thread guide.  the  grooved roll is synchronously driven with the reciprocating  traverse guide and the unique groove configuration (19)  coupled with appropriate yarn laydown on the grooved roller  improves package formation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

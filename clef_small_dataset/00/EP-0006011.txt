@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006011
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-501/36</main> C07D-501/24 A61P-31/00 C07D-501/34 C07D-207/48 A61K-31/545 C07D-501/36 A61K-31/546 C07D-501/00 C07D-207/00 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cephalosporins and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+takeda chemical industries ltdjp<sep>takeda chemical industries, ltd.<sep>takeda chemical industries, ltd.1-1, doshomachi 4-chomechuo-ku, osakajp<sep>takeda chemical industries, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+numata mitsuo<sep>yamaoka masayoshi<sep>numata, mitsuo<sep>yamaoka, masayoshi<sep>numata, mitsuo25-13, ankoji-cho 4-chometakatsuki osaka 569jp<sep>yamaoka, masayoshi13-21, eirakuso 1-chometoyonaka osaka 560jp<sep>numata, mitsuo<sep>yamaoka, masayoshi<sep>numata, mitsuo25-13, ankoji-cho 4-chometakatsuki osaka 569jp<sep>yamaoka, masayoshi13-21, eirakuso 1-chometoyonaka osaka 560jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a compound of the formula    wherein r is lower alkyl or a group of the formula    wherein r¹ and r² are the same or different and each is  hydrogen, carboxyl or halogen, y is acyloxy or a group of the  formula -s-het where het is a nitrogen-containing heterocyclic  group which may optionally be substituted, or a pharmaceutically  acceptable salt thereof is effective for treatment  of diseases in animals including domestic fowls and human  beings, particularly infectious diseases caused by gram-positive  and gram-negative bacteria.  the compounds are new and they are prepared according  to three methods.  
+</ABSTRACT>
+</TEXT>
+</DOC>

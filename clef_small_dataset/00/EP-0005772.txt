@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005772
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-33/00 C08L-23/00 C08L-51/00 C09K-15/32 C08L-77/00 C08K-5/544 C08L-67/00 C08K-5/00 C08L-101/00 C08K-5/54 C08K-5/5415 C08L-7/00 C08L-33/02 C08L-21/00 C08L-51/02 <main>C08K-5/54</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for stabilising polymers.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+kleeberg wolfgang dr<sep>rogler wolfgang dr<sep>rubner roland dr<sep>von gentzkow wolfgang dr<sep>kleeberg, wolfgang, dr.<sep>rogler, wolfgang, dr.<sep>rubner, roland, dr.<sep>von gentzkow, wolfgang, dr.<sep>kleeberg, wolfgang, dr.hessenstrasse 7d-8520 erlangende<sep>rogler, wolfgang, dr.geschwister-scholl-strasse 4d-8520 erlangende<sep>rubner, roland, dr.buchenring 15d-8551 röttenbachde<sep>von gentzkow, wolfgang, dr.geschwister-scholl-strasse 1d-8520 erlangende<sep>kleeberg, wolfgang, dr. <sep>rogler, wolfgang, dr.  <sep>rubner, roland, dr.<sep>von gentzkow, wolfgang, dr.<sep>kleeberg, wolfgang, dr.hessenstrasse 7d-8520 erlangende<sep>rogler, wolfgang, dr.geschwister-scholl-strasse 4d-8520 erlangende<sep>rubner, roland, dr.buchenring 15d-8551 röttenbachde<sep>von gentzkow, wolfgang, dr.geschwister-scholl-strasse 1d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the stabilization of polymers against oxidative and/or thermal decomposition by means of phenolic oxidation inhibitors having inhibition-active hydroxyl groups which are partially substituted by silyl or silylene groups, characterised in that oligomeric compounds of the following structure are used as oxidation inhibitors :  see diagramm : ep0005772,p8,f2  where n is a number up to 20 ; the residues r**1 may be the same or different and signify : alkyl having 1 to 3 c-atoms, phenyl, cycloalkyl, alkyloxy having 1 to 3 c-atoms, methoxyethoxy, ethoxyethoxy, aryloxy, aralkyloxy having 7 to 11 c-atoms and cycloalkyloxy ; and the residues r**2 may be the same or different and signify hydrogen or n- and iso-alkyl having 1 to 5 c-atoms, or the two substituents r**2 in the ortho position may together be benzo. 
+</ABSTRACT>
+</TEXT>
+</DOC>

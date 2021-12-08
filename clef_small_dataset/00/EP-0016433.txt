@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016433
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-29/66</main> C07C-31/36 C07C-29/00 C07C-29/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the continuous production of propylene chlorohydrins.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+koehler waldemar dr<sep>langensiepen hans-werner dr di<sep>volkamer klaus dr<sep>koehler, waldemar, dr.<sep>langensiepen, hans-werner, dr. dipl.-ing.<sep>volkamer, klaus, dr.<sep>koehler, waldemar, dr.max-slevogt-strasse 28d-6710 frankenthalde<sep>langensiepen, hans-werner, dr. dipl.-ing.limburgstrasse 87d-6702 bad duerkheim 1de<sep>volkamer, klaus, dr.heidelberger ring 21d-6710 frankenthalde<sep>koehler, waldemar, dr. <sep>langensiepen, hans-werner, dr. dipl.-ing.<sep>volkamer, klaus, dr.  <sep>koehler, waldemar, dr.max-slevogt-strasse 28d-6710 frankenthalde<sep>langensiepen, hans-werner, dr. dipl.-ing.limburgstrasse 87d-6702 bad duerkheim 1de<sep>volkamer, klaus, dr.heidelberger ring 21d-6710 frankenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the continuous preparation of propylene chlorhydrin by reacting clorine and propylene in aqueous solution at from 20 to 80 degrees c under superatmospheric pressure, characterized in that the starting materials, chlorine, propylene and water, flowing in co-current, are reacted under a pressure of from 15 to 40 bar without recycling a part-stream of the reaction mixture to the reaction zone. 
+</ABSTRACT>
+<DESCRIPTION>
+'erfahren zur kontinuierlichen herstellung von propylenchllorhydrinen die vorliende erfindung betrifft ein verbessertes verfahren zur kontinuierlichen herstellung von propylenchlor- hydrinen durch umsetzung von chlor und propylen in wässriger lösung. dieses verfahren, welches nach folgender reaktionsglei- chung verläuft emi1.1 &alpha;-propylenchlorhydrin emi1.2 #-propylenchlorhydrin ist, sieht man von der erfindungsgemässen verbesserung ab, in zahlreichen ausführungsformen allgemein bekannt, u.a. z.b. aus der us-ps 2 902 519, der de-ps 10 65 0, der de-ps 10 28 109 und der de-as 20 22 819. allen diese verfahrensweisen ist gemeinsam, dass man chlor und propylen zusammen mit einem grossen überschuss an wasser kontinuierlich bei normaldruck oder leicht erhöhtem druck in einen reaktor oder mehreren hintereinander geschalteten reakto- ren miteinander umsetzt und einen teil der hierbei erhaltenen salzsauren propylenenlordåarinlösung wieder den reaktor, bzw. die reaktoren zurückführt. da diese lösungen kaum noch chlor enthalten und da das meist in etwas überschüssiger menge eingesetzte propylen unschwer aus den lösungen abgetrieben werden kann, wäre die teilrückführung an sich überflüssig, wenn sich das mi/bl chlor nicht weit besser in wässriger salzsäure als in wasser allein lösen würde. wollte man die rückführung daher weglassen, müsste man, um in homogen-flüssiger phase arbeiten zu können, erheblich grössere wassermengen und entsprechend grössere apparaturen verwenden. obwohl die rückführung nach den bisherigen kenntnissen für technische verfahren unerlässlich ist, iag der er rundung die aufgabe zugrunde, sie durch wirtschaftlichere massnahmen zu ersetzen. dementsprechend wurde ein verfahren zur kontinuierlichen herstellung von propylenchlorhydrinen durch umsetzung von chlor und propylen in wässriger lösung bei 20 bis 800c und erhöhtem druck gefunden, welches dadurch gekennzeichnet ist, dass man die ausgangsstoffe chlor, propylen una wasser in gleichgerichteter strömung unter einem druck von 15 bis 40 bar umsetzt, ohne einen teilstrom des umsetzungsgemisches wieder in die umsetzungszone zurnick- zuführen. durch die erfindungsgemässe verbesserung erhöhen sich die r2um-2eit-ausbeuten erheblicn. ausserdem wurde im. zuge der untersuchungen überraschenderweise ein merklicher rückgang an unerwünschten nebenprodukten wie hauptsächlich dichlorpropan festgestellt. nach den bisherigen beobachtungen ist die ursache hierfür in der durch den wegfall der rückführung der salzsauren lösung bedingten verminderten chloridionen-konzentration zu suchen. ein weiterer, durch den wegfall der rückführung bedingter vorteil darin, dass ein destillationsschritt entfällt, der in falle der rückführung zur laufenden abreicherung der nebenprodukte im kreislauf erforderlich ist. propylen und chlor werden vorzugsweise im molverhältnis von (1,0 bis 2,0) : 1 eingesetzt. die menge des wassers beträgt vorzugsweise 10 bis 50 1 pro kilogramm chlor. die reaktionstemperatur lieo zweckmässigerweise zwischen 50 und 70 0c und der druck zwischen 20 und 30 bar. an kann die reaktion isotherm oder vorzugsweise adiabatisch vornehmen, wobei sich im letztgenannten halle die temperatur vom eingang bis zum ausgang des reaktors etwa um 40 c erhöht. vorzugsweise gibt man die ausgangs stoffe von unten in feiner verteilung gasförmig oder flüssig in einen roh- reaktor, wobei man dafür sorgt, aass keine nennenswerte, die boldung von nebenprodukten begünstigende rückver mischung stattfindet. weiterhin empfiehlt es sich, die ausbildung einer gasphase im reaktor zu vermeiden, um da- durch. der bildung der nebenprodukte entgegenzuwirken. anstelle eines einzigen reaktors kann man auch mehrere, vorzugsweise zwei bis vier, reaktoren hintereinanderschalten. hierbei
+</DESCRIPTION>
+<CLAIMS>
+   patentanspruch      verfahren zur kontinuierlichen herstellung von propylen-   ohlorhydrin    durch umsetzung von chlor und propylen in wässriger lösung bei 20 bis 800c und erhöhtem druck, dadurch gekennzeichnet, dass man die   ausgangs stoffe,    chlor, propylen und wasser in gleichgerichteter strömung unter einem druck von 15 bis 40 bar umsetzt, ohne einen teilstrom des   umsetzungsgemisches    wieder in die umsetzungszone zurückzuführen.  
+</CLAIMS>
+</TEXT>
+</DOC>

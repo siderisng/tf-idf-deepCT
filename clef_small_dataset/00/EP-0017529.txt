@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017529
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01G-4/30 H01G-2/22 H01G-4/12 H01G-4/228 H01G-2/00 H01G-1/14 <main>H01G-4/30</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ceramic power capacitor.
+</TITLE>
+<APPLICANT>
+europ composants electronfr<sep>l.c.c.-c.i.c.e. - compagnie europeenne de composants electroniques<sep>l.c.c.-c.i.c.e. - compagnie europeenne de composants electroniques50, rue jean-pierre timbaud b.p. 301 f-92402 courbevoie fr <sep>l.c.c.-c.i.c.e. - compagnie europeenne de composants electroniques<sep>
+</APPLICANT>
+<INVENTOR>
+frappart pierre<sep>guichard serge<sep>saint-marcoux roland<sep>frappart, pierre<sep>guichard, serge<sep>saint-marcoux, roland<sep>frappart, pierre"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>guichard, serge"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>saint-marcoux, roland"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>frappart, pierre <sep>guichard, serge<sep>saint-marcoux, roland  <sep>frappart, pierre"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>guichard, serge"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>saint-marcoux, roland"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to power capacitors, ceramic dielectric, multilayer type.In order to increase the reactive power, the capacitor according to the invention comprises a stack of metal reinforcement, divided into two alternating series (12 and 13), separated by low thicknesses of dielectric (18).The dielectric forms, on two opposite faces of the condensate, two blocks in which are machined two grooves (21 and 22) anti-corona: the metallizations (14 and 15) deposited in these grooves are in contact each, with a series ofArmatures (12 and 13) and with an output connection (19 and 20), which is welded or sintered on the metallization.Application to high frequency generators.
+</ABSTRACT>
+</TEXT>
+</DOC>

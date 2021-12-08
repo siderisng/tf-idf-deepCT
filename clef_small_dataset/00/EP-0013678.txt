@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013678
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16J-15/34</main> F16J-15/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+self aligning spiral groove face seal.
+</TITLE>
+<APPLICANT>
+crane packing cous<sep>crane packing company<sep>crane packing company6400 oakton streetmorton grove, illinois 60053us<sep>crane packing company<sep>
+</APPLICANT>
+<INVENTOR>
+sedy josef<sep>sedy, josef<sep>sedy, josef1718 waukegan roadglenview, illinois 60025us<sep>sedy, josef  <sep>sedy, josef 1718 waukegan roadglenview, illinois 60025us<sep>
+</INVENTOR>
+<ABSTRACT>
+the seal having a primary sealing ring (20) and a  mating sealing ring (26) with opposed radially extending  sealing faces (22-24), one of said rings (26) having:   a) spiral grooves (70) extending inwardly from the  outside diameter of the face of one of said rings (26), said  grooves (70) having a depth of between approximately.   0. 0025 and 0,0075 mm, said grooves (70) extending across  the face (24) of said ring (26) to provide a dam width ratio  of between approximately . 5 and . 8 according to the for­ mula    where gd is the diameter of a circle defined by the bound­ ary of the grooved area and the ungrooved area in said  face, id is the internal diameter of the sealing interface and  od is the outside diameter of the sealing interface; and   b) said ring has a balance of between . 8 and . 9 ac­ cording to the formula    where od is the outside diameter of the sealing interface,  id is the internal diameter and bd is the balance diameter.  
+</ABSTRACT>
+</TEXT>
+</DOC>

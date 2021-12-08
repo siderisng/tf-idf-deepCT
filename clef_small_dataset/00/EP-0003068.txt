@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003068
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+B31B-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+faulty window construction detecting apparatus.
+</TITLE>
+<APPLICANT>
+moore business forms incus<sep>moore business forms, inc.<sep>moore business forms, inc.300 lang boulevardgrand island new york 14072-1697us<sep>
+</APPLICANT>
+<INVENTOR>
+traise john eus<sep>traise, john e.<sep>traise, john e.9348 rivershore driveniagara falls ny 14304us<sep>
+</INVENTOR>
+<ABSTRACT>
+a tri-level output sensor (23, 25) for sensing faulty  window (17) construction in a web of continuous business  forms of stationery (13), for controlling visual and audible  indicators, including a display (31) of the relative position of  the faulty sensed window construction, within a continually  fanfolding end stack (21).  pulsing circuitry drives tri-level-to-digital  processing circuitry, conjointly providing referencing  information to process the sensor output and timing information  to sample the processing circuitry, and drives a pair  of counters (119, 103) for fanfold position indication and  consecutive-fault-occurrence determination, dependent on  the processing output.  
+</ABSTRACT>
+</TEXT>
+</DOC>

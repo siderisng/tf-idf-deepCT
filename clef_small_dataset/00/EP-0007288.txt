@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007288
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01G-3/147 G01L-1/20 G01L-1/22 G01G-3/00 <main>G01G-3/147</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arrangement for measuring the intensity of a force which is transversally exerted on the free end of a flexion beam.
+</TITLE>
+<APPLICANT>
+terraillonfr<sep>terraillon<sep>terraillon72, route de bonnevillef-74 103 annemassefr<sep>terraillon<sep>
+</APPLICANT>
+<INVENTOR>
+pidoux paul<sep>prost jean-louis<sep>pidoux, paul<sep>prost, jean-louis<sep>pidoux, paulch-1261 bassins, vaudch<sep>prost, jean-louis3, rue de l'universitéch-1205 genèvech<sep>pidoux, paul  <sep>prost, jean-louis <sep>pidoux, paulch-1261 bassins, vaudch<sep>prost, jean-louis3, rue de l'universitéch-1205 genèvech<sep>
+</INVENTOR>
+<ABSTRACT>
+This device comprises a set of four stress gauges mounted on said electrical flexural beam connected together in the form of a bridge (9) so that said bridge develops an output voltage (ΔV) function of the intensity. said force applied to the beam when said bridge (9) is powered as possible; a voltage source (10) for supplying said bridge (9); an amplifier (14) connected at the output of said bridge (9); a digital analog converter (16) connected at the output of said amplifier (14), to which a microprocessor (24) is associated with it; and a display member (13) connected at the output of said microprocessor (24), of the Tiné to allow the display of a signal representative of the intensity of said force. In order to eliminate all the annex stabilization and compensation circuits that are required when it is desired to carry out such a quality circuit, an analog-digital converter (16) of the double-ramp type comprising switching means (19, 20 ) controlled by the microprocessor (24) for taking as a reference voltage the supply voltage (10) has been incorporated into the device. Application including weighing.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003514
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-7/00 <main>C07F-7/12</main> C07F-7/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the addition of dialkylhalohydrogen silanes to unsaturated hydrocarbons and the silanes obtained.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+finke ulrich dr<sep>moretto hans-heinrich dr<sep>finke, ulrich, dr.<sep>moretto, hans-heinrich, dr.<sep>finke, ulrich, dr.hermann-löns-weg 15d-7505 ettlingende<sep>moretto, hans-heinrich, dr.formesstrasse 13d-5000 köln 80de<sep>finke, ulrich, dr.  <sep>moretto, hans-heinrich, dr. <sep>finke, ulrich, dr.hermann-löns-weg 15d-7505 ettlingende<sep>moretto, hans-heinrich, dr.formesstrasse 13d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for adding dialkyl halohydrogensilanes, in particular dialkyl chlorohydrogensilanes on unsaturated hydrocarbons, in particular alkenes and alkynes in the presence of catalytic amounts of an aluminum halide or alumina halide.
+</ABSTRACT>
+</TEXT>
+</DOC>

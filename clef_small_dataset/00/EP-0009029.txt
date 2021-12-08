@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009029
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-27/00 F16D-27/14 F16H-57/02 F16B-17/00 B21D-39/03 <main>B21K-25/00</main> B21K-25/00 F16D-1/06 F16D-1/072 F16D-1/064 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of bonding two members.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd. 5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp <sep>hitachi, ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+kanamaru hisanobu<sep>okabe moisei<sep>tatsumi hideo<sep>tohkairin akira<sep>kanamaru, hisanobu<sep>okabe, moisei<sep>tatsumi, hideo<sep>tohkairin, akira<sep>kanamaru, hisanobu3125 higashi ishikawa katsuta-shiibaraki 312jp<sep>okabe, moisei4-14, sukegawa-cho 2-chome, hitachi-shiibaraki 317jp<sep>tatsumi, hideo193-43, sumiyoshi-cho, mito-shiibaraki 310jp<sep>tohkairin, akira1473-8, tabiko, katsuta-shiibaraki 312jp<sep>kanamaru, hisanobu<sep>okabe, moisei  <sep>tatsumi, hideo<sep>tohkairin, akira<sep>kanamaru, hisanobu3125 higashi ishikawa katsuta-shiibaraki 312jp<sep>okabe, moisei4-14, sukegawa-cho 2-chome, hitachi-shiibaraki 317jp<sep>tatsumi, hideo193-43, sumiyoshi-cho, mito-shiibaraki 310jp<sep>tohkairin, akira1473-8, tabiko, katsuta-shiibaraki 312jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of bonding two members together by way of  plastic deformation of a bonding medium stuffed into reces­ sed portions formed in the surfaces to be bonded together of  a first member and a second member.  recessed surfaces  inclined in the flowing direction of the bonding medium are  each formed in the surfaces to be bonded together of the first  member and the second member, and the frictional areas are  minimized between the surfaces and the bonding member.   the bonding medium is then compressed and deformed by  using a metal mould, so that a part of the bonding medium is  caused to flow into the recessed portions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

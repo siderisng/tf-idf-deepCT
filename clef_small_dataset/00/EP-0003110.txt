@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003110
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-47/92 B29C-49/00 B29C-47/20 B29C-49/78 B29B-11/00 B29C-47/50 <main>G05B-19/02</main> B29C-47/38 B29C-49/04 B29B-11/10 G05B-19/02 G05B-19/04 B29C-47/22 B29C-17/07 B29B-7/00 G05B-19/07 B29C-47/00 B29C-65/00 G05B-19/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical servo-controller producing a control signal for the movement of the mandrel of an extruder.
+</TITLE>
+<APPLICANT>
+moog gmbhde<sep>moog gmbh<sep>moog gmbhhanns-klemm-strasse 28d-71034 böblingende<sep>moog gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+handte herbert<sep>kollmar friedrich<sep>handte, herbert<sep>kollmar, friedrich<sep>handte, herbertscherlachstrasse 51d-7024 filderstadt 4de<sep>kollmar, friedrichkrähenweg 15d-7031 grafenau 1de<sep>handte, herbert<sep>kollmar, friedrich<sep>handte, herbertscherlachstrasse 51d-7024 filderstadt 4de<sep>kollmar, friedrichkrähenweg 15d-7031 grafenau 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+An electrical control device for generating a control signal for the movement of the mandrel of an extruder has a signal generating part which generates successive uniform pulses in response to a guide signal. These are supplied to a resistive matrix constructed of individual potentiometer meters. The potting potentiometers are charged with the pulses in a predetermined rows follow, and the voltages resulting from the centerab of the potentiometer are given to a summing amplifier, at the output of which the desired control signal is formed in the form of a polygonate. To simplify the signal generator part, a general generator common for all potentiometers (PO 1 - PO 25) is provided which forms a continuous sequence of output signals. A complement circuit (23) inverts the output signals of the signal generator (20). Each potentiometer (PO 1 - PO 25) is assigned a controllable switch (S1 - S25). The units formed from potential meters and switches is alternately supplied the output of the signal generator (20) and the complement circuit (23). Depending on the guide signal, two switches are manually conductive successively, so that always the voltages of two potentiometer terminals are added to the summingver (24).
+</ABSTRACT>
+</TEXT>
+</DOC>

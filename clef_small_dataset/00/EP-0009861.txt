@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009861
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-9/04 F02B-77/08 F02D-17/04 F02D-17/00 F02D-9/00 <main>F02D-9/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+internal combustion engine with means for preventing overspeeding.
+</TITLE>
+<APPLICANT>
+brown tractors ltdgb<sep>david±brown tractors limited<sep>david brown tractors limitedmeltham mills melthamhuddersfield hd7 3ar west yorkshiregb<sep>david brown tractors limited  <sep>
+</APPLICANT>
+<INVENTOR>
+ashfield herbert edward<sep>ashfield, herbert edward<sep>ashfield, herbert edward51 longley roadhuddersfield hd5 8jn, west yorkshiregb<sep>ashfield, herbert edward<sep>ashfield, herbert edward51 longley roadhuddersfield hd5 8jn, west yorkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a very heavy vehicle may tend to run away on a steep  gradient and as a result the engine is liable to be over­ speeded with consequential risk of damage especially to its  valve mechanism.  the invention aims to prevent overspeed­ ing by providing a servo mechanism operable automatically  above a predetermined engine speed to apply an exhaust  brake.  the servo mechanism preferably comprises a cen­ trifugal clutch normally held disengaged by springs and dis­ posed on a shaft (18) driven by the engine (10).  angular  movement of the driven member (21) of the clutch due to its  engagement by engine speed in excess of the predetermined  value is limited to, say, 60° by a stop, and said member (21) is  connected by a mechanical linkage (26,27,28,29,31) to the  operating means (16) of the exhaust brake.  
+</ABSTRACT>
+</TEXT>
+</DOC>

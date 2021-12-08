@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001188
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01L-13/02 <main>G01L-7/08</main> G01L-7/02 G05D-9/00 G01L-7/08 G01L-11/00 G01L-19/00 G05D-9/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pressure transmitting device and a control or regulating system using it.
+</TITLE>
+<APPLICANT>
+holledge instr ltdgb<sep>holledge (instruments) limited<sep>holledge (instruments) limited26 orchard streetcrawley sussexgb<sep>holledge (instruments) limited  <sep>
+</APPLICANT>
+<INVENTOR>
+holledge eric john<sep>holledge, eric john<sep>holledge, eric john26 orchard streetcrawley sussexgb<sep>holledge, eric john<sep>holledge, eric john26 orchard streetcrawley sussexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a pressure transmitting device for a control or regulating  system has a souble diaphragm arrangement mounted in a  head (5, 6), the two diaphragms (7, 8) being parallel, coaxial  and joined at their axes by a separating member (14) carrying  a valve member (15) arranged to engage the end of a bleed  nozzle (18) mounted in a chamber (17) to which a pressure  fluid, such as air, is supplied.  the outer diaphragm (8) is in  contact with a fluid, the level or pressure of which is to be  monitored, and an increase in pressure moves the arrangement  so that the valve member (15) closes the nozzle (18) to  provide a variation in the fluid pressure in the chamber (17)  which variation is used as a control parameter.  the space  between the diaphragms is filled with a gas or liquid and the  use of such an arrangement makes the transmitter less sensitive  to temperature variations and more able to resist adverse  pressure conditions than previously proposed transmitting  devices with only one diaphragm.  a control system employing  the pressure transmitting device as a functional element  thereof is also described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

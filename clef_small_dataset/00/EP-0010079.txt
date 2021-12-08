@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010079
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+B25D-17/26 <main>B25D-17/26</main> B25D-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of lubricating a rock drill, and a rock drilling apparatus lubricated in accordance with the method.
+</TITLE>
+<APPLICANT>
+atlas copco ab se <sep>atlas copco aktiebolag<sep>atlas copco aktiebolagnackas-105 23 stockholmse<sep>atlas copco aktiebolag <sep>
+</APPLICANT>
+<INVENTOR>
+ekwall carl gosta bernhard<sep>ekwall, carl gosta bernhard<sep>ekwall, carl gösta bernhard17, knopvägens-13300 saltsjöbadense<sep>ekwall, carl gosta bernhard <sep>ekwall, carl gösta bernhard 17, knopvägen s-13300 saltsjöbadense<sep>
+</INVENTOR>
+<ABSTRACT>
+oil is supplied to the compressed air supply hose (15)  for a jack leg rock drill (10) by means of a conventional in-­ line oiler (16).  a substantial part of the oil is separated  from the drive air by means of a wall flow separator  (30,31) at the drill and conveyed through internal passages  (35) in the drill to various parts to be lubricated such as a  chuck (25) and a ratchet mechanism (26) for rotating the  chuck.  
+</ABSTRACT>
+</TEXT>
+</DOC>

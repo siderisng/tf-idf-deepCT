@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012101
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+B25B-29/00 B23P-19/06 B25B-29/02 <main>B25B-29/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for turning the cylinder nuts of several circularly arranged screw bolts for closing a pressure vessel, in particular a reactor pressure vessel.
+</TITLE>
+<APPLICANT>
+kraftwerk union agde<sep>kraftwerk union aktiengesellschaft<sep>kraftwerk union aktiengesellschaftc/o siemens ag postfach 261d-8000 münchen 22de<sep>kraftwerk union aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+exner gerhard<sep>festinori volfango<sep>exner, gerhard<sep>festinori, volfango<sep>exner, gerhardwaltersdorfer chaussee 41ad-1000 berlin 47de<sep>festinori, volfangohasenheide 58d-1000 berlin 61de<sep>exner, gerhard  <sep>festinori, volfango<sep>exner, gerhardwaltersdorfer chaussee 41ad-1000 berlin 47de<sep>festinori, volfangohasenheide 58d-1000 berlin 61de<sep>
+</INVENTOR>
+<ABSTRACT>
+a device for rotating the nuts (3) a plurality of screw bolts (2) arranged on a punch circle contains clamping elements and attached thereto axes of rotation (14), which each drive a pinion (15), which via one of the screw bolt (2)surrounding drive bush (17) transmits torque to the nut (3).In order for the torque to be transmitted evenly without the use of an outer teeth on the nut (3), the nut (3) is connected to a coupling half (29) of a positive coupling coupling in the axial direction, the other coupling half (21) of the drive bushing (17), on which they, secured against rotation, is arranged longitudinally movably.The drive bush (17) carries on the end of the nut (3) to the end an outer toothing (16) into which the pinion (15) of the rotary aggate engages.
+</ABSTRACT>
+</TEXT>
+</DOC>

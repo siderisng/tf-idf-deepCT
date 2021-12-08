@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014782
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01D-50/00</main> B01D-50/00 B03C-3/011 B01D-45/12 B03C-3/15 B03C-3/04 B03C-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dust separation device.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde<sep>metallgesellschaft ag<sep>metallgesellschaft agpostfach 10 15 01, reuterweg 14d-60015 frankfurtde<sep>metallgesellschaft ag <sep>
+</APPLICANT>
+<INVENTOR>
+schindling josef<sep>schminke heinz ing grad<sep>schindling, josef<sep>schminke, heinz, ing. grad<sep>schindling, josefkarl-schüler-weg 3d-6230 frankfurt am main 80de<sep>schminke, heinz, ing. gradbahnstrasse 11d-6073 egelsbachde<sep>schindling, josef<sep>schminke, heinz, ing. grad  <sep>schindling, josefkarl-schüler-weg 3d-6230 frankfurt am main 80de<sep>schminke, heinz, ing. gradbahnstrasse 11d-6073 egelsbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+Distributor, consisting of a centrifugal force separator (2) with numerous dedusting cells (4) and a downstream, horizontally flowed through electric troubler (3).The dedusting cells are arranged in at least one horizontal row which extends perpendicular to the flow direction (C) prevailing at the input of the ELEK trofilter.At least in the region of the electrostatic in the electrostic filter, the inlet openings (1) of the degree of bung cells are higher than the electrostatic filter (3) and the gas flow mion extends in the dedusting cells substantially perpendicular from top to bottom.The centrifugal force separator may have a plurality of rows of dedusting cells (4), which are placed in height staggered, wherein the region closest to the electrostatic filter is the highest.
+</ABSTRACT>
+</TEXT>
+</DOC>

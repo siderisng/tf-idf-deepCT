@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002867
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-233/12 C07C-233/88 A61K-31/165 C07C-231/00 A61K-31/18 C07C-303/00 C07C-311/08 C07C-235/00 C07C-237/30 C07C-235/58 C07C-311/00 C07C-237/00 C07C-67/00 C07C-301/00 C07C-231/12 C07C-233/43 A61P-9/00 C07C-233/36 A61P-9/12 C07C-303/40 C07C-233/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+5-(2-anilinoalkylamino-1-hydroxyalkyl)salicylamides, their preparation and anti-hypertensive compositions containing them.
+</TITLE>
+<APPLICANT>
+scherico ltdch<sep>technobiotic ltd.<sep>technobiotic ltd.töpferstrasse 5ch-6004 lucernech<sep>
+</APPLICANT>
+<INVENTOR>
+gold elijah hermanus<sep>neustadt bernard rayus<sep>gold, elijah herman<sep>neustadt, bernard ray<sep>gold, elijah herman10 roosevelt avenuewest orange new jersey 07052us<sep>neustadt, bernard ray24 brook placewest orange new jersey 07052us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to novel antihypertensive 5-(2-anilinoalkyl-amino-1-hydroxyalkyl)-salicylamides  of the  formula    wherein   r¹ and r³ are independently hydrogen atoms or lower  alkyl groups;   r² is a hydrogen atom or a lower alkyl, loweralkoxyloweralkyl  or hydroxyloweralkyl group;   alk is an acyclic alkylene bridge containing 2-10 carbon  atoms, with the proviso that there are 2-6 carbon atoms  separating the nitrogen atoms that it bridges;   z is a hydrogen atom or a lower alkyl, lower alkanoyl,  lower alkylsulfonyl, arylsulfonyl, loweralkoxyloweralkyl,  2,2,2-trifluoroethyl or benzyl group;   and y¹ and y² are independently hydrogen or halogen  atoms or hydroxy, trifluoromethyl, lower alkyl, lower alkoxy,  nitro, unsubstituted amino, monoloweralkylamino, di-loweralkylamino,  loweralkanoylamino, loweralkylsulfonylamino,  arylsulfonylamino, n-loweralkyl-n-loweralkanoylamino or  n-loweralkyl-n-loweralkylsulfonylamino groups;   and the pharmaceutically acceptable acid addition  salts thereof;   to their preparation and to pharmaceutical compositions  containing them.  the compounds can be used in the  treatment of cardiovascular disorders, especially hypertension.  
+</ABSTRACT>
+</TEXT>
+</DOC>

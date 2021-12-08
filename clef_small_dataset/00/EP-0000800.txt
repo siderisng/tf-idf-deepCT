@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000800
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07H-15/224 C07H-15/00 <main>C07H-15/22</main> C07H-15/236 C07H-15/234 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+selective n-protection of aminoglycosides and novel, selectively protected aminoglycoside intermediates.
+</TITLE>
+<APPLICANT>
+scherico ltdch<sep>scherico ltd.<sep>technobiotic ltd.töpferstrasse 5ch-6004 lucernech<sep>scherico ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+wright john jessen<sep>wright, john jessen<sep>wright, john jessen4 todd terracecedar grove essex county new jerseyus<sep>wright, john jessen <sep>wright, john jessen4 todd terracecedar grove essex county new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to the selective n-protection of  aminoglycosides and to novel, selectively protected aminoglycoside  intermediates.  modifications in aminoglycoside  molecules are usually accomplished by multi-stage reactions  whereby in most cases amino groups need to be protected in  order to avoid side reactions.  to obtain 1-n-alkyl- and 1-n-acyl-  substituted- 4,6-di-o- (aminoglycosyl) -1,3-diaminocyclitols  which are very potent antibiotics, ideally all  other amino groups are protected before introduction of the  1-n-substituent into the 4,6-di-o- (aminoglycosyl) -1,3-diaminocyclitol.   a process is provided for the selective protection  of the 3″-amino function in a 1,3″-di-n- unprotected-poly-n-  protected -4,6-di-o- (aminoglycosyl) -1,3-diaminocyclitol,  wherein the 6-o-aminoglycosyl has an  amino function at the 3″-position and hydroxyl functions at  the 2″ and 4″ positions.  also, the respective 1-n-unprotected-poly-n-  protected -4,6-di-o- (aminoglycosyl)  -1,3-diaminocyclitol intermediates are described.  selective protection of the 3″-amino function is accomplished  by reaction with no more than one molar equivalent of  available 1-z-imidazole wherein z is an amino protecting  group.  
+</ABSTRACT>
+</TEXT>
+</DOC>

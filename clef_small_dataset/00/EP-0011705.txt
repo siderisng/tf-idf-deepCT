@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011705
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-1/60 H03F-3/181 H03F-3/45 H03F-3/187 <main>H03F-3/187</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+microphone amplifier, in particular for telephone installations.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+kramer horst dipl-ing<sep>kramer, horst, dipl.-ing.<sep>krämer, horst, dipl.-ing.tucholskystrasse 16d-8000 münchen 83de<sep>kramer, horst, dipl.-ing.<sep>krämer, horst, dipl.-ing.tucholskystrasse 16d-8000 münchen 83de<sep>
+</INVENTOR>
+<ABSTRACT>
+Microphone amplifier, in particular for telephones, which consists of a reference voltage source (RG) and an amplifier circuit (VS). The output signal of the amplifier is superimposed to the dining stream. As an input stage, a differential amplifier with two transistors (T13, T14) with wildstand stabilization in the emitter circuit, as output stage a Darlington amplifier (T23, T24) operative as a controlled voltage source, a voltage counterpoint network (R19, R18, R15, R14) inserted between the output and input (R18, R15, R14 , R11, R17, R16, R20). The differential amplifier (T13, T14) is coupled to the Darlington amplifier (T23, T24) via a symmetrically switched transistor coupling stage (T15, T16) and a two-stage intermediate amplifier (T 2, T21). By means of current mirror circuits (T25, T26; T15, T16, T17, T18, T22; T9, T10, T11, T12, T19), the coupling stage and the input stage (T13, T14) are set current symmetrical. in the reference tension source (RG). When the reference voltage is connected to the interconnected bases of two transistors (T1, T2), one of which is connected as a diode while the other is operated normally. In the reference voltage source (RG), a current mirror circuit (T4, T5, T6) is also provided. In addition, an output stage with two transistors (T6, T8) is provided, which works without loading the inner reference circuit point as a power source or current sink for the stabilization of the operating point of the DIF ferment amplifier (VS).
+</ABSTRACT>
+</TEXT>
+</DOC>

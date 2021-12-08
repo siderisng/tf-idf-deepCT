@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007435
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electro-acoustic transducer.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende  <sep>
+</APPLICANT>
+<INVENTOR>
+walliser konrad drde<sep>walliser, konrad, dr.<sep>walliser, konrad, dr.ludwigshöherstrasse 48d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+an electro-acoustic transducer (e. g.  for use as a microphone in telephone systems) has a transducer plate (1) clamped at its periphery and having a piezoelectric layer (2).  in order to reduce the increase in sensitivity which would otherwise be caused by the fourth harmonic resonance of the plate, the piezoelectric layer (2) is so dimensioned that, in use, the circular node which is characteristic of the fourth harmonic lies within the piezoelectric layer.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+elektroakustischer wandler die erfindung betrifft einen elektroakustischen wandler mit einer an ihrem randbereich mit hilfe von zwei lagerkörpern eingespannten auf biegung beanspruchten mit einer piezoelektrischen schicht versehenen wandlerplatte, die in dex zur ubertragung bestimmten frequenzgang neben der der grundschwingung der wandlerplatte entsprechende resonanzspitze (0/0) auch teilachwingungen höherer ordnung, insbesonders die durch die erste unterteilte durch die sekwingungssmode (0,1) durch einen knotenkreis ge ke=eichnete vierten teilschwingung ausbildet. ein derartiger wandler ist durch die de-ps 1 961 217 bekannt. bei dieser patentschrift werden sowohl grundschwingung als auch die teilschwingung höherer ordnung, insbesondere die durch einen knotenkreis gekennzeichnete teilschwingung vierter ordnung in den zur übertragung bestimmten frequenzbereich des wandlers verlagert, um einen möglichst hohen übertragungsfaktor zu erzielen. dies kann entweder durch die wandlerplatte selbst er zielt werden oder bei vorgegebener wandlerplatte durch deren einspannung, insbesondere deren einspannung im randbereich. die beiden erwähnten schwingungsformen treten auf und werden durch entsprechende massnahmen am wandler wieder soweit gedämpft, dass sich im ubertragungsbereich ein ausgeglichener, annähernd stetig zii hoheren frequenzen ansteigender ubertragungsfaktor einstellt. dabei wird die grundresonanz durch bekannte absorptionsresonatoren gedampft, die teilschwingung vierter ordnung kann u.a. durch besondere ausgestaltung der lagerkörper gedämpft werden. weiterhin kann diese teilschwingung durch dämpfungsstoffe gedämpft werden, z.b. durch eine in die wandlerfassung eingeklebte #ämpfungsseide. es ist aufgabe der vorliegenden erfindung, einen weg zu weisen, wie die durch die vierte teilschwingung heroorge- ruf enge empfindlichkeitsüberhöhung durch konstruktiv einfache mittel gedämpft werden kann. diese aufgabe wird gemäss der erfindung dadurch gelöst, dass die piezoelektrische schicht so bemessen ist, dass sich der knotenkreis der vierten teilschwingung innerhalb der piezoschicht ausbildet. damit können eine besondere ausgestaltung der lagerkdr- per und/oder zusätzliche dämpfungsstoffe entfallen. je mehr der knotenkreis in den mit der piezoschicht versehene bereich liegt, desto mehr kann die überhöhung abgebaut werden. vorteilhaft ist es, wenn die piezoschicht kreissymme trisch ausgebildet ist und beidseitig mit je einer radial symmetrischen elektrode versehen ist. dadurch kann die überhöhung weiter abgebaut werden. gflnstig- dz einfluss auf den abbau der empfindlichkeits- überhöhung haben eine quadratische, hexagonale, pentagonale oder oktogonale form der piezoschicht. die vierte teilschwingung mit einem knotenkreis entspricht z.3. bei quadratischer form der piezoschicht der fünften teilschwingung. der durchmesser des knotenkreises ist dabei kleiner als bei einer radialsymmetrischen piezoschicht, so dass mit kleineren und damit kostengünstige- ren piezoschichten derselbe effekt gemäss der erfindung erzielt werden kann. als weiterer vorteil dieser schichten ist der bei der herstellung der scheiben geringer anfallende verschnitt erwähnenswert, im folgenden sei die erfindung anhand einer abbildung näher erläutert. diese abbildung zeigt eine wandlerplat te 1, die aus aluminium besteht und einen durchmesser 2r von 43 mm und 250,1 dicke aufweist. die wandlerplatte ist mit einer kreisf#rmigen piezoschicht 20radius r, 150 p m dicke) versehen, die radialsymmetrisch auf dieser wandlerplatte angeordnet ist. die dieser schicht 2 beidseitig zugeordneten elektroden sind aus zeichnerischen gründen nicht gezeigt. ebenfalls nicht gezeigt ist die lagerung der wandlerplatte, die aber in dem hier geschilderten fall in einem silikonring oder zwischen zwei silikonringen gelagert ist. wie die graphische darstellung nun zeigt, weist die viertel teilschwingung mehrere nulldurchgänge auf, und zwar in
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche 1. elektroakustischer wandler mit einer an ihrem randbereich mit hilfe von   lagerkbrpern    eingespannten auf biegung beanspruchten mit einer piezoelektrischen schicht versehenen wandlerplatte, die in dem zur übertragung be   stimmten    frequenzgang neben der der   grundachwingung    der wandlerplatte entsprechende resonanzspitze (0/0) auch   teilschwingungen    höherer ordnung, insbesondere die durch die erste unterteilte durch die schwingungsmode (0,1) durch   eisen      knotenkrtis.gekentmeichnete    vierte teilschwingung ausbildet, d a d u r c h g e k e n n z e i c h n e t , dass die piezoelektrische schicht so bemessen ist,   dass sich der   knotenkreis    der vierten   teilschwingg    sich innerhalb der piezoschicht ausbildet.      2.    elektroakustischer wandler   nach    anspruch 1, d a d u r c h g e k e n n z e i c h n e t , dass die piezoschicht kreissymmetrisch ausgebildet ist und beidseitig mit je einer   radialsymmetrischen    elektrode versehen ist.      3.    elektroakustischer wandler nach anspruch 2, d a d u r c h g e k.e n n z e i c h n e t , dass die piezoschicht quadratische hexagonale,   pentagonale    oder oktogonale form aufweist.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003892
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-499/88 C07D-499/06 C07D-499/86 A61P-31/00 C07D-499/00 C07D-499/87 A61K-31/43 C07D-499/897 A61K-31/429 A61P-31/04 C07D-499/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beta-lactam compounds, processes for their production, compositions containing them and intermediates of use in their preparation.
+</TITLE>
+<APPLICANT>
+glaxo group ltdgb<sep>glaxo group limited<sep>glaxo group limitedclarges house 6-12 clarges streetlondon w1y 8dhgb<sep>
+</APPLICANT>
+<INVENTOR>
+cherry peter clivegb<sep>evans derek normangb<sep>watson nigel stephen gb <sep>cherry, peter clive<sep>evans, derek norman<sep>watson, nigel stephen<sep>cherry, peter clive12 thistledene avenuesouth harrow middlesexgb<sep>evans, derek norman17 mount park road ealinglondon w5gb<sep>watson, nigel stephen5 ruislip closegreenford middlesexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+β-lactam compounds of the formulae    are disclosed in which r represents a carboxyl or esterified  carboxyl group and x represents a sulphonyloxy group.  processes  for preparing the compounds and intermediates of  use in their preparation are also disclosed.  the compounds are of value in the preparation of  further β-lactam compounds, for example of formulae    in which r is a carboxyl or esterified carboxyl group, and r¹  is the residue of a sulphur nucleophile.  compounds of formula (i) are also disclosed, together  with processes for their preparation, pharmaceutical compositions  containing them and intermediates of use in their  preparation.  the compounds of formula (i) are of value as  antibiotics or as β-lactamase inhibitors.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003833
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-39/385 C07H-15/04 C07K-9/00 C07K-19/00 C07H-23/00 G01N-33/531 C07K-14/435 C07H-15/00 C07C-103/52 <main>C07K-9/00</main> C07K-14/76 C07H-9/04 A61K-38/14 C07K-1/113 C07H-9/00 C07K-1/00 C07K-16/00 A61K-39/00 A61K-39/39 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+antigen derivatives, process for their preparation, pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ciba geigy ag ch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 141; ch-4002 basel  <sep>
+</APPLICANT>
+<INVENTOR>
+baschang gerhard dr<sep>dietrich felix m prof dr<sep>gisler roland dr<sep>hartmann albert dr<sep>stanek jaroslav dr<sep>tarcsay lajos dr<sep>baschang, gerhard, dr.<sep>dietrich, felix m., prof. dr.<sep>gisler, roland, dr.<sep>hartmann, albert, dr.<sep>stanek, jaroslav, dr.<sep>tarcsay, lajos, dr.<sep>baschang, gerhard, dr.bückenweg 7ch-4126 bettingench<sep>dietrich, felix m., prof. dr.marignanostrasse 64ch-4059 baselch<sep>gisler, roland, dr.ob d. hügliacker 15ch-4102 binningench<sep>hartmann, albert, dr.steingasse 21ad-7889 grenzachde<sep>stanek, jaroslav, dr.florastrasse 6ch-4127 birsfeldench<sep>tarcsay, lajos, dr.muttenzerstrasse 25d-7889 grenzach-wyhlende<sep>baschang, gerhard, dr.<sep>dietrich, felix m., prof. dr.<sep>gisler, roland, dr.<sep>hartmann, albert, dr.<sep>stanek, jaroslav, dr.<sep>tarcsay, lajos, dr.<sep>baschang, gerhard, dr.bueckenweg 7; ch-4126 bettingen<sep>dietrich, felix m., prof. dr.marignanostrasse 64; ch-4059 basel<sep>gisler, roland, dr.ob d. huegliacker 15; ch-4102 binningen<sep>hartmann, albert, dr.steingasse 21a; d-7889 grenzach<sep>stanek, jaroslav, dr.florastrasse 6; ch-4127 birsfelden<sep>tarcsay, lajos, dr.muttenzerstrasse 25; d-7889 grenzach-wyhlen<sep>baschang, gerhard, dr.bückenweg 7ch-4126 bettingench<sep>dietrich, felix m., prof. dr.marignanostrasse 64ch-4059 baselch<sep>gisler, roland, dr.ob d. hügliacker 15ch-4102 binningench<sep>hartmann, albert, dr.steingasse 21ad-7889 grenzachde<sep>stanek, jaroslav, dr.florastrasse 6ch-4127 birsfeldench<sep>tarcsay, lajos, dr.muttenzerstrasse 25d-7889 grenzach-wyhlende<sep>
+</INVENTOR>
+<ABSTRACT>
+(a) novel antigen derivs.  (i) consist of an antigen to which at least one muramyl peptide is covalently bonded, opt.  via a bridging gp.  prefd.  cpds.  are of formula (ia): a-[(z)m-mp]n (ia) (a is an antigen residue; z is a bridging gp. ; mp is a muramyl peptide residue; m = 0 or 1; n \-1).  the muramyl peptides are pref.  of formula (iii) (or the corresp.  oligomers).  (x is co, coo or so2; r1 is h, alkyl, opt.  substd.  benzyl or acyl; r2 is opt.  substd.  alkyl or carbocyclic aryl; r4 and r6 are each h, alkyl, opt.  substd.  benzyl or acyl; r3 is h or alkyl; r7, r9 and r13 are each h or lower alkyl; r8 is h, lower alkyl, opt.  etherified or esterified lower hydroxyalkyl or mercaptoalkyl, opt.  acylated aminoalkyl, 5 or 6c cycloalkyl, (5 or 6c cycloalkyl)-lower alkyl, opt.  substd.  aryl or aralkyl, or n-contg.  heterocyclyl or heterocyclyl-lower alkyl; r7 and r8 can also together form 3 or 4c alkylene; r10, r11 and r12 are each opt.  esterified or amidated carboxy, and r11 can also be h; or r1, r4 and r6 are tri-(lower alkyl)-silyl, pref.  sime3).  (b) cpds.  (ii) are new provided that (i) x is co and (ii) at least one of r7, r9 and r13 is lower alkyl unless r1, r4 and r6 are trialkylsilyl or r7 and r8 form a ring.  (i) are used in a wide variety of vaccines against bacteria, viruses, tumour cells, parasites, allergens etc. 
+</ABSTRACT>
+</TEXT>
+</DOC>

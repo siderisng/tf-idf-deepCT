@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000897
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/76 H01L-21/308 <main>H01L-21/76</main> H01L-21/3065 H01L-21/263 H01L-21/02 H01L-21/762 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for producing laterally isolated silicium areas.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bondur james allan<sep>pogge hans bernhard<sep>bondur, james allan<sep>pogge, hans bernhard<sep>bondur, james allan117 wait streetwalden new york 12586us<sep>pogge, hans bernhardr.d. no. 3, la due roadhopewell junction new york 12533us<sep>bondur, james allan  <sep>pogge, hans bernhard<sep>bondur, james allan117 wait streetwalden new york 12586us<sep>pogge, hans bernhardr.d. no. 3, la due roadhopewell junction new york 12533us<sep>
+</INVENTOR>
+<ABSTRACT>
+In the method for producing laterally isolated silicon regions in a silicon body are etched by means of reactive lonid etching in compliance with defined pressures, concentrations of the reactive gas, power densities and etching speeds and using a mask of SiO₂ grooves, which rejuvenate with the depth and have a flat bottom . Then, by means of a thermal oxidation, the grooves are coated with a thin SiO₂ layer, and then SiO₂ is separated all the surface in a thickness determined by the groove width, the grooves being completely filled. Finally, the SiO₂ applied outside the grooves is etched away. If the silicon body contains a highly doped layer, which is etched in the formation of the grooves, an entertainment is prevented by working in the reactive loner etching at a particularly low overall pressure and / or a particularly low concentration of the reactive gas. In the isolated silicon regions, for example, bipolar transistors, field effect transistors and resistors can be formed.
+</ABSTRACT>
+</TEXT>
+</DOC>

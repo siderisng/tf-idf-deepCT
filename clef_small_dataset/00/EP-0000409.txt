@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000409
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/16 G03G-19/00 <main>G03G-13/16</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for magnetically transferring a powder image.
+</TITLE>
+<APPLICANT>
+oce van der grinten nvnl<sep>oce-van der grinten n.v.<sep>océ-nederland b.v.st. urbanusweg 43nl-5914 cc venlonl<sep>oce-van der grinten n.v.<sep>
+</APPLICANT>
+<INVENTOR>
+draai willem tjark<sep>vola mathias jacobus johannus<sep>draai, willem, tjark<sep>vola, mathias, jacobus, johannus, maria<sep>draai, willem, tjarkpater dondersstraat 185981 xh helden-panningennl<sep>vola, mathias, jacobus, johannus, mariaschandeloseweg 225941 cr veldennl<sep>draai, willem, tjark<sep>vola, mathias, jacobus, johannus, maria  <sep>draai, willem, tjark pater dondersstraat 185981 xh helden-panningennl<sep>vola, mathias, jacobus, johannus, mariaschandeloseweg 225941 cr veldennl<sep>
+</INVENTOR>
+<ABSTRACT>
+process for transferring a powder image (2) which  has been formed with magnetically attractable developing  powder, which process comprises the steps of magnetically  transferring the powder image (2) to an intermediate receiving  member (4) comprising zones of a first material,  separated from each other by a second material, in which  either the first or the second material is magnetizable and  the other material is non-magnetizable, and subsequently  transferring the powder image (2) from the intermediate  receiving member (4) to a final receiving material (9).  the  magnetizable material present on the intermediate receiving  member (4) may be a material having no remanent  magnetism, but in a preferred embodiment thin material  has a remanent magnetism of at least 2 ka/m.  transfer of  the powder image (2) to the intermediate receiving member  (4) is effected by magnetizing the powder image (2)  or the magnetizable zones of the intermediate receiving  member (4) and contacting the powder image (2) with  the receiving member (4).  
+</ABSTRACT>
+</TEXT>
+</DOC>

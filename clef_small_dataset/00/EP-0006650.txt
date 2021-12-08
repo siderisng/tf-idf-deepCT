@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006650
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-10/12 H01Q-3/26 G01S-7/03 G01S-7/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radar system
+</TITLE>
+<APPLICANT>
+hollandse signaalapparaten bvnl <sep>hollandse signaalapparaten b.v.<sep>hollandse signaalapparaten b.v. zuidelijke havenweg 40 p.o. box 42 nl-7550 gd hengelo nl<sep>
+</APPLICANT>
+<INVENTOR>
+bodmer maximiliaan hubertnl<sep>hoogstraate hendriknl<sep>van rooyen gerritnl<sep>bodmer, maximiliaan hubert<sep>hoogstraate, hendrik<sep>van rooyen, gerrit<sep>bodmer, maximiliaan hubertdeldenerstraat 213hengelonl<sep>hoogstraate, hendrikleeuwerikstraat 23deldennl<sep>van rooyen, gerritweertseriet 18haaksbergennl<sep>
+</INVENTOR>
+<ABSTRACT>
+in a radar system with a phased array antenna the  radiating elements are connected to associated r. f.  trans­ mitter-receiver modules.  each of the modules receives a  transmitter signal and a local oscillator signal and delivers,  upon reception of an echo signal via the antenna an i. f.   signal.  furthermore a system of fibre optical waveguides is  incorporated to distribute to the modules the transmitter  signal and the local oscillator signal, both of which signals  being modulated on carriers, which are frequency-match­ ed to the system of fibre optical waveguides.  each of the  modules comprises a demodulator to procure the trans­ mitter signal and the local oscillator signal from the  applied modulated signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

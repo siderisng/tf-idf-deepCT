@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003831
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+F23G-5/30 <main>F23G-5/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for burning waste containing salt in a fluidized bed.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+brockmann rolf dipl-ing<sep>franke gerhard dr<sep>janz helmut dipl-ing<sep>sahlmen friedhelm ing grad<sep>brockmann, rolf, dipl.-ing.<sep>franke, gerhard, dr.<sep>janz, helmut, dipl.-ing.<sep>sahlmen, friedhelm, ing. grad.<sep>brockmann, rolf, dipl.-ing.peter-roos-strasse 6d-4000 düsseldorf 11de<sep>franke, gerhard, dr.bodelschwinghstrasse 21d-4150 krefeld 1de<sep>janz, helmut, dipl.-ing.konrad-adenauer-ring 143d-4060 viersen 1de<sep>sahlmen, friedhelm, ing. grad.asberger strasse 157d-4130 moers 1de<sep>brockmann, rolf, dipl.-ing.<sep>franke, gerhard, dr.<sep>janz, helmut, dipl.-ing. <sep>sahlmen, friedhelm, ing. grad.<sep>brockmann, rolf, dipl.-ing. peter-roos-strasse 6 d-4000 düsseldorf 11 de<sep>franke, gerhard, dr.bodelschwinghstrasse 21d-4150 krefeld 1de<sep>janz, helmut, dipl.-ing.konrad-adenauer-ring 143d-4060 viersen 1de<sep>sahlmen, friedhelm, ing. grad.asberger strasse 157d-4130 moers 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for burning salt-laden residues in a fluidised bed at temperatures in the range of from 730 to 900 degrees c with removal of fluidised bed mass, characterized in that, before a salt concentration at which the fluidised-bed mass cakes at the working temperature is reached in the fluidised-bed mass, part of the fluidised-bed mass is removed and replaced by fresh fluidisation stock. 
+</ABSTRACT>
+</TEXT>
+</DOC>

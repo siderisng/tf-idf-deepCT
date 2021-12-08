@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001403
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+F21V-14/08 F21V-11/14 F21V-17/00 F21V-11/00 A61B-1/06 F21V-17/02 F21S-8/00 F21V-14/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+medical lighting device, particularly for dental purposes.
+</TITLE>
+<APPLICANT>
+siemens agde  <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+behringer wolfgangde<sep>heubeck erichde<sep>behringer, wolfgang<sep>heubeck, erich<sep>behringer, wolfganghenri-dunant-strasse 36d-6140 bensheimde<sep>heubeck, erichblütenweg 11d-6140 bensheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+the lighting device has a reflector (2) and a light source (4) preferably arranged in its inner focus, which produce outside the reflector, preferably in its outer focus, a relatively narrowly restricted light spot.  according to the invention, in order to change the brightness of the light spot, there is arranged in the immediate area of the lamp (4), between the latter (4) and the reflector (2), in the path of the rays of the light a diaphragm (9) at least partially screening off the rays.  the diaphragm is in addition arranged so as to be displaceable from the centre to the periphery of the reflector for the purpose of screening off the rays.  the lighting device is intended for medical, particularly for dental, purposes.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003344
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07C-255/00 B01J-31/00 C07C-121/52 C07C-205/12 C07C-201/00 C07C-201/12 C07C-255/50 <main>C07C-79/12</main> C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of fluor benzenes.
+</TITLE>
+<APPLICANT>
+basf agde <sep>basf aktiengesellschaft <sep>basf aktiengesellschaft carl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+koenig karl-heinz dr<sep>mangold dietrich dr<sep>oeser heinz-guenter dr<sep>koenig, karl-heinz, dr.<sep>mangold, dietrich, dr.<sep>oeser, heinz-guenter, dr.<sep>koenig, karl-heinz, dr.pierstrasse 8 ad-6710 frankenthalde<sep>mangold, dietrich, dr.hermann-walker-strasse 49d-6903 neckargemuendde<sep>oeser, heinz-guenter, dr.friedrich-burschell-weg 19d-6700 ludwigshafende<sep>koenig, karl-heinz, dr.  <sep>mangold, dietrich, dr.<sep>oeser, heinz-guenter, dr.<sep>koenig, karl-heinz, dr.pierstrasse 8 ad-6710 frankenthalde<sep>mangold, dietrich, dr.hermann-walker-strasse 49d-6903 neckargemuendde<sep>oeser, heinz-guenter, dr.friedrich-burschell-weg 19d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+Methods for producing fluorobenzene containing a nitro group or cyan group and optionally an aliphatic radical or a further halogen atom in which the corresponding chlorobenzene is converted into the presence of crown ethers and solvents at 150 to 230 ° C with potassium fluoride.
+</ABSTRACT>
+</TEXT>
+</DOC>

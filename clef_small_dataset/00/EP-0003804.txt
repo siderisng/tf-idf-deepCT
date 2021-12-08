@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003804
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/48 G03C-1/68 <main>G03F-7/10</main> G03F-7/105 C08F-2/44 G03F-7/09 C08F-2/00 C08F-2/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photopolymerizable composition containing a monoazo dye.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+deucker walter dr<sep>klupfel kurt dr<sep>sprengel heide<sep>vollmann hansjorg w dr<sep>deucker, walter, dr.<sep>klupfel, kurt, dr.<sep>sprengel, heide<sep>vollmann, hansjorg w., dr.<sep>deucker, walter, dr.am rehsteig 4d-6232 bad soden 2de<sep>klüpfel, kurt, dr.dreispitzstrasse 1ad-6200 wiesbaden-sonnenbergde<sep>sprengel, heideelsa brandströmstrasse 10d-6200 wiesbaden 1de<sep>vollmann, hansjörg w., dr.am dachsbau 11d-6232 bad soden-neuenhainde<sep>deucker, walter, dr.<sep>klupfel, kurt, dr.<sep>sprengel, heide <sep>vollmann, hansjorg w., dr.  <sep>deucker, walter, dr.am rehsteig 4d-6232 bad soden 2de<sep>klüpfel, kurt, dr.dreispitzstrasse 1ad-6200 wiesbaden-sonnenbergde<sep>sprengel, heideelsa brandströmstrasse 10d-6200 wiesbaden 1de<sep>vollmann, hansjörg w., dr.am dachsbau 11d-6232 bad soden-neuenhainde<sep>
+</INVENTOR>
+<ABSTRACT>
+A photopolymerizable mixture of binders, polymerizable compounds and photoinitiators, which additionally contains a monoazo dye of formula I, wherein R₂ and R₃ may optionally mean substituted alkyl or alkenyl radicals and R₄ and R₅ hydrogen or halogen atoms, alkyl or alkoxy groups.When the mixture is illuminated in the form of a photopolymerizable copying material, its color blends, but the hue forms after a few hours.
+</ABSTRACT>
+</TEXT>
+</DOC>

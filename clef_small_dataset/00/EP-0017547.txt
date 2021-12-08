@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017547
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08B-13/22 G08B-13/26 G01V-3/08 G08B-13/24 <main>G01S-11/00</main> B66B-13/24 G01V-3/12 B66B-13/26 H03K-17/955 G08B-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+proximity detector and use thereof.
+</TITLE>
+<APPLICANT>
+logilift sarlfr<sep>societe logilift s.a.r.l.<sep>societe logilift s.a.r.l.hameau de la becqueavelin f-59710 pont a marcqfr<sep>societe logilift s.a.r.l.  <sep>
+</APPLICANT>
+<INVENTOR>
+evin jean<sep>evin, jean<sep>evin, jeanhameau de la becqueavelin f-59710 pont a marcqfr<sep>evin, jean<sep>evin, jeanhameau de la becqueavelin f-59710 pont a marcqfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a proximity detector by treatment of tensions induced on the sections of at least one antenna.It is characterized in that the antenna sections are connected to means (30.31 and 36 to 39) of the removal of two separate signals, in relation, one, with the value "peak" of the tension induced onThe section whose voltage is the highest, the other, with the average value of the voltage of the different sections, which means of removal are themselves connected to means (21, 22) of analysis of these two signals.Application to elevator doors.
+</ABSTRACT>
+</TEXT>
+</DOC>

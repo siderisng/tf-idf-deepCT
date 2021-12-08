@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000935
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-17/94 C02F-1/58 C01B-17/90 C07C-201/00 C07C-201/16 C01B-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the purification of sulfuric acids.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag  <sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+larbig wolfgang drde<sep>larbig, wolfgang, dr.<sep>larbig, wolfgang, dr.buschstrasse 151d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+the process is for purifying dilute waste sulphuric acid which contains nitrogen-oxygen compounds as impurity.  such waste acids are obtained in particular in the nitration of aromatic compounds.  to purify it, the waste sulphuric acid is admixed with ammonium sulphate and immediately or later treated at temperatures of 30-300 deg c. 
+</ABSTRACT>
+</TEXT>
+</DOC>

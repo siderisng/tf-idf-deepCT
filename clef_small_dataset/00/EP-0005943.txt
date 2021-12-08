@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005943
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-7/00 H04J-3/06 H04J-3/00 H04L-7/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to digital data transmission.
+</TITLE>
+<APPLICANT>
+post office gb  <sep>the post office<sep>the post office23 howland streetlondon w1p 6hqgb<sep>
+</APPLICANT>
+<INVENTOR>
+betts colin richardgb<sep>betts, colin richard<sep>betts, colin richard18 dryden roadipswich suffolkgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a data transmission system to enable data to be  transmitted along a transmission path at a rate c greater  than the upper data rate limit a of the path.  a data  transmitter driven by an internal clock at c hertz transmits  data along the transmission path and at the same time also  transmits a derived clock signal at a frequency c/n hertz  where  c / n < a along the path.  at the receiver the data is  clocked into a series of data stores under the control of the  transmitted clock signal and is thereafter recombined into a  serial stream under the control of the clock signal driving the  receiver.  
+</ABSTRACT>
+</TEXT>
+</DOC>

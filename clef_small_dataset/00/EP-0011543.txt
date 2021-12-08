@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011543
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-3/153 H04N-9/79 <main>H04N-7/00</main> H04N-1/18 H04N-1/40 H04N-1/195 H04N-1/23 H04N-1/405 H04N-5/76 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for recording a television picture on a two-dimensional carrier and means for applying the method.
+</TITLE>
+<APPLICANT>
+france etat fr  <sep>telediffusion fsefr<sep>etablissement public de diffusion dit± "telediffusion de france"<sep>l'etat francais represente par le secretaire d'etat aux postes et telecommunications<sep>etablissement public de diffusion dit "télédiffusion de france"21-27 rue barbèsf-92120 montrougefr<sep>etat francais repr. par le secrétaire d'etat aux postes &amp; télécommunications (centre national d'etudes des télécommunications)38-40 rue du général leclercf-92131 issy les moulineauxfr<sep>etablissement public de diffusion dit  "telediffusion de france" <sep>l'etat francais represente par le secretaire d'etat aux postes et telecommunications<sep>
+</APPLICANT>
+<INVENTOR>
+luneau christiane epouse schwa<sep>pajus jean abel<sep>luneau, christiane epouse schwartz<sep>pajus, jean abel<sep>luneau, christiane épouse schwartz1, rue de la préef-35510 cessonfr<sep>pajus, jean abelchemin de pratelf-38330 ismierfr<sep>luneau, christiane epouse schwartz  <sep>pajus, jean abel<sep>luneau, christiane épouse schwartz1, rue de la préef-35510 cessonfr<sep>pajus, jean abelchemin de pratelf-38330 ismierfr<sep>
+</INVENTOR>
+<ABSTRACT>
+In the recording process, a multi-printing head is used in K Points. The television image is stationary and the video signals are continuously digitized in binary code. The binary samples obtained represent a grid of continuously renewed points whose m horizontal lines correspond aus lines of the television signal, each line comprising n points. The vertical lines formed by the points of the grid are grouped together to form N K columns comprising chaucic k vertical lines. The binary data of the points are transmitted to the print head starting with the data of the points of the first line and the last column, then those of the second line and the last column, and so on to those the first line of the last column. The hardware media is then shifted with a length corresponding to the width of the multiple print head. Then the binary data of the jots of the first line and the penultimate column are transmitted its to said print head, then those of the second line of the penultimate column, and so on to those from the first line of the penultimate column. Then the support is shifted again as before. In summary, these point data transmission operations, storing of the head offsets, are repeated column by column until printing the data of the points of the first line of the first column. During the transmission of binary data to the print head, the binary data pass in a buffer, from which they are read to the head of impres Sion. Their writing is carried out line by line by selecting the points data of the column being printed and the line that follows the one whose data has already been written in said buffer. The selection of the data to be written is performed either on the same frame of video signals or on different frames. A variant makes it possible to apply the process to colored beaches. Two variants of means of means used to implement the process are described.
+</ABSTRACT>
+</TEXT>
+</DOC>

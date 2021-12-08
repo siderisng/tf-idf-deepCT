@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017268
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-23/40 H04N-5/06 H04N-7/08 <main>H03K-23/00</main> H03K-23/66 H03K-23/08 H04N-7/081 H03K-23/50 H03K-23/00 H03K-23/68 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for dividing a recurrent input signal by a non-integer divisor f, notably by f=n-1/2, and its use in a television receiver display.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken <sep>
+</APPLICANT>
+<INVENTOR>
+schneider henri willem<sep>schneider, henri willem<sep>schneider, henri willemc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>schneider, henri willem<sep>schneider, henri willemc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a description is given of a number of dividers for a  non-integer divisor f, notably f=n- 1 / 2.  the divider comprises  a chain of dynamic bistable elements, at least one of which is  activated in reaction to the positive-going signal edges, while  at least one is activated in reaction to the negative-going  signal edges.  a description is given of completely synchro­ nous circuits and substantially synchronous circuits.  also  given is a simple implementation for dividers with an  arbitrary, so also very large dividor.  such dividers may be  used in television receivers for the production of line and  frame synchronization signals from the periodic alternating  voltage.  
+</ABSTRACT>
+</TEXT>
+</DOC>

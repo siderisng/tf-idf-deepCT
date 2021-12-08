@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006298
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-237/22 C07K-5/04 C07K-5/00 A61P-17/00 A61K-31/165 C07C-237/10 C07K-1/113 <main>C07C-103/84</main> C07K-1/00 A61K-31/16 C07C-237/00 C07C-103/50 C07K-5/06 A61K-31/21 A61K-38/00 A61K-31/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+anti-inflammatory 1-phenyl-2-aminoethanol derivatives, pharmaceutical compositions thereof for topical use, and processes for their manufacture.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+jones geraint<sep>jones, geraint<sep>jones, geraint16 packsaddle parkprestbury cheshiregb<sep>jones, geraint<sep>jones, geraint16 packsaddle parkprestbury cheshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention concerns new topical anti-inflammatory  1-phenyl-2-aminoethanol derivatives of the general formula:   r¹·ch(oh)·ch₂nh·cr²r²·a¹·nh[co·y·nh]n·q   wherein r¹ is a radical of formula    in which w¹ is a (2-12c)alkanoyloxyradical, one of w² and  w³ is hydrogen and the other of w² and w³ is a (2-12c)-­ alkanoyloxyradical and a² is a direct bond or a methylene  diradical, or r¹ is a phenyl, 2-chlorophenyl or 3,5-dichloro-­ 4-aminoradical, r² and r³ are independently hydrogen or  (1-4c)alkyl, a¹ is a (1-4c)alkylene, y is a (1-4c)alkylene  optionally bearing a (1-4c)alkyl or benzyl, n is an integer  from 1 to 4, and q is an optionally substituted benzoyl,  phenylacetyl, or phenoxyacetyl provided that when n is  other than 1, y in the individual diradicals of the formula  [co·y·nh] may have the same or different values, or to­ gether with the acid-addition salts thereof; and the pharma­ ceutical compositions thereof, for use in the treatment of  inflammatory skin diseases and conditions.  the invention  also concerns processes for the manufacture of derivatives  of formula i.  a representative compound of the invention is 1-[3,4-­ bis(pivaloyloxy) phenyl]-2-{2-[(n-benzoylglycyl)amino]-1,1-­ dimethyl-ethylamino)ethanol.  
+</ABSTRACT>
+</TEXT>
+</DOC>

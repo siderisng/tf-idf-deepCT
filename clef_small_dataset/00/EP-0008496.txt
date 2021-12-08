@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008496
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01J-31/06</main> C07B-33/00 C07C-29/03 C07C-29/48 C07B-3/00 C07C-29/00 C07C-67/00 B01J-31/40 C07B-31/00 C08F-8/42 C08F-8/00 C08G-61/00 B01J-31/06 C07D-301/00 C07D-301/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved catalyst and process for oxidation of organic substrates by hydrogen peroxide.
+</TITLE>
+<APPLICANT>
+allied chemus<sep>allied chemical corporation  <sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.)morristown new jersey 07960us<sep>allied corporation<sep>
+</APPLICANT>
+<INVENTOR>
+jacobson stephen e<sep>mares frank<sep>jacobson, stephen e.<sep>mares, frank<sep>jacobson, stephen e.16 cedar lanesuccasunna, new jersey 07876us<sep>mares, frank32 valley forge drivewhippany, new jersey 07981us<sep>jacobson, stephen e.<sep>mares, frank<sep>jacobson, stephen e.16 cedar lanesuccasunna, new jersey 07876us<sep>mares, frank32 valley forge drivewhippany, new jersey 07981us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for oxidizing organic substrates such as  ketones and ethylenically unsaturated compounds.  the subs­ trate is contacted with aqueous hydrogen peroxide in a solu­ tion or in a two-phase liquid system, in the presence of a  polymeric catalyst containing chemically bonded arsenic.   this process can lead to lactones or hydroxy acids from cyclic  ketones or to esters or mixtures of alcohol and carboxylic acid  from open chain ketones.  unsaturated compounds afford  epoxides and/or diols.  preparations of certain polymers sub­ stituted by arsenic groups, particularly from polystyrene, po­ ly(vinylpyridine) and copolymers thereof, useful as catalysts  in such oxidation process, are described.  for example, polys­ tyrene is brominated, bromine therein is replaced by lithium  and the resulting lithiated polymer is converted into a  polymer containing an arsenic group, such as arsono, -as(o)  (oh)₂, as substituent group, by reaction with arsine triethox­ ide folowed by oxidation and hydrolysis by aqueous hyd­ rogen peroxide.  the aromatic polymers, polyphenylene and  polymers and copolymers of vinylpyridine, can be used simi­ larly as the catalyst.  
+</ABSTRACT>
+</TEXT>
+</DOC>

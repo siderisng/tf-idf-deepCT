@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009824
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-12/42 H04L-12/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+packet-switched communication system.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecomit<sep>cselt centro studi e laboratori telecomunicazionis.p.a.  <sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>
+</APPLICANT>
+<INVENTOR>
+tamburelli giovanniit<sep>tamburelli, giovanni<sep>tamburelli, giovannistr. com. val san martino 81/5torinoit<sep>
+</INVENTOR>
+<ABSTRACT>
+the packet-switched communication system applied to  a connecting network comprises one or a plurality of nodes  in each of which the packet transfer from one connection to  the next one is effected by means of ring recirculating  memories, within which all the packets arrived at the node  from and transferred to any one of said connections are  made to recirculate while waiting to be routed again.  
+</ABSTRACT>
+<DESCRIPTION>
+packet-switched communication system the present invention relates to communication systems and more particularly it concerns a packet-switched communication system. as known,the principle on which packet-switching relies consists in the establishment of the connection only during the time in which there is a message to be transmitted, in contrast with traditional switching technology entailing permanent seizure of a line during the whole time in which the connection is established. to effect this new switching method, the information is grouped into blocks, the so called packets; they contain furthermore the des tiiiation addres so that the switching operation designed to establish the connection takes place for each packet and only for the time period necessary for the packet to be transferred. as a consequence the packet-switching network must perform on the packets a number of operations, such as storage of same into the nodes involved in the connection with subsequent waiting in queues of the packets to be transferred over long-distance lines, which in such a way can be used contemporarily by several subscribcrs. the nodes of a packet-switching network generally consist of computers able to carry out, in addition to traffic-control and switching operations, also interfacing operations towards local networks. as a consequence, said computers are not only complex themselves but are also inserted in a complex. connecting network what entails high costs and insufficient reliability. in addition, said nodes realised according to the traditional technology require a lot of buffers for the arriving packets, with consequent higher installation and mainteinance costs. these and other disadvantages are overcome by the present invention of a packet-switched communication system wherein the nodes basically consist of recirculating memories of any known type, provided they have the required properties, so achieving a considerable simplification of the connecting network of the node as well as of the control computer of the same. it is the main objeet of the present invention a p-^cket-switch- ed communication system applied to a connecting network comprising one or a plurality of nodes, in which, in each one of said nodes, the packet transfer from one connection to the next one is effected by means of ring recirculating-memories, within which all the packets arrived at the node from and transferred to any one of said connections are made lo recirculate while waiting to be routed again. the characteris tics of the present invention will become clearer from the following description of a particular embodiment of the same, given by way of example and not in a limiting sense, taken in connection with the annexed drawings in which. - fig. 1 is the general schematic representation of a node with recir culating memory, according to the invention. - fig. 2 is a basic scheme of a node according to the invention, that utilizes as recirculating memory a charge transfer memory of the type generally knowbn as ccd memory. in fig. 1 references 01, 02 . . i . . generally denote n bidirectional line terminals (stations) of known type connected as shown
+</DESCRIPTION>
+<CLAIMS>
+patent claims    1. packet-switched communication system applied to a connecting network comprising one or a plurality of   nodes,character-    ized in that in each one of said nodes the packet transfer from one connection to the next one is effected by means of ring recirculating memories, within which all the packets arrived at the node from and transferred to any one of said connections are made to recirculate while waiting to be routed again.     2. packet-switched communication system according to claim 1, characterized in that said recirculating memories consist of   optical-fibre    rings.    3. packet-switched communication system according to the previous claims, characterized in that said recirculating memories consist of a ring connected sequence of charge transfer memories.    4. packet-switched communication- system according to the previous claims, basically as described in the text and depicted in the annexed drawings.  
+</CLAIMS>
+</TEXT>
+</DOC>

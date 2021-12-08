@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012311
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C21B-7/24 <main>G01F-23/28</main> G01S-7/02 F27D-21/00 G01F-23/284 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for mounting a radar probe in shaft furnaces.
+</TITLE>
+<APPLICANT>
+wurth paul salu <sep>paul wurth s.a.<sep>paul wurth s.a. 32 rue d'alsace l-1122 luxembourglu<sep>paul wurth s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+breden emile<sep>kremer victor<sep>legille edouard<sep>peters jean<sep>breden, emile<sep>kremer, victor<sep>legille, edouard<sep>peters, jean<sep>breden, emile29 rue du villagegodbrangelu<sep>kremer, victor27 rue ermesindeluxembourglu<sep>legille, edouard165 r. de trèvesluxembourglu<sep>peters, jean8 rue de syrenhassellu<sep>breden, emile<sep>kremer, victor<sep>legille, edouard <sep>peters, jean<sep>breden, emile 29 rue du village godbrange lu<sep>kremer, victor27 rue ermesindeluxembourglu<sep>legille, edouard165 r. de trèvesluxembourglu<sep>peters, jean8 rue de syrenhassellu<sep>
+</INVENTOR>
+<ABSTRACT>
+The antenna (12) of the probe penetrates through the wall of the oven in a chamber (18) (118) provided for this purpose in the oven wall above the loading surface.In order to secure the antenna (12) for maintenance requirements, from inside the oven, and in order to subtract it, when it is not in use, at the corrosive atmosphere reigning insideof the oven, there is provided a loche (30) (130) of prection and iso Lation as well as means for moving this bell (30) (130) between an operative position corresponding to the function of the antenna (12)and a rest position corresponding to an hermetic insulation of the antenna (12) by rap port inside the oven.
+</ABSTRACT>
+</TEXT>
+</DOC>

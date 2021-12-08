@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005737
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-21/00 C07C-69/74 C07C-69/00 C07C-67/303 B01J-21/04 C07C-67/00 <main>C07C-69/74</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of esters of cycloaliphatic carboxylic acids.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag 51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+halcour kurt de<sep>losacker paulde<sep>schwerdtel wulfde<sep>waldmann helmutde<sep>halcour, kurt, dr.<sep>losacker, paul, dr.<sep>schwerdtel, wulf, dr.<sep>waldmann, helmut, dr.<sep>halcour, kurt, dr.gellertstrasse 14d-5090 leverkusende<sep>losacker, paul, dr.johannisberg 11d-5653 leichlingen 1de<sep>schwerdtel, wulf, dr.hegelstrasse 9d-5090 leverkusende<sep>waldmann, helmut, dr.carl-rumpff-strasse 59d-5090 leverkusende<sep>halcour, kurt, dr.<sep>losacker, paul, dr.<sep>schwerdtel, wulf, dr. <sep>waldmann, helmut, dr.  <sep>halcour, kurt, dr.gellertstrasse 14d-5090 leverkusende<sep>losacker, paul, dr.johannisberg 11d-5653 leichlingen 1de<sep>schwerdtel, wulf, dr.hegelstrasse 9d-5090 leverkusende<sep>waldmann, helmut, dr.carl-rumpff-strasse 59d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the continuous catalytic hydrogenation of aromatic carboxylic acid esters to form the corresponding cycloaliphatic carboxylic acid ester, optionally in the presence of the hydrogenation product as diluent, in the trickle or flood phase at temperatures of 70 degrees c to 250 degrees c and pressures of 30 bar to 200 bar, or in the gas phase at 70 degrees c to 250 degrees c and 1 bar to 10 bar in the presence of at least one supported catalyst from the series comprising nickel, ruthenium, rhodium or palladium in the form of a fixed bed, characterised in that the support used for the catalysts is an aluminium oxide of which at least 20% has been converted into lithium-aluminium spinel. 
+</ABSTRACT>
+</TEXT>
+</DOC>

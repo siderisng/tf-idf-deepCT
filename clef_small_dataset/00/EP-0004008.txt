@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004008
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-25/03 H03K-5/08 H04L-25/49 H03M-5/00 H03M-5/20 <main>H04L-25/49</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fast amplitude discriminator for digital signals.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+meyer fritz dr-ing<sep>meyer, fritz, dr.-ing.<sep>meyer, fritz, dr.-ing.sudetenstrasse 9d-8032 gräfelfingde<sep>meyer, fritz, dr.-ing.<sep>meyer, fritz, dr.-ing.sudetenstrasse 9d-8032 gräfelfingde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  amplitude decision device for digital signals having n amplitude stages with at least one schmitt-trigger (strx), characterized in that there are provided n-1 signal converters (swx), where n => 2, which are connected to the signal input and which are each set to one of the n-1 decision element thresholds which lie between the n amplitude stages, and that the signal converters produce parallel n-1 binary signals, that a respective tuned line (lx) which is shortcircuited at the end and whose length results in each case in a pulse transit time corresponding to half of the step period is connected to each signal output of the signal converters, that the lines produce n-1 parallel pseudo-ternary signals and that n-1 identical schmitt triggers (strx) which are connected to the signal outputs of the signal converters and which produce amplitude determined binary signals from the supplied pseudo-ternary signals, which binary signals can be combined in a new multistage signal either directly or after a time decision. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008226
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07C-315/04 C07C-323/00 A61K-31/165 C07C-231/00 C07C-229/42 C07C-317/44 C07C-103/46 A61K-31/195 C07C-57/00 C07C-103/34 C07D-213/00 C07C-323/63 C07C-315/00 C07C-149/43 A61K-31/192 C07C-57/32 C07C-201/00 C07C-229/00 C07D-209/34 <main>C07C-101/72</main> C07C-319/00 C07C-67/00 C07C-301/00 C07D-211/00 A61K-31/215 C07C-103/50 A61P-25/04 C07D-295/185 C07C-227/00 C07C-205/55 C07D-295/18 C07C-319/20 C07C-149/40 C07D-211/46 C07C-317/00 C07D-213/643 A61K-31/255 C07D-401/00 C07C-313/00 C07C-317/48 A61P-25/00 C07C-233/00 A61K-31/185 C07D-295/00 C07C-233/54 C07D-403/12 C07C-205/56 C07C-147/14 C07D-213/64 C07D-209/00 A61K-31/21 A61P-29/00 C07C-147/13 C07D-401/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phenyl-alkanoic acid derivatives, the preparation thereof and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+fujisawa pharmaceutical cojp<sep>fujisawa pharmaceutical co. ltd.<sep>fujisawa pharmaceutical co., ltd.3, doshomachi 4-chome higashi-kuosaka-shi osaka 541jp<sep>fujisawa pharmaceutical co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+kitaura yoshihiko<sep>konishi nobukiyo<sep>ueda ikuo<sep>kitaura, yoshihiko<sep>konishi, nobukiyo<sep>ueda, ikuo<sep>kitaura, yoshihikono. 6 a1-107, takemidal 4-chomesuita-shi, osaka 565jp<sep>konishi, nobukiyono. 14-58, omaki, terado-chomukou-shi, kyoto 617jp<sep>ueda, ikuono. 13-36 kumano-cho 4-chometoyonaka-shi, osaka 560jp<sep>kitaura, yoshihiko<sep>konishi, nobukiyo<sep>ueda, ikuo<sep>kitaura, yoshihikono. 6 a1-107, takemidal 4-chomesuita-shi, osaka 565jp<sep>konishi, nobukiyono. 14-58, omaki, terado-chomukou-shi, kyoto 617jp<sep>ueda, ikuono. 13-36 kumano-cho 4-chometoyonaka-shi, osaka 560jp<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention provides compounds of the  general formula:    wherein   r¹ is an aryl, ar(lower)alkyl or pyridyl radical,  each of which may be substituted by halogen, amino,  lower alkyl, lower alkoxy or carboxy(lower)alkyl,   r² is a hydrogen or halogen atom,   r³ is an amino, lower alkylamino, acylamino or nitro ra­ dical,   r⁴ is a divalent radical of the general formula -cnh2n- in  which n is an integer of from 1 to 7, and   a is oxy, thio, sulfinyl, sulfonyl or imino,   the derivatives of the carboxy group, and the pharmaceutic­ ally acceptable salts thereof.  the present invention also provides processes for the  preparation of these compounds, as well as pharmaceutical  compositions containing them.  
+</ABSTRACT>
+</TEXT>
+</DOC>

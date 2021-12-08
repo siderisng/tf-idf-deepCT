@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004351
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01C-7/12 H01T-1/16 H01T-1/00 H02H-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lightning arrester device.
+</TITLE>
+<APPLICANT>
+mitsubishi electric corpjp<sep>mitsubishi denki kabushiki kaisha <sep>mitsubishi denki kabushiki kaisha2-3, marunouchi 2-chome chiyoda-kutokyo 100 jp  <sep>
+</APPLICANT>
+<INVENTOR>
+nagai nobuojp<sep>nagai, nobuo<sep>nagai, nobuo4-4-21, uegahara nishinomiya-shihyogo-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a lightning arrester device comprises a spark gap  device (3) connected in parallel to a part of serial connection  of non-linear resistors (1,2) whereby a limiting  voltage characteristic as level of protection can be reduced  to impart long life of the lightning arrester.  
+</ABSTRACT>
+</TEXT>
+</DOC>

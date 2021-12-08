@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012596
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16C-17/00 F16C-17/18 <main>F16C-17/18</main> F16C-17/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+journal bearing assemblies.
+</TITLE>
+<APPLICANT>
+garrett corpus<sep>the garrett corporation<sep>the garrett corporation9851-9951 sepulveda boulevard p.o. box 92248los angeles, california 90009us<sep>the garrett corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+bosco armand<sep>bosco, armand<sep>bosco, armand343 east embassytempe, arizona 85281us<sep>bosco, armand<sep>bosco, armand343 east embassytempe, arizona 85281us<sep>
+</INVENTOR>
+<ABSTRACT>
+a journal bearing assembly includes a bearing sleeve (18)  which is rotatable within a stationary housing (22), and within  which a shaft (12) is rotatably borne.  one end of the sleeve  (18) bears against a stationary shoulder (24); a movable annu­ lar retainer (26) is urged against the other end of the sleeve  (18) by a spring (28).  this spring bias does not prevent rota­ tion of the sleeve (18), but limits its speed to a relatively low  value, compared with the speed of the shaft (12); for exam­ ple, with the shaft turning at 60,000 rpm, the sleeve might turn  at 200 to 300 rpm.  
+</ABSTRACT>
+</TEXT>
+</DOC>

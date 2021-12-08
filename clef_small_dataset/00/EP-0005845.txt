@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005845
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11B-5/84</main> G11B-5/845 G11B-5/82 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for manufacturing magnetic media.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bate geoffrey<sep>dunn larry p<sep>bate, geoffrey<sep>dunn, larry p.<sep>bate, geoffreysunshine canyonboulder, colorado 80302us<sep>dunn, larry p.1423 ashcroft drivelongmont colorado 80501us<sep>bate, geoffrey  <sep>dunn, larry p.<sep>bate, geoffreysunshine canyonboulder, colorado 80302us<sep>dunn, larry p.1423 ashcroft drivelongmont colorado 80501us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention provides an improved method and apparatus  for manufacturing magnetic recording media (16);  specifically, that which is to be used in the manufacture of  flexible, magnetic recording disks.  the apparatus includes a  disorienting magnetic assembly (30) which provides a  sequence of disorienting magnetic fields in different directions  and of diminishing strengths to form a magnetic media  in which the magnetic particles are essentially disoriented  and the media is, thereby, devoid of modulated signal  envelopes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009849
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-25/234 C01B-25/00 C01B-25/46 <main>C01B-25/46</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for the purification of phosphoric acid.
+</TITLE>
+<APPLICANT>
+stauffer chemical cous<sep>stauffer chemical company<sep>stauffer chemical companywestport connecticut 06880us<sep>stauffer chemical company  <sep>
+</APPLICANT>
+<INVENTOR>
+jassal avtar singh<sep>jassal, avtar singh<sep>jassal, avtar singh21 high streetkatonah, new york 10936us<sep>jassal, avtar singh<sep>jassal, avtar singh21 high streetkatonah, new york 10936us<sep>
+</INVENTOR>
+<ABSTRACT>
+extraction battery fouling is reduced in the solvent  extraction purification of crude phosphoric acid by perform­ ing the steps of:   a) extraction crude phosphoric acid with solvent in a  main extraction battery without the addition of sulfuric acid;   b) acidulating the raffinate from step (a) with at least a  precipitate-forming amount of sulfuric acid;   c) aging the precipitate of step (b) for at least 15  minutes, and separating the precipitate from the acidulated  raffinate;   d) extracting with organic solvent the essentially  precipitate-free raffinate of step (c) in a secondary extraction  battery.  
+</ABSTRACT>
+</TEXT>
+</DOC>

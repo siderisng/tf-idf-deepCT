@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004728
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/21 <main>H04N-5/21</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+noise reduction in electrical signals.
+</TITLE>
+<APPLICANT>
+british broadcasting corp gb<sep>british broadcasting corporation<sep>british broadcasting corporationbroadcasting houselondon w1a 1aagb<sep>british broadcasting corporation<sep>
+</APPLICANT>
+<INVENTOR>
+drewery john oliver<sep>storey richard<sep>drewery, john oliver<sep>storey, richard<sep>drewery, john oliver27, the valecoulsdon surreygb<sep>storey, richard23, glena mount benhill wood roadsutton surreygb<sep>drewery, john oliver<sep>storey, richard <sep>drewery, john oliver 27, the vale coulsdon surreygb<sep>storey, richard23, glena mount benhill wood roadsutton surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+reduction of noise in an electrical, e. g.  television, signal  is achieved by comparing signals from successive scans to  produce a difference signal.  low amplitude differences are  assumed to represent noise and are attenuated.  differences  above a predetermined level are assumed to represent  movement and are not so attenuated.  the attenuation is  achieved by a multiplier (26) which receives as multiplier the  output of a non-linear transfer characteristic element (24).   the non-linear element receives the differences after rectification  (100) and after passing through a variable-gain  element (102).  the non-linear element (24) is such that above  a predetermined value a constant predetermined minimum  attenuation factor applies.  a noise measurement circuit (x)  measures the noise present in the difference signal and  controls the gain of the variable-gain element (102) accordingly.   several noise-measurement circuits may be provided,  a selected one of which is used in dependence upon the  magnitude of the input signal to the apparatus.  
+</ABSTRACT>
+</TEXT>
+</DOC>

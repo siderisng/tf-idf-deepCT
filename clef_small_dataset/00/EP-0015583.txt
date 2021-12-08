@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015583
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/60 H01L-25/07 H01L-25/065 H01L-23/02 H01L-23/538 H01L-25/18 H01L-23/52 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vertical semiconductor integrated circuit chip packaging.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation  <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+henle robert athanasiusus<sep>johnson alfred haroldus<sep>henle, robert athanasius<sep>johnson, alfred harold<sep>henle, robert athanasiussunset trailclinton corners, ny 12514us<sep>johnson, alfred harold30 brookland roadpoughkeepsie, ny 12601us<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor chip (10) is so designed that the  signal and power terminals (12) are brought to one edge  of the integrated circuit chip.  the integrated circuit chip is  then mounted vertically on a substrate (11) which provides  signal interconnection and power distribution to the inte­ grated circuit chips as well as a thermal path for conduc­ ting heat away from the chips.  the electrical connection  from the semiconductor chip to the substrate may be by  solder reflow or thermal compression bonding techniques.   the package is particularly advantageous for memory in­ tegrated circuit chips.  the vertical integrated circuit chips  may alternatively be carried by a tape carrier (30, 52) which  is formed into a convoluted form with all integrated circuit  chips positioned substantially vertically thereon.  this car­ rier is then bonded electrically and physically to a substrate  (65) in areas associated with the integrated circuit chips  (50) so that when the substrate is substantially horizontal  the integrated circuit chips are substantially vertical in re­ lation thereto.  in this alternative, electrical connections  may be made to more than one edges of the integrated cir­ cuit chips.  
+</ABSTRACT>
+</TEXT>
+</DOC>

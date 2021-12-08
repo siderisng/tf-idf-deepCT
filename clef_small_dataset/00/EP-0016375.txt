@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016375
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-7/00 A61K-31/695 A61P-35/00 C07F-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+novel silicon-containing oxime compounds, a method for their preparation, and anti-tumor agents containing the same
+</TITLE>
+<APPLICANT>
+shinetsu chemical cojp<sep>shin-etsu chemical co., ltd.<sep>shin-etsu chemical co., ltd.6-1, otemachi 2-chomechiyoda-ku tokyo 100jp<sep>
+</APPLICANT>
+<INVENTOR>
+ito koichijp<sep>sato ryuichijp<sep>shinohara toshiojp<sep>toyoshima shigeshijp <sep>yamamoto yasushijp  <sep>ito, koichi<sep>sato, ryuichi<sep>shinohara, toshio<sep>toyoshima, shigeshi<sep>yamamoto, yasushi<sep>ito, koichi4-3-32, minami-chohigashi-kurume-shi tokyojp<sep>sato, ryuichi2310, oaza-kami-koizumioizumi-cho yura-gun gunma-kenjp<sep>shinohara, toshio3-19-1, isobeannaka-shi gunma-kenjp<sep>toyoshima, shigeshi3-14-22, funabashisetagaya-ku tokyojp<sep>yamamoto, yasushi992-4, hachiman-chotakasaki-shi gunma-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+various kinds of organosilicon compounds are already known having anti-tumour activity.  their relatively strong toxicity however has impeded a wide use of such compounds in actual therapy.  the primary object of the invention is to provide a novel anti-tumor agent comprising as its therapeutically effective ingredient, an organosilicon compound having low or no toxicity.   <??>the novel compound is a (trihydrocarbylsilylmethyloxyimino) alkane, which is a silicon-containing oxime compound hitherto not described in any prior art literatures, represented by the general formula r<1>3si-ch2-o-n=y.  
+</ABSTRACT>
+</TEXT>
+</DOC>

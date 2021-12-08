@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011576
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-9/00 <main>G10H-7/00</main> G10H-7/10 G10H-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polyphonic synthesizer of periodical signals using digital techniques.
+</TITLE>
+<APPLICANT>
+deforeit christian j<sep>deforeit, christian jacques<sep>deforeit, christian jacques6, rue de l'hôpitalf-21140 semur-en-auxoisfr<sep>deforeit, christian jacques  <sep>
+</APPLICANT>
+<INVENTOR>
+deforeit christian jacques<sep>deforeit, christian jacques<sep>deforeit, christian jacques6, rue de l'hôpitalf-21140 semur-en-auxoisfr<sep>deforeit, christian jacques<sep>deforeit, christian jacques6, rue de l'hôpitalf-21140 semur-en-auxoisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a polypho musical synthesizer using digital techniques.The generation of successive waveform samples uses phase born donations for addressing a waveform (11) and amplitude, octave, or amplitude.harmonic contained in a set of memory blocks (1).The synthesizer control is carried out by the external addressing of all the memories for aforementioned data.The course of the synthesis operations inside the synthesizer is conditioned by a sequential chain of the reading of the different memory blocks, depending on the signals of a plurality of the generators.
+</ABSTRACT>
+</TEXT>
+</DOC>

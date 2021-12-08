@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017359
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01K-7/22 G01K-7/16 H01C-1/142 H01C-1/02 H01C-1/034 G01N-27/12 <main>G01K-7/22</main> H01C-1/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ceramic type sensor device.
+</TITLE>
+<APPLICANT>
+matsushita electric ind co ltdjp <sep>matsushita electric industrial co., ltd. <sep>matsushita electric industrial co., ltd.1006, oaza kadomakadoma-shi, osaka-fu, 571jp<sep>matsushita electric industrial co., ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+hosomi fumio<sep>kugimiya koichi<sep>matsuo yoshihiro<sep>nitta tsuneharu<sep>hosomi, fumio<sep>kugimiya, koichi<sep>matsuo, yoshihiro<sep>nitta, tsuneharu<sep>hosomi, fumio7-14, yabumotomachihirakata-shijp<sep>kugimiya, koichi1740-5, kamishinden-4-chometoyanaka-shijp<sep>matsuo, yoshihiro27-4, ishizuhigashimachineyagawa-shijp<sep>nitta, tsuneharu15-18, myokenzaka-2-chomekatano-shijp<sep>hosomi, fumio<sep>kugimiya, koichi<sep>matsuo, yoshihiro<sep>nitta, tsuneharu<sep>hosomi, fumio7-14, yabumotomachihirakata-shijp<sep>kugimiya, koichi1740-5, kamishinden-4-chometoyanaka-shijp<sep>matsuo, yoshihiro27-4, ishizuhigashimachineyagawa-shijp<sep>nitta, tsuneharu15-18, myokenzaka-2-chomekatano-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a ceramic sensor device is disclosed which comprises a  sensing element of a ceramic material (11, 12) and electric  conductors (13) for connection to external circuit which are  tightly embedded within a ceramic insulating body.  the solid  state sensor device having an excellent capability to with­ stand detrimental conditions such as a high temperature,  rapid temperature change and mechanical shocks is pro­ vided.  the sensor is advantageously used as a temperature  sensor, a moisture sensor and a gas sensor for detecting  oxidizing and reducing gas.  above all, the sensor is suited as  a temperature sensor device for detecting temperature of  exhaust gas purifying catalyst used in motor vehicles.  
+</ABSTRACT>
+</TEXT>
+</DOC>

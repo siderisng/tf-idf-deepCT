@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005852
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01V-9/04</main> G01V-8/12 G02B-27/28 G01V-8/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reflection light barrier apparatus capable of recognizing strongly reflecting objects.
+</TITLE>
+<APPLICANT>
+sick optik elektronik erwinde<sep>erwin sick gmbh optik-elektronik<sep>erwin sick gmbh optik-elektroniksebastian-kneipp-strasse 1d-79183 waldkirchde<sep>erwin sick gmbh optik-elektronik<sep>
+</APPLICANT>
+<INVENTOR>
+buchholz karl-otto<sep>erdmann jurgen<sep>fetzer gunter<sep>buchholz, karl-otto<sep>erdmann, jurgen<sep>fetzer, gunter<sep>buchholz, karl-ottowisserwandstrasse 11d-7808 waldkirchde<sep>erdmann, jürgeneisenbahnstrasse 3d-7808 waldkirch 3de<sep>fetzer, güntergewerbestrasse 43d-7803 gundelfingende<sep>buchholz, karl-otto<sep>erdmann, jurgen <sep>fetzer, gunter<sep>buchholz, karl-otto wisserwandstrasse 11 d-7808 waldkirch de<sep>erdmann, jürgeneisenbahnstrasse 3d-7808 waldkirch 3de<sep>fetzer, güntergewerbestrasse 43d-7803 gundelfingende<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and an apparatus for recognizing strongly  reflecting objects in an autocollimation light barrier makes  use of polarizing filters with crossed planes of polarization  (16,17) at the light transmitter and light receiver of the  barrier, and of a retro-reflector (12) with a depolarizing or  polarization rotating characteristic.  thus the light transmitter  directs light polarized in one plane to a retro-reflector across  a region to be monitored and the retro-reflector produces  depolarization, or rotates the plane of polarization of the  light, prior to passing it to the light receiver.  the light  receiver will only recognize light whose plane of polarization  has been appropriately rotated and thus will recognize light  from the retro-reflector but not light reflected from a  reflecting object (27) which interrupts the light barrier.  the  reflecting object would otherwise not be recognized as it  would simulate the retro-reflector.  various polarizing  arrangements are described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010654
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-1/04 H01F-41/02 H02K-1/00 H02K-15/12 H02K-15/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for bonding together stacks of metal sheets in the construction of electric machines and transformers.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciede<sep>brown, boveri & cie aktiengesellschaft mannheim<sep>brown, boveri &amp; cie aktiengesellschaft mannheimkallstadter strasse 1 d-6800 mannheim käfertal de <sep>
+</APPLICANT>
+<INVENTOR>
+hopp wernerde<sep>klee peterde<sep>hopp, werner<sep>klee, peter<sep>hopp, wernerdomitianstrasse 12d-6802 ladenburgde<sep>klee, peterlindestrasse 28d-6944 hemsbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+stacks of metal sheets are pressed, heated to 120 deg  to 130 deg c and a cold curing epoxy resin is subsequently poured over them at room temperature.  in this way, the epoxy resin becomes liquid and penetrates into the narrowest gaps and cracks between the metal sheets.  once the resin has cured, the stack of metal sheets can be removed from the pressing device.  use in electrical machines and transformer construction. 
+</ABSTRACT>
+</TEXT>
+</DOC>

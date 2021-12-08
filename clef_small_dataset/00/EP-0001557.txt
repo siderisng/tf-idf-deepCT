@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001557
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-11/00 B26F-3/06 <main>B23K-11/22</main> B26F-3/00 B23K-11/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for severing a cable composed of a multitude of wires.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+lindner kurt<sep>lindner, kurt<sep>lindner, kurtsenftenauerstrasse 146d-8000 münchen 21de<sep>lindner, kurt<sep>lindner, kurtsenftenauerstrasse 146d-8000 münchen 21de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for severing a cable consisting of a plurality of wires, particularly for electrical conduction purposes, in which the cable is clamped in contact blocks on both sides of the severing point and a current is passed through the cable which causes melting thereof, characterised in that the current required for severing the cable (2) is passed through the cable in a plurality of pulses (i1 , i2 . . . ), the pulse which causes the cable to melt through draws an electric arc which serves to weld together the wire ends at the severing point. 
+</ABSTRACT>
+</TEXT>
+</DOC>

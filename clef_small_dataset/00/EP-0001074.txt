@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001074
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A61M-1/03</main> A61M-1/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the treatment of uremic patients.
+</TITLE>
+<APPLICANT>
+schi wa arzneimittelde<sep>schi - wa arzneimittelwerk gmbh<sep>schiwa gmbhd-4518 glandorfde<sep>schi - wa arzneimittelwerk gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+kramer peter dr<sep>kramer, peter, dr.<sep>kramer, peter, dr.gutenbergstrasse 21d-3400 goettingende<sep>kramer, peter, dr.<sep>kramer, peter, dr. gutenbergstrasse 21 d-3400 goettingen de<sep>
+</INVENTOR>
+<ABSTRACT>
+Device for the treatment of uremic patients using ultrafiltration, in which the removed blood separated via a hemofilter (F) in plasma water with residual blood and the plasma water is replaced in an exchange device.This consists of two combusted by a flexible or movable separating area from each other (a) and (b), which is chamber (a) with liquid insulation and additionally can absorb the plasma water and contains chamber (b) subsidy solution.By pressure (D) on the separation surface in the chamber (a) a negative pressure and in chamber (b) an expression is generated, so that chamber (a) can absorb the plasma water, whereby from chamber (b) the same volume of substitution solution is released.
+</ABSTRACT>
+</TEXT>
+</DOC>

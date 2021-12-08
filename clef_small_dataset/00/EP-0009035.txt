@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009035
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-31/00 B01J-31/14 C07C-5/00 C07C-13/12 C07C-5/05 B01J-31/12 C07C-13/00 C07C-1/00 <main>C07C-13/12</main> B01J-31/04 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ selective hydrogenation of cyclopentadiene to form cyclopentene.
+</TITLE>
+<APPLICANT>
+goodyear tire & rubberus<sep>the goodyear tire & rubber company<sep>the goodyear tire &amp; rubber company1144 east market streetakron, ohio 44316-0001us<sep>the goodyear tire & rubber company<sep>
+</APPLICANT>
+<INVENTOR>
+menapace henry robert<sep>menapace, henry robert<sep>menapace, henry robert1738 washington circlestow ohio 44224us<sep>menapace, henry robert<sep>menapace, henry robert1738 washington circlestow ohio 44224us<sep>
+</INVENTOR>
+<ABSTRACT>
+there is disclosed a process for the preparation of cyc­ lopentene which comprises selectively hydrogenating cyc­ lopentadiene in a liquid phase by contacting cyclopentadiene  with hydrogen in the presence of a hydrogenation catalyst  comprising (1) a soluble nickel compound, (2) an  organoaluminum compound or a lithium alkyl compound,  and (3) at least one cocataiyst compound selected from the  group consisting of h₂o; nh₃; roh where r is an alkyl or a  halogenated alkyl radical containing from 1 to 20 carbon  atoms;    where r₁, r₂ and r₃ may be hydrogen, or an alkyl radical  containing from 1 to 6 carbon atoms;    where r₁, r₂ and r₃ may be hydrogen or halogen, or an alkyl  radical containing from 1 to 6 carbon atoms; r₁o r₂ wherein  r₁ and r₂ may be the same or different alkyl radicals contain­ ing from 1 to 6 carbon atoms; and r₁r₂    wherein r₁ may be   alkyl or an aromatic radical containing from 1 to 8 carbon  atoms and r₂ may be hydrogen or an alkyl or aromatic hyd­ rocarbon radical containing from 1 to 8 carbon atoms.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004452
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65G-13/07 B65G-13/02 B65G-47/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+roller conveyors
+</TITLE>
+<APPLICANT>
+conveyor mfg co ltdgb<sep>conveyor manufacturing company limited <sep>conveyor manufacturing company limitedunit 3/4, block d woden road westwednesbury west midlands, ws10 7sfgb   <sep>
+</APPLICANT>
+<INVENTOR>
+pickett thomasgb<sep>pickett, thomas<sep>pickett, thomastallis, south crescentwindermere, cumbriagb<sep>
+</INVENTOR>
+<ABSTRACT>
+a roller conveyor is provided in which the rollers are driven by resilient drive belts looped about the rollers and a drive shaft that extends at right angles thereto.  the tension in the drive belts is normally insufficient to transmit drive and tension is applied by a series of tensioning rollers extending parallel to the drive shaft and acting to apply pressure to respective groups of drive belts to produce driving tension therein.  each tensioning roller is supported on arms for pivotal movement away from its respective drive belts.  sensing rolls are located between rollers intermediate each group of drive belts and have a surface proud of the rollers surface.  each sensing roll includes an operating arm extending below and upstream of the rollers; an end portion of the operating arm acts against an arm of the tensioning roller acting on the drive belts of the next but one group upstream to cause that tensioning roller to pivot away from the drive belts in response to pressure exerted on the sensing roll by a stationary package, thereby causing the associated rollers to stop and preventing further packages being forwarded thus avoiding an undesirable build up of pressure between upstream packages. 
+</ABSTRACT>
+</TEXT>
+</DOC>

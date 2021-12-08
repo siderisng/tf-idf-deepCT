@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004659
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+A47J-31/24 A47J-31/56 A47J-31/36 A47J-31/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for producing either hot water or steam and coffee machine as a means for applying the method.
+</TITLE>
+<APPLICANT>
+turmix agch <sep>turmix ag<sep>turmix ag postfach ch-8640 rapperswil ch<sep>
+</APPLICANT>
+<INVENTOR>
+gurtner maxch<sep>wunderlin maxch<sep>gurtner, max<sep>wunderlin, max<sep>gurtner, maxlindenhofweg 13ch-8645 jonach<sep>wunderlin, maxjohannisbergstrasse 25ch-8645 jonach<sep>
+</INVENTOR>
+<ABSTRACT>
+In an electric coffee machine which either produces hot water and for the heating of drinks of drinks, the stroke of the water pump (6) is reduced by an electronic clock (31, 38) to about 100 strokes per minute in unchanged stroke length, sothat the sponsored water volume in a water heater (15) is completely evaporated and no steam with hot water can escape mixed.For the preparation of coffee is a special sieve holder (20) with coffee powder and for the heating of beverages is to use a steam extraction device (21) into the coffee machine and only by inserting the steam extraction device, the pump (6) to a smaller stroke number and the heater(2) for the water heater (15) switched to a higher heating power, so that malfunctions are not possible when operating the coffee machine.
+</ABSTRACT>
+</TEXT>
+</DOC>

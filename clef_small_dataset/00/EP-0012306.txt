@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012306
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/292 <main>G01S-7/28</main> H03M-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multi-channel amplifying device with an amplifier for groups of oscillations interlaced in time.
+</TITLE>
+<APPLICANT>
+siemens ag albisch<sep>siemens-albis aktiengesellschaft<sep>siemens-albis aktiengesellschaftpv/patente und verträge postfach, albisriederstrasse 245ch-8047 zürichch<sep>siemens-albis aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bachtiger rolf<sep>bachtiger, rolf<sep>bächtiger, rolfeggächerstrasse 119ch-8966 oberwilch<sep>bachtiger, rolf<sep>bächtiger, rolfeggächerstrasse 119ch-8966 oberwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+An amplifier device with a plurality of parallel channels is indicated, which have largely identical electrical properties.This is made possible by the use of a single high-frequency amplifier (GV), the input of which is connected via a multiple delay (ML1) each with an input channel (KE1, KE2 ,.,, KEN), which in each case a oscillation package (U1,U2 ,..
+</ABSTRACT>
+</TEXT>
+</DOC>

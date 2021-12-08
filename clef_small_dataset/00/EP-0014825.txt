@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014825
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08B-13/193 G08B-13/189 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical apparatus for passive infrared movement detector.
+</TITLE>
+<APPLICANT>
+heimann gmbh de<sep>heimann gmbh<sep>heimann gmbhweher köppel 6 postfach 30 07d-6200 wiesbaden 1de<sep>
+</APPLICANT>
+<INVENTOR>
+doenges gerhard dipl-ingde<sep>herwig thomas dipl-physde<sep>doenges, gerhard, dipl.-ing.<sep>herwig, thomas, dipl.-phys.<sep>dönges, gerhard, dipl.-ing.lessingstrasse 32d-6204 taunussteinde<sep>herwig, thomas, dipl.-phys.kiedricher strasse 51d-6228 eltvillede<sep>
+</INVENTOR>
+<ABSTRACT>
+In an optical arrangement for a passive infrared motion detector, it is proposed to separate the radiation division (4 to 10) for multiple field fields and the focus (2.3) to a detector (1).As a result, the radiation division avoids overlaps of the beams.
+</ABSTRACT>
+</TEXT>
+</DOC>

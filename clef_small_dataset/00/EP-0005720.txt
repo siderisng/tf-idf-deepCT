@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005720
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/8247 H01L-29/792 H01L-21/265 H01L-29/10 H01L-21/033 H01L-29/02 H01L-29/788 <main>H01L-29/78</main> H01L-29/66 H01L-29/78 H01L-21/02 H01L-21/336 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making a field effect transistor with insulated gate and very narrow effective channel.
+</TITLE>
+<APPLICANT>
+ibmus   <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bassous ernest<sep>ning tak hung<sep>osburn carlton morris<sep>bassous, ernest<sep>ning, tak hung<sep>osburn, carlton morris<sep>bassous, ernest750 kappock st.riverdale new york 10463us<sep>ning, tak hung1720 maxwell driveyorktown heights, n.y. 10598us<sep>osburn, carlton morris41 morningside drivecroton-on-hudson, n.y. 10520us<sep>bassous, ernest  <sep>ning, tak hung<sep>osburn, carlton morris<sep>bassous, ernest750 kappock st.riverdale new york 10463us<sep>ning, tak hung1720 maxwell driveyorktown heights, n.y. 10598us<sep>osburn, carlton morris41 morningside drivecroton-on-hudson, n.y. 10520us<sep>
+</INVENTOR>
+<ABSTRACT>
+The method includes the formation of field protection regions (14) under the recessed oxide (12) regions, and a channel surface layer (16) in a silicon substrate (10). A composite mask (SiO₂ layer) (18) is formed, polysilicon layer (20), SiO₂ layer (22), tungsten layer (24) and resin layer (26) according to a desired configuration. By ionic implantation is formed the source (28) and drain (30) regions, which are self-aligned with these layers. The tungsten (24) is cut laterally and partially, a new layer of resin (32) is used which indicates the source side. The region (24) with the profile represented. The effective channel therefore consists of a portion of the region (34) and a portion of the surface layer (16). After oxidation of the structure that forms the regions (36), the contact holes and the metal interconnection network (38) is formed. A slightly different embodiment makes it possible to make the source regions (28) and (34) before the DRAIN region (30). The polysilicon isolated door-to-door transistor thus obtained is characterized by its self-alignment characteristics, reduced dimensions and high operating speed. It can be of general use in all integrated semiconductor circuits, both in logical and analycological applications.
+</ABSTRACT>
+</TEXT>
+</DOC>

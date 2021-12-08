@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000856
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/40 H01L-23/34 H01L-23/433 H05K-7/20 H01L-23/373 H01L-23/36 H01L-23/42 <main>H01L-23/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic heat transfer device for semiconductor chip.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+sachar kenneth selig<sep>sachar, kenneth selig<sep>sachar, kenneth selig499 north broadway white plainsnew york 10603us<sep>sachar, kenneth selig<sep>sachar, kenneth selig499 north broadway white plainsnew york 10603us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  heat sink for transferring heat between a semiconductor chip and a cooling device, comprising a heat transfer fluid disposed between and in contact with said chip and said device, characterized in that : the fluid consists of magnetic particles suspended in a carrier, and the cooling device is provided with an element that creates a magnetic field acting on the fluid, the pattern of the flux lines of the magnetic field being such that it keeps the fluid in place. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002600
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-15/02 F16K-15/06 E03C-1/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+check valve structure.
+</TITLE>
+<APPLICANT>
+honeywell braukmann gmbhde <sep>honeywell-braukmann gmbh<sep>honeywell-braukmann gmbh hardhofweg d-74821 mosbachde<sep>
+</APPLICANT>
+<INVENTOR>
+braukmann heinz wernerca<sep>braukmann,heinz,werner<sep>braukmann,heinz,werner5601 steeles avenue westweston ontarioca<sep>rentzsch, heinz, dipl.-ing.honeywell holding ag patent- und lizenzabteilung postfach 10 08 6563008 offenbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+a check valve assembly has a conduit section with an  inlet 12 and an outlet 14 on a longitudinal axis thereof, and  first and second check valves in the conduit section.  the  check valves 30-50 respectively have first 32 and second 52  valve stems movable along a common axis inclined to the  longitudinal axis, first 40 and second valve seats 60 and  co-operating valve plates 42-56 perpendicular to the common  axis and mounted on the valve stems.  the first check  valve is upstream of the second check valve, and the second  valve seat has a larger diameter than the first valve seat.  the  first and second valve seats have portions located between  the inlet and the outlet, and the first valve plate has a lift  sufficient to enable fluid flowing from the inlet to the outlet,  when the valves are open, to flow past the portions of the  valve seats in a substantially straight line from the inlet to the  outlet.  the conduit section has removable means for securing  the check valves in position.  
+</ABSTRACT>
+</TEXT>
+</DOC>

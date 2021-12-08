@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002382
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-57/04 C07C-51/00 C07C-53/08 C07C-57/07 C07C-57/00 C07C-51/42 <main>C07C-51/46</main> C07C-67/00 C07C-51/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+acrylic acid recovery and purification.
+</TITLE>
+<APPLICANT>
+standard oil co ohious<sep>the standard oil company<sep>the standard oil companymidland buildingcleveland, ohio 44115us<sep>the standard oil company <sep>
+</APPLICANT>
+<INVENTOR>
+wagner david rudolph<sep>wagner, david rudolph<sep>wagner, david rudolph3613 west 120, streetcleveland ohio 44111 cuyahoga countyus<sep>wagner, david rudolph<sep>wagner, david rudolph3613 west 120, streetcleveland ohio 44111 cuyahoga countyus<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the recovery of acrylic acid from an  aqueous solution resulting from the oxidation of propylene  or acrolein, in which the acrylic acid, acetic acid and water  are extracted with a solvent preferably one boiling below the  boiling point of acrylic acid, the extract being distilled in a  solvent recovery column to obtain an overhead stream of  solvent and water, and a bottoms stream of acrylic acid  characterised in that a vapour stream is removed from below  the feed tray of the solvent recovery column and the vapour  stream is rectified to remove acetic acid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

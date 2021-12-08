@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001686
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+B66C-1/28 B25J-15/08 B25J-15/02 B65G-47/90 B25J-15/10 B25J-9/04 B66C-1/22 B25J-9/02 <main>B25J-11/00</main> B65G-57/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an industrial manipulator for placing articles in close proximity to adjacent articles and a method of close packing articles therewith.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc  <sep>
+</APPLICANT>
+<INVENTOR>
+robertson james ritchie<sep>thomson robert pettigrew<sep>robertson, james ritchie<sep>thomson, robert pettigrew<sep>robertson, james ritchie447 chester roadhartford northwich cheshiregb<sep>thomson, robert pettigrew182 breedon streetlong eaton nottingham ng10 4segb<sep>robertson, james ritchie<sep>thomson, robert pettigrew<sep>robertson, james ritchie447 chester roadhartford northwich cheshiregb<sep>thomson, robert pettigrew182 breedon streetlong eaton nottingham ng10 4segb<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved method of palletisation of bags or sacks in  close-packed arrangement is made possible by the provision  of a novel industrial manipulator preferably a swinging arm  robot having a gripper mechanism with a tilting motion near  the functional extremity of the robot arm which gives an  added degree of freedom.  
+</ABSTRACT>
+</TEXT>
+</DOC>

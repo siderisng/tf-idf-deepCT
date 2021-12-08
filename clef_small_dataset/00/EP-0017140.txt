@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017140
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F17C-5/00 C10L-3/04 C10L-3/00 <main>F17C-5/00</main> F17C-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for introducing a solvent into the gas bottles of a bundled set, and its application.
+</TITLE>
+<APPLICANT>
+linde agde<sep>linde aktiengesellschaft<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>linde aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+bruch-wagner roland<sep>bruch-wagner, roland<sep>bruch-wagner, rolandjordanstrasse 23d-8190 weidachde<sep>bruch-wagner, roland<sep>bruch-wagner, rolandjordanstrasse 23d-8190 weidachde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method of introducing solvent into the gas cylinders of a cylinder group, characterised in that the amount of solvent lacking is determined before the filling operation ; that the introduction of the solvent is carried out separately from and before the process of filling with the gas and the solvent is introduced into the group of cylinders in the form of a stream of liquid under pressure by means of a manifold which connects the cylinders of the group, the cylinders remaining open and connected to one another after the introduction of the solvent. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zum einbringen von lösungsmittel in die gasflaschen eines flaschenbündels die erfindung betrifft ein verfahren zum eindringen von lösungsmittel in die gasflaschen eines flaschenbündeis. es ist bekannt, gase, beispielsweise acetylen, nicht nur in einzelnen stahlflaschen sondern auch in flaschenbün dem, in denen mehrere flaschen zusammengefasst sind; zu speichern. dabei ist jede flasche mit einer porösen masse und einem von der masse aufgesaugten ldsungsmittel, z.b. aceton, gefüllt. bei der entnahme von acetylen aus einer flasche oder einem flaschenbündel geht stets eine gewisse lösungsmittelmenge verloren. zum teil verdampft das lösungsmittel entsprechend seinem partialdruck und wird dampfförmig vom gas mitge- - führt, teilweise kann das lösungsmittel die flasche sogar in'form von tropfen verlassen, beispielsweise bei sehr hohen entnahmegeschwindigkeiten des gases. es ist deshalb von zeit zu zeit erforderlich, lösungsmittel in den flaschen nachzufüllen. dazu sind die flaschen aus dem bündel zu entnehmen, in dem sie von der alle flaschen verbindenden sammelleitung abgetrennt werden. anschliessena wird die entwichene lösungsmittelmenge jeder flasche bestimmt und nachgefüllt. durch die deutsche patentschrift 21 13 409 ist ein verfahren zum nachfüllen eines lösungsmittel in ein dieses enthaltendes acetylenflaschenbündel bekannt, bei dem beim wiederbefüllen eines flaschenbündels mit acetylen das lösungsmittel dem acetylenstrom in form von feinen tropfen beigemischt wird, wobei dieser so eingestellt wird, dass lösungsmitteltröpfchen in das flaschenbundel eingetragen werden. einerseits sind für die durchführung dieses verfahrens eigene dosier- und mischvorrichtungen erforderlich, andererseits kann die in das flaschenbtkidel eingebrachte lösungsmittelmenge mit dieser methode nicht kontrolliert werden. das zerlegen des flaschenbündels in einzelflaschen wird auf diese weise nur hinausgezögert. es ist daher aufgabe der erfindung, ein verfahren zum einbringen von lösungsmittel in die gasflaschen eines flaschen bündels zu entwickeln, mit dem eine kontrollierte lösungsmittelmenge in einfacher weise in ein flaschenbündel eingebracht werden kann. diese aufgabe wird erfindungsgemass dadurch gelöst, dass das lösungsmittel in flüssiger form und unter druck in das flaschenbündel tber eine die flaschen des bündels verbindende sammelleitung eingebracht wird. dazu ist es lediglich erforderlich, eine dem lösungsmittelverlust entsprechende menge des lösungsmittels abzumessen und diese in die sammelleitung des flaschenbündels zu drffk- ken. dabei nimmt man in kauf, dass in die einzelnen flaschen unterschiedliche mengen an lösungsmittel gelangen. dieses vorgehen war nach bisheriger auffassung nicht durchführbar, da man annahm, dass mit einer ungleichmässigen lösungsmittel verteilung die gefahr einer explosion des gespeicherten gases, beispielsweise acetylen, wachsen würde. so versucht man nach dem in der deutschen patentschrift 21 13 409 geschilderten verfahren, schwere tropfen, die sich am eingang zum flaschenbündel verfangen und-bevorzugt in die näher an diesem eingang montierten flaschen gelangen z.b. mit einem zyklonabscheider von den leichteren tropfen abzutrennen, um in den flaschen eine gleichmässigere lösungsmittelverteilung zu erzielen. der dazu erforderliche aufwand an- zusätzlichen vorrichtungen kann erfindungsgemäss vermieden werden. uberraschenderweise wurde gefunden, dass mit dem erfindungsgemassen verfahren die gefahr einer zerstörung von flaschen durch explosion nicht gegeben ist. ersindungs- gemäss wird die fehlende lösungsmittelmenge bestimmt, in dem das gewicht und die temperatur des flaschenbündels gemessen und die ergebnisse mit den daten eines entsprechenden, mit lösungsmittel gefüllten flaschenbündels verglichen werden. die so ermittelte lösungsmittelmenge wird in flus- siger form unter druck,
+</DESCRIPTION>
+<CLAIMS>
+ patentansprüche    1. verfahren zum einbringen von lösungsmittel in die gas flaschen eines   flaschenbündels,    dadurch gekennzeich net, dass das lösungsmittel in flüssiger form und unter druck in das   flaschenbündel    über eine die flaschen des bündels verbindende sammelleitung eingebracht wird.   2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass die fehlende lösungsmittelmenge vor dem einbringen durch wiegen des flaschenbündels und messen der tempe ratur des   flaschenbündels    ermittelt wird.   3. verfahren nach einem der ansprüche 1 oder 2, dadurch gekennzeichnet, dass nach dem einbringen des lösungs mittels die flaschen geöffnet und miteinander verbun den bleiben.   4. anwendung des verfahrens nach einem der ansprüche 1 bis 3 auf das ergänzen von aceton in einem dieses enthal tendes   acetylenflaschenbündel.     
+</CLAIMS>
+</TEXT>
+</DOC>

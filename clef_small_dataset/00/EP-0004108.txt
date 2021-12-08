@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004108
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C11D-1/62</main> C11D-1/62 C07C-85/02 C11D-1/38 C11D-11/04 C11D-1/40 C07C-85/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for making detergent compositions.
+</TITLE>
+<APPLICANT>
+procter & gambleus <sep>the procter & gamble company <sep>the procter &amp; gamble company301 east sixth streetcincinnati ohio 45202us<sep>the procter & gamble company<sep>
+</APPLICANT>
+<INVENTOR>
+hardy frederick edward<sep>talkes brian edward<sep>hardy, frederick edward<sep>talkes, brian edward<sep>hardy, frederick edward38 park drive melton park gosforthnewcastle upon tyne tyne and weargb<sep>talkes, brian edward"greystoke" howard roadmorpeth northumberlandgb<sep>hardy, frederick edward  <sep>talkes, brian edward<sep>hardy, frederick edward38 park drive melton park gosforthnewcastle upon tyne tyne and weargb<sep>talkes, brian edward"greystoke" howard roadmorpeth northumberlandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for quaternisation of tertiary amines in a reaction  medium comprising a water soluble or water dispersible  organic compound of mwt > 240 which is liquid at the  quaternisation reaction temperature, one of the quaternisation  reactants having a bpt < 200°c and being volatile relative  to the other reactants, to permit its removal after the  completion of quaternisation to leave a product comprising  an intimate mixture of a cationic surfactant and the reaction  medium in a weight ratio of 2:1 to 1:50.  preferably the reaction  medium is an ethoxylated nonionic surfactant.  
+</ABSTRACT>
+</TEXT>
+</DOC>

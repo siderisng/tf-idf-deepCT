@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013865
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07B-61/00 C07D-211/74 C07D-211/00 B01J-31/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 2,2,6,6-tetraalkyl-4-oxopiperidines.
+</TITLE>
+<APPLICANT>
+ciba geigy ag ch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+orban ivan drch<sep>troxler eduard drch<sep>orban, ivan, dr.<sep>troxler, eduard, dr.<sep>orban, ivan, dr.lehenmattstrasse 216ch-4052 baselch<sep>troxler, eduard, dr.st. albanring 220ch-4052 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+A method of producing piperidines of formula (I) wherein R₁ is hydrogen or C₁-C₄ alkyl, of a ketone of the formula (II) R₁-CH₂-C (O) -CH₃ (ii), wherein R₁ has the meaning given above,and ammonia, characterized in that one uses a highly acidic ion exchanger with medium or large macropores as a catalyst.
+</ABSTRACT>
+</TEXT>
+</DOC>

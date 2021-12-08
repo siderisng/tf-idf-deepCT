@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004000
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-265/00 A61P-37/00 C07C-221/00 A61K-31/495 A61K-31/452 C07D-211/14 C07D-333/56 A61P-11/00 C07D-333/00 C07D-333/58 C07C-225/00 A61K-31/535 C07D-227/00 A61K-31/135 A61P-17/00 C07C-225/18 A61P-27/00 C07C-225/16 A61K-31/5375 C07D-409/06 C07D-295/108 C07D-211/00 <main>C07D-295/10</main> A61P-37/08 C07D-295/104 A61K-31/40 C07D-227/04 A61K-31/445 C07D-295/00 C07D-295/10 C07D-265/30 C07D-211/10 C07C-97/10 A61P-27/16 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+new propanone derivatives, process for producing thereof and pharmaceutical compositions containing these derivatives as active ingredients.
+</TITLE>
+<APPLICANT>
+nippon zoki pharmaceutical cojp<sep>nippon zoki pharmaceutical co. ltd.<sep>nippon zoki pharmaceutical co. ltd.10, 2-chome hirano-machi higashi-kuosaka-shi osaka-fujp<sep>nippon zoki pharmaceutical co. ltd.<sep>nippon zoki pharmaceutical co. ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+kohda akihide<sep>kurosaki teikichi<sep>kohda, akihide<sep>kurosaki, teikichi<sep>kohda, akihide8-20, 3-chome, fukumitsu-higashigifu-shi gifu-kenjp<sep>kurosaki, teikichi6-42, nishi-imagawa-cho higashi-sumiyoshi-kuosaka-shi osaka-fujp<sep>kohda, akihide<sep>kurosaki, teikichi<sep>kohda, akihide<sep>kurosaki, teikichi<sep>kohda, akihide8-20, 3-chome, fukumitsu-higashigifu-shi gifu-kenjp<sep>kurosaki, teikichi6-42, nishi-imagawa-cho higashi-sumiyoshi-kuosaka-shi osaka-fujp<sep>
+</INVENTOR>
+<ABSTRACT>
+propanone derivatives of the general formula (i)    wherein a is a non-substituted aryl group or an aryl group  substituted by a hydroxyl group, lower alkoxy group or  halogen, or a non-substituted benzo(b)thienyl group or  benzo(b)thienyl group substituted by a hydroxyl group, lower  alkyl group, lower alkoxy group, an aryl group or halogen, b is  a di- lower alkylamino group or heterocyclic group which  contains at least one nitrogen atom and may be substituted by  a lower alkyl group or an aralkyl group, but, when a is a  p-methylphenyl group, b denotes a group other than a  piperidino group, and r¹ is a hydrogen, lower alkyl group or  an aryl group, and the pharmacologically allowable salts  thereof are described.  these derivatives are prepared by reaction of a compound of  formula (ii) with formaldehyde and a compound of formula  (iii)    wherein a, r¹ and b have the same meaning as above.  these  compounds are useful for treating allergic diseases.  pharmaceutical  compositions containing these compounds are  also described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012561
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/60 H01L-29/40 H01L-29/423 H01L-21/339 <main>H01L-29/78</main> H01L-29/768 H01L-29/66 H01L-21/02 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor charge transfer devices.
+</TITLE>
+<APPLICANT>
+gen electric co ltdgb<sep>the general electric company limited<sep>the general electric company, p.l.c.1 stanhope gatelondon w1a 1ehgb<sep>the general electric company, p.l.c.  <sep>
+</APPLICANT>
+<INVENTOR>
+partridge susan lorraine<sep>partridge, susan lorraine<sep>partridge, susan lorraine57 vernon drivestanmore, middlesexgb<sep>partridge, susan lorraine<sep>partridge, susan lorraine57 vernon drivestanmore, middlesexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor charge transfer device, e. g.  a ccd area  imaging array, having a multi-level polysilicon gate structure  (20-22, 24, 25, 26) the geometry of the bus-line portions (24,  25, 26) of which are such that each bus-line has relatively  large area regions where it does not overlap another polysili­ con layer.  the making of interconnections (24b, 25b, 26b) be­ tween the polysilicon bus-lines and an overlying metal con­ ductor pattern (24a, 25a, 26a) without producing inter-level  short circuits via pinholes in the polysilicon is thus facilitated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

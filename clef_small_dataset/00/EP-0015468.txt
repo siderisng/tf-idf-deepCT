@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015468
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07H-15/04</main> C07H-15/04 C07K-9/00 A61K-31/70 C07H-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+6-deoxyglucosamine-peptide derivatives, their production and use.
+</TITLE>
+<APPLICANT>
+takeda chemical industries ltdjp<sep>takeda chemical industries, ltd. <sep>takeda chemical industries, ltd.1-1, doshomachi 4-chomechuo-ku, osaka jp  <sep>takeda chemical industries, ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+azuma ichiro hokko-komuinshiku<sep>hasegawa akira<sep>kobayashi shigeru<sep>yamamura yuichi<sep>azuma, ichiro hokko-komuinshikusha 76<sep>hasegawa, akira<sep>kobayashi, shigeru<sep>yamamura, yuichi<sep>azuma, ichiro hokko-komuinshikusha 762 higashi 3-chome kita 28-johigashi-ku, sapporo, hokkaido 065jp<sep>hasegawa, akira1735-160, kano-okurayamagifu 501-31jp<sep>kobayashi, shigeru22-18, higashi-korienchoneyagawa osaka 572jp<sep>yamamura, yuichi9-22, nigawatakadai 1-chometakarazuka hyogo 665jp<sep>azuma, ichiro hokko-komuinshikusha 76 <sep>hasegawa, akira  <sep>kobayashi, shigeru<sep>yamamura, yuichi<sep>azuma, ichiro hokko-komuinshikusha 762 higashi 3-chome kita 28-johigashi-ku, sapporo, hokkaido 065jp<sep>hasegawa, akira1735-160, kano-okurayamagifu 501-31jp<sep>kobayashi, shigeru22-18, higashi-korienchoneyagawa osaka 572jp<sep>yamamura, yuichi9-22, nigawatakadai 1-chometakarazuka hyogo 665jp<sep>
+</INVENTOR>
+<ABSTRACT>
+novel 6-deoxyglucosamine-peptide derivatives of the for­ mula    wherein   r is hydrogen or an organic acid residue or alkoxy-carbonyl;   r¹ is hydrogen or acyl;   r² is hydrogen or lower alkyl;   r³ and r⁴ are each hydrogen or lower alkyl which may be sub­ stituted with hydroxyl;   r⁵ and r⁶ are each carboxyl which may be esterified or amidat­ ed;   r⁷ is hydrogen or aralkyl; and   (d) and (l) each indicate configurations if their respective car­ bon atoms are asymmetric   or a salt thereof have immunostimulatory activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

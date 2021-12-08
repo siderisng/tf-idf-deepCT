@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003798
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08G-14/12</main> C08L-61/00 C08L-61/34 C08G-14/12 C08G-14/00 C08G-14/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of producing modified aminoplast resins.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+duda ulrich-michael dr<sep>eisele wolfgang dr <sep>lelgemann ludwig<sep>nieberle juergen dr  <sep>reuther wolfgang dr<sep>weiss wolfram dr<sep>duda, ulrich-michael, dr.<sep>eisele, wolfgang, dr.<sep>lelgemann, ludwig<sep>nieberle, juergen, dr.<sep>reuther, wolfgang, dr.<sep>weiss, wolfram, dr.<sep>duda, ulrich-michael, dr.max-slevogt-strasse 13 ad-6710 frankenthalde<sep>eisele, wolfgang, dr.niedererdstrasse 103d-6700 ludwigshafende<sep>lelgemann, ludwigamsterdamer strasse 16d-6700 ludwigshafende<sep>nieberle, juergen, dr.prager strasse 23d-6700 ludwigshafende<sep>reuther, wolfgang, dr.am pferchelhang 16d-6900 heidelberg-ziegelhausende<sep>weiss, wolfram, dr.bruesseler ring 53d-6700 ludwigshafende<sep>duda, ulrich-michael, dr.<sep>eisele, wolfgang, dr.<sep>lelgemann, ludwig<sep>nieberle, juergen, dr.<sep>reuther, wolfgang, dr. <sep>weiss, wolfram, dr.<sep>duda, ulrich-michael, dr. max-slevogt-strasse 13 a d-6710 frankenthal de<sep>eisele, wolfgang, dr.niedererdstrasse 103d-6700 ludwigshafende<sep>lelgemann, ludwigamsterdamer strasse 16d-6700 ludwigshafende<sep>nieberle, juergen, dr.prager strasse 23d-6700 ludwigshafende<sep>reuther, wolfgang, dr.am pferchelhang 16d-6900 heidelberg-ziegelhausende<sep>weiss, wolfram, dr.bruesseler ring 53d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the production of aminoplasts, suitable for surface coating (impregnating resins), by condensation of carbonyl compounds and aminoplast-forming agents, modifiers being added before, during or after the condensation, characterized in that a condensation product of formaldehyde and a phenol in a molar ratio of formaldehyde to phenol of from 0. 4:1 to 0. 9:1, which condensation product is not capable of curing by itself (novolak) and has veen reacted with at least 2 moles of ethylene oxide per mole of phenol, is added as modifier in an effective amount. 
+</ABSTRACT>
+</TEXT>
+</DOC>

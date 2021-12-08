@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0003208
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+C21D-1/18 C21D-1/20 C22C-38/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+silicon alloyed steel.
+</TITLE>
+<APPLICANT>
+ovako oy fi  <sep>ovako oy<sep>ovako oyimatran terästehdassf-55100 imatra 10fi<sep>
+</APPLICANT>
+<INVENTOR>
+nevalainen harrifi<sep>nevalainen, harri<sep>nevalainen, harriterästehdas b 99sf-55610 imatra 61fi<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention is related to a high strength steel provided  with a bainitic-austenitic microstructure which is accomplished  by isothermal heat treatment.  said steel contains  various alloying elements in the following amounts expressed  as weight percentage:   carbon (c)  0. 8 - 1. 2%   silicon (si)  2. 0 - 2. 6%   manganese (mn)  0. 3 - 1. 0%,   preferably 0. 3 - 0. 5%,   the remainder consisting of iron and normal impurities.  
+</ABSTRACT>
+<DESCRIPTION>
+silicon alloyed steel. the present invention relates to an si-alloyed high carbon steel, which by isothermal heat treatment obtains particularly advantageous strength and toughness properties and which is useful especially in wearing parts subjected to heavy impacts. for such wearing parts it is generally known to use mn-alloyed austenitic steel, so-called hadfield steel, when, in addition to abrasion resistance, toughness is required of the part. if toughness is not necessary it is possible to use e.g. high carbon chromium alloyed steels (1.0 % c, 12 % cr). both such steels have several drawbacks. hadfield steel (1.0 % c, 13 % mn) is difficult to manufacture, it can only be formed by casting and its corrosion resistance and weldability are poor. due to the high mn-alloy content this steel is also expensive. high carbon chromium steels, on the other hand, are brittle and their workability is poor. they are also expensive due to high alloy content. the advantageous mechanical properties of the steel according to the present invention are based on the bainitic-austenitic dual-phase microstructure obtained in the isothermal heat treatment. the bainitic component of the microstructure gives the steel good initial hardness and rich residual austenite gives it strong strain hardening capacity. the chemical composition figures stated in the following are based on the weight. in the present steel, advantage has been taken of a known effect of silicon to prevent carbide formation. by increasing the silicon content of a high carbon steel up to 2.0 - 3.0 %, carbide formation can be prevented during isothermal decomposition of austenite at a suitable temperature. the use of silicon as an alloying element is known e.g. in spring steels wherein c- and si-contents are generally c < 0.8 %, si < 2.0 %. in these steels, si-alloying is generally used as an alloying element increasing hardenability and tempering resistance. commonly known are also low carbon high si-alloyed steels (c < 0.1 %, sic 2.0 - 4.0 %) which are used as core plates of electromagnets. the purpose of si-alloying is to prevent the formation of carbide (cementite), when after the austenitizing the steel is allowed to decompose isothermally to upper bainite within a temperature range of 350 - 4500c or to lower bainite within the temperature range of 280 3500c. thus, the obtained bainitic ferrite only contains -0.01 % of carbon. with carbide formation prevented, carbon must diffuse into the remaining austenite as the bainite reaction proceeds. this, on the other hand, increases the stability of austenite with increasing carbon content. if for example the carbon content of a steel is 1.0 % and it decomposes to 50 % bainite without carbide formation, the carbon content of residual austenite increases to appr. 2 %. thus, by controlling the composition (c- and si-content) of the steel, decomposition temperature and holding time, it is possible to control the bainite-austenite ratio obtained as a result of the decomposition of austenite. the following examples illustrate mechanical properties obtained with the steel according to the invention. the
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. high strength steel provided with a bainiticaustenitic microstructure which is accomplished by isothermal heat treatment, c h a r a c t e r i z e d in that the steel contains various alloying elements in the following amounts expressed as weight percentage:  carbon (c) 0.8 - 1.2 %  silicon (si) 2.0 - 2.6 %  manganese (mn) 0.3 - 1.0 %, preferably 0.3 - 0.5 %, the remainder consisting of iron and normal impurities.   2. steel according to claim 1, wherein the alloying sum c + si = 2.9 - 3.4 %.   3. steel according to claim 1 or 2, c h a r a c t e r i z e d in that it contains one or more of the following alloying elements with the following contents: chromium (cr) 0.01 - 1.0 %, preferably 0.01 - 0.5   56    nickel (ni) 0.01 - 1.0 %, preferably 0.01 - 0.5 % niobium (nb) 0.001 - 0.1 %, preferably 0.001 - 0.05 % aluminum (al) 0.001 - 0.1 %, preferably 0.001 - 0.05 % molybdenum (mo) 0.01 - 0.5 %, preferably 0.3 - 0.5 % 4. steel according to claim 1, 2 or 3, c h a r a c t e r i z e d in that it has been provided with a dual-phase microstructure produced by isothermal heat treatment carried out at a temperature of 350 - 4500c, the microstructure mainly consisting of upper bainite and residual austenite and wherein the proportion of residual austenite is 30 - 40 % by volume.    5. steel according to claim 1, 2 or 3, c h a r a c t e r i z e d in that it contains a dual-phase  microstructure obtained by isothermal heat treatment carried out at a temperature of 280 - 3500c the microstructure mainly consisting of lower bainite and wherein the proportion of residual austenite is 30 - 40 %.  
+</CLAIMS>
+</TEXT>
+</DOC>

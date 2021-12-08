@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017381
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/53 A61K-39/395 C07K-16/28 C12P-21/00 C07K-14/005 C12N-15/02 C12N-15/00 C12P-21/08 C07K-16/30 C12N-5/10 A61K-38/00 C12R-1/91 C07K-14/195 G01N-33/577 G01N-33/50 <main>C12P-1/00</main> C12N-5/00 C07K-16/00 C07K-16/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monoclonal antibody to human t cells, method for preparing it, hybrid cell line producing it, therapeutic composition comprising it and diagnostic method using it.
+</TITLE>
+<APPLICANT>
+ortho pharma corpus<sep>ortho pharmaceutical corporation<sep>ortho pharmaceutical corporationu.s. route 202 p.o. box 300raritan new jersey 08869-0602us<sep>ortho pharmaceutical corporation<sep>
+</APPLICANT>
+<INVENTOR>
+goldstein gideon<sep>kung patrick chung-shu<sep>goldstein, gideon<sep>kung, patrick chung-shu<sep>goldstein, gideon30 dorison driveshort hills new jerseyus<sep>kung, patrick chung-shu1096 rector roadbridgewater new jerseyus<sep>goldstein, gideon<sep>kung, patrick chung-shu<sep>goldstein, gideon30 dorison driveshort hills new jerseyus<sep>kung, patrick chung-shu1096 rector roadbridgewater new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+hybrid cell line for production of monoclonal antibody to  an antigen found on all normal human t cells.  the hybrid is  formed by fusing splenocytes from immunized balb/cj mice  with p3x63ag8ui myeloma cells.  diagnostic and therapeutic  uses of the monoclonal antibody are also disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

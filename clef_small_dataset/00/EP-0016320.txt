@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016320
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41M-5/10 B41J-31/00 G01D-15/20 B41M-5/392 B41M-5/26 B41M-5/382 B41M-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a ribbon for non-impact electrothermic printing
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard road armonk, n.y. 10504 us <sep>
+</APPLICANT>
+<INVENTOR>
+shattuck meredith davidus<sep>shattuck, meredith david<sep>shattuck, meredith david6664 pebblewood courtsan jose california 95120us<sep>
+</INVENTOR>
+<ABSTRACT>
+a ribbon for non-impact electrothermic printing is provided.  the ribbon includes an electrically conductive substrate and a transfer layer.  the transfer layer comprises colouring material and glycerol ester of hydrogenated rosin.  the transfer layer also included ethyl cellulose. 
+</ABSTRACT>
+<DESCRIPTION>
+a ribbon for non-impact electrothermic printing the invention relates to a ribbon for non-impact, electrothermic printing. u.s. patents 2,713,822 and 3,744,611 are illustrative of the prior art of non-impact, electrothermic printing employing a ribbon containing a transfer coating and a substrate. electrothermic printing ribbons are known in the art and are disclosed, for example, in u.s. patents 3,744,611 and 3,988,131. u.s. patent 3,988,131 discloses transfer layers formed from styrene resins and/or terpene resins and epoxy resins. it also mentions ketonic resins, ethers of colophony and non-drying alkyd resins. (it should be noted that colophony is another name for rosin.) polyamides, phenol-formaldehyde resins7 and ethylene-vinyl acetate copolymers have also been found useful in transfer layers. according to the invention there is provided a ribbon for nonimpact printing characterised in that the ribbon includes an electrically conductive substrate and a transfer layer comprising colouring material and glycerol ester of hydrogenated rosin. tt has now been found that superior electrothermic printing can be obtained by using a ribbon comprising an electrically conductive substrate and a transfer layer which comprises colouring material and glycerol ester of hydrogenated rosin. the presence of glycerol ester of hydrogenated rosin makes the resulting printing capable of finer resolution than previously obtained, and also has the additional advantage of being more readily correctable. furthermore, the glycerol ester of hydrogenated rosin has less tendancy to adhere to the electrically conductive substrate and, therefore, transfers easier than previously known transfer layers. when glycerol ester of hydrogenated rosin is used in the transfer layer, the resulting printing sticks to the paper so that it does not smear. the printing, however, may be removed by lift-off or abrasion, i.e. rubbing, methods more readily than previously obtained printing. this totally unexpected advantage makes correction of the printed product much easier than was previously the case. as is well known in the art, a ribbon for thermoelectric transfer printing comprises an electrically conductive substrate. this conveniently may be a layer of polycarbonate which has been made electrically conductive by the inclusion of small particles of carbon. this polycarbonatecarbon may, when desired, be coated with a layer of aluminium which is from about 1,000 to about 1,500 ao units thick. the transfer layer is placed on top of this conductive substrate. the transfer layer comprises one or more coloured materials. the colouring materials most often employed are carbon black and various dyes, which may be used alone or in combination with each other. in general, it is desirable that the ratio by weight of coloured material to glycerol ester of hydrogenated rosin be from approximately 2% to approximately 50%, preferably about 10pro. the transfer layer is most conveniently applied to the conductive substrate from solution, for example, by means of a meniscus coater. it has been found that the coating properties of glycerol ester of hydrogenated rosin are improved when there is added to the coating mixture some ethyl cellulose. ethyl cellulose is usually added in an amount from about 5% to about 10% by weight
+</DESCRIPTION>
+<CLAIMS>
+ claims    1. a ribbon for non-impact printing characterised in that the ribbon includes an electrically conductive substrate and a transfer layer comprising colouring material and glycerol ester of hydrogenated rosin.    2. a ribbon as claimed in claim 1, in which the transfer layer also comprises ethyl cellulose.    3. a ribbon as claimed in claim 2, in which the glycerol ester of hydrogenated rosin and the ethyl cellulose are present in a weight ratio of from about 5% to about 10%.    4. a ribbon as claimed in any one of claims 1 to 3, in which the transfer layer is about 3 mils thick.    5. a ribbon as claimed in any one of the preceding claims, in which the colouring material to glycerol ester of hydrogenated rosin ester weight ratio is from about 2% to about 50%.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002022
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-12/32 C08L-33/00 C08L-23/00 C08L-51/00 C08L-51/02 C08L-27/00 C08L-67/00 C08F-26/06 C08L-1/00 C08L-101/00 C08F-26/00 C08F-20/34 C08L-7/00 C08L-33/02 C08L-39/00 C08L-21/00 C08F-20/00 C08F-12/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polymeric ultraviolet light stabilisers containing hindered alkyl amines and polymer compositions containing them.
+</TITLE>
+<APPLICANT>
+goodrich co b fus<sep>the b.f. goodrich company<sep>the b.f. goodrich company500 south main streetakron, ohio 44318us<sep>
+</APPLICANT>
+<INVENTOR>
+layer robert wesleyus<sep>son pyong-naeus<sep>layer, robert wesley<sep>son, pyong-nae<sep>layer, robert wesley3184 - 9th streetcuyahoga falls ohio 44221us<sep>son, pyong-nae2106 ayers avenueakron ohio 44313us<sep>
+</INVENTOR>
+<ABSTRACT>
+an ultraviolet light sensitive polymer composition  wherein resistance to photodegradation is enhanced by the  inclusion therein of a stabilizer polymer having structural  units corresponding to the following formula    wherein ra, rb, and rc are independently selected from  alkyl groups containing 1 to about 12 carbon atoms, a  cyclohexyl group, or cyclohexylalkyl groups containing 7  to about 14 carbon atoms; a is selected from the group  consisting of alkyl groups containing 1 to about 24 carbon  atoms, hydroxyalkyl groups containing 1 to about 18 carbon  atoms, alkoxy groups containing 1 to about 12 carbon  atoms in the group, ester groups containing a total of from  2 to about 24 carbon atoms in the group, a cyclohexyl  group, cyclohexylalkyl groups containing 7 to about 14  carbon atoms in the group, hydroxy groups, amino groups  and aminoalkyl groups and alkyl-substituted amino and  aminoalkyl groups wherein the alkyl contains 1 to about 12  carbon atoms; z is a segment of the polymer backbone  derived from an olefinic monomer; x is 0, 1, 2 or 3 and b is  hydrogen, an alkyl group containing 1 to about 12 carbon  atoms, a cyclohexyl group, or a cyclohexylalkyl group of  7 to about 14 carbon atoms in the group; and m is at  least 2.  the above stabilizer polymer can be simply combined  with, or engrafted upon, the ultraviolet light sensitive polymer.   the stabilizer polymer may also be copolymerized  with, or grafted upon other polymeric materials thereby  enhancing its phase compatibility with the ultraviolet light  sensitive polymer.  in certain instances, it is also possible  to copolymerize the monomers from which are derived the  ultraviolet light sensitive polymer and the stabilizer polymer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

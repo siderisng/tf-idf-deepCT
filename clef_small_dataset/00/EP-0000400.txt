@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000400
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23F-14/00 C08F-2/00 C09K-3/00 C23F-14/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preventing polymer buildup in a polymerization reactor.
+</TITLE>
+<APPLICANT>
+goodrich co b fus<sep>the b.f. goodrich company<sep>the b.f. goodrich company500 south main streetakron, ohio 44318us<sep>
+</APPLICANT>
+<INVENTOR>
+cohen louisus<sep>haehn james bernard us <sep>witenhafer donald edwardus<sep>cohen, louis<sep>haehn, james bernard<sep>witenhafer, donald edward<sep>cohen, louis32106 lake roadavon lake ohious<sep>haehn, james bernard138 brunswick driveavon lake ohious<sep>witenhafer, donald edward27394 benwood circlenorth olmsted ohious<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a process of coating the internal  surfaces of a polymerization reactor in order to substantially  eliminate the buildup of polymer on said surfaces  during the polymerization process.  there is applied to the  surfaces a coating composition containing a straight chain  or branched polyaromatic amine dissolved in an aqueous  acid solution and thereafter the coated surfaces are flushed  or rinsed with water without drying the same.  
+</ABSTRACT>
+</TEXT>
+</DOC>

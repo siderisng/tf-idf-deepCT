@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003145
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09F-9/00 G02F-1/15 G02F-1/01 <main>G02F-1/01</main> G02F-1/13 G02F-1/161 G02F-1/1341 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+display device comprising a liquid display medium.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken  <sep>
+</APPLICANT>
+<INVENTOR>
+jacobs jacobus hubertus<sep>jacobs, jacobus hubertus<sep>jacobs, jacobus hubertusc/o int. octrooibureau b.v. 6, prof.holstlaannl-5600 eindhovennl<sep>jacobs, jacobus hubertus<sep>jacobs, jacobus hubertusc/o int. octrooibureau b.v. 6, prof.holstlaannl-5600 eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+in a display device having a liquid display medium (11),  for example liquid crystal, the filling apertures (9, 10) have to  be readily sealed.  in a seal which is very suitable for mass  production a piece of elastic material (12) is drawn through  two oppositely located filling apertures or between a brace  across the filling aperture and the filling aperture.  
+</ABSTRACT>
+</TEXT>
+</DOC>

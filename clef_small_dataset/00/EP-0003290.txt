@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003290
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16F-9/50</main> B60G-15/00 F16F-9/50 F16F-9/06 B60G-15/12 F16F-9/00 F16F-9/34 F16F-9/508 F16F-9/512 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulic shock absorber for vehicle suspension.
+</TITLE>
+<APPLICANT>
+sirven jacques<sep>sirven, jacques<sep>sirven, jacques34, rue de l'orangerief-78000 versaillesfr<sep>sirven, jacques <sep>
+</APPLICANT>
+<INVENTOR>
+sirven jacques<sep>sirven, jacques<sep>sirven, jacques34, rue de l'orangerief-78000 versaillesfr<sep>sirven, jacques<sep>sirven, jacques34, rue de l'orangerief-78000 versaillesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+During a rapid compression movement the control valve 11 is opened by the differential pressure existing between the first chamber 2a and the second chamber 2b.The control valve 11 is also subjected in the direction which entails its closure to the force of a reminder spring 14 and to the differential pressure between a reference gas contained in the reference chamber 9 and the pressure of the hydraulic fluid inThe first chamber 2a.In the end, a control of the control valve 11 is obtained directly by the pressure reigning in the first chamber 2a.This results in a damping force that decreases from a fixed limit compression speed.The device can be applied in particular for motor vehicle dampers.
+</ABSTRACT>
+</TEXT>
+</DOC>

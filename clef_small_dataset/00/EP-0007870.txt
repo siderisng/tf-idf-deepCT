@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007870
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-13/11 H01R-31/00 H01R-13/115 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical connecting device.
+</TITLE>
+<APPLICANT>
+alsthom cgeefr<sep>cgee alsthom societe anonyme dite:<sep>cgee alsthom société anonyme dite:13, rue antonin raynaudf-92309 levallois-perretfr<sep>
+</APPLICANT>
+<INVENTOR>
+meyer jeanfr<sep>richard andrefr<sep>meyer, jean<sep>richard, andre<sep>meyer, jean429-431 rue gabriel périf-92700 colombesfr<sep>richard, andré145, rue de la pagèref-69500 bronfr<sep>
+</INVENTOR>
+<ABSTRACT>
+device for electrical connection between a strip and a contact loop.  the device is characterised in that the loop (3) comprises two contacts each consisting of a boss (33, 35) disposed on the internal wall of one of the branches of the loop, the said bosses being mutually offset along the longitudinal axis of penetration of the strip (5) into the loop.  application to devices for electrical connection comprising a strip of small thickness.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+dispositif de connexion électrique l'invention est relative à un dispositif de connexion électrique entre une languette et une lyre de contacts. dans les dispositifs de connexion à lyres de contacts, les branches d'une lyre comportent sur leur paroi interne deux bossages de contact disposés l'un en regard de l'autre, symétriquement autour de l'axe de pénétration de la languette dans la lyre. l'écartement de ces bossages au repos se trouve inférieur à l'épaisseur de la languette de manière à ce qu'après pénétration de la lyre sur la languette les bossages exercent un effort de serrage, grâce à la déformation élastique des branches de la lyre. cependant la miniaturisation des connexions conduit à utiliser ded languettes de très faible épaisseur, par exemple de cinq dixièmes de millimètre, ce qui n'autorise plus un espacement entre bossages de contact compatible avec des possibilités de découpage de la lyre à l'aide d'un poinçon ni une déformation élastique suffisante des bras de la lyre. l'invention a pour but ltobtention d'un dispositif de connexion entre une lyre de contacts et une languette de faible épaisseur, qui, sans présenter de difficulté d'usinage, autorise un serrage élastique approprié de la connexion ainsi que son verrouillage. l'invention a pour objet un dispositif de connexion électrique entre une languette de faible épaisseur et les parois internes des branches élastiques d'une lyre de contacts, comportant longitudinalement sur l'une des branches deux premiers contacts constitués chacun par un bossage et sur l'autre branche un troisième contact constitué par un troisième bossage disposé en regard de l'intervalle séparant les deux premiers contadts, caractérisé en ce que le trosième bossage chevauche la droite définie par les extrémités des deux premiers bossages, avant l'introduction de la languette entre les bossages de la lyre, et que lesdits bossages sont écartés par la pénétration de la languette dans la lyre. selon une caractéristique, une branche de la lyre comporte un ergot susceptible de coopérer dans un alvéole de la languette en vue d'assurer son positionnement et son verrouillage sur la lyre de contacts. selon une variante, l'un des bossages peut coopérer avec un alvéole de la languette pour assurer le positionnement et le verrouillage de la lyre sur la languette. le dispositif peut avantageusement, de manière pratique, comporter oôte à côte, un ensemble de languettes constituant une réglette de raccordement et coopérant avec un ensemble de lyres de contacts disposées côte à côte et constituant un connecteur. les caractéristiques et avantages de l'invention ressortiront de la description d'un mode de réalisation donné ci-après à titre d'exemple et illustré dans les dessins. la figure 1 est une vue en perspective avec arraché partiel d'un dispositif de connexion électrique selon l'invention. la figure 2 est une vue de détail de profil en coupe partielle du dispositif selon la figure 1. la figure 3 est une vue partielle de dessus en coupe du dispositif selon la figure 1. dans les figures 7 à 3, on a désigné par 1 un connecteur comportant à l'intérieur d'un bottier isolant une rangée d'alvéoles 10
+</DESCRIPTION>
+<CLAIMS>
+revendications   1. dispositif de connexion électrique entre une languette (5) de  faible épaisseur et les parois internes des branches élastiques  d'une lyre (3) de contacts, comportant longitudinalement sur  l'une des branches (31) deux premiers contacts constitués chacun  par un bossage (33, 35) et sur l'autre branche (32) un troisième  contact constitué par un troisième bossage (34) disposé en regard  de l'intervalle séparant les deux premiers contacts, caractérisé  en ce que le troisième bossage (34) chevauche la droite définie  par les extrémités des deux bossages, avant l'introduction de  la languette entre les bossages de la lyre, et que lesdits bossages  sont écartés par la pénétration de la languette dans la lyre.    2. dispositif selon la revendication 1, caractérisé en ce qu'une  branche (31) de la lyre comporte un ergot (36) susceptible de  coopérer avec un alvéole (51) de la languette (5) en vue d'assurer  son positionnement et son verrouillage sur la lyre de contacts.   3. dispositif selon la revendication 1, caractérisé en ce que   l'un     des bossages (33, 34, 35) coopère avec un alvéole (51) de la  languette pour assurer le positonnement et le verrouillage de  la lyre sur la languette.   4. dispositif selon l'une des revendications 1 à 3, caractérisé  en ce qu'il comporte côte à côte un ensemble de languettes (5)  constituant une réglette de raccordement (4) et coopérant avec  un ensemble de lyres (3) de contact disposées côte à côte et  constituant un connecteur (1).  
+</CLAIMS>
+</TEXT>
+</DOC>

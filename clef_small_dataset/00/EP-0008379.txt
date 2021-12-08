@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008379
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65G-47/91 H01L-21/67 B25J-9/00 B65G-61/00 H01L-21/677 B25J-15/06 <main>H01L-21/68</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for picking up, depositing and transferring small workpieces.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+gates gerald alan<sep>gates, gerald alan<sep>gates, gerald alanp.o. box 26jericho center, vermont 05465us<sep>gates, gerald alan<sep>gates, gerald alanp.o. box 26jericho center, vermont 05465us<sep>
+</INVENTOR>
+<ABSTRACT>
+For the machining of small workpieces, eg. b. From semiconductor chips, a device for recording / A Blegen and transport of the small workpieces is used. The device consists of a number of nozzles (62), which are moved stepwise between the individual machining stations (69) by a rotatable support (11), which are arranged in a circular path. Recording / dispensing a small workpiece (68) attracted or repelled by the controller of vacuum overpressure to the nozzle opening is carried out by lifting / lowering the nozzle (62) above the surface of a machining station (69). The carrier (11) of the nozzles (62) and a rotary valve (16) are individually driven by synchronously controlled stepper motors (18, 24). The rotational movements of the carrier (11) and the rotary valve (16) for controlling negative pressure / overpressure in the nozzles (62) and in a cylindrical chamber (64) for lifting / abnormal Ken of the nozzles is carried out according to a predetermined program.
+</ABSTRACT>
+</TEXT>
+</DOC>

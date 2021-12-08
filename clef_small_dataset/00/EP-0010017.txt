@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010017
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11B-7/24</main> G11B-7/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+protected optical disk.
+</TITLE>
+<APPLICANT>
+thomson csffr <sep>thomson-csf<sep>thomson-csf 173, boulevard haussmann 75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+lehureau jean-claude<sep>magna henriette<sep>thirouard michel<sep>lehureau, jean-claude<sep>magna, henriette<sep>thirouard, michel<sep>lehureau, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>magna, henriette"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>thirouard, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>lehureau, jean-claude<sep>magna, henriette <sep>thirouard, michel<sep>lehureau, jean-claude "thomson-csf" - scpi 173, bld haussmann f-75360 paris cedex 08 fr <sep>magna, henriette"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>thirouard, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+A disc comprises a layer (2 and 3) of a recording material, writable and legible optically, deposited on a transparent plate (1) traversed by the recording or reading beam, said layer being protected from the outsideBy a hood (5) formed, for example, from a metal sheet and attached to two surfaces (8 and 9) on the layer so as to spare a space (4).
+</ABSTRACT>
+</TEXT>
+</DOC>

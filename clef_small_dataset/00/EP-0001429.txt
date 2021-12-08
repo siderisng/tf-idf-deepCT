@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001429
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/027 <main>G03F-7/00</main> C23C-14/04 G03F-7/16 G03F-7/00 H01L-21/02 H05K-3/14 H01L-21/3205 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for forming thin film patterns by use of lift-off processing.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation<sep>international business machines corporation old orchard road armonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+dyer donald raymond<sep>johnson jr claude<sep>wilbarg robert ronald<sep>dyer, donald raymond<sep>johnson, jr., claude<sep>wilbarg, robert ronald<sep>dyer, donald raymond10 scribo roadwappingers falls new york 12590us<sep>johnson, jr., claude2460 pine grove courtyorktown heights new york 10598us<sep>wilbarg, robert ronaldrr nr.5,19 fenwick drivehopewell junction new york 12533us<sep>dyer, donald raymond  <sep>johnson, jr., claude <sep>wilbarg, robert ronald<sep>dyer, donald raymond10 scribo roadwappingers falls new york 12590us<sep>johnson, jr., claude2460 pine grove courtyorktown heights new york 10598us<sep>wilbarg, robert ronaldrr nr.5,19 fenwick drivehopewell junction new york 12533us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for applying a thin film pattern to a base. In the method, a layer of a posi tivopotoresist (10) is supported on a semiconductor pad (11) and partially cured by heating, wherein the surface applied to the resist layer is maintained at a lower temperature than the surface facing away from the base. This ensures that the surface attached to the pad is hardened less than that of the surface facing away from the resist layer. After imaging, the photoresist layer is developed to form ports (15) in the same, which due to the different curing of the layer on the surface of the surface are further than on the surface of the pad, which is made on the pad, which is used for the subsequent Labeling method Required negative slope (16) or the overhang of the lift-off mask is obtained. Finally, a thin film of metal (17) is deposited on the pad using the photoresist mask as a deposition mask and the residual photoresist layer with the metal layer covered to obtain the desired thin film pattern (17) on the semiconductor pad.
+</ABSTRACT>
+</TEXT>
+</DOC>

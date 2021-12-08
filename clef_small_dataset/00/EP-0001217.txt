@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001217
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10M-135/22 C07C-323/12 C07C-313/00 C07C-323/52 C07D-331/02 C07D-331/00 C10M-169/00 C10M-135/26 C10M-135/00 C10M-135/24 C07C-323/00 C07C-323/25 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+epithio compounds or mercaptans, and their application in lubricant compositions
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+michaelis peter drde<sep>michaelis, peter, dr.<sep>michaelis, peter, dr.am hangweg 8d-6145 lindenfels/odenwaldde<sep>
+</INVENTOR>
+<ABSTRACT>
+Epithio compounds or mercaptans of formula I r - x - CH2 - ??-? H - Q (I) wherein X is an oxygen or sulfur atom, the groups -CH2-, -CH (R1), -COO, -NH or NR1-, Y and Z each hydrogen or togethera direct binding, Q, whom Y and Z together represent a direct bond, is hydrogen or Q is the groups -OH, -SH, -OR1, -SR1, -OOCR1, -S- (CH2) -NOH, - (CH2) -NCOOR1, -NHR1 or -N (R1) 2, N The numbers 1 to 10, R and R1 each independently of one another, optionally interrupted by oxygen or sulfur-cut cyclic or acyclic hydrocarbon radical aliphatic or aromatic character with 4-30 carbon atoms meanThe condition that the sum of the C atoms in the groups R and R1 is 8-30 carbon atoms are excellent as lubricant additives, more particularly as "extreme pressure" and "antwear" additives.
+</ABSTRACT>
+</TEXT>
+</DOC>

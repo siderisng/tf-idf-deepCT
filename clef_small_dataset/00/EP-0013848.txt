@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013848
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23Q-7/04 B23Q-1/00 B23Q-1/72 B23Q-1/20 <main>B23B-25/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+numerically controlled turning lathe with automatic workpiece feeder.
+</TITLE>
+<APPLICANT>
+h ernault somua fr<sep>societe dite h. ernault-somua<sep>h. ernault-somua société dite:32, avenue de l'europef-78140 vélizy-villacoublayfr<sep>h. ernault-somua societe dite:<sep>h. ernault-somua societe dite: <sep>
+</APPLICANT>
+<INVENTOR>
+dolder andre<sep>dolder, andre<sep>dolder, andré214, rue de courcellesf-75017 parisfr<sep>dolder, andre<sep>dolder, andre <sep>dolder, andré214, rue de courcellesf-75017 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  turning lathe equipped with a horizontal rotary workpiece (5) - holder spindle (4), as well as whit a first toolholder carriage (13), the displacements of which are assured by means (26-27-28) subject to numerical control (32) and a second carriage (16) which supports an automatic rough-workpiece-charging and machines-workpiece-discharging device (61), these two carriages (13-16) being mounted for sliding movement on distinctive horizontal slides (11-12-14-15) parallel to the axis of the horizontal rotary workpiece-holder spindle (4), the second carriage (16) supporting a bolt system (41, 52) subject to the control of the numerical control (32), and adapted to cooperate, in a first position, with a keeper (42) integral with the first carriage (13) in order to make the second carriage temporarily fast with the first, characterized in that the bolt system (41, 52) is a two locking positions system having a unique control (44) adapted to cooperate, in the second position with a stationary keeper (53) in order to immobilize temporarily the second carriage. 
+</ABSTRACT>
+</TEXT>
+</DOC>

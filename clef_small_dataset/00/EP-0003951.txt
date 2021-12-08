@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003951
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-33/00 C07D-235/00 A61K-31/4184 C07D-235/32 A61K-31/4164 A61P-33/10 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 2-benzimidazolecarbamic acid esters.
+</TITLE>
+<APPLICANT>
+ethyl corpus<sep>ethyl corporation<sep>ethyl corporation330 south fourth street p.o. box 2189richmond virginia 23219us<sep>
+</APPLICANT>
+<INVENTOR>
+walter thomas jamesus<sep>walter, thomas james<sep>walter, thomas james10686 danbury drivebaton rouge louisiana 70809us<sep>
+</INVENTOR>
+<ABSTRACT>
+2-benzimidazole carbamate compounds known as useful  for combating parasitic infestures are made by an improved  sequential process including a) thiocyanating o-nitroaniline,  b) alkylating the thiocyanate this prepared, c) reducing the  nitro group in the product from b), and d) condensing an  alkylthio-o-phenylenediamine with an alkyl cyano carbamate  (or alkali or alkaline earth metal salt thereof), to provide the  desired products.  
+</ABSTRACT>
+</TEXT>
+</DOC>

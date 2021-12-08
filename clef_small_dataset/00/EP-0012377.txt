@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012377
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-7/22 H04N-5/225 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system for the transmission of signals between a television camera and its control unit.
+</TITLE>
+<APPLICANT>
+bosch gmbh robertde<sep>robert bosch gmbh<sep>robert bosch gmbhrobert-bosch-strasse 764293 darmstadtde<sep>
+</APPLICANT>
+<INVENTOR>
+marey mohamed dr dipl-ingde<sep>marey, mohamed, dr., dipl.-ing.<sep>marey, mohamed, dr., dipl.-ing.tielterstrasse 1d-6080 gross-geraude<sep>
+</INVENTOR>
+<ABSTRACT>
+A system for transmitting signals between a television camera 3 is proposed and the control unit 4 connected to it via light line Ter 1, 2.In this system, some tone signals, such as understanding signals, amplitude modulated and each frequency modulated with an unanim tone signal.These frequency-modulated signals are then pulse modulated with the video signal together with the video signal, wherein this pulse modulated signal mixture is modulated the light of a laser 6, 9, soft to a photodiode 8, 7 arranged in the counter station is transmitted via light conductor 1, 2.Finally, the pulse modu converted by the photodiode 8, 7 into electrical signals is demodulated signal mixture in reverse order and demodulating the modulation type.
+</ABSTRACT>
+</TEXT>
+</DOC>

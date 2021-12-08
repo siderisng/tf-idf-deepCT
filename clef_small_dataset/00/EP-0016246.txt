@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016246
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-21/8247 H01L-21/8246 H01L-29/792 H01L-29/40 H01L-27/112 H01L-29/788 G11C-11/34 <main>H01L-29/78</main> H01L-29/66 H01L-21/02 H01L-29/51 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor field effect structure of the metal-insulator-metal or metal-insulator-semiconductor type, and memory device comprising such structure.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+dekeersmaecker roger francois<sep>di maria donelli joseph<sep>young donald reeder<sep>dekeersmaecker, roger francois<sep>di maria, donelli joseph<sep>young, donald reeder<sep>dekeersmaecker, roger françoisamberlands apts. 21hcroton-on-hudson new york 10520us<sep>di maria, donelli joseph77 carpenter avenue, apt. 24mt kisco, new york 10549us<sep>young, donald reeder14 briarbrook roadossining, new york 10562us<sep>dekeersmaecker, roger francois  <sep>di maria, donelli joseph<sep>young, donald reeder<sep>dekeersmaecker, roger françoisamberlands apts. 21hcroton-on-hudson new york 10520us<sep>di maria, donelli joseph77 carpenter avenue, apt. 24mt kisco, new york 10549us<sep>young, donald reeder14 briarbrook roadossining, new york 10562us<sep>
+</INVENTOR>
+<ABSTRACT>
+element de mémoire constitué par une structure semi­ conductrice effet de champ du type métal-isolant-semi­ conducteur à isolant successif (simis) ou graduel (gimis)  comportant une region de porte située entre des régions de  drain et de source n⁺⁺.  l'isolant de la région de porte est  constitué par une couche épaisse de sio₂ thermique recou­ verte de plusieurs couches minces de sio₂ ou si₃n₄ pyrolyti­ ques.  cette structure isolante a un intervalle de bande graduel  permettant l'injection de trous ou d'électrons à partir de  l'interface isolant-électrode de porte tout en bloquant l'injec­ tion d'electrons à partir de l'autre interface de l'isolant.  une  couche de piégeage est réalisée dans la couche de sio₂ ther­ mique pour capturer tous les trous ou électrons.  cette struc­ ture semi-conductrice est utilisée dans les systèmes de  memoire de calculateur.  
+</ABSTRACT>
+</TEXT>
+</DOC>

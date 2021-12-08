@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010195
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-13/00 G11C-8/00 G06F-12/10 G06F-17/30 <main>G06F-9/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for address translation in a computer.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+houdek merle edward<sep>mitchell glen robert<sep>houdek, merle edward<sep>mitchell, glen robert<sep>houdek, merle edward4121 nw 3 streetrochester, mn 55901us<sep>mitchell, glen robertrt. 1pine island, mn 55963us<sep>houdek, merle edward  <sep>mitchell, glen robert<sep>houdek, merle edward4121 nw 3 streetrochester, mn 55901us<sep>mitchell, glen robertrt. 1pine island, mn 55963us<sep>
+</INVENTOR>
+<ABSTRACT>
+To convert virtual addresses to main memory DRESS in a computer, a hash table (20) is used.A hash generator (100) generates a uniform distribution of table entries despite uneven distribution of virtual addresses in a system with view of the main memory size of variable hash table size.A bit panel within the virtual address comprising the side identification bits (PID) is exceeded and aligned with two bit groups of a field in the virtual address that includes the object identification.The three bit groups are supplied to an exclusive OR circuit.The alignment of the three bit groups and the size of the hash table entry addresses that generates those who depend on the size of the hash table.
+</ABSTRACT>
+</TEXT>
+</DOC>

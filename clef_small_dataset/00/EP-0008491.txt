@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008491
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04L-27/22</main> H03K-9/00 H03D-3/00 H04L-27/233 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital demodulator for phase shift keyed signals.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+levine stephen norman<sep>levine, stephen norman<sep>levine, stephen norman238 grand canyonhoffmann estates, illinois 60194us<sep>levine, stephen norman<sep>levine, stephen norman238 grand canyonhoffmann estates, illinois 60194us<sep>
+</INVENTOR>
+<ABSTRACT>
+a digital demodulator for differential phase shift keyed  (dpsk) signals (154) includes two pairs of 1-bit integrators  (105, 106 and 107, 108) for continuously taking the phase  difference between successive dpsk bits.  each dpsk bit is  subdivided (100) into a plurality of bits, for example 15 bits.  a  weighted output signal having 4 bits is provided by each 1-bit  integrator for each of the bits corresponding to a dpsk bit.   the weighted output signals from each pair of 1-bit integ­ rators are sine weighted and multiplied (118).  the products  are then added (120) together for application to a comparator  (121).  the comparator (121) compares the sum of the addition  to a predetermined reference signal and provides a demod­ ulated digital signal (155) having a logical state dependent on  whether the sum is greater or smaller than the predetermined  reference.  
+</ABSTRACT>
+</TEXT>
+</DOC>

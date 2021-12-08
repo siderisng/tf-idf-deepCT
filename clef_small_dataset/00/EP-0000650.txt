@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000650
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-69/00 C08F-8/30 C07K-14/755 G01N-33/48 C08F-222/40 C08F-8/00 C07K-14/435 C07K-14/745 A61K-38/43 C08F-222/06 A61K-38/00 A61K-38/16 C08F-222/00 A61K-35/14 <main>C08F-8/32</main> C08L-35/00 C07G-7/00 C08G-69/26 C08F-222/08 A61K-35/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+non-activating polyelectrolytes and their use in a method for separation of blood coagulation factors.
+</TITLE>
+<APPLICANT>
+monsanto cous<sep>monsanto company<sep>monsanto company800 north lindbergh boulevardst. louis missouri 63167us<sep>monsanto company<sep>
+</APPLICANT>
+<INVENTOR>
+fields joseph edward<sep>slocombe robert jackson<sep>fields, joseph edward<sep>slocombe, robert jackson<sep>fields, joseph edward854 claymont driveballwin missouri 63011us<sep>slocombe, robert jackson7825 stanford avenueuniversity city missouri 63130us<sep>fields, joseph edward<sep>slocombe, robert jackson<sep>fields, joseph edward854 claymont driveballwin missouri 63011us<sep>slocombe, robert jackson7825 stanford avenueuniversity city missouri 63130us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to polyelectrolytes and their use in  the separation of blood proteins.  blood coagulation factors such as factor viii are separated  from admixture with other blood proteins without producing  activation of said coagulation factor by contacting  with a water-insoluble, cross-linked polyelectrolyte  copolymer of (a) c₂₋₁₈ unsaturated monomer and (b) c₄₋₁₂  unsaturated polycarboxylic acid or anhydride, in which  2-100% of the carboxyl sites are substituted with amineimides  and substantially all the free anhydrides are blocked  with alkoxyalkylamine to form alkoxyalkylimide units.  
+</ABSTRACT>
+</TEXT>
+</DOC>

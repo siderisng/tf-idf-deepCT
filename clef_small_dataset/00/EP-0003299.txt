@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003299
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-7/00 <main>C07F-7/08</main> C07F-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+silyl esters of perfluoralcanesulfonic acids as well as a process for their preparation.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusen de<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+finke ulrich dr  <sep>moretto hans-heinrich dr<sep>niederprum hans dr<sep>vorbruggen helmut prof dr<sep>finke, ulrich, dr.<sep>moretto, hans-heinrich, dr.<sep>niederprum, hans, dr.<sep>vorbruggen, helmut, prof. dr.<sep>finke, ulrich, dr.hermann-löns-weg 15d-7505 ettlingende<sep>moretto, hans-heinrich, dr.formesstrasse 13d-5000 köln 80de<sep>niederprüm, hans, dr.hofstrasse 27d-4019 monheimde<sep>vorbrüggen, helmut, prof. dr.wilkestrasse 7d-1000 berlin 27de<sep>finke, ulrich, dr.<sep>moretto, hans-heinrich, dr.<sep>niederprum, hans, dr. <sep>vorbruggen, helmut, prof. dr.<sep>finke, ulrich, dr. hermann-löns-weg 15 d-7505 ettlingen de<sep>moretto, hans-heinrich, dr.formesstrasse 13d-5000 köln 80de<sep>niederprüm, hans, dr.hofstrasse 27d-4019 monheimde<sep>vorbrüggen, helmut, prof. dr.wilkestrasse 7d-1000 berlin 27de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to silyl esters of perfluoroalkanesulfonic acids of the general formula CNF2n + 1 SO₃ Si R¹R²R³ (i) where R¹, R², R³ - are equal or different - for a straight or branched, low alkyl radical with 1 - 6 C atoms and n a wholeNumber of 1-12, but from 3-12 when R¹, R² and R³ are each for methyl, means.The present invention further relates to a method for producing compounds i.
+</ABSTRACT>
+</TEXT>
+</DOC>

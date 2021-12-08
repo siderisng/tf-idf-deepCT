@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017142
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-15/18 F16H-15/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+steplessly adjustable dry-friction transmission.
+</TITLE>
+<APPLICANT>
+ittus<sep>itt industries, inc.<sep>itt industries inc.320 park avenuenew york, ny 10022us<sep>
+</APPLICANT>
+<INVENTOR>
+tippmann heinrichde<sep>tippmann, heinrich<sep>tippmann, heinrichbauseweinallee 83d-8000 münchende<sep>
+</INVENTOR>
+<ABSTRACT>
+a friction drive, designed as a turning gear, having continuously variable speed adjustment and subsequently connected transmission is designed to run completely dry.  particularly favourable for use where a high degree of cleanliness and protection against contamination are required, e. g.  food production or processing.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+stufenlos einstellbares trockenreibgetriebe die erfindung betrifft ein schwenkgetriebe, bei dem antrieb und abtrieb unverschiebbar über ein trockenreibgetriebe miteinander verbunden sind, von dem ein teil an einem schltenk- arm befestigt ist, an dem gleichfalls eine mit dem reibgetriebe gekuppelte, das drehmoment auf die abtriebswelle übertragende übersetzung angeordnet ist. ein solches getriebe ist bekannt (katalog ¯stufenlose ganz stahl-regeltriebe" der fa. ströter, düsseldorf ausgabe 3/74). bei dem bekannten getriebe (siehe stufenloser ströter ganzstahl-regeltrieb typ a) ist der motor fest¯mit dem getriebegehäuse verschraubt. die kraftübertragung zwischen dem motor bzw. der antriebswelle und der abtriebswelle erfolgt zunächst durch reibschluss zwischen einer auf der antriebswelle sitzenden lauf scheibe und einem in der schwinge gelagerten laufteller mit einem reibring. die drehzahlverstellung erfolgt durch das schwenken der schwinge im gehäuse. auf der schwinge ist auch ein mit dem laufteller gekuppeltes ritzel angeordnet, welches das drehmoment bei gleichzeitiger drehzahlübersetzung ins langsame auf die ortsfeste abtriebswelle überträgt. sämtliche teile des bekannten getriebes bestehen aus metall und laufen im ölbad. es ist ein anderes getriebe bekannt (katalog "stufenlos einstellbare prym l-getriebe" nr. 5 z.b. prym l3 getriebe), bei dem der antriebsmotor einen graugusskege ] antreibt, der im reibschluss mit einem reibring aus hartgewebe steht. die anpressung zwischen kegel und reibring erfolgt durch eine anpressvorrichtung. die drehzahlverstellung erfolgt bei diesem bekannten getriebe dadurch, dass der motor mit dem antriebskegel auf- und abwärts verschoben werden kann, wobei die führung des motors durch das zusammenwirken einer schwalbenschwanzförmigen nut und einer stelleiste erfolgt. bei diesem bekannten getriebe ist die reibpaarung trocken laufend angeordnet, während das nachgeschaltete stahl-zahnradgetriebe im ölbad angeordnet ist. abgesehen davon, dass bei dem zweiten bekannten getriebe durch den nicht ortsfesten motor die ganze anordnung kein genau abgegrenztes gehäuse besitzt, ist der beiden bekannten getrieben gemeinsame wesentlich nachteil darin zu sehen, dass sie ganz oder teilweise mit öl gefüllt sind. dies ist deshalb so nachteilig, weil bei auftreten eines lecks die umgebung des getriebes durch das entweichende öl mehr oder minder verunreinigt wird. aus diesem grund sind die bekannten getriebe für bestimmte anwendungen nicht oder erst nach erfüllung zusätzlicher auflagen zugelassen. sehr strenge anforderungen werden beispielsweise an antriebe gestellt, welche in unmittelbarer nachbarschaft mit lebensmitteln, pharmazeutika oder dgl. verwendet werden. häufig werden die bekannten getriebe in der weise verwendet, dass sie nicht von einem elektromotor direkt angetrieben werden, sondern die freien wellenenden mit riemenscheiben versehen oder über verbindungskupplungen verlängert sind. bei diesen ausführungsformen ist ein auf- und abwärts verschiebbarer antriebsteil besonders ungünstig. das verschiebbare gehäuseteil erschwert auch das hermetische verschliessen des getriebeinnenraumes erheblich, so dass entweder abrieb des reibringes nach aussen oder aggressive medien von aussen nach innen gelangen können. die der erfindung zugrunde liegende aufgabe besteht deshalb darin, ein getriebe zu schaffen, bei dem eine verunreinigung der umgebung, hauptsächlich durch öl oder sonstige flüssige schmierstoffe, ausgeschlossen ist, so dass auch keine auswen- digen und teuren vorkehrungen zur verhinderung einer umweltverschmutzung erforderlich sind. ausserdem sollen an- und abtrieb ortsfest angeordnet und nach dem stufenlos einstellbaren getriebeteil eine übersetzung, in der regel ins langsame, eingebaut sein. diese aufgabe ist bei einem getriebe der eingangs
+</DESCRIPTION>
+<CLAIMS>
+stufenlos einstellbares trockenreibgetriebe ansprüche: 1) schwenkgetriebe, bei dem antrieb und abtrieb unverschieb bar über ein trockenreibgetriebe miteinander verbunden sind, von dem ein teil an einem schwenkarm befestigt ist, an dem gleichfalls eine mit dem reibgetrieb gekuppelte, das drehmoment auf die abtriebswelle   übertragerde      iiber-    setzung angeordnet ist, dadurch gekennzeichnet, dass sowohl das   reibgetriebe    als auch die übersetzung trocken laufend angeordnet sind.   2) schwenkgetriebe nach anspruch 1, dadurch gekennzeichnet, dass die übersetzung aus mitein ander   kämmenden    zahnrädern besteht.       > )    schwenkgetriebe nach anspruch 1, dadurch   gekennzeichnet,    dass die   übersetzung    aus   ein##fl.       weiteren reibgetriebe   besteht.      4) schwenkgetriebe nach anspruch   i,    dadurch gekennzeichnet, dass die übersetzung aus einen umschlingungsgetriebe besteht.      5) schwenkgetriebe nach anspruch 1 und einem der ansprüche 2 bis   8,    dadurch gekennzeichnet, dass beim   reibgetriebe    das   kegel-    rad aus grauguss und der reibring aus kunststoff,   :hartge-    webe oder kunstkohle besteht.   6) schwenkgetriebe nach den   ansprüchen      1    und 2, dadurch gekennzeichnet, dass bei der übersetzung   cas    ritzel aus stahl und das zahnrad aus   kunstharzpressholz    hartgewebe oder kunststoff besteht.   7) schwenkgetriebe nach den ansprüchen 1 und 2, dadurch gekennzeichnet, dass ritzel und zahnrad aus einem  ölgetränkten sinterwerkstoff bestehen.  
+</CLAIMS>
+</TEXT>
+</DOC>

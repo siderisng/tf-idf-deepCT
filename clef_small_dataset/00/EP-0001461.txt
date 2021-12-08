@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001461
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-31/052 F24J-2/06 <main>H01L-31/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the conversion of solar energy into electrical energy comprising a photovoltaic cell and an optical concentrator.
+</TITLE>
+<APPLICANT>
+electronique & physiquefr<sep>philips nvnl<sep>laboratoires d'electronique et de physique appliquee l.e.p.<sep>n.v. philips' gloeilampenfabrieken<sep>laboratoires d'electronique et de physique appliquee l.e.p.3, avenue descartesf-94450 limeil-brévannesfr<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>laboratoires d'electronique et de physique appliquee l.e.p.<sep>n.v. philips' gloeilampenfabrieken  <sep>
+</APPLICANT>
+<INVENTOR>
+bellugue jacques<sep>bellugue, jacques<sep>bellugue, jacquesspid 209, rue de l'universitéf-75007 parisfr<sep>bellugue, jacques<sep>bellugue, jacquesspid 209, rue de l'universitéf-75007 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The device serves to convert solar energy into electrical energy using a photovoltaic cell.A central lens (13) ensures the formation of a circular luminous spot on the receiving surface of the cell (11) and a toric mirror (14), arranged around the Len Tille, that of an annular luminous spot.Thus, the entire surface of the cell is illuminated, even in case of relinquer.The intensity distribution chosen in the light spots makes it possible to maintain a good efficiency of the cell, even at high concentration of solar energy.
+</ABSTRACT>
+</TEXT>
+</DOC>

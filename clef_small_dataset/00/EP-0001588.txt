@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0001588
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-13/02 G09F-9/00 G02F-1/01 G01R-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+indicating instrument with passive electrooptical display.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+glaubitz wernerde<sep>glaubitz, werner<sep>glaubitz, wernervogelhartstrasse 4d-8000 münchen 40de<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

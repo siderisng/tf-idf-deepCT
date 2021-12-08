@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010538
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22D-27/04 C30B-21/00 C30B-21/02 B22D-27/20 B22D-23/00 C30B-11/00 <main>C30B-21/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rate controlled directional solidification method and article made by this method.
+</TITLE>
+<APPLICANT>
+united technologies corpus<sep>united technologies corporation<sep>united technologies corporationunited technologies building 1, financial plazahartford, ct 06101us<sep>united technologies corporation <sep>
+</APPLICANT>
+<INVENTOR>
+giamei anthony francis<sep>giamei, anthony francis<sep>giamei, anthony francis54, virginia drivemiddletown, ct 06457us<sep>giamei, anthony francis <sep>giamei, anthony francis54, virginia drivemiddletown, ct 06457us<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved method of directional solidification is pro­ vided by varying the rate of withdrawal of a casting from the  hot zone of a solidification furnace according to the sense of  change of the perimeter to area ratio of the casting.  the rates  are varied to achieve desired microstructure and resultant  properties in the casting.  also, the rate of withdrawal is varied according to control­ led and predetermined relationships to cause the solidifica­ tion interface to move through a transition section connecting  sections of differing perimeter to area ratios in a manner  which produces a desired microstructure in a first, transition,  and second sections.  
+</ABSTRACT>
+</TEXT>
+</DOC>

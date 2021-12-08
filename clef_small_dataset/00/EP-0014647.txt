@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014647
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11C-27/00</main> H01L-41/08 H04R-17/00 H01L-21/8247 G06G-7/195 H01L-29/792 G06G-7/19 G11C-27/00 H01L-29/788 G06G-7/00 H01L-29/66 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+two-dimensional acousto-electric device for the storing and processing of information.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+gautier herve<sep>maerfeld charles<sep>gautier, herve<sep>maerfeld, charles<sep>gautier, hervé"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>maerfeld, charles"thomson-csf" scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>gautier, herve <sep>maerfeld, charles<sep>gautier, hervé"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>maerfeld, charles"thomson-csf" scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The subject of the invention relates to an acoustoelectric device for storing and processing the information, in analog form, at any point of a surface, it comprises: a piezoelectric substrate (1), carrying that electro-mechanical transducers ( T₁... T₄) emitting surface elastic waves according to two normal directions (OX, Oy); A semiconductor substrate (2), carrying a network of diodes placed in opposite the piezoelectric substrate and two electrodes (3, 4) placed respectively on the extreme faces of the two substrates. The remember of a signal S [T) applied between the electrodes is done using two auxiliary addressing elastic waves, the nonlinear interaction of these three signals providing a spatially perioped and independent signal. which is memorized by the diodes. The stored signal is later treated with the aid of elastic reading waves that interact nonlinearly with it to give a simple reading of the initial signal S (T) or a treatment of the latter, in particular its Fourier trans form.
+</ABSTRACT>
+</TEXT>
+</DOC>

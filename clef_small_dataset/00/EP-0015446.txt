@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015446
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06G-7/14 H03K-23/40 H03K-25/00 H01L-29/76 G11C-27/04 G11C-27/00 H03K-23/80 H01L-21/339 <main>H01L-29/78</main> H01L-29/768 G06G-7/00 H01L-29/66 H01L-21/02 H01L-29/772 H03K-23/00 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+non-destructive charge transfer device differencing circuit.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+edwards nathan p<sep>white james m<sep>edwards, nathan p.<sep>white, james m.<sep>edwards, nathan p.54 holly lanedarien, connecticutus<sep>white, james m.5537 autumn end circlecharlotte, n.c.us<sep>edwards, nathan p.<sep>white, james m.<sep>edwards, nathan p.54 holly lanedarien, connecticutus<sep>white, james m.5537 autumn end circlecharlotte, n.c.us<sep>
+</INVENTOR>
+<ABSTRACT>
+a circuit is disclosed for obtaining a quantity of electrical  charge carriers equal to and representative of the algebraic dif­ ference between the values of two original quantities of electri­ cal charge carriers.  the circuit includes two charge coupled  device input shift registers (10, 30).  each of the two shift regis­ ters incorporates at least three potential well electrodes (12,  16, 20) and interposed transfer electrodes (14, 18) such that  charge packets can be shifted from well to well.  one potential  well (16, 36) in each of the two shift registers (10, 30) is operat­ ed in a floating gate electrode mode, and the two potential  wells are connected at a common node (42) which serves as  the input to a third or output charge coupled device shift regis­ ter (50).  the two original quantities of electrical charge carriers  are represented respectively in each of the two input shift re­ gisters (10, 30) by a pair of spatially separated charge packets  which when sensed by sequencing them into and out of the  potential well under the floating gate electrode (16, 36 resp. )  provide the algebraic value of the associated quantity of elec­ trical charge carriers.  by representing each original charge  quantity by two spatially separated pairs of charge packets,  positive and negative algebraic values may be representing  even though all the charge quantities are made up of charge  carriers of the same polarity.  combining the two floating gate  electrodes (16, 36) at the common node rectifying input (52) to  the third or output shift register (50) produces an algebraic val­ ue in the output shift register (50) which represents the differ­ ence between the original charge packets.  
+</ABSTRACT>
+</TEXT>
+</DOC>

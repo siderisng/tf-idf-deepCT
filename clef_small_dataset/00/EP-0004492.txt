@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004492
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01J-23/24</main> H01J-23/00 H01J-23/16 H01J-23/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+microwave tube containing a delay line cooled by a circulating fluid.
+</TITLE>
+<APPLICANT>
+thomson csf fr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+delory bernard<sep>fleury georges<sep>kuntzmann jean-claude<sep>delory, bernard<sep>fleury, georges<sep>kuntzmann, jean-claude<sep>delory, bernard"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>fleury, georges"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>kuntzmann, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>delory, bernard<sep>fleury, georges<sep>kuntzmann, jean-claude <sep>delory, bernard "thomson-csf" - scpi 173, bld haussmann f-75360 paris cedex 08fr<sep>fleury, georges"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>kuntzmann, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a delay line, for microwave tube, cooled by fluid circulation.The cooling fluid circulates in channels (10), consisting of the space between two sleeves, of the amagnetic and waterproof material at this fluid, having axis the line of the line.The first sheath (8), vacuum waterproof made in its interior volume, is brazed to dielectric chopsticks (2) and connects straight line two adjacent chopsticks.The second sleeve (9), cylindrical, contains the first to which it is brazed at different points, a permanent magnet focusing device being mounted on this second sleeve.The delay line according to the invention is used in hyper-frequency tubes.
+</ABSTRACT>
+</TEXT>
+</DOC>

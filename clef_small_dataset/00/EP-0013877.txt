@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013877
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/04 G01R-31/02 H01R-4/48 G01M-19/00 <main>H01R-43/00</main> H01R-43/00 G01L-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device for testing a connector clip of a solderless electrical connection.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchen de  <sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+grad gerald<sep>hagen gunther dipl-ing<sep>seitz max dipl-ing<sep>thumm hans-peter<sep>grad, gerald<sep>hagen, gunther, dipl.-ing.<sep>seitz, max, dipl.-ing.<sep>thumm, hans-peter<sep>grad, geraldautharistrasse 7d-8000 münchen 90de<sep>hagen, günther, dipl.-ing.georgenstrasse 58d-8000 münchen 40de<sep>seitz, max, dipl.-ing.autharistrasse 36d-8000 münchen 90de<sep>thumm, hans-peterallgäuerstrasse 85d-8000 münchen 71de<sep>grad, gerald<sep>hagen, gunther, dipl.-ing. <sep>seitz, max, dipl.-ing.  <sep>thumm, hans-peter<sep>grad, geraldautharistrasse 7d-8000 münchen 90de<sep>hagen, günther, dipl.-ing.georgenstrasse 58d-8000 münchen 40de<sep>seitz, max, dipl.-ing.autharistrasse 36d-8000 münchen 90de<sep>thumm, hans-peterallgäuerstrasse 85d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for testing a solder-free electrical connection, prepared that a clip (1) is pushed under pressure together with the stripping end (3) of a single or multi-weld conductor on a pin (2).The testing of such a connection has been previously measured by measuring the force required for the clamp (1) on the pin (2).However, this test is not sufficient when processing multi-wire conductor.The test method according to the invention is that the KLAM MER (1) surrounded by the resulting measurement (ΔS1), and then withdrawing this spreading by an amount (ΔS2) from theDifference of the diameter of conductor wire beams and individual wire results, which is measured on spreading force (F) in this point.
+</ABSTRACT>
+</TEXT>
+</DOC>

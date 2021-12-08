@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014672
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/06 <main>C02F-1/06</main> B01D-3/06 B01D-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multistage flash evaporator.
+</TITLE>
+<APPLICANT>
+mitsubishi heavy ind ltdjp<sep>mitsubishi jukogyo kabushiki kaisha<sep>mitsubishi jukogyo kabushiki kaisha5-1, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi jukogyo kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+maekawa yutaka<sep>tanaka kazuhiro<sep>maekawa, yutaka<sep>tanaka, kazuhiro<sep>maekawa, yutaka1056, jindaiji-chochofu city tokyojp<sep>tanaka, kazuhiro5-52, midori-machi 2-chomekoganei city tokyojp<sep>maekawa, yutaka  <sep>tanaka, kazuhiro <sep>maekawa, yutaka1056, jindaiji-chochofu city tokyojp<sep>tanaka, kazuhiro5-52, midori-machi 2-chomekoganei city tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a multistage flash evaporator comprises a plurality of  cylindrical shells parallelly and horizontally extending in  spaced relation, tube sheets in pairs supported by opposite  end portions of the cylindrical shells, each pair of the sheets  holding a bundle of cooling tubes therebetween, a top plate  connecting the upper portions of the shells to one another,  internal bulkheads connecting the lower portions of the shells  to a bottom plate, and demisters mounted between the shells,  whereby the bulkheads are reduced in height and wall thick­ ness to an economic advantage as compared with the conven­ tional bulkheads, and the demisters are made adjustable in  surface areas according to the evaporation loads to be  encountered.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008374
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/76 H01L-21/339 H01L-29/768 H01L-29/66 H01L-29/78 <main>H01L-27/10</main> H01L-21/02 H01L-29/772 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ccd input circuit based on the "fill and spill" method.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+klar heiner dr<sep>mauthe manfred dipl-ing<sep>klar, heiner, dr.<sep>mauthe, manfred, dipl.-ing.<sep>klar, heiner, dr.rossmarkt 8d-8000 münchen 2de<sep>mauthe, manfred, dipl.-ing.mauthäuslstrasse 39d-8000 münchende<sep>klar, heiner, dr.<sep>mauthe, manfred, dipl.-ing.<sep>klar, heiner, dr.rossmarkt 8d-8000 münchen 2de<sep>mauthe, manfred, dipl.-ing.mauthäuslstrasse 39d-8000 münchende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a CCD input circuit according to the "fill and spill" principle, in which by arranging a distribution and a barrier electrode (Ø3 *) (G4) and a suction diode (ID *) side next to the electrode series an undesirable equal partcan be separated from the change in the signal and can be sucked off.The optimal operating point is in contrast to known Ten Ten CCD input circuits for fully control.With the invention there is an arrangement with high linearity with high gain.
+</ABSTRACT>
+</TEXT>
+</DOC>

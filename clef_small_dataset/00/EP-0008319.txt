@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008319
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/04 C08F-291/04 C08F-2/06 C08F-289/00 C08F-279/00 C08F-279/02 C08F-291/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of thermoplastic elastomers by cationic grafting
+</TITLE>
+<APPLICANT>
+firestone tire & rubber cous<sep>the firestone tire & rubber company<sep>the firestone tire &amp; rubber company1200 firestone parkway akron, ohio 44317 us <sep>
+</APPLICANT>
+<INVENTOR>
+ambrose richard josephus<sep>ambrose, richard joseph<sep>ambrose, richard joseph3202 bancroft roadakron, ohio 44313us<sep>
+</INVENTOR>
+<ABSTRACT>
+thermoplastic elastomers having improved high service temperatures and increased tensile strength are prepared by grafting cationic polymerizable monomer to halogenated backbone, said grafting being effected in the presence of inert organic solent and methyl aluminum sesquichloride as catalyst whereby improved polymerization rate and increased monomer conversion result. 
+</ABSTRACT>
+</TEXT>
+</DOC>

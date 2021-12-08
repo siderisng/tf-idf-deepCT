@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011474
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-51/00 C08L-23/00 C08F-255/02 C09J-151/06 C09J-159/00 C08F-255/06 C08L-57/02 C09J-123/26 C08F-255/00 C09J-151/00 C08L-51/06 C08L-101/00 C09J-123/00 <main>C09J-3/14</main> C08L-57/00 C08L-51/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hot melt composition.
+</TITLE>
+<APPLICANT>
+mitsui petrochemical indjp<sep>mitsui petrochemical industries ltd.<sep>mitsui petrochemical industries, ltd.2-5, kasumigaseki 3-chome chiyoda-kutokyo 100jp<sep>mitsui petrochemical industries, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+nagano riichiro<sep>takeda masami<sep>nagano, riichiro<sep>takeda, masami<sep>nagano, riichiro520, wakiwaki-cho-kuga-gun, yamaguchi-kenjp<sep>takeda, masami5-12-57, shozoku-choiwakuni-shi, yamaguchi-kenjp<sep>nagano, riichiro<sep>takeda, masami<sep>nagano, riichiro520, wakiwaki-cho-kuga-gun, yamaguchi-kenjp<sep>takeda, masami5-12-57, shozoku-choiwakuni-shi, yamaguchi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+the composition comprises a tackifier and a polymer  having a melt index at 230°c not exceeding 500, the polymer  being formed by reacting an unsaturated carboxylic acid, or  derivative thereof, with an ethylene - alpha olefin copolymer  rubber, and, optionally, partially esterifying the resulting  polymer.  the polymer forms 30 to 70% of the composition,  based on the weight of the polymer plus tackifier.  the compositions, which are useful as hot melt adhesives,  are also pressure-sensitive.  
+</ABSTRACT>
+</TEXT>
+</DOC>

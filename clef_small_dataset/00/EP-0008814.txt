@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008814
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+D21G-1/02 D21G-1/00 B21B-27/02 <main>F16C-13/00</main> F16C-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+controlled deflection roll, especially for use in machines for making and processing webs of paper or synthetic materials.
+</TITLE>
+<APPLICANT>
+schmidt erwepa maschfde<sep>er-we-pa maschinenfabrik und eisengiesserei± herbert karl±schmidt<sep>er-we-pa maschinenfabrik und eisengiesserei gmbhmettmanner strasse 49/51d-4006 erkrathde<sep>er-we-pa maschinenfabrik und eisengiesserei gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+bolender walter<sep>wallner ernst<sep>bolender, walter<sep>wallner, ernst<sep>bolender, walterrathelbeckerweg 21d-4006 erkrathde<sep>wallner, ernstotto-hahn-strasse 52d-4018 langenfeldde<sep>bolender, walter<sep>wallner, ernst <sep>bolender, walter rathelbeckerweg 21 d-4006 erkrathde<sep>wallner, ernstotto-hahn-strasse 52d-4018 langenfeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+A roller with controllable deflection, in particular machines for generating and processing webs of paper or plastic, with a cylindrical inner part (1) and a surrounding the inner part surrounding at its two ends rotatably mounted on the inner part, tubular outer part (3). On the inner part (1), a generator line (6a to 6f) is arranged long. In the inner part (1), Mimde is an electrical temperature sensor (7a to 7c) in uniminable proximity of the heating tape (6a to 6f) and at least one other electrical temperature sensor (8a to 8c) on a side facing away from the heating tape the inner part (1) Arranged. The two temperature sensors are connected to a device (17) for measuring the temperature difference and controls an electric regenerative ice (14) to which a heating circuit (15) is connected to the heating tape (6a to 6f). The heating of the heating tape (6a to 6f) is regulated so that a predetermined temperature difference between the heated and the unheated side of the inner part (1) will hold. Due to the different length expansion on the unheated and the heated side of the inner part (1) results in a deflection of the inner part, which transmits itself to the outer part. The side of the inner part (1) made of the heating tape (6a to 6f) could be cooled.
+</ABSTRACT>
+</TEXT>
+</DOC>

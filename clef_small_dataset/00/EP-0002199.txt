@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002199
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/027 G03F-7/26 G03F-1/14 <main>G03B-41/00</main> G03F-1/00 H01L-21/02 G03F-7/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+exposure mask and projection exposure system.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation  <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+shea vincent<sep>wojcik walter joseph<sep>shea, vincent<sep>wojcik, walter joseph<sep>shea, vincent179 van wagner roadpoughkeepsie new york 12603us<sep>wojcik, walter josephmark vincent drivepoughkeepsie new york 12603us<sep>shea, vincent <sep>wojcik, walter joseph<sep>shea, vincent179 van wagner roadpoughkeepsie new york 12603us<sep>wojcik, walter josephmark vincent drivepoughkeepsie new york 12603us<sep>
+</INVENTOR>
+<ABSTRACT>
+An exposure mask (23) for projection exposure systems whose image is to be generated on a photosensitive layer (13) is protected by a thin, 0.2 to 6 μm thick transparent film (14) which by a spacer (16) in optically largeRemoval of about 1 to 125 mm from the mask surface (12) is mounted.Dust particles on the surface of the film are not clearly mapped and do not affect the photosensitive layer.A protective film (20) can also be used for the photosensitive layer in the image plane.
+</ABSTRACT>
+</TEXT>
+</DOC>

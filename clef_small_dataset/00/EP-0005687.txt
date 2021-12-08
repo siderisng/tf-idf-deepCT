@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005687
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-7/10 H04Q-3/54 H04Q-3/66 H04Q-3/00 H04Q-3/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of simplifying line selection in a telecommunication exchange in which the lines can be seized from this exchange as well as from a remote exchange.
+</TITLE>
+<APPLICANT>
+ericsson telefon ab l mse<sep>telefonaktiebolaget l m ericsson<sep>telefonaktiebolaget l m ericsson patent and trademark departments-126 25 stockholmse <sep>
+</APPLICANT>
+<INVENTOR>
+linden lars kallese<sep>nordenberg erik torbjoernse<sep>linden, lars kalle<sep>nordenberg, erik torbjoern<sep>lindén, lars kalleviaduktgatan 17s-280 23 hästvedase<sep>nordenberg, erik torbjörngammelhagen 205s-136 50 handense<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of simplifying line selection in a telecommunication  exchange in which the lines can be seized by this  exchange at one end as well as by a remote exchange at the  other end.  the lines which can be primarily selected by said  first-mentioned exchange form a first group and the lines  which can be primarily selected by the remote exchange  form a second group.  upon taking into use the exchanges the lines are  selected arbitrarily, which also may comprise random selection  among all lines.  upon being identified as idle the lines  are stored in a first memory field in the order they have  become idle, if they have been selected by the first mentioned  exchange, and in a second memory field if they have  been selected by the remote exchange.  if there are no idle lines in the first field, selection is  made in the second field, and after the line selected from the  second field has become idle it is stored in the first memory  field.  
+</ABSTRACT>
+</TEXT>
+</DOC>

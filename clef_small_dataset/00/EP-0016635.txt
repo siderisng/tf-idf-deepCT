@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016635
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-417/04 C07D-277/42 C07D-417/00 A61K-31/4523 A61P-9/00 A61K-31/4453 A61P-9/12 <main>C07D-277/42</main> A61K-31/445 C07D-277/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+alkyl (3-methyl-4-oxo-5n-piperidinothiazolidin-2-ylidene)-acetates, the preparation thereof and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+goedecke agde<sep>godecke aktiengesellschaft <sep>gödecke aktiengesellschaftsalzufer 16d-10587 berlin de  <sep>godecke aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bahrmann heinrich<sep>herrmann manfred<sep>herrmann wolfgang<sep>satzinger gerhard<sep>steinbrecher wolfgang<sep>bahrmann, heinrich<sep>herrmann, manfred<sep>herrmann, wolfgang<sep>satzinger, gerhard<sep>steinbrecher, wolfgang<sep>bahrmann, heinricham rainhof 29d-7815 kirchzartende<sep>herrmann, manfredwolfweg 25d-7811 st. peterde<sep>herrmann, wolfgangzum baumgarten 13d-7802 merzhausende<sep>satzinger, gerhardim mattenbuhl 7d-7809 denzlingende<sep>steinbrecher, wolfgangschwarzwaldstrasse 16d-7803 gundelfingende<sep>bahrmann, heinrich<sep>herrmann, manfred<sep>herrmann, wolfgang<sep>satzinger, gerhard <sep>steinbrecher, wolfgang<sep>bahrmann, heinrich am rainhof 29 d-7815 kirchzarten de<sep>herrmann, manfredwolfweg 25d-7811 st. peterde<sep>herrmann, wolfgangzum baumgarten 13d-7802 merzhausende<sep>satzinger, gerhardim mattenbuhl 7d-7809 denzlingende<sep>steinbrecher, wolfgangschwarzwaldstrasse 16d-7803 gundelfingende<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention provides a dextrorotatory isomer,  substantially free from the laevorotatory isomer, of an  optically-active compound of the general formula:-    wherein r is a straight- or branched-chain alkyl radical  containing up to 4 carbon atoms and *c denotes an  asymmetric carbon atom.  the present invention also provides a process for the  preparation of the above dextrorotatory isomers, as well as  anti-hypertensively effective pharmaceutical compositions  containing them.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016574
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/362 <main>A61N-1/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pacemaker for tachycardia control.
+</TITLE>
+<APPLICANT>
+sowton george edgargb<sep>sowton, george edgar<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens elema abröntgenvägen 2s-171 95 solna 1se<sep>siemens aktiengesellschaft<sep>siemens-elema ab<sep>
+</APPLICANT>
+<INVENTOR>
+smale alan john<sep>sowton george edgar<sep>smale, alan john<sep>sowton, george edgar<sep>smale, alan john100 woodberry avenuewinchmore hill london n21 3lbgb<sep>sowton, george edgar10 beech avenuesanderstead surreygb<sep>smale, alan john <sep>sowton, george edgar<sep>smale, alan john 100 woodberry avenue winchmore hill london n21 3lb gb<sep>sowton, george edgar10 beech avenuesanderstead surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a pacemaker for tachycardia control which comprises  means for sensing the onset of a tachycardia, means respon­ sive to said sensing means for issuing a stimulating pulse to  the heart for arresting the tachycardia, means for detecting  the response of the heart to said stimulating pulse and if said  tachycardia was not arrested for determining if said pulse was  issued at an incorrect early or late time relative to the  tachycardia beat, and means for controlling the stimulating  pulse issuing means in response to said detecting means  whereby, when the tachycardia is not arrested, to cause a  subsequent stimulating pulse to be issued at an adjusted later  or earlier time relative to the tachycardia beat.  
+</ABSTRACT>
+</TEXT>
+</DOC>

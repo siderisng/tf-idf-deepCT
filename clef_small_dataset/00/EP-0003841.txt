@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003841
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05D-23/22</main> H02M-5/02 G05D-23/22 G05F-1/66 H05B-1/02 H02M-5/04 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+power control circuit.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company  <sep>
+</APPLICANT>
+<INVENTOR>
+chow allan tit-shing<sep>chow, allan tit-shing<sep>chow, allan tit-shing109 banbury drivewindsor hills wilmington, del. 19803us<sep>chow, allan tit-shing<sep>chow, allan tit-shing109 banbury drivewindsor hills wilmington, del. 19803us<sep>
+</INVENTOR>
+<ABSTRACT>
+the power control circuit described functions to vary the  duty cycle of the alternating current signal supplied to the  load (12).  the duty cycle is varied by periodically generating  a first signal, each half cycle of the alternating current signal,  that is proportional to the actual power supplied to the load  (12) as a function of the duty cycle and wave form of the  alternating current signal.  a comparator (54) compares this  first signal with an error signal to vary the duty cycle in  accordance with the power demanded by the error signal.   the first signal is derived by evaluating the integral of the  square of the voltage over each half cycle of the alternating  current signal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

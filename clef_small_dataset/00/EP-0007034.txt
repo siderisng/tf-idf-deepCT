@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007034
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/00 B23K-7/00 G01D-3/04 B23K-26/04 G01D-5/12 G01D-5/24 <main>G01B-7/14</main> G01D-5/241 G01D-5/20 G01B-7/02 B23K-9/127 B23K-7/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arrangement for measuring the distance between a metallic workpiece and a tool.
+</TITLE>
+<APPLICANT>
+precitec gmbhde<sep>precitee gesellschaft fur prazisionstechnik und elektronik mbh & co.<sep>precitec gesellschaft für präzisionstechnik und elektronik mbh &amp; co.entwicklungs- und vertriebs-kg waldstrasse 20d-7570 baden-baden 19de<sep>precitec gesellschaft fur prazisionstechnik und elektronik mbh & co.<sep>
+</APPLICANT>
+<INVENTOR>
+schmall karl-heinz<sep>schmall, karl-heinz<sep>schmall, karl-heinzmoncalierstrasse 5d-757 baden-badende<sep>schmall, karl-heinz<sep>schmall, karl-heinzmoncalierstrasse 5d-757 baden-badende<sep>
+</INVENTOR>
+<ABSTRACT>
+In an arrangement for measuring the distance (H) between a metallic workpiece (6.6a) and a relative to this moving machining tool (5), in particular for the distance control of autogenic, plasma and laser cutting machines, the tool (5) is at least One of the surface of the workpiece (6.6a) to be machined (6.6a) facing capacitive and / or inductive sensor means (2.4) associated with the electrical properties by virginning. or enlargement of the distance (H) to the work piece (6,6A) are flowable. Furthermore, the sensorinrich device (2,4) is connected to an electrical circuit (1.7) for ejection of the changes in the electrical properties of the Füh device (2.4). For the purpose of improving this arrangement, that even workpieces with an irregular surface can be processed a wall-free, a compensation sensor assembly (3) is provided in addition to the cleaning device (2.4) which extends in parallel with the direction of movement of the tool (5) Erhe bung (6a) of the workpiece (6) is arranged laterally on the tool (5). Moreover, the sensor device (2. 4) and the compensation sensor assembly (3) has at least each of the reactive resistor (3.4) influenced by the workpiece, wherein one of the reactive resistive (3) and the other capacitive (4) is, and that the reactive resistors (3,4) are dimensioned and electrically connected against each other, that a predetermined lateral approach of the work piece (6,6A) to the electrodes (8), or the tool (5) by amount about the same, but Electrically can be compensated for incoming changes in the inductive or capacitive blind resistance (3,4).
+</ABSTRACT>
+</TEXT>
+</DOC>

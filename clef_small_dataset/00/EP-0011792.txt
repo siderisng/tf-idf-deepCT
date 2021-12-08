@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011792
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07C-271/08 C07C-155/02 <main>C07C-125/06</main> C07C-333/00 A01N-47/22 C07C-333/10 A01N-47/18 C07C-271/00 A01N-47/12 C07C-325/00 A01N-47/20 A01N-47/10 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phenoxyacylurethanes, process for their preparation and their use as plant-growth regulators.
+</TITLE>
+<APPLICANT>
+bayer ag de  <sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+lurssen klaus dr<sep>schlee hans georg dr<sep>lurssen, klaus, dr.<sep>schlee, hans georg, dr.<sep>lürssen, klaus, dr.august-kierspel-strasse 89d-5060 bergisch-gladbach 2de<sep>schlee, hans georg, dr.flora-strasse 25d-5090 leverkusen 3de<sep>lurssen, klaus, dr.<sep>schlee, hans georg, dr.<sep>lürssen, klaus, dr.august-kierspel-strasse 89d-5060 bergisch-gladbach 2de<sep>schlee, hans georg, dr.flora-strasse 25d-5090 leverkusen 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  phenoxyacylurethanes of the formula  see diagramm : ep0011792,p21,f1  in which r represents alkyl with 1 to 6 carbon atoms, halogenalkyl with 1 to 6 carbon atoms and 1 to 5 halogen atoms, cycloalkyl with 5 to 7 carbon atoms or phenyl which is optionally substituted by halogen, halogenoalkyl with 1 to 3 carbon atoms and 1 to 5 halogen atoms, nitro and/or alkyl with 1 to 4 carbon atoms, r**1 represents alkyl with 1 to 6 carbon atoms, cycloalkyl with 5 to 7 carbon atoms or phenyl, r**2 represents alkyl with 1 to 3 carbon atoms, fluorine, chlorine or bromine, x represents oxygen or sulphur, m represents 1 or 2 and n represents integers from 1 to 3. 
+</ABSTRACT>
+<DESCRIPTION>
+phenoxyacylurethane, verfahren zu ihrer her und ihre verwendung als pflanzenxach@@rung ren die vorliegende erfindung betrifft neue phase @ urethane, ein verfahren zu ihrer herstellung ihre verwendung zur regulierung ces -- - -- - es ist bereits bekannt geworden, dass 2-chlor@@@- phosphonsäure pflanzenwuchsregulierende eigens af ten aufweist (vgl. de-os 2 050 245). die wirkung dieses stoffes ist jedoch, - vor allem bei nit aufwandmengen - , nicht immer ganz befziod weiterhin ist bekannt geworden, dass ein um zeichnung "off-shoot-t"(r) im handel hofer dukt auf basis von fettalkoholen mit 6, g, kohlenstoffatomen zur regulierung des pflanzbereich insbesondere zur unterdrückung des seizent aber nums bei tabak eingesetzt werden kann (vgl. farm.. chem. handbook 1975, ester publishing co., willoughby, ohio, 1975, pesticide dictionary d 147). in manchen fällen, vor aller bei niedrigen aufwandmengen, lässt allerdings auch die wirksamkeit dieses produkte zu wünschen übrig. es wurden nun neue phenoxyacylurethane der formel emi2.1 in welcher r für alkyl, halogenalkyl, cycloalkyl oder gege benenfalls substituiertes aryl steht, r1 für alkyl, cycloalkyl oder aryl steht, r2 für halogen oder alkyl mit 1 bis 4 kohlenstoff- atomen steht, x für sauerstoff oder schwefel steht, m für 1 oder 2 steht und n für ganze zahlen von o bis 3 steht, gefunden weiterhin wurde gefunden, dass man die phenoxyacylurethane der formel (i) erhält, wenn man iminokohlensäure derivate der formel emi3.1 in welcher r, r1 und x die oben angegebene bedeutung haben, r3 für alkyl mit 1 bis 4 kohlenstoffatomen steht, mit phenoxyacylhalogeniden der formel emi3.2 in welcher r2, m und n die oben angegebene bedeutung haben und hal für chlor oder brom steht, in gegenwart eines verdünnungsmittels umsetzt. ausserdem wurde nun gefunden, dass die phenoxyacylurethane der formel (i) sich durch starke pflanzenwuchsregulierende eigenschaften auszeichnen. reschenderweise zeigen die erfindungsgemässen phenylcylurethane der formel (i) eine wesentlich höhere anzenwuonsregulierende wirksmakeit als die aus dem der der technik bekannten stoffe 2-chlorethyl-phos @@@säure und off-shoot-t(r), welches hochaktive wirk tuffe gleicher wirkungsart sind. die erfindungsgemässen phenoxyacylurethane stellen somit eine wertvolle bereicherung der technik dar. die erfindungsgemässen phenoxyacylurethane sind durch die formel (i) allgemein definiert. in dieser formel steht r vorzugsweise für geradkettiges oder verzweig des alkyl mit 1 bis 6 kohlenstoffatomen, halogenalkyl hat 1 bis 6 kohlenstoffatomen und 1 bis 5 halogenato an, insbesondere fluor-, chlor- und/oder brom-atomen weiterhin steht r vorzugsweise für cycloalkyl mit 5 5 7 kohlenstoffatomen oder für gegebenenfalls durch halogen, insbesondere fluor, chlor oder brom, halogen alkyl mit 1 bis 3 kohlenstoffatomen und 1 bis 5 halogenatomen, insbesondere fluor- und chlor-atomen, nitro und/oder alkyl mit 1 bis 4 kohlenstoffatomen substitu rtes phenyl. r1 steht vorzugsweise für geradkettiges oder verzweigtes alkyl mit 1 bs 6 kohlenstoffatomen, cycloalkyl mit 5 bis 7 kohlenstoffatomen oder phenyl teht vorzugsweise für geradkettiges oder verzweig tes alkyl mit 1 bis 3 kohlenstoffatomen, fluor, chlor oder brom. x steht für sauerstoff oder schwefel, und m steht für 1 oder 2. in der formel (i) steht n vorzugsweise für ganze zahlen von 1 bis 3. als beispiel für erfindungsgemässe phenoxyacylurethane seien im einzelnen aufgeführt: emi5.1 emi5.2 <tb> r <sep> p.'
+</DESCRIPTION>
+<CLAIMS>
+3. mittel zur regulierung des pflanzenwachstums, ge kennzeichnet durch einen gehalt an mindestens einem    phenoxyacylurethan    der formel (i) gemäss anspruch 1.   4. verfahren zur regulierung des pflanzenwachstums, dadurch gekennzeichnet, dass man phenoxyacylurethane der formel (i) gemäss anspruch 1 auf die   pflanzen    oder ihren lebensraum einwirken lässt.   5. verwendung von phenoxyacylurethanen der formel (i) gemäss anspruch 1 zur regulierung des pflanzenwachs tums.   6. verfahren zur herstellung von pflanzenwachstumsregu lierenden mitteln, dadurch gekennzeichnet, dass man phenoxyacylurethane der formel (i) gemäss anspruch 1 mit streckmitteln und/oder oberflächenaktiven mit teln vermischt.  
+</CLAIMS>
+</TEXT>
+</DOC>

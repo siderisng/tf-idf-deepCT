@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017444
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23K-9/12</main> B23K-9/28 B23K-9/013 B23K-9/133 B23K-9/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrode drive and nozzle system for automatic air-carbon arc cutting and gouging torch.
+</TITLE>
+<APPLICANT>
+arcair cous  <sep>arcair company<sep>arcair companyp.o. box 406lancaster, ohio 43130us<sep>arcair company<sep>
+</APPLICANT>
+<INVENTOR>
+coughlin william joseph<sep>hoffman stephen allen<sep>hummel jerry ralph<sep>coughlin, william joseph<sep>hoffman, stephen allen<sep>hummel, jerry ralph<sep>coughlin, william joseph248 seneca drivelancaster ohio 43130us<sep>hoffman, stephen allen400 s.e. lake road rt. 4lancaster ohio 43130us<sep>hummel, jerry ralph1811 beacon streetlancaster ohio 43130us<sep>coughlin, william joseph <sep>hoffman, stephen allen<sep>hummel, jerry ralph  <sep>coughlin, william joseph248 seneca drivelancaster ohio 43130us<sep>hoffman, stephen allen400 s.e. lake road rt. 4lancaster ohio 43130us<sep>hummel, jerry ralph1811 beacon streetlancaster ohio 43130us<sep>
+</INVENTOR>
+<ABSTRACT>
+an automatic air-carbon arc cutting and gouging torch  having drive means for the elongated electrode consisting of  opposed wheels (30, 56) biased toward the electrode for  frictional contact to drive the electrode by driving one of the  wheels.  each wheel can be adjusted about a pivot (44,58)  point to compensate for curvature o the electrode, changes  in diameter, or mis-aligned joints in successive electrodes.   the torch includes an improved nozzle (70) to conduct both  current and process air to the electrode thus lowering the  operating temperature of the torch.  
+</ABSTRACT>
+</TEXT>
+</DOC>

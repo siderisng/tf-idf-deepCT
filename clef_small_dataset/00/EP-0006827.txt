@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006827
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23H-9/00 B23B-27/06 B23P-15/28 <main>B23P-1/00</main> B28D-5/00 B23B-27/00 B23B-27/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of working polycristalline synthetic diamond.
+</TITLE>
+<APPLICANT>
+diamond sa ch <sep>diamond s.a.<sep>diamond s.a.via dei patrizi 5ch-6616 losone-locarnoch<sep>diamond sach <sep>diamond s.a.  <sep>
+</APPLICANT>
+<INVENTOR>
+marazzi silvioch<sep>marazzi, silvio<sep>marazzi, silvioch-6654 caviglianoch<sep>marazzi silvioch<sep>marazzi, silvio<sep>marazzi, silvioch-6654 caviglianoch<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method for shaping processing of polycrystalline, synthetic diamond, characterized in that the processing is performed by spark erosion, whereby a current at low voltage flows on a surface to be worked between the diamond and an electrode with essentially a constant mean current density. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur bearbeitung von polykristallinem, sythi- schem diamant die vorliegende erfindung betrifft ein verfahren zur formgebenden bearbeitung von polykristallinem, syndietischem diamant. es war bisher kaum möglich und wirtschaftlich praktisch ausgeschlossen, teile, insbesondere werkzeuge, aus synthetischem oder natrülichem diamant mit beliebig geformten kanten oder flächen herzustellen. die erfindung geht von der aufgabe aus, hier abhilfe zu schaffen und auf wirtschaftlichem wege praktisch beliebig geformte diamantteile, insbesondere werkzeuge herzustellen. die lösung besteht darin, dass die bearbeitung mittels elektroerosion , bei welcher ein strom bei niedriger spannung auf einer bearbeitungsfläche im wesentlichen mit gleicher mittlerer stromdichte zwischen dem diamanten und einer elektrode fliesst, erfolgt. da synthetische, polykristalline diamanten im allgemeinen sinterkörper mit einem metallischen und somit elektrisch leitenden bindematerial sind, ist ein bearbeitung durch elektroerosion möglich, wobei an sich nur das bindematerial abgebaut wird. die erreichte rauhigkeit von schnittkanten an werkzeugen liegt in einem bereich von 0,1-0,04 #aim, was zu einer sehr hohen oberflacheng"ute, bzw. formgenauigkeit führt. dabei wird ein verhältnismässig rascher materialbetrag erreicht, mit einer eindringgeschwindigkeit der elektrode in der grössenordnung von 0,25 mm/min. die erfindung wird im folgenden anhand einiger ausführungsbeispiele von herzustellenden teilen näher erläutert. fig. 1 und 2 zeigen ein abrichtwerkzeug in stirnansicht bzw. draufsicht, wobei in fig. 2 auch die erosionselektro de angedeutet ist. fig. 3 und 4 zeigen eine stirnansicht bzw. eine draufsicht eines profilierten zerspanungswerkzeugs, und fig. 5 und 6 zeigen einen schnitt und eine draufsicht auf ein schnittwerkzeug mit profilierter spanfläche. das in fig. 1 gezeigte abrichtwerkzeug weist auf einem geeigneten, z.b. metallischen träger 1 eine schicht 2 polykristallinen, synthetischen diamants auf. die herstellung eines rohlings mit dem träger 1 und der sicht 2 ist an sich bekannt. als diamant kann z.b. eines der unter den bezeichnungen "com- pax" oder syndite bekannten materialien zur anwendung gelangen. die vorderseite wird nun durchgehend, also in beiden schichten 1 und 2 profiliert, indem mittels einer erosionselektrode 3, die in fig. 2 strichpunktiert angedeutet ist, nuten 4 erodiert werden, so dass zähne 5 entstehen. die elektrode 3 hat genau das gegenprofil zu dem zu erzeugenden profil. die fig. 3 und 4 zeigen ein weiteres werkzeug mit profilierter zerspanungsfläche. in diesem falle ist eine elektrode oder sind gegebenenfalls mehrere miteinander oder teils nacheinander einzusetzende elektroden vorzusehen, die nicht nur die pro filforin an sich zu erodieren gestatten sondern auch die erforderlichen freiwinkel bzw. freiflächen 6 formen. im übrigen sind entsprechende teile gleich bezeichnet wie in fig. 1 und 2. die fig. 5 und 6 zeigen ein weiteres zerspanungswerkzeug mit profilierter spanfläche. in diesem falle wird eine erosionselektrode benützt, die von oben gegen die diamantschicht 2 abgesenkt wird, um das profil der spanfläche bzw. die flache ausnehmung 7 zu formen. in einem zweiten arbeitsgang wäre dann auch die freifläche 8 durch erosion zu formen, falls sie nicht am rohling geformt wird. wie soeben angedeutet, kann die formgebung teils am rohling bei der herstellung der synthetischen, polykristallinen diamantschicht 2 auf dem träger 1 erfolgen. so könnten z.b. die zähne 5 nach fig. 1 und 2, die profilform nach fig. 4 und die
+</DESCRIPTION>
+<CLAIMS>
+   patentansprijeche      1. verfahren zur formgebenden bearbeitung von polykristallinem synthetischem diamant, dadurch gekennzeichnet, dass die bearbeitung mittels elektroerosion, bei welcher ein strom bei niedriger spannung auf einer bearbeitungsflä che im wesentlichen mit gleicher mittlerer stromdichte zwi sch dem diamant und der elektrode fliesst, erfolgt.   2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass der teil bei der herstellung des rohlings vorgeformt und durch elektroerosion in die endgültige form gebracht wird.  
+</CLAIMS>
+</TEXT>
+</DOC>

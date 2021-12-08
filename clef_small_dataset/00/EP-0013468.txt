@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013468
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29D-3/02 <main>B32B-5/26</main> B32B-5/22 B29C-51/08 B29C-70/00 B32B-5/26 B29C-51/14 B32B-17/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fibrous shaped article, process for producing said article, and use of said article as soundproofing or heat insulating material for buildings.
+</TITLE>
+<APPLICANT>
+teijin ltdjp<sep>teijin limited<sep>teijin limited11 minami honmachi 1-chome higashi-kuosaka-shi osaka-fujp<sep>teijin limited<sep>
+</APPLICANT>
+<INVENTOR>
+saiki noritsugu<sep>segawa yasuhiko<sep>saiki, noritsugu<sep>segawa, yasuhiko<sep>saiki, noritsugu64-30, 2-chome, yamate-choiwakuni-shi yamaguchi-kenjp<sep>segawa, yasuhiko1-28-4-208, ozu-choiwakuni-shi, yamaguchi-kenjp<sep>saiki, noritsugu<sep>segawa, yasuhiko<sep>saiki, noritsugu64-30, 2-chome, yamate-choiwakuni-shi yamaguchi-kenjp<sep>segawa, yasuhiko1-28-4-208, ozu-choiwakuni-shi, yamaguchi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a fibrous shaped article having a surface with raised and  depressed portions, said fibrous article consisting of a unitary  laminated structure resulting from the compression molding  under heat of (a) a heat compression-moldable nonwoven  fibrous web and (b) a nonwoven fibrous sheet, said fibrous  sheet (b) being laminated to at least one surface of said fibr­ ous web (a); said fibrous web (a) having a compression  stress, at 10% compression at the temperature of said com­ pression molding, of at least 0. 5 g/cm²; said nonwoven fibr­ ous sheet (b) consisting of a continuous unitary reticulated  sheet structure of an assembly of many fibers of a thermop­ lastic polymer, said constituent fibers having an initial mod­ ulus of not more than 5 g/denier and an elongation of at least  20% both at the temperature of said compression molding  and being interconnected in a spaced-apart relationship, and  said nonwoven fibrous sheet (b) having a plastic deformation  ratio, at 30% elongation at the temperature of said compres­ sion molding, of at least 50% and an elongation stress, at 30%  elongation at the temperature of said compression molding,  of not more than 0. 15 kg/cm; and said web (a) and said sheet  (b) satisfying the following relation:   s≦ 0. 03 t   in which t is the compression stress (g/cm²) of said web (a) at  10% compression at the temperature of said compression  molding, and s is the elongation stress (kg/cm) of said sheet  (b) at 30% elongation at the temperature of said compression  molding.  this article is useful as a sound-proofing material,  heat insulating material or cushioning material, for example  in buildings or vehicles.  
+</ABSTRACT>
+</TEXT>
+</DOC>

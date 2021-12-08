@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000355
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-409/12 A61K-31/495 A61K-31/4427 C07D-409/00 C07D-403/00 C07D-405/00 C07D-209/16 A61K-31/44 A61K-31/404 C07D-405/12 A61K-31/40 A61K-31/445 C07D-401/00 <main>C07D-209/14</main> A61K-31/403 C07D-209/30 A61P-9/00 C07D-403/12 A61K-31/443 A61P-9/12 C07D-209/00 A61K-31/4433 C07D-209/18 C07D-209/14 C07D-401/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+new indole derivatives, processes for their preparation, and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+sandoz agch<sep>sandoz ag<sep>sandoz aglichtstrasse 354002 baselch<sep>sandoz ag<sep>
+</APPLICANT>
+<INVENTOR>
+stadler paul dr<sep>troxler franz dr<sep>stadler, paul, dr.<sep>troxler, franz, dr.<sep>stadler, paul, dr.jakobsweg 7ch-4105 biel-benkench<sep>troxler, franz, dr.drosselstrasse 39ch-4103 bottmingench<sep>stadler, paul, dr.<sep>troxler, franz, dr.<sep>stadler, paul, dr.jakobsweg 7ch-4105 biel-benkench<sep>troxler, franz, dr.drosselstrasse 39ch-4103 bottmingench<sep>
+</INVENTOR>
+<ABSTRACT>
+indole compounds useful for the treatment of hypertension,  of formula    wherein n is 2 or 3, a is 1,4-cyclohexylidene or trimethylene  and r₁ is h or alkyl, or a together with nr₁ is 4-piperidyl,  r₂ is hydrogen or alkyl, r₃ is alkyl, cycloalkyl, amino, alkylamino,  dialkylamino, phenylamino, unsubstituted or substituted  phenyl or benzyl, pyridylmethyl or an heterocycle, r₄  is hydrogen, chlorine, bromine or alkyl, r₅ is hydrogen,  alkyl, alkoxy or alkylthio, and x is -co- or -cs, a process  for their production which comprises   a) acylating a compound of formula ii    wherein n, a and r₁ to r₅ are as defined above, or   b) condensing a compound of formula iii    wherein n, r₄ and r₅ are as defined above,  and y is a leaving group,  with a compound of formula iv    wherein a, r₁ to r₃ and x are as defined above.  
+</ABSTRACT>
+</TEXT>
+</DOC>

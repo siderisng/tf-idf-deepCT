@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005241
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-91/26</main> D21H-17/00 D21H-3/12 D21H-17/56 C08G-73/02 D21H-17/54 C08G-73/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polyalkylene polyamines containing quaternary ammonium groups, method for their preparation and their use as auxiliary agents in paper making.
+</TITLE>
+<APPLICANT>
+bayer ag de  <sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+lehmann wolfgang dr<sep>lobach wilfried dr<sep>muller friedhelm dr<sep>lehmann, wolfgang, dr.<sep>lobach, wilfried, dr.<sep>muller, friedhelm, dr.<sep>lehmann, wolfgang, dr.carl-rumpff-strasse 7d-5090 leverkusen 1de<sep>löbach, wilfried, dr.flutgraben 17d-5300 bonn 3de<sep>müller, friedhelm, dr.zum hahnenberg 62d-5068 odenthalde<sep>lehmann, wolfgang, dr.<sep>lobach, wilfried, dr.  <sep>muller, friedhelm, dr.<sep>lehmann, wolfgang, dr.carl-rumpff-strasse 7d-5090 leverkusen 1de<sep>löbach, wilfried, dr.flutgraben 17d-5300 bonn 3de<sep>müller, friedhelm, dr.zum hahnenberg 62d-5068 odenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+Water-soluble, non-self-crosslinking quaternary dialkylammonium groups-containing polyalkylene polyamines, which by reacting polyalkylene polyamines of the general formula H₂N- [CH₂-H- (CH₂) Y-NH] XH in the R hydrogen or methyl, Y equal or different the number 0 or 1 and XA number of 2 to 15, and bifunctional compounds of the general formula in the Z are a number of 1 to 6, R₁, R₂ low alkyl or lower hydroxyalkyl are obtained, are suitable as a tool for papermaking.
+</ABSTRACT>
+</TEXT>
+</DOC>

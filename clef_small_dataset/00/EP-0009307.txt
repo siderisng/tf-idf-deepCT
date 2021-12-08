@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009307
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/49 <main>G01N-15/02</main> G01N-21/47 G02B-21/06 G01N-15/02 A61B-5/14 G01N-33/48 A61B-5/145 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for discriminating platelets from red blood cells in a blood sample.
+</TITLE>
+<APPLICANT>
+ortho diagnostic systems incus<sep>ortho diagnostic systems inc.<sep>ortho diagnostic systems inc.one johnson &amp; johnson plazanew brunswick new jersey 08933-7003us<sep>ortho diagnostic systems inc.<sep>
+</APPLICANT>
+<INVENTOR>
+hansen jr william peter<sep>hansen jr, william peter<sep>hansen jr, william peter86 cedar street rfd no. 2middleboro, massachusettsus<sep>hansen jr, william peter<sep>hansen jr, william peter86 cedar street rfd no. 2middleboro, massachusettsus<sep>
+</INVENTOR>
+<ABSTRACT>
+a diluted whole blood sample is hydrodynamically  focused to a given point.  a light beam is transversely  focused on the same point and the principles of dark  field microscopy are utilized, detecting scattered light  and thereby discriminating platelets from red blood cells  based on cell volume and refractivity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000459
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arrangement for the remote display of progressive information
+</TITLE>
+<APPLICANT>
+gottesman victor<sep>gottesman, victor<sep>
+</APPLICANT>
+<INVENTOR>
+gottesman victor<sep>gottesman, victor<sep>
+</INVENTOR>
+<ABSTRACT>
+the automatic link system includes several transmitters, each including a coupler for connecting it to one line of a telephone network.  a receiver is connected to the network, the receiving including an automatic linking device.  at least one transmitter includes a monitoring circuit which is actuated either when the transmitter is about to operate or all the time.  the monitoring circuit indicates when the transmitter is connected to the receiver.  the transmitter or receiver coupling may include an input line for connection to the network and at least two primary output lines.  a secondary line is directly connected to the output line, a control signal responsive switching device alternately connecting the input line to the primary output lines.  the system may be used for booking hotel rooms, and allows direct connection of external subscribers to an automatic answering system.  interrupters enable room reservations and the external calls to be recorded on a central system so that an immediate reply may be given.  the system may also be used in railway stations, hospitals and airports. 
+</ABSTRACT>
+</TEXT>
+</DOC>

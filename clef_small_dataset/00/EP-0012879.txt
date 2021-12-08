@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012879
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-32/00 G11B-23/28 B41J-33/14 G11B-23/087 <main>B41J-33/42</main> B41J-33/42 B41J-35/28 B41J-33/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+once reversible ribbon cartridge for an impact printer.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+bemis john daniel<sep>firth iii rowland van dyke<sep>goff jr willie<sep>bemis, john daniel<sep>firth iii, rowland van dyke<sep>goff, jr., willie<sep>bemis, john daniel2105 brandywine laneaustin, texas 78758us<sep>firth iii, rowland van dyke11712 spotted horse driveaustin, texas 78759us<sep>goff, jr., willie3908 pebble pathaustin, texas 78731us<sep>bemis, john daniel<sep>firth iii, rowland van dyke  <sep>goff, jr., willie<sep>bemis, john daniel2105 brandywine laneaustin, texas 78758us<sep>firth iii, rowland van dyke11712 spotted horse driveaustin, texas 78759us<sep>goff, jr., willie3908 pebble pathaustin, texas 78731us<sep>
+</INVENTOR>
+<ABSTRACT>
+Reversible ribbon cartridge structure for imprinting, allowing only one reversal of the cartridge in the printer, for the purpose of using the entire width of the ribbon. The cartridge comprises a housing (10) containing the coils (12, 13) of the ribbon (11). A rotary finger (15) of positioning the cartridge extends on one side of the housing (10). This finger (15) has an eccentric base (71) which can be manually irreversibly rotated with an initial position to a second position. When the finger (15) is in its initial position the cartridge can be inserted on receiving rails (16, 17) of a mechanism (14) of the ribbon, provided that the finger (15) is then Associated with the right rail (16) of the drive mechanism (14), the eccentric base (71) prohibiting the introduction of the finger (15) into the left rail (17). After depletion of the ribbon on the coil then debitractor, the cartridge is returned to reverse the role of the coils. The placement of the returned chetro is only possible if the finger (15) was pre-brought in its second position, position where it is permanently locked to prohibit any additional reversal of the cartridge.
+</ABSTRACT>
+</TEXT>
+</DOC>

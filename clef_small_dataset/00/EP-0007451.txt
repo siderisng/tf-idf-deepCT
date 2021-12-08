@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007451
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41F-27/12 B41F-13/08 B41F-13/16 <main>B41F-27/12</main> B41F-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+register system for correctly adjusting a flexible printing plate.
+</TITLE>
+<APPLICANT>
+heidelberger druckmasch agde<sep>heidelberger druckmaschinen aktiengesellschaft<sep>heidelberger druckmaschinen aktiengesellschaftkurfürsten-anlage 52-60 postfach 10 29 40d-69019 heidelbergde<sep>heidelberger druckmaschinen aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+jeschke willi<sep>jeschke, willi<sep>jeschke, williberghalde 68d-6900 heidelbergde<sep>jeschke, willi  <sep>jeschke, williberghalde 68d-6900 heidelbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a register system for passer-containing alignment of a flexible pressure plate on the plate cylinder of a rotary printing machine. Already in the production of the plate copy in the film and in the pressure plate at the pressure start by means of one and the same passport punch each at least two exact, preferably wise circular, carcasses (14) are introduced. In the platter cylinder on the side facing the edge of the printing side are preferably arranged to adjustable intermediates up to a maximum of at the level of the lower pressure plate surface (8), the intermediate distance corresponds exactly to that of the cartridges. The fitting marks are slightly smaller geometric surfaces than opposite the adjustment punches and their surface is carried out contrary to its surroundings, so that there are conastically shadow joints from a few tenths of a few tenths of a few tenths between the fitting marks and the adjustment punches. For passer-containing alignment of the known manner clamped in a printing plate clamping device, their adjusting punches are brought into contact with the fitting marks of the plate cylinder in conflict with the fitting marks of the plates until a concentric agreement is between them.
+</ABSTRACT>
+</TEXT>
+</DOC>

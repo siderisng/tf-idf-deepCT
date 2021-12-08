@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004577
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-27/00 B01J-31/00 C07C-45/75 C07C-67/00 <main>C07C-47/19</main> B01J-23/00 C07C-47/19 C07B-61/00 C07C-47/02 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing 2,2-dimethylol alkanals.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+immel otto dr<sep>quast hein dr<sep>schwarz hans-helmut dr<sep>immel, otto, dr.<sep>quast, hein, dr.<sep>schwarz, hans-helmut, dr.<sep>immel, otto, dr.immenhofweg 26d-4150 krefeldde<sep>quast, hein, dr.campendonkstrasse 1d-4150 krefeldde<sep>schwarz, hans-helmut, dr.ratherstrasse 90d-4150 krefeld 1de<sep>immel, otto, dr.  <sep>quast, hein, dr.<sep>schwarz, hans-helmut, dr.<sep>immel, otto, dr.immenhofweg 26d-4150 krefeldde<sep>quast, hein, dr.campendonkstrasse 1d-4150 krefeldde<sep>schwarz, hans-helmut, dr.ratherstrasse 90d-4150 krefeld 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing 2,2-dimethylolal channels by reacting aldehydes with excess formaldehyde in the presence of bases such as hydroxides and / or carbonates of the alkali and / or alkaline earth metal and / or unbranched tertiary amines.By hydrogenation of 2,2-dimethylolalkanals, the corresponding trimethylolalkanes can be prepared, which are intermediates of technical meaning for the production of plasticizers, paint raw materials, polyesters and polyurethanes.2,2-dimethylolalkanals are also required for the production of dimethylolcarboxylic acids, for dyes and pesticides.
+</ABSTRACT>
+</TEXT>
+</DOC>

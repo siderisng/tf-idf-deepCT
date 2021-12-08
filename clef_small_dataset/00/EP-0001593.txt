@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001593
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-67/05 <main>C07C-67/05</main> B01J-27/00 C07C-69/16 B01J-23/40 C07C-69/00 B01J-23/00 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of butenediol diacetate.
+</TITLE>
+<APPLICANT>
+basf agde  <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+hartig juergen dr<sep>schnabel rolf dr<sep>weitz hans-martin dr<sep>hartig, juergen,dr.<sep>schnabel, rolf, dr.<sep>weitz, hans-martin,dr.<sep>hartig, juergen,dr.londonder ring 72d-6700 ludwigshafende<sep>schnabel, rolf, dr.tilsiter strasse 9d-6707 schifferstadtde<sep>weitz, hans-martin,dr.auf dem koeppel 40d-6702 bad duerkheim 1de<sep>hartig, juergen,dr. <sep>schnabel, rolf, dr.  <sep>weitz, hans-martin,dr.<sep>hartig, juergen,dr.londonder ring 72d-6700 ludwigshafende<sep>schnabel, rolf, dr.tilsiter strasse 9d-6707 schifferstadtde<sep>weitz, hans-martin,dr.auf dem koeppel 40d-6702 bad duerkheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the manufacture of butenediol diacetate or a butenediol diacetate isomer mixture by reacting butadiene, oxygen and acetic acid over a catalyst based on palladium or platinum, characterized in that instead of butadiene there is used a butadiene-containing mixture which is formed in the thermal cracking of higher paraffin hydrocarbons or in the dehydrogenation of n-butane and/or butene mixtures, and a catalyst is used which contains minor amounts of tellurium in addition to palladium or platinum. 
+</ABSTRACT>
+</TEXT>
+</DOC>

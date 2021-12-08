@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001952
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-33/00 H01L-31/102 H04B-10/28 H01L-31/12 <main>H01L-31/00</main> H01L-31/10 H01L-31/109 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diode emitting and receiving light rays of the same predetermined wavelength.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>"thomson-csf"- scpi <sep>
+</APPLICANT>
+<INVENTOR>
+hirtz pierre<sep>hirtz, pierre<sep>hirtz, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>hirtz, pierre<sep>hirtz, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an emitting and receiving lighting diode in the same wavelength.A first transmitting layer (1) is separated from the second receiving layer (2) and is of the type of conductivity opposite to that of the first, this layer having a large bandwidth forbidden, the transmission and reception functions thus disjointed theone another.The invention applies to the optical fiber telecommunication system.
+</ABSTRACT>
+</TEXT>
+</DOC>

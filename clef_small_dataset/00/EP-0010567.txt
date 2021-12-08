@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010567
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01R-17/12</main> H01R-9/05 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+high-frequency plug connector for a coaxial cable.
+</TITLE>
+<APPLICANT>
+hirschmann radiotechnikde<sep>richard±hirschmann radiotechnisches werk<sep>richard hirschmann radiotechnisches werkrichard-hirschmann-strasse 19 postfach 11073702 esslingende<sep>richard hirschmann radiotechnisches werk<sep>
+</APPLICANT>
+<INVENTOR>
+mayer hans-dietrich ing grad<sep>mayer, hans-dietrich, ing. grad.<sep>mayer, hans-dietrich, ing. grad.schulstrasse 19d-7061 baltmannsweiler-hohengehrende<sep>mayer, hans-dietrich, ing. grad.  <sep>mayer, hans-dietrich, ing. grad. schulstrasse 19d-7061 baltmannsweiler-hohengehrende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  high-frequency plug connector (1) for a coaxial cable (19) with a flexible, preferably braided outer conductor (20) comprising a pin part (4) and a socket part (5) which are to be connected to the cable inner conductor (6), and further comprising an outer conductor sleeve (2) held in coaxial position by means of an insulating body (3), as well as a locking sleeve (13) surrounding the cable and a union nut (9) which is to be screwed onto the outer conductor sleeve either directly or through the intermediary of an additional threaded fitting (8), said union nut (9) being, when the plug connector is assembled, pressed with an inner surface (12), which tapers towards the coaxial cable, against a mating tapered outer surface (18) of the cable-side end part of the locking sleeve (13) which has the form of a collet chuck due to longitudinal slits (16), wherein the cable outer conductor (20) can be pressed against the outer conductor sleeve (2) by means of a tapered inner surface of the plug-side end part (19) of the locking sleeve (13) whereby the tapered inner surface exhibits elevations preferably in the form of axial longitudinal ribs (25) which are engaged by corresponding recesses in the surface of the outer conductor sleeve (2). 
+</ABSTRACT>
+</TEXT>
+</DOC>

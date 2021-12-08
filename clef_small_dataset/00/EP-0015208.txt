@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015208
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01K-23/06 F02G-5/04 F02G-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for recovering the waste heat of a supercharged internal combustion engine.
+</TITLE>
+<APPLICANT>
+semt fr<sep>societe d'etudes de machines thermiques s.e.m.t.<sep>societe d'etudes de machines thermiques s.e.m.t.2, quai de seinef-93202 saint-denisfr<sep>
+</APPLICANT>
+<INVENTOR>
+daugas claudefr<sep>daugas, claude<sep>daugas, claude2, rue ernest renanf-78340 les clayes s/boisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention consists in producing a supplement of energy by use of a rankine cycle, and for that, at prehaud iron the working liquid used by thermal exchange in (33) with the air coming out of the compressor (16) ofovereating the engine (10) internal combustion.The invention relates to the recovery of thermic energy only on a supercharged internal combustion engine.
+</ABSTRACT>
+</TEXT>
+</DOC>

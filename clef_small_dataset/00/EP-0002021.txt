@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002021
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-21/06 B01J-29/00 <main>C07C-17/34</main> C07C-17/00 C07C-21/00 C07B-61/00 C07C-67/00 C07C-17/25 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+catalytic dehydrohalogenation process.
+</TITLE>
+<APPLICANT>
+goodrich co b fus <sep>the b.f. goodrich company <sep>the b.f. goodrich company500 south main streetakron, ohio 44318us<sep>the b.f. goodrich company<sep>
+</APPLICANT>
+<INVENTOR>
+magistro angelo josephus<sep>magistro, angelo joseph<sep>magistro, angelo joseph11017 brookview drivebrecksville ohio 44141us<sep>magistro, angelo joseph<sep>
+</INVENTOR>
+<ABSTRACT>
+there is presented an improved process for making  vinyl chloride from ethylene dichloride.  specifically, the  improvement comprises cracking ethylene dichloride in  the presence of a zeolite which has been treated or reacted  with a lewis acid.  this enables one to conduct the dehydrohalogenation  or cracking operation at lower temperatures  than usually employed with increased conversion  of ethylene dichloride to vinyl chloride.  
+</ABSTRACT>
+</TEXT>
+</DOC>

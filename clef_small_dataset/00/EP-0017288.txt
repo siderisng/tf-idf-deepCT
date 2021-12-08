@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017288
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16D-7/02</main> F16D-7/00 F16D-13/08 G11B-15/46 G11B-15/30 G11B-15/26 G11B-15/50 F16D-13/00 F16D-7/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adjustable torsion-spring clutch.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken <sep>
+</APPLICANT>
+<INVENTOR>
+hoefnagels johannes franciscus<sep>ruyten henricus maria<sep>hoefnagels, johannes franciscus<sep>ruyten, henricus maria<sep>hoefnagels, johannes franciscusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>ruyten, henricus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>hoefnagels, johannes franciscus <sep>ruyten, henricus maria  <sep>hoefnagels, johannes franciscusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>ruyten, henricus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+an adjustable torsion-spring clutch, in particular for an  apparatus for recording and/or playing back signals on a  magnetic tape, comprising first and second coaxial clutch  sections (15, 17) which are rotatable about an axis of rotation  (13).  a coaxially arranged cylindrical helical torsion spring  (32) is connected at one end (33) to the first clutch section  (15).  the second clutch section (17) comprises a sleeve (23)  which is substantially circular in the cross-section perpendi­ cular to the axis of rotation.  turns of the spring are wrapped  around the sleeve, which turns are adjustable in diameter for  determining the torque to be transmitted between the clutch  sections.  the sleeve of the second clutch section has a  substantially circular cylindrical shape and is adjustable in  diameter.  
+</ABSTRACT>
+</TEXT>
+</DOC>

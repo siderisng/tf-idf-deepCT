@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010659
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+A47B-21/00 A47B-21/03 G06F-1/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+desk type console for a data or text processing device.
+</TITLE>
+<APPLICANT>
+kienzle apparate gmbhde<sep>kienzle apparate gmbh<sep>mannesmann kienzle gmbhheinrich-hertz-strasse 45d-78052 villingen-schwenningende<sep>
+</APPLICANT>
+<INVENTOR>
+bartholomaei guntherde<sep>brendel fred de<sep>field roger de  <sep>schultes herbert hde<sep>bartholomaei, gunther<sep>brendel, fred<sep>field, roger<sep>schultes, herbert h.<sep>bartholomäi, gunther freiburgerstrasse 55d-7730 villingen-schwenningende<sep>brendel, fredostpreussenstrasse 12d-8012 ottobrunnde<sep>field, rogercincinatte 41d-8000 münchen 90de<sep>schultes, herbert h.rodelbahnstrasse 1d-8080 fürstenfeldbruckde<sep>
+</INVENTOR>
+<ABSTRACT>
+the desk type console (1) consists of a keyboard (2), a screen (3) and a document holder (4).  the screen and the rear supporting surface (16) of the document holder are arranged contiguously, contacting each other centrally, behind the alpha-element (5) of the keyboard, the screen surface (11) being arranged obliquely.  a loosely arranged additional document holder can also be displaced into a position in which the alpha-element (5) of the keyboard is covered.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

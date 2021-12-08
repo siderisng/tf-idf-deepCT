@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001792
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-11/08 C02F-11/06 C02F-1/74 C02F-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for treating waste water.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+albers arnold drde <sep>elinkmann hans-gerdde  <sep>paszthory emmerich drde<sep>ringel erich drde<sep>albers, arnold, dr.<sep>elinkmann, hans-gerd<sep>paszthory, emmerich, dr.<sep>ringel, erich, dr.<sep>albers, arnold, dr.stroofstrasse 10d-6230 frankfurt/main 80de<sep>elinkmann, hans-gerdkallestrasse 6d-6000 frankfurt/mainde<sep>paszthory, emmerich, dr.königsteiner strasse 18d-6238 hofheim am taunusde<sep>ringel, erich, dr.sandweg 7d-6233 kelkheim taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+the waste water is pretreated with hot nitric acid or nitrates and the remaining impurities are then removed by biodegradation. 
+</ABSTRACT>
+</TEXT>
+</DOC>

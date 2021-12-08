@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005658
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-14/70 A61K-38/00 C07K-14/435 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+peptide derivatives analogue to encephalines, process for their preparation and their therapeutical application.
+</TITLE>
+<APPLICANT>
+brun lab sa lefr<sep>laboratoire le brun s.a. societe dite:<sep>laboratoire le brun s.a. société dite:5 rue de lübeckf-75116 parisfr<sep>
+</APPLICANT>
+<INVENTOR>
+lecomte jeanne-mariefr <sep>roques bernard fr<sep>schwartz jean-charlesfr<sep>lecomte, jeanne-marie<sep>roques, bernard<sep>schwartz, jean-charles<sep>lecomte, jeanne-marie5, rue de lübeckf-75116 parisfr<sep>roques, bernard4 avenue de l'observatoiref-75006 parisfr<sep>schwartz, jean-charles2 ter d'alésiaf-75014 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to peptide derivatives corresponding to the general formula     tyr - d ala - gly - a - b - nh - cnh2n - y,      1       2      3    4   5  in which  a is phe or pf-phe,  b is met, leu, monofluoro-leu, pro, monofluoro-pro or a single bond, y is a halogen atom; a c1-c4-alkyl radical mono- or polysubstituted by at least one group chosen from a halogen atom and a phenyl group optionally substituted by at least one halogen atom; an amino radical -nhx; a sulphamido radical -nhso2x; a carbonyl radical -cox; an acylamino radical -nhco(ch2)mx in which x is a halogen atom; a c1-c4 alkyl radical mono- or polysubstituted by a halogen atom; phenyl optionally mono-, di- or trisubstituted by radicals chosen from a halogen atom, a c1-c4 mono- or polyhaloalkyl group or c1-c4 alkoxy; benzyhydryl optionally substituted by at least one halogen atom; alpha - or  beta -naphthyl optionally substituted by a halogen atom; a c1-c4 alkyl, c1-c4 alkoxy or di(c1-c4)alkylamino group; or a residue of a mono- or polycyclic radical chosen from thiophene, quinoline, isoquinoline, acridine and pyridine; m is o or a number from 1 to 4, and n is o or a number from 1 to 6, and their addition salts with pharmaceutically acceptable acids.  these derivatives have especially analgesic, psychotropic and antidiarrhoeal properties. 
+</ABSTRACT>
+</TEXT>
+</DOC>

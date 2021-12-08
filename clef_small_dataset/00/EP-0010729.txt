@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010729
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-35/34 H01H-1/58 H01H-35/24 H01H-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pressure responsive switch.
+</TITLE>
+<APPLICANT>
+eaton gmbhde<sep>eaton gmbh & co. kg<sep>eaton gmbh &amp; co. kgd-7778 markdorfde<sep>
+</APPLICANT>
+<INVENTOR>
+brombacher wernerde<sep>brombacher, werner<sep>brombacher, wernerarenbergstrasse 11d-7734 klengende<sep>
+</INVENTOR>
+<ABSTRACT>
+a pressure responsive switch, for control dependent on low pressure, contains a socket (1) in which a diaphragm (4), to be acted on by a pressure difference, is clamped, sealed at the edges, a connecting device (2) opening into the socket cavity (13) which is constrained by the socket (1) and the diaphragm (4).  arranged in the socket cavity (13) there is a snap switch (7), operated by the diaphragm (4), the connecting pieces (23) of which lead through the base (3) of the socket (1).  the diaphragm (4) is designed as a cover of the socket (1) and is unconstrained on the outside.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

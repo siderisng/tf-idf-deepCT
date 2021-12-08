@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002727
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01D-33/00</main> B01D-33/00 C02F-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for the continuous filtration of liquids.
+</TITLE>
+<APPLICANT>
+perc srl it <sep>perc s.r.l.<sep>perc s.r.l.via defendente ferrari 11i-10036 settimo torineseit<sep>perc s.r.l. <sep>
+</APPLICANT>
+<INVENTOR>
+schade horst ing-grad<sep>schade, horst, ing.-grad.<sep>schade, horst, ing.-grad.fürstinstrasse 14d-4300 essen 14de<sep>schade, horst, ing.-grad.<sep>schade, horst, ing.-grad.fürstinstrasse 14d-4300 essen 14de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the continuous filtration of liquids, more particularly for the purification of liquids, e. g.  effluents or the like, in which the liquid is taken through a bed of particulate or granular filter material, e. g.  sand, in motion, the liquid for filtration being passed through a downwardly flowing bed of filter material, starting from the bottom to succesive places (stages) at the top, transversely of the direction of flow the filter material, said liquid passing from one side of the bed to the other alternately, characterized in that the bed of filter material is maintained in an upright cylindrical annular chamber from which filter material is continuously withdrawn hydraulically at the bottom and into which prepared filter material is recycled from above, the liquid for filtration being introducted into the interior through the bed from the outside radially to the centre and being withdrawn radially outwards in the opposite direction at a higher place, and a hydraulic flow directed in opposition to the flow movement is producted in the bed of filter material. 
+</ABSTRACT>
+</TEXT>
+</DOC>

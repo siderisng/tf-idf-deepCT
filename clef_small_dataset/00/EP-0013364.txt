@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013364
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-27/36 H03H-1/00 H01F-27/34 H05K-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radio frequency interference choke.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+ristig eberhard dipl-ingde<sep>ristig, eberhard, dipl.-ing.<sep>ristig, eberhard, dipl.-ing.almstr. 1ad-8411 etterzhausende<sep>
+</INVENTOR>
+<ABSTRACT>
+current-compensated, ring-core double choke (7), cast in a plastic cup (1), having an aluminium cup (5) pushed onto the plastic cup and laminations (3, 4) arranged between the plastic and aluminium cups.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

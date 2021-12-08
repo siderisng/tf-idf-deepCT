@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004667
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/375 H01B-7/06 A61N-1/372 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cardiac probe.
+</TITLE>
+<APPLICANT>
+precimed sach<sep>precimed s.a.<sep>precimed s.a.chemin des tourelles 17ch-2400 le loclech<sep>
+</APPLICANT>
+<INVENTOR>
+mohl werner dr drat<sep>mohl, werner, dr. dr.<sep>mohl, werner, dr. dr.lazarettgasse 14wien 9at<sep>
+</INVENTOR>
+<ABSTRACT>
+the probe is used for transmitting electrical signals between an electrode disposed in the organ of a patient and a control unit (pacemaker) arranged at another position.  for the purposes of adapting to physiological differences, the length of the probe can be altered.  this is achieved by virtue of the fact that the tubular probe has subdivisions turned coaxially into one another and that the electrical conductors extend preferably spirally on or in the probe wall.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

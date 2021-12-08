@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006229
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-1/42 H01H-1/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+contact element.
+</TITLE>
+<APPLICANT>
+concordia sprecher schaltde<sep>concordia sprecher gmbh<sep>concordia sprecher gmbhindustriestrasse 9 d-70794 filderstadt de <sep>
+</APPLICANT>
+<INVENTOR>
+loeffler wolfgang kde<sep>perle josefde<sep>loeffler, wolfgang k.<sep>perle, josef<sep>löffler, wolfgang k.teckstrasse 12 bd-7447 aichtalde<sep>perle, joseffilsstrasse 7d-7440 nt-zizishausende<sep>
+</INVENTOR>
+<ABSTRACT>
+a contact element (1, 2) for a medium- or high-voltage connection is described which consists of steel and has at least one rivet-shaped copper insert (5, 6) in the region of the contact point, so that good electrical conductivity is ensured at the contact point with a high level of rigidity of the contact element.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+kontaktelement die erfindung betrifft ein kontaktelement für aus einem festen und einem beweglich gelagerten element bestehende elektrische verbindungen, insbesondere in mittel- oder hochspannungsanlagen. es ist bekannt, kontaktelemente, insbesondere erderarme aus verschiedenen werkstoffen herzustellen. ganz aus kupfer gefertigte erderarme, die einen sehr niedrigen ubergangswiderstand in den xontaktstelienbereichen erbringen, sind in der regel zu teuer, während ganz aus stahl gefertigte erderarme zwar wirtschaftlich zu fertigen sind, jedoch im kontaktstellenbereich einen schlechten stromübergang besitzen und damit nur für niedrige kurzschlussströme geeignet sind. insbesondere bei schnellerdern wurde bereits versucht, stahlarme mit kupferlaschen zu versehen, aber diese an sich günstige lösung besitzt den nachteil, dass die befestigung der kupferlaschen aufwendig ist und somit die gesamtkosten des kontaktelements wiederum relativ hoch sind. aufgabe der vorliegenden erfindung ist es, ein kontaktelement der eingangs angegebenen art so auszubilden, dass trotz niedriger herstellkosten im kontaktstellenbereich ein niedriger uber- gangswiderstand, d.h. ein guter stromübergang erzielt wird. gelöst wird diese aufgabe#.nach der erfindung dadurch, dass im kontaktstellenbereich des aus stahl bestehenden kontaktelements wenigstens ein vorstehender kupfereinsatz vorgesehen ist. durch diese massnahmen wird einerseits ausgenützt, dass die elektrische leitfähigkeit der aus stahl bestehenden kontaktelemente an sich ausreichend ist und ein guter stromübergang durch die kupfereinsätze gewährleistet wird, und dass andererseits die fixierung eines einsatzes in den stahlelementen kostengünstig, z.b. durch pressen oder stauchen, erfolgen kann. vorzugsweise ist im kontaktstellenbereich wenigstens ein kupferniet in das kontaktelement eingenietet. die verwendung von kupfernieten ist ganz besonders vorteilhaft, weil diese preisgünstigen kupfernieten einen guten kontakt im kontaktstellenbereich erbringen und besonders leicht und dauerhaft fixiert werden können. im falle der ausgestaltung des kontaktelements als erderarm werden die kupfernieten in den kontaktstellenbereichen der beiden durch eine feder gegeneinander gespannten stahlarme in der nähe der freien enden der stahlarme und vorzugsweise einander gegenüberliegend angebracht. ein ausführungsbeispiel der erfindung wird nachfolgend unter bezugnahme auf die zeichnung näher erläutert; in der zeichnung zeigt: fig. 1 eine schematische, teilweise geschnitten dar gestellte teilansicht eines gemäss der erfindung ausgebildeten erdermessers, und fig. 2 eine draufsicht des erdermessers nach fig. 1. nach fig. 1 besteht das erdermesser aus zwei zueinander parallelen mit gegenseitigem abstand angeordneten stahlarmen 1, 2, die unter zwischenschaltung eines abstandselements mittels einer feder 4 gegeneinander gespannt sind. im kontaktstellenbereich 3, insbesondere im bereich der freien enden der stahlarme 1, 2 sind kupfernieten 5, 6 angebracht, die im kontaktstellenbereich einen guten stromübergang gewährleisten. da die die stahlarme 1, 2 durchsetzenden und durch die beiderseits vorhandenen nietköpfe dauerhaft und sicher befestigten kupfernieten überdies sehr einfach und schnell anzubringen sind, können nach der erfindung kostengünstig zu fertigende, wenig kupfer benötigende und dennoch elektrisch optimale kontaktelemente erhalten werden.
+</DESCRIPTION>
+<CLAIMS>
+   p a t e n t a n s p r u c h e :      1. kontaktelement für aus einem festen und einem beweglich gelagerten element bestehende elektrische verbindungen, insbesondere in mittel- oder hochspannungsanlagen, dadurch g e k e n n z e i c h n e t , dass im kontaktstellenbereich  (3) des aus stahl bestehenden kontaktelements (1,2) wenigstens ein vorstehender kupfereinsatz (5, 6) vorgesehen ist.   2. kontaktelement nach anspruch 1, dadurch g e k e n n  z e i c h n e t , dass im kontaktstellenbereich (3) wenigstens ein kupferniet (5, 6) in das kontaktelement (1, 2) einge nietet ist.    3. kontaktelement nach anspruch 1 oder 2, g e k e n n  z e i c h n e t durch zwei zueinander parallele stahl arme (1, 2), die jeweils im kontaktstellenbereich (3) mit wenigstens einem kupferniet (5, 6) versehen sind.   4. kontaktelement nach anspruch 3, dadurch g e k e n n  z e i c h n e t , dass die kupfernieten (5, 6) an den beiden stahlarmen (1, 2) einander gegenüberliegend angeordnet sind.   5. kontaktelement nach anspruch   3 oder    4, dadurch g e  k e n n z e i c h n e t , dass die beiden stahlarme (1, 2) durch eine feder (4) gegeneinandergespannt sind.   6. kontaktelement nach einem oder mehreren der vorhergehenden ansprüche, dadurch   g e k e n n z e i c h n e t ,    dass die kupfernieten (5, 6) in unmittelbarer nähe der freien enden der stahlarme (1, 2) angeordnet sind.  
+</CLAIMS>
+</TEXT>
+</DOC>

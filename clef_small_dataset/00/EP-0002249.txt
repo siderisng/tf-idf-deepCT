@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002249
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-3/08 H04M-3/14 H04Q-3/54 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for time checking the duration of busy conditions in telephone exchanges.
+</TITLE>
+<APPLICANT>
+telefonbau & normalzeit gmbhde <sep>telefonbau und normalzeit gmbh<sep>telefonbau und normalzeit gmbh mainzer landstrasse 128-146 postfach 4432 d-6000 frankfurt (main) de<sep>
+</APPLICANT>
+<INVENTOR>
+delcher klausde<sep>seidel wolfgangde<sep>delcher, klaus<sep>seidel, wolfgang<sep>delcher, klausbirkholzweg 10ad-6000 frankfurt 50de<sep>seidel, wolfgangernst-wiss-strasse 3d-6230 frankfurt 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+the circuit arrangement according to the invention for monitoring the timing of busy states essentially consists of a storage arrangement for accommodating addresses of the devices to be monitored, the busy state and the time value specifying the monitoring time, which is counted down step by step to a limit value.  when this limit value is reached, a signal is output which, together with the information on the busy state and the address of the relevant device, which is also available, leads to a switching action (release and so forth) in the monitored device.  this provides the possibility of central monitoring which occurs independently of other control procedures, and the size of the memory is not directly dependent on the number of devices to be monitored. 
+</ABSTRACT>
+</TEXT>
+</DOC>

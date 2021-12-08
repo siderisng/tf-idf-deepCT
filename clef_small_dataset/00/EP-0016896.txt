@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016896
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-11/048 F15B-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an apparatus for restricting the velocity of a hydraulic piston at its end positions
+</TITLE>
+<APPLICANT>
+akermans verkstad abse<sep>akermans verkstad ab<sep>akermans verkstad abbruksgatan 5 box 115s-241 00 eslövse<sep>
+</APPLICANT>
+<INVENTOR>
+olofsson bertil ragnarse<sep>olofsson, bertil ragnar<sep>olofsson, bertil ragnarenebergsvägen 8s-241 00 eslövse<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for restricting the velocity of movement of  the piston (13) in a servo-controlled hydraulic working cylinder  (12), when the piston approaches at least its one end position  in the cylinder, by means of a hydraulic sensor (20, 21) secured  on one of the machine parts which are shifted with respect to  each other by means of the hydraulic working cylinder (12).   the hydraulic sensor is coupled via a non-return valve (24) to  the servo-circuit.  when the piston (13) of the hydraulic working  cylinder (12) approaches its end position in the cylinder, the  hydraulic sensor (20, 21) ist actuated by the second of the  above-mentioned machine parts, whereby a pressure exceed­ ing the servo-pressure is established in the cylinder of the hy­ draulic sensor (20, 21).  a valve (23) senses the pressure differ­ ence between the servo-pressure and the pressure esta­ blished by means of the hydraulic sensor (20, 21) and throttles  the servo-flow to the main valve (14) of the hydraulic working  cylinder (12), the main valve thereby throttling the pressure  medium supply to the hydraulic working cylinder (12).  
+</ABSTRACT>
+</TEXT>
+</DOC>

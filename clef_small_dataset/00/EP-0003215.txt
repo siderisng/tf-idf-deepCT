@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003215
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-69/90 C07C-69/753 C07C-69/92 C07C-255/57 C07C-255/55 C07C-255/46 G02F-1/13 C07C-67/00 C07C-121/75 C07C-69/75 C09K-3/34 C07C-253/00 C07C-255/00 C09K-15/08 C07C-69/76 C07C-69/773 C07C-69/00 C09K-15/00 <main>C07C-69/74</main> C09K-19/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cyclohexane derivatives, liquid crystal dielectrics containing them and their use as constituents of liquid crystal dielectrics.
+</TITLE>
+<APPLICANT>
+merck patent gmbh de<sep>merck patent gesellschaft mit beschrankter haftung<sep>merck patent gmbhpostfach, frankfurter strasse 250d-64271 darmstadtde<sep>merck patent gesellschaft mit beschrankter haftung <sep>
+</APPLICANT>
+<INVENTOR>
+eidenschink rudolf dr<sep>krause joachim dr<sep>pohl ludwig dr<sep>eidenschink, rudolf, dr.<sep>krause, joachim, dr.<sep>pohl, ludwig, dr.<sep>eidenschink, rudolf, dr.dessauer strasse 5d-6110 dieburgde<sep>krause, joachim, dr.samuel-morse-strasse 14d-6110 dieburgde<sep>pohl, ludwig, dr.hoffmannstrasse 54d-6100 darmstadtde<sep>eidenschink, rudolf, dr.<sep>krause, joachim, dr.<sep>pohl, ludwig, dr.<sep>eidenschink, rudolf, dr.dessauer strasse 5d-6110 dieburgde<sep>krause, joachim, dr.samuel-morse-strasse 14d-6110 dieburgde<sep>pohl, ludwig, dr.hoffmannstrasse 54d-6100 darmstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+Cyclohexander derivatives of the general formula (I) wherein the rings A and B are the same or different and each denote a 1,4-disubstituted phenyl or cyclo jexyl ring, as well as X -CO-O-or -O-Co-, R₁ alkyl with 18 carbon atoms, and R₂ alkyl having 1 -8 carbon atoms, and when the ring B is a phenyl ring, also alkoxy or alkanoylo xy with up to 8 carbon atoms or -Cn are well soluble in liquid crystalline base materials.They allow the production of liquid crystalline dielectrics with only low temperature dependence of the threshold pane tion.
+</ABSTRACT>
+</TEXT>
+</DOC>

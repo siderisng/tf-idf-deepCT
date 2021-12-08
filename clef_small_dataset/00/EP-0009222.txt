@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009222
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12N-9/96 C12Q-1/54 C12Q-1/32 G01N-33/50 C12Q-1/58 C12Q-1/52 C12Q-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+the stabilization of working reagent solutions containing nadh, nadph, and/or enzymes, and the use of such stabilized reagents in enzyme or substrate assays
+</TITLE>
+<APPLICANT>
+american monitor corpus<sep>american monitor corp.<sep>american monitor corp.p.o.box 68505indianapolis indiana 46218us<sep>
+</APPLICANT>
+<INVENTOR>
+denney jerry wus<sep>denney, jerry w.<sep>denney, jerry w.45 thornhurst drivecarmel, indianaus<sep>
+</INVENTOR>
+<ABSTRACT>
+prolonged stabilization (at least one month) of working reagent solutions of nadh (or nadph) and of enzyme solutions, including both those used in measurement of enzymes and those in which enzymes are included for measurement of a non-enzyme substance, and stabilization of combinations thereof in certain assay systems. 
+</ABSTRACT>
+</TEXT>
+</DOC>

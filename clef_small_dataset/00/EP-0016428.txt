@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016428
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/15 G02F-1/1335 G09F-9/30 G02F-1/13357 G02F-1/13 G02F-1/157 G02F-1/17 G02F-1/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for improving the legibility of passive displays
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+krueger hans dipl-physde<sep>pape heinz dipl-physde<sep>quella ferdinand drde<sep>krueger, hans, dipl.-phys.<sep>pape, heinz, dipl.-phys.<sep>quella, ferdinand, dr.<sep>krüger, hans, dipl.-phys.peralohstrasse 13d-8000 münchen 83de<sep>pape, heinz, dipl.-phys.forstenrieder-allee 17d-8000 münchen 71de<sep>quella, ferdinand, dr.drygalski-allee 118d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+To increase the visibility with passive displays, a lighting of the display elements is achieved via decoupling points of the fluorescent body or by direct optical contacting with the fluorescent body.The passive displays can be switched between two optical conditions.In a switching state of the passive display, the fluorescent light is absorbed and reflects diffusely in the other switching state and coupled out.
+</ABSTRACT>
+</TEXT>
+</DOC>

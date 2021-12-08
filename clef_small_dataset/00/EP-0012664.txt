@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012664
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06F-13/00</main> G06F-12/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the automatic detection of the memory capacity in a data processing or data transmission system.
+</TITLE>
+<APPLICANT>
+cii honeywell bull fr<sep>compagnie internationale pour l'informatique cii - honeywell bull (dite  cii-hb)<sep>compagnie internationale pour l'informatique cii - honeywell bull (dite cii-hb)94, avenue gambetta75020 parisfr<sep>compagnie internationale pour l'informatique cii - honeywell bull (dite  cii-hb)<sep>
+</APPLICANT>
+<INVENTOR>
+girard paul marie<sep>girard, paul marie<sep>girard, paul marie2 bis, rue de savoief-78000 versaillesfr<sep>girard, paul marie  <sep>girard, paul marie2 bis, rue de savoief-78000 versaillesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The dispositiv includes: - a detector (1) of presence of the memory modules installed in a system, - a generator (3) of the limit address of the installed memory capacity - a detector (6) for exceeding the capacityI molest.Application: data processing or transmission system.
+</ABSTRACT>
+</TEXT>
+</DOC>

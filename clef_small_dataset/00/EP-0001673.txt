@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001673
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-29/07 <main>H01J-29/07</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+colour selection electrode with elongate apertures in a colour display tube.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+plukker gerardus wilhelmus<sep>plukker, gerardus wilhelmus<sep>plukker, gerardus wilhelmusc/o int.octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>plukker, gerardus wilhelmus  <sep>plukker, gerardus wilhelmus c/o int.octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+by using in colour display tube a colour selection electrode  comprising a metal plate having a large number of rows  of apertures which are separated from each other by bridges  and are elongate in the direction of the rows, which rows  extend in the direction of the phosphor lines on the display  screen and in which the last aperture at the two ends of each  row is at least as long as the penultimate aperture at the two  ends of each row and the short sides of the last aperture of all  rows situated at the extreme ends are situated on curved lines  which follow the edge of the colour selection electrode, a  smooth picture edge and also a good adhesion of the ends of  the phosphor lines to the display window are obtained.  
+</ABSTRACT>
+</TEXT>
+</DOC>

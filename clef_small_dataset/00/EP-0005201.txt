@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005201
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+D21H-17/00 C08G-73/02 D21H-17/56 D21H-19/10 C08G-73/00 D21H-19/00 D21H-17/07 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+paper sizing agent.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende <sep>
+</APPLICANT>
+<INVENTOR>
+baeumgen heinzde   <sep>mueller friedhelm drde<sep>von bonin wulf drde<sep>baeumgen, heinz<sep>mueller, friedhelm, dr.<sep>von bonin, wulf, dr.<sep>bäumgen, heinzbuchenweg 10d-5090 leverkusen 1de<sep>müller, friedhelm, dr.zum hahnenberg 62d-5068 odenthalde<sep>von bonin, wulf, dr.mendelssohnstrasse 30d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+paper sizing agent in the form of an aqueous preparation of salts and/or quaternisation products of basic fatty acid amides derived from fatty acids having melting points above 30 deg c. 
+</ABSTRACT>
+<DESCRIPTION>
+leimungsmittel für papier die vorliegende erfindung betrifft leimungsmittel für papier in form einer wässrigen zubereitung von salzen und/oder ouarternierungsprodukten von basischen fettsäureamiden, die sich von fettsäuren mit schmelzpunkten von über 300c ableiten. als konventionelles masseleimungsmittel für papier werden die sogenannten harz leime auf abietinsäurebasis verwendet. da diese leimungsmittel jedoch nicht allen ansprüchen genügen, z.b.' indem sie alaun als zusatzmittel erfordern, hat man inzwischen andere ¯nicht auf den zusatz von alaun angewiesene masseleimungsmittel entwickelt, wie z.b. fettsäureanhydride bzw. ketene, isocyanate oder chlorcarbonylderivate von fettsäuren. allen diesen leimungsmitteln ist gemeinsam, dass sie schwierig emulgierbar sind, dass meistens kationische zusatzstoffe mitverwendet werden müssen, um eine zufriedenstellende leimung zu erzielen,und dass diese leimungsmittel in wässriger emulsion nur beschränkt lagerfähig sind, da die keten-, anhydrid- oder isocyanatgruppen wasserempfindlich sind. auch stearinsäure oder umsetzungprodukte von aliphatischen aminen mit maleinanhydrid sind als masseleimungsmittel verwendbar, erreichen aber gute wirksamkeiten nur bei hohen einsatzmengen bzw. erfordern alaunzusätze. gemäss dos 1 771 243 können auch umsetzungsprodukte aus polymeren fettsäuren und polyaminen, wenn sie mit einer genau definierten menge epichlorhydrin umgesetzt werden, als masseleimungsmittel verwendet werden. der masseleimungseffekt ist jedoch bei diesen substanzen nur schwach ausgebildet, während sie sich gut für die oberflächenleimung eignen. es wurde nun gefunden, dass sich basische amide von bei raumtemperatur festen c10-c26-fettsäuren, insbesondere von c12-c18-fettsäuren wie laurin-, myristin-, palmitin- und stearinsäure, wobei letztere bevorzugt ist, in form ihrer salze oder quarternierungsprodukte hervorragend als leimungsmittel, insbesondere als masseleimungsmittel,eignen. sie werden als wässrige lösungen, suspensionen oder emulsionen > gegebenenfalls im gemisch mit anderen leimungsmitteln, eingesetzt. wie gefunden wurde, führen die entsprechenden verbindungen,z.b. bei verwendung der bei raumtemperatur festen stearinsäure'zu einem guten masseleimungsmittel, während analoge, unter verwendung der bei raum temperatur flüssigen ölsäure hergestellte verbindungen so gut wie nicht wirksam sind. gegenstand der erfindung sind leimungsmittel für papier in form einer wässrigen zubereitung von salzen und/oder quarternierungsprodukten von basischen fettsäureamiden, die sich von fettsäuren mit schmelzpunk 0 ten von über 30 c ableiten. besonders bevorzugt sind die umsetzungsprodukte der basischen amide mit epichlorhydrin. geeignet als fettsäurebasis sind fettsäuren oder fettsäuregemische mit 10 - 26, bevorzugt 12 - 18 c-atomen 0 und schmelzpunkten über 30 c, insbesondere stearinsäu re bzw. stearinsäure enthaltende fettsäuregemische. es können jedoch auch andere fettsäuren wie etwa palmitin-, abietin-, arachin- und behensäure oder sonstige durch oxosynthese o.ä. verfahren zugängliche fettsäuren in betracht gezogen werden. als amine oder amingemische zur herstellung der basischen fettsäureamide kommen vorzugsweise äthylendiamin und dessen oligomere in betracht, wie etwa diäthylentriamin, triäthylentetramin, tetraäthylenpentamin usw. geeignet sind auch die entsprechenden amine auf basis propylendiamin, aber auch sonstige alkyl- oder aryldiamine oder -polyamine, wie z.b. 1,4-diaminobutan oder deren isomere, hexamethylendiamin oder deren isomere, toluylendiamin und bisaminocyclohexan. von besonderem interesse sind alkylierungsprodukte von äthylendiamin, propylendiamin und deren oligomeren wie z.b. bis-(aminoäthyl)-methylamin, -äthylamin und -cyclohexylamin und insbesondere bis-(3-aminopropyl)-methylamin und -äthylamin. als säuren für die herstellung der salze aus den basischen fettsäureamiden kommen vorzugsweise aliphatische carbonsäuren wie z.b. ameisensäure und essigsäure in betracht, es sind aber auch anorganische säuren verwendbar, wie z.b. salzsäure, phosphorsäure und schwefelsäure, wobei im gegensatz zu den anorganischen säuren die organischen säuren wenig korrosiv
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche   1. leimungsmittel   fr    papier in form einer wässrigen zubereitung von salzen und/oder quarternierungs produkten von basischen fettsäureamiden, die sich von fettsäuren mit schmelzpunkten von über   30 c    ableiten.    2. leimungsmittel nach anspruch 1, dadurch gekenn zeichnet, dass als fettsäure stearinsäure bzw. ste arinsäure enthaltende fettsäuregemische verwendet werden.   3. leimungsmittel nach anspruch 1 und 2, dadurch ge kennzeichnet, dass zur herstellung der amide   xthy-    lendiamin oder dessen oligomere verwendet werden.   4. leimungsmittel nach anspruch 1 und 2, dadurch ge kennzeichnet, dass zur herstellung der amide bis  (3-aminopropyl)-methylamin verwendet wird.   5. leimungsmittel nach anspruch 1 bis 4, dadurch ge kennzeichnet, dass zur salzbildung ameisen- und/oder essigsäure verwendet werden.   6. leimungsmittel nach anspruch 1 bis 4, dadurch ge kennzeichnet, dass als quarternierungsmittel epi chlorhydrin verwendet wird.  
+</CLAIMS>
+</TEXT>
+</DOC>

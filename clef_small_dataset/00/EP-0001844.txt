@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001844
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28D-15/02 F22B-1/00 F22B-1/18 F28F-1/32 F24H-1/18 F22B-1/16 <main>F28D-15/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for recovering heat and process for producing steam.
+</TITLE>
+<APPLICANT>
+q dot corpus<sep>q-dot corporation<sep>q-dot corporation721 regal rowdallas texas 75247us<sep>q-dot corporation<sep>
+</APPLICANT>
+<INVENTOR>
+grover george maurice<sep>grover, george maurice<sep>grover, george maurice1501 44th streetlos alamos new mexious<sep>grover, george maurice<sep>grover, george maurice1501 44th streetlos alamos new mexious<sep>
+</INVENTOR>
+<ABSTRACT>
+a waste heat boiler and heat exchange process for  recovering waste heat from a stream of heated gas is  disclosed.  the system includes a convection heat transfer  chamber, a boiler tank, and a plurality of heat pipes thermally  interconnecting the convection heat transfer chamber with  the boiler tank.  each of the heat pipes includes an evaporator  section which is disposed in heat transfer relation with a  stream of heated gas flowing through the convection heat  transfer chamber, and a condenser section disposed in heat  transfer relation with a volume of water disposed within the  boiler tank.  the evaporator sections and condenser sections  are totally enclosed within the convection heat transfer  chamber and boiler tank, respectively, and are connected in  closed cycle fluid communication with each other.  the heat  pipes contain a working fluid which is characterized by a  thermodynamic cycle in which the working fluid is vaporized  in the evaporator section and flows to the condenser section  where it is condensed to the liquid phase and returns in a  closed cycle to the evaporator section, thereby transferring  heat energy from the heated gas stream in the convection  heat transfer chamber to the volume of water contained in  the boiler tank.  in a regenerative arrangement, exhaust gas  discharged from the convection heat transfer chamber is  recycled to the input of the convection heat transfer chamber  to provide high mass flow at low velocity for optimum  efficiency.  in another arrangement, superheated steam is  provided by a pair of heat pipe boilers whose convection  heat transfer chambers are connected in series, with the  evaporator of the steam generating unit being located  downstream of the superheat unit and the input of the  superheat unit being the steam output of the steam generating  unit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

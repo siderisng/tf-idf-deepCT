@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007080
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-231/00 C07D-233/68 C07C-103/375 C07D-231/18 B01J-31/00 C07D-249/12 C07D-231/12 <main>C07D-233/68</main> C07D-249/00 C07D-521/00 C07D-233/61 C07D-249/08 C07B-61/00 C07D-249/10 C07D-249/04 C07D-249/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of n-azolylmethyl-substituted haloacetanilides.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf agde   <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+eicken karl dr chem<sep>linhart friedrich dr chem<sep>rohr wolfgang dr chem<sep>eicken, karl, dr. chem.<sep>linhart, friedrich, dr. chem.<sep>rohr, wolfgang, dr. chem.<sep>eicken, karl, dr. chem.waldstrasse 63d-6706 wachenheimde<sep>linhart, friedrich, dr. chem.leisberg 61d-6900 heidelbergde<sep>rohr, wolfgang, dr. chem.gontardstrasse 4d-6800 mannheim 1de<sep>eicken, karl, dr. chem.<sep>linhart, friedrich, dr. chem.<sep>rohr, wolfgang, dr. chem.<sep>eicken, karl, dr. chem.waldstrasse 63d-6706 wachenheimde<sep>linhart, friedrich, dr. chem.leisberg 61d-6900 heidelbergde<sep>rohr, wolfgang, dr. chem.gontardstrasse 4d-6800 mannheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+N-azolylmethylsubstituted halogen acetanilides of the all mean formula wherein R, R¹, R², A and X have the meaning given in the description, e.g.b.The compound of the formula is prepared by reacting 2 halogen-n halo-methyl acetanilides and at least molar amounts of azoles, e.g.b.By reacting the verbin, the formula and the at least molar amount of 4,5-dichlorimidazole with at least molar amounts of aqueous alkalis in a two-phase system, possibly using a phase transfer catalyst, for example a quaternal ammonium base or a crown ether.Under "two phase system" is a mixture of water and an organic solvent which is not miscible with water.The liquids contain chemical connectors dissolved or in the form of a dispersion.
+</ABSTRACT>
+</TEXT>
+</DOC>

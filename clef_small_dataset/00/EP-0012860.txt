@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012860
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B41J-3/10</main> B41J-25/00 B41J-2/245 B41J-2/22 B41J-2/235 B41J-19/14 H04N-1/23 B41J-2/425 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+suspension arrangement for a body vibrating at resonance frequency.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+pennebaker william boone<sep>pennebaker, william boone<sep>pennebaker, william boonebox 66 crane roadcarmel, new york 10512us<sep>pennebaker, william boone<sep>pennebaker, william boonebox 66 crane roadcarmel, new york 10512us<sep>
+</INVENTOR>
+<ABSTRACT>
+The body (10) has a number of rigidly connected parts (11, 12), which are individually connected to a same number of intermediate frames (17, 21) by means of parallel spring pairs (15, 16; 19, 20).The intermediate framing (17,21) are arranged alternately on opposite sides of the body (10) and in turn fastened by means of parallel spring pairs (37, 38; 47, 48; 49, 50; 51, 52) on a spring-mounted main frame (40).When the between frame (17, 21) with the body (10) swing in phase, it performs a spatially linear movement.If by means of electromagnetic means (100, 102, 103; 104, 106, 107) one of the intermediate frame (17,21) is driven out of phase, the body (10) swings along a lifniskate.
+</ABSTRACT>
+</TEXT>
+</DOC>

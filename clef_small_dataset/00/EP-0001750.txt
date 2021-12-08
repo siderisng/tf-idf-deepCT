@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001750
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01C-1/144 H01C-1/14 B23K-11/12 B23K-11/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for affixing a terminal conductor onto an electrical ptc resistor.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+raske hans-erichde<sep>raske, hans-erich<sep>raske, hans-erichkönigsdorferstrasse 13d-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a method for affixing a terminal conductor onto an electrical ptc resistor.  until now, ptc resistors could be neither soldered nor welded.  for affixing, the ptc resistor was plated by galvanic means with a precious metal coating, at least at the point where it was to be affixed, and the terminal conductor was soldered to this precious metal coating.  such a connection has little robustness.  according to the invention it is recommended that the ptc resistor (1) be coated by galvanic means with an aluminium coating (4) and that the terminal wire (7) be welded to the ptc resistor by a combined ultrasound-resistance welding method.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

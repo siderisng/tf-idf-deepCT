@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011089
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-303/22 <main>C07C-143/55</main> C07C-309/40 C07C-309/00 C07B-11/00 C07C-303/00 C07C-67/00 C07C-301/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing nitro-t acid (8-nitro-naphthalene-1,3,6-trisulfonic acid).
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+behre horst dr<sep>dammann jurgen dr <sep>kaiser reinhard dr <sep>putter rolf dr<sep>vogel axel dr<sep>behre, horst, dr.<sep>dammann, jurgen, dr.<sep>kaiser, reinhard, dr.<sep>putter, rolf, dr.<sep>vogel, axel, dr.<sep>behre, horst, dr.im hellsiefen 4d-5068 odenthalde<sep>dammann, jürgen, dr.wolfskaul 5d-5000 koeln 80de<sep>kaiser, reinhard, dr.morgengraben 14d-5000 köln 80de<sep>pütter, rolf, dr.poststrasse 7d-4000 düsseldorf 1de<sep>vogel, axel, dr.in der hildscheid 5d-5068 odenthal 1de<sep>behre, horst, dr.<sep>dammann, jurgen, dr.<sep>kaiser, reinhard, dr. <sep>putter, rolf, dr.<sep>vogel, axel, dr.  <sep>behre, horst, dr. im hellsiefen 4d-5068 odenthalde<sep>dammann, jürgen, dr.wolfskaul 5d-5000 koeln 80de<sep>kaiser, reinhard, dr.morgengraben 14d-5000 köln 80de<sep>pütter, rolf, dr.poststrasse 7d-4000 düsseldorf 1de<sep>vogel, axel, dr.in der hildscheid 5d-5068 odenthal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a particular operation for carrying out nitration of naphthalene-1,3,6-trisulfonic acid to 8 nitronaphthalene-1,3,6-trisulfonic acid characterized in that one presets at least 80% out-of-reacted nitriding mixtureSolved in nitriding material dissolved in sulfuric acid and at the same time nitric acid inflicts that during nitriding, during the nitration, the sulfuric acid concentration is maintained in the range 86 to 94%, the reaction mixture is well mixed and holds the reaction temperature in the range 30 to 60 ° C.
+</ABSTRACT>
+</TEXT>
+</DOC>

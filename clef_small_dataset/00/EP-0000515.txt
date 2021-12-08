@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000515
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/74 B01D-53/50 B01D-53/34 G05D-27/00 <main>C01B-17/86</main> B01D-53/60 C01B-17/82 C01B-17/00 B01D-53/56 C01B-17/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separation of sulphur dioxide from a gas stream and installation for carrying out the process.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+fattinger volker dr<sep>fattinger, volker, dr.<sep>fattinger, volker, dr.im lee 39ch-4144 arlesheimch<sep>fattinger, volker, dr.<sep>fattinger, volker, dr.im lee 39ch-4144 arlesheimch<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for separating SO₂ from a gas stream to obtain sulfuric acid according to the nitric oxide, in which the latter the SO₂-containing gas first a pretreatment zone and then a denitriving zone, thereupon a SO₂ processing zone, and then flows through a nitrogen oxide absorption zone, wherein It is brought into contact in the SO₂ processing zone with thin acid-guided thin acid, while in the absorption zone the Coxides of sulfuric acid released in the denitriving zone are absorbed and from the absorption zone nitrose-containing acid with a content of 70 to 85 wt. % H₂SO₄ removed and transferred to the denitrie zone. To automate the projection rens, a measuring and control device (285) is provided, with which a) the content of NO is measured in the gas stream in the absorption zone or downstream of the absorption zone or at the same time both in the absorption zone and downstream of the same, and b) when passing one certain no limit salts or incorporation of a steeboard end limit of the increase per unit time unit of the NO content in the gas stream on the NO measuring points in the thin acid cycle of the SO₂ processing zone, a nitrogen oxygen compound in a certain amount doses so that an aeende The acid concentration in the absorption zone is practically avoided.
+</ABSTRACT>
+</TEXT>
+</DOC>

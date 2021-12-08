@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004412
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-37/02 F16H-9/02 F16H-47/06 F16H-9/16 F16H-47/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+continuously variable transmission mechanisms.
+</TITLE>
+<APPLICANT>
+gkn transmissions ltdgb<sep>gkn transmissions limited<sep>gkn transmissions limitedp.o. box 405 chester roaderdington, birmingham b24 0rbgb<sep>
+</APPLICANT>
+<INVENTOR>
+abbott randle lesliegb<sep>abbott, randle leslie<sep>abbott, randle lesliethe cottage ash lane no mans heathnr.tamworth staffordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a continuously variable transmission mechanism incorporates  a variator (12) and several fixed ratio transmission  paths (14, 15, 17, 21, 22, 23, 115, 117, 121, 122) which  can connect an input (10) to the variator (12) and the variator  to an output (11).  there is one path of ratio r₁ from the input  to the first variator sheave (18) for use in conjunction  with a second path of ratio r₂ from the second variator  sheave (20) to the output (11).  a third path of ratio r₃ from  the input member to the second variator sheave (20) is to be  used in conjunction with a fourth path of ratio r₄ from the  first variator sheave (18) to the output member (11).  one  extreme usable variator ratio is defined as 1/rv and the  ratios r₁ to r₄ are such that r₁ 1/rvr₂ = r₃rvr₄.  in this  way a change from a first mode of operation using the first  and second paths to a second mode of operation using the  third and fourth paths can occur at a variator ratio 1/rv  without changing the overall transmission ratio.  
+</ABSTRACT>
+</TEXT>
+</DOC>

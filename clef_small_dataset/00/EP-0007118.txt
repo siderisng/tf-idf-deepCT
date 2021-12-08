@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007118
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-7/00 B01J-7/02 <main>B23K-5/00</main> B23K-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+portable apparatus for welding by means of an oxy-gas flame.
+</TITLE>
+<APPLICANT>
+bbr instr srlit<sep>b.b.r. instruments s.r.l.<sep>minox s.r.l.24, via barontinii-40138 bolognait<sep>minox s.r.l.<sep>
+</APPLICANT>
+<INVENTOR>
+rinaldi renato<sep>rinaldi, renato<sep>rinaldi, renato141, via emilia ovesti-41100 modenait<sep>rinaldi, renato  <sep>rinaldi, renato141, via emilia ovesti-41100 modenait<sep>
+</INVENTOR>
+<ABSTRACT>
+portable apparatus for welding by means of an oxy-gas  flame, such as an oxy-acetylene or and oxy-petroleum gas  flame or the like, comprises a device for supplying the gase­ ous fuel in gaseous form under pressure, a combustion  oxygen generator and means for pressuring said combustion  oxygen generator so as to make the oxygen available to a  pressure compatible with the fuel delivery pressure, being  these means realized by a connection between the oxygen  generator and the fuel supply device.  
+</ABSTRACT>
+</TEXT>
+</DOC>

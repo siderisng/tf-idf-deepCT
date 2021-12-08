@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006712
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-317/28 A61K-31/41 A61P-31/00 A61K-31/495 C07D-413/14 A61K-31/425 A01N-43/64 A01N-43/56 A61K-31/42 A61K-31/415 C07D-233/54 C07D-249/12 C07D-231/12 C07D-405/00 C07D-417/14 A01N-43/50 C07D-233/84 C07D-295/096 C07D-295/135 A01N-43/48 C07D-249/08 C07D-271/10 A01N-43/28 C07D-231/00 C07D-417/00 C07D-271/00 A61P-31/10 C07D-317/00 C07D-249/00 <main>C07D-405/14</main> C07D-521/00 C07D-405/14 A61P-31/04 C07D-233/00 A01N-43/653 C07D-295/00 C07D-413/00 A61K-31/505 A61K-31/335 A01N-43/60 A01N-43/54 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heterocyclic derivatives of (4-aryloxymethyl-1.3-dioxolan-2-yl) methyl-1h-imidazoles and -1h-1.2.4-triazoles, their preparation and the derivatives for use as fungicides and bactericides.
+</TITLE>
+<APPLICANT>
+janssen pharmaceutica nvbe<sep>janssen pharmaceutica n.v.<sep>janssen pharmaceutica n.v.turnhoutsebaan 30b-2340 beersebe<sep>janssen pharmaceutica n.v.<sep>
+</APPLICANT>
+<INVENTOR>
+heeres jan<sep>mostmans joseph<sep>heeres, jan<sep>mostmans, joseph<sep>heeres, janleemskuilen 18b-2350 vosselaarbe<sep>mostmans, josephbreughelstraat 28b-2000 antwerpbe<sep>heeres, jan<sep>mostmans, joseph<sep>heeres, janleemskuilen 18b-2350 vosselaarbe<sep>mostmans, josephbreughelstraat 28b-2000 antwerpbe<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds having the formula:    and the pharmaceutically acceptable acid addition salts  and stereochemically isomeric forms thereof, wherein:   q is a member selected from the group consisting of ch  and n;   ar is a member selected from the group consisting of thie­ nyl, halothienyl, phenyl and substituted phenyl; and   y is a member selected from the group consisting of optio­ nally substituted pyrimidinyl, imidazolyl, oxazolyl, thiazolyl,  pyrazolyl, isoxazolyl and oxadiazolyl.  the compounds are useful as antifungal and antibac­ terial agents.  
+</ABSTRACT>
+</TEXT>
+</DOC>

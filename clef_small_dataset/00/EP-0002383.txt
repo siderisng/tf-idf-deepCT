@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002383
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-16/50 H01L-31/20 C23C-16/509 C30B-25/06 H01L-31/18 H01J-37/32 H01L-21/205 <main>C23C-11/00</main> H01L-21/302 H01L-31/00 H01L-31/06 C23C-16/503 H01L-31/075 H01L-21/02 H01L-31/072 H01L-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for depositing semiconductor and other films.
+</TITLE>
+<APPLICANT>
+plasma physics corpus<sep>plasma physics corporation<sep>plasma physics corporationbox 548 locust valleylong island new york 11560us<sep>plasma physics corporation<sep>
+</APPLICANT>
+<INVENTOR>
+coleman john h<sep>coleman, john h.<sep>coleman, john h.plasma physics corporation box 548locust valley long island, n.y. 11560us<sep>coleman, john h.<sep>coleman, john h.plasma physics corporation box 548locust valley long island, n.y. 11560us<sep>
+</INVENTOR>
+<ABSTRACT>
+it is known to deposit films by decomposition of a gas in  a glow discharge, e. g.  silane is decomposed to deposit  amorphous silicon a substrate.  the invention improves the  uniformity of deposition by shaping the electrode 2 bearing  the substrate and the counter electrode 4 to provide a  non-uniform electric field with a weak field over the substrate  and a more remote strong field.  the gas pressure is adjusted  to stabilize the glow discharge p in the weak field region; the  discharge spreads all over this region but is excluded from  the strong field region, ie.  gap d.  alternative embodiments  have a counter electrode formed by an array of pins facing  the substrate electrode or two back-to-back substrate electrodes  with substrates on their outer surfaces.  the strong  field is then round the edges of the electrodes and ac  energization is employed.  the invention is suitable for making multi-layer semiconductor  devices, e. g.  schottky barrier devices and solar  cell devices.  
+</ABSTRACT>
+</TEXT>
+</DOC>

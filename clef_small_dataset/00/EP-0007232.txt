@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007232
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-239/32 C07D-239/00 C07D-239/46 A61K-31/505 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+iso(thio)ureas, processes for their preparation and compositions containing them.
+</TITLE>
+<APPLICANT>
+smith kline french labgb<sep>smith kline & french laboratories limited<sep>smith kline &amp; french laboratories limitedmundellswelwyn garden city hertfordshire, al7 1eygb<sep>
+</APPLICANT>
+<INVENTOR>
+ganellin charon robin gb<sep>ife robert john gb  <sep>owen david andrew arlwyddgb<sep>ganellin, charon robin<sep>ife, robert john<sep>owen, david andrew arlwydd<sep>ganellin, charon robinkinwood, briary wood endwelwyn, hertfordshiregb<sep>ife, robert john19 mobbsbury waystevenage, hertfordshiregb<sep>owen, david andrew arlwydd38 pentley parkwelwyn garden city,hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+isoureas and isothioureas which are hiatamine h₂-­ antagonists and also have histamine h₁-antagonist activity  and antiinflammatory activity having the structure    in which r¹ and r² are hydrogen, lower alkyl, or together with  the carbon and two nitrogen atoms shown form a dihyd­ roimidazolyl or tetrahydropyrimidyl group, y is sulphur or  oxygen, n is from 3 to 8, x is oxygen or sulphur, z is hydrogen  or lower alkyl, a is c₁-c₅ alkylene or -(ch₂)pw(ch₂)q- where w  is oxygen or sulphur and the sum of p and q is 1 to 4, and b is  methyl, cycloalkyl, heteroaryl, aryl or, when a is alkylene,  hydrogen, are prepared by a process in which a compound of  structure    where d is hy- or a leaving group is reacted with:   (a) when d is hy-, an isothiourea    where a is lower alkyl or aryl (lower alkyl), or a cyanamide  r¹hncn or a carbodiimide r¹n = c = nr² or   (b) when d is a leaving group, a urea or thiourea    or, when y is oxygen a compound of structure    where g is a lower alkylthio, chlorine, bromine or no₂nh-, is  reacted with an isothiourea of structure  
+</ABSTRACT>
+</TEXT>
+</DOC>

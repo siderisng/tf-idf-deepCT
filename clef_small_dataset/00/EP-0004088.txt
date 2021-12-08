@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004088
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08G-1/0968 <main>G08G-1/09</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+route guidance system for motor vehicles.
+</TITLE>
+<APPLICANT>
+blaupunkt werke gmbhde<sep>blaupunkt-werke gmbh<sep>blaupunkt-werke gmbhpostfach 77 77 77 d-31132 hildesheimde<sep>blaupunkt-werke gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+eschke bernd <sep>rorup wilfried<sep>eschke, bernd<sep>rorup, wilfried<sep>eschke, berndbutenbergsfeld 1d-3202 bad salzdetfurthde<sep>rörup, wilfriedthüringerstrasse 4d-3200 hildesheimde<sep>eschke, bernd <sep>rorup, wilfried<sep>eschke, bernd butenbergsfeld 1 d-3202 bad salzdetfurth de<sep>rörup, wilfriedthüringerstrasse 4d-3200 hildesheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a tracking system for motor vehicles comprising a digital data exchange between vehicle apparatus and road apparatus, the latter being provided with a transmitting device (12-16) and a receiving device (18-24) which are connected to a single induction loop (10) embedded in the surface of the carriageway, characterised by an auxiliary device (26) in the road apparatus located at the induction loop parallel to the transmitting and receiving device and capable of being switched in selectively, comprising a detector circuit (140-142) in which is detected the characteristic behaviour of the change in inductance produced in the induction loop by the passage thereover of a vehicle in accordance with the type of vehicle and the speed of the vehicle, and an evaluating circuit (170-176) connected thereto for the conversion into digital signals which can be incorporated in the data exchange. 
+</ABSTRACT>
+</TEXT>
+</DOC>

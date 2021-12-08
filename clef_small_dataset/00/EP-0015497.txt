@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015497
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-17/94 H03K-17/95 H03K-17/945 H01H-36/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical switch, the actuating side of which can assume several positions.
+</TITLE>
+<APPLICANT>
+balluff gebhard feinmech de  <sep>gebhard balluff fabrik feinmechanischer erzeugnisse<sep>gebhard balluff fabrik feinmechanischer erzeugnissegartenstrasse 21d-7303 neuhausen a.d.f.de<sep>
+</APPLICANT>
+<INVENTOR>
+schmidt eberhardde<sep>schmidt, eberhard<sep>schmidt, eberhardaltdorfer strasse 20d-7441 grossbettlingende<sep>
+</INVENTOR>
+<ABSTRACT>
+from different sides of operable electrical switches with a carrier part (10), at whose front side (22) of which a fastening part (12) is rotatably mounted by a first, part-front-front-front axis (58), and with one of the switch actuationServing control part (14), which is rotatably mounted on the fastening part (12) about a second axis (54a), which forms an acute angle with the first axis (58).
+</ABSTRACT>
+</TEXT>
+</DOC>

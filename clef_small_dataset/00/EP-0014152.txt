@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014152
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04L-11/20</main> H04L-12/56 H04Q-3/68 H04Q-11/04 H04Q-3/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+operator for a packet-switched data network.
+</TITLE>
+<APPLICANT>
+thomson csf mat telfr<sep>thomson-csf telephone<sep>thomson-csf telephone146, boulevard de valmy92707 colombesfr<sep>thomson-csf telephone  <sep>
+</APPLICANT>
+<INVENTOR>
+bakka raymond<sep>dieudonne marc paul georges<sep>bakka, raymond<sep>dieudonne, marc, paul, georges<sep>bakka, raymondthomson-csf 46 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>dieudonne, marc, paul, georgesthomson-csf 46 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>bakka, raymond<sep>dieudonne, marc, paul, georges<sep>bakka, raymondthomson-csf 46 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>dieudonne, marc, paul, georgesthomson-csf 46 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>
+</INVENTOR>
+<ABSTRACT>
+An operator has a higher level (NS) and a switching level (NC).This level of switching comprises on the one hand a receiving stage consisting of plites (RI) each of which comprises synchronization means at the "clock" level (10), synchronization means at the "packets" level (20) andpacket processing means (31 and 32), on the other hand a transmitting stage consisting of several circuits (EI), each of which comprises queuing means (40) and the re-emission means of the packetsin their order of arrival (50,70 and 80).The invention applies to switching the Nu Mérique data, including telephone data.
+</ABSTRACT>
+</TEXT>
+</DOC>

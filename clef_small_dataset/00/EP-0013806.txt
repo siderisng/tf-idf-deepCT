@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013806
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11B-15/68</main> G11B-15/68 G11B-23/023 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic cassette changing method and system.
+</TITLE>
+<APPLICANT>
+lanier business prod incus<sep>lanier business products, inc.<sep>lanier business products, inc.1700 chantilly drive, neatlanta, georgia 30324us<sep>lanier business products, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+bolick jr fred clinard<sep>bolick jr., fred clinard<sep>bolick jr., fred clinard1440 pineway, neatlanta georgia 30329us<sep>bolick jr., fred clinard<sep>bolick jr., fred clinard1440 pineway, neatlanta georgia 30329us<sep>
+</INVENTOR>
+<ABSTRACT>
+a dictating and transcribing system includes a cartridge  (70) carrying a plurality of individual recording media, such as  tape cassettes, and a means for selectively positioning the car­ tridge with respect to a record/listen transducer (66) to place  any one of the recording media in a recording position.  auto­ matic access and re-access to any of the recording media may  be obtained during dictation or transcription without manual  handling of individual recording media.  the cartridge is prefer­ ably rotatably driven about its center and slidably receives the  recording media in locations radially disposed about the center  of the cartridge.  
+</ABSTRACT>
+</TEXT>
+</DOC>

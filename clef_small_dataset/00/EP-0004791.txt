@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004791
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-10/00 <main>C08F-4/64</main> C08F-4/00 C08F-4/60 C08F-4/02 C08F-4/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+catalyst component for alpha-olefin polymerization and use thereof.
+</TITLE>
+<APPLICANT>
+toa nenryo kogyo kkjp<sep>toa nenryo kogyo k.k.<sep>toa nenryo kogyo kabushiki kaisha 1-1 hitotsubashi, 1-chome chiyoda-kutokyo 100jp <sep>toa nenryo kogyo k.k.<sep>
+</APPLICANT>
+<INVENTOR>
+ieno hiroshi<sep>imai masafumi<sep>inaba naomi<sep>wada shozo<sep>yoda makoto<sep>ieno, hiroshi<sep>imai, masafumi<sep>inaba, naomi<sep>wada, shozo<sep>yoda, makoto<sep>ieno, hiroshi1902-5, ooaza kamekubo ooi-machiiruma-gun saitama-kenjp<sep>imai, masafumi1902-5, ooaza kamekubo ooimachiiruma-gun saitama-kenjp<sep>inaba, naomi1902-5, ooaza kamekubo ooi-machiiruma-gun saitama-kenjp<sep>wada, shozo2-7-5, yamanonezushi-shi kanagwa-kenjp<sep>yoda, makoto5024-270, ooaza kasahatakawagoe-shi saitama-kenjp<sep>ieno, hiroshi<sep>imai, masafumi<sep>inaba, naomi<sep>wada, shozo <sep>yoda, makoto<sep>ieno, hiroshi 1902-5, ooaza kamekubo ooi-machi iruma-gun saitama-ken jp<sep>imai, masafumi1902-5, ooaza kamekubo ooimachiiruma-gun saitama-kenjp<sep>inaba, naomi1902-5, ooaza kamekubo ooi-machiiruma-gun saitama-kenjp<sep>wada, shozo2-7-5, yamanonezushi-shi kanagwa-kenjp<sep>yoda, makoto5024-270, ooaza kasahatakawagoe-shi saitama-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a supported titanium catalyst component for use in  propylene polymerization is prepared by copulverizing a  mixture of magnesium dichloride, titanium tetrachloride-ethylbenzoate  1:1 adduct and hexachloroethane for 20 to 44  hrs. , and then treating the resulting titanium-containing solid  with n-heptane solution of hexachloroethane.  bulk polymerization  of propylene in the presence of h₂ with the catalyst  composed of the supported titanium catalyst component and  the organo aluminum catalyst component composed of  triisobutyl aluminum and ethylbenzoate at 68°c.  for half an  hour gives higher catalyst efficiency (above 200,000 g  pp/g-ti) and sufficient heptane insolubles (92 to 97%).  
+</ABSTRACT>
+</TEXT>
+</DOC>

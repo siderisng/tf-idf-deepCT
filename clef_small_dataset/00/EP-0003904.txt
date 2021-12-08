@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003904
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/14 <main>C02F-1/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to desalination apparatus and method.
+</TITLE>
+<APPLICANT>
+watson dev ltd johngb<sep>john watson developments limited<sep>john watson developments limitedlady lea road horsley woodhousederby de7 6azgb<sep>john watson developments limited<sep>
+</APPLICANT>
+<INVENTOR>
+sanders-fox douglas<sep>sanders-fox, douglas<sep>sanders-fox, douglas7 gillat street marlpoolheanor derbyshiregb<sep>sanders-fox, douglas<sep>sanders-fox, douglas7 gillat street marlpoolheanor derbyshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+improvements in or relating to apparatus for the desalination  of seawater.  the invention relates to desalination apparatus which  utilises solar energy and is thereby capable of continuously  providing sufficient pure water for drinking, irrigation, etc.   economically.  a lagoon for seawater is heated by solar  energy and the seawater is transferred to a vacuum boiler  (30), steam being delivered through a turbine (54) to a condenser  (22).  the turbine (54) generates the power necessary  for the running of the apparatus.  pure water is collected from  the condenser (22) and the seawater remaining in the boiler  (30) is returned to the lagoon through flexible tubes (14)  arranged on a terraced support sloping down to the lagoon,  the tubes (14) defining a collector for solar energy.  the salinity  balance in the seawater returned from the boiler (30) is  maintained continuously by a flow circuit (44, 48) so  arranged as to require no additional power consumption.  
+</ABSTRACT>
+</TEXT>
+</DOC>

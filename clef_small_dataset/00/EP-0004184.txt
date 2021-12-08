@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004184
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/16 G01N-27/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas sensing element and method for its production.
+</TITLE>
+<APPLICANT>
+british gas corp gb<sep>british gas corporation<sep>british gas corporationrivermill house, 152 grosvenor roadlondon sw1v 3jlgb<sep>
+</APPLICANT>
+<INVENTOR>
+sonley john michaelgb<sep>sonley, john michael<sep>sonley, john michael'leight warren' leigh roadcobham surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+catalytic gas sensors comprise a noble metal filament  onto which is applied alumina having a particle size of not  greater than 100a° and a catalyst material is impregnated  into the dried alumina.  the alumina may be dried by passage  of an electric current through the filament and, prior to coating  the filament may be stabilised by coating with a thermally  decomposable aluminium salt and decomposed by  passing a pulsed electric current.  
+</ABSTRACT>
+</TEXT>
+</DOC>

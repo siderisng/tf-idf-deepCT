@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017257
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-5/02 G09F-9/00 G06F-3/153 <main>G06F-3/14</main> G09G-1/28 H04N-9/00 G09G-5/30 G09G-5/04 G09G-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a pattern display system.
+</TITLE>
+<APPLICANT>
+nippon electric cojp<sep>nec corporation<sep>nec corporation7-1, shiba 5-chome minato-kutokyojp<sep>nec corporation<sep>
+</APPLICANT>
+<INVENTOR>
+ohura toshio<sep>ohura, toshio<sep>ohura, toshioc/o nippon electric co., ltd. 33-1, shiby gochomeminato-ku tokyojp<sep>ohura, toshio<sep>ohura, toshioc/o nippon electric co., ltd. 33-1, shiby gochomeminato-ku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+in a pattern display system wherein color signals are  produced based on serial color data signals of red, green and  blue and background colors from background color informa­ tion storage means and a color pattern is displayed on  predetermined picture elements in response to the color  signals and an output of a voltage level signal generating  circuit, there is provided color control information storage  means, and amplitudes of the voltage level signal and the  color signal are controlled by color control information from  the storage means, so that the color pattern display can be  effected with deep, pale, bright and dark properties of color  controlled.  
+</ABSTRACT>
+</TEXT>
+</DOC>

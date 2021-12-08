@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017295
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-61/02 <main>H01J-61/54</main> H01J-61/56 H01J-61/54 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+discharge lamp.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+driessen antonius jozephus ger<sep>ruts josephus maria<sep>van den plas roger jean quirin<sep>driessen, antonius jozephus gerardus cornelis<sep>ruts, josephus maria<sep>van den plas, roger jean quirinus<sep>driessen, antonius jozephus gerardus cornelisc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>ruts, josephus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van den plas, roger jean quirinusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>driessen, antonius jozephus gerardus cornelis<sep>ruts, josephus maria <sep>van den plas, roger jean quirinus<sep>driessen, antonius jozephus gerardus cornelis c/o int. octrooibureau b.v. prof. holstlaan 6 nl-5656 aa eindhoven nl <sep>ruts, josephus mariac/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van den plas, roger jean quirinusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a discharge lamp which has a  discharge vessel (1) provided with an external auxiliary  electrode (11).  the lamp also has a bimetal (14) which in the  inoperative condition of the lamp causes the external  auxiliary electrode to bear against the discharge vessel.  according to the invention the auxiliary electrode is  connected to an end (14a) of only one bimetallic strip and in  the operating condition of the lamp the auxiliary electrode is  remote for the greater part from the discharge vessel due to  the action of said one bimetal.  as a result of this it is achieved  in a simple manner that an auxiliary electrode stimulating  the ignition is combined with an operating condition of the  lamp in which no hindrance is experienced from the auxiliary  electrode.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012882
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-10/213 G02B-6/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for interconnecting two or more optical transmission lines.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+magura paulus<sep>merckel gerald ulrichus<sep>magura, paul<sep>merckel, gerald ulrich<sep>magura, paul22134 serenata cir.east boca raton florida 33432us<sep>merckel, gerald ulrich9 nw 25th courtdelray beach, florida 33444us<sep>
+</INVENTOR>
+<ABSTRACT>
+The device is composed of a sphere (10) whose inside is transparent to light and whose surface is green recoured with a reflective material.The light transmitted by the inlet optical fiber (12) undergoes one or more reflections inside the sphere and reaches the ends of the optical fibers of outputs (14), (16), (18) in which it is thenguided.Cavities (22), (24), (26), (28) on the outer surface of the sphere and filled with a suitable refractive index body make it possible to maximize the light transfers between the fibers and theInterior of the sphere and vice versa.
+</ABSTRACT>
+</TEXT>
+</DOC>

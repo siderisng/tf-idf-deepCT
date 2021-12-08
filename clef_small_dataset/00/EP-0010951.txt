@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010951
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-309/30 C07D-309/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+4-hydroxy-2-pyrone derivatives, process for their preparation and their pharmaceutical preparations.
+</TITLE>
+<APPLICANT>
+sankyo cojp<sep>sankyo company limited<sep>sankyo company limited no. 1-6, 3-chome nihonbashi honcho chuo-kutokyojp <sep>
+</APPLICANT>
+<INVENTOR>
+endo akirajp<sep>oka hidehikojp<sep>terahara akirajp<sep>endo, akira<sep>oka, hidehiko<sep>terahara, akira<sep>endo, akira c/o fermentation researchlaboratories sankyo co.,ltd., 2-58 1-chomehiromachi shinagawa-ku, tokyojp<sep>oka, hidehiko c/o fermentation researchlaboratories sankyo co.,ltd., 2-58 1-chomehiromachi shinagawa-ku, tokyojp<sep>terahara, akira c/o fermentation researchlaboratories sankyo co.,ltd., 2-58 1-chomehiromachi shinagawa-ku, tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+4-hydroxy-2-pyrone derivatives of formula (i):     (wherein a represents an alkylene group which is option­ ally alkyl-substituted or an alkenylene group, and z  represents a substituted or unsubstituted aryl or aryloxy  group) may be prepared by cyclizing an ester of formula  (ii):   z-a--ch₂--ch₂-coor (ii)     (wherein a and z are as defined above and r represents  an organic group) and have valuable antilipaemic  activities.  
+</ABSTRACT>
+</TEXT>
+</DOC>

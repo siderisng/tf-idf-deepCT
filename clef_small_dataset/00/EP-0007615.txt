@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007615
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/54 C07C-229/30 C07D-317/00 C07D-233/64 C07D-209/20 <main>C07C-99/00</main> C07C-229/00 C07C-227/00 C07C-101/28 C07D-209/00 C07C-119/06 C07C-227/14 C07D-209/14 C07C-101/72 C07D-317/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing amino acids and esters.
+</TITLE>
+<APPLICANT>
+merck & co incus<sep>merck & co. inc.<sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us<sep>merck & co. inc. <sep>
+</APPLICANT>
+<INVENTOR>
+greenlee william john<sep>patchett arthur allan<sep>greenlee, william john<sep>patchett, arthur allan<sep>greenlee, william john845 palisade avenueteaneck, n.j. 07666us<sep>patchett, arthur allan1090 minisink waywestfield, n.j. 07090us<sep>greenlee, william john<sep>patchett, arthur allan<sep>greenlee, william john845 palisade avenueteaneck, n.j. 07666us<sep>patchett, arthur allan1090 minisink waywestfield, n.j. 07090us<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds having the formula (i) are prepared by (a)  treating a    compound of formula (ii) with a strong amine base, such as    lithium hexamethyldisilazide, (b) reacting the product from (a)  with    and (c) hydrolyzing the product from (b), wherein r is alkyl,  alkenyl or substituted alkyl, r¹ is lower alkyl, r² is the residue  of an aldehyde r²cho, r³ is alkyl, alkenyl or substituted alkyl,  r⁴ is alkyl-; substituted alkyl- or aryl-sulfonyl, r⁵ is alkyl, aryl  or alkaryl and x is cl, br or i.  compounds of formula (ii) are disclosed.  they are prepa­ red from β-chloro-α-amino butyric methyl ester and benzal­ dehyde by known methods.  
+</ABSTRACT>
+<DESCRIPTION>
+process for-preparing amino acids and esters, and intermediates therefor background of the disclosure the present invention is concerned with an efficient process for preparing a-vinyl substituent amino acids and esters and certain intermediates. certain a-vinyl-a-amino acids can be prepared by reducing the corresponding a-ethynyl a-amino acid. such processes are described in tetrahedron lett. 2745-2748; 3689-3692 (1977). a more efficient process for preparing a-vinyl-a-amino acids and esters has been discovered. summary of the invention a process for preparing a-vinl-a-amino acids and esters thereof from a novel intermediate of the formula: h3c-ch-c-coor n=c-r2 description of the preferred embodiments an embodiment of the present invention is process for preparing compounds having the formula: emi2.1 which comprises (a) treating a compound of the formula: emi2.2 with a strong amine base, (b) reacting, the product from (a) with an alkylating agent, emi2.3 and (c) hydrolyzing the product from (b), wherein r is alkyl, alkenyl or substituted alkyl, r1 is h or lower alkyl, r2 is the residue of an aldehyde r2cho, r3 is alkyl, alkenyl or substituted alkyl, r4 is alkyl-; substituted alkyl- or aryl sulfonyl, r5 is alkyl, aryl or alkaryl and x is c1, br or i. r is an alkyl, substituted alkyl or alkenyl group. preferred r substitutents are selected from the group consisting of: emi2.4 emi3.1 especially preferred r groups are emi3.2 r1 is a lower c1-c8, alkyl group, such as octyl, hexyl, pentyl, isopropyl, ethyl or methyl. preferred r1 groups are c1-c6-alkyl. a most preferred r1 group is methyl. r2 is the residue of an aldehyde formula r2 cho, having no a-hydrogen, where r2 is a phenyl or substituted phenyl group wherein the substituents are halo (cl, br or i) c1-c3 alkyl or no2. examples of specific r2 groups are phenyl, p-chlorophenyl, 4-nitrophenyl, 4-isopropylphenyl and the like. a preferred rê group is phenyl. r is an alkyl, alkenyl or substituted alkyl group which is the same as or readily convertible to the r group. readily convertible r3 groups are r groups which bear oh groups and are protected. examples of such protected moieties are emi4.1 z is h, lower alkyl e.g. ch3 or butyl, phenyl or substituted phenyl e.g. p-ch3-phenyl. a preferred z group is phenyl. r4is an alkyl, substituted alkyl or aryl sulfonyl group such as p-toluenesulfonyl, benzenesulfonyl, nitrophenylsulfonyl, chloraphenylsulfonyl, hexylsuifonyl, and the like. x is halo e.g. br, c1 or i. chloro is preferred. r5 is a c,-c5 alkyl group e.g. ch3, pentyl or isopropyl; an aryl group such as phenyl, bromophenyl, p-totyl, xylyl and the.like;.^an ararkyl group such as benzyl and the like. a preferred r5 group is the c1-c5 arkyl moiety, expecially methyl. the process of the present invention is illustrated by the following reaction equation sequence when ph is phenyl: emi5.1 emi6.1 the schiff,basp (a) is conveniently prepared from 6-chloro-a-amino butyric methyl ester hydrochloride using the process described helv. chem acta 40, 1531 (1957). the strong base in step a may be a suitable lithium dialkylamide. examples of such bases are lithium diisopropylamide, lithium dimethylamide,
+</DESCRIPTION>
+<CLAIMS>
+what is claimed is:    1. a process for preparing compounds having the formula: emi20.1       which comprises (a) treating a compound of the formula: emi20.2       with a strong amine base, (b) reacting   the-product    from (a) with the emi20.3       and   (c)    hydrolyzing the product from (b), wherein r is alkyl, alkenyl or substituted alkyl, r1 is lower alkyl, r2 is the   residue of    an aldehyde rê4cho, r  is alkyl, alkenyl or substituted alkyl r4 is alkyl-; substituted alkyl- or aryl sulfonyl, r5 is alkyl, aryl or alkaryl and   x    is   c1    br or i  2. the process of claim 1 wherein said amine base is lithium hexamethyldisilazide.     3. the process of claim 2 wherein r2 is phenyl.      4. the process of claim 3 wherein said (b) reactant is   r3x.       5. the process of claim 4 wherein r3 is: emi21.1       or  (ch3)2-chwherein ph is phenyl.    6. the process of claim 5 wherein r3 is: emi21.2          7. the process of claim 3 wherein said (b) reactant is: emi22.1       8. compounds having the formula: emi22.2       wherein rú is lower alkyl nad rê is the residue of an aldehyde r2cho.    9. compounds of claim 8 wherein r1 is lower alkyl.    10. compounds of claim 9 wherein   r1 is    ch3 and r2 is phenyl.  
+</CLAIMS>
+</TEXT>
+</DOC>

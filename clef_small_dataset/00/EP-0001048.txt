@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001048
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F24F-3/16</main> F24F-3/16 A61L-2/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for disinfecting a surgical-operation room and apparatus therefor.
+</TITLE>
+<APPLICANT>
+stierlen maquet agde<sep>stierlen-maquet aktiengesellschaft<sep>stierlen-maquet aktiengesellschaftkehler strasse 31d-76437 rastattde<sep>stierlen-maquet aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+junginger klaus m dr-ing<sep>sippel hans dipl-ing <sep>junginger, klaus m., dr.-ing.<sep>sippel, hans, dipl.-ing.  <sep>junginger, klaus m., dr.-ing.bastgartenstrasse 32d-7550 rastatt 22de<sep>sippel, hans, dipl.-ing.werderstrasse 32d-7570 baden-badende<sep>junginger, klaus m., dr.-ing.<sep>sippel, hans, dipl.-ing.  <sep>junginger, klaus m., dr.-ing. bastgartenstrasse 32d-7550 rastatt 22de<sep>sippel, hans, dipl.-ing.werderstrasse 32d-7570 baden-badende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  method of disinfecting an air-conditioned operation room of a hospital (10), and if required at least one further air-conditioned room (12), by means of an air-conditioning plant (16), whereby the air-conditioning plant (16) is connected to the outside by means of air-inlet and air-outlet ducts (30, 32) and also to the operation room (12), by means of supply-air and exhaust-air ducts (34, 28), the supply-air duct (34) containing a fan (60), a pre-filter (62) upstream of the fan and a further filter (86) downstream of the fan, a fan (132) being arranged in the exhaust-air duct (28), the air-inlet duct (30) and preferably the air-outlet duct (32) also being sealably connectable to the outside by means of a locking device (56, 140), the air-conditioning plant (16) being connected in a closed circuit with the rooms (10, 12) being disinfected, and the disinfecting means being introduced in the supply-air duct (34) downstream of the further filter (86), characterised in that during disinfecting the downstream section (134) of the exhaust-air duct (28) is connected to a portion (58) of the supply-air duct (34) lying upstream of the pre-filter (62), and by means of the air-conditioning plant (16) the suitable temperature and humidity for operation of the disinfecting means is maintained in the rooms (10, 12) being disinfected. 
+</ABSTRACT>
+</TEXT>
+</DOC>

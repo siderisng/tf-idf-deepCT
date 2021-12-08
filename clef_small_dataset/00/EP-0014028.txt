@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014028
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F41A-27/28 F41A-27/00 G05D-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a system for controlling the angular position of a rotary member.
+</TITLE>
+<APPLICANT>
+fmc corp us <sep>fmc corporation<sep>fmc corporation200 east randolph drivechicago illinois 60601us<sep>
+</APPLICANT>
+<INVENTOR>
+joseph craig lus<sep>joseph, craig l.<sep>joseph, craig l.213 benbow avenuesan jose santa clara, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a gun turret (11) at a weapons station is controllable  about an azimuth axis.  a weapon (12) is carried in the tur­ ret and is controllable in the turret about an elevation axis.   the moments of inertia of the turret and weapon about the  azimuth axis and of the weapon about the elevation axis  are relatively high, in order to reposition the turret (11) or  weapon (12) automatically when displaced from a desired  position by a spurious torque such as that produced upon  recoil of the weapon (12), the system provides for elevation  and azimuth control through elevation and azimuth drive  trains having reflected drive train inertias which are at  least two orders of magnitude smaller than the inertia of  the turret and weapon about the azimuth axis and at least  one order of magnitude smaller than the inertia of the  weapon about the elevation axis.  the system senses spur­ ious torque by using a deflector (27, 28) to monitor the ve­ locity of the turret (11) and weapon (12), integrates the ve­ locity signals and feeds them back in superimposition on  any command signal to control a drive (26, 26′) applied to  the drive trains.  
+</ABSTRACT>
+</TEXT>
+</DOC>

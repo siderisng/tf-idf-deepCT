@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012184
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/66 C12Q-1/54 G01N-33/50 <main>C12Q-1/54</main> G01N-33/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hemolytic solution, application of such a solution for determining the presence of glucose in blood, and hemolytic process.
+</TITLE>
+<APPLICANT>
+merck patent gmbh de<sep>merck patent gesellschaft mit beschrankter haftung  <sep>merck patent gmbhpostfach, frankfurter strasse 250d-64271 darmstadtde<sep>merck patent gesellschaft mit beschrankter haftung<sep>
+</APPLICANT>
+<INVENTOR>
+helger roland dr<sep>vormbrock rolf dr<sep>helger, roland, dr.<sep>vormbrock, rolf, dr.<sep>helger, roland, dr.ludwigshöhstrasse 85d-6100 darmstadtde<sep>vormbrock, rolf, dr.grundstrasse 17d-6100 darmstadtde<sep>helger, roland, dr.  <sep>vormbrock, rolf, dr.<sep>helger, roland, dr.ludwigshöhstrasse 85d-6100 darmstadtde<sep>vormbrock, rolf, dr.grundstrasse 17d-6100 darmstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+An aqueous hemolysing solution which allows for mixing with blood whose glucose content to determine, according to dissolved constituents essentially a buffer (eg phosphate buffer pH 7.6), sodium chloride, at least one chelating agent (eg EDTA) and at least one SID (eg polyoxyethylene-10-alkylphenol ether) and expediently still an alkaliazide (eg sodium azide).Such a hemolysing solution is virtually unlimited bar;Glucose concentration in the blood hydrolyzed is still unchanged after twelve days.
+</ABSTRACT>
+</TEXT>
+</DOC>

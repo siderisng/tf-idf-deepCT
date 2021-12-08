@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010036
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-11/00 G21D-3/12 <main>G21C-7/36</main> G21C-7/06 G21C-7/36 G21D-3/08 G21C-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+operating process for a light-water cooled nuclear reactor.
+</TITLE>
+<APPLICANT>
+framatome sa fr<sep>framatome<sep>framatometour fiat 1, place de la coupole92400 courbevoiefr<sep>framatome<sep>
+</APPLICANT>
+<INVENTOR>
+abenhaim georges<sep>francillon gerard<sep>abenhaim, georges<sep>francillon, gerard<sep>abenhaim, georges1 quai d'austerlitzf-75013 parisfr<sep>francillon, gérardrésidence le france 14 square léon blumf-92800 puteauxfr<sep>abenhaim, georges<sep>francillon, gerard  <sep>abenhaim, georges 1 quai d'austerlitzf-75013 parisfr<sep>francillon, gérardrésidence le france 14 square léon blumf-92800 puteauxfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for conducting a light water cooled nuclear reaction by moving a control of control and modification of the refrigerant condition. The value of the reactor pipe parameters are continuously measured and the parameters described the state of the reactor's core with each sensitive modification of the driving parameters is calculated. The parameters describing the heart state is measured at defined time intervals and the parameters calculated by the measured parameters are replaced. The modified parameters resulting from preset action sequences completed on the control bars or the refrigerant and the necessary actions on the driving parameters to respond to a given program. It is active on the control bars and the refrigerant, depending on the results of Cal Ass. The invention applies in particular to the pipe of pressurized water nuclear reactors.
+</ABSTRACT>
+</TEXT>
+</DOC>

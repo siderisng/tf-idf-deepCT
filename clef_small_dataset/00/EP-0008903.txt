@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008903
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/76 H01L-29/74 <main>H01L-27/04</main> H01L-21/763 H01L-27/08 H01L-29/66 H01L-27/02 H01L-21/762 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor integrated circuit device.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+fukushima toshitaka<sep>fukushima, toshitaka<sep>fukushima, toshitaka1604-442 shiomidaiisogo-ku yokohama-shi, kanagawa 235jp<sep>fukushima, toshitaka<sep>fukushima, toshitaka1604-442 shiomidaiisogo-ku yokohama-shi, kanagawa 235jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor integrated circuit device comprises a  semi-conductor substrate (40) of one conduction type, an  epitaxial layer (41) of opposite conduction type formed on  the semiconductor substrate (40), buried layer (42) of oppo­ site conduction type located between the semiconductor  substrate (40) and the epitaxial layer (41) and at least one  circuit element (45, 46, 47, 48) formed in the epitaxial layer  (41) above the buried layer (42).  the integrated circuit device also includes a first isola­ tion region (43) which surrounds and is spaced from the  buried layer (42) and extends from the surface of the epitax­ ial layer (41) into the substrate, the at least one circuit ele­ ment being formed in the epitaxial layer (41) surrounded by  the first isolation region (43), and a second isolation region  (44) located wtihin the first isolation region (43) extends from  the surface of the epitaxial layer (41) into the buried layer  (42), at least one circuit element being surrounded by the  second isolation region (44).  
+</ABSTRACT>
+</TEXT>
+</DOC>

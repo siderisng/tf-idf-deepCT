@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012955
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09K-13/08 <main>H01L-21/31</main> H01L-21/308 H01L-21/311 H01L-21/02 C09K-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+etching solution for the etching of silicon oxides on a substrate and etching process using that solution.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+gajda joseph john<sep>gajda, joseph john<sep>gajda, joseph johnforest viewwappingers falls new york 12590us<sep>gajda, joseph john<sep>gajda, joseph johnforest viewwappingers falls new york 12590us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an etchant for etching sili cium oxides on a base and an etching process.The etchant according to the invention contains a solution of hydrogen fluoride in water, a polyhydric alcohol, for example glycerol and optionally a wetting agent.It is essential that the etchant contains no unbound water and no ammonium fluoride.It is particularly suitable for removing silicon oxides which are exposed on a Metallsi Licide layer under the or in the same silicon environment.
+</ABSTRACT>
+</TEXT>
+</DOC>

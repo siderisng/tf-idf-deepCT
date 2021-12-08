@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001063
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+D06B-3/20 <main>B29D-7/20</main> B29C-71/00 D21F-5/00 C08J-7/00 C08J-5/18 B29D-7/00 D21F-5/14 D06B-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for washing and/or drying of liquid containing films made by electrolytical precipitation or thermal or electrical coagulation of natural and/or synthetic rubber.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+belil creixell francisco<sep>ehrig bodo dr<sep>simon dieter<sep>belil creixell, francisco<sep>ehrig, bodo, dr.<sep>simon, dieter<sep>belil creixell, franciscoc/o mobay chemical corporationnew martinsville w.va 26155us<sep>ehrig, bodo, dr.pommernallee 5d-4047 dormagen 1de<sep>simon, dieterkatharinental 27d-5060 bergisch-gladbach 2de<sep>belil creixell, francisco<sep>ehrig, bodo, dr.<sep>simon, dieter<sep>belil creixell, franciscoc/o mobay chemical corporationnew martinsville w.va 26155us<sep>ehrig, bodo, dr.pommernallee 5d-4047 dormagen 1de<sep>simon, dieterkatharinental 27d-5060 bergisch-gladbach 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for washing and/or drying liquid-containing sheet products produced by precipitation with electrolytes or thermal or electric coagulation from natural and/or synthetic rubber, characterised in that a washing liquid and/or an inert gaseous medium is caused to flow through the sheets by means of a pressure difference of 1 mbars to 6 bars acting on them and the sheets are thereby freed from impurities or the washing liquid and/or dried. 
+</ABSTRACT>
+</TEXT>
+</DOC>

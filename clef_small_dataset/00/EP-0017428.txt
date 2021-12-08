@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017428
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07F-9/00 <main>G07F-3/02</main> G07D-5/02 G07D-3/00 G07D-11/00 G01V-9/04 G07D-9/00 G07D-5/00 G01V-8/12 G01V-8/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for detecting the passage of coins.
+</TITLE>
+<APPLICANT>
+mars incus<sep>mars incorporated<sep>mars incorporatedwestgate park 1651 old meadow roadmclean virginia 22102us<sep>mars incorporated <sep>
+</APPLICANT>
+<INVENTOR>
+dean robert<sep>dean, robert<sep>dean, robert92 mulborough roadslough, berkshiregb<sep>dean, robert <sep>dean, robert92 mulborough roadslough, berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+the illustrated embodiment is an apparatus for detecting  the passage of a coin down a coin passageway 14 of oblong  cross-section where the width of the passageway is so great  that the smallest coin can pass a single sensor in the  passageway without activating the sensor.  the apparatus  comprises a light source 25 and a light detector 26 located in  one wall of the passageway, spaced from one another across  the width of the passageway and from the sides of the  passageway.  a prism 29 of transparent material is located in  the wall of the passageway opposite the light source and  detector and has two 45° reflecting surfaces 32 and 33.  the  first reflecting surface 32 reflects a beam of light from the  source 25 towards the second reflecting surface 33, the  second reflecting surface 33 reflecting the light toward the  sensor 26.  thus the beam of light from the source 25 to the  sensor 26 crosses the passageway 14 at two positions  spaced from one another across the passageway.  even the  smallest coin passing down the passageway breaks the  beam at one of the crossing positions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016399
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-8/00 A61B-8/06 B27D-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the non-invasive measurement of the state of microcirculating blood flow.
+</TITLE>
+<APPLICANT>
+chmiel horstde<sep>mauser rudolfde<sep>chmiel, horst prof. dr.-ing.<sep>mauser, rudolf<sep>chmiel, horst prof. dr.-ing.paracelsusstrasse 14d-71229 leonbergde<sep>mauser, rudolfhaussmannstrasse 146 bd-7000 stuttgart 1de<sep>
+</APPLICANT>
+<INVENTOR>
+chmiel horst prof dr-ing<sep>chmiel, horst prof. dr.-ing.<sep>chmiel, horst prof. dr.-ing.paracelsusstrasse 14d-71229 leonbergde<sep>mauser, rudolfhaussmannstrasse 146 bd-7000 stuttgart 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a device for noninvasive measurement of the blood flow rate according to the ultrasonic Doppler effect method using ultrasonic transmitters / recipients for the ultrasound reflected on the blood and, using a Doppler frequency shift between transmitting and EMP fishing frequency, and evaluating facility. For this purpose, ultrasonic waves are pulsed very high frequency pulsed in the capillary region to be examined and erythrocyte movements detected up to 1 mm / s. The measuring depth adjustment is done by means of an electronically deep window. Due to the automatically angular powerful noise transducer change to the body surface of the capillary area, in addition to the deep window, one is possible from glare of blood flow rates, as originating from large vessels. The resulting signals are displayed digitally in the form of a histogram after a frequency analysis and characterize semiquantitatively the transport of the eryhrocytes.
+</ABSTRACT>
+</TEXT>
+</DOC>

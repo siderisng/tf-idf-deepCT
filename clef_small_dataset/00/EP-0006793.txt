@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006793
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/163 <main>G02F-1/17</main> G09F-9/30 G09G-3/19 G09G-3/16 G02F-1/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuit arrangement for controlling an electrolytic display cell by means of a leakage current for the bleaching.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>
+</APPLICANT>
+<INVENTOR>
+delapierre gilles<sep>meyer robert<sep>delapierre, gilles<sep>meyer, robert<sep>delapierre, gilles216 percevalièref-38170 seyssinetfr<sep>meyer, robertchemin bonatière saint nazaire les eymsf-38330 saint ismierfr<sep>delapierre gilles<sep>meyer robert <sep>delapierre, gilles  <sep>meyer, robert<sep>delapierre, gilles216 percevalièref-38170 seyssinetfr<sep>meyer, robertchemin bonatière saint nazaire les eymsf-38330 saint ismierfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for controlling a trollytic elec display cell and implementation circuit.According to the invention, a low leakage current is superimposed in the direction of erasure.Application to the display of alphanumed character or analog characters.
+</ABSTRACT>
+</TEXT>
+</DOC>

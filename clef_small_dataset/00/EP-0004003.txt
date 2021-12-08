@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004003
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+information transmission system
+</TITLE>
+<APPLICANT>
+licentia gmbhde<sep>licentia patent-verwaltungs-gmbh<sep>licentia patent-verwaltungs-gmbhtheodor-stern-kai 1 d-60596 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+schwab hans dipl-ing de<sep>schwab, hans, dipl.-ing.<sep>schwab, hans, dipl.-ing.schellingstrasse 32d-7440 nürtingende<sep>
+</INVENTOR>
+<ABSTRACT>
+in a communication system which, for radio contact in areas shaded from radio waves, contains a passive leaky cable antenna system into which and out of which information-carrying electromagnetic fields can be coupled, no radio contact is possible if one user is in an area shaded from radio waves but the other user is in an area not shaded from radio waves.  according to the invention, the passive leaky cable antenna system (1) is connected to at least one outside antenna which is arranged at a point (2, 2') not shaded from radio waves.  in a system mainly designed for the line-shaped radio supply of railway lines, the outside antenna (2, 2') is constructed as directional antenna. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007524
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04J-3/06</main> H04J-3/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuit for data transmission.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+schenk erwin<sep>schenk, erwin<sep>schenk, erwinimplerstrasse 53ad-8000 münchen 70de<sep>schenk, erwin<sep>schenk, erwinimplerstrasse 53ad-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for carrying data between two time multiplexing systems (Z1, Z1 'and Z2, Z2') via a common transmission path (UE). The bitstreams (Z1 'and Z2, Z2' (Z1, Z1 'and Z2, Z2') (Z1, Z1 'and Z2, Z2') (Z1, Z1 'and Z2, Z2') are bited in bit by means of a transmitted side diplexer (DS), and by means of a reception side diplexer (DE) Bit currents supplied to the reception pages (Z1 ', Z2') of the time multiplex systems (Z1, Z1 'and Z2, Z2'). The bitstreams of the first or second time multi plex system (Z1, Z1 'and Z2, Z2') contain frames with first or second synchronization words. At the beginning of the transmission, both reception pages (Z1 ', Z2') are set to the first synchronization word. After detecting the first synchronization location in one of the receiving pages (Z1 ', Z2'), the correct assignment of the received bit streams is produced.
+</ABSTRACT>
+</TEXT>
+</DOC>

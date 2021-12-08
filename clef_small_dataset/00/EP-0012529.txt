@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012529
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21B-1/11 H05H-1/12 H05H-1/22 G21B-1/25 H05H-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of thermonuclear ignition in a plasma.
+</TITLE>
+<APPLICANT>
+euratomlu<sep>european atomic energy community (euratom)<sep>european atomic energy community (euratom)bâtiment jean monnet plateau du kirchberg boíte postale 1907l-2920 luxembourglu<sep>
+</APPLICANT>
+<INVENTOR>
+field jeremy jamesgb<sep>minardi ettoregb<sep>salpietro ettore gb <sep>field, jeremy james<sep>minardi, ettore<sep>salpietro, ettore<sep>field, jeremy james17 masefield crescentabingdon oxfordshiregb<sep>minardi, ettore5 stanfield closeheadington, oxfordshiregb<sep>salpietro, ettore63 norman avenueabingdon, oxfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of achieving thermonuclear ignition in a  magnetically confined plasma, for example in a tokamak,  in which the plasma is initially heated ohmically by the  plasma current and subsequently by the injection of neutral  beam until the ionic and electronic temperatures are sub­ stantially above those required for ignition.  in order to in­ crease the mean density of the plasma sufficiently to per­ mit fulfilment of the criterion for ignition, the plasma is  supplied with cold neutral gas, namely by gas puffing.  
+</ABSTRACT>
+<DESCRIPTION>
+production of thermonuclear ignition in a plasma this invention relates to the production of thermonuclear ignition in a plasma. it is primarily intended for use in a machine in which a plasma is magnetically confined in a shape of a toroid; one such machine is a tokamak but although the invention will be particularly described in relation to its use in a tokamak, it is intended that the invention should have utility in other reactors, for example stellarators. the production of ignition in a plasma, ignition being the condition in which the energy released by thermonuclear fusion in the plasma exceeds all losses of energy from the plasma, requires the confinement of the plasma at a temperature, at which the nuclei are energetic enough to overcome their mutual electrostatic repulsion, for at least a minimum time, known as the energy confinement time. ignition requires the quantity 3(nl+n2)k(ti+te)/e to to be equal to or less than nln2(sv), where nl and n2 are the densities of the reacting nuclei, k is boltzmann's constant, t. and t are the temperatures of the ions and i e electrons respectively, # is the energy confinement time of the plasma,(sveis the average microscopic cross-section of the thermonuclear reactions (and depends on temperature alone) and q represents the energy released in the plasma for each fusion reaction. for convenience of explanation, it may be presumed that the plasma is constituted by 50% each of deuterium and tritium, so that nl=n2=n. the afbrementioned condition then reduces to the condition that nlcbe equal to or greater than 6ksti+te) (sv)q. by way of example, ignition for a plasma constituted as aforesaid requires the attainment of a temperature of 12ke and that the quantity nt be of the order of 4x102 m the necessary presence of an electric current in a plasma in a tokamak or other magnetic confinement device makes convenient the use of ohmic resistive heating. iiowever, because the conductivity of the plasma varies according to the power of three halves of the temperature, ohmic heating becomes increasingly ineffective as the temperature rises. for example, a temperature corresponding to approximately 3kev is at present a practical limit. other methods of heating a plasma are known or have been proposed; they include. adiabatic compression, radio-frequency heating and the injection of a neutral beam. the last named method, injection of a neutral beam, is capable of producing the temperature required for ignition, but practical limitations on the penetration of the plasma by the injected beam prevent the attainment of a mean density which is sufficiently great for ignition. although it might be feasible to increase the density of a toroidal plasma electromagnetically, for example by altering the component of magnetic field normal to the plane of the toroid so as to reduce the orbital radius of the plasma and thereby the nuclear density within t, such an expedient would require an excessively large machine in order to accommodate the radial contraction of the plasma. according to the present invention, in order
+</DESCRIPTION>
+<CLAIMS>
+claims    1. a method of producing thermonuclear ignition in a confined plasma, in which the plasma is heated above the temperature required for ignition and is supplied with cold gas in order to inclease the density   o    the plasma sufficiently for the attainment of ignition.    2. a method according to claim 1, in which the heating of the plasma is performed partly by ohmic heating by current in the plasma and partly by the injection of an energetic neutral beam into the plasma.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013857
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-27/156 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+demodulation device for a frequency shift modulated analog signal.
+</TITLE>
+<APPLICANT>
+thomson csf mat telfr<sep>le materiel telephonique thomson-csf<sep>le materiel telephonique thomson-csf146 boulevard de valmy92707 colombes cedexfr<sep>
+</APPLICANT>
+<INVENTOR>
+houdard jean-pierrefr<sep>julie jean-jacques fr <sep>houdard, jean-pierre<sep>julie, jean-jacques<sep>houdard, jean-pierre le materiel telephoniquethomson-csf 46 quai alphonse le gallof-92103 boulogne-billancourt cedexfr<sep>julie, jean-jacques le materiel telephoniquethomson-csf 46 quai alphonse le gallof-92103 boulogne-billancourt cedexfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the device comprises means (1) for sampling and converting the signal x (t) into binary, means (2) for recognising the received frequency with each sample xn, means (3) for performing statistics over n successive decoding binary elements rn, means (4) for determining the number of elementary moments corresponding to a particular logic state of the statistical signal qn, and means (5) for restoring the transmitted digital information.  application to data transmission.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

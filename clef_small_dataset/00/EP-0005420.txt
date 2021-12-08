@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005420
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22B-60/00 C22B-60/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of purifying a substance by the selective alkaline carbonate leaching of said substance to remove uranium therefrom.
+</TITLE>
+<APPLICANT>
+boliden abse  <sep>boliden aktiebolag<sep>boliden aktiebolagbox 5508s-114 85 stockholmse<sep>
+</APPLICANT>
+<INVENTOR>
+baeck erik gustavse<sep>baeck, erik gustav<sep>bäck, erik gustavhantverksvägen 44s-184 00 akersbergase<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of purifying uranium-containing substances containing  compounds of one or more of the metals aluminium,  magnesium, calcium and iron by removing the uranium from  said substances.  the purification is effected by selective,  alkaline carbonate leaching of the uranium.  the substance is  finely divided and slurried in an aqueous solution containing  0. 3-1. 5 mole/l of carbonate ions and having an oxidation potential  of 0. 3-1 v, and subsequent to the leaching process the  leaching liquid has a ph of between 8. 5 and 10. 5 at a pressure  of 0. 2 to 2. 0 mpa.  the substance may be finely-divided by wet-grinding, and  the leaching solution used as the grinding liquid.  the leaching is  preferably effected in a tube reactor vessel in which the substance  is slurried in leaching liquid at a temperature of  120-180°c and leached at a partial pressure of oxygen of  0. 1-0. 6 mpa.  
+</ABSTRACT>
+<DESCRIPTION>
+a method of purifying a substance by the selective alkaline carbonate leaching of said substance to remove uranium therefrom the present invention relates to a novel purifying process for separation uranium from a uranium-containing substance, by subjecting said substance to a selective, alkaline leaching process. by substances is herein meant primarily phosphorous - containing, carboncontaining and/or sulphur-containing substances having compounds of one or more of the metals aluminium, magnesium, calcium and iron. purification of the substance is effected by leaching a finely-divided slurry thereof in a leaching liquid containing 0.3-1.5 mole of carbonate ions per litre and having an oxidation potential of 0.3-1 v, said leaching process being effected so that the leaching liquid, subsequent to said leaching process, has a ph of 8.5 to 10.5. the leaching process is carried out at a pressure of 0.2-2.0 mpa. it has been discovered in recent times that radioactive material is abundently present in a highly undesirable manner in industrial products. thus, uranium has been found in building materials and radioactive substances have been found in fertilizers such as phosphates, phosphorites and apatites. when mining slates or shales containing kerogen, it would also seem necessary to separate the uranium present therein. granite also contains uranium. moreover, uranium is a valuable crude product for the manufacture of energy. thus, the removal of radioactive components from a long list of materials is highly desirable, it being of particular interest to remove uranium, which is one of the most abundant radioactive materials in nature. it has now been found that such purification can be effected to advantage without removing aluminium, magnesium, calcium and iron from the substances at the same time. this enables the method to be used on a commercial scale, for purifying substances containing said metals in large quantities. the method can also be used to advantage on those substances which contain phosphorus, carbon and sulphur, and particularly kerogen-containing substances such as slates and shales. uranium is present in the form of an impurity in many substances. thus, crude phosphate normally contains from 200 - 400 grams of uranium per ton;phosphorite normally contains from 100 - 1000 grams of uranium per ton; apatite normally contains 50 - 200 grams of uranium per ton; granite normally contains 0 - 100 grams of uranium per ton; and slates and shales normally contain 50 - 1500 grams of uranium per ton. the pressure leaching of uranium ores for removing uranium therefrom with carbonate solutions is generally known. it has now been found possible to use this technique for the purpose of removing uranium from other materials, a surprisingly good and selective purifying result being obtained. it has also surprisingly been found possible to effect the purifying of such substances by carbonate leaching processes with a considerably higher yield than that obtained when using acid leaching processes, which was not previously supposed. purification of substances in accordance with the invention has been found to give a substantially better result during a 24 hours leaching time than a
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a method of purifying uranium-containing substances containing compounds of one or more of the metals aluminium, magnesium, calcium and iron by removing the uranium from said substances, said purification being effected by selective, alkaline carbonate leaching of the uranium, wherein the substance is finely divided and slurried in an aqueous solution containing 0.3-1.5 mole/l of carbonate ions and having an oxidation potential of 0.3-1 v, and wherein, subsequent to the leaching process the leaching liquid has a ph of between 8.5 and 10.5 at a pressure of 0.2 to 2.0 mpa.    2. a method according to claim 1, wherein the substance is finely divided by wet-grinding, and wherein the leaching solution is used as the grinding liquid.   3. a method according to claim 1, wherein leaching is effected in a tube reactor vessel in which the substance is slurried in leaching liquid at a temperature of   120-180 c.      4. a method according to claim 1, wherein leaching is effected at a partial pressure of oxygen of 0.1-0.6 mpa.   5. a method according to claim 3, wherein the pressure in the tube reactor vessel is lowered stepwise during a heat exchange between the outgoing suspension and the suspension incoming to the tube reactor vessel.  
+</CLAIMS>
+</TEXT>
+</DOC>

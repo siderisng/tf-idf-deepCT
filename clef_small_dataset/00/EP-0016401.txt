@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016401
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/14 C07F-9/00 <main>C07F-9/14</main> C07F-9/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing dichlorophosphoric acid alkyl esters.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+hansen gert dr<sep>schmidt friedrich dr  <sep>schmidt karl-julius dr<sep>siegle peter dr<sep>hansen, gert, dr.<sep>schmidt, friedrich, dr.<sep>schmidt, karl-julius, dr.<sep>siegle, peter, dr.<sep>hansen, gert, dr.c/o bayer do brasil s.a. caixa postal 95901 000 sao paulobr<sep>schmidt, friedrich, dr.in den birken 77d-5060 wuppertal 1de<sep>schmidt, karl-julius, dr.sillerstrasse 44d-5600 wuppertal 11de<sep>siegle, peter, dr.am reinholdsberg 1d-5000 köln 80de<sep>hansen, gert, dr.<sep>schmidt, friedrich, dr.<sep>schmidt, karl-julius, dr. <sep>siegle, peter, dr.<sep>hansen, gert, dr. c/o bayer do brasil s.a. caixa postal 959 01 000 sao paulo br<sep>schmidt, friedrich, dr.in den birken 77d-5060 wuppertal 1de<sep>schmidt, karl-julius, dr.sillerstrasse 44d-5600 wuppertal 11de<sep>siegle, peter, dr.am reinholdsberg 1d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for the preparation of alkyl ester phosphoric acid dichlorides by reacting phosphorus oxideloride with aliphatic alcohols after the reaction equation in the R is C₁-C₅ alkyl, which is characterized in that the reaction at temperatures of 10 to 50 ° C using one5 to 400% phosphorus oxiculide excess performs continuously.
+</ABSTRACT>
+</TEXT>
+</DOC>

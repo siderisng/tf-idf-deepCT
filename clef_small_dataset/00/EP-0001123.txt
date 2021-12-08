@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001123
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25D-9/00 H01L-23/473 H01L-23/46 H01L-23/44 H01L-23/34 H01L-23/433 H05K-7/20 <main>H01L-23/42</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+capsule for cooling semiconductor chips.
+</TITLE>
+<APPLICANT>
+ibmus  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+meeker robert glen<sep>scanlon william joseph<sep>segal zvi<sep>meeker, robert glen<sep>scanlon, william joseph<sep>segal, zvi<sep>meeker, robert glenclapp hill roadlagrangeville, ny 12540us<sep>scanlon, william joseph27 candy lanehopewell junction, ny 12533us<sep>segal, zvi12 plaza roadwappingers falls, ny 12590us<sep>meeker, robert glen <sep>scanlon, william joseph  <sep>segal, zvi<sep>meeker, robert glenclapp hill roadlagrangeville, ny 12540us<sep>scanlon, william joseph27 candy lanehopewell junction, ny 12533us<sep>segal, zvi12 plaza roadwappingers falls, ny 12590us<sep>
+</INVENTOR>
+<ABSTRACT>
+In a capsule arrangement for cooling semiconductor chips (10), a heat dissipating bolt (22) is positioned on each chip (10).The bolt (22) extends within a resilient bellows (21).The chip carrier end of the bellows (21) is fixed in a recess (20) of the capsule arrangement.Between the chips (10) and the space outside the bellows (21), a coolant I and within the bellows (21) is provided another coolant II.Both coolants I and II may be the same, preferably liquid helium or unequal when the space within the bellows (21) is connected to a cooling fluid system separated from the coolant I outside the bellows.
+</ABSTRACT>
+</TEXT>
+</DOC>

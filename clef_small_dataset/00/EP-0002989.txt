@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002989
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/58 <main>C07C-51/58</main> B01J-27/00 C07C-51/00 C07C-53/40 C07C-51/60 C07C-53/00 C07C-63/10 C07B-9/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparation of organic acid halide.
+</TITLE>
+<APPLICANT>
+ethyl corpus<sep>ethyl corporation <sep>ethyl corporation330 south fourth street p.o. box 2189richmond virginia 23219 us  <sep>ethyl corporation <sep>
+</APPLICANT>
+<INVENTOR>
+johnston james douglas<sep>sanders robert norton<sep>starrett richmond mullins<sep>johnston, james douglas<sep>sanders, robert norton<sep>starrett, richmond mullins<sep>johnston, james douglas655 sharp lanebaton rouge louisiana 70815us<sep>sanders, robert norton13239 toddbaton rouge louisiana 70815us<sep>starrett, richmond mullins938 rossmorbaton rouge louisiana 70810us<sep>johnston, james douglas <sep>sanders, robert norton  <sep>starrett, richmond mullins<sep>johnston, james douglas655 sharp lanebaton rouge louisiana 70815us<sep>sanders, robert norton13239 toddbaton rouge louisiana 70815us<sep>starrett, richmond mullins938 rossmorbaton rouge louisiana 70810us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the preparation of organic acid halide  such as acetyl chloride by reacting an organic acid anhydride  with a silicon halide, such as silicon tetrachloride,  under conditions such that the organic acid halide is produced  along with silica which is easily separated and disposed  of.  a lewis acid metal halide catalyst is used and  superior yields are obtained.  the reaction is desirably carried  out in the presence of a chlorohydrocarbon solvent in  which the metal halide catalyst chosen and the reactants  and products are soluble.  
+</ABSTRACT>
+</TEXT>
+</DOC>

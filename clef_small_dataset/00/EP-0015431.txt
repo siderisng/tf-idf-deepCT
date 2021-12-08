@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015431
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09J-167/00 C08G-63/78 C08G-63/00 C08G-63/18 <main>C08G-63/22</main> C08G-18/42 C08G-63/181 C09D-167/00 C08G-63/16 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of neopentyl glycol polyesters and copolyesters.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag  <sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+konig klaus dr<sep>reichmann wolfgang dr<sep>schonfelder manfred dr<sep>konig, klaus, dr.<sep>reichmann, wolfgang, dr.<sep>schonfelder, manfred, dr.<sep>könig, klaus, dr.heymannstrasse 50d-5090 leverkusen 1de<sep>reichmann, wolfgang, dr.vohwinkelallee 19d-4000 düsseldorfde<sep>schönfelder, manfred, dr.höhenstrasse 126d-5090 leverkusen 3de<sep>konig, klaus, dr.  <sep>reichmann, wolfgang, dr. <sep>schonfelder, manfred, dr.<sep>könig, klaus, dr.heymannstrasse 50d-5090 leverkusen 1de<sep>reichmann, wolfgang, dr.vohwinkelallee 19d-4000 düsseldorfde<sep>schönfelder, manfred, dr.höhenstrasse 126d-5090 leverkusen 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of neopentyl glycol-poly esters and mixing polyesters by reacting a) carboxylic acids whose anhydrides or esters with monoal acohols with b) neopentyl glycol and optionally c) further, at higher temperatures as neopentyl glycol-boiling glycols under separation of the condensation water or the monoAlcohol, characterized in that the reaction in the presence of 0.1-3 wt.-%, based on polyester, a glycol boiling as neopentyl glycol at lower temperatures.
+</ABSTRACT>
+</TEXT>
+</DOC>

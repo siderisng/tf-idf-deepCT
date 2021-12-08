@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014500
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-23/20 <main>G01N-23/207</main> G01N-23/207 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+x-ray powder diffractometer.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+ladell joshua<sep>ladell, joshua<sep>ladell, joshuaint. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>ladell, joshua  <sep>ladell, joshuaint. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a computer controlled asymmetric texture-sensitive  parafocussing x-ray powder diffractometer employs an  incremental rotating specimen holder for azimuthal rotation  through an angle ⊘.  the specimen holder is rotatable through  an angle α from a symmetric position in which the specimen  surface normal makes an angle (90-ϑ)° with both the source-­ to-specimen and detector-to-specimen directions.  in order to  maintain the brentano focussing condition, the detector is  supported on a slide which can be moved towards and away  from the specimen by a stepper-motor drive.  a ratio k of the  detector-to-specimen distance r on the one hand and the  x-ray source-to-specimen distance p on the other hand is  constrained to a range c < k < f.  the desired focussing  condition is realized by computer control which maintains k  = sin (ϑ + α)/sin(ϑ-α) and modifies the measured value of  the intensity by multiplying it by 0. 5 (k + 1) k0. 75exp [µr(k -  1)], where µ is the linear absorption coefficient for air.  
+</ABSTRACT>
+</TEXT>
+</DOC>

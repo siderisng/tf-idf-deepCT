@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013177
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01D-53/14</main> B01D-11/04 C10G-50/00 C10G-71/00 B01D-53/48 B01D-53/14 C10G-50/02 C10G-67/04 C10G-67/00 C10G-67/16 B01D-53/77 B01D-53/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+use of hot n-methyl-2-pyrrolidone (nmp) from solvent extraction operation to supply heat to strip h2s from nmp-scrubbing solution.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company  <sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company  <sep>
+</APPLICANT>
+<INVENTOR>
+blume john herman<sep>bushnell james dyckman<sep>leighton milton dale<sep>blume, john herman<sep>bushnell, james dyckman<sep>leighton, milton dale<sep>blume, john herman1 mountain view drivechester, new jerseyus<sep>bushnell, james dyckman312 timber driveberkeley heights, new jerseyus<sep>leighton, milton dale99 riverside driveflorham park, new jerseyus<sep>blume, john herman<sep>bushnell, james dyckman<sep>leighton, milton dale<sep>blume, john herman1 mountain view drivechester, new jerseyus<sep>bushnell, james dyckman312 timber driveberkeley heights, new jerseyus<sep>leighton, milton dale99 riverside driveflorham park, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+h₂s is scrubbed (30) from a gas (32) by n-methyl­ -2-pyrrolidone to form a scrubbed gas (34) and an h₂s-rich  nmp solution (36).  the latter (36) is passed to a stripping zone  (40) where it is stripped of h₂s with a stripping gas (11) after  first being heated to a stripping temperature by indirect heat  exchange (in 26) with a combined stream (24, 25) of stripped  nmp solution (46) recovered from the stripping zone (40) and  hot nmp (10) from a solvent extraction operation.  scrubbed  gas (34) is used to strip nmp from hydrocarbons in the solvent  extraction operation and is then used as the stripping gas (11)  in the stripping zone (40).  
+</ABSTRACT>
+</TEXT>
+</DOC>

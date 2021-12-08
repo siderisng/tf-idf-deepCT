@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013154
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-45/30 B29C-45/37 B29C-41/00 B29C-45/73 B29C-45/00 B29C-45/27 B29C-45/64 B29C-45/77 B29C-33/00 B29C-43/00 B29C-45/28 B29C-45/56 <main>B29G-3/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and apparatus for runnerless injection-compression molding thermosetting materials.
+</TITLE>
+<APPLICANT>
+occidental chem cous<sep>occidental chemical corporation<sep>occidental chemical corporationp.o. box 189niagara falls new york 14302us<sep>occidental chemical corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bainbridge robert w<sep>dannels w andrew<sep>bainbridge, robert w.<sep>dannels, w. andrew<sep>bainbridge, robert w.114 woodlake drivegainsville georgiaus<sep>dannels, w. andrew4812 east river roadgrand island new yorkus<sep>bainbridge, robert w.<sep>dannels, w. andrew<sep>bainbridge, robert w.114 woodlake drivegainsville georgiaus<sep>dannels, w. andrew4812 east river roadgrand island new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+method of and apparatus for compression molding  requires a thermosetting molding material, suitably a synthe­ tic resin composition such as a phenolic molding composi­ tion, to be initially heated and plasticized.  the plasticized  mass is passed as a stream through an injection nozzle (17)  which is maintained at a temperature sufficiently high to keep  the mass in a plasticized condition but sufficiently low to avoid  any substantial curing or setting-up of the mass.  the plasti­ cized mass is next passed through a temperature-controlled  manifold (33) maintained at a temperature sufficiently high to  keep the mass in a plasticized condition but sufficiently low to  avoid any substantial curing or setting-up of the mass.  in the  manifold the plasticized stream is divided into two or more  smaller streams which are passed through a plurality of out­ lets (61, 79) into a plurality of partially open, heated molds (41,  47).  the mold cavities are maintained at temperatures suffi­ ciently high to cure the thermosetting molding material.   when the partially open molds are full, the feed stream is  interrupted, and the molds are then completely closed to  press and cure the plasticized material enclosed within them.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013361
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07D-263/34 C07D-233/68 C07D-333/20 C07C-233/88 C07C-155/02 C07C-231/00 C07D-333/00 C07C-271/44 C07D-261/18 C07D-263/00 C07C-323/62 C07C-323/60 C07D-213/00 C07D-261/00 C07C-235/00 C07D-307/68 C07C-233/15 C07C-333/00 C07D-213/81 C07C-271/00 C07C-333/08 C07C-231/14 C07D-333/38 <main>C07C-103/76</main> C07D-249/08 C07C-67/00 C07C-103/78 C07D-249/00 C07D-521/00 C07C-325/00 C07C-125/067 C07D-401/00 C07C-253/00 C07D-307/00 C07C-255/00 C07C-255/40 C07C-313/00 C07D-233/00 C07C-235/68 C07C-323/00 C07C-233/00 C07D-401/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted n-halogenomethyl anilides, process for their preparation and use.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+eicken karl dr dipl-chem<sep>plath peter dr dipl-chem<sep>rohr wolfgang dr dipl-chem<sep>eicken, karl, dr. dipl.-chem.<sep>plath, peter, dr. dipl.-chem.<sep>rohr, wolfgang, dr. dipl.-chem.<sep>eicken, karl, dr. dipl.-chem.waldstrasse 63d-6706 wachenheimde<sep>plath, peter, dr. dipl.-chem.berner weg 24d-6700 ludwigshafende<sep>rohr, wolfgang, dr. dipl.-chem.gontardstrasse 4d-6800 mannheim 1de<sep>eicken, karl, dr. dipl.-chem.<sep>plath, peter, dr. dipl.-chem.<sep>rohr, wolfgang, dr. dipl.-chem.<sep>eicken, karl, dr. dipl.-chem.waldstrasse 63d-6706 wachenheimde<sep>plath, peter, dr. dipl.-chem.berner weg 24d-6700 ludwigshafende<sep>rohr, wolfgang, dr. dipl.-chem.gontardstrasse 4d-6800 mannheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to new valuable N-chloromethyl-carbon acid anilides of the formula wherein R¹ methyl, ethyl, isopropyl, methoxy or chlorine, R² methyl, ethyl, isopropyl or chloro R³ optionally by halogen substituted benzyl or 1-phenylethyl, or optionally one- or two times by methyl, fluorine, chlorine, bromine, iodine, cyan, trifluoromethyl, nitro, methoxy or methylthio substituted phenyl, or optionally by methyl or chlorine substitui of 5- or 6-membered heterocyclic radical with one or two identical or different heteroatoms the group oxygen, sulfur and nitrogen or the radical -CH₂-Y or means Y wherein Y is a C₁-C₄-alkylthiol or optionally mono- or multiple by chlorine, fluorine, methyl, trifluoromethyl or nitro substitu phenoxyl or phenylthiol, or R³ means the REST -X-R⁴, where x oxygen or sulfur, R⁴ an optionally single or ZVEIFACH through fluorine, ChLO R, bromine, trifluoromethyl, C₁-C₄-alkyl, nitro, methoxy or methylthio-substituted phenyl, and Hal fluorine, chlorine or bromine means a process for their preparation and their use for producing new valuable N-carboxylic acid anilides.
+</ABSTRACT>
+</TEXT>
+</DOC>

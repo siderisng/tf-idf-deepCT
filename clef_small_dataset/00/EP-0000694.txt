@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000694
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C07F-9/54 <main>C07F-9/54</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of quaternary phosphonium hydroxides.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+hartfried vollmer dr<sep>hestermann klaus dr<sep>hartfried, vollmer, dr.<sep>hestermann, klaus, dr.<sep>hartfried, vollmer, dr.berliner strasse 1d-5042 erftstadt liblarde<sep>hestermann, klaus, dr.am wachberg 68d-5042 erftstadt bliesheimde<sep>hartfried, vollmer, dr. <sep>hestermann, klaus, dr.  <sep>hartfried, vollmer, dr.berliner strasse 1d-5042 erftstadt liblarde<sep>hestermann, klaus, dr.am wachberg 68d-5042 erftstadt bliesheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for producing quaternary phosphonium hydroxides of the general formula in which R is either hydrogen or an aliphatic or aromatic hydrocarbon having 1 to 12 C atoms and R 1 or 2, by reacting di- or trimethylphosphine with epoxidesThe general formula in the R above is the above meaning, in an aqueous medium by adjusting the aqueous medium by means of bases to a pH ≧ 12 before mixing the starting components in this medium.
+</ABSTRACT>
+</TEXT>
+</DOC>

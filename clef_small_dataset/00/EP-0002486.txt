@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002486
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/40 H01L-27/04 H01L-21/822 H01L-21/8244 G11C-7/00 H01L-29/43 H01L-29/40 H01L-27/10 G11C-7/20 H03K-3/356 H01L-27/11 <main>H01L-29/62</main> G11C-11/412 H03K-3/353 H03K-3/00 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+static storage cell consisting of two field effect transistors and its usage in a programmable logic circuit.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bertin claude louis<sep>bertin, claude louis<sep>bertin, claude louis10501 adel roadoakton virginia 22124us<sep>bertin, claude louis<sep>bertin, claude louis10501 adel roadoakton virginia 22124us<sep>
+</INVENTOR>
+<ABSTRACT>
+A static memory cell is described from two field effect transistors whose electrodes are linked to each other and / or with drive, input and output lines into a memory cell federation or arrangement of many controllable logic circuits, wherein the field effect transistors of the memory cell having a resistor formedGate electrode are equipped.The resistor formed gate is arranged above the channel area and separates the source, drain diffusions from each other, which consist of high resistance polycrystalline silicon.
+</ABSTRACT>
+</TEXT>
+</DOC>

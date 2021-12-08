@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001674
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16L-55/00 F17D-5/06 F17D-3/00 G01N-29/24 G01N-29/28 F17D-5/00 <main>G01N-29/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+wheel probe for ultrasonic inspection of pipelines.
+</TITLE>
+<APPLICANT>
+british gas corpgb<sep>british gas corporation  <sep>british gas corporationrivermill house, 152 grosvenor roadlondon sw1v 3jlgb<sep>british gas corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bull reginald brian<sep>duffill colin<sep>usmar ronald arthur<sep>bull, reginald brian<sep>duffill, colin<sep>usmar, ronald arthur<sep>bull, reginald brian10 the alderstratchamgb<sep>duffill, colin14 clifton driveabingdon oxfordshiregb<sep>usmar, ronald arthur89 queenswaydidcot oxfordshiregb<sep>bull, reginald brian <sep>duffill, colin<sep>usmar, ronald arthur  <sep>bull, reginald brian10 the alderstratchamgb<sep>duffill, colin14 clifton driveabingdon oxfordshiregb<sep>usmar, ronald arthur89 queenswaydidcot oxfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a wheel probe for use on a pipe inspection vehicle.  the  wheel probe comprises an annular outer rim (22) with a  polyurethane tyre (32) mounted on a hub assembly which,  with the hub, defines a fluid-tight chamber containing an  acoustic coupling fluid.  a number of ultrasonic transducers  are located inside the chamber and are positioned close to the  inside circumferential surface of the rim (22).  the hub assembly  is carried by a spring loaded carriage which is secured to  the vehicle.  the wheel probe includes a guide guide wheel (39) on  each side.  the guide wheels (39) are carried by the carriage  but are moveable bodily relative to the centre of the hub  assembly, and when deflected, they operate on the assembly  to move the wheel probe to ensure that the outer rim (22) of  the wheel is correctly aligned relative to the pipe (11).  the  wheel probe has a number of shields (33) spaced around its  periphery.  the gaps between the shields define operating  "windows" through which the rim (22) of the wheel probe  projects to contact the pipe (11).  the shields (33) are located  close to the bore of the pipe (11) so that if the probe encounters  an obstruction the shield (33) snages on the obstruction, is  pulled between the rim (22) and the pipe (11) to lift the wheel  over the obstruction, and turns on to the next operating "window".   cam followers (37 a) are provided to hold the shields  (33) in position.  
+</ABSTRACT>
+</TEXT>
+</DOC>

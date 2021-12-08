@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006138
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 B01D-53/047 B01D-53/04 <main>B01D-53/04</main> C01B-3/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for operating a pressure swing adsorption device.
+</TITLE>
+<APPLICANT>
+bayer antwerpen nvbe <sep>bayer antwerpen n.v.<sep>bayer antwerpen n.v. haven 507, scheldelaan 420 2040 antwerpenbe<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>bayer antwerpen n.v.<sep>linde aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+de meyer herman dr<sep>doclo roland dr<sep>seynaeve jan ir<sep>de meyer, herman, dr.<sep>doclo, roland, dr.<sep>seynaeve, jan, ir.<sep>de meyer, herman, dr.geestenspoor 117b-2070 ekerenbe<sep>doclo, roland, dr.groene wandeling 19b-2232 schilde-'s gravenwezelbe<sep>seynaeve, jan, ir.pauwelslei 16b-2130 brasschaatbe<sep>de meyer, herman, dr.<sep>doclo, roland, dr. <sep>seynaeve, jan, ir.<sep>de meyer, herman, dr. geestenspoor 117 b-2070 ekeren be <sep>doclo, roland, dr.groene wandeling 19b-2232 schilde-'s gravenwezelbe<sep>seynaeve, jan, ir.pauwelslei 16b-2130 brasschaatbe<sep>
+</INVENTOR>
+<ABSTRACT>
+A continuous pressure change adsorption method with at least eight phase-shifted adsorption units is described, in which each adsorption unit is operated periodically alternately in the working states «adsorption» and «countercurrent flushing» with interconnected pressure equalization phases by switching a plurality of valves according to a predetermined first clock schema.The method allows continuous operation without removing the system in the case of valve defects.A defective valve is determined during continuous operation by comparing characteristic physical measurements with predetermined setpoints in multiple consecutive clocking steps.Thereafter, a second predetermined clock scheme is switched under omission of the adsorption unit to which the defective valve belongs.
+</ABSTRACT>
+</TEXT>
+</DOC>

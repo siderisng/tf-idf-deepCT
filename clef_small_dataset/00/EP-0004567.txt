@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004567
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A61B-3/02</main> A61B-3/02 A61B-3/10 G02C-13/00 A61B-3/028 A61B-3/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus to subjectively determine eye refraction.
+</TITLE>
+<APPLICANT>
+schwind gmbh & co kg herbertde<sep>herbert schwind gmbh & co. kg<sep>herbert schwind gmbh &amp; co. kgmainparkstrasse 6 - 10d-63801 kleinostheimde<sep>herbert schwind gmbh & co. kg  <sep>
+</APPLICANT>
+<INVENTOR>
+reiner josef dr<sep>reiner, josef, dr.<sep>reiner, josef, dr.stefan-lochner-strasse 14d-5000 köln 50de<sep>reiner, josef, dr.<sep>reiner, josef, dr.stefan-lochner-strasse 14d-5000 köln 50de<sep>
+</INVENTOR>
+<ABSTRACT>
+In the eye reflection determination, the respective trial glass is mapped by means of an optical system into the pupil of the eye to be examined (or in a preselected distance in front of the pupil), so that the subject does not need to carry a trial goggle, nor needed directly by a phoropter.
+</ABSTRACT>
+</TEXT>
+</DOC>

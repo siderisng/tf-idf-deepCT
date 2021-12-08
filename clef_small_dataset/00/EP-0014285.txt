@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014285
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01L-3/22 F16K-1/32 <main>F01L-3/22</main> F01L-3/00 F16K-1/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+self locking valve seat insert.
+</TITLE>
+<APPLICANT>
+rosan inc us<sep>rosan, inc.<sep>rosan, inc.2901 west coast highwaynewport beach california 92663us<sep>rosan, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+rosan jr jose<sep>rosan jr., jose<sep>rosán jr., josé2841 west coast highwaynewport beach california 92663us<sep>rosan jr., jose <sep>rosán jr., josé2841 west coast highwaynewport beach california 92663us<sep>
+</INVENTOR>
+<ABSTRACT>
+a valve seat insert for installation in cylinder heads of  internal combustion engines which includes a pilot flange, an  annular groove and a locking flange by which the valve seat  insert is locked into the cylinder head.  
+</ABSTRACT>
+<DESCRIPTION>
+this is a continuation in part of my application serial number 950,973 filed october 13,1978. the present invention relates to valve seats and particularly to self locking valve seats for use in internal combustion engines. it has been common knowledge in the art that successful performance of a valve seat insert requires that thee be intimate contact with the surrounding engine material so that adequate heat transfer may occur between the insert and the engine. the problem of heat transfer is also involved with the problem of securely fastening the valve seat insert in the cylinder head of the engine. as a means to improve the economy of the otto type internal combustion engine, auto manufacturers have attempted to switch from cast iron to aluminum block and/or aluminum head engines. this switch has accentuated the problems associated with heat transfer and securely fastening valve seats in the cylinder heads. a number of solutions have been tried in the past with limited success. valve seats which are pressed into counterbores and then locked in place with various devices have been used. these have not proved entirely satisfactory because of heat transfer problems, resulting from the buildup of corrosion and carbon deposits around the insert and its fastening device. self tapping threads have been use on valve seat inserts as in u.s. 3,868,953 to overcome heat transfer and secure fastening problems while partially solving those problems this method has introducefl new problems of alignment and cost of manufacture. furthermore, replacement of the insert with the self-cutting thread sometimes results in a loose valve seat since the new insert may not sit tightly into the threadways formed by the previously used valve seat insert. the method current used for insertion of valve seat inserts is to lower the temperature of a machined insert by immersion in liquid nitrogen. then heat the cylinder head to expand the machined opening and then force the insert into the opening. when the insert and cylinder head reach ambient temperature a tight fit results with good heat transfer characteristics. however, this method is expensive since it involves rigid manufacturing tolerances and the use of cryogenic equipment and the handling of liquid nitrogen there is also a safety hazard involved in handling liquid nitrogen as part of a large production scale operation also, while this cryogenic procedure has proved satisfactor for initial engine production operations, it does not solve the problem of replacing valve seats in the field. it is an object therefore of this invention to provide a simple economical valve seat insert capable of easy, inexpensive insertion in cylinder heads of internal combustion engines. it is an object of this invention @@ pr@@@@e e @l@ seat insert, which is self locking into i@timate centact @i@@ the surrounding material of the cylinaer heae. it is still another object of this invention to prov@@e a valve seat insert with impreved heat transfer c@aracteri@@@ it is a further object of this invention to provide a self locking valve seat insert
+</DESCRIPTION>
+<CLAIMS>
+claims:      1.    a self locking   valve    seat   insert    for installa in an engine cylinder head comprising:  a cylindrical metal ring having a valve seat   -'f rnr    formed on one face thereof;  a pilot flange beveled at the edge forming the lace opposite the valve seat means;  a locking flange means greater in diameter than the pilot flange containing the valve seat on its upper face and forming shoulder at its lower edge;  an annular groove formed by and located between the pilot flange and the locking flange; and  cold formed material displaced from the cylinder head and packed into the annular groove by the forming shoulder to provide a metal to metal lock.     2. the self locking valve insert of claim 1 in which the diameter of said locking flange is not less than .005 of an inch greater or more than   .015    of an inch greater than the diameter of the pilot flange  3. the self locking valve insert of claim 1 in which the circumference of the locking flange means contains longitudinal serrations.        4.    a self locking valve seat insert for installation in an engine cylinder substantially as described with reference to the accompanying drawings.  
+</CLAIMS>
+</TEXT>
+</DOC>

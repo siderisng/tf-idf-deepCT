@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011939
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/365 A61N-1/372 <main>A61N-1/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital cardiac pacemaker pulse generator.
+</TITLE>
+<APPLICANT>
+medtronic incus<sep>medtronic, inc.<sep>medtronic, inc.3055 old highway eightminneapolis minnesota 55440us<sep>medtronic, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+thompson david l<sep>thompson, david l.<sep>thompson, david l.1660 onondaga streetfridley minnesota 55432us<sep>thompson, david l.<sep>thompson, david l.1660 onondaga streetfridley minnesota 55432us<sep>
+</INVENTOR>
+<ABSTRACT>
+a programmable medical device, e. g.  a cardiac  pacemaker, utilizes digital circuitry 40 for controlling circuitry  42 for providing clocks, an output circuit and heart activity  sensing.  digital circuit 40 includes a memory in which may be  programmed on a permanent or temporary basis from an  external programmer control information relating to rate,  pulse width, pulse amplitude, refractory period, sense amp­ lifier sensitivity and the mode of operation desired.  in addition  the output can be inhibited or a threshold margin test can be  performed in which a reduced energy output pulse is pro­ vided to check if heart capture is lost.  the pacemaker can  operate in a hysteresis mode and provides a high rate limit  which can however be exceeded by programming.  the  pacemaker further includes means for signalling the accep­ tance of a programming signal and means to reset the prog­ ram acceptance circuit if extraneous signals are detected as  programming signals.  the acceptance circuit checks for the  receipt of the proper number of signals within a given time, for  an access code and correct parity.  timing is by means of a  crystal oscillator and a voltage controlled oscillator controls  pulse width to obtain energy compensation with varying bat­ tery voltage.  
+</ABSTRACT>
+</TEXT>
+</DOC>

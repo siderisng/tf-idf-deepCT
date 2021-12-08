@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0006894
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-83/14 H01H-83/02 H02H-3/32 H01H-83/00 H02H-3/33 <main>H01H-83/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+protective circuit-breaker operated by leakage current.
+</TITLE>
+<APPLICANT>
+gath nicolas  <sep>gath, nicolas<sep>gath, nicolas <sep>
+</APPLICANT>
+<INVENTOR>
+gath nicolas<sep>gath, nicolas<sep>gath, nicolas <sep>gath, nicolas 15, rue joseph tockert l-luxembourg hollerichlu<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

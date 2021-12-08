@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005006
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-309/10</main> A61K-31/35 C07D-309/10 C07D-309/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+antibacterial monic acid c derivatives, processes for their preparation and compositions containing them.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb  <sep>beecham group limited<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+o'hanlon peter john<sep>rogers norman harold<sep>o'hanlon, peter john<sep>rogers, norman harold<sep>o'hanlon, peter john65 green laneredhill surreygb<sep>rogers, norman harold6 the martsrudgwick sussexgb<sep>o'hanlon, peter john <sep>rogers, norman harold<sep>o'hanlon, peter john 65 green lane redhill surrey gb<sep>rogers, norman harold6 the martsrudgwick sussexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+monic acid c and its salts and esters of formula (ii):    where r is a salt-forming ion or pharmaceutically acceptably  ester-forming radical may be prepared by either converting  the epoxide in the known monic acid a to an olefin, or by  hydrolysis of the naturally occurring pseudomonic acid c.   the esters of monic acid c have antibacterial and antimycoplasma  activity and are therefore useful in the treatment  of human and veterinary bacterial and mycoplasma-induced  infections.  
+</ABSTRACT>
+</TEXT>
+</DOC>

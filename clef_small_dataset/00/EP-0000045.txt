@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000045
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-27/54 G03G-21/08 <main>G03G-21/00</main> G03G-21/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrophotographic copying machine comprising a device for erasing residual electrostatic images.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+bayer eberhard<sep>bayer, eberhard<sep>bayer, eberhardmemlingstrasse 1d-8000 münchen 71de<sep>bayer, eberhard<sep>bayer, eberhardmemlingstrasse 1d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+In an electrophotographic copying apparatus, the deletion (26) of the electrostatic charge image is carried out not only with light of the green spectral range (12), but also with light of predetermined intensity and a long-wave spectral range (13), with intensity and frequency, with the light of the green spectral region (12), but also with light of the green spectral region (12),This additional exposure is given by the intensity of the green light or by the product from photoconductive generation and penetration depth.
+</ABSTRACT>
+</TEXT>
+</DOC>

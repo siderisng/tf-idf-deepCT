@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001980
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-31/00 C07C-29/00 C07C-67/46 C07C-29/62 C07C-35/48 C07D-307/33 <main>C07D-307/32</main> C07C-35/00 C07C-69/72 C07C-31/36 C07D-307/00 C07D-307/94 C07C-31/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of halogenovinyl-gamma-butyrolactones, intermediates therefor and their preparation.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+lantzsch reinhard dr<sep>lantzsch, reinhard, dr.<sep>lantzsch, reinhard, dr.jakob-böhme-strasse 12d-5000 kölnde<sep>lantzsch, reinhard, dr.<sep>lantzsch, reinhard, dr.jakob-böhme-strasse 12d-5000 kölnde<sep>
+</INVENTOR>
+<ABSTRACT>
+β- [2,2-dihalovinyl] or β- [2-halo-vinyl] -γ-butyrolactones are prepared by metacetylation of the corresponding D-acetyl-γ-butyrolactones.The compounds can be used as starting materials for the production of cyclopropanecarboxylic acid esters.There are also some intermediates are produced.
+</ABSTRACT>
+</TEXT>
+</DOC>

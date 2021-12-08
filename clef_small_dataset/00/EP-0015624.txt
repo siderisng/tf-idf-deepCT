@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015624
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-9/46 H02K-17/42 H02P-9/00 H02J-7/14 H02J-7/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for phase compensation and excitation of an asynchronous machine operating as a generator.
+</TITLE>
+<APPLICANT>
+elmekano i lulea abse <sep>elmekano i lulea ab <sep>elmekano i lulea abfabriksvägen 3s-951 62 lulease<sep>
+</APPLICANT>
+<INVENTOR>
+forsberg stigse<sep>sandberg torvaldse<sep>forsberg, stig<sep>sandberg, torvald<sep>forsberg, stig13 verkstadsvägens-951 59 lulease<sep>sandberg, torvald36 gnejsstigens-951 64 lulease<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a device for phase compen­ sation and excitation of a multiphase asynchronous ma­ chine, especially one to be driven as a generator and to be  operated at low speed.  each winding (1 to 3) in the ma­ chine is connected in series or in parallel with a capacitive  element consisting of a bank of capacitors (4 to 6) having  at least one pair of series connected electrolytic capacitors  (7, 8), having in each pair equal terminals interconnected.  
+</ABSTRACT>
+</TEXT>
+</DOC>

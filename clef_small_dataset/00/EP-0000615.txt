@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000615
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-503/00 C07D-498/00 A61P-31/00 C07D-498/14 <main>C07D-498/04</main> A61K-31/42 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beta-lactam compounds, preparation and use in pharmaceutical compositions and as chemical intermediates.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb<sep>beecham group limited<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group limited  <sep>
+</APPLICANT>
+<INVENTOR>
+hunt eric<sep>hunt, eric<sep>hunt, eric10, the avenuebrockham, betchworth surreygb<sep>hunt, eric<sep>hunt, eric10, the avenuebrockham, betchworth surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+the compounds of the formula (i):    wherein x represents a moiety of the sub-formula (a) or (b):    have been found to be β-lactamase inhibitors which may be  used in pharmaceutical compositions to enhance the effectiveness  of penicillins or cephalosporins.  the diene of the  formula (i) may be produced by the decarboxylation of  clavulanic acid or a derivative thereof and the monoene of  the formula (i) may be produced by the 1,4 addition of hydrogen  to the diene of the formula (i).  the diene is thus also  useful as a chemical intermediate and other such uses are  demonstrated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

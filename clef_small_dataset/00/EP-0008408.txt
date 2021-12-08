@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008408
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/519 C07D-487/04 C07D-495/04 A61P-7/00 C07D-495/00 C07D-487/00 A61K-31/505 C07D-333/00 A61P-7/02 C07D-495/14 <main>C07D-495/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1,2,3,5-tetrahydroimidazothienopyrimidin-2-ones, a process for their preparation and pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+daiichi seiyaku cojp<sep>daiichi seiyaku co. ltd.<sep>daiichi seiyaku co., ltd.14-10, nihonbashi 3-chomechuo-ku tokyo 103jp<sep>daiichi seiyaku co. ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+ashida shinichiro<sep>ishikawa fumiyoshi<sep>ashida, shinichiro<sep>ishikawa, fumiyoshi<sep>ashida, shinichiroc/o daiichi seiyaku laboratories no.2810minamifunabori-machi edogawa-ku, tokyojp<sep>ishikawa, fumiyoshic/o daiichi seiyaku laboratories no.2810minamifunabori-machi edogawa-ku, tokyojp<sep>ashida, shinichiro<sep>ishikawa, fumiyoshi<sep>ashida, shinichiroc/o daiichi seiyaku laboratories no.2810minamifunabori-machi edogawa-ku, tokyojp<sep>ishikawa, fumiyoshic/o daiichi seiyaku laboratories no.2810minamifunabori-machi edogawa-ku, tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a 1,2,3,5-tetrahydroimidazothienopyrimidin- 2- one rep­ resented by the formula:    wherein one of z₁, z₂ and z₃, is a sulfur atom and the remain­ lng two of z₁, z₂ and z₃, represent ch, r₁ and r₂ each repre­ ents a hydrogen atom, an alkyl group having 1 to 5 carbon  atoms, a phenyl group, a chlorine atom or, when taken  together r₁ and r₂ represent an alkylene chain of 3 to 5 carbon  atoms, and r₃ represents a hydrogen atom or an alkyl group  having 1 to 5 carbon atoms, and a pharmaceutically accept­ able acid addition salt thereof, which exhibit an excellent  blood platelet anti-aggregatory activity and are useful as anti-­ thrombotic agents.  the invention also provides a process for  the preparation of said compounds and a pharmaceutical  composition comprising at least one of said compounds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

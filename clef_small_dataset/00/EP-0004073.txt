@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004073
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10L-5/40 A23L-3/34 C09K-5/16 A23L-3/3436 <main>C09K-3/00</main> C09K-5/00 B65D-81/24 C11B-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxygen scavenging and heat-generating compositions and deoxygenating and heat-generating structures comprising these compositions.
+</TITLE>
+<APPLICANT>
+teijin ltdjp<sep>teijin limited<sep>teijin limited11 minami honmachi 1-chome higashi-kuosaka-shi osaka-fujp<sep>teijin limited<sep>
+</APPLICANT>
+<INVENTOR>
+okitsu hiroyuki<sep>yamaji teizo<sep>okitsu, hiroyuki<sep>yamaji, teizo<sep>okitsu, hiroyuki1-28-3, ozu-machiiwakunijp<sep>yamaji, teizo1418-2, sasukawa shuto-chokugajp<sep>okitsu, hiroyuki<sep>yamaji, teizo<sep>okitsu, hiroyuki1-28-3, ozu-machiiwakunijp<sep>yamaji, teizo1418-2, sasukawa shuto-chokugajp<sep>
+</INVENTOR>
+<ABSTRACT>
+an oxygen scavenger composition consisting essentially  of   (a) metallic iron, and   (b) at least one oxidation promoter selected from the  group consisting of sodium silicate hydrates, silicic acid,  sodium alum and sodium borate hydrates, and  optionally   (c) at least one oxidation promoter aid which is a metal  halide compound, and/or   (d) a water-insoluble or sparingly water-soluble inert filler; a heat-generating composition having an initial rate of  oxygen scavenging of at least 5 ml per gram of said composition  in the air at 20°c during a period of one hour after the  oxidation reaction has substantially begun, said composition  consisting substantially of the metallic iron (a), a sodium silicate  hydrate, and/or silicic acid as an oxidation promoter (b),  the oxidation promoter aid (c) and optionally the filler (d); a deoxygenating structure comprising the oxygen  scavenger composition and a film having an oxygen permeability  of at least 0. 005 ml/cm². min. atm.  (o₂ partial pressure)  covering said composition; and a heat-generating structure comprising the heat-generating  composition and a film having an oxygen permeability  of 0. 4 to 10 ml/cm². min. atm (o₂ partial pressure)  covering said composition.  
+</ABSTRACT>
+</TEXT>
+</DOC>

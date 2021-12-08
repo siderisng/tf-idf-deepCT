@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002720
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-77/46 C08L-23/00 C08L-33/00 C08L-21/00 C08L-83/04 <main>C08L-83/12</main> C08L-83/06 C08L-27/00 C08L-83/00 C08G-77/00 C08L-1/00 C08K-3/28 C08L-101/00 C08L-7/00 C08C-1/14 C08C-1/00 C08L-33/02 C08K-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mixture of ammoniac and a polyoxyalkylene siloxane; application as heat-sensitising agent in latices and process for making heat-sensitised rubber latices.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+matner martin dr<sep>perrey hermann dr<sep>matner, martin, dr.<sep>perrey, hermann, dr.<sep>matner, martin, dr.dorfstrasse 14d-5068 odenthalde<sep>perrey, hermann, dr.am oberfeld 39d-4150 krefeldde<sep>matner, martin, dr.<sep>perrey, hermann, dr.<sep>matner, martin, dr.dorfstrasse 14d-5068 odenthalde<sep>perrey, hermann, dr.am oberfeld 39d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+Mixtures of ammonia and ocalkylated polysiloxanes can be used as thermal sensitizing agents for rubber cats.The latitiates sensitized in this way are stable, so that no coagulat is formed even with longer storage or mechanical load.
+</ABSTRACT>
+</TEXT>
+</DOC>

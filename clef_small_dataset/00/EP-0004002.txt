@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004002
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22C-7/00 B22C-1/22 C08L-75/08 <main>B22C-1/00</main> C08L-75/00 B22C-1/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+two-component system for the preparation of models and tools resistant against scaling off,especially for foundry industry purposes.
+</TITLE>
+<APPLICANT>
+fischer ag georgch<sep>georg fischer aktiengesellschaft<sep>georg fischer aktiengesellschaftmühlentalstrasse 105 ch-8201 schaffhausen ch <sep>georg fischer aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+horber helmut<sep>lange burkhard dr<sep>pauling horst<sep>steiner wilhelm<sep>horber, helmut<sep>lange, burkhard, dr.<sep>pauling, horst<sep>steiner, wilhelm<sep>horber, helmutrickelshausener strasse 12d-7760 radolfzell 13de<sep>lange, burkhard, dr.stubenkreuz 2d-7701 hilzingende<sep>pauling, horstkasernenstrasse 7d-7760 radolfzellde<sep>steiner, wilhelmalemannenstrasse 15d-7700 singende<sep>horber, helmut <sep>lange, burkhard, dr.<sep>pauling, horst  <sep>steiner, wilhelm <sep>horber, helmutrickelshausener strasse 12d-7760 radolfzell 13de<sep>lange, burkhard, dr.stubenkreuz 2d-7701 hilzingende<sep>pauling, horstkasernenstrasse 7d-7760 radolfzellde<sep>steiner, wilhelmalemannenstrasse 15d-7700 singende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  two-component system for producing wear-resistant models and tools, in particular for casting industry purposes, characterized in that the a-component contains at least a tri- or higher functional polyol with a molecular weight from 200 to 800, corresponding to a hydroxyl number between 200 and 800, or mixtures thereof with a linear polypropylene glycol with a molecular weight from 500 to 3000, at least one solid or liquid lubricant with usual additives, and that the b-component contains an aromatic isocyanate or pre-polymer thereof. 
+</ABSTRACT>
+</TEXT>
+</DOC>

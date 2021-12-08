@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012986
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01D-53/14</main> C01B-3/00 B01D-53/34 B01D-53/48 B01D-53/14 C07C-9/04 C07C-7/00 C07C-7/11 C01B-3/52 B01D-53/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for separating and recovering gaseous components from a gas mixture by physical washing.
+</TITLE>
+<APPLICANT>
+linde agde<sep>linde aktiengesellschaft<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>linde aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+ranke gerhard<sep>weiss horst<sep>ranke, gerhard<sep>weiss, horst<sep>ranke, gerhardfeichtetstrasse 6d-8134 pöckingde<sep>weiss, horstneufriedenheimer strasse 37ad-8000 münchen 70de<sep>ranke, gerhard  <sep>weiss, horst<sep>ranke, gerhardfeichtetstrasse 6d-8134 pöckingde<sep>weiss, horstneufriedenheimer strasse 37ad-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+This method for separating and gaining at least two gaseous components from a gas mixture (1) is based on a physical laundry (2) whose washing liquid (41) for at least one of the separation of the components, for example H₂S, a better solution capacity than for at least one Other of these components, for example CO₂, has. A first (12) and a second (8) washing liquid current were pulled off, the former with all the latter only loaded with the less well-soluble components. From the former after relaxation (20), a gas fraction is released, which by laundry (21) with the likewise relaxed second washing liquid current (22) to obtain a per torque gas fraction (27) highly enriched on the less well soluble component (CO₂) from the soluble components (H₂S) is freed. The two washing fluid currents (28) are releasably relaxed (42), the free-wing gas fraction is recovered (44) and also subjected to the treatment (21) with the second wash liquid flow, the liquid permanent proportion finally to obtain one of the better soluble components (H₂S) highly enriched product gas streams (39) fully regenerated (38).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000530
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-27/06 H02P-27/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+feedback control for reduction of cogging torque in controlled current ac motor drives and method.
+</TITLE>
+<APPLICANT>
+gen electricus<sep>general electric company<sep>general electric company1 river roadschenectady new york 12305us<sep>
+</APPLICANT>
+<INVENTOR>
+lipo thomas anthonyus<sep>lipo, thomas anthony<sep>lipo, thomas anthony207 juniper driveschenectady new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a decogging feedback control for current source inverter  motor drives uses a change of instantaneous torque feedback  signal with no dc component that is a function of only the  instantaneous pulsating component of measured torque.  the  change of torque signal modulates the voltage applied to the  dc link and therefore the dc link current to materially reduce  the detrimental cogging torque pulsations and stabilize the  motor, and can be switched out at a low frequency above  which it is not needed so that the motor can respond properly  to rapid variations in torque.  
+</ABSTRACT>
+</TEXT>
+</DOC>

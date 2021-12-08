@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000197
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01G-49/00 C01G-31/00 C01G-1/12 H01M-10/36 H01M-4/02 C01G-45/00 H01M-4/58 <main>H01M-10/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rechargeable non-aqueous cell with a chalcogenide-containing electrode, a method for preparing the chalcogenide compound and a method for the preparation of the cell.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+disalvo francis joseph<sep>murphy donald winslow<sep>disalvo, francis joseph<sep>murphy, donald winslow<sep>disalvo, francis joseph13 washington streetflorham park, new jersey 07932us<sep>murphy, donald winslow29 old stirling roadwarren, new jersey 07060us<sep>disalvo, francis joseph<sep>murphy, donald winslow<sep>disalvo, francis joseph13 washington streetflorham park, new jersey 07932us<sep>murphy, donald winslow29 old stirling roadwarren, new jersey 07060us<sep>
+</INVENTOR>
+<ABSTRACT>
+a non-aqueous secondary cell having a conventional  alkali metal anode and a cathode which contains as the  active material a chalcogenide having the nominal atom  composition mxn1-xs₂ in which m is mn, fe, ni, or co, or  mixtures thereof, n is v or cr or mixtures thereof, and x is  less than or equal to 0. 5 when n is v and m is fe, less than or  equal to 0. 33 when n is v and m is ni, co₂ or mn, and less  than 0. 33 when n is cr.  said chalcogenide is prepared by adding an oxidizing  agent having an oxidizing potential of at least 2. 8 volts to a  compound with formula liymxn1-xs₂, in which y is less than  or equal to 1.  
+</ABSTRACT>
+</TEXT>
+</DOC>

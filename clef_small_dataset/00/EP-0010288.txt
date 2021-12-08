@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010288
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-307/60</main> C07D-307/60 C07D-307/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing a tetronic acid methyl ester.
+</TITLE>
+<APPLICANT>
+schwabe willmarde<sep>dr.±willmar±schwabe<sep>dr. willmar schwabe gmbh &amp; co.postfach 41 09 25d-76209 karlsruhede<sep>dr. willmar schwabe <sep>
+</APPLICANT>
+<INVENTOR>
+pelter andrew dr<sep>pelter, andrew, dr.<sep>pelter, andrew, dr.189 mayals roadmayals, swanseagb<sep>pelter, andrew, dr. <sep>pelter, andrew, dr. 189 mayals road mayals, swanseagb<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for preparing methyl tetronate, characterized in that a lower alkyl 4-bromo-3-methoxybut-2-encarboxylate is heated in an organic solvent with a lewis acid as catalyst. 
+</ABSTRACT>
+<DESCRIPTION>
+" verfahren zur herstellung von tetronsäuremethylester priorität: 16. oktober 1978, bundesrepublik deutschland, nr. p 28 45 037.5 tetronsäuremethylester, auch als 3-methoxybut-3-enolid bezeichnet,der formel emi1.1 ist eine bekannte verbindung, die ein wertvolles organisches zwischenprodukt darstellt. die verbindung wurde bisher durch umsetzung von 3-hydroxybut-3-enolla (tetronsäure) mit diazomethan hergestellt; vgl. c.t. calam, a.r.todd und w.s. waring, biochem. j., bd. 45 (1949), s. 520. das eingesetzte 3-hydroxybut-3-enolid wird ausgehend von acetessigsäureäthylester in einem mehrstufigen verfahren hergestellt. das gesamtverfahren kann durch folgendes reaktionsschema wiedergegeben werden: emi2.1 die. stufen 1 bis 3 sind von w.d. kumler, j.am.chem.soc., bd. 60 (1938),s. 859,beschrieben. die gesamtausbeute dieser 3 stufen beträgt nur etwa 36 %. die methylierung mit diazomethan verläuft vermutlich in guter ausbeute, doch sind keine zahlen angegeben. das bekannte verfahren zur herstellung von tetronsäuremethylester ist abgesehen von seiner niedrigen gesamtausbeute aus ersichtlichen gründen in technischem massstab schwer durchführbar. insbesondere ist die umsetzung mit diazomethan aufwendig und gefährlich. der erfindung liegt die aufgabe zugrúndé, ein leistungsfähiges neues verfahren zur herstellung des tetronsäuremethylesters aus leicht zugänglicben ausgangsverbindungen zu schaffen, das sich auch für die technische herstellung der verbindung eignet. die lösung dieser aufgabe beruht auf dem befund, dass sich 4-brom-3-methoxybut-2-encarbonsäure-nieder-alkylester, wie der technisch leicht zugängliche ethylester (vgl. gb-ps 1 201 628), in guter ausbeute in tetronsäuremethylester überführen lassen. stand der erfindung ist somit ein verfahren zur herstellung von tetronsäuremethylester' < as dadurch gekerm7eichnet ist, dass man einen 4-brom-3-methoxybut- 2-encarbonsäure- nieder-alkylester mit einer lewis-säure in einem organischen lösungsmittel erhitzt. als ausgangsverbindungen werden im erfindungsgemässen verfahren wegen ihrer leichten zugänglichkeit die niederen alkylester der 4-brom-3-methoxybut-2-encarbonsäure, beispielsweise der methyl- oder athylester, eingesetzt. der im erfindungsgemässen verfahren bevorzugt einaesetzte 4-brom-3-methoxybut-2-encarbonsäureäthylester wird nach folgendem reaktionsschema hergestellt: emi3.1 es ist ersichtlich, dass die gesamtausbeute des verfahrens, ausgehend von acetessigsäureäthylester etwa 71 % d.th. beträgt, während sie bei dem vorstehend beschriebenen bekannten verfahren höchstens 18 % beträgt. die herstellung des b-methoxycrotonsäureäthylesters erfolgt nach dem in der gb-ps 1 137 466 und in j.org.chem., bd. 29 (1964), s. 3161,beschriebenen verfahren. die bromierung mit bromsuccinimid (nbs) ist in der gb-ps 1 201 628 beschrieben. als lewis-säuren kommen im erfindungsgemässen verfahren vorzugsweise wasserfreie metallhalogenide, insbesondere zinkbromid, zinkchlorid, aluminiumtrichlorid, aluminiumtribromid und zinntetrachlorid, in frage. ferner kann mit gutem erfolg auch borfluorid-ätherat verwendet werden. der katalysator kann in mengen von etwa 0,01 bis 0,1 mol pro mol 4-brom-3methoxybut-2-en-carbonsäureester verwendet werden. die optimale menge lässt sich durch einige varversuche leicht bestimmen. als organische lösungsmittel werden zweckmässig solche lö sungsmittel verwendet, die durch die lewis-säure nicht zersetzt werden. geeignete lösungsmittel sind z.b. ali phatische und aromatische kohlenwasserstoffe, wie petrol äther, ligroin, benzol, toluol, xylol, nitrobenzol und schwefelkohlenstoff. die reaktionstemperatur hängt von der art des verwendeten lösungsmittels ab. im allgemeinen wird die umsetzung bei der rückflusstemperatur des verwendeten lösungsmittels durchgeführt. die reaktionszeit hängt von der reaktionstem peratur ab; im allgemeinen beträgt sie 5 bis 14 stunden. tetronsäuremethylester ist ein wertvolsslffls-chemisches zwi schenprodukt, das mit reaktionsfähigem carbonylverbindungen, wie aldehyden oder säurechloriden,zu verbindungen mit wert vollen pharmakologischen eigenschaften kondensiert werden kann. im fall von aldehyden können 1 oder 2 mol aldehyd mit 1 mol tetronsäuremethylester in form
+</DESCRIPTION>
+<CLAIMS>
+ patentansprüche   1. verfahren zur herstellung von tetronsäuremethylester, d a d u r c h g e k e n n z e i c h n e t, dass man einen   4-brom-3-methoxybut-2-encarbonsäure-nieder-alkylester    mit einer lewis-säure als katalysator in einem organischen lösungsmittel erhitzt.   2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass man als lewis-säure wasserfreies zinkbromid, zinkchlorid, aluminiumtrichlorid, aluminiumtribromid, zinntetrachlorid oder borfluorid-ätherat verwendet.   3. verfahren nach anspruch 1, dadurch gekennzeichnet, dass man 4-brom-3-methoxybut-2-encarbonsäureäthylester einsetzt.  
+</CLAIMS>
+</TEXT>
+</DOC>

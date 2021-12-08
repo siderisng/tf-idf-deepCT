@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000865
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-49/14 H01J-49/10 <main>H01J-49/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ion source comprising an ionisation chamber for chemical ionisation.
+</TITLE>
+<APPLICANT>
+franzen analysentechde<sep>dr. franzen analysentechnik gmbh & co kommanditgesellschaft<sep>bruker franzen analytik gmbhkattenturmer heerstrasse 122d-28277 bremende<sep>bruker-franzen analytik gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+franzen jochen dr rer nat<sep>weisz gerhard dipl-phys<sep>franzen, jochen, dr. rer. nat.<sep>weisz, gerhard, dipl.-phys.<sep>weiss gerhardbackskamp 24d-2878 wildeshausende<sep>weisz, gerhard, dipl.-phys.meenheit 23d-2801 stuhr 4, varrel ide<sep>weiss gerhard <sep>weisz, gerhard, dipl.-phys.<sep>weiss gerhard backskamp 24 d-2878 wildeshausen de<sep>weisz, gerhard, dipl.-phys.meenheit 23d-2801 stuhr 4, varrel ide<sep>
+</INVENTOR>
+<ABSTRACT>
+ionization chamber for chemical ionization of substance damps by ion molecule reaction using ionizing primary particles and reactant gas, with at least one inlet opening for supplying the reactants and at least one outlet opening for the reaction products formed in the chamber.As in Fig.2, the ionization chamber (1) is elongated.The inlet opening (9) for the ionizing primary particles on the one hand and the outlet opening (13) for the reaction products, on the other hand, are provided with each other aligned in opposite end walls of the ionization chamber (1).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010678
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-71/50 H01H-71/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+switch latch with a toggle lever.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+staffen martinde<sep>staffen, martin<sep>staffen, martinmargaretenstrasse 7dd-8401 barbingde<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a switch latch with a toggle lever, particularly for fault-current protection switches, the toggle lever of which is connected at its one end to a manual operating device and the other end of which is connected to a ratchet supported such that it can move rotationally.  according to the invention it is proposed that the ratchet (8) and toggle lever (1) are constructed from moulded material and are connected to each other by integrally formed lugs (11) and corresponding support cut-outs (12).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

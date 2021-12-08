@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012478
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23G-1/06 <main>C23G-1/06</main> C23G-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for removing sulfide-containing scale from metal surfaces.
+</TITLE>
+<APPLICANT>
+dow chemical cous<sep>the dow chemical company<sep>the dow chemical company2030 dow center abbott road p.o. box 1967midland michigan 48640-1967 us<sep>the dow chemical company<sep>
+</APPLICANT>
+<INVENTOR>
+coffey mitchael de wayne  <sep>frenier wayne woodrow<sep>huffines james don<sep>smith donald craig<sep>coffey, mitchael de wayne<sep>frenier, wayne woodrow<sep>huffines, james don<sep>smith, donald craig<sep>coffey, mitchael de wayne1311 w. 117 st. south jenkstulsa, oklahomaus<sep>frenier, wayne woodrow7514 s. 68th e. place tulsatulsa, oklahomaus<sep>huffines, james don9949 e. 115th st. south bixbytulsa, oklahomaus<sep>smith, donald craig2698 bombay rd. rt. 1 midlandmidland, michiganus<sep>coffey, mitchael de wayne<sep>frenier, wayne woodrow<sep>huffines, james don <sep>smith, donald craig<sep>coffey, mitchael de wayne 1311 w. 117 st. south jenks tulsa, oklahoma us <sep>frenier, wayne woodrow7514 s. 68th e. place tulsatulsa, oklahomaus<sep>huffines, james don9949 e. 115th st. south bixbytulsa, oklahomaus<sep>smith, donald craig2698 bombay rd. rt. 1 midlandmidland, michiganus<sep>
+</INVENTOR>
+<ABSTRACT>
+sulfide-containing scale is removed from metal sur­ faces by contacting the scale encrusted metal surface with  an aqueous acid cleaning solution having an aldehyde dis­ solved or dispersed in the acid in an amount sufficient to  prevent the evolution of hydrogen sulfide gas.  
+</ABSTRACT>
+</TEXT>
+</DOC>

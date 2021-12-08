@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002839
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24J-2/04 F25B-30/02 F24D-11/00 F25B-30/00 F24D-11/02 F24F-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+room temperature controlling method and building heated according to this method.
+</TITLE>
+<APPLICANT>
+innovationsforderungs und betede<sep>innovationsfoerderungs-und beteiligungsgesellschaft mbh<sep>innovationsförderungs-und beteiligungsgesellschaft mbhkiessteige 20d-7417 pfullingende<sep>
+</APPLICANT>
+<INVENTOR>
+weiss hansde<sep>weiss, hans<sep>weiss, hansgartenstrasse 49d-7321 birenbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+a heat pump (46) is used for heating a building.  heat is extracted at the primary end from an outer wall (20) of the building, which is in contact with the ambient, by means of a heat exchanger embedded in the wall and associated with the heat pump evaporator (56).  an inner wall is thermally insulated (24) from the outer wall (20) and is used as a secondary accumulator, heat being transmitted to the interior from the inner face of the inner wall.  the inner wall is provided with a heat exchanger associated with the heat pump condenser (60).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

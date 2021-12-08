@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008701
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-10/00 <main>H05H-1/26</main> H05H-1/38 H05H-1/26 B23K-28/00 H05H-1/34 H05H-1/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+torch for microplasma welding.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+wustner friedrich<sep>wustner, friedrich<sep>wüstner, friedrichkardinal-wendel-strasse 75d-8190 wolfratshausende<sep>wustner, friedrich<sep>wüstner, friedrichkardinal-wendel-strasse 75d-8190 wolfratshausende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a burner to the micro-plasma welding, which is capable of keeping the high continuous load during series production.In the BREN ner according to the invention, the plasma channel (10) of the plasma nozzle on the entrance point of the plasma comprises a heightened annular edge (13) directed against the tip of the electrode (12).Further, the electrode (12) for enabling increased heat extraction is correspondingly greatly sized and provided with its own cooling (17, 20).The burner has a diffusion density plasmagas supply (29).
+</ABSTRACT>
+</TEXT>
+</DOC>

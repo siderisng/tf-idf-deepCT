@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017421
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-41/00 G03B-27/68 G03B-27/62 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic reproportioning apparatus.
+</TITLE>
+<APPLICANT>
+magnuson mfg & marketingus<sep>magnuson manufacturing and marketing, inc.<sep>magnuson manufacturing and marketing, inc.2830 holly laneplymouth, minnesota 55447us<sep>
+</APPLICANT>
+<INVENTOR>
+parsons james cus<sep>parsons, james c.<sep>parsons, james c.1414 laurel avenueminneapolis minnesota 55403us<sep>
+</INVENTOR>
+<ABSTRACT>
+a photographic reproportioning apparatus for changing  one dimension of an image has a main travel board (29)  supporting a sub-travel board (31) both moving linearly.  the  photosensitive member moves relative to an opaque mask  (116, 117) having an exposure window (124).  motion trans­ mitting structure (99, 111) moves both sub-travel board at  the same speed or less, comprising adjustable control bar  (68), connected to first drive (99) on main travel board, which  drive drives second drive (111) on main travel board and  sub-travel board.  speed of first drive depends on angular  position of speed control bar (68) relative to path of main  travel board and its speed.  first drive rotates wheel (107),  which is used to change linear image to arcuate image.  a  second tapered window (128) on mask (116, 117) diverges  from axis of rotation of wheel providing even light exposure  along length of exposure line, when wheel and main travel  board are used to make an arcuate image.  
+</ABSTRACT>
+</TEXT>
+</DOC>

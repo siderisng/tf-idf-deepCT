@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004474
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04N-9/04</main> H04N-9/07 H04N-9/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus of colour signal processing.
+</TITLE>
+<APPLICANT>
+polaroid corpus<sep>polaroid corporation<sep>polaroid corporation549 technology squarecambridge, massachusetts 02139us<sep>polaroid corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+gold nathan<sep>gold, nathan<sep>gold, nathan13126 anza drivesaratoga californiaus<sep>gold, nathan<sep>gold, nathan13126 anza drivesaratoga californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+this concerns a method and apparatus for generating  individual colour signals for each of a number of colour  components present in a multi-coloured image, given an  initial signal in which successive signal elements represent  different colour components, for example, a signal derived  from a single ccd array masked with an optical filtering  element having a repetitive sequence of red, green and  blue stripes.  in the method and apparatus described, the  initial signal is applied to a tapped delay line (36), the outputs  of which represent signal elements of the initial signal  for successive time intervals.  assuming that for a given  time interval the output of the centre point (40d) of the  delay line represents red, its value is compared with the  values of the preceding and succeeding stages of the delay  line (40a and 40g) which at that instant have a red-representing  signal.  a comparator (104) supplies a signal which  places switches (108, 110) in their upper or lower positions  according to whether the comparison indicates that  the selected red value is closer to the succeeding or preceding  red value.  switches (118, 120, 122) connect respective  output lines in successive time intervals directly to the  tapped delay line, through a first of the switches (108) to  the tapped delay line and through the second of the  switches (110) to the tapped delay line.  in this way, density  transitions in the original multi-coloured image occur  simultaneously in each of the three colour output signals,  thereby improving the apparent resolution.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002466
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C06B-21/00 C06B-45/00 C06B-45/20 <main>C06D-5/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for improving the pressure dependence of the combustion of solid-grains or firearms propellants, and their application as components of solid-grains or firearms propellants.
+</TITLE>
+<APPLICANT>
+fraunhofer ges forschung de<sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.  <sep>fraunhofer-gesellschaft zur förderung der angewandten forschung e.v.leonrodstrasse 5480636 münchende<sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.<sep>
+</APPLICANT>
+<INVENTOR>
+bucerius klaus-martin dr<sep>eisenreich norbert dipl-phys<sep>engel walter dr<sep>pfeil achim dr<sep>bucerius, klaus-martin, dr.<sep>eisenreich, norbert, dipl.-phys.<sep>engel, walter, dr.<sep>pfeil, achim, dr.<sep>bucerius, klaus-martin, dr.am kegelsgrund 22d-7500 karlsruhe 41de<sep>eisenreich, norbert, dipl.-phys.amselstrasse 16d-7507 pfinztalde<sep>engel, walter, dr.frühlingstrasse 21d-7507 pfinztalde<sep>pfeil, achim, dr.veilchenstrasse 1d-7507 pfinztalde<sep>bucerius, klaus-martin, dr.<sep>eisenreich, norbert, dipl.-phys.<sep>engel, walter, dr.<sep>pfeil, achim, dr.<sep>bucerius, klaus-martin, dr.am kegelsgrund 22 d-7500 karlsruhe 41 de  <sep>eisenreich, norbert, dipl.-phys.amselstrasse 16d-7507 pfinztalde<sep>engel, walter, dr.frühlingstrasse 21d-7507 pfinztalde<sep>pfeil, achim, dr.veilchenstrasse 1d-7507 pfinztalde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  method for improving the pressure dependence of the burn-off behaviour of solid fuels or barrel weapon propellants which contain nitrocellulose and other monomeric or polymeric nitro or nitrate compounds, resp. , as well as stabilizers and other additives as well as metals or metal compounds as burn-off influencing component, characterized in that the propellant is homogeneously distributed in a liquid and that then the metals or metal compounds are precipitated by chemical or physical precipitation on the nitrocellulose and the other solid monomeric or polymeric nitro or nitrate compounds, resp. , and that thereafter the normal processing is carried out. 
+</ABSTRACT>
+</TEXT>
+</DOC>

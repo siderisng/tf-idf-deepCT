@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003925
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F15B-1/053</main> F15B-1/24 H01H-3/16 F15B-1/00 F15B-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydropneumatic piston accumulator provided with a gas shortage detector.
+</TITLE>
+<APPLICANT>
+gratzmuller jean louis <sep>gratzmuller, jean louis <sep>gratzmuller, jean louis66 boulevard maurice barrèsf-92200 neuilly sur seinefr<sep>gratzmuller, jean louis<sep>
+</APPLICANT>
+<INVENTOR>
+gratzmuller jean louis<sep>gratzmuller, jean louis<sep>gratzmuller, jean louis66 boulevard maurice barrèsf-92200 neuilly sur seinefr<sep>gratzmuller, jean louis  <sep>gratzmuller, jean louis66 boulevard maurice barrèsf-92200 neuilly sur seinefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the hydropneumatic piston accumulators with a lack of gas detector whose movable member 14 is pressed by the piston 8 when it approaches too close to the bottom 4, gas side, of the'accumulator.Connecting means 28, 32, with movement reversing and acting in traction are interposed between the piston 8 and the movable member 14, these connecting means having a dead stroke of predetermined length.The invention makes it possible to check the proper operation of the detector device, by emptying a portion of the liquid contained in the compartment 12, the piston 8, when it approaches the bottom 6, actuating the detector device.
+</ABSTRACT>
+</TEXT>
+</DOC>

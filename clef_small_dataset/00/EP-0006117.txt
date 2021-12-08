@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006117
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-13/00 F15B-11/00 <main>F15B-11/04</main> F15B-11/02 G05D-7/00 F15B-13/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+overrunning load control for hydraulic motors.
+</TITLE>
+<APPLICANT>
+caterpillar tractor cous<sep>caterpillar tractor co. <sep>caterpillar tractor co.100 northeast adams streetpeoria, illinois 61629us   <sep>caterpillar tractor co.<sep>
+</APPLICANT>
+<INVENTOR>
+haak willard junior<sep>marsden howard arthur<sep>moots paul curtis<sep>haak, willard junior<sep>marsden, howard arthur<sep>moots, paul curtis<sep>haak, willard junior2947 w. parkwood drivepeoria illinois 61614us<sep>marsden, howard arthur1206 sheridan roadpekin illinois 61554us<sep>moots, paul curtisno.6 olde farm roadeast peoria illinois 61611us<sep>haak, willard junior<sep>marsden, howard arthur <sep>moots, paul curtis  <sep>haak, willard junior2947 w. parkwood drivepeoria illinois 61614us<sep>marsden, howard arthur1206 sheridan roadpekin illinois 61554us<sep>moots, paul curtisno.6 olde farm roadeast peoria illinois 61611us<sep>
+</INVENTOR>
+<ABSTRACT>
+overrunning load control including a hydraulic motor  (10) having a part adapted to be connected to a reservoir  (48) and a hydraulic fluid pump (20).  a normally closed  check valve (46) connects the port to the reservoir and includes  two, hydraulically opposed, differential surfaces  (52, 54) one being smaller than the other and being disposed  to be responsive to pressure at the port.  included is  a normally closed, pilot-operated, first metering valve (80)  having an inlet (88) and an outlet (90) and a second metering  valve (58) also having an inlet (68) and an outlet (66)  along with a shiftable metering element (60) interposed  therebetween.  a spring (62) biases the element towards a  position minimizing flow between the inlet and the outlet  and a pressure responsive surface (70) is disposed on the  element in bucking relation to the spring.  the first valve  inlet (88) is connected to the second valve outlet (66) and  to a larger surface (54) of the check valve, and the port is  connected to the second valve inlet (68) as well as connected  to direct pressure to the second valve pressure  responsive surface (70).  the first valve outlet (90) is connected  to the reservoir (48).  the first valve controls the  degree to which the check valve may open while the second  valve provides load compensation in the circuit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

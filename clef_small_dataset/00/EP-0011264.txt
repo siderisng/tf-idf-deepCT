@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011264
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65G-43/02 <main>B65G-43/00</main> B65G-43/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and monitoring system for automatically monitoring the occurrence of a plurality of events in a cyclical process.
+</TITLE>
+<APPLICANT>
+goodrich co b fus<sep>the b.f. goodrich company<sep>the b.f. goodrich company500 south main streetakron, ohio 44318us<sep>the b.f. goodrich company <sep>
+</APPLICANT>
+<INVENTOR>
+doljack frank anthony<sep>doljack, frank anthony<sep>doljack, frank anthony8210 tulip lanechagrin falls, ohio 44022us<sep>doljack, frank anthony <sep>doljack, frank anthony8210 tulip lanechagrin falls, ohio 44022us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a monitor system and method for  monitoring the occurrence of events in a cyclical process.   whether the successive events occur at their proper positions  within the process, position meaning, for example, a physical  location and/or a position in time, is accurately monitored,  and the process is stopped and a warning issued when an  event is missed.  monitoring can be restarted at a point of  interruption with resumption of correct checking for succes­ sive events.  moreover, if an event is missed, the process and  monitoring may be restarted and the missed event selectively  automatically deleted from the list of sequential events for  which the monitor system looks.  the invention is employed,  for example, in connection with a conveyor belt system to  detect rips in the belt.  
+</ABSTRACT>
+</TEXT>
+</DOC>

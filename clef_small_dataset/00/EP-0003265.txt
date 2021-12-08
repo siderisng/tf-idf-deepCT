@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003265
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 A61P-37/00 <main>C07D-233/90</main> A61P-37/04 C07D-233/90 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+immunostimulatory imidazole derivatives, their preparation and their pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+sumitomo chemical cojp<sep>sumitomo chemical company limited<sep>sumitomo chemical company, limitedkitahama 4-chome 5-33chuo-ku osaka 541jp<sep>sumitomo chemical company, limited<sep>
+</APPLICANT>
+<INVENTOR>
+atsumi toshio<sep>kiyohara takao<sep>tarumi yuzo<sep>atsumi, toshio<sep>kiyohara, takao<sep>tarumi, yuzo<sep>atsumi, toshio10-306 kusunokicho 15ashiyajp<sep>kiyohara, takao14-7, mefu 2-chomotakarazukajp<sep>tarumi, yuzo1-402, ryodocho 4nishinomiyajp<sep>atsumi, toshio <sep>kiyohara, takao<sep>tarumi, yuzo  <sep>atsumi, toshio 10-306 kusunokicho 15ashiyajp<sep>kiyohara, takao14-7, mefu 2-chomotakarazukajp<sep>tarumi, yuzo1-402, ryodocho 4nishinomiyajp<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides imidazole derivatives represented  by the formula:    (or the corresponding keto form) wherein y is a hydroxy  group, a lower alkoxy group or an amino group, and their  pharmaceutically acceptable salts.  these compounds have a  potent immunostimulating activity and are useful for the  prevention and immunostimulatory therapy of various diseases.   the compounds where y is alkoxy of 1 to 4 carbon  atoms or amino may be prepared by reacting aminomalonamide  with an imide ester    or a salt thereof or with an orthoester   (r₃o)₃cch₂coy   where r₂ is an imido ester moiety and r₃ is alkyl, and the  product compounds where y is lower alkoxy can be hydrolysed  to give the corresponding compound where y is  hydroxy.  
+</ABSTRACT>
+</TEXT>
+</DOC>

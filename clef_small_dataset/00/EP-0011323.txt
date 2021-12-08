@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011323
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-3/12</main> H01H-3/12 H01H-13/52 H01H-3/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+switch push button.
+</TITLE>
+<APPLICANT>
+int standard electric corpde<sep>standard elektrik lorenz agde<sep>international standard electric corporation, new york<sep>standard elektrik lorenz aktiengesellschaft<sep>alcatel sel aktiengesellschaftlorenzstrasse 10d-70435 stuttgartde<sep>international standard electric corporation320 park avenuenew york new york 10022us<sep>international standard electric corporation<sep>standard elektrik lorenz aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+hoeft siegfried<sep>klause gerhard<sep>hoeft, siegfried<sep>klause, gerhard<sep>hoeft, siegfriedhölderlinstrasse 2d-7257 ditzingende<sep>klause, gerhardschönblickstrasse 20d-7253 renningende<sep>hoeft, siegfried<sep>klause, gerhard <sep>hoeft, siegfriedhölderlinstrasse 2d-7257 ditzingen de   <sep>klause, gerhardschönblickstrasse 20d-7253 renningende<sep>
+</INVENTOR>
+<ABSTRACT>
+The push button (31) is determined for push-button switches (13) which have an actuating tappet (9) and a force memory (17) for resetting.The holder of the push button is engaged by molded noses (36), which also limit the reset.For the purpose of changeability of the company surfaces, the pressure knob is provided with at least one latch piece (32), which is detachably inserted from the top.Underneath an additional power storage (33) can be inserted or replaced.
+</ABSTRACT>
+</TEXT>
+</DOC>

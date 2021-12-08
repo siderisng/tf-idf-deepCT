@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008557
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-27/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic colour printer and method of determining exposure times
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman±kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us <sep>
+</APPLICANT>
+<INVENTOR>
+fruchard alain gabriel mariefr  <sep>lassalle albertfr<sep>olivieri marcfr<sep>fruchard, alain gabriel marie<sep>lassalle, albert<sep>olivieri, marc<sep>fruchard, alain gabriel mariekodak-pathe 30, rue des vigneronsf-94300 vincennesfr<sep>lassalle, albertkodak-pathe 30, rue des vigneronsf-94300 vincennesfr<sep>olivieri, marckodak-pathe 30, rue des vigneronsf-94300 vincennesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the automatic printer is able to produce any number of prints from the originals contained in a given order, and a process is provided for determining the exposure times.  the printer comprises an analysis station determining constant exposure times when the originals exhibit a density outside a density range d1, d2 and exposure times whose logarithms increase linearly between these limits.  advantageously, it is possible to vary the gradient of the straight lines representing the curve log t = f(d).  application to the construction of a photographic printer for slides.    <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

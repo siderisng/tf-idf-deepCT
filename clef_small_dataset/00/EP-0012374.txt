@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012374
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/22 <main>G06K-19/08</main> B42D-15/02 G03H-1/00 B42D-15/10 G06K-19/02 G03G-15/00 G06K-19/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing identification cards.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+moraw roland dr<sep>unger manfred dr<sep>walter helmut<sep>moraw, roland, dr.<sep>unger, manfred, dr.<sep>walter, helmut<sep>moraw, roland, dr.buchenweg 4d-6200 wiesbaden-naurodde<sep>unger, manfred, dr.krauskopfallee 40d-6229 schlangenbad 5de<sep>walter, helmutfeldbergblickstrasse 7d-6200 wiesbadende<sep>moraw, roland, dr.<sep>unger, manfred, dr.<sep>walter, helmut<sep>moraw, roland, dr.buchenweg 4d-6200 wiesbaden-naurodde<sep>unger, manfred, dr.krauskopfallee 40d-6229 schlangenbad 5de<sep>walter, helmutfeldbergblickstrasse 7d-6200 wiesbadende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing identification cards which are built up from several layers.In the process, a template Electrofoto is graphically shown on a recording medium, developed and transmitted to a layer material as a card core.The serially completed card cores are stored in a buffer and forwarded from there from a cascher press, in which they are laminated with a lower and upper transparent protective film to card blanks.For the card cores, matted foils of a fused polyvinyl chloride can be used by pig melting sets.From the same but unmatted material are the transparent protective films.The layer material for the card cores may also be constructed multilayer, with some layers with fuse characteristics.
+</ABSTRACT>
+</TEXT>
+</DOC>

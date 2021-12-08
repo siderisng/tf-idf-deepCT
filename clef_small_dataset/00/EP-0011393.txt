@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011393
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08F-240/00</main> C08F-240/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+petroleum resins and their preparation.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company<sep>
+</APPLICANT>
+<INVENTOR>
+lepert andre<sep>lepert, andre<sep>lepert, andreavenue des mouettes, 21b-1640 rhode saint genesebe<sep>lepert, andre  <sep>lepert, andreavenue des mouettes, 21b-1640 rhode saint genesebe<sep>
+</INVENTOR>
+<ABSTRACT>
+petroleum resins containing copolymerised limonene  have improved softening points.  
+</ABSTRACT>
+<DESCRIPTION>
+the present invention relates to new improved petroleum resins and a process for their production. in particular the invention relates to resins suitable as tackifiers for elastomers and useful in hot melt formulations. petroleum resins obtained by the polymerisation of c5 dienes such as pentadiene 1,3 and/or isoprene are well known as is their use as tacktfiers for elastomers and as components in hot melt formulations. it is known that sis block copolymers (block styrene-isoprene copolymers such as shell cariflex tr 1107) can be tackified by petroleum resins of narrow molecular weight distribution produced by controlling the polymerisation conditions with branched reactive olefins, substi- tuted aromatics or tertiary alkyl halides, see for example our prior patent applications 31878175 and 33705/75. these previously described petroleum resins of narrow molecular weight distribution tackify oil extended random sbr (styrene-butadiene) copolymers and provide very good tackifying properties for the sis block copolymers. however, they also have a low cohesive strength in pressure sensitive adhesives based on natural rubber. they do not however tackify oil free sbr elastomers of either random or block thermoplastic nature (e.g. sbs block copolymers). other petroleum feed additives for example dicyclopentadiene, methyl cyclopentadiene dimers or thermal polymers obtained from cvclodiene comer, rlch streams as described in our patent specification u.k. l,4s6,211 are known as a means of making resins of high softening point. however the resins produced in this way have degradated resin gardner colour and wax compatability. moreover even if they increase the cohesive strength of pressure sensitive adhesives based on natural rubbers and slightly tackify sis block copolymers they do not tackifv other sbr copolymers. one disadvantage of these earlier techniques is that the presence of the molecular weight controlling additive tends to reduce the softening point of the resin thus rendering it unsuitable for certain pressure sensitive adhesives particularly those where cohesive strength (shear adhesion) is important. it has been proposed to overcome this problem by carrying out the polymerisation in a paraffinic solvent which is not entirely satisfactory and increases costs and reduces plant capacity. in our copending application no. 97941/78 we suggest that these disadvantages may be overcome by the copolymerisation of carene with the petroleum resin feed. we have now found that similar benefits may be obtained if limonene is used instead of carene. u.s. 3,466,267 patent describes the manufacture of resins by spiking a concentrate of a mixture of limonene and carvestrene with 10 to 50 percent by weight of piperylene. according to this patent if less than 10 percent by weight of piperylene is used the resin has an undesirably low softening point whilst if more than 50 wt.% by weight of the resin is employed softening points are lowered and the resin yields from the polymerisation are uneconomically low, the ratio of limonene to carvestrene varies from 1:0.66 to about 1:10. we have now found that a satisfactorily high resin softening point (70 to 1600c and preferably 100 to 1300c) resin is achieved when more than 50 wt./° by weight of
+</DESCRIPTION>
+<CLAIMS>
+what we claim is:-   a.      1. a process comprising   copolymerissing    using a friedel crafts   catalyst     (1) a petroleum resin feed   comprising    c5 olefins and iolefins,   c6     olefins and diolefins or a mixture of c5 and   c6    olefins and di  olefins said feed being obtained from the cracking of petroleum  feedstock and  (2) limonene in the absence of carvestrene.   2. a process comprising copolymerising using a friedel crafts catalyst (1) a petroleum diolefins   c    olefins and diolefins or a mixture of c5 and c6 and   di olefins    said feed being obtained from the cracking of petroleum feedstock and (2) limonene the petroleum resin feed comprising at least 40 wt.% of the combined weight of limonene and resin feed.   3. a process according to   91 aims      1    or claim 2 wherein the polymerr isation feed also contains branched olefins, substituted aromatics, and/or tertiary   hydrocarbon.halides    for resin molecular weight contribution control.   4. a process according to anyone of the preceding claims wherein'the feed also contains unsaturated   c8-c1o    aromatics such as styrene, methyl styrene, vinyl   toluepe,    indene.    5. a process according to any of the preceding claims in which   frost    50.1 to 99 wt.% of   piperylepe    and/or isoprene based on the combined weight of c5 conjugated diolefines and limonene is used.   6. a process according to any of the preceding claims in which other unsaturated cyclic monomers are included in the   copolymerisation    7. a resin whenever prepared by a process according to any of the preceding claims.   8. a petroleum resin having a softening point in the range 60 c to 1400c comprising a copolymer of from 50.1 to 99 wt.% piperylene and from 49.9 to 1 wt.%   limcnene     
+</CLAIMS>
+</TEXT>
+</DOC>

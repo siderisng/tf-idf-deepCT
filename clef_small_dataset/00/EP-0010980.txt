@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010980
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02M-1/18 H02H-9/02 <main>H02H-7/122</main> H02H-7/122 H02M-7/537 H02P-27/06 H02H-7/08 H02P-27/16 G05F-1/58 H02H-7/10 H02M-7/48 H02P-27/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+overcurrent protection circuitry for an electric motor driving circuit.
+</TITLE>
+<APPLICANT>
+fujitsu fanuc ltdjp<sep>fujitsu fanuc limited<sep>fanuc ltd.3580, shibokusa aza-komanba, oshinomuraminamitsuru-gun, yamanashi 401-05jp<sep>fanuc ltd<sep>
+</APPLICANT>
+<INVENTOR>
+ishida hiroshi<sep>kawada shigeki<sep>sakamoto keiji<sep>ishida, hiroshi<sep>kawada, shigeki<sep>sakamoto, keiji<sep>ishida, hiroshi2-73, matsubara-cho, 2-chomehamura-machi nishitama-gun tokyojp<sep>kawada, shigeki346-15, oaza-shimodahino-shi tokyojp<sep>sakamoto, keiji3-27 tamadairahino-shi tokyo 191jp<sep>ishida, hiroshi  <sep>kawada, shigeki<sep>sakamoto, keiji<sep>ishida, hiroshi2-73, matsubara-cho, 2-chomehamura-machi nishitama-gun tokyojp<sep>kawada, shigeki346-15, oaza-shimodahino-shi tokyojp<sep>sakamoto, keiji3-27 tamadairahino-shi tokyo 191jp<sep>
+</INVENTOR>
+<ABSTRACT>
+overload protection circuitry for an electric motor (4)  driving circuit (3) has a first current detection arrangement  (r₄, 10h, 10i, 10l) for detecting a maximum permissible cur­ rent flowing to the driving circuit (3).  the circuitry is such  that when a maximum permissible current is detected cur­ rent delivery operation of the driving circuit (3) is terminated  (for example through comparator 10i, flip-flop 10l closing  and gates 94g to 94l to turn off current delivery transistors  q₁ to q₆).  the circuitry also has a second current detection  arrangement (r₁, r₂, r₃, 10a, 10d) for detecting a preselected  overcurrent value flowing from the drving circuit (3).  the  circuitry is such that when the preselected overcurrent value  is detected current delivery from the driving circuit is limited  (for example through comparator 10a, resetting flip-flops  93a, 93b and through and gates 94a, 94b to turn off current  delivery transistors q₁ and q₂ which are then repeatedly  turned back on and off by pulse generator 96, setting flip-­ flops 93a, 93b to pass a limited current).  the result is that when a momentary surge of input cur­ rent to the driving circuit occurs the driving circuit is closed  down to prevent damage.  when the motor (4) is overloaded,  however, current continues to pass to the motor (4) but is li­ mited so as not to cause damage.  
+</ABSTRACT>
+</TEXT>
+</DOC>

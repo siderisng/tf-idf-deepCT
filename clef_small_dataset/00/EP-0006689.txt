@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006689
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-20/04 B65H-29/24 B65H-20/02 B41K-3/48 B41K-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+label machine and method for forming tape sections from an endless tape strip.
+</TITLE>
+<APPLICANT>
+natmar incus   <sep>natmar, inc.<sep>natmar, inc.4026 cherry streetcincinnati ohio 45223us<sep>
+</APPLICANT>
+<INVENTOR>
+clay bobby jus<sep>clay, bobby j.<sep>clay, bobby j.9744 east miami river roadcincinnati ohio 45247us<sep>
+</INVENTOR>
+<ABSTRACT>
+a label machine for forming individual labels (36)  from an endless tape strip (31).  the machine includes a  novel label removal device (15) which uses compressed  air to insure removal of each label to a collection station  (16) after it is cut from the endless strip, thereby pre­ venting hang-up of labels at the machine's cutter as­ sembly (26).  the machine also includes a novel tape  feed mechanism that provides accurate label length con­ trol, thereby preventing waste of tape.  these mechanisms  are preferably used in combination with a printer head,  the novel tape feed and label removal mechanisms co-­ operating to prevent printing errors between leading and  trailing labels cut from the endless tape strip.  
+</ABSTRACT>
+</TEXT>
+</DOC>

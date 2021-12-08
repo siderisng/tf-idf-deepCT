@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006596
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07F-7/02 G07F-7/00 <main>G07F-7/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuitry for indicating a credit balance.
+</TITLE>
+<APPLICANT>
+tele alarm nachrichtentechde<sep>tele-alarm, nachrichtentechnische gerate gmbh herstellungs- und vertriebsgesellschaft & co.kg<sep>tele-alarm, nachrichtentechnische geräte gmbh herstellungs- und vertriebsgesellschaft &amp; co.kgsandbergstrasse 11d-8501 schwaig-behringersdorfde<sep>tele-alarm, nachrichtentechnische gerate gmbh herstellungs- und vertriebsgesellschaft & co.kg<sep>
+</APPLICANT>
+<INVENTOR>
+hofmann otto<sep>nagler georg<sep>hofmann, otto<sep>nagler, georg<sep>hofmann, ottobernstädterstrasse 9d-8500 nürnbergde<sep>nagler, georgbahnhofstrasse 1d-8481 oberwildenaude<sep>hofmann, otto<sep>nagler, georg  <sep>hofmann, otto bernstädterstrasse 9d-8500 nürnbergde<sep>nagler, georgbahnhofstrasse 1d-8481 oberwildenaude<sep>
+</INVENTOR>
+<ABSTRACT>
+A switching arrangement for displaying a value balance is designed such that, depending on the stress of a goods or service offering via a Bela control circuit (39), the currently stored on a magnetic track balance (4) currently stored current balance is reduced and enrolled as a new balancebecomes.The balance card (4) is retracted by means of a conveyor belt (9) in a read-write device (1) for querying the current balance and after determining the new actual balance, in the activation of a write head (3).
+</ABSTRACT>
+</TEXT>
+</DOC>

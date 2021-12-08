@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014895
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+E03B-3/00 C02F-1/18 E03B-3/28 B01D-53/26 <main>E03B-3/28</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for producing liquid water.
+</TITLE>
+<APPLICANT>
+mitsubishi electric corpjp  <sep>mitsubishi denki kabushiki kaisha<sep>mitsubishi denki kabushiki kaisha2-3, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi denki kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+azuma kenkoku mitsubishi denki<sep>hirayama yoshio mitsubishi den<sep>ito toshio mitsubishi denki k<sep>matsuoka hiromasa mitsubishi d<sep>takahashi nobuyoshi mitsubishi<sep>azuma, kenkoku mitsubishi denki k.k.<sep>hirayama, yoshio mitsubishi denki k.k.<sep>ito, toshio mitsubishi denki k.k.<sep>matsuoka, hiromasa mitsubishi denki k.k.<sep>takahashi, nobuyoshi mitsubishi denki k.k.<sep>azuma, kenkoku mitsubishi denki k.k.ooyokiki kenkyusho, no.80 aza-nakano minamishimizuamagasaki-shi hyogo-kenjp<sep>hirayama, yoshio mitsubishi denki k.k.itami seisakusho, no. 80 aza-nakano minamishimizuamagasaki-shi hyogo-kenjp<sep>ito, toshio mitsubishi denki k.k.ooyokiki kenkyusho, no. 80 aza-nakanominamishimizu amagasaki-shi hyogo-kenjp<sep>matsuoka, hiromasa mitsubishi denki k.k.ooyokiki kenkyusho, no.80 aza-nakano minamishimizuamagasaki-shi hyogo-kenjp<sep>takahashi, nobuyoshi mitsubishi denki k.k.itami seisakusho, no. 80 aza-nakano minamishimizuamagasaki-shi hyogo-kenjp<sep>azuma, kenkoku mitsubishi denki k.k.  <sep>hirayama, yoshio mitsubishi denki k.k.<sep>ito, toshio mitsubishi denki k.k.<sep>matsuoka, hiromasa mitsubishi denki k.k.<sep>takahashi, nobuyoshi mitsubishi denki k.k.<sep>azuma, kenkoku mitsubishi denki k.k.ooyokiki kenkyusho, no.80 aza-nakano minamishimizuamagasaki-shi hyogo-kenjp<sep>hirayama, yoshio mitsubishi denki k.k.itami seisakusho, no. 80 aza-nakano minamishimizuamagasaki-shi hyogo-kenjp<sep>ito, toshio mitsubishi denki k.k.ooyokiki kenkyusho, no. 80 aza-nakanominamishimizu amagasaki-shi hyogo-kenjp<sep>matsuoka, hiromasa mitsubishi denki k.k.ooyokiki kenkyusho, no.80 aza-nakano minamishimizuamagasaki-shi hyogo-kenjp<sep>takahashi, nobuyoshi mitsubishi denki k.k.itami seisakusho, no. 80 aza-nakano minamishimizuamagasaki-shi hyogo-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for producing liquid water from moisture in  the air by adsorbing the moisture on an adsorbent and then  desorbing water from the adsorbent by heating it and con­ densing steam into liquid water.  the water producing  apparatus comprises a recycling passage for recycling steam  through an adsorbent column in the desorbing step, a heater  for heating the steam in the recycling passage; and a con­ denser branched from the recycling passage.  in the desorbing  step, steam in the recycling passage is heated by the heater to  heat the adsorbent and to desorb water from the adsorbent  and excess of steam corresponding to the desorbed steam is  passed from the recycling passage to the branched condenser  and is condensed to obtain liquid water in high efficiency.  
+</ABSTRACT>
+</TEXT>
+</DOC>

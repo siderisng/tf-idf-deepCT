@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000183
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/20 G03B-27/32 G03B-15/00 B43L-13/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for transferring an image onto a photosensitive recording material.
+</TITLE>
+<APPLICANT>
+platzer kurt<sep>platzer, kurt<sep>platzer, kurtliebenweiler 19d-8991 achbergde<sep>
+</APPLICANT>
+<INVENTOR>
+platzer kurt<sep>platzer, kurt<sep>platzer, kurtliebenweiler 19d-8991 achbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+a device for transferring and selectively for designing an image on a light-sensitive recording material, in which device in a manner which is simple in terms of construction and operation to achieve an optimal possibility of design and application, a device (4, 26, 21, 19) for designing a starting image is combined with a photographic recording device (35) which is sealed in a light-tight manner, so that a pick-off device (28) which is manually operable with easy action and the pick-off movements of which are transmissible via a lever and rod transmission device (12) without play, through an easily movable light seal (10), into the inner space (11a) of the recording chamber (11), and that a light source (15), which is independent thereof and disposed outside the recording chamber, with a device controlling the light intensity automatically as a function of the speed of the pick- off movement, is provided, the light signals of which are transmissible via a light guide (14) to a light exit head (16) fitted to the transmission device (12) within the recording chamber in the image plane (d).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

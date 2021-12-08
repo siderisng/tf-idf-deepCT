@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008337
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A61B-6/02</main> G01N-23/08 A61B-6/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for computed tomographic scanning.
+</TITLE>
+<APPLICANT>
+picker int incus<sep>picker international, inc.<sep>picker international, inc.595 miner roadhighland heights ohio 44143us<sep>picker international, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+brunnett carl joseph<sep>huang sung-cheng<sep>mattson rodney arnold<sep>brunnett, carl joseph<sep>huang, sung-cheng<sep>mattson, rodney arnold<sep>brunnett, carl joseph1650 mayfair boulevardmayfield heights, ohio 44124us<sep>huang, sung-cheng13944 hefby streetsherman oaks, california 91423us<sep>mattson, rodney arnold6532 melshore drivementor, ohio 44060us<sep>brunnett, carl joseph <sep>huang, sung-cheng<sep>mattson, rodney arnold  <sep>brunnett, carl joseph1650 mayfair boulevardmayfield heights, ohio 44124us<sep>huang, sung-cheng13944 hefby streetsherman oaks, california 91423us<sep>mattson, rodney arnold6532 melshore drivementor, ohio 44060us<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved method for computed tomographic scan­ ning is disclosed.  a beam of electromagnetic radiation sub­ tending an angle ø is alternately translated and rotated past a  patient.  the intensity of the beam is detected by an array after  the radiation passes the patient and a reconstructed image  created from the detected intensities.  each rotation of the  array is through an angle less than the angle ø subtended by  the array producing redundant intensity readings for similarly  oriented beam paths through the patient.  this redundant  intensity data is modified according to a scheme which tends  to reduce motion and misalignment artifacts within the  patient.  
+</ABSTRACT>
+</TEXT>
+</DOC>

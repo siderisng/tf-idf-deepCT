@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009224
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-3/205 F16D-3/16 F16D-3/202 <main>F16D-3/30</main> F16D-3/20 F16D-3/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tripod type constant velocity universal joint.
+</TITLE>
+<APPLICANT>
+toyoda chuo kenkyusho kkjp<sep>toyota motor co ltdjp<sep>kabushiki kaisha toyota chuo kenkyusho<sep>toyota jidosha kabushiki kaisha<sep>kabushiki kaisha toyota chuo kenkyusho41-1, aza yokomichi oaza nagakute nagakute-choaichi-gun aichi-ken, 480-11jp<sep>toyota jidosha kabushiki kaisha 1, toyota-cho toyota-shiaichi-ken 471jp <sep>kabushiki kaisha toyota chuo kenkyusho<sep>toyota jidosha kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+futamura yoshisumi<sep>hasegawa junzo<sep>ikeda toshiaki<sep>komeiji shigeki<sep>matsunari fumio - aza uedamae<sep>noro shuhei<sep>futamura, yoshisumi<sep>hasegawa, junzo<sep>ikeda, toshiaki<sep>komeiji, shigeki<sep>matsunari, fumio 769-1, aza uedamae<sep>noro, shuhei<sep>futamura, yoshisumi1, 9-chome, maruyama-chotoyota-shi aichi-kenjp<sep>hasegawa, junzo47-254, aza chaya, kyowa-choobu-shi aichi-kenjp<sep>ikeda, toshiaki3415, oaza haruki, togo-choaichi-gun aichi-kenjp<sep>komeiji, shigeki25-7, 1-chome, aoki-chotoyota-shi aichi-kenjp<sep>matsunari, fumio 769-1, aza uedamaeoaza shimada, tempaku-cho tempaku-kunagoya-shi aichi-kenjp<sep>noro, shuhei13-14, 3-chome wagogaoka, togo-choaichi-gun, aichi-kenjp<sep>futamura, yoshisumi<sep>hasegawa, junzo<sep>ikeda, toshiaki<sep>komeiji, shigeki<sep>matsunari, fumio 769-1, aza uedamae<sep>noro, shuhei<sep>futamura, yoshisumi1, 9-chome, maruyama-chotoyota-shi aichi-kenjp  <sep>hasegawa, junzo 47-254, aza chaya, kyowa-choobu-shi aichi-kenjp<sep>ikeda, toshiaki3415, oaza haruki, togo-choaichi-gun aichi-kenjp<sep>komeiji, shigeki25-7, 1-chome, aoki-chotoyota-shi aichi-kenjp<sep>matsunari, fumio 769-1, aza uedamaeoaza shimada, tempaku-cho tempaku-kunagoya-shi aichi-kenjp<sep>noro, shuhei13-14, 3-chome wagogaoka, togo-choaichi-gun, aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a tripod type constant velocity universal joint compri­ ses a spider member (10) having three roller-supporting  rods (11, 12, 13) which extend radially from a centre por­ tion of the spider member, with a respective roller element  (15, 16, 17) rotatably supported on and slidable along each  rod, and a pot member (18) defining three pairs of roller  raceways (19, 20, 21; 65).  the distances between the longitudinal axis of each  pair of roller raceways (19, 20, 21; 65) and the rotational  axis of the pot member at both ends (s, t) of the pair of  roller raceways are shorter than the distance therebetween  at a central portion (n) thereof, with both ends of each  pair of roller raceways being inwardly displaced or curved.   this universal joint reduces the quantities of non-constant  rotational velocity by reducing the differences in the pitch  radii of the portions at which two adjacent roller elements  are respectively disposed between the pairs of roller race­ ways, and reduces the size and weight of the joint.  
+</ABSTRACT>
+</TEXT>
+</DOC>

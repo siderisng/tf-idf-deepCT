@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015888
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05B-37/02 <main>H05B-41/34</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the sequential operation of flashing lights
+</TITLE>
+<APPLICANT>
+backer adrien sabe<sep>societe anonyme des etablissements adrien de backer<sep>societe anonyme des etablissements adrien de backer<sep>
+</APPLICANT>
+<INVENTOR>
+plas jean j<sep>plas, jean, j.<sep>plas, jean, j.  <sep>plas, jean, j. clos des trotteurs, 2b-1970 wezembeek-oppembe<sep>
+</INVENTOR>
+<ABSTRACT>
+A system in which the individual ignition circuits (1) of the flash lights are connected to the control center (2) only by a power distribution line (100) which itself serves to transmit the sequencing orders.Lights and control of the energy level of light shards.In the control center (2) the alternations of the supply voltage are detected and counted to produce on the energy distribution line (100) of the pulsed voltage wave sequences which contain the ignition orders of theFires.These pulsed voltage waves are interpreted in each individual fire ignition circuit (1) to discount itself in a non-ambiguous manner and with reliability the corresponding fire ignition signal.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014683
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-401/14</main> C08L-23/00 C07D-401/14 C08K-5/3477 C08K-5/34 C08K-5/00 C08L-101/00 C07D-401/00 C08K-5/3492 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polyalkylpiperidine derivatives of s-triazines, their use as stabilizers for polymers and polymer compositions stabilized with these compounds.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+rody jean dr<sep>rody, jean, dr.<sep>rody, jean, dr.rütiring 82ch-4125 riehench<sep>rody, jean, dr.<sep>rody, jean, dr.rütiring 82ch-4125 riehench<sep>
+</INVENTOR>
+<ABSTRACT>
+New polyalkylpiperidine derivatives of S-triazines of the formula wherein X and X 'means a divalent organic radical, X ", X₁ and X₂ mean direct binding or a divalent organic radical, Y, Y', Y", Y₁, Y₂, Zand z '-O-, -S-, -NH or -NR³-, RH or CH₃, R¹, R² and R³ are a monovalent organic radical or a polyalkylpipe riding group or the group R¹-X "-Y" -Chlorine means and R⁴ is H, O, alkyl, allyl or benzyl are valuable stabilizers for polymeric materials, especially against their photochemical degradation.Their preparation is carried out by stepwise implementation of cyanur acidechlo rid with the corresponding YH, Y'H and Y "H compounds.
+</ABSTRACT>
+</TEXT>
+</DOC>

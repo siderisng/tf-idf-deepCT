@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015216
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02K-9/00 <main>F02K-9/82</main> F02K-9/82 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thrust vector control for a solid-propellant rocket.
+</TITLE>
+<APPLICANT>
+aerospatialefr<sep>societe anonyme dite : societe nationale industrielle  aerospatiale<sep>aerospatiale société nationale industrielle37, boulevard de montmorencyf-75781 paris cédex 16fr<sep>societe nationale industrielle  aerospatiale societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+calabro max jean-pierre<sep>calabro, max jean-pierre<sep>calabro, max jean-pierre19 rue f. clavelf-92150 suresnefr<sep>calabro, max jean-pierre  <sep>calabro, max jean-pierre19 rue f. clavelf-92150 suresnefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the control of propellants of solid propellant gear.It relates to a soup arrangement in which the anterior portion, integrated in the propellant (1), of a nozzle (3) is pierced by at least three orifices (5), obtumed rable by means of valves (11) respective and succeptible to ensure direct injection into the hot gas nozzle from the powder block (4) of the propellant, for control.An auxiliary block of "cold" powder (7) is mounted around the pipe upstream of the orifices (5).Application to the piloting of ballistic machines.
+</ABSTRACT>
+</TEXT>
+</DOC>

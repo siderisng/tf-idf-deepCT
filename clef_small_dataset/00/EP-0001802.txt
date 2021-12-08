@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001802
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-50/24</main> H01H-50/18 H01H-51/22 H01H-50/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monostable elctromagnetic rotary armature relay.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+kimpel rolf-dieter<sep>kimpel, rolf-dieter<sep>kimpel, rolf-dieterbahnhofstrasse 26d-8081 türkenfeldde<sep>kimpel, rolf-dieter<sep>kimpel, rolf-dieterbahnhofstrasse 26d-8081 türkenfeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+Electromagnetic relay with a rotary anchor, which forms equivalent working air column with two yoke legs for achieving a monostable control characteristic at both ends.By means of an additional pole piece, each anchor end comprises the associated yoke leg tong-shaped;At least one of the pole pieces is coupled to the armature via a permanent magnet.
+</ABSTRACT>
+</TEXT>
+</DOC>

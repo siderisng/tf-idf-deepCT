@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001068
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41M-5/388 B41M-5/398 B41C-1/00 B41C-1/06 B41M-5/26 B41M-5/382 B41C-1/055 B41M-5/385 B41N-1/00 B41C-1/10 G03G-13/28 B41N-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lithographic printing plate with oleophilic sublimated image, process for its manufacture and electrostatic toner composition comprising a sublimatable material
+</TITLE>
+<APPLICANT>
+fromson h aus<sep>fromson, howard a.<sep>fromson, howard a.49 main streetstonington, ct 06378us<sep>
+</APPLICANT>
+<INVENTOR>
+fromson howard aus<sep>gracia robert fus<sep>fromson, howard a.<sep>gracia, robert f.<sep>fromson, howard a.15 rogues ridge roadweston connecticut 06066us<sep>gracia, robert f.451 first parish roadscituate massachusetts 02066us<sep>
+</INVENTOR>
+<ABSTRACT>
+lithographic printing plate having an aluminium substrate (10) with a hydrophilic, porous anodic oxide layer thereon and an oleophilic image (14) deposited by sublimation from a carrier (16) in and on the anodic oxide layer.  the sublimation can be performed using a laser irradiation.  the image on the carrier can be obtained using electrostatic techniques.  use of electrostatic toners comprising a sublimatable material. 
+</ABSTRACT>
+</TEXT>
+</DOC>

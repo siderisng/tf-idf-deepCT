@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004213
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-33/70 H01H-33/98 H01H-33/88 H01H-33/985 H01H-33/915 <main>H01H-33/985</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arc-extinguishing device with pneumatic and magnetic self blow-out.
+</TITLE>
+<APPLICANT>
+merlin gerin fr <sep>merlin gerin<sep>merlin gerinrue henri tarzef-38050 grenoble cédexfr<sep>merlin gerin<sep>merlin gerin<sep>
+</APPLICANT>
+<INVENTOR>
+bernard georges<sep>hennebert jacques<sep>bernard, georges<sep>hennebert, jacques<sep>bernard, georges10, allée du muguetf-38120 saint-egrevefr<sep>hennebert, jacques10, rue greuzef-38000 grenoblefr<sep>bernard, georges<sep>hennebert, jacques<sep>bernard, georges<sep>hennebert, jacques  <sep>bernard, georges 10, allée du muguetf-38120 saint-egrevefr<sep>hennebert, jacques10, rue greuzef-38000 grenoblefr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a selt-blast arc-extinguishing device by thermal expansion and rotation of the arc, for an electrical circuit interrupter pole having a gas-tight casing (10) filled with a gas of high dielectric rigidity, particularly sulfur hexafluoride, comprising : - a first stationary intermediate wall (16) dividing the enclosure surrounded by the casing (10) into a first (22) and a second (20) compartments, - an axially movable tubular contact (28) connected to an actuating rod (30) and cooperating with a stationary contact structure (112), the contact zone being located within said first compartment (22), said movable contact (28) sliding gastight through an orifice provided in said first wall (16) and said movable contact (28) communicating with said second compartment (20) to provide a compressed gas exhaust path from the first compartment (22) into the second compartment (20), - a magnetic blast coil (56) forming a part of said stationary contact structure (112) and located coaxially with said contacts (28, 112) in said first compartment (22), - an annular the blast coil (56) energizing electrode (116) which covers the free face of the coil (56) facing the movable contact (28), the coil (56) being electrically connected between the stationary contact (112) and the annular electrode (116) in order to generate a magnetic field to blast in rotation the arc staying on the electrode (116), the gas compressed by the rotating arc exhausting from the first compartment and blasting pneumatically the arc, characterized by the fact that it further comprises : - a third compartment (24) of the enclosure (10) separated from the first compartment (22) by a second intermediate stationary wall (18) of insulating material, the first compartment (22) being located between the second (20) and third (24) compartments - a tubular pipe (118) projecting axially through the coil (56) supported by said second wall (18) and connecting with the annular electrode (116), the last covering with a collar (114) of the stationary contact (112) the free end face of the coil (56) leaving a small free gap (120) between the annular electrode and the collar, and the movable contact (28) facing the annular electrode (116) being of a diameter smaller than that of the stationary contact (112), said pipe (118) ending in the first compartment (22) and communicating with the third compartment (24) to establish a compressed gas exhaust path from the first compartment (22) into the third compartment (24), the roots of the rotating arc being blasted towards an area for away from the stationary contact (112) by the gases exhausting from the exhaust paths. 
+</ABSTRACT>
+</TEXT>
+</DOC>

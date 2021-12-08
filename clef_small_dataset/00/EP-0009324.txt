@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009324
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-337/00 A01N-47/34 C07D-295/00 C07D-295/192 A01N-47/28 C07C-337/06 C07C-325/00 <main>C07C-159/00</main> C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted 1-benzoyl-3-thiosemicarbazides, their manufacture and use as plant growth regulants, and agricultural formulations comprising them.
+</TITLE>
+<APPLICANT>
+gulf oil corp us<sep>gulf oil corporation  <sep>gulf oil corporationp. o. box 1166pittsburgh pennsylvania 15230us<sep>gulf oil corporation<sep>
+</APPLICANT>
+<INVENTOR>
+ahle james leroy<sep>rutter jerrey lynn<sep>ahle, james leroy<sep>rutter, jerrey lynn<sep>ahle, james leroy4828 larsen laneshawnee kansas 66203us<sep>rutter, jerrey lynn6743 walmeroverland park kansas 66204us<sep>ahle, james leroy<sep>rutter, jerrey lynn<sep>ahle, james leroy4828 larsen laneshawnee kansas 66203us<sep>rutter, jerrey lynn6743 walmeroverland park kansas 66204us<sep>
+</INVENTOR>
+<ABSTRACT>
+1-benzoyl-3-thiosemicarbazides of formula i:    wherein   r is   --r¹ or   -q;   r¹ is -oh, -nr′r″, c₁-c₄ alkyl or hydrogen;   q is hydrogen, c₁-c₄ alkyl or c₃-c₆ cycloalkyl;   each of r′ and r″ independently is hydrogen, c₁-c₁₀  alkyl, c₃-c₇ alkoxyalkyl or alkoxyalkoxyalkyl, c₃-c₆  cycloalkyl, phenyl c₁-c₂ alkyl where the phenyl group  is optionally substituted by halo or c₁-c₄ alkoxy; or  r′ and r″ taken together with the nitrogen atom to  which they are attached form a heterocyclic ring con­ taining from 5 to 7 ring atoms;   each r² independently is halogen, c₁-c₄ alkyl, c₁-c₄  alkoxy, nitro or trifluoromethyl;   m is 0, 1 or 2;   r³ is hydrogen, c₁-c₄ alkyl, c₃-c₄ alkyl, c₃-c₄ alkenyl containing no  α,β unsaturation, c₁-c₄ hydroxyalkyl, phenyl or benzyl;   r⁴ is hydrogen or c₁-c₄ alkyl;   ar is naphthyl, anthranyl, phenanthryl or a group having  one of the following formulae;    each r⁵ independently is c₁-c₄ alkyl, halo, nitro, c₁-c₄  alkoxy or c₁-c₄ alkylthio, provided that both ortho  positions are not substituted by alkyl;   r⁶ is c₁-c₄ carbalkoxy, phenoxy, benzyloxy, phenyl, ami­ no, c₁-c₄ alkylamino or di (c₁-c₄) alkylamino;  n is 0, 1, 2 or 3;   q is 0 or 1;   the sum of n plus q does not exceed 3; and p is 0 or 1;  and agriculturally-acceptable salts and esdters thereof,  are useful in plant growth regulation.  the preparation of  these novel compounds is described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

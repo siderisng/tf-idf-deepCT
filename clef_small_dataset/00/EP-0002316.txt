@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002316
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/44 F16H-35/00 F16H-37/02 F16H-37/04 F16K-31/52 F16K-1/22 <main>F16H-21/18</main> F16K-31/53 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mechanism for converting between linear and rotational movements.
+</TITLE>
+<APPLICANT>
+gen signal corpus<sep>general signal corporation<sep>general signal corporationpo box 10010 high ridge parkstamford connecticut 06904us<sep>general signal corporation<sep>
+</APPLICANT>
+<INVENTOR>
+carlson william louis jr<sep>carlson, william louis jr.<sep>carlson, william louis jr.route 2, pine pointst. cloud, minnesota 56301us<sep>carlson, william louis jr.<sep>carlson, william louis jr.route 2, pine pointst. cloud, minnesota 56301us<sep>
+</INVENTOR>
+<ABSTRACT>
+a mechanism for converting between linear and rotational  movement and usable for example as a valve actuator  includes a frame (12) arranged to move only along a linear  path of travel.  at first cylindrical disc (18) is mounted within  an opening (16) in the frame (12) so as to be free to rotate  with respect to the frame (12).  a second cylindrical disc (22)  is mounted within an eccentric opening (20) in the first  cylindrical disc (18) so as to be free to rotate with respect to  the first cylindrical disc (18) in an eccentric fashion.  a shaft  (24) is affixed eccentrically to the second cylindrical disc (22)  and is arranged to rotate about a fixed axis (26).  a sector gear  (32) is fixed to the first disc (18) by means of arms (34) and is  concentric with the second disc (22).  a fixed circular gear (42)  is centered about the axis (26).  an arm (36) is attached to the  second disc (22) and carries at first spur gear (40) which  meshes with the sector gear (32) and a second spur gear (38)  which meshes with the fixed circular gear (42).  the two spur  gears (38, 40) are fixed to a common shaft so as to rotate  together.  by virtue of this arrangement, linear movement of  the frame (12) is converted into rotational movement of the  shaft (24).  the shaft (24) can be used to drive a butterfly valve  (28).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008431
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-41/12 <main>H01B-13/06</main> H01B-3/08 H01F-6/06 H01B-3/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for insulating supraconductors in a magnetic winding.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+weisse hanns-jorg<sep>weisse, hanns-jorg<sep>weisse, hanns-jörgmarienbader strasse 52d-8520 erlangende<sep>weisse, hanns-jorg<sep>weisse, hanns-jörgmarienbader strasse 52d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for the isolation of SUP roders in a magnetic winding, in which deposited, organic substance-containing insulating and / or binder-containing organic substance-containing insulating agents are eliminated in front of an in situ annealing. If the magnetic winding is constructed with such coated insulating agents and then exposed to a cleaning annealing for expelling the organic substances, there is a risk that organic radicals remain in the winding, which decompose to graphite in the subsequent in situ annealing. Thus, however, an isolation deterioration is connected. According to the invention, it is therefore provided that first the simple and / or binders are completely removed and instead is provided at least a portion of the insulation with tel with a particular protective material, that then the magnetic winding is first constructed and that the protective material is subsequently deflated before the firing from the magnetic winding is removed again. In order to determine complete washing of the protective material from the wick lung, in particular the purified insulating agents can be soaked with a protective material which is added to a dye. According to the method according to the invention, in particular high field magnets with superconductors made of brittle intermetallic compounds such. b. NB₃SN or V₃GA are isolated.
+</ABSTRACT>
+</TEXT>
+</DOC>

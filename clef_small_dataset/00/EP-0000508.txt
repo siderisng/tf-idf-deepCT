@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000508
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/34 A01N-43/40 <main>C07D-213/64</main> C07D-213/64 C07D-213/643 C07D-213/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phenyl acetates of 2-oxypyridyl, process for their preparation and their use as pesticides.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag <sep>ciba-geigy agklybeckstrasse 1414002 basel ch  <sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+ackermann peter dr<sep>drabek jozef dr<sep>farooq saleem dr<sep>gsell laurenz dr<sep>kristiansen odd dr<sep>ackermann, peter, dr.<sep>drabek, jozef, dr.<sep>farooq, saleem, dr.<sep>gsell, laurenz, dr.<sep>kristiansen, odd, dr.<sep>ackermann, peter, dr.reichensteinerstrasse 12ch-4153 reinachch<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>farooq, saleem, dr.im schaiengartench-4107 ettingench<sep>gsell, laurenz, dr.poolstrasse 26ach-4414 füllinsdorfch<sep>kristiansen, odd, dr.ringweg 12ch-4313 möhlinch<sep>ackermann, peter, dr.  <sep>drabek, jozef, dr. <sep>farooq, saleem, dr.<sep>gsell, laurenz, dr.<sep>kristiansen, odd, dr.<sep>ackermann, peter, dr.reichensteinerstrasse 12ch-4153 reinachch<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>farooq, saleem, dr.im schaiengartench-4107 ettingench<sep>gsell, laurenz, dr.poolstrasse 26ach-4414 füllinsdorfch<sep>kristiansen, odd, dr.ringweg 12ch-4313 möhlinch<sep>
+</INVENTOR>
+<ABSTRACT>
+Phenylacetates of the formula wherein R₁ is hydrogen, cyano, ethinyl or methyl and R₂ and R₃ per hydrogen, halogen, C₁-C₄ alkyl or C₁-C₄ alkoxy, methods for their preparation and their use in pest control.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012378
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01K-7/02 G01K-7/00 G01K-7/30 <main>G01K-7/30</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+noise-temperature measuring device.
+</TITLE>
+<APPLICANT>
+kernforschungsanlage juelichde<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>forschungszentrum jülich gmbhwilhelm-johnen-strasse52425 jülichde<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung <sep>
+</APPLICANT>
+<INVENTOR>
+brixy heinz dr<sep>hofer helmut<sep>brixy, heinz, dr.<sep>hofer, helmut<sep>brixy, heinz, dr.taubenforstd-5162 niederzierde<sep>hofer, helmutrheydter strasse 180d-4052 korschenbroichde<sep>brixy, heinz, dr. <sep>hofer, helmut<sep>brixy, heinz, dr.taubenforstd-5162 niederzierde<sep>hofer, helmutrheydter strasse 180d-4052 korschenbroichde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a nozzle thermo meter probe in which the metal wire connected for the measurement of the noise voltage, and at its two ends with the supply wires metal wire only slightly extends beyond its support or guide element. The sensor should be such that the connecting places of the metal wire 2 with the lead wires 5 close to the type of metal, a spiral, a spiral or meander-shaped part of the metal wire 2. The sensor should still be easily produced. In addition, it should have good electrical insulation even if it is exposed to temperatures above about 1200 ° C. To solve this object, in the measuring probe according to the invention for guiding and isolating the ends of the lead wires and for mutual insulation of the connection points, a isolated insulating part 9, 9a is provided, which on the side facing the lead wires 5 in the manner of a multi-hole tube 9 is formed. In this more pitting tube, the ends of the supply wires are guided. In addition, the tube on the side supplied to the metal wire 2 has a web 9a lying between the two verbin tion sites.
+</ABSTRACT>
+</TEXT>
+</DOC>

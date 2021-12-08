@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006677
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-7/18 C10N-40/16 C07F-7/02 H01B-3/46 C10M-1/54 <main>C07F-7/08</main> C07F-7/00 C10M-3/48 C10N-40/08 C10M-105/78 C09D-7/12 C07F-7/08 C10M-139/00 C09K-3/18 C10M-105/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compounds containing boron and silicon, their preparation and their applications.
+</TITLE>
+<APPLICANT>
+castrol ltdgb<sep>castrol limited<sep>castrol limitedburmah house pipers wayswindon wiltshire sn3 1regb<sep>castrol limited<sep>
+</APPLICANT>
+<INVENTOR>
+askew herbert frank<sep>harrington colin john<sep>askew, herbert frank<sep>harrington, colin john<sep>askew, herbert frank37 impstone roadpamber heath hampshire rg26 6eqgb<sep>harrington, colin john17 the moors pangbournereading berkshiregb<sep>askew, herbert frank<sep>harrington, colin john<sep>askew, herbert frank37 impstone roadpamber heath hampshire rg26 6eqgb<sep>harrington, colin john17 the moors pangbournereading berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+novel compounds of the general formula:   wherein:   (a) each r¹ is a hydrocarbyl group, or a group of the formula:  -(or⁵)n-or⁶, (i)   -r⁵-(or⁵)or⁶, (ii)    and each r¹ may be the same as, or different from, any other  group r¹.    (b) r² is a group as defined for r¹, or a group of the formula:   -o(r⁵o)nsi(r¹)₃ (iv)   and each group r² may be the same as, or different from,  any other group r².    (c) each of r³ and r⁴ is independently a group of the  formula:    (d) r⁵ is an alkylene or an arylene group and each r⁵ may  be the same as, or different from, any other group r⁵,   (e) r⁶ is a hydrocarbyl group of hydrogen and each group  r⁶ may be the same as, or different from, any other group  r⁶,   (f) n is zero or an integer and each n may be the same as,  or different from, any other n.  the compounds are useful as water scavengers, parti­ cularly for hydraulic fluids, as well as in paints, lubricat­ ing oils and electrical oils.  
+</ABSTRACT>
+</TEXT>
+</DOC>

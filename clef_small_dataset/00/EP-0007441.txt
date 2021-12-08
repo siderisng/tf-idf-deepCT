@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007441
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-231/00 A61K-31/195 C07C-237/12 C07C-323/60 A61K-31/21 A61P-13/02 C07C-231/02 C07C-237/08 A61P-13/00 C07C-237/00 C07C-67/00 C07C-237/22 C07C-231/12 C07D-207/46 C07C-103/50 A61K-31/265 C07C-313/00 A61P-15/00 <main>C07C-149/243</main> C07D-207/00 C07C-323/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n - (n-acetyl-l-methionyl) - 3,4 -diethoxy-carbonyloxy-phenethylamine, process for preparing same and a pharmaceutical composition containing said compound.
+</TITLE>
+<APPLICANT>
+tanabe seiyaku co jp<sep>tanabe seiyaku co., ltd.  <sep>tanabe seiyaku co., ltd.no. 21 dosho-machi 3-chome higashi-kuosaka-shi osaka-fujp<sep>tanabe seiyaku co., ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+hayashi kimiaki<sep>kiguchi tasaburo<sep>yamaguchi isao<sep>hayashi, kimiaki<sep>kiguchi, tasaburo<sep>yamaguchi, isao<sep>hayashi, kimiakig-104, no.27, shin-ahiya-kamisuita-shi osaka-fujp<sep>kiguchi, tasaburo756, oaza-kankoji kanan-chominami kawachi-gun osaka-fujp<sep>yamaguchi, isao16-7, ogikubo 3-chomesuginami-ku tokyo-tojp<sep>hayashi, kimiaki<sep>kiguchi, tasaburo<sep>yamaguchi, isao<sep>hayashi, kimiakig-104, no.27, shin-ahiya-kamisuita-shi osaka-fujp<sep>kiguchi, tasaburo756, oaza-kankoji kanan-chominami kawachi-gun osaka-fujp<sep>yamaguchi, isao16-7, ogikubo 3-chomesuginami-ku tokyo-tojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a compound of the formula:    wherein r is methyl or 2-methylthioethyl, is prepared by  either   (a) condensing a compound of the formula:    wherein r is the same as above, or reactive derivative thereof  with 3,4-diethoxycarboxyphenethylamine, or   (b) condensing the compound (ii) or a reactive derivative  thereof with dopamine, followed by reacting the resultant  product with an ethoxycarbonyl halide.  the compound (i)  shows potent renal blood flow-increasing activity and is use­ ful for the treatment of renal hypertension, congestive heart  failure and other diseases due to renal blood flow distur­ bances.  
+</ABSTRACT>
+</TEXT>
+</DOC>

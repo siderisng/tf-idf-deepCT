@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015596
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/148 <main>H01L-27/14</main> H01L-31/0288 H04N-3/14 H01L-29/10 H01L-29/02 H01L-31/101 H01L-21/339 H01L-29/66 H01L-31/113 H01L-31/0264 H01L-21/02 H01L-31/02 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+charge-coupled devices.
+</TITLE>
+<APPLICANT>
+philips electronic associatedgb<sep>philips nvgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+brewer robert john philips ele<sep>brewer, robert john philips electronic and<sep>brewer, robert john philips electronic andass. ind. ltd., patent dept. mullard housetorrington place london wc1e 7hdgb<sep>brewer, robert john philips electronic and<sep>brewer, robert john philips electronic andass. ind. ltd., patent dept. mullard housetorrington place london wc1e 7hdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an accumulation-mode ccd converts into electrical  signals an electromagnetic radiation pattern e. g.  of infra-­ red radiation.  the device body (1) may be of monocrystal­ line silicon and has a radiation-sensitive region (2) which  is of one conductivity type determined by dopant (e. g.   sulphur, platinum, indium or thallium) having an energy  level or levels sufficiently deep in the semiconductor band  gap that substantially all of said dopant atoms are un­ ionized at the device operating temperature.  by this means  said region (2) is substantially free of majority charge car­ riers in the absence of said radiation, and majority charge  carriers trapped by said dopant atoms can be released upon  excitation by the radiation.  a first ohmic contact (5, 6) to  said region (2) supplies majority charge carriers to said  dopant to replace charge carriers released by the incident  radiation.  an electrode system (11 to 14) on one major  side of the region (2) permits electric fields to be capac­ itively generated in the region (2) for accumulating the re­ leased majority carriers below the electrode system (11 to  14) as charge packets corresponding to the incident radia­ tion pattern and for transporting said charge packets later­ ally across the region (2) to an output (15, 16) from the  region (2).  instead of the figure 1 arrangement, the con­ tact (5, 6) may be at the same side as the electrode system  (11 to 14) instead of the opposite side, and a single-phase  ccd electrode system possibly with a rectifying junction  instead of an insulating layer (17) may be used.  the de­ vice is converted from a surface-channel to a bulk-channel  ccd by the addition of a surface layer (20) of said one  conductivity type at the said one major side of said region  (2) below the electrode system (11 to 14).  the surface 
+</ABSTRACT>
+</TEXT>
+</DOC>

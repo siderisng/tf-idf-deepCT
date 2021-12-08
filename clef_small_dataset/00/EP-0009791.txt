@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009791
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02J-7/02 H02J-7/10 H02J-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+battery charger and power supply circuitry.
+</TITLE>
+<APPLICANT>
+gates rubber co us<sep>the gates rubber company<sep>the gates rubber company999 south broadway p.o. box 5887denver, colorado 80217us<sep>
+</APPLICANT>
+<INVENTOR>
+hammel ronald ous<sep>hammel, ronald o.<sep>hammel, ronald o.6136 south niagara courtenglewood, colorado 80110us<sep>
+</INVENTOR>
+<ABSTRACT>
+a transformerless battery charging circuit is described  including a rectifier (10′), a semiconductor switch (12′), in  series with the battery (14), a sensing network (16′) monitoring  battery voltage, a trigger circuit (18′) responsive to the  sensed battery voltage for controlling operation of the semiconductor  switch (12′), and a voltage regulator (20′) for regulating  output voltage of the rectifier (10′) as supplied to the  triggering and battery voltage sensing networks.  the circuitry  in combination with an appropriate rechargeable battery  (14) also serves as a power supply to drive a dc load  connected to the battery (14).  
+</ABSTRACT>
+</TEXT>
+</DOC>

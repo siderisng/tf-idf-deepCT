@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007233
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25F-3/04 C25D-11/16 B41N-3/03 B41N-3/00 <main>C25D-11/16</main> C25D-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of treating aluminium foil or a  lithographic printing plate support and products so obtained.
+</TITLE>
+<APPLICANT>
+british insulated callendersgb  <sep>bicc limited<sep>bicc public limited company21, bloomsbury streetlondon, wc1b 3qngb<sep>bicc public limited company<sep>
+</APPLICANT>
+<INVENTOR>
+rowlands david philip<sep>thomas alan<sep>rowlands, david philip<sep>thomas, alan<sep>rowlands, david philip10, st. martins roadsale, cheshire m33 5pugb<sep>thomas, alan50, sackville roadwindle, st. helens merseysidegb<sep>rowlands, david philip  <sep>thomas, alan<sep>rowlands, david philip10, st. martins roadsale, cheshire m33 5pugb<sep>thomas, alan50, sackville roadwindle, st. helens merseysidegb<sep>
+</INVENTOR>
+<ABSTRACT>
+aluminium (1) is immersed in a bath (2) containing phos­ phate ions before anodising in a bath (3) containing sulphate  ions.  when the substrate is aluminium foil in web form, pref­ erably the phosphate bath serves as a liquid junction cell by  which the anodising current is introduced into the web.   aluminium foil or sheet so processed is especially suitable as  a base for a presensitised lithographic printing plate.  
+</ABSTRACT>
+<DESCRIPTION>
+treating aluminium this invention relates to the treatment of aluminium (including its alloys); especially aluminium foil in continuous web farm, primarily, but not exclusively, it is concerned with the pre-treatment of aluminium that i8 subsequently to be coated with photosensitive material to make a presensitised lithographic printing plate. aluminium for this purpose is almost always anodised, generally using a bath based on sulphuric acid, though phosphoric acid is used by at least one manufacturer. sulphuric acid gives a hard, adherent and abrasion-resistant coasting, but there are problems in getting satisfactory adhesion of some attractive sensitive coatings (for example polyvinyl cinnamate among negative-working coatings and orthoquinone diazide sulphonate-based resists amongst positive-working coatings). phosphoric acid anodising gives much better adhesion with these and some other coatings, but the anodic coating lsmuch softer and tends to abrade away during printing to an extent that may limit the number of copies that can be taken off-the plate. in some cases aluminium that has been anodised in sulphuric acid has been treated subsequently with phosphoric acid, and this has been found to give a usepul improvement in adhesion while retaining part of the advantages of the use of sulphuric acid for anodising, but this presents obvious difficulties in control of the operation. the invention is based in part on the realisation that anodic oxidation takes place at the surface of the metal, not of the coating, and that it will not of itself destroy the existing exposed surface of the coating. in accordance with the invention, a process of treating aluminium comprising anodising it in a bath containing sulphate ions is characterised by first immersing it in a bath containing phosphate ions. immersion may be by dipping or, with some advantages, by spraying or flooding the surface of the aluminium. the phosphate ions are preferably orthophosphate ions, but more camplex phosphates can be u ed. the phosphate and sulphate ions may be the only anions present to any substantial extent in the respective baths, but the presence of other anions that are inert or that modify, rather than radically alten, the effect of the treatment may be present. in particular the presence of minor amounts of sulphate in the phosphate bath and/or of phosphate in the sulphate .bath is not excluded. we prefer that the associated cations should be wholly or mainly hydrogen ions, but neutral or alkaline salt solutions may be suitable in some cases. subject to suitable choice of its composition (its ph especially) the phosphate treatment may be by a simple immersion process, or the aluminium surface may be subjected to anodising treatment in the phosphate bath asrwell as in the sulphate bath. when the aluminium is a foil in continuous web form, however, we prefer that the phosphate bath should serve also as r "liquid junction" cell for introducing anodising current into the web without the use of contact rolls or the like; in this case the aluminium will be electrolytically etched in the phosphate bath. exampl e the accompanying drawing
+</DESCRIPTION>
+<CLAIMS>
+claims   1. a method of treating aluminium   camprising    anodising it in a bath containing sulphate ions characterised by first immersing it in a bath containing phosphate ions.    2. a method in accordance with claim 1 of treating aluminium foil in web form comprising passing the web through a first bath containing phosphate ions and afterwards through an anodising bath containing sulphate ions characterised by passing current between an anode immersed in the first bath and a cathode immersed in the anodising bath.   3. a method of making a presensitised lithographic printing plate comprising anodising aluminium sheet or foil subsequently applying a lithographic photosensitive coating to it, characterised in that the sheet or foil is anodised by the method claimed in claim 1 or claim 2.   4. aluminium treated by the method claimed in claim 1.   5. aluminium foil treated by the method claimed in claim 2.   6. a presensitised lithographic printing plate made by the method claimed in claim 3.  
+</CLAIMS>
+</TEXT>
+</DOC>

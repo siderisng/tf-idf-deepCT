@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000623
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-13/62 H01R-12/00 <main>H01R-9/09</main> H01R-12/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+printed circuit edge connector.
+</TITLE>
+<APPLICANT>
+lucas industries ltd gb<sep>lucas industries limited<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>lucas industries public limited company<sep>
+</APPLICANT>
+<INVENTOR>
+hulse anthony john<sep>hulse, anthony john<sep>hulse, anthony john14 pirehill lanewalton stone, st15 ojngb<sep>hulse, anthony john  <sep>hulse, anthony john14 pirehill lanewalton stone, st15 ojngb<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrical connection of the kind arranged to receive an  edge of a printed circuit board or the like to make a plurality of  electrical connections thereto.  the connector includes a body-  (11) having an end face, and within the body are a plurality of  parallel passages (12) which extend from the end face for  receiving respective electrical terminals.  the partition walls  (19) which separate the passages from one another, each  have therein a slot (21) for accommodating the edge of the  printed circuit board or the like in use.  at least one of the slots  (21a) is so positioned in relation to the other slots 21 and the  shape of the board to be received, that in order for the edge of  the board to be received in each of the slots (21), (21a) the  board and/or the body must be flexed from its rest configuration  whereby after insertion of the board the inherent resilience  of the flexed board and/or body (11) causes the edges of  the slot or slots (21, 21a) to grip the board.  
+</ABSTRACT>
+</TEXT>
+</DOC>

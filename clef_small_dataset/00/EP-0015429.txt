@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015429
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-3/50 H02K-5/22 <main>H02K-3/50</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+parallel ring and ring extension support system for dynamoelectric machines.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+fidei frank paul<sep>jarabak andrew john<sep>saviski michael<sep>fidei, frank paul<sep>jarabak, andrew john<sep>saviski, michael<sep>fidei, frank paul615 filmorepittsburgh, paus<sep>jarabak, andrew johnroute no. 1export, paus<sep>saviski, michael2225 cypress drivemckeesport, psus<sep>fidei, frank paul <sep>jarabak, andrew john<sep>saviski, michael  <sep>fidei, frank paul615 filmorepittsburgh, paus<sep>jarabak, andrew johnroute no. 1export, paus<sep>saviski, michael2225 cypress drivemckeesport, psus<sep>
+</INVENTOR>
+<ABSTRACT>
+a dynamoelectric machine has a casing structure (12)  with a thin cylindrical member circumferentially separated axial  gussets, two axial rows of arcuate structural segments (36)  connected between the axial gussets and a cylindrical stator  core.  conductor rings (24a-e) and ring extensions (28) are  supported within the casing structure at one axial end thereof  by conductor ring clamp systems (38a) and ring extension  clamp structures respectively.  the circumferential positions of  the ring extensions (28) correspond to the circumferential positions  of phase terminals.  phase leads electrically connect the  phase terminals (20b, 22b) and the ring extensions (28).  the  number of phase lead standard lengths equal the number of  different radial distances the phase terminals are displaced  from the stator core's axis.  the conductor ring clamp systems  (38a) each include two blocks which each have indentations in  one edge.  the indentations on one block are juxtaposable with  the indentations on the other block so as to cooperatively provide  openings for conductor rings.  
+</ABSTRACT>
+</TEXT>
+</DOC>

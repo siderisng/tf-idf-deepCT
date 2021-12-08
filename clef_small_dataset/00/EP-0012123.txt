@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012123
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05B-1/02 A61M-1/36 F24H-9/20 F24H-1/12 A61M-5/44 <main>A61M-5/14</main> F24H-1/10 F24H-1/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a device for heating a fluid.
+</TITLE>
+<APPLICANT>
+gambro abse   <sep>gambro ab<sep>gambro lundia abbox 10101s-220 10 lundse<sep>gambro lundia ab<sep>
+</APPLICANT>
+<INVENTOR>
+dahlberg bengt ake gustav<sep>holmberg bengt magnus<sep>nilsson lennart olov erland<sep>dahlberg, bengt ake gustav<sep>holmberg, bengt magnus<sep>nilsson, lennart olov erland<sep>dahlberg, bengt ake gustavmasvägen 8cs-222 33 lundse<sep>holmberg, bengt magnussvalvägen 27s-230 50 bjärredse<sep>nilsson, lennart olov erlandfurustigen 11s-240 13 genarpse<sep>dahlberg, bengt ake gustav <sep>holmberg, bengt magnus<sep>nilsson, lennart olov erland  <sep>dahlberg, bengt ake gustavmasvägen 8cs-222 33 lundse<sep>holmberg, bengt magnussvalvägen 27s-230 50 bjärredse<sep>nilsson, lennart olov erlandfurustigen 11s-240 13 genarpse<sep>
+</INVENTOR>
+<ABSTRACT>
+a device for heating of a fluid by means of electrical  heating plates (6) or the like in heat transferring contact with a  conduit through which said fluid is adapted to flow.  a temper­ ature transmitter is adapted to abut a member, carrying con­ tact means (19b), in contact with said conduit for measuring of  the temperature of the heated fluid at such a distance from  said heating plates that said temperature transmitter is essen­ tially completely uninfluenced by radiant and/or conductive  heat therefrom.  said contact means comprise one or more  scores (21), so that said fluid at lower rates of flow is concen­ trated to a flow path in close contact with said temperature  transmitter.  the device is primarily intended for use in heating of  infusate, such as blood, which is inserted into a patient at flow  rates of between 15 and 150 ml per minute.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006760
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03D-9/00 H04B-1/26 H03D-7/14 H03D-9/06 <main>H03D-7/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+balanced active mixer circuit.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+cerny jr frank joseph<sep>helm george douglas<sep>wesoloski ronald gerard<sep>cerny, jr., frank joseph<sep>helm, george douglas<sep>wesoloski, ronald gerard<sep>cerny, jr., frank joseph8922 west 24th streetnorth riverside, illinois 60546us<sep>helm, george douglas5507 west lake shore drivecary, illinois 60013us<sep>wesoloski, ronald gerard2140 walnut courtglenview, illinois 60025us<sep>cerny, jr., frank joseph <sep>helm, george douglas  <sep>wesoloski, ronald gerard<sep>cerny, jr., frank joseph8922 west 24th streetnorth riverside, illinois 60546us<sep>helm, george douglas5507 west lake shore drivecary, illinois 60013us<sep>wesoloski, ronald gerard2140 walnut courtglenview, illinois 60025us<sep>
+</INVENTOR>
+<ABSTRACT>
+a singly-balanced active mixer circuit is disclosed for  developing an if signal by combining a rf signal and a  local oscillator (lo) signal.  the rf and lo signals are  applied to a strip transmission line ring (100) which pro­ vides balanced components of the lo signal to a pair of  active devices (120, 121) arranged in a singly-balanced  active mixer.  the active devices (120, 121) are coupled  directly, or via a balanced pi-network (129-131) to the  primary winding of an output transformer (132) for applica­ tion to the following if stage of the radio receiver.  the  singly balanced active mixer circuit may be advantageously  utilized in a radio having a receiver with broadband front-­ end rf selectivity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

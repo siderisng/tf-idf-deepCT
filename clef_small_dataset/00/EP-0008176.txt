@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008176
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-3/02 F24J-3/04 C02F-1/02 <main>C02F-3/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of recovering heat from waste water in a purifying plant and a purifying plant for carrying out the method.
+</TITLE>
+<APPLICANT>
+burmeister & wains asdk<sep>burmeister & wains as<sep>burmeister &amp; wain scandinavian contractor a/srefshaleöendk-1433 copenhagen kdk<sep>burmeister & wain scandinavian contractor a/s<sep>
+</APPLICANT>
+<INVENTOR>
+petersen benny<sep>petersen, benny<sep>petersen, bennyno. 10 ellehegnetdk-2950 vedbaekdk<sep>petersen, benny<sep>petersen, bennyno. 10 ellehegnetdk-2950 vedbaekdk<sep>
+</INVENTOR>
+<ABSTRACT>
+a purifying plant for waste water comprises at least  two receptacles (1, 2, 3, 4) in which waste water is succes­ sively treated, and a heat exchanger (10) connected to the  plant outlet (9) for recovering heat from the purified water.   there are provided conduits (14, 16) and valve means (13,  15) by means of which at least one (3, 4) of the receptacles  can be isolated such that inflowing waste water by-passes  that receptacle.  a conduit (18, 20) from said receptacle  and pump means (17, 19) in the conduit serve for recirculat­ ing water from the receptacle, when isolated from the  throughflow of water, back to the throughflowing water  flow upstream of the heat exchanger.  when said means  are operated according to the method described, the flow  rate of water through the heat exchanger can be maintained  substantially constant irrespective of fluctuations in the  inflow rate of waste water to the plant, and the water tem­ perature at the heat exchanger inlet can be maintained  substantially constant.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013932
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01M-3/28</main> G01P-5/14 G01F-15/00 G01F-1/42 F16K-37/00 G01F-1/34 B64C-25/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device responsive to fluid leakage flows within a range from above a predetermined minimum to below a predetermined maximum and nonresponsive to fluid flows beyond said range.
+</TITLE>
+<APPLICANT>
+pall corpus<sep>pall corporation<sep>pall corporation30 sea cliff avenueglen cove, new york 11542us<sep>pall corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+silverwater bernard f<sep>silverwater, bernard f.<sep>silverwater, bernard f.72 mitchell avenueplainview, new yorkus<sep>silverwater, bernard f.<sep>silverwater, bernard f.72 mitchell avenueplainview, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a flow sensor is provided responsive to fluid leakage  flows within a range from above a predetermined mini­ mum to below a predetermined maximum, to indicate  that leakage flow is within that range and/or that maxi­ mum leakage flow has been exceeded, but nonresponsive  to fluid flows below the predetermined minimum or above  the predetermined maximum, to avoid giving a false  indication of fluid leakage flow, comprising a flow res­ ponsive valve (10) and a differential pressure indicator  (45) sensing differential pressure between fluid leakage  flow and normal fluid flow at the valve (10).  
+</ABSTRACT>
+</TEXT>
+</DOC>

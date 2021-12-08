@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005984
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-409/12 C07D-417/12 C07D-409/00 C07D-203/00 A61K-31/395 C07D-239/00 C07D-403/00 A61K-31/44 C07D-203/12 C07D-405/12 C07D-211/00 C07D-417/00 A61K-31/435 C07D-239/06 A61K-31/40 C07D-211/72 C07D-337/00 C07D-403/12 C07D-413/12 C07D-337/14 <main>C07D-401/12</main> A61K-31/505 C07D-207/24 C07D-207/00 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+nitro compounds, processes for preparing them and compositions containing them.
+</TITLE>
+<APPLICANT>
+smith kline french labgb<sep>smith kline & french laboratories limited<sep>smith kline &amp; french laboratories limitedmundellswelwyn garden city hertfordshire, al7 1eygb<sep>smith kline & french laboratories limited<sep>
+</APPLICANT>
+<INVENTOR>
+roantree michael laurence<sep>young rodney christopher<sep>roantree, michael laurence<sep>young, rodney christopher<sep>roantree, michael laurence84 bushey leywelwyn garden city hertfordshiregb<sep>young, rodney christopher62 cowper crescentbengeo hertfordshiregb<sep>roantree, michael laurence<sep>young, rodney christopher<sep>roantree, michael laurence84 bushey leywelwyn garden city hertfordshiregb<sep>young, rodney christopher62 cowper crescentbengeo hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention concerns compounds showing activity as  histamine h₂-receptor antagonists.  the compounds of the  invention are of structure    where het is a substituted or unsubstituted, fully-unsaturated  5- or 6- membered heterocycle containing at  least one nitrogen atom, or a furan or thiophene ring  substituted by a substituted or unsubstituted aminoalkyl  group; z is sulphur, methylene or oxygen; m is 0, 1 or 2, n is  2 or 3 with m + n being 3 or 4; and b is a substituted or  unsubstituted alkanediyl group or a 2-substituted-2-aza-1,3-propanediyl  group; and acid addition salts thereof.  the  compounds of the invention can be prepared by reacting a  compound of formula het(ch₂)mz(ch₂)nnh₂ or het(ch₂)my  (where y is a group displaceable by a mercaptan) with an  appropriate 2-substituted-3-nitro-heterocycle.  the compositions  of the invention contain at least one compound of the  invention and a pharmaceutical carrier.  
+</ABSTRACT>
+</TEXT>
+</DOC>

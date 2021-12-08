@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005016
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-19/00 G05G-15/00 H01H-19/18 H01H-21/00 F16K-31/05 G05G-15/04 H01H-21/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an electric switch control unit, more particularly for electric motor driven actuators.
+</TITLE>
+<APPLICANT>
+rotork ltdgb<sep>rotork limited<sep>rotork limitedbrassmill lane lower westonbath ba1 3jqgb<sep>
+</APPLICANT>
+<INVENTOR>
+smith frederick albertgb<sep>smith, frederick albert<sep>smith, frederick albert1 lodway roadbrislington bristol avongb<sep>
+</INVENTOR>
+<ABSTRACT>
+the control unit comprises an input drive shaft (24)  which is drivably connected with separate switching  mechanisms for operating a close direction switch (61a) or  an open direction switch (62a).  each switching mechanism  comprises an adjustable counter for setting the actuator  stroke, the counter including a counter shaft (18) driven by  shaft (24) and having counter gears (13, 14) thereon which  mesh with counter pinions (12) on a counter pinion shaft  (10).  the shaft (10) carries a cam (11) operating a limit cam  plate (28), which actuates an adjustable torque limit shaft  (35) carried by a switch actuator (42) so as to actuate the  switch (61a) when limit operation is selected.  torque operation is obtained from the wormshaft of the  actuator through a linkage (103) and a torque member (106)  which actuates one or other of the adjustable cams (38) on  shaft (36) also carried by the switch actuator (42).  a latch member (49) operable at any time during the  stroke of the actuator prevents resetting of the switch  actuator (42) until the actuator moves in the opposite  direction, the latch member (49) being released by a release  drive shaft (48) operable from input drive shaft (24).  a torque switch cut-out lever (37) prevents operation of  the opposite switch actuator (43) until the actuator moves  and the first switch actuator (42) resets.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002928
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/74 C02F-11/08 B01J-4/00 C02F-11/06 B08B-9/08 <main>C02F-1/72</main> F28G-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+removal of solids from a wet oxidation reactor.
+</TITLE>
+<APPLICANT>
+sterling drug incus<sep>sterling drug inc.<sep>sterling drug inc.90 park avenuenew york new yorkus<sep>sterling drug inc. <sep>
+</APPLICANT>
+<INVENTOR>
+bauer gerald lee<sep>bauer, gerald lee<sep>bauer, gerald lee909 woodward avenuerotschild wisconsinus<sep>bauer, gerald lee<sep>bauer, gerald lee909 woodward avenuerotschild wisconsinus<sep>
+</INVENTOR>
+<ABSTRACT>
+a cleaning and washing system for a wet oxidation  reactor with an associated heat exchanger.  a by-pass (h),  normally closed, communicating with the bottom of the  reactor is opened while the normal flow of sludge is closed,  for flushing out unwanted solid particles in the reactor  after reducing the pressure setting of a pressure control  valve (7) normally controlling flow from the outlet of the  hot side of the heat exchanger.  the by-pass also communicates  with said pressure control valve.  
+</ABSTRACT>
+</TEXT>
+</DOC>

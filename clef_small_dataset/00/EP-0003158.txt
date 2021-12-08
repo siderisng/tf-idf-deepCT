@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003158
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/16 C07C-45/34 C07C-45/35 C07C-57/00 C07C-51/25 C07C-45/00 <main>C07C-120/14</main> C07C-47/22 C07C-45/33 C07C-255/08 C07C-67/00 C07C-27/00 C07C-51/00 B01J-23/22 C07D-209/90 C07C-253/00 C07C-255/00 B01J-23/16 C07C-27/14 C07D-209/00 C07C-57/05 C07C-253/26 C07C-47/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxidation and ammoxidation catalysts, their production and use.
+</TITLE>
+<APPLICANT>
+monsanto cous<sep>monsanto company<sep>monsanto company800 north lindbergh boulevardst. louis missouri 63167us<sep>monsanto company<sep>
+</APPLICANT>
+<INVENTOR>
+wise kenneth virgil<sep>wise, kenneth virgil<sep>wise, kenneth virgil351 elmcrest driveballwin missouri 63011us<sep>wise, kenneth virgil<sep>wise, kenneth virgil351 elmcrest driveballwin missouri 63011us<sep>
+</INVENTOR>
+<ABSTRACT>
+oxidation and ammoxidation caytalysts are disclosed  which have the empirical formula sbavbticox, wherein a is at  least 6, b is 1, and c is a number such that the ratio c/a is at  least 0. 5, and x is a number taken to satisfy the valence  requirements of the sb, v and ti present in the catalyst.  such  catalysts may be optionally supported on conventional  supports, or may be unsupported.  they can be made by  drying a slurry of sb, v and ti compounds in the desired  atomic ratio to form a catalyst precursor that is then calcined.   their use in oxidation and ammoxidation of olefines, e. g.   production of acrylonitrile from propylene, is described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

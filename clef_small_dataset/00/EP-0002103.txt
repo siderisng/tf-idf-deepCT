@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002103
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-15/00</main> G01N-33/49 G01N-15/10 A61B-5/14 G01N-15/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a blood cell counter having a purging system.
+</TITLE>
+<APPLICANT>
+becton dickinson cous<sep>becton dickinson & company  <sep>becton, dickinson and companymack centre drive p.o. box 2224paramus new jersey 07652-1149us<sep>becton, dickinson and company<sep>
+</APPLICANT>
+<INVENTOR>
+hanley john patrick<sep>petrucci pasqualle michael<sep>pfeifer stanley laurence<sep>hanley, john patrick<sep>petrucci, pasqualle michael<sep>pfeifer, stanley laurence<sep>hanley, john patrick10 zendzian avenuewest paterson new jersey 07424us<sep>petrucci, pasqualle michael9 raskin roadmorristown new jersey 07960us<sep>pfeifer, stanley laurence23, orchard streetmendham new jersey 07945us<sep>hanley, john patrick <sep>petrucci, pasqualle michael<sep>pfeifer, stanley laurence  <sep>hanley, john patrick10 zendzian avenuewest paterson new jersey 07424us<sep>petrucci, pasqualle michael9 raskin roadmorristown new jersey 07960us<sep>pfeifer, stanley laurence23, orchard streetmendham new jersey 07945us<sep>
+</INVENTOR>
+<ABSTRACT>
+a blood cell counter has sensing electrodes (12 and  16) which detect the passage of a cell through an aperture  (80).  a purge system serves to purge the aperture (80) and  the surrounding portions of the blood cell counter of dirt,  debris, and previous sample liquid.  a sample tube (10)  extends from a source of either sample liquid or cleansing  solution to a small gap (35) between the aperture (80) and  a housing (40).  a purge line (34) is connected between an  annulus (33) surrounding the gap (35) and a pump (86)  which supplies negative pressure.  due to the geometry  of the sample tube (10), gap (35), annulus (33) and purge  line (34), a high pressure drop occurs across the gap (35)  and the liquid flows ar relatively high velocity past the  aperture (80) to facilitate cleaning.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016843
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-41/34 F02D-3/02 F02M-51/02 <main>F02D-41/30</main> F02D-41/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fuel injection method for internal combustion engine.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+fujieda mamoru<sep>oyama yoshishige<sep>yamauchi teruo<sep>fujieda, mamoru<sep>oyama, yoshishige<sep>yamauchi, teruo<sep>fujieda, mamoru89, gohei tomobe-chonishiibaraki-gun ibaraki 309-17jp<sep>oyama, yoshishige24-18, higashiohshima-cho 3-chomekatsuta-shi, ibaraki 312jp<sep>yamauchi, teruo2432-19, higashiishikawakatsuta-shi ibaraki, 312jp<sep>fujieda, mamoru  <sep>oyama, yoshishige <sep>yamauchi, teruo<sep>fujieda, mamoru89, gohei tomobe-chonishiibaraki-gun ibaraki 309-17jp<sep>oyama, yoshishige24-18, higashiohshima-cho 3-chomekatsuta-shi, ibaraki 312jp<sep>yamauchi, teruo2432-19, higashiishikawakatsuta-shi ibaraki, 312jp<sep>
+</INVENTOR>
+<ABSTRACT>
+An internal combustion engine fuel injection device injecting fuel into a motor comprising multiple cylinders using a single injector. When the fuel is injected by a single injector into a synchronously plurality of cylinders with respect to the respective air admissions of the cylinders, a problem arises as to the distribution of the injected fuel, which does not make uniformly in The cylinders versus the engine operation due to the late fuel supply and at the solenoid valves. For a four-cycle-cycle engine in which the air intake times are repeated by the first, third, fourth and second-cylinder sequence, a single fuel injector (202) is SEN sible to a control signal from a control device (500) to begin the injection of the fuel once by cylinder when the first and fourth Cylin Dres are in the intake phase. The moment at which the fuel injection begins and the duration of the injection are calculated in response to indicator signals of the operating conditions of the motor, these signals being obtained from a heat sensor (116), a Connective angle detector (314), a temperature sensor (316), an oxygen sensor (406), etc., via the CPU (502) and the ROM (504) of the control device (500) and then These signals are applied via an interface circuit (508) to the injector (202). The selection of the cylinder in which the fuel should be injecting from the injector (202) passes from the first and fourth to the second and third cylinders by a gnal sent by the CPU (502) (central processing unit) in response at a signal from the oxygen sensor (406).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005640
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-2/27 B41J-2/285 H01F-7/08 B41J-2/25 B41J-2/26 H01F-7/16 B41J-2/29 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+print wire solenoid.
+</TITLE>
+<APPLICANT>
+ledex incus<sep>ledex, inc.<sep>ledex, inc.801 scholz drivevandalia ohio 45377us<sep>
+</APPLICANT>
+<INVENTOR>
+fugate philip edwardus<sep>roy kenneth leeus<sep>fugate, philip edward<sep>roy, kenneth lee<sep>fugate, philip edwardp.o. box 903dayton ohio 45401us<sep>roy, kenneth leep.o. box 903dayton ohio 45401us<sep>
+</INVENTOR>
+<ABSTRACT>
+a print wire solenoid for high-speed operation is made  with two major components or subassemblies.  the first is a  plastic injected unitary bobbin or stator assembly (15) which  incorporates a core ring and a core (20), and a stator (30)  which forms a bobbin for receiving an electric coil (80).  the  parts in the stator are positioned and molded to a datum  surface (38).  the second major subcomponent is a unitary  armature assembly (40) which incorporates an armature (41),  a retraction spring (55), and a print wire (14), all anchored to  a plastic body (50).  these parts are likewise positioned with  respect to a datum surface (60).  the stator assembly and  armature assembly are retained within a drawn metal case  (11), and a rebound disc (70) is positioned within the case  and locates the datum surface (60) of the armature assembly  in the same plane as the datum surface (38) of the stator  assembly so as to define an accurate working air gap (78).  
+</ABSTRACT>
+</TEXT>
+</DOC>

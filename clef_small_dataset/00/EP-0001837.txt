@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001837
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C03C-23/00 C03C-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for reducing the light reflective power of glass articles, and device used for performing said process
+</TITLE>
+<APPLICANT>
+battelle institut e vde<sep>battelle-institut e.v.<sep>battelle-institut e.v.am römerhof 35 postfach 900 160d-60441 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+daerr georg-michael prof dr de<sep>gaar hans dipl-chem de  <sep>tschulena ralf guido drde<sep>daerr, georg-michael, prof. dr.<sep>gaar, hans, dipl.-chem.<sep>tschulena, ralf guido, dr.<sep>därr, georg-michael, prof. dr.höllsteinstrasse 58bd-6380 bad homburg v.d.h.de<sep>gaar, hans, dipl.-chem.niederhöchstädter strasse 18d-6374 steinbach/ts.de<sep>tschulena, ralf guido, dr.am wickerbach 11d-6238 hofheim-wallaude<sep>
+</INVENTOR>
+<ABSTRACT>
+in order to reduce the light reflective power of glass articles, a transverse direct-voltage field is applied, in the first step, to a glass surface in the temperature range between the processing temperature and the upper cooling point.  this causes a shift of the network converters from the treated surface into the interior of the glass.  the other, untreated surface is subsequently treated with a mixture of sulphur dioxide and steam in the temperature range between the softening point and the upper cooling point.  it is also possible to reduce the light reflective power by omitting the first step and treating both glass surfaces with a sulphur dioxide/steam mixture.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017658
+</DOCNO>
+<TEXT>
+<DATE>
+19801029
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60C-23/02 B60C-23/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an electrical alarm device triggered by loss of pressure in car tyres.
+</TITLE>
+<APPLICANT>
+psomas zacherias<sep>psomas, zacherias<sep>psomas, zacherias30 salonon st.peristeri - athensgr<sep>
+</APPLICANT>
+<INVENTOR>
+psomas zacherias<sep>psomas, zacherias<sep>psomas, zacherias30 salonon st.peristeri - athensgr<sep>
+</INVENTOR>
+<ABSTRACT>
+device for giving alarm if the pressure in air chambers  or tyres (2) of a running car has reduced by a certain value.   then an electrical alarm circuit closes automatically.  said  circuit is formed from the negative terminal of the car bat­ tery through the contact set of a pressure valve (1) regu­ lated by the pressure of the corresponding tyre (2), an in­ sulated metallic disc (3), a ball bearing arrangement, an  electrode, the contact set of a two-position switch, alarm  elements (8, 11) to the positive terminal of the battery.   the second position of the switch enables to identify the  special tyre (2) in trouble.  the function of the alarm ele­ ments (8, 11) may be tested by a testing switch (10).  
+</ABSTRACT>
+<DESCRIPTION>
+an ¯lectrically run alarm installation in action when the car air chambers present loss thereof the present invention relates to an electrically run alarm installation in action when the car air chambers present loss thereof. object of the invention is to provide a device of said type for preventing accidents and material damage caused by loss of pressure of car chambers. the alarm installation according to the invention comprises a valve regulated according to the pressure of the air chamber, a metal disc bearing insulating material on both sides, a ball bearing arrangement of closed type, an electrod., and an alarm box located in the driver's area. the alarm box is provided with warning or alarm lamps equal in number to the number of the air chambers of the car, a testing knob, an alarm siren, and a double phase switch, one to give the alarm and the other to indicate the air chamber in trouble. an embodiment of the device according to the invention is for example diagrammatically illustrated by the drawings in the drawings fig. 1 shows in particular the electrical arrangement of the device, and fig. 2 shows in particular the mechanical arrangement of the device. the alarm installation according to the invention shown by the drawings comprises a valve 1 regulated according to the pressure of the air chamber 2 (f.i. i, ii, iii, iv, i), a metal disc 3 bearing insulating material 4 on both sides, a ball bearing arrangement of closed type having a ball bearing piece 5, an electrode 6, and an alarm box 7 located in the driver's area. the alarm box 7 is provided with warning or alarm lamps 8 (f.i. i, ii, iii, iv, r) equal in number to the number of the air chamber 2 or the car 9, a testing knob 10, an alarm siren 11, and a double phase stitch 12, one to give the alarm and the other to inaicato the air chamber 2 in trouble. the system junctions in the following manner: the pressure valve 1 placed on the air chamber valve and screwed on it will be regulated to establish contact when air pressure of an air chamber 2 is reduced by f.i. 2.268 kg. it is connected by a cable to the metal disc 3 which is concentric with the wheel and on the inside of the car 9. inside the non-revolving part of the brake there is placed the electrode 6 at the end of which the ball bearing piece 3 is attached in a way that it revolves when the metal disc 3 revolves. the other end of the electrode 6 is connected with the alarm system. in case there is a loss of f.i. 2.268 kg of pressure in an air chamber 2 the pressure valve 1 closes a circuit through the metal disc 3, the ball bearing piece 5, the electrode 6, and the alarm system, in which case the alarm siren 11 sounds and the alarm lamps 8
+</DESCRIPTION>
+<CLAIMS>
+ claim   an electrically run alarm installation in action when the car air chambers   present    loss thereof,   characterized    by a valve (1) regulated according to the   pressure    of the air chamber (2), a metal disc (3) bearing insulating material (4) on both sides, a ball bearing arrangement of closed type, an   electrode    (6), and an alarm box (7) located in the   driver's    area, said alarm box (7) being provided with warning or alarm lamps (8) equal in number to the number of the air chambers (2) of the car (9), a testing knob (10), an alarm siren   (11), and    a double phase switch (12), one to give the alarm and the other to indicate the air chamber (2) in trouble.  
+</CLAIMS>
+</TEXT>
+</DOC>

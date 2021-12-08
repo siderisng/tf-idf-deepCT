@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013524
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05D-1/06 G05D-1/00 G01S-1/70 <main>G01S-1/70</main> G01S-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for aiding piloting and landing of an aircraft.
+</TITLE>
+<APPLICANT>
+sfenafr<sep>societe francaise d'equipements pour la navigation aerienne (s.f.e.n.a.)<sep>societe francaise d'equipements pour la navigation aerienne (s.f.e.n.a.)b.p. 59 aérodrome de villacoublayf-78140 velizy villacoublayfr<sep>societe francaise d'equipements pour la navigation aerienne (s.f.e.n.a.) <sep>
+</APPLICANT>
+<INVENTOR>
+gautier bernard<sep>gautier, bernard<sep>gautier, bernard10, avenue scribef-92190 meudonfr<sep>gautier, bernard <sep>gautier, bernard10, avenue scribef-92190 meudonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and a pilo device for the approach and landing of an aerodyne.It consists in determining an axis passing through an infrared source, making a predetermined slope relative to the horizontal and oriented according to a specified magnetic approach, to raise the position of the aerodyne with respect to said source, atDetermine the angular deviations in azimuth and axis of the axis of the axis relative to said descent axis, and, to act on the flight controls of the aerodyne to reduce the discrepancies to θ.The invention applies to the control of the aerodynes.
+</ABSTRACT>
+</TEXT>
+</DOC>

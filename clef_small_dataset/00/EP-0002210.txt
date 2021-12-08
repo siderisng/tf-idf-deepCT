@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002210
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-31/00 A61K-31/43 C07D-205/00 C07D-205/09 C07F-9/568 C07D-499/88 A61K-31/429 C07D-499/861 C07D-205/08 C07D-205/085 C07D-499/44 C07D-499/00 A61P-31/04 C07D-499/46 C07F-9/00 C07D-499/06 C07D-499/86 C07D-499/87 C07D-205/095 C07D-499/897 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+6- and 6,6- disubstituted-2-substituted-pen-2-em-3-carboxylic acids; processes for their preparation and pharmaceutical compositions containing such compounds.
+</TITLE>
+<APPLICANT>
+merck & co incus<sep>merck & co., inc.<sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us<sep>
+</APPLICANT>
+<INVENTOR>
+christensen burton grantus<sep>di ninno frank paulus<sep>christensen, burton grant<sep>di ninno, frank paul<sep>christensen, burton grant350 e. lafayette street apt. 1a bldg. 10metuchen n.j. 08840us<sep>di ninno, frank paul46 bentley avenueold bridge n.j. 08857us<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed are 6- and 6,6-disubstituted-2-substituted-pen-2-em-3-carboxylic  acids of the following structure:    wherein: r¹ and r² are independently selected from hydrogen,  -nhr1′ (r1′ is h or acyl), alkyl, alkoxyl, aralkyl, aryl,  heterocyclyl and heterocyclyl-alkyl; r³ is selected from  hydrogen, -r, -or, -sr, -nr₂; r is substituted and unsubstituted  alkyl, aryl, aralkyl, hetero-heterocyclyl, or heterocyclyllalkyl;  n is 0 or 1; when n=1, r³ is not -sr.  such compounds  and their pharmaceutically acceptable salt, and ester derivatives  are useful as antibiotics.  also disclosed are processes  for the preparation of such compounds, pharmaceutical  compositions comprising such compounds and methods of  treatment comprising administering such compounds and  compositions when an antibiotic effect is indicated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

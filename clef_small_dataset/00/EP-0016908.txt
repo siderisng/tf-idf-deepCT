@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016908
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-32/00 B41J-33/40 B41J-33/22 B65H-17/14 <main>B41J-33/22</main> B41J-33/14 B41J-33/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+off-the-carrier ribbon feed and drive on a high speed movable-carrier impact printer.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+mathews raymond dennis<sep>mathews, raymond dennis<sep>mathews, raymond dennis1504 walsh driveround rock, texas 78664us<sep>mathews, raymond dennis<sep>mathews, raymond dennis1504 walsh driveround rock, texas 78664us<sep>
+</INVENTOR>
+<ABSTRACT>
+device for reversibly feeding and driving a ribbon be­ tween two reels and for maintaining the ribbon under constant  tension.  first and second ribbon reels (18) and (19) are res­ pectively in peripheral non-slip driving engagement with drive  belts (39) and (40).  each belt (39, 40) engages a large diameter  drive pulley (36, 38) and a small diameter drive pulley (35,37).   pulleys (35-38) are coupled through oneway clutches to four  gears (31-34) of equal diameters, driven by a reversible input  gear (30).  when gear (30) rotates counterclockwise, only pul­ leys (35) and (38) are driven and, in turn, drive their associated  belts (39) and (40) in a forward direction wherein reel (19)  takes up ribbon (20), belt (40) being driven faster than belt  (39).  when gear (30) rotates clockwise, only pulleys (36 and  37) are driven and in turn drive belts (39) and (40) in the re­ verse direction, with belt (39) being driven faster than belt (40)  and reel (18) taking up the ribbon.  this device is suitable for  use as an off-the-carrier ribbon feed and drive for high speed  impact printers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

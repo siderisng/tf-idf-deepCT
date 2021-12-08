@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006269
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-5/17 G11B-5/31 G11B-5/29 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+elements for magnetic heads, magnetic heads manufactured with these elements, methods for producing both.
+</TITLE>
+<APPLICANT>
+spin physics incus<sep>spin physics inc.<sep>spin physics inc.3099 science park roadsan diego, california 92121us<sep>
+</APPLICANT>
+<INVENTOR>
+griffith neil johnus<sep>griffith, neil john<sep>griffith, neil john3099 science park roadsan diego, california 92121us<sep>
+</INVENTOR>
+<ABSTRACT>
+high density multitrack magnetic heads are batch-­ fabricated from a stack of non-magnetic wafers (10) which  are photolithographically processed to provide lands  (62a-d, 88a-b) and recessed structures (64, 90) in the  wafers.  magnetic layers (76, 94) are deposited within the  recessed structures and, within some of the grooves, coils  (70) inductively coupled to the magnetic layers are also  deposited.  the combined thickness of the magnetic layers  and coils or of the layers themselves is less than the depth  of the recessed structures, with the wafer lands serving  both to provide track-to-track spacing and to protect the  magnetic layers from magnetostriction producing stresses.   a selected number of grooved wafers are bonded together,  sliced and then processed as generally done in the art to  produce a plurality of multitrack magnetic heads.  
+</ABSTRACT>
+</TEXT>
+</DOC>

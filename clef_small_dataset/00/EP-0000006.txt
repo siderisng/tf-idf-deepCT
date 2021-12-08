@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000006
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-3/34 <main>C02F-3/04</main> C02F-3/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for nitrification of waste water.
+</TITLE>
+<APPLICANT>
+stamicarbonnl<sep>stamicarbon b.v.<sep>stamicarbon b.v.mijnweg 1 nl-6167 ac geleennl<sep>stamicarbon b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+bakker gerhard <sep>dijkstra fokke<sep>zeeman johannes petrus<sep>bakker, gerhard<sep>dijkstra, fokke<sep>zeeman, johannes petrus<sep>bakker, gerharddross. ecrevissestraat 176171-el steinnl<sep>dijkstra, fokkemolenweg 54sittardnl<sep>zeeman, johannes petrusruys de beerenbroucklaan 74bornnl<sep>bakker, gerhard<sep>dijkstra, fokke<sep>zeeman, johannes petrus <sep>bakker, gerhard dross. ecrevissestraat 17 6171-el steinnl<sep>dijkstra, fokkemolenweg 54sittardnl<sep>zeeman, johannes petrusruys de beerenbroucklaan 74bornnl<sep>
+</INVENTOR>
+<ABSTRACT>
+process for the nitrification of waste water in a trickle  phase reactor whereby the gas containing molecular oxygen  contains more than 25% by weight of molecular oxygen, the  off-gas in the column is vented and/or recycled, during the  nitrification 0. 5-10% by weight of co₂, with respect to the total  quantity of molecular oxygen present, such a quantity of the  liquid effluent of the reactor is recycled that the entire column  contents are irrigated and the gas and the liquid contact each  other counter-currently.  this process can be used for the nitrification of industrial  waste water, especially waste water of fertilizer plants.  
+</ABSTRACT>
+</TEXT>
+</DOC>

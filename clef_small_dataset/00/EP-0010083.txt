@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010083
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-45/08 F28F-17/00 F28B-9/08 B01D-45/00 F28F-9/02 <main>F28F-17/00</main> F28B-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+water collector and a disposal system adapted to remove moisture from an airstream.
+</TITLE>
+<APPLICANT>
+united technologies corpus<sep>united technologies corporation<sep>united technologies corporationunited technologies building 1, financial plazahartford, ct 06101us<sep>united technologies corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bizzarro peter<sep>warner john lawrence<sep>bizzarro, peter<sep>warner, john lawrence<sep>bizzarro, peter15, woodland drivecanton connecticut 06019us<sep>warner, john lawrence2, vining drivesimsbury connecticut 06070gb<sep>bizzarro, peter  <sep>warner, john lawrence<sep>bizzarro, peter15, woodland drivecanton connecticut 06019us<sep>warner, john lawrence2, vining drivesimsbury connecticut 06070gb<sep>
+</INVENTOR>
+<ABSTRACT>
+a water separator consisting of a baffle (12) and scup­ per (16) is inserted inside the outlet header (14) of a  regenerative heat exchanger (10) for removing water from  the air discharged therefrom.  the cooled air which con­ tains water droplets leaving the core (11) of the heat  exchanger (10) is passed through a baffle (12) constructed  to provide a gradual restriction in area in order to increase  flow velocity.  heavy droplets of water are separated by the  sudden change in airflow direction through the baffle (12)  and header (14).  the flow including the heavier centrifuged  water droplets then impinge on the inside surface of the  header (14) to which the accumulated particles of water  adhere and are accelerated by the airflow and the contour  of the header (14) toward a scupper (16) located down­ stream of the baffle opening 17.  the water is collected in  the scupper cavity 25, collected in a drain well, and drained  with the assistance of gravity and the resulting pressure  differential across the drain port.  the scupper (16) contains  holes (23) of louvered slots (28) whereby some air used to  carry the water along the header inner surface may pass  therethrough to combine with the remaining airflow in a  duct (26) through which the dried air is removed from the  system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

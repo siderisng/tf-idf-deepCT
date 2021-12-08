@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013610
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04N-9/11</main> H04N-5/253 H04N-3/36 H04N-9/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a continuous motion telecine apparatus and method.
+</TITLE>
+<APPLICANT>
+rank organisation ltd gb  <sep>the rank organisation limited<sep>the rank organisation limited11 hill streetlondon w1x 8aegb<sep>the rank organisation limited <sep>
+</APPLICANT>
+<INVENTOR>
+matchell raymond<sep>waldron christopher john<sep>matchell, raymond<sep>waldron, christopher john<sep>matchell, raymond"cobblers" tye green, good easternr. chelmsford, essexgb<sep>waldron, christopher john7 the limesharston cambridgeshiregb<sep>matchell, raymond <sep>waldron, christopher john  <sep>matchell, raymond"cobblers" tye green, good easternr. chelmsford, essexgb<sep>waldron, christopher john7 the limesharston cambridgeshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a disadvantage of continuous motion telecine equipment  of the kind using a single linear array of photo-sensitive  devices is that in order to derive the standard number of active  (i. e.  picture information containing) lines from each film  frame the line frequency of scanning the array has to be  changed in accordance with the particular film format being  handled and the film frame rate.  the apparatus of the present  specification avoids this by using a rectangular matrix (8) of  photosensitive devices whose interrogation is controlled by a  control unit (9) in such manner that each film frame image  focussed on the matrix is scanned along a plurality of rows of  the matrix with the interrogation being stepped from one row  to the next during the scanning.  by selecting the number of  rows interrogated and the direction of stepping in accordance  with the current film format and frame rate a desired number  of active lines can be derived from each film frame without  needing to change the line frequency of scanning.  further­ more, by stopping the film with an image of a frame thereof  focussed on the matrix a still picture may be produced by  cyclically interrogating the matrix row-by-row.  
+</ABSTRACT>
+</TEXT>
+</DOC>

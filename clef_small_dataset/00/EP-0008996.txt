@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008996
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C22F-1/04</main> C22F-1/04 C22F-1/00 C22F-1/057 C22C-21/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for heat-treating aluminium-copper-magnesium-silicon alloys.
+</TITLE>
+<APPLICANT>
+cegedurfr<sep>cegedur societe de transformation de l'aluminium pechiney<sep>cegedur societe de transformation de l'aluminium pechiney66, avenue marceau75361 paris cédex 08fr<sep>cegedur societe de transformation de l'aluminium pechiney <sep>
+</APPLICANT>
+<INVENTOR>
+bouvaist jean<sep>dubost bruno<sep>bouvaist, jean<sep>dubost, bruno<sep>bouvaist, jean23, boulevard du maréchal leclercf-38000 grenoblefr<sep>dubost, bruno39, quai jongkindf-38000 grenoblefr<sep>bouvaist, jean <sep>dubost, bruno  <sep>bouvaist, jean23, boulevard du maréchal leclercf-38000 grenoblefr<sep>dubost, bruno39, quai jongkindf-38000 grenoblefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Method of heat treatment of aluminum alloy products of the 2000 series containing 3.5 to 5% copper, from 0.2 to 1% magnesium, from 0.25 to 1.2% silicon, withSi / mg> 0.8 comprising solution, quenching, maturation and income.Income comprises at least two stages: 1) a main income at a temperature above 225 ° C and less than 280 ° C of a duration of between 6 s and 60 mn, 2) a complementary income at a temperature between 120° C and 175 ° C of a duration between 4 and 192 hours.This method makes it possible to improve the compromise between mechanical traction characteristics and resistance to the intercrystalline corrosion and undervoltage.
+</ABSTRACT>
+</TEXT>
+</DOC>

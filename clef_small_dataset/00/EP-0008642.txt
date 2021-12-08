@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008642
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C30B-31/02 C30B-31/00 H01L-21/22 H01L-21/223 <main>H01L-21/223</main> H01L-21/316 H01L-21/311 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of diffusing boron in silicon bodies.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+briska marian<sep>thiel klaus peter<sep>briska, marian<sep>thiel, klaus peter<sep>briska, mariannürtinger strasse 51d-7030 böblingende<sep>thiel, klaus peterreiherweg 2d-7030 böblingende<sep>briska, marian  <sep>thiel, klaus peter <sep>briska, mariannürtinger strasse 51d-7030 böblingende<sep>thiel, klaus peterreiherweg 2d-7030 böblingende<sep>
+</INVENTOR>
+<ABSTRACT>
+In the method for doping silicon bodies with boron, in a first heating process, the silicon is exposed to a gas stream which contains a predetermined amount of boron and boron and oxygen in a predetermined volume ratio, wherein on the silicon a boron glass layer and under this one SIB₆ layer form. Subsequently, the boron glass is removed and finally in a second heating process boron into the silicon pushed. With the method can be produced high and weakly doped silicon ranges with boron. If highly doped areas, for example, insulating areas (28) are generated, the time portion in which boron is included in the gas stream is very short and only during this period of time, the gas stream also contains oxygen. The driving is carried out in an inert atmosphere. To weakly doped areas, eg. b. Based areas (34) to produce bipolar transistors, the gas stream contains oxygen during the entire first heating process and driving in an oxidizing atmosphere is guided.
+</ABSTRACT>
+</TEXT>
+</DOC>

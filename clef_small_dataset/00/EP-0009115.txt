@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009115
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C08K-5/527 <main>C07F-9/15</main> C08L-77/00 C08K-5/52 C07F-9/6578 C08K-5/00 C07F-9/6564 C07F-9/6574 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+esters of phosphorous acids and their use as stabilisers for polyamides.
+</TITLE>
+<APPLICANT>
+bayer agde   <sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+brassat bert dr<sep>buysch hans-josef dr<sep>eimers erich dr<sep>hermann karl heinz dr<sep>brassat, bert, dr.<sep>buysch,hans-josef, dr.<sep>eimers, erich, dr.<sep>hermann, karl heinz, dr.<sep>brassat, bert, dr.bethelstrasse 24d-4150 krefeldde<sep>buysch,hans-josef, dr.brandenburger strasse 28d-4150 krefeldde<sep>eimers, erich, dr.kreuzbergstrasse 136d-4150 krefeldde<sep>hermann, karl heinz, dr.scheiblerstrasse 111d-4150 krefeldde<sep>brassat, bert, dr. <sep>buysch,hans-josef, dr.<sep>eimers, erich, dr.  <sep>hermann, karl heinz, dr.<sep>brassat, bert, dr.bethelstrasse 24d-4150 krefeldde<sep>buysch,hans-josef, dr.brandenburger strasse 28d-4150 krefeldde<sep>eimers, erich, dr.kreuzbergstrasse 136d-4150 krefeldde<sep>hermann, karl heinz, dr.scheiblerstrasse 111d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+Phosphoric acid esters obtained by reacting biphenols and phosphorus trihalides or phosphites and optionally mono- and polyhydroxy compounds are used to stabilize polyamides.
+</ABSTRACT>
+</TEXT>
+</DOC>

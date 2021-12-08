@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002955
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-9/12 <main>H04R-9/16</main> H04R-9/16 H04R-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a moving-coil pickup.
+</TITLE>
+<APPLICANT>
+ortofon mfg asdk<sep>ortofon manufacturing a/s<sep>ortofon manufacturing a/smosedalvej 11 bdk-2500 valbydk<sep>ortofon manufacturing a/s<sep>
+</APPLICANT>
+<INVENTOR>
+gudmandsen robert<sep>hansen bjarne solberg<sep>gudmandsen, robert<sep>hansen, bjarne solberg<sep>gudmandsen, robertjessensvej 5taastrupdk<sep>hansen, bjarne solbergkovangen 312dk-3480 fredensborgdk<sep>gudmandsen, robert<sep>hansen, bjarne solberg <sep>gudmandsen, robert jessensvej 5 taastrupdk<sep>hansen, bjarne solbergkovangen 312dk-3480 fredensborgdk<sep>
+</INVENTOR>
+<ABSTRACT>
+in a moving-coil pickup having a flat, wound armature  which is fixed to a stylus arm and is movably mounted in  a magnet field produced by one or more permanent magnets,  said magnet or magnets is/are so arranged as to  define a relatively short tube within which the armature is  mounted.  
+</ABSTRACT>
+</TEXT>
+</DOC>

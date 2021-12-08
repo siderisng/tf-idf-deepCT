@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001212
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-13/26 H01B-13/22 H01B-11/02 H01B-13/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ready-made telecommunication cable with conductor pairs bundled in groups, and method and apparatus for manufacturing such a cable.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+sutor norbert dipl-ingde<sep>sutor, norbert, dipl.-ing.<sep>sutor, norbert, dipl.-ing.ringstrasse 11d-8632 neustadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+To be able to be able to provide symmetrical message cables, in particular switching cables, for telephoning devices, in a simple manner to the cable ends with plugs, the individual wire groups of the cable souls consist of a flat line, which is shaped by overtaxing or torsion to a bundle.The core pairs (10 to 14) of each flat line are connected to each other by means of flexible holding elements (15), which are glued or welded on one side with the core pairs.In the production of such a message cable, the core pairs of a bundle are first guided along the mantell line of a cylinder and temporarily fixed in this assignment by means of a holding wire.The holding spiral is glued or welded with the surface of the core pairs and then separated in the same operation between two adjacent core pairs.
+</ABSTRACT>
+</TEXT>
+</DOC>

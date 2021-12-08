@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002782
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23Q-17/09 B23B-49/00 G05B-19/406 B23Q-11/08 G05B-19/18 B23Q-41/00 B23Q-7/14 G05B-19/4065 <main>B23Q-41/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+unmanned machining center with tool checking.
+</TITLE>
+<APPLICANT>
+kearney & trecker corpus<sep>kearney & trecker corporation<sep>kearney &amp; trecker corporation11000 theodore trecker waymilwaukee, wisconsin 53214us<sep>kearney & trecker corporation<sep>
+</APPLICANT>
+<INVENTOR>
+johnstone richard<sep>johnstone, richard<sep>johnstone, richard20300 west gebhardt roadbrookfield wisconsin 53005us<sep>johnstone, richard<sep>johnstone, richard20300 west gebhardt roadbrookfield wisconsin 53005us<sep>
+</INVENTOR>
+<ABSTRACT>
+a numerically controlled machining center has a tool  magazine, automatic tool changer, workpiece shuttle, and  a workpiece magazine which holds enough workpieces for  operation by the machining center for an entire shift of approximately  eight hours.  the numerical controls are programmed  to perform predetermined machining operations  on each workpiece, in turn, and to replace each finished  workpiece with a fresh workpiece at the end of each  machining program.  a proximity switch is mounted on the  machining center for checking tools to detect broken or incorrect  tools.  the tools are positioned adjacent to the  proximity switch and are rotated while tho ouput of the  proximity switch is counted for one complete rotation of  the tool to determine the number of radially extending  teeth on the tool.  if the tool has too few or too many teeth,  thus indicating a broken or incorrect tool, it is replaced by  another tool of the same type.  if no alternate tool is available  in the tool magazine, the machining cycle is automatically  suspended.  
+</ABSTRACT>
+</TEXT>
+</DOC>

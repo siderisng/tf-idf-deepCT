@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011388
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07C-11/00 <main>G06K-9/66</main> G06T-1/00 G06K-9/62 G07C-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system and method for processing documents.
+</TITLE>
+<APPLICANT>
+ncr canadaca<sep>ncr canada ltd - ncr canada ltee<sep>ncr canada ltd - ncr canada ltee6865 century avenuemississauga ontario, l5n 2e2ca<sep>ncr canada ltd - ncr canada ltee <sep>
+</APPLICANT>
+<INVENTOR>
+nally robert blaize<sep>nally, robert blaize<sep>nally, robert blaize72 norman streetwaterloo ontarioca<sep>nally, robert blaize<sep>nally, robert blaize72 norman streetwaterloo ontarioca<sep>
+</INVENTOR>
+<ABSTRACT>
+a system and method for processing documents (52)  each carrying a unique identifying code (60) and variable data,  such as e. g.  handwritten amount characters (68).  in a learning mode of the system recognition data is  generated representing feature characteristics of the hand­ written characters (68) which data is stored in a storage means  at addresses corresponding to the identifying codes (60)  associated therewith.  in a reading mode of the system the  identifying codes (60) of documents (52) to be processed are  read and the recognition data stored at the address of each  identifying code (60) read is retrieved by computing means  and transferred to an optical reading means enabling the  latter to recognize and read the handwritten amount charac­ ters (68) associated with the respective identifying code (60).  in generating the recognition data, keyboard means are  provided for entering information pertaining to certain  characteristics of the handwritten characters (68).  
+</ABSTRACT>
+</TEXT>
+</DOC>

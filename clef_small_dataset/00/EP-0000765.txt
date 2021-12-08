@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000765
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08L-59/04</main> C08J-3/14 C08J-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of granular oxymethylene polymers having improved mechanical properties.
+</TITLE>
+<APPLICANT>
+hoechst ag de<sep>hoechst aktiengesellschaft  <sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+burg karlheinz dr<sep>heller alwin<sep>sabel hans-dieter dr<sep>schlaf helmut dr<sep>sextro gunter dr<sep>burg, karlheinz, dr.<sep>heller, alwin<sep>sabel, hans-dieter, dr.<sep>schlaf, helmut, dr.<sep>sextro, gunter, dr.<sep>burg, karlheinz, dr.eichenweg 18d-6200 wiesbadende<sep>heller, alwinfasanenweg 2d-6106 erhausende<sep>sabel, hans-dieter, dr.ostring 24d-6231 schwalbach/taunusde<sep>schlaf, helmut, dr.gimbacher weg 20d-6233 kelkheim (taunus)de<sep>sextro, günter, dr.erbsenacker 43d-6200 wiesbadende<sep>burg, karlheinz, dr.<sep>heller, alwin<sep>sabel, hans-dieter, dr.<sep>schlaf, helmut, dr. <sep>sextro, gunter, dr.<sep>burg, karlheinz, dr. eichenweg 18 d-6200 wiesbaden de <sep>heller, alwinfasanenweg 2d-6106 erhausende<sep>sabel, hans-dieter, dr.ostring 24d-6231 schwalbach/taunusde<sep>schlaf, helmut, dr.gimbacher weg 20d-6233 kelkheim (taunus)de<sep>sextro, günter, dr.erbsenacker 43d-6200 wiesbadende<sep>
+</INVENTOR>
+<ABSTRACT>
+Oxymethylene polymers (POM) are obtained in granular form by a POM solution or dispersion whose temperature is above the sintering temperature of the POM is cooled to a temperature just below the sintering temperature of the POM and extracted from the resulting suspension only such POM particleswhich have a corridor diameter of more than 70 μm.Suitable solutions or dispersing agents as well as precipitation and coolant serves a mixture of methanol and water with a methanol content of at least 75% by weight.The obtained POM is suitable as a technical material for producing molded parts with improved mechanical properties.
+</ABSTRACT>
+</TEXT>
+</DOC>

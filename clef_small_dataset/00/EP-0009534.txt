@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009534
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04J-1/00 H04J-1/08 H04B-10/00 H04B-10/24 H04J-1/12 H04J-14/02 H04J-14/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+wavelength division system with reduced cross-talking between each of the channels.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecomit<sep>cselt centro studi e laboratori telecomunicazionis.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>
+</APPLICANT>
+<INVENTOR>
+bosotti lucianoit<sep>bosotti, luciano<sep>bosotti, lucianov. cristoforo colombo n.52gruglisco - torinoit<sep>
+</INVENTOR>
+<ABSTRACT>
+digital-transmission system on optical waveguide, in  which a plurality of channels is transmitted as wavelength  division multiplex on the same waveguide between pairs of  transmitting and receiving stations, each transmitting station  emitting an optical carrier modulated by a numerical data  flow, characterized in that each channel is associated to sync­ hronizing means (sf1, sf3. . . sfn, ro2,. . . ron,sf;ro′;sy),  able to generate and maintain at the receiver a relative time  delay between the channel itself and the adjacent channels in  the multiplex, responsible for the interference, said delay  being of the order of half the signalling period of the data flow,  or of the order of half the signalling period of the quickest data  flow.  
+</ABSTRACT>
+</TEXT>
+</DOC>

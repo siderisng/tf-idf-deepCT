@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003934
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24H-9/20 F23N-5/24 F23M-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+safety device against clogging of a heat exchanger in a gas-fired water heater.
+</TITLE>
+<APPLICANT>
+saunier duvalfr <sep>saunier duval - societe anonyme<sep>saunier duval - société anonyme 250, route de l'empereur f-92508 rueil malmaisonfr<sep>
+</APPLICANT>
+<INVENTOR>
+charron jean claudefr<sep>granier renefr<sep>charron, jean claude<sep>granier, rene<sep>charron, jean claude14, avenue du lacf-94100 saint maurfr<sep>granier, rene13, rue cambonf-92250 la garenne colombesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+security device against the soiling of the heating body of apparatuses of the gas water-heating type comprising a small pipe (11) for taking off burnt gases via an opening (12) provided on the skirt (5) of the heating body (4), which has a cross-section and an orientation which are favourable to the immediate transfer of the excess burnt gases towards the free end (11a) of said pipe, which opens in the immediate vicinity of the flame of the pilot light (9).  the small pipe (11) has a horizontal part (11b) and a small vertical chimney (13) which opens to the open air and is provided with a diaphragm (14).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

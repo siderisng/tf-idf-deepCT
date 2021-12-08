@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001113
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-513/00 A61P-25/00 A61P-7/00 C07D-513/04 A61P-25/04 A61P-7/02 C07D-333/00 C07D-333/34 C07D-333/38 <main>C07D-513/04</main> A61K-31/54 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thienothiazine derivatives, their preparation and compositions containing them.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>hoffmann la rochech<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+binder dieterat<sep>hromatka ottoat<sep>pfister rudolf drch<sep>zeller paul drch<sep>binder, dieter, prof. dr.<sep>hromatka, otto, prof. dr.<sep>pfister, rudolf, dr. <sep>zeller, paul, dr. <sep>binder, dieter, prof. dr.blümelgasse 1wien 6at<sep>hromatka, otto, prof. dr.starkfriedgasse 89wien 19at<sep>pfister, rudolf, dr.neubadstrasse 1284054 baselch<sep>zeller, paul, dr.rosenbergweg 524122 allschwilch<sep>binder dieterat <sep>hromatka ottoat <sep>pfister rudolf dr ch <sep>zeller paul drch<sep>binder, dieter, prof. dr.<sep>hromatka, otto, prof. dr.<sep>pfister, rudolf, dr.<sep>zeller, paul, dr.<sep>binder, dieter, prof. dr.blümelgasse 1wien 6at<sep>hromatka, otto, prof. dr.starkfriedgasse 89wien 19at<sep>pfister, rudolf, dr.neubadstrasse 1284054 baselch<sep>zeller, paul, dr.rosenbergweg 524122 allschwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+antiinflammatory, analgesic, antirheumatic and antithrombotic thienothiazine derivatives are described having the general formula   <image>  and salts thereof wherein   <image> represents the group   <image> r<1> denotes lower alkyl, r<2> denotes the radical of an aromatic heterocyclic with 1 to 4 hetero atoms optionally substituted by one or two lower alkyl groups, or a phenyl radical optionally substituted by halogen, hydroxy, lower alkyl, trifluoromethyl or lower alkoxy, r<3> denotes halogen and r<3'> denotes hydrogen or halogen, as well as processes for their preparation. 
+</ABSTRACT>
+</TEXT>
+</DOC>

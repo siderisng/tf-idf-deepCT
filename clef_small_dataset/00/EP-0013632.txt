@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013632
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B65H-39/11</main> G03G-15/00 B65H-39/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sorting apparatus for sorting sheets.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020 rochester new york 14644 us <sep>xerox corporation<sep>
+</APPLICANT>
+<INVENTOR>
+caldwell alistair j<sep>herbert glenn m<sep>redding thomas p<sep>caldwell, alistair j.<sep>herbert, glenn m.<sep>redding, thomas p.<sep>caldwell, alistair j.155 wintergreen wayrochester, new york 14618us<sep>herbert, glenn m.343 moxon driverochester, new york 14512us<sep>redding, thomas p.2141 baird roadpenfield, new york 14526us<sep>caldwell, alistair j.<sep>herbert, glenn m. <sep>redding, thomas p.  <sep>caldwell, alistair j.155 wintergreen wayrochester, new york 14618us<sep>herbert, glenn m.343 moxon driverochester, new york 14512us<sep>redding, thomas p.2141 baird roadpenfield, new york 14526us<sep>
+</INVENTOR>
+<ABSTRACT>
+a sorting apparatus (14) in which a sheet loading station  is arranged to advance sheets into individual sheet receiving  members (20) of one of at least two groups of sheet receiving  members (20,22).  the other group of sheet receiving mem­ bers (22) is positioned at one of two sheet unloading stations.   after loading and unloading sheets from the respective  groups of sheet receiving members (20,22), the loaded group  of sheet receiving members (20) moves to the other sheet  unloading station as the unloaded group of sheet receiving  members (22) returns to the sheet loading station.  
+</ABSTRACT>
+</TEXT>
+</DOC>

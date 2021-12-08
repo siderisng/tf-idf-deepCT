@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008352
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-75/34 H02G-11/00 B65H-51/00 <main>B65H-75/36</main> B65H-75/36 H02G-11/02 B65H-51/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+winding system for flexible conduits and cables.
+</TITLE>
+<APPLICANT>
+western gear corpus<sep>western gear corporation<sep>western gear corporation2100 norton avenueeverett washington 98201us<sep>western gear corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hawley royal t<sep>kalyan jagdish c<sep>rogers alvin d<sep>sheppard monte g<sep>hawley, royal t.<sep>kalyan, jagdish c.<sep>rogers, alvin d.<sep>sheppard, monte g.<sep>hawley, royal t.9403 62nd pl. w.everett, wash. 98204us<sep>kalyan, jagdish c.14032 bagley ave. n.seattle, wash. 98133us<sep>rogers, alvin d.16263 8th n.e.seattle, washingtonus<sep>sheppard, monte g.7313 68th ave. n.e.marysville, wash. 98270us<sep>hawley, royal t.<sep>kalyan, jagdish c.  <sep>rogers, alvin d. <sep>sheppard, monte g.<sep>hawley, royal t.9403 62nd pl. w.everett, wash. 98204us<sep>kalyan, jagdish c.14032 bagley ave. n.seattle, wash. 98133us<sep>rogers, alvin d.16263 8th n.e.seattle, washingtonus<sep>sheppard, monte g.7313 68th ave. n.e.marysville, wash. 98270us<sep>
+</INVENTOR>
+<ABSTRACT>
+a cable winding system carried by a vehicle for  extending and retracting cable (14) responsive to vehicle  movement.  the cable (14) frictional[y engages a controll­ ably powered sheave (52) and is guided into a horizontally  disposed coil by a cylindrical guide arm (22) having a ver­ tically directed opening adjacent the sheave (52) and a  downwardly, radially and circumferentially directed open­ ing adjacent the coil.  the guide arm (22) is freely rotatable  about a vertical axis so that as cable (14) is extended and  retracted the guide arm (22) rotates to guide the cable  between the coil and sheave (52).  the powered sheave (52)  directs cable (14) from the vehicle through an instrumented  fairlead (20) which, through a control system, controls the  operation of the sheave (52).  the fairlead (20) is pivotally  mounted about a horizontal pivot axis (46) so that the head  pivots in one direction as the cable is tensioned and in the  opposite direction as the cable tension is relieved.  the con­ trol system measures the angle of the fairlead (20) and  may also measure the vehicle speed to cause the sheave  (52) to extend cable (14) as the fairlead (20) moves rear­ wardly and/or the velocity of the forward vehicle is  increased and to retract cable (14) as the fairlead (20)  moves forwardly and/or the forward velocity of the vehicle  is reduced.  also included is a failsafe system for applying  the brakes of the vehicle when the supply of cable (14) in  the coil falls to a predetermined value or when the fairlead  (20) pivots to a point indicative of excessive cable tension  and the rotational velocity of the powered sheave (52) is  below a predetermined value.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000785
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01M-6/18 H01G-4/06 C03C-3/12 H01G-7/00 G01J-5/10 <main>H01M-6/18</main> C03C-4/00 H01G-7/04 G01J-5/34 H01G-9/00 G01J-5/00 H01M-10/36 H01G-9/058 C03C-3/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical devices including electrode-bearing amorphous solid material.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+glass alastair malcolm<sep>lines malcolm ellis<sep>nassau kurt<sep>glass, alastair malcolm<sep>lines, malcolm ellis<sep>nassau, kurt<sep>glass, alastair malcolm162 northfield roadmillington new jersey 07946us<sep>lines, malcolm ellis10 east rayburn roadmillington new jersey 07946us<sep>nassau, kurt170 round top roadbernardsville new jersey 07924us<sep>glass, alastair malcolm<sep>lines, malcolm ellis<sep>nassau, kurt<sep>glass, alastair malcolm162 northfield roadmillington new jersey 07946us<sep>lines, malcolm ellis10 east rayburn roadmillington new jersey 07946us<sep>nassau, kurt170 round top roadbernardsville new jersey 07924us<sep>
+</INVENTOR>
+<ABSTRACT>
+amorphous niobates and tantalates of the alkali metals  lithium, potassium, and sodium which may be off-stoichiometric  with regard to the related octahedrally coordinated  crystalline compositions manifest high values of dielectric  constant and ionic conductivity.  electrode bearing devices  may be utilized, inter alia, as capacitors, electrolytic cells, and  bolometers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

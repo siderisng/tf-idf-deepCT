@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006457
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-13/04 G02B-5/16 G02B-6/44 <main>H01B-13/04</main> H01B-13/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for sz stranding several layers of stranding elements of electrical or optical cables and device for carrying out the method.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+vogelsberg dieter<sep>vogelsberg, dieter<sep>vogelsberg, dieterfichtestrasse 7d-8630 coburgde<sep>vogelsberg, dieter<sep>vogelsberg, dieterfichtestrasse 7d-8630 coburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is concerned with a method for layers have SZ sections of versexing elements of electrical or optical cables and with a device for carrying out the method.In order to be able to apply multi-layered cables several square plates in one operation, those who place the versex elements (1, 2, 15, 16) within a single stretched memory (3, 6, 8, 5) of this memory in the longitudinal direction(3, 20, 21, 22).The rotation numbers of the sweep heads (6, 17, 18, 8) are periodically changed in at least two increasing and decreasing stages.The distances of the squeezing heads to each other are correctly correct, so that adjacent square layers have against each other in reversal points of the rotary direction.For applying a square position, a square pel (20) is provided, which is directly a rotating versex head (17) is followed up.
+</ABSTRACT>
+</TEXT>
+</DOC>

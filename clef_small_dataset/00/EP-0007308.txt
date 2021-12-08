@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0007308
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 G01S-15/89 G10K-11/34 H04R-17/00 G10K-11/00 A61B-8/00 B06B-1/06 G01S-15/00 G01N-29/06 H04N-5/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ultrasonic wave energy electronic b-scan imaging apparatus.
+</TITLE>
+<APPLICANT>
+rca corp us<sep>rca corporation  <sep>rca corporation30 rockefeller plazanew york, ny 10020us<sep>
+</APPLICANT>
+<INVENTOR>
+mezrich reuben saulus<sep>vilkomerson david herman raphaus<sep>mezrich, reuben saul<sep>vilkomerson, david herman raphael<sep>mezrich, reuben saul12 toth lanerocky hill, somerset, nj 08553us<sep>vilkomerson, david herman raphael2 carter brook laneprinceton mercer, nj 08540us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

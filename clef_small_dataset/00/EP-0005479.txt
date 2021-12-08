@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005479
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16B-19/04 F16B-19/10 F16B-19/00 F16B-5/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fastening element
+</TITLE>
+<APPLICANT>
+hellermann gmbh pde<sep>paul hellerman gmbh <sep>paul hellermann gmbhsiemensstrasse 5d-25421 pinneberg de  <sep>
+</APPLICANT>
+<INVENTOR>
+kabel heinrichde<sep>kabel, heinrich<sep>kabel, heinrichherderstrasse 30d-2085 quickbornde<sep>
+</INVENTOR>
+<ABSTRACT>
+for anchorage in a plate-shaped component, a fastening element has a shank extending conically behind the plate-shaped component.  in order to achieve an adequate fastening force, which is always constant, even when used in connection with thin plates, which could interact only with the thinner part of the shank, a ring is provided, to be arranged behind the plate-shaped component, the internal diameter of which corresponds to the root diameter of the shank.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

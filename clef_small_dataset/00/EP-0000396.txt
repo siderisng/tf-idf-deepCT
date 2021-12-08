@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000396
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-64/22 C08G-64/00 C08G-63/00 C08G-63/68 C08G-64/14 <main>C08G-63/62</main> C08G-64/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of flame retardant polycarbonates.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+margotte dieter dr<sep>margotte, dieter, dr.<sep>margotte, dieter, dr.wedelstrasse 48d-4150 krefeld 1de<sep>margotte, dieter, dr.<sep>margotte, dieter, dr.wedelstrasse 48d-4150 krefeld 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention is the preparation of aromatic polycarbonates according to the known two-phase boundary area method from diphenols, preferably of halogen-free diphenols, characterized in that as chain burners are aromatic monosulfonic acid chlorides in amounts of 2 to 20 mol%, preferably in amounts of 2.5 to 10 moles% based on moles of the diphenols used.
+</ABSTRACT>
+</TEXT>
+</DOC>

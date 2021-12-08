@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014437
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-315/04 C07C-323/00 C07C-323/41 A61K-31/165 A61P-31/00 C07B-59/00 C07C-231/00 C07D-209/48 C07C-317/44 C07C-255/60 C07C-311/46 C07C-147/12 C07C-317/50 C07C-233/16 C07C-315/00 C07C-231/02 C07C-147/107 C07C-233/18 C07C-311/00 C07B-31/00 C07C-117/08 C07C-67/00 A61K-31/22 C07C-231/10 C07C-231/12 A61K-31/215 C07C-91/18 A61K-31/16 C07C-149/42 C07C-317/00 A61P-31/04 <main>C07C-103/38</main> C07C-313/06 C07C-317/22 C07C-255/00 C07C-313/00 C07C-143/80 C07B-23/00 C07C-147/14 C07D-209/00 A61K-31/21 C07C-233/00 C07C-317/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+novel 1-aryl-2-acylamido-3-fluoro-1-propanols, their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+schering corpus<sep>schering corporation<sep>schering corporation2000 galloping hill roadkenilworth new jersey 07033us<sep>schering corporation<sep>
+</APPLICANT>
+<INVENTOR>
+nagabhushan tattanahalli laksh<sep>nagabhushan, tattanahalli, lakshminarayan<sep>nagabhushan, tattanahalli, lakshminarayan3 sunset laneparsippany morris, new jersey 07054us<sep>nagabhushan, tattanahalli, lakshminarayan<sep>nagabhushan, tattanahalli, lakshminarayan3 sunset laneparsippany morris, new jersey 07054us<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed herein are novel d-(threo)-1-aryl-2-acylamido-3-fluoro-1-propanols  of the general  formula i    and specified salts thereof, where r represents a specified  alkyl, haloalkyl, halodeuteroalkyl, azidomethyl or  methylsulfonylmethyl group, x and x′ independently  represent a hydrogen or halogen atom, a nitro, cyano or a  substituted or unsubstituted phenyl group or represent a  group r₁(a)n in which group n is zero or 1, a is oxygen, sulfur,  carbonyl, sulfinyl or sulfonyl and r₁ is a specified lower alkyl,  amino or lower alkyl amino group and z is hydrogen or a  specified acyl group.  the novel compounds exhibit antibacterial activity and  their use for this purpose is disclosed.  also disclosed are  method for the preparation of the novel compounds as well  as certain novel intermediates therefor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

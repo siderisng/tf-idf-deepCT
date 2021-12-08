@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017025
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03C-5/54</main> G03C-8/54 C08F-20/26 C08F-246/00 G03C-8/52 G03C-7/00 C08F-20/00 G03C-8/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic film unit for the production of coloured transfer images.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde <sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert ag kaiser-wilhelm-allee d-51373 leverkusen de<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+findeisen kurt dr<sep>helling gunther dr<sep>himmelmann wolfgang dr<sep>krafft werner dr<sep>findeisen, kurt, dr.<sep>helling, gunther, dr.<sep>himmelmann, wolfgang, dr.<sep>krafft, werner, dr.<sep>findeisen, kurt, dr.in der follmuehle 10d-5068 odenthal 2de<sep>helling, günther, dr.lutherstrasse 5d-5000 köln 40de<sep>himmelmann, wolfgang, dr.im ziegelfeld 7d-5090 leverkusen 3de<sep>krafft, werner, dr.nauener strasse 29d-5090 leverkusende<sep>findeisen, kurt, dr. <sep>helling, gunther, dr.<sep>himmelmann, wolfgang, dr.  <sep>krafft, werner, dr. <sep>findeisen, kurt, dr.in der follmuehle 10d-5068 odenthal 2de<sep>helling, günther, dr.lutherstrasse 5d-5000 köln 40de<sep>himmelmann, wolfgang, dr.im ziegelfeld 7d-5090 leverkusen 3de<sep>krafft, werner, dr.nauener strasse 29d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+A photographic film unit for producing colored transitional images contains an acidic system consisting of acidic polymer layer and brake layer, wherein the acidic polymer layer consists of a mixing polymer that is 5-50 wt.-% Polymerized carboxyalkyl (meth) acrylate units.Preferably, the mentioned carboxyalkyl (meth) acrylate units derived from dimeric acrylic acid.The acidic polymer layers have high acid number with reduced glass transition temperature.
+</ABSTRACT>
+</TEXT>
+</DOC>

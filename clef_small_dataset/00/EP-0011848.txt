@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011848
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A61B-6/02</main> A61B-6/03 H05G-1/42 H05G-1/00 A61B-6/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tomographic apparatus for producing cross sectional images of a body under examination.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+neumann leopold<sep>neumann, leopold<sep>neumann, leopold9 woodpark circlelexington, massachusetts 02173us<sep>neumann, leopold<sep>neumann, leopold9 woodpark circlelexington, massachusetts 02173us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a computed tomogra phen with a radiation measuring arrangement containing a source of source (10) and a beam receiver (14) consisting of a series of individual detectors.The radiation dose for each projection is adjusted so that a minimum signal is obtained at the detectors of the beam receiver (14) corresponding to a desired minimum signal noise ratio.In this way, a picture of accept tabler quality is generated with a minimum radiation load of the patient.
+</ABSTRACT>
+</TEXT>
+</DOC>

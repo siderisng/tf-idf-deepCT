@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008835
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+F42C-11/06 F42C-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical circuit for igniting a detonator.
+</TITLE>
+<APPLICANT>
+prb nv be  <sep>"s.a. prb n.v."<sep>"s.a. prb n.v."12, avenue de broquevilleb-1150 bruxellesbe<sep>
+</APPLICANT>
+<INVENTOR>
+orlandi robert geoch<sep>orlandi, robert geo<sep>orlandi, robert geo10, chemin de larochellech-1008 prillych<sep>
+</INVENTOR>
+<ABSTRACT>
+Electric circuit for lighting a projectile detonator.A generator charge two capacitors (C₁, C₂) in series.The voltage of the capacitor (C₂) is limited by the zener effect occurring between the trig and the cathode of Thyris Tor (T₁).The latter becomes conductive after a time determined from the load of the capacitor (C₁), which allows, when closing the contact, to cause the start of the primer (5).The goal is to get by simple means a safety of Três precise mouth.
+</ABSTRACT>
+</TEXT>
+</DOC>

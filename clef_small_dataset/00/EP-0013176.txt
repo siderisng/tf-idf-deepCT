@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0013176
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-211/00 B01J-21/00 C07C-211/03 B01J-23/76 B01J-23/78 F16D-31/00 <main>C07C-85/06</main> C07C-209/16 C07C-87/06 B01J-23/00 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+synthesis of lower alkyl amines.
+</TITLE>
+<APPLICANT>
+air prod & chem us<sep>air products and chemicals, inc.<sep>air products and chemicals, inc.p.o. box 538allentown, pennsylvania 18105us<sep>air products and chemicals, inc.<sep>air products and chemicals, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+fowlkes robert lee<sep>martinez de pinillos joaquin v<sep>fowlkes, robert lee<sep>martinez de pinillos, joaquin victor<sep>fowlkes, robert lee220 cedar streetmilton, florida 32570us<sep>martinez de pinillos, joaquin victor170 pine grove circlewescosville, pennsylvania 18106us<sep>fowlkes, robert lee<sep>martinez de pinillos, joaquin victor<sep>fowlkes, robert lee<sep>martinez de pinillos, joaquin victor<sep>fowlkes, robert lee220 cedar streetmilton, florida 32570us<sep>martinez de pinillos, joaquin victor170 pine grove circlewescosville, pennsylvania 18106us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for producing lower alkyl amines by reacting a  gaseous alcohol with ammonia at a temperature of from  177°c to 260°c in the presence of hydrogen and a catalyst  comprising a group 8 metal carried on an alumina support is  characterized in that the alcohol is a lower alkanol and the  support has been rendered neutral or substantially neutral by  the incorporation therein of a basic material containing an  alkaline earth metal.  by neutralising or substantially neutralis­ ing the support the amount of hydrocarbon by product  formed is reduced thereby increasing the effect life of the  catalyst.  further reduction in the amount of hydrocarbon pro­ duced can also be achieved by varying the ratio of lower  alkanol to ammonia to hydrogen and ratios of 10-16/1/0. 25-1  seem particularly suitable.  
+</ABSTRACT>
+<DESCRIPTION>
+this invention relates to a process for producing lower alkyl amines and, more particularly but not exclusively, is concerned with a process for producing ethyl, n-propyl, isopropyl, n-butyl and isobutylamine. it has been proposed to produce amines by reacting a gaseous alcohol with ammonia at a temperature of from 177 c to 260 c in the presence of hydrogen and a catalyst comprising a group 8 metal carried on an alumina support. one of the difficulties associated with this process is that the catalyst readily becomes coated with carbon and is thus inhibited. we believe that the source of this carbon is the hydrocarbon which is produced as a by product and the problem was to reduce the amount of hydrocarbon produced whilst maintaining an acceptable conversion. this aim is generally met, when the alcohol is a lower alkanol i.e. containing 1 to 6 and preferably 1 to 4 carbon atoms, by neutralising or substantially neutralising the support by the incorporation therein of a basic material comprising an alkaline earth metal. preferably, the alkaline earth metal is calcium, barium, magnesium or mixtures thereof. suitable basic materials are the hydroxides of calcium or barium and the salts thereof. preferably, the support should have a ph from 6.5 to 7.5. in addition to neutralising or substantially neutralising the support it also appears to us that the relative amounts of alkanol, ammonia and hydrogen are important and whereas the general ratio of 2-20/1/0.25-4 (by moles) should give reasonable results it may be found more beneficial to operate in the range 10-16/1/0.25-1 more particularly, but not exclusively, in the conversion of ethanol to monoethylamine. preferably, the gas hourly space velocity (ghsv) is maintained between 500 and 5000 volumes of reactant per volume of catalyst per hour with preferred ghsv's being from 1000 to 3000 volumes of reactant per volume of catalyst per hour. the supported catalyst can conveniently be made by mixing ammonium hydroxide with an acidic solution of aluminium chloride, a slurry of barium hydroxide and a nickel salt. the gel which forms is separated from the liquid and is calcined at 1000 to 12000f for a period of four hours. the following examples are provided to compare preferred embodiments of the present invention with the prior art and are not intended to restrict the scope of the present invention. example 1 the conversion of ethanol to monoethylamine by reaction with ammonia in the presence of hydrogen was effected in a laboratory reactor at a temperature of 216 c and a pressure of 17 bars gauge. the volume of catalyst in the laboratory reactor was 100 cubic cm of a girdler-62rs cobalt catalyst. this catalyst contain ed approximately 34% cobalt supported on a neutralised alumina substrate. the surface area in meters squared per gram was approximately 42 with a dwl crush strength of 6.8 kg. the bulk density was approximately 50 plus or minus 5 pounds per cubic foot. table 1 shows the results of the ammonolysis with variations in reaction conditions. the
+</DESCRIPTION>
+<CLAIMS>
+ claims   1. a process for producing amines by reacting a gaseous alcohol with ammonia at a temperature of from 1770c   to 2600c    in the presence of hydrogen and a catalyst comprising a group 8 metal carried on an alumina support, characterized in that said alcohol is a lower alkanol and said support has been rendered neutral or substantially neutral by the incorporation therein of a basic material comprising an alkaline earth metal.    2. a process according to claim 1, characterized in that said alkaline earth metal is calcium, barium, magnesium or mixtures thereof.   3. a process according to claim 1 or 2, characterized in that said basic material is the hydroxide of calcium or barium or a salt thereof.   4. a process according to claim 1, 2 or 3, characterized in that said support has a ph of from 6.5 to 7.5.   5. a process according to claim 1, 2, 3 or 4, characterized in that said lower alkanol, ammonia and hydrogen are brought together in the ratio of 2-20/1/0.25-4 (by moles).   6. a process according to claim 5, characterized in that said ratio is 10-16/1/0.25-1.  
+</CLAIMS>
+</TEXT>
+</DOC>

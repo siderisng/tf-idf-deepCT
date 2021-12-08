@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001933
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 A61B-8/00 G09G-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+video a-trace display system for ultrasonic diagnostic equipment
+</TITLE>
+<APPLICANT>
+litton industrial productsus<sep>litton industrial products inc.<sep>litton industrial products inc.360 north crescent drivebeverly hills california 90210us<sep>
+</APPLICANT>
+<INVENTOR>
+cribbs robertus<sep>mahony johnus<sep>cribbs, robert<sep>mahony, john<sep>cribbs, robertlake view driveplacerville californiaus<sep>mahony, john8910a salmon falls drivesacramento californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a video a-trace display system for ultrasonic diagnostic equipment provides means (250) for writing pulse reflection data into a memory (111), and means (226) for selectively accessing the memory (111) to place the data on a video screen in graphic form.  the data is stored and accessed in a format which is compatible with the scan pattern associated with the video display.  one each video line, the accessed data is compared with a value corresponding to the ordinate value of the line to control the intensity of the beam in scanning the line.  
+</ABSTRACT>
+</TEXT>
+</DOC>

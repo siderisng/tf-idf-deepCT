@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014518
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-44/34 B29C-44/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for moulding foamed articles and the articles so moulded.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbank london sw1p 3jfgb<sep>
+</APPLICANT>
+<INVENTOR>
+bowyer david brian gb<sep>bowyer, david brian<sep>bowyer, david brian6 dickens streetmorside oldham, lancs ol1 4sfgb<sep>
+</INVENTOR>
+<ABSTRACT>
+moulding is achieved by progressively distributing a  liquid stream of plastics ingredients over a mould surface  patterned in high relief, by variably deflecting the liquid  stream.  a mould 11 has an inlet 23 located over a fully retractable,  defector post 25 extending through a fluid-tight seal 27.  in  synchronism with the injection of the liquid stream, the  defector post is retracted or extended within the mould so  that the liquid is fanned-out on impingement with the deflec­ tion surface 29 to form, successively, annular spray bands of  steadily decreasing or increasing mean radii across the mould  base.  the invention is especially applicable to the moulding of  highly resilient polyurethane foams.  
+</ABSTRACT>
+<DESCRIPTION>
+title process and apparatus for moulding foamed articles and the articles so moulded. this invention relates to a process for moulding foamed plastics articles, especially such articles having embossed or patterned faces, to apparatus for carrying out the process and to the articles so obtained. according- to our invention we provide a process for the manufacture of plastics articles which comprises injecting a plastics foam-forming liquid stream into a mould, progressively distributing the liquid over a surface of the mould by variably deflecting the liquid stream, and allowing the liquid to foam to fill the mould and set. any plastics foam-forming liquid may be used in the process of the invention but we are mainly interested in using liquids for forming polyurethane foams, and especially flexible polyurethane foams of high resilience suitable for the moulding of deeply patterned mattresses. the liquids are prepared by methods well known to those skilled in the technology of the particular foamed plastics material to be used. in a preferred process, the liquid is fanned out on deflection to form, successively, annular spray bands of steadily increasing or decreasing mean radii until the required distribution over the mould surface is achieved. the liquid may be injected into the mould at high or low pressure as the pressure necessary to produce an effective spray is relatively low. an advantage of the process of the invention is that progressive distribution of a liquid over a mould surface can be obtained without the need for expensive traversing spray equipment and can be used with a closed mould to avoid unhealthy working conditions where hazardous elastics foamforming liquids, such as toxic polyurethane mixtures, are used. in particular, our invention provides a process for moulding foamed plastics articles having an embossed or patterned face in which the liquid is distributed over a mould surface patterned in high relief. such articles of interest to us are highly resilient flexible polyurethane foam mattresses which are formed in a mould having on the base of the mould a honeycomb pattern, in high relief, with hexagonal or circular interstices. in moulding such articles, uniform distribution of the polyurethane foam-forming liquid is not critical; it is important only that sufficient liquid is sprayed into each interstice to fill that interstice, from the bottom upwards with foamed material. if liquid overflows from a first to a second inadequately filled interstice, s void may be formed in the second interstice which is unacceptable in the finished product. in a further aspect of our invention we provide apparatus suitable for carrying out our process which comprises a mould having an inner mould surface which defines a mould cavity, an inlet through which a plastics foam-forming liquid can be injected, and a moveable deflector, within the mould cavity, for continuously varying the distribution of the liquid during a moulding operation. in our preferred apparatus, the moveable deflector comprises a post which extends through a fluid-tight seal into the mould cavity and which has a deflection surface, the post being
+</DESCRIPTION>
+<CLAIMS>
+ claims      1.    a process for the manufacture of plastics articles which comprises injecting a plastics foam-forming liquid stream into a mould, progressively distributing the liquid over a surface of the mould by variably deflecting the liquid stream, and allowing the liquid to foam to fill the mould and set.   2. a process as claimed in claim 1 in which the liquid is fanned out on deflection to form, successively, annular spray bands of steadily increasing or decreasing mean radii until the required distribution over the mould surface is achieved.    3. apparatus suitable for carrying out   th    claimed process which comprises a mould having an inner mould surface which defines a mould cavity, an inlet through which a plastics foam-forming liquid can be injected, and a moveable deflector, within the mould cavity, for continuously varying the distribution of the liquid during a moulding operation.   4. apparatus as claimed in claim 3 in which the moveable deflector comprises a post which extends through a fluid-tight seal into the mould cavity and which has a deflection surface, the post being retractable from a position in which the deflection surface is adjacent the inlet to a position in which said surface is flush with the mould surface.     5. a foamed plastics article whenever made by a process as claimed in claims 1 or 2 or in an apparatus as claimed in claims 3 or 4.  
+</CLAIMS>
+</TEXT>
+</DOC>

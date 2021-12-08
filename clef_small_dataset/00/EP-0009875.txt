@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009875
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-63/80 C08G-63/78 C08G-63/26 C08G-63/00 B01J-8/24 <main>B01J-8/18</main> C08G-63/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for subjecting a material to a chemical reaction or to a physical change in a fluidised bed, and the modified fluidised bed used.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+anderton nicholas william rich<sep>barker derreck phillips<sep>ford leslie john<sep>kirk frank alfred<sep>oliver raymond<sep>anderton, nicholas william richard<sep>barker, derreck phillips<sep>ford, leslie john<sep>kirk, frank alfred<sep>oliver, raymond<sep>anderton, nicholas william richard27 lambsickle laneweston, nr runcorngb<sep>barker, derreck phillips10 berrystead, hartfordnorthwich, cheshiregb<sep>ford, leslie john2 high view, off bates lanehelsby, via warrington, cheshiregb<sep>kirk, frank alfredcrawford house long streeteasingwold, york yorkshiregb<sep>oliver, raymond57 greenhouse farm road, haltonruncorn, cheshiregb<sep>anderton, nicholas william richard <sep>barker, derreck phillips<sep>ford, leslie john  <sep>kirk, frank alfred <sep>oliver, raymond<sep>anderton, nicholas william richard27 lambsickle laneweston, nr runcorngb<sep>barker, derreck phillips10 berrystead, hartfordnorthwich, cheshiregb<sep>ford, leslie john2 high view, off bates lanehelsby, via warrington, cheshiregb<sep>kirk, frank alfredcrawford house long streeteasingwold, york yorkshiregb<sep>oliver, raymond57 greenhouse farm road, haltonruncorn, cheshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process (and apparatus therefor) for carrying out  thermally initiated chemical reactions or physical changes by  heating a particular substrate in a fluidised bed having hotter  zone(s) and cooler zone(s) between which the fluidised parti­ cles circulate, the dwell time in the hotter zone(s) being suffi­ ciently short so as to prevent the particles undergoing an  undesirable thermal transformation, and/or the dwell time in  the cooler zone(s) being sufficiently long to allow chemical  reaction and/or physical changes to take place which pre­ vent undesirable thermal transformations occurring in the  hotter zone(s).  the fluidised bed process is applicable, for  example, to the polymerisation of a low molecular weight  poly(ethylene terephthalate) and to a process for the prep­ aration of poly (ethylene terephthalate) from a terephthalic  acid and ethylene oxide.  
+</ABSTRACT>
+</TEXT>
+</DOC>

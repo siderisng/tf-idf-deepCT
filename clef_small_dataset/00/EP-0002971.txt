@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002971
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04B-9/00</main> H04B-10/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coupling device for an optical transmission line and transmission system comprising such device.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>"thomson-csf"- scpi<sep>
+</APPLICANT>
+<INVENTOR>
+d auria luigi<sep>de corlieu guy <sep>huignard jean-pierre <sep>reymond jean-claude<sep>d'auria, luigi<sep>de corlieu, guy<sep>huignard, jean-pierre<sep>reymond, jean-claude<sep>d'auria, luigi"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>de corlieu, guy"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>huignard, jean-pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>reymond, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>d'auria, luigi<sep>de corlieu, guy<sep>huignard, jean-pierre<sep>reymond, jean-claude <sep>d'auria, luigi"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08 fr   <sep>de corlieu, guy"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>huignard, jean-pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>reymond, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  coupling means for an optical transmission line comprising an optical channel and an electrical channel parallel thereto in the transmission line, an electrooptical means in the optical channel which in accordance with the value of an electrical control signal can assume two states, a photodetector in the electrical channel connected to a processing circuit and to a connecting circuit with a photoemitter and an electrical supply circuit, the arrangement being such that the transmission is normally through the electrical channel and, in the absence of the supply thereof, through the optical channel due to the state change of the electrical control signal of the electrooptical means, in particular for coupling a station to a bus line by means of the electrical channel, characterized by two optical branch means (3, 4) of type y in which an optical primary line is divided into two secondary lines, the branch means being connected together by a first of their secondary lines (3b, 4b) and by the electrooptical means (7) for forming the optical channel, and being connected by the second of their secondary lines (3c, 4c) to the photoemitter (16) and to the photodetector (13) of the electrical channel, the electrooptical means being of the shutter type which is normal operation has the opaque condition and when the supply (s2) of the electrical channel is absent has the transparent condition. 
+</ABSTRACT>
+</TEXT>
+</DOC>

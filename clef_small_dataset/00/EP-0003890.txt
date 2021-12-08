@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003890
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/34 A01N-43/40 <main>C07D-213/64</main> C07D-213/64 C07D-213/643 C07D-213/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+herbicidal pyridine compounds and herbicidal compositions containing them.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+cartwright david<sep>cartwright, david<sep>cartwright, david1 stonehaven drive woodleyreading berkshiregb<sep>cartwright, david<sep>cartwright, david  <sep>cartwright, david1 stonehaven drive woodleyreading berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+herbicidal pyridine compounds of formula (ii):    wherein z is cf₃, cf₂h, cf₂cl or hydrogen; y is hydrogen, ci,  or cf₃, provided that at least one of y and z is a  halogenomethyl group; and r is a cyano group, or a carboxy  group or a range of specified functional derivatives thereof;  and wherein more than 50% by weight of the compound is in  the d optical isomer form.  the compounds are useful as  selective herbicides for grass weeds in broad-leaved crops.  
+</ABSTRACT>
+</TEXT>
+</DOC>

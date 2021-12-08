@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002363
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04R-19/00 H04R-7/00 H01G-7/00 H04R-31/00 H01G-7/02 H04R-7/18 <main>H04R-19/01</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electret transducer and method of making an electret transducer.
+</TITLE>
+<APPLICANT>
+post officegb<sep>the post office<sep>the post office23 howland streetlondon w1p 6hqgb<sep>the post office <sep>
+</APPLICANT>
+<INVENTOR>
+else ronald<sep>morgan adrian john<sep>williams john kenneth<sep>else, ronald<sep>morgan, adrian john<sep>williams, john kenneth<sep>else, ronald12 chandos court martleshamwoodbridge suffolkgb<sep>morgan, adrian johnshaws barn badingham road framlinghamwoodbridge suffolkgb<sep>williams, john kenneth55 ashdown wayipswich suffolkgb<sep>else, ronald <sep>morgan, adrian john  <sep>williams, john kenneth<sep>else, ronald12 chandos court martleshamwoodbridge suffolkgb<sep>morgan, adrian johnshaws barn badingham road framlinghamwoodbridge suffolkgb<sep>williams, john kenneth55 ashdown wayipswich suffolkgb<sep>
+</INVENTOR>
+<ABSTRACT>
+in order to facilitate the manufacture of an electret  transducer backplate and to improve the performance and  reliability of the transducer, the backplate (6) is made of a  thermo-softening plastics material rendered electrically conducting  by electrically conducting particles distributed therethrough.   an electret foil diaphragm (7) is mounted on the  backplate (6) and the relative flexural rigidities of the  diaphragm (7) and the backplate (6) are such that, in use, the  deflection of the diaphragm is at least twenty times as great  as the deflection of the backplate.  a method of making the  transducer involves heating an electret foil, bonding the  electret foil to a retaining ring while the foil is hot and  securing together the retaining ring and the backplate.  
+</ABSTRACT>
+</TEXT>
+</DOC>

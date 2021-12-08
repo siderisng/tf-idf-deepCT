@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002659
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01R-15/07</main> G01J-4/00 G01R-15/24 G01R-33/032 G02F-1/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magneto-optical method for measuring current.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+harms hauke<sep>papp alfred dr<sep>harms, hauke<sep>papp, alfred, dr.<sep>harms, haukeannette-kolb-anger 11d-8000 münchende<sep>papp, alfred, dr.winternitzstrasse 6d-8000 münchende<sep>harms, hauke<sep>papp, alfred, dr.<sep>harms, haukeannette-kolb-anger 11d-8000 münchende<sep>papp, alfred, dr.winternitzstrasse 6d-8000 münchende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for magneto-optical current measurement with a linearly polarized light beam.According to the invention, the light beam by polarization modulation is alternately switched alternately with the frequency of the modulation signal on two perpendicular polarization directions and the intensity signals associated with the two polarization states (D +, D₋) are successively detected at the frequency of the modulation signal and processed simultaneously.Thus, the noise proportion of the measuring signal can be eliminated.The measuring method can preferably be used for the current measurement in high voltage systems.
+</ABSTRACT>
+</TEXT>
+</DOC>

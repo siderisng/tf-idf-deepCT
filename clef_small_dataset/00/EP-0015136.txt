@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015136
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03J-1/02</main> H03J-1/00 H04N-5/445 H04N-5/50 H03J-5/02 H03J-1/04 H03J-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiplexing arrangement for a television signal processing system.
+</TITLE>
+<APPLICANT>
+rca corp us  <sep>rca corporation<sep>rca corporation30 rockefeller plazanew york, ny 10020us<sep>rca corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+balaban alvin reuben<sep>steckler steven alan<sep>balaban, alvin reuben<sep>steckler, steven alan<sep>balaban, alvin reubenrural delivery no. 1fawn drive lebanon new jerseyus<sep>steckler, steven alan259 willow wayclark new jerseyus<sep>balaban, alvin reuben<sep>steckler, steven alan<sep>balaban, alvin reubenrural delivery no. 1fawn drive lebanon new jerseyus<sep>steckler, steven alan259 willow wayclark new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+a channel number display arrangement for a television  receiver which includes a multiplexer (39, 47) for alternately  coupling binary signals representing the tens and units digits  of the channel number of a selected channel to a single  decoder (41) and driver (45) arrangement.  to reduce visible or  other effects of switching transients, the switching operation  of the multiplexer (39, 47) is synchronized with respect to the  receiver's deflection signals so that switching transients occur  during horizontal retrace intervals in which the receiver's elec­ tron beams are normally blanked.  in addition, keyed agc  circuitry (31) normally activated during the horizontal retrace  intervals, is inhibited during the switching operation so that it  is not erroneously set up in response to the switching trans­ ients.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013512
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08B-37/00 C08B-37/08 B01J-39/00 B01J-39/22 <main>C08B-37/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+methods for preparing a carboxyalkylated chitin and a de-acetylated derivative thereof.
+</TITLE>
+<APPLICANT>
+kureha chemical ind co ltdjp<sep>kureha kagaku kogyo kabushiki kaisha<sep>kureha kagaku kogyo kabushiki kaisha9-11 horidome-cho 1-chome nihonbashi chuo-kutokyo 103jp<sep>kureha kagaku kogyo kabushiki kaisha <sep>
+</APPLICANT>
+<INVENTOR>
+koshugi junichi<sep>koshugi, junichi<sep>koshugi, junichino. 22 daiichi-kurehasoh3-10-13 nerima nerima-ku tokyojp<sep>koshugi, junichi <sep>koshugi, junichino. 22 daiichi-kurehasoh3-10-13 nerima nerima-ku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of preparing a water-soluble carboxylakylated  chitin comprises   (i) freezing a highly concentrated aqueous alkali solution  which contains chitin; and   (ii) dispersing the frozen mixture obtained from step (i) in  an organic solvent containing an etherifying agent of formula:   x(ch₂)ncooh   wherein x represents chlorine or bromine, and n denotes an  interger of 1, 2 or 3, thereby to etherify hydroxyl groups of the  chitin.  the carboxyalkylated chitin may be deacetylated by treat­ ing it with an aqueous alkali.  the carboxyalkylated and de­ acetylated carboxyalkylated chitin derivatives can be used in  techniques of ion-exchange.  
+</ABSTRACT>
+</TEXT>
+</DOC>

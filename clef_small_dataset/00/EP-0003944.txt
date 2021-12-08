@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003944
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-5/24 A01G-9/24 F24J-2/40 <main>A01G-9/24</main> F24J-2/24 F24J-2/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for air conditioning greenhouses.
+</TITLE>
+<APPLICANT>
+anvar fr  <sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche <sep>
+</APPLICANT>
+<INVENTOR>
+comte paul<sep>repetti rene<sep>comte, paul<sep>repetti, rene<sep>comte, paul42, boulevard d'aguillonf-06600 antibesfr<sep>repetti, renévilla la sousto quartier de nartassierf-06250 mouginsfr<sep>comte, paul <sep>repetti, rene  <sep>comte, paul42, boulevard d'aguillonf-06600 antibesfr<sep>repetti, renévilla la sousto quartier de nartassierf-06250 mouginsfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to methods and devices for climating greenhouses by selectively absorbing solar light.A greenhouse according to the invention, having a transparent coverage (2), comprises sensors (4), placed under the cover which are part of a closed circuit (4, 7, 8, 9, 10, 11a, 11b) inwhich circulates a suspension in the water of a product P non-miscible with water and heavier than the sediment water, which is transparent to the u rays.v.and which absorbs the visible spectrum and the i.r.The reservoir (9) is a sedimentation tank equipped with several outputs (13) each provided with a circulation pump (10).A control device (37) acting on the pumps (10) makes it possible to vary the concentration of the product P in the suspension and to modulate the absorption coefficient of the visible spectrum.An application is the cultivation of plants under an artificial climate.
+</ABSTRACT>
+</TEXT>
+</DOC>

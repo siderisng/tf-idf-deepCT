@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003914
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-33/06 A61M-1/36 A61M-1/16 <main>A61M-1/03</main> A61M-1/14 B01D-15/00 A61K-31/74 B01D-69/00 B01D-13/00 B01D-69/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dialysis composition.
+</TITLE>
+<APPLICANT>
+purdue research foundationus<sep>purdue research foundation<sep>purdue research foundationhovde hall purdue universitywest lafayette indiana 47907us<sep>purdue research foundation<sep>
+</APPLICANT>
+<INVENTOR>
+ash stephen richard<sep>ash, stephen richard<sep>ash, stephen richard2500 n. county road400 east lafayette indianaus<sep>ash, stephen richard<sep>ash, stephen richard2500 n. county road400 east lafayette indianaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a dialysis composition for adsorption of uremic substances  in an artificial kidney is described, comprising a  cation exchanger suspended in a suspending agent.  a more  particular example of such a composition comprises a surface  adsorptive agent capable of adsorption of uremic substances;  an enzyme to serve as a catalyst for urea degradation;  a suspending agent; and a cation exchanger capable of  being suspended in said suspending agent.  a method for  removing uremic substances from blood during  hemodialysis with the above dialysis compositions is also  described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

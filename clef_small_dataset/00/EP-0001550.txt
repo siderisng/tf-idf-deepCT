@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001550
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/73 H01L-23/532 H01L-29/06 H01L-23/48 H01L-21/225 H01L-29/40 H01L-29/10 H01L-21/033 <main>H01L-21/70</main> H01L-29/02 H01L-29/423 H01L-21/70 H01L-29/66 H01L-23/52 H01L-21/02 H01L-21/762 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+integrated semiconductor circuit for a small-sized structural element, and method for its production.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+anantha narasipur gundappa<sep>bhatia harsaran singh<sep>walsh james leo<sep>anantha, narasipur gundappa<sep>bhatia, harsaran singh<sep>walsh, james leo<sep>anantha, narasipur gundappa1 valdemar roadhopewell junction new york 12533us<sep>bhatia, harsaran singh41 tor roadwappingers falls new york 12590us<sep>walsh, james leo23 south drivehyde park new york 12538us<sep>anantha, narasipur gundappa  <sep>bhatia, harsaran singh<sep>walsh, james leo<sep>anantha, narasipur gundappa1 valdemar roadhopewell junction new york 12533us<sep>bhatia, harsaran singh41 tor roadwappingers falls new york 12590us<sep>walsh, james leo23 south drivehyde park new york 12538us<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing a semiconductor integrated semiconductor device for a small lateral base emitter distance component turmoil and correspondingly constructed transistor's turf.In a silicon semiconductor body, the semiconductor regions insulated by dielectric regions (22) are degraded, in which transistor trumpets with base, emitter and collector connection areas (26, 36, 38) are provided by corresponding doping steps.A small base emitter spacing is achieved in that as a contact area (40) to the base area (26), a doped polycrystalline silicon region enclosing the emitter contact (44) is provided on the semiconductor surface.Another area reduction results from the fact that the base region (26) is limited laterally directly from dielectric isolation areas (22, 20).
+</ABSTRACT>
+</TEXT>
+</DOC>

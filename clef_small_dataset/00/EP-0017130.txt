@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017130
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04L-27/22</main> H04L-27/227 H04B-1/26 H03J-7/04 H03L-7/06 H03J-7/02 H04B-1/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+receiver for high-frequency, electromagnetic waves with frequency adjustment.
+</TITLE>
+<APPLICANT>
+siemens ag de<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+gabler egmont ing grad<sep>lehmann uwe dipl-ing<sep>gabler, egmont, ing. grad.<sep>lehmann, uwe, dipl.-ing.<sep>gabler, egmont, ing. grad.scheidegger strasse 8d-8000 münchen 71de<sep>lehmann, uwe, dipl.-ing.paula-wimmer-strasse 17d-8060 dachaude<sep>gabler, egmont, ing. grad.<sep>lehmann, uwe, dipl.-ing.<sep>gabler, egmont, ing. grad.scheidegger strasse 8d-8000 münchen 71de<sep>lehmann, uwe, dipl.-ing.paula-wimmer-strasse 17d-8060 dachaude<sep>
+</INVENTOR>
+<ABSTRACT>
+The receiver for high-frequency electromagnetic vibrations includes a frequency detachment that has a voltage controlled oscillator.At a SOL Chen recipient, control errors should be avoided even when reception broadband signals.The receiver sees a phase control loop for the recovery of the carrier which consists of a single-line oscillator (6) and a phase detector (4) in its signaling pathway for the recovery of the carrier, which consists of a mechanical oscillator (6) and a phase detector (4)of the PLL oscillator (6) is supplied as a reference signal and its phase-controlled output signal (carrier) and frequency control loop (AFC loop) is supplied and from a demodulator (9), the modulated input signal and the vibrations of the PLL oscillator (6)be fed.
+</ABSTRACT>
+</TEXT>
+</DOC>

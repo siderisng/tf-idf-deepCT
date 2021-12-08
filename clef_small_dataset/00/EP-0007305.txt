@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0007305
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-10/00 G11C-19/00 H01F-10/06 G11C-19/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+conductor access bubble memory.
+</TITLE>
+<APPLICANT>
+western electric cous  <sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>
+</APPLICANT>
+<INVENTOR>
+bobeck andrew henryus<sep>bobeck, andrew, henry<sep>bobeck, andrew, henry41 ellers drivechatham, nj 07928us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

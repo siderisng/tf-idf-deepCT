@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013655
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02G-7/00 <main>H02G-7/05</main> H02G-7/05 H01R-4/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+anchoring sleeve for a bare electrical conductor and deformation device for assuring its junction with a bare electrical conductor by drawing.
+</TITLE>
+<APPLICANT>
+dervaux etsfr<sep>etablissements dervaux societe anonyme:<sep>etablissements dervaux société anonyme:71 rue de monceauf-75008 paris-seinefr<sep>etablissements dervaux societe anonyme:  <sep>
+</APPLICANT>
+<INVENTOR>
+novel pierre<sep>novel, pierre<sep>novel, pierre13 rue jean gionof-42000 saint etienne (loire)fr<sep>novel, pierre<sep>novel, pierre13 rue jean gionof-42000 saint etienne (loire)fr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  anchoring coupling for a bare electric conductor having the following characteristics : 1.   a connected body (2) formed of a metallic alloy having high mechanical resistance, forming a monolithic assembly with 1. 1 a mechanical connector cap (12), 1. 2 an electrical connecting tag (13), 1. 3 a truncated conical bore (4), 2.  at least one electrically conductive metal connecting element (3) of tubular form, into which is introduced a conductor (5) having at its posterior end a truncated conical bell (6) complementary to the truncated conical part of the bore and diverging towards the posterior end of the connecting element (3), 3.  the connection being effected, 3. 1 on the one hand, by wedging the truncated conical bell (6) of the connecting element (3) in the truncated conical part of the bore (4) in order to permit transmission of current, 3. 2 on the other hand, by securing the connecting element (3) to the conductor (5) by mechanical deformation of the part of this element (3) extending from the connector body onto the corresponding part of the conductor (5) by a deforming device, characterized by the following characteristics : 4.  the conductor (5) passes wholly through the connecting elment (3) and projects from the truncated conical bore of the connector body (2), 5.  the deforming device (16 : 2) is disposed such that it cannot be lost from the previous construction on a part of smallest diameter of the connecting element (3), 6.  the mechanical deformation is effected by the tightening force engendered during ancoring by displacement of the deformation device (16 :2) on a part of largest diameter of the connecting element, 7.  the electrical and mechanical connection of the conductor (5) with the connecting element is assured by this single deformation. 
+</ABSTRACT>
+</TEXT>
+</DOC>

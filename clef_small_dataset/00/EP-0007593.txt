@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007593
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-7/20 G03C-7/30 <main>G03C-7/30</main> G03C-7/32 G03C-7/413 G03C-5/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+colour-photographic developing process.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+haseler helmut<sep>lohmer karl dr<sep>meckl heinz dr<sep>pelz willibald dr<sep>haseler, helmut<sep>lohmer, karl, dr.<sep>meckl, heinz, dr.<sep>pelz, willibald, dr.<sep>häseler, helmutfichtestrasse 80d-5090 leverkusen 1de<sep>lohmer, karl, dr.oskar-schlemmer-strasse 18d-5090 leverkusende<sep>meckl, heinz, dr.am katterbach 54d-5060 bergisch-gladbach 2de<sep>pelz, willibald, dr.mevissenstrasse 16-134d-5000 köln 1de<sep>haseler, helmut <sep>lohmer, karl, dr.<sep>meckl, heinz, dr.  <sep>pelz, willibald, dr.<sep>häseler, helmutfichtestrasse 80d-5090 leverkusen 1de<sep>lohmer, karl, dr.oskar-schlemmer-strasse 18d-5090 leverkusende<sep>meckl, heinz, dr.am katterbach 54d-5060 bergisch-gladbach 2de<sep>pelz, willibald, dr.mevissenstrasse 16-134d-5000 köln 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+With a color photographic material containing several differently spectrally sensitized silver halide emulsion layers and this associated coupler, with a hydrophobic blue green coupler, using a hydrophobic coupler solvent and a hydrophilic yellow coupler without the use of a coupler solvent in the respective layer, could with good color images with goodTropical resistance of the blue-green image and good light fastness of the yellow image obtained those when using a color developer mixture containing a hydrophilic and a hydrophobic color developer compound.
+</ABSTRACT>
+</TEXT>
+</DOC>

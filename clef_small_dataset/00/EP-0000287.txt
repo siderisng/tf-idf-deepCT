@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000287
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16F-9/08 B60G-15/00 B60G-17/015 B60G-17/08 F16F-9/50 B60G-15/12 F16F-9/00 B60G-17/06 F16F-9/512 F16F-9/084 B60G-17/04 B60G-11/27 <main>B60G-15/12</main> B60G-11/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a hydro-pneumatic spring suspension strut for motor vehicles.
+</TITLE>
+<APPLICANT>
+autoipari kutato intezethu   <sep>ikarus karosszeriahu<sep>taurus gumiipari vallalathu<sep>autoipari kutato intezet<sep>ikarus karosszeria es jarmugyar<sep>taurus gumiipari vallalat<sep>autóipari kutató intézetcsóka utca 7-13budapest xihu<sep>ikarus karosszéria és jármügyarmatyásföld margit utca 2h-1165 budapest xvihu<sep>taurus gumiipari vállalatkerepesi ut 17budapest viiihu<sep>autoipari kutato intezet<sep>ikarus karosszeria es jarmugyar<sep>taurus gumiipari vallalat<sep>
+</APPLICANT>
+<INVENTOR>
+farkas otto<sep>korosladanyi jozsef<sep>madi jeno<sep>szabo sandor<sep>vad laszlo<sep>farkas, otto<sep>korosladanyi, jozsef<sep>madi, jeno<sep>szabo, sandor<sep>vad, laszlo<sep>farkas, ottótörökvész ut 27budapest iihu<sep>körösladányi, józsefcsárda utca 9budapest xiihu<sep>mádi, jenöprodáan utca 1budapest xvihu<sep>szabó, sándorgyörök utca 19budapest xihu<sep>vad, lászlóberkenye utca 15visegrádhu<sep>farkas, otto<sep>korosladanyi, jozsef<sep>madi, jeno<sep>szabo, sandor <sep>vad, laszlo<sep>farkas, ottó törökvész ut 27 budapest ii hu<sep>körösladányi, józsefcsárda utca 9budapest xiihu<sep>mádi, jenöprodáan utca 1budapest xvihu<sep>szabó, sándorgyörök utca 19budapest xihu<sep>vad, lászlóberkenye utca 15visegrádhu<sep>
+</INVENTOR>
+<ABSTRACT>
+a hydro-pneumatic spring suspension strut for vehicles  provides damping limited proportionally to the load, and  comprises an hydraulic telescopic oneway shock absorber  (3) and a load bearing pneumatic spring (2).  the gas space of  the pneumatic spring (2) is bounded by a rolling membrane  (6) and rigid walls (4, 7) fixable to the vehicle body and  wheels.  the shock absorber cylinder (22) is connected to an  auxiliary membrane (15) open to the pressure prevailing  inside the pneumatic spring (2) to urge the cylinder (22) in  the direction of extension of the strut (1, 35, 41) and to bear  against a piston column (5) in the strut (1, 35, 41) the oscillation  of which is to be damped.  the auxiliary membrane (15)  enables the cylinder (22) to move relative to the piston column  (5) when its biasing force is balanced by the damping  force of the shock absorber (3).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003262
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-13/04 <main>G11B-7/24</main> H04N-5/82 G11B-7/24 B41M-5/26 H04N-5/80 G01D-15/34 B41M-5/36 B41M-5/00 G01D-15/00 G01D-15/10 G11B-7/244 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+medium, process and system for recording information.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+thomas harold todd<sep>wrobel joseph jude<sep>thomas, harold todd<sep>wrobel, joseph jude<sep>thomas, harold toddkodak parkrochester new yorkus<sep>wrobel, joseph judekodak parkrochester new yorkus<sep>thomas, harold todd<sep>wrobel, joseph jude<sep>thomas, harold toddkodak parkrochester new yorkus<sep>wrobel, joseph judekodak parkrochester new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a medium for recording information is disclosed which  is capable of providing high quality, high information density  recording by thermal deformation.  the medium comprises a  layer (10) of amorphous material solvent-coated on a  support (20) which layer is capable of being thermally  deformed to form depressions (d) or holes surrounded by  sharply defined ridges (r) when impinged upon by a high  energy recording beam.  the layer, which comprises a  thermoplastic binder and an absorptive substance which  absorbs energy at the wavelength of the beam, is less than  0. 45 micron thick and has an absorption factor of 20 or  greater at the wavelength of the beam.  
+</ABSTRACT>
+</TEXT>
+</DOC>

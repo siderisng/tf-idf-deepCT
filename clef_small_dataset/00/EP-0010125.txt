@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010125
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-43/06 H01L-27/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+integrated hall element.
+</TITLE>
+<APPLICANT>
+ittus<sep>itt ind gmbh deutschede<sep>deutsche itt industries gmbh<sep>itt industries, inc.<sep>deutsche itt industries gmbhhans-bunte-strasse 19d-79108 freiburgde  <sep>itt industries inc.320 park avenuenew york, ny 10022us<sep>
+</APPLICANT>
+<INVENTOR>
+schwabe gerhardde<sep>schwabe, gerhard<sep>schwabe, gerhardgilgenmatten 12d-7800 freiburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+integratable hall element (3) which has a pair of current injection contacts (4), (5) and a pair of hall voltage contacts (15), (16) inside a monolithic integrated circuit having a layer of one conduction type on a laminar substrate body of the other conduction type.  the hall sensitivity is increased in that a current source circuit whose current-determining resistance (r) is composed of the same semiconductor material and the same doping as the material of the hall element (3) is situated in series with the current injection contacts.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+integriertes ha 11-baue lelent aus der de-os 19 42 810 ist ein integriertes hall-bauelement bekannt, bei dem ein teil eines halbleiterkörpers als hall-element wirksam ist und der restliche teil eine ver stärkerschaltung aufnimmt. bei der massenherstellung solcher hall-bauelemente ist die hall-empfindlichkeit emi1.1 mit n = dotierungskonzentration q = elementarladung d = dicke des hall-elements i = hallstrom und b = magnetische induktion diese hall-empfindlichkeit ist bei der massenfertigung von bauelementen den schwankungen der herstellungsbedingungen unterworfen. man hat daher bereits zusammen mit dem hall element in einem halbleiterkörper eine spannungsstabili sierungsschaltung zur stabilisierung des hallstroms integriert, so dass die i3all-empfindlichkeit nach einer einfachen rechnung emi1.2 mit /u - beweglichkeit der ladungsträger v = abmessungsfaktor entsprechend dem längen/breiten verhältnis des hall-elements (v = 1 für eine quadratische abmessung) u = anliegende spannung doch auch die empfindlichkeit eines solchen integrierten hall-bauelements ist in gleicher weise den schwankungen der her 5 te llungsbedingungen unterworfen, da sowohl der widerstand des hall-elements als auch die ausgangsspannung der erforderlichen integrierten spannungsregelschaltung von diesen schwankungen abhängig ist. aus der de-os 26 52 322 ist ein hall-element bekannt, welches aus einem bereich einer epitaxschicht des einen leitungstyps auf einem plattenförmigen substratkörper des anderen leitungstyps besteht und sowohl ein paar von stromeinspeisungskontakten als auch ein paar von hallspannungskontakten aufweist. da ein solches hall-element besonders gut zur aufnahme einer integrierten schaltung geeignet ist, geht die erfindung von diesem bekannten hall-element aus. die erfindung betrifft somit ein integriertes hall-bauelement entsprechend dem oberbegriff des anspruchs 1. die der erfindung zugrundeliegende aufgabe besteht darin, die empfindlichkeit eines solchen hall-bauelements weit gr#ici#a unabhängig von den schwankungen der herstellungsbe dingungen zu machen, insbesondere von dem flächenwiderstand der schicht des einen leitungstyps, die epitaktisch aufgebracht werden kann. die erfindung geht von dem grundgedanken aus, den hallstrom t zu stabilisieren und zu diesem zweck eine strom quellenschaltung mit einem strombestimmenden widerstand zu verwenden, der bei einer integration in einer solchen weise von den schwankungen der herstellungsbedingungen des integrierten hall-dauelements abhängig ist, dass die hallspannung uh weitgehend unabhängig von diesen schwankungen ist. solche stromquellenschaltungen sind beispielsweise aus der zeitschrift "funktechnik" nr. 10 (1975), seiten 278 bis 311 bekannt. bei solchen, innerhalb des integrierten hall-bauelements nach der erfindung versendbaren strom quellenschaltungen fliesst ein durch die betriebsspannungucc und einen widerstand r bestimmter strom durch einen als diode geschalteten transistor. die oben genannte aufgabe wird unter verwendung einer solchen stromquellenschaltung erfindungsgemäss durch die im kennzeichnenden teil des anspruchs 1 angegebene ausbildung gelöst. wird also silicium als material der schicht verwendet, so muss der strombestimmende widerstand r ebenfalls aus silicium bestehen. darüber hinaus muss er die gleiche dotierung nicht nur hinsichtlich des dotierungsmaterials, sondern auch hinsichtlich des konzentrationsverlaufs aufweisen. diese bcdingung ist ohne weiteres einzuhalten, wenn der widerstand und der wirksame bereiche des hall-elements gleichzeitig in bzw. an einem substratkörper hergestellt werden. die schicht des einen leitungstyps kann bei der hersteil\ing des integrierten hall-bauelements nach der erfindung nicht nur epitaktisch aufgebracht werden; sie kann auch durch einen diffusionsprozess in den substratkörper oder in eine substratschicht des anderen leitungstyps eingebracht werden. eine einfache ausführungsform
+</DESCRIPTION>
+<CLAIMS>
+   pa tentansprüche      1. integriertes hall-bauelement mit einem hall-element, welches aus einem bereich einer schicht des einen leitungstyps auf einem plattenförmigen substratkörper des anderen leitungstyps besteht und sowohl ein paar von   stromeinspeisungskontakten    als auch ein paar von    isallspannungskontakten    aufweist, dadurch gekennzeichnet, dass in serie zu den stromeinspeisungskontakten eine stromquellenschaltung liegt, deren strom    bestimmend er widerstand    (r) aus dem gleichen halbleitermaterial mit der gleichen dotierung besteht wie das material des hall-elements.    2. integriertes hall-bauelement nach anspruch 1, dadurch gekennzeichnet,   dass    das hall-element aus einem ersten bereich (2) einer epitaxschicht (1) und der strom bestimmende widerstand (r) aus einem zweiten   bereich    (3) der epitaxschicht (1) bestehen.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003558
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/519 A61P-37/00 C07D-211/00 <main>C07D-473/34</main> C07D-211/58 A61P-37/08 C07D-473/00 C07D-473/34 A61P-29/00 A61K-31/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+9-(3-piperidinopropyl)-purine derivatives, processes for their preparation, their use and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh <sep>boehringer mannheim gmbh68298 mannheimde   <sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+friebe walter-gunar dr<sep>roesch androniki dr<sep>schaumann wolfgang prof dr<sep>thiel max dr<sep>wilhelms otto-henning dr<sep>friebe, walter-gunar, dr.<sep>roesch, androniki, dr.<sep>schaumann, wolfgang prof., dr.<sep>thiel, max, dr.<sep>wilhelms, otto-henning, dr.<sep>friebe, walter-gunar, dr.oberstrasse 13d-6100 darmstadtde<sep>roesch, androniki, dr.am oberen luisenpark 22d-6800 mannheim 1de<sep>schaumann, wolfgang prof., dr.mönchhofstrasse 58d-6900 heidelbergde<sep>thiel, max, dr.s 6, 35d-6800 mannheim 1de<sep>wilhelms, otto-henning, dr.odenwaldstrasse 25/2d-6941 weinheim-rittenweierde<sep>friebe, walter-gunar, dr.<sep>roesch, androniki, dr.<sep>schaumann, wolfgang prof., dr. <sep>thiel, max, dr.<sep>wilhelms, otto-henning, dr.  <sep>friebe, walter-gunar, dr.oberstrasse 13d-6100 darmstadtde<sep>roesch, androniki, dr.am oberen luisenpark 22d-6800 mannheim 1de<sep>schaumann, wolfgang prof., dr.mönchhofstrasse 58d-6900 heidelbergde<sep>thiel, max, dr.s 6, 35d-6800 mannheim 1de<sep>wilhelms, otto-henning, dr.odenwaldstrasse 25/2d-6941 weinheim-rittenweierde<sep>
+</INVENTOR>
+<ABSTRACT>
+Purin derivatives of general formula I in which R₁ is hydrogen or a lower alkyl group, R₂ hydrogen, an aryl or a lower alkyl group, which may optionally be substituted by hydroxyl, wherein R₁ and R₂ also together with the nitrogen atom a heterocyclicRing can form, and R₃ denote an acyl group or hydrogen, as well as their salts with pharmacologically acceptable acids, with anti-allergic, anti-inflammatory and anti-edematogenic effect, processes for producing these compounds and these compounds containing medicaments.The preparation of the compounds according to the invention is carried out by reacting purin derivatives with reactive 1,3-propane compounds and optionally acylated 4-amino piperidines.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016644
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 B01J-23/94 C10G-11/18 B01J-23/90 B01J-23/745 C10G-11/00 C10G-11/02 C01B-3/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of processing sulphur-containing heavy oil.
+</TITLE>
+<APPLICANT>
+nippon mining cojp<sep>nippon mining company limited<sep>nippon mining company limited 10-1, toranomon 2-chomeminato-ku tokyojp <sep>
+</APPLICANT>
+<INVENTOR>
+aizawa shiroujp<sep>fujimori kuniakijp<sep>inoue yukiojp<sep>suzuka teruojp<sep>aizawa, shirou<sep>fujimori, kuniaki<sep>inoue, yukio<sep>suzuka, teruo<sep>aizawa, shirouno. 5-2, hon-cho 4-chometoda-shi saitamajp<sep>fujimori, kuniakino. 13-17 ogikubo 3-chome suginami-kutokyojp<sep>inoue, yukiono. 93, shikatebukurourawa-shi saitamajp<sep>suzuka, teruono. 11-2-706 kawaguchi 4-chomekawaguchi-shi saitamajp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of processing a sulfur-containing heavy oil  comprises catalytically cracking the heavy oil in a first zone 1  in the presence of fluidized catalyst particles containing  about 30 to 60 wt % fe so as to convert the heavy oil to a light  oil, deposit sulfur-containing coke on the catalyst particles,  and partially fix the decomposed sulfur compounds with  reduced iron contained in the catalyst particles as iron  suifide.  in a second zone 2, the catalyst from the first zone 1 is  contacted with an oxygen containing gas in an amount less  than that theoretically required to effect partial combustion  of the coke on the catalyst, reduce the iron in the catalyst,  and fix the sulfur compounds contained in the coke as iron  sulfide.  in a third zone 3, the reduced catalyst from the  second zone 2 is contacted with steam in a fluidized manner  to produce hydrogen and hydrogen sulfide and convert the  reduced iron and iron sulfide in the catalyst to iron oxides.   the iron oxide-containing catalyst obtained in the third zone  3 is recirculated into the second zone 2 to be reduced and  part of the reduced-state catalyst obtained in the second  zone 2 is recirculated into the first zone 1.  
+</ABSTRACT>
+</TEXT>
+</DOC>

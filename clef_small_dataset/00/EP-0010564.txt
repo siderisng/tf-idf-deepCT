@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010564
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02B-13/02 H02B-5/00 <main>H02B-13/06</main> H02B-5/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas insulated switch-gear apparatus.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp <sep>hitachi, ltd.<sep>hitachi, ltd. 5-1, marunouchi 1-chome chiyoda-ku, tokyo 100 jp<sep>hitachi, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+kitano yutaka<sep>nakano seizo<sep>oishi kazuaki<sep>kitano, yutaka<sep>nakano, seizo<sep>oishi, kazuaki<sep>kitano, yutaka9-6, nakanarusawacho-4-chomehitachi-shijp<sep>nakano, seizo498-6, kasaharachomito-shijp<sep>oishi, kazuaki1-362-121. moriyamachohitachi-shijp<sep>kitano, yutaka <sep>nakano, seizo<sep>oishi, kazuaki  <sep>kitano, yutaka9-6, nakanarusawacho-4-chomehitachi-shijp<sep>nakano, seizo498-6, kasaharachomito-shijp<sep>oishi, kazuaki1-362-121. moriyamachohitachi-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a gas insulated switch-gear apparatus having first and  second base planes (100, 200) is disclosed.  arranged on  the first and second base planes are feeder switching ap­ paratus (110, 210) comprising gas filled circuit breakers  (111, 211) comprising gas filled circuit breakers (111,  211) and first and second gas insulated disconnecting  switches (113, 114; 213, 214) at opposite sides of each of  the gas filled circuit breakers.  gas insulated busbar devices  (120, 220) are arranged to be horizontally spaced from  the feeder switching apparatus.  on the first and second  base planes, the first gas insulated disconnecting switches  (113, 213) are connected to the gas insulated busbar  devices while the second gas insulated disconnecting  switches (114, 214) are connected to bushings (115, 215).   axial lines of the feeder switching apparatus along which  the first and second gas insulated disconnecting switches  are arranged traverse axial lines of the gas insulated bus­ bar devices.  the axial lines of the gas insulated busbar  devices arranged on the first and second base planes lie in  a common vertical plane containing the axial lines and lie  in the base planes.  a gas insulated connecting busbar  device (400) for interconnecting the gas insulated busbar  devices arranged on the first and second base planes is  arranged in the common vertical plane such that an axial  line thereof traverses the axial lines of the gas insulated  busbar devices.  
+</ABSTRACT>
+</TEXT>
+</DOC>

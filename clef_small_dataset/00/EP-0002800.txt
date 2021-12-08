@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>
+EP-0002800
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-323/12 C07C-51/367 C07D-277/68 A01N-47/18 A01N-31/00 C07C-235/24 C07D-277/00 C07C-235/00 A01N-43/52 C07C-59/08 A01N-43/76 A01N-47/10 C07C-67/00 C07C-51/347 C07D-235/00 A01N-47/22 C07C-69/712 C07C-243/00 C07C-59/70 C07C-219/00 C07C-205/38 C07D-303/48 C07D-307/00 C07D-307/42 A01N-31/08 C07D-413/00 C07C-327/42 C07C-59/125 C07C-67/343 C07C-231/00 C07C-43/29 C07C-41/00 C07C-59/58 A01N-43/72 C07C-219/06 C07C-235/20 A01N-43/78 A01N-39/00 C07C-231/12 A01N-43/34 C07C-43/295 C07C-327/00 C07C-253/00 A01N-37/36 A01N-47/12 C07D-213/64 A01N-43/08 C07C-59/68 C07C-205/00 C07C-235/22 C07D-277/66 A01N-39/02 C07C-59/13 C07C-69/003 C07C-255/16 C07D-263/54 C07D-213/00 C07C-59/00 C07C-243/28 A01N-47/16 A01N-43/74 C07D-303/00 C07C-43/00 C07C-41/26 C07C-255/37 A01P-13/00 C07C-69/68 C07D-235/26 C07D-213/643 C07C-313/00 C07C-241/00 C07C-69/67 A01N-47/20 C07D-263/58 A61K-31/41 A01N-47/24 A01N-37/42 C07D-263/00 C07D-213/647 A01N-43/02 C07C-201/00 C07C-103/178 C07C-327/22 A01N-43/48 C07D-307/12 C07C-51/00 C07C-325/00 <main>C07D-263/58</main> C07C-255/00 C07D-413/12 A01N-43/40 A01N-43/20 C07C-69/00 C07C-323/00 C07C-233/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optically active alpha-phenoxypropionic acid dervatives.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaftpostfach 80 03 20; w-6230 frankfurt am main 80<sep>
+</APPLICANT>
+<INVENTOR>
+bieringer hermannde<sep>frisch peterde<sep>handte reinhardde<sep>hoerlein gerhardde<sep>langelueddeke peterde<sep>nestler hans juergende<sep>schwerdtle friedhelmde<sep>bieringer, hermann, dr.<sep>frisch, peter, dr.<sep>handte, reinhard, dr.<sep>horlein, gerhard, dr.<sep>langeluddeke, peter, dr.<sep>nestler, hans jurgen, dr.<sep>schwerdtle, friedhelm, dr.<sep>bieringer, hermann, dr.eichenweg 26d-6239 eppstein/taunusde<sep>frisch, peter, dr.griesheimer stadtweg 11d-6000 frankfurt/mainde<sep>handte, reinhard, dr.breckenheimer strasse 45d-6238 hofheim am taunusde<sep>hörlein, gerhard, dr.assmannshäuser weg 23d-6000 frankfurt/mainde<sep>langelüddeke, peter, dr.nelkenweg 5d-6238 hofheim am taunusde<sep>nestler, hans jürgen, dr.steinweg 15d-6240 königstein/taunusde<sep>schwerdtle, friedhelm, dr.oestricher weg 5d-6000 frankfurt/mainde<sep>bieringer, hermann, dr.<sep>frisch, peter, dr.<sep>handte, reinhard, dr.<sep>horlein, gerhard, dr.<sep>langeluddeke, peter, dr.<sep>nestler, hans jurgen, dr.<sep>schwerdtle, friedhelm, dr.<sep>bieringer, hermann, dr.eichenweg 26; w-6239 eppstein/taunus<sep>frisch, peter, dr.griesheimer stadtweg 11; w-6000 frankfurt/main<sep>handte, reinhard, dr.breckenheimer strasse 45; w-6238 hofheim am taunus<sep>hoerlein, gerhard, dr.assmannshaeuser weg 23; w-6000 frankfurt/main<sep>langelueddeke, peter, dr.nelkenweg 5; w-6238 hofheim am taunus<sep>nestler, hans juergen, dr.steinweg 15; w-6240 koenigstein/taunus<sep>schwerdtle, friedhelm, dr.oestricher weg 5; w-6000 frankfurt/main<sep>bieringer, hermann, dr.eichenweg 26d-6239 eppstein/taunusde<sep>frisch, peter, dr.griesheimer stadtweg 11d-6000 frankfurt/mainde<sep>handte, reinhard, dr.breckenheimer strasse 45d-6238 hofheim am taunusde<sep>hörlein, gerhard, dr.assmannshäuser weg 23d-6000 frankfurt/mainde<sep>langelüddeke, peter, dr.nelkenweg 5d-6238 hofheim am taunusde<sep>nestler, hans jürgen, dr.steinweg 15d-6240 königstein/taunusde<sep>schwerdtle, friedhelm, dr.oestricher weg 5d-6000 frankfurt/mainde<sep>
+</INVENTOR>
+<ABSTRACT>
+Optically active enantiomers of formula I where R is a group of formula R₁ and R₂ u. a.Halogen or CF₃ and Z interpret a carboxyl, carboxylate, carbon ester, thioester, carbonamide, car bonsomeranilide, carbohydrazide or thioamide group, are valuable herbicides which considerably exceed the optically inactive racemates to effectiveness.
+</ABSTRACT>
+<CLAIMS>
+1. compound of the formula    containing at least 80% d-form. 2. compound of formula    containing at least 80% d-form. 
+</CLAIMS>
+</TEXT>
+</DOC>

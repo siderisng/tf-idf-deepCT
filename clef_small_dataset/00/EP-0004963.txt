@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004963
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-55/02 B29C-35/08 C08J-7/00 B29C-59/00 B29C-49/00 B29C-55/00 B29C-59/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for increasing the surface roughness of stretched thermoplastic materials.
+</TITLE>
+<APPLICANT>
+toray industriesjp<sep>toray industries, inc.<sep>toray industries, inc.2, nihonbashi-muromachi 2-chome chuo-kutokyo 103jp<sep>
+</APPLICANT>
+<INVENTOR>
+kawakami ken-ichijp<sep>saito shojijp<sep>togashi shizuojp<sep>kawakami, ken-ichi<sep>saito, shoji<sep>togashi, shizuo<sep>kawakami, ken-ichi2-10 sonoyama otsu-shishiga-kenjp<sep>saito, shoji2-6-36 nishi-shibukawa kusatsu-shishiga-kenjp<sep>togashi, shizuo25-405, 1-11 ohira otsu-shishiga-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for increasing the roughness of the surface of stretched, thermoplastic plastic material, in particular of plastic films.The method is preferably applicable to plastic material made of polyester or polypropylene.The method is that the plastic material is preferably irradiated with ulraviolet light before the first stretching step and / or during stretching, wherein the roughness of the irradiation can be changed by selecting the intensity of the irradiation.The films produced by the process are well lubricious and are particularly suitable for use as a capacitor or stringer.
+</ABSTRACT>
+</TEXT>
+</DOC>

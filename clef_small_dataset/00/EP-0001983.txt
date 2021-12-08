@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001983
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/00 C07C-120/00 <main>C07C-121/43</main> C07C-255/25 C07C-255/24 C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for isolating or obtaining n,n-dimethylaminoacetonitrile from n,n-dimethylaminoacetonitrile/water mixtures.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+dankert gerhard dr<sep>lenthe manfred dr<sep>dankert, gerhard, dr.<sep>lenthe, manfred, dr.<sep>dankert, gerhard, dr.a.-hantzsch-strasse 44d-5000 koeln 80de<sep>lenthe, manfred, dr.michaelshöhe 40d-5068 odenthalde<sep>dankert, gerhard, dr. <sep>lenthe, manfred, dr.<sep>dankert, gerhard, dr.a.-hantzsch-strasse 44d-5000 koeln 80de<sep>lenthe, manfred, dr.michaelshöhe 40d-5068 odenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for obtaining N, N-dimethylaminoacetonitrile from the nitrile water mixtures incurred in the production of dimethylamine, hydrogen acid and formaldehyde by extraction with 1,2-dichlorobenzene.It consists in extracting the N-dimethylacetonitrile / water mixture obtained from dimethylamine, hydrofluoric acid and formaldehyde with 1,2-dichlorobenzene.The extraction of the dimethylaminoacetonitrile succeeds according to the extraction method according to the invention with high yields when working at temperatures between 5 and 90 ° C.
+</ABSTRACT>
+</TEXT>
+</DOC>

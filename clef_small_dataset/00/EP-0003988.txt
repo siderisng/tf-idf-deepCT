@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003988
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 B01J-31/02 B01J-31/00 <main>C07C-125/06</main> B01J-27/02 C07B-61/00 B01J-27/24 C07C-67/00 C07C-269/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing urethanes.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+scholl hans-joachim dr<sep>zenner armin dr<sep>scholl, hans-joachim, dr.<sep>zenner, armin, dr.<sep>scholl, hans-joachim, dr.rudolf-sohm-strasse 28d-5000 köln 60de<sep>zenner, armin, dr.goethestrasse 65d-4047 dormagen 1de<sep>scholl, hans-joachim, dr.<sep>zenner, armin, dr.<sep>scholl, hans-joachim, dr.rudolf-sohm-strasse 28d-5000 köln 60de<sep>zenner, armin, dr.goethestrasse 65d-4047 dormagen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a process for the preparation of urethanes by reacting aromatic nitro compounds with aliphatic, cycloaliphatic or araliphatic alcohols and carbon monoxide in the presence of selenium and / or selenium compounds, as well as aromatic amino compounds and / or aromatic urea compounds having catalyst systems having such catalystSystems used which are free of carboxylic acids and phenols and have bicyclic amidines as free bases.
+</ABSTRACT>
+</TEXT>
+</DOC>

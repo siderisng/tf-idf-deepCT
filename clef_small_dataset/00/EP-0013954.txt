@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013954
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-11/36 G06K-13/26 B41J-11/38 <main>B65H-35/04</main> B41J-11/42 G06C-11/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cutting blade drive for paper feeding device.
+</TITLE>
+<APPLICANT>
+control commerce agch<sep>control commerce ag<sep>control commerce agpostplatz postfach 78ch-7130 ilanz/graubündench<sep>control commerce ag<sep>
+</APPLICANT>
+<INVENTOR>
+rethmeier gerhard<sep>rethmeier, gerhard<sep>rethmeier, gerhardspeckenbrede 28d-4800 bielefeld 17de<sep>rethmeier, gerhard  <sep>rethmeier, gerhardspeckenbrede 28d-4800 bielefeld 17de<sep>
+</INVENTOR>
+<ABSTRACT>
+The knife drive is provided for the optional cutting or cutting a receipt to Re Gistrier Councils. The connection of the knife drive depends on a paper transport device for optionally several different paper transport routes, such as. b. 1-, 2, 3- and 9-line transport. The clutch of the MES server drive is carried out by the large 9-line pivoting of a toothing segment (2) of the paper transporting device via gears (7, 32 and 33) and a freewheeling Cupulation on a toothed segment (34) of the knife drive and causes the engagement of a roller (28) of the toothing segment (34) with the outside of a curve on a carrier disc (4a). The toothing segment (34) experiences an additional pollution for the cutting movement of the knife via the roller (28) rolling on the outside of the curve track. By selectively controlling a slider (39), the cut-out path can be shortened, whereby only a cutting of the bon is achieved.
+</ABSTRACT>
+</TEXT>
+</DOC>

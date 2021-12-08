@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010894
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-253/06 C07D-239/00 C07D-239/47 C07D-417/00 A61P-1/00 C07D-417/12 C07D-417/14 A61K-31/425 A61P-1/04 A61K-31/505 C07D-277/48 <main>C07D-417/12</main> C07D-213/58 C07D-213/00 C07D-277/00 C07D-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+antisecretory heterocyclic guanidine derivatives, process for their manufacture and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ici america incus<sep>ici plcgb<sep>ici americas inc<sep>imperial chemical industries plc<sep>ici americas inc.concord pike &amp; new murphy roadwilmington delaware 19897us<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>ici americas inc<sep>imperial chemical industries plc <sep>
+</APPLICANT>
+<INVENTOR>
+jones derrick fleet<sep>yellin tobias oregon<sep>jones, derrick fleet<sep>yellin, tobias oregon<sep>jones, derrick fleet22 badger road tytheringtonmacclesfield cheshiregb<sep>yellin, tobias oregon4 waterford waywallingford pa 19086us<sep>jones, derrick fleet <sep>yellin, tobias oregon<sep>jones, derrick fleet22 badger road tytheringtonmacclesfield cheshiregb<sep>yellin, tobias oregon4 waterford waywallingford pa 19086us<sep>
+</INVENTOR>
+<ABSTRACT>
+heterocyclic antisecretory derivatives of the formula:    where d is o, s or nh; e is ch or when d is o or s, e is  n; y is s, o, ch₂, so or a direct bond; m is o to 4 and n  is 1 to 4, provided that when y is s,o or so m is 1 to 4,  and when y is o or so, n is 2 to 4; a is a chain of 3 or 4  atoms comprising at least one c and also optionally s, n,  2n, or n and s, and also comprising c = o or c = s or  where possible so₂ and chain optionally substituted by 1  or 2 c(1-6)alkyl, benzyl, naphthylmethyl, 2-phenethyl, 4-phe­ nylbutyl, pyridylmethyl, thiazolylmethyl, thienylmethyl, ben­ zyloxy, pyridylmethoxy or phenoxymethyl radicals each op­ tionally substituted on the aromatic ring system by 1 to 3  halogen atoms or methyl, methoxy, trifluoromethyl, dime­ thylamino, phenyl or phenoxy radicals; and the salts there­ of.  a process for the manufacture of said compounds is  described; e. g.  2-guanidino-4[(2-aminomethyl)-thiomethyl]-­ thiazole gives by reaction with 5-4-chlorobenzyl)-2-methyl­ thiopyrimid-4-one 5-(4-chlorobenzyl)-2-[2-(2-guanidinothia­ zol-4-ylmethylthio)ethylamino]pyrimid-4-one.  
+</ABSTRACT>
+</TEXT>
+</DOC>

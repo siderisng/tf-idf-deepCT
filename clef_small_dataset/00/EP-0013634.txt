@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013634
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-3/153 <main>G06F-3/037</main> G05B-19/12 G05B-19/04 G06K-7/14 G06K-7/10 G04G-15/00 G06F-3/037 G06F-3/033 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic control or data transfer system with a two-dimensional display, e.g. a cathode ray tube.
+</TITLE>
+<APPLICANT>
+british broadcasting corpgb<sep>british broadcasting corporation<sep>british broadcasting corporationbroadcasting houselondon w1a 1aagb<sep>british broadcasting corporation<sep>
+</APPLICANT>
+<INVENTOR>
+jones arthur howard<sep>monteath george dewar<sep>jones, arthur howard<sep>monteath, george dewar<sep>jones, arthur howard17 masons fieldmannings heath horsham, sussexgb<sep>monteath, george dewar50 shelvers waytadworth, surreygb<sep>jones, arthur howard  <sep>monteath, george dewar<sep>jones, arthur howard17 masons fieldmannings heath horsham, sussexgb<sep>monteath, george dewar50 shelvers waytadworth, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+an electronic control system for a television receiver (12)  incorporates a light pen (10) which can be applied to selected  portions (16) of the screen (14).  these portions (16) are mod­ ulated at the field scan rate by data inputs such that  in successive television fields they are black or white in accor­ dance with the values 1 or 0 of the bits of the data.  the data can  be used to pre-programme the receiver, or alternatively sim­ ply stored or printed.  the light pen can also be used to read  bar codes (36) in a broadcasting periodical (38), and to distin­ guish whether the light pen is reading the crt or a bar code a  differentiator (42) and asymmetry detector (44) sense whether  the light pen output pulses have sharp or decaying trailing  edges.  in an alternative arrangement the light pen can be used  with a light emitting diode such as on a radio receiver or a  telephone.  
+</ABSTRACT>
+</TEXT>
+</DOC>

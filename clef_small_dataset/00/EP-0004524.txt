@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004524
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05D-23/19 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control unit for starting a climatization procedure in a building.
+</TITLE>
+<APPLICANT>
+tour & andersson abse   <sep>tour & andersson aktiebolag<sep>tour &amp; andersson absvärdlangsvägen 46s-121 72 johanneshovse<sep>
+</APPLICANT>
+<INVENTOR>
+christiansen joern uffedk<sep>christiansen, joern uffe<sep>christiansen, jörn uffehvidovre strandvej 48hvidovredk<sep>
+</INVENTOR>
+<ABSTRACT>
+in a control unit (18) for starting a climatization procedure in  a building to create agreeable climatic conditions at a pre-determined  time, and equivalent electric circuit is used to imitate  the thermal properties of the building.  a pulse generator (37) is  provided to generate pulses of a very high frequency, said  pulses being fed to a pulse frequency divider (39) which is, in  turn, connected to a decadic counter (41).  the end figure (5, 7, 9)  of the decadic suit of figures is used to start different steps in  the procedure.  
+</ABSTRACT>
+</TEXT>
+</DOC>

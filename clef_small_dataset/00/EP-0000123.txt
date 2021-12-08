@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000123
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/368 H01L-21/208 <main>C30B-19/00</main> C30B-19/06 H01L-21/02 C30B-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for growing monocrystalline layers from the liquid phase by the sliding boat system.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+hosp werner<sep>weyrich claus<sep>hosp, werner<sep>weyrich, claus<sep>hosp, wernermühlbauerstrasse 14d-8000 münchen 80de<sep>weyrich, clausuntertaxetweg 14d-8035 gautingde<sep>hosp, werner <sep>weyrich, claus<sep>hosp, wernermühlbauerstrasse 14d-8000 münchen 80de<sep>weyrich, clausuntertaxetweg 14d-8035 gautingde<sep>
+</INVENTOR>
+<ABSTRACT>
+A method of depositing a plurality of monocrystalline layers (111, 112, 121) simultaneously on a plurality of substrates (11, 12, 13) according to the principle of liquid phase sliding epitaxy, wherein the materials to be deposited in individual chambers (21, 22, 23) and whereinBoth the substrates (11, 12, 13) and the chambers (21, 22, 23) are arranged at equal intervals and at each separation operation the temperature of all melts in each case on a substrate (11, 12, 13)the same amount is lowered.
+</ABSTRACT>
+</TEXT>
+</DOC>

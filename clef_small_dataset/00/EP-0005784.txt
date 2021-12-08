@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005784
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-12/18 H04M-3/56 <main>H04L-11/18</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for establishing broadcast connections and conference call connections.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+condon denis myles<sep>condon, denis myles<sep>condon, denis myles1001 main streetriverton, new jersey 08077us<sep>condon, denis myles<sep>condon, denis myles1001 main streetriverton, new jersey 08077us<sep>
+</INVENTOR>
+<ABSTRACT>
+Conciloring system with cyclically sampled line connection circuits and a connection memory common for all line terminal circuits, in which the mapping criteria are stored via the respective lines to be connected for the duration of the respective connections in the form of addresses. For the construction of broadcast and conference compounds, in addition to the line terminal circuits, round writing connection circuits are provided, wherein the first Runwrinkrußschlußschaltung is connected in a group of round writing connection circuits with the inputs of the following broadcast connection circuits of the group for simultaneous transfer of message characters, and wherein associated with a calling line terminal circuit Storage cell in the connecting memory The address of the first broadcast connection circuit and in the memory cells associated with the following broadcast connection circuits are entered the addresses of the circuited line connection circuits involved in the broadcast operation.
+</ABSTRACT>
+</TEXT>
+</DOC>

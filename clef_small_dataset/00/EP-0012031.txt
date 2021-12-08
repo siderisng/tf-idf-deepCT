@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012031
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/403 G01N-27/28 <main>G01N-27/56</main> G01N-27/416 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for measuring ph.
+</TITLE>
+<APPLICANT>
+transidyne gen corpus<sep>transidyne general corporation<sep>transidyne general corporation903 airport drive p.o. box 1088ann arbor, michigan 48106us<sep>transidyne general corporation<sep>
+</APPLICANT>
+<INVENTOR>
+diamond howard<sep>enzer steven edmund<sep>flowers jr joseph<sep>diamond, howard<sep>enzer, steven edmund<sep>flowers jr., joseph<sep>diamond, howard1321 morningside driveann arbor, michigan 48103us<sep>enzer, steven edmund12740 monroe drivebrooklyn, michigan 49230us<sep>flowers jr., joseph1178 wendy streetann arbor, michigan 48103us<sep>diamond, howard<sep>enzer, steven edmund<sep>flowers jr., joseph <sep>diamond, howard 1321 morningside drive ann arbor, michigan 48103us<sep>enzer, steven edmund12740 monroe drivebrooklyn, michigan 49230us<sep>flowers jr., joseph1178 wendy streetann arbor, michigan 48103us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for measuring a chemical  characteristic of a liquid (52) such as its hydrogen ion activity  or ph value.  a disposable cassette (10) having a reference  electrode (30) and indicating electrode (24) therein utilizes the  same solution (38) to first calibrate the device and then as an  electrolytic bridge from the liquid sample to the reference  electrode.  the solution (38) has the properties of a buffered  ph and also provides a stable electrochemical environment  around the reference electrode (30).  in one embodiment, a  volume of a liquid sample is placed into a capillary tube (50)  and the open end of the tube is then placed overthe indicating  electrode (24) immersed in the solution (38).  the electrical  potential between the indicating electrode (24) and the spaced  reference electrode (30) in the electrolyte solution (38) pro­ vides a measurement of the ph value of the liquid (50) when  compared to the calibration potential previously measured  without the liquid sample contacting the indicating electrode  (24).  
+</ABSTRACT>
+</TEXT>
+</DOC>

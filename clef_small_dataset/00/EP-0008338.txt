@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008338
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-33/68</main> G01N-33/536 G01N-33/92 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the quantitative determination of a serum protein in turbid serum and plasma samples, and reagent for using this method.
+</TITLE>
+<APPLICANT>
+heuck claus christian dr dr<sep>heuck, claus-christian, dr. dr.<sep>heuck, claus-christian, dr. dr.birkenweg 20d-6901 wilhelmsfeldde<sep>heuck, claus-christian, dr. dr.<sep>
+</APPLICANT>
+<INVENTOR>
+heuck claus-christian dr dr<sep>heuck, claus-christian, dr. dr.<sep>heuck, claus-christian, dr. dr.birkenweg 20d-6901 wilhelmsfeldde<sep>heuck, claus-christian, dr. dr.  <sep>heuck, claus-christian, dr. dr.birkenweg 20d-6901 wilhelmsfeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for the quantitative determination of a serum protein, in particular Apolipo protein in trusted serum or plasma samples by turbidity measurement, in which the measurement is carried out after performing an immunological reaction with the corresponding antibody in the presence of a cationi surfactant of the general formula CH₃- (CH₂) MR (CH₂-CH₂-O) NH performs in which R is where Y is H or CH₃- (CH₂) Q, M and Q, equal or different, integers between 6 and 26, preferably between 6 and 18 , N is an integer between 7 and 50, preferably between 7 and 25 and x 7 or 8, wherein the surfactant is used in a concentration of 10⁻³ to 10⁻ vol%. The measurement can also be used after enzy matic degradation of the lipids and subsequent immuno logical reaction with the corresponding antibody in the presence of a nonionic surfactant of said general formula in the above meanings or wherein R 'is CH₃ or C₂H₅, M is a whole Number between 6 and 26, preferably between 7 and 18, n, an integer between 7 and 50, preferably between 7 and 25 and x 7 or 8, can be carried out. Further objects of the invention are the use of a surfactant of said General formula for serum preparation for a quantitative determination of an apolipoprotein and a means for serum preparation for the quantitative determination of an apolipoprotein, best hend from a mixture of at least one lipid degradation enzyme and a surfactant of the above-mentioned formula.
+</ABSTRACT>
+</TEXT>
+</DOC>

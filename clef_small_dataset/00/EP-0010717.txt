@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010717
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-267/12 A61K-31/553 A61P-25/00 A61K-31/55 C07D-267/14 C07D-267/00 A61P-25/04 <main>C07D-267/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+6,7-cycloalkano-1,4-oxazepines, process for their preparation and medicines containing them.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+lenke dieter dr<sep>treiber hans joerg dr<sep>worstmann wolfgang dr<sep>lenke, dieter, dr.<sep>treiber, hans joerg, dr.<sep>worstmann, wolfgang, dr.<sep>lenke, dieter, dr.kekuléplatz 1d-6700 ludwigshafende<sep>treiber, hans joerg, dr.erzbergerstrasse 40d-6831 bruehlde<sep>worstmann, wolfgang, dr.am bildstock 11d-6717 gruenstadtde<sep>lenke, dieter, dr.  <sep>treiber, hans joerg, dr.<sep>worstmann, wolfgang, dr.<sep>lenke, dieter, dr.kekuléplatz 1d-6700 ludwigshafende<sep>treiber, hans joerg, dr.erzbergerstrasse 40d-6831 bruehlde<sep>worstmann, wolfgang, dr.am bildstock 11d-6717 gruenstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to novity 1,4-cycloalkanooxazepines of the general formula wherein R¹ is a hydrogen atom, a hydroxy group or an alkoxy or acyloxy group having 1 to 4 carbon ato men, R² a hydrocarbon radical having 1 to 3 carbon ato men, n the number 1, 2 or 3and X represents the number 0 or 1, as well as their salts with physiologically acceptable acids;Method for their preparation;and their use in therapy.The new substances are suitable for pharmacothe rapies of pain states of different cause.
+</ABSTRACT>
+</TEXT>
+</DOC>

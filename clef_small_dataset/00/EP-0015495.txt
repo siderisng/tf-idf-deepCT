@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015495
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-30/70 G01N-30/00 G01N-27/64 G01N-27/62 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electron capture detector.
+</TITLE>
+<APPLICANT>
+hewlett packard cous<sep>hewlett-packard company <sep>hewlett-packard company3000 hanover streetpalo alto, california 94304us   <sep>
+</APPLICANT>
+<INVENTOR>
+kruger william pus<sep>mcmanigill douglasus<sep>neukermans armand pus<sep>sullivan james jus<sep>kruger, william p.<sep>mcmanigill, douglas<sep>neukermans, armand p.<sep>sullivan, james j.<sep>kruger, william p.26705 st. francis drivelos altos hills, california 94022us<sep>mcmanigill, douglas250 wilton avenuepalo alto, california 94303us<sep>neukermans, armand p.3510 arbutus avenuepalo alto, california 94303us<sep>sullivan, james j.1115 maplefield roadneward, delaware 19713us<sep>
+</INVENTOR>
+<ABSTRACT>
+An electron captured detector with a thermioni source, for example a heating thread (12), outputs electrons for the reaction in a source chamber (6).This contains an opening to a detection chamber (8) with a collector (22).Sample gas is introduced into the source chamber protection gas and in the detection chamber, and a vent fabric is provided in the detection chamber.
+</ABSTRACT>
+</TEXT>
+</DOC>

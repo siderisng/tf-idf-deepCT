@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010689
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01F-5/06 G11B-5/845 B01F-15/02 <main>G11B-5/84</main> B05D-5/12 G11B-5/84 C09D-5/23 C09D-7/12 G11B-5/68 G11B-5/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of laminar magnetic record carriers.
+</TITLE>
+<APPLICANT>
+basf ag de  <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+huebner werner dr<sep>mayer dieter dr<sep>motz herbert dr<sep>schaefer dieter dr dipl-chem<sep>huebner, werner, dr.<sep>mayer, dieter, dr.<sep>motz, herbert, dr.<sep>schaefer, dieter, dr., dipl.-chem.<sep>huebner, werner, dr.hauptstrasse 48cd-6710 frankenthalde<sep>mayer, dieter, dr.berner weg 28d-6700 ludwigshafende<sep>motz, herbert, dr.kinzigstrasse 9d-7601 willstaettde<sep>schaefer, dieter, dr., dipl.-chem.hauptstrasse 173d-6731 lindenbergde<sep>huebner, werner, dr.<sep>mayer, dieter, dr.  <sep>motz, herbert, dr.<sep>schaefer, dieter, dr., dipl.-chem.<sep>huebner, werner, dr.hauptstrasse 48cd-6710 frankenthalde<sep>mayer, dieter, dr.berner weg 28d-6700 ludwigshafende<sep>motz, herbert, dr.kinzigstrasse 9d-7601 willstaettde<sep>schaefer, dieter, dr., dipl.-chem.hauptstrasse 173d-6731 lindenbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing layered magnetogram carriers by dispersing a mixture of finely divided anisotropic magnetic material and additives in a solution of a polymer binder in organic dissolving agents, compressing and relaxing the disperser Sion via a valve formed as a nozzle (5, 6) with impact ring (7), subsequent layer-shaped application to a non-magnetizable carrier material.Aligning the ani sotropic magnetic material by means of a magnetic field and drying of the applied layer.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003030
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/39 H01L-27/06 G11C-11/403 H01L-27/07 G11C-11/34 G11C-11/405 <main>G11C-11/24</main> H01L-27/102 H01L-21/8229 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bipolar dynamic memory cell.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+el-kareh badih<sep>gersbach edwin john<sep>houghton james russell<sep>el-kareh, badih<sep>gersbach, edwin john<sep>houghton, james russell<sep>el-kareh, badihrfd no. 2 westford roadmilton vermont 05468us<sep>gersbach, edwin john500 south willard streetburlington vermont 050401us<sep>houghton, james russell40 pleasant streetessex junction vermont 05452us<sep>el-kareh, badih  <sep>gersbach, edwin john <sep>houghton, james russell<sep>el-kareh, badihrfd no. 2 westford roadmilton vermont 05468us<sep>gersbach, edwin john500 south willard streetburlington vermont 050401us<sep>houghton, james russell40 pleasant streetessex junction vermont 05452us<sep>
+</INVENTOR>
+<ABSTRACT>
+A dynamic bipolar memory cell is specified, which consists of two complementary, respectively connected between base and collector transistors, and the PNP transistor serves as a read transistor and the NPN transistor as a write transistor and wherein the storage between the base of the reading transistor and the collectorThe writing transistors is located.The memory point is connected to a first capacitance which is above the emitter base section of the reading transistor, having a second capacitor which is located above the base collector path of the NPN transistor and with a third capacitor, between a fixed potential and a common point betweenCollector of the reading transistor and the base of the write transistor.
+</ABSTRACT>
+</TEXT>
+</DOC>

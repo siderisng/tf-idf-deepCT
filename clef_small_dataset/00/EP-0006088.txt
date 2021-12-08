@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006088
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B64C-27/00 F16F-15/02 F16F-7/116 F16F-7/10 <main>F16F-15/06</main> B64C-27/51 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tuned spring-mass vibration absorber.
+</TITLE>
+<APPLICANT>
+united technologies corpus<sep>united technologies corporation<sep>united technologies corporationunited technologies building 1, financial plazahartford, ct 06101us<sep>united technologies corporation <sep>
+</APPLICANT>
+<INVENTOR>
+marshall john ii<sep>marshall, john ii<sep>marshall, john ii58 currier placecheshire, connecticut 06410us<sep>marshall, john ii <sep>marshall, john ii58 currier placecheshire, connecticut 06410us<sep>
+</INVENTOR>
+<ABSTRACT>
+a tuned spring-mass vibration absorber in which a  dynamic mass is suspended from a vibrating support  member, such as a helicopter fuselage, by a plurality of  cantilevered leaf springs integrally connected to the dynamic  mass at selected stations so that the mass cg and the spring  center of force are coincident, so that the springs are shaped  to constitute a substantial part of the vibration absorber  effective mass, and so that the springs are pivotally connected  to the support member so as to impart no moments  thereto.  
+</ABSTRACT>
+</TEXT>
+</DOC>

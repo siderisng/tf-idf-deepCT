@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017251
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G04F-10/04 <main>G01R-23/02</main> G01R-23/00 G04F-10/00 G01R-23/10 G01R-23/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuitry for determining the mean period length of a periodical signal.
+</TITLE>
+<APPLICANT>
+kernforschungsanlage juelichde<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>forschungszentrum jülich gmbhwilhelm-johnen-strasse52425 jülichde<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung  <sep>
+</APPLICANT>
+<INVENTOR>
+fremerey johan k dr<sep>fremerey, johan k., dr.<sep>fremerey, johan k., dr.mönkemöllerstrasse 19d-5300 bonn 1de<sep>fremerey, johan k., dr.<sep>fremerey, johan k., dr.mönkemöllerstrasse 19d-5300 bonn 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+To determine the middle period duration, pulse sums are formed by means of a counted or stopped counted device released in the clock of the periodic signal, the pulses come from a frequency-stable timetable rator. In order to obtain values ​​for the average period duration in the short intervals as possible and with high accuracy, in the circuit arrangement a data register (4) provided for receiving the pulse sums (4) with Minde Stens two memory locations (5) is provided, which via a command clock synchronous with the periodic signal can be controlled from the outside. In addition, the circuit device has a feeding mill (6) followed up to the data register, which with the specifications for the formation of the sum of the data register of the data register in electrical connection is that at the output (7) of the circuit arrangement, the sum of a predetermined number of successively stored pulse sums are available.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010205
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/7064 C07H-19/06 A61P-35/00 A61P-31/00 C07H-19/12 A61P-31/12 C07H-19/00 A61K-31/7072 A61K-31/70 C07H-19/09 <main>C07H-19/06</main> A61K-31/706 A61K-31/7042 A61P-31/04 A61K-31/7068 A61K-31/7052 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+5-substituted 1-(2'-deoxy-2'-substituted-beta-d-arabinofuranosyl) pyrimidine nucleosides and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+sloan kettering inst cancerus<sep>sloan-kettering institute for cancer research<sep>sloan-kettering institute for cancer research1275 york avenue new york, new york 10021 us <sep>sloan-kettering institute for cancer research <sep>
+</APPLICANT>
+<INVENTOR>
+fox jack j<sep>lopez carlos<sep>reichman uri<sep>watanabe kyoichi a<sep>fox, jack j.<sep>lopez, carlos<sep>reichman, uri<sep>watanabe, kyoichi a.<sep>fox, jack j.424 south lexington avenuewhite plains, n.y. 10606us<sep>lopez, carlos333 east 69th streetnew york, n.y. 10021us<sep>reichman, uri12 marlette placewhite plains, n.y. 10605us<sep>watanabe, kyoichi a.28 wilton roadportchester, n.y. 10573us<sep>fox, jack j.<sep>lopez, carlos  <sep>reichman, uri<sep>watanabe, kyoichi a.<sep>fox, jack j.424 south lexington avenuewhite plains, n.y. 10606us<sep>lopez, carlos333 east 69th streetnew york, n.y. 10021us<sep>reichman, uri12 marlette placewhite plains, n.y. 10605us<sep>watanabe, kyoichi a.28 wilton roadportchester, n.y. 10573us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  pyrimidine nucleosides exhibiting anti-viral and  anti-tumor effects have the formula    wherein   a is or³, sr³, nr³r⁴ or nhacyl wherein r³ and r⁴ are the  same or different and are hydrogen, lower alkyl of 1 to 7  carbon atoms, aralkyl, or aryl;   nhacyl is alkanoyl or aroyl amide;   b is oxygen or sulfur;   x is halogen, alkylsulfonyl or arylsulfonyl;   y is halogen, amino, monoalkyl- or monoaralkylamino,  dialkylamino, aminomethyl, hydroxymethyl, lower alkyl, aryl,  aralkyl, vinyl and substituted vinyl or ethynyl and substituted  ethynyl;   z is methyne or nitrogen;   r¹ and r² are the same or different and are hydrogen acyl  or aroyl.  
+</ABSTRACT>
+</TEXT>
+</DOC>

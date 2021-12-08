@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004259
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-15/24 G02F-1/09 <main>G01R-15/07</main> G01J-4/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+faraday effect current measuring device and method of its use.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+harms hauke<sep>papp alfred dr<sep>harms, hauke<sep>papp, alfred, dr.<sep>harms, haukeannette-kolb-anger 11d-8000 münchende<sep>papp, alfred, dr.winternitzstrasse 6d-8000 münchende<sep>harms, hauke  <sep>papp, alfred, dr.<sep>harms, haukeannette-kolb-anger 11d-8000 münchende<sep>papp, alfred, dr.winternitzstrasse 6d-8000 münchende<sep>
+</INVENTOR>
+<ABSTRACT>
+An arrangement for magneto-optical current measurement with a linearly polarized light beam is described.The measuring section contains an analyzer (8) with two mutually perpendicular passing directions, and in one of the partial beams (P 2), a light deflector (16) is provided which directs the partial beam (P 2) alternately with high frequency to a detector (10)which is arranged in the second partial beam (P 1).The detector (10) alternately receives the measurement signal with the noise proportion and only the noise content.
+</ABSTRACT>
+</TEXT>
+</DOC>

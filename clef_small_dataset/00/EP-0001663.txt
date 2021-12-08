@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001663
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-239/14</main> A61P-31/00 C07D-409/12 C07D-333/00 C07D-409/00 C07D-239/16 A61K-31/415 C07D-239/00 C07D-405/00 A01N-43/50 A01P-3/00 A01N-43/48 C07D-405/12 A61P-31/04 C07D-239/14 C07D-233/00 A61K-31/505 C07F-3/00 C07D-233/50 A01N-43/54 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+novel 2-arylamino-hexahydropyrimidines and -imidazolidines, salts and complexes thereof, method of preparing the novel compounds and fungicidal compositions which contain the novel compounds.
+</TITLE>
+<APPLICANT>
+duphar int resnl<sep>duphar international research b.v<sep>duphar international research b.vc.j. van houtenlaan 36nl-1381 cp weespnl<sep>duphar international research b.v<sep>
+</APPLICANT>
+<INVENTOR>
+dolman hendrik<sep>kuipers johannes<sep>dolman, hendrik<sep>kuipers, johannes<sep>dolman, hendrikoctrooibureau zoan b.v. apollolaan 151amsterdamnl<sep>kuipers, johannesoctrooibureau zoan b.v. apollolaan 151amsterdamnl<sep>dolman, hendrik<sep>kuipers, johannes<sep>dolman, hendrikoctrooibureau zoan b.v. apollolaan 151amsterdamnl<sep>kuipers, johannesoctrooibureau zoan b.v. apollolaan 151amsterdamnl<sep>
+</INVENTOR>
+<ABSTRACT>
+2-arylamino-hexahydropyrimidines and imidazolidines  of formula    wherein n is 0 or 1,  r₁ and r₂, equal or different, represent hydrogen, alkyl,  alkyloxy or alkylthio having from 4 to 12 carbon atoms, cycloalkyl  having from 3 to 7 carbon atoms, bezyloxy, benzylthio,  phenoxy or phenylthio optionally substituted with halogen or  c₁-c₄ alkyl, phenylalkyl having from 7 to 11 carbon atoms, of  which the phenyl group is optionally substituted with  halogen, dialkylamino, or with alkyl, alkoxy or alkylthio, which  alkyl, alkoxy or alkylthio have from 1 to 6 carbon atoms and  are optionally halogenated, furylalkyl or thienylalkyl of which  the alkyl groups have from 1 to 4 carbon atoms, dialkylamino  of which the alkyl has from 2 to 6 carbon atoms, or alkoxycarbonyl  having from 4 to 12 carbon atoms, or wherein r₁ and r₂  together represent trimethylene, tetramethylene or  butadienylene with the proviso that r₁ and r₂ are not both  hydrogen atoms, r₃, r₄, r₇ and r₈, equal or different, represent  hydrogen or alkyl having from 1 to 4 carbon atoms, and r₅  r₆, equal or different, represent hydrogen, alkyl having  from 1 to 4 carbon atoms or alkanoyl having from 2 to 5 carbon  atoms, as well as salts and complexes of these compounds,  have fungicidal activity.  the compounds are particularly active against rust of  beans, brown rust of wheat and milden on cereas.  after having been processed to compositions, the compounds  can be used successfully to prevent or control mould  infections in agriculture and horticulture in a dosage of 200-1000g.   of active substance per hectare.  very active fungicides  are 2-(4-cyclohexyl-phenyl)- iminohexahydropyrimidine and  2-(4-n-hexyl- phenyl)- iminohexahydropyrimidine, as well as  the sulphuric acid salts of these compounds and complexes  with zinc salts.  
+</ABSTRACT>
+</TEXT>
+</DOC>

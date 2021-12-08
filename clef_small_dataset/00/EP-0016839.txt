@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016839
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04B-19/04 B05B-11/00 <main>B05B-11/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sprayer used in both standing and over turning attitudes.
+</TITLE>
+<APPLICANT>
+yoshino kogyosho co ltdjp<sep>yoshino kogyosho co., ltd.<sep>yoshino kogyosho co., ltd.no. 2-6, ojima 3-chome, koto-kutokyo 136 jp<sep>yoshino kogyosho co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+hinokiyama minoru  <sep>kishi takao<sep>nozawa takamitsu<sep>hinokiyama, minoru<sep>kishi, takao<sep>nozawa, takamitsu<sep>hinokiyama, minoruyoshino kogyosho co. ltd.3-2-6 ojima koto-ku, tokyo 136jp<sep>kishi, takaoyoshino kogyosho co. ltd.3-2-6 ojima koto-ku, tokyo 136jp<sep>nozawa, takamitsu2-17-10 kamiogisuginami-ku, tokyo 167jp<sep>hinokiyama, minoru  <sep>kishi, takao<sep>nozawa, takamitsu<sep>hinokiyama, minoruyoshino kogyosho co. ltd.3-2-6 ojima koto-ku, tokyo 136jp<sep>kishi, takaoyoshino kogyosho co. ltd.3-2-6 ojima koto-ku, tokyo 136jp<sep>nozawa, takamitsu2-17-10 kamiogisuginami-ku, tokyo 167jp<sep>
+</INVENTOR>
+<ABSTRACT>
+A vaporizer may drive the air into a pressure chamber (7) of a pumping mechanism (2) so as to admit only liquid, in the two straight and reverse positions.According to this invention, a conventional pumping mechanism (2) is provided with a renovated intake passage (15) which is open at one end on the pressure chamber (7) and at the other end on the part.External from the SOM puts the pumping mechanism (2).The spilled intake (15) has an on / off control valve (13a) that can be opened when the pressure of the chamber (7) becomes greater than a predetermined negative pressure in the reverse position.
+</ABSTRACT>
+</TEXT>
+</DOC>

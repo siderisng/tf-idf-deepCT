@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003289
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02G-5/00 <main>H02G-5/00</main> H01R-31/02 H01R-31/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bus bar with terminal lugs.
+</TITLE>
+<APPLICANT>
+knudsen nordisk electdk<sep>aktieselskabet laur. knudsen nordisk elektricitets selskab  <sep>aktieselskabet laur. knudsen nordisk elektricitets selskabharaldsgade 53dk-2100 kopenhagen odk<sep>aktieselskabet laur. knudsen  nordisk elektricitets selskab <sep>
+</APPLICANT>
+<INVENTOR>
+just kristian<sep>just, kristian<sep>just, kristianmelstedvej 3dk-2770 kastrupdk<sep>just, kristian <sep>just, kristianmelstedvej 3dk-2770 kastrupdk<sep>
+</INVENTOR>
+<ABSTRACT>
+a bus bar is described which may be made of copper  strip in a u-shaped cross section.  terminal lugs (3a, 3b) for  use with spade connectors are integral with the bus bar and  are punched in the web (1) and subsequently bent inwards  into the space between the side flanges (4a, 4b) in the  u-shaped cross section.  
+</ABSTRACT>
+</TEXT>
+</DOC>

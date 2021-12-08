@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001512
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01C-7/04</main> H01C-7/04 G01N-27/409 G01N-27/04 G01N-27/12 G01N-27/16 G01N-27/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas sensor.
+</TITLE>
+<APPLICANT>
+ford francegb<sep>ford motor co gb<sep>ford werke ag gb  <sep>ford france societe anonyme<sep>ford motor company<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor companythe american roaddearborn, mi 48121us<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company<sep>ford motor company limited <sep>ford-werke aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+mcdonald william roy<sep>mcdonald, william roy<sep>mcdonald, william roy2371 lake-in-the-woods blvdypsilanti michigan 48197us<sep>mcdonald, william roy  <sep>mcdonald, william roy2371 lake-in-the-woods blvdypsilanti michigan 48197us<sep>
+</INVENTOR>
+<ABSTRACT>
+a gas sensor comprises two ceramic sensor members  (44, 46) connected electrically in series and arranged for  exposure to the hot gaseous combustion by-products produced  by an internal combustion engine.  one (46) of the  ceramic sensor members is a variably resistive partial pressure  of oxygen responsive and temperature responsive  ceramic, such as, for example, titania.  the other (44) of  the ceramic sensor members is a variably resistive temperature  responsive ceramic thermistor.  the sensor members  are positioned in the exhaust gas conduit by a ceramic  insulator (36) having a plurality of longitudinal passages  extending therethrough.  a plurality of electrical terminal  members (48, 50, 52) are received within the rear of the  longitudinal passages.  electrical leads (54, 56, 58, 60)  extend from the chips to the terminal members (48, 50, 52)  through a plurality of passages and support the chips (44,  46) while providing electrical communication between the  chips and the electrical terminals.  the electrical terminals  (48, 50, 52) are adapted for communication to electronic  and/or electrical utilization means.  the partial pressure of  oxygen responsive exhaust gas sensor member (46) exhibits  a rapid change in an electrical property responsive  to differences in the exhaust gas chemistry and to differences  in exhaust gas temperature.  the thermistor sensor  member (44) exhibits a similarly rapid change in an electrical  property responsive to differences in exhaust gas  temperature.  for temperatures in the range of from about  700°f (370°c) to about 1500°f (815°c), the application  of a reference voltage across the series connected ceramic  sensor members (44, 46) will produce a voltage variation  across either chip in response to changes in exhaust gas  chemistry which is substantially temperature independent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

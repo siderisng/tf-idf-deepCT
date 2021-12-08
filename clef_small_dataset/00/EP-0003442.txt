@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003442
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24J-2/34 F24J-2/04 <main>F24J-3/00</main> F28D-20/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat absorbing panel.
+</TITLE>
+<APPLICANT>
+architectural res corpus<sep>architectural research corporation  <sep>architectural research corporation13030 wayne roadlivonia michigan 48150us<sep>architectural research corporation <sep>
+</APPLICANT>
+<INVENTOR>
+johnson timothy e<sep>prusinski richard c<sep>johnson, timothy e.<sep>prusinski, richard c.<sep>johnson, timothy e.197 cypress streetnewton centre massachusettsus<sep>prusinski, richard c.7533 hartwelldearborn michiganus<sep>johnson, timothy e.<sep>prusinski, richard c.  <sep>johnson, timothy e.197 cypress streetnewton centre massachusettsus<sep>prusinski, richard c.7533 hartwelldearborn michiganus<sep>
+</INVENTOR>
+<ABSTRACT>
+a building panel, such as a wall or ceiling tile, is  provided which is capable of absorbing heat at normal room  temperatures and radiating the absorbed heat on cooling.   the panel comprises an outer casing (12, 14) having at least  one thin, generally planar cavity (16) which contains a phase  change material (42), such as aqueous glauber salts, which  undergoes a phase change within the range of normal room  temperatures.  the thickness of the cavity is normally less  than 6. 5 mms so as to avoid separation of constituents of the  phase change material over several hundred phase change  cycles.  
+</ABSTRACT>
+</TEXT>
+</DOC>

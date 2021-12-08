@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011807
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-11/16 H02P-9/10 H02P-9/14 G05B-5/01 H02J-3/24 <main>H02P-9/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuitry for damping power oscillations in networks.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+kaufhold wolfgang dipl-ing<sep>ott gunther dipl-ing<sep>kaufhold, wolfgang, dipl.-ing.<sep>ott, gunther, dipl.-ing.<sep>kaufhold, wolfgang, dipl.-ing.lannersberg 15d-8520 erlangende<sep>ott, günther, dipl.-ing.friedrich-bauer-strasse 1d-8520 erlangende<sep>kaufhold, wolfgang, dipl.-ing. <sep>ott, gunther, dipl.-ing.<sep>kaufhold, wolfgang, dipl.-ing.lannersberg 15d-8520 erlangende<sep>ott, günther, dipl.-ing.friedrich-bauer-strasse 1d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The circuit arrangement for damping Lei unit spending in networks works with signals derived from effective power changes that influence the genes rator excitation.For this purpose, the power to be monitored is supplied to the inputs of two vector identifiers (VI1, VI2) each with a direct (A11, A21) and a phase-shifted output (A12, A22).The above outputs are supplied to a summing member (S1, S2) on adaptation members (011, 012, 021, 022) and their outputs each of a further adaptation member (03, 04) are switched to an additional summing member (S3) to which thewith increasing pendulum frequency appears mathematically changing overall signal.
+</ABSTRACT>
+</TEXT>
+</DOC>

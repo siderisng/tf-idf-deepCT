@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010003
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08C-17/00 G01P-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for obtaining an electrical signal proportional to a number of movements and as such capable of detecting all movements or accelerations.
+</TITLE>
+<APPLICANT>
+tech et commerciales d automatfr<sep>societe d'etudes techniques et commerciales d'automation s.e.t.e.c.a. (societe anonyme)<sep>societe d'etudes techniques et commerciales d'automation s.e.t.e.c.a. (société anonyme)150, grand'rueheillecourt f-54140 jarvillefr<sep>
+</APPLICANT>
+<INVENTOR>
+dumont claudefr<sep>dumont, claude<sep>dumont, claude27, rue de la tournelle heillecourtf-54140 jarvillefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a device for obtaining an electrical signal proportional to a quantity of movement and, thus capable of detecting any movement, and adapted in particular to an individual isation signal for the rapid detection ofaccident.This device is characterized by the fact that, on the one hand, it comprises a ball (119) embedded in an electric photo field and which can move in space, and that the received field is proportional to the movement, and in thatthat, on the other hand, the detection of the movement can be realized in space and that it is programmable.The invention relates to the detection of a programmable movement.
+</ABSTRACT>
+</TEXT>
+</DOC>

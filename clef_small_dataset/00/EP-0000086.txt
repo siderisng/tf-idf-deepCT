@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000086
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-59/14 <main>C08G-59/14</main> C09D-5/44 C09D-163/00 C08G-59/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+resin binders containing amino groups and process for their preparation.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v. carel van bylandtlaan 30nl-2596 hr den haagnl <sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+kooymans petrus gerardus<sep>raudenbusch werner theodor<sep>schreurs gerardus cornelis mar<sep>seelen-kruyssen josepha maria<sep>kooymans, petrus gerardus<sep>raudenbusch, werner theodor<sep>schreurs, gerardus cornelis maria<sep>seelen-kruyssen, josepha maria elisabeth<sep>kooymans, petrus gerardusbadhuisweg 3nl-1031 cm amsterdamnl<sep>raudenbusch, werner theodorbadhuisweg 3nl-1031 cm amsterdamnl<sep>schreurs, gerardus cornelis mariabadhuisweg 3nl-1031 cm amsterdamnl<sep>seelen-kruyssen, josepha maria elisabethbadhuisweg 3nl-1031 cm amsterdamnl<sep>kooymans, petrus gerardus<sep>raudenbusch, werner theodor<sep>schreurs, gerardus cornelis maria<sep>seelen-kruyssen, josepha maria elisabeth <sep>kooymans, petrus gerardus badhuisweg 3 nl-1031 cm amsterdamnl<sep>raudenbusch, werner theodorbadhuisweg 3nl-1031 cm amsterdamnl<sep>schreurs, gerardus cornelis mariabadhuisweg 3nl-1031 cm amsterdamnl<sep>seelen-kruyssen, josepha maria elisabethbadhuisweg 3nl-1031 cm amsterdamnl<sep>
+</INVENTOR>
+<ABSTRACT>
+resinous binders for cathodic electrodeposition, containing  tertiary amino groups and derived from amines, diglycidyl  ethers of dihydric phenols, are substituted by one or  more groups derived from a glycidyl ester of a monocarboxylic  acid, preferably an alpha-branched saturated aliphatic  acid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

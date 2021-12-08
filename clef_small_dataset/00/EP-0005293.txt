@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005293
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07C-45/82 C07C-45/33 C07C-45/39 C07C-49/403 <main>C07C-45/37</main> C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for the production of cyclohexanone.
+</TITLE>
+<APPLICANT>
+stamicarbonnl<sep>stamicarbon b.v.<sep>stamicarbon b.v.mijnweg 1nl-6167 ac geleennl<sep>stamicarbon b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+delahaye hubertus johannes alo<sep>van de mond theodorus johannes<sep>delahaye, hubertus johannes aloysius<sep>van de mond, theodorus johannes<sep>delahaye, hubertus johannes aloysiusspekhouwerstraat 63nl-6367 tt voerendaalnl<sep>van de mond, theodorus johannesoranjelaan 10nl-6166 br geleennl<sep>delahaye, hubertus johannes aloysius  <sep>van de mond, theodorus johannes <sep>delahaye, hubertus johannes aloysiusspekhouwerstraat 63nl-6367 tt voerendaalnl<sep>van de mond, theodorus johannesoranjelaan 10nl-6166 br geleennl<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for the preparation of cyclohexanone, wherein benzene in the gas phase hydrogenated to cyclohexane which oxidizes cyclohexane in the liquid phase with oxygen or an oxygen-containing gas to a cyclohexanol-containing mixture and dehydrate the cyclohexanone catalytically to cyclohexanone thus obtained. As a by-product, hydrogen gas is applied, but as a result of the organic impurities contained therein for chemical syntheses is generally unsuitable. According to the invention, the dehydrogenation reaction mixture is separated from the dehydrogenation reaction mixture cyclohexanone and unreacted cyclohexanol, the remaining mainly made of hydrogen gas mixture is washed with cyclohexane or benzene and then directs the gas into the hydrogenation zone. The method according to the invention offers significant savings of hydrogen gas in the hydrogenation of the benzene while maintaining a long service life of the hydrogenation catalyst, a high reaction rate and a high yield hydrogenation. The advantages of the invention are particularly expressed if the hydrogenation of benzene in the gas phase is carried out with a metal from the platinum group as a catalyst.
+</ABSTRACT>
+</TEXT>
+</DOC>

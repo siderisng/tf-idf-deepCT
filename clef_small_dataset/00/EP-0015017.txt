@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015017
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24J-2/32 <main>F24J-3/02</main> F24J-2/04 F24J-2/42 F24J-2/44 F24J-2/05 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat transport tube solar collector and system comprising at least such a collector.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+bloem herman<sep>bloem, herman<sep>bloem, hermanc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>bloem, herman  <sep>bloem, hermanc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+the condenser end portion (16) of the heat pipe (1) is in  open communication with a duct (5) wherethrough a heat  absorbing liquid flows for a direct exchange of heat between  the vapour formed in the heat pipe and the liquid.  
+</ABSTRACT>
+<DESCRIPTION>
+"heat pipe solar collector system", the invention relates to a solar energy collecting system, comprising at least one solar collector with at least one heat pipe which comprises an end portion which is sealed at its free end and which comprises an evaporation zone, and an end portion with a condensation zone which is arranged at a level which is higher than that of the evaporation zone during operation, a quantity of evaporable heat transport medium which is present in the heat pipe and which evaporates in the evaporation zone during operation and which condenses in the condensation zone by giving off heat to a liquid medium flowing through a duct. a solar energy collecting system of the described kind is known from united states patent specification 4,119,085. the heat pipe of the known system consists of a sealed tube. the condenser part of the tube has connected to it a metal flange which provides, by intimate contact with a metal element on the duct system for the heat absorbing medium, a heat-conductive connection between a heat transport medium in the tube and the heat absorbing medium in the duct system. the metal flange and the metal element are firmly held together, for example, by means of bolts, and the transfer of heat can be improved by application of a suitably heat conductive agent, such as grease, between the flange and the element. the known solar energy collecting system has some drawbacks. the heat exchanger formed by the condenser wall, the flange, the element and the wall of the duct system makes the construction complex and expensive. moreover, the heat exchanger introduces thermal efficiency losses. furthermore, when a plurality of solar collectors are used in a panel, a comparatively large part of the panel -surface is occupied by the heat exchanger, so that the effective collector surface is comparatively small. moreover, the weight of such a solar panel is comparatively large. the present invention has for its object to provide an improved solar energy collecting system of the described kind which has a simpler and cheaper con struction, a higher thermal efficiency and a reduced weight and volume. in order to realize this object, the solar collector in accordance with the invention is characterized in that at the area of the condensation zone the heat pipe is in open communication with theduct for a direct exchange of heat between the two media. the condenser end portion of the heat pipe can be simply connected to the duct system in open communication therewith. during operation, the vapour developed in the heat pipe condenses against the colder liquid in the duct system in direct contact with this liquid. due to the absence of a heat exchanger wall between the vapour and the liquid, the thermal efficiency of the system is high and the system as such has a simple construction, is compact and its weight is low. the invention furthermore relates to a heat pipe solar collector which is suitable for use
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a solar energy collecting system, comprising at least one solar collector with at least one heat pipe which comprises an end portion which is sealed at its free end and which comprises an evaporation zone, and an end portion with a condensation zone which is arranged at a level which is higher than that of the evaporation zone during operation, a quantity of evaporable heat transport medium which is present in the heat pipe and which evaporates in the evaporation zone during operation and which condenses in the condensation zone by giving off heat to a liquid medium flowing through a duct, characterized in that at the area of the condensation zone the heat pipe is in open communication with the duct for a direct exchange of heat between the two media.    2. a solar collector, comprising at least one heat pipe which comprises at its free end a sealed end portion with an evaporation zone which receives solar radiation during operation and an end portion with a condensation zone which is arranged at a level which is higher than that of the evaporation zone during operation, characterized in that the heat pipe end at the area of the condensation zone is constructed to be open.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010950
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-67/00 F16H-61/21 <main>B60T-1/06</main> B60T-1/06 F16H-59/04 F16H-63/02 F16H-63/12 F16H-63/08 F16H-61/00 B60T-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+retarding means for motor vehicles.
+</TITLE>
+<APPLICANT>
+volvo abse<sep>a.b.±volvo<sep>a.b. volvop.o. box 382s-405 09 goteborgse<sep>a.b. volvo  <sep>
+</APPLICANT>
+<INVENTOR>
+miller albert arthur<sep>wilson andrew gordon<sep>miller, albert arthur<sep>wilson, andrew gordon<sep>miller, albert arthurcaddon lodge 4 whytbank rowclovenford galashiels td1 3negb<sep>wilson, andrew gordonhatch househartley wintney hampshiregb<sep>miller, albert arthur<sep>wilson, andrew gordon<sep>miller, albert arthurcaddon lodge 4 whytbank rowclovenford galashiels td1 3negb<sep>wilson, andrew gordonhatch househartley wintney hampshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a change-speed transmission in which gear-ratios are  established by engagement of appropriate fluid-pressure  operated friction brakes and clutches (cf, cr, b3, b2,  b1) includes a manually-operable control (41) for partially-­ engaging, to provide retardation of a vehicle, those fric­ tion brakes and/or clutches not in use at any time in  establishing a particular gear-ratio.  the control (41)  operates valves (23, 22, 21, 33, 32, 31) which ensure that  the rates of power absorption per unit friction area in all  partially-engaged brakes and/or clutches is approxi­ mately equal and that the degree of retardation so  provided decreases with each down-shift of the trans­ mission.  
+</ABSTRACT>
+</TEXT>
+</DOC>

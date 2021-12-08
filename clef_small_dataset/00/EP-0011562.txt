@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011562
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12N-9/78 C12P-19/00 C12N-9/88 <main>C12N-15/00</main> C12P-19/34 C12N-15/81 C12N-9/24 C12N-15/09 C12N-1/16 C12N-9/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+saccharomyces cer. transformed by a plasmid.
+</TITLE>
+<APPLICANT>
+anvarfr<sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche  <sep>anvar agence nationale de valorisation de la recherche<sep>
+</APPLICANT>
+<INVENTOR>
+aigle michel<sep>blanc hughes<sep>fournier philippe<sep>gerbaud claude<sep>guerineau michel<sep>heslot henri prof<sep>lacroute francois prof<sep>aigle, michel <sep>blanc, hughes <sep>fournier, philippe<sep>gerbaud, claude<sep>guerineau, michel<sep>heslot, henri, prof.<sep>lacroute, francois, prof.<sep>aigle, michel151, route burkel67400 illkirch-graffemstadenfr<sep>blanc, hughes71,av. du général leclerc résidence aquitaine iif-92100 boulogne billancourtfr<sep>fournier, philippe19 bis, bld de la républiquef-78000 versaillesfr<sep>gerbaud, claude3, allée dunant93220 gagnyfr<sep>guerineau, michel45, rue st-placidef-75006 parisfr<sep>heslot, henri, prof.29, rue rousseletparis 7fr<sep>lacroute, françois, prof.20, rue de copenhague67000 strasbourgfr<sep>aigle, michel<sep>blanc, hughes<sep>fournier, philippe<sep>gerbaud, claude<sep>guerineau, michel<sep>heslot, henri, prof.<sep>lacroute, francois, prof.<sep>aigle, michel<sep>blanc, hughes<sep>fournier, philippe<sep>gerbaud, claude<sep>guerineau, michel<sep>heslot, henri, prof.<sep>lacroute, francois, prof. <sep>aigle, michel151, route burkel67400 illkirch-graffemstaden fr   <sep>blanc, hughes71,av. du général leclerc résidence aquitaine iif-92100 boulogne billancourtfr<sep>fournier, philippe19 bis, bld de la républiquef-78000 versaillesfr<sep>gerbaud, claude3, allée dunant93220 gagnyfr<sep>guerineau, michel45, rue st-placidef-75006 parisfr<sep>heslot, henri, prof.29, rue rousseletparis 7fr<sep>lacroute, françois, prof.20, rue de copenhague67000 strasbourgfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to hybrid plasmids.It is a hybrid plasmid comprising at least the DNA of the yeast plasmid 2 μ and a DNA segment containing the yeast ura₃ gene.These plasmids are useful as DNA vectors exo gene in yeasts.
+</ABSTRACT>
+</TEXT>
+</DOC>

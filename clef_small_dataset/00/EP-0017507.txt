@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017507
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-35/66 A61K-39/395 A61K-35/74 <main>C07G-7/00</main> A61P-43/00 A61K-37/02 A61K-47/48 A61P-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+antitumor protein hybrid and process for the preparation thereof.
+</TITLE>
+<APPLICANT>
+teijin ltdjp<sep>teijin limited<sep>teijin limited11 minami honmachi 1-chome higashi-kuosaka-shi osaka-fujp<sep>teijin limited<sep>
+</APPLICANT>
+<INVENTOR>
+hara takeshi<sep>masuho yasuhiko<sep>noguchi teruhisa<sep>hara, takeshi<sep>masuho, yasuhiko<sep>noguchi, teruhisa<sep>hara, takeshi1296-98, katakura-chohachioji-shi tokyojp<sep>masuho, yasuhiko15-6, tamdaira 5-chomehino-shi tokyojp<sep>noguchi, teruhisa8-11, kugenumakaigan 2-chomefujisawa-shi kanagawa-kenjp<sep>hara, takeshi<sep>masuho, yasuhiko<sep>noguchi, teruhisa<sep>hara, takeshi1296-98, katakura-chohachioji-shi tokyojp<sep>masuho, yasuhiko15-6, tamdaira 5-chomehino-shi tokyojp<sep>noguchi, teruhisa8-11, kugenumakaigan 2-chomefujisawa-shi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+antitumor protein hybrid, composed of a moiety which  is substantially the fragment fab of an antitumor immuno­ globulin and a moiety which is substantially the fragment a  of a diphtheria toxin, which is expressed by the following  formula (i):   fab(s₁-(x)n-s₂-fa)m (i)   (where fab indicates a moiety which is substantially the  fragment fab of an antitumor immunoglobulin; fa indicates  a moiety which is substantially the fragment a of a  diphtheria toxin; x indicates a divalent organic radical; s₁  and s₂ are both sulfur atoms, s₁ indicating a sulfur atom  arising from the disulfide bond (-s-s- bond) in an immuno­ globulin and s₂ a sulfur atom arising from the disulfide bond  in a diphtheria toxin; n stands for 0 or 1 and m stands for an  integer of 1 to 5).  this antitumor protein hybrid has  remarkable and specific citotoxicity against tumor cells.  
+</ABSTRACT>
+</TEXT>
+</DOC>

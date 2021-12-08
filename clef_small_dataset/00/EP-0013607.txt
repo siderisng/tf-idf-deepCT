@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013607
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-69/738 C07C-323/12 C07C-323/00 C07C-69/732 C07C-69/716 C07C-231/00 C07C-59/13 C07D-307/60 C07C-59/325 C07C-255/31 A61P-7/02 A61P-11/00 C07C-41/00 C07C-45/44 C07C-59/62 C07D-213/00 C07C-235/00 C07C-251/00 C07C-59/00 C07C-45/00 C07C-251/54 C07C-233/08 A61P-7/00 C07C-59/86 C07C-311/00 C07D-307/93 C07C-67/00 C07C-301/00 C07C-59/205 C07C-59/46 C07C-43/00 C07C-59/147 C07C-59/74 C07C-59/31 B65D-33/25 C07C-59/11 C07C-59/80 C07C-59/54 C07C-43/315 B29C-47/04 C07C-251/50 C07C-235/30 C07C-253/00 C07D-307/00 A61K-31/19 C07C-405/00 C07C-255/00 C07C-251/52 C07C-69/608 C07C-235/78 <main>C07C-131/00</main> A61K-31/185 C07D-213/63 C07C-69/675 C07C-69/00 C07C-251/42 A61K-31/15 C07C-41/48 C07C-233/00 A61K-31/557 C07C-311/51 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted bicyclo (2,2,1)heptanes and bicyclo (2,2,1) hept-2-enes and their pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+nat res devgb<sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation<sep>
+</APPLICANT>
+<INVENTOR>
+jones robert leslie<sep>wilson norman happer<sep>jones, robert leslie<sep>wilson, norman happer<sep>jones, robert leslie62 caiystane gardensedingburgh eh10 6sygb<sep>wilson, norman happer47 west saville terraceedingburgh eh9 3dpgb<sep>jones, robert leslie<sep>wilson, norman happer<sep>jones, robert leslie62 caiystane gardensedingburgh eh10 6sygb<sep>wilson, norman happer47 west saville terraceedingburgh eh9 3dpgb<sep>
+</INVENTOR>
+<ABSTRACT>
+novel bicyclo [2,2,1] heptanes and hept-2z-enes are sub­ stituted at the 5-position by a 6-carboxyhex-2-enyl group or a  modification thereof, and at the 6-position by an aldoxime or  ketoxime group which is o-substituted by an aliphatic hyd­ rocarbon residue, an aromatic residue, or an aliphatic hyd­ rocarbon residue substituted directly or through an oxygen or  sulphur atom by an aromatic residue.  such compounds may  be prepared by the action of an oximating agent on an inter­ mediate which is substituted at the 6-position by an aldehydic  or ketonic carbonyl group.  the compounds are of value for  use in pharmaceutical compositions particularly in the con­ text of the inhibition of thromboxane activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

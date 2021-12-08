@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017406
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G07B-17/02</main> G07B-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+postage meter improvement.
+</TITLE>
+<APPLICANT>
+pitney bowes incus<sep>pitney bowes, inc.<sep>pitney bowes, inc.walter h. wheeler, jr. drivestamford connecticut 06926us<sep>pitney bowes, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+eckert alton brooks jr<sep>mcfiggans robert bruce<sep>eckert, alton brooks, jr.<sep>mcfiggans, robert bruce<sep>eckert, alton brooks, jr.79 toilsome avenuenorwalk connecticut 06851us<sep>mcfiggans, robert bruce444 bedford streetstamford connecticut 06901us<sep>eckert, alton brooks, jr.  <sep>mcfiggans, robert bruce <sep>eckert, alton brooks, jr.79 toilsome avenuenorwalk connecticut 06851us<sep>mcfiggans, robert bruce444 bedford streetstamford connecticut 06901us<sep>
+</INVENTOR>
+<ABSTRACT>
+a postage meter has a printing mechanism positioned  on a drum (26), and a driving gear (22) for rotating the drum  (26) to imprint postage on an article, e. g.  a mailpiece.  the  driving gear (22) is adapted to be externally driven.  the  meter also has a shutter bar (21) engageable with the driving  gear, and an interposer, e. g.  pawl 30, is coupled to the  shutter bar (21) for inhibiting movement thereof.  an electro­ nic accounting system is also provided within the meter.  a  latch, which may be an interposer solenoid (47), is operative  in response to the operating voltage for inhibiting more than  a determined number of printing cycles.  a counting device is  incorporated to count printing cycles that were not reg­ istered, to thereby enable the electronic accounting system  to bring the printing data up to data in the event, for  example.  of restoration of power following a power failure.  
+</ABSTRACT>
+</TEXT>
+</DOC>

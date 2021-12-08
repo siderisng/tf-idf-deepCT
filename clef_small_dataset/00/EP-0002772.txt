@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002772
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-9/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for welding metallic workpieces with a magnetically moved arc.
+</TITLE>
+<APPLICANT>
+karlsruhe augsburg iwekade<sep>industrie-werke karlsruhe augsburg aktiengesellschaft<sep>industrie-werke karlsruhe augsburg aktiengesellschaftgartenstrasse 71d-76135 karlsruhede  <sep>
+</APPLICANT>
+<INVENTOR>
+altstetter manfred ing gradde<sep>ganowski franz-josef dipl-ingde<sep>pache norbertde<sep>altstetter, manfred, ing. grad.<sep>ganowski, franz-josef, dipl.-ing.<sep>pache, norbert<sep>altstetter, manfred, ing. grad.amselweg 12d-8901 wulfertshausende<sep>ganowski, franz-josef, dipl.-ing.haus nr. 46d-8901 maingründelde<sep>pache, norbertzusmarshauser weg 7ad-8900 augsburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+during welding with a magnetically moved arc (6), it has been found that the arc also burns at times between workpiece (1) and magnet coil (5) so that no optimum welding quality is achieved.  to avoid these "short circuits" (7), it is proposed to insulate the magnet coil (5) itself and/or its suspension.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005431
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01D-5/14 F01D-1/34 F01D-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+turbo machine
+</TITLE>
+<APPLICANT>
+bachl herbert prof dr<sep>bachl, herbert, prof. dr.<sep>bachl, herbert, prof. dr.stolzingstrabe 4d-8000 münchen 81de<sep>
+</APPLICANT>
+<INVENTOR>
+bachl herbert prof dr<sep>bachl, herbert, prof. dr.<sep>bachl, herbert, prof. dr.stolzingstrabe 4d-8000 münchen 81de<sep>
+</INVENTOR>
+<ABSTRACT>
+In a flow machine, a disk-shaped impeller is provided, which has flow channels for a fluid whose inlet and outlet openings are each arranged on the front wheel on the impeller. In this case, the inlet openings have a different distance from the axis of rotation than the outlet openings. Each flow channel has a radially further and a radially closer deflection knee each with two legs, wherein the legs form a 90 degree angle together and each leads a leg of one knee to an entrance opening, while a leg of the other knee leads to an outlet opening. The other thighs of the two knees are executed to a roughly radial connecting portion, which connects the two deflection knees together. In order to achieve a higher step gap in the flow machine, it is provided that both the entrance as the outlet openings are located on the same front side of the impeller.
+</ABSTRACT>
+</TEXT>
+</DOC>

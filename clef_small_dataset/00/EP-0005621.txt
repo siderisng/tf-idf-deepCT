@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005621
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-21/64 B42F-17/32 B42F-17/00 <main>B42F-17/18</main> B42F-17/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+panel file.
+</TITLE>
+<APPLICANT>
+visu flex corpus<sep>visu-flex corporation<sep>visu-flex corporation1641 west collins avenueorange california 92667us<sep>visu-flex corporation<sep>
+</APPLICANT>
+<INVENTOR>
+spees arthur t<sep>spees, arthur t.<sep>spees, arthur t.14802 ridgeboro placetustin california 92680us<sep>spees, arthur t.<sep>spees, arthur t.14802 ridgeboro placetustin california 92680us<sep>
+</INVENTOR>
+<ABSTRACT>
+a panel file, for the storage of flat, flexible data elements,  consists of plural, vertically overlapping pockets, the entrances  of which are formed by a plurality of vertically spaced,  horizontally extending strips (26) of resilient material.  the  strips are arranged so as to have an upper edge which  overlaps the lower portion of the next upwardly adjacent  strip.  the strips are fastened together at their lateral margins  (179).  the lower portions of the pockets are formed by a  support sheet which is attached to the panel on the surface  opposite the pocket entrances.  the support sheet is cut so as  to have a column of inverted "v"-shaped straps (42), each  having a vertex (192) which is attached to the back of a strip.   the strips have an upwardly concave bottom edge (180) with  a central vertex at the point (128) where the support sheet  strap is attached to the next downwardly adjacent strip.   thus, the attachment point between a strip and a strap is  located in an area of the panel having the thickness of only  one strip, which area is below the lower edge of an upwardly  adjacent strip and above the upper edge of a downwardly  adjacent strip.  thus constructed, the overlapping pockets are  individually openable, and do not become increasingly  constrictive as the panel is filled.  the panel thus constructed  also has a minimum number of overlapping layers at any  point.  
+</ABSTRACT>
+</TEXT>
+</DOC>

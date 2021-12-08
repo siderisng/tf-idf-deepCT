@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0011641
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B65B-57/16</main> B65B-57/02 B65B-43/42 B65B-57/00 B65B-7/16 B65B-43/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic control system for controlling a sequence of operations on products moving on an indexing conveyor.
+</TITLE>
+<APPLICANT>
+nitz walter d<sep>nitz, walter d.<sep>nitz, walter d.<sep>
+</APPLICANT>
+<INVENTOR>
+nitz walter d<sep>nitz, walter d.<sep>nitz, walter d.  <sep>nitz, walter d. 5178 rock runwest bloomfield, mi 48033us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009551
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04L-11/16</main> H04L-12/423 G06F-11/00 H04L-12/437 G06F-13/00 G06F-11/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for polling terminals in a data transmission system.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporation old orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+conner david eugene<sep>hoffman charles reeves<sep>laakso melvin thomas<sep>conner, david eugene<sep>hoffman, charles reeves<sep>laakso, melvin thomas<sep>conner, david eugene807 warren avenuecary, nc 27511us<sep>hoffman, charles reeves1537 shadowood ln.raleigh, nc 27612us<sep>laakso, melvin thomas807 prince streetcary, nc 27511us<sep>conner, david eugene<sep>hoffman, charles reeves  <sep>laakso, melvin thomas<sep>conner, david eugene807 warren avenuecary, nc 27511us<sep>hoffman, charles reeves1537 shadowood ln.raleigh, nc 27612us<sep>laakso, melvin thomas807 prince streetcary, nc 27511us<sep>
+</INVENTOR>
+<ABSTRACT>
+Terminal calling circuit in a data mission system where the terminals are served by stations arranged according to a loop configuration by rap port at the central processor (10) the call circuit in each station (14a, 14b,. 14N) comprises a field effect transistor in depletion mode (26) whose drain is connected to the input line (22), the source at the output line (24) and the door to areceiving and avoidance circuit (32) which applies to the door a locking signal when the station is turned on and the call signal must be retransmitted by the line (28) at the next station where noneCommunication must not be established, and a conduction signal in the absence of power on the station to allow the call signal to avoid the station.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009516
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+E02F-9/20 E02F-3/88 G05D-1/04 G05D-1/00 E02F-3/90 <main>E02F-3/88</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for maintaining tools at a level below a water surface.
+</TITLE>
+<APPLICANT>
+amsterdam ballast bagger<sep>ballast nedam groep nv<sep>amsterdamse ballast bagger en grond±(amsterdam ballast dredging) b.v.<sep>ballast-nedam groep n.v.<sep>amsterdamse ballast bagger en grond (amsterdam ballast dredging) b.v.laan van kronenburg 2nl-1180 be amstelveennl<sep>ballast-nedam groep n.v.laan van kronenburg 2nl-1180 be amstelveennl<sep>amsterdamse ballast bagger en grond (amsterdam ballast dredging) b.v.<sep>ballast-nedam groep n.v.<sep>
+</APPLICANT>
+<INVENTOR>
+ravesteyn cornelis jan<sep>ruyter thomas jacobus<sep>wolters tjako aaldrik<sep>ravesteyn, cornelis jan<sep>ruyter, thomas jacobus<sep>wolters, tjako aaldrik<sep>ravesteyn, cornelis janherenweg 37nl-3648 ca wilnisnl<sep>ruyter, thomas jacobuswulpenhof 3nl-1742 cc schagennl<sep>wolters, tjako aaldriksanatoriumlaan 4nl-3705 ap zeistnl<sep>ravesteyn, cornelis jan <sep>ruyter, thomas jacobus<sep>wolters, tjako aaldrik  <sep>ravesteyn, cornelis janherenweg 37nl-3648 ca wilnisnl<sep>ruyter, thomas jacobuswulpenhof 3nl-1742 cc schagennl<sep>wolters, tjako aaldriksanatoriumlaan 4nl-3705 ap zeistnl<sep>
+</INVENTOR>
+<ABSTRACT>
+a tool (1) is controlled below a water surface by carrying  out a level comparison between a level-fixed measuring ele­ ment (31) positioned on land and a level-varying measuring  element (27) belonging to the tool and by adjusting the level of  the tool with respect to a floating body in dependence upon  said comparison.  
+</ABSTRACT>
+</TEXT>
+</DOC>

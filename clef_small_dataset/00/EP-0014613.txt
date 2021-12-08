@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014613
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-9/067 B23K-10/00 B23K-9/06 <main>B23K-28/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and installation for automatically starting a plasma welding torch.
+</TITLE>
+<APPLICANT>
+air liquidefr<sep>soudure autogene francaisefr<sep>la soudure autogene francaise  <sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude<sep>la soudure autogene francaise75, quai d'orsayf-75321 paris cedex 07fr<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude75, quai d'orsayf-75321 paris cédex 07fr<sep>la soudure autogene francaise<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude<sep>
+</APPLICANT>
+<INVENTOR>
+berger jean-yves<sep>egee raymond<sep>kostelitz michel<sep>reynaud bernard<sep>berger, jean-yves<sep>egee, raymond<sep>kostelitz, michel<sep>reynaud, bernard<sep>berger, jean-yves6, impasse debucourtf-95550 bessancourtfr<sep>egee, raymond18, rue du général corbineauf-95660 champagne-sur-oisefr<sep>kostelitz, michel59, avenue des etats-unisf-78000 versaillesfr<sep>reynaud, bernard386, parc de cassanf-95290 l'isle adamfr<sep>berger, jean-yves<sep>egee, raymond<sep>kostelitz, michel<sep>reynaud, bernard <sep>berger, jean-yves6, impasse debucourtf-95550 bessancourt fr   <sep>egee, raymond18, rue du général corbineauf-95660 champagne-sur-oisefr<sep>kostelitz, michel59, avenue des etats-unisf-78000 versaillesfr<sep>reynaud, bernard386, parc de cassanf-95290 l'isle adamfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a plasma cutting plant comprising a main generator feeding a plasma arc between a piece 5 and an electrode 2 of a torch 1 to nozzle 3, with pre-binning by an ignition arch between electrode 2 and nozzle 3, via the resistance 14 and the contact 15. According to the invention, it is provided in the mains contact terminals 13 a resistance circuit 16 and winding of an excitation 17 of a relay 18 allowing, when the torch 1 hasApproached at the correct distance of Exhibit 5, detect this correct distance and act on the advance engine 19 to stop it immediately.Application to the plasma cutting automatically.
+</ABSTRACT>
+</TEXT>
+</DOC>

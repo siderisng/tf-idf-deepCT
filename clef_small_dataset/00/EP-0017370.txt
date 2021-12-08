@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017370
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G07F-3/02</main> G07D-5/02 G01N-27/72 G07D-5/08 G07D-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coin testing apparatus.
+</TITLE>
+<APPLICANT>
+mars incus<sep>mars incorporated<sep>mars incorporatedwestgate park 1651 old meadow roadmclean virginia 22102us<sep>mars incorporated <sep>
+</APPLICANT>
+<INVENTOR>
+van dort klaas pieter<sep>van dort, klaas pieter<sep>van dort, klaas pietergrote haarsekade 100gorinchemnl<sep>van dort, klaas pieter <sep>van dort, klaas pieter grote haarsekade 100 gorinchemnl<sep>
+</INVENTOR>
+<ABSTRACT>
+a coin testing apparatus 10 comprises a coin passage­ way, a coin track 13 along which coins pass on their edges  through the coin passageway and an inductor 16 adjacent  the coin passageway.  the inductor is connected in an  oscillating circuit 40 so that the inductor 16 produces an  oscillating magnetic field in the coin passageway.  means 44  are provided for examining the maximum shift in the  frequency of the oscillating circuit 41 when a coin passes the  inductor and detecting whether the shift corresponds with  the shift for an acceptable coil.  the inductor 16 is oblong and  has its major axis perpendicular to the track so that the  arrangement is sensitive to variations in diameter over a  large range of diameters.  
+</ABSTRACT>
+</TEXT>
+</DOC>

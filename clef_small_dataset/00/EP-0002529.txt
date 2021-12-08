@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002529
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a light emitting display device.
+</TITLE>
+<APPLICANT>
+tokyo shibaura electric cojp  <sep>kabushiki kaisha toshiba<sep>kabushiki kaisha toshiba72, horikawa-cho, saiwai-kukawasaki-shi, kanagawa-ken 210jp<sep>
+</APPLICANT>
+<INVENTOR>
+nagasawa hiroshijp<sep>nagasawa, hiroshi<sep>nagasawa, hiroshi2-507, daisan-jutaku 387-1, shimohirama saiwai-kukawasaki-shi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a light emitting display device having a light emitting  element (1) mounted on a first reflector (2) at the optical  center of a reflective surface (3) thereof and a second lead (7)  connected to the light emitting element (1) with a metal wire  (8).  in order to miniaturize the light emitting display device  and to provide the light emitting display device with  satisfactory characteristic as regards appearance when  turned on, the first reflector (2) co-used as a first lead (6) has  a cut-off portion.  the second lead (7) is disposed adjacent to  the cut-off portion and the metal wire (8) connected from the  light emitting element (1) to the second lead (7) passes over  the cut-off portion.  
+</ABSTRACT>
+</TEXT>
+</DOC>

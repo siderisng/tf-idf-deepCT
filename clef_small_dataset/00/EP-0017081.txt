@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017081
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01D-7/00 G01S-7/56 G01D-13/22 G01D-13/00 <main>G01D-7/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for optically displaying physical quantities.
+</TITLE>
+<APPLICANT>
+vdo schindlingde<sep>vdo adolf schindling ag<sep>vdo adolf schindling aggräfstrasse 103d-60487 frankfurtde<sep>vdo adolf schindling ag  <sep>
+</APPLICANT>
+<INVENTOR>
+bergk gunther<sep>bergk, gunther<sep>bergk, güntherlahnstrasse 4d-6096 raunheimde<sep>bergk, gunther<sep>bergk, güntherlahnstrasse 4d-6096 raunheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a visual display of sizes, a luminous element (15) is disposed on a rotating disk (1) which is brought to the illumination at defined times and for pre-bare time portions.Such a device allows the display of a variety of physical quantities in a confined space and with a low technical effort.
+</ABSTRACT>
+</TEXT>
+</DOC>

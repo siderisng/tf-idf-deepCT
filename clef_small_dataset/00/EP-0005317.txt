@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005317
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-1/08 <main>H04L-1/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data receiving apparatus.
+</TITLE>
+<APPLICANT>
+british broadcasting corpgb<sep>british broadcasting corporation<sep>british broadcasting corporationbroadcasting houselondon w1a 1aagb<sep>british broadcasting corporation<sep>
+</APPLICANT>
+<INVENTOR>
+chambers john philip<sep>chambers, john philip<sep>chambers, john philip29 akehurst close copthornecrawley west sussex rh10 3qqgb<sep>chambers, john philip  <sep>chambers, john philip29 akehurst close copthornecrawley west sussex rh10 3qqgb<sep>
+</INVENTOR>
+<ABSTRACT>
+data receiving apparatus for receiving repetitively  transmitted blocks of data stores a block of data (registered  10), and compares (comparator 12) each received byte  in di with the corresponding stores byte in d(n).  if the  bytes match (m) a data selector 15 selects either byte for  storage and sets a flag bit for that byte in a register 14 to  1.  if the bytes do not match, the data selector selects the  new byte when the existing flag bit is 0 and selects the old,  stored byte when the existing flag bit is 1, in either event  setting the flag bit to 0.  in this way the probability is that  each stored byte is an error free byte.  a status circuit 16  signals when all flag bits are not 1 to indicate that suspicion  nevertheless attaches to the block as stored.  
+</ABSTRACT>
+</TEXT>
+</DOC>

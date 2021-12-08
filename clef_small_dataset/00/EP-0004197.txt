@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004197
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-7/08 H04N-7/025 H04N-9/64 <main>G06F-3/153</main> H04N-7/03 H04N-5/45 H04N-7/035 H04N-7/081 H04N-5/445 H04N-5/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+television display of data or graphics.
+</TITLE>
+<APPLICANT>
+rca corpus  <sep>rca corporation<sep>rca corporation30 rockefeller plazanew york, ny 10020us<sep>rca corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+bart theodor ernst<sep>mills ronald alfred<sep>bart, theodor ernst<sep>mills, ronald alfred<sep>bart, theodor ernstlachenzelgstrasse 8ch-8049 zurichch<sep>mills, ronald alfredgoldbacherstrasse 71ch-8700 küsnachtch<sep>bart, theodor ernst<sep>mills, ronald alfred<sep>bart, theodor ernstlachenzelgstrasse 8ch-8049 zurichch<sep>mills, ronald alfredgoldbacherstrasse 71ch-8700 küsnachtch<sep>
+</INVENTOR>
+<ABSTRACT>
+a system employed in a television receiver for displaying  graphics information, such as may be encoded on a  broadcast video signal, instead of or along with an image  represented by such signal.  the system includes a graphics  signal decoder (27) supplied with the encoded video signal.   the decoded graphics signals, instead of being used to drive  the video output stages (16) of the receiver, are used as control  signals (mono, r,g,b) for a plurality of transmission  gates (31-36) coupled to inputs of the video output stage (16).   when graphics information is to be displayed, these gates  operate in response to the control signals to interrupting  normal video signals to the video output stage (16) and to  provide to it instead a voltage (va representative of a graphics  display intensity level.  the system also includes a graphics  intensity level control network (25) which limits excessive  graphics representative beam current levels to prevent  image defocusing and kinescope screen burn.  it also adjusts  the graphics display intensity level in accordance with the  level of image representative video signals in a mixed video  plus graphics display mode, to preserve a desired contrast  relationship between the displayed video and graphics  information.  the level control network (25) also enhances the  leading and trailing edges of displayed graphic characters by  forming a black outline at these edges.  
+</ABSTRACT>
+</TEXT>
+</DOC>

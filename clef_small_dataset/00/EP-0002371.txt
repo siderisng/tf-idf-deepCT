@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002371
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-31/00 C07D-407/06 A61K-31/35 A61P-31/04 C07D-407/00 <main>C07D-407/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of monic acid a, and process for their preparation.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb<sep>beecham group limited<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+clayton john peter<sep>coulton steven<sep>rogers norman harold<sep>clayton, john peter<sep>coulton, steven<sep>rogers,norman harold<sep>clayton, john peterforestbrook kerves lanehorsham sussexgb<sep>coulton, steven6 coatham placecranleigh surreygb<sep>rogers,norman harold6 the martsrudgwick sussexgb<sep>clayton, john peter<sep>coulton, steven <sep>rogers,norman harold<sep>clayton, john peter forestbrook kerves lane horsham sussex gb <sep>coulton, steven6 coatham placecranleigh surreygb<sep>rogers,norman harold6 the martsrudgwick sussexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a thiol acid and esters thereof of formula (ii):    wherein r is hydrogen, a salt forming ion or a pharmaceutically  acceptable ester-forming radical, have antibacterial and  antimycoplasmal activity and are therefore useful in the  treatment of human and veterinary bacterial and mycoplasmal  infections.  
+</ABSTRACT>
+</TEXT>
+</DOC>

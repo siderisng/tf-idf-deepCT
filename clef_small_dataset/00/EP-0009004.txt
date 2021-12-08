@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009004
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B65B-41/12</main> B65H-19/18 B65H-25/00 B65B-41/12 B65B-41/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for feeding wrapping material to a packing machine.
+</TITLE>
+<APPLICANT>
+sapal plieuses automatiquesch<sep>sapal, societe anonyme des plieuses automatiques<sep>sapal, société anonyme des plieuses automatiques44, av. du tir fédéralch-1024 ecublensch<sep>sapal, societe anonyme des plieuses automatiques<sep>
+</APPLICANT>
+<INVENTOR>
+pongracz endre<sep>pongracz, endre<sep>pongracz, endrechemin des glycines 4ch-1024 ecublensch<sep>pongracz, endre<sep>pongracz, endrechemin des glycines 4ch-1024 ecublensch<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a supplier device for packaging material, a two-reel packing machine.This device comprises two control servomotors 4, 34, reels 1, 31, a drive device 24, of the band-shaped packaging material, two coding devices 54, 56 and detection 55, 57, which detect a signal corresponding to the instantaneous diameter of the coil of packaging material into operation and provide a control signal of the flow rate of the deviiors.It also includes a press 17, 21 to automatically assemble the end of the band of the coil packaging material on the start of the strip from the next coil.
+</ABSTRACT>
+</TEXT>
+</DOC>

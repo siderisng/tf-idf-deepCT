@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011723
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-11/06 <main>G01B-11/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device for the interferometric measurement of changing film thicknesses.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation  <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+gaston charles arden<sep>kirk joseph pennell<sep>wasik chester alexander<sep>gaston, charles arden<sep>kirk, joseph pennell<sep>wasik, chester alexander<sep>gaston, charles arden8 saddle rock drivepoughkeepsie, new york 12603us<sep>kirk, joseph pennellchelsea roadchelsea, new york 12512us<sep>wasik, chester alexander7 scott courtpoughkeepsie, new york 12601us<sep>gaston, charles arden <sep>kirk, joseph pennell<sep>wasik, chester alexander  <sep>gaston, charles arden 8 saddle rock drivepoughkeepsie, new york 12603us<sep>kirk, joseph pennellchelsea roadchelsea, new york 12512us<sep>wasik, chester alexander7 scott courtpoughkeepsie, new york 12601us<sep>
+</INVENTOR>
+<ABSTRACT>
+The transparent layer (12) to be examined is irradiated with white light under constant angle of incidence and the intensity of two selected, different wavelengths of each other in the reflected light. Interference symptoms in the continuous thickness change layer lead to periodic intensity swan at both wavelengths. By comparing the in the intensity curves (eg, the extreme points A, B, C), the absolute layer thickness can be clearly determined, although the output thickness of the layer is known only within half of a particular area. For the simplification of the phase comparison of the two cyclic intensive patterns, the wavelengths can be selected so that certain extremity points of both signals coincide with a layer thickness, which is less than the minimum initial thickness to be expected and that at larger DIC ken until the maximum expected initially expected initially thickness , No coincidence occurs. The method is applicable to both additives and subtractive changes in the layer thickness. The device for layer thickness measurement EN maintains narrowband filter (31, 32) with oblique beam incidence which act as a beam splitter.
+</ABSTRACT>
+</TEXT>
+</DOC>

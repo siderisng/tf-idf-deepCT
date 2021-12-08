@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009312
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+B05B-5/08 H01B-13/16 <main>H01B-13/16</main> H01B-13/06 B05B-5/14 B05B-5/047 B05B-5/025 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for manufacturing magnet wire and a magnet wire made thereby.
+</TITLE>
+<APPLICANT>
+phelps dodge ind incus<sep>phelps dodge industries, inc.<sep>phelps dodge industries, inc.300 park avenuenew york new yorkus<sep>phelps dodge industries, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+hilker george d<sep>hilker, george d.<sep>hilker, george d.4551 trierwood park drivefort wayne indiana 46815us<sep>hilker, george d.<sep>hilker, george d.4551 trierwood park drivefort wayne indiana 46815us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for manufacturing  magnet wire (24) continuously so that coatings of a flow­ able resin material (116) may be applied concentrically  to a moving elongated filament (24) in thichnesses of  about 16 mm or less.  the filament can be a bare copper  or aluminum conductor of round or rectangular confi­ guration or an insulated conductor upon which a top or  an intermediate coat of material may be applied.  magnet  wire can be manufactured by continuously drawing the  wire to size, annealing the wire, if necessary, insulating  the wire with one or more coats of flowable resin ma­ terial, curing the resin material, if necessary, hardening  (20) the resin material, and spooling (22) the wire for  shipment, without interruption at speeds limited only by  the filament pay-off and take-up devices (12, 22) used.   the apparatus of the invention utilizes the flowable resin  material to centre the filament in a die, and the size (82)  of the die (18) controls the thichness of the coat to be  applied.  only the resin materia being applied to the  filament is in contact with the filament, so that the wear  normally associated with centering dies is eliminated.   the apparatus and method of the invention can be used  to apply coats several times thinner than is possible with  conventional extrusion apparatus and of materials dif­ ferent from those conventionally extruded onto filaments.  
+</ABSTRACT>
+</TEXT>
+</DOC>

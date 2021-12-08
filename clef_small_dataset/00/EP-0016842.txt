@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016842
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03G-15/02</main> H01T-19/00 G03G-15/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+corona discharge device.
+</TITLE>
+<APPLICANT>
+ricoh kkjp<sep>ricoh company, ltd<sep>ricoh company, ltd3-6, 1-chome nakamagomeohta-ku tokyo 143jp <sep>ricoh company, ltd<sep>
+</APPLICANT>
+<INVENTOR>
+tagawa kazuaki  <sep>tanaka mitsuo<sep>yano takashi<sep>tagawa, kazuaki<sep>tanaka, mitsuo<sep>yano, takashi<sep>tagawa, kazuaki44-7, honancho 1-chomesuginami-ku tokyo 168jp<sep>tanaka, mitsuo20-5, minaminaruse 4-chomemachida-shi, tokyo 194jp<sep>yano, takashi22-10, kamiikedai 4-chomeota-ku, tokyo 145jp<sep>tagawa, kazuaki<sep>tanaka, mitsuo<sep>yano, takashi<sep>tagawa, kazuaki44-7, honancho 1-chome suginami-ku tokyo 168 jp  <sep>tanaka, mitsuo20-5, minaminaruse 4-chomemachida-shi, tokyo 194jp<sep>yano, takashi22-10, kamiikedai 4-chomeota-ku, tokyo 145jp<sep>
+</INVENTOR>
+<ABSTRACT>
+scorotron-type corona discharge device used in an elec­ trophotographic reproducing apparatus etc. , in which a termi­ nal of an impedance element (11) is connected with a conduc­ tive shielding plate (3), said impedance element being con­ nected between grid wires (6) and the earth in series to gener­ ate voltage with the corona current which flows from a corona  discharge wire (8) to the grid wires (6).  the impedance ele­ ment is provided integrally with the discharger and a connector  is provided only for the corona discharge wire, so that this de­ vice is simplified in its positioning and the defective connection  is eliminated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

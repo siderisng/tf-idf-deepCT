@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007998
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-43/00 F02D-41/34 F02P-5/15 F02D-41/12 <main>F02P-5/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and device to interrupt at least partially the supply of fuel to internal-combustion engines in vehicles when braking.
+</TITLE>
+<APPLICANT>
+bosch gmbh robertde<sep>robert bosch gmbh<sep>robert bosch gmbhpostfach 30 02 20 70442 stuttgart de <sep>robert bosch gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+jundt werner dipl-ing<sep>kiencke uwe dr dipl-ing<sep>seeger karl dipl-ing<sep>jundt, werner, dipl.-ing.<sep>kiencke, uwe, dr. dipl.-ing.<sep>seeger, karl, dipl.-ing.<sep>jundt, werner, dipl.-ing.wilhelm-blos-strasse 67d-7140 ludwigsburgde<sep>kiencke, uwe, dr. dipl.-ing.reichertshalde 35d-7140 ludwigsburgde<sep>seeger, karl, dipl.-ing.gerlingerstrasse 18d-7257 ditzingende<sep>jundt, werner, dipl.-ing.<sep>kiencke, uwe, dr. dipl.-ing.  <sep>seeger, karl, dipl.-ing.<sep>jundt, werner, dipl.-ing.wilhelm-blos-strasse 67d-7140 ludwigsburgde<sep>kiencke, uwe, dr. dipl.-ing.reichertshalde 35d-7140 ludwigsburgde<sep>seeger, karl, dipl.-ing.gerlingerstrasse 18d-7257 ditzingende<sep>
+</INVENTOR>
+<ABSTRACT>
+A device is proposed, by which the fuel supply is at least partially interrupted in the sliding operation of fuel assemblies built into vehicles, at least partially to save fuel.a z.b.With the accelerator connected switch (33) speaks in the sliding operation and controls a throttle device for the fuel supply, z.b.A valve (38) in the carburetor of the internal combustion engine.In order to prevent undesirably high torque surges pervade when the force is switched on the power supply, at least a subsequent ignition timing is shifted in the direction of the spurt.
+</ABSTRACT>
+</TEXT>
+</DOC>

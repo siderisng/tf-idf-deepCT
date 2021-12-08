@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000019
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-211/00 C07C-255/00 C07C-211/40 A01N-47/28 A01N-47/32 C07C-209/08 C07C-255/58 C07C-209/52 C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-benzylcycloalkylamines and process for their preparation.
+</TITLE>
+<APPLICANT>
+nihon tokushu noyaku seizo kkjp<sep>nihon tokushu noyaku seizo k.k. <sep>nihon tokushu noyaku seizo k.k.no.4, 2-chome, nihonbashi honcho chuo-kutokyo 103 jp  <sep>
+</APPLICANT>
+<INVENTOR>
+saito junichijp<sep>tamura tatsuojp<sep>saito, junichi<sep>tamura, tatsuo<sep>saito, junichi3-7-12, mitaka-shitokyojp<sep>tamura, tatsuo2800, hane, hamura-cho, nishiotama-guntokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+the compounds of the general formula <image>  in which    r<1>    denotes hydrogen or alkyl having 1-4 c atoms,   r<2>    denotes a polymethylene group having 4-7 c atoms, which is optionally substituted by alkyl having 1-4 c atoms, and   x     denotes halogen, nitro, cyano or alkyl having 1-4 c atoms, are obtained when a benzyl halide is reacted with a cycloalkylamine, if appropriate in the presence of an acid-binding agent, or when a benzylamine is reacted with a cyclic ketone and the schiff's base obtained is reduced.  the compounds of the formula (i) can be used as intermediates for the preparation of certain urea and thiourea compounds having excellent fungicidal properties. 
+</ABSTRACT>
+</TEXT>
+</DOC>

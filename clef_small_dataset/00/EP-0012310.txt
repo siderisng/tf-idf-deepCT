@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012310
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C21B-7/20</main> C21B-7/20 C21B-7/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+charging apparatus for a shaft furnace.
+</TITLE>
+<APPLICANT>
+wurth paul salu<sep>paul wurth s.a.<sep>paul wurth s.a.32 rue d'alsacel-1122 luxembourglu<sep>paul wurth s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+legille edouard<sep>mailliet pierre<sep>legille, edouard<sep>mailliet, pierre<sep>legille, edouard166 rue de trèvesluxembourglu<sep>mailliet, pierre1 allée drosbachhowardlu<sep>legille, edouard <sep>mailliet, pierre<sep>legille, edouard 166 rue de trèves luxembourg lu<sep>mailliet, pierre1 allée drosbachhowardlu<sep>
+</INVENTOR>
+<ABSTRACT>
+The loading device comprises a movable loading hopper (18) which can be isolated from the outside by a valve (46) and the interior of the oven by a bell (32) which can slide vertically.In order to be able to control the distribution of the loading material it is provided below the bell (32) a frustoconical skirt (52) composed of overlapping elements (54) and whose inclination relative to the trajectory ofFalling the load material is variable by means of a control unit (74) mounted outdoors.
+</ABSTRACT>
+</TEXT>
+</DOC>

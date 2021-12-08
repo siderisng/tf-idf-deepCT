@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004773
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/58 C07J-71/00 <main>C07J-31/00</main> A61K-31/56 C07J-5/00 C07J-31/00 A61P-29/00 C07J-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+17-beta-thiocarboxylic acid esters of 4-halo-3-oxoandrost-4-enes, their pharmaceutical use and processes for their preparation.
+</TITLE>
+<APPLICANT>
+syntex incus<sep>syntex (u.s.a.) inc.<sep>syntex (u.s.a.) inc.3401 hillview avenuepalo alto california 94303us<sep>syntex (u.s.a.) inc.<sep>
+</APPLICANT>
+<INVENTOR>
+alvarez francisco s<sep>alvarez, francisco s.<sep>alvarez, francisco s.1089 rochester courtsunnyvale california 94087us<sep>alvarez, francisco s.<sep>alvarez, francisco s.1089 rochester courtsunnyvale california 94087us<sep>
+</INVENTOR>
+<ABSTRACT>
+17β-thiocarboxylic acid esters of 4-halo-3-oxoandrost-4-enes  of the formula:    wherein   x¹ is fluoro, chloro or bromo;   x² is fluoro, chloro or hydrogen;   x³ is fluoro, chloro, bromo or hydrogen;   x⁴ is =c=o or    or may also be   when x³ is chloro;   r is alkyl or 1 to 6 carbon atoms or phenyl or benzyl  optionally substituted with one substituent on the phenyl  ring chosen from the group consisting of alkyl of 1 to 4  carbon atoms, alkoxy of 1 to 4 carbon atoms and halo;   r¹ is hydrogen or alkanoyl of 2 to 6 carbon atoms when  r² is hydrogen, α-methyl or β-methyl, or or¹ and r² together  are isopropylidenedioxy; and   the solid and broken lines between c-1 and c-2 represent  a double or a single bond;   are useful as anti-inflammatory agents.  they can be prepared  by treating the corresponding 17β-carboxylic acid with  a suitable base salt of rsh.  the 17β-hydroxy compounds can  be esterified to produce the 17β-alkanoyloxy compound.  the  double bond at the 4,5 position can be produced by  contacting the corresponding δ⁵ compound with a base.  
+</ABSTRACT>
+</TEXT>
+</DOC>

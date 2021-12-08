@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009192
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G04D-7/00 G06F-7/68 G04D-7/12 <main>G01R-31/28</main> H03K-3/64 G01R-13/22 G01R-13/34 H03K-21/30 G01R-23/00 H03K-21/36 G06F-7/60 H03K-3/00 G01R-23/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for generating a pulse train for a periodic signal.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+bayati abutorab dr<sep>bayati, abutorab, dr.<sep>bayati, abutorab, dr.ettlinger strasse 15d-7500 karlsruhede<sep>bayati, abutorab, dr.<sep>bayati, abutorab, dr.ettlinger strasse 15d-7500 karlsruhede<sep>
+</INVENTOR>
+<ABSTRACT>
+Circuit arrangement for generating a sampling sequence for a periodic signal in which a Taktim pulse generator (Tg) is connected on the output side with the inputs of two preset reverse counts (Z2, Z2) whose first is preset with the number of scanners and whose second, at hisOutput The sampling pulse follows Liejernde backward counter with the number of output pulses of the first reverse counter (Z1) accumulated during a period of the signal in a counter (Z1);Bitusgangs of the counter are connected to bit incorporation gene of a buffer (ZP) and bisisms of the cache (ZP) with setting inputs of the second reverse counter (Z2).
+</ABSTRACT>
+</TEXT>
+</DOC>

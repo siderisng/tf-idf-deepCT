@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000914
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/00 G03B-27/02 G03B-27/24 <main>G03B-27/24</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+separation and deflection device for a copying apparatus, in particular for a tracing copying machine.
+</TITLE>
+<APPLICANT>
+hoechst ag de <sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+schroter herbert dr<sep>schroter, herbert, dr.<sep>schröter, herbert, dr.adalbert-stifter strasse 29d-6204 taunusstein 1de<sep>schroter, herbert, dr.<sep>schröter, herbert, dr.adalbert-stifter strasse 29d-6204 taunusstein 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a separating and deflecting mechanism in a copier, particularly in a photocopying machine, comprising an arrangement of two rolls disposed in the common transport path of the material to be processed which includes an original and a sheet of copying material, with one of the two rolls being driven at a higher circumferential speed than the other in order to deliver one of the two superimposed sheets of the material to be processed in advance of the other sheet, further comprising at least one first rotatable separating disk extending into the transport path and having at least one recess on its circumference, in which the leading edge of the advanced sheet is diverted from the common transport path, characterized in that the two driven rolls (8, 9) of the arrangement of rolls are disposed at the transport path (7') in such a manner that the original (22) is advanced with respect to the sheet of copying material (23) and in that at least one second separating disk (arrangement 12) is disposed behind the first separating disk (arrangement 11) in the direction of transport of the sheet of copying material, which second separating disk diverts the path of the sheet of copying material towards the developing chamber (20). 
+</ABSTRACT>
+</TEXT>
+</DOC>

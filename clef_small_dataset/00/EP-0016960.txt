@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016960
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-7/02 <main>H01F-41/02</main> B29C-45/00 H01F-41/02 G02B-6/44 H01F-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+anisotropic polymeric magnet in the tubular form and process for producing the same.
+</TITLE>
+<APPLICANT>
+tdk electronics co ltd jp <sep>tdk electronics co., ltd.<sep>tdk corporation13-1, nihonbashi 1-chomechuo-ku, tokyo-to 103jp<sep>tdk corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+hirata yoshifumi<sep>honda katsuji<sep>tada takeo<sep>hirata, yoshifumi<sep>honda, katsuji<sep>tada, takeo<sep>hirata, yoshifumi1-24-2, nishioguarakawa-ku tokyojp<sep>honda, katsuji26-5, yachiyodaikita 12-chomeyachiyo-shi chiba-kenjp<sep>tada, takeo2-2-13, kamikizakiurawa-shi saitama-kenjp<sep>hirata, yoshifumi<sep>honda, katsuji<sep>tada, takeo<sep>hirata, yoshifumi1-24-2, nishioguarakawa-ku tokyojp<sep>honda, katsuji26-5, yachiyodaikita 12-chomeyachiyo-shi chiba-kenjp<sep>tada, takeo2-2-13, kamikizakiurawa-shi saitama-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+in an anisotropic polymeric magnet in tubular form,  the magnetization orientation (20) is directed in one di­ rection perpendicular to the axial line of the tubular magnet.   in a bipolar anisotropic magnet in tubular form, the magne­ tic poles can be formed only at symmetrical portions (10a,  b) of the magnet with respect to the axial line and an ima­ ginary line connecting the magnetic poles with each other  is parallel to said one direction.  in order to symmetrically distribute the magnetism  around a tubular bipolar anisotropic magnet, a weld line(s)  (10c, d) formed by injection molding of a mixture of fer­ romagnetic material powder and polymeric material is lo­ cated in the portion(s) of the magnet where the magnetic  poles are not formed.  in the processes for producing the tubular anisotropic  magnet, the gate(s) for injecting a mixture of ferromagne­ tic material powder and polymeric material is positioned  in an injection machine, so that the position of the con­ fronting ends of the flow(s) of the mixture do not coincide  with the position of the magnetic poles.  
+</ABSTRACT>
+</TEXT>
+</DOC>

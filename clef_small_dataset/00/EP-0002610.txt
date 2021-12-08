@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002610
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F25B-23/00</main> F25D-3/00 F25D-17/00 F28D-15/00 F25B-23/00 H05K-7/20 F25D-1/00 F25D-17/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for cooling a shelter containing a heat source.
+</TITLE>
+<APPLICANT>
+jackson peter arthurgb<sep>jackson, peter arthur<sep>jackson, peter arthur53/64 chancery lanelondon wc2a 1hngb<sep>jackson, peter arthur<sep>
+</APPLICANT>
+<INVENTOR>
+rambach claude<sep>rambach, claude<sep>rambach, claude24 quai louis bleriotf-75016 parisfr<sep>rambach, claude<sep>rambach, claude24 quai louis bleriotf-75016 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for passively cooling a shelter  containing a heat source utilising an accumulator (18)  containing a thermal liquid (20); a first heat transfer loop (22)  for transferring heat from the interior (16) of the shelter to the  liquid in the accumulator when the liquid is cooler than the  interior of the shelter; and a second heat transfer loop (24)  for transferring heat from the liquid in the accumulator to the  environment when the latter is cooler than the thermal liquid  in the accumulator.  
+</ABSTRACT>
+</TEXT>
+</DOC>

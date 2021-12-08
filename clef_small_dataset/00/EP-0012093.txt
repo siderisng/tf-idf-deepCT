@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012093
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03F-3/60 H03F-3/68 <main>H03F-1/18</main> H03F-1/08 H03F-1/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+distributed microwave amplifier and amplifying device comprising such an amplifier.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+bert alain<sep>kaminsky didier<sep>kantorowicz gerard<sep>bert, alain<sep>kaminsky, didier<sep>kantorowicz, gerard<sep>bert, alain"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>kaminsky, didier"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>kantorowicz, gérard"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>bert, alain <sep>kaminsky, didier<sep>kantorowicz, gerard  <sep>bert, alain"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>kaminsky, didier"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>kantorowicz, gérard"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an amplifier distributed for microwave.The amplifier comprises two lines of input and output transmission I and II connected by a plurality of active quadrupole arranged in parallel on these lines, in which are inserted the elements necessary for the adaption of the quadruples.In a solid state embodiment, the active quadruposes, T₁, T₂, T₃, T₄, are formed in a substrate in arsenide of gallium 1 and the lines carried out by the technique "microbend", by metal deposits on the substrate 20, 22, 24, 26. The adaptation elements comprise inductance I₁ to i₄, between which are arranged C₁ to C₃ coupling capabilities.The device allows a broad band of operation.Application to X-band amplification devices.
+</ABSTRACT>
+</TEXT>
+</DOC>

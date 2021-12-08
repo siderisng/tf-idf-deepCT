@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000474
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07C-323/12 C07C-231/00 A01N-39/02 C07C-255/16 C07C-255/54 C07C-205/43 C07C-235/00 A01N-43/72 A01N-37/10 C07C-235/20 C07C-201/00 C07C-327/22 <main>C07C-79/46</main> C07C-67/00 A01N-39/00 C07C-153/09 C07C-325/00 C07C-327/00 C07D-295/08 C07C-253/00 C07C-205/38 C07C-255/00 C07C-313/00 C07D-295/00 C07C-323/00 A01N-43/84 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted 3-(2'-nitro phenoxy)-alpha-phenoxy alcanoic acids and their derivatives, their preparation and their use as herbicides.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+bohner beat dr<sep>durr dieter dr<sep>pissiotas georg dr<sep>rohr otto dr<sep>bohner, beat, dr.<sep>durr, dieter, dr.<sep>pissiotas, georg, dr.<sep>rohr, otto, dr.<sep>böhner, beat, dr.hügelweg 3ch-4102 binningench<sep>dürr, dieter, dr.brändelistalweg 16ch-4103 bottmingench<sep>pissiotas, georg, dr.breslauer strasse 8d-7850 lörrachde<sep>rohr, otto, dr.kilbertweg 19ch-4106 therwilch<sep>bohner, beat, dr.<sep>durr, dieter, dr.<sep>pissiotas, georg, dr.<sep>rohr, otto, dr.<sep>böhner, beat, dr.hügelweg 3ch-4102 binningench<sep>dürr, dieter, dr.brändelistalweg 16ch-4103 bottmingench<sep>pissiotas, georg, dr.breslauer strasse 8d-7850 lörrachde<sep>rohr, otto, dr.kilbertweg 19ch-4106 therwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a 3-(2'-nitrophenoxy)-alpha-phenoxyalkanecarboxylic acid derivative of the general formula i  see diagramm : ep0000474,p15,f3 wherein r1 represents hydrogen, c1 -c4 alkyl or c2 -c8 alkoxyalkyl, r2 represents hydrogen or c1 -c4 alkyl, r3 represents halogen, cyano or nitro, r4 represents halogen, cyano or trifluoromethyl, a represents cyano or the group -cob, b represents a radical or5 , sr6 or nr7 r8 , r5 represents hydrogen or the cation of a base 1/n m**n (anion), wherein m represents an alkali metal or alkaline earth metal cation or an ammonium radical  see diagramm : ep0000474,p15,f4  n as integer 1, 2 or 3 corresponds to the valency of the cation, whilst ra , rb , rc and rd , each independently of the other, represent hydrogen, benzyl or an alkyl radical which is unsubstituted or substituted by -oh, -nh2 or c1 -c4 alkoxy ; and r5 further represents, a c1 -c8 alkyl radical which can be unsubstituted or substituted by halogen, cyano, nitro, hydroxyl or a 5- to 6-membered nitrogen-containing heterocyclic ring system, and a c2 -c8 alkyl radical which can be interrupted by oxygen, sulphur, nitrogen, carbonyl or carbonyloxy, a c3 -c6 cycloalkyl radical, a c3 -c6 alkenyl or alkynyl radical which can be substituted by halogen, a phenyl or benzyl radical which can be substituted by halogen, cyano, nitro, c1 -c4 alkyl, c1 -c4 alkoxy or trifluoromethyl, r6 represents a c1 -c8 alkyl radical which can be substituted by halogen, cyano, nitro or hydroxyl or interrupted by oxygen, sulphur, nitrogen, carbonyl or carbonyloxy, a c3 -c6 cycloalkyl radical, a c3 -c6 alkenyl or alkynyl radical which can be substituted by halogen, a phenyl or benzyl radical which can be substituted by halogen, cyano, nitro, c1 -c4 alkyl, c1 -c4 alkoxy or trifluoromethyl, r7 represents hydrogen, a c1 -c8 alkyl radical which can be substituted by halogen, cyano or hydroxyl, and a c2 -c8 alkyl radical which can be interrupted by oxygen, r8 represents a c1 -c4 alkyl radical or a c3 -c4 alkyl radical, and r7 and r8 , together with the nitrogen atom to which they are attached, also represent a 5- to 6-membered heterocyclic radical which can be interrupted by oxygen, sulphur, an imino, c1 -c4 alkylimino or phenylimino group. 
+</ABSTRACT>
+</TEXT>
+</DOC>

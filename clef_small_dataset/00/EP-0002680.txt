@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002680
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/325 <main>C07D-493/04</main> C07D-493/00 A61P-31/00 C07D-493/04 C07H-15/224 C07H-15/00 A61K-31/335 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+4-spectinomycylamin and its physiologically acceptable salts, method of preparation and pharmaceutical products containing these substances.
+</TITLE>
+<APPLICANT>
+thomae gmbh dr kde<sep>dr. karl thomae gmbh<sep>dr. karl thomae gmbhbirkendorferstrasse 65d-88397 biberachde<sep>dr. karl thomae gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+goeth hanns dr <sep>lechner uwe dr<sep>maier roland dipl-chem dr  <sep>reuter wolfgang dipl-chem dr<sep>wetzel bernd dipl-chem dr<sep>woitun eberhard dipl-chem dr<sep>goeth, hanns, dr.<sep>lechner, uwe, dr.<sep>maier, roland, dipl.-chem. dr.<sep>reuter, wolfgang, dipl.-chem. dr.<sep>wetzel, bernd, dipl.-chem. dr.<sep>woitun, eberhard, dipl.-chem. dr.<sep>goeth, hanns, dr.oberer bühl 6d-7950 biberach 1de<sep>lechner, uwe, dr.panoramastrasse 12d-7951 ummendorfde<sep>maier, roland, dipl.-chem. dr.eichendorffweg 36d-7950 biberach 1de<sep>reuter, wolfgang, dipl.-chem. dr.d-7951 laupertshausen 139de<sep>wetzel, bernd, dipl.-chem. dr.ginsterhalde 9d-7950 biberach 1de<sep>woitun, eberhard, dipl.-chem. dr.stecherweg 17d-7950 biberach 1de<sep>goeth, hanns, dr.<sep>lechner, uwe, dr.<sep>maier, roland, dipl.-chem. dr.<sep>reuter, wolfgang, dipl.-chem. dr.<sep>wetzel, bernd, dipl.-chem. dr.<sep>woitun, eberhard, dipl.-chem. dr.<sep>goeth, hanns, dr.oberer bühl 6 d-7950 biberach 1 de  <sep>lechner, uwe, dr.panoramastrasse 12d-7951 ummendorfde<sep>maier, roland, dipl.-chem. dr.eichendorffweg 36d-7950 biberach 1de<sep>reuter, wolfgang, dipl.-chem. dr.d-7951 laupertshausen 139de<sep>wetzel, bernd, dipl.-chem. dr.ginsterhalde 9d-7950 biberach 1de<sep>woitun, eberhard, dipl.-chem. dr.stecherweg 17d-7950 biberach 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention as a new substance relates to the 4-spectinomycylamine of the formula whose physiologically acceptable acid addition salts with inorganic or organic acids and their preparation according to known methods.The Spectinomycin of Formula I and its acid addition salts act against a large number of gram-positive and gram-proof bacteria and are characterized by a large therapeutic width, they are excellent for prophylaxis and chemotherapy of local and systemic infections in human and veterinary medicine.The Specinomycin can be prepared, for example, by reducing a spectinomycin oxime, optionally provided with protective groups, whereby the protecting group are subsequently rotated again.
+</ABSTRACT>
+</TEXT>
+</DOC>

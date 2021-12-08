@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001278
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/24 G02B-6/38 G02B-6/255 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+connecting method and device for optical fibres.
+</TITLE>
+<APPLICANT>
+cables de lyon geoffroy delorefr<sep>les cables de lyon societe anonyme dite:<sep>les cables de lyon société anonyme dite:170, avenue jean jaurèsf-69353 lyon cedex 2fr<sep>
+</APPLICANT>
+<INVENTOR>
+comte georges fr<sep>gauthier francis fr  <sep>comte, georges<sep>gauthier, francis<sep>comte, georges10, rue des noyersf-69005 lyonfr<sep>gauthier, franciseparvierf-42410 pelussinfr<sep>
+</INVENTOR>
+<ABSTRACT>
+a process and device permitting the connection of two optical fibres to one another.  the fibres are inserted into a sleeve (11) which is formed of a glass or silica capillary tube comprising at least one throat, the central zone of which possesses an internal diameter at most equal to that of the fibres (22, 23).  application to optical fibres.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

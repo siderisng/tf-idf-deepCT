@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003624
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-31/00 C07C-69/716 C07C-69/67 <main>C07C-69/67</main> C07C-67/30 C07C-69/00 C07C-67/347 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of the methyl ester of 4-oxopentane-1-carboxylic acid.
+</TITLE>
+<APPLICANT>
+stamicarbonnl <sep>stamicarbon b.v. <sep>stamicarbon b.v.mijnweg 1nl-6167 ac geleennl<sep>stamicarbon b.v. <sep>
+</APPLICANT>
+<INVENTOR>
+balg theodorus<sep>cramers constant maria alphons<sep>balg, theodorus<sep>cramers, constant maria alphons<sep>balg, theodorusbeethovenstraat 12nl-6438 kj oirsbeeknl<sep>cramers, constant maria alphonsburg. houbenstraat 23nl-6124 be obbichtnl<sep>balg, theodorus <sep>cramers, constant maria alphons  <sep>balg, theodorusbeethovenstraat 12nl-6438 kj oirsbeeknl<sep>cramers, constant maria alphonsburg. houbenstraat 23nl-6124 be obbichtnl<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved process for the preparation of the  methyl ester of 4-oxopentane-1-carboxylic acid by the  reaction of acetone with methyl acrylate.  the reactants  are reacted in a reaction zone in the presence of both a  primary amine and/or schiff base as catalyst, and an acid  compound to form a reaction mixture containing the  methyl ester.  the reaction mixture is distilled to form  a distillate containing unconsumed reactants and catalyst  and a residual liquid phase containing the methyl ester.  the distillate is recycled to the reaction zone, and  the methyl ester is recovered from the residual liquid  phase by a further distillation.  the amount of oxygen  dissolved in the reaction mixture is maintained at a level  below 20 parts by weight per million, and the distillation  of the reaction mixture is carried out at a temperature of  less than 195°c, at a pressure of at least atmospheric,  and in the presence of an inert solvent having a boiling  point of between 80 and 195°c.  
+</ABSTRACT>
+</TEXT>
+</DOC>

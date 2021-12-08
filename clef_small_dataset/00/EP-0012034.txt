@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012034
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-23/20 H01J-23/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+variable frequency magnetron.
+</TITLE>
+<APPLICANT>
+english electric valve co ltd gb<sep>english electric valve company limited<sep>english electric valve company limited106, waterhouse lanechelmsford, essex, cm1 2qugb<sep>
+</APPLICANT>
+<INVENTOR>
+pickering alan hughgb<sep>rowlands geoffrey johngb<sep>pickering, alan hugh<sep>rowlands, geoffrey john<sep>pickering, alan hughwellbeck pump lanespringfield chelmsford, essexgb<sep>rowlands, geoffrey john21, riversidechelmsford, essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the microwave output frequency of a magnetron can be  rapidly altered within a particular frequency band by chang­ ing the effective frequency of oscillation of a resonant cavity.   in a co-axial magnetron an annular cavity (1) is provided with  a movable end plate (6).  the plate (6) is attached to a mechani­ cal resonator, which takes the form of a tuning fork (7).  vibra­ tion of the tuning fork (7) causes a corresponding cyclic varia­ tion in the output frequency of the magnetron.  various con­ figurations in which tuning forks are mounted on a magnetron  are illustrated.  
+</ABSTRACT>
+</TEXT>
+</DOC>

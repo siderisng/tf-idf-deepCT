@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015623
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-18/00 <main>C23C-18/08</main> C23C-18/12 C01F-5/00 C09D-5/00 C01F-5/02 C09D-1/00 C01F-5/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnesium compositions and process for forming mgo film.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company  <sep>
+</APPLICANT>
+<INVENTOR>
+donohue paul christopher<sep>donohue, paul christopher<sep>donohue, paul christopher18 boulderbrook drivewilmington delaware 19803us<sep>donohue, paul christopher<sep>donohue, paul christopher18 boulderbrook drivewilmington delaware 19803us<sep>
+</INVENTOR>
+<ABSTRACT>
+a syrup of a magnesium compound is provided, which  is screen printable onto a surface and pyrolyzable to form  a mgo film thereon.  the syrup contains solvent, organic  magnesium compound dissolved in the solvent, and orga­ nic polymer thickener dissolved in the solvent.  
+</ABSTRACT>
+<DESCRIPTION>
+title magnesium compositions and process for forming mgo film technical field this invention relates to magnesium compositions which are useful for screen printing and pyrolysis to form an mgo film. background art m. o. aboelfotoh and j. a. lorenzen, "influence of secondary-electron emission from mgo surfaces on voltage-breakdown curves in penning mixtures for insulated-electrode discharges",j.appl.phys., vol.48, no 11, 4754-4759 (1977) discloses the formation of a mgo film on the surface of an a-c plasma display panel by sputtering, which involves use of an electron gun to volatilize a magnesium compound and then deposit it as a mgo film on the surface of the panel to a thickness of o about 3000 a. the disadvantage of this method of forming the mgo film is that sputtering is expensive. disclosure of invention the present invention provides a more economical method of forming an mgo film and a composition there for. the composition of the present invention is a screen printable syrup comprising organic solvent, organic magnesium compound soluble in the solvent, and organic polymer thickener soluble in- the solvent. solution of the organic polymer thickener in the solvent thickens the solution so that it is syrup-like in consistency at ordinary room temperature (200c). the components of the syrup are selected so that the syrup is pyrolyzable to form a transparent, colorless mgo filmy the process of the invention is conducted by screen printing of the syrup onto the desired surface, followed by pyrolyzing the syrup to form the mgo film on the surface. this process is useful in place of sputtering to form an mgo film on the surface of an a-c plasma display panel. further description of the invention and best mode the composition of the present invention contains three essential ingredients, organic magnesium compound, organic solvent and organic polymer thickener. the criteria for selecting these ingredients and preferred ingredients are set forth hereinafter. the organic magnesium compound is selected so that it is pyrolyzable to mgo film and is. soluble in the organic solvent used at ordinary room temperature. selection of the organic magnesium compound can be subject to the pyrolysis temperature that can be used. for example, current surfaces of a-c plasma displays are made- of lead-rich glass which undergoes a glass transition at a temperature above 450at. to avoid this transition, it is preferred that the organic magnesium compound is pyrolyzable to mgo film at a temperature up to 450as, examples of magnesium organic compounds that can be used are the oxygen-containing organic magnesium compounds such as magnesium carboxylates, e.g., magnesium cyclohexanebutyrate, magnesium diketones, e.g., magnesium acetylacetonate, and magnesium alcoholates, e.g magnesium. ethoxide.. preferably all the atoms bonded to the magnesium atom in the compound are oxygen atoms and organic carbon atoms are bonded to these oxygen atoms. the organic solvent component is selected so as to dissolve the remaining components of the syrup and to depart from the syrup without leaving any detectable residue during pyrolysis. typically, most or all of the solvent will evaporate in a
+</DESCRIPTION>
+<CLAIMS>
+ claims    1. a screen-printable syrup comprising organic solvent, organic magnesium compound soluble in'said solvent, and organic polymer thickener soluble in said solvent and thickening the resultant solution to form said syrup, said syrup being pyrolyzable to form a transparent colorless film of mgo.    2. the syrup of claim 1 wherein the components of said syrup are such as to be pyrolyzable at a temperature up to 4500c to form said film.    3. the syrup of claim   l    free of any water.     4. the syrup of claim l'wherein said organic magnesium compound is magnesium alcoholate.    5. the syrup of claim 1 wherein said organic magnesium compound is magnesium diketone.      6.    the syrup of claim 5 wherein said diketone is magnesium acetylacetonate.    7. the syrup of claim 1 wherein said organic magnesium compound is a magnesium carboxylate.    8. a process for forming an mgo film on a   surface    comprising screen printing the syrup of claim 1 on said surface and pyrolyzing said syrup to form said film.    9. the process of claim 8 wherein said pyrolyzing is at a temperature up to   4500c.       10. the process of claim 8 wherein said surface is the surface of an a-c plasma display panel and the resultant mgo film forms a protective layer thereon.  
+</CLAIMS>
+</TEXT>
+</DOC>

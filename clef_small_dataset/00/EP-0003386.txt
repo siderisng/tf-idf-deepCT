@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003386
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-51/20 B65H-54/02 B65H-51/00 B65H-51/30 B65H-51/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for simultaneously winding several spools with selected hardness.
+</TITLE>
+<APPLICANT>
+gilbos n textilmaschfbe<sep>textielmachinefabriek gilbos naamloze vennootschap<sep>textielmachinefabriek gilbos naamloze vennootschapgrote baan, 10 b-9310 aalst (herdersem) be <sep>
+</APPLICANT>
+<INVENTOR>
+gilbos georges emielbe<sep>gilbos, georges emiel<sep>gilbos, georges emielbredestraat 228b-9300 aalstbe<sep>
+</INVENTOR>
+<ABSTRACT>
+between the means (9) for reseparating the yarns of the strand formed, and each spool (24) of the reeler (22), there is provided a means (10 to 20) for bringing the yarn to the slackened state and for constituting a yarn reserve, and also at least one monitoring means (29) for monitoring the said yarn reserve and putting the speed of the yarn advancement means in agreement with this yarn reserve, and where there is provided another monitoring means (26) for monitoring the mass of yarn which is deposited in loops on the conveyor belt (1) and which passes through the yarn processing chamber (2), and to put the speed of one of the means (10 or 4) in agreement with this mass which means, advance the formed multiple strand or the individual yarns.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0011629
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-31/06 H01L-31/068 H01L-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+shallow-homojunction solar cells.
+</TITLE>
+<APPLICANT>
+massachusetts inst technologyus<sep>massachusetts institute of technology<sep>massachusetts institute of technology77 massachusetts avenuecambridge, ma 02139us<sep>
+</APPLICANT>
+<INVENTOR>
+bozler carl ous<sep>chapman ralph lus<sep>fan john c cus <sep>mcclelland robert wus   <sep>bozler, carl, o.<sep>chapman, ralph, l.<sep>fan, john, c.c.<sep>mcclelland, robert, w.<sep>bozler, carl, o.47 willard grant roadsudbury, ma 01776us<sep>chapman, ralph, l.23 oak streetwinchester, ma 01890us<sep>fan, john, c.c.239 south streetchestnut hill, ma 02167us<sep>mcclelland, robert, w.21 garfield avenueweymouth, ma 02188us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

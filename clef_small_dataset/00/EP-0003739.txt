@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003739
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60K-1/04 H01M-10/39 H02K-31/04 H01M-10/36 H01M-10/00 H02K-31/00 B60K-1/00 B60L-11/18 <main>B60L-11/18</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical vehicle drive train having a unipolar motor incorporating a variable liquid-metal electrical connection.
+</TITLE>
+<APPLICANT>
+ford france gb <sep>ford motor cogb<sep>ford werke aggb<sep>ford france societe anonyme<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company limited  <sep>ford-werke aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+janotik adam mario<sep>janotik, adam mario<sep>janotik, adam mario22745 meridiangrosse ille michigan 48138us<sep>janotik, adam mario<sep>janotik, adam mario22745 meridiangrosse ille michigan 48138us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electric vehicle drive train (10) having a unipolar  motor (110) connected between a dc source (12) of electrical  energy and a differential (14) or other mechanism for turning  the wheels of an electric vehicle.  the dc source (12) consists  of a low-voltage battery or thermoelectric generator which  has first and second electrodes.  one of the electrodes is the  container (26, 28, 118) of the dc source and the other source  electrode (35) is connected to a control member (116) forming  a part of the unipolar motor (110).  the unipolar motor  (110) is positioned within a recess (32) of the dc source container  (26, 28) and is in electrical contact therewith so that  current flows from the control member (116) of the motor,  through the motor's internal structure, and into the motor  housing portion (112) attached to the container.  this provides  a very compact electric vehicle drive train (10) with the  dc source (12) located as close as possible to the unipolar  motor (110).  preferably the motor is vertically positioned  between the dc source (12) located above it and the vehicle  differential (14) located beneath it.  
+</ABSTRACT>
+</TEXT>
+</DOC>

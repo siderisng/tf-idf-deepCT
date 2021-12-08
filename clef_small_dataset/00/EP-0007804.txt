@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007804
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05F-1/58</main> G05F-1/10 G05F-3/16 G05F-3/08 G05F-1/567 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a stabilising bias circuit having a desired temperature dependence.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited  <sep>
+</APPLICANT>
+<INVENTOR>
+toyoda kazuhiro<sep>toyoda, kazuhiro<sep>toyoda, kazuhiro39 sakuradai, midori-kuyokohama-shi, kanagawa 227jp<sep>toyoda, kazuhiro<sep>toyoda, kazuhiro39 sakuradai, midori-kuyokohama-shi, kanagawa 227jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a bias circuit, for driving a semiconductor integrated cir­ cuit, for example, comprises a stabilising power supply circuit  (31) for absorbing variation of the supply voltage and a control  circuit (35) for imparting a desired temperature dependence  on the level of an output voltage from the first stabilising  power supply circuit.  to avoid positive feedback between the  control circuit and the said stabilising power supply circuit  and thereby to provide more stable operation of the bias  circuit, the control circuit is driven by a regulated voltage from  a second stabilising power supply circuit (36).  then, the level  of the output voltage does not change with changes in the  supply voltage, the required temperature dependence can be  achieved and stable operation can be expected.  conse­ quently, the bias circuit of the invention is suitable to be  employed as a bias circuit for compensating for the  temperature-dependence of a semiconductor integrated cir­ cuit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

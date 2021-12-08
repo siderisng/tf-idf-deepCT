@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004218
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21C-1/00 F22B-1/00 F28D-7/16 G21C-15/00 F22B-1/06 G21C-15/18 <main>G21C-15/18</main> G21C-15/02 G21C-1/02 F28D-7/00 G21C-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fast nuclear reactor with at least one auxiliary heat exchanger.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>
+</APPLICANT>
+<INVENTOR>
+pomie pierre<sep>verriere philippe<sep>pomie, pierre<sep>verriere, philippe<sep>pomie, pierreparc rigaud les pinchinatsf-13100 aix en provencefr<sep>verriere, philippemontée des genêtsf-04100 manosquefr<sep>pomie, pierre  <sep>verriere, philippe<sep>pomie, pierreparc rigaud les pinchinatsf-13100 aix en provencefr<sep>verriere, philippemontée des genêtsf-04100 manosquefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Nuclear reactor comprising a vertical axle tank containing the core of the reactor and a coolant volume of the reactor, this tank being suspended under a horizontal closing slab, said reactor comprising at least one auxiliary exchanger.According to the invention, the auxiliary exchanger comprises a set of modules each comprising a circuit traversed by a cooling fluid, the modules of the same assembly being introduced one by one in the tank through a unique vertical cylindrical passage in theslab and closed after introduction of the modules by a protective cap, these modules being then arranged in the tank around an axial extension of said plug.Application to nuclear reactors with fast neutrons.
+</ABSTRACT>
+</TEXT>
+</DOC>

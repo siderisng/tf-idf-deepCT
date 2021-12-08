@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004548
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/163 <main>G02F-1/17</main> G02F-1/155 G09F-9/30 G09G-3/19 G09G-3/16 G02F-1/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochromic display device and method of operating the same.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation<sep>international business machines corporation old orchard road armonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+barclay donald john<sep>bird colin leonard<sep>martin david hugh<sep>morgan william morris<sep>barclay, donald john<sep>bird, colin leonard<sep>martin, david hugh<sep>morgan, william morris<sep>barclay, donald john1a broadview laneoliver's battery winchester hantsgb<sep>bird, colin leonard9 clifford placefair oak eastleigh hantsgb<sep>martin, david hugh147 bournemouth roadchandler's ford eastleigh hantsgb<sep>morgan, william morris7 keble roadchandler's ford eastleigh hantsgb<sep>barclay, donald john<sep>bird, colin leonard<sep>martin, david hugh <sep>morgan, william morris<sep>barclay, donald john 1a broadview lane oliver's battery winchester hants gb<sep>bird, colin leonard9 clifford placefair oak eastleigh hantsgb<sep>martin, david hugh147 bournemouth roadchandler's ford eastleigh hantsgb<sep>morgan, william morris7 keble roadchandler's ford eastleigh hantsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrochromic display, preferably employing an  organic electrochromic material such as heptyl viologen, has  display electrodes with a rough surface in contact with the  electrochromic material, and is operated at a current density  such that the diffusion depth of the material conforms to the  contours of the electrodes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012153
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-209/36 B01J-23/54 B01J-35/00 C07C-29/20 C07C-29/00 B01J-23/40 <main>B01J-23/58</main> B01J-23/44 B01J-37/00 B01J-35/10 B01J-37/02 C07C-85/11 B01J-37/03 B01J-23/89 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation and use of supported catalysts.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+birkenstock udo dr<sep>schmidt herbert<sep>birkenstock, udo, dr.<sep>schmidt, herbert,<sep>birkenstock, udo, dr.schneppersdelle 2d-4030 ratingen 8de<sep>schmidt, herbert,im hederichsfeld 52d-5090 leverkusen 3de<sep>birkenstock, udo, dr.<sep>schmidt, herbert,<sep>birkenstock, udo, dr.<sep>schmidt, herbert,<sep>birkenstock, udo, dr.schneppersdelle 2d-4030 ratingen 8de<sep>schmidt, herbert,im hederichsfeld 52d-5090 leverkusen 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to carrier catalysts with inert carrier material, which is first treated with a base-containing aqueous solution, and then soaked with a noble metal salt solution.The invention further relates to a method for the manufacture of such catalysts and their use, for example for hydrogenations.
+</ABSTRACT>
+</TEXT>
+</DOC>

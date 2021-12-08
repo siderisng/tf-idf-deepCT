@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003513
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B65B-51/26</main> B65B-51/16 B65B-51/26 B65B-51/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+skip-seal mechanism for packaging machine.
+</TITLE>
+<APPLICANT>
+pratt mfg corpus<sep>pratt manufacturing corp.<sep>bodolay packaging machinery, inc.p.o. box 406lakeland floridaus<sep>bodolay packaging machinery, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+todd henry earl<sep>todd, henry earl<sep>todd, henry earl72 shadow lanelakeland florida 33803us<sep>todd, henry earl<sep>todd, henry earl72 shadow lanelakeland florida 33803us<sep>
+</INVENTOR>
+<ABSTRACT>
+a skip seal mechanism for packaging machine in  which articles are heat-sealed between two continuous  webs of plastic material comprises two parallel synchronously  driven shafts (17, 20), each of which has a pair of  wheels (15, 16, 18, 19) on it which are brought into  pressure relationship for heat sealing.  one shaft (17) is  mounted for yielding perpendicularly to its rotational  axis and carries a cam follower disc (40, 41).  the follower  disc is raised intermittently and the seal wheels (15, 16,  18, 19) are thereby separated, to relieve pressure and omit  sealing, with a cam (44, 45) that is on the other shaft and is  engaged periodically for rotation by means of a clutch (47).  
+</ABSTRACT>
+</TEXT>
+</DOC>

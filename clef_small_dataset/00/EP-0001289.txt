@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001289
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-17/56 A61N-1/40 A61N-1/372 <main>A61B-17/18</main> A61N-1/378 A61N-1/32 A61B-17/58 A61N-1/05 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+supplementary device to transform a conventional osteosynthesis implant into an electric osteosynthesis implant.
+</TITLE>
+<APPLICANT>
+kraus werner<sep>kraus, werner<sep>kraus, werner, dipl.-ing.augustenstrasse 41d-80333 münchende<sep>kraus, werner<sep>
+</APPLICANT>
+<INVENTOR>
+kraus werner<sep>kraus, werner<sep>kraus, werner, dipl.-ing.augustenstrasse 41d-80333 münchende<sep>kraus, werner<sep>kraus, werner, dipl.-ing.augustenstrasse 41d-80333 münchende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  attachment (72) for converting a conventional osteosynthesis implant in form of an osteosynthesis plate (70) into an electrified ostesynthesis plate provided with a pick-up coil (24a) and at least two tissue electrodes, said electrodes being electrically coupled to terminals (76, 78) of said pick-up coil (24a) characterized in that said pick-up coil (24a) is positioned within a body (74, 74a) having said terminals (76, 78) serving as holding members for clamping to said osteosynthesis plate (70) ; that one of said terminals (76) is positioned and constructed so that it makes electrical contact with an electrically conductive surface of said osteosynthesis plate (70), when said attachement is attached to said osteosynthesis plate (70), said electrically conductive surface serving as tissue electrode ; and that the second terminal (78) is provided, as known per se, with a connecting device (80) for electrical and mechanical connection to an insulated bone screw which forms the second tissue electrode. 
+</ABSTRACT>
+</TEXT>
+</DOC>

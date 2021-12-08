@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006351
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-1/19 G06T-3/40 H04N-1/40 H04N-1/411 <main>H04N-1/00</main> H04N-1/387 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of processing image data.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation<sep>
+</APPLICANT>
+<INVENTOR>
+stoffel james c<sep>stoffel, james c.<sep>stoffel, james c.368 council rock avenuerochester new york 14610us<sep>stoffel, james c.<sep>stoffel, james c.368 council rock avenuerochester new york 14610us<sep>
+</INVENTOR>
+<ABSTRACT>
+one or more intermediate image lines (l1-1) are inter­ polated by comparing image pixels on a pixel by pixel or  multiple pixel basis one line pair at a time.  the pixel com­ parison provides an address (address) for a specific  image pixel pattern (127) held in memory store (125).  the  image pixel pattern addressed (output) is taken from  memory and used to form a part of the intermediate image  line or lines being interpolated.  the process is repeated  until the entire intermediate image line or lines has been  constructed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006578
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-64/00 B29C-35/08 C08J-7/00 C08J-9/26 C08G-63/64 C08G-63/00 B29C-59/00 C08L-69/00 C08J-7/02 C08J-9/00 B29C-59/16 C08G-64/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing moulding masses from polycarbonates cross-linked with energetic radiations, the obtained moulding masses and their use as membranes
+</TITLE>
+<APPLICANT>
+bayer ag de<sep>bayer aktiengesellschaft  <sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+adelmann siegfried drde<sep>bottenbruch ludwig drde<sep>margotte dieter drde<sep>adelmann, siegfried, dr.<sep>bottenbruch, ludwig, dr.<sep>margotte, dieter, dr.<sep>adelmann, siegfried, dr.bodelschwinghstrasse 18d-4150 krefeldde<sep>bottenbruch, ludwig, dr.wöhlerstrasse 5d-4150 krefeldde<sep>margotte, dieter, dr.wedelstrasse 48d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+the process is characterised in that thermoplastic polycarbonates which can be crosslinked by uv and/or other high-energy radiation are crosslinked at the surface by uv and/or other high-energy radiation, if necessary after addition of photoinitiators and possibly photoreducing agents and after shaping, and the uncrosslinked regions are subsequently dissolved out by suitable solvents. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur herstellung von formkörpern aus mittels uv- und/oder anderen energiereichen strahlen vernetzten polycarbonaten gegenstand der vorliegenden erfindung ist ein verfahren zur herstellung von formkörpern aus vernetzten polycarbonaten, dadurch gekennzeichnet, dass man durch uvund/oder andere energiereiche strahlung vernetzbare polycarbonate, gegebenenfalls nach zusatz von photoinitiatoren und gegebenenfalls photoreduktionsmitteln nach der formgebung an der oberfläche vernetzt und anschliessend die nicht vernetzten anteile durch geeignete lösungsmittel herauslöst. man erhält auf diese weise filme bzw. hohlkörper aus vernetzten polycarbonaten, die durch geeignete behandlung vom lösungsmittel isoliert werden oder im gel-zustand z.b. als membrane#verwandt werden. gegenstand der vorliegenden erfindung sind ausserdem formkörper aus mittels uv- und/oder anderen energiereichen strahlen vernetzten polycarbonaten, erhältlich nach dem vorstehend genannten verfahren. polycarbonate, die sich gemäss vorliegender erfindung mittels uv- und/oder anderer energiereicher strahlen vernetzen lassen, sind bekannt siehe beispielsweise dos 20 63 050 (le a 13 359), dos 26 15 038 (le a 16 842), dt-ps 12 21 012 (ue 1818) und dos 15 95 703 (le a 10 389)# bzw. in den nachfolgenden deutschen patentanmeldungen beschrieben: p 27 46 139.8 (le a 18 392), p 27 46 140.1 (le a 18 393) und p 27 46 141.2 (le a 18 394). demzufolge müssen durch uv- oder andere energiereiche strahlen vernetzbare polycarbonate entweder alkenyl gruppen oder labile c-h-bindungen oder benzophenon strukturen einkondensiert enthalten, um sie gegebenenfalls nach zusatz von photoinitiatoren und gegebenenfalls nach zusatz von photoreduktionsmitteln an ihrer oberfläche mehr oder weniger intensiv zu vernetzen. ausführliche zusätzliche erläuterungen können den nachfolgend genannten deutschen patentanmeldungen p 27 46 139.8 (le a 18 392), p 27 46 140.1 (le a 18 393) und p 27 46 141.2 (le a 18 394), sowie den am gleichen tage eingereichten patentanmeldungen p 28 29 258.2(le a 18 845), p 28 29 257.1 (le a 18 846) und p 28 29 256.o (le a 18 847) entnommen werden. derartige durch uv- oder andere energiereiche strahlen vernetzbare polycarbonate werden durch umsetzung von aromatischen diphenolen und phosgen nach bekannten verfahren beispielsweise dem zweiphasengrenzflächenverfahren aufgebaut (siehe beispielsweise us 30 28 365 und die monographie "h.schnell, chemistry and physics of polycarbonates, interscience publishers, new york, 1964). derartige durch uv- oder andere energiereiche strahlen vernetzbare polycarbonate sollen gewichtsmittelmole kulargewichte mw zwischen 10.000 und 200.000, vorzugsweise zwischen 20.000 und 80.000 haben (gemessen durch lichtstreuung in bekannter weise). aufgabe der vorliegenden erfindung war es nun, aus derartigen polycarbonaten vernetzte beziehungsweise unlösliche formkörper auf einfache weise herzustellen. dies wird erfindungsgemäss dadurch erreicht, dass man (die vorstehend beschriebenen) polycarbonate mit uv strahlen oder mit energiereicheren kathodenstrahlen nach vorheriger formgebung vernetzt und die unvernetzten bestandteile anschliessend herauslöst. als strahlungsquellen dienen handelsübliche uv-strahler, beispielsweise philips hto 4 oder 7, hanovia-strahler u.a. beziehungsweise handelsübliche elektronenstrahlhärter, beispielsweise 150 kv-elektronenbeschleuniger system esh 150 der polymer physik, tübbingen oder 320 kv-elektronenbeschleuniger, werner und pf leiderer, stuttgart. die bestrahlung erfolgt unter konventionellen bedingungen. als lösungsmittel für das herauslösen der unvernetzten anteile dienen übliche polycarbonat-lösungsmittel, wie z.b. methylenchlorid. das herauslösen der unvernetzten 0 anteile kann normalerweise bei raumtemperatur (20 - 30 c) erfolgen, in besonderen fällen im temperaturbereich bei 0 40 -
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche   1. verfahren zur herstellung von formkörpern aus ver netzten polycarbonaten, dadurch gekennzeichnet, dass man durch uv- und/oder andere energiereiche strahlung vernetzbare thermoplastische polycarbonate gegebenen falls nach zusatz von photoinitiatoren und gegebenen falls photoreduktionsmitteln nach der formgebung an der oberfläche mittels uv- und/oder andere energie reiche strahlung vernetzt und anschliessend die nicht vernetzten anteile durch geeignete lösungsmittel heraus löst.   2. formkörper aus uv- und/oder andere energiereiche strahlung vernetzten polycarbonaten, erhältlich gemäss verfahren des anspruchs 1.   3. verwendung der formkörper gemäss anspruch 2 als membrane.  
+</CLAIMS>
+</TEXT>
+</DOC>

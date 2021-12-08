@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000603
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-17/00 <main>G03G-17/04</main> G03G-17/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photoelectrophoretic multicolour imaging apparatus.
+</TITLE>
+<APPLICANT>
+eastman kodak co us <sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company  <sep>
+</APPLICANT>
+<INVENTOR>
+mir jose manuel<sep>mir, jose manuel<sep>mir, jose manuelkodak parkrochester n.y. 14650us<sep>mir, jose manuel<sep>mir, jose manuelkodak parkrochester n.y. 14650us<sep>
+</INVENTOR>
+<ABSTRACT>
+electronic imaging apparatus using multicolor photoconductive  particles.  the problem of providing color separation in a single  exposure cycle, electronically addressable, photoelectrophoretic  imaging system is solved by the provision of  electronic imaging apparatus using multicolor photoconductive  particles, the apparatus comprising an array of separately  addressable electrodes (e₁-e₆) that are energized selectively  in imagewise timed relation with sequential series of  light pulses, each pulse being of a wavelength to which only  one of the different particle color types in the imaging picture  is responsive and each series including at least one pulse of  each such wavelength.  
+</ABSTRACT>
+</TEXT>
+</DOC>

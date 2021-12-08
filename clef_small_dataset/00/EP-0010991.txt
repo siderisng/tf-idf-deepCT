@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010991
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09K-11/00 H01J-61/38 F21K-2/00 H01J-61/35 C09K-11/77 H01K-1/28 H01J-61/42 H01K-1/32 H01J-61/40 H01J-61/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+light source for illuminating objects with enhanced perceived coloration
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>
+</APPLICANT>
+<INVENTOR>
+riedel ernest paulus<sep>thornton william andrusus<sep>riedel, ernest paul<sep>thornton, william andrus<sep>riedel, ernest paul4472 kilmer drivemurrysville, pennsylvaniaus<sep>thornton, william andrus26 harvard roadcranford, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+light sources modified to provide enhanced perceived coloration of illuminated objects.  light sources as normally designed, without the present modification, have an envelope-enclosed source of radiations having appreciable emissions in the wavelength range of from 565 nm to 595 nm plus substantial emissions of visible radiations of wavelengths shorter than 565 nm.  a phosphor is carried on the surrounding envelope and is operable to absorb radiations in the wavelength range of from 565 nm to 595 nm and to convert absorbed radiations to longer wavelength emission in the range of from 596 nm to 640 nm. 
+</ABSTRACT>
+</TEXT>
+</DOC>

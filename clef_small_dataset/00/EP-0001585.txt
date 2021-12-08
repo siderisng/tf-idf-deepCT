@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001585
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-487/14 C07D-207/333 C07D-207/335 A61P-25/00 A61K-31/55 C07D-487/04 A61P-25/24 C07D-209/48 C07D-487/00 <main>C07D-487/14</main> C07D-207/32 A61P-25/20 A61P-25/26 C07D-209/00 C07D-207/00 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+piperazino-pyrrolobenzodiazepines, methods for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+wasley jan w f<sep>wasley, jan w.f.<sep>wasley, jan w.f.55 floral streetchatham new jersey 07928us<sep>wasley, jan w.f.<sep>wasley, jan w.f.55 floral streetchatham new jersey 07928us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a 1,3,4,14b-tetrahydro-2h, 10h-pyrazino[1,2-a]pyrrolo[2,1-c][1,4]benzodiazepine of the general formula i  see diagramm : ep0001585,p19,f1  wherein each of r1 , r3 and r4 is hydrogen or lower alkyl ; r2 is hydrogen, lower alkyl or higher alkyl, lower alkenyl, lower alkynyl, cycloalkyl or cycloalkenyl, each containing 3 to 7 ring members, or (cycloalkyl, hydroxy, amino, mono- or di-lower alkylamino, carboxy, lower carbalkoxy, carbamoyl, mono- or di-lower alkylcarbamoyl, hph, lower alkanoyl or hphco)-lower alkyl ; ph is 1,2-phenylene which can be substituted by at most two members selected from the group consisting of lower alkyl, lower alkoxy, lower alkylthio, halogen and trifluoromethyl ; c2 h2n is lower alkylene separating both nitrogen atoms by 2 or 3 carbon atoms and r5 is hydrogen, lower alkyl, carboxy, lower carbalkoxy or (hydroxy, amino, mono- or di-lower alkylamino)-lower alkyl ; the lower alkoxycarbonyl, lower or higher alkanoyl, adamantoyl, carbamoyl, mono- or di-lower alkylcarbamoyl derivates, cycloalkyl-carbonyl derivatives containing 3 to 7 ring members, or hphco-derivatives ; the 2-n-oxide, 2-lower alkyl or 2-hph-lower alkyl quaternary ammonium derivatives and salts thereof. 
+</ABSTRACT>
+</TEXT>
+</DOC>

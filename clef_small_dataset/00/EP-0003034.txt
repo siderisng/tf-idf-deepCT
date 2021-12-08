@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003034
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-17/26 H01L-23/02 H01L-23/04 C04B-37/04 C03C-29/00 C03C-27/00 C03C-27/04 H01L-23/049 <main>H01L-23/10</main> H01L-23/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+housing for power semiconductor device.
+</TITLE>
+<APPLICANT>
+siemens ag de <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+vogt herbert<sep>wassill lothar<sep>wengler christian<sep>vogt, herbert<sep>wassill, lothar<sep>wengler, christian<sep>vogt, herbertmaximilianstrasse 46d-8000 münchen 22de<sep>wassill, lotharschumacherring 21d-8000 münchen 83de<sep>wengler, christianmilbertshofener platz 17d-8000 münchen 40de<sep>vogt, herbert  <sep>wassill, lothar <sep>wengler, christian<sep>vogt, herbertmaximilianstrasse 46d-8000 münchen 22de<sep>wassill, lotharschumacherring 21d-8000 münchen 83de<sep>wengler, christianmilbertshofener platz 17d-8000 münchen 40de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a glass feedthrough, preferably for housing for semiconductor devices.To increase the creepage path between the metal parts (1, 4, 5) of the glass feedthrough, melting on the glass part (2) a preferably manner made of ceramic existing insulating body (3).The end faces of the ceramic ring (3) may be chamfered so that a capillary gap (9) is formed between the glass part (2) and the ceramic ring (3).
+</ABSTRACT>
+</TEXT>
+</DOC>

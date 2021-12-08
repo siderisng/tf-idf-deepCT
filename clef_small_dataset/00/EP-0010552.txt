@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010552
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-17/00 <main>H04B-17/00</main> H04B-1/10 G05B-1/00 H03J-3/00 H03J-3/14 H04B-1/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuit for measuring the reception quality of a frequency modulated very high frequency signal.
+</TITLE>
+<APPLICANT>
+bossert theodor tobias dipl ph<sep>bossert, theodor tobias, dipl.-phys.<sep>bossert, theodor tobias, dipl.-phys.buchenweg 10d-8056 neufahrnde<sep>bossert, theodor tobias, dipl.-phys.  <sep>
+</APPLICANT>
+<INVENTOR>
+bossert theodor tobias dipl-ph<sep>bossert, theodor tobias, dipl.-phys.<sep>bossert, theodor tobias, dipl.-phys.buchenweg 10d-8056 neufahrnde<sep>bossert, theodor tobias, dipl.-phys.<sep>bossert, theodor tobias, dipl.-phys.buchenweg 10d-8056 neufahrnde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method for measuring the reception quality of a frequency modulated vhf signal, in which the amplitude that has been modulated by wave reflections and the frequency omega of the vhf signal are separately ascertained and therefrom derived a criterion of the degree of the reception quality, characterized in that in order to ascertain the quotient a/a0 the momentary frequency deviation "zero" of the vhf signal is detected (40, 90) and in dependence on this zero detection there is activated an amplifying control (100) for the signal branch (70, 80) in order to ascertain the vhf signal amplitude (a), wherein a0 is the amplitude of the received vhf signal in absence of reflections and at the momentary frequency deviation "zero", and further characterized in that the derivative of the quotient a/a0 with respect to the frequency omega is formed, the maximum value of said derivative is directly forming the degree for the reception quality. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012616
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04C-29/02 F04C-29/00 <main>F04C-18/02</main> F04C-18/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+scroll-type fluid compressor unit.
+</TITLE>
+<APPLICANT>
+sanden corpjp<sep>sanden corporation<sep>sanden corporation20 kotobuki-choisesaki-shi gunma-kenjp<sep>sanden corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+hiraga masaharu<sep>terauchi kiyoshi<sep>hiraga, masaharu<sep>terauchi, kiyoshi<sep>hiraga, masaharu1757-13, kamiuekihonmachiisesaki-shi, gunma-kenjp<sep>terauchi, kiyoshi8-14, heiwa-choisesaki-shi, gunma-kenjp<sep>hiraga, masaharu<sep>terauchi, kiyoshi<sep>hiraga, masaharu1757-13, kamiuekihonmachiisesaki-shi, gunma-kenjp<sep>terauchi, kiyoshi8-14, heiwa-choisesaki-shi, gunma-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a scroll type compressor unit including a compressor  housing having fluid inlet and outlet ports, and fixed and orbit­ ing scroll members disposed within the compressor housing,  each scroll member having an end plate a spiral element.  the  scroll members are so maintained angularly and radially off­ set that the spiral elements interfit to make a plurality of line  contacts between their spiral curved surfaces, thereby to de­ fine moving sealed off pockets.  in order that fluid may be se­ curely taken into all of the fluid pockets, the end plate (241) of  the fixed scroll member is formed with a suction port (244)  connected to the fluid inlet port at a position adjacent to the  outer terminal end of the orbiting spiral element.  part of the  fluid introduced through the suction port is taken into a fluid  pocket which is formed at the outer terminal end portion of  the orbiting spiral element and part is sent along the outer  surface of the orbiting spiral element to a fluid pocket which  is formed at the outer terminal end of the fixed spiral element.   the fixed spiral element (242) is extended so that its outer  terminal end engages with the inner surface of the compres­ sor housing, and a seal plate member is arranged to close a  gap between the inner surface of the housing and the periph­ eral surface of the orbiting end plate, so that the fluid sent to  the outer terminal end portion of fixed spiral element is pre-­ compressed.  in order to lubricate a bearing supporting a drive shaft  and other mechanisms for driving the orbiting scroll member,  an oil separator plate is arranged so as to prevent fluid from  the inlet port from directly flowing into the suction port and to  separate out the lubricating oil mixed in with the fluid.  the se­ parated oil is fed to the drive shaft supporting bearing and the  other mechanisms to lubricate them.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013133
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-37/78</main> C07C-37/00 C07C-37/78 C07C-67/00 C07C-39/07 C07C-39/00 C07C-27/00 C07C-39/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for separation of alkylphenols by azeotropic distillation.
+</TITLE>
+<APPLICANT>
+mitsui petrochemical indjp<sep>mitsui petrochemical industries, ltd.<sep>mitsui petrochemical industries, ltd.2-5, kasumigaseki 3-chome chiyoda-ku tokyo 100 jp <sep>mitsui petrochemical industries, ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+fujimoto tadaaki<sep>takahata kazunori<sep>taniguchi katsuo<sep>fujimoto, tadaaki<sep>takahata, kazunori<sep>taniguchi, katsuo<sep>fujimoto, tadaaki1749, shimokubara niomaru shuto-chokuga-gun, yamaguchi-kenjp<sep>takahata, kazunori2-6, misono 1-chomeohtake-shi, hiroshima-kenjp<sep>taniguchi, katsuo2-4, muronoki-cho 1-chomeiwakuni-shi, yamaguchi-kenjp<sep>fujimoto, tadaaki<sep>takahata, kazunori  <sep>taniguchi, katsuo<sep>fujimoto, tadaaki1749, shimokubara niomaru shuto-chokuga-gun, yamaguchi-kenjp<sep>takahata, kazunori2-6, misono 1-chomeohtake-shi, hiroshima-kenjp<sep>taniguchi, katsuo2-4, muronoki-cho 1-chomeiwakuni-shi, yamaguchi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+in the separation of at least two alkyl phenols having  close boiling points by azeotropic distillation of a mixture  composed of the alkyl phenols with a hydrocarbon azeotrop­ ing agent, the use, as hydrocarbon azeotroping agent, of satu­ rated aliphatic hydrocarbons of 9 to 13 carbon atoms having a  boiling point of 150 to 190°c at 760 mmhg provides an  improved separating efficiency.  
+</ABSTRACT>
+</TEXT>
+</DOC>

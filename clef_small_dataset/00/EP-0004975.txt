@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004975
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07J-7/00</main> A61K-31/58 C07J-71/00 C07J-7/00 A61K-31/57 C07J-31/00 C07J-21/00 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+17-alkylcarbonates of corticoids, process for their preparation and their use as medicines against dermatoses.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+alpermann hans georg dr<sep>fritsch werner dr<sep>sandow jurgen kurt dr<sep>stache ulrich dr<sep>alpermann, hans georg, dr.<sep>fritsch, werner, dr.<sep>sandow, jurgen kurt, dr.<sep>stache, ulrich, dr.<sep>alpermann, hans georg, dr.am eichkopf 10d-6240 königstein/taunusde<sep>fritsch, werner, dr.fuchshohl 1d-6232 bad soden am taunusde<sep>sandow, jürgen kurt, dr.am haideplacken 22d-6240 köningstein/taunusde<sep>stache, ulrich, dr.goldgraben 20d-6238 hofheim am taunusde<sep>alpermann, hans georg, dr.<sep>fritsch, werner, dr.  <sep>sandow, jurgen kurt, dr. <sep>stache, ulrich, dr.<sep>alpermann, hans georg, dr.am eichkopf 10d-6240 königstein/taunusde<sep>fritsch, werner, dr.fuchshohl 1d-6232 bad soden am taunusde<sep>sandow, jürgen kurt, dr.am haideplacken 22d-6240 köningstein/taunusde<sep>stache, ulrich, dr.goldgraben 20d-6238 hofheim am taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+The application relates to steroid-21-halogen-17-alkyl carbonates with anti-inflammatory properties which are suitable for treating inflammatory dermatoses and a method for their preparation by introducing the halogen atom into corresponding 21-sulfonates or 17.21-dialkylcarbonates.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008390
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-8/22 <main>C08G-8/18</main> C08G-8/04 C08J-9/30 C08J-9/00 C08L-61/12 C08G-16/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of a foamed resin.
+</TITLE>
+<APPLICANT>
+bauer schaum chemde<sep>schaum-chemie±w.±bauer gmbh & cokg<sep>schaum chemie wilhelm bauer gmbh &amp; co. kghilgerstrasse 20w-4300 essen 1de<sep>schaum-chemie w. bauer gmbh & cokg<sep>
+</APPLICANT>
+<INVENTOR>
+baumann heinz<sep>baumann, heinz<sep>baumann, heinzrömerstrasse 15d-6711 kleinniedesheimde<sep>baumann, heinz  <sep>baumann, heinzrömerstrasse 15d-6711 kleinniedesheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+Plastics can be prepared if at least one, sulfonic-acid group-containing compound in the presence of a hydroxy compound in an acidic concentrated aqueous solution with a water content of 20 to 30% with at least one aldehyde with stirring is reacted with or without heat.In the same way and using the same monomeric components, but the addition of a surfactant in a conventional for foam herstel lung dilution to the aldehyde, foam plastics can be produced in a conventional foaming system without prior polymerization of the monomeric reaction participants.
+</ABSTRACT>
+</TEXT>
+</DOC>

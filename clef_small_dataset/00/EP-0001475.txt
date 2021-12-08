@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001475
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/20 <main>G03G-15/20</main> G05D-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+xerographic copier system including a hot roll fuser.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+brandon fred young<sep>brandon, fred young<sep>brandon, fred young4775 harrison avenueboulder colorado 80303us<sep>brandon, fred young<sep>brandon, fred young4775 harrison avenueboulder colorado 80303us<sep>
+</INVENTOR>
+<ABSTRACT>
+the rolls (31, 32) of a hot roll fuser are normally closed  at a predetermined time prior to the arrival of a copy  sheet at the roll nip.  if, however, the temperature of the  backup roll (32) exceeds a predetermined value, the rolls  are closed at a shorter time before the copy sheet arrival.   a sensor (50) is coupled to threshold circuit (53) which  applies enabling inputs to and gates (64, 66).  these gates  receive timing signals from a counter and decoder system  (71, 73, 74, 75) and, in accordance with the output from  the threshold circuit (53) apply either an early or a late  pulse to a fuser roll closure latch (78).  instead of directly  measuring the backup roll temperature, the timing of opening  and closing of the fuser rolls may be monitored to predict  the temperature of the backup roll.  
+</ABSTRACT>
+</TEXT>
+</DOC>

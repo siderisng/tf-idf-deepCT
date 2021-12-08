@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010154
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-33/00 A01N-53/06 C07C-33/46 A01N-53/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+soil insecticides containing substituted benzylcyclopropane carboxylates (i) as active compounds, preparation of these insecticides, control of soil insects by the esters (i) and substituted benzylcyclopropane carboxylates.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende <sep>
+</APPLICANT>
+<INVENTOR>
+homeyer bernhard drde<sep>klauke erich drde<sep>marhold albrecht drde<sep>naumann klaus drde<sep>homeyer, bernhard, dr.<sep>klauke, erich, dr.<sep>marhold, albrecht, dr.<sep>naumann, klaus, dr.<sep>homeyer, bernhard, dr.obere strasse 28d-5090 leverkusen 3de<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthalde<sep>marhold, albrecht, dr.carl-duisberg-strasse 329d-5090 leverkusen 1de<sep>naumann, klaus, dr.wolfskaul 2d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+the substituted benzyl cyclopropanecarboxylates, some of which are known, of the general formula i <image> in which r represents ch3, cl, br or f; x represents cl, br or i; y represents cl or f; and m and n represent integers from 0 to 5, with the condition that m and n are not simultaneously zero, are suitable for the control of soil insects.  the novel compounds among the compounds of the general formula i can be prepared by reaction of an appropriate reactive acid derivative with the corresponding alcohol or its reactive derivative. 
+</ABSTRACT>
+<DESCRIPTION>
+mittel gegen bodeninsekten die vorliegende erfindung betrifft die verwendung teilweise bekannter cyclopropancarbonsäureester als bodeninsektizide. es ist bereits bekannt geworden, dass ester von 2,2-dime thyl-(3-substituiertes vinyl) -cyclopropancarbonsauren mit substituierten benzylalkoholen insektizide eigenschaften aufweisen. (pestic. sci. 1975, s. 537 - 542; agr. biol. chem. 40, s. 247 - 249 (1976); fr-ps 2 290 415, fr-ps 2 271 196; de-os 2 658 074). von den eingehend untersuchten, interessanten pyrethroiden ist bekannt geworden, dass sie als bodenininsektzide nicht geeignet sind (pestic. sci. 1977, s. 241, pestic. sci. 1977 s. 267, proceeding 1977 breit crop. protect. conf. band 2, s. 647 und 655). daraus wurde geschlossen, dass pyrethroide allgemein als bodeninsektizide nicht geeignet seien (pestic. sci. 1977, s. 267; nachr. chem. techn. laib. 26 (1978) nr. 3 5. 121). es wurde nun gefunden, dass die substituierten cyclopropancarbonsäureester der allgemeinen formel 1 emi2.1 in welcher r für ch3, cl, br, f und x für cl, br, j und y für cl, f steht und m und n für ganze zahlen von 0 bis 5 stehen können, unter der voraussetzung, dass m und n nicht gleichzeitig 0 sein können, hochwirksame bodeninsektizide sind. dieser überraschende befund, welcher nach dem bisherigen wissen nicht erwartet werden konnte, stellt somit eine wertvolle bereicherung der technik dar. die substituierten cyclopropancarbonsäureester der formel i sind zum teil bekannt aus de-os 2 658 074 und fr-ps 2 271 196 und fr-ps 2 290 415. die substituierten cyclopropancarbonsäureester der formel i in welcher r die oben angegeber.e bedeutung hat und x für br, j und y für c, f und m für eine ganze zahl von 1 bis 3 und n für eine ganze zahl von 0 bis 4 stehen sind neu. sie werden hergestellt, inden man a) ein säurechlorid der formel ii emi3.1 in welcher r die oben angegebene bedeutung hat, mit einem alkohol der formel iii emi3.2 in welcher x, y, m und n die oben angegebene bedeutung haben, bei temperaturen zwischen 20 und 1000c.gegebenenfalls in gegenwart eines verdünnungsmittels oder eines säurefängers umsetzt, oder indem man b) ein salz der allgemeinen formel iv emi4.1 in welcher r die oben angegebene bedeutung hat und m ein alkali oder erdalkalikation, oder ein pri märes, sekundäres oder tertiäres ammoniumion bedeu tet, mit einem benzylhalogenid der allgemeinen formel v emi4.2 in welcher hal für cl, br steht und x, y, m und n die oben angegebene bedeutung habe!;, in einem polaren lösungsmittel bei temperaturen zwischen 20 und 1200 umsetzt. die erfindungsgemäss verwendbaren stoffe sind durch die formel i allgemein definiert. darin ist r vorzugsweise gleich oder verschieden und steht für methyl, f bzw. chlor oder brom, insbesondere für chlor oder brom, m steht vorzugsweise für ganze zahlen von 0 bis 5, n steht vorzugsweise für ganze zahlen von 0 bis 5. die verbindungen kommen in form ihrer stereoisomeren vor. die substituenten am cyclopropanring können cis oder trans zueinander stehen. die kohlenstoffatome c1 und c3 können jeweils die r und/oder s-konfiguration aufweisen und somit zu optisch aktiven bzw. racemischen cis und/ oder trans-isomeren führen. als beispiele für die
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche: 1. bodeninsektizide mittel gekennzeichnet durch einen gehalt an substituierten cyclopropancarbonsäureestern der allgemeinen formel i emi24.1       in welcher r für ch3, c1, br, f und x für c1, br, j und y für c1, f steht, und m und n für ganze zahlen von 0 bis 5 stehen können, unter der voraussetzung, dass m und n nicht gleichzeitig 0 sein können.    2. verwendung von substituierten cyclopropancarbonsäure estern der formel i zur bekämpfung von bodeninsekten.   3. verfahren zur bekämpfung von bodeninsekten, dadurch gekennzeichnet, dass man substituierte cyclopropan carbonsäureester der formel i auf bodeninsekten und/oder ihren lebensraum einwirken lässt.     4. verfahren zur herstellung bodeninsektizider mittel, dadurch gekennzeichnet, dass man substituierten cyclo propancarbonsäureester der formel i mit streckmitteln und/oder oberflächenaktiven mitteln vermischt.   5. substituierten cyclopropancarbonsäureester der formel i in welcher r die oben angegebene bedeutung hat x für brom oder jod und y für chlor oder fluor und m für eine   ganze    zahl von 1 bis 3 und n für   erne      canze    zahl von 0 bis 4 steht.  
+</CLAIMS>
+</TEXT>
+</DOC>

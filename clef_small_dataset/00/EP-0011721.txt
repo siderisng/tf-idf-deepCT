@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011721
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06K-1/20 B41J-3/01 G06K-15/02 G06K-15/08 <main>G06K-1/20</main> B41J-3/44 B41J-3/00 G06K-1/12 G06K-17/00 G06K-1/00 B41J-3/51 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for printing data in human readable and machine readable forms.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+durbeck robert charles<sep>eswaran kapali palaniyandi<sep>durbeck, robert charles<sep>eswaran, kapali palaniyandi<sep>durbeck, robert charles137 forest hill drivelos gatos ca 95030us<sep>eswaran, kapali palaniyandi3307 nesta drivesan jose ca 95118us<sep>durbeck, robert charles<sep>eswaran, kapali palaniyandi<sep>durbeck, robert charles137 forest hill drivelos gatos ca 95030us<sep>eswaran, kapali palaniyandi3307 nesta drivesan jose ca 95118us<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for printing data on a document includes two  printing devices.  the first printing device 42 prints the data in  human readable form on a document.  the second printing  device 52 also prints the data on the document in a form  which can be read by an optical reading system.  the first printing device operates in response to data  signals supplied to the apparatus, from a keyboard 32 or  otherwise, to print on one portion of the document.  simul­ taneously coded representations of the data being printed  are produced and stored.  the second printing device operates in response to the  coded representation of the data and prints further represen­ tations of the data on another portion of the document.   these representations can be read using an optical reading  system.  the coded representations can include additional code  providing for error correction.  
+</ABSTRACT>
+</TEXT>
+</DOC>

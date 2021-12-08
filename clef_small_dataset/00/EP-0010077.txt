@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010077
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03L-7/06</main> H03K-5/22 H03K-5/26 H04L-7/02 H03L-7/085 H03L-7/08 H04L-7/033 H04L-7/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of and an arrangement for regulating the phase position of a controlled signal in relation to a reference signal in a telecommunication system.
+</TITLE>
+<APPLICANT>
+ericsson telefon ab l m se  <sep>telefonaktiebolaget l m±ericsson<sep>telefonaktiebolaget l m ericssonpatent and trademark departments-126 25 stockholmse<sep>telefonaktiebolaget l m ericsson <sep>
+</APPLICANT>
+<INVENTOR>
+andersson karl arne ingemar<sep>roos sture gosta<sep>andersson, karl arne ingemar<sep>roos, sture gosta<sep>andersson, karl arne ingemarnolsjös-180 23 ljusteröse<sep>roos, sture göstabox 9s-760 10 bergshamrase<sep>andersson, karl arne ingemar <sep>roos, sture gosta<sep>andersson, karl arne ingemarnolsjös-180 23 ljusteröse<sep>roos, sture göstabox 9s-760 10 bergshamrase<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a method for regulating the  phase position of a controlled signal in relation to the  phase position of a reference signal in a telecommunica­ tion system, and an arrangement for carrying out the  method.  the reference signal (c2) is delayed in a delay cir­ cuit (dl1) and the delayed reference signal (d1) is com­ pared with a controlled signal (c1) in a first comparison  circuit (ff1) which produces a first comparison signal (q1)  at a high or a low level in dependence on the phase differ­ ence between the delayed reference signal (d1) and the  controlled signal (c1).  the controlled signal (c1) is delayed  in a delay circuit (dl2) and the delayed controlled signal  (d2) is compared in a second comparison circuit (ff2) with  reference signal (c2).  the second comparison circuit (ff2)  produces a second comparison signal (q2) which is at a  high or a low level in dependence on the phase difference  between the signal (d2) and the reference signal (c2).  the  outputs from the comparison circuits (ff1), ff2) are con­ nected to a logic circuit (lc).  in dependence on the signal  combination received at its inputs the logic circuit pro­ duces a binary control signal which is used to correct the  phase position of the controlled signal (c1) in relation to  the phase position of the reference signal (c2).  
+</ABSTRACT>
+</TEXT>
+</DOC>

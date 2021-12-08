@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002281
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-18/02 C08G-18/09 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of carbodiimide-isocyanurate foams.
+</TITLE>
+<APPLICANT>
+basf wyandotte corpus<sep>basf wyandotte corporation<sep>basf wyandotte corporation1609 biddle avenuewyandotte michigan 48192 us<sep>
+</APPLICANT>
+<INVENTOR>
+cenker moses us <sep>narayan thirumurtius<sep>wulff harald peterus<sep>cenker, moses<sep>narayan, thirumurti<sep>wulff, harald peter<sep>cenker, moses2640 trenton drivetrenton michigan 48183us<sep>narayan, thirumurti14236 hamilton roadriverview michigan 48192us<sep>wulff, harald peter12375 east milburnbaton rouge louisiana 70809us<sep>
+</INVENTOR>
+<ABSTRACT>
+rigid foams characterized by carbodiimide and isocyanurate  linkages are prepared by catalytically condensing an  organic polyisocyanate in the presence of (a) a carbodiimide-promoting  compound and (b) certain c₁-c₈ alkali metal  carboxylates as trimerization catalysts.  
+</ABSTRACT>
+</TEXT>
+</DOC>

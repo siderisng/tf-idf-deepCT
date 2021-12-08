@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011691
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C04B-7/44 C04B-7/43 C04B-7/00 B01J-6/00 F27B-7/20 F27D-13/00 <main>C04B-7/44</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat-treatment method for fine-grained material.
+</TITLE>
+<APPLICANT>
+krupp polysius agde<sep>krupp polysius ag<sep>krupp polysius aggraf-galen-strasse 17d-59269 beckumde<sep>krupp polysius ag<sep>
+</APPLICANT>
+<INVENTOR>
+bauer klaus ing grad<sep>dreyer dieter ing grad<sep>durr manfred dipl-ing<sep>goldmann wolf dipl-ing<sep>holsiepe dietmar<sep>mersmann heinz georg ing grad<sep>michaelsen dieter ing grad <sep>tiggesbaumker peter dipl-ing <sep>bauer, klaus, ing. (grad.)<sep>dreyer, dieter, ing. (grad.)<sep>durr, manfred, dipl.-ing.<sep>goldmann, wolf, dipl.-ing.<sep>holsiepe, dietmar<sep>mersmann, heinz georg, ing. (grad.)<sep>michaelsen, dieter, ing. (grad.)<sep>tiggesbaumker, peter, dipl.-ing.<sep>bauer, klaus, ing. (grad.)von ketteler-strasse 11d-4740 oeldede<sep>dreyer, dieter, ing. (grad.)mohnstrasse 13d-4722 ennigerlohde<sep>dürr, manfred, dipl.-ing.brodhagen 28d-4740 oeldede<sep>goldmann, wolf, dipl.-ing.agnes-miegel-strasse 9d-4720 beckumde<sep>holsiepe, dietmarkirschweg 13d-4722 ennigerlohde<sep>mersmann, heinz georg, ing. (grad.)christian-grabbe-strasse 11d-4720 beckumde<sep>michaelsen, dieter, ing. (grad.)werseweg 68d-4720 beckumde<sep>tiggesbäumker, peter, dipl.-ing.prozessionsweg 5d-4740 oeldede<sep>bauer, klaus, ing. (grad.)<sep>dreyer, dieter, ing. (grad.)<sep>durr, manfred, dipl.-ing.<sep>goldmann, wolf, dipl.-ing.<sep>holsiepe, dietmar<sep>mersmann, heinz georg, ing. (grad.)<sep>michaelsen, dieter, ing. (grad.)<sep>tiggesbaumker, peter, dipl.-ing.<sep>bauer, klaus, ing. (grad.)von ketteler-strasse 11 d-4740 oeldede<sep>dreyer, dieter, ing. (grad.) mohnstrasse 13 d-4722 ennigerloh de<sep>dürr, manfred, dipl.-ing.brodhagen 28d-4740 oeldede<sep>goldmann, wolf, dipl.-ing.agnes-miegel-strasse 9d-4720 beckumde<sep>holsiepe, dietmarkirschweg 13d-4722 ennigerlohde<sep>mersmann, heinz georg, ing. (grad.)christian-grabbe-strasse 11d-4720 beckumde<sep>michaelsen, dieter, ing. (grad.)werseweg 68d-4720 beckumde<sep>tiggesbäumker, peter, dipl.-ing.prozessionsweg 5d-4740 oeldede<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for the heating treatment of fine-grained good, which is preheated in a cyclone preheater (5), deaviated in a preliminal concalation zone (7) by additional lichen fuel and then fried in a rotary tube furnace (6).In this case, a Gastempe Rature (14,15) cyclone preheater (5) and the good tempera tura (16, 17) after passing the preliminal concalation zone (7) is measured, the difference of these temperatures determines and the control of a maximum or minimum value of the temperature differenceThe fuel supply to the calcination zone (7) to manual operation.In this way, a rapid adjustment of the amount of fuel to the respective ratios is achieved in this way.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008640
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10K-1/00 C10G-19/00 B01D-53/48 C10G-21/06 <main>B01D-53/34</main> B01D-53/14 C01B-17/05 C10G-19/04 C10G-27/12 C10G-27/00 C10K-1/08 C10K-1/12 C01B-17/00 B01D-53/77 B01D-53/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the removal of hydrogen sulfide from gases or liquid hydrocarbons and gases or liquid hydrocarbons thus purified.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+marshall alan dr<sep>marshall, alan, dr.<sep>marshall, alan, dr.24, newquay drive broken crossmacclesfield, cheshiregb<sep>marshall, alan, dr.<sep>marshall, alan, dr.24, newquay drive broken crossmacclesfield, cheshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for removing H₂S from gases or liquid hydrocarbons.The latter is carried out by an aqueous alkaline solution with pH 8-10, which of a) an anthraquinone disulfonic acid or its water-dissolving sulfonamide b) a metal compound having an at least two-wing metal and C) a complexing agent of formula I where r of the meaning of claim 1has.
+</ABSTRACT>
+</TEXT>
+</DOC>

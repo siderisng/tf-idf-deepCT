@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015459
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-33/16 G03F-7/038 C08L-33/06 H01L-21/302 C08L-33/04 <main>G03C-1/68</main> C09D-3/80 H01L-21/02 C08L-33/00 C08L-63/00 G03F-7/004 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+article comprising a negative x-ray resist containing poly(2,3-dichloro-1-propyl acrylate) and poly(glycidyl methacrylate-co-ethyl acrylate) and method using this resist.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+moran joseph michael<sep>taylor gary newton<sep>moran, joseph michael<sep>taylor, gary newton<sep>moran, joseph michael112 briarwood drive, westberkeley heights, new jersey 07922us<sep>taylor, gary newton12 birchwood terracefanwood new jersey 07023us<sep>moran, joseph michael<sep>taylor, gary newton<sep>moran, joseph michael112 briarwood drive, westberkeley heights, new jersey 07922us<sep>taylor, gary newton12 birchwood terracefanwood new jersey 07023us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to negative x-ray resists useful in  the production of high-resolution patterned images.  the x-ray  resist contains a mixture of poly(2,3-dichloro-1-propyl acry­ late) and poly(glycidyl methacrylate-co-ethyl acrylate), with the  latter forming between 1 percent and 20 percent by weight, of  the total polymer mixture.  this ray resist has adhesive and re­ solving properties superior to those of poly(2,3-dichloro-1-­ propyl acrylate).  superior properties of the mixture are attri­ buted to the fact that the two polymers form a compatible po­ lymer mixture which is a relatively rare and unpredictable event  in polymer chemistry.  
+</ABSTRACT>
+</TEXT>
+</DOC>

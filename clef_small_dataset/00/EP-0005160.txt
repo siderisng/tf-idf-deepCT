@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005160
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/42 H01L-31/102 <main>H01L-31/10</main> H01L-31/105 H01L-31/10 H01L-27/144 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pin photodiode.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+burke richard gary<sep>kolodzey james stanley<sep>burke, richard, gary<sep>kolodzey, james, stanley<sep>burke, richard, gary3101 cartwright driveraleigh nc 27612us<sep>kolodzey, james, stanleyroute 4 box 547chapel hill nc 27514us<sep>burke, richard, gary <sep>kolodzey, james, stanley<sep>burke, richard, gary3101 cartwright driveraleigh nc 27612us<sep>kolodzey, james, stanleyroute 4 box 547chapel hill nc 27514us<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a new pine photodiode formed of a semiconductor microplaquette having a plane and thick plane region separated from a region N flat by a region I flat and thin, comprising means (21) providing the direct admission ofThe light energy to the region I in a direction parallel to the plane orientation of the region I and electrically conductive means (22) and (23) in contact with the P and N regions to ensure the connection of the PIN photodiode to theElectronic circuits formed on said semiconductor microplaquette or any other similar element.This arrangement makes it possible to obtain a high response in a wide range of light wavelengths, thanks to the large dimension of the region I in the direction of the incident light, while maintaining a reduced transit time thanks to the small thicknessof this same region i.
+</ABSTRACT>
+</TEXT>
+</DOC>

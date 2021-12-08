@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001780
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-68/08 C07C-68/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of pure dimethyl carbonate.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>
+</APPLICANT>
+<INVENTOR>
+fischer karl drde<sep>himmele walter drde<sep>irnich rudolf drde <sep>kaibel gerdde  <sep>schneider kurt drde<sep>fischer, karl, dr.<sep>himmele, walter, dr.<sep>irnich, rudolf, dr.<sep>kaibel, gerd<sep>schneider, kurt, dr.<sep>fischer, karl, dr.luginsland 22d-6520 wormsde<sep>himmele, walter, dr.eichenweg 14d-6909 walldorfde<sep>irnich, rudolf, dr.in den hahndornen 2d-6719 bobenheimde<sep>kaibel, gerdwormser strasse 78d-6840 lampertheimde<sep>schneider, kurt, dr.auf dem koeppeld-6702 bad duerkheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+pure dimethyl carbonate is prepared from its methanolic solutions by removing the methanol from these solutions by azeotropic distillation with a c5-c8-paraffin or -cycloparaffin. 
+</ABSTRACT>
+</TEXT>
+</DOC>

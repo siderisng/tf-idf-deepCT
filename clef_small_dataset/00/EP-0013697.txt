@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013697
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/24 G11C-27/04 G11C-11/406 G11C-27/00 G11C-19/00 <main>G11C-19/28</main> G11C-19/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+page memory system requiring a refresh operation.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+aichelmann jr frederick john<sep>aichelmann jr., frederick john<sep>aichelmann jr., frederick johnr.d. no. 7 taconic drivehopewell junction, nyus<sep>aichelmann jr., frederick john<sep>aichelmann jr., frederick johnr.d. no. 7 taconic drivehopewell junction, nyus<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a page storage system for data processing systems using rows of addressable memories with random access consisting of charge-coupled memory elements (CCD) from shift registers, in which data from the memory for use in a block memory without loss time are read out by refreshing, since the one Zelnen CCD shift registers are refreshed for themselves. The storage system is established from a number of Pa Rallel switched memory units (22, 24, 26), each containing a separate interface logic (20), a refresh control (28) and a number of spei cherins (22, 24, 26), Whose each re-addressable, consisting of charge-coupled components consists of existing shift registers, which must be refreshed for each other because within a predetermined time interval. Data is normally read from row-addressable memory segments (30, 32, 34) with random access sequentially. During the read operation, it is continuously determined whether the next shift register memory subsequently must be refreshed backward during the next closing time. If a refresh operation is required, then the read-out sequence is rearranged, so that the recovery can be performed again while the data transmission from another memory segment (30, 32, 34) comes.
+</ABSTRACT>
+</TEXT>
+</DOC>

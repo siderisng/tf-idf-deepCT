@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006285
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-15/00 B21D-28/02 B21D-28/06 F15B-15/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing push plate and actuator rod assemblies; products made according to this method.
+</TITLE>
+<APPLICANT>
+bendix ltdgb   <sep>bendix limited<sep>bendix limiteddouglas roadkingswood, bristol bs15 2nlgb<sep>
+</APPLICANT>
+<INVENTOR>
+cooke arnoldgb<sep>cooke, arnold<sep>cooke, arnoldbendix westinghouse ltd. douglas roadkingswood bristol, bs15 2nlgb<sep>
+</INVENTOR>
+<ABSTRACT>
+push plate and actuator rod assemblies for diaphragm  fluid pressure brake actuators are made by punching discs  (21-26) of metal from a sheet and employing cruciform-­ shaped intermediate pieces (27) to provide radial strength­ ening of the discs (21) when mounted to actuator rods  thereby enabling thinner sheet material to be used and also  utilise the otherwise waste material of the cruciform shapes.  
+</ABSTRACT>
+<DESCRIPTION>
+this invention relates to push plate and actuator rod assemblies and relates especially to push plates for fluid pressure operable brake actuators. a fluid pressure operable brake actuator which employs diaphragms is conventionally constructed by clamping a circular diaphragm at it's periphery between two body parts, the diaphragm thus forming a boundary between a pressure chamber and a non-pressure chamber. extending from the non-pressure chamber there is provided an actuator push-rod on the inner end of which there is a push plate. the push plate provides the area against which pressure acts via the diaphragm. in operation, in the case of an air brake actuator, the pressure chamber is supplied with air brake pressure from a reservoir by a relay valve or control valve and the push-rod is connected to a brake linkage. hitherto push plates for brake actuators have been made by punching discs of appropriate diameter from +" or 5/16" sheet mild steel, the discs then being machined and surfaced to a quality high enough not to impair the life of the cooperating diaphragm. the thickness of such discs must also be sufficiently great to be substantially undistorted by the forces exerted by the fluid pressure in the pressure chamber of the actuator. according to the present invention there is provided a method of manufacturing push plate and actuator rod assemblies for fluid pressure operable diaphragm actuators comprising punching the discs from sheet material, characterised by providing each disc with a plurality of radial stiffening members and attaching the discs to pushrods for assembly into actuators. advantageously, the discs may be quantity produced by punching from sheet material and otherwise scrap shapes, thereby produced between the discs providing radial stiffening members. in order that the invention may be more clearly understood and readily carried into effect, the same will be further described by way of example with reference to the accompanying drawings in which: figure 1 illustrates a typical fluid pressure operable brake actuator, figure 2 illustrates an area of a sheet showing a number of discs and remaining material after the punching of discs from the sheet, and figure 3 illustrates at (a), (b), (c), (d), (e) and (f), stages in the construction of a push plate assembly in accordance with the invention. referring to figure 1, the fluid pressure operable actuator shown therein is shown in its unpressurised condition. the actuator comprises a main body denoted by reference 1 and a pressure plate denoted by reference 2, each being formed of pressed steel and clamped together with the peripheral bead of a reinforced rubber diaphragm 3 by means of a pressed steel clamping ring 4 having a clamping bolt, not shown. extending from an aperture 5 in the non-pressure plate 1, a threaded push-rod 6 is provided at its inner end with a push plate 7 urged against the diaphragm 3 by a light return spring 8 bearing against the end wall of the non-pressure housing. the push plate 7 is rigidly attached to the pushrod
+</DESCRIPTION>
+<CLAIMS>
+1. a method of manufacturing push plate and actuator rod   assemblies for fluid pressure operable diaphragm actuators comprising punching the discs from sheet material, characterised by providing each disc with a plurality of radial stiffening members and attaching the discs to push-rods for assembly into actuators.   2. a method as claimed in claim   i,    characterised in that the discs are punched from sheet material and resultant intermediate sheet material cruciform shapes produced between the discs being employed to provide the radial stiffening members.   3. a method as claimed in claim 2, characterised in that the sheet material is perforated to provide pilot apertures to permit immediate separation of said cruciform shapes on punching of the discs.    4. a method as claimed in claim 2 or 3, characterised in that prior to punching the discs, centre apertures are punched in said shapes and discs.   5. a method as claimed in claim 2, 3 or 4, characterised by the steps of draping the peripheries of the discs to produce upstands and then rolling said upstands over to produce rounded edges of enhanced thickness.   6. a method as claimed in claim 5, the steps of drawing the peripheries and rolling them over being effected by pressing operations.   7. a method as claimed in claim 5 or 6, said shapes being spot-welded into position within the rolled over peripheries.     8. a push plate and actuator rod manufactured as claimed in any preceding claim.  
+</CLAIMS>
+</TEXT>
+</DOC>

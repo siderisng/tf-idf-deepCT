@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011118
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+B03C-3/014 B01D-51/10 F23L-15/00 B01D-51/00 B03C-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method using an air preheater for maintaining a preselected level for the temperature of a flue gas.
+</TITLE>
+<APPLICANT>
+lummus tech francefr<sep>lummus crest s.a.r.l.<sep>lummus crest s.a.r.l.tour franklin cedex no.11f-92081 paris la defense 8fr<sep>
+</APPLICANT>
+<INVENTOR>
+regan john williamus<sep>regan, john william<sep>regan, john william39 darwyn drivewindsor, connecticutus<sep>
+</INVENTOR>
+<ABSTRACT>
+in a pulverized fuel-fired steam generator, a steam air  heater (22) is disposed in the air inlet duct to the main air  heater (10).  steam from an auxiliary in-plant source or from  the boiler itself is passed through the steam air heater (22)  thereby increasing the temperature of the air entering the  main air heater (10).  the flow rate of steam passed through  the steam air heater is regulated to maintain the flue gas  temperature entering dust collection equipment (14) located  in the flue gas stream downstream of the main air heater (10)  above the dew point of water vapor and the condensation  point of sulfuric acid during start-up and low load operations.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017551
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G21C-17/00</main> G21C-17/01 G01N-21/954 G21C-17/08 G01N-21/88 H04N-5/222 G21C-17/003 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for television inspection of the inner surface of a cylindrical vessel.
+</TITLE>
+<APPLICANT>
+framatome safr<sep>framatome<sep>framatometour fiat 1, place de la coupole92400 courbevoiefr<sep>framatome  <sep>
+</APPLICANT>
+<INVENTOR>
+gillot georges<sep>gillot, georges<sep>gillot, georges17 rue george sandf-59290 wasquehalfr<sep>gillot, georges<sep>gillot, georges17 rue george sandf-59290 wasquehalfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The device uses a television camera (36) and at least one projector (45) for the lighting of the area to be inspected.The camera (36) is suspended from a flexible tube, rigid torsion inside which pass the power cables from the camera (36) and the projector (45).The device comprises a rigid tubular guide (20) for the guidance and orientation of the flexible tube on its path from the outside to the interior of the speaker (1), a means of drive (25) of theFlexible rotating tube about its axis, a tube retaining means and the camera (36) against vertical, unlockable movements, precise means for tracking the angular and vertical positions of the camera and a centering device(40) of the camera in the enclosure (1).The device applies in particular to the inspection of pressurized water nuclear reactor pressurizers.
+</ABSTRACT>
+</TEXT>
+</DOC>

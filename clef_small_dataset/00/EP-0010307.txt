@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010307
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-33/02 C30B-15/10 C04B-41/45 C04B-41/86 C04B-41/50 C04B-41/87 C30B-11/00 <main>C04B-35/52</main> C04B-41/06 C04B-41/85 C30B-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for protecting carbon bodies.
+</TITLE>
+<APPLICANT>
+consortium elektrochem indde<sep>consortium fur elektrochemische industrie gmbh<sep>consortium für elektrochemische industrie gmbhzielstattstrasse 20d-81379 münchende<sep>consortium fur elektrochemische industrie gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+dietl josef dr dipl-phys<sep>wohlschlager michael<sep>dietl, josef, dr. dipl.-phys.<sep>wohlschlager, michael<sep>dietl, josef, dr. dipl.-phys.albanistrasse 11d-8000 münchen 90de<sep>wohlschläger, michaelfriedlandstrasse 13d-8034 unterpfaffenhofende<sep>dietl, josef, dr. dipl.-phys.<sep>wohlschlager, michael<sep>dietl, josef, dr. dipl.-phys.albanistrasse 11d-8000 münchen 90de<sep>wohlschläger, michaelfriedlandstrasse 13d-8034 unterpfaffenhofende<sep>
+</INVENTOR>
+<ABSTRACT>
+Carbon bodies are not resistant to molten silicon, which is why they could not be used as a crucible or for example molds for silicon for technical processes.According to the teaching of the invention, this is now due to incorporation of one in the melting point of the silicon liquid separation layer of alkaline earth fluorides in the mixture with 0 to 90 mol% alkaline scales.
+</ABSTRACT>
+</TEXT>
+</DOC>

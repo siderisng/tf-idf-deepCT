@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004465
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 C07C-7/12 B01D-53/047 C07C-7/00 C01B-3/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of regenerating adsorbents
+</TITLE>
+<APPLICANT>
+air prod & chem us<sep>air products and chemicals, inc.  <sep>air products and chemicals, inc.p.o. box 538allentown, pennsylvania 18105us<sep>
+</APPLICANT>
+<INVENTOR>
+hvizdos leonard jamesus<sep>hvizdos, leonard james<sep>hvizdos, leonard james751 berger streetemmaus pennsylvania 18049us<sep>
+</INVENTOR>
+<ABSTRACT>
+water and carbon dioxide contaminants are removed from a feed gas stream by adsorption in first and second adsorbent zones arranged in series.  regeneration of the adsorbent zones is accomplished by (a) introducing a heated regeneration gas intermediate the first and second adsorbent zones and passing the heated regeneration gas through the first adsorbent zone; and (b) subsequently passing a low temperature regeneration gas sequentially through the second and first adsorbent zones. 
+</ABSTRACT>
+</TEXT>
+</DOC>

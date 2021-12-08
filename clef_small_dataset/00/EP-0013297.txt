@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013297
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/8246 H01L-27/10 G11C-16/04 G11C-14/00 H01L-27/112 G11C-19/00 H01L-27/108 G11C-11/34 <main>G11C-19/28</main> H01L-29/78 G11C-11/35 G11C-17/00 G11C-19/28 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+charge transfer storage systems.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+heller lawrence griffith<sep>heller, lawrence griffith<sep>heller, lawrence griffithp. o. box 341essex, vermont 05451us<sep>heller, lawrence griffith<sep>heller, lawrence griffithp. o. box 341essex, vermont 05451us<sep>
+</INVENTOR>
+<ABSTRACT>
+storage systems are provided with storage cells made of  devices having different threshold voltages for storing infor­ mation permanently or semipermanently.  the devices are  arranged adjacent to each other and communicating with a  diffusion region (12, 14, 16) in a semiconductor substrate (10).   information is sensed by detecting the charge transferred  from a selected cell to the diffusion region (12, 14, 16).  in an  embodiment of the invention, a p type substrate (10) has an  n + diffusion region (12, 14, 16) formed therein with a plurality  of adjacent and parallelly arranged word lines (26 to 48) insu­ lated from the substrate (10) and disposed adjacent to the n +  diffusion region (12, 14, 16).  a p + region (18, 20, 22), prefer­ ably implanted into the substrate (10), is disposed under  selected segments of the word lines (26 to 48) to provide  devices having a first or high threshold voltage.  the remain­ ing devices which are not associated with a p + region (18, 20,  22) have a second or low threshold voltage.  by applying a  voltage of the same magnitude to each of the word lines (26 to  48), potential wells are formed which are filled by charges  from the diffusion region (12, 14, 16).  since the potential wells  associated with the high threshold devices hold less charge  than the low threshold devices, a charge or voltage sensing  circuit connected to the n + diffusion region (12, 14, 16) is  used to detect the amount of charge flowing between the  wells and the diffusion region (12, 14, 16) to thus identify the  high and low threshold devices when the voltage on the  selected word line (26 to 48) is decreased.  by eliminating the  p + regions (18, 20, 22) and storing charge, e. g. , electrons, at  selected locations under the word lines in dual insulating  layers, the cells may be electrically programmable.  
+</ABSTRACT>
+</TEXT>
+</DOC>

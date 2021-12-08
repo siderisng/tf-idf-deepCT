@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003106
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-307/68</main> C07D-307/68 C07D-307/00 C07D-307/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of substituted furans.
+</TITLE>
+<APPLICANT>
+consortium elektrochem indde <sep>consortium fur elektrochemische industrie gmbh<sep>consortium für elektrochemische industrie gmbh zielstattstrasse 20 d-81379 münchen de<sep>consortium fur elektrochemische industrie gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+braunling hermann dr<sep>haberle norman dr<sep>kaufmann rudolf dr<sep>muller reinhard dr<sep>braunling, hermann, dr.<sep>haberle, norman, dr.<sep>kaufmann, rudolf, dr.<sep>muller, reinhard, dr.<sep>bräunling, hermann, dr.dreyerstrasse 6d-8000 münchen 21de<sep>häberle, norman, dr.willibaldstrasse 51 ad-8000 münchen 21de<sep>kaufmann, rudolf, dr.wackerstrasse 5d-8263 burghausende<sep>müller, reinhard, dr.aretinstrasse 25d-8000 münchen 90de<sep>braunling, hermann, dr.<sep>haberle, norman, dr. <sep>kaufmann, rudolf, dr.<sep>muller, reinhard, dr.  <sep>bräunling, hermann, dr.dreyerstrasse 6d-8000 münchen 21de<sep>häberle, norman, dr.willibaldstrasse 51 ad-8000 münchen 21de<sep>kaufmann, rudolf, dr.wackerstrasse 5d-8263 burghausende<sep>müller, reinhard, dr.aretinstrasse 25d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+In the production of Furanderivaten by transplexed zone β-dicarbonylene and α-chlorocarbonyl compounds, either only small yields have been achieved or an improvement in yields could only be achieved by using at least equimolar amounts of pyridine.However, through this large pyridine additive, the work-up of the reaction mixture was complicated, which complicates wastewater treatment by pyridine volumes.In the invention, stoichiometric amounts of alkaline earth carbonates, possibly at most 20 mol% of a monohetero cyclic monostick fabric compound, are, for.b.Pyridine, used as acid binder in the reaction.Through the inventive procedure, both the yields can be significantly improved as well as the use of pyridine completely or at least significantly avoided.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011405
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-5/06 H01L-27/07 G11C-11/41 G11C-11/411 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor memory.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>
+</APPLICANT>
+<INVENTOR>
+toyoda kazuhirojp<sep>toyoda, kazuhiro<sep>toyoda, kazuhiro39, sakuradai midori-kuyokohama-shi kanagawa 227jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor memory is formed of a plurality of  memory cells, which are connected to different points along  first and second word lines.  to prevent differences in the  amplitudes of the hold currents in the different memory cells  due to word line resistance, according to the present inven­ tion the areas of emitters (el, em) of the transistors by which  the hold current of the memory cells (cell, celm) are deter­ mined are varied according to the cell position along the word  lines.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014243
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+D01G-15/00 D01G-15/36 B65H-20/02 <main>D01G-15/36</main> B65H-23/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+driving arrangement for a plurality of rotating carding machine elements.
+</TITLE>
+<APPLICANT>
+truetzschler & code<sep>trutzschler gmbh & co. kg<sep>trützschler gmbh &amp; co. kgduvenstrasse 82-92d-41199 mönchengladbachde<sep>trutzschler gmbh & co. kg<sep>
+</APPLICANT>
+<INVENTOR>
+beneke wolfgang<sep>kluttermann jurgen<sep>beneke, wolfgang<sep>kluttermann, jurgen<sep>beneke, wolfganggüdderatherweg 28d-4050 mönchengladbach 4de<sep>klüttermann, jürgenehlerstrasse 9d-4050 mönchengladbachde<sep>beneke, wolfgang  <sep>kluttermann, jurgen<sep>beneke, wolfganggüdderatherweg 28d-4050 mönchengladbach 4de<sep>klüttermann, jürgenehlerstrasse 9d-4050 mönchengladbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+For a drive for a plurality of rotatable Kar device components, z.b.The potenstock wave, the trigger rollers, the squeezing rollers, the Abstreichwalze, the customer or the like. With a changeable speed motor, the cardboard components are driving together with each other.For the purpose of creating a drive with a good effect degree, which comes with a small number of drive elements, the mutual assignment of the drive lement elements has the lowest possible branching, so that mechanical losses are avoided.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016548
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-41/14 F02D-41/34 F02D-41/10 <main>F02D-5/00</main> F02D-41/00 F02D-41/26 F02D-41/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fuel control system for an internal combustion engine.
+</TITLE>
+<APPLICANT>
+lucas ind plcgb<sep>lucas industries public limited company<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>lucas industries public limited company<sep>
+</APPLICANT>
+<INVENTOR>
+williams malcolm<sep>woodhouse richard graham<sep>williams, malcolm<sep>woodhouse, richard graham<sep>williams, malcolm38 willow roadsolihull west midlandsgb<sep>woodhouse, richard graham225 baldwins lanehall green birmingham b28 0pzgb<sep>williams, malcolm  <sep>woodhouse, richard graham <sep>williams, malcolm38 willow roadsolihull west midlandsgb<sep>woodhouse, richard graham225 baldwins lanehall green birmingham b28 0pzgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an i. c.  engine fuel control system includes a closed loop  roughness control, utilizing a roughness sensor circuit (11, 12,  13, 14), an integrator (15) which integrates the error between  the roughness signal and a reference signal and modifies the  fuel flow to the engine via a main fuel control (19) with a  variable frequency clock (18).  during acceleration and decel­ eration the closed loop is interrupted by means of a circuit  including two differentiators (24, 25) which are sensitive to  throttle opening (speed demand) and actual speed respec­ tively, and switches (16, 30) controlled by these differen­ tiators.  
+</ABSTRACT>
+</TEXT>
+</DOC>

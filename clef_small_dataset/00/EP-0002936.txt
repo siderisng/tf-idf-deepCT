@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002936
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02C-7/22 C10L-3/00 F02C-7/224 F02C-7/26 F02C-3/20 F02C-3/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for operating a gas turbine on vaporized fuel oil
+</TITLE>
+<APPLICANT>
+allied chemus<sep>allied chemical corporation<sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.)morristown new jersey 07960us<sep>
+</APPLICANT>
+<INVENTOR>
+boyce meherwan pus<sep>hoehing william wus<sep>boyce, meherwan p.<sep>hoehing, william w.<sep>boyce, meherwan p.2990 richmond avenue suite 520houston texas 77098us<sep>hoehing, william w.1319a post oak park drivehouston texas 77000us<sep>
+</INVENTOR>
+<ABSTRACT>
+a system for operating a gas turbine includes a vaporized fuel oil unit to generate a gasiform hydrocarbon fuel and a liquid residue, and a turbine vfo fuel system for controlling and injecting the gasiform fuel into the combustor for burning in the presence of combustion air thereby giving increased power output and reduced noxious emissions.  basically, the process includes providing, a supply of fuel oil, vaporizing a portion of the fuel oil in the vfo unit to produce a gasiform hydrocarbon fuel and liquid residue, injecting and burning the gasiform fuel in the combustor and then directing the combustion products to drive the turbine.  in the system, the vfo unit, which is remote from the combustor, includes means for injecting steam and natural gas, both of which are non-oxidizing.  the gasiform fuel is superheated before injection into the combustor.  the injection orifices of the nozzle are directed between a 30 deg  and 60 deg  angle from the center line of the combustor.  during start-up, the turbine is initially operated by injecting natural gas with gradual switching to vfo until 100% gasiform fuel operation is attained.  a heater jacket on the main fuel line maintains the superheat condition and minimizes the transition time during start-up. 
+</ABSTRACT>
+</TEXT>
+</DOC>

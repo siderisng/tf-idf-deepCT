@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001390
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-9/067 B23K-9/06 <main>B23K-9/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+welding current source for arc welding supplying a d.c. voltage for ignition and an a.c. voltage for welding.
+</TITLE>
+<APPLICANT>
+messer griesheim gmbhde<sep>messer griesheim gmbh<sep>messer griesheim gmbhhanauer landstrasse 330d-60314 frankfurtde<sep>messer griesheim gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+rohm ernst<sep>rohm, ernst<sep>röhm, ernstc.v. hofackerstrasse 10d-8132 tutzingde<sep>rohm, ernst<sep>röhm, ernstc.v. hofackerstrasse 10d-8132 tutzingde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a welding power source for arc welding with ac especially for welding under increased electrical risks, for example in constricted rooms, with a welding transformer (10) and a welding circuit (18) connected to the secondary circuit of that transformer where in the no-load phase of the welding circuit (18) a dc power source (17) can be introduced into the welding circuit (18) and where this dc power source (17) can be put out of the welding circuit (18) without breaking the welding current when the welding duty is started, being characterized by the dc power source (17) having a transformer (19) the no-load voltage of which is different from that of the welding transformer (10). 
+</ABSTRACT>
+</TEXT>
+</DOC>

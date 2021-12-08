@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001372
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 B01J-23/84 B01J-23/48 C07C-211/00 C07C-87/60 <main>C07C-85/24</main> C07C-209/74 C07C-211/52 B01J-23/00 B01J-23/68 C07B-61/00 C07C-67/00 B01J-23/50 B01J-23/89 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the dehalogenation of halogenated aromatic compounds.
+</TITLE>
+<APPLICANT>
+rhone poulenc agrochimie fr<sep>rhone-poulenc agrochimie<sep>rhone-poulenc agrochimie14-20, rue pierre baizet69009 lyonfr<sep>rhone-poulenc agrochimie <sep>
+</APPLICANT>
+<INVENTOR>
+biola georges<sep>daumas jean-claude<sep>tarolle robert<sep>biola, georges<sep>daumas, jean-claude<sep>tarolle, robert<sep>biola, georges30, rue montferratf-69500 bronfr<sep>daumas, jean-claude32, allée de persepolisf-91400 orsayfr<sep>tarolle, robert17, rue des frères-lumièref-94260 fresnesfr<sep>biola, georges<sep>daumas, jean-claude  <sep>tarolle, robert<sep>biola, georges30, rue montferratf-69500 bronfr<sep>daumas, jean-claude32, allée de persepolisf-91400 orsayfr<sep>tarolle, robert17, rue des frères-lumièref-94260 fresnesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1) Method for dishalogenating halogenated aromatic amines 2) It takes place by action of hydrogen in the presence of a hydrogenation catalyst formed at a temperature of between 280 and 420 ° C, the active phase of the catalyst.Container, in addition to the main catalyst metal, a minority amount of a hydrogenation auxiliary catalyst constituted by another metal different from the first.3) It is usable industrially.
+</ABSTRACT>
+</TEXT>
+</DOC>

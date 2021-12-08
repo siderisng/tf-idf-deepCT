@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004854
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-75/18 B65H-75/24 B21C-47/30 <main>B21C-47/30</main> B21C-47/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of operating a metal band reel and a reel for carrying out this method.
+</TITLE>
+<APPLICANT>
+schloemann siemag agde<sep>sms schloemann-siemag aktiengesellschaft<sep>sms schloemann-siemag aktiengesellschafteduard-schloemann-strasse 4d-40237 düsseldorfde<sep>sms schloemann-siemag aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+jansen johannes<sep>jansen, johannes<sep>jansen, johannesam buchenhain 3d-5912 hilchenbach-allenbachde<sep>jansen, johannes  <sep>jansen, johannesam buchenhain 3d-5912 hilchenbach-allenbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+On a rolling belt reel whose drum (10) consists of a plurality of expandable segments (8), the segments (8) are supported via wedge-shaped support surfaces (9) immediately to also wedge-shaped bearing surfaces (7) of a hollow shaft (1). by means of a stamped in the hollow shaft (1) axially slidably guided punch (12), which engages the segments (8), they are spread or pulled radially radially or contracted radially in their displacement by the cooperation of the wedge-shaped support surfaces (9) and the bearing surfaces (7) . Since the axial displacement associated with the spreading or contracting of the drum (10) can affect the proper sequence of the rolling belt in the reelord-segregated processing systems, the relative displacement (15) and (16) between the segments (8) and the hollow shaft ( 1) by a measuring member (21) tapped and converted into an opposite displacement movement of the reel housing (3) on the reel bed (4) of appropriate size by a drive (5). Thus, the segments (8) retain during their movement (25) causing the tightening of the belt collar (17) always their predetermined relative position for the flow center line (20-20).
+</ABSTRACT>
+</TEXT>
+</DOC>

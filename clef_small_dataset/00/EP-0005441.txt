@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005441
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/65 C08L-77/00 C08L-27/00 C08K-5/5399 <main>C07F-9/48</main> C07F-9/48 C08L-33/02 C08L-33/00 C08L-23/00 C08K-5/49 C08L-67/00 C08L-1/00 C08L-101/00 C07F-9/6574 C08K-5/53 C09K-15/32 C08L-51/02 C07F-9/00 C08L-51/00 C07F-9/6571 C08K-5/00 C08L-7/00 C09K-15/00 C08L-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+aminodibenzoxaphosphorines, process for their preparation and their use as stabilisators.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+evans samuel dr<sep>rasberger michael dr<sep>evans, samuel, dr.<sep>rasberger, michael, dr.<sep>evans, samuel, dr.schützenrain 3ch-4125 riehench<sep>rasberger, michael, dr.waltersgrabenweg 6ch-4125 riehench<sep>evans, samuel, dr.<sep>rasberger, michael, dr.<sep>evans, samuel, dr.schützenrain 3ch-4125 riehench<sep>rasberger, michael, dr.waltersgrabenweg 6ch-4125 riehench<sep>
+</INVENTOR>
+<ABSTRACT>
+Compounds of the Formula I wherein R₁ and R₂ independently optionally substituted hydrocarbon radicals or halogen are X and Y are independently 0, 1, 2 or 3, and A is a similar or mixed substituted primary or ashal aliphatic or alicyclic, aromatic or araliphatic amine,Heterocyclic amine or a hydrazine derivative means.
+</ABSTRACT>
+</TEXT>
+</DOC>

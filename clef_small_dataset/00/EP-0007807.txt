@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007807
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10J-3/46 C10J-3/00 C10J-3/54 <main>C10J-3/54</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of gasifying an ash-containing fuel in a fluidized bed.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company <sep>
+</APPLICANT>
+<INVENTOR>
+moss gerald<sep>moss, gerald<sep>moss, gerald"trevose" sarajac avenueeast challow wantage, oxfordshiregb<sep>moss, gerald <sep>moss, gerald"trevose" sarajac avenueeast challow wantage, oxfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of gasifying an ash-containing fuel in a single  fluidized conversion bed (18) in which the fuel is passed (via  23) into a lower region of a bottom zone (in 12) of the bed (18)  wherein the fuel is at least partially gasified at a temperature  below the ash-softening point.  the resulting fuel and ash are  of a sufficiently small size and/or weight to pass from the  bottom zone (in 12) to a top zone (in 13) of the bed (18) wherein  the temperature is above the ash-softening point whereby  unconsumed fuel is at least partially combusted and ash par­ ticles stick to each other and or to solids in the top zone (in 13)  of the bed (18) until the particle size and or weight of the  resulting agglomerates causes them to sink to the bottom of  the bed (18) from where they can be removed.  the bottom  zone (in 12) may contain cao-containing particles to fix labile  sulfur.  the hot combustible gases leaving the top (19) of the  bed (18) have a reduced burden of entrained ash and may be  cooled, e. g.  by admixture with cool flue gas (supplied via 26),  to prevent entrained ash adhering to downstream equipment  through which the gases pass.  
+</ABSTRACT>
+</TEXT>
+</DOC>

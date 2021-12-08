@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015811
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C01G-43/00</main> C01B-25/238 C25B-1/00 C22B-60/02 C22B-60/00 C01B-25/00 C01G-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the recovery of uranium present in impure phosphoric acid.
+</TITLE>
+<APPLICANT>
+rhone poulenc chim basefr<sep>rhone-poulenc chimie de base<sep>rhone-poulenc chimie de base25, quai paul doumer92408 courbevoiefr<sep>rhone-poulenc chimie de base  <sep>
+</APPLICANT>
+<INVENTOR>
+pautrot jean-marc<sep>pautrot, jean-marc<sep>pautrot, jean-marc14, rue du châteauf-92200 neuilly-sur-seinefr<sep>pautrot, jean-marc<sep>pautrot, jean-marc14, rue du châteauf-92200 neuilly-sur-seinefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for recovering uranium contained in impure phosphoric acid.Impure acid is treated by means of an extractive organized phase (2) for U (VI), which is re-extracted (6) by means of a complexing aqueous phase for U (IV) in the presence of an oxidoring agent.reduced state;After electrochemical oxidation of said aqueous solution, it is extracted by a second organic phase (14) from where uranium is recovered, the exhausted aqueous solution being recycled to the reextraction after electrochemic oxidation, the process comprisingTwo organ phase cycles and a complexing aqueous solution cycle.Application to the recovery of uranium contained in a wet phosphoric acid.
+</ABSTRACT>
+</TEXT>
+</DOC>

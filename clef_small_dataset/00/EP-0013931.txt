@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013931
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01T-1/164 G21K-1/02 <main>A61B-6/00</main> G01T-1/29 G01T-1/161 A61B-6/03 G01T-1/00 G01T-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+emission computed tomograph.
+</TITLE>
+<APPLICANT>
+shimadzu corpjp<sep>shimadzu corporation  <sep>shimadzu corporation378, ichinofunairi-cho kawaramachi-dori nijo sagarunakagyo-ku kyoto 604jp<sep>shimadzu corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hirose yoshiharujp<sep>kanno iwaojp<sep>koga kenichirojp<sep>miura shuichijp<sep>uemura kazuojp<sep>hirose, yoshiharu<sep>kanno, iwao<sep>koga, kenichiro<sep>miura, shuichi<sep>uemura, kazuo<sep>hirose, yoshiharu15, jinden, yaginoshima, yagi-chofunai-gun, kyotojp<sep>kanno, iwao100-2, tsurikame-chohiroomote, akitajp<sep>koga, kenichiro9, narutaki sagasono-choukyo-ku, kyotojp<sep>miura, shuichi19, babaizumi, akitajp<sep>uemura, kazuo10-178, kondozawahiroomote, akitajp<sep>hirose, yoshiharu<sep>kanno, iwao<sep>koga, kenichiro <sep>miura, shuichi<sep>uemura, kazuo  <sep>hirose, yoshiharu15, jinden, yaginoshima, yagi-chofunai-gun, kyotojp<sep>kanno, iwao100-2, tsurikame-chohiroomote, akitajp<sep>koga, kenichiro9, narutaki sagasono-choukyo-ku, kyotojp<sep>miura, shuichi19, babaizumi, akitajp<sep>uemura, kazuo10-178, kondozawahiroomote, akitajp<sep>
+</INVENTOR>
+<ABSTRACT>
+an emission computed tomograph provided with dif­ ferent types of collimators for selective use with different  kinds of radionuclides.  the different collimators are alter­ natively brought into operative position in front of the  radiation detector in accordance with the kind of radio­ nuclide being used.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005165
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-29/40 H01L-21/8234 H01L-29/762 H01L-29/51 H01L-21/339 H01L-29/66 H01L-21/02 H01L-21/321 H01L-29/93 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of manufacturing insulated conductors of polycrystalline silicon as well as correspondingly constructed semiconductor devices with field effect elements.
+</TITLE>
+<APPLICANT>
+ibmus  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+garbarino paul louisus<sep>makarewicz stanley richardus<sep>shepard joseph francisus<sep>garbarino, paul louis<sep>makarewicz, stanley richard<sep>shepard, joseph francis<sep>garbarino, paul louis187 barlow mt. rd.ridgefield connecticut 06877us<sep>makarewicz, stanley richard17 cherry avenue md no. 23new windsor n.y. 12550us<sep>shepard, joseph franciscountry club roadhopewell junction, n.y. 12533us<sep>
+</INVENTOR>
+<ABSTRACT>
+In the context of a method for producing isolated conductive portions of polycrystalline silicon equipped semiconductor assemblies with field effect elements, a composite insulating layer is provided for the insulation in particular of the side surfaces (31) of the polycrystalline silicon regions (30).The composite insulating layer preferably consists of a thermal silica layer (24) formed directly on the polycrystalline silicon regions (30) with a layer (26) arranged thereon (26) of phosphorosilicate glass or silica formed by chemical precipitate of the vapor phase.Also treated are correspondingly constructed semiconductor assemblies in the form of so-called charge coupling devices (CCD) and an element memory cell structures.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002815
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+F23C-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flame forming burner
+</TITLE>
+<APPLICANT>
+coen cous<sep>coen company, inc.<sep>coen company, inc.1510 rollins roadburlingame, california 94010us<sep>
+</APPLICANT>
+<INVENTOR>
+voorheis temple stadtmanus<sep>voorheis, temple stadtman<sep>voorheis, temple stadtman95 lane placeatherton, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a flame forming burner (10) for simultaneously minimizing  excess air consumption while suppressing nox  emissions.  a dual zone air register (14) is provided to  supply primary air in substoichiometric quantity into mixture  with fuel to produce a flame in a primary zone.  additional  air is introduced around the flame and downstream  of the initial combustion site in a secondary zone (24), in  sufficient quantity to complete combustion.  in the preferred  embodiment, primary air is provided through a venturi  throat (26), and secondary air is provided through an annular  passage equipped with vanes (34, 36) which generate  dual counter-rotating (dcr) air flow surrounding the  primary zone.  dampers (54, 56) for each register control  the primary to secondary air ratio.  preferably, a divergent,  non-circular throat (12) provides flame shaping.  
+</ABSTRACT>
+</TEXT>
+</DOC>

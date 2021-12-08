@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003790
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+B05D-1/28 B05C-3/00 B05C-3/18 B05C-1/08 B05D-1/40 B05D-1/42 B05C-9/04 G05D-5/02 B05C-11/02 B05C-9/02 B05C-9/00 <main>B05C-11/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for coating a moving web.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+pipkin david john<sep>pipkin, david john<sep>pipkin, david john3106 colgate drivelongmont colorado 80501us<sep>pipkin, david john<sep>pipkin, david john3106 colgate drivelongmont colorado 80501us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  device for coating a moving web (12) with a liquid ; consisting of a) a coating roller (14) journaled around an axis (15), b) a first device (22, 48) for exerting pressure onto part of the surface of the coating roller (14), c) a smoothing film (20) interposed between the coating roller (14) and the first device (22, 48) exerting the pressure, and d) a device (32/36, 45) for metering the liquid at a predetermined rate in that region which is in the direction of movement of the web (12) preceding the point of contact of smoothing film (20) and web (12), characterized in that a second device (28, 55) is provided with which the pressure exerted by the first device (22, 48) can be additionally influenced, and that the metering of the liquid at a predetermined rate is performed by the metering device (32/36, 45) as a function of the speed of the web (12). 
+</ABSTRACT>
+</TEXT>
+</DOC>

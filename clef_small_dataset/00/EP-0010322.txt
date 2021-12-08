@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010322
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65B-3/00 <main>B65B-3/32</main> B65B-3/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a metering device.
+</TITLE>
+<APPLICANT>
+stork bepak bvnl<sep>stork bepak b.v.<sep>stork bepak b.v.2 groenewegnl-3531 ve utrechtnl<sep>stork bepak b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+weenk cornelis catharinus<sep>weenk, cornelis catharinus<sep>weenk, cornelis catharinus28 hardenbroeklaannl-6825 ah arnhemnl<sep>weenk, cornelis catharinus  <sep>weenk, cornelis catharinus28 hardenbroeklaannl-6825 ah arnhemnl<sep>
+</INVENTOR>
+<ABSTRACT>
+a device for the delivery of metered quantities of a par­ tially liquid product comprising a hopper (4), a metering  cylinder (1) with a reciprocating plunger (2) and a connecting  element (5) functioning as a shut-off valve with a cylindrical  valve body (9) with recesses (6,7,8) for the liquid passage.  
+</ABSTRACT>
+<DESCRIPTION>
+a meterin device. this invention concerns a device for the delivery of metered quantities of a product being at least partially liquid, comprising a hopper, a metering cylinder, a plunger reciprocating within said cylinder and a connecting element with a shut off valve located in between the hopper and the cylinder, said element having the form of a housing, with a port towards the hopper, towards the cylinder and towards the location for the delivery of liquid products, the connections in between said ports being controlled by a valve which is displaceable into several positions within the chamber of the housing. said valve mostly being rotatable between two positions 0 spaced over an angle of 90 with respect to one another, serves for suitably selecting a port between the hopper and the metering cylinder, thus allowing a quantity of fresh liquid product to be supplied or for connecting the metering cylinder with the outlet, through which the metered product can be passed towards the predetermined location. various embodiments of a metering device or plunger filler of this type are known. in this respect reference is made to u.s. patent specification 2,666,564. when starting a metering device of the type as disclosed in said patent specification an eventual quantity of gas (mostly being air) may get assembled below the head of the plunger. the presence of said gas or air may cause an incorrect metering to take place, so that c regular check and even a possible dismounting of the respective device is required. the present invention aims to provide a construction such, that an occurrence of the abovementioned phenomenon is obviated. this is attained according to the invention in that: - the inner wall of the metering cylinder extends to within the valve housing; - the head of the plunger extends to within the valve at the end of the metering stroke, and in that - the valve is provided with an uninterrupted recess extending axially along its periphery, said recess providing a connection between the ports towards the hopper and the cylinder in the suction position of the valve. in view of this combination of features a bubble of gas or air being present below the plunger during the lowermost position of the latter, can flow within the port to the hopper from which said bubble may then ascend towards the surface of the liquid. the present invention relates in particular to a metering device the valve of which is provided with a transverse bore in a manner known per se, said bore serving for obtaining a connection between the metering cylinder and the location of delivery of the product. in that case the valve is preferably provided with a circumferentially extending groove located between the axial recess and the transverse bore. this enables the valve to be rotated from one end position to anther end position at the moment that the metering plunger is in its lowermost position. an embodiment of the most important portion of the present
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a device for the delivery of metered quantities of an, at least partially liquid, product, comprising a hopper, a metering cylinder, a plunger reciprocating within said cylinder and a connecting element with a shut off valve located in between the hopper and the cylinder, said element having the form of a housing, with a port towards the hopper, towards the cylinder and towards the location for product to be delivered, the connections in between said ports being controlled by a valve which is displaceable into several positions within the chamber of the housing,   c h a r a c t e r i s e d    in that  - the inner wall of the metering cylinder (1) extends  to within the valve housing;  - the head (12) of the plunger (2) extends to within  the valve (9) at the end of the metering stroke;  ;  - the valve is provided with an uninterrupted recess  (11) extending axially along its periphery, said  recess providing a connection between the ports  (6, 7) towards the hopper (4) and the cylinder (1),  in the suction position of the valve.   2. a metering device according to claim 1, in which the valve is provided with a transverse bore for establishing a connection between the metering cylinder and the location  for the delivery of product, in which the valve (9) is provided with a circumferentially extending groove (13) located between the axial recess (11) and the transverse bore.   3. a metering device according to claim 1 or 2, in which the valve (9) has a cylindrical shape, one end of said valve being provided with a collar (14) which cooperates with a local cover (16).  
+</CLAIMS>
+</TEXT>
+</DOC>

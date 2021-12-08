@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013298
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24F-11/02 B60H-1/32 B60H-1/00 G05D-23/24 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+air conditioning control system for the interior of vehicles, especially of cars
+</TITLE>
+<APPLICANT>
+bosch gmbh robert de<sep>robert bosch gmbh<sep>robert bosch gmbhpostfach 30 02 2070442 stuttgartde<sep>
+</APPLICANT>
+<INVENTOR>
+junginger erichde<sep>schnaibel gerhard dipl-ingde<sep>junginger, erich<sep>schnaibel, gerhard, dipl.-ing.<sep>junginger, erichseyfferstrasse 75d-7000 stuttgart 1de<sep>schnaibel, gerhard, dipl.-ing.hochstetterstrasse 25d-7251 hemmingende<sep>
+</INVENTOR>
+<ABSTRACT>
+It is given a control device for air conditioning the interior of vehicles, in particular motor vehicles, with a very high control accuracy, which is independent of the different surface temperature of the heat exchanger in summer and winter operation. For this purpose, the exchanger sensor detecting the surface temperature of the heat exchanger is dynamically coupled to the input of the set / actual value comparator of the regulator, such that the temporal change of its output variable forms an input for the comparator. The indoor sensor detecting the interior temperature is still static connected to the input of the actual value comparator. The dynamic coupling takes place via a coupling capacitor. An embodiment of the control device provides a so-called two-channel control for two independent heat exchangers. Here, the controller has a single set / actual value comparator and two control elements controlling the actuators for the heat exchangers. Each heat exchanger is assigned a separate setpoint generator. In addition to the connection to the output of the comparator, the control elements are additionally coupled to the setpoint encoders crosswise so that the adjustment of the setpoint generator associated with the a heat exchanger makes a change of the output of the comparator caused by this adjustment on the control element associated with the other heat exchanger.
+</ABSTRACT>
+</TEXT>
+</DOC>

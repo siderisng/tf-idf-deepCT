@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007409
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16C-32/06</main> F16C-32/06 F16C-33/04 F16C-33/10 B24B-41/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluid bearing.
+</TITLE>
+<APPLICANT>
+toyoda machine works ltdjp<sep>toyoda koki kabushiki kaisha<sep>toyoda koki kabushiki kaisha1-1, asahi-machikariya-shi aichi-kenjp<sep>toyoda koki kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+shibata kunio<sep>sugita kazuhiko<sep>suzuki hiroshi<sep>shibata, kunio<sep>sugita, kazuhiko<sep>suzuki, hiroshi<sep>shibata, kunio2-52, shintomi-cho kariya-shiaichi-kenjp<sep>sugita, kazuhiko18, minamine, nesaki-choanjo-shi, aichi-kenjp<sep>suzuki, hiroshi3, okuyama, myodaiji-chookazaki-shi, aichi-kenjp<sep>shibata, kunio<sep>sugita, kazuhiko<sep>suzuki, hiroshi<sep>shibata, kunio2-52, shintomi-cho kariya-shiaichi-kenjp<sep>sugita, kazuhiko18, minamine, nesaki-choanjo-shi, aichi-kenjp<sep>suzuki, hiroshi3, okuyama, myodaiji-chookazaki-shi, aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a fluid bearing for rotatably supporting a rotary shaft.  a  plurality of pressure generating zones (14) are defined on a  bearing surface of a bearing member in a circumferential  direction.  each of the pressure generating zones (14) com­ prises a pair of axially spaced fluid pockets (15, 16) at least one  raised land 15b, 16b) formed in at least one of the pair of fluid  pockets (15, 16), passage means (18) for fluidically com­ municating the pair of fluid pockets with each other, throttle  means (19) connected to the fluid pockets for admitting pres­ surized fluid therein and an exhaust port (25, 26) formed on  the raised land for discharging pressurized fluid.  exhaust  means (22, 23) is formed on the bearing surface outside the  pressure generating zones (14) for discharging pressurized  fluid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

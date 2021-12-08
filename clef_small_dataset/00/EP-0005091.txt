@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005091
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-417/06 C07D-277/42 C07D-417/00 <main>C07D-407/04</main> A61K-31/495 A61K-31/425 C07D-277/20 A61P-29/00 C07D-277/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monosubstituted piperazines, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+science union & ciefr<sep>science union et cie societe francaise de recherche medicale<sep>science union et cie societe francaise de recherche medicale14 rue du val d'orf-92150 suresnesfr<sep>science union et cie societe francaise de recherche medicale<sep>
+</APPLICANT>
+<INVENTOR>
+bure jacques<sep>regnier gilbert<sep>bure, jacques<sep>regnier, gilbert<sep>buré, jacques22, rue perronetf-92200 neuilly sur seinefr<sep>regnier, gilbertavenue du plessisf-92290 chatenay-malabryfr<sep>bure, jacques  <sep>regnier, gilbert<sep>buré, jacques22, rue perronetf-92200 neuilly sur seinefr<sep>regnier, gilbertavenue du plessisf-92290 chatenay-malabryfr<sep>
+</INVENTOR>
+<ABSTRACT>
+New monosubstituted piperazines, usable as a medicine and responding to the general formula: in which: A is - (CH₂) N-, N- extend 1, 2 or 3, or HR being C₁ to C₅ alkyl, trifluoromethyl, phenyl, halogenopnyl,alkylphenyl, alkoxyphenyl and trifluoromethylphenyl and ar is phenyl, halogenopnyl, alkylphenyl, alkoxyphenyl, methylenedioxyphenyl, hydroxypienyl, trifluoromethylphenyl or a radical in which X is a single bond, oxygen, sulfur or carbonyl, and y is hydrogen, halogen, alkyl or alkoxy of C₁at C₅.These new compounds and their physiologically tolerable salts can be used in therapeutics, particularly in the treatment of immunological component inflammation.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014938
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02H-3/32 <main>H02H-3/347</main> H02H-3/347 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of watching conducting currents with respect to a fault current and arrangement for carrying out this method.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+breimesser fritz dipl-ing<sep>breimesser, fritz, dipl.-ing.<sep>breimesser, fritz, dipl.-ing.dompfaffstrasse 49d-8520 erlangende<sep>breimesser, fritz, dipl.-ing. <sep>breimesser, fritz, dipl.-ing.dompfaffstrasse 49d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for monitoring conductor currents on a residual current that changes the magnetization of a magnetic circuit (10).According to the invention, the magnetic core (12) is each turned alternately by follow-up of magnetization pulses (P₁ to P₀) and determined until which pulse number (P₁ to P₃) the pulse height exceeds an adjustable voltage set value.From the change of this pulse number (P₁ to P₂ and P₁ to P₄), an output signal is derived.The method has the advantage that balancing temperature and drift problems can not occur.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001416
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07F-17/24 G08G-1/14 G07F-17/00 G06Q-50/00 G07B-15/00 <main>G07F-17/24</main> G07C-9/00 G07B-15/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic attending system for a covered parking space.
+</TITLE>
+<APPLICANT>
+kienzle apparate gmbhde<sep>kienzle apparate gmbh<sep>mannesmann kienzle gmbhheinrich-hertz-strasse 45d-78052 villingen-schwenningende<sep>kienzle apparate gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+pfeifer heinrich dipl ing<sep>pfeifer, heinrich, dipl.ing.<sep>pfeifer, heinrich, dipl.ing.adlerring 17d-7730 villingen-schwenningende<sep>pfeifer, heinrich, dipl.ing.<sep>pfeifer, heinrich, dipl.ing.adlerring 17d-7730 villingen-schwenningende<sep>
+</INVENTOR>
+<ABSTRACT>
+The system consists of a central control unit (ZST), which cooperates with each parking space associated individual parking meters (EP).By throwing gül's tariff coins, the departure time is determined and displayed with the help of the current time of the day delivered by the control unit and the tariff set here.During the parking process, the time of day and from the trip period are constantly compared and in equality the display is deleted.By a control person, the last ad can be made visible by means of a key.For a "follow-up time", a special character display appears, which is brought to the extinction in a given rhythm.
+</ABSTRACT>
+</TEXT>
+</DOC>

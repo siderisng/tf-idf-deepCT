@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015169
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16H-39/44</main> B60K-17/10 F16H-61/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+auxiliary propulsion circuit comprising at least one hydraulic motor.
+</TITLE>
+<APPLICANT>
+poclain hydraulics sa fr<sep>poclain hydraulics societe anonyme de droit francais<sep>poclain hydraulics société anonyme de droit françaisboíte postale no 12f-60410 verberiefr<sep>poclain hydraulics societe anonyme de droit francais <sep>
+</APPLICANT>
+<INVENTOR>
+bacquie serge baptiste<sep>rouillard jean-marie rene<sep>bacquie, serge baptiste<sep>rouillard, jean-marie rene<sep>bacquié, serge baptiste8, rue de picardief-60610 la croix saint-ouenfr<sep>rouillard, jean-marie rené12, rue du saut du cerff-60610 la croix saint-ouenfr<sep>bacquie, serge baptiste<sep>rouillard, jean-marie rene  <sep>bacquié, serge baptiste8, rue de picardief-60610 la croix saint-ouenfr<sep>rouillard, jean-marie rené12, rue du saut du cerff-60610 la croix saint-ouenfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a motor assist device comprising at least one fluid assisted motor 1, a source 3 of pressure fluid, a motor ali (14-17) conduit connecting the discharge fitting From the fluid source to the intake connection 19, and, a blank discharge valve connected to the feed conduit 14 and provided with a device 11 for adjusting its tage which is voluntary. Another calibrated discharge valve (6), said, naked retie valve, is disposed on the exhaust duct (18-15) and is provided with a device 12 for adjusting its tage, whose control 35 is also Volunteer, the tage adjustment controls of the two valves being synchronized by means of a single two-track manipulator 26, 27 separate operations separated by a neutral range, each of the range 26, 27 non-neutral corresponding to tare pressure. substantially zero of one of the valves, non-zero of the other valve, and vice versa, and, the neutral range corresponding to a substantially zero tagage pressure of each valve. An application is the realization of the driving assistance of a towed trailer.
+</ABSTRACT>
+</TEXT>
+</DOC>

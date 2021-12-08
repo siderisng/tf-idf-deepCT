@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009879
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-307/54 C12N-9/70 C07D-307/00 A61P-7/00 C07K-14/315 C12N-9/72 A61K-38/43 C12N-9/96 C07K-14/195 A61P-7/02 <main>A61K-37/48</main> A61K-38/48 C12N-9/68 C12N-9/99 A61K-38/00 A61K-38/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+enzyme derivatives for use in the treatment of venous thrombosis, compositions containing them and their preparation.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+smith richard anthony godwin<sep>smith, richard anthony godwin<sep>smith, richard anthony godwin46 rothes roaddorking surreygb<sep>smith, richard anthony godwin<sep>smith, richard anthony godwin46 rothes roaddorking surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a pharmaceutical composition which comprises a  pharmaceutically acceptable carrier together with an in vivo  fibrinolytic enzyme as defined herein wherein the catalytic  site essential for fibrinolytic activity is blocked by a group  which is removable by hydrolysis at a rate such that the  pseudo-first order rate constant for hydrolysis is in the range  10⁻⁶ sec⁻¹ to 10⁻³ sec⁻¹ in isotonic aqueous media at ph 7. 4 at  37°c; is useful in the treatment of venous thrombosis.  
+</ABSTRACT>
+</TEXT>
+</DOC>

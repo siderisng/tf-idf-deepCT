@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001211
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-63/02 C08G-18/00 C07C-45/00 C08G-18/48 C08G-65/00 C08G-65/30 C25C-1/00 C25C-1/18 C07H-3/00 C07C-49/17 C07H-3/04 C25D-3/02 C08G-18/42 C25D-3/34 C07C-49/00 C07C-45/78 C07C-45/75 C08G-63/00 C08G-18/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the removal of lead ions from formose, and use of the formose thus obtained for the production of synthetic materials and methylolated formoses.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+moehring edgar drde<sep>mueller hanns peter drde<sep>moehring, edgar, dr.<sep>mueller, hanns peter, dr.<sep>möhring, edgar, dr.huferweg 49ad-5060 bergisch-gladbach 2de<sep>müller, hanns peter, dr.berta-von-suttner-strasse 40d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a continuous or discontinuous process for removing catalytic amounts of lead ions of aqueous formos release solutions by electrochemical, cathodic deposition.
+</ABSTRACT>
+</TEXT>
+</DOC>

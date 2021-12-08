@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011537
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22D-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in continuous-casting moulds.
+</TITLE>
+<APPLICANT>
+fives cail babcockfr<sep>fives-cail babcock, societe anonyme<sep>fives-cail babcock, société anonyme7 rue montalivetf-75383 paris cédex 08fr <sep>
+</APPLICANT>
+<INVENTOR>
+chielens alain fr  <sep>delescluse leonfr<sep>chielens, alain<sep>delescluse, leon<sep>chielens, alain43, rue de la haute logef-59700 marcq-en-baroeulfr<sep>delescluse, léon76, rue j.b. lebasf-59830 cysoingfr<sep>
+</INVENTOR>
+<ABSTRACT>
+a mould for the continuous casting of metals has its sides formed by copper plates (1), at least one of which is fixed by threaded rods (5) to a frame (2) forming a cooling box, the said frame comprising an inner wall (3) laid against the plate (1) into which the threaded rods (5) are screwed, and an outer wall (4) parallel to the previous wall, the said walls having passages (8, 9) with a cross-section markedly greater than that of the threaded rods (5) which pass through them.  to permit displacement, in its plane, of the plate (1) relative to the frame (2) on account of the differences in expansion, each threaded rod (5) is provided with a tightening member (10), the said member, tightened with a predetermined tightening torque, bearing on the outer wall (4) of the frame (2) via a ring (11) fitted on a bearing surface (14) of the threaded rod (5), the said ring being provided with an o-ring (12) on its plane face laid against the outer wall (4) of the frame (2).  <image>
+</ABSTRACT>
+<DESCRIPTION>
+perfectionnements aux lingotières de coulée continue la présente invention concerte des perfectionnements apporte aux lingotieres de coulée continue des métaux, et plus particulièrement des perfectionnements aux modes de fixation des plaques a cuivre constituant les côtés de telles lingotières sur des châssis formant caissons de refroidissement d'une façon générale, chaque plaque de cuivre est fixée sur son châssis en un grand nombre de points de manière a empêcher le bombement de la plaque vers l'intérieur de la lingotière, compte tenu de la différence de température sur ses faces intérieure et extérieure. ces fixations doivent cependant permettre les déplacements dans son plan de la plaque de cuivre par rapport à son châssis, en raison des différences de dilatation. une solution connue consiste a réaliser la fixation sur la paroi interne du cassis qui est appliqué contre la plaque de cuivre, au moyen de vis qui traversent des passages de ladite paroi interne de section nettement supérieure à celle desdites vis. ces dernières prennent appui sur la paroi interne du chassis par l'intermédiaire de ressorts comprimes entre les têtes de vis et des rondelles montées sur les vis et glis- sant sur la paroi interne du châssis, ou sur des rondelles solidaires de ladite paroi, lorsque la plaque de cuivre se dilate le brevet français n 2 237 710 décrit plusieurs formes de réalisation de ce mode de fixation. ces différentes formes de réalisation présentent l'inconvénient de conduire à des dispositifs de fixation relativement compliques, et surtout difficilement accessibles. toute intervention sur l'un quelconque de ces dispositifs nécessite le démontage du caisson forme par le chassis. pour remédier à cet inconvénient, on a déjà pensé à réaliser la fixation d'une plaque de cuivre au moyen d'organes de fixation traversant le caisson et appliqués contre la paroi externe de celui-ci. les solutions connues qui font surtout appel à la flexion des organes de fixation, ne résolvent pas de manière satisfaisante les problèmes posés par les différences de dilatation ainsi que par l'existence d'une pression hydraulique importante à l'interieur du caisson. l'invention a surtout pour but de remédier aux inconvénients des modes de fixation connus. elle a plus précisément pour objet une lingotière de coulée continue de métaux dont les côtés sont constitués par des plaques de cuivre dont l'une au moins d'entre elles est fixée par des tiges filetées sur un châssis formant caisson de refroidissement, ledit châssis comprenant une paroi interne appliquée contre la plaque de cuivre dans laquelle les tiges filetées viennent se visser, et une paroi externe parallèle à la précédente, lesdites parois présentant des passages de section nettzt supérieure à celle des tiges filetées qui les traversent, caractérisée en ce que chaque tige filetée est munie d'un organe de serrage, ledit organe, serré avec un couple de serrage prédéterminé, prenant appui sur la paroi externe du châssis par l'intermédiaire d'une bague ajustée sur une porté-e de la tige filetée, ladite bague étant munie d'un joint torique sur sa face plane appliquée contre la paroi externe du châssis. la bague
+</DESCRIPTION>
+<CLAIMS>
+revendication @e @i   @      1.   lingotière de coulée continué @@ @@@ @@ @set, en       sont constituée @@ @@ @@@@ @@@@@ d @@@@ moins d'entre elles est libre @@@ @@ @@@ @@@el@@@ @@ un châssis formant laisson de @@@@@@@@@ est @@@@@ @@@@@    comprenant une paroi   interne pilules @nif@ la plac@@ e      cuivre dans laquelle les tiges filetées viennent se vr@@er    et une paroi externe parallèle a la precedente lesdites parois presentant des passages de section nottement supérieure à celle des tiges filetées qui les traversent.    caractérisée en ce que chaque tige filetée (3) est   @ani    d'un organe de serrage (10), ledit organe serré avec un couple de serrage prédéterminé, prenant appui sur la paroi externe (4) du châssis (2) par l'intermédiaire d'une bague (11) ajustée sur une portée (14) de la tige filetée (3) ladite bague étant munie d'un joint torique (12) sur sa face plane appliqués contre la paroi externe (4) du châssis 2. lingotière suivant la revendication 1, caractérisée en ce que la bague (11) est munie d'un joint torique supplementaire (13) sur sa surface cylindrique intérieure entourant la portée (14) de la tige filetée (3).   3. lingotière suivant la revendication 1, caractérisée en ce que l'organe de serrage (10) est constitué par un écrou.  
+</CLAIMS>
+</TEXT>
+</DOC>

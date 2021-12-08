@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002981
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02J-3/12 H02P-9/44 G05F-1/12 H02P-9/00 H02J-3/14 <main>H02P-9/44</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for regulating the voltage of an electrical generator.
+</TITLE>
+<APPLICANT>
+leroy somer moteursfr<sep>societe dite : moteurs leroy-somer<sep>moteurs leroy-somer societe dite: <sep>
+</APPLICANT>
+<INVENTOR>
+gobaud michel<sep>gobaud, michel<sep>gobaud, michel <sep>gobaud, michel43 rue louis desbrandesf-16000 angoulemefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for adjusting the voltage at the terminals of an autonomous alternating electrical generator with variable speed such as a generator powered by a machine moult by a natural fluid, and device for its implementation.An asynchronous machine (1) starts in three phases (2, 3, 4) with a neutral (5).A transducer (9) measures and converts the voltage frequency sent to a resistory string (11).staggered points of this chain are compared to a reference voltage in E to trigger, by floors (14);The commissioning of resistors (15), in order to combat any frequency deviations.Application to autonomous alternative generators actuated by natural fluid, including asynchronous generators.
+</ABSTRACT>
+</TEXT>
+</DOC>

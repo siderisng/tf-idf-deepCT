@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003152
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02J-7/02 G06F-1/30 H02J-7/00 H02J-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+battery back-up system for a data processor.
+</TITLE>
+<APPLICANT>
+gen atomic cous<sep>general atomic company<sep>general atomic company10955 john jay hopkins drive san diego california, 92121us<sep>
+</APPLICANT>
+<INVENTOR>
+graf fredy eric us<sep>krystek michael stranleyus<sep>graf, fredy eric<sep>krystek, michael stranley<sep>graf, fredy eric3654 mt. acomitasan diego californiaus<sep>krystek, michael stranley4507 shade roadla mesa california 92041us<sep>
+</INVENTOR>
+<ABSTRACT>
+a battery backup system provides dc power to a data  processing system in the event of an ac power failure.  a  preferred embodiment supplies dc power from a plurality of  series-connected batteries at a voltage level sufficient to  operate a data processor.  after a time delay, the batteries are  connected in parallel to provide dc power at a lower voltage  level sufficient to maintain information stored in a memory.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001832
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-17/20 <main>H01R-39/64</main> C25D-17/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical current transmission device.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+ahlgrim michael<sep>krieger wilfried<sep>mietens gerhard dr<sep>sorbe gunter<sep>ahlgrim, michael<sep>krieger, wilfried<sep>mietens, gerhard, dr.<sep>sorbe, gunter<sep>ahlgrim, michaelkurt-schumacher-strasse 126d-5042 erfstadt-lechenichde<sep>krieger, wilfriedam römerkanal 20d-5040 brühlde<sep>mietens, gerhard, dr.schaesbergstrasse 5d-5030 hürth-efferende<sep>sorbe, günterkomturring 4d-5030 hürthde<sep>ahlgrim, michael<sep>krieger, wilfried<sep>mietens, gerhard, dr.<sep>sorbe, gunter <sep>ahlgrim, michael kurt-schumacher-strasse 126 d-5042 erfstadt-lechenichde<sep>krieger, wilfriedam römerkanal 20d-5040 brühlde<sep>mietens, gerhard, dr.schaesbergstrasse 5d-5030 hürth-efferende<sep>sorbe, günterkomturring 4d-5030 hürthde<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a device for transmitting electric current with high current thickness to a rotating electrode.The device consists of a tub (10) which is filled with a low melting metal alloy and to which a contact piece (8) is attached to which a flexible cable (9) is screwed.A lid (13) is electrically connected to the tub (10) and penetrated by a shaft (14), wherein in the region of the lid (13) on the shaft (14) a disc (15) is arranged.The shaft (14) carries at its one end a connecting piece (6) which is rigidly connected to the a rotating electrode-performing cylindrical container.
+</ABSTRACT>
+</TEXT>
+</DOC>

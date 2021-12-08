@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013553
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08G-69/14</main> C08G-69/00 C08G-69/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polyamides and a process for their preparation from a substituted epsilon-caprolactam.
+</TITLE>
+<APPLICANT>
+toray industriesjp <sep>toray industries, inc. <sep>toray industries, inc.2, nihonbashi-muromachi 2-chome chuo-kutokyo 103jp<sep>toray industries, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+imamura shinzo<sep>nakata minoru<sep>sato haruyo<sep>imamura, shinzo<sep>nakata, minoru<sep>sato, haruyo<sep>imamura, shinzo2-19, matsuzono-cho, mizuho-kunagoya-shi, aichi-kenjp<sep>nakata, minoru1700-140, kishioka-chosuzuka-shi, mie-kenjp<sep>sato, haruyo2-28, uchide-cho, nakagawa-kunagoya-shi, aichi-kenjp<sep>imamura, shinzo<sep>nakata, minoru<sep>sato, haruyo<sep>imamura, shinzo2-19, matsuzono-cho, mizuho-kunagoya-shi, aichi-kenjp<sep>nakata, minoru1700-140, kishioka-chosuzuka-shi, mie-kenjp<sep>sato, haruyo2-28, uchide-cho, nakagawa-kunagoya-shi, aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+provided are polyamides having a repeating unit rep­ resented by the formula    wherein r and r′ are each a lower alkyl group or a cyclic amine  residue, and also having a relative viscosity of at least 1. 5.  
+</ABSTRACT>
+</TEXT>
+</DOC>

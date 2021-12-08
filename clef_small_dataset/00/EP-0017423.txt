@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017423
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>D01D-5/20</main> D01D-5/00 D01D-5/20 D01D-5/253 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+filament-like fibres, bundles thereof, textile fabrics made from said bundles, process for preparing said fibres, and spinneret and molding apparatus for use in production of said fibres.
+</TITLE>
+<APPLICANT>
+teijin ltdjp <sep>teijin limited<sep>teijin limited 11 minami honmachi 1-chome higashi-ku osaka-shi osaka-fujp<sep>teijin limited  <sep>
+</APPLICANT>
+<INVENTOR>
+azumi toshinori<sep>imoto tadashi<sep>kiriyama tsutomu<sep>norota susumu<sep>azumi, toshinori<sep>imoto, tadashi<sep>kiriyama, tsutomu<sep>norota, susumu<sep>azumi, toshinori6-5, katsuramachi 1-chomeiwakuni-shi yamaguchi-ken 740jp<sep>imoto, tadashi10-18 katsuramachi 2-chomeiwakuni-shi yamaguchi-ken 740jp<sep>kiriyama, tsutomu1-3, yamate-cho 3-chomeiwakuni-shi yamaguchi-ken 740jp<sep>norota, susumu1-21, yamate-cho 3-chomeiwakuni-shi yamaguchi-ken 740jp<sep>azumi, toshinori<sep>imoto, tadashi<sep>kiriyama, tsutomu<sep>norota, susumu<sep>azumi, toshinori6-5, katsuramachi 1-chomeiwakuni-shi yamaguchi-ken 740jp<sep>imoto, tadashi10-18 katsuramachi 2-chomeiwakuni-shi yamaguchi-ken 740jp<sep>kiriyama, tsutomu1-3, yamate-cho 3-chomeiwakuni-shi yamaguchi-ken 740jp<sep>norota, susumu1-21, yamate-cho 3-chomeiwakuni-shi yamaguchi-ken 740jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a novel filament composed of at least one thermoplastic  synthetic polymer, said filament being characterized by  having (1) an irregular variation in the size of its cross section  along its longitudinal direction, and (2) a coefficient of  intrafilament cross-sectional area variation [cv(f)] of 0. 05 to  1. 0; and a bundle-of said filaments.  the bundle of filament-like  fibers can be produced by extruding a melt of a  thermoplastic synthetic polymer through a spinneret having  such a structure that discontinuous elevations (hi) are  provided between adjacent small openings (ai) on the  extruding side of the spinneret, and the melt extruded from  one opening can move to and from the melt extruded from  another opening adjacent thereto or vice versa through a  depression existing between said elevations; and taking up  the extrudates from the small openings while cooling them  by supplying a cooling fluid to the extrusion surface of said  spinneret or its beighborhood, whereby said extrudate are  converted into numerous separated fine fibrous streams and  solidified.  the spinneret and molding apparatus comprising  the spinneret with means to cool the filaments as they leave  the spinneret also form part of the invention.  the filaments are more like natural fibers than filaments  produced by conventional extrusion techniques and can be  used to provide a variety of fiber products, such as textile  fabrics.  the spinneret can be used to provide more filaments  per unit area of the extrusion surface than can be prepared  with conventional spinnerets.  
+</ABSTRACT>
+</TEXT>
+</DOC>

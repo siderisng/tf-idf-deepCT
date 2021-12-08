@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003431
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/16 B01J-27/00 B01J-23/22 C07C-51/215 C07D-307/60 B01J-35/00 C07C-51/265 B01J-23/16 B01J-27/199 <main>C07C-51/54</main> C07D-307/89 B01J-27/14 C07B-61/00 C07D-307/00 B01J-27/198 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+production of carboxylic acid anhydrides and catalysts therefor.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+higgins raymond<sep>hutchings graham john<sep>higgins, raymond<sep>hutchings, graham john<sep>higgins, raymond29, springfield stokesleymiddlebrough clevelandgb<sep>hutchings, graham john17, north end osmotherleynorthallerton north yorkshiregb<sep>higgins, raymond<sep>hutchings, graham john<sep>higgins, raymond29, springfield stokesleymiddlebrough clevelandgb<sep>hutchings, graham john17, north end osmotherleynorthallerton north yorkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+hydrocarbons, particularly n-butane, are oxidised to acid  anhydrides, especially maleic anhydride, by contacting them  at concentrations above the flammable limit with oxygen in  the presence of a vanadium/phosphorus mixed oxide  catalyst having a surface area of at least 10 m²/g.  the  concentration of inert gas is less than 70 molar percent  and/or the oxygen concentration is greater than 13 molar  percent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

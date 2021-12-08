@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011253
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/1339 G02F-1/01 G02F-1/13 G09F-9/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrooptic display device and method of manufacturing the same.
+</TITLE>
+<APPLICANT>
+int standard electric corpus<sep>standard elektrik lorenz agus<sep>alcatel sel aktiengesellschaft  <sep>international standard electric corporation<sep>alcatel sel aktiengesellschaftlorenzstrasse 10d-70435 stuttgartde<sep>international standard electric corporation320 park avenuenew york new york 10022us<sep>
+</APPLICANT>
+<INVENTOR>
+koger kurtde<sep>pottharst juergen drde<sep>wessel gerhardde<sep>koger, kurt<sep>pottharst, juergen, dr.<sep>wessel, gerhard<sep>koger, kurttheodor-storm-strasse 31d-7141 oberriexingende<sep>pottharst, jürgen, dr.onstmettinger weg 9d-7000 stuttgart-möhringende<sep>wessel, gerhardedisonstrasse 32d-7000 stuttgart 40de<sep>
+</INVENTOR>
+<ABSTRACT>
+Electro-optical display device with two electrodes (3,4) wearing glass plates (1,2) and an intermediate liquid or semi-liquid electro-optical MATE RIAL (6).This is arranged in a flat bag (5) made of transparent th plastic films.Bags can be arranged with different electro-optical material between a pair of glass plates.Easy production of large displays.No Abkich tung between the glass plates required.
+</ABSTRACT>
+</TEXT>
+</DOC>

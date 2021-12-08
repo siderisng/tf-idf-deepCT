@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005565
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60K-17/06 B60K-17/08 F16H-61/662 <main>F16H-11/06</main> F16H-61/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control of an infinitely variable transmission of a motor vehicle.
+</TITLE>
+<APPLICANT>
+doornes transmissie bvnl<sep>van doorne's transmissie b.v.  <sep>van doorne's transmissie b.v.dr. hub van doorneweg 120 postbus 500nl-5026 ra tilburgnl<sep>van doorne's transmissie b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+van der hardt aberson frederik<sep>van deursen petrus hendricus<sep>van der hardt aberson frederik ernst carel<sep>van deursen, petrus hendricus<sep>van der hardt aberson frederik ernst carelerasmusstraat 31nl-5671 vg nuenennl<sep>van deursen, petrus hendricushoendiep 36nl-5751 vc deurnenl<sep>van der hardt aberson frederik ernst carel <sep>van deursen, petrus hendricus<sep>van der hardt aberson frederik ernst carel erasmusstraat 31 nl-5671 vg nuenen nl <sep>van deursen, petrus hendricushoendiep 36nl-5751 vc deurnenl<sep>
+</INVENTOR>
+<ABSTRACT>
+the full throttle or kick down engine speed of a vehicle  provided with an infinitely variable transmission had to be  high because of performance requirements and had to be  low because of comfort (noise level) requirements.  to meet  both requirements the full throttle engine speed depends on  the actual transmission ratio in such a way that at lower  transmission ratios the full throttle engine speed is increased.  
+</ABSTRACT>
+</TEXT>
+</DOC>

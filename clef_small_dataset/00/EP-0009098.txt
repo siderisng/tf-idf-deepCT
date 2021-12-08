@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009098
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-21/285 H01L-29/40 H01L-29/66 <main>H01L-29/40</main> H01L-29/872 H01L-21/02 H01L-29/47 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing a schottky diode and schottky diode so produced.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation<sep>international business machines corporation old orchard road armonk, n.y. 10504 us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+howard james kent<sep>turene frank edward<sep>white james francis<sep>howard, james kent<sep>turene, frank edward<sep>white, james francis<sep>howard, james kentcedar hill roadfishkill, ny 12524us<sep>turene, frank edwardbox 477pleasant valley, ny 12569us<sep>white, james francis17 lake view drivenewburgh, ny 12550us<sep>howard, james kent<sep>turene, frank edward  <sep>white, james francis<sep>howard, james kentcedar hill roadfishkill, ny 12524us<sep>turene, frank edwardbox 477pleasant valley, ny 12569us<sep>white, james francis17 lake view drivenewburgh, ny 12550us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to Schottky barrier film diodes with low potential threshold using a metallurgical diffusion barrier layer between a transition metal barrier contact (2) and an aluminum-existing metallization pattern (3) for preventing an interaction between the two layers.The diffusion barrier layer (4) consists of a discrete layer formed layer of an intermetallic connection from the transition metal and aluminum.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013467
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-307/36 B01J-31/26 B01J-31/22 B01J-31/16 B01J-31/20 C07D-307/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of furan compounds.
+</TITLE>
+<APPLICANT>
+standard oil co ohio<sep>the standard oil company  <sep>the standard oil companymidland buildingcleveland, ohio 44115us<sep>
+</APPLICANT>
+<INVENTOR>
+herrington daniel robertus<sep>schwerko albert peterus<sep>herrington, daniel robert<sep>schwerko, albert peter<sep>herrington, daniel robert13415 shady lane chesterlandohio 44026 geauga countyus<sep>schwerko, albert peter36695 timberland drive solonohio 44139 cuyahoga countyus<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the conversion of an acyclic conjugated  diolefinic hydrocarbon containing from 4 to 10 carbon atoms,  for example butadiene, to furan or an alkyl-substituted furan,  which comprises reacting the conjugated diolefin with  molecular oxygen in the liquid phase characterized in that the  reaction is carried out in an inert organic solvent in the pres­ ence of a catalyst having the composition:   [rxm (l)y]z   in which   r represents an organic ligand which is an alkyl, aryl, alkene,  diene, triene, or alkyne radical containing from 1 to 8 carbon  atoms;   l represents a ligand which is carbon monoxide and a  halogen;   m represents a transition metal or mixture of transition metals  from groups ivb, vb, vib, viib and viii of the periodic classifi­ cation of elements;   x is 0 to 2;   y is 0 to 6;   x + y is 1 to 6; and   z is 1 to 6.  the reaction is preferably carried out at a temperature of  from 20 to 200°c.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013453
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-7/241 G11B-7/24 B41M-5/26 G11B-7/243 G11B-7/244 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical recording element and method of optically recording information.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>koninklijke philips electronics n.v.<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>
+</APPLICANT>
+<INVENTOR>
+de bont marinus reinerus joannnl<sep>kivits petrus johannesnl<sep>van der veen jannl<sep>de bont, marinus reinerus joannes<sep>kivits, petrus johannes<sep>van der veen, jan<sep>de bont, marinus reinerus joannesc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>kivits, petrus johannesc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van der veen, janc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to an optical recording element (22)  in which information can be recorded and read by means of  laser light.  the element comprises a circular substrate plate  (17) which is manufactured, for example, from a transparent  synthetic resin and has a diameter from 5-50 cm and which is  provided on at least one side with a recording layer (21)  consisting entirely or substantially entirely of a compound of  phtalocyanine with a metal, metal oxide or metal halide.  a  very suitable recording layer is a layer of vapour-deposited  vanadylphtalocyanine in a maximum thickness of 200 nm.  a  a metal layer of, for example, tellurium may be provided bet­ ween the substrate and the recording layer or on the side of  the recording layer remote from the substrate.  the element  may also comprise an optically readable servo track (18).   upon recording information the element is exposed to pul­ satory laser light pits and/or holes being formed in the record­ ing layer.  analog recording is possible.  the element can be  read both in transmission and in reflection.  
+</ABSTRACT>
+</TEXT>
+</DOC>

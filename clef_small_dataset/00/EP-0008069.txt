@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008069
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01G-5/00 H01G-5/013 H01G-5/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiple trimmer capacitor for small values.
+</TITLE>
+<APPLICANT>
+wolf & co kg kurtde<sep>kurt wolf & co. kg<sep>kurt wolf &amp; co. kglangwiesenweg 67/71d-7547 wildbadde<sep>
+</APPLICANT>
+<INVENTOR>
+wolf kurtde<sep>wolf, kurt<sep>wolf, kurtlangwiesenweg 71d-7547 wildbadde<sep>
+</INVENTOR>
+<ABSTRACT>
+a tunable capacitor with fixed and moving capacitor plates is constructed according to the invention such that it has a negligible initial capacitance but nevertheless has a large adjustment range for a small final capacitance.  the fixed capacitor plates consist of two metallic coatings (17, 18), electrically insulated from one another, on a printed circuit board (10).  the moving capacitor plates consist of two further semicircular metal coatings (53, 54), electrically insulated from one another, on an insulating disc (50).  the insulating disc (50) is arranged over the fixed metal coatings (17, 18) of the printed circuit board (10) and is supported in a rotatable manner in a holder (60).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

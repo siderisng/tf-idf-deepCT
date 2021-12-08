@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004614
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C21C-5/46</main> F27D-9/00 C21C-5/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cooling system for a steel works converter.
+</TITLE>
+<APPLICANT>
+voest alpine agat<sep>voest-alpine aktiengesellschaft<sep>voest-alpine aktiengesellschaft werksgeländea-4010 linzat <sep>voest-alpine aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+eysn manfred<sep>patuzzi alexander dipl-ing<sep>eysn, manfred<sep>patuzzi, alexander, dipl.-ing.<sep>eysn, manfredrosenauerstrasse 54a-4020 linzat<sep>patuzzi, alexander, dipl.-ing.ferihumerstrasse 42a-4020 linzat<sep>eysn, manfred <sep>patuzzi, alexander, dipl.-ing.  <sep>eysn, manfredrosenauerstrasse 54a-4020 linzat<sep>patuzzi, alexander, dipl.-ing.ferihumerstrasse 42a-4020 linzat<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  cooling system for a converter of a steel making plant comprising cooling chambers provided on the wall of the vessel and flowed through by a cooling liquid, in particular for a converter hood at the periphery of which a plurality of cooling chambers extending in the generating line of the hood surface and flowed through by the coolant are arranged, which are connected to distribution and collection conduit sections extending horizontally about the periphery of the converter hood and connected to a cooling liquid supply system via a supply conduit extending through one or both carrying trunnions of the converter, characterised in that the supply conduit (11, 14) of the cooling system optionally is connectable to a compressed-gas conduit (21) for the purpose of emptying the cooling liquid, the system containing monitoring and signalling devices (17, 18, 19) for controlling the pressure and/or temperature and/or flow amount of the cooling liquid, and controlling organs (20, 22) being provided, which are actuatable by these signalling devices in case of a deviation of the controlled parameters of the cooling liquid from a maximum or minimum set value for separating the conduit from the cooling liquid supply system and connecting this conduit (11 or 14) to the compressed-gas conduit (21). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014526
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03F-3/34 H03F-3/21 H03F-3/20 H03F-3/42 H03F-3/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to power amplifiers.
+</TITLE>
+<APPLICANT>
+marconi co ltd gb <sep>the marconi company limited<sep>the marconi company limitedmarconi house new streetchelmsford essex cm1 1plgb<sep>
+</APPLICANT>
+<INVENTOR>
+sosin boleslaw mariangb<sep>sosin, boleslaw marian<sep>sosin, boleslaw marian "frampton"main roadboreham chelmsford essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a high frequency power amplifier consists of a large  number of serially connected transistors (1).  the base connec­ tions of the transistors are connected to a potential divider  consisting of reactive components, usually capacitors (3),  which form part of a tuned circuit (3,6,7) which is resonant at  the frequencies at which the amplifier is to be used.  the  resonant currents flowing in the potential divider ensure that  sufficient base current is available for the transistors to pro­ vide the required amplification.  
+</ABSTRACT>
+</TEXT>
+</DOC>

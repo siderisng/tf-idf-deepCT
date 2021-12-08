@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011234
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/1343 G09F-9/30 G09G-3/04 G02F-1/13 G02F-1/133 <main>G02F-1/133</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+passive electro-optic display device, method for controlling such a display device and its application.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+tauer karl m dipl-ing<sep>tauer, karl m., dipl.-ing.<sep>tauer, karl m., dipl.-ing.hohenwaldeckstrasse 20d-8000 münchen 90de<sep>tauer, karl m., dipl.-ing.<sep>tauer, karl m., dipl.-ing.hohenwaldeckstrasse 20d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a passive display preferably with a seven segment digit representation. In order to indicate the correct number or a senseless configuration in a functional disorder of the display, in a preferred embodiment of the invention, the electrodes of each digit are grouped as follows: from the seven, together a "8" of the front electrodes are the Upper cross electrode (A) with the right lower longitudinal electrode (C), the upper right longitudinal electrode (B) with the upper left edge of the longitudinal electrode (F) and the lower left longitudinal electrode (E) with the center of the transverse electrode (G) each connected electrically conductively ; The segment electrodes (A, B, G) is a first back electrode (R₁) opposite, the segment electrodes (C, E, F) and D is a second back electrode (R₂). If one connects corresponding back electrodes together, a two-step multiplex method is possible; If the corresponding front electrodes or frontelek trod pairs each lead to a common connection, the display is addressed in a four-step multiplex method. The invention is mainly used in oakable instruments such as scales or measuring devices with FK indicator.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004439
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60K-17/06 F16H-61/662 F16H-15/10 F16H-15/08 B60K-41/26 <main>F16H-17/06</main> F16H-61/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to drive and brake assemblies.
+</TITLE>
+<APPLICANT>
+cam gears ltd gb <sep>cam gears limited<sep>cam gears limited45, wilbury way hitchinhertfordshire sg4 0tugb<sep>cam gears limited<sep>
+</APPLICANT>
+<INVENTOR>
+adams frederick john<sep>adams, frederick john<sep>adams, frederick john"pelba" 27 princes roadclevedon avongb<sep>adams, frederick john  <sep>adams, frederick john"pelba" 27 princes roadclevedon avongb<sep>
+</INVENTOR>
+<ABSTRACT>
+an assembly including a transmission system, a braking  system and a control system, for use in a motor driven vehicle.   the assembly comprises a transmission system having drive  means which provide an input 3 to an infinitely variable ratio  gear assembly (100) and driven means coupled to be driven by  an output (45) of the gear assembly (100) which responds  automatically to variations in predetermined characteristics of or  applied to the transmission system to vary the gear ratio between  the drive and driven means; a braking system (70) having  brake means, operable independently of the drive means; and a  control system communicating between the braking system (70)  and the transmission system and being responsive to actuations  of the brake means to cause the gear ratio of the assembly (100)  to be varied, preferably by decreasing to a lower ratio.  
+</ABSTRACT>
+</TEXT>
+</DOC>

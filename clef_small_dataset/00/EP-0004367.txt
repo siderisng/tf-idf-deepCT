@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004367
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09B-19/24 B23K-9/095 B23K-37/00 <main>G01D-7/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for presenting the influence of welding parameters on the current-tension working point in arc welding.
+</TITLE>
+<APPLICANT>
+linde agde<sep>linde aktiengesellschaft<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende  <sep>linde aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+dorhofer friedrich<sep>haas burkhard<sep>hildebrandt peter<sep>hoth karl-heinz<sep>dorhofer, friedrich<sep>haas, burkhard<sep>hildebrandt, peter<sep>hoth, karl-heinz<sep>dörhöfer, friedricham krautgarten 3d-8919 greifenbergde<sep>haas, burkhardwiesenweg 9d-8044 lohhofde<sep>hildebrandt, peterbirkenstrasse 9d-8051 kranzbergde<sep>hoth, karl-heinzfalkenstrasse 3d-8044 hollernde<sep>dorhofer, friedrich<sep>haas, burkhard<sep>hildebrandt, peter<sep>hoth, karl-heinz <sep>dörhöfer, friedricham krautgarten 3d-8919 greifenberg de   <sep>haas, burkhardwiesenweg 9d-8044 lohhofde<sep>hildebrandt, peterbirkenstrasse 9d-8051 kranzbergde<sep>hoth, karl-heinzfalkenstrasse 3d-8044 hollernde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  apparatus for representing the influence of welding parameters on the current voltage working point during arc welding, wherein the current and voltage values are transferable to a large-scale analog indicator forming a co-ordinate system, the current and voltage values being represented as a point in the co-ordinate system in dependence upon the chosen welding parameter, and measuring devices being provided for the values of the remaining welding parameters, characterised in that the measuring devices are connected to large-scale digital indicators (5-9) and that the currentvoltage operating ranges (3, 4), which are divided into a spray-arc range (3) and a short-arc range (4), are represented on the large-scale analog indicator (1), on charts, diagrams, or by projection of the large-scale indicator. 
+</ABSTRACT>
+</TEXT>
+</DOC>

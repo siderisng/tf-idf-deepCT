@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005357
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-31/00 C07D-333/70 <main>C07D-495/04</main> C07D-495/00 C07D-495/04 A61P-31/12 C07D-333/00 C07D-495/14 A61K-31/44 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-(benzothienopyrazol)-amides and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company <sep>
+</APPLICANT>
+<INVENTOR>
+hoffman howard edgar<sep>rayner dennis raymond<sep>hoffman, howard edgar<sep>rayner, dennis raymond<sep>hoffman, howard edgar2220 pennington drivewilmington delaware 19810us<sep>rayner, dennis raymond2804 rickdale roadwilmington delaware 19810us<sep>hoffman howard edgarus<sep>rayner dennis raymondus<sep>hoffman, howard edgar<sep>rayner, dennis raymond<sep>hoffman, howard edgar2220 pennington drivewilmington delaware 19810us<sep>rayner, dennis raymond2804 rickdale roadwilmington delaware 19810us<sep>
+</INVENTOR>
+<ABSTRACT>
+n-(benzothienopyrazol)-amides of formula    [in which r₁ is methyl or ethyl; r₂ is cyclohexyl, phenyl,  3-pyridyl, c₂₋₅ haloalkyl, c₃₋₅ alkoxyalkyl or    (wherein r₃ and r₄ are hydrogen, methyl or ethyl; and r₅  is hydrogen or c₁₋₅ alkyl); and r₆ is hydrogen, chlorine,  fluorine, methyl, 6,7-methylenedioxy, 6,7-dimethoxy,  6,7-diacetoxy or -nr₇r₈ (wherein r₇ and r₈ are hydrogen,  methyl or ethyl; with the provisos that (a) when r₂ is cyclohexyl,  then r₆ is hydrogen methyl or ethyl, (b) when r₂  is phenyl, then r₆ is hydrogen, and (c) when r₂ is 3-pyridyl,  then r₆ is hydrogen or fluorine] and pharmaceutically  acceptable acid addition salts thereof.  the compounds  exhibit a strong antiviral activity.  pharmaceutical compositions  containing the compounds are described and  exemplified.  
+</ABSTRACT>
+</TEXT>
+</DOC>

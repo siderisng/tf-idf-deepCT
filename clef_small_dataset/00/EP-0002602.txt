@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002602
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01M-11/02 F01B-31/00 F16N-31/02 F01B-31/10 F16N-31/00 F01M-1/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rotary machine including a lubrication system.
+</TITLE>
+<APPLICANT>
+hughes & cogb<sep>f.a. hughes & co limited<sep>f.a. hughes &amp; co limitedblenheim road longmeadepsom surrey kt19 9algb<sep>
+</APPLICANT>
+<INVENTOR>
+hill david johngb<sep>hill, david john<sep>hill, david john13 godstone roadwhyteleafe surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a rotary machine including a sump in which there is a  rotatable part such as a crankshaft (16) or flywheel and an  upper portion in which certain parts require lubrication has a  lubrication system comprising a scraper (18) terminating at  one end near the rotatable part and at its other end in the  upper portion.  the scraper conveys lubricant to the upper  portion, notably at low speed operation, thus obviating the  need for a pump for this purpose.  
+</ABSTRACT>
+</TEXT>
+</DOC>

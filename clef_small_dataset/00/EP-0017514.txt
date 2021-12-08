@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017514
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-21/14 G03G-15/22 <main>G03G-21/00</main> B65H-7/06 G03G-15/00 B65H-25/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus having a diagnostic mode of operation, and method of putting the apparatus into this mode.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation<sep>
+</APPLICANT>
+<INVENTOR>
+carlson geralde<sep>carlson, geralde<sep>carlson, gerald e.710 shanlee drivewebster new york 14580us<sep>carlson, gerald e.<sep>carlson, gerald e.710 shanlee drivewebster new york 14580us<sep>
+</INVENTOR>
+<ABSTRACT>
+diagnostic capability is provided by setting a machine in  a jam condition and using non-diagnostic dedicated circuitry.   a selector switch 31 is switched from a first predetermined  number to a second predetermined number while simul­ taneously activating a start operation switch 32.  machine  logic is then advanced to a diagnostic state.  to exit the  diagnostic state, a routine jam clearance is accomplished  and the machine returns to the stand by state for normal  operation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

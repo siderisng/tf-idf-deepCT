@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017019
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-27/28 H01F-29/00 H01F-29/02 <main>H01F-29/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transformer or inductance coil with a coil with tappings.
+</TITLE>
+<APPLICANT>
+smit transformatoren bvnl<sep>smit transformatoren b.v.<sep>smit transformatoren b.v.groenestraat 336nl-6531 jc nijmegennl<sep>smit transformatoren b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+wildeboer jan<sep>wildeboer, jan<sep>wildeboer, janwylerbaan 22nl-6561 kr groesbeeknl<sep>wildeboer, jan  <sep>wildeboer, janwylerbaan 22nl-6561 kr groesbeeknl<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a transformer or inductor having a layered winding, with taps being provided in the one winding layer, especially the outermost layer, characterized in that the winding is wound with a number of turns per winding layer and a plurality of parallel mutually insulated conductors as a helical winding including cross-joints or twists, wherein each of said conductors is extended in each winding layer, and all winding portions (7, 7', 7", 7'") are provided with identical tapping configuration. 
+</ABSTRACT>
+<DESCRIPTION>
+die erfindung bezieht sich auf eine wicklung für transformatoren und drosseln, die mit anzapfungen versehen ist. bei transformatoren mit angezapften zylinderwicklungen bildet man zur vermeidung von durchflutungs-unsymmetrien z. b. eine stufenwicklung als eine sich über die ganze axiale höhe der stammwicklung erstreckende spule aus, die an ihren enden angezapft ist (vgl. küchler, die transformatoren, 2. aufl., springer-verlag, berlin, seite 205 ff.). diese art der anzapfung erfordert einen relativ hohen wicklungs- und verdrahtungsaufwand, da die stufenwicklung nur getrennt zu wickeln ist, evtl. auch anderes drahtmaterial erfordert, so dass eine unterbrechung des wicklungsvorganges erforderlich ist. auch müssen zahlreiche anschlüsse herausgeführt und umleitungen verdrahtet werden. ausserdem ist die steigung einer stufenwicklung relativ hoch; dünne stufenwicklungen mit verhältnismässig grosser steigung sind schwer kurzschlussfest zu bauen. gegenüber dem stand der technik stellt sich demnach die aufgabe, eine mit anzapfungen versehene wicklung für transformatoren oder drosseln anzugeben, die keine besonderen probleme bei der kurzschlussfestigkeit ergibt, die ohne wechsel des drahtmaterials gewickelt werden und die in einfacher weise mit anschlüssen versehen werden kann. die lösung dieser aufgabe wird durch eine wicklung für transformatoren und drosseln ermöglicht, bei der die wicklung mit einer anzahl von windungen pro wicklungslage und mehreren parallelen, gegeneinander isolierten drähten als wendelwicklung mit auskreuzungen oder verdrillungen gewickelt ist, bei-der jeder der drähte in jede wicklungslage geführt ist und bei der die anzapfanschlüsse alle in derselben wicklungslage angebracht sind. die wicklungen gemäss erfindung sind in erster linie für oberspannungswicklungen bestimmt, da hauptsächlich diese mit anzapfungen versehen werden. jedoch ist die erfindungsanwendung keineswegs auf derartige wicklungen beschränkt. um eine gleichmässige stromverteilung über die parallelen zweige (drähte) der wicklung zu erhalten, ist es notwendig, die anzapfungen der verschiedenen wicklungsabschnitte alle in derselben lage vorzusehen. anzapfungen in der aussenliegenden lage haben den vorteil, dass die anzapfstellen leicht anzubringen sind. ein nachteil kann jedoch sein, dass die nach aussen führenden drähte an den unterbrechungen mit speziellen vorkehrungen oder massnahmen festgelegt werden müssen. dagegen sind dann, wenn die anzapfungen in einer der innenliegenden lagen angebracht sind, die lose liegenden windungsenden von den (oder der) darüber gewickelte wicklungslage(n) gehalten. weiterhin können die an den drähten aufgrund u. a. von kurzschlusskräften auftretenden mechanischen beanspruchungen besser beherrscht werden. zur vereinfachung der schaltung wird weiterhin vorgeschlagen, dass die aus mehreren windungen bestehenden windungsabschnitte der angezapften wicklungslage mit der gleichen anzapfungskonfiguration versehen sind. bei der erfindung wird beispielsweise gebrauch gemacht von der an sich bekannten wendelwicklung, bei der m n parallele drähte bei einer windungszahl n nach je m windungen in der reihenfolge zyklisch vertauscht werden, wobei sich die notwendigen auskreuzungen und verdrillungen regelmässig über die höhe verteilen. für die auskreuzungen sind m - 1 lücken entsprechender breite freizulassen. nach der erfindung sind die aus m windungen bestehenden windungsabschnitte in einer wicklungslage geteilt und mit mehreren anzapfungen zum anschluss an einen umsteller versehen. da bei ausgeschalteten windungen die nicht strom führenden wicklungsteile über die ganze höhe der wicklung verteilt sind, werden durchflutungs-unsymmetrien weitgehend vermieden. ausführungsbeispiele der erfindung werden anhand der figuren erläutert. diese zeigen: figur 1 a eine wicklung in schematischer darstellung, bestehend aus m
+</DESCRIPTION>
+<CLAIMS>
+1 patentansprüche:   1. wicklung für transformatoren und drosseln, die mit anzapfungen versehen ist, dadurch gekennzeichnet, dass die wicklung mit einer anzahl von windungen pro wicklungslage und mehreren parallelen, gegeneinander isolierten drähten als wendelwicklung mit auskreu zungen oder verdrillungen gewickelt ist, bei der jeder der drähte in jede wicklungslage geführt ist und bei der die anzapfanschlüsse (8, 9, 10, 11, 18, 19) alle in derselben wicklungslage angebracht sind.    2. wicklung nach anspruch 1, dadurch gekennzeichnet, dass alle anzapfanschlüsse in der aussenliegenden wicklungslage angebracht sind.   3. wicklung nach anspruch 1, dadurch gekennzeichnet, dass alle windungsabschnitte mit gleicher anzapfungs konfiguration versehen sind.   4. wicklung nach anspruch 1, dadurch gekennzeichnet, dass die aus mehreren windungen bestehenden windungs abschnitte (7, 7', 7'',   7"')    in der angezapften wicklungslage geteilt sind und mit beispielsweise vier oder sechs anzapfungen zum anschluss an einen oder mehrere umsteller (12) versehen sind.  
+</CLAIMS>
+</TEXT>
+</DOC>

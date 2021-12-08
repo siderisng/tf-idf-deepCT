@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004788
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21K-5/04 F21V-7/00 F21V-11/00 G21K-5/10 G03B-27/16 G02B-19/00 <main>G02B-19/00</main> F21V-11/18 G21K-5/00 F21S-3/00 G03F-7/20 G03B-27/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for irradiating an elongated surface.
+</TITLE>
+<APPLICANT>
+uniroyal ltdgb<sep>uniroyal limited<sep>uniroyal limitedcliftonhall roadnewbridge midlothian eh28 8lg scotlandgb<sep>uniroyal limited  <sep>
+</APPLICANT>
+<INVENTOR>
+nicolson james alfred<sep>nicolson, james alfred<sep>nicolson, james alfred"kestlyn" tinwald downs roaddumfries, bt1 1ts scotlandgb<sep>nicolson, james alfred<sep>nicolson, james alfred"kestlyn" tinwald downs roaddumfries, bt1 1ts scotlandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for irradiating a surface, for example, for  irradiating a photopolymer printing roll with ultra-violet  light.  the apparatus utilizes elongated radiation sources (5,  8, 11) with individual reflectors (6, 9, 12) directing the  radiation to crossed plane mirror systems (7, 10, 13) which  re-direct the radiation toward the printing roll.  the part of the  mounting means for each radiation source at the end of the  source between the sources is shielded from its respective  mirror system by the rear surface of the other mirror system  to expose the roll to substantially uniform intensity of  radiation along substantially the entire length of the roll.  
+</ABSTRACT>
+</TEXT>
+</DOC>

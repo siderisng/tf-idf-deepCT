@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008111
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-303/16 C07D-303/00 <main>C07D-303/16</main> C07D-301/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of glycidyl esters of cycloaliphatic polycarboxylic acids.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+bottenbruch ludwig dr<sep>rauleder gebhard dr <sep>seifert hermann dr<sep>swodenk wolfgang dr  <sep>traenckner hans-joachim dr<sep>vernaleken hugo dr<sep>waldmann helmut dr<sep>bottenbruch, ludwig, dr.<sep>rauleder, gebhard, dr.<sep>seifert, hermann, dr.<sep>swodenk, wolfgang, dr.<sep>traenckner, hans-joachim, dr.<sep>vernaleken, hugo, dr.<sep>waldmann, helmut, dr.<sep>bottenbruch, ludwig, dr.woehlerstrasse 5d-4150 krefeld 1de<sep>rauleder, gebhard, dr.mozartstrasse 20d-5657 haande<sep>seifert, hermann, dr.ruwergasse 4d-5000 koeln 80de<sep>swodenk, wolfgang, dr.auf dem broich 5d-5068 odenthalde<sep>traenckner, hans-joachim, dr.wedelstrasse 46d-4150 krefeld 1de<sep>vernaleken, hugo, dr.kreuzbergstrasse 147d-4150 krefeld 1de<sep>waldmann, helmut, dr.carl-rumpff-strasse 59d-5090 leverkusende<sep>bottenbruch, ludwig, dr.<sep>rauleder, gebhard, dr.<sep>seifert, hermann, dr.<sep>swodenk, wolfgang, dr.<sep>traenckner, hans-joachim, dr.<sep>vernaleken, hugo, dr.<sep>waldmann, helmut, dr.<sep>bottenbruch, ludwig, dr.woehlerstrasse 5d-4150 krefeld 1de  <sep>rauleder, gebhard, dr. mozartstrasse 20d-5657 haande<sep>seifert, hermann, dr.ruwergasse 4d-5000 koeln 80de<sep>swodenk, wolfgang, dr.auf dem broich 5d-5068 odenthalde<sep>traenckner, hans-joachim, dr.wedelstrasse 46d-4150 krefeld 1de<sep>vernaleken, hugo, dr.kreuzbergstrasse 147d-4150 krefeld 1de<sep>waldmann, helmut, dr.carl-rumpff-strasse 59d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of glycidyl esters of cycloaliphatic polycarboxylic acids, characterized in that allyl esters of cycloaliphatic polycarboxylic acids of the general formula  see diagramm : ep0008111,p6,f1  wherein r denotes a cycloaliphatic radical, which can be substituted, and n represents 2, 3 or 4, are reacted with a percarboxylic acid containing 3 to 4 carbon atoms in the presence of organic solvents at a temperature of 30 to 100 degrees c and then the resulting reaction mixture is worked up by distillation, the carboxylic acid formed from the percarboxylic acid being separated off by adding to the reaction mixture an additive which has a boiling point between that of the carboxylic acid forming from the percarboxylic acid and that of the constituent of the reaction mixture which has the next highest boiling point and separating off the carboxylic acid together with the organic solvent by distillation. 
+</ABSTRACT>
+</TEXT>
+</DOC>

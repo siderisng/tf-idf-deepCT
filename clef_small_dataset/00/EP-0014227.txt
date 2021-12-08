@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014227
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-7/0045 G11B-7/24 G11B-7/00 H04N-5/83 <main>G11B-7/00</main> G11B-7/004 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system and method of reproducing and erasing information.
+</TITLE>
+<APPLICANT>
+matsushita electric ind co ltd jp<sep>matsushita electric industrial co. ltd.  <sep>matsushita electric industrial co., ltd.1006, oaza kadomakadoma-shi, osaka-fu, 571jp<sep>matsushita electric industrial co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+akahira nobuo<sep>nakamura tatsushi<sep>ohta takeo<sep>yamashita tadaoki<sep>akahira, nobuo<sep>nakamura, tatsushi<sep>ohta, takeo<sep>yamashita, tadaoki<sep>akahira, nobuo13-6, kanaburi, otokoyamayahata city, 614jp<sep>nakamura, tatsushi3-14, miyuki-higashi-machineyagawa city, 572jp<sep>ohta, takeo2-501, green kohpo 314-1, ohmiya-cho 4-chomenara city, 630jp<sep>yamashita, tadaoki16-1, inda-chohirakata city, 573jp<sep>akahira, nobuo<sep>nakamura, tatsushi <sep>ohta, takeo<sep>yamashita, tadaoki  <sep>akahira, nobuo 13-6, kanaburi, otokoyamayahata city, 614jp<sep>nakamura, tatsushi3-14, miyuki-higashi-machineyagawa city, 572jp<sep>ohta, takeo2-501, green kohpo 314-1, ohmiya-cho 4-chomenara city, 630jp<sep>yamashita, tadaoki16-1, inda-chohirakata city, 573jp<sep>
+</INVENTOR>
+<ABSTRACT>
+in a method of recording information by changes of  refractive index and light absorption coefficient on a thin film  (3), and reproducing the recorded information by   scanning a focussed monochromatic light along a track on a  thin film (3) of a selected thickness and   letting a light component reflected at a light-incident sur­ face (71) of said thin film (3) and the other light component  reflected at an inside face (72) of the opposite surface to said  incident surface (71) of the thin film (3) interfere with each  other thereby efficiently to vary intensity of reflection light.  
+</ABSTRACT>
+</TEXT>
+</DOC>

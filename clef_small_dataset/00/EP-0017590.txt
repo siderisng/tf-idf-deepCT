@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017590
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-50/00 F24F-3/16 B01D-46/00 B01D-46/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+filter for removing dust from a gaseous fluid.
+</TITLE>
+<APPLICANT>
+bourguignonne mec smbfr<sep>societe bourguignonne de mecanique<sep>societe bourguignonne de mecaniqueclenayf-21490 ruffey les echireyfr<sep>
+</APPLICANT>
+<INVENTOR>
+sobole pierrefr<sep>sobole, pierre<sep>sobole, pierreclenayf-21490 ruffey les echireyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The filter comprises means (2) for retaining the finest particles, the larger particle stops (12) to eliminate the gaseous fluid to be filtered before they reached the external surface (10)retaining means (2).The invention is applicable to dusting a gaseous fluid - especially air - destined to a device for use - including a gas burner.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003501
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-417/04 <main>C07D-277/30</main> C07D-417/06 C07D-277/64 C07D-277/30 C07D-417/00 C07D-277/20 C07D-277/22 C07D-277/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of thiazole derivatives.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+seybold guenther dr<sep>seybold, guenther, dr.<sep>seybold, guenther, dr.otto-dill-strasse 32d-6700 ludwigshafende<sep>seybold, guenther, dr.<sep>seybold, guenther, dr.otto-dill-strasse 32d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing thiazole derivatives of the formulas in which R¹ to R⁴ organic radicals and R³ and R⁴ also mean hydrogen, by reacting compounds of the formula with methylene active compounds of the formula in the presence of bases as well as thiazole derivatives.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010797
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/103 G01N-23/04 A61B-6/04 G06T-11/00 G01B-15/00 G01N-23/02 G01B-15/04 A61B-6/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and devices for determining the contour of a body for the reconstruction of an absorption distribution in a plane examined area of this body.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>philips patentverwaltungde<sep>koninklijke philips electronics n.v.<sep>philips corporate intellectual property gmbh<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips patentverwaltung gmbhröntgenstrasse 2422335 hamburgde<sep>
+</APPLICANT>
+<INVENTOR>
+wagner wolfgangde<sep>wagner, wolfgang<sep>wagner, wolfgangbockholtstwiete 11d-2000 hamburg 63de<sep>
+</INVENTOR>
+<ABSTRACT>
+To determine the edge of a body and re construction of the absorption distribution of radiation in a flat examination area, the body is brought into contact with a boundary body which the body touches on different points lying in the irradiated plane. On each beam path passing through one of the touch points and the underu chosen area, a boundary point of the body is determined, the distance of which is determined from the contact point as a value which belongs to the quotient from the respective beam path, by measuring the body absorption-deficient absorption value [Q (P, θ)] and a preselected, mean absorption coefficies Ten (π). The reconstruction of the absorption distribution in the examination area takes place in such a way that the body region outside the investigating area is divided into strife, the length of which is bounded by the body edge, wherein the strip is assigned absorption data from which together with the absorption values The absorption distribution is reconstructed in the examination area.
+</ABSTRACT>
+</TEXT>
+</DOC>

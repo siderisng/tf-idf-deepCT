@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003112
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-18/48 C08G-65/00 C08G-65/02 C07C-69/16 <main>C08G-65/20</main> C07C-69/00 C07C-67/24 C08G-65/16 C08G-65/26 C08G-65/20 C07C-67/00 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of carboxylic acid diesters of polybutylene-glycol by polymerization of chemically pretreated tetrahydrofuran.
+</TITLE>
+<APPLICANT>
+basf ag de  <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+hoffmann herwig dr<sep>huchler otto hermann dr<sep>mueller herbert dr<sep>hoffmann, herwig, dr.<sep>huchler, otto hermann, dr.<sep>mueller, herbert, dr.<sep>hoffmann, herwig, dr.knietschstrasse 21d-6710 frankenthalde<sep>huchler, otto hermann, dr.weinbietstrasse 38d-6703 limburgerhofde<sep>mueller, herbert, dr.carostrasse 53d-6710 frankenthalde<sep>hoffmann, herwig, dr.<sep>huchler, otto hermann, dr.<sep>mueller, herbert, dr.<sep>hoffmann, herwig, dr.knietschstrasse 21d-6710 frankenthalde<sep>huchler, otto hermann, dr.weinbietstrasse 38d-6703 limburgerhofde<sep>mueller, herbert, dr.carostrasse 53d-6710 frankenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for the preparation of polybutylene glycolcolic acid diesters of the formula R-Co-O - (CH₂CH₂CH₂CH₂-O-O-N-CO-R¹ by polymersation of pretreated tetrahydrofuran in the presence of at least one carboxylic acid and / or a carboxylic acid anhydride and a polymerization coat lysator, in particular antimony pentachloride or bleaching earth with a water content smaller than 3 wt.%, whereby the tetrahydrofuran is treated prior to polymerization with strong mineral acids, organic sulfonic acids, silica gel and / or lead cherde.
+</ABSTRACT>
+</TEXT>
+</DOC>

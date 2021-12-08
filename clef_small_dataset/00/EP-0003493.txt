@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003493
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04L-11/16</main> H04L-12/437 H04L-12/427 H04L-12/433 H04J-3/24 H04L-5/00 H04L-5/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data transmission system between stations connected in a loop.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+barner robert paul<sep>deveer john anton<sep>gulick anne mcafee<sep>oblonsky jan gustav<sep>barner, robert paul<sep>deveer, john anton<sep>gulick, anne mcafee<sep>oblonsky, jan gustav<sep>barner, robert paul10500 rockvillerockville, maryland 20852us<sep>deveer, john antonrr2-127, verbank roadmillbrook new york 12545us<sep>gulick, anne mcafeesatellite business systems 8003 westpark drivemclean, va 22102us<sep>oblonsky, jan gustav3005, qual hollow terracebrookeville, maryland 20729us<sep>barner, robert paul<sep>deveer, john anton<sep>gulick, anne mcafee<sep>oblonsky, jan gustav<sep>barner, robert paul<sep>deveer, john anton <sep>gulick, anne mcafee<sep>oblonsky, jan gustav  <sep>barner, robert paul10500 rockvillerockville, maryland 20852us<sep>deveer, john antonrr2-127, verbank roadmillbrook new york 12545us<sep>gulick, anne mcafeesatellite business systems 8003 westpark drivemclean, va 22102us<sep>oblonsky, jan gustav3005, qual hollow terracebrookeville, maryland 20729us<sep>
+</INVENTOR>
+<ABSTRACT>
+Digital data transmission system by frames between a plurality of series connected stations according to a unidirectional loop configuration. The system consists of a plurality of indentic stations (1, 2.. 16) connected by a main bus (17) and by two alternating buses (18) one of the buses connecting the peer order stations and the Other odd stations, so as to allow the avoidance of a defective station. Data from or for processors (21, 22.. 36) connected to the stations are transmitted on the loop in the form of frames transiting by all stations between the original station and the destination station, allowing at any station to eliminate erroneous frames. When a station received a frame that was intended for it, it returns a response frame and zero frames circulate on the loop in the absence of data frames.
+</ABSTRACT>
+</TEXT>
+</DOC>

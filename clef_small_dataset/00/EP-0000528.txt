@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000528
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07F-9/165</main> C07F-9/00 A01N-57/12 C07F-9/165 A01N-29/00 A01N-57/00 A01P-7/04 C07F-9/17 A01N-57/10 A01P-7/02 A01P-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+organophosphonic ester compounds, process for their preparation and their utilisation as insecticides, acaricides and nematocides.
+</TITLE>
+<APPLICANT>
+nihon tokushu noyaku seizo kkjp<sep>nihon tokushu noyaku seizo k.k.<sep>nihon tokushu noyaku seizo k.k.no.4, 2-chome, nihonbashi honcho chuo-kutokyo 103jp  <sep>nihon tokushu noyaku seizo k.k.<sep>
+</APPLICANT>
+<INVENTOR>
+kudamatsu akio<sep>kume toyohiko<sep>saito junichi<sep>tsuboi shinichi<sep>kudamatsu, akio<sep>kume, toyohiko<sep>saito, junichi<sep>tsuboi, shinichi<sep>kudamatsu, akio177, kariyado nakahara-ku kawasaki-shikanagawa-kenjp<sep>kume, toyohiko3-18-1, higashi-toyoda hino-shitokyojp<sep>saito, junichi3-7-12, osawa mitaka-shitokyojp<sep>tsuboi, shinichi999, mogusa hino-shitokyojp<sep>kudamatsu, akio<sep>kume, toyohiko<sep>saito, junichi <sep>tsuboi, shinichi  <sep>kudamatsu, akio177, kariyado nakahara-ku kawasaki-shikanagawa-kenjp<sep>kume, toyohiko3-18-1, higashi-toyoda hino-shitokyojp<sep>saito, junichi3-7-12, osawa mitaka-shitokyojp<sep>tsuboi, shinichi999, mogusa hino-shitokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to new organophosphoric acid esters of the general formula wherein R¹ is an alkyl with 1 - 8 C atoms R 2 an alkyl of 1 - 8 C atoms or an alkoxyalkyl with 2-8 C atoms, x hydrogen, a haloalkyl with 1 - 8 CAtoms or alkoxy with 1 - 8 C atoms and Y halogen.It has been found that the compounds of the formula have excellent insecticides, acaricides and nematocide effects.
+</ABSTRACT>
+</TEXT>
+</DOC>

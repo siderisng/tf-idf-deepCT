@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000894
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-68/08 C07C-69/00 <main>C07C-68/08</main> C07C-68/00 C07C-69/96 C07C-68/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separation of dimethyl carbonate from its azeotrope with methanol.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+buysch hans-josef dr<sep>krimm heinrich dr<sep>rudolph hans dr<sep>buysch, hans-josef, dr.<sep>krimm, heinrich, dr.<sep>rudolph, hans, dr.<sep>buysch, hans-josef, dr.brandenburger strasse 28d-4150 krefeld 1de<sep>krimm, heinrich, dr.heyenbaumstrasse 65d-4150 krefeld 1de<sep>rudolph, hans, dr.haydnstrasse 9d-4150 krefeld 1de<sep>buysch, hans-josef, dr.<sep>krimm, heinrich, dr.  <sep>rudolph, hans, dr.<sep>buysch, hans-josef, dr.brandenburger strasse 28d-4150 krefeld 1de<sep>krimm, heinrich, dr.heyenbaumstrasse 65d-4150 krefeld 1de<sep>rudolph, hans, dr.haydnstrasse 9d-4150 krefeld 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for isolating dimethyl carbonate from its azeotrope with methanol by distillation, characterised in that the azeotrope is distilled under normal pressure with azeotrope-forming agents which are methanol-immiscible. 
+</ABSTRACT>
+</TEXT>
+</DOC>

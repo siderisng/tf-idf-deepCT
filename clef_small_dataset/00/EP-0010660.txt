@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010660
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01V-1/22 <main>G01V-1/22</main> G01V-1/00 G01V-13/00 G01V-1/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for seismic geophysical exploration.
+</TITLE>
+<APPLICANT>
+phillips petroleum cous<sep>phillips petroleum company <sep>phillips petroleum company5th and keelerbartlesville oklahoma 74004us   <sep>phillips petroleum company<sep>
+</APPLICANT>
+<INVENTOR>
+doggett william nance<sep>elliott sheldon ellwood<sep>montgomery orin carroll<sep>tims harold arthur<sep>doggett, william nance<sep>elliott, sheldon ellwood<sep>montgomery, orin carroll<sep>tims, harold arthur<sep>doggett, william nance1532 s. osagebartlesville, oklahomaus<sep>elliott, sheldon ellwoodflat 6 10 ashley placelondon, swigb<sep>montgomery, orin carroll2507 hill drivebartlesville, oklahomaus<sep>tims, harold arthurroute 4 box 67bbartlesville, oklahomaus<sep>doggett, william nance<sep>elliott, sheldon ellwood <sep>montgomery, orin carroll<sep>tims, harold arthur  <sep>doggett, william nance 1532 s. osagebartlesville, oklahomaus<sep>elliott, sheldon ellwoodflat 6 10 ashley placelondon, swigb<sep>montgomery, orin carroll2507 hill drivebartlesville, oklahomaus<sep>tims, harold arthurroute 4 box 67bbartlesville, oklahomaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for seismic geophysical  exploration is disclosed wherein the seismic exploration  system includes a seismic energy source (20) a central  recording and control station (23), a plurality of geophones  (13-19) and a plurality of remote geophone monitoring  means (11a-e).  the central control and recording station  (23) is coupled to the plurality of geophone monitoring  means (11a-e) by a two-way radio frequency (rf) link.   the central recording and control station interrogates the  plurality of geophone monitoring means by means of  the two-way rf link to thereby determine the operating  status of the plurality of geophone monitoring means.  the  operational status of the plurality of geophone monitoring  means is transmitted from each of the plurality of geo­ phone monitoring means via the two-way rf link to the  central recording and control station in response to a  specific address for each of the plurality of remote  geophone monitoring means.  after it has been determined  that the plurality of remote geophone monitoring means  are operational, the central recording and control station  initiates operation of the seismic energy source (20).   the reflected energy imparted into the earth by the seismic  energy source is detected by the plurality of geophones.   apparatus contained within the remote geophone monitor­ ing means, associated with particular geophones,  samples the signals detected by the geophones and  produces representative data in digital form.  the digitized  data is stored in a memory contained within the geophone  monitoring means and is transmitted on demand to the  central recording and control unit.  error detection and  retransmission of data from the remote geophone monitor­ ing means to the central recording and control station  is utilized to increase the reliability of data transmitted  by means of the two-way rf link which couples the central  recording and control station to the plurality of remote  geophone monitoring means.  
+</ABSTRACT>
+</TEXT>
+</DOC>

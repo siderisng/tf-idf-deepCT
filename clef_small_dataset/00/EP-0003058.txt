@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003058
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08L-23/12</main> C08L-23/00 D01F-6/46 C08K-5/5317 C08L-23/10 C08K-5/00 C08L-101/00 C08K-5/53 C08K-5/5333 C08L-23/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stabilized polypropylene.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag <sep>
+</APPLICANT>
+<INVENTOR>
+linhart helmut<sep>moser paul dr<sep>linhart, helmut<sep>moser, paul, dr.<sep>linhart, helmutbaselstrasse 62ch-4153 reinachch<sep>moser, paul, dr.leimgrubenweg 56ch-4125 riehench<sep>linhart, helmut<sep>moser, paul, dr.<sep>linhart, helmutbaselstrasse 62ch-4153 reinachch<sep>moser, paul, dr.leimgrubenweg 56ch-4125 riehench<sep>
+</INVENTOR>
+<ABSTRACT>
+Polypropylene compositions containing as a STA bilizer at least one compound of formula I wherein X is 0 or 1 and N 1, 2, 3, or 4, and R₁ is C₁-C₆ alkyl and R₂ is hydrogen or C₁-C₆ alkyl, and R₃ C₁C₃₀ alkyl means.
+</ABSTRACT>
+</TEXT>
+</DOC>

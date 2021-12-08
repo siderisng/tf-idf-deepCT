@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009237
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-9/44 H04N-9/64 <main>H04N-9/46</main> H04N-9/465 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+chrominance signal circuit in color television receiver.
+</TITLE>
+<APPLICANT>
+sanyo electric co jp<sep>sanyo electric co., ltd.  <sep>sanyo electric co., ltd.18, keihanhondori 2-chomemoriguchi-shi, osakajp<sep>sanyo electric co., ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+inoue fukashi<sep>inoue, fukashi<sep>inoue, fukashi558-182, heguri-cho hideharaikoma-gun nara-kenjp<sep>inoue, fukashi<sep>inoue, fukashi558-182, heguri-cho hideharaikoma-gun nara-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a chrominance signal circuit in a color television re­ ceiver comprises a pal switch (17) for reversing a subcar­ rier signal in every second line, which pal switch is driven  responsive to a flip-flop (27) the output of which is rever­ sed for every second line responsive to a horizontal pulse.   the burst signal extracted from the received color televi­ sion signal is reversed for every second line by a switch  (21, 22) also responsive to the output of the flip-flop.  the  reversed burst signal is subjected to phase detection (23)  together with a signal obtained by +90° phase shifting (24)  the subcarrier.  the phase detected output is integrated by  an integration circuit (25).  the output of the integration cir­ cuit is applied to prevent the horizontal pulse (p1') from  being applied to the flip-flop as a drive input.  
+</ABSTRACT>
+</TEXT>
+</DOC>

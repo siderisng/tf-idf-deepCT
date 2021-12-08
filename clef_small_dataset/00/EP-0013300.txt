@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013300
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B41J-1/30</main> B41J-1/30 B41J-1/00 B41J-1/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+printing element with type-carrying wheel contained in a cartridge.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+habich adolph broaddus<sep>hunt ronald eugene <sep>habich, adolph broaddus<sep>hunt, ronald eugene  <sep>habich, adolph broaddus8004 ceberry driveaustin, tx 78759us<sep>hunt, ronald eugene8702 honeysuckle trailaustin, tx 78759us<sep>habich, adolph broaddus<sep>hunt, ronald eugene  <sep>habich, adolph broaddus8004 ceberry driveaustin, tx 78759us<sep>hunt, ronald eugene8702 honeysuckle trailaustin, tx 78759us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a detachable print element for a print hammer printer, of the type comprised of a print wheel (2) with radially-extended type petals (27) and a cartridge (1) enclosing almost completely the print wheel (2), the latter being axially mobile in cartridge (1) and being flexibly urged by a spring (48) to one (6) of the sides of cartridge (1), said print element being characterized in that : said side (6) of the cartridge (1) has an asymmetrically-shaped orientation opening (7) and the side of print wheel (2) adjacent thereto includes an orientation protrusion (29) of a shape complementary to that of said orientation opening (7) and facing the latter, said orientation protrusion (29) being intended to come into engagement with said orientation opening (7) under the influence of said spring (48), thereby latching print wheel (2) inside the cartridge (1) into a predetermined invariable angular position about its axis when the print element is not used for printing, said orientation protrusion (29) being released from said orientation opening (7) when the print wheel (2) is withdrawn from said side (6) of the cartridge for printing. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003593
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-25/12 B30B-9/10 <main>B01D-25/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for the filtration of sludge or similar material in a filter press.
+</TITLE>
+<APPLICANT>
+passavant werke de <sep>passavant-werke michelbacher hutte<sep>passavant-werke agd-65322 aarbergen 7de<sep>passavant-werke ag & co. kg<sep>
+</APPLICANT>
+<INVENTOR>
+busse oswald dr-ing<sep>klesper hugo<sep>busse, oswald, dr.-ing.<sep>klesper, hugo<sep>busse, oswald, dr.-ing.schillerstrasse 8d-6209 aarbergen 2de<sep>klesper, hugoauf dem kirchgartend-6209 aarbergen 2de<sep>busse, oswald, dr.-ing.<sep>klesper, hugo <sep>busse, oswald, dr.-ing. schillerstrasse 8 d-6209 aarbergen 2de<sep>klesper, hugoauf dem kirchgartend-6209 aarbergen 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for filtering sludge or similar matter by successive charges in a filter press to which are connected a pump for feeding the sludge and creating the filtering pressure and an air vessel for temporarily storing of sludge under pressure, each of the filtration charges comprising a filling phase during which the filter press is filled with sludge which is taken at least partly from the air vessel, a filtering phase during which the pump feeds sludge into the filter press to create the filtering pressure, and an emptying phase in which the filter press is opened with the connection to the air vessel being closed and the filter cake is discharged, and wherein the air vessel is loaded during a part of each filtration charge with sludge conveyed by the pump, characterized by the fact that the air vessel is loaded with sludge from the pump during said emptying phase. 
+</ABSTRACT>
+</TEXT>
+</DOC>

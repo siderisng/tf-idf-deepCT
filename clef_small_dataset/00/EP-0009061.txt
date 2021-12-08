@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009061
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/68 A61P-37/00 C07D-277/26 C07D-213/65 A61K-31/4418 C07D-275/02 C07D-285/12 C07D-233/64 C07D-263/32 C07D-263/00 A61K-31/42 C07D-213/00 C07D-261/00 C07D-277/00 C07D-233/54 C07D-275/00 A61K-31/44 C07D-249/08 C07D-213/32 C07D-285/135 C07D-275/03 A61P-37/08 C07D-249/00 A61K-31/4402 C07D-213/61 C07D-233/00 C07D-285/00 C07D-261/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+amidinosulphonic acid derivatives, process for their preparation and pharmaceutical compositions containing these derivatives.
+</TITLE>
+<APPLICANT>
+smith kline french lab gb<sep>smith kline & french laboratories limited<sep>smith kline &amp; french laboratories limitedmundellswelwyn garden city hertfordshire, al7 1eygb<sep>
+</APPLICANT>
+<INVENTOR>
+durant graham johngb<sep>tashma zevil<sep>young rodney christophergb<sep>durant, graham john<sep>tashma, zev<sep>young, rodney christopher<sep>durant, graham john401 knightsfieldwelwyn garden city hertfordshiregb<sep>tashma, zev2 ben zion streetkiriat moshe jerusalemil<sep>young, rodney christopher62 cowper cresentbengeo hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+amidino sulphonic acid compounds of the formula    where het is a nitrogen-containing 5 or 6 membered hetero­ cyclic group, z is sulphur or methylene, n is 2 or 3 and r  is hydrogen, lower alkyl or het ch₂z(ch₂)n have activity  as histamine h₂-receptor antagonists and are the ingredients  of pharmaceutical compositions.  the compounds are pre­ pared by primary amine coupling reactions.  compounds of the invention where z is a methylene  group can also be prepared by reacting the corresponding  thiourea or sulphinic acid with an oxidising agent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

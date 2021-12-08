@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006079
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07F-17/24 <main>G07C-1/30</main> G07F-17/00 G07F-7/08 G07B-15/02 G07C-1/30 G07C-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a motor vehicle parking system.
+</TITLE>
+<APPLICANT>
+lovanger elektronic marketingse<sep>lovanger elektronic marketing ab<sep>lövanger elektronic marketing abbox 394s-591 24 motalase<sep>lovanger elektronic marketing ab <sep>
+</APPLICANT>
+<INVENTOR>
+swahn nils henrik<sep>treun karl bengt<sep>swahn, nils henrik<sep>treun, karl bengt<sep>swahn, nils henrikgranevägen 8s-182 65 djursholmse<sep>treun, karl bengtlillgarden overbys-150 12 stjärnhovse<sep>swahn, nils henrik <sep>treun, karl bengt  <sep>swahn, nils henrikgranevägen 8s-182 65 djursholmse<sep>treun, karl bengtlillgarden overbys-150 12 stjärnhovse<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention refers to a motor vehicle parking  system utilizing three units interrelated to each other,  namely   a) a sign for indicating a parking space,   b) a parking meter at the disposal of the vehicle's proprieter  and   c) a terminal in which information accumulated in the  parking meter may be evaluated.  said sign contains an information, which, as a code,  indicates one or more of the following items,   i) maximal length of parking time   ii) cost per unit of time or per occasion,   iii) who is permitted to receive payment for the utilized time  or occasion,   iv) information about who has specific permission.  said parking meter has different storage means, each  intended to store information belonging to one entitled to  receive payment.  
+</ABSTRACT>
+</TEXT>
+</DOC>

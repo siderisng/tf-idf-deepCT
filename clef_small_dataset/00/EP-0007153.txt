@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007153
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-19/05 G05B-19/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved programmable controller
+</TITLE>
+<APPLICANT>
+gould incus<sep>gould inc.<sep>gould inc.10 gould centerrolling meadows, il 60008us  <sep>
+</APPLICANT>
+<INVENTOR>
+hill lawrence wus<sep>malcolm ronaldus<sep>stoodley iii thomas jus<sep>hill, lawrence w.<sep>malcolm, ronald<sep>stoodley iii, thomas j.<sep>hill, lawrence w.163 waverley st.arlington mass.us<sep>malcolm, ronald7 richard circleandover mass.us<sep>stoodley iii, thomas j.26 lura st.lowell mass.us<sep>
+</INVENTOR>
+<ABSTRACT>
+a small, low cost, programmable controller is described  capable of solving user programs represented in networks  having up to seven rows and eleven columns.  a column sol­ ver is utilized to provide efficient and fast solution of the user  control network.  the programmable controller also solves  calculate functions having multiple outputs to facilitate use of  the output information in the control program.  a programming panel using a crt display shows one or  more selected control networks and, in conjunction with the  central processing unit of the programmable controller, pro­ vides for the insertion of networks between two existing net­ works.  since the networks are solved by the controller main­ frame in a sequential fashion, this network insertion allows  the user to optimize his or her control program when solution  order of the networks is important.  the output coil numbers of network rows may also be  assigned by the user independent of their placement in the  control program to further facilitate programming the control­ ler.  the programming panel includes a movable cursor on the  crt display which, in conjunction with a light-emitting diode  (led), allows the user to monitor the real-time power flow at  any particular point in the displayed ladder diagram network.   specialized search features can also be specified by the user  to simplify monitoring and de-bugging the control program.  the present invention relates to programmable control­ lers used in industrial control applications such as those  found to control material handling, metal cutting, packaging,  assembly, batch sequencing, grinding, welding, polymer  blending and handling, as well as energy management.  
+</ABSTRACT>
+</TEXT>
+</DOC>

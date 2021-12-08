@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017129
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-51/22</main> H01H-51/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polarised relay having contact blades.
+</TITLE>
+<APPLICANT>
+matsushita electric works ltdjp<sep>sauer hansde<sep>matsushita electric works, ltd.<sep>sauer, hans<sep>matsushita electric works, ltd.1048, oaza-kadomakadoma-shi osaka 571jp<sep>sauer, hansfichtenstrasse 5d-8024 deisenhofende<sep>matsushita electric works, ltd.  <sep>sauer, hans<sep>matsushita electric works, ltd.<sep>sauer, hans<sep>
+</APPLICANT>
+<INVENTOR>
+isobe yoichi<sep>kasano humihiro<sep>sauer hans<sep>isobe, yoichi<sep>kasano, humihiro<sep>sauer, hans<sep>isobe, yoichic/o mr. komada 10-3,1 chome hatchotsu-city mie prefecturejp<sep>kasano, humihirokiyotaki nakamachi 27-13shijonawate city osakajp<sep>sauer, hansfichtenstrasse 5d-8024 deisenhofende<sep>isobe, yoichi<sep>kasano, humihiro<sep>sauer, hans<sep>isobe, yoichi <sep>kasano, humihiro<sep>sauer, hans  <sep>isobe, yoichi c/o mr. komada 10-3,1 chome hatchotsu-city mie prefecturejp<sep>kasano, humihirokiyotaki nakamachi 27-13shijonawate city osakajp<sep>sauer, hansfichtenstrasse 5d-8024 deisenhofende<sep>
+</INVENTOR>
+<ABSTRACT>
+A polarized tongue contact relay has a spu steering body having a winding arranged thereon, two ferromag-neetic contact tongues extending through the interior of the bobbin, at least one permanent magnet and two pairs of pole pieces.The two contact tongues are each fixed at their one end and cooperate with their other, free end with a pair of pair formed fixed contacts together.The relay thus formed has two switching contact systems which Elek are separated from each other and can be actuated absolutely synchronously.
+</ABSTRACT>
+</TEXT>
+</DOC>

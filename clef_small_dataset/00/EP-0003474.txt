@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003474
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-38/16 C07K-5/083 C07K-5/00 C12Q-1/56 <main>G01N-33/48</main> C07K-14/435 C07G-7/00 C07K-14/745 C12N-9/64 A61K-38/43 C07K-5/087 A61K-35/56 C12Q-1/37 A61K-35/14 A61K-38/46 G01N-33/86 A61K-35/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the determination of prothrombin, reagent for this determination and process for preparing a factor xa preparation.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+kirchhof bruno<sep>kirchhof, bruno, dr.<sep>kirchhof, bruno, dr.tannenhofallee 23ed-4400 münsterde<sep>kirchhof, bruno, dr.<sep>kirchhof, bruno, dr.tannenhofallee 23ed-4400 münsterde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for determining prothrombin in biological material, such as.b.Blood plasma by adding a defined amount of factor Xa, preferably the human factor Xa, to the test solution and after enzymatic cleavage of a thrombin substrate, for example a synthetic peptide p-nitroanilide derivative, a cleavage product such as p-nitroaniline possibly measures photometrically.Furthermore, the invention relates to a reagent for carrying out the method and a method for producing a factor Xa preparation, preferably of human plasma.
+</ABSTRACT>
+</TEXT>
+</DOC>

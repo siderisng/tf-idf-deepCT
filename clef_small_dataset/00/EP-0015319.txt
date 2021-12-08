@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015319
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-5/20 G06F-7/50 G06F-7/508 G09G-1/06 G05B-19/41 G09G-1/26 G09G-1/10 G06F-7/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital input/analog drive positioning system
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+mcmanigal david frazelleus<sep>mcmanigal, david frazelle<sep>mcmanigal, david frazelleblueberry lanestormville new york 12582us<sep>
+</INVENTOR>
+<ABSTRACT>
+in a digital input/analog drive positioning system, in order to simplify the circuitry of the absolute difference generator used to calculate the magnitude and sign of the difference between the digital target input and the digital current position value, the pre-adder (31) magnitude comparator is omitted.  one input (36) to the adder contains complementing circuitry (34) as does the output from the adder.  the carry-out (38) from the adder (31) is latched and used to select connection by complementing or carry handling in response to application of a carry-in signal as well as to determine the sign of the difference (line 43) if both input and value are positive, additional circuitry being required else.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003077
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01B-63/112 A01B-61/02 A01B-61/00 A01B-63/111 A01B-63/00 A01B-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a tractor draft load monitoring system.
+</TITLE>
+<APPLICANT>
+ford francefr<sep>ford motor cogb<sep>ford werke agde<sep>ford france societe anonyme<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>
+</APPLICANT>
+<INVENTOR>
+mclean douglas hazenus<sep>mclean, douglas hazen<sep>mclean, douglas hazen7799 ferry roadgrosse ile michigan 48138us<sep>
+</INVENTOR>
+<ABSTRACT>
+a tractor draft load monitoring system (12, 14, 26)  responsive to tractor and associated implement load  changes.  the system is particularly adapted for a tractor  having an engine/transmission power unit (11) coupled to its  drive shaft (12).  the power unit is mounted on the frame (13)  by resilient mounts (14) that permit measurable angular  displacement of the power unit (11) relative to the frame (13)  about the drive shaft axis (12) in reaction to changes in the  drive shaft torque.  the working depth of the implement,  which may be tractor mounted, semi-mounted or a pull type  implement, is raised or lowered by a hydraulic lift system  that is controlled by a control valve assembly (26) connected  to a source of fluid under pressure.  interposed between the  power unit (11) and the control valve assembly (26) is a  transmission cable (bowden wire type) and lever system (27)  that is operative to transmit angular displacement of the  power unit (11) to an actuating member of the control valve  assembly (26) to cause hydraulic actuation of the hydraulic  lift device to change the working depth of the implement to  compensate for changes in its draft load.  
+</ABSTRACT>
+</TEXT>
+</DOC>

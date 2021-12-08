@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006530
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01K-11/00 G01K-1/02 G01K-1/00 <main>G01K-11/12</main> G01J-5/58 G01J-5/08 G01K-11/12 G01R-15/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fibre-optical temperature sensor.
+</TITLE>
+<APPLICANT>
+asea abse<sep>asea ab<sep>asea abs-721 83 västerasse<sep>asea ab  <sep>
+</APPLICANT>
+<INVENTOR>
+sander lars dipl-ing<sep>sander, lars, dipl.-ing.<sep>sander, lars, dipl.-ing.bernsborgstigen 6s-722 18 västerasse<sep>sander, lars, dipl.-ing.<sep>sander, lars, dipl.-ing.bernsborgstigen 6s-722 18 västerasse<sep>
+</INVENTOR>
+<ABSTRACT>
+A fiber optic temperature measuring device utilizes the property of certain materials, its absorption spectrum, d.H.Your color to change depending on the temperature.Visible or invisible light is supplied to the material (7) in preferably two different wavelength ranges, and the light intensities reflected from the material are determined in detector assemblies (61, 62) for determining the absorbency of the material in the emitted wavelength ranges.In an arrangement (17), the quotient is formed from the two output variables of the detectors which is a measure of the temperature of the material.
+</ABSTRACT>
+</TEXT>
+</DOC>

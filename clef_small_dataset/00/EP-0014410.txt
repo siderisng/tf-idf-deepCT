@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014410
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-37/78</main> C07C-39/04 C07C-37/00 C07C-37/78 C07C-67/00 C07C-39/07 C07C-39/00 C07C-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separation of phenol from a mixture of cresols.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+hammerstrom knut dr<sep>wust alfredo dr<sep>hammerstrom, knut, dr.<sep>wust, alfredo, dr.<sep>hammerström, knut, dr.pehlengarten 3d-5060 bergisch-gladbach 1de<sep>wüst, alfredo, dr.carl-rumpff-strasse 55d-5090 leverkusen 1de<sep>hammerstrom, knut, dr.<sep>wust, alfredo, dr.<sep>hammerström, knut, dr.pehlengarten 3d-5060 bergisch-gladbach 1de<sep>wüst, alfredo, dr.carl-rumpff-strasse 55d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for separating phenol of cresol in which phenol-containing cresol is distilled in the presence of a component which has a dipole moment of 0 to 0.5 debye and boiled at 1 bar in the temperature range of 120 to 220 ° C or a dipole moment of 05 to 2.5 Debye has and at 1 bar in the temperature range from 150 to 190 ° C boiling.The separation is carried out in general by azeotropist distillation.
+</ABSTRACT>
+</TEXT>
+</DOC>

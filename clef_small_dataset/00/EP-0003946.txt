@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003946
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05G-1/06 H01J-35/16 H05G-1/12 H05G-1/10 H05G-1/00 H01J-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compact radiology apparatus.
+</TITLE>
+<APPLICANT>
+balteau sa be  <sep>balteau s.a.<sep>balteau s.a.rue de magnée, 54b-4610 beyne-heusaybe<sep>
+</APPLICANT>
+<INVENTOR>
+defechereux josephbe<sep>gosselin rogerbe<sep>defechereux, joseph<sep>gosselin, roger<sep>defechereux, josephallée de la cense rouge, 30b-4900 angleurbe<sep>gosselin, rogerbilsersteenweg, 96b-3600 tongerenbe<sep>
+</INVENTOR>
+<ABSTRACT>
+radiology apparatus with an x-ray tube and a high-voltage generator which are designed to make the unit compact and light.  the cylindrical envelope of the cascade-type tube is made up by assembling, in a sealed manner, a desired number of metallic cylindrical rings (7-7"") aligned alternately with dielectric cylindrical rings (8-8'''), the ends of the assembly being closed by soldered plates, one (6) carrying the cathode and the other (4) the anode.  the inside surface of the metallic rings is lined with annular test electrodes (9'-9"").  the intermediate metallic rings are connected to high electricl potentials increasing from the anode to the cathode.  these high increasing electrical potentials are advantageously tapped from a high-voltage generator (20, 30) mounted in a toroidal configuration coaxially surrounding the x-ray tube and forming with it an especially compact unit (figure 2).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

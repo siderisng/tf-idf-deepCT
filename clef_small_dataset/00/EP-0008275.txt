@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008275
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05D-23/24</main> G01K-7/12 G05D-23/24 G01K-7/02 H01C-7/02 H05B-3/14 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+plug connector comprising an automatic control device to stabilise the temperature of at least one connection point.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf  <sep>
+</APPLICANT>
+<INVENTOR>
+buchy francois<sep>cadier jacques<sep>buchy, francois<sep>cadier, jacques<sep>buchy, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>cadier, jacques"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>buchy, francois<sep>cadier, jacques<sep>buchy, françois"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>cadier, jacques"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The object of the invention is to stabilize in temperature, by simple means, one or more points of an electrical circuit, and again to provide a thermostatic connector to one or more connecting jacks.For this purpose, we put the point or the jack in good thermal contact with a resistor with a positive temperature coefficient, optionally surrounded by a second analog resistance, these resistors being powered energized.For example, a connector (in section FIG. 12) constituted by a metal casing (101), surrounding a sleeve-shaped resistor (105), itself surrounding a thermally conductive material in which is drowned at least one Jack (106).Application to electrical measurements especially by thermo-couples.
+</ABSTRACT>
+</TEXT>
+</DOC>

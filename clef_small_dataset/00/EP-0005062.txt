@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005062
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-3/14 G03G-15/32 H04N-1/32 G06F-3/12 H04N-1/23 <main>G06K-15/14</main> G06K-15/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adapter for a raster output scanning printer.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation<sep>
+</APPLICANT>
+<INVENTOR>
+rider ronald e<sep>rider, ronald e.<sep>rider, ronald e.2906 via victoriapalos verdes estates californiaus<sep>rider, ronald e.<sep>rider, ronald e.2906 via victoriapalos verdes estates californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an adapter (12) for a raster output scanning printer (14),  and more particularly for interfacing a digital electronic  image processor (10) with dedicated connections for printer  control and operation with the raster output scanning printer  (14).  the adapter (12) is characterized by comprising means  (21) for receiving digital command data from dedicated input  connections from said electronic image processor (10) and  for initiating control functions in response thereto; means  (19) for receiving and distributing digital clock signals of a  predetermined uniform frequency transmitted thereto by  said electronic image processor (10) on dedicated input  connections; means (35) for receiving packets of video print  information on dedicated input connections from said electronic  image processor (10) and for retiming said video print  information for transmission to said printer (14); and means  (38) for monitoring transmission of video print information  to said printer (14) and for requesting additional packets  thereof from said electronic image processor (10).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007005
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-21/76 <main>H01L-21/31</main> H01L-21/033 H01L-29/66 H01L-29/78 H01L-21/32 H01L-21/02 H01L-21/336 H01L-21/762 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of producing field-effect transistors of the mos type with self-aligned gate and contact vias.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+dennard robert heath<sep>rideout vincent leo<sep>dennard, robert heath<sep>rideout, vincent leo<sep>dennard, robert heathcroton lake roadcroton-on-hudson, n.y. 10520us<sep>rideout, vincent leo3036 knollwood courtmohegan lake, n.y. 10547us<sep>dennard, robert heath<sep>rideout, vincent leo<sep>dennard, robert heathcroton lake roadcroton-on-hudson, n.y. 10520us<sep>rideout, vincent leo3036 knollwood courtmohegan lake, n.y. 10547us<sep>
+</INVENTOR>
+<ABSTRACT>
+This method comprises forming a compo SiO₂ - Si₃n₄ - SiO₂ (13, 12, 14) oxidation barrier layer (13, 12, 14) in a desired configuration on a silicon substrate (11). The exposed parts of the substrate are oxidized to form the built-in regions of isolation (18). Some portions of the composite layer corresponding to the regions (21) are eliminated and the substrate is oxidized in the exposed parts, which provides the isolation regions (23). The removal of the remaining parts of the composite layer leaves the locations (24) of the self-grid holes with desired regions (20) of the substrate. It remains only to form the conductive inter-connection network according to the desired configuration to ensure electrical contacts with these regions (20). This process finds application in the manufacture of isolated door-to-door effect transistors, in particular for the realization of dynamic RAM memories, to a single device.
+</ABSTRACT>
+</TEXT>
+</DOC>

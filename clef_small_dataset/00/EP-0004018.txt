@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004018
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-20060101S C07F-7/10 A61K-31/695 <main>C07F-7/08</main> A61P-21/00 A61K-20060101S C07F-7/00 A61P-21/02 C07F-7/21 C07D-20060101S C07F-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-oxa-4-aza-2,6-disilacyclohexanes, their production and use as muscle relaxants and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+sandoz agch<sep>sandoz ag<sep>sandoz aglichtstrasse 354002 baselch<sep>sandoz ag<sep>
+</APPLICANT>
+<INVENTOR>
+barcza sandor<sep>barcza, sandor<sep>barcza, sandor8, larchdell waymountain lakes 8 ny 07046us<sep>barcza, sandor<sep>barcza, sandor8, larchdell waymountain lakes 8 ny 07046us<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of formula    in which either r₁ and r₂ are independently hydrogen,  fluorine, chlorine, alkyl or alkoxy of 1 to  4 carbon atoms, or trifluoromethyl,   or r₁ is -(ch₂)nn(r₇)(r₈), in which r₇ and r₈  are independently hydrogen, methyl or  ethyl, and n is 0 or 1,   and r₂ is hydrogen,   and r₃, r₄, r₅ and r₆ are independently methyl  or ethyl,   in free base or acid addition salt form, their production and  use as muscle relaxants.  
+</ABSTRACT>
+</TEXT>
+</DOC>

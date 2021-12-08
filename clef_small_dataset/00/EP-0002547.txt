@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002547
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-7/09 G11B-7/12 G02B-7/28 H01S-5/024 <main>G11B-7/08</main> H01S-5/00 G11B-7/08 G11B-7/09 H04N-5/76 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical read unit for reading a moving information carrier, in particular for reading a video disc.
+</TITLE>
+<APPLICANT>
+philips nvnl  <sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+bierhoff martinus petrus maria<sep>immink kornelis antonie<sep>kleuters wilhelm josef<sep>van rosmalen gerard eduard<sep>bierhoff, martinus petrus maria<sep>immink, kornelis antonie<sep>kleuters, wilhelm josef<sep>van rosmalen, gerard eduard<sep>bierhoff, martinus petrus mariac/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>immink, kornelis antoniec/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>kleuters, wilhelm josefc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>van rosmalen, gerard eduardc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>bierhoff, martinus petrus maria <sep>immink, kornelis antonie<sep>kleuters, wilhelm josef  <sep>van rosmalen, gerard eduard <sep>bierhoff, martinus petrus mariac/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>immink, kornelis antoniec/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>kleuters, wilhelm josefc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>van rosmalen, gerard eduardc/o int. octrooibureau b.v. 6, prof. holstlaannl-5600 eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+an optical read unit for reading radiation-reflecting  video discs comprises a semiconductor laser which with the  aid of a scan wobbler and a focussing wobbler is moved at  high frequency in two directions relative to the video disc, a  radial direction (s) for tracking purposes and a direction (f)  normal to the disc for the purpose of automatic focussing.   the semiconductor diode laser (41) is mounted on a metal  radiation source carrier (48) which is connected to a heat sink  (50) for carrying off the heat with a low temperature gradient,  and is driven by piezo-electric plates (45, 46).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012943
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01C-3/00 <main>H01M-4/58</main> C01C-3/12 H01M-4/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+secondary electrochemical generator with non-aqueous electrolyte.
+</TITLE>
+<APPLICANT>
+gipelecfr<sep>gipelec s.a.<sep>gipelec s.a.125, rue du président wilsonf-92302 levallois-perretfr<sep>gipelec s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+messina richard<sep>perichon jacques<sep>messina, richard<sep>perichon, jacques<sep>messina, richard5 rue des peupliers "la nerac"f-91800 boussy st antoinefr<sep>perichon, jacques9 avenue saint jacquesf-91600 savigny sur orgefr<sep>messina, richard <sep>perichon, jacques<sep>messina, richard 5 rue des peupliers "la nerac" f-91800 boussy st antoine fr<sep>perichon, jacques9 avenue saint jacquesf-91600 savigny sur orgefr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  secondary electrochemical generator employing a non-aqueous electrolyte, characterized in that its positive active material is chosen out of the group formed by iron hexacyanoferrate, by the compounds derived therefrom by at least partial replacement of the iron by other elements of the groups 4a, 5a, 6a, 7a and 8 of the periodic table and which have at least two stable oxidation states other than zero, and mixtures of these compounds. 
+</ABSTRACT>
+<DESCRIPTION>
+matière active positive réversible pour générateur électrochimique secondaire à électrolyte non aqueux l'invention concerne une matière active positive réversible pour générateur électrochimique secondaire à électrolyte non aqueux. depuis quelques années est apparue sur le marché une nouvelle famille de générateurs électrochimiques, qui se distingue par l'utilisation d'électrolytes non aqueux liquides à température ordinaire. ces électrolytes permettent d'avoir recours à des matières actives négatives constituées par des métaux légers et très énergétiques tels que le lithium, qui ne peuvent que difficilement etre employés en présence d'électrolytes aqueux en raison de leur réactivité chimique vis-à-vis de l'eau. ces générateurs présentent donc des énergies massiques; sensiblement plus élevées que les générateurs à électrolyte aqueux, avec des puissances plus fortes que ceux à électrolyte solide et sans les contraintes liées aux hautes températures. toutefois seuls des générateurs primaires à électrolyte non aqueux ont été développés jusqu'ici. en effet la réalisation d'un générateur secondaire se heurte à deux difficultés - la redéposition uniforme pendant la charge du métal léger dissous sous forme de sel lors de la décharge, - la mise en oeuvre d'une matière active positive fonctionnant réversiblement dans un milieu électrolytique non aqueux. le but de l'invention est de résoudre cette seconde difficulté. l'invention a pour objet une matière active positive réversible pour générateur électrochimique secondaire à électrolyte non aqueux, caractérisée par le fait qu'elle est comprise dans le groupe formé par les hexacyanoferrates de fer, les composés qui en dérivent par remplacement au moins partiel du fer par d'autres éléments des groupes 4a, 5a, 6a, 7a et 8 de la classification périodique présentant au moins deux états d'oxydation stables autres que l'état zéro, et les mélanges de ces composés. les groupes de la classification des éléments sont désignés conformément au µ 1.2 des règles de 1970 pour la nomenclature de chimie inorganique établies par l'union internationale de chimie pure et appliquée. les hexacyanoferrates de fer sont des composés cristallisés comprenant des cations fer et des anions complexes formés par un atome central de fer entouré de six groupes cyanure cn . les cations peuvent comporter deux ou trois charges positives selon que le fer y est divalent ou trivalent. de meme les anions fe(cn)6 peuvent porter quatre ou trois charges négatives. les hexacyanoferrates de fer sont obtenus notamment par réaction d'hexacyanoferrates solubles, par exemple de ferrocyanures ou ferricyanures alcalins, avec des sels de fer il ou iii. outre les ions indiqués ci-dessus, ils peuvent contenir des cations alcalins, ainsi que de l'eau de cristallisation. l'utilité des hexacyanoferrates de fer, qui sont pratiquement insolubles dans les solvants organiques, comme matières actives positives réversibles pour des générateurs électrochimiques secondaires à électrolyte non aqueux, peut s'expliquer, à titre de simple hypothèse, par le fait que le fer présent dans ces composés est susceptible de se réduire de l'état iii à l'état il sans destruction de la structure, avec probablement insertion de cations en provenance de l'électro- lyte (li+ par exemple) pour rétablir la neutralité électrique du cristal, selon l'une des réactions emi2.1 i'indice cr marquant
+</DESCRIPTION>
+<CLAIMS>
+revendications   1/ matière active positive réversible pour générateur électrochimique secondaire à électrolyte non aqueux, caractérisée par le fait qu'elle est comprise dans le groupe formé par les hexacyanoferrates de fer, les composés qui en dérivent par remplacement au moins partiel du fer par d'autres éléments des groupes 4a, 5a, 6a, 7a et 8 de la classification périodique présentant au moins deux états d'oxydation stables autres que   l'état    zéro, et les mélanges de ces composés.   2/ matière active selon la revendication 1, caractérisée par le fait que lesdits autres éléments sont compris dans le groupe formé par le manganèse, le cobalt et le nickel.    3/ matière active selon la revendication 1, caractérisée par le fait qu'elle est conforme au produit obtenu par réaction d'un ferricyanure alcalin et d'un sel de fer   il,    dans le rapport molaire de 3 : 4.      4/ matière    active selon la revendication 1, caractérisée par le fait qu'elle est conforme au produit obtenu par réaction d'un ferrocyanure alcalin et d'un sel de fer iii, dans le rapport molaire de 3 : 4.   5/ matière active selon la revendication 1, caractérisée par le fait qu'elle est conforme au produit obtenu par réaction d'un ferricyanure alcalin et d'un sel de fer il en quantités équimoléculaires.   6/ matière active selon l'une des revendications 1 à 5, caractérisée par le fait qu'elle est obtenue par réaction d'un ferricyanure alcalin et/ou d'un ferrocyanure alcalin avec un sel de fer il et/ou un sel de fer iii.  
+</CLAIMS>
+</TEXT>
+</DOC>

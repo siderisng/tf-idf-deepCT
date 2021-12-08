@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007079
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+B27B-31/06 <main>G01B-11/24</main> B27B-31/00 G01B-11/24 G01B-11/245 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for scanning and measuring elongated irregular workpieces such as planks.
+</TITLE>
+<APPLICANT>
+saab scania abse<sep>saab-scania aktiebolag<sep>saab-scania aktiebolagfacks-581 88 linköpingse<sep>saab-scania aktiebolag <sep>
+</APPLICANT>
+<INVENTOR>
+sjodin bo<sep>sjodin, bo<sep>sjödin, bos-55 101 jöngköpingse<sep>sjodin, bo <sep>sjödin, bos-55 101 jöngköpingse<sep>
+</INVENTOR>
+<ABSTRACT>
+With an array camera, elongated workpieces are scanned, which move transversely to their longitudinal dimension by a measuring zone. The photosensitive detector elements of the array camera are aligned in the longitudinal direction of the workpiece and the optical axes of the detector elements are in a common plane which cuts the measuring zone. Each detector element "sees" only a small (for example, 8 x 8 mm) pixels. On opposite sides of the common plane mentioned, the radiation sources whose radiation directed to the measuring zone is reflected from the workpieces to the detector elements. During each single cycle (eg b. 4 milliseconds duration) of a sequence of short measurement cycles, each detector element is alternately sets out of the radiation that comes from one of the radiation sources. While the other radiation source remains off, so that an A output and one output occurs in each cycle and that a radiation is further provided with a significantly lower level for generating an R output. In each cycle, the R output of at least some predefined detector elements is withdrawn from the A and B outputs of the same elements in the same cycle to produce ΔA and ΔB difference signals. The time clock is made. that the ΔA and δ b signals of the same detector element and the same cyclus come from one and the same small surface of the workpiece, so that the inclination of this small surface is detectable as a function of the ΔA and ΔB values. During a fourth interval in each cycle, certain detector elements detect the radiation of a laser, the sen beam in the mentioned common plane and extends obliquely to the workpiece surface, so that the corresponding detector elements could produce an L output. With the selected detector elements, which provide an L output, the thickness of the workpiece can be terminated.
+</ABSTRACT>
+</TEXT>
+</DOC>

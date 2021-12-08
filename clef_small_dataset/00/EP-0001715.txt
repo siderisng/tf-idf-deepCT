@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001715
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-205/085 A61K-31/395 A61P-31/00 C07D-205/08 C07D-401/06 A61K-31/4427 A61K-31/44 C07D-401/00 C07D-205/00 A61K-31/397 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+azetidinone antibiotics and their pharmaceutical formulations and use
+</TITLE>
+<APPLICANT>
+lilly co elius <sep>eli lilly and company<sep>eli lilly and company 307, east mccarty street indianapolis indiana 46285us<sep>
+</APPLICANT>
+<INVENTOR>
+herron david kentus<sep>whitesitt celia annus<sep>herron, david kent<sep>whitesitt, celia ann<sep>herron, david kent5945 andover roadindianapolis indiana 46220us<sep>whitesitt, celia ann4089 east streetgreenwood indiana 46142us<sep>
+</INVENTOR>
+<ABSTRACT>
+novel 3-acylaminoazetidin-4- one compounds of the  general formula    wherein r₂ is a group of the formula    wherein r is hydrogen atom or a carboxylic acid ester protecting  group and   x is c₁-c₃ acyloxy, hydroxy, c₁-c₄ alkoxy, benzyloxy, or  pyridinium; and   wherein r₁ is hydrogen or an acyl group; and the pharmaceutically  acceptable salts thereof, are described herein  which novel compounds are useful as antimicrobial agents.  
+</ABSTRACT>
+</TEXT>
+</DOC>

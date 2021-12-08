@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004644
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 A61P-17/00 C07D-239/00 A01N-57/08 A61K-31/675 C07D-239/46 A01N-57/00 C07F-9/6512 C07D-239/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyrimidin(5)yl-(thiono)(thiol)-phosphoric(phosphonic) acid esters or amides, process for their preparation and their use as insecticides and acaricides
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+hammann ingeborg dr de<sep>homeyer bernhard dr de  <sep>maurer fritz drde<sep>hammann, ingeborg, dr.<sep>homeyer, bernhard, dr.<sep>maurer, fritz, dr.<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 kölnde<sep>homeyer, bernhard, dr.obere strasse 28d-5090 leverkusen 3de<sep>maurer, fritz, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+novel pyrimidin-5-yl-(thiono)(thio)-phosphoric(phosphonic) acid esters or ester amides of the formula <image>  in which    r represents alkyl,    r<1> represents alkyl, aryl, alkoxy, alkylthio or alkylamino,    r<2> represents hydrogen or alkyl,    r<3> represents alkyl,    x represents oxygen or sulphur and    y represents oxygen, sulphur or alkylamino.  the novel compounds are distinguished by strong insecticidal and acaricidal activity. 
+</ABSTRACT>
+</TEXT>
+</DOC>

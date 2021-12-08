@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011648
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-1/52 G03F-7/022 G03F-7/008 G03F-7/016 G03F-7/00 G03F-7/09 G03C-1/00 G03F-7/115 <main>G03F-7/02</main> G03F-7/20 G03F-7/004 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for reducing the contact time between a photosensitive printing plate and an original.
+</TITLE>
+<APPLICANT>
+tokyo ohka kogyo co ltdjp<sep>tokyo ohka kogyo co., ltd.<sep>tokyo ohka kogyo co., ltd.150, nakamaruko nakahara-kukawasaki-shi kanagawa, 211jp<sep>tokyo ohka kogyo co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+igarashi junichi<sep>iwasaki hidenori<sep>kasukawa shunichi<sep>igarashi, junichi<sep>iwasaki, hidenori<sep>kasukawa, shunichi<sep>igarashi, junichi11-17 denenchofu2-chome ohta-ku tokyo, 145jp<sep>iwasaki, hidenori905, ichinomiya samukawa-machi koza-gunkanagawa 253-01jp<sep>kasukawa, shunichi4-431, kohpo-shimotsuruma 3428, shimotsurumayamato-shi kanagawa 242jp<sep>igarashi, junichi  <sep>iwasaki, hidenori <sep>kasukawa, shunichi<sep>igarashi, junichi11-17 denenchofu2-chome ohta-ku tokyo, 145jp<sep>iwasaki, hidenori905, ichinomiya samukawa-machi koza-gunkanagawa 253-01jp<sep>kasukawa, shunichi4-431, kohpo-shimotsuruma 3428, shimotsurumayamato-shi kanagawa 242jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a printing plate is produced by the steps of preparing  sensitive layer-forming photosensitive composition containing  an organic foaming agent and, upon drying of the composition,  thermally decompose the organic foaming agent to  roughen the surface of the photosensitive layer.  the process  in accordance with this invention requires no special mechanical  treatment for forming the photosensitive layer, eliminates  the need of rearrangement or modification of existing  coating equipments and also drastically decreases a working  time for vacuum-contact operation, thus resulting in an efficient  fabrication of printing plate and a greatly reduced production  cost.  
+</ABSTRACT>
+</TEXT>
+</DOC>

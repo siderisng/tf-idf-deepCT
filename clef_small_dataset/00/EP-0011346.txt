@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011346
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-61/12 H01J-61/22 H01J-61/16 <main>H01J-61/74</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+low-pressure sodium vapour discharge lamp.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+de vaan robertus laurentius cl<sep>van benthem willem c o<sep>de vaan, robertus laurentius clemens c/o<sep>van benthem, willem c/o<sep>de vaan, robertus laurentius clemens c/oint. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van benthem, willem c/oint. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>de vaan, robertus laurentius clemens c/o<sep>van benthem, willem c/o <sep>de vaan, robertus laurentius clemens c/o int. octrooibureau b.v. prof. holstlaan 6 nl-5656 aa eindhovennl<sep>van benthem, willem c/oint. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a low-pressure sodium vapour discharge lamp having a  tubular discharge vessel (1) not more than 400 mm long and  not more than 20 mm in diameter, which contains an excess  of sodium, helium and at least one of the rare gases neon,  argon, krypton and xenon.  the object of the invention is to  provide a small low-pressure sodium vapour discharge lamp  which has a lower power consumption than a similar known  lamp.  the composition of the rare gas filling present in the  discharge vessel is defined by a quadrilateral ab cd in a  ternary volume composition diagram pqr shown in figure 1,  where p represents he, q represents ne and/or a and r  represents kr and/or xe.  a denotes a mixture consisting of  80 % by volume of he and 20 % by volume of ne, b denotes a  mixture consisting of 95 % by volume of he and 5 by  volume of kr and/or xe, c denotes a mixture consisting of 50  % by volume of he and 50 % by volume of kr and/or xe, and  d denotes a mixture consisting of 25 % by volume of he and  75 % by volume of ne and/or a.  
+</ABSTRACT>
+</TEXT>
+</DOC>

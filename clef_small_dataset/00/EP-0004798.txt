@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004798
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-3/22 G09G-5/34 G09G-1/04 H04N-3/27 H04N-3/223 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+video display control apparatus
+</TITLE>
+<APPLICANT>
+data recall ltdgb  <sep>data recall limited<sep>data recall limitedsondes placedorking surrey rh4 3efgb<sep>
+</APPLICANT>
+<INVENTOR>
+jones mark-ericgb<sep>jones, mark-eric<sep>jones, mark-ericc/o. data recall limited sondes placedorking surrey rh4 3efgb<sep>
+</INVENTOR>
+<ABSTRACT>
+video display control apparatus for a cathode ray display tube has an input terminal 11 for a composite video signal conveying raster synchronising information and video information.  line and frame deflection coils 12 and 13 supplied by line and frame output circuits 17 and 18 are supplied with scanning raster currents produced in response to the composite video signal.  to adapt the raster to two different display formats a phase locked loop tone generator 37 receives the composite video signal and indicates by producing a binary output signal whether or not the composite video signal includes a line frequency line within the acquisition bandwidth of the generator 37, this frequency being the line frequency for one of the two display formats and another frequency which is outside the acquisition bandwidth of the generator 37 being the line frequency for the other display format.  this binary signal is supplied to switches 21, 24, 28, 32 and 36 which are respectively set either open or closed in dependence on the value of the binary output signal and thus adapt the scanning raster circuitry to the component values required for one or the other format. 
+</ABSTRACT>
+</TEXT>
+</DOC>

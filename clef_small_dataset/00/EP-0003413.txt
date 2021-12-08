@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003413
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/8247 H01L-21/8246 H01L-29/792 G11C-16/04 H01L-27/112 H01L-29/788 H01L-29/66 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements relating to semiconductor memories
+</TITLE>
+<APPLICANT>
+sperry rand corpus<sep>sperry rand corporation<sep>sperry corporation1290, avenue of the americasnew york, n.y. 10019us<sep>
+</APPLICANT>
+<INVENTOR>
+wegener horst albrecht richardus<sep>wegener, horst albrecht richard<sep>wegener, horst albrecht richardapartment 108c 50 resolute circlerochester new york 14621us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to variable-threshold semiconductor memory elements, and to memory arrays of such elements.  the elements 117 may be arranged in an array 115 of rows 118 and columns 119.  each element comprises source and drain electrodes 130, fixed threshold access gate regions 38 and 39 respectively connected to row conductor 124 and column conductors 122 and a variable-threshold memory gate 31 connected to a row conductor 44.  the conductors 122 and 124 permit adjoining elements to be written at different times, so that adjacent columns 119 need not be isolated from each other, and a common source-drain line 130 can serve as the drain electrode of one element and the source electrode of the next. 
+</ABSTRACT>
+</TEXT>
+</DOC>

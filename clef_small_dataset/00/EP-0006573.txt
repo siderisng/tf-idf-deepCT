@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006573
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-41/00 A61B-5/01 G03B-15/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+recording apparatus for plate thermography
+</TITLE>
+<APPLICANT>
+bayer agde <sep>bayer aktiengesellschaft <sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+lehnert guenther drde<sep>schiffer rainer drde<sep>lehnert, guenther, dr.<sep>schiffer, rainer, dr.<sep>lehnert, günther, dr.saarstrasse 48d-5090 leverkusen 1de<sep>schiffer, rainer, dr.am zaarhäuschen 7d-5060 bergisch-gladbach 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+The receptacle for plate thermography consists of a support (1) with a holder for a thermographic plate and a photographic camera with flash (6) on the side opposite the plate.For installation of various camera systems, an adapter (3) is provided, which can be plugged into the carrier (1) and locked with it.On the carrier (1) and in the adapter (3) busbars (10a, 10b) or contact strips are arranged, so that when attaching the adapter (3) an electrical connection between the flash (6) and one on the carrier (1)the current source (9) is manufactured.
+</ABSTRACT>
+</TEXT>
+</DOC>

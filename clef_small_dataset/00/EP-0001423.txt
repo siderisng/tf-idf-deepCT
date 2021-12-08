@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001423
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/90 C07D-475/00 C07D-241/00 C07D-475/14 C07D-241/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+agents for combating bacterial diseases in plants.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+kraus peter drde <sep>scheinpflug hans drde   <sep>seng florin drde<sep>kraus, peter, dr.<sep>scheinpflug, hans, dr.<sep>seng, florin, dr.<sep>kraus, peter, dr.düsseldorfer strasse 43d-5000 köln 80de<sep>scheinpflug, hans, dr.am thelenhof 15d-5090 leverkussen 1de<sep>seng, florin, dr.am katterbach 46d-5060 bergisch-gladbach 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+the use of specific known 4-alkylaminopyrimido-(4,5-b)quinoxaline- 5,10-dioxides for combating bacteria which damage plants.  the compounds of the general formula <image>  in which    r represents methyl or ethyl, have strong bactericidal effects.  they can be used as plant protection agents for the treatment of above-ground parts of plants, for the treatment of seed and for the treatment of the soil. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002966
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-3/00 G09G-3/26 G09G-3/32 G09G-3/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved display method and apparatus.
+</TITLE>
+<APPLICANT>
+harris arthurau<sep>ross johnau<sep>harris, arthur<sep>ross, john<sep>harris, arthur16, eurobin avenuemanly new south wales 2095au <sep>ross, john31 staton streeteast fremantle western australia 6158 au  <sep>
+</APPLICANT>
+<INVENTOR>
+harris arthurau<sep>harris, arthur<sep>harris, arthur16 eurobin avenuemanley new south wales 2095au<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention discloses a method and apparatus  for displaying a moving graphic on a display surface  formed from columns of lights.  the columns of lights are  arranged in two or more intermingled sets and the graphic  is divided into a corresponding number of parts each of  which is resolved into dot elements.  the dot elements of  a part of the total graphic are displayed only by the lights  of the corresponding set.  the dot elements are displayed  in a predetermined sequence of display state periods only  by those lights which for each period have the correct  location given the shape of the part of the graphic and the  intended motion of that part.  the invention enables animation to take place since  parts of the graphic can move differently.  in addition, colour  mixing is possible as is a reduction in the number of  lights reguired for a given resolution.  
+</ABSTRACT>
+</TEXT>
+</DOC>

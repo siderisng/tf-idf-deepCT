@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001996
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 C08K-5/5353 B01J-27/00 C07D-263/04 B01J-31/00 C07F-9/38 C07F-9/40 C08L-75/04 C08K-5/00 C07D-263/00 C08K-5/53 <main>C07F-9/40</main> C07B-61/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of n,n-bis-(2-hydroxyalkyl)-aminomethane-phosphonic acid dimethyl esters, and their use as flame retardants for polymers.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+kapps manfred dr<sep>mitschke karl-heinz dr<sep>kapps, manfred, dr.<sep>mitschke, karl-heinz,dr.<sep>kapps, manfred, dr.hoppersheiderweg 55d-5060 bergisch-gladbach 2de<sep>mitschke, karl-heinz,dr.am berg 22d-5068 odenthalde<sep>kapps, manfred, dr.<sep>mitschke, karl-heinz,dr.<sep>kapps, manfred, dr.hoppersheiderweg 55d-5060 bergisch-gladbach 2de<sep>mitschke, karl-heinz,dr.am berg 22d-5068 odenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing N, N-bis (2-hydroxyl alkyl) aminomethane-phosphonic acid dimethyl esters of the all mean formula where R may be the same or different and for water substance or in particular for a rectilinear or mixed alkyl or haloalkyl radical with 1-6 C atoms, by reacting oxazolidines of the general formula where R is the same meaning as in (i) with dimethylphosphite, characterized in that the reaction is carried out in the presence H-Acider compound.
+</ABSTRACT>
+</TEXT>
+</DOC>

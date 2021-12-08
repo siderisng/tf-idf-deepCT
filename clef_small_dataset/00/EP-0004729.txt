@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004729
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-39/00 H01J-31/50 <main>G04F-13/02</main> H01J-31/08 G01J-1/42 G04F-13/00 G01N-21/17 G04F-13/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for recording high-speed repetitive optical phenomena.
+</TITLE>
+<APPLICANT>
+bradley daniel joseph<sep>bradley, daniel joseph<sep>bradley, daniel joseph51 wellington roaddublin 4ie<sep>bradley, daniel joseph<sep>
+</APPLICANT>
+<INVENTOR>
+bradley daniel joseph<sep>bradley, daniel joseph<sep>bradley, daniel joseph51 wellington roaddublin 4ie<sep>bradley, daniel joseph<sep>bradley, daniel joseph51 wellington roaddublin 4ie<sep>
+</INVENTOR>
+<ABSTRACT>
+a record is obtained of repetitive optical phenomena  having durations in the picosecond or subpicosecond range  by synchronising the deflection of the electron image in an  electron-optical streaking image tube (10) with the repetition  rate of a pulse train from a continuous wave mode-locked  laser (20, 21) which supplies such pulses to the tube.   synchronisation may be effected by supplying a reference  frequency signal both to the laser (21) and to the deflection  electrodes (15) in the image tube (10).  the signal applied to  the deflection electrodes (15) may comprise a synchronised  sinusoidal voltage signal and a slowly varying bias voltage  signal.  an optical multichannel analyser may be used at the  output of the image tube (10), linked to an oscilloscope or  pen recorder.  
+</ABSTRACT>
+</TEXT>
+</DOC>

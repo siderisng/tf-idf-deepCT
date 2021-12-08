@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005343
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+B63B-35/73 <main>B63B-35/72</main> B63B-35/79 B63H-9/04 B62B-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a wind-propelled vehicle.
+</TITLE>
+<APPLICANT>
+steinberg amiram<sep>steinberg, amiram<sep>steinberg, amirammoshav avichail 42 910il<sep>steinberg, amiram  <sep>
+</APPLICANT>
+<INVENTOR>
+steinberg amiram<sep>steinberg, amiram<sep>steinberg, amirammoshav avichail 42 910il<sep>steinberg, amiram<sep>steinberg, amirammoshav avichail 42 910il<sep>
+</INVENTOR>
+<ABSTRACT>
+a wind-propelled vehicle, e. g.  a surfboard of the  kind that comprises an unstayed mast connected to the  board through a joint which will provide universal-type  movement of the mast.  the mast is curved, the booms  form together an essentially rigid, annular assembly and  the connection between the booms and the mast is such  that no relative angular displacement is possible around  an upright axis extending through the connection between  them.  
+</ABSTRACT>
+<DESCRIPTION>
+a wind-propelled vehicle the present invention concerns wind-propelled vehicles comprising a sail moulted on an unstayed mast and in which essentially all the steering and control is accomplished through the sail. one kind of vehicle to which the invention pertains is surfboards and the invention will hereinafter be described with reference thereto, it being understood that it is not confined to surfboards and is also applicable to other wind propelled vehicles such as, for example, iceboats and sleds. from u.s. patent specification 3,487,800 and the corresponding british patent specification 1,258,317 and german patent specification 1,914,604, there are known surfboards of the kind specified in which the mast is connected to the hull through a joint which provides universal-type movement of the mast, and a pair of arcuate booms are mounted on the mast in such a way that the booms have 2-3 degrees of freedom relative to the mast. during operation, the user stands on the board and grips the windward boom. for acceleration, turning and tacking, manipulation of the sail is required and for this purpose the user must change the position of the sail in various ways according to need and must also change his own position and/or shift his weight in order to counterbalance the wind action. for example, if the craft is sailing with the wind abeam and the user wishes to steer leeward, the sail must be tilted forwardly and downwardly from its balanced position whereby a steering moment of the wind is applied to the surfboard which causes the draft to turn. if the user wants, on the other hand, to steer to windward, the sail is tilted backwards from its balanced position. in the known surfboards said tilting, and in particular the forward tilt, reduces the aerodynamic efficiency of the sail. moreover, in sailing in general and in a surfboard in particular, for every wind angle in relation to the central line of the hull, there must be a corresponding angle between the chord of the sail and the central line of the hull, the chord in this case being a straight line between the lowermost edge of the luff and the clew of the profiled, o!2rational sail. the greater this angle the more the forward section of the boom moves away from the windward side of the craft and consequently, the user gripping the boom for steering has to move with the boom in order not to lose his grip. in doing so, he may have to move out from a position in which he would normally by his'own weight create a righting moment. this in turn, may cause a heel to leeward which may lad to the user falling off board and even to capsizing. to avoid this, the user has to hike out, i.e. to bear windwards and in doing so he may pull the entire rigging with him, creating an excessive windward inclination which affects adversely the performance. all in all, it has been found that operation of a
+</DESCRIPTION>
+<CLAIMS>
+claims   1. a wind-propelled vehicle of the kind that comprises an unstayed mast connected to the board through a joint which will provide universal-type movement of the mast, characterised in that the mast is curved, the booms form together an essentially rigid, annular assembly and the connection between the booms and the mast is such that no relative angular displacement is possible around an upright axis extending through the connection between them.   2. a wind-propelled vehicle according to claim 1, characterized by being a surfboard.   3. a surfboard according to claim 2, characterized in that the hull comprises at least one leeboard.   4. a wind-propelled vehicle according to any one of claims 1 to 3, characterized in that the boom assembly is so mounted on the mast to enable its levering up and down thereby to enable tensioning and slackening of the sail, as may be required.  
+</CLAIMS>
+</TEXT>
+</DOC>

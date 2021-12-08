@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011751
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08K-5/00 <main>C08G-18/14</main> C08J-9/00 C08K-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of reinforced foamed plastics.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafen de  <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+jarre wolfgang dr dipl-chem<sep>marx matthias dr dipl-chem<sep>nissen dietmar dr dipl-chem<sep>jarre, wolfgang, dr. dipl.-chem.<sep>marx, matthias, dr. dipl.-chem.<sep>nissen, dietmar, dr. dipl.-chem.<sep>jarre, wolfgang, dr. dipl.-chem.limesstrasse 3d-6700 ludwigshafende<sep>marx, matthias, dr. dipl.-chem.seebacher strasse 49d-6702 bad duerkheim 1de<sep>nissen, dietmar, dr. dipl.-chem.ziegelhaeuser landstrasse 31d-6900 heidelbergde<sep>jarre, wolfgang, dr. dipl.-chem. <sep>marx, matthias, dr. dipl.-chem.<sep>nissen, dietmar, dr. dipl.-chem.  <sep>jarre, wolfgang, dr. dipl.-chem.limesstrasse 3d-6700 ludwigshafende<sep>marx, matthias, dr. dipl.-chem.seebacher strasse 49d-6702 bad duerkheim 1de<sep>nissen, dietmar, dr. dipl.-chem.ziegelhaeuser landstrasse 31d-6900 heidelbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for the manufacture of amplified foamed plastics based on organic polyisocyanates, polyols, fillers, catysa gates, propellants, and optionally chain extension means and additives, wherein the fillers are used in the form of finely divided dispersions which by in situ crushingHigh local energy density, z.b.from 10 to 3,000 kWh / m³, on particle sizes of less than 7 μm, preferably 0.01 to 7 μm, and simultaneous dispersion of organic and / or inorganic fillers in organic polyisocyanates or preferably polyols having molecular weights from 200 to 8,000.
+</ABSTRACT>
+</TEXT>
+</DOC>

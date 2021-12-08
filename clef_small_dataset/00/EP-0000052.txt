@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000052
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08F-8/38</main> C08F-10/02 C08F-8/20 C08F-8/38 C08F-8/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+chlorination or chlorosulfonation of polyethylene in mixed solvent.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company  <sep>
+</APPLICANT>
+<INVENTOR>
+ryan donald james<sep>ryan, donald james<sep>ryan, donald james471 yorktownbeaumont, texas 77707us<sep>ryan, donald james<sep>ryan, donald james471 yorktownbeaumont, texas 77707us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for chlorinating or chlorosulfonating  polyethylene comprising dissolving polyethylene in a solvent  that is a mixture of methylene chloride and trichloro-fluoromethane  in a weight ratio of 0. 3-1. 6, reacting the resultant  solution with sulfuryl chloride under pressure to maintain  reactants, the resulting chlorinated or chlorosulfonated  polyethylene and product gases in a single liquid phase,  reducing the pressure on or increasing the temperature of  the single liquid phase of chlorinated or chlorosulfonated  polyethylene and solvent to form two liquid phases, one a  polymer-rich phase and the other a solvent-rich phase, and  separating the phases.  
+</ABSTRACT>
+</TEXT>
+</DOC>

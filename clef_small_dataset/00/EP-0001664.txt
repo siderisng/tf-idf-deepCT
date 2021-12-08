@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001664
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-1/46 C25B-1/00 C25B-13/04 C08L-51/06 C25B-13/00 <main>C25B-13/04</main> C08J-5/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing a permeable diaphragm for an electrolytic cell.
+</TITLE>
+<APPLICANT>
+solvaybe<sep>solvay & cie (societe anonyme)<sep>solvay &amp; cie (société anonyme)rue du prince albert, 33b-1050 bruxellesbe<sep>solvay & cie (societe anonyme) <sep>
+</APPLICANT>
+<INVENTOR>
+niccoline giuseppe<sep>niccoline, giuseppe<sep>niccolini, giuseppevia adige, 2i - 57012 castiglioncelloit<sep>niccolini, giuseppe <sep>niccolini, giuseppevia adige, 2i - 57012 castiglioncelloit<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method of manufacturing a permeable diaphragm for electrolysis cells.The method consists in forming a sheet comprising inorganic free and a divided solid polyelectolyte, insoluble in the aqueous alkali metal halide solutions, and then heat the said leaf for fond of the polyelectrolyte.The diaphragms thus obtained are suitable for electrolysis cells of sodium chloride brine.
+</ABSTRACT>
+</TEXT>
+</DOC>

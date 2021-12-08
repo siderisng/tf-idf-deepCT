@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017559
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07B-43/02 C07C-205/00 C07C-205/03 B01J-3/04 B01J-19/00 C07C-201/00 C07C-201/08 C07B-31/00 C07B-43/00 C07C-205/02 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a gas-phase hydrocarbon nitration pressure reactor.
+</TITLE>
+<APPLICANT>
+azote & prod chimfr<sep>societe chimique de la grande paroisse azote et produits chimiques<sep>societe chimique de la grande paroisse, azote et produits chimiquestour aurore place des refletsf-92080 la défense 2 cédex 5 paris la défensefr<sep>
+</APPLICANT>
+<INVENTOR>
+jacquinot bernardfr<sep>lhonore pierrefr<sep>quibel jacquesfr<sep>jacquinot, bernard<sep>lhonore, pierre<sep>quibel, jacques<sep>jacquinot, bernard59, rue léon bathiatf-59500 douaifr<sep>lhonore, pierre1090, bd jeanne d'arcf-59500 douaifr<sep>quibel, jacques40, rue de la muettef-78600 maisons laffittefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a pressure gas phase hydrocarbon nitration reactor.The reactor is constituted by a reaction enclosure within which a tubular beam is in contact with a heat transfer fluid of high heat exchange capacity.The reactor is advantageously used in the nitration of saturated hydrocarbons lower than C₅, only or mixed.
+</ABSTRACT>
+</TEXT>
+</DOC>

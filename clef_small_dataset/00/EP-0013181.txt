@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013181
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08B-37/00 B01D-71/00 B01D-71/08 C08B-37/08 <main>C08B-37/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+chitin derivative, material comprising said derivative and process for the preparation thereof.
+</TITLE>
+<APPLICANT>
+kureha chemical ind co ltdjp<sep>kureha kagaku kogyo kabushiki kaisha<sep>kureha kagaku kogyo kabushiki kaisha9-11 horidome-cho 1-chome nihonbashi chuo-kutokyo 103jp<sep>kureha kagaku kogyo kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+koshugi junichi<sep>koshugi, junichi<sep>koshugi, junichino. 22 daiichi-kurehasoh3-10-13 nerima nerima-ku tokyojp<sep>koshugi, junichi<sep>koshugi, junichino. 22 daiichi-kurehasoh3-10-13 nerima nerima-ku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a chitin derivative obtained by acylation of a de-n-­ acetylated and etherified chitin represented by the formula:   [c₆h₈o₃ .  (nh₂)x .  (nhcoch₃)y .  (or)a .  (oh)b]n   wherein r represents at least one group selected from a  carboxyalkyl group with two to four carbon atoms, a hydrox­ yethyl group, a hydroxypropyl group, a dihydroxypropyl  group or an alkyl group with one to three carbon atoms, x is a  number of 0. 1 to 1. 0, y = 1. 0 - x, a is a number of 0. 1 to 1. 0, and  b = 1. 0 - a.    or a salt thereof can form at least the outer surface of a  material.  this chitin derivative is insoluble in water, acids,  alkaline solutions and organic solvents.  the materials com­ prising the chitin derivative can be employed to seprate mat­ erials on a column, as a base material on which enzymes are  immobilized, as a dialysis membrane and as an adsorbent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

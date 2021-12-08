@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008029
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09B-31/043 C09B-31/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+water-insoluble disazodyestuffs, their preparation and application.
+</TITLE>
+<APPLICANT>
+cassella farbwerke mainkur agde<sep>cassella aktiengesellschaft<sep>cassella aktiengesellschafthanauer landstrasse 526d-60386 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+buehler ulrich drde<sep>heinrich ernst drde<sep>kosubek uwede <sep>loewenfeld rudolf drde  <sep>ribka joachim drde<sep>tappe horst drde<sep>buehler, ulrich, dr.<sep>heinrich, ernst, dr.<sep>kosubek, uwe<sep>loewenfeld, rudolf, dr.<sep>ribka, joachim, dr.<sep>tappe, horst, dr.<sep>bühler, ulrich, dr.nidderauer strasse 13d-6369 schöneck 1de<sep>heinrich, ernst, dr.ernst-reuter-strasse 25d-6078 neu-isenburgde<sep>kosubek, uweam vogelanger 28d-6087 büttelborn 2de<sep>löwenfeld, rudolf, dr.quellenweg 2d-6072 dreieichde<sep>ribka, joachim, dr.rügener strasse 4d-6050 offenbachde<sep>tappe, horst, dr.ringstrasse 9d-6057 dietzenbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+water-insoluble disazo dyes of the formula i <image>  where a is a phenyl radical of the formula ii <image> where x<1> is hydrogen, alkyl of 1 to 3 carbon atoms, chlorine, bromine, nitro or cyano, x<2> is hydrogen, chlorine or bromine,    y<1> is hydrogen, alkyl of 1 to 3 carbon atoms or chlorine,    y<2> is hydrogen, alkyl of 1 to 3 carbon atoms or chlorine,   y<3> is hydrogen, alkyl of 1 to 3 carbon atoms, alkoxy of 1 to 3 carbon atoms or chlorine,   y<4> is hydrogen, alkyl of 1 to 3 carbon atoms, and at least one and not more than three of the substituents    y<1> to y<4> are hydrogen and if    x<1> is a nitro or cyano group and y<2> and y<4> are each hydrogen, y<1> may also be alkanoylamino having a total of 1 to 3 carbon atoms in the alkanoyl moiety and if x<1> is alkyl of 1 to 3 carbon atoms,    y<1> may additionally also be alkoxy of 1 to 3 carbon atoms,   z is hydrogen, chlorine, bromine, alkyl of 1 or 2 carbon atoms or alkoxy of 1 or 2 carbon atoms   r<1> is hydrogen, alkyl of 1 to 4 carbon atoms or alkenyl of 3 or 4 carbon atoms,   r<2> is alkyl of 1 to 4 carbon atoms or alkenyl of 3 or 4 carbon atoms, are prepared by diazotising an aminoazo compound of the formula iii <image> and coupling the resulting diazonium compound with an aniline derivative of the formula iv <image> the dyes are used for dyeing and printing fibre materials made of high molecular weight polyesters or mixtures of these fibre materials with natural materials or cellulose triacetate. 
+</ABSTRACT>
+</TEXT>
+</DOC>

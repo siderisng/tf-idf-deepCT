@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010652
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09K-11/06 C07D-263/34 C07D-413/04 C07D-413/00 D06L-3/12 G03G-5/06 C07D-263/00 C09B-57/00 <main>C07D-263/34</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+4-chlorooxazoles, method for their preparation and their use in photoconductive coatings in electrophotography and as optical brighteners.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+bosse dieter dr<sep>gunther dieter dr<sep>bosse, dieter, dr.<sep>gunther, dieter, dr.<sep>bosse, dieter, dr.berliner strasse 12d-6238 hofheim am taunusde<sep>günther, dieter, dr.nachtigallenweg 1ad-6233 kelkheim (taunus)de<sep>bosse, dieter, dr.<sep>gunther, dieter, dr.<sep>bosse, dieter, dr.berliner strasse 12d-6238 hofheim am taunusde<sep>günther, dieter, dr.nachtigallenweg 1ad-6233 kelkheim (taunus)de<sep>
+</INVENTOR>
+<ABSTRACT>
+for the contracting states : be ch de fr it nl se 1.  4-chloroxazoles of the general formula i or ii,  see diagramm : ep0010652,p14,f1  in which n denotes 1 or 2 and, in the case of n being 1, r1 , r2 , r3 and r4 , which are identical or different, denote phenyl or naphtyl optionally substituted by 1 to 3 radicals selected from the group consisting of halogen, cyano, nitro, trifluoromethyl, amino, mono- or di-c1 -c2  alkylamino, c1 -c4  alkyl, c1 -c2  alkoxy, hydroxy, c1 -c3  alkoxycarbonyl, phenoxy, styryl, or chlorostyryl, or denote pyrenyl or a 5- or 6- membered heterocycle containing n, o or s which may be substituted by chlorine or by methoxy groups or may carry a fused benzene nucleus ; r2  and r4  additionally denote c1 -c12 alkyl and in the case of n being 2, r1  and r4  have the same meaning as defined above for n being 1 and r2  and r3  denote phenylene or naphthylene, with the exception of those compounds of the formula i in which n is 1, r1  denotes phenyl and r2  denotes phenyl, p-methoxyophenyl, p-méthylphenyl, p-nitrophenyl, p-hydroxyphenyl or p-ethylphenyl or r1  denotes p-nitrophenyl and r2 denotes phenyl.  for the contracting state : at 1.  process for the preparation of 4-chlorooxazoles of the general formula i or ii  see diagramm : ep0010652,p14,f1  in which n denotes 1 or 2 and, in the case of n being 1, r1 , r2 , r3  and r4 , which are identical or different, denote phenyl or naphthyl optionally substituted by 1 to 3 radicals selected from the group consisting of halogen, cyano, nitro, trifluoromethyl, amino, mono- or di-c1 -c2  alkylamino, c1 -c4 alkyl, c1 -c2  alkoxy, hydroxy, c1  -c3  alkoxycarbonyl, phenoxy, styryl, or chlorostyryl, or denote pyrenyl or a 5- or 6- membered heterocycle containing n, o or s which may be substituted by chlorine or by methoxy groups or may carry a fused benzene nucleus ; r2  and r4  additionally denote c1 -c12  alkyl and, in the case of n being 2, r1  and r4  have the same meaning as defined above for n being 1 and r2  and r3  denote phenylene or naphthylene, with the exception of those compounds of the formula i in which n is 1, r1  denotes phenyl and r2  denotes phenyl, p-methoxyophenyl, p-methylphenyl, p-nitrophenyl, p-hydroxypenyl or p-ethylphenyl or r1  denotes p-nitrophenyl and r2 denotes phenyl, which comprises reacting a benzoyl cyanide of the general formula iii r1 -cocn or r3 -(cocn)n with an aldéhyde of the general iv r2 -(cho)n or r4 -cho and liberating from the oxazole hydrochloride formed, the 4-chlorooxazoles of the formula i or ii by a treatment with water. 
+</ABSTRACT>
+</TEXT>
+</DOC>

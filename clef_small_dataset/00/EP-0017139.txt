@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017139
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C25D-5/30</main> C25D-5/00 C25D-5/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the simultaneous electroplating and mechanical honing of surfaces of a workpiece made of light metal.
+</TITLE>
+<APPLICANT>
+inst werkzeugmaschinen und betde<sep>mahle gmbhde<sep>institut fur werkzeugmaschinen und  betriebstechnik  universitat karlsruhe  <sep>mahle gmbh<sep>institut für werkzeugmaschinen und betriebstechnik universität karlsruhekaiserstrasse 12d-7500 karlsruhede<sep>mahle gmbhpragstrasse 26-46d-70376 stuttgartde<sep>mahle gmbh<sep>univ karlsruhe inst werkzeugmasch betriebstech <sep>
+</APPLICANT>
+<INVENTOR>
+bassler wolfgang<sep>bassler, wolfgang<sep>bässler, wolfgangmerianstrasse 19d-6908 wieslochde<sep>bassler, wolfgang <sep>bässler, wolfgang merianstrasse 19 d-6908 wieslochde<sep>
+</INVENTOR>
+<ABSTRACT>
+In the simultaneous galvanic coating and Me chanic ions of surfaces (2) of a light metal workpiece (1) from z.b.Aluminum takes place the required pre-coating with the workpiece (1) already clamped in the Honmaschine (5) for initially resting Honsteinen (3).When performing the procedure, certain parameters must be observed.For example, the thickness of the base layer is smaller than or equal to the main layer to select the main layer, in the front and main layer, approximately equal current densities are to be used, the temperature of the electrolyte liquid (19) should be between 30 and 40 ° C,The electrolyte-fold gap (14) between the electrode and workpiece (1) should be between 1 and 2.5 mm, the electrolyte speed in the gap (14) between 2.5 and 6 m / s and the current density between 250 and 750 A / DM 2.
+</ABSTRACT>
+</TEXT>
+</DOC>

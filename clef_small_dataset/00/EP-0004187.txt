@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004187
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-263/34 A61P-1/16 C07D-275/02 A61K-31/455 A61K-31/41 C07D-417/12 C07D-277/56 C07D-261/18 A61K-31/4427 C07D-263/00 C07D-307/68 C07D-213/00 C07D-261/00 C07D-277/00 C07D-213/81 C07D-275/00 A61P-1/00 C07D-405/00 A61K-31/44 C07D-215/00 C07D-405/12 C07D-275/03 C07D-285/10 C07D-215/54 C07D-401/00 A61K-31/4406 A61K-31/47 C07D-307/00 C07D-285/06 C07D-413/00 C07D-213/82 <main>C07D-401/12</main> A61K-31/443 C07D-413/12 C07D-277/20 C07D-285/00 C07D-275/04 C07D-401/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heterocyclylcarbonyl derivatives of urea and their use as agents for dissolution of gallstones.
+</TITLE>
+<APPLICANT>
+pfizerus<sep>pfizer inc.<sep>pfizer inc.235 east 42nd streetnew york, n.y. 10017us<sep>pfizer inc.<sep>
+</APPLICANT>
+<INVENTOR>
+holland gerald fagan<sep>holland, gerald fagan<sep>holland, gerald fagan17 coult laneold lyme connecticutus<sep>holland, gerald fagan<sep>holland, gerald fagan17 coult laneold lyme connecticutus<sep>
+</INVENTOR>
+<ABSTRACT>
+heterocyclocyclylcarbonyl derivatives of urea for use in  dissolving gallstones, having the formula rconhconr ¹r²,  wherein r is pyridyl, monochloro-pyridyl, quinolyl, furyl,  thiazolyl, 4-methyl-5-thiazolyl, 4-methyl-5-oxazolyl,  isothiazolyl, 3-methyl-5-isothiazolyl, 3-(1,2-benzoisothiazolyl),  5-methyl-3-isoxazolyl, 3-methyl-5-isoxazolyl,  5-methyl-3-phenyl-4-isoxazolyl,  3-(1,2,5-thiadiazolyl) or 4-(1,2,3-thiadiazolyl); r¹ is hydrogen,  alkyl having from one to ten carbon atoms naphthyl or  phenyl; r² is hydrogen, alkyl having from one to ten carbon  atoms, phenyl or phenylalkyl wherein the alkyl has from one  to four carbon atoms; or r¹ and r² taken together with the  nitrogen to which they are attached form a morpholino,  thiomorpholino, 1-(1,2,3,6-tetrahydropyridyl),  1-azacycloheptyl, 1-azacyclooctyl or 3-(2,3,4,5-tetrahydro-3, 1-benzazepinyl)  group, or a piperidino  group optionally substituted with alkyl having from one to  four carbon atoms, alkoxy having from one to four carbon  atoms, chloro, or phenylalkyl having from one to four carbon  atoms in the alkyl group; with the proviso that, where r is a  5-methyl-3-isoxazolyl group, then r¹ and r² are taken  together with the nitrogen to which they are attached and  form a group other than morpholino.  these compounds are  novel, except for those in which r is pyridyl, r¹ is hydrogen  and r² is hydrogen, methyl or ethyl.  
+</ABSTRACT>
+</TEXT>
+</DOC>

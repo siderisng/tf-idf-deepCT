@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003740
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-233/16 C07C-149/14 C07D-477/20 A61P-31/00 C07D-279/00 C07D-477/10 A61K-31/40 C07D-477/04 A61K-31/397 C07D-279/12 C07D-477/00 C07C-233/00 A61P-31/04 <main>C07D-487/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beta-lactam antibiotics, a process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb <sep>beecham group limited <sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+baxter andrew john gilby<sep>ponsford roger john<sep>roberts patricia margaret<sep>southgate robert<sep>baxter, andrew john gilby<sep>ponsford, roger john<sep>roberts, patricia margaret<sep>southgate, robert<sep>baxter, andrew john gilby3 albina garth medonhull n. humbersidegb<sep>ponsford, roger john5 copse close wimblehurst parkhorsham sussexgb<sep>roberts, patricia margaret15 bakehouse roadhorley surreygb<sep>southgate, robert7 tillets lanewarnham west sussexgb<sep>baxter, andrew john gilby<sep>ponsford, roger john<sep>roberts, patricia margaret<sep>southgate, robert<sep>baxter, andrew john gilby3 albina garth medonhull n. humbersidegb<sep>ponsford, roger john5 copse close wimblehurst parkhorsham sussexgb<sep>roberts, patricia margaret15 bakehouse roadhorley surreygb<sep>southgate, robert7 tillets lanewarnham west sussexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention provides the antibacterial agents  of the formula (ii):    wherein r₁ is a group such that co₂r₁ is a carboxylic acid  group or a salt thereof or is a group of the formula co₂r 1 / 1  wherein r 1 / 1 is a group such that co₂r 1 / 1 is an ester group,  r₂ is a hydrogen atom or a lower alkyl group; r₃ is a hydrogen  atom or a lower alkyl group; and r₄ is a phenyl group or a  phenyl group substituted by one or two groups selected from  fluorine, chlorine, or₅, nh. co. r₅, nh. co₂r₅ or co₂r₅ where  r₅ is a lower alkyl or benzyl group or r₄ is a hydrogen atom  or lower alkyl group or r₄ is a co₂r₅ group where r₅ is a  lower alkyl group or benzyl group or r₄ is a nh. conr₆ group  where r₆ is a lower alkyl group, a phenyl group or a phenyl  group substituted by one or two halogen atoms, lower alkyl  or lower alkoxyl groups; and n is 1 or 2.  a process for their  preparation and their use in pharmaceutical compositions is  also described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

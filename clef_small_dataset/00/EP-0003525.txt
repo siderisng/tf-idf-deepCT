@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003525
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+A47L-11/29 A47L-11/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+suction cleaning apparatus.
+</TITLE>
+<APPLICANT>
+siemens ag de  <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+simon dieterde<sep>voigt frieder drde<sep>simon, dieter<sep>voigt, frieder, dr.<sep>simon, dieterbauersbergstrasse 73d-8743 bischofsheimde<sep>voigt, frieder, dr.berliner strasse 22d-8740 bad-neustadt/saalede<sep>
+</INVENTOR>
+<ABSTRACT>
+a suction cleaning apparatus for wet cleaning, which has a receiving space (2) which is closed by a detachable housing cover (5) and into which a separate container (4) can be inserted.  a blower unit which generates the corresponding suction stream is furthermore provided.  a liquid pump (11) arranged in the apparatus delivers the cleaning fluid (12), which can be filled into the apparatus, to a spray nozzle through which the cleaning liquid (12) is distributed onto the surface to be cleaned.  as a result of the suction stream, this liquid is sucked off again and delivered to the container (4) arranged in the apparatus.  in order to achieve a reduction in the apparatus dimensions and improved handling of the apparatus, it is proposed that the container (4) be constructed to be dimensionally stable and the blower unit (7) be accommodated in a housing pot (6) connected to the housing cover (5).  the blower unit (7) is suctionally connected to the receiving space (2) via air inlet openings (8) provided directly below the housing cover (5) in the circumferential wall of the housing pot (6).  the liquid pump (11) is likewise arranged in the receiving space (2).  suction cleaning apparatuses of this type are used for wet cleaning carpets.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

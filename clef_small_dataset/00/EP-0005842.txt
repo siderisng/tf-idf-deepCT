@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005842
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-17/40 H04M-11/00 H04Q-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+high speed central office scanner.
+</TITLE>
+<APPLICANT>
+universal ind control devicesca<sep>universal industrial control devices ltd.<sep>universal industrial control devices ltd. 14240-115 avenueedmonton alberta, t5m 3b7ca <sep>
+</APPLICANT>
+<INVENTOR>
+lumsden james rayca<sep>lumsden, james ray<sep>lumsden, james rayr.r. 8 box 13 site 7edmonton albertaca<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a high speed central office  scanner for use with a plurality of transponding units  connected by telephone lines.  the scanner is comprised of  n, i/o units (30), each comprised of a multiplexer (70) for  connecting the i/o units to m telephone lines; a microprocessor  (48) and multiplex logic (66) which sequentially selects  one of the m telephone lines; a busy detect circuit (68) for  checking the selected telephone line and providing a signal  when the line is busy; a tx/rx unit (54) connected to the  selected line for transmitting an instruction code to a  transponder connected thereto when the signal is absent and  for receiving data from the transponder in response to the  instruction code; and a storage unit (58).  the scanner further  includes a master microprocessing unit (26), which includes  a main microprocessor (34) for sequentially selecting one of  the n, i/o units and for generating an interrogating code for  transmission to each selected i o unit.  each master microprocessor  unit includes a master storage unit (36) for storing  received data from the selected i o unit and a main tx rx  unit (32) for transmitting the received data stored in the main  storage unit, upon receipt of a further interrogation code,  wherein each of the n, i/o units scan the m telephone lines  independently and asynchronously with respect to each  other of the n, i/io units and the master microprocessing  unit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001142
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22D-37/00 G05D-9/00 B22D-39/00 <main>B22D-39/00</main> G05D-9/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+controlling means for metal casting installations.
+</TITLE>
+<APPLICANT>
+mezger ag maschf giessereich<sep>maschinenfabrik & eisengiesserei ed. mezger ag. <sep>maschinenfabrik &amp; eisengiesserei ed. mezger ag.fabrikstrasse 300ch-3283 kallnach ch  <sep>mezger ag maschf giessereich <sep>maschinenfabrik & eisengiesserei  ed. mezger ag.<sep>
+</APPLICANT>
+<INVENTOR>
+lavanchy gerard andre<sep>mezger fritz<sep>rossier marc-henry<sep>lavanchy, gerard andre<sep>mezger, fritz<sep>rossier, marc-henry<sep>lavanchy, gérard andréavenue de la rochelle 12ch-1008 prilly-lausannech<sep>mezger, fritzstrandweg 107ch-3280 muntelierch<sep>rossier, marc-henrychemin de ballèguech-1066 epalinguesch<sep>lavanchy, gerard andre  <sep>mezger, fritz<sep>rossier, marc-henry<sep>lavanchy, gérard andréavenue de la rochelle 12ch-1008 prilly-lausannech<sep>mezger, fritzstrandweg 107ch-3280 muntelierch<sep>rossier, marc-henrychemin de ballèguech-1066 epalinguesch<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an apparative control device to the foundry facilities and more particularly to the installations which provide the filling of indo molds provided each of a casting funnel, from a pocket containing the molten metal. The controller is essentially aimed at provoke the rapid shutdown of the casting at the moment when the mold is full. For this, two sensors that harvest, one information on the instantaneous flow flowing from the pocket in the funnel and the other on the level of the metal in the funnel. From the information provided by these two sensors, the electronic circuit develops a SAGE filled signal that undergoes a quick variation at the precise time where the filling is complete. This signal can be compared to a setpoint value and cause the transmission of a casting stop signal which engages the recovery of the pocket, in the case of a pocket with reversal, the closure of the nouve, in The case of a pocket with quenail, or the opening of the discharge valve, in the case of a pressure pocket. The reactions to the detection of a complete filling situation are very fast and provide on the one hand, the reliability of operations as well as their safety, and on the other hand, a metal economy.
+</ABSTRACT>
+</TEXT>
+</DOC>

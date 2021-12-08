@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006305
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-3/06 C07D-307/58 C07C-33/30 A61P-3/00 A61K-31/4427 C07D-307/68 C07C-45/00 A61K-31/34 C07D-405/00 A61K-31/44 C07D-405/12 C07B-7/00 C07D-307/00 A61K-31/341 C07C-45/31 <main>C07D-307/68</main> A61K-31/443 C07D-309/36 C07D-309/00 C07C-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of 4,5-dihydro-4-oxofuran-2-carboxylic acid, especially for use as  hypolipidemic agents, processes for their preparation, pharmaceutical compositions comprising them, tetrahydropyran-2,3,5-triones useful in the preparation of the said derivatives and a process for preparing these tetrahydropyran-2,3,5-triones.
+</TITLE>
+<APPLICANT>
+american home produs<sep>american home products corporation<sep>american home products corporationfive giralda farmsmadison, new jersey 07940-0874us<sep>american home products corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+cayen mitchell ness<sep>dvornik dushan michael<sep>jirkovsky ivo ladislav<sep>cayen, mitchell ness<sep>dvornik, dushan michael<sep>jirkovsky, ivo ladislav<sep>cayen, mitchell ness5625 hudson avenuecote st. luc quebec, h4w 2k3ca<sep>dvornik, dushan michael598 chester avenue town of mount royalquebec h3r 1n9ca<sep>jirkovsky, ivo ladislav3210 forest hill apt. 1102montreal quebec, h3v 1c7ca<sep>cayen, mitchell ness<sep>dvornik, dushan michael<sep>jirkovsky, ivo ladislav<sep>cayen, mitchell ness5625 hudson avenuecote st. luc quebec, h4w 2k3ca<sep>dvornik, dushan michael598 chester avenue town of mount royalquebec h3r 1n9ca<sep>jirkovsky, ivo ladislav3210 forest hill apt. 1102montreal quebec, h3v 1c7ca<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of formula i    in which r¹ and r² each is lower alkyl, cyclo(lower)alkyl,  lower alkoxy(lower)alkylene, phenyl or phenyl mono- or  disubstituted with lower alkyl, lower alkoxy, halo, nitro or  trifluoromethyl; or r¹ and r² together form a  -(ch₂)m-x-(ch₂)n-­ chain wherein m and n each is an integer from one to four  and x is methylene, oxa or thia; or r¹ and r² together with  the carbon atom to which they are joined form a spiro-­ [1,2,3,4-tetrahydronaphthalene]-1 or spiro[indan]-1 radi­ cal; r³ is hydrogen or lower alkyl; and r⁴ is hydrogen, low­ er alkyl, cyclo(lower)alkyl, phenyl(lower)alkylene, amino­ (lower)alkylene, lower alkylamino(lower)alkylene, di(low­ er alkyl)amino(lower)alkylene or 3-pyridinyl(lower)alkyl­ ene, or a therapeutically acceptable addition salt thereof  are disclosed which possess hypolipidemic activity, and  can be used in pharmaceutical compositions.  the compounds of formula i may be prepared by cy­ clising a corresponding compound of formula x    and if desired esterifying.  tetrahydropyran-2,3,5-trione inter­ mediates are also disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007081
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-39/00 C10G-3/00 <main>C01B-33/28</main> C07C-2/66 B01J-29/06 B01J-29/28 C01B-35/00 C01B-35/10 C07C-2/00 B01J-29/00 C07C-15/00 C07C-1/00 B01J-29/70 C07C-1/20 G06F-9/44 B01J-29/86 C07C-2/12 C01B-39/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the preparation of nitrogen-containing crystalline metal silicates with a zeolitic structure, metal silicates prepared by this method and their use as catalysts.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+marosi laszlo dr chem<sep>schwarzmann matthias dr chem<sep>stabenow joachim dr phys<sep>marosi, laszlo, dr. chem.<sep>schwarzmann, matthias, dr. chem.<sep>stabenow, joachim, dr. phys.<sep>marosi, laszlo, dr. chem.londoner ring 11d-6700 ludwigshafende<sep>schwarzmann, matthias, dr. chem.carl-bosch-strasse 54d-6703 limburgerhofde<sep>stabenow, joachim, dr. phys.am feldrain 22d-6940 weinheimde<sep>marosi, laszlo, dr. chem.<sep>schwarzmann, matthias, dr. chem.<sep>stabenow, joachim, dr. phys.<sep>marosi, laszlo, dr. chem.<sep>schwarzmann, matthias, dr. chem.<sep>stabenow, joachim, dr. phys.<sep>marosi, laszlo, dr. chem.londoner ring 11d-6700 ludwigshafende<sep>schwarzmann, matthias, dr. chem.carl-bosch-strasse 54d-6703 limburgerhofde<sep>stabenow, joachim, dr. phys.am feldrain 22d-6940 weinheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The application relates to a process for producing nitrogen-containing crystalline metal silicates with zeolite turbine of silica and metal oxides and or metal hydroxides, in which the crystallization is carried out in augue sense of alkali in an aqueous solution of hexamethy lendiamine.Preferably, crystallization in this method is carried out under the alternative pressure of the solution at temperatures of 100 to 200 ° C.The zeolites are preferably used as catalysts for the reaction of methanol and / or dimethyl ether to unsaturated Koh lina hydrocarbons, oligomerization of olefins, alkyly tion of aromatics and other conversions of Koh lina hydroples.
+</ABSTRACT>
+</TEXT>
+</DOC>

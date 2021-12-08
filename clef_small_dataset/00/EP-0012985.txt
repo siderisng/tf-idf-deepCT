@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012985
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06G-7/186 H03M-1/00 <main>H03K-13/20</main> G06G-7/00 G06G-7/184 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dual-slope integrator.
+</TITLE>
+<APPLICANT>
+kernforschungsanlage juelichde<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>forschungszentrum jülich gmbhwilhelm-johnen-strasse52425 jülichde<sep>kernforschungsanlage julich gesellschaft mit beschrankter haftung<sep>
+</APPLICANT>
+<INVENTOR>
+labus herwig dr dipl-phys<sep>labus, herwig, dr. dipl.-phys.<sep>labus, herwig, dr. dipl.-phys.petternicherstrasse 9ad-5170 jülichde<sep>labus, herwig, dr. dipl.-phys.<sep>labus, herwig, dr. dipl.-phys.petternicherstrasse 9ad-5170 jülichde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a dual-slope integrator with input switch for measuring and reference voltage, integration resistance, capacitor and amplifier, comparator for monitoring the integration capacitor voltage, pulse clock generator, capacitance counter for these pulses and logical control circuit which contains a clock pulse scanning stage and depends From the comparator output signal, the door switching stage and the switches controls, within the control circuit (L) the switch stages are palpable, a second capacitance counter (Z₂) with the first counter to a counter (Z₁ + Z₂) of the total capacity (N₁ x N₂) in series switchable, on the Output of the integration capacitor (C₁) via a ver stronger (V) with the reinforcing degree (N₂ * = N₂) and a switch (S₄) a holding capacitor (CH) connected, which is connected via a switch (S₅) with the input of the integrator wherein the switches (S₄, S₃) the residual voltage of the integration amplifier about the reinforcing factor (N₂) RKT back to the input for another measuring cycle and switch the counters (Z₁, Z₂) in succession, so that in the further measurement cycles with reference to the reference voltage in the counter (Z₁ + Z₂) of the count (Z₁. N₂-Z₂) is formed.
+</ABSTRACT>
+</TEXT>
+</DOC>

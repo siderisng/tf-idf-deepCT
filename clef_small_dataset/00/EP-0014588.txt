@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014588
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-33/00 H01S-5/16 <main>H01S-3/19</main> H01S-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a semiconductor light emitting device.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+nishi hiroshi<sep>nishitani yorimitsu<sep>takusagawa masahito<sep>yano mitsuhiro<sep>nishi, hiroshi<sep>nishitani, yorimitsu<sep>takusagawa, masahito<sep>yano, mitsuhiro<sep>nishi, hiroshi1380-a404, kamikodanaka nakahara-kukawasaki-shi kanagawa 211jp<sep>nishitani, yorimitsu12-24-102, miyamaedaira 3-chome takatsu-kukawasaki-shi kanagawa 213jp<sep>takusagawa, masahito8-5-308, miyamaedaira 2-chome takatsu-kukawasaki-shi kanagawa 213jp<sep>yano, mitsuhiro15-7, shinjo nakamachi nakahara-kukawasaki-shi kanagawa 211jp<sep>nishi, hiroshi  <sep>nishitani, yorimitsu<sep>takusagawa, masahito<sep>yano, mitsuhiro<sep>nishi, hiroshi1380-a404, kamikodanaka nakahara-kukawasaki-shi kanagawa 211jp<sep>nishitani, yorimitsu12-24-102, miyamaedaira 3-chome takatsu-kukawasaki-shi kanagawa 213jp<sep>takusagawa, masahito8-5-308, miyamaedaira 2-chome takatsu-kukawasaki-shi kanagawa 213jp<sep>yano, mitsuhiro15-7, shinjo nakamachi nakahara-kukawasaki-shi kanagawa 211jp<sep>
+</INVENTOR>
+<ABSTRACT>
+in a semiconductor light emitting device, a buried layer  (51) of a semiconductor is selectively formed in at least one of  a first (2) and a second (4) clad layers in order to determine a  light emitting region (31) by the configuration of the buried  layer (51) of the semiconductor.  the buried layer (51) of the  semiconductor has a conductivity type which is opposite to  the conductivity type of the surrounding clad layer (4) and an  index of refraction which is different from the index of  refraction of the surrounding clad layer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

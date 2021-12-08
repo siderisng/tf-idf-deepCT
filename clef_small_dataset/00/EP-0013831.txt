@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013831
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-19/23 G05B-19/21 B66F-9/075 G05B-19/425 B66F-9/24 G05B-19/19 <main>G05B-19/19</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+programmable controller for an auxiliary mechanism of an industrial truck.
+</TITLE>
+<APPLICANT>
+lansing bagnall ltdgb<sep>lansing bagnall limited<sep>lansing bagnall limitedkingsclere roadbasingstoke hampshire rg21 2xjgb<sep>lansing bagnall limited <sep>
+</APPLICANT>
+<INVENTOR>
+scibor-rylski marek victor tad<sep>scibor-rylski, marek victor tadeusz<sep>scibor-rylski, marek victor tadeuszcopse corner 99 weybourne roadfarnham, surreygb<sep>scibor-rylski, marek victor tadeusz <sep>scibor-rylski, marek victor tadeuszcopse corner 99 weybourne roadfarnham, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a controller for an auxillary mechanism of an industrial  truck; a sensor head (1) detects movement of the mechanism  and provides signals denoting increments of that movement  and a counter (4) receives those signals and therby provides  a count denoting the position of the mechanism along its range  of movement.  a memory (10) is controllable to provide one of a  plurality of stored representations for comparison with the  count and means (8) compare the count with a representation  made available from the memory (10) to provide a signal for  controlling the movement of the mechanism.  a keyboard (20)  is provided for effecting storage in the memory (10) of repres­ entations of different positions along the mechanism's range  of movement.  
+</ABSTRACT>
+</TEXT>
+</DOC>

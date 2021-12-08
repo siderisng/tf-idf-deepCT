@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002385
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02M-55/00 F16L-9/18 F16L-39/00 F02B-77/08 F02M-55/02 <main>F02M-55/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+double-walled fluid pressure line.
+</TITLE>
+<APPLICANT>
+caterpillar tractor cous<sep>caterpillar tractor co.<sep>caterpillar tractor co.100 northeast adams streetpeoria, illinois 61629us<sep>caterpillar tractor co.  <sep>
+</APPLICANT>
+<INVENTOR>
+kuntz donald albert<sep>winters michael allen<sep>kuntz, donald albert<sep>winters, michael allen<sep>kuntz, donald albert100 north hazelwood streetmorton illinois 61550us<sep>winters, michael allen3113, west chartwellpeoria illinois 61614us<sep>kuntz, donald albert<sep>winters, michael allen<sep>kuntz, donald albert100 north hazelwood streetmorton illinois 61550us<sep>winters, michael allen3113, west chartwellpeoria illinois 61614us<sep>
+</INVENTOR>
+<ABSTRACT>
+a fuel supply system has a fuel source (12, 16) and a  double walled fluid line (18) for use, for example, in a fuel  injection system.  the fuel line (18) has inner (30) and outer  (70) nominally concentric tubes having an annular space  therebetween.  the inner tube (30) receives fuel from the  source (12, 16) and the outer tube (70) is connected back to  the source (12, 16) to return venting leaking fluid to the  source (12, 16).  
+</ABSTRACT>
+</TEXT>
+</DOC>

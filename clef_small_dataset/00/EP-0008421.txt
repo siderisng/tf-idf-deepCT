@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008421
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-243/00 C07D-243/28 A61K-31/55 <main>C07D-243/24</main> C07C-127/19 C07D-243/26 C07D-243/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+benzodiazepine derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+fischli albert eduard prof dr<sep>szente andre dr<sep>fischli, albert eduard, prof. dr.<sep>szente, andre, dr.<sep>fischli, albert eduard, prof. dr.am ausserberg 20ch-4125 riehench<sep>szente, andré, dr.burgstrasse 38ch-4125 riehench<sep>fischli, albert eduard, prof. dr.<sep>szente, andre, dr.<sep>fischli, albert eduard, prof. dr.am ausserberg 20ch-4125 riehench<sep>szente, andré, dr.burgstrasse 38ch-4125 riehench<sep>
+</INVENTOR>
+<ABSTRACT>
+Benzodiazepine derivatives of the formula wherein R¹ is lower alkyl, R² hydrogen or lower alkyl, R³ halogen and R⁴ hydrogen or halogen and are either R⁵ hydrogen or lower alkyl and R⁶ lower alkyl, low hydroxyalkyl or lower acyloxyalkyl or R⁵ hydrogen and R⁶ aryl or lower Aralkyl represent or R⁵ and R⁶ together with the nitrogen atom mean a 3 to 7-membered heterocycle which - if it is at least 5-membered - may contain an oxygen or seed of Latome or a remainder of the formula N-R⁷ as a ring member, wherein R⁷ is hydrogen or lower alkyl, and pharmaceutically acceptable acid addition salts thereof can be prepared from partially new intermediates. They show aldosteronantagonistic properties and are therefore suitable for the treatment or prevention of heart failure, of hepatitic ascites, primary aldosteronism and essential hypertension. Some among them also cause inhibition of the intestescent absorption of cholesterol and are therefore suitable for the prevention or treatment of atherosclerosis.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000173
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-17/45 <main>C01B-17/46</main> C01B-17/46 B01J-19/26 B01J-10/00 C01B-17/00 B01J-19/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of chlorosulfonic acids.
+</TITLE>
+<APPLICANT>
+hoechst ag de<sep>hoechst aktiengesellschaft  <sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+borger rolf<sep>malow egon<sep>renken albert prof dr<sep>riess gerhard dr<sep>borger, rolf<sep>malow, egon<sep>renken, albert, prof. dr.<sep>riess, gerhard, dr.<sep>börger, rolfodenwaldstrasse 10d-6233 kelkheim (taunus)de<sep>malow, egonherderstrasse 25d-6203 hochheim am mainde<sep>renken, albert, prof. dr.chemin-de-champ-fleuri 8ch-1022 chavannesch<sep>riess, gerhard, dr.heimchenweg 80d-6000 frankfurt/mainde<sep>borger, rolf <sep>malow, egon<sep>renken, albert, prof. dr.  <sep>riess, gerhard, dr.<sep>börger, rolfodenwaldstrasse 10d-6233 kelkheim (taunus)de<sep>malow, egonherderstrasse 25d-6203 hochheim am mainde<sep>renken, albert, prof. dr.chemin-de-champ-fleuri 8ch-1022 chavannesch<sep>riess, gerhard, dr.heimchenweg 80d-6000 frankfurt/mainde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the manufacture of chlorosulfonic acid from hydrogen chloride and sulfur trioxide dissolved in chlorosulfonic acid, characterized by mixing the sulfur trioxide dissolved in chlorosulfonic acid and hydrogen chloride gas in a venturi nozzle, allowing them to react and keeping the temperature at the end of the venturi tube in the range of from 70 to 100 degrees c. 
+</ABSTRACT>
+</TEXT>
+</DOC>

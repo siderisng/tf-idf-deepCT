@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008042
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60H-1/22 <main>B60H-1/00</main> G05D-23/20 B60H-1/00 F01P-11/20 G05D-23/24 F01P-11/14 B61D-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heating and ventilating of electric vehicles.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+breuer klaus dieter<sep>choschzick joachim<sep>elflein walter<sep>rapp karl<sep>roth lothar<sep>breuer, klaus dieter<sep>choschzick, joachim<sep>elflein, walter<sep>rapp, karl<sep>roth, lothar<sep>breuer, klaus dietereschersheimer landstrasse 552d-6000 frankfurtde<sep>choschzick, joachimrennesstrasse 21d-8520 erlangende<sep>elflein, waltersaidelsteig 28d-8520 erlangende<sep>rapp, karlfriedrich-bauer strasse 20d-8520 erlangende<sep>roth, lothartriftstrasse 30d-6000 frankfurtde<sep>breuer, klaus dieter<sep>choschzick, joachim <sep>elflein, walter<sep>rapp, karl  <sep>roth, lothar<sep>breuer, klaus dietereschersheimer landstrasse 552d-6000 frankfurtde<sep>choschzick, joachimrennesstrasse 21d-8520 erlangende<sep>elflein, waltersaidelsteig 28d-8520 erlangende<sep>rapp, karlfriedrich-bauer strasse 20d-8520 erlangende<sep>roth, lothartriftstrasse 30d-6000 frankfurtde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  arrangement for heating and ventilating electrically driven vehicles (1) which have an air channel (2) leading into the passenger cabin and an opening (6) leading from the passenger cabin to the outside, wherein the air channel (2) is provided with a ventilator (3) and a heating resistor (4) which can be connected to a voltage and which in dependence upon the inside and outside temperature is switched on and off with the aid of a control device (9), characterized in that the heating resistor (4) is switched on and off at intervals, where the switching on of the heating resistor (4) is effected when the electric brake engages and the mark-space ratio is varied by the control device (9) in dependence upon the inside and outside temperature, and that the temperature variations of the air blown into the inside (7) of the vehicle are stabilised by a heat store (8). 
+</ABSTRACT>
+</TEXT>
+</DOC>

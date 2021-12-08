@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013640
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22B-3/02 B01F-11/00 B01J-14/00 F15B-21/12 B01J-19/18 <main>B01D-11/04</main> B01D-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+membrane pulsator.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel  <sep>
+</APPLICANT>
+<INVENTOR>
+gasc henri<sep>gasc, henri<sep>gasc, henri184, avenue victor hugof-84200 carpentrasfr<sep>gasc, henri<sep>gasc, henri184, avenue victor hugof-84200 carpentrasfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The membrane span makes it possible to transmit to a flued contained in a chamber (2), through a conduit (23) opening in this chamber, the alternating movement of a piston (1); It is characterized in that it comprises at least one pulse membrane (25), means (31) for exerting compensation pressure of the static pressure of the fluid on the piston and the pulse membrane, means (28) To minimize the value of the pressure difference between the pressure exerted on the inner wall of the membrane and the pressure exerted on the outer wall of the membrane, the pulse membrane having the shape of a hollow torus sectioned by a cylinder so a cylinder so a cylinder so. Whether one of the edges of the hollow torus thus sectioned is sealingly connected to a duct edge and the other edge of this sectioned torus is sealingly connected to the piston. Application to solvent separation columns, particularly in petrochemicals, in the pharmaceutical field and in hydrometallurgy.
+</ABSTRACT>
+</TEXT>
+</DOC>

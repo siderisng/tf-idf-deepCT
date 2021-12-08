@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016558
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C01B-21/04</main> C01B-21/04 B01D-53/047 C01B-13/02 B01D-53/04 C01B-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vacuum swing adsorption for air fractionation.
+</TITLE>
+<APPLICANT>
+air prod & chemus<sep>air products and chemicals, inc.<sep>air products and chemicals, inc.p.o. box 538allentown, pennsylvania 18105us<sep>air products and chemicals, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+sircar shivaji<sep>white thomas robert<sep>sircar, shivaji<sep>white, thomas robert<sep>sircar, shivaji913 benton streetallentown, pennsylvania 18103us<sep>white, thomas robert624 washington streetallentown, pennsylvania 18102us<sep>sircar, shivaji<sep>white, thomas robert<sep>sircar, shivaji913 benton streetallentown, pennsylvania 18103us<sep>white, thomas robert624 washington streetallentown, pennsylvania 18102us<sep>
+</INVENTOR>
+<ABSTRACT>
+the water content of a gas rich in nitrogen obtained by  vacuum swing adsorptive fractionation of ambient air, is  removed in a companion drying system operated in associa­ tion with the air fractionation system but at independent cycle  time period, wherein water-laden nitrogen from the air frac­ tionation system is passed through a dessicant bed of solid  water-retaining adsorbent in said drying system while with­ drawing dry nitrogen therefrom, and the adsorbed water is  subsequently removed from said dessicant adsorbent by  regeneration thereof with effluent obtained in rinsing the air  fractionating column with desorbed process nitrogen.  
+</ABSTRACT>
+</TEXT>
+</DOC>

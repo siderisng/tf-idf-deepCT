@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011687
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01B-31/06 F02B-1/04 F28F-9/16 C04B-37/02 F16L-59/02 F16J-1/00 F01L-3/00 F02B-1/00 F01L-3/08 <main>C04B-37/02</main> F02F-3/00 F02F-1/00 F16J-1/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coupling element between ceramic and metallic building components, and its use.
+</TITLE>
+<APPLICANT>
+kuehnle kopp kausch agde<sep>rosenthal technik agde <sep>a.g. kuhnle, kopp & kausch <sep>rosenthal technik ag <sep>a.g. kühnle, kopp &amp; kauschpostfach 265 hessheimer strasse 2d-67227 frankenthalde<sep>rosenthal technik agpostfach 1508 wittelsbacherstrasse 49d-8672 selb/bayernde<sep>a.g. kuehnle, kopp & kausch<sep>rosenthal technik ag<sep>
+</APPLICANT>
+<INVENTOR>
+bergmeier dieter ing grad<sep>brobeck helmut ing grad<sep>cropp ingo dipl-ing<sep>krauth axel dr<sep>maier horst r dr<sep>nink horst<sep>pohlmann hans-jurgen dr<sep>bergmeier, dieter, ing. (grad.)<sep>brobeck, helmut, ing. (grad.)<sep>cropp, ingo, dipl.-ing.<sep>krauth, axel, dr.<sep>maier, horst r., dr.<sep>nink, horst<sep>pohlmann, hans-jurgen, dr.<sep>bergmeier, dieter, ing. (grad.)leimerstrasse 18d-6900 heidelbergde<sep>brobeck, helmut, ing. (grad.)flomersheimerstrasse 15d-6711 hessheimde<sep>cropp, ingo, dipl.-ing.hans-fay-strasse 3d-6710 frankenthalde<sep>krauth, axel, dr.georg ritter strasse 1d-8672 selb/bayernde<sep>maier, horst r., dr.marienstrasse 9d-8672 selb/bayernde<sep>nink, horstjosefstrasse 8d-8672 selb/bayernde<sep>pohlmann, hans-jürgen, dr.häuselohweg 64d-8672 selb/bayernde<sep>bergmeier dieter ing gradde<sep>brobeck helmut ing gradde<sep>cropp ingo dipl-ingde<sep>krauth axel drde<sep>maier horst r drde<sep>nink horstde<sep>pohlmann hans-juergen drde<sep>bergmeier, dieter, ing. (grad.)<sep>brobeck, helmut, ing. (grad.) <sep>cropp, ingo, dipl.-ing.  <sep>krauth, axel, dr.<sep>maier, horst r., dr.<sep>nink, horst<sep>pohlmann, hans-juergen, dr.<sep>bergmeier, dieter, ing. (grad.)leimerstrasse 18d-6900 heidelbergde<sep>brobeck, helmut, ing. (grad.)flomersheimerstrasse 15d-6711 hessheimde<sep>cropp, ingo, dipl.-ing.hans-fay-strasse 3d-6710 frankenthalde<sep>krauth, axel, dr.georg ritter strasse 1d-8672 selb/bayernde<sep>maier, horst r., dr.marienstrasse 9d-8672 selb/bayernde<sep>nink, horstjosefstrasse 8d-8672 selb/bayernde<sep>pohlmann, hans-jürgen, dr.häuselohweg 64d-8672 selb/bayernde<sep>
+</INVENTOR>
+<ABSTRACT>
+Elastic, ceramic insulation spring body (1) as a connecting integration between ceramic (2) and metalli (3) components exposed to particularly high temperatures, aggressive media and strong mechanical loads. The insulating spring body (1) is formed annular in the form of a sleeve (4) or socket, wherein the surface can be smooth, roughened, profiled (6) or slotted. As preferably used materials, aluminum titanate, cordierite or silicon nitride come into question. The insulation spring body (1) must be a thermal conductivity of 0.02 to 0.2 to 1500 ° C between the ceramic and metallic component between 0.02 to 0.2 (W / EMK) and an E module from 5000 to 150 000 (N / mm²) without plastic deformability, so that in each operating state, an elastic, connection between the components (2, 3) is retained. Interesting applications for the object according to the invention result for example in turbochargers, internal combustion engines, heat exchangers, etc.
+</ABSTRACT>
+</TEXT>
+</DOC>

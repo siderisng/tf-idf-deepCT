@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004936
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+B24C-3/26 B24C-7/00 B24C-3/00 <main>B24C-3/26</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for controlling sandblasting machines through which the articles are continuously moved.
+</TITLE>
+<APPLICANT>
+fischer ag georgch<sep>georg fischer aktiengesellschaft<sep>georg fischer aktiengesellschaftmühlentalstrasse 105ch-8201 schaffhausench<sep>georg fischer aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+bass dieter dr<sep>bass, dieter, dr.<sep>bass, dieter, dr.parkstrasse 18ch-8200 schaffhausench<sep>bass, dieter, dr.<sep>bass, dieter, dr.parkstrasse 18ch-8200 schaffhausench<sep>
+</INVENTOR>
+<ABSTRACT>
+The continuous speed of the workpieces in the beam space and / or the beam meter set is controlled depending on the workpieces to be radiant per unit time.The device required for this purpose has a measuring device (99 ') arranged on the beam chamber (1) or at the feeder (2) for measuring the supplied workpieces (5), which via a transmitter (10) with a control loop (11)For the change in the continuous speed of the workpieces (5) and / or with a control loop (12) for the change in beam throughput in the centrifugal wheel (4) is operatively connected.
+</ABSTRACT>
+</TEXT>
+</DOC>

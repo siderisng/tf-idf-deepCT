@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014052
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-27/053 B01J-27/02 C01B-17/79 B01J-27/055 B01J-27/25 B01J-27/232 B01D-53/86 B01J-27/20 B01J-27/14 C01B-17/00 B01J-27/24 B01J-27/198 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+catalyst for the oxidation of sulfur dioxide to sulfur trioxide, processes for its preparation, and its use.
+</TITLE>
+<APPLICANT>
+monsanto cous<sep>monsanto company<sep>monsanto company800 north lindbergh boulevardst. louis missouri 63167us<sep>
+</APPLICANT>
+<INVENTOR>
+villadsen johndk<sep>villadsen, john<sep>villadsen, john21 skovvejdk-2950 vedbaekdk<sep>
+</INVENTOR>
+<ABSTRACT>
+a catalytic material for the oxidation of sulfur dioxide  to sulfur trioxide at a temperature above 300°c. , comprises  a catalyst which at reaction conditions is a melt dispersed  in an inert porous carrier, the catalyst including sulfatized  vanadium ions as the active catalytic component, and two  different promoters, the first of which comprises cesium  ions, optionally with ions of another alkali metal such as  sodium, potassium or rubidium, known to promote vana­ dium catalysts.  the second promoter comprises ions of a  metal such as aluminum, magnesium, yttrium or lanthanum,  which does not promote formation of inactive v⁴ species  and the oxide of which has a heat of formation greater  than 100 kcal per oxygen atom and is at least partly solu­ ble in the heavily sulfatized environment of the melt.  its  presence results in a significant increase in activity of the  catalytic material compared with material containing only  the first promoter.  
+</ABSTRACT>
+</TEXT>
+</DOC>

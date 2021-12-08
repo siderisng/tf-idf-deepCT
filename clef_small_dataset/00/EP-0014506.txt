@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014506
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03H-11/12</main> H03H-11/12 H03F-3/343 H03H-19/00 H03H-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+low-pass filter for low-frequency signals.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>radiotechnique compelec fr<sep>n.v. philips' gloeilampenfabrieken  <sep>r.t.c. la radiotechnique-compelec societe anonyme dite:<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>r.t.c. la radiotechnique-compelec société anonyme dite:51 rue carnot bp 301f-92156 suresnes cédexfr<sep>n.v. philips' gloeilampenfabrieken<sep>r.t.c. la radiotechnique-compelec societe anonyme dite: <sep>
+</APPLICANT>
+<INVENTOR>
+kaire jean-claude<sep>six jean-claude<sep>kaire, jean-claude<sep>six, jean-claude<sep>kaire, jean-claudesociété civile s.p.i.d. 209 rue de l'universitéf-75007fr<sep>six, jean-claudesociété civile s.p.i.d. 209 rue de l'universitéf-75007 parisfr<sep>kaire, jean-claude<sep>six, jean-claude  <sep>kaire, jean-claudesociété civile s.p.i.d. 209 rue de l'universitéf-75007fr<sep>six, jean-claudesociété civile s.p.i.d. 209 rue de l'universitéf-75007 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+low pass filter for low frequency signals, with respect to an average value, upper reasters and lower parts.The filter comprises at least two integrators (101, 102) each comprising a capacitor (110,120) connected between the input and the output of a voltage reversing amplifier (111, 121) and a current source (104, 106) connectedAt said output and three threshold comparators, one (107) at the filter inlet, the second (108) after the first integrator, the century (109) at the filter outlet.
+</ABSTRACT>
+</TEXT>
+</DOC>

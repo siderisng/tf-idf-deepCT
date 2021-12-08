@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000766
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/04 C08F-10/02 C08F-10/00 C08F-2/06 C08J-11/02 C08F-6/00 C08F-6/24 <main>C08F-6/24</main> C08F-6/06 C08F-2/00 C08F-20060101S C08J-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of ethylene homo and copolymers.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+pfeiffer erich<sep>pfeiffer, erich<sep>pfeiffer, erichfriedensweg 69d-5047 wesselingde<sep>pfeiffer, erich<sep>pfeiffer, erichfriedensweg 69d-5047 wesselingde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the continuous manufacture of ethylene homopolymers or of copolymers of ethylene with up to 15 mole %, based on the ethylene, of alpha-monoolefins of 3 to 8 carbon atoms, by catalytically polymerizing the monomer or monomers at from 60 to 115 degrees c and at ethylene partial pressures of from 1 to 40 bars in an alkane hydrocarbon of 4 to 6 carbon atoms, which is liquid under the polymerization conditions and is a solvent for the monomer or monomers but a non-solvent for the polymer formed, the polymer being isolated by (a) discharging, from the polymerization chamber, a mixture consisting essentially of polymer, alkane hydrocarbon and monomer or monomers, (b) bringing the mixture from stage (a) to from 0. 1 to 2 bars above atmospheric pressure and to from 20 to 120 degrees c, to form a gaseous phase, consisting essentially of the monomer or monomers and alkane hydrocarbon, the constituents of which phase are recycled to the polymerization chamber, and a solid phase consisting essentially of polymer with from 0. 1 to 8 per cent by weight, based on the weight of the polymer, of alkane hydrocarbon adhering thereto, and (c) flushing the solid phase from stage (b) at from 0 to 1 bars above atmospheric pressure and at from 20 to 130 degrees c, with an amount of inert gas which is from 1 to 30 times the amount by volume of the polymer, to form a solid phase consisting of substantially pure polymer, which is separated off as such, and a gaseous phase consisting essentially of alkane hydrocarbon and inert gas, characterized in that, as additional measures (d) the gaseous phase from stage (c) is brought to from 0. 1 to 40 bars above atmospheric pressure and the temperature is lowered to such an extent that two phases form, namely a gaseous phase essentially consisting of inert gas, which is combined with the inert gas for stage (c), and a liquid phase consisting essentially of alkane hydrocarbon, and (e) the liquid phase from stage (d) is separated into two portions, by evaporating from 2 to 50 per cent by volume of the liquid phase at from 0 to 2 bars above atmospheric pressure to form the first portion, which is combined with the gaseous phase from stage (c), and recycling the remaining amount of the liquid phase, as the second portion which may or may not be in the gaseous state in an intermediate stage, to the polymerization chamber. 
+</ABSTRACT>
+</TEXT>
+</DOC>

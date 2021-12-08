@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002429
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-18/04 B65H-18/00 B65H-18/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+winding drum for the simultaneous winding of at least two webs.
+</TITLE>
+<APPLICANT>
+voest alpine agat<sep>voest-alpine aktiengesellschaft<sep>voest-alpine aktiengesellschaft werksgeländea-4010 linzat <sep>
+</APPLICANT>
+<INVENTOR>
+neff thomas dipl-ingat<sep>schwenzfeier werner dr ingat<sep>wiesbauer karl dipl-ingat<sep>neff, thomas, dipl.-ing.<sep>schwenzfeier, werner, dr.ing.<sep>wiesbauer, karl, dipl.-ing.<sep>neff, thomas, dipl.-ing.traunleiten 54a-4490 st. florianat<sep>schwenzfeier, werner, dr.ing.anzengrubergasse 1a-8700 leobenat<sep>wiesbauer, karl, dipl.-ing.hauptstrasse 29a-4300 st. valentinat<sep>
+</INVENTOR>
+<ABSTRACT>
+in order to ensure identical winding results for different webs in a winding reel for the simultaneous winding of at least two webs and having a winding drum which is driveable via a shaft (1), even without a web store and without additional braking apparatus, the winding drum is composed of individual drum rings (6) each allocated to a web and which are in drive connection with the shaft via a sliding clutch.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

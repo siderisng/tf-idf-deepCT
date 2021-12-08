@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000982
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-7/09 G03B-3/10 <main>G03B-13/20</main> G03B-13/36 H02K-41/00 G02B-7/08 G02B-7/04 G02B-7/28 H02K-41/06 G02B-7/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electromagnetically actuated lens drive.
+</TITLE>
+<APPLICANT>
+polaroid corpus<sep>polaroid corporation<sep>polaroid corporation549 technology squarecambridge, massachusetts 02139us<sep>polaroid corporation<sep>
+</APPLICANT>
+<INVENTOR>
+specht manfred g<sep>specht, manfred g.<sep>specht, manfred g.73, arlington streetnewton massachusettsus<sep>specht, manfred g.<sep>specht, manfred g.73, arlington streetnewton massachusettsus<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a motorised focusing system  with an electromagnetically actuated lens drive, for example  for use in a photographic camera having an automatic  rangefinder.  the lens (16) is adjusted axially by the rotation  of the lens holder (14) on a fixed support (40).  the  lens holder is rotated by an epicyclic motor having a stator  (46) concentric with the optical axis of the lens with poles  (48) which are energised sequentially to cause a hollow  armature (36) within the stator to roll eccentrically around  a fixed armature support (54).  armature teeth (70) engage  teeth (72) on the fixed armature support and armature  teeth (78) engage teeth (80) on the lens holder (14),  resulting in a speed reduction in the drive to the lens holder.   the lens moves incrementally in response to pulses  applied to the stator windings, a given number of pulses  representing a known amount of axial movement of the  lens.  
+</ABSTRACT>
+</TEXT>
+</DOC>

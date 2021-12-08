@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003562
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07D-277/68 C07C-41/00 C07D-241/00 C07C-255/54 C07D-213/00 C07D-277/00 C07C-41/16 C07C-201/00 C07D-237/14 <main>C07C-43/23</main> B01J-23/00 C07C-67/00 C07C-121/75 C07C-43/00 C07C-43/295 C07C-201/12 C07D-241/18 C07D-213/643 C07C-253/00 C07C-205/38 C07D-247/00 C07C-255/00 C07D-237/00 C07D-213/64 C07C-79/35 C07C-41/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of hydroxyphenyl ethers.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+forster heinz dr<sep>forster, heinz, dr.<sep>förster, heinz, dr.am eckbusch 47d-5600 wuppertal 1de<sep>forster, heinz, dr.<sep>förster, heinz, dr.am eckbusch 47d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Partially known hydroxyphenyl ethers of the formula in which R is a radical of the formula wherein R¹, R² and R³ are independently of one another for hydrogen, halogen, haloalkyl, nitro or cyano, and R is further optionally by halogen, haloalkyl, alkoxy, nitro and/ or Cyano is substituted heterocyclic radical, which may contain optionally substituted anelated benzene ring, can be prepared when forming halogen compounds of the formula R-HAL (ii) where R is the above meaning and hal for fluorine, chromium or bromine, with dihydroxybenzene of the formula in the presence of calcium hydroxide and in the presence of a polar diluent, reacted at temperatures between 20 and 200 ° C.
+</ABSTRACT>
+</TEXT>
+</DOC>

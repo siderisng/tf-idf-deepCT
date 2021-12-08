@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007004
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/28 G11C-29/00 H01L-27/10 G01R-31/26 <main>G01R-31/28</main> H01L-27/105 H01L-21/339 G01R-31/3185 H01L-21/66 H01L-29/66 H01L-21/02 G11C-19/28 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+test circuit for a charge coupled device (ccd) register.
+</TITLE>
+<APPLICANT>
+ibmus   <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kelly helen janet<sep>perlman david jacob<sep>satya akella venkata surya<sep>kelly, helen janet<sep>perlman, david jacob<sep>satya, akella venkata surya<sep>kelly, helen janet52 tor roadwappingers falls new york 12590us<sep>perlman, david jacobneville roadwappingers falls new york 12590us<sep>satya, akella venkata surya38 tor roadwappingers falls new york 12590us<sep>kelly, helen janet  <sep>perlman, david jacob<sep>satya, akella venkata surya<sep>kelly, helen janet52 tor roadwappingers falls new york 12590us<sep>perlman, david jacobneville roadwappingers falls new york 12590us<sep>satya, akella venkata surya38 tor roadwappingers falls new york 12590us<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to be able to determine the permissible smallest insulation level between adjacent CCD channels in a planar integrated circuit in integrated storage with charge coupling memory elements and to measure the degree of charge transfer as well as the charge leak characteristic under conventional test conditions, a test integrated on the memory chip becomesControls an additional serial sliding register (18), which is arranged to the serial input slider gister (10) at different distance, wherein the isolation region is very large at the input positions of the two tabs mentioned and then progressively smaller.
+</ABSTRACT>
+</TEXT>
+</DOC>

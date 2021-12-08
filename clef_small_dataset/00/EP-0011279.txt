@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011279
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-51/00</main> C07D-307/54 C07D-317/60 C07C-51/00 C07D-333/24 C07D-207/337 C07C-29/00 C07D-317/00 C07D-207/32 C07D-333/00 C07C-57/30 C07C-51/093 C07C-57/00 C07D-207/00 C07D-307/00 C07C-29/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of aromatically substituted acetic acids.
+</TITLE>
+<APPLICANT>
+sagami chem resjp<sep>sagami chemical research center<sep>sagami chemical research center4-5, marunouchi 1-chomechiyoda-ku tokyo 100jp<sep>sagami chemical research center<sep>
+</APPLICANT>
+<INVENTOR>
+fujimoto tamotsu<sep>kondo kiyosi<sep>suda minoru<sep>tunemoto daiei<sep>fujimoto, tamotsu<sep>kondo, kiyosi<sep>suda, minoru<sep>tunemoto, daiei<sep>fujimoto, tamotsu7-15, nishitsuruma 1-chomeyamato-sh-i, kanagawa-kenjp<sep>kondo, kiyosi16-4, chuorinkan 5-chomeyamato-shi, kanagawa-kenjp<sep>suda, minoru9-2, minamidai, 1-chomesagamihara-shi, kanagawa-kenjp<sep>tunemoto, daiei9-2, minamidai 1-chomesagamihara-shi, kanagawa-kenjp<sep>fujimoto, tamotsu<sep>kondo, kiyosi<sep>suda, minoru<sep>tunemoto, daiei<sep>fujimoto, tamotsu7-15, nishitsuruma 1-chomeyamato-sh-i, kanagawa-kenjp<sep>kondo, kiyosi16-4, chuorinkan 5-chomeyamato-shi, kanagawa-kenjp<sep>suda, minoru9-2, minamidai, 1-chomesagamihara-shi, kanagawa-kenjp<sep>tunemoto, daiei9-2, minamidai 1-chomesagamihara-shi, kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+aromatically substituted acetic acids are prepared by the  reaction of an aromatically substituted aldehyde with a com­ bination of a trihalomethane and an alkanethiol, and by the  reaction of an alcohol derivative (2,2,2-trihalo- 1-arylethanol)  with an alkanethiol, in the presence of a base in a mixed  medium of water and an aprotic polar solvent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

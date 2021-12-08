@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010172
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-17/02 G11B-17/32 <main>G11B-5/016</main> G11B-21/12 G11B-17/34 G11B-17/028 G11B-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic disk file machine.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation<sep>international business machines corporation old orchard road armonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+beuch wallace eric<sep>o'konski george joseph<sep>rusch kenneth david<sep>wytaske thomas anton<sep>beuch, wallace eric<sep>o'konski, george joseph<sep>rusch, kenneth david<sep>wytaske,thomas anton<sep>beuch, wallace ericroute 2pine island, mn 55963us<sep>o'konski, george joseph2512 11th avenue n.w.rochester, mn 55901us<sep>rusch, kenneth david2230 48th street n.e.rochester, mn 55901us<sep>wytaske,thomas anton401 first avenue s.e.pine island,mn 55963us<sep>beuch, wallace eric<sep>o'konski, george joseph<sep>rusch, kenneth david<sep>wytaske,thomas anton <sep>beuch, wallace eric route 2 pine island, mn 55963us<sep>o'konski, george joseph2512 11th avenue n.w.rochester, mn 55901us<sep>rusch, kenneth david2230 48th street n.e.rochester, mn 55901us<sep>wytaske,thomas anton401 first avenue s.e.pine island,mn 55963us<sep>
+</INVENTOR>
+<ABSTRACT>
+a magnetic disk file machine has a pair of opposed trans­ ducers, one transducer 150 of which is movable to engage a  magnetic disk rotatably disposed in a magnetic diskette  assembly in the machine against the other, a pressure plate  opposed to a platen portion for holding the disk in a proper  data transferring plane, and a manually operable knob 242  mechanically connected with the movable transducer and  with the pressure plate for moving these parts between origi­ nal positions, which are widely separated from the opposed  parts to allow positioning of a magnetic diskette in the  machine, and intermediate positions in which the spacing is  less.  the machine includes a solenoid mechanically con­ nected with the movable transducer and with the pressure  plate for moving these parts from their intermediate positions  to final positions in which the movable transducer engages  the disk and in which the pressure plate grips the diskette and  holds the disk in a proper data transferring plane.  the  mechanical connections from the knob to the pressure plate  and to the movable transducer include an oscillatable shaft  240 connected with the knob and having an eccentric portion  241 effective for moving these parts between original and  intermediate positions.  the solenoid is positioned on the  other side of the machine to the oscillatable shaft, and a  flexible cable 270 connected the solenoid with mechanism on  the shaft side of the machine for moving the pressure plate  and movable transducer between intermediate and final posi­ tions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

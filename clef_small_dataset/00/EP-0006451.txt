@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006451
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-487/04 A61P-9/00 C07D-487/00 A61P-9/06 <main>C07D-487/04</main> A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+imidazo (1,2-a) imidazoles, their acid addition salts, medicaments containing them and process for their preparation.
+</TITLE>
+<APPLICANT>
+boehringer sohn ingelheimde<sep>c.h. boehringer sohn<sep>c.h. boehringer sohn postfach 200d-6507 ingelheim am rheinde <sep>c.h. boehringer sohn<sep>
+</APPLICANT>
+<INVENTOR>
+kobinger walter prof dr<sep>koppe herbert dr<sep>kummer werner dr<sep>lillie christian dr mag<sep>pichler ludwig dr<sep>stahle helmut dr<sep>kobinger, walter, prof. dr.<sep>koppe, herbert, dr.<sep>kummer, werner, dr.<sep>lillie, christian, dr. mag.<sep>pichler, ludwig, dr.<sep>stahle, helmut, dr.<sep>kobinger, walter, prof. dr.belghofergasse 27a-1120 wienat<sep>köppe, herbert, dr.neuweg 72d-6507 ingelheimde<sep>kummer, werner, dr.georg-scheuing-strasse 15d-6507 ingelheimde<sep>lillie, christian, dr. mag.hansi-niese-weg 12a-1130 wienat<sep>pichler, ludwig, dr.gusshausstrasse 24a-1040 wienat<sep>stähle, helmut, dr.rotweinstrasse 23d-6507 ingelheimde<sep>kobinger, walter, prof. dr.<sep>koppe, herbert, dr.<sep>kummer, werner, dr.<sep>lillie, christian, dr. mag.<sep>pichler, ludwig, dr.<sep>stahle, helmut, dr. <sep>kobinger, walter, prof. dr.belghofergasse 27a-1120 wien at   <sep>köppe, herbert, dr.neuweg 72d-6507 ingelheimde<sep>kummer, werner, dr.georg-scheuing-strasse 15d-6507 ingelheimde<sep>lillie, christian, dr. mag.hansi-niese-weg 12a-1130 wienat<sep>pichler, ludwig, dr.gusshausstrasse 24a-1040 wienat<sep>stähle, helmut, dr.rotweinstrasse 23d-6507 ingelheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to novel imidazo [1,2-A] imidazoles of the general formula wherein R¹ R² and R³ may be the same or different, a hydrogen atom or a fluorine, chlorine or bromine atom or a methyl, methoxy or trifluoromethyl group , at least one of the radicals R¹, R² or R³ must not be hydrogen and R⁴ and R⁵, which may be equal to or various, mean a hydrogen atom or a methyl group and their acid addition salts. The new compound may include, inter alia, by reacting a substitiated phenyl-imino imidazolidine of the general formula wherein R¹ to R³ have the above meanings, with an oxo compound of the general formula wherein R⁴ and R⁵ are defined as indicated above and x Chlorine, bromine or iodine atom means be prepared. The new compounds reduce the heart rate and can be used as means for the treatment of coronary diseases.
+</ABSTRACT>
+</TEXT>
+</DOC>

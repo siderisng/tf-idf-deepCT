@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017036
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04B-9/12 F04B-9/125 B01L-3/02 G01F-11/02 F04B-9/00 <main>B01L-3/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+small dosing pump.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+heyneman guido ing grad<sep>heyneman, guido, ing. grad.<sep>heyneman, guido, ing. grad.8-meilann 48b-8300 knokkebe<sep>heyneman, guido, ing. grad.<sep>heyneman, guido, ing. grad.8-meilann 48b-8300 knokkebe<sep>
+</INVENTOR>
+<ABSTRACT>
+Dosing syringe for transferring liquid media with predetermined volume from a vessel to another consisting of a pneumatic drive (3) associated with a valve block (1), with pneumatic drive (3), where piston burette (2), valve block (1) andPneumatic drive (3) form a building unit.At the free end of the piston rod (6) of the piston office (2), the piston (7) is disposed for the pneumatic drive (3), wherein the two piston sides have different surfaces (F1, F2).The piston side (F1) with the smaller effective area (F₁) is constantly subjected to compressed air, while the piston side is associated with the larger effective piston surface (F2) via a control valve (18) with the compressed air system (17).
+</ABSTRACT>
+</TEXT>
+</DOC>

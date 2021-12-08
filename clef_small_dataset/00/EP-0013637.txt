@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013637
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-9/08 H01F-7/18 H01F-7/08 H02P-9/14 B66C-1/00 H02P-9/30 B66C-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical d.c. supply circuit with polarity inversion control and adjustable voltage for an autonomous electromagnetic hoisting device.
+</TITLE>
+<APPLICANT>
+lenoir raoul etsfr   <sep>etablissements raoul lenoir<sep>ets raoul lenoir4, rue neuvef-54402 longwy basfr<sep>
+</APPLICANT>
+<INVENTOR>
+denis jean-mariebe<sep>denis, jean-marie<sep>denis, jean-marie24, rue de sesslichwolkrangebe<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrical dc supply circuit with adjustable voltage and polarity inversion from a self-excited rotating direct-current generating machine having a shunt-winding fed by an independent source of direct voltage, which is notable for the fact that the inductor circuit comprises on the one hand, at the terminals of the excitation coil (6), a bipolar inversion circuit (8) which is fed from the independent source of direct voltage (7) and controlled from a manual inverter (37) by optoelectronic coupling, the inductor circuit additionally comprising, in series with the excitation coil (6), a deferred-action bidirectional switching circuit (13) which is optoelectrically coupled by 66 to a time delay relay (53) enabling the value of the induced voltage to be adjusted in each of the polarity cases, and in that the induced circuit comprises, at their use terminals (2) and (3), a voltage stabiliser (36) controlling the bidirectional switching circuit (13) by the emitter of the photocoupler (66) of the time delay relay (53).  in a non-limiting manner, the field of application of the invention is that of controlling hoisting electromagnets on autonomous devices.    <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

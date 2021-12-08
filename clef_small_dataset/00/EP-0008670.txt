@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008670
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11B-21/12</main> G11B-5/54 G11B-21/12 G11B-21/21 G11B-21/16 G11B-21/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+information transducer load control system and method, particularly applicable in a magnetic disk drive apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+lovgren jeffrey lynn<sep>quinlan william patrick<sep>lovgren, jeffrey lynn<sep>quinlan, william patrick<sep>lovgren, jeffrey lynn1503 19th st. n.e.rochester, minnesota 55901us<sep>quinlan, william patrick3714 21st avenue n.w.rochester, minnesota 55901us<sep>lovgren, jeffrey lynn<sep>quinlan, william patrick<sep>lovgren, jeffrey lynn1503 19th st. n.e.rochester, minnesota 55901us<sep>quinlan, william patrick3714 21st avenue n.w.rochester, minnesota 55901us<sep>
+</INVENTOR>
+<ABSTRACT>
+an information transfer apparatus and method in which a  transducer 150f is movable by a solenoid 130f from an  inoperative position separated from a moving information  carrying magnetic disk 20f towards the disk into engagement  therewith in response to a transducer load command signal  on line 208 which is applied to a control system connected to  the solenoid to energise it.  the application of the signal on line  208 to the control system is delayed by a variable time period  so that the transducer is applied to the disk at a random time  after the command signal is on line 208.  a free running oscil­ lator 206 sets a latch 202 which has been reset by the signal on  line 208 to achieve this random delay.  in addition, the control  system is such as to produce an initial fast rising current in the  solenoid to move the head quickly into close proximity with  the disk, a slowly rising subsequent current in the solenoid to  engage the head with the disk gradually, and a final fast rising  current in the solenoid for completing the engagement pres­ sure of the head on the disk.  
+</ABSTRACT>
+</TEXT>
+</DOC>

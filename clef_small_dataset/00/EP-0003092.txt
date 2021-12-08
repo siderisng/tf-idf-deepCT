@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003092
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02B-5/14</main> G02B-6/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ferrule for optical fibre bundle with hexagonal arrangement and connector utilising such a ferrule.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann 75008 paris fr <sep>"thomson-csf"<sep>
+</APPLICANT>
+<INVENTOR>
+dubos jacques<sep>jacques andre<sep>dubos, jacques<sep>jacques, andre<sep>dubos, jacques"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>jacques, andré"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>dubos, jacques<sep>jacques, andre <sep>dubos, jacques "thomson-csf" - scpi 173, bld haussmann f-75360 paris cedex 08fr<sep>jacques, andré"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a hexagonal storage fiber beam tip.This tip comprises more particularly a cylindrical cellar part (14), one end, from the side to connect, has three regular tips intended to be finished in three similar tips of an identical tip.This keying piece is angularly pre-organized relative to the Haxagonal Storage Fiber Beam in such a way that its tips have a position determined with respect to the fiber-formed hex.The invention also relates to a connector for the fiber fiber filter fiber connection with hexagonal storage.The invention is in particular applicable to optical telecommunications.
+</ABSTRACT>
+</TEXT>
+</DOC>

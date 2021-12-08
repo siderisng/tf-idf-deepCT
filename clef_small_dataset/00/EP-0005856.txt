@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005856
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-211/00 C07C-211/19 <main>C07C-85/08</main> C07C-211/09 C07C-211/36 C07C-87/40 B01J-23/00 C07C-67/00 C07C-209/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of diamines.
+</TITLE>
+<APPLICANT>
+ruhrchemie agde <sep>ruhrchemie aktiengesellschaft<sep>ruhrchemie aktiengesellschaft bruchstrasse 219 d-4200 oberhausen 13 de<sep>ruhrchemie aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+cornils boy dr dipl-chem<sep>diekhaus gerhard dr dipl-chem<sep>konkol werner dr dipl-chem<sep>wiebus ernst<sep>cornils, boy, dr. dipl.-chem.<sep>diekhaus, gerhard, dr. dipl.-chem.<sep>konkol, werner, dr. dipl.-chem.<sep>wiebus, ernst<sep>cornils, boy, dr. dipl.-chem.friedrich-ebert-strasse 45d-4220 dinslakende<sep>diekhaus, gerhard, dr. dipl.-chem.walsumermarkstrasse 89d-4200 oberhausen 14de<sep>konkol, werner, dr. dipl.-chem.lützowstrasse 40ad-4200 oberhausen 13de<sep>wiebus, ernstferdinandstrasse 77d-4200 oberhausen 14de<sep>cornils, boy, dr. dipl.-chem. <sep>diekhaus, gerhard, dr. dipl.-chem.<sep>konkol, werner, dr. dipl.-chem.  <sep>wiebus, ernst<sep>cornils, boy, dr. dipl.-chem.friedrich-ebert-strasse 45d-4220 dinslakende<sep>diekhaus, gerhard, dr. dipl.-chem.walsumermarkstrasse 89d-4200 oberhausen 14de<sep>konkol, werner, dr. dipl.-chem.lützowstrasse 40ad-4200 oberhausen 13de<sep>wiebus, ernstferdinandstrasse 77d-4200 oberhausen 14de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the production of aliphatic and cycloaliphatic diamines through a 2-step process.Here, in the 1st stage dialdehydes with monoamines are converted to the corresponding diazomethines.In the second stage, these diazomethines are brought to the reaction with ammonia and hydrogen in the presence of a hydrogenation catalyst.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009217
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 C10K-1/00 B01D-53/047 C10K-1/32 B01D-53/04 <main>B01D-53/04</main> C01B-3/56 C10K-1/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adiabatic adsorption process for cleaning or separating gases.
+</TITLE>
+<APPLICANT>
+linde agde<sep>linde aktiengesellschaft<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>linde aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+benkmann christian<sep>benkmann, christian<sep>benkmann, christianzündterstrasse 27d-8000 münchen 21de<sep>benkmann, christian<sep>benkmann, christianzündterstrasse 27d-8000 münchen 21de<sep>
+</INVENTOR>
+<ABSTRACT>
+In an adiabatic adsorption method for gas cleaning or separation.This is used in the pressure change, are used in addition to the main dowels auxiliary adsorber (2).These are operated with the adsorption phase shortened towards the main city Sorbne.In addition, the adsorbent feed can be reduced.Between the two adsorber types, pressure-proof during the relaxation or pressure builders can take place.Relaxation gas from one of the two adsorber species can be used for rinsing adsorbers of the other adsorber type.
+</ABSTRACT>
+</TEXT>
+</DOC>

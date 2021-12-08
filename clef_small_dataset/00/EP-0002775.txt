@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002775
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61M-5/168 A61M-1/36 A61M-5/172 G06F-15/42 <main>A61M-5/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the preprogrammed infusion of liquids.
+</TITLE>
+<APPLICANT>
+siemens ag de  <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+franetzki manfred dr<sep>gagneur klaus<sep>prestele karl<sep>franetzki, manfred, dr.<sep>gagneur, klaus<sep>prestele, karl<sep>franetzki, manfred, dr.schleifweg 7bd-8521 uttenreuthde<sep>gagneur, klauswiesenweg 11d-8521 bubenreuthde<sep>prestele, karlleipziger strasse 74d-8520 erlangende<sep>franetzki, manfred, dr.<sep>gagneur, klaus  <sep>prestele, karl<sep>franetzki, manfred, dr.schleifweg 7bd-8521 uttenreuthde<sep>gagneur, klauswiesenweg 11d-8521 bubenreuthde<sep>prestele, karlleipziger strasse 74d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a device for the pre-programmable infusion of liquids in the human or animal body. Especially for diabetes therapy, it is desirable to infuse insulin in different rates in the body of the patient. A control device (106) serves as the programmer for a microdosing unit (111). The doctor should have the opportunity to prepuses the daily profile of infusion and to change optionally. According to the invention, at least the control device (106) for the microdosing unit (111) storage means for a predeterminable control program are arranged, wherein the control program on an external programming device (100) according to a 24-hour daily routine can be pre-programmed in discrete time steps. In this case, the control device (106) is connected only to the transfer of the preprogrammed control process to the internal storage means of the control device with the programming device (100) or the per gram carrier. The inventive device according to the invention is provided in particular for the setting of diabetes patients to an optimal daily profile of insulinver delivery.
+</ABSTRACT>
+</TEXT>
+</DOC>

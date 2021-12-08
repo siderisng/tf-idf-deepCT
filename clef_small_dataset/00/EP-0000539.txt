@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000539
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-249/08 C07F-1/00 A01N-43/653 C07D-405/00 C07D-249/00 C07D-521/00 A01N-43/50 A01N-43/64 A01N-43/56 A01N-43/48 C07D-405/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+copper complexes of n-pyrazole, n-imidazole and n-triazole acetanilides, their preparation and their use as fungicides.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+de wijs jean jacquesch<sep>eberle juergch<sep>eckhardt wolfgang dr de<sep>hubele adolf dr ch  <sep>kunz walter drch<sep>de wijs, jean jacques<sep>eberle, juerg<sep>eckhardt, wolfgang, dr.<sep>hubele, adolf, dr.<sep>kunz, walter, dr.<sep>de wijs, jean jacqueswaldhofstrasse 26ch-4310 rheinfeldench<sep>eberle, jürgvorderbergrain 7ch-4104 oberwilch<sep>eckhardt, wolfgang, dr.breslauer strasse 16d-7850 lörrachde<sep>hubele, adolf, dr.obere egg 9ch-4465 magdench<sep>kunz, walter, dr.im goldbrunnen 55ch-4104 oberwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+copper complexes of n-pyrazole-, n-imidazole- and  n-triazole-acetanilide derivatives of formula:    wherein   r₁ and r₂ represent independently of each other methyl,  ethyl, methoxy, ethoxy or halogen,   r₃ represents hydrogen, c₁-c₃-alkyl, c₁-c₄-alkoxy or halogen,   r₄ represents hydrogen or methyl   r₅ represents    r₆ represents 1,2-pyrazole, 1,3-imidazole, 1,2,4-triazole (1) or  1,2,4-triazole (4)   a represents the anion of an organic or inorganic acid and   n stands for the number 1 or 2   p stands for a number from 1 to 12 inclusive, their preparation  and use as fungicides.  
+</ABSTRACT>
+</TEXT>
+</DOC>

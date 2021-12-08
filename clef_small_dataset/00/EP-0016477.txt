@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016477
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04L-11/20</main> H04L-12/64 H04J-6/00 H04J-3/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for speech signal reconstruction in packet switched telecommunication networks.
+</TITLE>
+<APPLICANT>
+cselt centro studi lab telecomit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.<sep>cselt centro studi e laboratori telecomunicazioni s.p.a.via guglielmo reiss romoli, 274i-10148 turinit<sep>cselt centro studi e laboratori telecomunicazioni s.p.a. <sep>
+</APPLICANT>
+<INVENTOR>
+barberis giulio<sep>pazzaglia daniele<sep>barberis, giulio<sep>pazzaglia, daniele<sep>barberis, giuliovia leini, 32torinoit<sep>pazzaglia, danielevia oropa, 116torinoit<sep>barberis, giulio<sep>pazzaglia, daniele  <sep>barberis, giuliovia leini, 32torinoit<sep>pazzaglia, danielevia oropa, 116torinoit<sep>
+</INVENTOR>
+<ABSTRACT>
+the disturbing effects caused by the random delay suf­ fered by the packets in the network are reduced by preventing  the first packet of each talkspurt from suffering a random  delay lower than a predetermined minimum delay.  to this  end the delay suffered by the first packet of a talkspurt is  estimated and the packet is stored, before being introduced  into the output queue of the node, for a time depending on the  estimated delay.  the delay estimate is made to converge to  the actual value by a progressive synchronization of source  and receiver clocks.  
+</ABSTRACT>
+</TEXT>
+</DOC>

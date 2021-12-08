@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009163
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-31/00 A61K-31/541 A61K-31/495 C07D-235/20 C07D-333/00 A61K-31/4427 C07D-409/00 C07D-307/68 A61K-31/415 A61K-31/496 C07D-405/00 A61K-31/454 C07D-295/195 A61K-31/4184 C07D-333/38 A61K-31/54 A61K-31/4164 C07D-409/04 C07D-235/00 A61K-31/4523 A61K-31/445 C07D-407/04 C07D-405/14 C07D-307/00 C07D-295/00 A61K-31/443 A61P-31/12 C07D-235/18 A61K-31/4433 C07D-409/14 <main>C07D-235/20</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted bisbenzimidazole derivatives, their preparation and antiprotozoic and antiviral agents.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+raether wolfgang dr<sep>rosner manfred dr<sep>raether, wolfgang, dr.<sep>rosner, manfred, dr.<sep>raether, wolfgang, dr.falkensteinstrasse 6d-6072 dreieichde<sep>rösner, manfred, dr.unter den buchen 7d-6239 eppstein/taunusde<sep>raether, wolfgang, dr.<sep>rosner, manfred, dr.<sep>raether, wolfgang, dr.falkensteinstrasse 6d-6072 dreieichde<sep>rösner, manfred, dr.unter den buchen 7d-6239 eppstein/taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+(for contracting states : be, ch, de, fr, gb, it, nl) 1.  substituted bis-benzimidazolyl compounds of the general formula i  see diagramm : ep0009163,p13,f1  and their physiologically compatible salts, in which a denotes 2,5-thiophenediyl, 2,5-furanediyl, p-phenylene, m-phenylene or 4,4'-phenoxyphenylene, and in which r**1 is represented by one of the general formulae iia or iib  see diagramm : ep0009163,p14,f2  in which the radicals r**2 to r**4 independently of one another denote hydrogen, alkyl with 1-18 c atoms, cycloalkyl with 5-8 atoms, aminoalkyl, n-alkylaminoalkyl or n,n-dialkylaminoalkyl, in which an alkyl group in each case has 1-4 c atoms, morpholinoethyl, methoxyethyl, ethoxyethyl, benzyl, phenethyl or phenyl, or in which the radicals r**2 and r**3 together denote an alkylene bridge with 4, 5 or 6 ch2  groups, and in which y denotes o, s, nh or n-r**5, in which r**5 represents alkyl with 1-4 c atoms.  (for contracting state at) 1.  process for the manufacture of substituted bis-benzimidazolyl compounds of the general formula i  see diagramm : ep0009163,p15,f1 and their physiologically compatible salts, in which a denotes 2,5-thiophenediyl, 2,5-furanediyl, p-phenylene, m-phenylene or 4,4'-phenoxyphenylene, and in which r**1 is represented by one of the general formulae iia or iib  see diagramm : ep0009163,p15,f2  in which the radicals r**2 to r**4 independently of one another denote hydrogen, alkyl with 1-18 c atoms, cycloalkyl with 5-8 atoms, aminoalkyl, n-alkylaminoalkyl or n,n-dialkylaminoalkyl, in which an alkyl group in each case has 1-4 c atoms, morpholinoethyl, methoxyethyl, ethoxyethyl, benzyl, phenethyl or phenyl, or in which the radicals r**2 and r**3 together denote an alkylene bridge with 4, 5 or 6 ch2  groups, and in which y denotes o, s, nh or n-r**5, in which r**5 represents alkyl with 1-4 c atoms, which comprises a) reacting a compound of the formula iii r**6-a-r**6 in which a has the meanings indicated above and in which r**6 denotes  see diagramm : ep0009163,p15,f3  in which z denotes o or s and r**7 denotes alkyl or alkoxyalkyl with, in each case, 1 to 4 c atoms per alkyl radical, with a compound of the formula iv  see diagramm : ep0009163,p15,f4 in which r**1 has the meanings indicated by the formula iia or iib, or b) reacting a compound of the general formula v  see diagramm : ep0009163,p15,f5  in which a has the meanings indicated above and in which r**6 has the meanings indicated under a) under formula iii, with an amine of the formula via or vib  see diagramm : ep0009163,p15,f6  in which r**2, r**3 and y have the meanings indicated under formula iia or iib, and optionally converting a compound of the formula i, which is thus obtained, into its salt by adding a physiologically compatible acid hx, or converting a salt of the formula i, which is thus obtained, into a compound of the formula i by adding a base. 
+</ABSTRACT>
+</TEXT>
+</DOC>

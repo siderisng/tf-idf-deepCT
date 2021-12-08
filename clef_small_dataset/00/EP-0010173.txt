@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010173
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/28 H01L-27/04 H01L-21/822 <main>G01R-31/28</main> G01R-31/3185 H01L-21/66 G06F-11/26 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor chip with improved ability for testing the large scale integrated circuits.
+</TITLE>
+<APPLICANT>
+ibmus   <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+doty jr charles randall<sep>muehldorf eugen igor<sep>shah himanshu gamanlal<sep>doty jr., charles randall<sep>muehldorf, eugen igor<sep>shah, himanshu gamanlal<sep>doty jr., charles randall200 charing cross drivematthews, nc 28105us<sep>muehldorf, eugen igor8717 liberty ln.potomac, md. 20854us<sep>shah, himanshu gamanlal3096 bale hollow drivelexington, ky 40502us<sep>doty jr., charles randall<sep>muehldorf, eugen igor  <sep>shah, himanshu gamanlal<sep>doty jr., charles randall200 charing cross drivematthews, nc 28105us<sep>muehldorf, eugen igor8717 liberty ln.potomac, md. 20854us<sep>shah, himanshu gamanlal3096 bale hollow drivelexington, ky 40502us<sep>
+</INVENTOR>
+<ABSTRACT>
+To create a semiconductor tile with improved checkability of monolithically highly integrated circuits, the embedded, d. H. Circuits and sliding registers and sliding registers directly not available from the input and outputs (PLA) and linear logical functions, the architecture of the semiconductor tile Chen is designed so that it is designed from a plurality of programmable logical arrangements (PLA 14, 15 ) and TransferMe (16, 17) consists as a combinatorial logic. The per grammable logical arrangements are so ver bound so that the outputs of a (PLA 15) or a plurality of per grammable logic arrangements with a transmission path (16) are in series. As a result, no separate test patterns for the transmission path (16) need to be generated, but this is checked with the output patterns of the preparative programmable logical arrangement. On the output side, programmable logical arrangements arranged in parallel, it is not and vice versa.
+</ABSTRACT>
+</TEXT>
+</DOC>

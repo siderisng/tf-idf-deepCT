@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002200
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-239/00 C07D-239/34 A01N-47/18 A01N-43/50 <main>C07D-239/34</main> C07D-239/70 A01N-47/10 C07D-239/90 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n,n-dialkyl-o-pyrimidinyl-carbamic acid esters, process for their preparation, and their use as insecticides.
+</TITLE>
+<APPLICANT>
+bayer agde  <sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+hammann ingeborg dr<sep>maurer fritz dr<sep>schroder rolf dr<sep>hammann, ingeborg, dr.<sep>maurer, fritz, dr.<sep>schroder, rolf, dr.<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 kölnde<sep>maurer, fritz, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>schröder, rolf, dr.pahlkestrasse 17d-5600 wuppertal 1de<sep>hammann, ingeborg, dr.<sep>maurer, fritz, dr.  <sep>schroder, rolf, dr.<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 kölnde<sep>maurer, fritz, dr.roeberstrasse 8d-5600 wuppertal 1de<sep>schröder, rolf, dr.pahlkestrasse 17d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to N, N-dialkyl-0-pyrimidinyl-carbamic acid esters with insecticidal properties of the formula in which R, R¹ and R² stand for the same or different alkyl, X is oxygen or sulfur, R³ is hydrogen or alkyl, R⁴ is R⁴ forHydrogen, alkyl or halogen stands, both radicals R³ and R⁴ may also jointly form an alkylene bridge.They are obtained by reacting n, n-dialkylcarbamic acid halides of the formula with substituted 4-hydroxy pyrimidines of the formula or phosgene reacting with substituted 4-hydroxy pyrimidines and dialkylamines.
+</ABSTRACT>
+</TEXT>
+</DOC>

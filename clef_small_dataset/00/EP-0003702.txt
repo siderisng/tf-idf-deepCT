@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003702
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23K-9/28</main> B23K-9/29 B23K-9/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mechanically and pneumatically cleanable welding torch.
+</TITLE>
+<APPLICANT>
+air liquidefr<sep>soudure autogene francaisefr<sep>la soudure autogene francaise<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude<sep>la soudure autogene francaise75, quai d'orsayf-75321 paris cedex 07fr<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude75, quai d'orsayf-75321 paris cédex 07fr<sep>la soudure autogene francaise<sep>l'air liquide, societe anonyme pour l'etude et l'exploitation des procedes georges claude<sep>
+</APPLICANT>
+<INVENTOR>
+cardot frederic<sep>feix jacques<sep>cardot, frederic<sep>feix, jacques<sep>cardot, frédéric5, allée de beauvaisf-78570 andresyfr<sep>feix, jacques5, rue des sablonsf-95310 saint ouen l'aumonefr<sep>cardot, frederic <sep>feix, jacques<sep>cardot, frédéric 5, allée de beauvais f-78570 andresy fr<sep>feix, jacques5, rue des sablonsf-95310 saint ouen l'aumonefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The torch comprises two sets of elements (10 to 19 and 20 to 27) with each other an annular chamber (4).Racling means (19) detach the highly adherent particles to the lower portion (4a) of the chamber and blowing means detach the weakly adherent particles and cause all the particles detached out of the chamber (4).The invention applies in particular to the MIG welding torches.
+</ABSTRACT>
+</TEXT>
+</DOC>

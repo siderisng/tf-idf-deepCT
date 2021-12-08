@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004641
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/56 C07C-51/567 C07B-41/10 C07B-41/00 C07B-31/00 B01D-3/00 C07C-51/54 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing carboxylic anhydrides
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+dankert gerhard drde<sep>findeisen kurt drde <sep>grah gerdde  <sep>lenthe manfred drde<sep>dankert, gerhard, dr.<sep>findeisen, kurt, dr.<sep>grah, gerd<sep>lenthe, manfred, dr.<sep>dankert, gerhard, dr.arthur-hantzsch-strasse 44d-5000 köln 80de<sep>findeisen, kurt, dr.in der follmühle 10d-5074 odenthalde<sep>grah, gerdgoethestrasse 2d-5657 haande<sep>lenthe, manfred, dr.michaelshöhe 40d-5074 odenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+carboxylic anhydrides such as benzoic anhydride and pivalic anhydride are prepared, without waste air and waste water, from the corresponding carboxylic acids and acetic anhydride.  according to the invention, the reaction is carried out in a reaction/distillation apparatus (cf.  fig.  1) operated continuously or batchwise at normal pressure or reduced pressure with simultaneous separation of the reaction products carboxylic anhydride and acetic acid.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008376
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B22D-11/04</main> B22D-11/16 B22D-11/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for continuously casting metal in a mould and influence of an electro-magnetic field.
+</TITLE>
+<APPLICANT>
+concast holding agch<sep>concast holding ag<sep>concast holding agtödistrasse 7 ch-8027 zürich ch <sep>concast holding ag<sep>concast holding ag<sep>
+</APPLICANT>
+<INVENTOR>
+dacker carl-ake<sep>haefeker axel-ingo<sep>lipton jan<sep>thalmann armin<sep>dacker, carl-ake<sep>haefeker, axel-ingo<sep>lipton, jan<sep>thalmann, armin<sep>däcker, carl-akenyponvägen 182s-61300 oxelösundse<sep>haefeker, axel-ingoalte landstrasse 95ch-8804 au-wädenswilch<sep>lipton, janglärnischstrasse 24ch-8820 wädenswilch<sep>thalmann, arminflorastrasse 73ch-8610 usterch<sep>dacker, carl-ake<sep>haefeker, axel-ingo<sep>lipton, jan<sep>thalmann, armin<sep>dacker, carl-ake<sep>haefeker, axel-ingo  <sep>lipton, jan <sep>thalmann, armin<sep>däcker, carl-akenyponvägen 182s-61300 oxelösundse<sep>haefeker, axel-ingoalte landstrasse 95ch-8804 au-wädenswilch<sep>lipton, janglärnischstrasse 24ch-8820 wädenswilch<sep>thalmann, arminflorastrasse 73ch-8610 usterch<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method for the continuous casting of metal, wherein molten metal is poured into a mould (1), the resultant strand (2), having a molten core (3), is withdrawn, guides and further cooled (6), and turbulent flow is set up in the molten core (3) by means of pulsation thrust forces acting on the molten metal and produced by at least one stirring device (10) inducing electromagnetic fields in the strand, wherein these pulsating thrust forces, acting differently on the molten metal, are set up by applying a predetermined asymmetry in the phases, characterized in tha thte windings (74-77) of one phase coil (70-73) are acted upon by current strengths which are different from those applied to the windings (74-77) of at least one other phase coil (70-73) of the fields. 
+</ABSTRACT>
+</TEXT>
+</DOC>

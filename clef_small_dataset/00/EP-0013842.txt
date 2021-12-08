@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013842
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02M-3/09 F02M-3/00 F02M-3/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for controlling the air-fuel ratio of a carburettor mixture during transition from idle to normal running.
+</TITLE>
+<APPLICANT>
+sennely claude<sep>sennely, claude<sep>sennely, claude52 avenue bosquetf-75007 parisfr<sep>
+</APPLICANT>
+<INVENTOR>
+sennely claude<sep>sennely, claude<sep>sennely, claude52 avenue bosquetf-75007 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a device for admitting additional air or gas into the idling well 20 of a carburettor when the throttle 14 is in the vicinity of the progression 24 and idling 25 ports in the partial opening position.  a circuit parallel to the air calibrator 21 and terminating, for example, at a hollow adjusting screw 30 is controlled by an adjusting member 50, such as a valve, the movable shutter of which is actuated, for example, by a linkage 55 coupled to a throttle on the one hand and to a differential pressure gauge on the other hand or by means of a stepping motor 58 coupled to a pulse generator 59 controlled by a microprocessor receiving information from various sensors c1 to cn.  this device makes it possible positively to control the relative vacuum in the idling well and consequently the airflow through the calibrator and thus the flow of fuel sucked up by the nozzle, in order to keep substantially constant the richness of the mixture supplied to the engine during transitions between idling and normal running.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

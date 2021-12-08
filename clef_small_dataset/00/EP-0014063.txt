@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014063
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-29/46 H01J-31/12 <main>H01J-31/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrode interconnection in a flat panel display device.
+</TITLE>
+<APPLICANT>
+rca corpus<sep>rca corporation<sep>rca corporation30 rockefeller plazanew york, ny 10020us<sep>rca corporation<sep>
+</APPLICANT>
+<INVENTOR>
+catanese carmen anthony<sep>cosentino louis salvatore<sep>catanese, carmen anthony<sep>cosentino, louis salvatore<sep>catanese, carmen anthony22 montgomery avenuerocky hill, new jerseyus<sep>cosentino, louis salvatore30 whippoorwill waybelle mead, new jerseyus<sep>catanese, carmen anthony  <sep>cosentino, louis salvatore<sep>catanese, carmen anthony22 montgomery avenuerocky hill, new jerseyus<sep>cosentino, louis salvatore30 whippoorwill waybelle mead, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+in a display device having within an evacuated enve­ lope, an electron beam guide (130, 132) an electron gene­ rating means (142) for generating beams of electrons di­ rected along the guide, and a modulator structure (160),  on which is disposed a plurality of pairs of opposed control  electrodes (144, 150, 154), selected ones of the control  electrodes which operate at a common potential, specific­ ally isolation electrodes (150, 154), are interconnected by a  busbar (154e).  this interconnected electrode structure de­ creases the number of control electrodes which must ex­ tend (154c) from the evacuated envelope.  the electron ge­ nerating means (142) is shielded by the adjacent end of  one of the guide plates (130) from the interconnectlng bus­ bar (154e) to prevent perturbation of the generated elec­ tron beams.  
+</ABSTRACT>
+</TEXT>
+</DOC>

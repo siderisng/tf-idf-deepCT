@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008181
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-13/53 H01T-1/00 <main>H01C-7/12</main> H01C-7/12 H01T-4/04 H01T-4/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an arrester for underground systems.
+</TITLE>
+<APPLICANT>
+rte corpus<sep>rte corporation<sep>rte corporation1900 east north streetwaukesha, wisconsin, 53186us<sep>rte corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bronikowski raymond j<sep>bronikowski, raymond j.<sep>bronikowski, raymond j.1700 tamaracksouth milwaukee, wisconsin 53172us<sep>bronikowski, raymond j.<sep>bronikowski, raymond j.1700 tamaracksouth milwaukee, wisconsin 53172us<sep>
+</INVENTOR>
+<ABSTRACT>
+an elastomeric insulated fully shielded arrester in­ cludes one or more surge arrester blocks (18) mounted  within an elastomeric housing (12) optionally having a layer  of conductive materials (15) on the outer surface thereof, an  electrically conductive contact (22, 25) at each end of the  arrester blocks (18).  in one embodiment the elastomeric  housing (12) provides a compressive force for maintaining  electrical communication between the electrical contacts  (22, 25) and the block or blocks (18) and closely engages  the outer surface of the block or blocks (18) to minimize  corona discharge.  
+</ABSTRACT>
+</TEXT>
+</DOC>

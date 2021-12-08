@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017378
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-33/66</main> H01H-33/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vacuum circuit interrupter.
+</TITLE>
+<APPLICANT>
+meidensha electric mfg co ltdjp<sep>kabushiki kaisha meidensha<sep>kabushiki kaisha meidensha1-17, ohsaki 2-chomeshinagawa-ku tokyo 141jp<sep>kabushiki kaisha meidensha<sep>
+</APPLICANT>
+<INVENTOR>
+hashimoyo takahumi<sep>innami yoshiyuki<sep>hashimoyo, takahumi<sep>innami, yoshiyuki<sep>hashimoyo, takahumi32-2, higashiminemachiota-ku tokyojp<sep>innami, yoshiyuki53-2, nakano 1-chomenakano-ku tokyojp<sep>hashimoyo, takahumi<sep>innami, yoshiyuki<sep>hashimoyo, takahumi32-2, higashiminemachiota-ku tokyojp<sep>innami, yoshiyuki53-2, nakano 1-chomenakano-ku tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention disclosed a vacuum type electric circuit  interrupter comprising a highly evacuated envelope which  includes at least one metallic tube (18,20,26,28) made of the  magnetic material or the ferromagnetic material, a pair of  relatively movable contacts disposed within said envelope in  a location and means for eliminating the magnetodistortion  of said metallic tube (18,20,26,28).  this means comprises a  magnetic flux generating member (56) for supplying the  magnetic flux to said metallic tube.  the noise generated  from the vacuum circuit interrupter is, accordingly, elimin­ ated by means of a magnetic field applying member for  applying previously the magnetic field to said metallic tube  or by increasing the magnetic reluctance of the metallic tube.  
+</ABSTRACT>
+</TEXT>
+</DOC>

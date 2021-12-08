@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005672
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-3/153 <main>H04N-5/00</main> G06F-3/14 G09G-5/16 H04N-5/22 G09G-5/24 G09G-5/32 G09G-1/00 H04N-5/278 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for television titling apparatus.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf  <sep>
+</APPLICANT>
+<INVENTOR>
+bakach joseph<sep>mcmann jr renville h<sep>bakach, joseph<sep>mcmann jr., renville h.<sep>bakach, joseph"thomson-csf laboratories inc" 37 brown housestamford connecticut, 06902us<sep>mcmann jr., renville h."thomson-csf laboratories inc" 37 brown housestamford connecticut, 06902us<sep>bakach, joseph<sep>mcmann jr., renville h.<sep>bakach, joseph"thomson-csf laboratories inc" 37 brown housestamford connecticut, 06902us<sep>mcmann jr., renville h."thomson-csf laboratories inc" 37 brown housestamford connecticut, 06902us<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a device for a television titration device.The device allows the device to present characters of a legible language from the right to the left.For this purpose the device comprises: a main memory (311) for storing features representations corresponding to symmetric or inverse images of a set of characters of the language considered;an auxiliary memory (520) for storing a line bits analysis line from the feature generator (300) of the device;and means (530, 550) for extracting the auxiliary memory the line bits analysis line in reverse order of that where the line bits were introduced into the auxiliary memory.application to the field of television.
+</ABSTRACT>
+</TEXT>
+</DOC>

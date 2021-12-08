@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001597
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/08 C08L-23/00 C08L-33/02 G03F-7/008 <main>G03C-1/72</main> C07D-209/48 G03G-5/00 C08K-5/34 C08K-5/00 C08L-101/00 C07D-209/00 C08K-5/3417 C08K-5/3412 C08L-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+under light exposure hardenable, bis-azidophthalimidyl compounds containing compositions.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+kvita vratislav dr<sep>zweifel hans dr<sep>kvita, vratislav, dr.<sep>zweifel, hans, dr.<sep>kvita, vratislav, dr.st. jakobstrasse 2ch-4132 muttenzch<sep>zweifel, hans, dr.lothringerstrasse 93ch-4056 baselch<sep>kvita, vratislav, dr.<sep>zweifel, hans, dr.<sep>kvita, vratislav, dr.st. jakobstrasse 2ch-4132 muttenzch<sep>zweifel, hans, dr.lothringerstrasse 93ch-4056 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+The mixtures according to the invention consist of at least one polymer compound and at least one compound of formula I where R represents a divalent organic radical.In this case, the weight ratio polymer to compound of formula I is about 9: 1 to 1: 4.The compounds of formula I and thus also the mixture mixtures can be cured under the action of light (crosslinked).They are superior to known systems with regard to thermostability and oxidation resistance with respect to the same light sensitivity.
+</ABSTRACT>
+</TEXT>
+</DOC>

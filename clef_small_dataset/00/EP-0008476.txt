@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008476
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-11/06 C25B-11/00 <main>C25B-11/06</main> C25B-11/04 C25B-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the electrolytic production of hydrogen in an alkaline medium.
+</TITLE>
+<APPLICANT>
+solvaybe<sep>solvay & cie (societe anonyme)<sep>solvay &amp; cie (société anonyme)rue du prince albert, 33b-1050 bruxellesbe<sep>solvay & cie (societe anonyme) <sep>
+</APPLICANT>
+<INVENTOR>
+bourgeois louis<sep>nicolas edgard<sep>bourgeois, louis<sep>nicolas, edgard<sep>bourgeois, louisboulevard louis schmidt 4 (boíte 6)b-1040 bruxellesbe<sep>nicolas, edgardavenue de l'exposition 41b-1090 bruxellesbe<sep>bourgeois, louis<sep>nicolas, edgard  <sep>bourgeois, louisboulevard louis schmidt 4 (boíte 6)b-1040 bruxellesbe<sep>nicolas, edgardavenue de l'exposition 41b-1090 bruxellesbe<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for the electrolytic production of hydrogen in an alkaline medium.The method includes using a cathode whose active surface consists essentially of an oxidized compound of the type of spinels.The method is suitable for electrolysis of aqueous solutions of sodium chloride in permeable diaphragm cells.
+</ABSTRACT>
+</TEXT>
+</DOC>

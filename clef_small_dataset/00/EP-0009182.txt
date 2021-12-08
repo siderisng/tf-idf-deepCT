@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009182
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F23C-7/06</main> F23D-14/72 F23D-11/36 F23C-7/06 F23D-14/18 F23D-13/18 F02M-27/02 F23C-7/00 F23D-11/44 F02M-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gasification burner.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+gulden peter<sep>kostka hana dipl-ing<sep>michel alfred dr<sep>gulden, peter<sep>kostka, hana, dipl.-ing.<sep>michel, alfred, dr.<sep>gulden, peterwehneltstrasse 17d-8520 erlangende<sep>kostka, hana, dipl.-ing.steigbeetstrasse 3d-8500 nürnbergde<sep>michel, alfred, dr.oppelner strasse 3d-8520 erlangende<sep>gulden, peter  <sep>kostka, hana, dipl.-ing.<sep>michel, alfred, dr.<sep>gulden, peterwehneltstrasse 17d-8520 erlangende<sep>kostka, hana, dipl.-ing.steigbeetstrasse 3d-8500 nürnbergde<sep>michel, alfred, dr.oppelner strasse 3d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+Gassing burner with a vestibule (1) for with fuel and primary air, with a catalyst device (2) for generating a fuel gas from the fuel / primary air mixture, with a mixing chamber (3 ') for mixing the fuel gas with secondary air, with a Vorraum (1), catalyst device (2) and mixing room (3 ') surrounding and from the vortex through a ring wall (5) provided with radial channels (6), separated ring space (4'), with a combustion chamber (8 ') and one Fencing space Final burner plate (9 ') and with an ignition chamber (7') arranged between the combustion chamber and mixing chamber (3 '). The annular space (4 ') also encloses the ignition chamber (7) and the combustion chamber (8') ring and extends to the vicinity of the burner plate (9 '), where a primary air supply nozzle (26') in the annular space (4 ' ) opens; In the annular space (4 '), lead walls (35) are arranged, which is the primary air flow from the primary air flow nozzle (26') spiral or meandering about the combustion chamber (8 ') and the ignition chamber (7') to the radial channels (6 ) The annular wall (5) lead. The gasification burner according to the invention is particularly suitable for use as the household burner.
+</ABSTRACT>
+</TEXT>
+</DOC>

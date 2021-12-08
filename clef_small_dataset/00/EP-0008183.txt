@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008183
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03B-15/05</main> G03B-7/16 H05B-41/32 H05B-41/30 G03B-15/05 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic apparatus including an electronic flash unit.
+</TITLE>
+<APPLICANT>
+polaroid corpus<sep>polaroid corporation<sep>polaroid corporation549 technology squarecambridge, massachusetts 02139us<sep>polaroid corporation<sep>
+</APPLICANT>
+<INVENTOR>
+biber conrad heinrich<sep>land edwin herbert<sep>biber, conrad heinrich<sep>land, edwin herbert<sep>biber, conrad heinrich120 stratford roadneedham, massachusetts 02194us<sep>land, edwin herbert163 brattle streetcambridge, massachusetts 02139us<sep>biber, conrad heinrich  <sep>land, edwin herbert<sep>biber, conrad heinrich120 stratford roadneedham, massachusetts 02194us<sep>land, edwin herbert163 brattle streetcambridge, massachusetts 02139us<sep>
+</INVENTOR>
+<ABSTRACT>
+in photographic apparatus comprising an electronic  flash unit, a battery and a camera which has a manually  actuable switch for initiating a photographic cycle and an  exposure control system responsive to the switch actuation  for initiating a photographic exposure interval closely fol­ lowing upon the manual actuation of the switch, the elec­ tronic flash unit includes a capacitor (24) having a very  high value (for example 500 µf) and the battery which  charges this capacitor is of low internal impedance and  high current discharge capability.  the charging of the  capacitor results directly from the actuation of the camera  cycle-initiating switch and the capacitor is charged sub­ stantially to the battery voltage within the brief interval  between the manual actuation of the camera switch and  the commencement of the exposure interval.  
+</ABSTRACT>
+</TEXT>
+</DOC>

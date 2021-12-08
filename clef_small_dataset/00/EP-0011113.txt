@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011113
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+E04G-3/34 E04G-3/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hoist for façade.
+</TITLE>
+<APPLICANT>
+wahlefeld gebde<sep>gebr. wahlefeld<sep>gebr. wahlefeldbruchfeld 85 d-4150 krefeld-linn de <sep>
+</APPLICANT>
+<INVENTOR>
+vollath hansde<sep>vollath, hans<sep>vollath, hansmargeritenweg 17d-4044 kaarst 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+in a facade elevator which serves for the maintenance and cleaning of facades and windows and has a carriage (4) which can be moved on rails (2) on the roof (1) of a building, a single cantilever (6), which can be pivoted about a vertical pivot (5) is provided on the carriage (4), guiding two hoisting cables (7, 8) which support a car (9).  by pivoting the cantilever (6), the car (9) is always brought into a position such that the corner regions of the facade can be cleaned or maintained with ease.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+fa ssadenaufzug die erfindung betrifft einen fassadenaufzug mit einem auf einem gebäudedach auf schienen verfahrbaren wagen, der an zwei uber ausleger geftihrte hubseilen eine gondel trägt. derartige -fassadenaufzuge dienen zur wartung und reinigung von fassaden und fenstern insbesondere sehr hoher gebäude. dazu begeben sich eine oder mehrere bedienungspersonen in die gondel, die dann vor die gebäudeaussenseite geschwenkt und längs der fassade in vertikaler richtung sowie durch bewegung des wagens auf den schienen in horizontaler richtung verfahren wird. bei bekannten fassadenaufzügen sind zwei ausleger vorhanden, die um horizontale achsen schwenkbar und in einem solchen abstand voneinander angeordnet sindf dass beim ein- bzw. ausschwenken die gondel zwischen den beiden auslegern geführt werden kann. das hat zur folge, dass die vor der fassade hängende gondel sich stets in der gleichen zur fassade orthogonalen ebene befindet wie der wagen. mit den bekannten fassadenaufzügen lassen sich zwar die fassaden in hinreichender fassade zu wartungs- und reinigungszwecken befahren, schwierigkeiten ergeben sich jedoch in den eckbereichen des gebäudes, die von den gondeln bzw. den darin befindlichen bedienungspersonen häufig nicht erreicht werden können, weil es mit rücksicht auf die schinen- führung auf dem dach des gebäudes nicht möglich ist, die gondel in horizontaler richtung um eine gebäudeecke herumzuführen. aufgabe der erfindung ist es, die sinsatzmöglichkeiten eines fassadenaufzuges und insbesondere das befahren der eckbereiche von gebäudefassaden zu verbessern. diese aufgabe wird dadurch gelöst, dass ein einziger um eine vertikale achse schwenkbarer ausleger v:orge- sehen ist, über den die hubseile geführt sind. bei dem erfindungsgemässen fassadenaufzug lässt sich die gondel auch bei stehendem wagen in horizontaler richtung bewegen, wenn der ausleger um seine vertikale achse verschwenkt wird. dabei wird die gondel zwar gleichseitig von der fassade weg oder zur fassade hin bewegt, dies ist jedoch u.a. zur verstellung des abstandes der gondel zur fassade erwünscht. insbesondere ist es mit dem erfindungsgemässen fassadenaufzug möglich, die gondel in horizontaler richtung um eine gebäudeecke herumzuführen, ohne dass deshalb eine besondere schienenführung vorgesehen sein muss. ferner werden auch die statischen verhältnisse bei dem erfindungsgemässen fassadenaufzug günstiger, weil auf besondere stützen für den ausleger, z.b. hubzylinder anordnungen, verzichtet werden kann, und weil der ausleger in einem einfachen schwenklager mit vertikaler schwenkachse gelagert ist, die insbesondere die vertikalen kräfte aufnimmt, so dass auch eine grössere sicherheit gegen absturz der gondel gegeben ist. auch die standsicherheit ist verbessert, da die schwerpunktverhältnisse bei arbeitsposition und ruheposition der gondel etwa gleich sind. erfindungsgemäss werden nur die tatsächlich wesentlichen teile des systems, nämlich nur der die seile führende ausleger verdreht. es kommt am auslauf des wagens zu den umlenkrollen vor der hubtrommel zwar zu einer überschneidung der seile, die aber in einem schwenkbereich des auslegers von über 1800 ohne probleme ist. insbesondere kann am ende des auslegers eine umlenkrolle mit zur längsachse des auslegers orthogonaler achse angeordnet sein, über die die hubseile geführt sind. dann empfiehlt es sich, die gondel an einem tragbügel aufzuhängen, der relativ zu den hubseilen drehbar ist. es besteht aber auch die möglichkeit, am ende des auslegers zwei umlenkrollen mit zur längsachse des auslegers parallelen achsen
+</DESCRIPTION>
+<CLAIMS>
+   schutzansprüche:      1. fassadenaufzug mit einem auf einem gebäudedach auf schienen verfahrbaren wagen, der an zwei über ausleger geführte hubseile eine gondel trägt, dadurch   gekenizeichnet,    dass ein einziger um eine vertikale achse (5) schwenkbarer ausleger (6) vorgesehen ist, über den die hubseile (7,8) geführt sind.    2. fassadenaufzug nach anspruch 1, dadurch gekenn zeichnet, dass am ende des auslegers (6) eine umlenkrolle   (io)    mit zur längsachse des auslegers  (6) orthogonale achse angeordnet ist, über die die hubseile (7) geführt sind.   3. fassadenaufzug nach anspruch 1, dadurch gekenn zeichnet, dass am ende des auslegers (6) zwei umlenkrollen (13,14) mit zur längsachse des aus legers (6) parallelen achse angeordnet sind, über die jeweils ein hubseil (7,8) geführt ist.   4. fassadenaufzug nach anspruch 3, dadurch gekenn zeichnet, dass den umlenkrollen (13,14) jeweils eine weitere umlenkrolle (15 bzw. 16) mit zur längsachse des auslegers (6) orthogonale achse zugeordnet ist.   5. fassadenaufzug nach einem oder mehreren der an sprüche 1 bis 4, dadurch gekennzeichnet, dass die gondel (9) an einem tragbügel (11) aufgehängt ist, der relativ zu den hubseilen (7,8) drehbar ist.  
+</CLAIMS>
+</TEXT>
+</DOC>

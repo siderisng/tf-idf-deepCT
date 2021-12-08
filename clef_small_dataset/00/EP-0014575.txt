@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014575
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60T-13/24 <main>B60T-13/40</main> B60T-15/00 B60T-15/20 B60T-13/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+trailer or semi-trailer vehicle braking apparatus.
+</TITLE>
+<APPLICANT>
+bendix ltdgb  <sep>bendix limited<sep>bendix limiteddouglas roadkingswood, bristol bs15 2nlgb<sep>bendix limited<sep>
+</APPLICANT>
+<INVENTOR>
+knight david john<sep>lippiatt sidney alan<sep>knight, david john<sep>lippiatt, sidney alan<sep>knight, david johnbendix ltd. douglas road kingswoodbristol bs15 2nlgb<sep>lippiatt, sidney alanbendix ltd. douglas road kingswoodbristol bs15 2nlgb<sep>knight, david john<sep>lippiatt, sidney alan <sep>knight, david john bendix ltd. douglas road kingswood bristol bs15 2nlgb<sep>lippiatt, sidney alanbendix ltd. douglas road kingswoodbristol bs15 2nlgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a fluid pressure trailer braking apparatus for two-line  tractor/trailer operation has respective reservoirs (6, 7)  charged via protection valves (4, 5) from the  emergency/supply line (1) for connection to a tractor and  respective relay valves (10, 11) each operable independently  in response to the fluid pressures in a control line (2) to apply  brake pressure from said reservoirs to respective brake  circuits, and at least one of said relay valves has a direct  emergency line connection and is arranged to operate in the  manner of a relay emergency valve.  
+</ABSTRACT>
+<DESCRIPTION>
+this invention relates to fluid pressure braking apparatus for trailers or semi-trailers of tractor/trailer vehicle combinations. in tractor/trailer vehicle combinations, it has been proposed to provide trailer braking control from the towing vehicle by means of two connections between the towing vehicle and the trailer. one of these connections supplies a normal service or secondary braking control pressure to a trailer relay valve and the other connection provides a source of fluid pressure for charging the trailer reservoir or reservoirs and also constitutes an emergency line if fractured. assuming that the trailer reservoir is already charged, collapse of emergency line pressure causes trailer brakes to be automatically applied regardless of the value of the control pressure in the control pressure connection. in order to achieve such a manner of operation, it is customary to employ a socalled relay emergency valve on the trailer via which the trailer reservoir is charged from the emergency line and which has one piston area responsive to the control pressure and another piston area which overrides the action of the first piston area in the event of the emergency line pressure collapsing to effect the emergency brake application. one such trailer braking system is described and illustrated on pages 114 and 115 of a book entitled nair brake technology" published by m. n. homewood in 1977. in order to provide two independent sources of braking force on a trailer1 one of which remains operable to provide residual braking even in the event of the other ceasing to become effective, it has been proposed, for example, in the specification of united kingdom patent no. 1,397,307, to provide two separate reservoirs on a two-line trailer chargeable from the emergency line via a two-circuit protection valve. in the circuit in which the relay emergency valve is provided, this charging takes place in the previously accepted manner also via the relay emergency valve and a check valve is provided to bypass the protection valve such as to enable the relay emergency valve to respond to collapse of the pressure in the emergency line to apply emergency braking. a direct connection between the relay emergency valve and the emergency line cannot be provided to enable such a relay emergency valve to respond to any collapse of emergency line pressure because such a direct connection would, of course, nullify the benefit of the two-circuit protection valve. on the other hand, it is considered not desirable, from the point of view of guaranteed emergency brake operation, that flow of air under pressure from the relay emergency valve should have to flow via such a check valve. according to the present invention, there is provided a trailer or semi-trailer vehicle fluid pressure braking apparatus for two-line operation including first and second relay valves responsive to the magnitude of fluid pressure in a first brake control line to apply braking pressure respectively from first and second reservoirs to independent brake pressure circuits, at least one said relay valve having a discrete fluid pressure-responsive area
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a trailer or semi-trailer vehicle fluid pressure braking apparatus for two-line operation including first and second relay valves (10,   11)    responsive to the magnitude of fluid pressure in a first brake control line (2) to apply braking pressure respectively from first and second reservoirs (6, 7) to independent brake pressure circuits, at least one said relay valve having a discrete fluid pressure-responsive area (31) connected to a second emergency/supply line and being such that collapse of fluid pressure in the second line gives rise to an emergency brake application by the respective circuit regardless of the fluid pressure in the first line and characterised by the, or each, reservoir which is supplying a said at least one relay valve being connected directly to the second line for charging via respective circuit protection valve means (4, 5).    2. a braking apparatus as claimed in claim 1, characterised by both said relay valves having a discrete fluid pressureresponsive area (31) connected to the second line, to give rise to an emergency application by the respective circuit regardless of the fluid pressure in the first line.  
+</CLAIMS>
+</TEXT>
+</DOC>

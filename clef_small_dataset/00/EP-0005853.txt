@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005853
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01B-11/27</main> F16P-3/00 G01B-11/27 G08B-13/18 G01V-9/04 G01V-8/12 F16P-3/14 G01V-8/14 G08B-13/183 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+light barrier apparatus including an alignement aid.
+</TITLE>
+<APPLICANT>
+sick optik elektronik erwinde<sep>erwin sick gmbh optik-elektronik<sep>erwin sick gmbh optik-elektroniksebastian-kneipp-strasse 1d-79183 waldkirchde<sep>erwin sick gmbh optik-elektronik<sep>
+</APPLICANT>
+<INVENTOR>
+fetzer gunter<sep>fetzer, gunter<sep>fetzer, güntergewerbestrasse 43d-7803 gundelfingende<sep>fetzer, gunter<sep>fetzer, güntergewerbestrasse 43d-7803 gundelfingende<sep>
+</INVENTOR>
+<ABSTRACT>
+a light barrier in which a light transmitter transmits (19)  light, in particular light outside of the visible spectrum, via a  front objective (4) through a region (21), to be monitored  onto a light receiver-either (13′) directly or via a reflector (13)  is provided with an adjustment aid which makes use of  background light in the visible spectrum to facilitate the  alignment of the apparatus.  the adjustment aid, which can  be used with one or both of the light transmitter or receiver,  basically comprises a plane mirror (14) with a visible  reference feature disposed behind the front objective at the  location of the real image of the reflector or transmitter and  beam divider (15), which can conveniently be in the form of a  partially transmitting or dichroic coated mirror arranged in  front of the front objective (11) and inclined relative thereto.   in operation the human eye (26) can directly observe the  visible light reflected sideways from the beam divider and  will be able to view the alignment of the image of the  reflector or light receiver relative to the visible reference  feature and to correct this alignment by displacement of one  or other of the pieces of apparatus.  the plane mirror (14) in  front of the light transmitter can either have a central  aperture (17) for transmitting the operational light beam of  the light barrier or can itself have a dichroic coating so that it  reflects visible light but transmits the operational light beam  for the light barrier.  
+</ABSTRACT>
+</TEXT>
+</DOC>

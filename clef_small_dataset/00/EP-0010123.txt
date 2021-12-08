@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010123
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-12/08 G06F-12/16 G06F-9/22 G06F-11/10 G06F-9/24 G06F-11/28 <main>G06F-11/10</main> G06F-11/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+paging control store data processing apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+berglund neil clair<sep>kempke william george<sep>berglund, neil clair<sep>kempke, william george<sep>berglund, neil clairrt. no. 1, box 74hkasson, minnesota 55944us<sep>kempke, william george919 nw 20 streetrochester, minnesota 55901us<sep>berglund, neil clair<sep>kempke, william george<sep>berglund, neil clairrt. no. 1, box 74hkasson, minnesota 55944us<sep>kempke, william george919 nw 20 streetrochester, minnesota 55901us<sep>
+</INVENTOR>
+<ABSTRACT>
+to provide a relatively cheap and non degrading authen­ tication test of control word modules paged into control stor­ age in paging control store data processing apparatus, there  are provided means 122 to generate a signal (or on line 23) at  the decoder 120 in response to detection of a current control  word effective on the decoder to cause generation of control  signals to effect transfer of control words from main storage  to the control store 15, logic (including 124 125 157) respon­ sive to such signal but otherwise independent of the decoder,  to generate an independent group of control signals effective  to exercise a predetermined register (in 90), the alu 40 and  appropriate gates (29 36 92 93) and paths to progressively  accummulate, in the predetermined register, a check word  relative to the transferred control words, while such words are  being transferred to the control store to test the accuracy of  such transfer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

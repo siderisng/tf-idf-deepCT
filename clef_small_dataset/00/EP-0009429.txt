@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009429
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-43/15 C07C-43/00 C07C-69/767 <main>C07C-69/145</main> C07C-29/00 C07C-41/00 C07C-33/02 C07C-69/00 C07C-67/293 C07C-41/30 C07C-33/00 C07C-29/46 C07C-69/145 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+functionalized undecadiene compounds comprising a methylene-type substituant and their method of preparation.
+</TITLE>
+<APPLICANT>
+rhone poulenc indfr<sep>rhone-poulenc industries<sep>rhone-poulenc chimie de base25, quai paul doumer92408 courbevoiefr<sep>rhone-poulenc chimie de base<sep>
+</APPLICANT>
+<INVENTOR>
+morel didier<sep>morel, didier<sep>morel, didier19, avenue jean mermozf-69008 lyonfr<sep>morel, didier<sep>morel, didier19, avenue jean mermozf-69008 lyonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The compounds according to the invention have the general formula: wherein, X represents an acyloxy, aryloxy, alkoxy or hydroxy, R₁, R₈, R₁₃, R₁₄, and R₁₆, R₇, R₈, R₁₃, R₇, R₈, R₁₃, R₇, R₈, R₁₃, R₇, R₈, R₁₃, or alkyl radical. , R₃, R₅, R₆, R₉, R₁₀, R₁₁ and R₁₂ are a hydrogen atom or an alkyl radical, at least one of the radicals R₃, R₅ and R₆ and at least one of the radicals R₉, R₁₀, R₁₁ and R₁₂ being a hydrogen atom. They are obtained by reacting a dimeric dimer of conjugated diene and a conjugate diene in the presence of a catalytic system consisting on the one hand, by a compound of the rhodium and on the other hand, by a sorting compound. phosphorus, the atomic ratio being greater than or equal to about 1.5. The compounds according to the invention are used after hydrogenation and saponification as intermediate compound for the preparation of precursor alcohols of compounds that can be used as biodegrated detergents.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017113
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06K-15/02 D06B-11/00 G06K-15/10 B41J-2/02 B41J-2/01 B41M-5/00 B41J-2/015 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for recording information.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert ag<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+meyer rudolf drde<sep>meyer, rudolf, dr.<sep>meyer, rudolf, dr.carl-rumpff-strasse 25d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention includes an apparatus and method for generating a plurality of liquid threads and drops for recording information on a moving disk (9), wherein a homogeneous liquid film (5) is generated on a drainage surface (1), the film in free-falling liquid threads(6) and the threads are disassembled in droplets (7) and the drops not needed for the information are separated and collected.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000450
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-27/54 G03B-27/40 <main>G03B-27/54</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic reproduction apparatus for transparent documents, especially of the photographic enlarger type.
+</TITLE>
+<APPLICANT>
+anvarfr<sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche<sep>
+</APPLICANT>
+<INVENTOR>
+vulmiere huguette nelly<sep>vulmiere jacques claude<sep>vulmiere, huguette nelly<sep>vulmiere, jacques claude<sep>vulmiere, huguette nelly62, rue de l'eglisef-75015 parisfr<sep>vulmiere, jacques claude62, rue de l'eglisef-75015 parisfr<sep>vulmiere, huguette nelly <sep>vulmiere, jacques claude<sep>vulmiere, huguette nelly 62, rue de l'eglise f-75015 paris fr <sep>vulmiere, jacques claude62, rue de l'eglisef-75015 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Lighting device for photographic reproduction device of transparent documents with interchangeable objectives. The apparatus includes a main light source, condenser, objectives, object planes and movable image relative to each other and an auxiliary exposure light source. The condenser consists of two thin ladder lenses (20.21) between which is arranged a screen (22) corrector of the variations of illumination in the image plane due to the inclination of the useful brush on the axis of the system, this screen working perpendicularly at its surface, the constituent elements of the source (10, 11, 12) of the condenser (20, 21) and the pupil of the objective used (23) being fixed relative to the other and displaceable Only one block for the document to be reproduced (24) depending on the focal length of said objective determining the format of the document. Application to the reproduction of transparent documents in black or in color.
+</ABSTRACT>
+</TEXT>
+</DOC>

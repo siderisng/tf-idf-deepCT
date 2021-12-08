@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017660
+</DOCNO>
+<TEXT>
+<DATE>
+19801029
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21J-7/00 F16K-11/22 B21D-19/10 B23K-20/02 B30B-9/00 F16K-31/52 B21J-7/14 B30B-1/00 B21D-19/08 B30B-1/34 B30B-15/16 B30B-7/00 F15B-11/00 B30B-7/04 F16K-11/10 F15B-11/16 F16K-31/524 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulic press.
+</TITLE>
+<APPLICANT>
+lillbacka jorma<sep>lillbacka, jorma<sep>lillbacka, jorma62300 härmäfi<sep>
+</APPLICANT>
+<INVENTOR>
+lillbacka jorma<sep>lillbacka, jorma<sep>lillbacka, jorma62300 härmäfi<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention provides a pressing fluid, preferably hydraulic fluid, to operate with a plurality of press stamps (2, 3), which are either radially on a common center acting or axically parallel. In order to achieve that the pressed punches are exactly synchronized with respect to their stroke, each press punch is acted upon via a cylinder (1, 21), which is because its own control surface (12, 25) is assigned. The control surface moves in operation perpendicular to the direction of movement of the press punch or perpendicular to the axis of the cylinder. Each control surface (12, 25) is associated with a hydraulic valve (5, 22), which samples the control surface (12, 25) via its own sensor (14, 26) and during their movement the pressure fluid on the grinding cylinder (1, 21 ) distributed. Each hydraulic valve (5, 22) can be adjusted separately with respect to its associated control surface (12, 25), so that in the result, the pretty stamp can be synchronized exactly. This in turn causes that at a radial press, the workpiece is pressed exactly concentrically, while at an axial press, for example a Kantbank, where mercially associated with a bending edge, an inadmissible bending of the bending edge is avoided.
+</ABSTRACT>
+</TEXT>
+</DOC>

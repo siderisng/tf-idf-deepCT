@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001149
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/22 C07F-7/18 C07D-501/24 C07D-501/04 C07D-501/02 <main>C07D-501/24</main> A61K-20060101S C07F-7/00 C07D-501/00 C07D-20060101S 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 3-bromomethyl-3-cephem-sulphoxide derivatives.
+</TITLE>
+<APPLICANT>
+gist brocades nv nl<sep>gist-brocades n.v.<sep>gist-brocades n.v.wateringseweg 1 p.o. box 1nl-2600 ma delftnl<sep>gist - brocades n.v. <sep>
+</APPLICANT>
+<INVENTOR>
+bruynes cornelis adrianus<sep>de koning jan jacobus<sep>bruynes, cornelis adrianus<sep>de koning, jan jacobus<sep>bruynes, cornelis adrianusridderhoflaan 51nl-2396 ck koudekerk a/d rijnnl<sep>de koning, jan jacobusburg. elsenlaan 80nl-2283 ac rijswijk-zhnl<sep>bruynes, cornelis adrianus <sep>de koning, jan jacobus  <sep>bruynes, cornelis adrianusridderhoflaan 51nl-2396 ck koudekerk a/d rijnnl<sep>de koning, jan jacobusburg. elsenlaan 80nl-2283 ac rijswijk-zhnl<sep>
+</INVENTOR>
+<ABSTRACT>
+improved process for the preparation of brominated  cephalosporanic derivatives, wherein a desacetoxy-3-cephem  sulphoxide of general formula    wherein r₁ represents an acylamido group and r₂ represents  a group protecting the carboxy radical, is brominated in manner  known per se and a compound of general formula    in the reaction mixture or separated from such a reaction  mixture is debrominated in the presence of a hydrogen donor  and the 3-bromomethyl-3- cephem derivative of the general  formula    thus produced is recovered.  
+</ABSTRACT>
+</TEXT>
+</DOC>

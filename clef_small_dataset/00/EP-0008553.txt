@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008553
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01C-7/08 A01C-7/16 <main>B65G-47/46</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for distributing pulverized or granular material, notably for a sowing machine or an agricultural spreader.
+</TITLE>
+<APPLICANT>
+nodet gougis safr<sep>societe anonyme dite:± nodet-gougis<sep>nodet-gougis société anonyme dite:f-77130 montereaufr<sep>nodet-gougis societe anonyme dite: <sep>
+</APPLICANT>
+<INVENTOR>
+lecomte jean-luc<sep>lecomte, jean-luc<sep>lecomte, jean-luc19, grandes bergesf-77130 montereaufr<sep>lecomte, jean-luc <sep>lecomte, jean-luc 19, grandes berges f-77130 montereaufr<sep>
+</INVENTOR>
+<ABSTRACT>
+The method is to dissociate a main stream into several intermediate streams and to group them in pairs to supply each distribution point, the solenoid flows being chosen so that the flows of all the resulting streams are substantially identical;To do this, the device comprises a supply duct (2) opening in the center of a circular distribution head (1) at the periphery of which are regularly distributed the mouths of the evacuation pipes (4), the pipes whichhave their diametrically opposite mouths feeding the same distribution point.
+</ABSTRACT>
+</TEXT>
+</DOC>

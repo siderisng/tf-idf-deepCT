@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003259
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 <main>C07C-103/375</main> C07C-211/00 C07C-231/00 C07C-87/60 C07C-85/20 C07C-255/60 C07C-103/38 C07C-233/15 C07C-211/56 C07C-255/58 C07C-67/00 C07C-233/02 C07C-209/10 C07C-209/62 C07C-102/00 C07C-253/00 C07C-255/00 C07C-121/78 C07C-233/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-formylanilido aromatic compounds, process for their preparation and process for the preparation of the corresponding n-phenyl aromatic amino compounds.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+riley norman<sep>riley, norman<sep>riley, norman46 dewsbury road rastrickbrighouse west yorkshire hd6 3qbgb<sep>riley, norman<sep>riley, norman46 dewsbury road rastrickbrighouse west yorkshire hd6 3qbgb<sep>
+</INVENTOR>
+<ABSTRACT>
+n-formylanilido aromatic compounds containing at  least two electron-withdrawing substituents in the benzene  ring are obtained by reacting together equimolecular quantities  of a formanilide and an aromatic halogen compound in  the presence of a diluent and an acid-binding agent at a  reaction temperature below that which causes decarbonylation.   the corresponding anilido aromatic compounds are  obtained by conducting the process at a reaction temperature  above the temperature of decarbonylation or by heating  the n-formylanilido aromatic compounds above their temperature  of decarbonylation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

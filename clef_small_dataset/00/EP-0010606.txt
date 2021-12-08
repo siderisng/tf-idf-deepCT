@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010606
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-17/02 G11B-17/32 <main>G11B-5/016</main> G11B-17/34 G11B-33/14 G11B-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flexible disk pack assembly.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+laman william henry<sep>laman, william henry<sep>laman, william henry1478 n. calle hermosatucson arizona 85715us<sep>laman, william henry<sep>laman, william henry1478 n. calle hermosatucson arizona 85715us<sep>
+</INVENTOR>
+<ABSTRACT>
+mass flow of gas exhausted outwardly between flexible  disks of a rotary disk pack, in at least one transducer access  state of the disks, is maintained constant over a range of  different ambient atmospheric conditions by a gas inlet  valve (17) controlled by a temperature - responsive bimetal  lever (24), and a pressure - responsive aneroid barometer  bellows (23).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003340
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and reagent for the determination of hemoglobin in blood
+</TITLE>
+<APPLICANT>
+lang werner drde<sep>wolf hans uwe prof drde<sep>zander rolfde<sep>lang, werner, dr.<sep>wolf, hans uwe, prof.dr. <sep>zander, rolf. prof.dr.<sep>lang, werner, dr. alter-ruh-weg d-6500 mainz de<sep>wolf, hans uwe, prof.dr.lisztstrasse 10d-7910 neu-ulmde<sep>zander, rolf. prof.dr.reinhold-schneider-strasse 1d-6500 mainzde<sep>
+</APPLICANT>
+<INVENTOR>
+zander rolf prof dr<sep>zander, rolf. prof.dr.<sep>lang, werner, dr.alter-ruh-wegd-6500 mainzde<sep>wolf, hans uwe, prof.dr.lisztstrasse 10d-7910 neu-ulmde<sep>zander, rolf. prof.dr.reinhold-schneider-strasse 1d-6500 mainzde<sep>
+</INVENTOR>
+<ABSTRACT>
+A reagent for the photometric determination of hemoglobin content in the blood is shown, which shows a characteristic color after adding the blood sample.This reagent consists of an aqueous alkaline solution containing a water-soluble nonionic detergent.This solution causes the conversion of all hemoglobin and hem derivatives contained in the blood into a single product having a particular absorption maximum in the visible spectral range.The invention further relates to the method for determining the hemoglobin content in the blood using the above-mentioned reagent.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003887
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-13/00 F16H-61/30 <main>F16H-17/02</main> F16H-63/06 F16H-63/02 F16H-13/10 G05D-15/01 F16H-15/22 F16H-15/16 F16H-15/20 F16H-63/12 F16H-63/08 B63H-21/21 F16H-61/32 B63H-21/00 F16H-61/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+traction pressure control system.
+</TITLE>
+<APPLICANT>
+bales mccoin research incus<sep>bales-mccoin research inc.<sep>bales-mccoin research inc.4401 montanael paso texas 79903us<sep>bales-mccoin research inc.<sep>
+</APPLICANT>
+<INVENTOR>
+mccoin dan k<sep>mccoin, dan k.<sep>mccoin, dan k.4401 montanae1 paso texas 79903us<sep>mccoin, dan k.<sep>mccoin, dan k.4401 montanae1 paso texas 79903us<sep>
+</INVENTOR>
+<ABSTRACT>
+input and output speeds of a traction gear transmission  are measured to provide an actual speed ratio to be compared  with the setting of the transmission drive ratio control  for determining the slip of the traction gear elements (100,  108) through a data processing network (40′).  this computed  actual slip is compared to optimum slip conditions that are  empirically determined and stored in the data processor for  controlling operation of a servo (36′) continuously adjusting  the contact pressure.  the invention is described with reference  to its application to a cone and roller type transmission  system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

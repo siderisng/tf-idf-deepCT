@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010782
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/25 <main>C03B-37/16</main> G02B-6/00 C03B-37/16 B26F-3/00 B26F-3/02 D01G-1/00 C03B-37/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for severing optical fibers.
+</TITLE>
+<APPLICANT>
+boeing cous<sep>the±boeing company<sep>the boeing companyp.o. box 3707, m.s. 6y-25seattle, washington 98124-2207us<sep>the boeing company<sep>
+</APPLICANT>
+<INVENTOR>
+miller glen elwood<sep>miller, glen elwood<sep>miller, glen elwoodp.o. box 5196redondo washingtonus<sep>miller, glen elwood<sep>miller, glen elwoodp.o. box 5196redondo washingtonus<sep>
+</INVENTOR>
+<ABSTRACT>
+a method and apparatus for cutting an optical fiber  (20) along a plane that is either oblique or perpendicular  to its axis (29).  in principle, a predetermined portion of a  fiber is held between a fixed holding fixture (22, 23) and  a driven retaining fixture (30).  the driven fixture (30) is  adapted to travel in an orbiting, spiraling path.  a cutting  device (26) is mounted adjacent to the fiber portion and  between the fixed (22, 23) and driven (30) fixtures.  upon  activation, the driven fixture (30) orbits in a spiraling path  and successively, the fiber (20) will contact the cutting  edge (27) of the cutting device (26) when the radius of  the traveled orbit is equal to the radius of the cutting  edge (27).  this contact with the cutting edge (27) causes  the fiber (20) to be scribed circumferentially in a plane  either oblique or perpendicular to its axis (29) depending  on the mounting angle of the cutting device (26).  further  spiraling of the driven fixture (30) bends the fiber (20) at  the scribe and causes the fiber (20) to snap or break in  the plane of the scribe mark.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001801
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C09B-49/10</main> C09B-21/00 C07D-279/00 C09B-49/00 D06P-1/30 C07D-279/20 C09B-49/10 C07D-279/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+condensation product of phenothiazine and p-nitrosophenol, process for producing the condensation product, process for producing sulfur dyes by using the condensation product and the produced sulfur dyes.
+</TITLE>
+<APPLICANT>
+cassella farbwerke mainkur agde <sep>cassella aktiengesellschaft<sep>cassella aktiengesellschaft hanauer landstrasse 526 d-60386 frankfurt de<sep>cassella aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+dickmanns heinz<sep>gotsmann ulrich dr<sep>nagl gert dr<sep>ribka joachim dr<sep>dickmanns, heinz<sep>gotsmann, ulrich, dr.<sep>nagl, gert, dr.<sep>ribka, joachim, dr.<sep>dickmanns, heinzlauterbacher strasse 8d-6000 frankfurt am main 61de<sep>gotsmann, ulrich, dr.fritz-schubert-ring 45d-6000 bergen-enkheimde<sep>nagl, gert, dr.hanauer landstrasse 497d-6000 frankfurt am main 61de<sep>ribka, joachim, dr.rügener strasse 4d-6050 offenbach am main -bürgelde<sep>dickmanns, heinz<sep>gotsmann, ulrich, dr. <sep>nagl, gert, dr.<sep>ribka, joachim, dr.  <sep>dickmanns, heinz lauterbacher strasse 8d-6000 frankfurt am main 61de<sep>gotsmann, ulrich, dr.fritz-schubert-ring 45d-6000 bergen-enkheimde<sep>nagl, gert, dr.hanauer landstrasse 497d-6000 frankfurt am main 61de<sep>ribka, joachim, dr.rügener strasse 4d-6050 offenbach am main -bürgelde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing a condensation product of phenothiazine and p-nitrosophenol containing the indophenol S-oxide of the formula by reacting phenothiazine with p-nitrosophenol in sulfuric acid, wherein phenothiazine before or during the reaction with an additional oxidizing agentis oxidized.The resulting condensation product or the reduction product obtainable from the condensation product can be converted by sulfurization in the baking or cooking melt into sulfur dyes which supply green green and polyamide green to black dyes with good fastness.
+</ABSTRACT>
+</TEXT>
+</DOC>

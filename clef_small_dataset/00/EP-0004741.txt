@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004741
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/58 C07J-71/00 <main>C07J-31/00</main> A61P-5/38 A61K-31/56 C07J-1/00 C07J-31/00 A61P-5/00 A61P-29/00 A61K-31/568 C07J-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thio etianic acid derivatives, their preparation and pharmaceutical use.
+</TITLE>
+<APPLICANT>
+syntex incus<sep>syntex (u.s.a.) inc.<sep>syntex (u.s.a.) inc.3401 hillview avenuepalo alto california 94303us<sep>syntex (u.s.a.) inc.<sep>
+</APPLICANT>
+<INVENTOR>
+edwards john a<sep>edwards, john a.<sep>edwards, john a.5734 arboretum drivelos altos california 94022us<sep>edwards, john a.<sep>edwards, john a.5734 arboretum drivelos altos california 94022us<sep>
+</INVENTOR>
+<ABSTRACT>
+thio etianic acid derivatives of the formula    wherein x¹ is hydrogen, fluoro, or chloro;   x² is hydrogen, fluoro, chloro or bromo;   x³ is =c=o or    or may also be   when x² is chloro;   r is alkyl of 1 to 6 carbon atoms, or phenyl or benzyl  optionally substituted with a substituent on the phenyl ring  which is alkyl of 1 to 4 carbon atoms, alkoxy of 1 to 4 carbon  atoms or halo;   r¹ is hydrogen or alkanoyl of 2 to 6 carbon atoms when  r² is hydrogen, α-methyl or β-methyl or or¹ and r² together  are 16α, 17α-isopropylidenedioxy; and the solid and broken  lines between c-1 and c-2 represent a double or single bond;  are useful an anti-inflammatory steroids.  they can be  prepared by reacting the corresponding 17β-carboxylic acid  or a reactive derivative thereof with an alkali metal salt of  rsh.  
+</ABSTRACT>
+</TEXT>
+</DOC>

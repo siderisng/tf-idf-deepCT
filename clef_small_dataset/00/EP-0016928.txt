@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016928
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01F-1/10</main> G01F-1/12 G01F-1/10 G01F-1/05 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flow meter with a rotating body and means to improve the starting behaviour of the rotating body.
+</TITLE>
+<APPLICANT>
+vdo schindlingde<sep>vdo adolf schindling ag<sep>vdo adolf schindling aggräfstrasse 103d-60487 frankfurtde<sep>vdo adolf schindling ag<sep>
+</APPLICANT>
+<INVENTOR>
+werkmann karl-heinz<sep>werkmann, karl-heinz<sep>werkmann, karl-heinzgoldsteinstrasse 271d-6000 frankfurt/mainde<sep>werkmann, karl-heinz  <sep>werkmann, karl-heinzgoldsteinstrasse 271d-6000 frankfurt/mainde<sep>
+</INVENTOR>
+<ABSTRACT>
+A flowmeter has a rotary body (3) with helical coils at its outer periphery and a flow channel of this receiving flow channel, in which a flow rectification rectifier (9) consisting of in the flow direction (10, 11) existing flow rectifier (9) is arranged.The walls (10, 11) of the flow rectifier (9) are increasingly thickened to the rotary body (3), whereby the starting behavior is improved at low flow rates.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001441
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-15/00 <main>G01C-11/00</main> G01B-11/25 G01B-11/24 G01B-11/00 G02B-27/22 G01C-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for defining the spatial location of object surface points.
+</TITLE>
+<APPLICANT>
+solid photous<sep>solid photography inc.<sep>robotic vision systems inc.425 rabro drive easthauppauge, new york 11788us<sep>robotic vision systems, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+ross joseph a<sep>stern howard k<sep>ross joseph a<sep>stern howard k<sep>ross joseph a26 trescott pathfort salonga new york 11746us<sep>stern howard k89, derby avenuegreenlawn new york 11740us<sep>ross joseph a  <sep>stern howard k <sep>ross joseph a26 trescott pathfort salonga new york 11746us<sep>stern howard k89, derby avenuegreenlawn new york 11740us<sep>
+</INVENTOR>
+<ABSTRACT>
+in a method for defining the spatial location of points  comprising an object surface, radiant energy is projected  onto the object (10) in successive steps with the energy  projected in each step having a unique change in intensity  with distance along an axis (ta) extending transversely of  the projection field.  the spatial locations of surface points  (p₁, p₂, p₃, p₄) are derived by comparison of reflected  intensity information derived from records (20) of the object  so irradiated and predetermined patterns derived in  accordance with the intensity changes with transverse  distance in the respective energy projections.  
+</ABSTRACT>
+</TEXT>
+</DOC>

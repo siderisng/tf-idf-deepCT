@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000185
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-251/00 <main>C07D-251/28</main> C07D-251/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of fluorinated s-triazines.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+dorlars alfons dr<sep>klauke erich dr  <sep>kysela ernst dr<sep>schwarz herbert dr<sep>dorlars, alfons, dr.<sep>klauke, erich, dr.<sep>kysela, ernst, dr.<sep>schwarz, herbert, dr.<sep>dorlars, alfons, dr.mozartstrasse 32d-5090 leverkusen 1de<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthalde<sep>kysela, ernst, dr.auf dem kamm 17d-5060 bergisch-gladbach 3de<sep>schwarz, herbert, dr.florastrasse 12d-5090 leverkusen 3de<sep>dorlars, alfons, dr.<sep>klauke, erich, dr.<sep>kysela, ernst, dr.<sep>schwarz, herbert, dr. <sep>dorlars, alfons, dr. mozartstrasse 32 d-5090 leverkusen 1de<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthalde<sep>kysela, ernst, dr.auf dem kamm 17d-5060 bergisch-gladbach 3de<sep>schwarz, herbert, dr.florastrasse 12d-5090 leverkusen 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of fluorinated s-triazines by the fluorination of chlorinated s-triazines with anhydrous hydrogen fluoride, characterised in that liquid mixed chlorofluoro-s-trichlorotriazine is reacted at 50-160 degrees c and 2-30 bars. 
+</ABSTRACT>
+</TEXT>
+</DOC>

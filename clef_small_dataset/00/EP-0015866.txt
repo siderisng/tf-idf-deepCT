@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015866
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21B-37/66 B21B-37/16 B21B-37/18 <main>B21B-37/00</main> B21B-37/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of controlling roll eccentricity of rolling mill and apparatus for performing the same method.
+</TITLE>
+<APPLICANT>
+mitsubishi heavy ind ltdjp<sep>mitsubishi jukogyo kabushiki kaisha<sep>mitsubishi jukogyo kabushiki kaisha5-1, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi jukogyo kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+abe mitshuhiro<sep>hayama yasunobu<sep>ohkura katsuhiro<sep>tanouchi kuniaki<sep>abe, mitshuhiro<sep>hayama, yasunobu<sep>ohkura, katsuhiro<sep>tanouchi, kuniaki<sep>abe, mitshuhiro286-310, koiue 4-chome hiroshima cityhiroshima pref.jp<sep>hayama, yasunobu20-26, kogokita 3-chome hiroshima cityhiroshima pref.jp<sep>ohkura, katsuhiro1-10, kusatsuhigashi 2-chomehiroshima city, hiroshima pref.jp<sep>tanouchi, kuniaki2070-6, oaza-nishihara gion-chohiroshima city hiroshima pref.jp<sep>abe, mitshuhiro<sep>hayama, yasunobu<sep>ohkura, katsuhiro<sep>tanouchi, kuniaki <sep>abe, mitshuhiro 286-310, koiue 4-chome hiroshima city hiroshima pref.jp<sep>hayama, yasunobu20-26, kogokita 3-chome hiroshima cityhiroshima pref.jp<sep>ohkura, katsuhiro1-10, kusatsuhigashi 2-chomehiroshima city, hiroshima pref.jp<sep>tanouchi, kuniaki2070-6, oaza-nishihara gion-chohiroshima city hiroshima pref.jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a component of a rolling load variation which is due  to eccentricities of upper and lower backup rolls of the  rolling mill is obtained as a first eccentricity compensa­ tion signal by removing a rolling load variation component  due to a variation of thickness of a material to be rolled  from a rolling load variation occurred during the rolling  operation.  a rolling load variation value due to the roll  eccentricity of the backup rolls is obtained from a rolling  load variation occurred during rotations of work rolls  which are in contact with each other under a load and is  memorized as a second roll eccentricity compensation  signal.  a first signal is obtained by multiplying the first  roll eccentricity compensation signal with a coefficient  which is larger than 0 and smaller than 1, a second signal  is obtained by multiplying 3 the second roll eccentricity  compensation signal with another coefficient which is  larger than 0 and smaller than 1, and the first and second  signals are added to obtain a roll eccentricity compen­ sation signal for the rolling mill.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004243
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-1/365 A61N-1/362 A61N-1/37 A61N-1/08 <main>A61N-1/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+implantable cardiac pacemaker having therapeutic and diagnostic functions.
+</TITLE>
+<APPLICANT>
+cardiofrance cofr<sep>cardiofrance - compagnie francaise d'electrocardiologie<sep>cardiofrance - compagnie francaise d'electrocardiologie73, route de neuillyf-93160 noisy le grandfr<sep>cardiofrance - compagnie francaise d'electrocardiologie<sep>
+</APPLICANT>
+<INVENTOR>
+buffet jacques<sep>buffet, jacques<sep>buffet, jacques28, avenue thiersf-93340 le raincyfr<sep>buffet, jacques  <sep>buffet, jacques28, avenue thiersf-93340 le raincyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an implantable pacemaker intended to be associated with a cardiac probe.It is characterized by the fact that it comprises inside its housing, means ensuring a control function, a posteriori, state and degree of dependence of the patient relative to the cardiac stimulator ensuring its therapeutic function,and by the fact that its internal means ensuring a control function are controlled by removable external control means.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006805
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-8/00 B05B-3/02 B05B-7/14 B65G-69/00 C03B-3/00 <main>B01J-8/00</main> B65G-69/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the distribution of solid particles.
+</TITLE>
+<APPLICANT>
+saint gobainfr<sep>saint-gobain industries<sep>saint-gobain industries62, bd victor hugof-92209 neuilly sur seinefr<sep>saint-gobain industries <sep>
+</APPLICANT>
+<INVENTOR>
+meunier georges<sep>meunier, georges<sep>meunier, georges"la teyssonnière" grande ruef-71150 fontaines par chagnyfr<sep>meunier, georges <sep>meunier, georges"la teyssonnière" grande ruef-71150 fontaines par chagnyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The subject of the invention relates to a device for distributing the solid particles of the type comprising a fixed particle supply member and, disposed at its lower part, a rotary particle distribution member, characterized in that the rotary memberdistribution comprises an axial gas supply duct 10 opening from a fluidization grid 20 disposed at the lower part of a central tray 16, at the upper device of which are connected, at the same level, of the radial distribution ducts.34.
+</ABSTRACT>
+</TEXT>
+</DOC>

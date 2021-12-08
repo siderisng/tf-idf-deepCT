@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002135
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C01B-33/02</main> C30B-15/00 C01B-33/00 C01B-33/037 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved refined metallurgical silicon and process for the production thereof.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kotval peshotan sohrab<sep>strock harold bunsen<sep>kotval, peshotan sohrab<sep>strock, harold bunsen<sep>kotval, peshotan sohrab8 verne placehartsdaleus<sep>strock, harold bunsen143 webber avenuenorth tarrytown new yorkus<sep>kotval, peshotan sohrab<sep>strock, harold bunsen<sep>kotval, peshotan sohrab8 verne placehartsdaleus<sep>strock, harold bunsen143 webber avenuenorth tarrytown new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+silicon platelets essentially free of iron are precipitated  from a solution of metallurgical grade silicon in molten  aluminium and are melted in contact with silica slag to produce  a refined metallurgical silicon (rms).  multigrained  boules of said rms may be pulled by the czochralski method  on a rotating silicon seed rod from a melt of said rms.   alternatively, the silicon-slag melt can be directionally solidified  to produce a directionally solidified refined metallurgical  silicon (ds/rms) separated from a region of solidified  melt having a high concentration of impurities rejected by  the silicon as it solidifies.  multigrained ds/rms boules may  be pulled from a melt of said ds/rms.  alternatively, the  ds/rms is remelted and directionally solidified a second  time with single crystal ds/rms boules being pulled from  a melt of the twice directionally solidified material.  the  thus-pulled multigrained rms and ds/rms and single  crystal ds/rms materials are low-cost products having a  substantially higher impurity content than in conventional  high purity semiconductor grade silicon while, at the same  time, having desirable solar cell properties.  
+</ABSTRACT>
+</TEXT>
+</DOC>

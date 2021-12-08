@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000544
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/28 C08K-5/51 C08L-27/00 C08L-69/00 C08L-33/02 C08L-33/00 C07F-9/08 C08L-23/00 C08L-67/00 C08L-1/00 C08L-101/00 C08L-51/02 C07F-9/00 C08K-5/5398 C08L-51/00 C08K-5/00 C08L-7/00 C08L-21/00 <main>C08K-5/51</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat stabilized thermoplastic resins containing compounds with phosphorus to phosphorus bonds.
+</TITLE>
+<APPLICANT>
+dow chemical cous<sep>the dow chemical company<sep>the dow chemical company2030 dow center abbott road p.o. box 1967midland michigan 48640-1967us<sep>the dow chemical company<sep>
+</APPLICANT>
+<INVENTOR>
+ham george edward<sep>mcclendon baggett joseph<sep>ham, george edward<sep>mcclendon baggett, joseph<sep>ham, george edward112, begonialake jackson county of brazoria texasus<sep>mcclendon baggett, josephroute 1freeport county of brazoria texasus<sep>ham, george edward<sep>mcclendon baggett, joseph<sep>ham, george edward112, begonialake jackson county of brazoria texasus<sep>mcclendon baggett, josephroute 1freeport county of brazoria texasus<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to thermoplastic resin compositions  containing an organo-phosphorus compound.  the  organo-phosphorus compound has one of the formulas   i.  (r₁) (r₂) p(=x)a - p(=x)a (r₁) (r₂)   ii.  (p - r₁)n   iii.  (r₁) (r₂) p (=x)a - p(r₃) - p(=x)a (r₁) (r₂)   wherein a is independently 0 or 1, n is 3 to 6, x is oxygen or  sulfur, r₁, r₂ and r₃ are independently dialkylamino, alkoxy,  aryloxy, alkyl, aryl, alkaryl, aralkyl, or r₁ and r₂ taken with the  phosphorus atom represent a cyclic structure having only  carbon, phasphorus and oxygen atoms in the cyclic structure.   the thermoplastic resin compositions of this invention  are resistant to discoloration.  
+</ABSTRACT>
+</TEXT>
+</DOC>

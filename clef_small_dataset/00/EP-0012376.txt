@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012376
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-31/00 C07C-27/02 C07D-307/08 C07C-29/00 C07C-29/80 C07C-29/09 C07C-67/00 C07C-29/128 <main>C07D-307/08</main> C07C-31/20 C07C-27/00 C07D-307/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing tetrahydrofuran and 1,4-butanediol.
+</TITLE>
+<APPLICANT>
+japan synthetic rubber co ltdjp<sep>japan synthetic rubber co., ltd.<sep>japan synthetic rubber co., ltd.11-24, tsukiji-2-chome chuo-kutokyo 104jp<sep>japan synthetic rubber co., ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+oka hiroshi<sep>yoshida yoshinori<sep>oka, hiroshi<sep>yoshida, yoshinori<sep>oka, hiroshi5-17, hamadayama-4-chome suginami-kutokyojp<sep>yoshida, yoshinori29, aobadai-2-chome midori-kuyokohamajp<sep>oka, hiroshi<sep>yoshida, yoshinori<sep>oka, hiroshi5-17, hamadayama-4-chome suginami-kutokyojp<sep>yoshida, yoshinori29, aobadai-2-chome midori-kuyokohamajp<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for producing simultaneously tetrahydrofu­ ran and 1,4-butanediol in any desired proportion which  comprises (a) reacting the acetic ester of 1,4-butanediol  with a theoretical or smaller quantity, based on said acetic  ester, of water (preferably 0. 2-0. 8 mole of water per mole of  said acetic ester) in the presence of an acidic catalyst, (b)  distilling, in the first distillation column, the reaction mix­ ture to separate it into a distillate comprising tetrahydrofu­ ran as major constituent and a bottom stream comprising as  major constituent the acetic ester of 1. 4-butanediol and (c)  subjecting, in the second reaction-distillation column, at  least a part of said bottom stream to a counter-current gas-­ liquid contact reaction with methanol, the quantity of said  methanol being preferably 1-5 moles per mole of the ace­ tate group of the acetic ester, in the presence of an acidic or  basic catalyst and, simultaneously therewith, separating the  reaction mixture into a bottom stream comprising 1,4-­ butanediol as major constituent and a distillate comprising  methyl acetate as major constituent.  by this process,  methanol and catalyst can be economized to a great extent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

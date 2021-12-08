@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012862
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-18/31 B32B-37/00 C23C-18/16 H05K-1/03 B32B-7/12 B32B-15/08 B29C-63/00 B32B-15/04 H05K-3/18 H05K-3/38 C23C-18/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the electroless plating of an insulating substrate
+</TITLE>
+<APPLICANT>
+ibm us <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+acitelli mario adamus<sep>woods james johnus<sep>acitelli, mario adam<sep>woods, james john<sep>acitelli, mario adam2913 holly laneendwell, new york 13760us<sep>woods, james johnsmith roadbinghamton, new york 13905us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for the electroless metallization of an insulating surface. In the process according to the invention, an adhesive layer is applied to a glass fiber fabric impregnated with a smooth epoxy resin impregnated laminate. The adhesive layer consisting essentially of an uncharted nitrile rubber / phenol art resin adhesive is first arranged on a transfer sheet. The surface of the adhesive layer is contacted with the insulating pad and cured by applying heat and pressure. After curing, the transfer sheet is peeled off and a metal layer is deposited on the synthetic resin adhesive layer in a known manner by electroless plating. Due to the common curing of the epoxy resin with which the base is impregnated and the synthetic resin adhesive, the adhesive layer is integrally connected to the base. Despite the low layer thickness of the adhesive layer, Werder's extremely high bond strengths are obtained.
+</ABSTRACT>
+</TEXT>
+</DOC>

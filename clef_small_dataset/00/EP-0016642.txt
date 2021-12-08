@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016642
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+D06P-1/44 C09B-67/38 D06P-1/46 D06P-1/673 C09B-67/04 C09B-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dye and dyebath compositions and process for dyeing.
+</TITLE>
+<APPLICANT>
+eastman kodak co us <sep>eastman kodak company (a new jersey corporation)<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>
+</APPLICANT>
+<INVENTOR>
+hedberg david george jrus<sep>hedberg, david george, jr.<sep>hedberg, david george, jr.p.o. box 511kingsport, tennesseeus<sep>
+</INVENTOR>
+<ABSTRACT>
+disperse azo and methine dye compositions such as  powders and paste containing 0. 25 to 4. 0 parts weight  sodium lignin sulphonate per part of dye are prepared  without loss of dye through chemical degradation or the like  during processing including grinding and contain 0. 10 to 5. 0  parts by weight of an ammonium compound e. g.  ammonium  sulphate.  dyebaths prepared therefrom produce dyeings of  exceptionally high colour yield on such fibres as polyester,  triacetate, acetate, polyamides, and blends thereof with  other natural and synthetic fibres.  
+</ABSTRACT>
+<DESCRIPTION>
+@@ d@@eath compositions @@@ pro@f@@ for d@ this invantion concerns dye and dyebat; compositions, and a process for exhaust dyeing syn- thetic fibre material many disperse dyes particularly azo and methine dyes, lose colour d@@@@@ manufacture; particu- larly during grinding, and also during the dyeing operation apparently throngh chemiea1 alteration of the dye molecule by reduction, hlydroltsts, or the like, caused by a variety and colflblnation of factors such as changes in ph of the dyebath, temperature changes, the particular types of additives employed e.g., dispersing, sequestering, anti-foaming, surfactant and levelling agents, as well as residual fibre processing chemicals including sizes, lubricants and the like. of particular significance in this regard are the various sodium-lignin (or ligno) sulfphonates which have found extensive use in dye preparation. we have now discovered that the addition of ammonium compounds, for example, ammonium sulphate to a dye/sodium lignin sulphonate system prior to or during the grinding operation imparts greatly improved dye stability and produces dyeings of high colour yield on such fibres as polyester, triacetate, acetate, and polyamides, and blends thereof with other natural and synthetic fibres under the aforesaid adverse conditions. the present invention, therefore, provides dye compositions and dyebath compositions which markedly diminishes the loss in color yield and dyeability caused by such factors as mentioned above. according to the present invention there is provided a dye composition comprising an azo or methine dye and from 0.25 to 4.0 parts by weight of sodium lignin sulphonate per part by weight of dye characterized in that it contains from 0.10 to 5 parts by weight ol an ammonium compound per part by weight of dye. the preferred ammonium compounds are one or more -f ammonium sulphate, chloride, acetate and hydroxide. the sodium lignin sulphonate (sls) is preferably present in concentrations of from 005 to 3.0 parts by weight of sls per part by weight of dye. the ammonium compound, e.g., (nh4)2so4 is preferably used in concentrations of from 1 to 3, especially of from ,2 . 2 to 0.5 parts by weight of ammonium compound per part by weight of dye the sls and ammonium compound are preferably added to the crude dye cake prior t· the grinding operation, and, if needed, additional ammonium compound b be added after grinding for dilution of either the dozed powder or aqueous paste to obtain the desired dye strength conventional additives and auxiliaries such as wetting agents, fungicides, antifoam agents and suspension aids such as hydroxyethylcellulose may also be employed to perform their usual functions in the compositions as desired, it is noted that other types of dyes such as anthraquinones can be admixed with the azo or methine dyes without detracting from the performance of the present invention. the sodium lignin sulphonate (sls) usually employed in dye compositions is derived from wood pulping processes the degree of sulphonation of the lignin may vary for example from 0.1 to 10.0 gram moles of sulphur per 1000 grams of lignin, preferably from 0.5 to 5.0. the sulphonated
+</DESCRIPTION>
+<CLAIMS>
+claims   1.   a    dye composition comprising an azo or methine dye and from 0.25 to   4o    parts by weight of sodium lignin sulphonate per part by weight of dye characterized in that it contains from   0.10    to 5 parts by weight of an ammonium compound per part by weight of dye.   2. the composition of claim 1 wherein the ammonium compound is one or more of ammonium sulphate, ammonium chloride, ammonium acetate and ammonium hydroxide.   3. the composition of claim 1 or 2 in which the concentration of total ammonium compound is from 0.1 to 3.0 parts by weight per part by weight of dye.   4. the composition of any of claims 1-3 wherein the dye is one or more of: emi9.1         emi10.1           the    composition of any of claims 1-4 wherein the sodium lignin sulphonate comprises in percents by weight, sodium from 8 to 16, calcium below 1.0, -och3 from 1 to 10, and sulphur from 1 to 10.   6. the composition of claim 5 wherein the sodium lignin sulphonate comprises in percents by weight,   sodi    from 10 to 14, calcium below 0.7, -och3 from 3 to 7 and sulphur from 3 to 7.    7. a dyebath for the dyeing of synthetic fibre material and such material blended with natural fibre material comprising an aqueous bath containing the dye composition of any of claims 1-6 in an amount such that the dye is present in a concentration of from 0.01 to 10.0% on the weight of fibre to be dyed.   8. a process for exhaust dyeing synthetic fibre material and such material blended with natural fibre material which comprises entering the fibre material into a dyebath at a dyebath ratio of from 5:1 to 100:1 on the weight of fibre, the dyebath containing a dye   compcsition    of any of claims 1-6 at a concentration of from   o.o1    to   lo.o%o    on the weight of fibre to be dyed.  
+</CLAIMS>
+</TEXT>
+</DOC>

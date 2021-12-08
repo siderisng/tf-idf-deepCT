@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0015920
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-13/00 H01P-3/12 <main>G01R-27/04</main> B07C-5/344 G07C-3/14 G07C-3/00 G01N-22/00 B07C-5/34 G01S-13/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and system for detection of microwave reflective matter.
+</TITLE>
+<APPLICANT>
+philip morris inc us  <sep>philip morris incorporated<sep>philip morris incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+lilly a clifton jr<sep>martin peter<sep>price john s<sep>watson francis m iii<sep>lilly, a., clifton, jr.<sep>martin, peter<sep>price, john, s.<sep>watson, francis, m. iii<sep>lilly, a., clifton, jr.<sep>martin, peter<sep>price, john, s. <sep>watson, francis, m. iii<sep>lilly, a., clifton, jr. 4733 hopkins road richmond, va 23234 us <sep>martin, peter1323 castleton roadrichmond, va 23225us<sep>price, john, s.10 old lock lanenew kent, virginia 23124us<sep>watson, francis, m. iii5707 wythe avenuerichmond, va 23226us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

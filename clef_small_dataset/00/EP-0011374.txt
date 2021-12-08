@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011374
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-9/30 G06F-15/78 G06F-9/38 G06F-15/76 <main>G06F-15/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+execution unit for data processor using segmented bus structure.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.<sep>motorola, inc.vincent j. rauner 4350 e. camelback road suite 200fphoenix, arizona 85018us <sep>motorola, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+gunter thomas glen<sep>mc alister doyle vernon  <sep>tredennick harry leslie<sep>gunter, thomas glen<sep>mc alister, doyle vernon<sep>tredennick, harry leslie<sep>gunter, thomas glen4505 mountain pathaustin texas 78759us<sep>mc alister, doyle vernon15607 hebbe lanepflugerville texas 78660us<sep>tredennick, harry leslie4508 pack saddleaustin texas 78745us<sep>gunter, thomas glen<sep>mc alister, doyle vernon  <sep>tredennick, harry leslie <sep>gunter, thomas glen4505 mountain pathaustin texas 78759us<sep>mc alister, doyle vernon15607 hebbe lanepflugerville texas 78660us<sep>tredennick, harry leslie4508 pack saddleaustin texas 78745us<sep>
+</INVENTOR>
+<ABSTRACT>
+a data processor having a novel execution unit (16) is  disclosed which employs a segmented bus structure (10, 20,  32; 12, 22, 34) and a dual port register cell (138) in order to  increase circuit density and in order to allow address and data  computations to occur simultaneously.  the disclosed circuit  is designed to interface with an external 16-bit bidirectional  data bus and an external address bus having as many as 32  address bits.  
+</ABSTRACT>
+</TEXT>
+</DOC>

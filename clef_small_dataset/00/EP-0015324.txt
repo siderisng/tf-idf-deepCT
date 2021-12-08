@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015324
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-9/02 H05B-6/68 <main>H05B-6/68</main> A61N-5/06 H01H-47/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+domestic appliance comprising a protected programming device.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken  <sep>
+</APPLICANT>
+<INVENTOR>
+van der meulen andries<sep>van der meulen, andries<sep>van der meulen, andriesc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>van der meulen, andries<sep>van der meulen, andriesc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a domestic appliance comprises a programming de­ vice for receiving on-time information and for updating,  by way of repetitious signals, the ontime yet to be com­ pleted.  furthermore, these repetitious signals continuously  activate an activation signal which, however, is indepen­ dently terminated if the repetitious signals do not appear.   when the activation signal is present, first and second  switching components are activated, so that a discharge  tube can emit ultraviolet radiation.  furthermore, there is  provided a detection element which detects whether the  first and second switching components are indeed deacti­ vated outside the on-time.  if one of the two switching com­ ponents remains active also outside the on-time, the  detection element supplies a signal to prevent the starting  of a next on-time.  
+</ABSTRACT>
+</TEXT>
+</DOC>

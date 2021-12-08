@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011528
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61L-27/48 A61L-27/00 A61B-17/00 A61L-17/00 A61L-31/04 <main>A61B-17/58</main> A61B-17/68 A61L-31/12 A61L-31/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+osteosynthesis elements and their preparation.
+</TITLE>
+<APPLICANT>
+anvarfr <sep>inst nat sante rech medfr  <sep>anvar agence nationale de valorisation de la recherche<sep>institut national de la sante et de la recherche medicale (inserm)<sep>centre national de la recherche scientifique (cnrs)15, quai anatole france75700 paris cedex 07fr<sep>centre national de la recherche scientifique (c.n.r.s.)<sep>
+</APPLICANT>
+<INVENTOR>
+chabot francois<sep>christel pascal<sep>leray jean<sep>vert michel<sep>chabot, francois<sep>christel, pascal<sep>leray, jean<sep>vert, michel<sep>chabot, françois3, rue du framboisierf-76000 rouenfr<sep>christel, pascal7, rue des cloysf-75018 parisfr<sep>leray, jean55, rue des fontenellesf-92310 sèvresfr<sep>vert, michel19, rue de bargteheidef-76250 deville-lès-rouenfr<sep>chabot, francois<sep>christel, pascal <sep>leray, jean<sep>vert, michel  <sep>chabot, françois3, rue du framboisierf-76000 rouenfr<sep>christel, pascal7, rue des cloysf-75018 parisfr<sep>leray, jean55, rue des fontenellesf-92310 sèvresfr<sep>vert, michel19, rue de bargteheidef-76250 deville-lès-rouenfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Osteosynthesis pieces, having the form of a solid tridi, based on a resorbable biocompatible polymer.They come in the form of composite parts constituted by a lactic poly-acid matrix or a copolymer thereof, said matrix containing reinforcing elements, embedded in the matrix, based on polyglycoli acid than or ofA copolymer thereof, and possibly containing a load capable of stimulating poly mother's resorption for the benefit of a neoformed tissue.Application to the repair and consolidation of fracture bone.
+</ABSTRACT>
+</TEXT>
+</DOC>

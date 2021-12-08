@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002320
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-503/00 <main>C07D-498/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of clavulanic acid derivatives and compounds used as intermediates therein.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb<sep>beecham group limited<sep>beecham group plcbeecham house, great west road brentford, middlesex tw8 9bd gb <sep>beecham group limited <sep>
+</APPLICANT>
+<INVENTOR>
+harbridge john barry<sep>stirling irene<sep>harbridge, john barry<sep>stirling, irene<sep>harbridge, john barry109 st.andrews roadcoulsdon surreygb<sep>stirling, irene80 woodcrest walkreigate surreygb<sep>harbridge, john barry <sep>stirling, irene  <sep>harbridge, john barry109 st.andrews roadcoulsdon surreygb<sep>stirling, irene80 woodcrest walkreigate surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process is described for the preparation of a compound  of the formula (i):    wherein r¹ is a group such that co₂r¹ is an ester group;  which process comprises the base catalysed elimination of  carbon dioxide and a compound of the formula (ii):  h₂n. cor² (ii)   wherein r² is an inert moiety, from a compound of the  formula (iii):    wherein r¹ is as defined in relation to formula (i) and r² is as  defined as in relation to formula (ii).  the compounds of the formula (iii) and their preparation  also form part of the invention.  
+</ABSTRACT>
+</TEXT>
+</DOC>

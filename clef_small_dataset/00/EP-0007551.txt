@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007551
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-50/54 H01H-1/20 <main>H01H-1/20</main> H01H-1/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+contact bridge assembly.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+bauer johann<sep>bauer, johann<sep>bauer, johannheideweg 32d-8451 ebermannstadtde<sep>bauer, johann<sep>bauer, johannheideweg 32d-8451 ebermannstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a contact bridge en arrangement, which is particularly useful in electromagnetic switching devices.The contact bridge is made of fixed switching pieces (11,12) and with these contact bridge (5) brought in the work connection (5) which in a window (3,4) of a contact bridge carrier (2) in rich device on the fixed switching pieces (11,12) spring force loaded slidably guidedwherein the spring support is drawn from a stop (3) of a stop (9) in the window (3) of the contact bridge carrier (2) in the window (3) of the contact bridge carrier (2), which is made between a spring plate (8) and theStop (9) in the fen (3) of the contact bridge carrier (2) is inserted from the outside of the contact bridge arrangement transverse to the spring load direction.
+</ABSTRACT>
+</TEXT>
+</DOC>

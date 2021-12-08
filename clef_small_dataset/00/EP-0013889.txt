@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013889
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+D01F-1/00 <main>D01D-1/02</main> D01D-1/02 D01F-6/18 D01D-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+continuous process for the manufacture of filaments or fibres from synthetic polymers of low solubility.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+burghartz hans-karl <sep>dross joachim <sep>herbertz toni<sep>jungverdorben hermann-josef<sep>reinehr ulrich dr<sep>burghartz, hans-karl<sep>dross, joachim<sep>herbertz, toni<sep>jungverdorben, hermann-josef<sep>reinehr, ulrich, dr.<sep>burghartz, hans-karlcyriakusstrasse 88ad-4040 neussde<sep>dross, joachimam rath 48d-4047 dormagen 2de<sep>herbertz, tonihauptstrasse 79d-4047 dormagen 1de<sep>jungverdorben, hermann-josefhuelchrather strasse 24d-4048 grevenbroich 13de<sep>reinehr, ulrich, dr.roentgenstrasse 29d-4047 dormagende<sep>burghartz, hans-karl<sep>dross, joachim<sep>herbertz, toni <sep>jungverdorben, hermann-josef<sep>reinehr, ulrich, dr.  <sep>burghartz, hans-karl cyriakusstrasse 88ad-4040 neussde<sep>dross, joachimam rath 48d-4047 dormagen 2de<sep>herbertz, tonihauptstrasse 79d-4047 dormagen 1de<sep>jungverdorben, hermann-josefhuelchrather strasse 24d-4048 grevenbroich 13de<sep>reinehr, ulrich, dr.roentgenstrasse 29d-4047 dormagende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for continuously preparing synthetic, non-discolored threads or fibers of organic polar solvents, in particular acrylonitrile homopolymers, in particular acrylonitrile homopolymers, by manufacturing a suspension of polymer and solvent at room temperature and then heating this suspension, wherein the suspensionHeated at least 130 ° C for at least 3 minutes, the resulting clear spinning solution filtered without intermediate cooling, homo genetized and immediately spun to threads.
+</ABSTRACT>
+</TEXT>
+</DOC>

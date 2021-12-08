@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002418
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-23/00 <main>C08L-23/02</main> C08J-3/24 C08K-5/375 C08K-5/36 C08K-5/00 C08L-101/00 B29B-7/00 C08L-7/00 C08L-21/00 B29C-47/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of extrusion products from compositions based on polyolefins.
+</TITLE>
+<APPLICANT>
+telecommunications safr<sep>societe anonyme de telecommunications <sep>societe anonyme de telecommunications (s.a.t.)40 avenue de new yorkf-75116 paris fr  <sep>societe anonyme de telecommunications <sep>
+</APPLICANT>
+<INVENTOR>
+arnaud claude jean<sep>quemner jean maurice<sep>roche gaston pierre<sep>arnaud, claude jean<sep>quemner, jean maurice<sep>roche, gaston pierre<sep>arnaud, claude jean32bis route d'amezatf-63200 riomfr<sep>quemner, jean maurice1 rue jean maupoimpf-63000 clermont-ferrandfr<sep>roche, gaston pierre36 route de marsatf-63200 riomfr<sep>arnaud, claude jean <sep>quemner, jean maurice  <sep>roche, gaston pierre<sep>arnaud, claude jean32bis route d'amezatf-63200 riomfr<sep>quemner, jean maurice1 rue jean maupoimpf-63000 clermont-ferrandfr<sep>roche, gaston pierre36 route de marsatf-63200 riomfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for manufacturing extruded products based on cross-linked polyolefinic compositions, of the type in which there are introduced directly at the inlet of the extrusion machine, at the same time as the composition to be cross-linked, a liquid organic peroxide, which is volatile and inflammable at atmospheric pressure, as cross-linking agent, and an anti-oxidant as protecting agent, characterized in that the anti-oxidant is a compound of structural formula :  see diagramm : ep0002418,p5,f1
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012796
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/40 G11C-8/00 <main>G11C-8/00</main> H03K-3/286 G11C-11/414 G11C-11/415 G11C-11/41 G11C-8/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+memory device with simultaneous write and read addressed memory cells.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+gersbach john edwin<sep>gersbach, john edwin<sep>gersbach, john edwin500 south willard st.burlington, vt 05401us<sep>gersbach, john edwin<sep>gersbach, john edwin500 south willard st.burlington, vt 05401us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a memory assembly with cross-linked, in rows (10, 11, 12) and columns (13, 14) arranged memory cells (21 to 26), with which the rapid direct transmission of data from a memory cell of the memory device according to another memory cell of the Memory arrangement is possible while the data is read at the same time. Each memory cell has a pair of transistors (50, 51) and is coupled between a pair of bit reading lines (39, 40). Each column of memory cells is associated with another pair of bit reading lines (39, 40; 39a, 40a). Each memory reading is also equipped with a pair of writing transistors (56, 57) and coupled between a pair of bit write pipes (67, 68). Another pair of bit write pipes (67a, 68a) is associated with each column of the cells, parallel to the bit reading lines (39, 40). Read and writing decoders (30, 27) are coupled to the rows of the memory cells which are located orthogonal to the columns of the memory teles. Turning means (41, 42, 37, 38) are provided which couple the data read out just from a memory cell via a bit reading line according to the write papers of another memory cell in the memory arrangement, so that immediately the information read out from the first memory cell In a row of memory cells after a second memory cell in a different line of memory cells, while the information thus transmitted is read out.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011890
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G03B-27/46</main> G03C-8/42 G03B-27/32 G03B-27/46 G03C-8/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+daylight reprographic camera.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa-gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortselbe<sep>agfa-gevaert naamloze vennootschap <sep>
+</APPLICANT>
+<INVENTOR>
+deconinck hugo frans<sep>stievenart emile frans<sep>deconinck, hugo frans<sep>stievenart, emile frans<sep>deconinck, hugo fransaugust petenlei 61b-2100 deurnebe<sep>stievenart, emile fransnachtegaallaan 6 bus 57b-2710 hobokenbe<sep>deconinck, hugo frans <sep>stievenart, emile frans<sep>deconinck, hugo fransaugust petenlei 61b-2100 deurnebe<sep>stievenart, emile fransnachtegaallaan 6 bus 57b-2710 hobokenbe<sep>
+</INVENTOR>
+<ABSTRACT>
+a reprographic camera is adapted for being used in day­ light conditions by the provision of a positioning mechanism  (20) which automatically positions a photosensitive material  in the middle of the glass screen (31) prior to exposure.  the  photosensitive material is supplied from a roll (16) located in a  light-tight dispensing station (17).  the positioning mechan­ ism (20) comprises a knife (29), sheet transport rollers (30) and  a timer (25), the latter controlling number of revolutions of the  transport rollers (22, 23 and 30) necessary to dispense and  position a length of photosensitive material corresponding  with a predetermined size.  
+</ABSTRACT>
+</TEXT>
+</DOC>

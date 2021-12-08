@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005093
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04J-1/00 <main>H04B-9/00</main> G02F-1/225 G02F-1/05 G02B-6/12 G02F-1/01 G02F-1/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical demultiplexing integrated circuit and process for the manufacture of this circuit.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>"thomson-csf" <sep>
+</APPLICANT>
+<INVENTOR>
+papuchon michel<sep>puech claude<sep>papuchon, michel<sep>puech, claude<sep>papuchon, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>puech, claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>papuchon, michel<sep>puech, claude  <sep>papuchon, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>puech, claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an integrated optical circuit for separating several optical waves of different wavelengths.The circuit comprises at least one base cell consisting of elements integrated on the same plate: a directional coupler set to divide between two output branches (2 and 3) the incident energy into a branch (1) of the coupler, each of the coupler.Output branches comprising a phase shifter, an engraved network (10 or 11) reflector for an optical wave wave determined, possibly a second phase shiver and a branching together with the two guides.The phase shifters are set for reflected waves by the networks to be a phase opposition at the entrance of the coupler and recombine in the fourth branch (4) of the coupler and so that the non-reflected waves by the networks are in phase in the'branch.Application, including optical telecommunications.
+</ABSTRACT>
+</TEXT>
+</DOC>

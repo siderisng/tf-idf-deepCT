@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002314
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-37/00 C07C-37/78 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+separation of phenol.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb <sep>
+</APPLICANT>
+<INVENTOR>
+featherstone william gb  <sep>hobson geoffrey keithgb<sep>featherstone, william<sep>hobson, geoffrey keith<sep>featherstone, william18 gypsy lanenunthorpe middlesbrough clevelandgb<sep>hobson, geoffrey keith28 enfield chasehunters hill guisborough clevelandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+phenol is separated from mixtures comprising phenol  and cumene and/or α-methylstyrene by distillation in the  presence of water in a column to which cumene and/or  α-methylstyrene and water are fed as reflux in quantities  sufficient to produce two liquid phases in the upper part of  the column.  
+</ABSTRACT>
+</TEXT>
+</DOC>

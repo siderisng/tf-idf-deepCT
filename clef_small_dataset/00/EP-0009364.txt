@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009364
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+E21B-43/013 <main>E21B-33/035</main> E21B-34/00 F15B-11/00 E21B-33/03 E21B-43/00 E21B-33/035 E21B-34/16 F15B-11/16 G05D-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for remote hydraulic control of a subsea well device.
+</TITLE>
+<APPLICANT>
+fmc corpus<sep>fmc corporation<sep>fmc corporation200 east randolph drivechicago illinois 60601us<sep>fmc corporation<sep>
+</APPLICANT>
+<INVENTOR>
+milberger lionel john<sep>milberger, lionel john<sep>milberger, lionel john19402 enchanted oaksspring texasus<sep>milberger, lionel john<sep>milberger, lionel john19402 enchanted oaksspring texasus<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for the remote individual control of a plural­ ity of hydraulically-actuated operators comprises first and  second signal pressure lines (a, b) connected from a  pressure source (37) to supply selected pressure signals  to a plurality of and-gates (g1-g25) each having its out­ put connected to a separate operator, and a pair of matrices  (v1-v5, v6-v10) of series-connected valvepairs connected  between the respective signal pressure lines and the re­ spective inputs of the and-gates to select the appropriate  pressure signals, for the applicator to be energised and  apply them to the two inputs of the and-gates associated  with that applicator, each and-gate, when opened by said  signals connecting the associated applicator to a source of  pressure.  
+</ABSTRACT>
+</TEXT>
+</DOC>

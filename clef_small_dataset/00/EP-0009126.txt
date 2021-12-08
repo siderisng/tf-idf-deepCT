@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009126
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-65/28 D06P-1/44 C07C-43/00 C08G-65/00 C07C-43/23 C07C-67/00 D06P-1/613 <main>C07C-43/23</main> B01F-17/42 C07C-41/00 C08G-65/26 B01F-17/00 C07C-43/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1,3-bisaryl ethers of glycerol and their application.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf agde<sep>basf aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+krapf heinz dr dipl-chem<sep>oppenlaender knut dr dipl-chem<sep>uhl guenter<sep>krapf, heinz, dr. dipl.-chem.<sep>oppenlaender, knut, dr. dipl.-chem.<sep>uhl, guenter<sep>krapf, heinz, dr. dipl.-chem.in der schleitd-6718 grünstadtde<sep>oppenlaender, knut, dr. dipl.-chem.otto-dill-strasse 23d-6700 ludwigshafende<sep>uhl, guenterpfrimmanlage 55d-6520 wormsde<sep>krapf, heinz, dr. dipl.-chem.<sep>oppenlaender, knut, dr. dipl.-chem.<sep>uhl, guenter<sep>krapf, heinz, dr. dipl.-chem.in der schleitd-6718 grünstadtde<sep>oppenlaender, knut, dr. dipl.-chem.otto-dill-strasse 23d-6700 ludwigshafende<sep>uhl, guenterpfrimmanlage 55d-6520 wormsde<sep>
+</INVENTOR>
+<ABSTRACT>
+Alkoxylated 1,3-bislyl glycerol ether of the formula in the R, R¹ aromatic substituents, R² -CH₃, -C₂H₅, R³ -H, -CH₃, n = 0 to 10 and m = 8 to 50, mean.The bonds of the formula I are used as an emulsifier, preferably as an emulsifier in the manufacture of pressure paste.
+</ABSTRACT>
+</TEXT>
+</DOC>

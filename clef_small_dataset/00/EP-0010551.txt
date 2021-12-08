@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010551
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25B-15/06 F25B-15/02 F25B-27/00 <main>F24J-3/04</main> F25B-15/00 F25B-29/00 F25B-30/00 F25B-30/04 F24D-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+absorption heat pump system.
+</TITLE>
+<APPLICANT>
+sulzer agch<sep>gebruder sulzer aktiengesellschaft<sep>gebrüder sulzer aktiengesellschaftzürcherstrasse 9ch-8401 winterthurch<sep>gebruder sulzer aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+luthi johannes dr sc tech<sep>ziegler georg dipl-ing<sep>luthi, johannes, dr.sc.tech.<sep>ziegler, georg, dipl.-ing.<sep>lüthi, johannes, dr.sc.tech.sonnhaldenstrasse 12ch-8413 neftenbachch<sep>ziegler, georg, dipl.-ing.johannesstrasse 30ch-8404 winterthurch<sep>luthi, johannes, dr.sc.tech.<sep>ziegler, georg, dipl.-ing.<sep>lüthi, johannes, dr.sc.tech.sonnhaldenstrasse 12ch-8413 neftenbachch<sep>ziegler, georg, dipl.-ing.johannesstrasse 30ch-8404 winterthurch<sep>
+</INVENTOR>
+<ABSTRACT>
+The absorption heat pump system works with water as a working tool;It is equipped with an energy storage (2) acting as a direct steamer, which is operated as an ice storage by choosing a suitable hygroscopic absorbent at the triple point of the water (6.1 mbar / 0 ° C).As coolant in the absorber (8) and capacitor (18) serves water of space heat and / or a hot water heating.Also, air can be used as a coolant for the absorber (80) and condensa tor (81).As a low temperature heat source, u. a.Preferably, the outside air used.The system can also be used to cool a building.
+</ABSTRACT>
+</TEXT>
+</DOC>

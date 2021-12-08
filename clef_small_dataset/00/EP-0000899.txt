@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000899
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-21/00 C10G-11/00 F02M-33/00 F02M-27/02 C10G-11/22 F02M-27/00 F02D-21/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control method for the operation of a cracked gas generator and an internal-combustion engine.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+paul bernt drde<sep>paul, bernt, dr.<sep>paul, bernt, dr.friedrich-bauer-strasse 3/xd-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+Fuel, gasification air (primary air) and optionally a bonded oxygen-containing gas (exhaust gas) are converted into a fuel gas generator to a fuel gas and the fuel gas with engine air (secondary air) is burned in an internal combustion engine. The method consists of two steps: from measured values ​​for the accelerator pedal position, the speed and the reactor temperature are dimensionless setpoints for the fuel supply (B), the air numbers (Lambda₁₂, lambda₂₃) of the reaction and optionally a primary air content (Ba) to be replaced by exhaust gas, calculates, wherein the map of the internal combustion engine is taken into account. In the second step, setpoint values ​​for the volume flows of primary air (LV), secondary air (LM) and returning exhaust gas (AR) are formed from these dimensionless setpoint values ​​for the volume flows. The volume flows are set to these setpoints. In an increase in fuel supply, the ratio LV / LM is briefly increased according to the temporal change B for a short time compared to the stationary state with the increased fuel supply.
+</ABSTRACT>
+</TEXT>
+</DOC>

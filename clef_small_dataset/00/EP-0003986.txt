@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003986
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08F-212/12</main> C08F-212/12 C08F-4/00 C08F-4/04 C08F-212/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the continuous preparation of copolymers of alpha methyl styrene and acrylonitrile in one reaction zone.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+echte adolf dr <sep>gausepohl hermann dr<sep>reffert rudi wilhelm  <sep>wild hans dr<sep>echte, adolf, dr.<sep>gausepohl, hermann, dr.<sep>reffert, rudi wilhelm<sep>wild, hans, dr.<sep>echte, adolf, dr.leuschnerstrasse 42d-6700 ludwigshafende<sep>gausepohl, hermann, dr.neuweg 10d-6704 mutterstadtde<sep>reffert, rudi wilhelmberliner strasse 18d-6711 beindersheimde<sep>wild, hans, dr.hildenbrandstrasse 1d-6710 frankenthalde<sep>echte, adolf, dr.<sep>gausepohl, hermann, dr.<sep>reffert, rudi wilhelm<sep>wild, hans, dr. <sep>echte, adolf, dr. leuschnerstrasse 42 d-6700 ludwigshafende<sep>gausepohl, hermann, dr.neuweg 10d-6704 mutterstadtde<sep>reffert, rudi wilhelmberliner strasse 18d-6711 beindersheimde<sep>wild, hans, dr.hildenbrandstrasse 1d-6710 frankenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the continuous preparation of copolymers containing monovinyl-aromatics and acrylonitrile as the essential monomers, by reacting the mixture of the monomers in solution, at of a monomer-soluble initiator which contains azo groups and decomposes into free radicals, wherein alpha-methylstyrene, as the monovinyl-aromatic, is reacted with the initiator under such conditions that the half-life of the decomposition of the initiator into free radicals is < 30 minutes, and the copolymers contain from 65 to 77 % by weight of alpha-methylstyrene units and from 35 to 23 % by weight of acrylonitrile units, the polymerization being carried out up to a conversion of 50 to 60 %. 
+</ABSTRACT>
+</TEXT>
+</DOC>

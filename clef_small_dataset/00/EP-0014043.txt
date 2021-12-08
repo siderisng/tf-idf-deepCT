@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014043
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-41/26 H01L-41/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+piezo-electric film manufacture and transducer.
+</TITLE>
+<APPLICANT>
+int standard electric corp us<sep>international standard electric corporation<sep>international standard electric corporation320 park avenuenew york new york 10022us<sep>
+</APPLICANT>
+<INVENTOR>
+tester norman williamgb<sep>tester, norman william<sep>tester, norman william25 sakins croftharlow, essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for making piezo-electric polyvinylidene  fluoride (pvdf) film for use, for example, as diaphragms  for telephone transmitters, includes the steps of   (a) stretching the melt-extruded film (1) parallel to the  extrusion direction with a stretch ratio of about 4 to 1 at  about 120°c to convert it to α β crystalline form,   (b) clamping the film between conductive rubber pads  (5, 6) to which the polarizing voltage, e. g.  1. 3 kv for 12 µm  film is applied.  while the voltage is thus applied the film is  heated to about 110°c for 130 mins.  and cooled to am­ bient with the polarizing field preset,   (c) conductive elastomer electrodes are applied to  the film in the desired pattern, and   (d) the piezc-electric properties are stabilized by heat­ ing the foil to about 90°c for 2 hours.  such a film, or an electret film is usable as the dia­ phragm of an electro-acoustic or electro-mechanical trans­ ducer in which case the conductive elastomer used for the  electrodes is an insulating material loaded with particles of  an electrically conductive material such as carbon.  this  gives an electrode which is cheap, easy to apply, and  provides a good contact.  
+</ABSTRACT>
+</TEXT>
+</DOC>

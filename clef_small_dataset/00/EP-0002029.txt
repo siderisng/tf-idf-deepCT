@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002029
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16T-1/00 F16T-1/14 B60T-17/00 F16L-55/07 <main>F16T-1/14</main> B60T-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+drain valve for installations supplying compressed air.
+</TITLE>
+<APPLICANT>
+knorr bremse gmbhde <sep>knorr-bremse gmbh <sep>knorr-bremse ag postfach 40 10 6080710 münchende<sep>knorr-bremse gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+huber erich<sep>pollinger hans<sep>stieninger klaus<sep>huber, erich<sep>pollinger, hans<sep>stieninger, klaus<sep>huber, erichc/o industria freios knorr ltda. caixa postal 7679sao paulo/capitalbr<sep>pöllinger, hansrainfarnstrasse 65d-8000 münchen 45de<sep>stieninger, klausfürstenackerstrasse 38d-8000 münchen 71de<sep>huber, erich  <sep>pollinger, hans<sep>stieninger, klaus<sep>huber, erichc/o industria freios knorr ltda. caixa postal 7679sao paulo/capitalbr<sep>pöllinger, hansrainfarnstrasse 65d-8000 münchen 45de<sep>stieninger, klausfürstenackerstrasse 38d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  drainage valve for compressed air supply units, more especially of compressed air brakes of vehicles, comprising a housing which includes a water-collecting chamber and an actuating device, the actuating device including a control piston to which compressed air impulses can be admitted against spring force, which piston, in a first switching position corresponding to absence of a compressed air impulse, holds open a first shut-off device arranged between an inlet opening and the water-collecting chamber and near the condensate inlet into the housing, and also holds closed a second shut-off device arranged near the condensate outlet and constructed as a slide valve, and in a second switching position corresponding to the presence of a compressed air impulse, holds the first and the second shut-off devices in changed-over positions, characterised in that the slide valve is constructed as a flat slide valve (17) comprising an opening (20), the valve surface (18) including the mouth of the opening (20) having resiliently pressed thereon one end face of an annular packing member (21) held in the housing axially and perpendicular to the valve surface (18), that the internal space or chamber (22) of the packing member (21) is in permanent communication with the water-collecting chamber (4) and the opening (20) is in permanent communication with the atmosphere, and that the end face of the packing member (21), in the first switching position, bears on a closed area of the valve surface (18) and, in the second switching position, surrounds the opening (20). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0016135
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07F-5/20 G07F-5/22 G06K-17/00 G07F-11/62 G07F-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vendor control circuit.
+</TITLE>
+<APPLICANT>
+umc indus<sep>umc industries, inc.<sep>umc industries, inc.high ridge parkstamford, ct 06904us<sep>
+</APPLICANT>
+<INVENTOR>
+albrecht paul nus <sep>canizares hugo mus <sep>schuller james t us<sep>albrecht, paul, n.<sep>canizares, hugo, m.<sep>schuller, james, t.<sep>albrecht, paul, n.312 sunrise boulevardballwin, mo 63011us<sep>canizares, hugo, m.12823 strathearnst. louis, mo 63141us<sep>schuller, james, t.12704 partridge runst. louis county, mo 63033us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

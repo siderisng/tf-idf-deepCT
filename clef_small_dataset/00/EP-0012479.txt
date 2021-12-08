@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012479
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/133 G09G-3/18 <main>G02F-1/133</main> G02F-1/13 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+display device having a liquid crystal.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+hodemaekers andreas marie laur<sep>hodemaekers, andreas marie laurentius<sep>hodemaekers, andreas marie laurentiusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>hodemaekers, andreas marie laurentius  <sep>hodemaekers, andreas marie laurentiusc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+the liquid crystal display device (3) is provided with a  measuring element (10) for controlling the drive voltages  depending on the temperature of the liquid crystal.  the  effect of manufacturing tolerances and ageing phenomena  are compensated for by means of an auxiliary measuring  element (11).  the electric voltages across the measuring  element (10) and the auxiliary measuring element (11)  differing from one another, for the adjustment of mutually  different operating points on the capacitance-voltage curve  (1; 2).  
+</ABSTRACT>
+</TEXT>
+</DOC>

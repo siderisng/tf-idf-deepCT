@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008006
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-5/10 <main>F21V-7/06</main> F21V-7/00 F21V-7/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+indoor lighting fixture.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+fritz heinz-dieter<sep>pusch reiner dr<sep>fritz, heinz-dieter<sep>pusch, reiner, dr.<sep>fritz, heinz-dieterschillerstrasse 23d-8221 traunwalchende<sep>pusch, reiner, dr.im forst 1d-8225 traunreutde<sep>fritz, heinz-dieter <sep>pusch, reiner, dr.<sep>fritz, heinz-dieterschillerstrasse 23d-8221 traunwalchende<sep>pusch, reiner, dr.im forst 1d-8225 traunreutde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an interior light-fitting comprising a symmetrical, wide-angle channel reflector for, a fluorescent lamp arranged in the plane of symmetry of the channel reflector, comprising two parabolic side reflectors whose respective main radiation paths cross the plane of symmetry, two top reflectors whose respective main radiation paths each lie on that side of the plane of symmetry that the respective top reflector lies, the outer edges of the top reflectors and the upper edges of the side reflectors lie above the lower horizontal plane of tangency to the fluorescent lamp, characterized in that the main axis (h1, h1') of each side reflector (1, 1') forms an angle beta with the vertical (e) having a value of between 30 degrees and 45 degrees, in particular of 40 degrees, the focal length of the side reflectors (1, 1') being given by the quotient of half the diameter (d) of the fluorescent lamp (3) and the sine of the scattering angle (alpha=, which lies between 7 degrees and 18 degrees, the top reflectors (2, 2') each having the shape of a parabola whose main axis forms an angle with respect to the vertical (e) having a value of between 25 degrees and 45 degrees, in particular of 30 degrees, the outer edge (21, 21') of each top reflector (2, 2') lying on a path from the centre of the fluorescent lamp (3) to a respective upper edge (11, 11') of the adjacent side reflector, by which it is reflected past the lamp, the focal length (s2, s2') of the parabola of the top reflectors (2, 2') being selected such that at least 80 % of the beams from the centre of the fluorescent lamp (3) and are reflected past the lamp by a side reflector (2, 2') emerge from the interior light-fitting without further reflection, and the focal points (f1, f2) of the parabolas of the top and side reflectors (1, 1' ; 2, 2') all coinciding at the centre (m) of the fluorescent lamp (3). 
+</ABSTRACT>
+</TEXT>
+</DOC>

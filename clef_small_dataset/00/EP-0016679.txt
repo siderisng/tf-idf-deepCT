@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016679
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/039 C08F-220/22 <main>G03C-1/72</main> G03F-7/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photomasking substances, process for preparing them and mask obtained.
+</TITLE>
+<APPLICANT>
+thomson csf fr  <sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+couttet andre<sep>datamanti evelyne<sep>dubois jean-claude<sep>eranian armand<sep>couttet, andre<sep>datamanti, evelyne<sep>dubois, jean-claude<sep>eranian, armand<sep>couttet, andré"thomson csf" scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>datamanti, evelyne"thomson-csf" scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>dubois, jean-claude"thomson-csf"scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>eranian, armand"thomson-csf" scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>couttet, andre<sep>datamanti, evelyne<sep>dubois, jean-claude<sep>eranian, armand <sep>couttet, andré "thomson csf" scpi-173, bld haussmann f-75360 paris cedex 08fr<sep>datamanti, evelyne"thomson-csf" scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>dubois, jean-claude"thomson-csf"scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>eranian, armand"thomson-csf" scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the resins used for the manufacture or reproduction of masks, in electronics.The photomacting composition according to the invention is characterized in that it meets the general formula: wherein R₁, R'₁, R "₁, R₂, R'₂, R" ₂ denote alkyl radicals whose main chaincontains from 1 to 10 carbon atoms, the symbols f, cl and br which designate the fluorine, chlorine and bromine being affected by indices a, b, c, a ', b', and c 'representing the number ofThese atoms that are positive integers or null, like M, N, p.Application to the realization of high resolution masks, for integrated circuits or integrated optics.
+</ABSTRACT>
+</TEXT>
+</DOC>

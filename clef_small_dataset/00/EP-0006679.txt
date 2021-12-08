@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006679
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-417/06 C07D-285/08 A61K-31/41 A61P-1/00 C07D-417/12 <main>C07D-285/08</main> A61P-1/04 C07D-285/00 A61K-31/433 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+antisecretory thiadiazole derivatives, processes for their manufacture and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ici america inc gb  <sep>ici ltdgb<sep>ici americas inc<sep>imperial chemical industries limited<sep>ici americas inc.concord pike &amp; new murphy roadwilmington delaware 19897us<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>ici americas inc<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+mant derrick michael<sep>yellin tobias oregon<sep>mant, derrick michael<sep>yellin, tobias oregon<sep>mant, derrick michael115 moss lanebramhall cheshiregb<sep>yellin, tobias oregon4 waterford waywallingford, pa 19086us<sep>mant, derrick michael<sep>yellin, tobias oregon <sep>mant, derrick michael 115 moss lane bramhall cheshiregb<sep>yellin, tobias oregon4 waterford waywallingford, pa 19086us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a thiadiazole derivative of  the formula i:    in which y is o, s, ch₂, so or a direct bond; m is 0 to  4 and n is 1 to 4 provided that when y is s, o or so m  is 1 to 4, and when y is o or so n is 2 to 4; r¹ is h or  (c₁₋₁₀)alkyl; a is 3,4-dioxocyclobuten-1,2-diyl or c=z in  which z is o, s, ncn, nno₂, chno₂, nconh₂,  c(cn)₂, ncor², nco₂r², nso₂r² or nr³ in which r² is  (c₁₋₆)alkyl or (c₆₋₁₂)aryl and r³ is h or (c₁₋₆)alkyl; b is  (c₁₋₆)alkoxy, (c₁₋₆)alkylthio or nr⁴r⁵ in which r⁴ and r⁵  are independently h, (c₁₋₁₀)alkyl, c₃₋₆(alkenyl), (c₃₋₆)­ alkynyl, (c₂₋₆) (primary hydroxy)alkyl, (c₂₋₆) (primary ami­ no)alkyl or (c₃₋₆)cycloalkyl or r⁴ and r⁴ are joined to  form a 5- or 6- membered saturated ring optionally con­ taining an additional o or nh: and the salts thereof.  
+</ABSTRACT>
+</TEXT>
+</DOC>

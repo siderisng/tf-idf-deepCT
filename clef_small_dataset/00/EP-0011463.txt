@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011463
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/68 G01N-33/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+detection of fibrin monomer and composition therefor.
+</TITLE>
+<APPLICANT>
+ortho diagnostic systems incus<sep>ortho diagnostic systems inc.<sep>ortho diagnostic systems inc.one johnson &amp; johnson plazanew brunswick new jersey 08933-7003us <sep>
+</APPLICANT>
+<INVENTOR>
+baughman d joeus  <sep>lytwyn annus<sep>myrmel kurtus<sep>baughman, d. joe<sep>lytwyn, ann<sep>myrmel, kurt<sep>baughman, d. joer.d. no. 8flemington, new jerseyus<sep>lytwyn, ann197 easton avenuenew brunswick, new jerseyus<sep>myrmel, kurt4 warwick roadsomerville, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention concerns a quantitiative method and  composition for precipitating fibrin monomers from plasma  in the presence of fibrinogen, with only a small amount, if  any, of fibrinogen being precipitated.  a buffered precipitat­ ing agent is provided having a ph in the range of 6. 5 ± 0. 5,  the buffer being one having a pka in the range of 6 to 7 and  protamine sulfate at a level of 0. 025 to 0. 2% by weight.  suit­ able buffers are 2-(n-morpholino)ethanesulfonic acid,  sodium phosphate, histidine, maleic acid and imidazole.   analysis of the amount of fibrin present can be made by  analyzing for protein using preferably a basic urea solution  containing sodium hydroxide and measuring the absorbance  of 282 nanometers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000207
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07B-20060101S C07D-307/935 C07C-401/00 C07D-405/00 A61K-20060101S C07D-307/93 C07C-67/00 C07D-405/12 C07C-51/00 A61K-31/215 C07C-20060101S C07D-307/00 C07C-405/00 A61K-31/20 A61K-31/185 C07D-309/12 C07D-309/00 A61K-31/21 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+prostaglandin derivatives, their preparation and pharmaceutical compositions and intermediates.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+holland george williamus<sep>rosen perryus<sep>holland, george william<sep>rosen, perry<sep>holland, george william10 acorn placenorth caldwell, n.j.us<sep>rosen, perry26 sunset drivenorth caldwell, n.j.us<sep>
+</INVENTOR>
+<ABSTRACT>
+Prostaglandin derivatives of the formula wherein R¹ is hydrogen or lower alkyl; R² hydroxy; R³ hydrogen; or R² and R³ together oxo; R⁴ hydrogen or lower alkyl; R⁵ fluorine, lower alkyl or trifluoromethyl; R⁶ hydrogen, fluorine or lower alkyl; R⁷ hydrogen; R⁸ hydroxy; or R⁷ and R⁸ together Oxo; a and b, and X and Y, for themselves hydrogen or together a carbon carbon bond; with the condition that R² and R³ together represent Oxo when R⁷ and R⁸ are Oxo together; and with the further condition that A and B represent hydrogen when R⁷ is hydrogen; and with the third condition that X and Y represent a carbon carbon bond when R¹ and R⁷ are at the same time hydrogen; Their enantiomers and racemates have therapeutic, z. b. Blood pressure and anti-ulcerogenic effects. The invention relates to such prostaglandin derivatives, the preparation and pharmaceutical preparations containing such prostaglandin derivatives, as well as new intermediates for the preparation of these prostaglandin derivatives.
+</ABSTRACT>
+</TEXT>
+</DOC>

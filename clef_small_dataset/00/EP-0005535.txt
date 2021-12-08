@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005535
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28F-25/00 <main>F28F-25/08</main> B01J-35/00 B01J-35/04 B01J-19/30 B01D-53/20 F28F-25/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for exchange of mass and/or of heat by direct contact and for mixing of gaseous or vaporous and liquid or solid media.
+</TITLE>
+<APPLICANT>
+manteufel r<sep>manteufel, rolf paul christian<sep>manteufel, rolf paul christianepiceadreef 11b-2180 kalmthout-heidebe<sep>manteufel r  <sep>manteufel, rolf paul christian<sep>
+</APPLICANT>
+<INVENTOR>
+manteufel rolf paul christian<sep>manteufel, rolf paul christian<sep>manteufel, rolf paul christianepiceadreef 11b-2180 kalmthout-heidebe<sep>manteufel, rolf paul christian<sep>manteufel, rolf paul christianepiceadreef 11b-2180 kalmthout-heidebe<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the mass transfer and/or direct heat transfer and for mixing of gaseous or vaporous and/or liquid or solid materials without or with a catalyst in a column having mixing chambers (11) which are delimited by prismatic hollow bodies (18) constricted in the middle and open in the direction of flow, characterised in that the vaporous or gaseous and/or liquid or solid materials, after they have been mixed, in each case flow out of the mixing chambers (11) separately from the liquid or solid feed, and the pressure drop of the gas or vapour or the liquid, passed in counter-current through the column, is independent of the hold-up of liquid or solid at the corresponding inflow and outflow orifices (12, 13). 
+</ABSTRACT>
+</TEXT>
+</DOC>

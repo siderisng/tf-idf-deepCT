@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007057
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-33/96</main> C12Q-1/50 A61K-35/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control serum for clinical-chemical analysis with a determined creatin-kinase content.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh <sep>boehringer mannheim gmbh68298 mannheimde  <sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+gruber wolfgang dr<sep>hundt dieter dr<sep>roschlau peter dr<sep>sedelmeyer marianne<sep>stahler fritz dr<sep>gruber, wolfgang, dr.<sep>hundt, dieter, dr.<sep>roschlau, peter, dr.<sep>sedelmeyer, marianne<sep>stahler, fritz, dr.<sep>gruber, wolfgang, dr.am oberanger 7d-8132 tutzing-unterzeismeringde<sep>hundt, dieter, dr.bergerstrasse 15ad-8136 perchade<sep>röschlau, peter, dr.schönegertstrasse 4d-8124 seeshauptde<sep>sedelmeyer, marianneam frischanger 9d-8120 weilheimde<sep>stähler, fritz, dr.heimgartenstrasse 4d-8132 tutzingde<sep>gruber, wolfgang, dr.<sep>hundt, dieter, dr.<sep>roschlau, peter, dr.<sep>sedelmeyer, marianne<sep>stahler, fritz, dr.<sep>gruber, wolfgang, dr. am oberanger 7d-8132 tutzing-unterzeismeringde <sep>hundt, dieter, dr. bergerstrasse 15a d-8136 perchade<sep>röschlau, peter, dr.schönegertstrasse 4d-8124 seeshauptde<sep>sedelmeyer, marianneam frischanger 9d-8120 weilheimde<sep>stähler, fritz, dr.heimgartenstrasse 4d-8132 tutzingde<sep>
+</INVENTOR>
+<ABSTRACT>
+A control serum based on human serum, animal serum or serum albumin with a specific content of exogenous creatine kinase and optionally other enzy men, substrates, metabolites and others, in the serum before coming substances contains as exogenous creatine kinase pork serum.
+</ABSTRACT>
+</TEXT>
+</DOC>

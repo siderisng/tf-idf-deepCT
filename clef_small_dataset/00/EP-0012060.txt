@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012060
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-3/786 G01S-17/66 G01S-17/00 F41G-7/20 F41G-7/22 G01S-3/78 <main>G01S-3/78</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system for optoelectric detection and angular localisation of a luminous object.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+bargues denis<sep>cojan yves<sep>couderc georges<sep>bargues, denis<sep>cojan, yves<sep>couderc, georges<sep>bargues, denis"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>cojan, yves"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>couderc, georges"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>bargues, denis <sep>cojan, yves<sep>couderc, georges  <sep>bargues, denis "thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>cojan, yves"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>couderc, georges"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Optoelectric detection system of the passive function type, in which the spatial filtering and modulation functions produced by grids are separated from that of discrepancy resulting from a four-quadrant detector (4), arranged to allowBimode, passive or semi-active operation.To allow semi-active operation, the opaque zones of the grids are of a material forming an interferential filter for radiation emitted by a modulated annexed laser illuminator according to a modulation distinct from that of the grids, and the processing circuits and the COMFartometry COMcarry additional demodulation circuits (60-1 to 3) of the laser signals, and switching circuits (62-1 to 3) and selection (63) priority or automatic mode.The detection system applies Nottment to Autodi Rector systems.
+</ABSTRACT>
+</TEXT>
+</DOC>

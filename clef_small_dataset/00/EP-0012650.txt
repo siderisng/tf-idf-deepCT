@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012650
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-7/12 G11B-21/08 G11B-7/085 <main>G11B-7/08</main> G11B-7/08 G11B-7/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for acceding to a track on an optically recordable or readable carrier and optical system comprising such a device.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+arquie louis<sep>bricot claude<sep>arquie, louis<sep>bricot, claude<sep>arquie, louis"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>bricot, claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>arquie, louis  <sep>bricot, claude<sep>arquie, louis"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>bricot, claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+A device for accessing a track carried by a SUP recoverable or legible optically read by a concentrated rayon comprising a fixed magnetic circuit and a low weight movable equipment with at least one electrical circuit (3) forming a flat coil susceptibleSliding vertically into the gap and such as horizontal conductors are located in the gap.Radial tracking and track jump can be provided by an electrical circuit (4), at least one vertical conductive element is located in the gap.Quick access is obtained by moving this small low weight crew in the gap (100) which, in the case of a recorded disk, extends parallel to the disc radius.
+</ABSTRACT>
+</TEXT>
+</DOC>

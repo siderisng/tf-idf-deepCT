@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012346
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-39/00 C11D-3/12 C01B-39/14 C01B-39/02 B01F-17/52 C11D-3/37 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stable aqueous zeolite suspensions, method for preparing them and their use.
+</TITLE>
+<APPLICANT>
+bayer ag de<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+mansmann manfred drde<sep>puppe lothar drde<sep>mansmann, manfred, dr.<sep>puppe, lothar, dr.<sep>mansmann, manfred, dr.oskar-schlemmer-strasse 2d-5090 leverkusen 1de<sep>puppe, lothar, dr.gisbert-cremer-strasse 45 ad-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+the stable aqueous zeolite suspensions, which are useful for the preparation of detergent compositions, contain an organic flocculant such as polyacrylamide and/or acrylamide/acrylic acid copolymers. 
+</ABSTRACT>
+<DESCRIPTION>
+stabile wässrige zeolith-suspensionen die vorliegende erfindung betrifft stabile wässrige zeolith-suspensionen sowie ein verfahren zu deren herstellung. der suspendierte, feinteilige zeolith ist geeignet zur verwendung als sequestrierungsmittel in wasch- und reinigungspulvern. in verschiedenen publikationen wurde vorgeschlagen, in wasch- und reinigungsmitteln die phosphat-builder teilweise durch zeolithe zu ersetzen. zeolithe, insbesondere zeolith a, wie er aus der deutschen patentschrift 1 038 017 seit langem bekannt ist, haben bekanntermassen gute ionenaustausch-eisenschaften für calciumionen (7,0 meq/g wasserfreier substanz für zeolith a, s. d.w. breck, zeolite, molecular sieves, john wiley & sons, new york, 1974, s. 537). deshalb können zeolithe die rolle des tripolyphosphats als calciumbindungsreagenz in wasch- und reinigungsmitteln übernehmen. bei der herstellung der entsprechenden zeolithhaltigen wasch- oder reinigungsmittel lassen sich die zeolithe beispielsweise trocken unter das fertige wasch- oder reinigungspulver mischen. unter einem trockenen zeolithpulver versteht man hierbei ein material, das ca. 16 bis 25 gew.-% wasser adsorptiv gebunden enthält. dieses herstellungsverfahren zeolithhaltiger waschmittel ist für moderne waschmittelproduktionen, bei denen das fertige produkt aus einem slurry, der die meisten waschmittelbestandteile enthält, über einen sprühtrockenturm zu einem körnigen pulver verarbeitet wird, oft nicht vorteilhaft. es ist vielmehr zweckmässig, den zeolith-anteil direkt in den waschmittelslurry zu geben, um eine homogene verteilung des produktes im waschpulver zu erreichen. hierdurch wird es möglich, zeolith-suspensionen für die waschmittelproduktion einzusetzen. die zeolith suspensionen können nun vorteilhaft aus dem produktions- prozclss noch alkali enthalten, im wesentlichen in form von lwaoh. die natronlauge-haltige zeolith-suspension kann dazu dienen, einen teil des bei der waschmittelproduktion benötigten alkalis zu liefern. den alkaligehalt einer zeolith-suspension stellt man direkt nach der synthese des zeoliths durch die unterschiedlichen möglichkeiten der aufarbeitung auf die gewünschte menge ein. zeolith a lässt sich bekannterweise durch geeignete syntheseführung,wie z.b. variation in der temperatur, konzentration der komponenten und rührgeschwindigkeit, mit verschiedenen teilchengrössenverteilungen herstellen (vgl. z.b. de-as 1 667 620). in der regel erhält man bei der zeolith a-synthese im durchschnitt teilchen, deren durchmesser im bereich zwischen 1,0 und 10 mikron liegen. bei der verwendung von meta-kaolin, einem kaolin, der oberhalb 5500c geglüht worden ist, zur zeolith a herstellung erhält man bevorzugt ein material, das ohne gritanteile sehr feinteilig anfällt (us-ps 3 185 544). bei der verarbeitung von zeolith-suspensionen in der waschmittelproduktion ist es nun aus technischen gründen erforderlich, dass derartige wässrige suspensionen in vorratsbehältern gelagert werden können. bleiben wässrige zeolith-suspensionen längere zeit, d.h. mehrere stunden bis zu einigen wochen, stehen, so bilden sich bodenkörper, die, wenn überhaupt, nur mit grossem energieaufwand wieder aufgerührt werden können. daher ist es notwendig, dass man stabile zeolith-suspensionen verwendet, die keine oder nur eine sehr geringe neigung zum absetzen zeigen, damit bei der lagerung bzw. beim transport derartiger suspensionen keine technischen schwierigkeiten auf treten. zum transport gehört auch das mechanische fördern mit hilfe von geeigneten pumpaggregaten sowie die beförderung in tankbehältern. die geschwindigkeit des absitzens eines feststoffes in einer suspension hängt naturgemäss von der teilchengrösse des betreffenden feststoffes ab. ebenso hat der elektrolytgehalt einen wesentlichen einfluss auf das absetzverhalten. in der regel setzt man feststoffsuspensionen dispergiermittel zu, um eine agglomeration, und damit verbunden ein schnelles absitzen der feinen
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche   1. stabile wässrige zeolith-suspensionen, gekennzeichnet durch einen gehalt an organischem flockungsmittel.   2. suspensionen gemäss anspruch 1, dadurch gekennzeichnet, dass sie als flockungsmittel polyacrylamid und/oder acryl amid/acrylsäure-copolymerisat enthalten.   3. suspensionen gemäss anspruch 1 oder 2, dadurch gekenn zeichnet, dass sie 0,01 bis 5   gew.-%    des flockungs mittels enthalten.   4. suspensionen gemäss einem der ansprüche 1 bis 3, da durch gekennzeichnet, dass der feststoffgehalt der suspension mindestens 15 gew.-% beträgt.   5. verfahren zur herstellung einer stabilen wässrigen zeolith-suspension, dadurch gekennzeichnet, dass man der suspension ein organisches flockungsmittel zu setzt.   6. verwendung von suspensionen gemäss einem der ansprüche 1 bis 4 zur herstellung von wasch- und reinigungs mitteln.  
+</CLAIMS>
+</TEXT>
+</DOC>

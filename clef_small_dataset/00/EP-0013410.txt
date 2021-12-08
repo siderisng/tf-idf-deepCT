@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013410
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-29/32 C09K-11/02 C09K-11/77 C09C-3/06 C09K-11/08 H01J-29/18 C09C-3/00 H01J-9/227 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of a red luminescent pigment coated with red iron oxide, and its use.
+</TITLE>
+<APPLICANT>
+riedel de haen agde<sep>riedel-de haen aktiengesellschaft<sep>riedel-de haen aktiengesellschaftwunstorfer strasse 40d-30926 seelzede<sep>
+</APPLICANT>
+<INVENTOR>
+franz karl drde<sep>schoenfeld bernd drde<sep>franz, karl, dr.<sep>schoenfeld, bernd, dr.<sep>franz, karl, dr.obere mark 4d-3013 barsinghausende<sep>schönfeld, bernd, dr.steinbrink 23d-3052 bad nenndorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+Filter light pigments are made of luminous pigment particles that are covered with a filter material.A luminous pigment emitting by cathode beams reduced by cathode beams can be coated with red iron oxide by producing a thin layer of pyrite on the luminous pigment particles and then transferred them into hematite.As a result, the surface of the luminous pigment particles is treated evenly with a closed, extremely firmly adhering color pigment layer.The filter luminaire pigments thus obtained are used in cathode ray tubes.
+</ABSTRACT>
+</TEXT>
+</DOC>

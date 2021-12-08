@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008661
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01L-21/322</main> H01L-21/324 H01L-21/322 H01L-29/167 C30B-33/00 H01L-29/02 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preliminary heating of semiconductor bodies in view of subsequently increasing their internal gettering effect.
+</TITLE>
+<APPLICANT>
+ibmus<sep>ibm francefr<sep>cie±ibm france<sep>international business machines corporation<sep>compagnie ibm france5 place vendômef-75000 paris 1erfr<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>compagnie ibm france<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+cazcarra victor gaston<sep>cazcarra, victor gaston<sep>cazcarra, victor gaston51 avenue de neufvillef-91540 mennecyfr<sep>cazcarra, victor gaston<sep>cazcarra, victor gaston51 avenue de neufvillef-91540 mennecyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for increased the internal trapping effect of semiconductor bodies.It relates more particularly to the generation of precipitation of oxygen atoms which will be used later, as unwanted impurity trapping centers, during the different thermal cycles which are sometimes subjected to these bodies in the manufacture of integrated circuits.Semiconductors.This process is characterized in that the semiconductor body is subjected to a thermal annealing step at a temperature of between 750 and 900 ° C and a duration comed between 1 and 8 hours.The precipitability coefficient K₁₀₅₀, which characterizes the number of precipitates, for an initial concentration of 30ppMA, varies from 0.3 (absence of annealing: curve IV) to about 2 (annealing at 825 ° C for 2 hours: curve II) a gain of about 7.
+</ABSTRACT>
+</TEXT>
+</DOC>

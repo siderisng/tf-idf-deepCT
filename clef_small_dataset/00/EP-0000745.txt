@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000745
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07C-317/18 C07B-19/00 C07C-227/18 C07C-271/22 C07F-9/36 C07C-271/00 C07C-229/36 C07C-229/00 C07B-31/00 C07B-57/00 C07C-67/00 <main>C07C-103/46</main> C07F-9/50 C07C-227/00 C07C-227/34 C07C-317/00 C07C-91/04 C07F-9/00 C07C-313/00 C07F-9/24 C07F-9/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+salt of an optically active isomer of phenylglycine and an optically active isomer of 2-amino butanol and process for its preparation.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+chae yung bog dr<sep>kim dae whang<sep>chae, yung bog, dr.<sep>kim, dae whang<sep>chae, yung bog, dr.korea institute of science and technologyseoulkr<sep>kim, dae whangkorea institute of science and technologyseoulkr<sep>chae, yung bog, dr.<sep>kim, dae whang<sep>chae, yung bog, dr.korea institute of science and technologyseoulkr<sep>kim, dae whangkorea institute of science and technologyseoulkr<sep>
+</INVENTOR>
+<ABSTRACT>
+Separation of amino acids in optical antipodes.The present application relates to salts consisting of an optical isomer of a compound of the formula wherein X represents a waterstopathom or an optionally etherified or esterified hydroxy group and Y is an acyl group among others, and an optical isomer of 2-aminobutanol and a method for producing suchsalt.The optically active compounds of said formula are used as the starting material for the production of semi-synthetic antibiotics of the cephalosporiner penicillin type.
+</ABSTRACT>
+</TEXT>
+</DOC>

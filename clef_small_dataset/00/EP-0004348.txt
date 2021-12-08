@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004348
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-17/42 H01T-1/00 <main>H01C-7/12</main> H01B-17/46 H01T-1/14 H01C-7/12 H02H-9/04 H01T-1/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lightning arrester device for power transmission line.
+</TITLE>
+<APPLICANT>
+mitsubishi electric corp jp<sep>mitsubishi denki kabushiki kaisha<sep>mitsubishi denki kabushiki kaisha2-3, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi denki kabushiki kaisha  <sep>
+</APPLICANT>
+<INVENTOR>
+nobuo nagai<sep>nobuo, nagai<sep>nobuo, nagai4-4-21, uegaharanishinomiya-shi hyogo-kenjp<sep>nobuo, nagai<sep>nobuo, nagai4-4-21, uegaharanishinomiya-shi hyogo-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a lightning arrester (2a, 2b) device comprises a serial  connection of a non-linear resistor and linear resistor as a  lightning arrester and a pair of electrodes (11) disposed  with a gap at both ends of the lightning arrester thereby  preventing a damage of the lightning arrester caused by  direct lightning to a power transmission line (10).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000958
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05B-6/68 G05D-22/02 G05D-22/00 <main>H05B-6/68</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for cooking non-liquid food in a microwave oven.
+</TITLE>
+<APPLICANT>
+litton systems incus<sep>litton systems, inc.<sep>litton systems, inc.360 north crescent drivebeverly hills california 90210-9990us<sep>litton systems, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+buck ronald g<sep>buck, ronald g.<sep>buck, ronald g.13112 thomas avenue southburnsville minnesota 55337us<sep>buck, ronald g.<sep>buck, ronald g.13112 thomas avenue southburnsville minnesota 55337us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for indicating the optimum time at which to  turn meat over in a microwave oven.  the method detects  the point where the absolute humidity remains constant  and no longer increases indicating that the temperature of  the meat has reached an equilibrium point.  at the temperature  equilibrium point, the meat is ready to be turned  over.  
+</ABSTRACT>
+</TEXT>
+</DOC>

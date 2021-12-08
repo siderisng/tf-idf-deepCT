@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005468
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H05K-13/04</main> B65G-1/00 H05K-13/00 H05K-13/04 B23P-21/00 H05K-13/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+machine for automatically inserting parallel lead electronic components into a printed circuit board.
+</TITLE>
+<APPLICANT>
+tdk corpjp<sep>tdk corporation<sep>tdk corporation13-1, nihonbashi 1-chomechuo-ku, tokyo-to 103jp<sep>tdk corporation<sep>
+</APPLICANT>
+<INVENTOR>
+harigane kotaro c o tokyo denk<sep>ito tetsuro c o tokyo denki ka  <sep>kato akihiro c o tokyo denki k<sep>taguchi yoshinobu c o tokyo de<sep>takahashi tetsuo c o tokyo den<sep>harigane, kotaro c/o tokyo denki kagaku<sep>ito, tetsuro c/o tokyo denki kagaku<sep>kato, akihiro c/o tokyo denki kagaku<sep>taguchi, yoshinobu c/o tokyo denki kagaku<sep>takahashi, tetsuo, c/o tokyo denki kagaku<sep>harigane, kotaro c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>ito, tetsuro c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>kato, akihiro c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>taguchi, yoshinobu c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>takahashi, tetsuo, c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>harigane, kotaro c/o tokyo denki kagaku<sep>ito, tetsuro c/o tokyo denki kagaku<sep>kato, akihiro c/o tokyo denki kagaku<sep>taguchi, yoshinobu c/o tokyo denki kagaku <sep>takahashi, tetsuo, c/o tokyo denki kagaku  <sep>harigane, kotaro c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>ito, tetsuro c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>kato, akihiro c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>taguchi, yoshinobu c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>takahashi, tetsuo, c/o tokyo denki kagakukogyo kabushiki kaisha, 13-1, nihonbashi 1-chomechuo-ku tokyo-tojp<sep>
+</INVENTOR>
+<ABSTRACT>
+machine for processing and inserting parallel lead  electronic components into lead receiving openings in a  printed circuit board which comprises a frame (37) feed  means for feeding an electronic component web carrier (2)  carrying a plurality of electronic components (1) cutting  means for separating each electronic component from said  electronic component web carrier fed by said feed means,  insert means for receiving said each electronic component at  a predetermined position and inserting same into said  printed circuit board, and transfer means (35) adapted to  make movement between said cutting means and said insert  means, said transfer means (35) including a lead-chuck  mechanism adapted to grip lead of said electronic component  and to transfer same to said insert means after said  electronic component has been separated from said electronic  component web carrier by said cutting means.  said  cutting means includes an obliquely holding member (100a)  for obliquely holding said lead (10) of said electronic  component (1) to be separated from said electronic component  web carrier (2); said lead-chuck mechanism (129) is held  by a chuck lever (127) supported rotatably around a horizontal  shaft (123) provided on the frame (37); and said transfer  means (35) includes a wiper mechanism (145, 147) held by a  wiper lever (126) supported rotatably around said horizontal  shaft (123).  
+</ABSTRACT>
+</TEXT>
+</DOC>

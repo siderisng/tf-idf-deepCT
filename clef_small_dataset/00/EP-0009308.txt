@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009308
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+E05B-47/02 E05B-51/02 E05B-65/10 <main>E05C-15/02</main> E05B-47/04 E05B-51/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+emergency exit door latch with bolt retraction retardation.
+</TITLE>
+<APPLICANT>
+reliable security syst us <sep>reliable security systems, inc.<sep>reliable security systems, inc.907 north 23rd. streetcolumbus, ohio 43219us<sep>reliable security systems, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+logan emanuel l<sep>logan, emanuel l.<sep>logan, emanuel l.9406 flower avenuesilver spring, maryland 20901us<sep>logan, emanuel l.<sep>logan, emanuel l.9406 flower avenuesilver spring, maryland 20901us<sep>
+</INVENTOR>
+<ABSTRACT>
+an emergency exit door latch system including a  pivoted bolt (13) which pivots into registration with a  keeper (14) and is urged into a projected position by a  plunger (30) biassed by a spring (31).  the plunger is re­ tained within a hydraulic cylinder (27).  hydraulic lines  (42, 44, 41) connect the portion of the cylinder in front of  the plunger through a throttling means (45).  on pressing  against the door (10) the bolt (13) urges the plunger re­ arwardly to force hydraulic fluid to the rear of the plunger  via the throttling means (45) thus allowing slow bolt  retraction.  a push bar locks the bolt in the projected  position.  a solenoid blocking valve (43) can be used to  lock the bolt (13).  a solenoid operated valve (73) allows  rapid opening of the bolt in an emergency.  the valve  operation is responsive to alarm or emergency condition.   an alarm arrangement (53) gives warning that someone  trying to open the door (10).  
+</ABSTRACT>
+</TEXT>
+</DOC>

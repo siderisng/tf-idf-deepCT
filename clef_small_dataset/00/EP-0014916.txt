@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014916
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>E06B-5/12</main> G21C-9/004 E06B-5/10 E06B-5/12 G21C-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arrangement for the pressure relief of enclosed spaces by means of flaps.
+</TITLE>
+<APPLICANT>
+bbc reaktor gmbh de <sep>brown boveri reaktor gmbh<sep>brown boveri reaktor gmbhdudenstrasse 44d-6800 mannheim 1de<sep>brown boveri reaktor gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+batz peter<sep>gross siegfried ing grad<sep>batz, peter<sep>gross, siegfried ing. grad<sep>bätz, peterwilhelmstrasse 13d-6921 angelbachtal-michelfeldde<sep>gross, siegfried ing. gradsiedlung 6d-3320 salzgitter 1de<sep>batz, peter  <sep>gross, siegfried ing. grad<sep>bätz, peterwilhelmstrasse 13d-6921 angelbachtal-michelfeldde<sep>gross, siegfried ing. gradsiedlung 6d-3320 salzgitter 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a pressure relief device for rooms (1) utilizing flaps (7) connected to walls (2) or ceilings (3) by means of inclined hinges which will unblock relief openings (4) when a set pressure is being exceeded and a certain holding force overcome, characterized in that the flaps (7) are designed as revolving wings, each having one larger (13) and one smaller (14) wing surface whose turning axes (11) are inclined in the pressure relief direction (10). 
+</ABSTRACT>
+<DESCRIPTION>
+ei#richtung zur druckentlastung von räumen mittels klatten. die erfindung betrifft eine einrichtung zur druckentlastung von räumen mittels klappen die über drehgelenke mit den wänden oder decken dieser räume verbunden sind und bei uberschreiten eines vorgegebenen druckes entlastungsöffnungen freigeben. eine derartige einrichtung ist aus der de-os 26 53 694 bekannt. die darin beschriebene ausbildung hat den nachteil, dass die klappen beim aufeinandertreffen beschädigt werden. ausserdem besteht die gefahr, dass die klappen nach erfolgtem ausströmen wieder in ihre schliessstellung zuruckfallen. dieses frühzeitige schliessen ist bei verschiedenen füllstoffen des entlasteten raumes unerwdnscht. es ist die aufgabe der erfindung eine einrichtung zur druckentlastung von räumen anzugeben bei deren ansprechen eine beschädigung von gebäudeteilen durch die klappen sowie der klappen selbst ausgeschlossen ist. ausserdem sollen die klappen nach erfolgtem druckausgleich in offenstellung bleiben. gelöst wird die aufgabe erfindungsgemäss dadurch, dass die klappen als drehflügel ausgebildet si d, deren drehachsen asymetrisch verlaufen und in druckent: astungsrichtung geneigt sind. nach einer druckbeaufschlagung der klappen öffnen dieselben mit ihrer grösseren fläche in druckent astungsrichtung und geben den entlastungsquerschnitt frei bedingt durch die neigung der drehachsen verharren die lappen nach einstellung des druckausgleiches in geöf neter stellung. die drehachsen sind dabei derart angetrdnet, dass die kraft aus der flächendifferenz multipliziert mit den gewünschten öffnungsdruck grösser ist als die 5 der haltekrätte. diese massnahme gew¯ahrleistet das ansehen der einrichtung bei dem vorgegebenen öffnun ° druck. an einem ausfu#rungsbeispiel und den schematischen zeich- nungen der fig. 1 bis 3 wird die erf4idungsgemässe ein richtung beschrieben. es zeigen: fig. 1 eine perspektivische darste1l#ung eines raumes mit geöffneten klappen, fig 2 einen schnitt entlang der linie a-a der fig. 1 mit geöffneten klappen und fig. 3 einen schnitt entlang der linie a-a der fig. 1 mit geschlossenen klappen. eln raum 1, dessen wände 2 und decken 3 aus beton bestehen weist eine entlastungsöffnung 4 auf die mit zwei klappen 7 verschlossen ist. an den wangen 6 und den klappen 7 sipd anschläge 8 angebracht, deren drehachsen 9 in druckentlastungsrichtung 10 geneigt sind. die drehachsen 9 verlaufen dabei parallel zu den kanten 12 einer klappe, so dass die klappen in ihrer offenstellung die gleiche neigung aufweisen wie die dreh achsen 9. die drehachsen sind asymetrisch zu den klappen 7 angeordnet und unterteilen die gesamtfläche einer klappe in zwei verschieden grosse rechteckige flächen 13, 14. die anordnung der drehachsen wird so vorgenommen, dass die kraft aus der flächendifferenz multipliziert mit dem vorgegebenen öffnungsdruck grösser ist als die summe der haltekräfte wie z.b. reibungskräfte in den drehlagern und klebekräfte der dichtung. tritt in dem raum 1 eine unzulässige druckerhöhung auf, so öffnen die klappen 7 mitihrer grösseren fläche 12 in druckentlastungsrichtung 10 und geben die entlastungsöffnung 4 frei. bedingt durch die neigung der drehachsen 11 verharren die klappen nach #4-#te1lung eines druckausgleiches in geöffneier stellung. die erfindungsgemässe einrichtung kann auch mit nur einer klappe 7 oder mit mehr als zwei klappen betrieben werden. wesentlich ist immer das asymetrische und geneigte anordnen der drehachsen 11. die vorgeschlagene einrichtung schafft eine einfach aufgebaute druckentlastung die eine beschädigung an
+</DESCRIPTION>
+<CLAIMS>
+ ansprüche    1. einrichtung zur druckentlastung von räumen mittels klappen, die über drehgelenke mit wänden oder decken dieser räume verbunden sind und bei überschreiten eines vor   gegebenen- druckes    entlastungsöffnungen freigeben, dadurch gekennzeichnet, dass die klappen (7) als drehflügel ausgebildet sind deren drehachsen (11)   asymetrisch    verlaufen und in druckentlastungsrichtung (10) geneigt sind.    2. einrichtung nach anspruch 1, dadurch   gekennzelchnet,    dass die drehachsen (7) derart angeordnet sind, dass die kraft aus der flächendifferenz der flächen (13 und 14) multipliziert mit dem gewünschten   offnungsdruck    grosser ist als die summe der haltekräfte.  
+</CLAIMS>
+</TEXT>
+</DOC>

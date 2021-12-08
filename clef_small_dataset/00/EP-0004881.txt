@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004881
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-47/52 C07C-45/38 B01J-35/00 <main>C07C-47/52</main> C07C-47/228 C07C-213/00 C07C-45/29 B01J-23/00 C07C-223/00 C07C-67/00 C07C-47/20 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of aromatic and araliphatic aldehydes.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafen de  <sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+dudeck christian dr<sep>fliege werner dr<sep>petri norbert dr<sep>sauer wolfgang dr<sep>dudeck, christian, dr.<sep>fliege, werner, dr.<sep>petri, norbert, dr.<sep>sauer, wolfgang, dr.<sep>dudeck, christian, dr.odenwaldring 20d-6703 limburgerhofde<sep>fliege, werner, dr.authariestrasse 6d-6701 otterstadtde<sep>petri, norbert, dr.max-beckmann-strasse 17d-6710 frankenthalde<sep>sauer, wolfgang, dr.kaefertaler strasse 183d-6800 mannheim 1de<sep>dudeck, christian, dr.  <sep>fliege, werner, dr.<sep>petri, norbert, dr.<sep>sauer, wolfgang, dr.<sep>dudeck, christian, dr.odenwaldring 20d-6703 limburgerhofde<sep>fliege, werner, dr.authariestrasse 6d-6701 otterstadtde<sep>petri, norbert, dr.max-beckmann-strasse 17d-6710 frankenthalde<sep>sauer, wolfgang, dr.kaefertaler strasse 183d-6800 mannheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Preparation of aromatic and araliphatic aldehydes by oxidation of corresponding alcohols with oxygen in the presence of a silver catalyst of certain grain size and under certain conditions of the temperature.The aromatic and araliphatic aldehydes produced by the method of the invention are valuable starting materials for the production of dyes, pesticides, plastics, fragrances.
+</ABSTRACT>
+</TEXT>
+</DOC>

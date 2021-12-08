@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010610
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-17/00 <main>B23K-26/00</main> H01L-21/60 B23K-26/00 B23K-15/00 B23K-26/22 H05K-3/32 H01R-43/00 H01L-21/02 H01R-43/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of bonding metallic wires to microcircuit conductors.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+chaudhari praveen<sep>kiessling john b<sep>perlman david j<sep>tynan eugene e<sep>von gutfeld robert j<sep>chaudhari, praveen <sep>kiessling, john b. <sep>perlman, david, j.<sep>tynan, eugene, e.<sep>von gutfeld, robert, j.<sep>chaudhari, praveen416 long hill roadbriarcliff manor 12590 new yorkus<sep>kiessling, john b.43 edgehill drivewappingers falls 12590 new yorkus<sep>perlman, david, j.neville roadwappingers falls 12590 new yorkus<sep>tynan, eugène, e.bullet hole roadmahopac falls 10541 new yorkus<sep>von gutfeld, robert, j.600 west 115 street10025 new yorkus<sep>chaudhari, praveen<sep>kiessling, john b.<sep>perlman, david, j.<sep>tynan, eugene, e. <sep>von gutfeld, robert, j.  <sep>chaudhari, praveen416 long hill roadbriarcliff manor 12590 new yorkus<sep>kiessling, john b.43 edgehill drivewappingers falls 12590 new yorkus<sep>perlman, david, j.neville roadwappingers falls 12590 new yorkus<sep>tynan, eugène, e.bullet hole roadmahopac falls 10541 new yorkus<sep>von gutfeld, robert, j.600 west 115 street10025 new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method for bonding a metallic wire (13) to a microcircuit conductor (11), characterized in that it includes the steps of : a.  applying said wire to the conductor, b.  maintaining said wire in close contact with said conductor, c.  applying a focussed energy beam (14) directed towards a point at least tangentially in contact with said wire, and forming a hole in said conductor, and d.  applying additional energy to portions of said wire adjacent to said point for melting the wire metal so that the metal flows into said hole (15) to form an electrical contact between the wire and the conductor. 
+</ABSTRACT>
+</TEXT>
+</DOC>

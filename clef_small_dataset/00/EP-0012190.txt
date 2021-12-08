@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012190
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/00 <main>G02B-7/26</main> G02B-6/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+branching device for monomode light-wave guides and method of manufacturing it.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+auracher franz dr<sep>winzer gerhard dr<sep>auracher, franz, dr.<sep>winzer, gerhard, dr.<sep>auracher, franz, dr.stapferstrasse 4d-8000 münchen 60de<sep>winzer, gerhard, dr.günderodestrasse 16d-8000 münchen 82de<sep>auracher, franz, dr.  <sep>winzer, gerhard, dr.<sep>auracher, franz, dr.stapferstrasse 4d-8000 münchen 60de<sep>winzer, gerhard, dr.günderodestrasse 16d-8000 münchen 82de<sep>
+</INVENTOR>
+<ABSTRACT>
+A branch element for monomode light wel len conductors is indicated, which has a good coupling efficiency, and which is also cheap and simply manufacturing bar.The invention provides that conductor (2) is arranged in the monomode (2) a partially permeable mirror layer (21) inclined thereto and that the branching optical waveguide (3) is a multimode optical waveguide, which is adjacent to the monomode conductor (2) above the mirror layer (21) is arranged.
+</ABSTRACT>
+</TEXT>
+</DOC>

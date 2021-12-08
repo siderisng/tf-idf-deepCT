@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016701
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F42C-9/02 F42C-15/188 <main>F42C-15/18</main> F42C-9/00 F42C-9/04 F42C-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+safety device for a pyrotechnic chain.
+</TITLE>
+<APPLICANT>
+sormel safr<sep>societe anonyme dite:  sormel<sep>sormel société anonyme dite:rue becquerel z.i. de chateaufarinef-25009 besançonfr<sep>sormel societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+petiteau maurice rene<sep>petiteau, maurice rene<sep>petiteau, maurice rené7, rue sanceyf-25000 besançonfr<sep>petiteau, maurice rene  <sep>petiteau, maurice rené 7, rue sanceyf-25000 besançonfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A movable member (1) is housed in a recess (8) of a projectile (9) and encloses a clock mechanism.This movable member (1) can move from a safety position, in which the axis of the controller (15) of the clock mechanism is confused with the axis of the project tile, towards a weapon position;This displacement being inhibited by said watchmaking mechanism.
+</ABSTRACT>
+</TEXT>
+</DOC>

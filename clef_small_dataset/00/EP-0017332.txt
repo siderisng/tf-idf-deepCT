@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017332
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07D-303/26 C07D-303/00 A61P-37/00 C07D-405/06 C07D-311/22 A61K-31/352 <main>C07D-311/22</main> A61P-37/08 C07D-405/00 C07C-45/46 C07C-49/84 C07D-311/00 C07D-405/12 C07C-45/71 A61K-31/35 C07C-45/67 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pharmaceutical heterocyclic compounds, processes for their preparation and compositions containing them.
+</TITLE>
+<APPLICANT>
+fisons plcgb<sep>fisons plc<sep>fisons plcfison house princes streetipswich suffolk ip1 1qhgb<sep>fisons plc<sep>
+</APPLICANT>
+<INVENTOR>
+bantick john raymond<sep>chamberlain terence richard<sep>bantick, john raymond<sep>chamberlain, terence richard<sep>bantick, john raymond6 huntingdon close burton-on-the-woldsloughborough leicestershiregb<sep>chamberlain, terence richard18 castlehill road stewartonkilmarnock ayrshiregb<sep>bantick, john raymond<sep>chamberlain, terence richard<sep>bantick, john raymond6 huntingdon close burton-on-the-woldsloughborough leicestershiregb<sep>chamberlain, terence richard18 castlehill road stewartonkilmarnock ayrshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+the compounds of the formula:    wherein; r¹, r², r³, r⁴, r⁵ and r⁷, which may be the same or  different, each represent hydrogen, hydroxy, alkyl or alkoxy  of 1 to 6 carbon atoms, amino, acyl or acylamino of 2 to 6  carbon atoms, alkenyl of 2 to 6 carbon atoms, halogen, or  alkoxy of 1 to 6 carbon atoms substituted by phenyl,   x is a hydrocarbon chain of 1 to 10 carbon atoms  optionally substituted by a hydroxy group,   a is oxygen or is absent,   q represents a straight or branched alkylene, alkenylene  or alkynylene group of 2 to 6 carbon atoms, and   d represents carboxy, 5-tetrazolyl or carboxamido-5-­ tetrazolyl,   and pharmaceutically acceptable salts, esters and  amides thereof,   are pharmaceutically active, being antagonists of the  slow reacting substance of anaphylaxis (srs-a) or its  pathological effects.  
+</ABSTRACT>
+</TEXT>
+</DOC>

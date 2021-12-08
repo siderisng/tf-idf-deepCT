@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000996
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-24/02 H01R-9/05 H01R-24/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical connector.
+</TITLE>
+<APPLICANT>
+amp incus<sep>amp incorporated (a new jersey corporation)<sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>
+</APPLICANT>
+<INVENTOR>
+laudig ronald clairus<sep>laudig, ronald clair<sep>laudig, ronald clair1500 country club drivemechanicsburg pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrical connector for terminating coaxial cable  comprises stamped and formed inner (5) and outer (10)  contact members separated by a dielectric support member  (6), a portion of the outer contact member (10) overlying  the support member (6) being radially resilient and being  divided into a plurality of axially extending arms (12, 13,  14, 15) having their roots adjacent an end of the support  members from which the centre contact member (5) extends,  an outer-conductor-connection ferrule (16) being  carried by one arm (15) which extends beyond the other  end of the support member (6), a further arm (12) diametrically  opposed to the one arm (15) carrying the ferrule  (16) also extending beyond the other end of the support  member (6), with the free end of the further arm (12) being  arranged for receipt between the outer conductor (2) of a  coaxial cable and the ferrule (16) when crimped about the  outer conductor (2) of the coaxial cable.  
+</ABSTRACT>
+</TEXT>
+</DOC>

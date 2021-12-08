@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008693
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B29D-7/24</main> B29K-67/00 B29C-55/16 B29C-55/12 B29L-7/00 B29C-49/00 B29C-55/00 B29C-55/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for producing an oriented polyester film.
+</TITLE>
+<APPLICANT>
+toray industriesjp<sep>toray industries, inc. <sep>toray industries, inc.2, nihonbashi-muromachi 2-chome chuo-kutokyo 103jp   <sep>toray industries, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+fujita saburo<sep>kimata ikukazu<sep>motegi masahiko<sep>fujita, saburo<sep>kimata, ikukazu<sep>motegi, masahiko<sep>fujita, saburo2-15 sonoyamaotsu-shi, shiga-kenjp<sep>kimata, ikukazu1592 kamitoyoura, atsuchi-chogamo-gun, shiga-kenjp<sep>motegi, masahiko1040-33 nishi-imachohikone-shi, shiga-kenjp<sep>fujita, saburo<sep>kimata, ikukazu  <sep>motegi, masahiko<sep>fujita, saburo2-15 sonoyamaotsu-shi, shiga-kenjp<sep>kimata, ikukazu1592 kamitoyoura, atsuchi-chogamo-gun, shiga-kenjp<sep>motegi, masahiko1040-33 nishi-imachohikone-shi, shiga-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing high tensile strength elongated in longitudinal and transverse tion, whose mechanical properties are improved not only in a rich device, but both longitudinal and in the transverse direction.Here, a film previously stretched in the longitudinal and transverse direction with a high stretch ratio is 1.5- to 1. 9 times its dimensions in the longitudinal direction and around 1.0 to 1.9 times their dimensions in the transverse direction with aLinear speed of less than 8,000% per minute simultaneously followed up and finally thermofixed.
+</ABSTRACT>
+</TEXT>
+</DOC>

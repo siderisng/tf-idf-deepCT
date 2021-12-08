@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001199
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-27/00 C07C-50/04 C07C-45/38 B01J-23/70 C07C-67/00 C07C-46/00 C07C-46/08 C07C-50/00 C07B-61/00 <main>C07C-50/04</main> C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing para-benzoquinone.
+</TITLE>
+<APPLICANT>
+rhone poulenc indfr <sep>rhone-poulenc industries <sep>rhone-poulenc industries22 avenue montaigne75008 parisfr<sep>rhone-poulenc recherches<sep>
+</APPLICANT>
+<INVENTOR>
+costantini michel<sep>jouffret michel<sep>costantini, michel<sep>jouffret, michel<sep>costantini, michel9, place aristide briandf-69003 lyonfr<sep>jouffret, michelle grillon avenue du chaterf-69340 francheville-le-basfr<sep>costantini, michel  <sep>jouffret, michel <sep>costantini, michel9, place aristide briandf-69003 lyonfr<sep>jouffret, michelle grillon avenue du chaterf-69340 francheville-le-basfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of para-benzoquinone by oxidising phenol with molecular oxygen or with a gas containing molecular oxygen, in an organic solvent, in the presence of cuprous or cupric ions and of a copper complexing agent, characterised in that it is carried out in the presence of an agent for reducing cupric ions to cuprous ions, selected from the group consisting of the diphenols, the substituted alkylphenols, the aliphatic aldehydes, the aliphatic ketones containing from 3 to 6 carbon atoms, and the aliphatic and cycloaliphatic olefines and diolefines. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010682
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-15/22 H03G-3/20 H04B-10/00 H04B-10/152 G08C-23/06 G08C-25/00 G08C-23/00 G01R-15/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for transmitting signals over an optical link.
+</TITLE>
+<APPLICANT>
+asea abse<sep>asea ab<sep>asea abs-721 83 västerasse<sep>
+</APPLICANT>
+<INVENTOR>
+morgan adolfsson dipl-ingse<sep>torgny brogardhse<sep>morgan, adolfsson, dipl.-ing.<sep>torgny, brogardh<sep>morgan, adolfsson, dipl.-ing.sigfrid edströms gata 86s-724 66 västerasse<sep>torgny, brogardhplatverksgatan 140s-724 74 västerasse<sep>
+</INVENTOR>
+<ABSTRACT>
+A device for transmitting a signal, e.g. b. the output signal of a greater, about a certain distance and / or to another electrical potential level. The transmission device consists of a transmitter (S) and a receiver (M) which are connected to each other via an optical connection. The transmitter contains links (2-7, 31, 32) for combining incoming measurement signals (UIN) with setpoint signals (VREF) to two different signals which transmit over each 1 of two parallel optical pots (8, 9) to the EMP catcher become. The receiver contains Anord's nams for receiving the two transmitted signals and for regulating the gain in the two transmission channels. This scheme balances parameter variations in the two channels and associated components. The receiver also includes links forming from the two transmitted signals of the output signal (UUT) of the transmission device which depends on the input signal of the transmitter.
+</ABSTRACT>
+</TEXT>
+</DOC>

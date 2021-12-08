@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004804
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-11/02</main> C07C-11/02 C07C-2/00 C07C-2/14 C07C-11/00 C07C-2/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the dimerisation of olefins with 8-20 carbon atoms and dimers of olefins so obtained.
+</TITLE>
+<APPLICANT>
+rhone poulenc indfr<sep>rhone-poulenc industries  <sep>rhone-poulenc industries22 avenue montaigne75008 parisfr<sep>rhone-poulenc recherches  <sep>
+</APPLICANT>
+<INVENTOR>
+desbois michel<sep>desbois, michel<sep>desbois, michel570 chemin du boisf-69140 rillieuxfr<sep>desbois, michel<sep>desbois, michel570 chemin du boisf-69140 rillieuxfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the dimerisation of c8 -c20 olefines by bringing the said olefines into contact with liquid hydrofluoric acid at a temperature between -20 and 60 degrees c, characterised in that the said operation for bringing the reactants into contact is carried out for 1 to 30 minutes with a molar ratio hydrofluoric acid/olefine of between 1/1 and 50/1, in that, after the operation for bringing the reactants into contact, the hydrofluoric acid present is separated from the dimerisation medium virtually instantaneously, in that the fluorinated compounds are separated from the said medium by defluorination, and in that the olefine dimers obtained are recovered. 
+</ABSTRACT>
+</TEXT>
+</DOC>

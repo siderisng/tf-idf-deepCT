@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004034
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08K-5/57 C08L-51/00 C08L-23/00 C08F-255/02 C08J-3/24 C08F-4/00 C08F-255/00 C08K-5/5425 <main>C08F-255/00</main> C08K-5/00 C08L-51/06 C08L-101/00 C08F-4/32 C08L-51/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of crosslinking poly-alpha-olefin series resins.
+</TITLE>
+<APPLICANT>
+furukawa electric co ltdjp<sep>the furukawa electric co., ltd.<sep>the furukawa electric co., ltd.6-1, 2-chome, marunouchi chiyoda-kutokyojp<sep>the furukawa electric co., ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+koreeda toshio<sep>nojiri akio<sep>sawasaki takashi<sep>koreeda, toshio<sep>nojiri, akio<sep>sawasaki, takashi<sep>koreeda, toshio3-9-15, kamata otak-kutokyojp<sep>nojiri, akio11-3, nakakibogaoka asahi-kuyokohama-shijp<sep>sawasaki, takashi1-23-6, matsubara setagaya-kutokyojp<sep>koreeda, toshio<sep>nojiri, akio<sep>sawasaki, takashi<sep>koreeda, toshio3-9-15, kamata otak-kutokyojp<sep>nojiri, akio11-3, nakakibogaoka asahi-kuyokohama-shijp<sep>sawasaki, takashi1-23-6, matsubara setagaya-kutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of crosslinking poly-α-olefin series resins,  comprising the steps of subjecting a resin composition to  graft reaction under a volume ratio of oxygen to the resin  composition set at less than 0. 1 and at temperatures ranging  between the thermal decomposition temperature of the radical  generating agent and 230°c, said composition comprising  at least one kind of poly-α-olefin series resin of poly-propylene  series resin, poly(butene-1) series resin or poly(4-methyl  pentene-1) series resin; a radical generating agent of  dibenzoyl peroxide or t-butyl perbenzoate; and a silane  compound having the general formula of rr′siy2, where 'r'  is a monovalent olefinically unsaturated hydrocarbon group  or hydrocarbonoxy group, 'y' is an organic group capable of  hydrolysis, and 'r′' is a monovalent hydrocarbon group  except aliphatic unsaturated hydrocarbon groups, or the  group 'y' or 'r' defined above, and bringing the resultant  graft polymer into contact with water so as to cause cross-linking  reaction under the action of a silanol condensation  catalyst added to the reaction system before or after the graft  reaction step.  
+</ABSTRACT>
+</TEXT>
+</DOC>

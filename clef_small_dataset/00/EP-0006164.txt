@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006164
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06F-15/16</main> G06F-13/16 G06F-12/06 G06F-13/18 G06F-15/167 G06F-13/00 G06F-12/00 G06F-15/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiprocessor system with jointly usable storages.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+bederman seymour<sep>bederman, seymour<sep>bederman, seymour2838 larkspur streetyorktown heights new york 10598us<sep>bederman, seymour<sep>bederman, seymour2838 larkspur streetyorktown heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+In a multiprocessor system, each processor (1, 5, 6) is associated with a memory (2, 3, 4) with synchronously with bener interface. Some or all processo ren (eg b. 1) also have controllable connections (7, 8) to store other processors. The assignment of a memory to one of the connected processors takes place depending on the selected operating mode ENT neither exclusively or so that several processors receive old native access. A processor interface adapter (9) controls the assignment; To do this, it receives from each processor a signal exit to display a shut-off NEN memory access and a signal "stop confirmation" if the relevant processor is inactive. The adapter releases a signal «Stopan requirement» to the relevant processor as a function of the desired operating state after the arrival of an exit signal. The operation type can be changed by one of the processors (eg, main processor 1) under program control: Another function of the adapter consists in the switching of short messages (communication) between individual processors; For this purpose, status register and buffer registers are seen in the adapter for each processor and buffer register, which have controllable connections to the I / O collecting lines of other processors.
+</ABSTRACT>
+</TEXT>
+</DOC>

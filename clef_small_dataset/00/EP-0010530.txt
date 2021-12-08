@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010530
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>D03D-51/00</main> D03D-51/08 D03D-51/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an apparatus for stopping and resetting a loom.
+</TITLE>
+<APPLICANT>
+rydborn s a o<sep>rydborn, sten ake olaus<sep>rydborn, sten ake olausklöxhultsvägen 21s-343 00 älmhultse<sep>rydborn, sten ake olaus <sep>
+</APPLICANT>
+<INVENTOR>
+rydborn sten ake olaus<sep>rydborn, sten ake olaus<sep>rydborn, sten ake olausklöxhultsvägen 21s-343 00 älmhultse<sep>rydborn, sten ake olaus<sep>rydborn, sten ake olaus klöxhultsvägen 21 s-343 00 älmhult se<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for stopping and resetting a loom.  the  technical problem which lies at the foundation of the present  invention is to realise an apparatus for stopping and resetting  a loom to a certain position before a weft stroke which has  given an indication of breakage.  this technical problem is solved according to the present  invention in that a weft fork which senses the weft, and, in the  event of a predetermined breakage type in the movement of  the weft during a sensing period emits a signal for stoppage of  the loom, is arranged to prevent gripping of a new weft after  the generation of a breakage signal, whereby the rapier or  rapiers execute one or more strokes without a weft.  
+</ABSTRACT>
+</TEXT>
+</DOC>

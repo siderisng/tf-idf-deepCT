@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012938
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G10K-11/00 H04R-17/00 H04R-1/32 G10K-11/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ultrasonic transducer with optimal lateral resolution and method for its manufacture
+</TITLE>
+<APPLICANT>
+siemens agde   <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+weyns arthur dipl-ingbe<sep>weyns, arthur, dipl.-ing.<sep>weyns, arthur, dipl.-ing."ten weynranken" willendries 5b-2960 muizenbe<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing ultrasonic transducers, with a focusing ultrasonic skid with recess in the active surface. Another desirable is an embodiment of the transducer so that optimal lateral resolution results in any permissible values ​​of the focus width and the focus distance from the lowest possible influence of side lobes. This is achieved by producing in the following steps: a) for first focus width (FB) or focus distance (FA), depending on the radius of curvature (R) of the oscillator (1; 5) whose outer dimension (2aO) or depending on the outer dimension ( 2AO) The radius of curvature (R) set; b) then for the other of the two focus sizes (eg, b. Fa), the not yet determined size outer dimension or radius of curvature is set; c) The resulting maximum value of the opening angle of the sound radiation field behind the focus is concentrated by suitable size selection (2aO) of the recess (2, 8) in the active surface of the oscillator so that the ratio between the opening angle and side lobes becomes optimal.
+</ABSTRACT>
+</TEXT>
+</DOC>

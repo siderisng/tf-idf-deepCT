@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013701
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B05C-3/02 B05C-3/04 B05C-3/10 B05C-3/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for preserving non-rotation-symmetric workpieces by applying a coating by a dipping process.
+</TITLE>
+<APPLICANT>
+kruse karl hermann<sep>kruse, karl-hermann<sep>kruse, karl-hermannpalinger weg 40d-2400 lübeck 16de<sep>
+</APPLICANT>
+<INVENTOR>
+kruse karl-hermann<sep>kruse, karl-hermann<sep>kruse, karl-hermannpalinger weg 40d-2400 lübeck 16de<sep>
+</INVENTOR>
+<ABSTRACT>
+in the new method for preserving workpieces, such as e. g.  containers, by applying a coating by a dipping process in which the respective workpiece is directly held during the passage through the dipping bath and made to rotate at least for a time, the procedure adopted is that, during its rotation about the axis of rotation, the workpiece is rotated with changing angular speed.  the angle of exchange formed between the coating agent surface and the respective wall of the workpiece thus changes in a non-uniform fashion.  in addition, the workpiece can also be adjusted about a transverse axis running essentially horizontally and vertically to the axis of rotation, in order to achieve an economical coating of points of the workpiece, such as e. g.  recesses, undercuts etc. , which are difficult to reach.  a device for carrying out a method of this kind comprises a control unit (21) which is preprogrammed with the required operating parameters or collects these data during the coating process and correspondingly processes them.  furthermore, the respective gripping device or devices (13, 14) of the device holding the respective workpiece or workpieces can be arranged with cardanic mounting and adjustably in the vertical plane on brackets (9, 10) of the device in order to permit the adjustment of the workpiece about the aforesaid transverse axis.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

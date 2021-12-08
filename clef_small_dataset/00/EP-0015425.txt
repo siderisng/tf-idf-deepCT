@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015425
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02B-5/16</main> H01B-7/17 G02B-6/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stranding element for optical cables.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+oestreich ulrich dipl-ing<sep>schober gernot<sep>zeidler gunter dr<sep>oestreich, ulrich, dipl.-ing.<sep>schober, gernot<sep>zeidler, gunter, dr.<sep>oestreich, ulrich, dipl.-ing.karl-witthalm-strasse 15d-8000 münchen 70de<sep>schöber, gernotwaterloo-strasse 63d-8000 münchen 71de<sep>zeidler, günter, dr.weidenstrasse 25d-8034 germeringde<sep>oestreich, ulrich, dipl.-ing. <sep>schober, gernot<sep>zeidler, gunter, dr.  <sep>oestreich, ulrich, dipl.-ing.karl-witthalm-strasse 15d-8000 münchen 70de<sep>schöber, gernotwaterloo-strasse 63d-8000 münchen 71de<sep>zeidler, günter, dr.weidenstrasse 25d-8034 germeringde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a oscillating element for optical KA BEB, consisting of several optical waveguide fibers for the light wave transmission and a protective cover, which is loosely bending the fibers, whose inner diameter is greater than the outer diameter of a hypothetical, the fibers around giving cylinders.The fibers are each surrounded by a layer of soft-elastic material and stringed with one another.The space between these with each other Ten optical fibers and the hard and resistant protective cover is filled with a very soft, slightly formable filling composition, which shows no tendency to the afterholting, melting or freezing.
+</ABSTRACT>
+</TEXT>
+</DOC>

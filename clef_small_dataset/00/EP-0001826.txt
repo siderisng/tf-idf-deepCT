@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001826
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24D-19/10 <main>F24H-9/20</main> F24D-19/00 F24D-3/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hot-water heating system.
+</TITLE>
+<APPLICANT>
+sasserath & co kg hde <sep>hans sasserath & co kg <sep>hans sasserath &amp; co kg mühlenstrasse 100d-41352 korschenbroichde<sep>hans sasserath & co kg<sep>
+</APPLICANT>
+<INVENTOR>
+hecking willi<sep>sasserath arend<sep>hecking, willi<sep>sasserath, arend<sep>hecking, williandreasstrasse 21d-4050 mönchengladbach-2de<sep>sasserath, arenddahlener strasse 693d-4050 mönchengladbach-2de<sep>hecking, willi <sep>sasserath, arend<sep>hecking, willi andreasstrasse 21 d-4050 mönchengladbach-2 de<sep>sasserath, arenddahlener strasse 693d-4050 mönchengladbach-2de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  hot water heating plant comprising a hot water generator (10) including a heat source (12) designed to be energized electrically by means of a control circuit (50), comprising further a heating loop (34) including a forward duct (26), heaters (32) and a return duct (30), a temperature controlled heater valve (36) being provided at each one of said heaters (32) and being designed to adjust the flow rate of water through the respective heater as a function of room temperature and of respective set points as set at the respective heater valve (36), and comprising a circulation pump (24) interposed intermediate said hot water generator (10) and said forward duct (26) and means (40) responsive to the pressure difference existing between said forward duct (26) and said return duct (30), characterized in that the means (40) responsive to the pressure difference include a switch contact (46) designed to open when the pressure difference exceeds a predetermined response point value and that said switch contact (46) is connected to form a member of the control circuit (50) for the heat source (12). 
+</ABSTRACT>
+</TEXT>
+</DOC>

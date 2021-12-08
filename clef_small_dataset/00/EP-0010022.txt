@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010022
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-1/62 H04B-1/64 G10L-21/00 H03G-3/34 G10L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for conditioning speech signals and transmitter comprising such a device.
+</TITLE>
+<APPLICANT>
+thomson csffr   <sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>
+</APPLICANT>
+<INVENTOR>
+ben sadou jean-claudefr<sep>ben sadou, jean-claude<sep>ben sadou, jean-claudethomson-csf - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to modulating voice signal processing devices.A treatment device delivers constant amplitude speech signals during speech activity periods and does not transmit anything (does not transmit noise) outside of these periods.The processing device comprises a positive amplitude compression say 4 preceded by a voice activity detector consisting of a delay line 1, a discrimination speech-noise 2, and an electronic switch 3.This switch 3 is controlled by the output signal of the discriminator 2 so as to allow only speech signals.Application to voice sign transmitters.
+</ABSTRACT>
+</TEXT>
+</DOC>

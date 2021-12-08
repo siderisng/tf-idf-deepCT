@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013319
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-33/00 G02B-6/42 <main>G02B-5/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical connector for connecting a light source with at least one optical transmission line having a cross-section small with respect to the aperture of the light beam issuing from said source.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+balliet layton<sep>balliet, layton<sep>balliet, layton1134 sw 19th streetboca raton, florida 33432us<sep>balliet, layton<sep>balliet, layton1134 sw 19th streetboca raton, florida 33432us<sep>
+</INVENTOR>
+<ABSTRACT>
+This coupler is of the type in which collimation means (10) are interposed between the light source (20) and the transmission line (14).The means (10) compror tears a spherical transparent core (26) having a cer tain refractive index, surrounded by a transpa encase (24), also spherical, and having a refractive index lower than that of the core (26).The conical light beam resulting from the source (20), successively passes the envelope (24), the core (26), then again the envelope (24), which has the effect of concentrating and give it a section.comparable to that of the optical fiber (30) of the line (14).The light source (20) is mounted at the bottom of a cylindrical lodge whose edges are glued to the envelope (24) after it has been oriented so that the fiber (30) receives the maximum of light.
+</ABSTRACT>
+</TEXT>
+</DOC>

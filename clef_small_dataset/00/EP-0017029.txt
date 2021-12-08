@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017029
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B26D-7/32 B65H-29/00 B21D-43/28 B26D-7/00 <main>B21D-43/28</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for cutting sheet metal and stacking cut-off blanks.
+</TITLE>
+<APPLICANT>
+haemmerle agch<sep>haemmerle ag<sep>haemmerle agch-4800 zofingench<sep>haemmerle ag<sep>
+</APPLICANT>
+<INVENTOR>
+haenni eduard a<sep>haenni, eduard a.<sep>haenni, eduard a.rosengartenstrasse 10ch-4800 zofingench<sep>haenni, eduard a.  <sep>haenni, eduard a.rosengartenstrasse 10ch-4800 zofingench<sep>
+</INVENTOR>
+<ABSTRACT>
+For cutting small sheet metal sections from a metal panel and for stacking these sections to z.b.A pallet (15) is used a sheet metal shear which has a lifting table (13) behind the cutting point which is height adjustable.This extends through the one, cut-out side wall (5) of the scissors and thus allows to move an already located stack (16) out of the scissors and pick up again so that an adjacent stack (16a) can be washed up cleanly.The highlighting of the lifting table (13) after establishing the first stack (16) causes a small drop height of the cut portions to the pallet (15), so that a neatly layered stack (16a) enters.With increasing height of the stacks (16), the stroke table (13) is gradually lowered until the intended stack height is reached.
+</ABSTRACT>
+</TEXT>
+</DOC>

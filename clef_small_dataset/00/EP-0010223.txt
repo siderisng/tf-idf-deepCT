@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010223
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25J-3/02 G11B-7/125 C07C-11/02 C07C-7/04 C07C-7/00 <main>C07C-7/04</main> C07C-11/00 C07C-1/00 B01D-3/00 C07C-7/09 C07C-67/00 C07C-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for decomposing a gas mixture.
+</TITLE>
+<APPLICANT>
+linde agde<sep>linde aktiengesellschaft<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>linde aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+mikulla klaus-dieter<sep>mikulla, klaus-dieter<sep>mikulla, klaus-dieterbrauneckweg 6d-8192 geretsried 1de<sep>mikulla, klaus-dieter<sep>mikulla, klaus-dieterbrauneckweg 6d-8192 geretsried 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+In this method for decomposing a gas mixture, gap gases of an ethylene system are partially liquefied by stepwise cooling (2, 14, 19).The thus formed th condensates are led to a first rectification column (33) after scribbling the most easily volatile constituents (9, 15, 20) for further decomposition.The non-condensed ingredients are disassembled in a second rectification column (24), wherein the bottom product is guided into the first rectification column (33) after scribbling the most easily volatile constituents (26).
+</ABSTRACT>
+</TEXT>
+</DOC>

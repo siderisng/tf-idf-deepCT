@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014044
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-3/56 H04M-9/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and system for reducing conference bridge oscillations.
+</TITLE>
+<APPLICANT>
+rolm corpus<sep>rolm corporation<sep>rolm corporation4900 old ironside drive, p.o. box 58075santa clara, ca 95052us<sep>
+</APPLICANT>
+<INVENTOR>
+kasson james mus<sep>kasson, james m.<sep>kasson, james m.1080 deanna drivemenlo park, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+undesired oscillations in a communications confe­ rencing network are reduced and/or eliminated by fre­ quency shifting signals passing through the conferencing  network by a small amount for each pass therethrough.  electrical information signals from a plurality of indi­ vidual communication sets (s1, s2. . . sn) are individually  summed, frequency shifted by a predetermined amount,  and coupled back to individual ones of the communica­ tions sets (s1, s2. . . sn), less their individual signal contri­ butions.  frequency shifting can be performed on analog  electrical information signals by means (45) for modulating  the sum signals, means (48) for filtering the modulated sig­ nals, means (50) for remodulating the filtered signals with  a second carrier signal train having a frequency which dif­ fers from the frequency of the first carrier signal train by a  predetermined amount, and means (54) for filtering the sig­ nals resulting from the second modulating step.  frequency shifting on digital information signals is  performed by means (101) for digitally expanding the spec­ tral range of the sum signals to provide a plurality of repli­ cas of the spectral content of the signals distributed over a  wide spectral range, means (102) for digitally filtering the  expanded signals to filter out predetermined portions of the  expanded range, means (103) for digitally shifting the fre­ quency of the remaining replicas by a second expansion,  and means (104) for digitally filtering the frequency shifted  replicas to filter out unwanted portions of the shifted spec­ trum.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015238
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-53/06 A01N-53/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+esters of dichlorovinylcyclopropanecarboxylic acid, process for their preparation and their use as pesticides.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+ackermann peter drch<sep>drabek jozef drch<sep>farooq saleem drch<sep>gsell laurenz dr ch<sep>wehrli rudolf dr ch  <sep>ackermann, peter, dr.<sep>drabek, jozef, dr.<sep>farooq, saleem, dr.<sep>gsell, laurenz, dr.<sep>wehrli, rudolf, dr.<sep>ackermann, peter, dr.reichensteinerstrasse 12ch-4153 reinachch<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>farooq, saleem, dr.im schaiengarten 2ch-4107 ettingench<sep>gsell, laurenz, dr.maiengasse 56ch-4056 baselch<sep>wehrli, rudolf, dr.dianastrasse 2ch-4310 rheinfeldench<sep>
+</INVENTOR>
+<ABSTRACT>
+esters of cyclopropanecarboxylic acid of the formula <image> in which r1 denotes hydrogen, cyano, ethynyl or prop-1-ynyl, process for their preparation and their use as pesticides. 
+</ABSTRACT>
+<DESCRIPTION>
+p chlorvinylcyclopropankarbonsäureest r, verfahren zu ihrer herstel- lung und ihre verwendung in der schädlingebekämpfung die vorliegende erfindung betrifft cyclopropankarbonsäureester, verfahren zu ihrer erstellung und ihre verwendung in der schädlingsbekämpfung. die cyclopropankarbonsäureester haben die formel emi1.1 worin r1 wasserstoff, cyano, aethinyl oder prop-l-inyl bedeutet. die verbindungen der formel 1 werden nach an sich bekannten methoden z.b. wie folgt hergestellt: i) emi1.2 <tb> <sep> cl <tb> <sep> c <sep> =ch-ch-ch-cooh <sep> + <sep> x-chw <sep> -ch2-lh <sep> 11 <sep> s urenindendes <tb> <sep> cl <sep> r1 <sep> ii <sep> \\/of <sep> mittel <sep> > <sep> 1 <tb> <sep> ch3 <sep> 3 <tb> <sep> (ii) <sep> (ihr) <tb> 2) <tb> <sep> cl <tb> <sep> 0=011-oh- <sep> cll-cox <sep> + <sep> ho-cx <sep> h2-3 <sep> säu-ebindendes <tb> <sep> i <sep> / <sep> 1 <sep> ./u' <tb> <sep> c1 <sep> cf$}\0113 <sep> r1 <sep> mittel <tb> <sep> (i8) <sep> (v) <tb> emi2.1 <tb> 3) <tb> c1 <tb> <sep> c <sep> oh-oh <sep> - <sep> c11-cooh <sep> + <sep> ho-ch-^ <sep> -chv <sep> wasserbindendes <tb> cl <sep> c <sep> ii <sep> 2 <sep> mittel <sep> z <tb> <sep> 0 <tb> <sep> ch3 <tb> <sep> cii) <sep> cv) <tb> 4) <tb> cl <tb> <sep> bj <tb> c1 <sep> =ch-ch <sep> c <sep> r <sep> <sep> b <tb> <sep> ¯ns <sep> os <sep> )3{h3 <sep> 1 <tb> <sep> (vi) <sep> ( <sep> ) <tb> in den formeln iii und v hat r1 die für die formel i angegebene bedeutung. in den formeln iii und iv steht x für ein halogenatom, insbesondere chlor oder brom und in der formel vi steht r für cl-c4-alkyl, insbesondere für methyl oder aethyl. als säurebindendes mittel für die verfahren 1 und 2 kommen insbesondere terriäre amine, wie trialkylamin und pyridin, ferner hydroxide, oxide, carbonate und bicarbonate von alkali- und erdalkalimetallen sowie alkalimetallalkoholate wie z.b. kalium-t. butylat und natriummethylat in betracht. als wasserbinuendes mittel für das verfahren 3 kann z.b. dicycloheylcarbodiimid verwendet werden. die verfahren i bis 4 werden bei einer reaktionstemperatur zwischen -10 und 120"c, meist zwischen 20 und 800c, bei normalem oder erhöht druck und vorzugsweise in einem inerten lösungs- oder verdünnungsmittel durchgeführt. als lösungs- oder veroünnungsmittel eignen sich z.b. aether und ätherartige verbindunten wie diäthyläther, dipropyläther, dioxan, dimechc;=than und tetrahydrofuran; amide wie n,n-dialkylierte carbonsäureamide; aliphatische, aromatische sowie halogenierte kohlenwasserstoffe, insbesondere benzol, toluol, xylol, chloroform und chlorbenzol; nitrile wie acetonitril; dimethylsulfoxid und ketone wie aceton und methyläthylketon. die ausgangsstoffe der fcrmeln ii bis vi sind bekannt oder können analog bekannten methoden hergestellt werden. die verbindungen der formel i liegen als gemisch von verschiedenen optisch aktiven isomeren vor, wenn bei der herstellung nicht einheitlich optisch aktive ausgangsmaterialien verwendet wurden. die verschiedenen isomerengemische können nach bekannten methoden in die einzelnen isomeren aufgetrennt werden. unter der verbindung der formel 1 versteht man sowohl die einzelnen isomeren, als auch deren gemische. die verbindungen der formel i eignen sich zur bekämpfung von verschiedenartigen tierischen und pflanz:ichen schädlingen. insbesondere eignen sich die verbindungen der formel i zur bekämpfung von insekten, phytopathogenen milben und von zecken z.b. der ordnungen
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche   1. eine verbindung der formel emi14.1       worin r1 wasserstoff, cyano, aethinyl oder   prop-1-iryl    bedeutet.    2. verbindung gemäss anspruch 1 der formel emi14.2       3. ein verfahren zur herstellung von verbindungen gemäss anspruch 1, dadurch gekennzeichnet, dass man eine verbindung der formel emi14.3       in gegenwart eines säurebindenden mittels mit einer verbindung der formel emi14.4        umsetzt, worin r1 die im anspruch 1 angegebene bedeutung hat und x für ein halogen steht.   4. ein schädlingsbekämpfungsmittel, welches als aktive komponente eine verbindung gemäss anspruch 1 mit geeigneten träger- und/oder andern zuschlagstoffen enthält.   5. verwendung einer verbindung gemäss anspruch 1 zur bekämpfung von verschiedenartigen tierischen und pflanzlichen schädlingen.   6. verwendung gemäss anspruch 5 zur bekämpfung von insekten und vertretern der ordnung akarina.  
+</CLAIMS>
+</TEXT>
+</DOC>

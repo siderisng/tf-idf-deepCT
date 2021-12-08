@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010726
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-11/06 <main>H04Q-11/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiplex space switch.
+</TITLE>
+<APPLICANT>
+cit alcatelfr<sep>s.a. dite: compagnie industrielle des telecommunications cit-alcatel<sep>compagnie industrielle des telecommunications cit-alcatel s.a. dite:12, rue de la baumef-75008 parisfr<sep>compagnie industrielle des telecommunications cit-alcatel s.a. dite:<sep>
+</APPLICANT>
+<INVENTOR>
+le dieu bernard<sep>thiebaut georges<sep>le dieu, bernard<sep>thiebaut, georges<sep>le dieu, bernardrue de keralsamf-22700 perros guirecfr<sep>thiebaut, georgescoat gourhantlouannec f-22700 perros guirecfr<sep>le dieu, bernard<sep>thiebaut, georges<sep>le dieu, bernardrue de keralsam f-22700 perros guirec fr  <sep>thiebaut, georgescoat gourhantlouannec f-22700 perros guirecfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A multiplex spatial switch according to the invention is essentially consisting of a seri-parallel converter (1), two memories (2, 3) working alternately with writing and reading, a control memory (4), and a parallel-series converter (5).Each memory with a word capacity equal to the product of the number of incoming MULPLEX (E1, EP) by a sub-multiple of the number of lanes of a frame.When the sub-multiple is different from 1, there is possibility of a temporal brewing of the channels, with the inorganic of a sector (V1) having a number of channels equal to the sub-multiple.Application to the connection networks of a telephone switching center.
+</ABSTRACT>
+</TEXT>
+</DOC>

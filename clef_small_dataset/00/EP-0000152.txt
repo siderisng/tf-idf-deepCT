@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000152
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/19 A61K-31/215 A61K-31/185 <main>C07C-103/42</main> A61K-31/195 C07C-233/33 A61K-31/21 C07C-233/00 A61K-31/22 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxaminic acids and esters, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+sandoz agch<sep>sandoz ag<sep>sandoz aglichtstrasse 354002 baselch<sep>sandoz ag<sep>
+</APPLICANT>
+<INVENTOR>
+payne trevor glyn dr<sep>payne, trevor glyn,dr.<sep>payne, trevor glyn,dr.brachmattstrasse 16ch-4144 arlesheimch<sep>payne, trevor glyn,dr.<sep>payne, trevor glyn,dr.brachmattstrasse 16ch-4144 arlesheimch<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula:    wherein r₁   is hydrogen or alkyl of 1 to 10 carbon atoms,   r₂ is chlorine or alkoxy of 1 to 4 carbon atoms, or   r₁ and r₂ together are -(ch₂)m-  wherein m is 3 or 4   and r₃ is oh or alkoxy of 1 to 4 carbon atoms are prepared.  the compounds are obtained by acylation of the amino  derivative with an oxalic-esters derivative.  hydrolysis of the  oxamic ester gives the oxamic acid.  the compounds are useful for the treatment of allergic  conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

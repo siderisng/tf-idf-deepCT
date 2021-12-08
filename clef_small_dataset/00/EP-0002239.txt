@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002239
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-7/00 F02P-15/00 H01B-7/17 H01B-7/02 H01B-7/285 C08J-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flexible high tension cord for internal combustion engine.
+</TITLE>
+<APPLICANT>
+nippon denso cojp<sep>nippondenso co., ltd.<sep>nippondenso co., ltd.1-1, showa-chokariya-shi aichi-kenjp<sep>
+</APPLICANT>
+<INVENTOR>
+kawai kazuhidejp<sep>miyamoto yoshimijp<sep>kawai, kazuhide<sep>miyamoto, yoshimi<sep>kawai, kazuhide2, takamicho-6-chomenagoya-shi aichi-kenjp<sep>miyamoto, yoshimi2-2, gotanda hanazonochotoyota-shi aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a flexible high tension cord for connecting an ignition  coil, a distributor and spark plugs mounted on an internal  combustion engine includes a medium layer (2) having many  bubbles (2a) filled with insulating gases.  such bubbles are  very effective to reduce the stray capacitance of the high  tension cord without sacrificing breakdown voltage and  flexibility of the cord.  
+</ABSTRACT>
+</TEXT>
+</DOC>

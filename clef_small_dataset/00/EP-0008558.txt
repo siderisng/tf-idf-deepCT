@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008558
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-71/10 H01H-71/12 H01H-71/24 H01H-71/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit breaker with a movable contact pivotally mounted on a movable latch member.
+</TITLE>
+<APPLICANT>
+legrand safr <sep>legrand<sep>legrand 128, avenue du maréchal de lattre de tassigny f-87045 limoges cédex fr<sep>
+</APPLICANT>
+<INVENTOR>
+negre jean-pierrefr<sep>negre, jean-pierre<sep>negre, jean-pierrel'adriana avenue nicolas ausself-06160 juan-les-pinsfr<sep>
+</INVENTOR>
+<ABSTRACT>
+circuit breaker in which the moving contact 16 is hinged by a pivot 31 to a moving fastening unit 30 which belongs to the fastening mechanism of the circuit breaker, and which has a shoulder 58 able to bear on a shoulder 56 of the moving contact 16 in order to bring about the opening of the latter.  according to the invention, apart from its hinged connection with the moving contact 16 and the guiding by the corresponding pivot 31, the fastening unit 30 is free from its displacements in the box 10, no fixed stop being provided in the latter over the path which it sweeps on opening.  application to circuit breakers.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

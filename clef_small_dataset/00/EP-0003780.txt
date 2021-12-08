@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003780
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23K-9/28</main> B23K-9/29 B23K-9/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+shielding gas welding torch for arc welding using a consumable electrode.
+</TITLE>
+<APPLICANT>
+messer griesheim gmbhde<sep>messer griesheim gmbh<sep>messer griesheim gmbhhanauer landstrasse 330d-60314 frankfurtde<sep>messer griesheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+brunnquell werner<sep>buchbauer christian<sep>jackwerth franz<sep>brunnquell, werner<sep>buchbauer, christian<sep>jackwerth, franz<sep>brunnquell, wernerfrankfurter ring 26d-8000 münchen 40de<sep>buchbauer, christiandorfstrasse 31d-8059 moosinningde<sep>jackwerth, franzjosef-seliger-strasse 50d-8060 dachaude<sep>brunnquell, werner<sep>buchbauer, christian<sep>jackwerth, franz <sep>brunnquell, werner frankfurter ring 26 d-8000 münchen 40de<sep>buchbauer, christiandorfstrasse 31d-8059 moosinningde<sep>jackwerth, franzjosef-seliger-strasse 50d-8060 dachaude<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  inert-gas torch (10) for arc welding with a consumable electrode with two concentric, welding current carrying tubes (15, 10), the most central one (15) of which serves for gas supply and electrode feeding and forms a forced circuit for the cooling water with the external tube (16) lying around it, both tubes (15, 16) ending in a receiving part (18) for a current contact nozzle (19), and with a tubular shell (21) which is electrically insulated against both tubes and has a gas nozzle support (22) with an inert-gas nozzle (23) attached to that end which is assigned to the current contact nozzle (19) whereby an electrical insulation (24) is located between the gas nozzle support (22) and the two current-carrying tubes (15, 16), being characterized by the fact that the insulation (24) has an insulating coating (25) out of well heat-conducting metal with a well heat-conducting, highly heat-resistant polyimid foil coating (26) and is coupled by pressing it to gas nozzle support (22) and external, current-carrying, water-cooled tube (16). 
+</ABSTRACT>
+</TEXT>
+</DOC>

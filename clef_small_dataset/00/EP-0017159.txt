@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017159
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-15/02 <main>H03H-15/02</main> H01L-21/339 H01L-29/66 H01L-21/02 H03H-15/00 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monolithic integrated charge transfer device.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+luder rainer dr ing<sep>luder, rainer, dr. ing.<sep>lüder, rainer, dr. ing.kohlstatt-strasse 10d-8024 oberhachingde<sep>luder, rainer, dr. ing.<sep>lüder, rainer, dr. ing.kohlstatt-strasse 10d-8024 oberhachingde<sep>
+</INVENTOR>
+<ABSTRACT>
+Monolitically integrated sampling circuit with a SIG nal dab button (sampling frequency fa), a first clock-controlled cycle shift system (CCD) provided by the signal sampling with charge packets (CCD with H (W)) and one of this MIS charge shift system, the recovery of a time-continuous signal serving, clock-controlled output stage (S + H). It is a task to improve the known semiconductor devices of this kind in terms of their transmission properties and integrity. For this purpose, several (m) of the same stroke-controlled MIS charge shift systems in the parallel operation are switched on to the output of the first MIS charge shift system. These charging shift systems form filters of the same or different kinds The charge packets they deliver are different from them and then converted into a voltage. This voltage is scanned with a higher sampling frequency (F1a) compared to the first scanner. The sampled and held voltage is finally gladed by a simple low-pass filter (TP). It is still to be noted that the transfer of the charge packets from the first MIS charge shift system to the downstream La scaling systems takes place by weighted division.
+</ABSTRACT>
+</TEXT>
+</DOC>

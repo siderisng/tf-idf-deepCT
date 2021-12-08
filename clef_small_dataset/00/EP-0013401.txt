@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013401
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01T-1/00 <main>H01C-7/12</main> H01T-1/14 H01T-1/15 H01C-7/12 H01H-85/44 H01H-85/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lightning arrester device for power transmission line.
+</TITLE>
+<APPLICANT>
+mitsubishi electric corpjp<sep>mitsubishi denki kabushiki kaisha<sep>mitsubishi denki kabushiki kaisha2-3, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi denki kabushiki kaisha <sep>
+</APPLICANT>
+<INVENTOR>
+imataki mitsumasa mitsubishi d<sep>sakamoto kazuo mitsubishi denk<sep>imataki, mitsumasa mitsubishi denki k.k.<sep>sakamoto, kazuo mitsubishi denki k.k.<sep>imataki, mitsumasa mitsubishi denki k.k.itami seisakusho, no. 80 aza-nakanominamishimizu amagasaki-shijp<sep>sakamoto, kazuo mitsubishi denki k.k.itami seisakusho, no. 80 aza-nakanominamishimizu amagasaki-shijp<sep>imataki, mitsumasa mitsubishi denki k.k. <sep>sakamoto, kazuo mitsubishi denki k.k.<sep>imataki, mitsumasa mitsubishi denki k.k.itami seisakusho, no. 80 aza-nakanominamishimizu amagasaki-shijp<sep>sakamoto, kazuo mitsubishi denki k.k.itami seisakusho, no. 80 aza-nakanominamishimizu amagasaki-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a lightning arrester device for power transmission line  comprises a lightning arrester (1) comprising a sintered pro­ duct (12) made of a main component such as zinc oxide; a  serial connection of a reactor (2) and a fusible wire (5) con­ nected to the lightning arrester (1) in series and a gap (3)  connected in parallel with the serial connection.  the lightning  arrester is disconnected from a power transmission line when  the lightning arrester is broken.  
+</ABSTRACT>
+</TEXT>
+</DOC>

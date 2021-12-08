@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013960
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07C-323/00 A61K-31/4418 A61K-31/455 A61P-31/00 C07D-317/54 A61K-31/38 C07D-333/00 C07C-49/84 A61K-31/357 C07C-225/00 C07C-271/06 A61K-31/12 C07D-207/333 C07D-241/00 C07D-213/00 C07D-333/22 C07C-101/19 A61K-31/34 A61K-31/135 C07C-45/00 C07C-323/22 C07C-69/035 C07C-271/00 <main>C07C-49/84</main> C07C-255/47 C07C-225/16 C07D-213/50 A61K-31/44 C07C-319/00 C07C-67/00 A61K-31/22 C07C-69/017 C07D-317/64 A61K-31/215 C07D-213/80 A61K-31/40 C07D-317/00 C07D-241/24 A61K-31/27 A61K-31/265 C07C-319/20 A61K-31/4406 C07C-121/76 C07C-253/00 C07D-307/00 C07C-69/96 C07C-49/00 C07C-255/00 A61K-31/341 C07C-313/00 C07C-149/32 A61P-31/12 C07D-307/46 C07D-207/32 A61K-31/36 C07C-69/00 C07C-45/74 C07D-207/00 C07C-97/10 A61K-31/21 C07C-255/56 C07C-69/353 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substituted acetophenones, preparations containing them and processes for their preparation.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+fujiu morio<sep>ishitsuka hideo<sep>suhara yasuji<sep>fujiu, morio<sep>ishitsuka, hideo<sep>suhara, yasuji<sep>fujiu, moriozengyo danchi 5-7-203 fujisawa 3768-3fujisawa-shi, kanagawakenjp<sep>ishitsuka, hideo1-go 405, katsura-cho 1-banchi 1totsuka-ku yokohama-shi, kanagawa-kenjp<sep>suhara, yasujidream height 9-506 matano-cho 1403 banchitotsuka-ku, yokohama-shi kanagawa-kenjp<sep>fujiu, morio<sep>ishitsuka, hideo<sep>suhara, yasuji<sep>fujiu, moriozengyo danchi 5-7-203 fujisawa 3768-3fujisawa-shi, kanagawakenjp<sep>ishitsuka, hideo1-go 405, katsura-cho 1-banchi 1totsuka-ku yokohama-shi, kanagawa-kenjp<sep>suhara, yasujidream height 9-506 matano-cho 1403 banchitotsuka-ku, yokohama-shi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+Antiviral active compounds of the formula wherein R¹ hydroxy or acyloxy, for example, from an aliphatic acid with 2-18 C atoms derived acyl oxy, R² lower alkoxy, R³ hydrogen or lower alk oxy, R⁴, for example by alkoxy, substituted phenyl radical, or oneoptionally represented by lower alkyl substituted pyridyl, furyl, thienyl or pyrrolyl radical, e.g.b.2'-hydroxy-4,4 ', 6'-trimethoxychalkon, those obtained by condensation of o-hydroxyaceto phenones with aldehydes or by acylation of Ver bonds of formula I, wherein R¹ represents hydroxy.Based on these compounds, pharmaceutical preparation can be prepared.The figure shows that 2'-hydroxy-4,4 ', 6'-trimethoxychalon significantly reduces viral replication of the viruses in concentrations of 0.1-1.0 μg / ml.
+</ABSTRACT>
+</TEXT>
+</DOC>

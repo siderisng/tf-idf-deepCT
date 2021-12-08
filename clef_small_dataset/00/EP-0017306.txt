@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017306
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01D-9/04 <main>F01D-9/04</main> F01D-9/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stator vane assembly for a gas turbine engine.
+</TITLE>
+<APPLICANT>
+rolls roycegb<sep>rolls-royce limited<sep>rolls-royce limited65 buckingham gatelondon, sw1e 6atgb<sep>rolls-royce limited<sep>
+</APPLICANT>
+<INVENTOR>
+pask george<sep>pask, george<sep>pask, georgemellinstanton-by-bridge, derbygb<sep>pask, george  <sep>pask, george mellinstanton-by-bridge, derbygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a stator vane assembly for a gas turbine engine  comprises a plurality of aerofoil section vanes (18) supported  from a circumferentially extending support member (30),  each vane (18) being attached at one end to a circumferen­ tially extending platform (19, 32, 41) carried from the  supporting member, the platform being relatively flexible so  that deflections of its respective aerofoil cause it to deform,  and the mounting between the platform and the supporting  member such as to damp motion of the platform and thus of  the aerofoil.  resilient material may be interposed between  the platform and supporting member to provide this  damping.  
+</ABSTRACT>
+</TEXT>
+</DOC>

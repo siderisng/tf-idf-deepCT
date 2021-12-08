@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014381
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-275/60 C07F-9/00 C07F-9/38 A01N-57/18 A01N-57/00 C07F-9/40 C07C-275/00 C07C-273/00 C07C-273/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+phosphorylated carbamoyl compounds, process for preparing them and their use as pesticides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+behrenz wolfgang drde<sep>hagemann hermann drde<sep>hammann ingeborg drde<sep>kuehle engelbert dr de <sep>stendel wilhelm drde<sep>behrenz, wolfgang, dr.<sep>hagemann, hermann, dr.<sep>hammann, ingeborg, dr.<sep>kuehle, engelbert, dr.<sep>stendel, wilhelm, dr.<sep>behrenz, wolfgang, dr.untergruendemich 14d-5063 overathde<sep>hagemann, hermann, dr.roggendorfstrasse 55d-5000 koeln 80de<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 koelnde<sep>kühle, engelbert, dr.von bodelschwingh strasse 42d-5060 bergisch gladbach 2de<sep>stendel, wilhelm, dr.in den birken 55d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to novel phosphorylated carbamoyl compounds of the general formulas in which R¹ and R² have the meaning given in the description.Compounds of the formulas (Ia) and (Ib) is obtained by reacting tetrachloroethoxicarbamoyl compounds of the formula C1₃C - CHC1ONHR₂ (II) with a trialkylphosphite.The compounds of the formulas Ia and Ib are pestic fighters.
+</ABSTRACT>
+</TEXT>
+</DOC>

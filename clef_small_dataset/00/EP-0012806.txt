@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012806
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-1/30 B41J-25/00 B41J-25/24 <main>G06K-15/06</main> B41J-1/00 B41J-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+typewriter including a type carrier in an exchangeable cartridge.
+</TITLE>
+<APPLICANT>
+olympia werke agde<sep>olympia werke ag<sep>olympia werke agpostfach 960 olympiastrassed-2940 wilhelmshavende<sep>olympia werke ag<sep>
+</APPLICANT>
+<INVENTOR>
+behrens herbert<sep>gerken heiner<sep>kittel arthur<sep>behrens, herbert<sep>gerken, heiner<sep>kittel, arthur<sep>behrens, herbertgoethestrasse 1d-2932 neuenburgde<sep>gerken, heinerkostverloren 5d-2942 jeverde<sep>kittel, arthurlangeoogstrasse 47d-2940 wilhelmshavende<sep>behrens, herbert<sep>gerken, heiner <sep>kittel, arthur  <sep>behrens, herbertgoethestrasse 1d-2932 neuenburgde<sep>gerken, heinerkostverloren 5d-2942 jeverde<sep>kittel, arthurlangeoogstrasse 47d-2940 wilhelmshavende<sep>
+</INVENTOR>
+<ABSTRACT>
+A furnishings on a write or similar data writing office machine is used to enter tax commands, which relate to the respective printing types used set of a summer type carrier and the function's readiness of the machine.The type disk (3) is rotatably mounted in an alternating cassette (1) which can be used in the first receiving means (4) of the office machine (6).For the purpose of simplifying control commands, the removable cartridge (1) of its separable control with TEL (13a), which cooperates with control members (14a) of the second receiving means (7) such that the radio tion control means of the office machine (6) such as trolley movement device,Operating switches etc. are automatically switchable.This very simplifies the replacement of the UL selector cassette (1) including the required operation.
+</ABSTRACT>
+</TEXT>
+</DOC>

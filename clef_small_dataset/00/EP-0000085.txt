@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000085
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-3/00 <main>C01B-7/13</main> C01B-17/00 C01B-13/02 C01B-17/90 C01B-7/13 C01B-3/06 C01B-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production and separation of hydrogen iodide and sulphuric acid and their respective uses in the production of hydrogen and oxygen.
+</TITLE>
+<APPLICANT>
+euratomlu  <sep>europaische atomgemeinschaft  (euratom)<sep>europäische atomgemeinschaft (euratom)bâtiment jean monnet plateau du kirchberg boíte postale 1907l-1019 luxembourglu<sep>europaische atomgemeinschaft  (euratom)<sep>
+</APPLICANT>
+<INVENTOR>
+de beni giancarlo<sep>pierini giancarlo<sep>spelta bruno<sep>de beni, giancarlo<sep>pierini, giancarlo<sep>spelta, bruno<sep>de beni, giancarlovia montecalvo 40cadrezzate, vareseit<sep>pierini, giancarlovia campigli 91vareseit<sep>spelta, brunovia cernuschi 31vareseit<sep>de beni, giancarlo<sep>pierini, giancarlo <sep>spelta, bruno  <sep>de beni, giancarlovia montecalvo 40cadrezzate, vareseit<sep>pierini, giancarlovia campigli 91vareseit<sep>spelta, brunovia cernuschi 31vareseit<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the separation of hydrogen iodide and  sulphuric acid produced in the reaction between sulphus  dioxide, water and iodine (the bunsen reaction) when using  liquid sulphur dioxide as a solvent includes the addition of a  trialkyl phosphate or dialkyl-alkyl phosphonate to the reaction  mixture to inhibit migration of the hydrogen iodide into  the sulphuric acid phase.  the process may form part of processes respectively for  the production of hydrogen and oxygen in which hydrogen  iodide and sulphuric acid produced in the bunsen reaction  are decomposed respectively to hydrogen and oxygen, thus  providing a cycle of chemical reactions in which the net  result is the production of hydrogen and oxygen from water.  
+</ABSTRACT>
+</TEXT>
+</DOC>

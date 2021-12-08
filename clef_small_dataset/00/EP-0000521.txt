@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000521
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process and an apparatus for fractionating gas mixtures.
+</TITLE>
+<APPLICANT>
+pall corpus<sep>pall corporation<sep>pall corporation30 sea cliff avenueglen cove, new york 11542us<sep>
+</APPLICANT>
+<INVENTOR>
+mckey paulus <sep>sandman leslieus <sep>mckey paul <sep>sandman, leslie<sep>mckey paul17 therin drivehamburg new york 14075us<sep>sandman, leslie196 tareyton driveithaca, new york 14850us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process and an apparatus for fractionating gas mixtures  by adsorbing a first gas from a mixture thereof with a  second gas, to reduce the concentration of the first gas in the  mixture to below a desired maximum concentration, in  which the adsorption cycle is timed according to the rate of  fill through an orifice of a space of predetermined volume by  withdrawing a portion of effluent gas, feeding such effluent  gas portion into a space of predetermined volume through  an adjustable orifice, accumulating the withdrawn effluent  gas in the space, and discontinuing the adsorption cycle  when the volume and/or pressure of accumulated effluent  gas in the space reaches or exceeds a predetermined  minimum, thereby making it possible to control the cycling  independently of any external control or power source.  
+</ABSTRACT>
+</TEXT>
+</DOC>

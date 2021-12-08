@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012696
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-50/02 <main>H01H-50/04</main> H01H-50/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+water-tight electromagnetic relay.
+</TITLE>
+<APPLICANT>
+bernier raymond<sep>bernier, raymond<sep>bernier, raymond29, avenue fochf-94300 vincennesfr<sep>bernier, raymond<sep>
+</APPLICANT>
+<INVENTOR>
+bernier raymond<sep>bernier, raymond<sep>bernier, raymond29, avenue fochf-94300 vincennesfr<sep>bernier, raymond  <sep>bernier, raymond29, avenue fochf-94300 vincennesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Waterproof miniature relay whose organs are housed in a plastic housing.This housing comprises a belt (1) in the walls of which the magnetic circuit (5), the coil (4) and the connections (11) there are overmoulded and one or two cheeks (2) welded to the belt (1) and in which the fixed contacts (21, 22) and the parts (28) of fixing and granching of mobile contacts (31) are overwork.Application to telephone relays.
+</ABSTRACT>
+</TEXT>
+</DOC>

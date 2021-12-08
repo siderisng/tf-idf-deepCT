@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003817
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09D-7/02 C23F-11/14 C23F-11/16 C23F-11/10 C23F-11/00 C07D-277/72 <main>C23F-11/14</main> C07D-277/00 C09D-5/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+anti-corrosive paints.
+</TITLE>
+<APPLICANT>
+henkel kgaade<sep>henkel kommanditgesellschaft auf aktien<sep>henkel kommanditgesellschaft auf aktien40191 düsseldorfde <sep>henkel kommanditgesellschaft auf aktien<sep>
+</APPLICANT>
+<INVENTOR>
+eschwey helmut dr<sep>galinke joachim dr<sep>linden heinrich<sep>wegemund bernd dr<sep>wiemers norbert dr<sep>eschwey, helmut, dr.<sep>galinke, joachim, dr.<sep>linden, heinrich<sep>wegemund, bernd, dr.<sep>wiemers, norbert, dr.<sep>eschwey, helmut, dr.leitenstorffer strasse 24d-4000 düsseldorf 13de<sep>galinke, joachim, dr.falkenweg 6d-4018 langenfeldde<sep>linden, heinricham falder 75d-4000 düsseldorf 13de<sep>wegemund, bernd, dr.händelweg 3d-5657 haande<sep>wiemers, norbert, dr.humboldtstrasse 51d-4019 monheim-baumbergde<sep>eschwey, helmut, dr. <sep>galinke, joachim, dr.<sep>linden, heinrich  <sep>wegemund, bernd, dr.<sep>wiemers, norbert, dr.<sep>eschwey, helmut, dr.leitenstorffer strasse 24d-4000 düsseldorf 13de<sep>galinke, joachim, dr.falkenweg 6d-4018 langenfeldde<sep>linden, heinricham falder 75d-4000 düsseldorf 13de<sep>wegemund, bernd, dr.händelweg 3d-5657 haande<sep>wiemers, norbert, dr.humboldtstrasse 51d-4019 monheim-baumbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+Corrosion protection coating agent for metal surfaces containing as a corrosion inhibitor zinc or ply salts of five- or six-membered heterocycles substituted with at least one hydroxyl or mercapto group having at least one nitrogen atom and conjugated double bonds in the ring, of which at least one is present in a grouping of the formula.Particularly suitable are the salts of the mercaptobezthiazole, the mercaptopyridine and the corresponding S-triazine derivatives, for example the cyanuric acid and the thiocyanuric acid.
+</ABSTRACT>
+</TEXT>
+</DOC>

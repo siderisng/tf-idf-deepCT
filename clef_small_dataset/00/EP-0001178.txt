@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001178
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-21/55</main> G01B-11/30 G01N-21/55 G02B-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an optical sensing instrument.
+</TITLE>
+<APPLICANT>
+rank organisation ltdgb<sep>the rank organisation limited<sep>the rank organisation limited11 hill streetlondon w1x 8aegb<sep>the rank organisation limited <sep>
+</APPLICANT>
+<INVENTOR>
+jungles john<sep>whitehouse david john<sep>jungles, john<sep>whitehouse, david john<sep>jungles, john63 alexandra streetthurmaston leicestershiregb<sep>whitehouse, david john45 willcox drivemelton mowbray leicestershiregb<sep>jungles, john<sep>whitehouse, david john  <sep>jungles, john63 alexandra streetthurmaston leicestershiregb<sep>whitehouse, david john45 willcox drivemelton mowbray leicestershiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+an optical sensing instrument which works by detecting  specular reflections of light from a surface under test has a  sensor head (11) with a plane face (12) having a semi-circular  recess (13) in which are housed a plurality of light sources (14,  15, 16) and a plurality of photo-detectors (17, 18, 19) each  having an associated lens (14a to 19a); the optical axis of each  lens passes through the centre of curvature of the semi-circular  recess (13).  the photodetectors (17, 18, 19) and the  light sources (14, 15, 16) are positioned with respect to one  another such that for each light source (14 to 16) there is a  photodetector (17 to 19) the optical axis of the associated lens  (17a to 19a) of which is inclined equally and oppositely to the  optical axis of the lens (14a to 16a) associated with the light  source (14 to 16) across a normal to the plane face of the  sensor head (11) passing through the centre of curvature of  the recess (13).  
+</ABSTRACT>
+</TEXT>
+</DOC>

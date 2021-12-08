@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000500
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/57 A61P-31/00 C07C-103/46 C07D-333/00 C07D-333/04 C07D-501/20 C07D-307/54 C07D-333/24 <main>C07D-501/20</main> C07D-307/34 C07D-501/34 C07D-307/52 C07D-499/00 A61K-31/545 A61K-31/546 A61P-31/04 C07D-307/00 C07D-501/59 C07D-499/06 C07D-501/32 C07D-501/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cephalosprin derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+fechtig bruno dr<sep>kocsis karoly dr<sep>scartazzini riccardo dr<sep>schneider peter dr<sep>fechtig, bruno, dr.<sep>kocsis, karoly, dr.<sep>scartazzini, riccardo, dr.<sep>schneider, peter, dr.<sep>fechtig, bruno, dr.hinterlindenweg 1ch-4153 reinachch<sep>kocsis, karoly, dr.maiengasse 19ch-4056 baselch<sep>scartazzini, riccardo, dr.conrad ferdinand meyer-strasse 38ch-4059 baselch<sep>schneider, peter, dr.rheinfelderstrasse 21 a/1ch-4058 baselch<sep>fechtig, bruno, dr.<sep>kocsis, karoly, dr.<sep>scartazzini, riccardo, dr.<sep>schneider, peter, dr.<sep>fechtig, bruno, dr.hinterlindenweg 1ch-4153 reinachch<sep>kocsis, karoly, dr.maiengasse 19ch-4056 baselch<sep>scartazzini, riccardo, dr.conrad ferdinand meyer-strasse 38ch-4059 baselch<sep>schneider, peter, dr.rheinfelderstrasse 21 a/1ch-4058 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+Acylamido-3-cephem 4-carboxylic acid compounds of the formula wherein the index n is an integer of 1 to 4, the index M 0 or 1, x oxygen, sulfur or the group -NH, W a group -CO-, -CO-NHSO₂- or -SO₂NH-CO or XW together a group -CO or -CO NHSO₂, a optionally substituted phenylene, thiylene or furylene, y hydrogen, hydroxyl, formyloxy, amino or optionally in salt form sulfo and z is hydrogen, or Y and Z together an oxo group or a group = no-RO, wherein RO represents hydrogen or optionally substituted lower alkyl, R₁ is hydrogen, lower alkyl, lower alkoxy, halogen or a group of formula -CH₂-R₂, wherein R₂ is a free , esterified or etherified hydroxy or mercapto group or a quaternary ammonium group represents, and R₃ represents hydrogen or methoxy, wherein the carboxyl groups are optionally esterified in physiologically cleavable shape, and their salts are obtained by obtaining i N of the formula I corresponding starting compound, wherein Mindensten is protected one of the existing functional groups, which releases functional (N) group (s) and process for their preparation. The compounds of formula I are effective in vitro and in vivo against gram-positive and gram-negative bacteria and cocci. Compounds of the formula: and methods for their preparation.
+</ABSTRACT>
+</TEXT>
+</DOC>

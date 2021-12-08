@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001929
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-13/00 C12R-1/19 C07K-14/62 C12P-19/00 C07K-14/435 C07H-21/04 <main>C12N-15/00</main> C07H-21/00 C12P-19/34 C12N-15/09 C12P-21/02 C07K-15/00 C12N-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+plasmid for transforming bacterial host to render it capable of polypeptide expression.
+</TITLE>
+<APPLICANT>
+genentech incus<sep>genentech, inc.<sep>genentech, inc.460 point san bruno boulevardsouth san francisco california 94080us<sep>genentech, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+itakura keiichi<sep>riggs arthur dale<sep>itakura, keiichi<sep>riggs, arthur dale<sep>itakura, keiichi1180 coronet avenuepasadena californiaus<sep>riggs, arthur dale4852 saint andresla vern californiaus<sep>itakura, keiichi<sep>riggs, arthur dale<sep>itakura, keiichi1180 coronet avenuepasadena californiaus<sep>riggs, arthur dale4852 saint andresla vern californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+recombinant microbial cloning vehicles comprising  heterologous dna coding for the expression of mammalian  hormones (e. g. , somatostatin) and other polypeptides, including  plasmids suited for the transformation of bacterial  hosts are prepared.  the latter incorporate a regulon homologous  to the host in its untransformed state, in reading phase  with the structural gene for the heterologous dna.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002192
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12N-9/10 <main>C12P-19/40</main> C12P-19/00 C12P-19/40 C07H-19/16 C07H-19/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+enzymatic synthesis of purine arabinonucleosides.
+</TITLE>
+<APPLICANT>
+wellcome foundgb<sep>the wellcome foundation limited<sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb <sep>the wellcome foundation limited<sep>
+</APPLICANT>
+<INVENTOR>
+elion gertrude belle<sep>krenitsky thomas anthony  <sep>rideout janet elizabeth<sep>elion, gertrude belle<sep>krenitsky, thomas anthony<sep>rideout, janet elizabeth<sep>elion, gertrude belleoxford apartments 1 banbury lanechapel hill north carolina 27514us<sep>krenitsky, thomas anthony106 laurel hill roadchapel hill north carolina 27514us<sep>rideout, janet elizabeth3101 morningside driveraleigh north carolina 27607us<sep>elion, gertrude belle <sep>krenitsky, thomas anthony<sep>rideout, janet elizabeth  <sep>elion, gertrude belleoxford apartments 1 banbury lanechapel hill north carolina 27514us<sep>krenitsky, thomas anthony106 laurel hill roadchapel hill north carolina 27514us<sep>rideout, janet elizabeth3101 morningside driveraleigh north carolina 27607us<sep>
+</INVENTOR>
+<ABSTRACT>
+the synthesis comprises reacting a purine base with  arabinose-1-phosphate in the presence of an arabinosyl-transferring  enzyme system of the phosphorylase type.   arabinose-1-phosphate is preferably generated in situ, in  particular from a pyrimidine arabinoside by the action of a  pyrimidine nucleoside phosphorylase.  the enzymes are  preferably purified from e.  coli b (atcc 11303).  
+</ABSTRACT>
+</TEXT>
+</DOC>

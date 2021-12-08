@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013797
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/16 B01J-23/46 C07C-45/28 C07C-45/38 C07B-33/00 B01J-31/00 C07C-45/39 C07B-31/00 C07C-45/34 B01J-23/96 <main>C07C-45/29</main> C07C-45/29 C07B-61/00 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxidation of alcohols and aldehydes using a ruthenate catalyst.
+</TITLE>
+<APPLICANT>
+johnson matthey co ltd gb  <sep>johnson, matthey & co., limited<sep>johnson, matthey &amp; co., limited43 hatton gardenlondon ec1n 8eegb<sep>johnson, matthey & co., limited<sep>
+</APPLICANT>
+<INVENTOR>
+griffith william petit<sep>schroder martin<sep>griffith, william petit<sep>schroder, martin<sep>griffith, william petit65 richmond park roadlondon, sw14gb<sep>schroder, martin44 waldemar avenuelondon, sw6gb<sep>griffith, william petit<sep>schroder, martin<sep>griffith, william petit65 richmond park roadlondon, sw14gb<sep>schroder, martin44 waldemar avenuelondon, sw6gb<sep>
+</INVENTOR>
+<ABSTRACT>
+organic substrates are oxidised by adding them to  an aqueous solution containing a catalyst comprising the  anion (ruo₄)²⁻ in the presence of an oxidising agent, such  as an aqueous alkaline persulphate solution.  the so used  catalyst is produced by adding ruthenium trihalide to an  aqueous solution of the oxidising agent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

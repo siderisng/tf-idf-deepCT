@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005616
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01D-9/06 F01D-11/00 F16J-15/02 F16J-15/00 <main>F01D-25/24</main> F01D-25/24 F01D-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sealing assembly and method of sealing in a steam chamber and casing arrangement.
+</TITLE>
+<APPLICANT>
+carrier corpus<sep>carrier corporation<sep>carrier corporationcarrier tower 6304 carrier parkway p.o. box 4800syracuse new york 13221us<sep>carrier corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+straslicka william a<sep>straslicka, william a.<sep>straslicka, william a.p.o. box 19norvelt pennsylvania 15674us<sep>straslicka, william a.<sep>straslicka, william a.p.o. box 19norvelt pennsylvania 15674us<sep>
+</INVENTOR>
+<ABSTRACT>
+an assembly for sealing an interface (17) between a high  pressure steam chest (13) and a casing (11), wherein high  pressure steam flows from the steam chest into the interior  of the casing.  the assembly comprises a sealing element (22)  extending through the interface (17) for preventing direct  contact between the high pressure steam and the interface,  and joined to the steam chest (13) so that a steam tight joint  is developed therebetween.  the assembly further comprises  a chamber (35) defined by the steam chest (22), the casing  (11), and the sealing element (22) in communication with the  interface (17) between the steam chest and the casing; a first  passageway (36) having one end in communication with the  interior of the casing (11) and a second end in communication  with the chamber (35), for passing steam from the  interior of the casing to the chamber; and means (40), (42) for  developing a pressure differential across the first passageway  (36) so that the steam pressure at the second end of the  passageway is less than the steam pressure at the first end of  the passageway.  a low pressure region is provided having a  steam pressure lower than the steam pressure in the steam  chest (13); and a second passageway (44) is provided, having  one end in communication with the chamber (35) and a  second end in communication with the low pressure region  for passing steam from the chamber to the low pressure  region.  
+</ABSTRACT>
+</TEXT>
+</DOC>

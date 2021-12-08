@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008524
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-1/18 B01J-2/04 B05B-1/34 B05B-7/08 B05B-7/02 <main>B05B-1/06</main> F26B-3/02 F15D-1/04 B01D-1/16 B05B-7/10 F26B-3/12 B05B-1/28 B01J-2/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a gas distribution device for the supply of a processing gas to an atomizing chamber.
+</TITLE>
+<APPLICANT>
+niro atomizer asdk <sep>a/s±niro atomizer <sep>a/s niro atomizerno. 305 gladsaxevejdk-2680 soeborgdk<sep>a/s niro atomizer <sep>
+</APPLICANT>
+<INVENTOR>
+larsson finn hilding<sep>schwartzbach christian<sep>larsson, finn hilding<sep>schwartzbach, christian<sep>larsson, finn hildingno. 4 murskeen2630 tastrupdk<sep>schwartzbach, christianno. 8 brydegardsvej2760 malovdk<sep>larsson, finn hilding <sep>schwartzbach, christian<sep>larsson, finn hildingno. 4 murskeen2630 tastrupdk<sep>schwartzbach, christianno. 8 brydegardsvej2760 malovdk<sep>
+</INVENTOR>
+<ABSTRACT>
+a gas distribution device for the supply of a processing  gas to the atomizing zone around an atomizing device (1)  arranged centrally in an atomizing chamber, said gas distribu­ tion device comprises a conical guide duct (10) communicat­ ing with a horizontal spiral supply duct (8) through an annular  mouth (9).  a uniform gas distribution with respect to flow  direction and velocity is obtained by means of guide vanes  (15, 16) arranged with a small annular spacing inthe mouth (9)  and comprising two succeeding vein sets, in which the vanes  (15) of one set are shaped to deflect the tangential gas stream  in the spiral duct (8) to a flow direction, for which the radial  velocity component considerably exceeds the tangential  component, whereas each vane (16) of the other set  positioned at the opening of the mouth towards the conical  guide duct (10) projects into the space between neighbouring  vanes (15) of the first set and extends substantially parallel to  tangential planes to said vanes (15) at their internal edges.  
+</ABSTRACT>
+</TEXT>
+</DOC>

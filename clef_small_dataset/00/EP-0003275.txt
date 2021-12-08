@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003275
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-9/00 A61K-31/665 A61P-31/00 A61K-31/66 A61P-31/16 A61P-31/12 C07F-9/38 <main>C07F-9/40</main> C07F-9/40 A61P-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+aromatic derivatives of phosphonoformic acid, processes for their preparation, pharmaceutical compositions containing them and their use for combating virus infections.
+</TITLE>
+<APPLICANT>
+astra laekemedel abse  <sep>astra lakemedel aktiebolag<sep>astra läkemedel aktiebolagsträngnäsvägen 44151 85 södertäljese<sep>astra lakemedel aktiebolag<sep>
+</APPLICANT>
+<INVENTOR>
+helgstrand ake john erik<sep>johansson karl nils-gunnar<sep>misiorny alfons<sep>noren jan-olof<sep>stening goran bertil<sep>helgstrand, ake john erik<sep>johansson, karl nils-gunnar<sep>misiorny, alfons<sep>noren, jan-olof<sep>stening, goran bertil<sep>helgstrand, ake john erikbäverstigen 32s-150 23 enhörnase<sep>johansson, karl nils-gunnarbäverstigen 19s-150 23 enhörnase<sep>misiorny, alfonslerbäcksgränd 30s-124 43 bandhagense<sep>norén, jan-olofvarstavägen 77s-140 32 grödingese<sep>stening, göran bertilpuckvägen 8s-151 50 södertäljese<sep>helgstrand, ake john erik<sep>johansson, karl nils-gunnar<sep>misiorny, alfons<sep>noren, jan-olof<sep>stening, goran bertil<sep>helgstrand, ake john erikbäverstigen 32s-150 23 enhörnase<sep>johansson, karl nils-gunnarbäverstigen 19s-150 23 enhörnase<sep>misiorny, alfonslerbäcksgränd 30s-124 43 bandhagense<sep>norén, jan-olofvarstavägen 77s-140 32 grödingese<sep>stening, göran bertilpuckvägen 8s-151 50 södertäljese<sep>
+</INVENTOR>
+<ABSTRACT>
+a compound of the formula    wherein r₁, r₂ and r₃ are the same or different, and each is  selected from the group consisting of hydrogen and phenyl  groups of the formula    wherein r₄ and r₅ are the same or different and each is  selected from the group consisting of hydrogen, halogen,  alkyl having 1, 2, or 3 carbon atoms, alkoxy having 1, 2, or 3  carbon atoms, alkoxycarbonyl having 2-7 carbon atoms; and  alkylcarbonyl groups having 2-7 carbon atoms; or r₄ and r₅  together form a straight saturated alkylene chain having 3 or  4 carbon atoms and being bound to adjacent positions, i. e.   2,3- or 3,4- in the phenyl ring; provided that one of r₁ and r₂  is a phenyl group of the formula ii when r₃ is h; and  physiologically acceptable salts and optical isomers thereof;  methods for preparation of the compounds, pharmaceutical  compositions containing them, and their medicinal use.  
+</ABSTRACT>
+</TEXT>
+</DOC>

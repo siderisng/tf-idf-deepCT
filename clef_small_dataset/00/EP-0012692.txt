@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012692
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F24J-3/02</main> F24J-2/04 F24J-2/05 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+solar-energy transfer element to be introduced into the casing of a solar collector, and solar collector equipped therewith.
+</TITLE>
+<APPLICANT>
+lampes safr  <sep>compagnie des lampes<sep>compagnie des lampes29, rue de lisbonnef-75008 parisfr<sep>compagnie des lampes<sep>
+</APPLICANT>
+<INVENTOR>
+herbert patrick<sep>scoarnec louis<sep>herbert, patrick<sep>scoarnec, louis<sep>herbert, patrick"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>scoarnec, louis"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>herbert, patrick<sep>scoarnec, louis <sep>herbert, patrick "thomson-csf" - scpi 173, bld haussmann f-75360 paris cedex 08fr<sep>scoarnec, louis"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an element of transfer of solar energy by heat transfer fluid.It is constituted by a combination of three tubes: the first is introduced in the hollow section, section (SV), the sensor casing;The second connecting the general circuit upstream to this element, comprises a straight portion plunging inside the first tube and a flattened portion intended to be adapted to the flattened part of a third tube connecting, downstream, this element to the circuit.General of the fluid cirth.The first tube is closed by means of a hollow connection cap and the section (S1) and (S2) respectively of the first and second tube are choi sies so that (S1-S2) is substantially equal to (S2),Section (S1), being nevertheless close to section (SV) of the hollow portion of the pattern.The invention applies to solar sensor.
+</ABSTRACT>
+</TEXT>
+</DOC>

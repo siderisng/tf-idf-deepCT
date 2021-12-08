@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003666
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-69/66 C07C-69/38 C07C-29/64 C07C-245/18 C07C-29/00 C07D-307/93 C07C-67/00 <main>C07D-307/93</main> C07C-69/72 C07D-307/00 C07C-61/40 C07C-113/00 C07C-245/00 C07C-241/00 C07C-29/09 C07C-69/74 C07C-69/00 C07C-61/00 C07C-61/04 C07C-29/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxabicyclo  3.1.0  hexanes useful in the production of cyclopropanecarboxylate insecticides and intermediate compounds.
+</TITLE>
+<APPLICANT>
+fmc corpus<sep>fmc corporation<sep>fmc corporation2000 market streetphiladelphia pennsylvania 19103us<sep>fmc corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hatch charles eldrige<sep>kondo kiyoshi <sep>takashima toshiyuki<sep>tunemoto daiei  <sep>hatch, charles eldrige<sep>kondo, kiyoshi<sep>takashima, toshiyuki<sep>tunemoto, daiei<sep>hatch, charles eldrige284 wargo roadpennington new jersey 08534us<sep>kondo, kiyoshichuo-rinkan 5-16-4yamato kanagawajp<sep>takashima, toshiyukikokubinjidai 1-7-20ebina kanagawajp<sep>tunemoto, daieiminamidai-1-9-2sagamihara kanagawajp<sep>hatch, charles eldrige<sep>kondo, kiyoshi<sep>takashima, toshiyuki<sep>tunemoto, daiei<sep>hatch, charles eldrige284 wargo roadpennington new jersey 08534us<sep>kondo, kiyoshichuo-rinkan 5-16-4yamato kanagawajp<sep>takashima, toshiyukikokubinjidai 1-7-20ebina kanagawajp<sep>tunemoto, daieiminamidai-1-9-2sagamihara kanagawajp<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides compounds of the formulae:    in which r is hydrogen or cx₃, each x, which is the same  as or different from the other, is a chlorine or bromine  atom, r¹ is lower alkyl or lower alkoxy, r² is hydrogen,  lower alkoxycarbonyl or lower alkanoyl, and r³ is hydrogen  or lower alkoxycarbonyl.  the compounds of formula iii are made by intramolecular  carbenoid cyclization of compounds of formula ii;  the compounds of formula ii are made from compounds of  formula i, e. g.  by treatment with azide followed by a base;  the compounds of formula i are prepared by reacting an  alcohol of formula:    with a hydrazone.  those compounds of formula i in which r is cx₃ can  be converted to a compound of the formula:    in which the carboxy and dihalovinyl groups are cis with  respect to each other, which are insecticidal, by treatment  with certain metals in selected solvents.  
+</ABSTRACT>
+</TEXT>
+</DOC>

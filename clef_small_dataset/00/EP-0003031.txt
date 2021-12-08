@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003031
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02G-5/00 H02G-5/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compressed gas-insulated high voltage line.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft  <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+diessner arminde<sep>diessner, armin<sep>diessner, armincicerostrasse 60d-1000 berlin 31de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a pressure gas-insulated high voltage line which has a metal capsule (1) and carries the high voltage leading conductors (2) by means of support insulators (3).To achieve a displaceability of the conductor (2) relative to the encapsulation (1) in the axial direction according to the invention, at least two parallel sliding guide bolts (8) are provided which extend axially to the high voltage conductor (2) and for encapsulation (1).They are connected to one end (6) of the support insulator (3) and supported on the high voltage conductor (2).With the longitudinal displaceability, different length changes of the high voltage conductor (2) relative to the encapsulation (1) at thermal load of the high voltage line (2) are compensated.Pressure gas-insulated high voltage lines of this type are used in power supplies with voltages between 110 and 765 kV.
+</ABSTRACT>
+</TEXT>
+</DOC>

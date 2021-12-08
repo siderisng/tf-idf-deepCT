@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000245
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65G-59/00 G07F-9/10 G07F-11/46 G07F-11/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dispensing apparatus.
+</TITLE>
+<APPLICANT>
+hicks kevin joseph <sep>hicks, kevin joseph <sep>hicks, kevin joseph36 northarm roadmiddle cove new south wales 2068au<sep>
+</APPLICANT>
+<INVENTOR>
+hicks kevin joseph<sep>hicks, kevin joseph<sep>hicks, kevin joseph36 northarm roadmiddle cove new south wales 2068au<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for dispensing articles, particularly, but  not necessarily, packaged food articles which are warmed  within the apparatus.  the apparatus comprises a storage  zone, a dispensing zone (15) and a conveyor (25) for conveying  articles between the storage zone and the dispensing  zone (15).  articles are loaded into vacant holders (36) in a  loading zone and such loading is controlled by a detector (71)  which detects for the presence of articles in holders (36)  which are at any one time approaching the loading zone.  a  further detector (81) detects for a vacancy in the dispensing  zone (15) and, if such vacancy exists, an article is transferred  from an associated holder (36) to the dispensing zone (15).  
+</ABSTRACT>
+</TEXT>
+</DOC>

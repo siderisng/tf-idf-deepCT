@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006287
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03K-3/289</main> B60S-1/08 H03K-3/289 H03K-3/013 H03K-3/023 H03K-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+master-slave flip-flop circuits.
+</TITLE>
+<APPLICANT>
+lucas industries ltdgb<sep>lucas industries limited<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>lucas industries public limited company  <sep>
+</APPLICANT>
+<INVENTOR>
+lambert kenneth william<sep>lambert, kenneth william<sep>lambert, kenneth william51 howley grange roadhalesowen west midlands, b62 ohwgb<sep>lambert, kenneth william<sep>lambert, kenneth william51 howley grange roadhalesowen west midlands, b62 ohwgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a d. c.  triggered master-slave flip-flop circuit includes  a master flip-flop (103) with a capacitive delay means (c2)  at its input, and a slave flip-flop (104) having its input con­ nected to the output of the master flip-flop.  a capacitive  delay means (c3) is connected at the input of the slave  flip-flop.  the slave flip-flop controls the connections at the  input of the master flip-flop in known manner.  the two  capacitive delay means (c2, c3), serve to make each flip-­ flop circuit immune to noise pulses and also eliminate mul­ tiple triggering caused by contact bounce when the circuit  is controlled by mechanical contacts.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010570
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-15/177 H04Q-3/545 G06F-9/48 G06F-9/46 G06F-15/16 <main>G06F-3/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for self-adaptive load association in a data processing system.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+freeland joseph watkins<sep>gaffney jr john elmer<sep>isert irwin leonard<sep>freeland, joseph watkins<sep>gaffney, jr., john elmer<sep>isert, irwin leonard<sep>freeland, joseph watkins8607 jackson ave.manassas va. 22110us<sep>gaffney, jr., john elmer9107 friars rd.bethesda md. 20034us<sep>isert, irwin leonard11807 foxclove rd.reston va. 22091us<sep>freeland, joseph watkins<sep>gaffney, jr., john elmer  <sep>isert, irwin leonard <sep>freeland, joseph watkins8607 jackson ave.manassas va. 22110us<sep>gaffney, jr., john elmer9107 friars rd.bethesda md. 20034us<sep>isert, irwin leonard11807 foxclove rd.reston va. 22091us<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for self-adaptive control of the workload of a data processing system, the stress of resources, for. b. The central processing unit (CPU 2), through the individual cyclically sequentially called and each of several individual steps consisting of processes such that each process is requested from depending on the current degree of loading of the equipment more or less individual steps. For example, in a process, it may be an application program in a multi-program system or a program that runs out of a composite system of a composite system. Each per zeß sets the time that lies between two colors to call this process and compares it with a predetermined, adjustable threshold (T₁). If the threshold is exceeded by too high Bela stung the resource, the process reduces the number of requested single steps. In a partition for carrying out the method in a composite system with a plurality of processing units, each unit (20, 22) contains registers for storing the time of the above and the current call whose difference in a comparison circuit (34) with a also ge stored threshold value (T₁ in register 36) is compared. Depending on the comparison result, a control memory (24) is addressed, which specifies a certain number of required for each of the determined conditions to request the single steps. The priority of the various processing means can be taken into account by multiplication (in Unit 35) of the read number of individual steps with a constant priority-dependent KONSTAN.
+</ABSTRACT>
+</TEXT>
+</DOC>

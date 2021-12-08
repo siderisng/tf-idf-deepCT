@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005098
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-409/00 C07C-409/42 C11D-3/39 <main>C07C-179/22</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compositions containing alkali metal mono- or polyalkylarylsulfonate and the corresponding hydroperoxide; process for their preparation and detergent compositions containing them.
+</TITLE>
+<APPLICANT>
+charbonnages ste chimique fr <sep>societe chimique des charbonnages<sep>société chimique des charbonnagestour aurore place des reflets cédex no 5f-92080 paris la défense 2fr<sep>societe chimique des charbonnages <sep>
+</APPLICANT>
+<INVENTOR>
+caux gerard<sep>couderc pierre<sep>grardel jean-luc<sep>caux, gerard<sep>couderc, pierre<sep>grardel, jean-luc<sep>caux, gérard45, rue des marronniersaix noulette f-62160 bully les minesfr<sep>couderc, pierre78, rue emile zolaf-62400 bethunefr<sep>grardel, jean-luc27, rue du capitainecoussette-annezin f-62400 bethunefr<sep>caux, gerard <sep>couderc, pierre  <sep>grardel, jean-luc<sep>caux, gérard45, rue des marronniersaix noulette f-62160 bully les minesfr<sep>couderc, pierre78, rue emile zolaf-62400 bethunefr<sep>grardel, jean-luc27, rue du capitainecoussette-annezin f-62400 bethunefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The compositions according to the invention are solid and dry mixtures of a mono or polyalkylarylsulfonate of an alkali metal (I), of the corresponding hydroperoxide (II) and possibly alcohol (III) from the decomposition at least partial hydroperoxide. M: alkali metal such as NA RH: lower alkyl radical, preferably isopropyl R ': lower alkyl radical N: integer less than the peroxidation of sulfonates I is carried out using oxygen in aqueous solution, at a temperature not greater than 85 ° C, at a pH of between 9 and 10.5, in the presence of 1 to 50 ppm cobalt, by weight relative to I, in the form of cobalt naphthenate. Obtaining dry compositions containing I, II and possibly III is performed by partial precipitation of the reaction medium, filtration and drying of the filtrate enriched in hydroperoxide II. Hydroperoxide II finds an application as a whittleing agent in textile washing. The invention also relates to dry detergent compositions containing the dry mixtures of I and II and possibly III.
+</ABSTRACT>
+</TEXT>
+</DOC>

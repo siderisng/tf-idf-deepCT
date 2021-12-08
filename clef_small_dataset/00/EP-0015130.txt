@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015130
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 G10K-11/34 G01N-29/00 G10K-11/00 A61B-8/00 <main>A61B-10/00</main> G01S-15/02 G01S-7/523 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ultrasonic linear array beamforming apparatus.
+</TITLE>
+<APPLICANT>
+commw of australiaau<sep>the commonwealth of australia<sep>the commonwealth of australiac/o the department of health alexander buildingphillip australian capital territory 2606au<sep>the commonwealth of australia<sep>
+</APPLICANT>
+<INVENTOR>
+gill robert wyatt<sep>gill, robert wyatt<sep>gill, robert wyatt36 foucart streetrozelle, new south walesau<sep>gill, robert wyatt<sep>gill, robert wyatt36 foucart streetrozelle, new south walesau<sep>
+</INVENTOR>
+<ABSTRACT>
+steering and focusing acoustic beams in ultrasonic  echoscopy, and in other acoustic techniques, can be effected  using linear arrays of acoustic transducers (10).  the focusing  and steering can be improved by using linked delay lines (21,  22) connected to the transducers (10) when the transducers  operate in a receive mode, with delay values which are both  linear and quadratic values of the distance of the respective  transducer from the centre of the array.  
+</ABSTRACT>
+</TEXT>
+</DOC>

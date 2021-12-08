@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016472
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04J-3/02 H04L-25/22 H04B-3/03 H04B-14/04 H04B-3/02 <main>H04B-3/03</main> H04B-1/54 H04B-12/02 H04B-1/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arrangement with a hybrid for the two-wire to four-wire transition in pcm-time division multiplexing systems.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+lechner robert dipl-ing<sep>lechner, robert, dipl.-ing.<sep>lechner, robert, dipl.-ing.haidfeldstrasse 5d-8156 otterfingde<sep>lechner, robert, dipl.-ing.<sep>lechner, robert, dipl.-ing.haidfeldstrasse 5d-8156 otterfingde<sep>
+</INVENTOR>
+<ABSTRACT>
+The arrangement contains a fork circuit for the two-wire four-wire transition into PCM time multiplexing systems, which is connected on the two-wire side with a feeding bridge, wherein in the reception branch of the four-wire line a low-pass filter with negligence sigbar output impedance and in the transmission branch of the four wire line a low-pass filter with high input impedance lies. The arrangement has the features that certain characteristic values ​​of the two-wire side is given a particular behavior that the receiving branch of the four-wire line device with an ohmic resistor (RA) is completed, the resistance value with certain characteristics of the two-wire and the four-wire side also in one Specific relationship is that the output signal of the low pass (EF) lying in the receiving branch (EF) via a four-pin circuit (VP), which is constructed from resistors and optionally a capacitor, is superimposed on the input signal from the two-wire line device for the low pass (SF) in the transmission branch , wherein the dimensioning of the four-pole is so taken so that the two four-wire branches are coupled, and that the low passes (EF, SF) are dimensioned so that they compensate for the term distortions caused by the fork circuit.
+</ABSTRACT>
+</TEXT>
+</DOC>

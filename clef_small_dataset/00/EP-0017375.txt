@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017375
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01C-7/04 G01N-27/12 G01N-27/409 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+exhaust gas sensor having porous metal-impregnated ceramic element.
+</TITLE>
+<APPLICANT>
+ford francefr<sep>ford motor cogb<sep>ford motor cous<sep>ford werke agde<sep>ford france societe anonyme <sep>ford motor company<sep>ford motor company limited  <sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor companythe american roaddearborn, mi 48121us<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>
+</APPLICANT>
+<INVENTOR>
+esper michael josephus<sep>green wells leous<sep>merchant stanley richardus<sep>esper, michael joseph<sep>green, wells leo<sep>merchant, stanley richard<sep>esper, michael joseph11690 riverdaleredford michigan 48239us<sep>green, wells leo28677 leona streetgarden city michigan 48135us<sep>merchant, stanley richard30001 leonagarden city michigan 48135us<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved sensor having a ceramic element (46) that  undergoes a change in an electrical characteristic in re­ sponse to a change in the partial pressure of oxygen in a  mixture of gases to which the ceramic element (46) is  exposed.  sensors of this type are used to detect the air/fuel  ratio of mixtures supplied to internal combustion engines.   prior art sensors are characterized by little change in their  respective electrical characteristics at low operating temper­ atures.  a charge transfer material, platinum or platinum/­ rhodium is applied to the ceramic element (46) to facilitate or  make possible the electron transfers required for sensor  operation at low temperatures.  
+</ABSTRACT>
+</TEXT>
+</DOC>

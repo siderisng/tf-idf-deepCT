@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001824
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-53/08 C07C-43/00 C07C-67/14 C07C-43/23 C07C-43/295 A01N-53/00 <main>C07C-69/743</main> C07C-43/29 C07C-41/00 C07C-69/00 C07C-69/747 C07C-41/30 A01N-37/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3-phenoxy-alpha-vinylbenzylesters of vinylcyclopropanecarboxylic acids, process for their preparation and their use as pesticides.
+</TITLE>
+<APPLICANT>
+ciba geigy ag ch<sep>ciba-geigy ag  <sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+ackermann peter dr<sep>drabek jozef dr<sep>farooq saleem dr<sep>gsell laurenz dr<sep>kristiansen odd dr<sep>ackermann, peter, dr.<sep>drabek, jozef, dr.<sep>farooq, saleem, dr.<sep>gsell, laurenz, dr.<sep>kristiansen, odd, dr.<sep>ackermann, peter, dr.reichensteinerstrasse 12ch-4153 reinachch<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>farooq, saleem, dr.im schaiengarten 2ch-4107 ettingench<sep>gsell, laurenz, dr.poolstrasse 26ach-4414 füllinsdorfch<sep>kristiansen, odd, dr.delligrabenstrasse 7ch-4313 möhlinch<sep>ackermann, peter, dr.  <sep>drabek, jozef, dr. <sep>farooq, saleem, dr.<sep>gsell, laurenz, dr.<sep>kristiansen, odd, dr.<sep>ackermann, peter, dr.reichensteinerstrasse 12ch-4153 reinachch<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>farooq, saleem, dr.im schaiengarten 2ch-4107 ettingench<sep>gsell, laurenz, dr.poolstrasse 26ach-4414 füllinsdorfch<sep>kristiansen, odd, dr.delligrabenstrasse 7ch-4313 möhlinch<sep>
+</INVENTOR>
+<ABSTRACT>
+Vinylcyclopropankarboxylic acid-3-phenoxy-α-vinylbenzyl ester of the formula wherein X₁ fluorine, chlorine or bromine, x₂ is hydrogen or bromine and y hydrogen or methyl, processes for their preparation and their use in pest control.
+</ABSTRACT>
+</TEXT>
+</DOC>

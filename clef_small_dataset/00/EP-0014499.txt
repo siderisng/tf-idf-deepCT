@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014499
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+F22B-1/00 F22B-37/20 F22B-37/00 <main>F22B-1/18</main> F22B-1/08 F22B-1/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vapour generator.
+</TITLE>
+<APPLICANT>
+gen atomic cous   <sep>general atomic company<sep>general atomic company10955 john jay hopkins drivesan diego california, 92121us<sep>general atomic company<sep>
+</APPLICANT>
+<INVENTOR>
+hirschle george walter<sep>taylor edward sturrock<sep>hirschle, george walter<sep>taylor, edward sturrock<sep>hirschle, george walterweidstrasse 4ch-8542 wiesendangench<sep>taylor, edward sturrock14774 via de la valledel mar california 92014us<sep>hirschle, george walter  <sep>taylor, edward sturrock<sep>hirschle, george walterweidstrasse 4ch-8542 wiesendangench<sep>taylor, edward sturrock14774 via de la valledel mar california 92014us<sep>
+</INVENTOR>
+<ABSTRACT>
+the vapour generator comprises cross-over tubes (15)  joining a high temperature tube bundle (12) and a low  temperature tube bundle (11).  the vapour generator also  comprises directing plates (26,28) for directing a heating fluid  flowing from one of these tube bundles through the other one.   the cross-over tubes are positioned on the side of the  directing plates opposite the side thereof where the tube  bundles are located in an area out of the flow of the heating  fluid, thus reducing the temperature and material stresses of  the cross-over tubes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

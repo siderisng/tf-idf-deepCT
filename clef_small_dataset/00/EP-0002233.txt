@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002233
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01Q-3/04</main> H01Q-3/02 H01Q-21/06 H01Q-3/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rotatable short-wave antenna support.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & cie de  <sep>brown, boveri & cie aktiengesellschaft mannheim<sep>brown, boveri &amp; cie aktiengesellschaft mannheimkallstadter strasse 1d-6800 mannheim käfertalde<sep>brown, boveri & cie aktiengesellschaft mannheim<sep>
+</APPLICANT>
+<INVENTOR>
+oniz akkor<sep>oniz, akkor<sep>öniz, akkorwielandstrasse 5d-6805 heddesheimde<sep>oniz, akkor  <sep>öniz, akkorwielandstrasse 5d-6805 heddesheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a short-wave rotating antenna stand with a vertically disposed frame, between which there are clamped in the manner of a surface a grid-type reflector (9) common to all antennae and, on both sides in one plane parallel thereto, curtain antennae (10), the frame being rotatable about its vertical axis and the transmission energy being supplied from the middle, characterized in that a central mast (2) is provided which is rotatable about an axis (3), mounted exclusively centrally and provided at the top and bottom with brackets (5), between which several reflectors (9) and antennae (10) are clamped. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005948
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41F-33/02 D06P-5/28 B41F-16/02 B41M-5/035 D06B-11/00 D06P-5/24 B41F-16/00 B41F-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a transfer and process for its use in determining repeatable process conditions for transfer printing.
+</TITLE>
+<APPLICANT>
+transprints ukgb <sep>transprints (u.k.) limited <sep>transprints (u.k.) limitedshepley road audenshawmanchester m34 5drgb<sep>
+</APPLICANT>
+<INVENTOR>
+wyles john michaelgb<sep>wyles, john michael<sep>wyles, john michael4 almondroydheckmondwike west yorkshire wf16 9bpgb<sep>
+</INVENTOR>
+<ABSTRACT>
+it is difficult to be sure that the actual conditions in a  transfer printing machine correspond to the conditions  required for a desired depth of hue and shade.  a transfer is provided which comprises a stable inert  carrier which carries on at least a part thereof a layer  containing a mixture of at least two sublimable dyes of  contrasting hue and differing transfer characteristics, so  chosen that a test print from the transfer will vary in hue or  depth of shade with varying conditions of transfer.  a standard print is also provided such that a test print  from the transfer will match the standard print if the transfer  printing machine was operating under the required conditions.  the standard may be produced separately under carefully  controlled transfer conditions or may be produced in situ  with the test print.  in the latter case the transfer sheet has, in  an area adjacent to the two sublimable dyes of different  characteristics which form the test print, a layer containing  one or more dyes so chosen that the test print will match if  the print is made under the pre-defined transfer conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012776
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+D06M-13/00 D06M-15/00 D06M-13/02 D06M-13/203 D04H-1/64 <main>D04H-1/64</main> C08L-33/08 C08L-33/00 D06M-13/184 D06N-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for bonding non-woven fabrics.
+</TITLE>
+<APPLICANT>
+freudenberg carl fa <sep>firma carl freudenberg<sep>firma carl freudenberghöhnerweg 2-4d-69469 weinheimde<sep>firma carl freudenberg<sep>
+</APPLICANT>
+<INVENTOR>
+fahrbach erich dr<sep>fottinger walter dr<sep>tecl bohuslav<sep>fahrbach, erich, dr.<sep>fottinger, walter, dr.<sep>tecl, bohuslav<sep>fahrbach, erich, dr.zinkgräfstrasse 62d-6940 weinheim/bergstrassede<sep>föttinger, walter, dr.leberstrasse 77d-6940 weinheim/bergstrassede<sep>tecl, bohuslavim langgewann 57d-6940 weinheim/bergstrassede<sep>fahrbach, erich, dr.<sep>fottinger, walter, dr.  <sep>tecl, bohuslav <sep>fahrbach, erich, dr.zinkgräfstrasse 62d-6940 weinheim/bergstrassede<sep>föttinger, walter, dr.leberstrasse 77d-6940 weinheim/bergstrassede<sep>tecl, bohuslavim langgewann 57d-6940 weinheim/bergstrassede<sep>
+</INVENTOR>
+<ABSTRACT>
+Methods for solidifying an unbound fasculine read from natural and / or synthetic threads with a UV-curing binder.The nonwoven fabric is first compressed in a calender, smoothed and heated without fiber bonding before printing with the prepolymer binder.The binder has a viscosity of 500 to 5000 m PAS / sec during processing.and it is cured by irradiating the surface of the printed nonwoven fabric with ultraviolet light.Operating speeds of more than 50 m / min are accessible.
+</ABSTRACT>
+</TEXT>
+</DOC>

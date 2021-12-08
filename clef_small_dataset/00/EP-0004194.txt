@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004194
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60K-1/04 B60L-11/14 B60W-10/02 B60K-6/00 B60K-6/387 B60K-6/44 B60K-6/52 B60K-17/04 B60K-1/02 B60W-10/08 B60W-20/00 B60K-1/00 B60W-10/06 B60K-6/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hybrid car with electric and heat engine.
+</TITLE>
+<APPLICANT>
+hybricon inc us  <sep>hybricon, inc.<sep>hybricon, inc.11489 chandler boulevardnorth hollywood californiaus<sep>
+</APPLICANT>
+<INVENTOR>
+fields gerald martinus<sep>metzner robert gersonus<sep>fields, gerald martin<sep>metzner, robert gerson<sep>fields, gerald martin325 north oakhurstbeverly hills californiaus<sep>metzner, robert gerson916 north foothill roadbeverly hills californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a car having a heat engine (14) driving a set of front  wheels (5a), storage batteries (12) and electric motors (1)  driving a set of rear wheels (5).  battery charging power is  derived from the electric motors (1) acting as generators, and  the battery charging rate is selected by the operator.  also in  combination is a regenerative braking system and an over-drive  system to increase vehicle speed in the electric drive  mode by field weakening.  protective systems are included to  prevent overcharge of the storage batteries and to prevent  accidental and cataclysmic closing at high speeds of the electric  clutches (2) connecting the electric motors to the rear  wheels.  a differential turn system eliminates undesirable  loading of one of the eletric motors while the vehicle is  turning in the electric drive mode by decreasing the power  fed to both motors.  excessive loading of the heat engine by  the battery charging system is eliminated on hills and during  acceleration.  a battery ventilation (11) system for explosive  gases generated during charging of the main batteries is disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

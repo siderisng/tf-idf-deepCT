@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006998
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/53 G01N-33/78 <main>G01N-33/78</main> C12Q-1/28 G01N-33/74 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and test kit for the determination of the thyroxine binding globulin.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+deutsch gerlinde<sep>gruber wolfgang dr<sep>kleinhammer gerd dr <sep>linke hans-ralf dr<sep>stahler fritz dr  <sep>deutsch, gerlinde<sep>gruber, wolfgang, dr.<sep>kleinhammer, gerd, dr.<sep>linke, hans-ralf, dr.<sep>stahler, fritz, dr.<sep>deutsch, gerlindelindenberg 15d-8134 pöckingde<sep>gruber, wolfgang, dr.am oberanger 7d-8132 tutzing-unterzeismeringde<sep>kleinhammer, gerd, dr.heinrich vogl strasse 1d-8132 tutzingde<sep>linke, hans-ralf, dr.andechser strasse 7d-8919 raistingde<sep>stähler, fritz, dr.heimgartenstrasse 4d-8132 tutzingde<sep>deutsch, gerlinde<sep>gruber, wolfgang, dr.<sep>kleinhammer, gerd, dr.<sep>linke, hans-ralf, dr.<sep>stahler, fritz, dr.<sep>deutsch, gerlindelindenberg 15d-8134 pöckingde  <sep>gruber, wolfgang, dr. am oberanger 7d-8132 tutzing-unterzeismeringde<sep>kleinhammer, gerd, dr.heinrich vogl strasse 1d-8132 tutzingde<sep>linke, hans-ralf, dr.andechser strasse 7d-8919 raistingde<sep>stähler, fritz, dr.heimgartenstrasse 4d-8132 tutzingde<sep>
+</INVENTOR>
+<ABSTRACT>
+The thyroxine binding index in the serum is determined by the serum sample to be examined with a certain amount of thyroxine and a certain amount of a kova lent to thyroxine-bonded determinable enzymes such.b.Peroxidase, which contacts obtained in solid phase antithyroxine antibodies obtained, which is separated from the solid phase, and the activity of the determinable enzyme used is measured in one of the phases.
+</ABSTRACT>
+</TEXT>
+</DOC>

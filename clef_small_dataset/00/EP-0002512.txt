@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002512
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-221/00 C07D-221/16 C07D-471/00 A61P-25/00 A61K-31/55 C07D-213/82 A61P-25/08 C07D-471/18 C07D-213/80 A61K-31/435 <main>C07D-471/18</main> A61P-21/00 A61P-25/20 A61P-25/26 A61P-21/02 C07D-213/00 A61K-31/46 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+imino-bridged benzocycloheptapyridines, process for their preparation and pharmaceutical composition thereof.
+</TITLE>
+<APPLICANT>
+merck & co incus<sep>merck & co. inc.  <sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us<sep>merck & co. inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+gordon brenner daniel<sep>halczenko wasyl<sep>leroy shephard kenneth<sep>gordon, brenner daniel<sep>halczenko, wasyl<sep>leroy, shephard kenneth<sep>gordon, brenner daniel11 pitcher avenuemedford ma 02155us<sep>halczenko, wasyl1003 clymer roadhatfield pa 19440us<sep>leroy, shephard kenneth726 marietta driveambler r.d. pa 19002us<sep>gordon, brenner daniel<sep>halczenko, wasyl<sep>leroy, shephard kenneth<sep>gordon, brenner daniel11 pitcher avenuemedford ma 02155us<sep>halczenko, wasyl1003 clymer roadhatfield pa 19440us<sep>leroy, shephard kenneth726 marietta driveambler r.d. pa 19002us<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula    wherein r₁ and r₂ are hydrogen, alkyl, alkenyl, phenylalkyl,  cycloalkyl or cycloalkylalkyl, r is r₁, phenyl or dialkylaminoalkyl,  and r₃ is hydrogen, halogen, alkoxy, trifluoromethylthio,  cyano or carboxy, are useful as anti-auxiety  agents, as muscle relaxants and in the treament of extra-pyramidal  disorders such as in parkinson's disease.  
+</ABSTRACT>
+</TEXT>
+</DOC>

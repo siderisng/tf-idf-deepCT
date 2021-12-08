@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014929
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12Q-1/34 C07D-327/04 C09B-11/00 G01N-33/50 C09B-43/20 G01N-33/15 <main>C12Q-1/00</main> C07D-327/00 C09B-11/08 C12Q-1/04 C12Q-1/37 C12Q-1/44 G01N-33/48 C09B-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diagnostic means, process for its preparation and its use in determining leucocytes in body fluids.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+berger dieter dr rer nat<sep>frey gunter<sep>kuhr manfred dr rer nat<sep>werner wolfgang dr rer nat<sep>berger, dieter, dr.rer.nat.<sep>frey, gunter<sep>kuhr, manfred, dr.rer.nat.<sep>werner, wolfgang, dr.rer.nat.<sep>berger, dieter, dr.rer.nat.bensheimer-strasse 45d-6806 viernheimde<sep>frey, günterpfalzgrafenstrasse 7d-6701 ellerstadtde<sep>kuhr, manfred, dr.rer.nat.werthmannweg 23d-6800 mannheim 31de<sep>werner, wolfgang, dr.rer.nat.meissner weg 39d-6800 mannheim 42de<sep>berger, dieter, dr.rer.nat. <sep>frey, gunter  <sep>kuhr, manfred, dr.rer.nat.<sep>werner, wolfgang, dr.rer.nat.<sep>berger, dieter, dr.rer.nat.bensheimer-strasse 45d-6806 viernheimde<sep>frey, günterpfalzgrafenstrasse 7d-6701 ellerstadtde<sep>kuhr, manfred, dr.rer.nat.werthmannweg 23d-6800 mannheim 31de<sep>werner, wolfgang, dr.rer.nat.meissner weg 39d-6800 mannheim 42de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a diagnostic agent for detection of esterolytic and / or proteolytic enzymes in body fluids containing in addition to a conventional esterase and / or protease substrate and conventional additional auxiliary substances, one or more activators.In particular, pyridine and imidazole derivatives, certain alcohols and metal complexes are suitable as activators.The invention further relates to the preparation of these diagnostic agents as well as their use for the detection of leukocytes in body fluids, especially in urine.
+</ABSTRACT>
+</TEXT>
+</DOC>

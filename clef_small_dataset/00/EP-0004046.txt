@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004046
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-1/66 H04L-27/12 H04L-27/32 H04L-27/10 <main>H04L-27/12</main> H03C-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for amplitude and frequency modulating a signal.
+</TITLE>
+<APPLICANT>
+western electric cous <sep>western electric company, incorporated<sep>western electric company, incorporated 222 broadway new york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+salz jack<sep>werner jean jacques<sep>salz, jack<sep>werner, jean jacques<sep>salz, jack38 dogwood lanefair haven new jersey 07701us<sep>werner, jean jacques56 wedgewood circleeatontown new jersey 07724us<sep>salz, jack  <sep>werner, jean jacques<sep>salz, jack38 dogwood lanefair haven new jersey 07701us<sep>werner, jean jacques56 wedgewood circleeatontown new jersey 07724us<sep>
+</INVENTOR>
+<ABSTRACT>
+combined amplitude and frequency-shift-keying (am-fsk)  modulation of a carrier wave by the same baseband  data signal achieves significant suppression of one of the  sidebands to ease the design requirements of filters generally  used in the transmission of fsk signals.  significant suppression  effect is observed when the ratio of minimum to  maximum amplitude of the envelope of the amplitude modulated  carrier wave is restrained to be approximately between  0. 6 and 0. 9.  
+</ABSTRACT>
+</TEXT>
+</DOC>

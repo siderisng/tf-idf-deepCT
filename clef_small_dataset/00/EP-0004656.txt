@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004656
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/00 C07C-29/158 C07C-45/49 C07C-51/10 C07C-47/06 <main>C07C-27/06</main> C07C-29/00 C07C-67/00 C07C-31/08 C07C-53/08 C07C-27/22 C07C-53/00 B01J-23/00 C07C-27/06 C07C-27/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of oxygenated hydrocarbon compounds starting from a synthesis gas.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+arpe hans-jurgen dr<sep>leupold ernst ingo dr<sep>schmidt hans-joachim dr<sep>wunder friedrich dr<sep>arpe, hans-jurgen, dr.<sep>leupold, ernst ingo, dr.<sep>schmidt, hans-joachim, dr.<sep>wunder, friedrich, dr.<sep>arpe, hans-jürgen, dr.am hirtengraben 19d-6233 kelkheim (taunus)de<sep>leupold, ernst ingo, dr.am zäunefeld 15d-6392 neu-anspachde<sep>schmidt, hans-joachim, dr.burgenblick 6d-6240 königstein/taunusde<sep>wunder, friedrich, dr.jahnstrasse 46d-6093 flörsheim am mainde<sep>arpe, hans-jurgen, dr.<sep>leupold, ernst ingo, dr.<sep>schmidt, hans-joachim, dr.<sep>wunder, friedrich, dr.<sep>arpe, hans-jürgen, dr.am hirtengraben 19d-6233 kelkheim (taunus)de<sep>leupold, ernst ingo, dr.am zäunefeld 15d-6392 neu-anspachde<sep>schmidt, hans-joachim, dr.burgenblick 6d-6240 königstein/taunusde<sep>wunder, friedrich, dr.jahnstrasse 46d-6093 flörsheim am mainde<sep>
+</INVENTOR>
+<ABSTRACT>
+Acetic acid, ethanol, acetaldehyde and optionally their follow-up products are prepared by catalytic reaction of carbon monoxide with hydrogen.The catalyst contains on a support of metallic rhodium, halide ions and magnesium salts or complex compounds or compounds of magnesium with oxides of elements of groups III to VI of the periodic system.
+</ABSTRACT>
+</TEXT>
+</DOC>

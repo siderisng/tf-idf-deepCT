@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004445
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-9/64 <main>H04N-9/47</main> H04N-9/32 H04N-9/47 H04N-9/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+color television receiver.
+</TITLE>
+<APPLICANT>
+rca corpus<sep>rca corporation<sep>rca corporation30 rockefeller plazanew york, ny 10020us<sep>rca corporation<sep>
+</APPLICANT>
+<INVENTOR>
+groeneweg willem hendrik<sep>groeneweg, willem hendrik<sep>groeneweg, willem hendrikrigiblick 521ch-8913 ottenbachch<sep>groeneweg, willem hendrik  <sep>groeneweg, willem hendrikrigiblick 521ch-8913 ottenbachch<sep>
+</INVENTOR>
+<ABSTRACT>
+in a receiver subject to secam signal reception, an  fm detector responsive to the received signals has its center  frequency tuning switched between one secam subcarrier  center frequency and the other secam subcarrier  center frequency.  control of the switching, in response to  line rate burst interval pulses and to half line rate waves  from a triggered flip-flop, is such that tuning is different in  image portions of successive line intervals, but the same in  lead-in burst portions of successive line intervals.  a first  sampler effects sampling of the detector output only during  alternate burst occurrences, while a second sampler effects  sampling of the detector output during the intervening  burst occurrences.  sampler outputs are supplied to a  comparator (45) which provides an output suitable for  controlling disabling/enabling of flip-flop (29) to establish  correct phasing of the switching of the detector tuning.   where the receiver is a dual standard receiver also subject  to pal signal reception, another output is derived from the  comparator for control of the switching (35) of the receiver  between pal-reception & secam-reception operating modes.  for decoding secam transmissions, these may be  converted (31, 33, 23) to signals resembling pal transmissions,  for onward processing in a common pal-decoder  (0) used also for the pal reception.  however, if switching  tuning happens to be in the incorrect phase, the pal  chroma filter (13) may be connected to the pal decoder  (0) as though pal and not secam were being received,  until such time as the tuning is being switched in the correct  phase.  the converted secam is now switched-in (35)  to the pal decoder (0).  
+</ABSTRACT>
+</TEXT>
+</DOC>

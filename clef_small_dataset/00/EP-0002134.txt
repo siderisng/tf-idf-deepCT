@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002134
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-33/02 <main>H01L-31/18</main> C01B-33/00 H01L-31/18 C01B-33/037 H01L-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for making planar diodes with low-cost silicon substrates and solar cells produced therefrom.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kotval peshotan sohrab<sep>strock harold bunsen<sep>kotval, peshotan sohrab<sep>strock, harold bunsen<sep>kotval, peshotan sohrab8 verne placehartsdale, new yorkus<sep>strock, harold bunsen143 webber avenuenorth tarrytown new yorkus<sep>kotval, peshotan sohrab  <sep>strock, harold bunsen<sep>kotval, peshotan sohrab8 verne placehartsdale, new yorkus<sep>strock, harold bunsen143 webber avenuenorth tarrytown new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+epitaxial and diffusion-type planar diodes and solar  cells utilize low-cost refined metallurgical silicon substrates  having a substantially higher impurity content than conventional  high-cost, high purity semiconductor grade silicon.   the epitaxial type products have an n-on-p-on-p substrate  configuration, while the diffusion-type products have pentavalent  impurities diffused therein to form a p-n junction  in the low-cost silicon substrate.  one embodiment employs  a multigrained refined metallurgical silicon (rms) prepared  by precipitating essentially iron-free silicon platelets from  a solution of metallurgical grade silicon in molten aluminium,  melting said refined platelets in contact with a silica slag  and pulling silicon boules from a melt of said refined metallurgical  silicon (rms).  by directionally solidifying the refined  silicon-slag melt, a multigrained, directionally solidified  refined metallurgical silicon (ds/rms) is obtained, with  boules being pulled from a melt thereof for use as said  low-cost substrate.  the ds/rms may also be re-melted and  directionally solidified a second time with the boules being  pulled from said twice directionally-solidified material being  a desirable low cost, single crystal material suitable for use  as said substrate for planar diode and solar cell applications.  
+</ABSTRACT>
+</TEXT>
+</DOC>

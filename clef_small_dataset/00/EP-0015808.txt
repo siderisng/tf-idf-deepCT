@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015808
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01D-35/06</main> B01D-35/06 G21C-19/28 B03C-1/025 G21C-19/30 B03C-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+filter for purifying a high-pressure and high-temperature fluid, containing ferromagnetic particles.
+</TITLE>
+<APPLICANT>
+framatome safr<sep>framatome<sep>framatometour fiat 1, place de la coupole92400 courbevoiefr<sep>framatome <sep>
+</APPLICANT>
+<INVENTOR>
+dubourg michel<sep>dubourg, michel<sep>dubourg, michel2 rue saint cyranf-78320 le mesnil saint denisfr<sep>dubourg, michel <sep>dubourg, michel2 rue saint cyranf-78320 le mesnil saint denisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The filter comprises a renowned cylindrical cylindrical envelope closing steel balls between which pass the purifying fluid and a magnetization device (15, 16) of the beads at the periphery of the envelope (20).It also comprises at least one support plate (39, 40) of the beads pierced with holes and disposed transversely at a certain height in the envelope (20).the arrival and departure of the fluid are made by pipes (4, 5), one of which opens in the envelope (20) below the support plate (39, 40) of the balls and the other of which passes through thebed (32) of balls by shot of the bottom and opens above the bed (32) of balls and below the upper bottom (22) of the envelope (20) of the gossip the invention applies in particularto the filtration of the water under pressure of a pressurized water nuclear reactor.
+</ABSTRACT>
+</TEXT>
+</DOC>

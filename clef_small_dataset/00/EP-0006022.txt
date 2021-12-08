@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006022
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/00 G01B-3/00 G01D-5/12 <main>G01B-7/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+solid surface detecting and measuring device and method.
+</TITLE>
+<APPLICANT>
+inoue japax resjp<sep>inoue-japax research incorporated<sep>inoue-japax research incorporated5289 aza michimasa nagatsudamachi midorikuyokohamashi kanagawakenjp<sep>inoue-japax research incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+inoue kiyoshi<sep>inoue, kiyoshi<sep>inoue, kiyoshi3-16-8 kamiyoga setagayakutokyojp<sep>inoue, kiyoshi<sep>inoue, kiyoshi3-16-8 kamiyoga setagayakutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a position measuring system has a sensing head (20)  displaceable relative to a surface (s) to detect a predetermined  proximity relationship with the surface.  a small  vibration is imparted, by means of an electromechanical  transducer (27), to the sensing head (20) and the modification  in the mode of vibration of the sensing head caused  upon establishment of proximity with the surface (s) is  sensed by a detector (29).  the amplitude of the vibration of  the sensing head may be varied.  a measuring system for ascertaining the position of a  movable member (35) has a spindle (39) movable axially  parallel to the movable member (35).  the spindle (39) and  the movable member (35) each carry an electrode (42, 44)  with a gap therebetween.  a voltage is applied across the gap,  and the voltage across the gap is sensed as the spindle is  displaced, to ascertain the distance between the two electrodes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

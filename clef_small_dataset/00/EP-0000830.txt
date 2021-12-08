@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000830
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/73 H01L-51/42 H01L-29/28 <main>H01L-31/06</main> H01L-51/05 H01L-51/30 H01L-29/66 H01L-21/02 H01L-31/10 H01L-21/331 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photovoltaic elements.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company  <sep>
+</APPLICANT>
+<INVENTOR>
+marchetti alfred paul<sep>tang ching wan<sep>young ralph howard<sep>marchetti, alfred paul<sep>tang, ching wan<sep>young, ralph howard<sep>marchetti, alfred paul227 henderson driverenfield new yorkus<sep>tang, ching wan138, falmouth streetrochester new yorkus<sep>young, ralph howard270 cobb terracerochester new yorkus<sep>marchetti, alfred paul<sep>tang, ching wan<sep>young, ralph howard<sep>marchetti, alfred paul227 henderson driverenfield new yorkus<sep>tang, ching wan138, falmouth streetrochester new yorkus<sep>young, ralph howard270 cobb terracerochester new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a photovoltaic element comprising a photoconductive  layer comprising an electrically insulating binder, a pyrylium-type  dye salt, and an organic photoconductor, and an electrical  conductor adjacent each of the surfaces of the layer, at  least one of the conductors being transparent to electromagnetic  radiation to which the element is sensitive.  
+</ABSTRACT>
+</TEXT>
+</DOC>

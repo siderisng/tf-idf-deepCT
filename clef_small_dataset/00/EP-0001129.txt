@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001129
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04D-29/05 F04D-17/00 F04D-29/056 F16C-33/20 F16C-33/04 F16C-33/10 F04D-17/04 F04D-29/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cross-flow fan for use under high-temperature conditions.
+</TITLE>
+<APPLICANT>
+int standard electric corp us <sep>standard elektrik lorenz agde<sep>alcatel sel aktiengesellschaft<sep>international standard electric corporation<sep>alcatel sel aktiengesellschaftlorenzstrasse 10d-70435 stuttgartde<sep>international standard electric corporation320 park avenuenew york new york 10022us<sep>
+</APPLICANT>
+<INVENTOR>
+sickau klemensde<sep>sickau, klemens<sep>sickau, klemensflorastrasse 4ad-8300 landshutde<sep>
+</INVENTOR>
+<ABSTRACT>
+design of the bearing for the fan barrel of a cross-flow fan for use at high temperatures.  the rotatably mounted fan barrel is held by the end opposite to the drive motor in a thrust bearing which is formed from a thermoplastic which is dimensionally stable at high temperatures and is resistant to frictional wear.  the thrust bearing is formed by a pot-shaped bearing cap (5) which is inserted into a recess of a bearing bush (6).  the bearing cap (5) and the bearing bush (6) enclose a cavity which accommodates a lubricant packing (7).    <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

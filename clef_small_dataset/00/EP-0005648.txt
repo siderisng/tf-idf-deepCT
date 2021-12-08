@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005648
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60T-15/18 B60T-13/24 B60T-15/00 B60T-13/26 B60T-15/20 B60T-15/12 B60T-13/36 B60T-15/36 B60T-8/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+brake system.
+</TITLE>
+<APPLICANT>
+volvo white truck corp us  <sep>volvo white truck corporation<sep>volvo white truck corporationrockleigh industrial parkrockleigh new jerseyus<sep>
+</APPLICANT>
+<INVENTOR>
+plantan ronald stephenus<sep>plantan, ronald stephen<sep>plantan, ronald stephen29053 fuller avenuewickliffe ohio 44092us<sep>
+</INVENTOR>
+<ABSTRACT>
+a braking system for the tractor unit of a tractor trailer  vehicle in which the ratio of the pressure applied to the front  brakes (11) to the pressure applied to the rear brakes (12)  changes automatically when a trailer is connected to or  disconnected from the tractor.  the brake system includes  two dual mode relay valves (71a, 71b) and feedback conduits  (31a, 133a) which convey feedback pressures between the  front and rear dual mode valves (71a, 71b) and between a  trailer brake service conduit (133) and the front valve (71a).   the brake system includes brake pressure proportioning  apparatus (71b) which is operative to reduce brake pressures  on the rear tractor brakes (12), during normal brake applications,  when the tractor is operated bobtail but which can be  overriden by a vehicle operator if conditions warrant.  the  pressure feedback and system hysteresis cooperate to  produce balanced braking and the proper sequence of brake  application under a variety of vehicle operating conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005183
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/10 H01L-29/82 H01L-43/06 H01L-29/78 H01L-29/66 <main>H01L-29/82</main> G01R-33/06 G01R-33/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductive field-effect transistor used as a field sensor, in particular as a magnetic field sensor.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+vinal albert watson<sep>vinal, albert watson<sep>vinal, albert watson810 queensferry rd.cary, nc 27511us<sep>vinal, albert watson<sep>vinal, albert watson810 queensferry rd.cary, nc 27511us<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a magnetic field detector of the semiconductor field effect transistor type. This detector comprises a source region (5), two drains regions (6) separated by a region (8), the source is connected to the drains, respectively by two very narrow conductive channels (4), separated by a coupling channel (9 ), of a type of opposite conductivity. The assembly is covered by an insulating layer and a door electrode (7). Under the action of a normal magnetic field, a voltage of Lorentz is developed in the coupling channel, which modules the depletion regions in the vicinity of the channels, defining so-called vinhall conductive channels (in the figure, in L 'Absence of field applied the widths of the vinhall channels (WV) are identical), a vinhall channel being more driver than the other depending on the direction of the magnetic field, this imbalance in the currents collected by the drains can be measured in a differential amplifier . Application to the reader heads coded information on the magnetic tapes.
+</ABSTRACT>
+</TEXT>
+</DOC>

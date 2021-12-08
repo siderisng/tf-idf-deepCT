@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002846
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-333/24 C07D-499/00 C07D-333/00 <main>C07D-333/24</main> B01J-23/00 C07D-499/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+3-thienylmalonic acids, the corresponding diesters and their preparation.
+</TITLE>
+<APPLICANT>
+oce andeno bvnl<sep>oce-andeno b.v.<sep>océ-andeno b.v.grubbenvorsterweg 8nl-5928 nx venlonl<sep>oce-andeno b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+houbiers joannes paulus marie<sep>muris petrus gerardus<sep>houbiers, joannes paulus marie<sep>muris, petrus gerardus<sep>houbiers, joannes paulus mariemetternichstraat 11tegelennl<sep>müris, petrus gerardusvan breestraat 10venlonl<sep>houbiers, joannes paulus marie<sep>muris, petrus gerardus <sep>houbiers, joannes paulus marie metternichstraat 11 tegelennl<sep>müris, petrus gerardusvan breestraat 10venlonl<sep>
+</INVENTOR>
+<ABSTRACT>
+preparation of a 3-thienylmalonic acid or a diester  thereof comprising reacting in a polar solvent in the  presence of a copper (i) halide a thiophene compound of  formula:    wherein x = i or br   r₁ = h or a c₁₋₄ alkyl group   r₂ = h or a c₁₋₂ alkyl group   r₃ = h or a c₁₋₂ alkyl group   with the proviso that r₂ and r₃ cannot be an alkyl group  simultaneously, with a mono-deprotonated methylene  compound of formula:    wherein z′ = z″ is cn or coor in which r is a c₁₋₄ alkyl  group, or z′ = cn and z″ = coor′ in which r′ is a c₁₋₂  alkyl group followed by hydrolysis by methods known per  se to get the corresponding free acid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

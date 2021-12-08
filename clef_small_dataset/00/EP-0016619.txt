@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016619
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B65G-1/04</main> B65G-1/04 B65G-37/02 E04H-6/18 E04H-6/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+materials handling system and method.
+</TITLE>
+<APPLICANT>
+eaton kenwayus<sep>eaton-kenway <sep>eaton-kenway,inc.310 south main street suite 1400salt lake city utah 84101 us  <sep>eaton-kenway,inc.<sep>
+</APPLICANT>
+<INVENTOR>
+allred james k<sep>desprez barry l<sep>quinn edward b<sep>strayhorn clarence e<sep>allred, james k.<sep>desprez, barry l.<sep>quinn, edward b.<sep>strayhorn, clarence e.<sep>allred, james k.4460 lone pine drivesalt lake city utah 84417us<sep>desprez, barry l.8051 oak creek drivesandy utah 84070us<sep>quinn, edward b.1385 south 1425 eastbountiful utah 84010us<sep>strayhorn, clarence e.2590 east portsmouth avenuesalt lake city utah 84121us<sep>allred, james k.<sep>desprez, barry l. <sep>quinn, edward b.<sep>strayhorn, clarence e.  <sep>allred, james k. 4460 lone pine drivesalt lake city utah 84417us<sep>desprez, barry l.8051 oak creek drivesandy utah 84070us<sep>quinn, edward b.1385 south 1425 eastbountiful utah 84010us<sep>strayhorn, clarence e.2590 east portsmouth avenuesalt lake city utah 84121us<sep>
+</INVENTOR>
+<ABSTRACT>
+input loads (70, 72, 74 etc. ) e. g.  palletized motor cars are  queued prior to displacement onto a continuous conveyor  (54) serviced by a plurality of storage and retrieval machines  (40) associated one with each of the aisles of a high rise  storage array (20), there being a pick-up (80) and a deposit  (32) station for pallets associated with each aisle.  the queued  loads are metered onto the conveyor (54) on a far to near  aisle correspondence basis and are simultaneously ex­ changed for output loads at each of the aisle locations.  the  method includes compensation for circumstances where  outputs exceed inputs and where inputs exceed outputs by  empty pallet management and allows for maximum  through-put in all cases.  
+</ABSTRACT>
+</TEXT>
+</DOC>

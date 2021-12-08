@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012514
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-15/02 C07C-2/66 C07C-17/26 C07C-2/86 C07C-21/24 C07C-2/00 C07C-15/00 B01J-29/00 C07B-27/00 C07C-17/00 C07C-1/00 <main>C07C-15/00</main> C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+alkylation of aromatic hydrocarbons.
+</TITLE>
+<APPLICANT>
+mobil oil corpus<sep>mobil oil corporation<sep>mobil oil corporation150 east 42nd streetnew york new york 10017us<sep>mobil oil corporation<sep>
+</APPLICANT>
+<INVENTOR>
+burress george thomas<sep>burress, george thomas<sep>burress, george thomas80 claire drivebridgewater, new jersey 08807 somersetus<sep>burress, george thomas<sep>burress, george thomas80 claire drivebridgewater, new jersey 08807 somersetus<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for the alkylation of aromatic hydrocarbons  with alkylating agents having from one to five, and prefer­ ably three to five, carbon atoms.  the reactants are brought  into contact, preferably in the liquid phase, in the presence  of a crystalline zeoiite catalyst characterized by a silica to  alumina ratio of at least 12 and a constraint index within the  approximate range of 1-12.  the reaction is conducted at  100° c to 300° c and a pressure of from about 10⁵ n/m² to  about2 × 10⁷ n/m².  
+</ABSTRACT>
+<DESCRIPTION>
+alkylation of aromatic hydrocarbons this invention is directed to the catalytic alkylation of aromatic hydrocarbons, particularly in the liquid phase. alkylation of aromatic hydrocarbon compounds employing certain crystalline zeolite catalysts is known, for instance from u.s. 3,251,897 which describes liquid phase alkylation in the presence of crystalline aluminosilicates such as faujasite, heulandite, clinoptilolite, mordenite, dachiardite, zeolite x and zeolite y. the temperature of such alkylation procedure does not exceed 315.550c (6000f.), thereby maintaining the operating phase substantially liquid. u.s. 2,904,607 describes alkylation of hydrocarbon compounds in the presence of crystalline metallic aluminosilicates such as magnesium aluminosilicates. u.s. 3,631,120 and 3,641,177 describe liquid phase processes for alkylation of aromatic hydrocarbons with olefins in the presence of certain zeolites. u.s. 3,631,120 discloses use of an ammonium exchanged, calcined zeolite having a silica to alumina mole ratio of between 4.0 and 4.9. u.s. 3,641,177 discloses use of a zeolite catalyst activated in a particular manner. u.s. no. 3,755,483 discloses that the vapor phase reaction of propylene with benzene and toluene in the presence of zeolite zsm-12 proceeds with high catalyst and activity selectivity to yield isopropylbenzene and isopropylmethylbenzene, but with operation in the vapor phase with relatively high temperatures and pressures, thereby promoting dealkylation and olefin decomposition which is especially evident when the alkylating agent comprises an olefin of three or more carbon atoms. a process has now been discovered whereby aromatic hydrocarbons, containing either polar or non-polar substituents, may be successfully alkylated with olefins or alcohols containing from one to five carbon atoms. surprising and substantial increases in product yield, conversion and selectivity are obtained by operating at lower temperatures than heretofore and essentially in the liquid phase. this increase is especially evident when alkylating agents of three or more carbon atoms (where higher temperatures promote dealkylation and olefin decomposition) are used. according to the present invention a process for the alkylation of an aromatic hydrocarbon compound comprises contacting such compound with an alkylating agent having from one to five carbon atoms, preferably in the liquid phase, at a temperature between 1000c and 3000c and a pressure between 105 n/m2 and 2 x 107 n/m2 in the presence of a catalyst comprising a zeolite having a silica to alumina ratio of at least 12 and a constraint index from 1 to 12. the process is advantageously carried out at a temperature between 2000c and 2500c. a suitable aromatic/alkylating agent mole ratio is the range 20:1 to 1:1. the process is usually operated at a whsv (with reference to total catalyst) of 0.1 to 100. the aromatic hydrocarbon may bear a polar or non-polar substituent; and the preferred alkylating agent is an olefin, particularly one having at least three carbon atoms. alcohols; however, are also favoured alkylating agents. the zeolite is preferably zsm-12; and in many applications the zeolite is composited with a binder. the significance and manner of determination of a zeolite's "constraint index'1 has been widely described in the patent literature, for instance in british specification 1,446,522. the constraint index approximates
+</DESCRIPTION>
+<CLAIMS>
+claims    1. a process for the alkylation of an aromatic hydrocarbon compound comprising contacting such compound with an alkylating agent having from one to five carbon atoms at a temperature between   100 c    and 3000c and a pressure between 105 n/m2 and 2 x 107 n/m2 in the presence of a catalyst comprising a zeolite having a silica to alumina ratio of at least 12 and a constraint index from 1 to 12.     2. a process according to claim 1 wherein said compound and alkylating agent are in the liquid phase when contacted.    3. a process according to claim 1 or claim 2 wherein said temperature is between 2000c and 2500c.    4. a process according to any preceding claim wherein the aromatic hydrocarbon bears a non-polar substituent.    5. a process according to any preceding claim wherein the aromatic hydrocarbon bears a polar substituent.    6. a process according to any preceding claim wherein the alkylating agent is an olefin.    7. a process according to claim 6 wherein the olefin has at least three carbon atoms.    8. a process according to any of claims 1 to 5 wherein the alkylating agent is an alcohol.      9. a process according to any preceding claim wherein the zeolite is zsm-12.    10. a process according to any preceding claim wherein the zeolite is composited with a binder.  
+</CLAIMS>
+</TEXT>
+</DOC>

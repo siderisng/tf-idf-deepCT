@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004649
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12Q-1/34 <main>C07C-103/46</main> C07C-231/12 C07C-231/00 C07C-233/82 C07C-233/47 C07C-231/14 G01N-33/48 C07C-233/00 C07C-67/00 C07C-233/49 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-carboxyacylamino-acid esters, process for their preparation and their use.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+schnabel eugen dr<sep>schnabel, eugen, dr.<sep>schnabel, eugen, dr.schimmelweg 6d-5600 wuppertal 11de<sep>schnabel, eugen, dr.<sep>schnabel, eugen, dr.schimmelweg 6d-5600 wuppertal 11de<sep>
+</INVENTOR>
+<ABSTRACT>
+New carboxyacylamino acid esters of the formula wherein x optionally by C₁-C₄ alkyl-substituted, straight-chain C₂ - C₄ alkylene or aikenylene or optionally substituted O-phenylene, y optionally substituted phenyl or naphthyl and z optionally by hydroxy substituted phenyl or indolyl are suitable as chromogenic substratesFor continuous and discontinuous determination of enzymes with chymotry-like specificity.
+</ABSTRACT>
+</TEXT>
+</DOC>

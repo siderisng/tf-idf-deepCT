@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012801
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-211/00 <main>C07C-87/455</main> C07C-209/28 C07C-45/00 A61K-31/135 C07C-47/238 C07C-29/00 C07C-29/40 C07C-67/00 C07C-49/225 C07C-209/50 A61P-25/04 C07C-209/08 C07C-211/26 C07C-29/147 C07C-49/00 A61P-25/00 C07C-209/16 C07C-45/29 C07C-47/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-(1-phenyl-2,5-cyclohexadienyl)-ethylamine derivatives, process for their preparation, their use as active pharmaceutical agents and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+muller peter m dr<sep>pfister rudolf dr<sep>urban rene dr<sep>muller, peter m., dr.<sep>pfister, rudolf, dr.<sep>urban, rene, dr.<sep>müller, peter m., dr.gempenweg 32 ach-4144 arlesheimch<sep>pfister, rudolf, dr.neubadstrasse 128ch-4054 baselch<sep>urban, rené, dr.emanuel büchelstrasse 2ch-4052 baselch<sep>muller, peter m., dr.<sep>pfister, rudolf, dr.<sep>urban, rene, dr.<sep>müller, peter m., dr.gempenweg 32 ach-4144 arlesheimch<sep>pfister, rudolf, dr.neubadstrasse 128ch-4054 baselch<sep>urban, rené, dr.emanuel büchelstrasse 2ch-4052 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+2- (1-phenyl-2,5-cyclohexadienyl) ethylamine derivatives of the general formula wherein R¹ is hydrogen or methyl, R² hydrogen, methyl or ethyl, R³ methyl or ethyl and R⁴ hydrogen or methyl, wherein at least one of the radicals R¹ and R⁴For hydrogen, especially N, N-dimethyl-2- (1 phenyl-2, 5-cyclohexadienyl) -etherhylamine, as well as their acid addition salts have analgesic effect.Your production is made z.b.By reacting biphenyl in the presence of lithium or calcium and ammonia with a compound of general formula CH (R⁴) CL-CH (R¹) NR 2R³.The new connections of the general formula I can be used in the form of atmospheres to combat pain.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005435
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41F-21/10 <main>B41F-21/04</main> B41F-21/00 B41F-21/04 B41F-21/12 B65H-5/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for producing multi-colour prints with exact colour registration.
+</TITLE>
+<APPLICANT>
+heidelberger druckmasch ag  <sep>heidelberger druckmaschinen aktiengesellschaft<sep>heidelberger druckmaschinen aktiengesellschaftkurfürsten-anlage 52-60 postfach 10 29 40d-69019 heidelbergde<sep>heidelberger druckmaschinen aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+heidelberger druckmaschinen ak<sep>heidelberger druckmaschinen aktiengesellschaft<sep>heidelberger druckmaschinen aktiengesellschaft<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method for producing in-register multi-color prints on a sheet-feed offset printing press, in which the sheet is transferred from a group (2) of grippers having a gripper pad rail (8) which is stiff along its full length, of one cylinder to a further group (2) of grippers of a cylinder coming thereafter, characterized in that after take-up of the sheet but before the start of printing or before the transfer of the next sheet some, but not all, of the grippers (1) of the group (2) of grippers gripping the sheet are opened for a short time so that pulling forces acting on the edge of the sheet because of sheet-waviness are put an end to or decreased automatically without the use of any further system. 
+</ABSTRACT>
+</TEXT>
+</DOC>

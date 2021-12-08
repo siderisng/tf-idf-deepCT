@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002312
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-503/00 A61P-31/00 <main>C07D-498/04</main> A61K-31/43 A61K-31/42 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of clavulanic acid and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb<sep>beecham group limited<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+liverman michael<sep>richardson kenneth  <sep>tedder john martin<sep>veal kenneth thomas<sep>liverman, michael<sep>richardson, kenneth<sep>tedder, john martin<sep>veal, kenneth thomas<sep>liverman, michael21 oakwood closeredhill surreygb<sep>richardson, kenneth26 hillcrest drive ashingtonpulborough sussexgb<sep>tedder, john martin40 horley roadredhill surreygb<sep>veal, kenneth thomasoakfield lindens close effinghamleatherhead surreygb<sep>liverman, michael<sep>richardson, kenneth <sep>tedder, john martin<sep>veal, kenneth thomas  <sep>liverman, michael 21 oakwood closeredhill surreygb<sep>richardson, kenneth26 hillcrest drive ashingtonpulborough sussexgb<sep>tedder, john martin40 horley roadredhill surreygb<sep>veal, kenneth thomasoakfield lindens close effinghamleatherhead surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides the compound of the formula (i):    wherein r is a hydrogen atom or a methyl, methoxyl,  hydroxymethyl or nitrile group; r¹ is a hydrogen atom or a  lower alkyl, aralkyl, phenyl or inertly substituted lower alkyl,  aralkyl or phenyl group; r² is a hydrogen atom or a lower  alkyl, aralkyl, phenyl or inertly substituted lower alkyl, aralkyl  or phenyl group; and r³ is lower alkyl, aralkyl, phenyl or  inertly substituted lower alkyl, aralkyl or phenyl group; any  of said groups r¹, r² and r³ being optionally interlinked to  form a ring of 5-7 atoms.  these compounds are useful as  anti-bacterial agents, ß-lactamase inhibitors and chemical  intermediates.  their preparation is described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

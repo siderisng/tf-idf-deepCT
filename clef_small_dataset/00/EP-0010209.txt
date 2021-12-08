@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010209
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-403/18 A61K-31/165 A61K-31/13 C07C-403/00 C07D-209/48 C07D-209/00 C07C-401/00 C07C-67/00 A61P-35/00 <main>C07C-175/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-benzoyl-retinyl amines, process for their preparation, pharmaceutical compositions comprising them and the use of these compounds for the therapy and prophylaxis of precanceroses and carcinomas of the skin.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+nuerrenbach axel dr<sep>paust joachim dr<sep>nuerrenbach, axel, dr.<sep>paust, joachim, dr.<sep>nuerrenbach, axel, dr.koenigsberger strasse 7d-6718 gruenstadt 1de<sep>paust, joachim, dr.ringstrasse 3d-6701 neuhofende<sep>nuerrenbach, axel, dr.<sep>paust, joachim, dr.<sep>nuerrenbach, axel, dr.koenigsberger strasse 7d-6718 gruenstadt 1de<sep>paust, joachim, dr.ringstrasse 3d-6701 neuhofende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  claim for the contracting state : at a process for the preparation of benzoyl-retinylamines of the formula i  see diagramm : ep0010209,p6,f3  where r is hydrogen or methyl, characterized in that retinylamine is reacted in the conventional manner with a functional derivative of benzoic acid of p-toluic acid.  1.  claims for the contracting states : be, ch, de, fr, gb, it, lu, nl, se a benzoyl-retinylamine of the formula i  see diagramm : ep0010209,p6,f2 where r ist hydrogen or methyl. 
+</ABSTRACT>
+<DESCRIPTION>
+(n-benzoyl-retinylamine, verfahren zu ihrer herstellung und siehe enthaltende pharmazeutische mittel die vorliegende erfindung betrifft neue n-benzoyl-retnnyl- amine der formel i emi1.1 in der r ein wasserstoffatom oder methyl bedeutet, ihre herstellung, diese enthaltende pharmazeutische zubereitungen und ihre verwendung als arzneimittel. die synthese von n-acetyl- und n-formyl-retinylamin ist beispielsweise aus der literatur bekannt (f. kienzle, helv. chim. acta 56, 1662 ff (1973)). weiterhin ist beschrieben, dass sich n-acetyl-retinylamin zur systemischen und topischen therapie von praekanzerosen und karzinomen sowie zur systemischen und topischen prophy- laxe von karzinomen eignet (m.b. sporn et.al. nature 263, 110-113 (1976)). die celluläre toxizitätsschwelle fur das n-acetyl-retinylamin liegt dabei oberhalb einer konzentration von 10-5 molar ("toxicity to tracheal cartilage in vitro", nature 263, 110-113 (1976)), jedoch weist dieses retinoid im biologischen versuch am durch vitamin a-hypovitaminose keratinisierten hamstertrachealgewebe nur in 9.10 9 molarer konzentration aktivität auf. die methodik hierzu kann g.h. clamon et al nature 250, 64-66 (1974) oder m.b. sporn et al nature 253, 47-50 (1975) entnommen werden. die keratinisierung wird als praekanzerotischer prozess angesehen. es wurde nun gefunden, dass die n-benzoyl-retinylamine der formel i besonders wertvolle pharmakologische eicen- schaften aufweisen, da sie einen wesentlich grösseren. therapeutischen index besitzen. bei vergleichbar niederer cellulärer toxizität verhindern die erfindungsgemässen verbindungen noch in 10 10 molarer lösung die keratinisierung von hamstertrachealgewebe und sind damit 1 bis 2 zehnerpotenzen aktiver als das n-acetyl -retinylamin. wirkung von benzoyl-retinylamin bei der verhütung von brustkrebs bei raten emi3.1 <sep> zahl <sep> der <sep> ratten <sep> zahl <sep> der <sep> zahl <sep> der <sep> tumoren <tb> <sep> mit <sep> tumoren <sep> tumoren <sep> grösser <sep> als <sep> davon <sep> grösser <tb> <sep> als <tb> <sep> 0,100 <sep> g <sep> 1,0 <sep> g <tb> unbehandelt <sep> 20/24 <sep> 60 <sep> 43 <sep> 21 <tb> <sep> (83%) <tb> mit <sep> benzoyl- <sep> 4/12 <sep> 10 <sep> 4 <sep> 2 <tb> retinylamin <sep> behandelt <sep> (33%) <tb> weiblichen sprague-dawley ratten wird eine einmalige dosis nitrosomethylharnstoff (50 mg/kg körpergewicht) intravenöse verabreicht. ei teil der tiere erhält ab dem dritten tag mit der nahrung benzyl-retinylamin (2 nmol/kg mahrung). alle tiere werden 12 wochen nach der zufuhr des carzinogens getötet und untersucht. die untersuchungsmethodik kann folgender literatur entnommen werden: c.j. grubbs, r.c. moon, m.b. sporn, and d.l. newton, inhibition of mammary cancer with retinyl methyl ether, cancer research 37, 599-602 (1977) und richard c. moon, michael b. sporn et al. n.(4-hydroxyphenyl)-retinamide, a new retinoid for prevention of breat cancer in the rat, cancer research 39, 1339-1346 (1979). die tumorhemmende wirkung der erfindungsgemässen verbindungen ist signifikant. man beobachtet eine wachstumskontrolle bei in vitro kultivierten zellen, die beispiels weise nach der methodik, wie sie von r. lotan et al m journal of the national cancer institute 60 (1978) seiten 1035-1041 beschrieben wird, nachgewiesen werden kann. die erfindungsgemässen verbindungen inhibiieren die proliferation von spontan chemisch oder durch viren transforierter zellen in gewebekultur, vorzugsweise verwendet ll die 5 91 melanoma zellinie. dementsprechend sind ein weiterer gegenstand der erfin- dung pharmazeutische mittel, die als wirkstoff eine verbindung der formel i neben pharmazeutisch üblichen trsger- stoffen oder
+</DESCRIPTION>
+<CLAIMS>
+   ate ntansprüche          1.    benzoyl-retinylamine der formel i emi14.1       in der r wasserstoff oder methyl bedeutet.   2. verfahren zur herstellung von verbindungen der formel i. dadurch gekennzeichnet, dass man retinylamin in an sich üblicher weise mit einem funktionellen derivat der benzoesäure oder p-toluylsäure umsetzt.   3- pharmazeutisches mittel, gekennzeichnet durch einen gehalt an einer verbindung der formel i als wirkstoff neben üblichen trägerstoffen oder verdünnungsmitteln und gegebenenfalls pharmazeutisch-technischen   hilfs-    stoffen.   4. verwendung einer verbindung der formel   1    bei der to    zwischen    und systemischen therapie und prophylaxe von praekanzerosen und karzinomen der haut,   schleimhäute    und innerer organe und von dermatologischen erkran kungen. emi14.2        
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012074
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-8/00 G21C-19/28 C22B-26/10 C22B-9/02 G21C-19/313 G21F-9/06 C22B-26/00 <main>G21C-19/30</main> G21F-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of cleaning a cold trap for liquid metals, and device for carrying out this method.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>
+</APPLICANT>
+<INVENTOR>
+maupre jean-pierre<sep>trouve jean<sep>maupre, jean-pierre<sep>trouve, jean<sep>maupre, jean-pierre66, rue du chanoine trouilletf-84120 pertuisfr<sep>trouve, jean"la bastidonne"f-84120 pertuisfr<sep>maupre, jean-pierre  <sep>trouve, jean<sep>maupre, jean-pierre66, rue du chanoine trouilletf-84120 pertuisfr<sep>trouve, jean"la bastidonne"f-84120 pertuisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A method of regenerating a trap which is incorporated in a circuit of a liquid metal or a mixture of liquid metals, in which trap are deposited by COM impurities taking in particular hydride and the oxide of the liquid metal (or liquid metals), as well as a device for the implementation of this process.an alkaline metal hydroxide, in particular the sodium hydroxide (58) is introduced into the liquid trap, from a pot (10) overlooking the trap, and the trap is heated to allow the total transformation ofThe hydride and oxide in the alkali metal hydroxide in two liquid phases which is evacuated by a drain valve (22) provided at the base of the trap.Application to the regeneration of cold traps of liquid metal cir, including sodium in nuclear reactors.
+</ABSTRACT>
+</TEXT>
+</DOC>

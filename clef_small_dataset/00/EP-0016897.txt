@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016897
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-11/00 B23K-37/08 B23K-11/087 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for avoiding the occurrence of a flash in tube-welding apparatuses.
+</TITLE>
+<APPLICANT>
+voest alpine agat<sep>voest-alpine aktiengesellschaft<sep>voest-alpine aktiengesellschaftfriedrichstrasse 4a-1011 wienat <sep>
+</APPLICANT>
+<INVENTOR>
+gram thomasat  <sep>kowarsch walterat<sep>gram, thomas<sep>kowarsch, walter<sep>gram, thomasfressnitz 79a-8670 krieglachat<sep>kowarsch, walterfressnitz 81a-8670 krieglachat<sep>
+</INVENTOR>
+<ABSTRACT>
+to avoid the formation of burr on the inside when welding steel pipes, a device is proposed which is supported in the interior of the pipe (1) and with which a sliding block (9) is hydraulically pressed from the inside up to the weld (5, 28).  the device is here supported on the inner wall of the pipe (1) opposite the weld (5, 28) by an expanding lever (18, 19) which is designed as a bell-crank lever and on one leg (18) of which a hydraulic cylinder-piston unit (20) acts, as a result of which the other leg (19), arranged essentially parallel to the pipe axis, and thus the sliding block (9) are pressed against the inner wall of the pipe (1).  (fig.  3) <image>
+</ABSTRACT>
+<DESCRIPTION>
+einrichtung zur vermeidung einer gratbildung bei rohrschweissgeräten die erfindung betrifft eine einrichtung zur vermeidung einer gratbildung beim schweissen von stahlrohren an der innenwandung derselben, bei welcher an einem in längsrichtung des rohres ortsfest gelagerten halter im bereich der schweissstelle ein gleitstein aus bei schweisstemperatur beständigem material angeordnet ist, der gegen die schweissnaht an der innenwandung des rohres pressbar ist. beim herstellen der in längsrichtung eines rohres verlaufenden schweissnaht bilden sich üblicherweise grate. der an der aussenwandung sich bildende grat wird üblicherweise in warmem zustand angehobelt und die entfernung dieses grates bildet keine schwierigkeiten. bei den bekannten verfahren wird der innengrat durch spanabhebende arbeit, u.zw. durch fräsen oder schneiden mittels eines messers entfernt. es ist aber kaum möglich, auf diese art den grat völlig glatt zu entfernen. wenn ein teil des grates stehen bleibt, verbleiben die unebenheiten an der innenwandung des rohres, und wenn der grat zu tief abgenommen wird, so entsteht eine schwächung der rohrwandung, welche zum platzen eines rohres führen kann. aus der us-ps 2.400.889 ist eine einrichtung zur vermeidung einer gratbildung beim schweissen von stahlrohren an der innenwandung derselben bekannt geworden, bei welcher ein gleitstein im bereich der schweissstelle gegen die schweissnaht an die innenwand des rohres gepresst wird. der gleitstein ist hierbei auf einem ende eines doppelarmigen hebels befestigt, an dessen anderem ende eine schraubenfeder angreift und den gleitstein gegen die schweissstelle drückt. nachteilig ist dabei, dass, da der anpressdruck relativ gross sein muss, die feder über einen relativ kurzen weg einen relativ grossen konstanten anpressdruck gewährleisten muss. dies hat bei toleranzungenauigkeiten entweder ein deutliches absinken des anpressdruckes des gleitsteines oder die gefahr der verformung des rohres im bereich des gleitsteines zur folge. auch ist das aufschieben eines neuen rohres auf eine vorrichtung deren gleitstein unter hoher federvorspannung steht, nicht leicht zu bewerkstelligen. es ist daher aufgabe der vorliegenden erfindung, eine eingangs genannte einrichtung derartig weiter auszubilden, dass der zur verhinderung einer ausbildung eines grates erforderliche anpressdruck erst nach dem aufschieben des rohres in exakt kontrollierbarer weise ohne gefahr einer verformung des rohres eingebracht wird, und auf diese weise die anbringung zu erleichtern und auch bei toleranzungenauigkeiten einen vorgewählten anpressdruck zu gewä#hrleisten. dies wird erfindungsgemäss dadurch erreicht, dass der gleitstein in an sich bekannter weise gegen die der schweissnaht gegenüberliegende innenwandung des rohres abgestützt ist und dass der gleitstein hydraulisch an die schweissstelle anpressbar ist. durch die massnahme, den gleitstein hydraulisch gegen die schweissstelle pressbar auszubilden, kann der für das verhindern einer ausbildung eines grates erforderliche druck bei toleranzungenauigkeiten des innendurchmessers des rohres sicher aufrecht erhalten werden. gleichzeitig erlaubt die erfindungsgemässe ausbildung ein leichtes aufschieben eines neuen rohres auf die einrichtung. bei einer vorteilhaften ausführungsform der erfindung ist am halter ein spreizhebel um eine quer zur rohrachse liegende achse schwenkbar angeordnet, auf welchen ein im halter geführter hydraulischer kolben wirkt, wobei der gleitstein am halter oder am spreizhebel angeordnet ist. damit kann der gleitstein mit vorbestimmter pressung an die naht angepresst werden und es kann damit auch toleranzungenauigkeiten des innendurchmessers des rohres rechnung getragen werden. hiebei ist
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche:   1. einrichtung zur vermeidung einer gratbildung beim schweissen von stahlrohren an der innenwandung derselben, bei welcher an einem in längsrichtung des rohres ortsfest gelagerten halter im bereich der schweissstelle ein gleitstein aus bei schweisstemperatur beständigem material angeordnet ist, der gegen die schweissnaht an der innenwandung des rohres pressbar ist, dadurch gekennzeichnet, dass der gleitstein (9) in an sich bekannter weise gegen die der schweissnaht (5, 28) gegenüberliegende innenwandung des rohres   (1)    abgestützt ist und dass der gleitstein (9) hydraulisch an die schweissstelle (5, 28) anpressbar ist.    2. einrichtung nach anspruch 1, dadurch gekennzeichnet, dass am halter (10) ein spreizhebel (18, 19) um eine quer zur rohrachse liegende achse (17) schwenkbar angeordnet ist, auf welchen ein im halter (10) geführter hydraulischer kolben (20) wirkt, wobei der gleitstein (9) am halter (10) oder am spreizhebel (18, 19) angeordnet ist.   3. einrichtung nach anspruch 2, dadurch gekennzeichnet, dass der spreizhebel (18, 19) abgewinkelt ist und der hydraulische kolben (20) in richtung der rohrachse verschiebbar geführt.   ist.  
+</CLAIMS>
+</TEXT>
+</DOC>

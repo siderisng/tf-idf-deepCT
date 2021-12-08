@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003984
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+B31B-1/14 B65H-35/00 B31B-1/24 B26F-1/42 B41L-15/14 B26D-7/18 B26F-1/38 B41F-15/08 B26F-1/06 B26F-1/02 B41L-15/00 B26F-1/00 B31D-1/02 <main>B26F-1/42</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for cutting pieces out of a web.
+</TITLE>
+<APPLICANT>
+kammann maschf wernerde<sep>werner kammann maschinenfabrik gmbh.<sep>werner kammann maschinenfabrik gmbh.elsemühlenweg 83-89d-32257 bündede<sep>werner kammann maschinenfabrik gmbh. <sep>
+</APPLICANT>
+<INVENTOR>
+kammann knut<sep>tiemann gerhard<sep>kammann, knut<sep>tiemann, gerhard<sep>kammann, knutviktoriastrasse 14d-4980 bünde 1 (westf.)de<sep>tiemann, gerhardgoethestrasse 54d-4972 löhne 3de<sep>kammann, knut<sep>tiemann, gerhard<sep>kammann, knutviktoriastrasse 14d-4980 bünde 1 (westf.)de<sep>tiemann, gerhardgoethestrasse 54d-4972 löhne 3de<sep>
+</INVENTOR>
+<ABSTRACT>
+Method and apparatus for punching blanks of a uniformly moved longitudinally moved web passing between a punching blade (15) and a abutment (17), the punching blade (15) lowered to the web (25) and during the stamping operation inDevice direction of the web with this synchronous via a distance which is smaller than the length of the blank is shifted, whereupon the punching knife (15) is lifted off from the web (26) and moved back to its original position.The abutment consisting of at least one roller (17) can be moved against the direction of movement of the web (25) and the punching blade (15) during the punching operation.The web (25) can be guided about the partial circumference of a roller (17) and decreased during the punch stroke at the planar punching knife (15).
+</ABSTRACT>
+</TEXT>
+</DOC>

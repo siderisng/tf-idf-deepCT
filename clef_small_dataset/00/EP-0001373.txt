@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001373
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C04B-41/45 C04B-41/50 C04B-41/87 C30B-25/02 C30B-29/36 B41J-2/16 C23C-16/32 C30B-29/06 <main>B41J-3/04</main> C30B-29/10 C01B-31/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of forming smooth and pinhole-free silicon carbide films on a silicon substrate.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+balog moshe<sep>berkenblit melvin<sep>chan see-ark<sep>reisman arnold<sep>balog, moshe<sep>berkenblit, melvin<sep>chan, see-ark<sep>reisman, arnold<sep>balog, moshegivat beit hakerel 2/23jerusalemil<sep>berkenblit, melvin2232 ridge street yorktown heightsnew york 10598us<sep>chan, see-arkamberlands 15w croton-on-hudsonnew york 10520us<sep>reisman, arnold2294 van cortlandt circle yorktown heightsnew york 10598us<sep>balog, moshe<sep>berkenblit, melvin  <sep>chan, see-ark <sep>reisman, arnold<sep>balog, moshegivat beit hakerel 2/23jerusalemil<sep>berkenblit, melvin2232 ridge street yorktown heightsnew york 10598us<sep>chan, see-arkamberlands 15w croton-on-hudsonnew york 10520us<sep>reisman, arnold2294 van cortlandt circle yorktown heightsnew york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method and apparatus for forming thin SIC films, without pin and smooth holes on a silicon substrate (if).-This comprises the following steps: placing substrates in a tantalum carbide-covered susceptor (14) disposed in a reactor (10) induction heated, heating in helium to remove any trace of oxide,Application of a preheated ch₄-her mixture, while maintaining a temperature between 1200 and 1350 ° C to form a SiC film on the surfaces of the substrate and cooling of said substrates up to room temperature.In particular, method allows the production of ink ejection nozzles used in the ink jet printing technology.
+</ABSTRACT>
+</TEXT>
+</DOC>

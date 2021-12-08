@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014519
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12N-5/06 C12R-1/91 A61K-39/395 C12N-15/02 C07K-16/00 C12P-21/08 <main>C12N-5/00</main> C12N-5/10 C12P-1/00 C12N-5/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cell lines, process for preparing them and process for producing antibodies.
+</TITLE>
+<APPLICANT>
+nat res devgb <sep>national research development corporation<sep>national research development corporation 101 newington causeway london se1 6bu gb<sep>national research development corporation <sep>
+</APPLICANT>
+<INVENTOR>
+galfre giovanni<sep>milstein cesar<sep>wright bruce william<sep>galfre, giovanni<sep>milstein, cesar<sep>wright, bruce william<sep>galfrè, giovanni72 lovell roadcambridgegb<sep>milstein, césar292a hills roadcambridgegb<sep>wright, bruce william98 bush closecomberton cambridgegb<sep>galfre, giovanni <sep>milstein, cesar  <sep>wright, bruce william<sep>galfrè, giovanni72 lovell roadcambridgegb<sep>milstein, césar292a hills roadcambridgegb<sep>wright, bruce william98 bush closecomberton cambridgegb<sep>
+</INVENTOR>
+<ABSTRACT>
+a rat myeloma cell line has the characteristics of the cells  deposited with the collection nationale de cultures de mic­ roorganismes under the number 1-078.  this cell line may be  fused with immunocyte cells from an animal sensitized to an  immunogen to produce hybrid cell lines which provide a  source of antibodies to said immunogen.  
+</ABSTRACT>
+</TEXT>
+</DOC>

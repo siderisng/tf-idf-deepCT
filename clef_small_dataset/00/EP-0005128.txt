@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005128
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03J-7/28 H03J-7/18 H03H-21/00 H03J-7/06 H03J-7/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvement in circuits for the automatic tuning of voltage controlled filters
+</TITLE>
+<APPLICANT>
+selenia ind elettroniche it <sep>selenia industrie elettroniche associate s.p.a.<sep>selenia industrie elettroniche associate s.p.a.via tiburtina, km 12.400i-00131 romait<sep>
+</APPLICANT>
+<INVENTOR>
+masdea arturoit<sep>quagliariello giuseppeit<sep>masdea, arturo<sep>quagliariello, giuseppe<sep>masdea, arturovia zuccoli, 17i-00139 romait<sep>quagliariello, giuseppevia mario lizzani 16i-00169 romait<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to an improvement in circuits for the automatic tuning of voltage controlled filters, using digital phase control.  
+</ABSTRACT>
+</TEXT>
+</DOC>

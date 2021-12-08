@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016523
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06F-15/16</main> G06F-15/163 G06F-15/16 G06F-15/76 G06F-15/80 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data processing unit and data processing system comprising a plurality of such data processing units.
+</TITLE>
+<APPLICANT>
+secr defence britgb<sep>the secretary of state for defence in her britannic majesty's government of the united kingdom of great britain and<sep>secretary of state for defence in her britannic majesty's gov. of the united kingdom of great britain and northern irelandwhitehalllondon sw1a 2hbgb<sep>the secretary of state for defence in her britannic majesty's government of the united kingdom of great britain and<sep>
+</APPLICANT>
+<INVENTOR>
+chivers howard robert<sep>chivers, howard robert<sep>chivers, howard robert5 kipling roadst. marks cheltenham, gloucestershiregb<sep>chivers, howard robert  <sep>chivers, howard robert5 kipling roadst. marks cheltenham, gloucestershiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+in such a multi-processor system, a master unit may be  connected to a number of slave units each programmed to  carry out a particular function, and in turn each of these slave  units may be connected as a master to its own set of slave  units, again each programmed to perform a particular func­ tion; the whole system being co-ordinated and controlled by  the original master unit.  this disclosure relates to a modular data processing unit  adapted to form part of a processing system comprising a  plurality of such processing units connected in master-slave  relationship.  each processing unit comprises a control section  responsive to a control instruction to perform the execution of  a programme stored therein and to switch the processing unit  to an idle mode on completion of the programme execution,  an internal memory section including an area of read/write  memory; a computation section for performing calculations  in accordance with the programme instructions during which  it can access the internal memory; and interface means  through which the processor unit can be connected as a mas­ ter unit to one or more slave units to monitor and control, and  to access the internal memories of the slave units while it is  executing a programme, and through which it can be con­ nected as a slave to a master processing unit by which it can  thus be monitored and controlled, and have its internal  read/write memory accessed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008889
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01P-7/04 F01P-7/00 F16D-35/02 F16D-35/00 <main>F16D-35/00</main> F01P-7/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluid coupling device comprising a bimetal coil mounting arrangement.
+</TITLE>
+<APPLICANT>
+eaton corpus<sep>eaton corporation<sep>eaton corporation100 erieview plazacleveland ohio 44114us<sep>eaton corporation<sep>
+</APPLICANT>
+<INVENTOR>
+rohrer douglas dean<sep>rohrer, douglas dean<sep>rohrer, douglas dean816 forest streetmarshall, michigan 49068us<sep>rohrer, douglas dean<sep>rohrer, douglas dean816 forest streetmarshall, michigan 49068us<sep>
+</INVENTOR>
+<ABSTRACT>
+a fluid coupling device is disclosed of the type including  a valve member (29) actuated by a valve shaft (39) extending  through the cover (27), the position of the valve and valve  shaft being controlled by a temperature responsive bimetal  coil (43).  the coil has a first end (45) attached to the valve  shaft and a second end (free end) (47) received within a  receiving portion (55) of a clip member (53).  disposed bet­ ween the second end of the coil and the receiving portion of  the clipmember is a resilient elastomeric member (61) hav­ ing a relatively thin wall.  the clip member includes at least  one wing portion (57,59) which is attached to the cover to  define an enclosure.  the enclosure is configured to engage  the elastomeric member which is compressed against the  second end portion of the coil on at least two sides.  the  elastomeric member fills the clearance between the coil and  the clip, even if the thickness of the clearance is not uniform,  to increase the coefficient of frction, and the total gripping  force, between the clip and coil.  at the same time, the  resiliency of the elastomeric member prevents the gripping  of the coil by the clip from being too rigid, in cases where the  fit therebetween is extremely close.  
+</ABSTRACT>
+</TEXT>
+</DOC>

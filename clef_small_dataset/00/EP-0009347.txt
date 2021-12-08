@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009347
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01C-19/18 G01C-19/08 G01C-19/00 <main>G01C-19/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gyroscopes.
+</TITLE>
+<APPLICANT>
+sperry ltdgb<sep>sperry limited<sep>british aerospace public limited companywarwick house, p.o. box 87, farnborough aerospace centrefarnborough, hants. gu14 6yugb<sep>british aerospace public limited company <sep>
+</APPLICANT>
+<INVENTOR>
+coles peter howard<sep>downton geoffrey charles<sep>coles, peter howard<sep>downton, geoffrey charles<sep>coles, peter howard41 radstock lane earleyreading berkshiregb<sep>downton, geoffrey charles66 bathurst road, winnershwokingham berkshiregb<sep>coles, peter howard<sep>downton, geoffrey charles  <sep>coles, peter howard41 radstock lane earleyreading berkshiregb<sep>downton, geoffrey charles66 bathurst road, winnershwokingham berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides a gyroscope employing a sen­ sitive element rotated by a hysteresis motor and which has  an improved bias repeatability, the bias arising from vibra­ tion of the sensitive element imparted thereto by the hys­ teresis motor.  an identifiable point associated with the sen­ sitive element (9) is sensed by first sensor means (37, 38,  67, 71) and a pole vector associated with the hysteresis  motor (6) is sensed directly or indirectly by second sensor  means (64), the outputs of these sensor means being ap­ plied to comparator means (73) which is operable to com­ pare the phase of the pole vector (vp) with respect to the  identifiable point.  control means (76, 79) are also provided  which are responsive to the output of the comparator means  (73) and operable to adjust the phase of the pole vector  (vp) with respect to the identifiable point to a required  relationship, the gyroscope further comprising means (73),  for maintaining that required relationship once established.  the invention is particularly applicable to flexure-­ suspended free-rotor gyroscopes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

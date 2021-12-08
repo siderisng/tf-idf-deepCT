@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001917
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-19/12 G03B-9/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+camera having a shutter providing selective coupling between an aperture and either a viewing system or a film.
+</TITLE>
+<APPLICANT>
+hadland john photo instgb<sep>john hadland (photographic instrumentation) limited<sep>john hadland (photographic instrumentation) limitednewhouse laboratories newhouse road bovingdon hemel hempstead hertfordshire, hp3 0elgb<sep>
+</APPLICANT>
+<INVENTOR>
+haynes keith albert frank gb<sep>haynes, keith albert frank<sep>haynes, keith albert frank9 first avenuegarston watford hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a closure mechanism, such as a shutter in a camera, in  which a closure member (11) having a arcuate portion (12) is  arranged to roll on a support member (19) to cause a part  (20) of the closure member to move across an aperture (4)  thereby providing a movable barrier permitting selective  communication of the aperture with spaces on opposite  sides of the closure member.  when used in a camera, the  closure member (11) is accommodated in an enclosure of  which one wall (10) includes the aperture, which may be a  fibre optic plate (4).  the closure member is movable between  two extreme positions; in one position a mirror (15) carried  by the closure member optically couples the aperture with a  viewing system (16, 17) and in the other position it blocks the  viewing system while a film (5) is located adjacent the aperture  by a mechanism (21, 22) actuated in synchronism with  the closure member.  
+</ABSTRACT>
+</TEXT>
+</DOC>

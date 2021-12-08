@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004508
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-71/50 H01H-71/10 H01H-71/12 <main>H01H-71/50</main> H01H-71/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit breaker with a movable latching element urged by elastic return means.
+</TITLE>
+<APPLICANT>
+legrand sa fr  <sep>legrand societe anonyme<sep>legrand128, avenue du maréchal de lattre de tassignyf-87045 limoges cédexfr<sep>legrand societe anonyme <sep>
+</APPLICANT>
+<INVENTOR>
+signorelli norbert<sep>signorelli, norbert<sep>signorelli, norbertvilla miottaine impasse pierre lotif-06160 juan-les-pinsfr<sep>signorelli, norbert <sep>signorelli, norbertvilla miottaine impasse pierre lotif-06160 juan-les-pinsfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a circuit-breaker comprising, in a casing, a first fixed contact (27a), a second contact (28) which is movable between an engaged position and a triggered position and which is urged towards its triggered position by resilient opening means, a triggering member (54, 59) for causing liberation (or opening) of said movable contact (28) and therefore movement thereof from its engaged position to its triggered position, an engagement and triggering lever member (33) mounted movably between an engagement position and a triggering position, and a latching mechanism (35) which is disposed between the triggering member (54, 59) and the engagement and triggering lever member (33), said mechanism (35) comprising a movable latching member (36) subjected on the one hand to the triggering member and on the other hand to resilient return means which urge it towards a re-arming position, and the same spring forming resilient return means for a member of the latching mechanism and said resilient means for opening the movable contact (28), characterised in that the resilient means for return movement of the latching member (36) and the resilient means for opening the movable contact (28) are formed by the same spring (66) which comprises on the one hand a body (67) formed by a helical spring, which is coupled at one of its ends to a fixed point (68) of the casing and which is coupled at the other of its ends to the movable contact (28) and, on the other hand, integral with said body (67), at said other end thereof, a resilient limb (65) forming a bending spring which bears against the latching member (36) in such a way that, besides the functions of opening the movable contact (28) and returning the latching member (36) said spring (66) is also capable of performing the function of closing said movable contact (28). 
+</ABSTRACT>
+</TEXT>
+</DOC>

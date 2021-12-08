@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017032
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/31 G03C-1/68 G03F-7/36 G03F-7/033 H01L-21/302 G03C-5/00 <main>G03F-7/02</main> H01L-21/311 H01L-21/02 H01L-21/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of producing a solid state device by differential plasma etching of resists.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+taylor gary newton<sep>taylor, gary newton<sep>taylor, gary newton12 birchwood terracefanwood, new jersey 07023us<sep>taylor, gary newton<sep>taylor, gary newton12 birchwood terracefanwood, new jersey 07023us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to production of solid state  devices by a process which includes at least one pattern  delineation step involving dry etching of a negative resist  deposited as a film on a substrate and obtained by mixing a  host polymer with one or more monomers capable of being  locked into place by electromagnetic radiation.  the film is  selectively irradiated, fixed, for example by heating or vac­ uum or both, to remove unlocked monomer or monomers  from the film, and etched by means of an oxygen-containing  plasma.  the rate of removal is higher in the unirradiated  region than in the irradiated region, yielding a negative  resist pattern.  a sensitizer may be added to allow use of  various radiation wavelengths.  desirable properties of  monomer and host polymer materials are discussed, and  exemplary specific compositions given of aromatic mono­ mers, silicon-containing monomers, and chlorinated poly­ mers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

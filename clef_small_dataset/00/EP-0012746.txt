@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0012746
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/133 G02F-1/13 <main>H04N-1/22</main> H04N-1/024 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+telecopying process using a smectic liquid cristal cell and transceiver telecopier for application of said process.
+</TITLE>
+<APPLICANT>
+thomson csffr <sep>thomson-csf <sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+hareng michel<sep>le berre serge<sep>leclerc pierre<sep>hareng, michel<sep>le berre, serge<sep>leclerc, pierre<sep>hareng, michel<sep>le berre, serge<sep>leclerc, pierre<sep>hareng, michelthomson-csf, scpi 173 bld. haussmannf-75360 paris cedex 08fr  <sep>le berre, serge thomson-csf, scpi 173 bld. haussmannf-75360 paris cedex 08fr<sep>leclerc, pierrethomson-csf, scpi 173 bld. haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

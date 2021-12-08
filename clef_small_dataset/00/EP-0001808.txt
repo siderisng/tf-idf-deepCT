@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001808
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-13/28 G01R-13/22 G06F-17/30 G06F-7/02 G06F-7/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for binary word recognition
+</TITLE>
+<APPLICANT>
+godo einar<sep>godo, einar<sep>godo, einar2407 - 179th place s.e.bellevue washington 98008us <sep>
+</APPLICANT>
+<INVENTOR>
+godo einar  <sep>godo, einar<sep>godo, einar2407 - 179th place s.e.bellevue washington 98008us<sep>
+</INVENTOR>
+<ABSTRACT>
+a stream of digital data containing an unknown word is compared bit by bit with a stored known word.  the bit comparisons are counted in such a manner that the maximum output identifies the known word in the data stream.  alternatively, the non-comparing bits may be counted so that a minimum output idenfities the known word. 
+</ABSTRACT>
+</TEXT>
+</DOC>

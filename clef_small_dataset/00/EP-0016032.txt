@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0016032
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+identification process for remote control operating systems in time sharing communication.
+</TITLE>
+<APPLICANT>
+bbc brown boveri & ciech<sep>bbc aktiengesellschaft brown, boveri & cie.<sep>bbc aktiengesellschaft brown, boveri &amp; cie.haselstrassech-5401 badench <sep>
+</APPLICANT>
+<INVENTOR>
+bizer wernerde   <sep>guzman-edery jorgede<sep>bizer, werner<sep>guzman-edery, jorge<sep>bizer, wernervon gagernstrasse 4d-6148 heppenheimde<sep>guzman-edery, jorgeblumenstrasse 4d-6805 heddesheimde<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

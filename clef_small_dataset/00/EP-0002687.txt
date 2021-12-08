@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002687
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28D-7/10 <main>F25B-39/00</main> F28F-13/08 F24J-3/04 F28D-7/00 F28D-7/02 F28F-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus using heat exchange.
+</TITLE>
+<APPLICANT>
+kueppersbuschde<sep>kuppersbusch aktiengesellschaft<sep>küppersbusch aktiengesellschaftküppersbuschstrasse 16d-4650 gelsenkirchende<sep>kuppersbusch aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+schnadt friedrich ing grad<sep>schnadt, friedrich, ing. grad.<sep>schnadt, friedrich, ing. grad.langendreer strasse 48d-4630 bochumde<sep>schnadt, friedrich, ing. grad. <sep>schnadt, friedrich, ing. grad.langendreer strasse 48d-4630 bochumde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  heat exchanger, for the evaporation or condensation of coolant in the coolant circuit of a heat pump driven by a compressor, in which two co-axially arranged tubes (1, 2) are arranged, of which a first tube (1) displays continuously equal diameter and the coolant is conducted in the free flow cross-section between both the tubes as well as a heat carrier for the heat exchange with the coolant is conducted in the inner tube (2), wherein the coolant first appears as wet vapour and then as superheated gas, characterized thereby, that the inner tube (2) changes through a conical tube portion (4) into a tube portion (3) of greater diameter and that the wet vapour is conducted in the larger and the superheated gas in the smaller flow cross-section. 
+</ABSTRACT>
+</TEXT>
+</DOC>

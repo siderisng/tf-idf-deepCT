@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012362
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C04B-7/44 C04B-7/43 C04B-7/00 B01J-6/00 <main>C04B-7/44</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat-treatment method for fine-grained material.
+</TITLE>
+<APPLICANT>
+krupp polysius agde<sep>krupp polysius ag<sep>krupp polysius aggraf-galen-strasse 17d-59269 beckumde<sep>krupp polysius ag<sep>
+</APPLICANT>
+<INVENTOR>
+goldman wolf<sep>rother wolfgang<sep>goldman, wolf<sep>rother, wolfgang<sep>goldmann, wolfagnes-miegel-strasse 9d-4720 beckumde<sep>rother, wolfganganton-aulke-weg 4d-4742 strombergde<sep>goldmann, wolf<sep>rother, wolfgang  <sep>goldmann, wolf agnes-miegel-strasse 9d-4720 beckumde<sep>rother, wolfganganton-aulke-weg 4d-4742 strombergde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for the thermal treatment of fine-grained good using a multi-stage cyclone preheater (2) and a rotary tube furnace (1), wherein additional fuel in one - in dependence of grain size, reactivity, moisture and the support of the fuel of fuel to non-flammableIngredients elected - step of preheater (2) is introduced, so that the largest part of the fuel burns almost completely in the lowest stage of the preheater (2).As a result, low treatment costs for the fuel can achieve a high calcination level of the good before a kick in the rotary kiln (1).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004619
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-7/13</main> C07C-7/00 C07C-67/00 C10G-25/00 C07C-9/00 C07C-7/13 C07C-1/00 C10G-25/03 C07C-9/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+n-paraffin-isoparaffin separation process.
+</TITLE>
+<APPLICANT>
+union carbide corpus<sep>union carbide corporation<sep>union carbide corporation39 old ridgebury roaddanbury connecticut 06817us<sep>union carbide corporation <sep>
+</APPLICANT>
+<INVENTOR>
+holcombe thomas charles<sep>holcombe, thomas charles<sep>holcombe, thomas charles352 central park avenuescarsdale new yorkus<sep>holcombe, thomas charles<sep>holcombe, thomas charles352 central park avenuescarsdale new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+normal paraffins are isolated from a feedstock mixture  of normal and non-normal paraffins in the vapor phase at  superatmospheric pressure using an adsorption system  comprising at least four fixed adsorption beds containing a 5  angstrom molecular sieve adsorbent, each of which cyclically  undergoes the stages of (a) adsorption-fill, (b) adsorption,  (c) void space purging, and (d) purge desorption.  the  improvement of the present process comprises recycling in  the vapor phase in combination with feedstock the mixture  of isoparaffins and normal paraffins purged from one bed of  the system during stage (c) to another bed of the system  undergoing stage (b).  in conventional practice the void space  contained hydrocarbons purged from each bed during stage  (c) was cooled, separated from the purging gas, pumped to a  holding tank in the liquid phase and thereafter reheated to  form the vapor phase before being admixed with fresh  feedstock for further treatment.  
+</ABSTRACT>
+</TEXT>
+</DOC>

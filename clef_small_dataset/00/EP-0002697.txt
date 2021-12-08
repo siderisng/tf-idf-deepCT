@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002697
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-25/02 F16F-15/03 <main>F16F-15/03</main> H02K-33/18 H02P-25/06 G05B-19/19 G11B-5/55 G05B-19/39 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sprung mass oscillation system.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+matla arno<sep>matthaei horst<sep>zimmermann volker<sep>matla, arno<sep>matthaei, horst<sep>zimmermann, volker<sep>matla, arnodresdner strasse 1d-7035 waldenbuchde<sep>matthaei, horstschulstrasse 42d-7035 waldenbuchde<sep>zimmermann, volkerhülbenstrasse 2d-7036 schönaichde<sep>matla, arno <sep>matthaei, horst  <sep>zimmermann, volker<sep>matla, arnodresdner strasse 1d-7035 waldenbuchde<sep>matthaei, horstschulstrasse 42d-7035 waldenbuchde<sep>zimmermann, volkerhülbenstrasse 2d-7036 schönaichde<sep>
+</INVENTOR>
+<ABSTRACT>
+Spring ground vibration system with electrodynamically tunable natural frequency. The constant natural frequency of a oscillator effective as a spring mass system is changeable by superposition with a controllable electrodynamic spring constant. For this purpose, the mass of the oscillator is formed as part of a dip coil drive (18, 20, 22), which has two equilibrium coils or coil halves (20a) with respect to the equilibrium position of the mass symmetrically arranged. To produce in the line of the vibration movement magnetic fields with each other of the same size, but opposite directional directions, the partial coils (20a) are each fed with currents of the same starch, whereby a force moving with respect to the rest position becomes effective, as soon as the vibrator from a medium position is deflated. In the rest position, the magnetic fields compensate from the stationary magnetic field of the actuator (18).
+</ABSTRACT>
+</TEXT>
+</DOC>

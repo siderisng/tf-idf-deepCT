@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000700
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-211/00 C08L-51/00 C08L-23/00 C07D-211/58 C07D-491/00 C08K-5/34 C08K-5/00 C08L-101/00 C08L-7/00 C07D-211/46 C08K-5/3412 C08L-21/00 C08L-51/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+metal complexes with a chelating anion comprising a phenolate group, their preparation and their use as light stabilizers, especially for polymeric substances.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+evans samuel drch<sep>moser paul drch<sep>rasberger michael drch<sep>evans, samuel, dr.<sep>moser, paul, dr.<sep>rasberger, michael, dr.<sep>evans, samuel, dr.schützenrain 3ch-4125 riehench<sep>moser, paul, dr.leimgrubenweg 56ch-4125 riehench<sep>rasberger, michael, dr.waltersgrabenweg 6ch-4125 riehench<sep>
+</INVENTOR>
+<ABSTRACT>
+Metalphenolates which have at least one sterically hindered piperidinyl group are suitable as a light shelter for organic material, in particular for higher molecular compounds.
+</ABSTRACT>
+</TEXT>
+</DOC>

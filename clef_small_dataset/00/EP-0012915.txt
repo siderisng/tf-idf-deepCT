@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012915
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G21C-3/62</main> G21C-3/62 G21C-3/00 G21C-21/02 G21C-3/42 C04B-35/622 G21C-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing oxidic nuclear fuel elements.
+</TITLE>
+<APPLICANT>
+kraftwerk union agde<sep>reaktor brennelement unionde<sep>kraftwerk union aktiengesellschaft<sep>reaktor-brennelement union gmbh<sep>kraftwerk union aktiengesellschaftwiesenstrasse 35 d-4330 mülheim (ruhr) de <sep>reaktor-brennelement union gmbhpostfach 11 00 60d-6450 hanau 11de<sep>kraftwerk union aktiengesellschaft<sep>reaktor-brennelement union gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+assmann helmut dr<sep>brandau egbert dr<sep>dichtjar gerhard<sep>dorr wolfgang dr<sep>mathieu viktor<sep>assmann, helmut, dr.<sep>brandau, egbert, dr.<sep>dichtjar, gerhard<sep>dorr, wolfgang, dr.<sep>mathieu, viktor<sep>assmann, helmut, dr.schwabachstrasse 13d-8521 dormitzde<sep>brandau, egbert, dr.schulstrasse 20d-6440 bebrade<sep>dichtjar, gerhardrothenberger strasse 17d-6456 langenselboldde<sep>dörr, wolfgang, dr.lippsweg 2d-8520 erlangende<sep>mathieu, viktorbergstrasse 32d-6451 neubergde<sep>assmann, helmut, dr.<sep>brandau, egbert, dr.<sep>dichtjar, gerhard<sep>dorr, wolfgang, dr.<sep>mathieu, viktor <sep>assmann, helmut, dr.schwabachstrasse 13d-8521 dormitzde   <sep>brandau, egbert, dr.schulstrasse 20d-6440 bebrade<sep>dichtjar, gerhardrothenberger strasse 17d-6456 langenselboldde<sep>dörr, wolfgang, dr.lippsweg 2d-8520 erlangende<sep>mathieu, viktorbergstrasse 32d-6451 neubergde<sep>
+</INVENTOR>
+<ABSTRACT>
+The nuclear fuel powder initially has any oxygen / metal ratio.To adjust the microstructure, it is mixed with U₃O₈, then mixed and pressed to green Lingen.These are then sintered in a by running sintering furnace at 100 ° -1400 ° C first in oxidizing (5) and then in reducing atmosphere (6).
+</ABSTRACT>
+</TEXT>
+</DOC>

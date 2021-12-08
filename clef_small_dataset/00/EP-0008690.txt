@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008690
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-17/02 G05D-16/00 G11B-17/30 G11B-23/02 <main>G11B-17/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flexible disk pack assembly.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+janssen donovan milo<sep>radman jr anton joseph<sep>janssen, donovan milo<sep>radman, jr., anton joseph<sep>janssen, donovan milo4750 lee circleboulder, co 80303us<sep>radman, jr., anton joseph8050 n. della robia placetucson, az 85703us<sep>janssen, donovan milo  <sep>radman, jr., anton joseph<sep>janssen, donovan milo4750 lee circleboulder, co 80303us<sep>radman, jr., anton joseph8050 n. della robia placetucson, az 85703us<sep>
+</INVENTOR>
+<ABSTRACT>
+air is circulated through flexible disk stack 12  mounted on shaft 16 by centrifugal action which draws air  into the centre of the stack via filter 28, controller 26 and  plenum chamber 24.  controller 26 provides primary and  secondary air flow paths in parallel into chamber 24, the  primary and secondary paths being open and closed  respectively at start of a disk access operation.  to access,  transducer head 20 is positioned to cause a partial split  between two selected adjacent disks, and the primary path  is closed, which develops a high vacuum in chamber 24  and causes the partial split to become a full access open­ ing.  the secondary path includes a valve automatically  responsive to pressure in the chamber 24 to supply, after  short delay, a throttled flow of gas into the chamber 24, to  reduce the vacuum to a level at which the full access open­ ing is stable.  
+</ABSTRACT>
+</TEXT>
+</DOC>

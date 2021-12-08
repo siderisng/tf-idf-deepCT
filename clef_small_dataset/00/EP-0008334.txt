@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008334
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-37/10 C07C-255/00 C07C-69/612 A01N-53/00 <main>C07C-69/743</main> C07C-69/00 C07C-255/53 C07C-119/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+alpha-phenyl-alpha-cyclopropane-acetic acid esters, their preparation and use as pesticides.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch <sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+ackermann peter dr  <sep>drabek jozef dr<sep>farooq saleem dr<sep>gsell laurenz dr<sep>kristiansen odd dr<sep>wehrli rudolf dr<sep>ackermann, peter, dr.<sep>drabek, jozef, dr.<sep>farooq, saleem, dr.<sep>gsell, laurenz, dr.<sep>kristiansen, odd, dr.<sep>wehrli, rudolf, dr.<sep>ackermann, peter, dr.reichensteinerstrasse 12ch-4153 reinachch<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>farooq, saleem, dr.im schaiengarten 2ch-4107 ettingench<sep>gsell, laurenz, dr.maiengasse 56ch-4056 baselch<sep>kristiansen, odd, dr.delligrabenstrasse 7ch-4313 möhlinch<sep>wehrli, rudolf, dr.dianastrasse 2ch-4310 rheinfeldench<sep>ackermann, peter, dr. <sep>drabek, jozef, dr.<sep>farooq, saleem, dr.  <sep>gsell, laurenz, dr. <sep>kristiansen, odd, dr.<sep>wehrli, rudolf, dr.<sep>ackermann, peter, dr.reichensteinerstrasse 12ch-4153 reinachch<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>farooq, saleem, dr.im schaiengarten 2ch-4107 ettingench<sep>gsell, laurenz, dr.maiengasse 56ch-4056 baselch<sep>kristiansen, odd, dr.delligrabenstrasse 7ch-4313 möhlinch<sep>wehrli, rudolf, dr.dianastrasse 2ch-4310 rheinfeldench<sep>
+</INVENTOR>
+<ABSTRACT>
+α-phenyl-α-cyclopropyl acetates of the formula wherein X₁ is hydrogen, halogen or C₁-C₄-alkyl, X₂ water, methyl or halogen, R₁ hydrogen, cyano, vinyl or ethinyl and y fluoro or bromine, process for their preparationand their use in pest control.
+</ABSTRACT>
+</TEXT>
+</DOC>

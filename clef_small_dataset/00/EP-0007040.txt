@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007040
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-211/00 <main>C07D-211/40</main> C07D-211/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 1-desoxy-nojirimicyn and n-substituted derivatives.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer agde <sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+stoltefuss jurgen<sep>stoltefuss, jurgen<sep>stoltefuss, jürgen parkstrasse 20d-5657 haan 2de<sep>stoltefuss, jurgen<sep>stoltefuss, jürgen parkstrasse 20d-5657 haan 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+1-deoxy-nojirimycin and n-substituted derivatives of the formula wherein R represents hydrogen, alkyl, aralkyl or aryl, those obtained by de-blocking compounds of the formulas with acids and hydrogenated after addition of base.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014310
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/04 H01L-21/822 H01L-27/06 <main>H01L-27/06</main> G05F-3/20 G11C-11/407 G05F-3/08 H01L-27/02 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+substrate bias generator.
+</TITLE>
+<APPLICANT>
+mitsubishi electric corpjp <sep>mitsubishi denki kabushiki kaisha <sep>mitsubishi denki kabushiki kaisha 2-3, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi denki kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+nagayama yasuzi<sep>nakano takao<sep>shimotori kazuhiro<sep>nagayama, yasuzi<sep>nakano, takao<sep>shimotori, kazuhiro<sep>nagayama, yasuzic/o hiramatsu apartment 4-31, hiramatsu 3-chomeitami, hyogo prefecturejp<sep>nakano, takao10-18, sumiyoshi-dai higashi nada-kukobe, hyogo prefecturejp<sep>shimotori, kazuhiro11-1-906, toneyama 6-chometoyonaka osakajp<sep>nagayama, yasuzi  <sep>nakano, takao <sep>shimotori, kazuhiro<sep>nagayama, yasuzic/o hiramatsu apartment 4-31, hiramatsu 3-chomeitami, hyogo prefecturejp<sep>nakano, takao10-18, sumiyoshi-dai higashi nada-kukobe, hyogo prefecturejp<sep>shimotori, kazuhiro11-1-906, toneyama 6-chometoyonaka osakajp<sep>
+</INVENTOR>
+<ABSTRACT>
+a substrate bias generator comprises a capacitor (222)  including an electrically insulating film (270) sandwiched  between two electrodes (226,272) one of which is disposed on  one main face of a p⁻ semiconductor substrate (210) through  another electrically insulating film (224), and first, second and  third n⁺ semiconductor regions (214-218) disposed in spaced  relationship on the same main face.  the first and second  regions (214, 216) form a grounded source and a drain of a  mosfet (228) connected to both its gate and one of the  electrodes (272) of the capacitor (222).  the second and third  regions (216, 218) form a source and a drain of another  mosfet (234) connected to both its gate and the other main  face of the substrate (210).  a signal is applied to the other  electrode of the capacitor (222).  
+</ABSTRACT>
+</TEXT>
+</DOC>

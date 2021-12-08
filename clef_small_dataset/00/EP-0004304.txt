@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004304
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-3/34 C12N-1/00 C02F-3/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reduction treatment of chemical substances, in particular of waste water ingredients, with the aid of respiratory microorganisms or preparations produced therefrom.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+baumgarten joerg drde<sep>benda herbert drde<sep>frommer werner prof drde<sep>mack kurt drde<sep>malcharek franz drde<sep>mann theo dr de <sep>rudolph joergde<sep>baumgarten, joerg, dr.<sep>benda, herbert, dr.<sep>frommer, werner, prof. dr.<sep>mack, kurt, dr.<sep>malcharek, franz, dr.<sep>mann, theo, dr.<sep>rudolph, joerg<sep>baumgarten, jörg, dr.in der beek 88d-5600 wuppertal 1de<sep>benda, herbert, dr.blaugasse 4d-5000 köln 40de<sep>frommer, werner, prof. dr.claudiusweg 14d-5600 wuppertal 1de<sep>mack, kurt, dr.claudiusweg 15d-5600 wuppertal 1de<sep>malcharek, franz, dr.carl-duisberg-strasse 316d-5090 leverkusende<sep>mann, theo, dr.blumenstrasse 18d-4018 langenfeldde<sep>rudolph, jörgcarl-duisberg-strasse 310d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+process for the biochemical reduction of organic substances or organic/inorganic substance mixtures by means of microorganisms in the absence of free molecular oxygen but in the presence of water and biological electron donors, the use of such respiratory microorganisms, in particular for the reductive treatment of waste water ingredients, and also mixtures which contain respiratory microorganisms in preserved form or as preparations. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017017
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-75/44 H02G-11/00 H02G-11/02 B65H-75/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+braking device for a cable reel installed in a housing.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+ehrlich eberhardde<sep>lins felixde<sep>ehrlich, eberhard<sep>lins, felix<sep>ehrlich, eberhardnordlandstrasse 21d-8740 bad neustadt/s.de<sep>lins, felixsandstrasse 15d-8741 niederlauerde<sep>
+</INVENTOR>
+<ABSTRACT>
+the braking arrangement has a brake member which is adjustably arranged in a cable-outlet opening (3) provided in the housing and effecting a self-locking under the influence of the tensile force of the cable drum (1).  this brake member can be released from its braking position by means of a triggering apparatus during the winding-up of the cable (2).  in order to reduce the friction between the brake member and the cable (2) when the cable is pulled out, it is proposed that the brake member consists of a roller (5) provided with a wedge groove.  this roller (5) lies, for example under the action of gravitational force, against the cable (2) and is moved away from the latter when the cable (2) is unwound and pressed against the latter when it is wound up.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+bremsanordnung für eine in einem gehäuse eingebaute kabeltrommel die erfindung bezieht sich auf eine bremsanordnung für eine in einem gehäuse eingebaute kabeltrommel, die ein in einer im gehäuse vorgesehenen kabelauslassöffnung verstellbar angeordnetes und unter dem einfluss der zugkraft der kabeltrommel eine selbsthemmung bewirkendes bremsglied aufweist, dessen bremsstellung mittels einer auslösevorrichtung beim aufwickeln entriegelbar ist. eine solche bremsanordnung ist durch die de-ps 880 392 bekannt. als bremsglied ist dort ein zweiarmiger hebel vorgesehen, der unter federwirkung an dem kabel anliegt. dies hat zur folge, dass auch beim abwickeln des kabels von der kabeltrommel der bremshebel mit seinem einen arm stets an dem kabel anliegt, so dass beim herausziehen des kabels eine relativ starke reibung zwischen dem betreffenden arm des bremshebels und dem kabel auftritt. der erfindung liegt die aufgabe zugrunde, eine bremsanordnung der eingangs beschriebenen art so auszubilden, dass die reibung zwischen dem bremsglied und dem kabel beim abwickeln des kabels wesentlich vermindert ist. die lösung der gestellten aufgabe gelingt nach der erfindung dadurch, dass das bremsglied aus einer mit einer keilnut versehenen rolle besteht, die durch kontakt zwischen ihr und dem kabel beim abwickeln von diesem weg bewegbar und beim aufwickeln an dieses anpressbar ist. das kabel läuft in der keilnut der rolle und hebt diese beim herausziehen des kabels an bzw. zieht diese beim aufwickeln in die sperrstellung. die rolle selbst liegt nur mit ihrem eigengewicht an dem kabel an, so dass sich nur eine geringe reibung ergibt. eine vorteilhafte ausführungsform der bremsanordnung besteht darin, dass die rolle durch exzentrische lagerung verschwenkbar angeordnet ist. die exzentrische lagerung ist so gestaltet, dass die rolle beim herausziehen des kabels von diesem weggeschwenkt wird und dann nur noch mit ihrem eigengewicht an dem kabel anliegt. wird das abwickeln beendet, so wird das kabel durch die zugkraft der kabeltrommel wieder etwas nach innen gezogen, wobei die rolle nach unten verschwenkt wird. hierbei wird das kabel zwischen der keilnut der rolle und der unteren seite der auslassöffnung eingepresst. eine weitere verminderung der reibung gelingt dadurch, dass die rolle in längsschlitzen drehbar gelagert ist, welche in abwickelrichtung schräg ansteigen. beim abwickeln des kabels bewegt sich die rolle in den längsschlitzen etwas in abwickelrichtung und wird dabei durch die schräge der längsschlitze gegenüber dem kabel angehoben. beim weiteren abwickeln kann sich die rolle in den längsschlitzen drehen, so dass zwischen der rolle und dem kabel nur eine rollende reibung auftritt. anhand eines in der zeichnung dargestellten ausführungsbeispieles wird der anmeldungsgegenstand nachfolgend näher beschrieben. es zeigt fig. 1 eine bremsanordnung mit exzentrischer lagerung der rolle, fig. 2 eine stirnansicht der in fig. 1 dargestellten bremsanordnung, fig. 3 eine bremsanordnung mit einer in längsschlitzen drehbar gelagerten rolle, fig. 4 eine stirnansicht der in fig. 3 dargestellten bremsanordnung und fig. 5 eine als gesondertes teil ausgeführte brems anordnung. mit 1 ist jeweils eine selbstaufwickelnde kabeltrommel bezeichnet, auf der ein kabel 2 aufgewickelt ist. in einem nicht näher dargestellten, die kabeltrommel aufnehmenden gehäuse ist eine kabelauslassöffnung 3 vorgesehen. in dieser kabelauslassöffnung 3 ist eine mit einer keilnut 4 versehene rolle
+</DESCRIPTION>
+<CLAIMS>
+   patentanspruche      1. bremsanordnung für eine in einem gehäuse eingebaute kabeltrommel, welche anordnung ein in einer im gehäuse vorgesehenen   kabelauslassöffnung    verstellbar angeordnetes und unter dem einfluss der zugkraft der kabeltrommel eine selbsthemmung bewirkendes bremsglied aufweist, dessen bremsstellung mittels einer auslösevorrichtung beim aufwickeln entriegelbar ist, d a d u r c h g e k e n n z e i c h n e t , dass das bremsglied aus einer mit einer keilnut (4) versehenen rolle (5 bzw. 6) besteht, die durch kontakt zwischen ihr und dem kabel (2) beim abwickeln von diesem weg bewegbar und beim aufwickeln an dieses anpressbar ist.    2. bremsanordnung nach anspruch 1, d a d u r c h g e k e n n z e i c h n e t , dass die rolle (5) durch exzentrische lagerung verschwenkbar angeordnet ist.   3. bremsanordnung nach anspruch 1, d a d u r c h g e k e n n z e i c h n e t , dass die rolle (6) in längsschlitzen (10) drehbar gelagert ist, welche in abwickelrichtung schräg ansteigen.  
+</CLAIMS>
+</TEXT>
+</DOC>

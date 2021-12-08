@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013907
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F03B-11/02 F03B-3/00 F03B-11/00 F03B-3/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulic turbine.
+</TITLE>
+<APPLICANT>
+andritz ag maschfat<sep>maschinenfabrik andritz aktiengesellschaft<sep>maschinenfabrik andritz aktiengesellschaftreichstrasse 66a-8045 grazat<sep>
+</APPLICANT>
+<INVENTOR>
+buchelt benno dipl-ingat<sep>buchelt, benno, dipl.-ing.<sep>buchelt, benno, dipl.-ing.freiligrathstrasse 22a-9020 klagenfurtat<sep>
+</INVENTOR>
+<ABSTRACT>
+This water turbine is a binary stages arranged with two or more in succession, which is easy to manufacture for a series production and allows adaptation to various water quantities and different gradients by changing the number of stages.For easier manufacturing and interchangeability, the water turbine is made of a tubular housing part (2) with vanes (4) and at least one rotor part (3) with blades (5), which in axial rich device immediately consecutive and exchangeable portions (1)Form, from which the turbine is set together.
+</ABSTRACT>
+</TEXT>
+</DOC>

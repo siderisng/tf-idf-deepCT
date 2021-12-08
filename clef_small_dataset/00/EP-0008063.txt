@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008063
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-2/04 C09B-55/00 C09B-1/00 C08L-77/00 C08L-27/00 C08L-33/02 C08L-33/00 C08K-5/29 C08L-23/00 <main>C09B-1/20</main> C08L-67/00 C08L-1/00 C08L-101/00 C09B-1/20 C08K-5/34 C08L-51/02 C08L-51/00 C08K-5/00 C08L-7/00 C08F-2/00 C08L-21/00 C08F-2/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+azomethine derivatives of anthraquinones, methods for their preparation, their use in the pigmentation of organic macromolecular compounds and the materials thus obtained.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+muller walter ing-grad<sep>neeff rutger dr<sep>rolf meinhard dr<sep>muller, walter, ing.-grad.<sep>neeff, rutger, dr.<sep>rolf, meinhard, dr.<sep>müller, walter, ing.-grad.pfarrer-klein-strasse 3d-5090 leverkusen 3de<sep>neeff, rütger, dr.berta-von-suttner-strasse 22d-5090 leverkusen 1de<sep>rolf, meinhard, dr.berta-von-suttner-strasse 24d-5090 leverkusen 1de<sep>muller, walter, ing.-grad.<sep>neeff, rutger, dr.<sep>rolf, meinhard, dr.<sep>müller, walter, ing.-grad.pfarrer-klein-strasse 3d-5090 leverkusen 3de<sep>neeff, rütger, dr.berta-von-suttner-strasse 22d-5090 leverkusen 1de<sep>rolf, meinhard, dr.berta-von-suttner-strasse 24d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Anthraquinone derivatives which correspond in one of their tautomeric structures of the formula in which A consists of a sulfonic acid group free, optionally further substituted anthraquinone residue, the preferred manner from a maximum of 5 condensed rings, M is a number of 1-4, preferably 1 or 2, R₁Hydrogen or a C₁-C₄-alkyl group R₂ a cyan group, a radical of the formula or a radical of the formula, wherein R₃ is hydrogen, a degree or branched chain alkyl group or a cycloalkyl radical, R₄ a substituent, N 0, 1, 2, 3or 4 and P 0, 1, 2, 3, 4 or 5, methods for their preparation and their use for pigmenting organic macromolecular substances.
+</ABSTRACT>
+</TEXT>
+</DOC>

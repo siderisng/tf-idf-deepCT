@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000156
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-33/18 C07C-211/00 C07C-315/04 A01N-41/02 C07D-319/00 C07C-255/59 C07C-213/00 C07D-319/08 A01N-41/12 C07C-147/12 <main>C07C-149/42</main> C07C-323/65 C07C-315/00 A01P-7/00 C07C-93/14 A01N-37/34 C07C-211/52 C07C-217/00 A01N-41/00 A01N-33/00 C07C-67/00 C07C-317/36 C07C-321/00 C07C-217/92 A01N-41/10 A01N-33/20 C07C-323/20 C07C-317/00 C07C-253/00 C07C-255/00 C07C-313/00 C07C-317/48 C07C-323/36 C07C-323/00 C07C-321/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-arylamino-3,5-dinitro-benzotrifluorides, process for their preparation and their use as pesticides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+hammann ingeborg dr<sep>hartmann alfons dr<sep>klauke erich dr<sep>paul volker dr<sep>roessler peter dr<sep>hammann, ingeborg, dr.<sep>hartmann, alfons, dr.<sep>klauke, erich, dr.<sep>paul, volker, dr.<sep>roessler, peter, dr.<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 kölnde<sep>hartmann, alfons, dr.poststrasse 35d-6645 beckingende<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthal-hahnenbergde<sep>paul, volker, dr.ahornstrasse 5d-5650 solingende<sep>roessler, peter, dr.elsterstrasse 15d-5060 bergisch-gladbachde<sep>hammann, ingeborg, dr.<sep>hartmann, alfons, dr.<sep>klauke, erich, dr.<sep>paul, volker, dr.<sep>roessler, peter, dr.<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 kölnde<sep>hartmann, alfons, dr.poststrasse 35d-6645 beckingende<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthal-hahnenbergde<sep>paul, volker, dr.ahornstrasse 5d-5650 solingende<sep>roessler, peter, dr.elsterstrasse 15d-5060 bergisch-gladbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+2-arylamino-3,5-dinitro benzotrifluorides of the general formula in which X is O, S, SO or SO₂, N is an integer from 1 to 4, R¹ for by halogen and / or haloalkoxy substitui of alkyl or for optionally substituted phe nyl and R² is the same or different radicals of the group of hydrogen, halogen, cyan, nitro, optionally substituted alkyl, wherein ortho-constant substituents XR¹ and R² cooperate with the two adjacent C atoms of the phenyl core if necessary halogen-substituted dioxanyl ring can form; If X for S, SO or SO₂, R¹ can be prepared in addition to the above-mentioned remains for unsubstituted alkyl. These compounds (1) are obtained by reacting an aniline with 2-chloro-3,5-dinitrobenzotrifluoride or by reacting 2-amino-3,5-dinitro-benzotrifluoride with the appropriate aromatic halogen compound, or if necessary when X for S The compounds (1), with the aid of oxidizing agents, is transferred to corresponding Vindinen (1) in which X is for SO or SO₂. The compounds (1) goats an insecticidal, acaricidal, development-resistant, fungicidal and bactericidal effect, they can be applied to the usual formulations.
+</ABSTRACT>
+</TEXT>
+</DOC>

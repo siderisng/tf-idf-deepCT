@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007564
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-21/14 <main>G03G-15/00</main> G03G-21/00 G03G-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+supporting plate for a band-like photoconducting recording material.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+neumann jurgen<sep>neumann, jurgen<sep>neumann, jürgen wachenheimer strasse 29d-6237 liederbachde<sep>neumann, jurgen<sep>neumann, jürgen wachenheimer strasse 29d-6237 liederbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a support plate (1) for a photo conductive, band-shaped auxiliary sealing material (9), which is provided in the direction of both longitudinal edges with perforations (8).The support plate (1) has at least one electrically conductive grating (3) covered (2).The top of the grid (3) completes plan parallel with a Aufa flange (5) of the support plate (1).The grating (3) uses a wire mesh grid with a mesh width up to 2 mm.The support plate (1) is grounded and connected via a relay (8) and a voltage source (15) with a metal bearing ste (7) whose metal tips through the perforatio nEN of the recording material (9) closing the contact with the support plate (1).
+</ABSTRACT>
+</TEXT>
+</DOC>

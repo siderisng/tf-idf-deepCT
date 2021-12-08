@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005889
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-503/00 C07D-501/04 A61P-31/00 C07D-487/00 A61K-31/43 C07D-477/10 C07D-477/00 A61K-31/429 <main>C07D-205/08</main> C07D-499/861 C07D-477/02 C07D-487/04 C07D-499/00 A61K-31/545 C07D-505/00 A61P-31/04 C07D-499/86 C07D-463/00 C07D-499/87 C07D-501/00 C07D-499/897 C07D-499/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of beta-lactam derivatives, the novel derivatives so obtainable and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+scherico ltdch<sep>scherico ltd.<sep>technobiotic ltd.töpferstrasse 5ch-6004 lucernech<sep>scherico ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+cavender patricia lee<sep>ganguly ashit kumar<sep>girijavallabhan viyyoor moopil<sep>mccombie stuart walter<sep>sarre olga<sep>cavender, patricia lee<sep>ganguly, ashit kumar<sep>girijavallabhan, viyyoor moopil<sep>mccombie, stuart walter<sep>sarre, olga<sep>cavender, patricia lee54 rocky brook drivecranbury new jersey 08512us<sep>ganguly, ashit kumar96 cooper avenueupper montclair new jersey 07043us<sep>girijavallabhan, viyyoor moopil905 broad street fairway garden apartment g7bloomfield new jersey 07003us<sep>mccombie, stuart walter159 pleasant valley waywest orange new jersey 07052us<sep>sarre, olga12 valhalla wayverona new jersey 07044us<sep>cavender, patricia lee <sep>ganguly, ashit kumar<sep>girijavallabhan, viyyoor moopil<sep>mccombie, stuart walter<sep>sarre, olga<sep>cavender, patricia lee54 rocky brook drivecranbury new jersey 08512us<sep>ganguly, ashit kumar96 cooper avenueupper montclair new jersey 07043us<sep>girijavallabhan, viyyoor moopil905 broad street fairway garden apartment g7bloomfield new jersey 07003us<sep>mccombie, stuart walter159 pleasant valley waywest orange new jersey 07052us<sep>sarre, olga12 valhalla wayverona new jersey 07044us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a process for the preparation of  β-lactam derivatives having a substituted hydroxymethyl  group at the carbon atom α to the lactam carbonyl group, to  the novel antibacterially-active derivatives so-obtainable and  to pharmaceutical compositions containing these.  the process comprises reacting under specified conditions  an α-halo-β-lactam starting material with activated zinc  in the presence of an appropriate aldehyde or ketone and  hydrolysing the resulting zinc complex.  the novel β-lactam derivatives are of the general  formula i    (with the meaning of r, r₁-r₄, y and z as given in the  specification) and include the pharmaceutically acceptable  salts thereof.  
+</ABSTRACT>
+</TEXT>
+</DOC>

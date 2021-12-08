@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008909
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-67/00 B60W-10/02 <main>F16D-67/04</main> B60W-10/18 B60T-11/16 F16D-67/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+clutch brake mechanisms.
+</TITLE>
+<APPLICANT>
+automotive prod plc gb<sep>automotive products public limited company  <sep>automotive products public limited companytachbrook roadleamington spa warwickshire cv31 3ergb<sep>automotive products public limited company<sep>
+</APPLICANT>
+<INVENTOR>
+parsons david<sep>taylor maurice<sep>young alastair john<sep>parsons, david<sep>taylor, maurice<sep>young, alastair john<sep>parsons, david73 john o'gaunt roadkenilworth warwickshiregb<sep>taylor, maurice45 coniston roadleamington spa, warwickshiregb<sep>young, alastair john39 roundshillkenilworth, warwickshiregb<sep>parsons, david  <sep>taylor, maurice <sep>young, alastair john<sep>parsons, david73 john o'gaunt roadkenilworth warwickshiregb<sep>taylor, maurice45 coniston roadleamington spa, warwickshiregb<sep>young, alastair john39 roundshillkenilworth, warwickshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a hydraulic master cylinder (11) and brake valve assem­ bly (12) for sequential operation of a friction clutch (16) and a  friction brake (17) for a drive member driven through the  friction clutch, is arranged such that up to a first given dis­ placement of the master cylinder piston (24) the clutch  release mechanism only is connected to the master cylinder  (11) and, above a second given displacement of the piston  (24) the brake actuator only is connected to the master cylin­ der (11), there being a step change in thrust applied to the  master cylinder piston (24) between said first and second  given displacements.  such an assembly is particularly applicable for operating  heavy road vehicle clutch brakes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

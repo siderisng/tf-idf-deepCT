@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005557
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-1/02 H02K-33/08 G01R-1/14 G01R-5/00 G01R-5/14 G05B-5/01 H02K-33/00 <main>G01R-1/14</main> G05B-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+regulation system with novel velocity sensing and feedback for a limited rotation moving iron motor.
+</TITLE>
+<APPLICANT>
+gen scanning incus<sep>general scanning, inc.<sep>general scanning, inc.150 coolidge hill roadwatertown massachusettsus<sep>general scanning, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+montagu jean i<sep>montagu, jean i.<sep>montagu, jean i.76 walnut placebrookline massachusettsus<sep>montagu, jean i.<sep>montagu, jean i.76 walnut placebrookline massachusettsus<sep>
+</INVENTOR>
+<ABSTRACT>
+a regulation system for a limited rotation, polarized,  moving iron galvanometer has means for providing a first  voltage dependent upon the angular velocity of the armature  (12), the self-inductance of the galvanometer drive coil (36,  38), and the drive current in the drive coil (36, 38).  a  compensation coil (52, 90) is magnetically coupled to the  drive coil (36, 38) and magnetically isolated from the effects  of the rotating armature (12) to provide a second voltage  which is dependent upon mutual inductance between the  drive and compensation coils and upon the drive current, but  is not dependent upon the effects of the rotating armature  (12) due to the magnetic isolation of the compensation coil  (52) from the armature (12).  a combining means (72)  proportionally combines the first and second voltages to  provide a voltage indicating the angular velocity of rotation  of the armature.  the means for providing the first voltage  includes either the drive coil (52), with the first voltage  appearing across the drive coil (36, 38), or a pickoff coil (84)  wound coaxially with and adjacent to the drive coil (38) so  that the first voltage appears across the pickoff coil (84) and  is proportional to the voltage appearing across the drive coil  (36, 38).  the velocity signal thus derived is introduced to the  drive circuit to provide effective damping.  
+</ABSTRACT>
+</TEXT>
+</DOC>

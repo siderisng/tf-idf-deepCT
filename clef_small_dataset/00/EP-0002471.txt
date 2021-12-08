@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002471
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-17/00 B23K-15/00 <main>B23K-15/00</main> F01N-3/28 B21D-47/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for the manufacture of a sheet-metal honeycomb structure by welding with corpuscular emission.
+</TITLE>
+<APPLICANT>
+steigerwald strahltechde<sep>steigerwald strahltechnik gmbh<sep>messer griesheim gmbhhanauer landstrasse 330d-60314 frankfurtde<sep>messer griesheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+schubert gernot dipl-ing<sep>schubert, gernot, dipl.-ing.<sep>schubert, gernot, dipl.-ing.theodor-fischer-strasse 120d-8000 münchen 50de<sep>schubert, gernot, dipl.-ing.<sep>schubert, gernot, dipl.-ing.theodor-fischer-strasse 120d-8000 münchen 50de<sep>
+</INVENTOR>
+<ABSTRACT>
+A honeycomb structure (10) of sheet metal, in which the surfaces of the sheets (12, 14) to form the honeycomb structure at a plurality of locally separated contact areas, is thereby structurally fixed that the contact areas on the end face (20) of the honeycomb-type sheet metal image are connected to each other by corpuscular beam welding points. The corpuscular beam welding points can be prepared by aoring a corpuscular beam, in particular an electron beam, with such orientation on the end face (20) of the honeycomb sheet metal image, that it extends substantially in the longitudinal direction of the holes of the honeycomb and the sheet metal surface substantially only striping touched. Due to a pitch-like relative movement of the corpuscular beam with respect to the end face (26) of the honeycomb sheet metal image, this end face (20) is transitioned through the corpuscular beam. The intensity of the corpuscular beam and the relative speed are chosen so that the honeycomb sheet metal structure is welded to the contact areas of the sheets, while on the other hand, where the corpuscular beam touches the sheet metal surface, no significant influence of the sheet takes place. Honeycomb sheet metal structures of the present art are particularly owned as inserts for exhaust systems of internal combustor machines, such as automotive engines.
+</ABSTRACT>
+</TEXT>
+</DOC>

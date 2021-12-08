@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004507
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01R-9/22</main> H01R-9/09 H01R-9/24 H01R-9/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an arrangement for electrical supply to a printed circuit board,and a junction block for such an arrangement.
+</TITLE>
+<APPLICANT>
+alsthom cgeefr<sep>societe anonyme dite:  cgee alsthom<sep>cgee alsthom société anonyme dite:13, rue antonin raynaudf-92309 levallois-perretfr<sep>alsthom cgee<sep>
+</APPLICANT>
+<INVENTOR>
+richard andre<sep>ryckewaert daniel<sep>richard, andre<sep>ryckewaert, daniel<sep>richard, andré145 rue de la pagèref-69500 bronfr<sep>ryckewaert, daniel31 chemin des combesf-69100 villeurbannefr<sep>richard, andre <sep>ryckewaert, daniel<sep>richard, andré 145 rue de la pagère f-69500 bron fr<sep>ryckewaert, daniel31 chemin des combesf-69100 villeurbannefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a printed circuit board junction block comprising a base having sides intended to be assembled side by side with the sides of the base of an adjacent junction block to constitute a connection bar, a connecting bar. lower face intended to be attached to a common ratio, a front panel, a rear face and an upper face for electrical circuit connecting. The block is characterized in that the upper face of the base (1) comprises insulating media (34) of a row of electrical bars (5), arranged parallel to the longitudinal axis of the connecting strip and common to The set of blocks of the bar, and contact pads (40) arranged opposite said bars and parallel to these, said studs being connected to external connection terminals (4) disposed on the front and rear faces of The base, and in that a printed circuit board (7) is arranged transversely on said bars, the lower edge of the card being provided with terminals (9) plugged into the electrical bars and the contact pads. The invention applies to the realization of the control and control installations of electrical devices.
+</ABSTRACT>
+</TEXT>
+</DOC>

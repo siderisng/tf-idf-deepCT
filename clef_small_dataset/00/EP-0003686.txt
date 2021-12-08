@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003686
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-3/00 C25B-3/02 C25B-15/00 C25B-1/00 <main>C25B-3/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochemical synthesis.
+</TITLE>
+<APPLICANT>
+nat res dev gb  <sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation <sep>
+</APPLICANT>
+<INVENTOR>
+bewick alan<sep>mellor john macrae<sep>pons bobby stanley<sep>bewick, alan<sep>mellor, john macrae<sep>pons, bobby stanley<sep>bewick, alanthe keepers cottage manor road chilworthsouthampton hampshiregb<sep>mellor, john macraeoaks west end road west endsouthampton hampshiregb<sep>pons, bobby stanley4386 elizabeth lake road apartment 8pontiac michigan 45054us<sep>bewick, alan <sep>mellor, john macrae  <sep>pons, bobby stanley<sep>bewick, alanthe keepers cottage manor road chilworthsouthampton hampshiregb<sep>mellor, john macraeoaks west end road west endsouthampton hampshiregb<sep>pons, bobby stanley4386 elizabeth lake road apartment 8pontiac michigan 45054us<sep>
+</INVENTOR>
+<ABSTRACT>
+a liquid-phase electrochemical synthesis is possible  wherein a desired charged intermediate would normally  be undesirably immediately electrolysed, by covalently  trapping the charged intermediate onto particles of a  sulphonated polystyrene, filtering off the liquid, and  regenerating the polystyrene in (say) alkali to release and  hydrolyse the intermediate.  hexamethylbenzene may be  electrolysed in acetonitrile to give, by this process, 1,  3-(2,4,5,6-tetramethyl)-bisacetamido-methylbenzene.  
+</ABSTRACT>
+</TEXT>
+</DOC>

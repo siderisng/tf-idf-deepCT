@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016225
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C22C-38/40</main> C22C-38/40 C22C-38/58 C22C-38/50 C22C-38/44 C22C-38/48 C22C-38/42 C22C-38/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+use of an austenitic steel in oxidizing conditions at high temperature.
+</TITLE>
+<APPLICANT>
+nippon stainless steel cojp<sep>sumitomo metal indjp<sep>nippon stainless steel co., ltd.<sep>sumitomo metal industries, ltd.<sep>nippon stainless steel co., ltd. 8-2, honshio-choshinjuku-ku tokyo 160jp <sep>sumitomo metal industries, ltd. 15, kitahama 5-chome higashi-kuosaka-shi, osaka, 541jp<sep>nippon stainless steel co., ltd.  <sep>sumitomo metal industries, ltd.<sep>nippon stainless steel co., ltd.<sep>sumitomo metal industries, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+fujikawa hisao central researc<sep>moroishi taishi central resear<sep>murayama junichiro central res<sep>shoji yuji nippon stainless st<sep>fujikawa, hisao central research laboratories<sep>moroishi, taishi central research laboratories<sep>murayama, junichiro central research laboratories<sep>shoji, yuji nippon stainless steel co., ltd.<sep>fujikawa, hisao central research laboratoriessumitomo metal industries, ltd. 3, nishinagasuhon-dori 1-chome amagasaki-shi, hyogo, 660jp<sep>moroishi, taishi central research laboratoriessumitomo metal industries, ltd. 3, nishinagasuhon-dori 1-chome amagasaki-shi, hyogo, 660jp<sep>murayama, junichiro central research laboratoriessumitomo metal industries, ltd. 3, nishinagasuhon-dori 1-chome amagasaki-shi, hyogo, 660jp<sep>shoji, yuji nippon stainless steel co., ltd.12-1 minatocho 2-chomejoetsushi, niigata, 942jp<sep>fujikawa, hisao central research laboratories<sep>moroishi, taishi central research laboratories<sep>murayama, junichiro central research laboratories<sep>shoji, yuji nippon stainless steel co., ltd.<sep>fujikawa, hisao central research laboratories<sep>moroishi, taishi central research laboratories<sep>murayama, junichiro central research laboratories <sep>shoji, yuji nippon stainless steel co., ltd.<sep>fujikawa, hisao central research laboratories sumitomo metal industries, ltd. 3, nishinagasuhon- dori 1-chome amagasaki-shi, hyogo, 660 jp <sep>moroishi, taishi central research laboratoriessumitomo metal industries, ltd. 3, nishinagasuhon-dori 1-chome amagasaki-shi, hyogo, 660jp<sep>murayama, junichiro central research laboratoriessumitomo metal industries, ltd. 3, nishinagasuhon-dori 1-chome amagasaki-shi, hyogo, 660jp<sep>shoji, yuji nippon stainless steel co., ltd.12-1 minatocho 2-chomejoetsushi, niigata, 942jp<sep>
+</INVENTOR>
+<ABSTRACT>
+austenitic steel having an excellent resistance to high  temperature oxidization.  the steel contains carbon up to 0. 01  percent, silicium 0. 1-5 percent, manganese up to 3 percent,  nickel 7-45 percent, chromium 15-30 percent and sulphur  0. 003 percent or less.  the low content of sulphur 0. 003 percent  or less, preferably 0. 0015 percent or less, makes the steel  resistant to oxidization even if exposed to a number of heat  cycles between a high temperature and room temperature.  
+</ABSTRACT>
+</TEXT>
+</DOC>

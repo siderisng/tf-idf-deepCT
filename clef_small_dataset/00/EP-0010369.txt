@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010369
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-503/00 A61P-31/00 A61K-31/545 <main>C07D-498/04</main> A61K-31/43 A61K-31/42 A61K-31/429 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+clavulanic acid derivatives, processes for their preparation and  pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+beecham group plc gb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+clarke brian peter<sep>harbridge john barry<sep>stirling irene<sep>clarke, brian peter<sep>harbridge, john barry<sep>stirling, irene<sep>clarke, brian peter"coneybury" drive spurforest drive kingswood, surreygb<sep>harbridge, john barry109 st. andrews roadcoulsdon, surreygb<sep>stirling, irene80 woodcrest walkreigate, surreygb<sep>clarke, brian peter<sep>harbridge, john barry  <sep>stirling, irene <sep>clarke, brian peter"coneybury" drive spurforest drive kingswood, surreygb<sep>harbridge, john barry109 st. andrews roadcoulsdon, surreygb<sep>stirling, irene80 woodcrest walkreigate, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of formula, (ii):    wherein r₃ is a hydrogen, fluorine or chlorine atom or an alkyl  group of 1-3 carbon atoms, an alkoxyl group of 1-3 carbon  atoms or an acyloxy group of 1-3 carbon atoms, r₄ is a hyd­ rogen fluorine or chlorine atom or an alkyl group of 1-3  carbon atoms or an alkoxy group of 1-3 carbon atoms, and r₇  is a nitro, cyano, amino or aminomethyl group, are antibacter­ ial agents and beta-lactamase inhibitors.  their use and pro­ cess for their preparation are described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

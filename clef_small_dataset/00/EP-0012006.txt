@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012006
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/04 F01K-17/00 F01K-21/00 F22B-27/00 B01D-3/06 F01K-25/02 F01K-17/04 F22B-27/12 F22B-37/00 F22B-37/32 C02F-1/16 F01K-25/00 F01K-25/04 B01D-3/00 <main>F01K-21/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat cycle system and method for producing fresh water from brine.
+</TITLE>
+<APPLICANT>
+transamerica delaval incus<sep>transamerica delaval, inc.<sep>transamerica delaval inc.3450 princeton pikelawrenceville new jersey 08648us<sep>transamerica delaval, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+amend william edgar<sep>studhalter walter richard<sep>amend, william edgar<sep>studhalter, walter richard<sep>amend, william edgar26 encanto driverolling hills estates california 90274us<sep>studhalter, walter richard22263 ninfa courtwoodland hills, california 91364us<sep>amend, william edgar<sep>studhalter, walter richard<sep>amend, william edgar26 encanto driverolling hills estates california 90274us<sep>studhalter, walter richard22263 ninfa courtwoodland hills, california 91364us<sep>
+</INVENTOR>
+<ABSTRACT>
+steam, for example, is produced from aqueous brine, by  a system that employs preferably hot waste fluid, and nozzle  means and rotary separator means generally of a known kind  per se.  the method steps include transferring the waste heat  of combustion source (22) to the brine flowing in heater  exchanger coil (23), expanding the hot brine through nozzle  means (24) to form a jet of steam and liquid droplets, causing  said expanded flow to rotate the rotary separator means (26)  for forming a liquid layer of said droplets on the separator  means by centrifugal action while separating the steam (at 28),  which is used to heat the incoming brine pumped by  pump (11) in condensers (14, 13).  the separated liquid from  the rotating layer is used to drive turbine means (29) and the  condensed steam provides fresh water from the brine.  several  stages of separators may be employed in series or in  series and parallel.  also, the steam may be used to assist in  power generation.  the system described is of low first cost  and low operating cost, and is simple and reliable.  
+</ABSTRACT>
+</TEXT>
+</DOC>

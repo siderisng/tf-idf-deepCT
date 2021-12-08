@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002591
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-2/165 G01D-15/16 <main>B41J-3/04</main> B41J-2/02 B41J-2/015 B41J-2/175 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+priming means for liquid ink writing apparatus.
+</TITLE>
+<APPLICANT>
+gould incus<sep>gould inc.<sep>gould inc.10 gould centerrolling meadows, il 60008us<sep>gould inc.<sep>
+</APPLICANT>
+<INVENTOR>
+geil ronald j<sep>geil, ronald j.<sep>geil, ronald j.5411 park drivevermilion ohio 44089us<sep>geil, ronald j.<sep>geil, ronald j.5411 park drivevermilion ohio 44089us<sep>
+</INVENTOR>
+<ABSTRACT>
+a system for priming liquid ink writing instruments such  as ink jet writers and capillary ink pens is disclosed.  a source  of ink (12) is pressurized to force ink through the ink jet or  other pen (10) so that a small droplet is formed at the jet or  pen outlet.  as the drop forms at the jet or pen (10), it is  eventually drawn away into an adjacent orifice in a collector  ring (30) by capillary action.  an integrated priming pump (26)  serves both to pressurize the ink source (12) to form the ink  droplet, and to apply a vacuum to a collector bottle (32)  which is coupled via a flow control element (38) to the orifice  to remove the ink drawn away into collector ring (30) by  capillary action.  the priming pump (26) includes a pressure  relief valve to ensure that the ink jet or pen is not  overpressurized during priming.  in ink jet writer applications,  the drop removal orifice is formed as a portion of the droplet  charging ring.  
+</ABSTRACT>
+</TEXT>
+</DOC>

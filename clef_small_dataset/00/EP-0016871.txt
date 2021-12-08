@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016871
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-61/00 B65H-63/08 B65H-63/00 <main>B65H-63/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for obtaining predetermined and exact yarn lengths on cross spools.
+</TITLE>
+<APPLICANT>
+zellweger uster agch <sep>zellweger uster ag <sep>zellweger uster agwilstrasse 11ch-8610 usterch<sep>zellweger uster ag  <sep>
+</APPLICANT>
+<INVENTOR>
+felix ernst<sep>felix, ernst<sep>felix, ernstbahnstrasse 35ch-8610 usterch<sep>felix, ernst<sep>felix, ernstbahnstrasse 35ch-8610 usterch<sep>
+</INVENTOR>
+<ABSTRACT>
+By determining the maturities or the indigenous number of groove drum or cross coil in relation to the yarn length full of spinncopse, count values are input to a re chenwerk (3b), which are summed in this and compared to a setpoint corresponding to the yarn length of the vol len cross coil.As soon as this setpoint is reached, the coil process is interrupted.Further developments of this method enable to compare the maturities or speeds of different winding sites together and to recognize by incorrect winding processes.The use of microcomputers for the counting and value functions results in a device that can be adapted to all occurring special features by appropriate programming.
+</ABSTRACT>
+</TEXT>
+</DOC>

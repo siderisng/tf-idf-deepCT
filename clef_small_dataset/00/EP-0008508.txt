@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008508
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01F-23/24 <main>G01F-23/24</main> G01F-23/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid level sensing apparatus.
+</TITLE>
+<APPLICANT>
+lucas industries ltdgb<sep>lucas industries limited<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>lucas industries public limited company <sep>
+</APPLICANT>
+<INVENTOR>
+harris paul anthony<sep>williams david gordon<sep>harris, paul anthony<sep>williams, david gordon<sep>harris, paul anthony38 heath closestonnal, walsall west midlandsgb<sep>williams, david gordon7 woodville roadharborne, birmingham b17 9asgb<sep>harris, paul anthony<sep>williams, david gordon  <sep>harris, paul anthony38 heath closestonnal, walsall west midlandsgb<sep>williams, david gordon7 woodville roadharborne, birmingham b17 9asgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a liquid level sensing apparatus includes a probe (14)  having a high positive temperature coefficient of resistivity.   the probe (14) is connected in a circuit including an opera­ tional amplifier (a₁) and a series transistor (t₁ which main­ tains the voltage across the probe (14) constant for a fixed  period following switching on of the apparatus and which  produces a voltage signal related to the current flowing in the  probe.  this voltage signal is differentiated by a differentiating  circuit (r₁₁, r₁₂, c₃) to provide a signal indicating the rate of  change of the voltage signal from which it is determined  whether or not the probe is immersed in a cooling liquid.  a  warning lamp (l) is actuated by a latching switch circuit (t₂,  t₃, t₄) when the probe is not immersed.  a second example is  described in which the probe current is maintained at a fixed  level and the rate of change of the voltage across it is moni­ tored.  
+</ABSTRACT>
+</TEXT>
+</DOC>

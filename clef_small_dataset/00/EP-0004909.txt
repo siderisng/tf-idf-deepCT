@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004909
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08B-17/00 G08B-25/00 H04Q-9/00 <main>G08B-26/00</main> G08B-26/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+annunciator of danger.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+moser otto walter dipl-ing<sep>thilo peer dr<sep>moser, otto walter, dipl.-ing.<sep>thilo, peer, dr.<sep>moser, otto walter, dipl.-ing.albert-robhaupter-strasse 104d-8000 münchen 70de<sep>thilo, peer, dr.buchhierlstrasse 19d-8000 münchen 71de<sep>moser, otto walter, dipl.-ing.  <sep>thilo, peer, dr.<sep>moser, otto walter, dipl.-ing.albert-robhaupter-strasse 104d-8000 münchen 70de<sep>thilo, peer, dr.buchhierlstrasse 19d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+A hazard alarm system increases the availability of the system by decentralizing system intelligence.The entire system is divided into small, fully functional system blocks (SYB), with each system block (SYB) switching devices (E1, E2.,, EN) for one or more detectors (M) or for one or more subordinate system blocks(SYB), a programmed control (PST) has a query and evaluation of the detector signals as well as connections for display, operating and registrar.One of the system blocks (SYB1) serves as a central (Z), while the other system blocks (SYB 2, SYB 3, SYB 4) of this control panel in one or more hierarchical levels (K1, K2) are subordinate.
+</ABSTRACT>
+</TEXT>
+</DOC>

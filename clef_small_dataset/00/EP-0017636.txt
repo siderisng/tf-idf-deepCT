@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017636
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/067 H04N-5/073 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method and a device for synchronizing a digital memory with an existing tv-system.
+</TITLE>
+<APPLICANT>
+globe computers abse  <sep>globe computers ab<sep>globe computers ab9 strandvägens-114 56 stockholmse<sep>
+</APPLICANT>
+<INVENTOR>
+waern stefanse<sep>waern, stefan<sep>wärn, stefan5 barsbrovägens-175 63 järfällase<sep>
+</INVENTOR>
+<ABSTRACT>
+the aim of the present invention is to make it possible to  synchronize a digital memory (8) with an existing tv-system,  in which a tv-picture is transmitted with video interlace.   according to the invention a corrected field synchronizing  pulse (b2) is formed by means of a composite sync signal (s)  of the tv-system, which pulse (b2), in spite of the video  interlace, always appears at the starting point of a line and by  means of which a part in an address counter (6) for the  memory associated with vertical addressing of the memory  is reset to a starting position at the starting point of each  picture field.  the address counter is stepped for addressing  purposes by means of a clock signal from a main oscillator  (5), the frequency of which is controlled in response to a  comparison between a line synchronizing signal (l1) derived  from the composite sync signal and line frequency signals  (l2, l3) supplied from the address counter.  
+</ABSTRACT>
+</TEXT>
+</DOC>

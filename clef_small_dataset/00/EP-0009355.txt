@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009355
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04C-2/02 F04C-2/00 <main>F04C-18/02</main> F04C-18/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+scroll-type fluid compressor units.
+</TITLE>
+<APPLICANT>
+sankyo electric cojp <sep>sankyo electric company limited<sep>sanden corporation 20 kotobuki-cho isesaki-shi gunma-kenjp<sep>sanden corporation <sep>
+</APPLICANT>
+<INVENTOR>
+hiraga masaharu<sep>terauchi kiyoshi<sep>hiraga, masaharu<sep>terauchi, kiyoshi<sep>hiraga, masaharu8-34, honjo 4-chomehonjo-shi, saitama-kenjp<sep>terauchi, kiyoshi8-14, heiwa-choisesaki-shi gunma-kenjp<sep>hiraga, masaharu <sep>terauchi, kiyoshi  <sep>hiraga, masaharu8-34, honjo 4-chomehonjo-shi, saitama-kenjp<sep>terauchi, kiyoshi8-14, heiwa-choisesaki-shi gunma-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a scroll-type compressor unit includes fixed and orbit­ ing scroll members contained within a cylindrical housing.   each scroll member has an end plate and a spiral element.  in order to reduce the radius of the cylindrical housing,  the end plate of the orbiting scroll member is a circular  plate having a radius of (a - r/2), and the center of the  end plate of the orbiting scroll member is offset from the  center of the spiral element affixed thereto, assuming that  the radius of the orbital motion of the orbiting scroll mem­ ber is  r, and that the distance between the center and the  terminal end of each spiral element is a.  furthermore, the fixed scroll member is so disposed  in the cylindrical housing that the center of the spiral ele­ ment thereof is offset from the center of the cylindrical  housing towards the radially outer terminal end of the  spiral element thereof by r/2.  in this arrangement, the  radius of the cylindrical compressor housing is further  reduced.  
+</ABSTRACT>
+</TEXT>
+</DOC>

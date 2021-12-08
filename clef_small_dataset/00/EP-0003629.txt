@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003629
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/60 H01L-21/48 H01L-21/50 H01L-21/02 H05K-13/02 <main>H01L-21/68</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+methods for manufacturing microminiature solid state devices and apparatus for use in such methods.
+</TITLE>
+<APPLICANT>
+philips electronic associated gb<sep>philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited <sep>
+</APPLICANT>
+<INVENTOR>
+palmer jan tobias c o philips<sep>palmer, jan tobias c/o philips electronic and ass.<sep>palmer,jan tobias c/ophilips electronicand ass.ind.ltd. pat.dept. mullard housetorrington place london wc1e 7hdgb<sep>palmer,jan tobias c/ophilips electronic <sep>palmer,jan tobias c/ophilips electronicand ass.ind.ltd. pat.dept. mullard housetorrington place london wc1e 7hdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method for manufacturing microminiature solid state  devices and apparatus for use in such a method.  in various  operations e. g.  wire-bonding and die-bonding it is essential to  accurately orientate a header of the device.  the header (1a) is  mounted in a carrier strip (2) and is transported with approximately  the desired orientation into the work area (6).  previous  mechanical orientation techniques have caused both bending of  the lead pins and adhesion between the header and the  mechanical elements of the bonding machine.  in this method,  which is suitable for orientating devices with e. g.  a to. 3, to. 5,  to. 9 or to. 18 outline, magnetic attraction is used to pull two  lead pins (12) against an abutment (14) so that it becomes  correctly orientated.  the use of an electromagnet (7), which may  be cooled using e. g.  a nitrogen jet (17) or a water-cooling jacket  (23), facilitates a periodic polarity reversal thus preventing any  undesirable permanent magnetization.  
+</ABSTRACT>
+</TEXT>
+</DOC>

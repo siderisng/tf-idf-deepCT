@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014581
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-15/177 G06F-12/02 G06F-9/445 G06F-12/00 G06F-15/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+addressing system for and methods of addressing memories in computer systems
+</TITLE>
+<APPLICANT>
+fanuc ltdjp<sep>fanuc ltd<sep>fanuc ltd.3580, shibokusa aza-komanba, oshinomuraminamitsuru-gun, yamanashi 401-05jp<sep>
+</APPLICANT>
+<INVENTOR>
+kurakake mitsuojp<sep>kurakake, mitsuo<sep>kurakake, mitsuono. 2-16-2, naitokokubunji-shi tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a computer system has a processing units (cpu1 to cpu3), with independent address buses (bus1 to bus3), and memories (mem1 to mem4) each connectible to any of the address buses (bus1 to bus3).  the addressing system provides each processing unit (cpu1 to cpu3) with an address modification register (reg1 to reg3) and an adder (ad1 to ad3).  the adder (ad1, ad2 or ad3) adds the content (an address modification number) of the address modification register (reg1, reg2, or reg3) to an address output from the processing unit (cpu1, cpu2 or cpu3) to provide an added address which is used for memory addressing.   <??>this addressing system, and the method of addressing memories using stored address modification numbers which are added to addresses output from processing units, provides that independently of the allocation of memory space to a processing unit, the lead address of the memory space used by the unit can have, from the point of view of the processor, a zero (first) address.  
+</ABSTRACT>
+</TEXT>
+</DOC>

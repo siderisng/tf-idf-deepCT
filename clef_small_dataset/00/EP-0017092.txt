@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017092
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/20 <main>G03G-15/20</main> B65H-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+roll fuser.
+</TITLE>
+<APPLICANT>
+ibmus  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+brandon fred young<sep>chang jack pang-ting<sep>clark william darwin<sep>stahlberg eugene george<sep>brandon, fred young<sep>chang, jack pang-ting<sep>clark, william darwin<sep>stahlberg, eugene george<sep>brandon, fred young837 surrey lanelexington, kentucky 40503us<sep>chang, jack pang-ting465 oneida streetboulder, colorado 80303us<sep>clark, william darwin2517 lanyon drivelongmont, colorado 80501us<sep>stahlberg, eugene george4878 fairlawn circleboulder, colorado 80301us<sep>brandon, fred young<sep>chang, jack pang-ting <sep>clark, william darwin<sep>stahlberg, eugene george  <sep>brandon, fred young837 surrey lanelexington, kentucky 40503us<sep>chang, jack pang-ting465 oneida streetboulder, colorado 80303us<sep>clark, william darwin2517 lanyon drivelongmont, colorado 80501us<sep>stahlberg, eugene george4878 fairlawn circleboulder, colorado 80301us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrophotographic copier machine has a roll fuser,  one mating roll of which comprises a thin outer shell 25  which has tapered end sections and is supported centrally on  a shaft 26.  end plugs 28 are axially movable on the shaft  between retracted and engaged positions.  the end plugs 28  can be moved axially inward to the engaged positions in  which flanges 32 are a close fit in portions 42 in high  humidity conditions to provide support for the end sections  of the normally concave roll.  the plugs 28 can be moved  axially outward to the retracted positions in low humidity  conditions so that no support is provided until the roll ends  are flattened under the pressure of a mating roll and the  portions 44 engage the flanges 32.  
+</ABSTRACT>
+</TEXT>
+</DOC>

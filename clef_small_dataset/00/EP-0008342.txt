@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008342
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C12Q-1/52</main> G01N-33/48 C12Q-1/52 C12Q-1/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and reagent for the determination of glutamic oxalacetic transaminase and glutamic pyruvic transaminase.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+deneke ulfert dr<sep>schneider walter<sep>stahl peter dr<sep>deneke, ulfert, dr.<sep>schneider, walter<sep>stahl, peter, dr.<sep>deneke, ulfert, dr.ammerhöfe 80 1/2d-8123 peissenbergde<sep>schneider, waltergeistbühelstrasse 27d-8120 weilheimde<sep>stahl, peter, dr.jägerstrasse 12d-8131 bernriedde<sep>deneke, ulfert, dr.<sep>schneider, walter <sep>stahl, peter, dr.<sep>deneke, ulfert, dr. ammerhöfe 80 1/2 d-8123 peissenberg de <sep>schneider, waltergeistbühelstrasse 27d-8120 weilheimde<sep>stahl, peter, dr.jägerstrasse 12d-8131 bernriedde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for determining glutamate-oxal acetate transaminase or glutamate-pyruvate transaminase by reacting oxalacetate or Pyru VAT with glutamate to form α-ketoglutarate in buffered solution, formed α-ketoglutarate with γ-aminobutyrate is set inPresence of γ-aminobutyrat transaminase to form succinate semialdehyde, reduces nadph with the latter NADP in the presence of succinate semialdehyde dehydrogenase and measures them either directly or after transfer with a tetrazo lium salt and an electron transmitter, such as.b.Diapho Rase, phenantrolin methosulfate or phenazine methosulfate into a formazan dye.A reagent suitable for this method contains γ-aminobutyrate transaminase, succinate semialdehyde dehydrogenase, γ-aminobutyrate, glutamate, buffer, expanding the oxalacetate or pyruvate, and the otherwise tetrazo lium salt, electron carrier and surfactant with tel.
+</ABSTRACT>
+</TEXT>
+</DOC>

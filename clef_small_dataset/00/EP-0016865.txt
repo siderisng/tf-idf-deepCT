@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016865
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16B-12/50 F16B-12/00 H02B-1/00 H02B-1/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+screw connector for tubular profiles.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaft wittelsbacherplatz 280333 münchende <sep>
+</APPLICANT>
+<INVENTOR>
+kerscher franzde<sep>metzner guenterde<sep>kerscher, franz<sep>metzner, guenter<sep>kerscher, franzböcklerweg 13d-8000 münchen 82de<sep>metzner, günterschönstrasse 108d-8000 münchen 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a screw connection for screwed butt joints of hollow tube profiles for frameworks for holding electrical assemblies, in particular of data processing technology.  hollow tube profiles are used for the construction of frameworks, the connection of the hollow tubes being required to be secure and capable of bearing loads.  for this purpose, the connection provides in each case a hollow tube profile with a lateral bore into which a bolt (3) is inserted with internal threads (2) provided perpendicular to its longitudinal axis.  screws (4), which are passed through a second hollow tube (5) standing perpendicular to the first hollow tube (1), grip into the internal threads (2) (figure 2).  <image>
+</ABSTRACT>
+<DESCRIPTION>
+schraubverbindung für hohlrohrdrofile die erfindung betrifft eine schraubverbindung zum stump fen aufeinanderschrauben von hohlrohrprofilen für rahmengestelle zur aufnahme von elektrischen baugruppen, ins- besondere der datenverarbeitungstechnik. zum aufbau von rihmengestellen werden hohlrohrprofile benutzt, die senkrecht aufeinander stehen und entweder ver schweisst oder mit zusätzlichen tragginkeln verschraubt sind. die verschweissung birgt die gefahr des verziehens in sich. ausserdem wird der korrosionsschutzüberzug zerstört und die geschweissten stellen müssen nachbehandelt werden. bei verwendung von tragwinkeln mit schraubverbindungen müssen zusätzliche teile verwendetwerden. aufgabe der vorliegenden erfindung ist es, eine schraub- verbindung für stets aneincndergereihte hohlrohre zu schaffen, die sicher und belastbar ist. zur lösung dieser aufgabe wird gemäss der erfindung schraubverbindung derart ausgebildet, dass jeweils ein hohlrohrprofil mit einer querbohrung versehen ist, in die ein senkrecht zu seiner längsachse mit innengewin den versehener bolzen eingeschoben ist, dass in die innengewinde schrauben, die durch einen senkrecht zum er sten hohlrohr stehenden zweiten fohlrohr hindurchgefühft sind, einschraubbar sind. durch diese massnahmen erhält man eine hochfeste schraub verbindung, die durch werkstoffwahiund dimensionierung der bolzen beeinflusst werden kann. der toleranzausgleich in längsrichtung des bolzens erlaubt eine grosszügige tolerierung; ein schrankaufbau mit geschweissten ober und unterrahmen und vier senkrecht verschraubten holmen ist möglich. zwischenstege können in die gerüste elnge schraubt werden. der verzug der gerüste durch die rarme- entwicklttrg beim schweissen entfällt. für die montage ist - ausserdem nur eine einfache vorrichtung erforderlich. anhand der ausführungsbeispiele nach den figuren 1 und 2 wird die erfindung näher erläutert. figur 1 zeigt ein rahmengestell, dass das anbringen von seitenwänden sowie boden- und kopfblechen zu einem schrankgestell ergänzt werden kann. derartige schrankge stelle sind vor allem zur aufnahme von 3aueinheiten für die dabenverarbeitungstechnik erforderlich. das gerüst des schrankgestells besteht dabei aus einem oberrahmen 5, einem unterrahmen 7 und vier senkrechten holmen 1. ausserdem können noch zwischenstege 9 eingefügt sein. während die ober- und unterrahmen in der regel geschweisst sind, können die senkrechten holme mit den rahmen über eine noch näher zu beschreibende schraubverbindung mit einander verbunden sein. in figur 2 ist eine derartige schraubverbindung d2rge- stellt. die linke seite zeigt eine vorderansicht, wäh- rend die rechte seite eine seitenansicht, z.3. der stelle 10 in figur 1 darstellt. in den holmen 1 ist eine querbohrung vorgesehen, in die der bolzen 3 eingelegt ist. der bolzen 3 ist dabei mit zwei gewindebohrungen 2 versehen, in die von unten her schrauben eingreifen. diese schrauben sind durch ein zweites hohlrohrprofil durchgesteckt und verbinden beim anziehen das erste hohlprofil 1 mit dem zweiten hohlprofil 5. die kräfte werden über die lochbohrung in die bohrung übertragen. die flächenpressung an den berilhrungsflächen der rohre ergibt den kraftschluss. im vorliegenden fall ist dabei ein vierkantrohr dargestellt. grundsätzlich kann die schraubverbindung jedoch auch bei anderen hohlrohrprofilen verwendet werden. 1 patentanspruch 2 figuren
+</DESCRIPTION>
+<CLAIMS>
+   patentanstruch    schraubverbindung zum stumpfen auseinanderschrauben von   hohlrohrprofilen    für   rahmengestelle    zur aufnahme von elektrischen baugruppen, insbesondere der datenverarbei   tungstechnik,    d a d u r c h g e k e n n z e i c h n e t , dass jeweils ein hohlrohrprofil (1) mit einer querbohrung versehen ist, in die ein senkrecht zu seiner längsachse mit innengewinden (2) versehener   bolzen¯(3)    eingeschoben ist, dass in die innengewinde (3) schrauben (4); die durch einen senkrecht zum ersten hohlrohr (1) stehenden zweiten hohlrohr (5) hindurchgeführt sind, einschraubbar sind.  
+</CLAIMS>
+</TEXT>
+</DOC>

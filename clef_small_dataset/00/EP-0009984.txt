@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009984
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F41G-3/04</main> G05D-1/12 F41G-3/00 F41G-3/04 F41G-3/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system for controlling the dispersion pattern of a gun.
+</TITLE>
+<APPLICANT>
+gen electricus<sep>general electric company<sep>general electric company1 river roadschenectady new york 12305us<sep>general electric company<sep>
+</APPLICANT>
+<INVENTOR>
+hudock joseph anthony<sep>terry edgar raymond<sep>hudock, joseph anthony<sep>terry, edgar raymond<sep>hudock, joseph anthonytracy lane, r.d. 3shelbourne, vermont 05482us<sep>terry, edgar raymondp.o. box 306williston vermont 05495us<sep>hudock, joseph anthony  <sep>terry, edgar raymond <sep>hudock, joseph anthonytracy lane, r.d. 3shelbourne, vermont 05482us<sep>terry, edgar raymondp.o. box 306williston vermont 05495us<sep>
+</INVENTOR>
+<ABSTRACT>
+a system for controlling the dispersion pattern of a  gun varies, by means of a motor (20) and associated  mechanism, the angular displacement of the barrel or bar­ rels of a gun to achieve a desired dispersion pattern.  sign­ als which are functions of the instantaneous target range,  the instantaneous muzzle velocity of a projectile from the  gun and the desired dispersion pattern are generated at  the pilot's control panel (10) and/or at on board sensors  (14) and are combined in a command signal generator (12).   the desired pattern may be a constant pattern on the  target of a constant angular ballistic pattern.  
+</ABSTRACT>
+</TEXT>
+</DOC>

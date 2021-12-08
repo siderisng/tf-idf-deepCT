@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005547
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01C-10/00 <main>H01L-31/16</main> G01D-5/36 G01D-5/347 G01D-5/26 H01L-31/16 H01L-31/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optoelectric adjustable potentiometer.
+</TITLE>
+<APPLICANT>
+heimann gmbhde<sep>heimann gmbh <sep>heimann gmbhweher köppel 6 postfach 30 07d-6200 wiesbaden 1 de  <sep>heimann gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+kunze claus dr dipl-phys<sep>meyer jurgen dr rer nat<sep>schaaf norbert<sep>kunze, claus, dr., dipl.-phys.<sep>meyer, jurgen, dr.rer.nat.<sep>schaaf, norbert<sep>kunze, claus, dr., dipl.-phys.im sonnental 19d-6204 taunussteinde<sep>meyer, jürgen, dr.rer.nat.rhönstrasse 28d-6204 taunusstein 2de<sep>schaaf, norbertäherweg 2d-6200 wiesbadende<sep>kunze, claus, dr., dipl.-phys.<sep>meyer, jurgen, dr.rer.nat. <sep>schaaf, norbert  <sep>kunze, claus, dr., dipl.-phys.im sonnental 19d-6204 taunussteinde<sep>meyer, jürgen, dr.rer.nat.rhönstrasse 28d-6204 taunusstein 2de<sep>schaaf, norbertäherweg 2d-6200 wiesbadende<sep>
+</INVENTOR>
+<ABSTRACT>
+In a contactless resistance potentiometer, it is proposed according to the invention to take a photoconductive layer (1, 6) as a resistance element.On this layer is fixedly applied for outer electrodes (2,3,7,8) and for tap electrodes (4, 9) of the tracks.By moving a diaphragm under a light source along the tap electrode (4, 9) with a defined geometric course, one obtains at constant aperture and thus exposure of a partial surface of the photoconductor layer (1, 6) between the outer electrodes (2,3,7,8)A resistance division by the tap electrode (4, 9) according to their course between the outer electrodes (2,3,7,8).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011135
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-10/06 G11C-11/02 G11C-11/14 <main>H01F-41/14</main> G11C-19/00 H01F-41/34 H01F-10/12 H01F-41/00 G11C-19/08 H01F-41/14 H01F-10/00 H01F-10/13 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bubble device fabrication method and device so fabricated.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+cox daniel edward<sep>kane susan mary<sep>powers john vincent<sep>cox, daniel edward<sep>kane, susan mary<sep>powers, john vincent<sep>cox, daniel edwardchadeayne roadossining, ny 10562us<sep>kane, susan marycandlewood avenuenew fairfield, conn. 06810us<sep>powers, john vincentvalley drive westshenorock, ny 10587us<sep>cox, daniel edward  <sep>kane, susan mary<sep>powers, john vincent<sep>cox, daniel edwardchadeayne roadossining, ny 10562us<sep>kane, susan marycandlewood avenuenew fairfield, conn. 06810us<sep>powers, john vincentvalley drive westshenorock, ny 10587us<sep>
+</INVENTOR>
+<ABSTRACT>
+a single level masking process for producing microelec­ tronic structures, such as magnetic bubble domain devices,  which require very fine line widths.  this is a subtractive dry  process using a very thin, additively plated mask (38) in order  to obtain optimum lithographic resolution.  use of the very  thin plated mask eliminates the need for a thick resist layer  which would adversely affect resolution.  in one example, a  structure of a double layer metallurgy (28, 30) comprising a  conductor layer (such as au) and an overlying magnetically  soft layer (such as nife) is subtractively patterned using a thin  ti (or cr) mask (32).  the ti mask is subtractively patterned  using a nife mask (38) which is itself additively patterned by  electroplating through a thin resist layer (36).  the double layer  nife au structure (30, 38) is patterned to provide devices  having high aspect ratio, good pattern acuity, and uniform  thicknesses, where the minimum feature is 1 µm or less.  
+</ABSTRACT>
+</TEXT>
+</DOC>

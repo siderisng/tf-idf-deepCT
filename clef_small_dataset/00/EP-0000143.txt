@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000143
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07B-41/06 B01J-27/00 B01J-31/00 C07C-45/27 C07B-41/00 C07B-31/00 C07C-45/34 C07B-61/00 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+olefin oxidation process.
+</TITLE>
+<APPLICANT>
+phillips petroleum cous  <sep>phillips petroleum company<sep>phillips petroleum company5th and keelerbartlesville oklahoma 74004us<sep>
+</APPLICANT>
+<INVENTOR>
+stapp paul rayus<sep>stapp, paul ray<sep>stapp, paul ray1308 bynum roadbartlesville, oklahomaus<sep>
+</INVENTOR>
+<ABSTRACT>
+olefins are oxidized to carbonyl compounds, for example,  1-hexene to 2-hexanone, with a pd/cu/alkali metal or  alkaline earth metal chloride catalyst and a suitable surfactant  in a diluent system comprising at least two liquid  phases, wherein at least one liquid phase is an aqueous  phase, in the presence of free oxygen.  the addition of the  surfactant to the system provides an improvement in olefin  conversion and selectivity to the corresponding carbonyl  compound.  suitable surfactants include, for example,  quaternary ammonium halide compounds.  
+</ABSTRACT>
+</TEXT>
+</DOC>

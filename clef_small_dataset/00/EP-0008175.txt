@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008175
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01M-6/18 H05K-3/24 C04B-41/45 H01M-8/12 <main>G01N-27/56</main> C04B-41/50 G01N-27/409 C04B-41/87 B05D-1/38 G01N-27/416 B22F-7/04 B05D-5/12 G01N-27/407 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for forming a dense thin sintered layer.
+</TITLE>
+<APPLICANT>
+nissan motor jp  <sep>nissan motor company, limited<sep>nissan motor co., ltd.2 takara-cho, kanagawa-kuyokohama-shi kanagawa-kenjp<sep>nissan motor company, limited<sep>
+</APPLICANT>
+<INVENTOR>
+aoki hiroyuki<sep>ikezawa kenji<sep>kimura shinji<sep>takao hiroshi<sep>aoki, hiroyuki<sep>ikezawa, kenji<sep>kimura, shinji<sep>takao, hiroshi<sep>aoki, hiroyukino. 621, noba-machi, konan-kuyokohama cityjp<sep>ikezawa, kenjino. 714 nishiterao. kanagawa-kuyokohama cityjp<sep>kimura, shinjino. 714 nishiterao, kanagawa-kuyokohama cityjp<sep>takao, hiroshino. 1471, kajiwarakamakura cityjp<sep>aoki, hiroyuki  <sep>ikezawa, kenji<sep>kimura, shinji<sep>takao, hiroshi<sep>aoki, hiroyukino. 621, noba-machi, konan-kuyokohama cityjp<sep>ikezawa, kenjino. 714 nishiterao. kanagawa-kuyokohama cityjp<sep>kimura, shinjino. 714 nishiterao, kanagawa-kuyokohama cityjp<sep>takao, hiroshino. 1471, kajiwarakamakura cityjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for forming a thin dense coated layer on a  substrate comprises carrying out:   (a) one or more preliminary coating operations com­ prising the steps of applying a paste, comprising a powder­ ed sinterable material dispersed in an organic vehicle, to  the substrate by screen printing and drying and calcining  or sintering the applied paste; followed by   (b) a final coating operation carrying out the steps of  applying a paste, as in step(s) (a), to the coated substrate  by screen printing, and drying and sintering the applied  paste under sintering conditions.  the process may be used, for example, to apply layers  of insulating material, dielectric material or, especially  solid oxygen ion-conductive electrolytes to appropriate  substrates.  the calcination or sintering in the preliminary  coating operation(s) is preferably carried out at a tem­ perature from 0. 4 to 0. 8 times the sintering temperature in  the final coating operation and the powder employed in  the final operation preferably has a particle size not more  than 0. 9 times that of the powder employed in the prelimi­ nary operation(s).  
+</ABSTRACT>
+</TEXT>
+</DOC>

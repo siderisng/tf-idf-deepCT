@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009066
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C03B-37/06 D01D-5/08 <main>C03B-37/06</main> D01D-5/098 C03B-37/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for manufacturing fibres by jet attenuation.
+</TITLE>
+<APPLICANT>
+saint gobainfr<sep>saint-gobain industries<sep>s.p.a.f.i. societe anonyme de participations financieres et industrielles18 avenue d'alsacef-92400 courbevoiefr<sep>s.p.a.f.i. societe anonyme de participations financieres et industrielles<sep>
+</APPLICANT>
+<INVENTOR>
+battigelli jean a<sep>levecque marcel<sep>plantard dominique<sep>battigelli, jean a.<sep>levecque, marcel<sep>plantard, dominique<sep>battigelli, jean a.17 rue edouard vaillantf-60290 rantignyfr<sep>levecque, marcelflowing springs roadbirchrunville pennsylvania, 19421us<sep>plantard, dominique16 route de mouyf-60290 rantignyfr<sep>battigelli, jean a.<sep>levecque, marcel<sep>plantard, dominique <sep>battigelli, jean a. 17 rue edouard vaillant f-60290 rantignyfr<sep>levecque, marcelflowing springs roadbirchrunville pennsylvania, 19421us<sep>plantard, dominique16 route de mouyf-60290 rantignyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+multiple jet fiber attenuation, the jets (a,  ) converg­ ing to provoke mutual impact and create a combined jet  flow, the jets (a, ) comprising fuel and comburent compo­ nents in proportions providing a combustible mixture in the  combined jet flow, a stream (s) of attenuable material be­ ing delivered into the combined jet flow and providing for  ignition of the combustible mixture in a localized zone and  thus for attenuation at elevated temperature in said zone.  
+</ABSTRACT>
+</TEXT>
+</DOC>

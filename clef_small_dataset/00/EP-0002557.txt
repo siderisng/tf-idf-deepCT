@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002557
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-31/10 C07B-29/00 C07C-2/08 C07C-1/04 C07C-45/50 C07C-45/00 C07C-1/02 B01J-31/08 B01J-31/18 C07C-27/22 C07C-1/00 B01J-31/16 B01J-31/06 C07C-6/00 C07C-5/00 C07B-1/00 C07C-51/14 B01J-31/22 C07C-6/04 C07C-5/02 <main>B01J-31/16</main> B01J-31/24 C07C-51/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+resin-ligand transition metal complex composition and processes for using this composition as catalyst.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+kim leo<sep>paxson timm edward<sep>tang sunny conrad<sep>kim, leo<sep>paxson, timm edward<sep>tang, sunny conrad<sep>kim, leo12126 westmere drivehouston texas 77077us<sep>paxson, timm edward15910 haven hills drivehouston texas 77084us<sep>tang, sunny conrad20231 laurel lock drivekaty texas 77450us<sep>kim, leo<sep>paxson, timm edward<sep>tang, sunny conrad<sep>kim, leo12126 westmere drivehouston texas 77077us<sep>paxson, timm edward15910 haven hills drivehouston texas 77084us<sep>tang, sunny conrad20231 laurel lock drivekaty texas 77450us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a complex composition comprising:   (a) an ion exchange resin;   (b) a transition metal, and   (c) an organic linking compound which has at least one  moiety which is ionically bound to said ion exchange  resin and further has at least one moiety which is  coordinately bound to said metal.  said composition may be used in hydroformylation,  carbonylation, hydrogenation, isomerization, disproportionation,  oligomerization and fischer-tropsch reactions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003308
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04L-27/22</main> H04L-27/227 H04L-27/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+correction circuit for frequency errors in data transmission.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+burger erich<sep>burger, erich<sep>burger, erichkerschensteinstrasse 140d-8034 unterpfaffenhofende<sep>burger, erich<sep>burger, erichkerschensteinstrasse 140d-8034 unterpfaffenhofende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a circuit arrangement for correcting frequency errors in a transmission of data by data signals (D), which are modulated according to a frequency differential phase modulation. The circuitry corrects frequency errors that occur in the transmission of the data signals (D) from a data transmitter to a data receiver. The data receiver includes a control stage (R) in which the data signals (D) are reacted with the aid of mixing signals (MS). The subsequent frequency of the mixing signals (MS) is controlled by means of a fine control performing first control unit (R1) and a large control of the second control unit (R2) so that frequency errors of the data signal (D) are corrected. A regulator (RG) generates from clock pulses of predetermined following frequency using frequency division multipliers the mixing signals (MS). The frequency division multipliers are controlled by control signals (RS), which switches on a selection unit (AW) optionally from the first control unit (R1) or the second control unit (R2) to the controller (RG).
+</ABSTRACT>
+</TEXT>
+</DOC>

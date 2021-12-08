@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004479
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03F-3/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in and relating to electronic amplifier circuit arrangements.
+</TITLE>
+<APPLICANT>
+racal communications equipgb <sep>racal communications equipment limited <sep>racal communications equipment limitedwestern roadbracknell berkshiregb<sep>
+</APPLICANT>
+<INVENTOR>
+gill kenneth edwardgb<sep>hilling anthony edwardgb<sep>gill, kenneth edward<sep>hilling, anthony edward<sep>gill, kenneth edward7 goldcrest closeyateley hampshiregb<sep>hilling, anthony edward14 oaktree close jacobs wellguildford surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a push-pull amplifier arrangement for driving a radio  transmitter is shown.  it comprises two high power transistors (5 and 6) connected  in push-pull through the primary (8) of an output  transformer (10).  the base-emitter circuit of each transistor  has a separate and independent input drive circuit comprising  an input circuit (28) and a transformer (20) for one  transistor (5) and an input circuit (28a) and a transformer  (20a) for the other transistor (6).  the transistors are biased  to operate in class ab.  the use of separate drive circuits for the two transistors  considerably reduces distortion.  the impedance circuits  (28 and 28a) assist in reducing distortion and may be  frequency-dependent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

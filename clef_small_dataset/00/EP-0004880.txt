@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0004880
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-11/06 C25B-11/00 C25B-11/04 <main>C25B-11/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrodes for electrolytic processes, especially perchlorate production.
+</TITLE>
+<APPLICANT>
+diamond shamrock technch<sep>diamond shamrock technologies s.a.<sep>diamond shamrock technologies s.a.c/o peterhans treuhand ag artherstrasse 12ch-6301 zugch<sep>diamond shamrock technologies s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+bianchi guisseppe<sep>de nora vittorio<sep>nidola antonio <sep>spaziante placido maria<sep>bianchi, guisseppe  <sep>de nora, vittorio<sep>nidola, antonio<sep>spaziante, placido maria<sep>bianchi, guisseppepiazza libia 1milanit<sep>de nora, vittoriosandringham housenassau bahama islandsbs<sep>nidola, antoniovia gaggini di bissoneluganoch<sep>spaziante, placido mariavia zurigo 38luganoch<sep>bianchi, guisseppe<sep>de nora, vittorio<sep>nidola, antonio<sep>spaziante, placido maria<sep>bianchi, guisseppepiazza libia 1milanit  <sep>de nora, vittorio sandringham housenassau bahama islandsbs<sep>nidola, antoniovia gaggini di bissoneluganoch<sep>spaziante, placido mariavia zurigo 38luganoch<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrode especially for the production of chlorates  and perchlorates comprising an electrically-conductive corosion-resistant  substrate having an electrocatalytic coating  which is preferably a mixture of 40 to 85 parts by weight of  platinum, 0 to 20 parts by weight of palladium and 15 to 40  parts by weight (as tin metal) of tin dioxide.  
+</ABSTRACT>
+<DESCRIPTION>
+electrodes for electrolttic processes, especially perchlorate production. technical field the invention relates to electrodes for use in electr6lytic processes, of the type comprising an electrically-conductive and corrosion-resistant substrate having an electrocatalytically-active surface coating, and to electrolytic processes using such electr.odes, especially (but not exclusively) as anodes for the production of chlorates, perchlorates and other persalts and percompounds including organic peroxyacids. b ckground art for tile production of perchlorate, various anode materials have been used commercially, including smooth massive platinum, platinized titanium or tantalum (despite a tendency to produce excess oxygen) and lead dioxide coated on titanium or graphite, although these lead dioxide anodes have a high overvoltage and wear rapidly. some proposals have already been made to confine platinun; group metals and tin dioxide in electrode coating materials. for example, u.s. patent specification 3,701,724 mentioned an anode for chlorine production having a coating consisting essentially of a minor amount of a platinum group metal and/or platinum group metal oxides with a major amount of sn02, sb205, sb203 or ge02 and mixtures thereof. however, the claims ge0 2 and examples of this patent are directed solely to such coatings containing platinum group metal oxides and there is no enabling disclosure of a coating containing a platinum group metal. also, u.s. patent specification 3,882,002 proposed an anode for chlorine production having a valve metal substrate coated with an intermediate layer of tin dioxide which was covered with an outer layer of a platinum group metal or oxide thereof. neither of these proposals was directed to improving electrolytic performance in the production of percompounds. disclosure of invention an object of the invention therefore is to provide an improved electrode suitable for use as an anode for the production of perchlorates and other persalts, but which may also be used in other applications, such as chlorate production. according to a main aspect of the in,vention, an electrode comprises an electrically-conductive corrosion-resistant substrate having an electrocatalytic coating and is characterized in that the coating contains a mixture of at least one platinum group metal and tin dioxide dispersed in one another throughout the coating in the ratio of 8.5:1 to 3:2 by weight of the platinum group metals to the tin (as metal) of the tin dioxide. the platinum group-metal/tin dioxide coating may also contain a stabilizer/binder, for example a compound such as titanium dioxide, zirconium dioxide or silicon dioxide. additionally, the coating may include a filler, e.g. particles or fibres of an inert material, such as silica or alumina, particles of titanium, or zirconium silicate. furthermore, the coating may also contain, e.g. as a dopant the tin dioxide in a quantity up to about 30% by weight (as metal) of. the tin dioxide, of at least one additional metal or oxide of zinc, cadmium, arsenic, antimony, bismuth, selenium and tellurium. such stabilizers or binders, fillers and dopants generally do not account for more than 70% of the total weight of the coating, usually far less. in the case of antimony trioxide or bismuth trioxide
+</DESCRIPTION>
+<CLAIMS>
+claims:  1. an electrode for use in electrolytic processes, comprising an electrically-conductive corrosion-resistant substrate having an electrocatalytic coating, characterized in that the coating contains a mixture of at least one platinum group metal and tin dioxide dispersed in one another   throughout    the coating in the ratio of from 8.5:1 to 3:2 by weight of the platinum group metal(s) to the tin of the tin dioxide.    2. the electrode of claim 1, characterized in that the platinum group metal is platinum.     3. the electrode of claim 1, characterised in that the coating comprises 40 to 85 parts by weight of platinum, 0 to 20 parts by weight of palladium and 15 to 40 parts by weight of tin.    4. the electrode of claim 1, 2 or 3, characterized in that the coating also contains at least one additional metal or oxide of zinc, cadmium, arsenic, antimony, bismuth, selenium and tellerium in a quantity up to 30% by weight of the tin.    5. the electrode of claim 4,   caracterized    in   tilat    the coating contains one or more oxides of antimony and/or bismuth in an amount of at most 1 part by weight of sb/bi to 4 parts by weight of sn.    6. a process for the production of chlorates, perchlorates and other percompounds by electrolysis, characterized by using as anode an electrode as claimed in any preceding claim.  
+</CLAIMS>
+</TEXT>
+</DOC>

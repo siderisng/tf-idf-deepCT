@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003000
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F23D-11/40</main> F23R-3/28 F23C-99/00 F23D-11/24 F23C-3/00 F23D-11/40 F23C-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+burner head for a combustion chamber.
+</TITLE>
+<APPLICANT>
+fascione pietroit<sep>fascione, pietro<sep>fascione, pietrocassina de'pecchi via dell' orsa minorei-20145 milanoit<sep>fascione, pietro <sep>
+</APPLICANT>
+<INVENTOR>
+hazard herbert<sep>recchi vincenzo<sep>hazard, herbert<sep>recchi, vincenzo<sep>hazard, herbert2770 north star roadcolumbus ohio 43221us<sep>recchi, vincenzovico iv massaro 40/2i-70123 palese (bari)it<sep>hazard, herbert <sep>recchi, vincenzo<sep>hazard, herbert2770 north star roadcolumbus ohio 43221us<sep>recchi, vincenzovico iv massaro 40/2i-70123 palese (bari)it<sep>
+</INVENTOR>
+<ABSTRACT>
+This invention relates to a combustion head for a fluid fuel, in particular liquid, burned in particular in particular of a gas whose concentration of oxygen is substantially lower than that of the air.This head comprises, adjacent to the burner itself, a jar (6) of generally cylindrical shape, having an input opening (6a) for creating a loss of pressure sensitive to inject the oxygen carrier gas into the pot and aDisk (6c) located at the outlet of the pot and sized to create a second lower pressure loss.The intense combustion produced in the pot (6) heats its walls at a temperature located substantially above the end point of the fuel distillation curve to prevent coke deposition.
+</ABSTRACT>
+</TEXT>
+</DOC>

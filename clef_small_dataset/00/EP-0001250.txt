@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001250
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01G-4/015 H01G-4/005 H01G-2/00 H01G-2/14 H01G-4/18 H01G-4/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric capacitor with dificultly inflammable dielectric foils.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende <sep>
+</APPLICANT>
+<INVENTOR>
+schweitzer gerd dipl-ingde<sep>weber leode<sep>schweitzer, gerd, dipl.-ing.<sep>weber, leo<sep>schweitzer, gerd, dipl.-ing.leopold-gmelin-strasse 52d-5000 köln 80de<sep>weber, leoam kirchpfad 9d-4047 dormagen 5de<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to electrical multi-layer capacitors in which the dielectric and the electrodes consist of flame resistant films, in particular polycarbonate films.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

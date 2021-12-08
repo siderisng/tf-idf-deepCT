@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002322
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07H-19/20 C07H-21/04 C12N-15/09 C07H-19/00 C07H-21/00 C07H-19/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved triester process for the synthesis of oligonucleotides
+</TITLE>
+<APPLICANT>
+genentech incus<sep>genentech, inc.<sep>genentech, inc.460 point san bruno boulevardsouth san francisco california 94080us<sep>
+</APPLICANT>
+<INVENTOR>
+itakura keiichius <sep>itakura, keiichi <sep>itakura, keiichi1180 coronet avenuepasadena, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+oligonucleotides of a defined sequence, particularly oligodeoxyribonucleotides are prepared by an improved "triester" process.  the oligodeoxyribonucleotides can be converted to dna segments which can be used for insertion in plasmid dna to code the plasmid dna for predetermined purposes.  for example, the plasmid dna can be coded to stimulate the synthesis of polypeptide hormones by a bacterium such as e.  coli. 
+</ABSTRACT>
+</TEXT>
+</DOC>

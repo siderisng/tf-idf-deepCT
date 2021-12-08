@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015141
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11B-7/24</main> G11B-7/241 G11B-7/24 B41M-5/26 B41M-5/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dielectric recording medium and a method of making a record.
+</TITLE>
+<APPLICANT>
+discovision assus   <sep>discovision associates<sep>discovision associatesp.o. box 6600 3300 hyland avenuecosta mesa california 92626us<sep>discovision associates  <sep>
+</APPLICANT>
+<INVENTOR>
+wilkinson richard l<sep>wilkinson, richard l<sep>wilkinson, richard l21341, avenida manantiale. toro, california 92630us<sep>wilkinson, richard l<sep>wilkinson, richard l21341, avenida manantiale. toro, california 92630us<sep>
+</INVENTOR>
+<ABSTRACT>
+a multi-layer information recording medium (11) for stor­ ing large amounts of information in a prescribed pattern of  microscopic pits (15), formed by focusing onto the medium a  beam of radiation having a prescribed wavelength and having  an intensity modulated by the information to be recorded.  the  record medium (11) includes a substrate (29) having a light-­ reflective surface (31) on its upper side, a light-absorptive  dielectric layer (33) overlaying the substrate and having a  thickness approximately equal to an odd integral multiple of  one fourth the wavelength of the beam of radiation in the  dielectric material, and a thin metallic layer (35) overlaying the  dielectric layer and having a light-reflective surface (37) on its  lower side.  during recording of then formation, a substantial  proportion of the intensity-modulated beam of radiation is  transmitted through the metallic layer (35) to the dielectric  layer (33) where it is confined, due to multiple internal reflec­ tions by the light-reflective surfaces (31,37) of the substrate  and the metallic layer, until it is finally absorbed by the dielec­ tric material.  this causes an evaporation of the dielectric mat­ erial (33) whenever the intensity of the beam exceeds a pre­ determined threshold, such evaporation carrying away the  overlaying portions of the metallic layer (35) and creating the  prescribed pattern of microscopic information-bearing pits  (15).  
+</ABSTRACT>
+</TEXT>
+</DOC>

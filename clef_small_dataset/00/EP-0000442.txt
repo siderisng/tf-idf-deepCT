@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000442
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10J-3/36 C10J-3/46 C10J-3/20 C10J-3/02 C10J-3/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for the gasification of coal.
+</TITLE>
+<APPLICANT>
+british gas corpgb <sep>british gas corporation<sep>british gas corporation rivermill house, 152 grosvenor road london sw1v 3jlgb<sep>
+</APPLICANT>
+<INVENTOR>
+hebden dennisgb<sep>hebden, dennis<sep>hebden, dennis10 watford closeguildford, surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+a coal gasification process and apparatus therefor in  which means are provided for supplying fuel to and maintaining  a fixed fuel bed in the upper region of a reactor vessel,  supplying additional fuel together with a gasifying agent  to initiate and maintain gasification in an entrained stage  located in the lower region of the vessel, the gasification  products from the entrained stage passing up through and  gasifying fuel in the fixed bed, the slage from the fixed bed  passing downwards to mix with slag from the entrained stage  and exits via a slag tap to a slag quench system located  below the reactor vessel.  the fixed bed may be maintained in the upper region  of the vessel by a grate which extends across the vessel.  the  grate may be cooled by the circulation of an appropriate  coolant through the elements forming the grate.  
+</ABSTRACT>
+</TEXT>
+</DOC>

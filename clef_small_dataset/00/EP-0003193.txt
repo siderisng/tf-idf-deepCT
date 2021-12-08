@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003193
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/082 G11C-11/39 H01L-21/8226 G11C-11/41 H01L-27/02 <main>G11C-11/34</main> H01L-27/102 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+static random access memory cell.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+pham ngu tung<sep>pham, ngu tung<sep>pham, ngu tung"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>pham, ngu tung<sep>pham, ngu tung"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a static memory element with random access.This element powered by a constant current T₁ is two complementary bipolar transistors T₂ and T₃ forming a structure p n p n or n p n p, with a side transistor and a transverse transistor.The current source T₁ is connected to a transmitter P₁ from the lateral transistor away from its P₂ manifold.This transistor comprises a second transmitter P₃ close to this collector, this second transmitter receiving the control voltage capable of switching the set.This element specially applies to random access memories.
+</ABSTRACT>
+</TEXT>
+</DOC>

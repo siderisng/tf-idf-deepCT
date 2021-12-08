@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008044
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-75/00 C08L-51/00 C08L-21/00 C08L-77/00 C08L-67/00 C08L-75/04 <main>C08G-18/10</main> C08G-18/10 C08L-7/00 C08J-3/20 C08J-9/00 C08K-3/00 C08L-51/02 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for the production of filler suspensions in polyols, stabilized against separation, and their use in a process for the production of polyurethanes that may be cellular.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+illger hans-walter dr<sep>vehlewald peter dr<sep>von bonin wulf dr<sep>illger, hans-walter, dr.<sep>vehlewald, peter, dr.<sep>von bonin, wulf, dr.<sep>illger, hans-walter, dr.im tentefeld 27d-5064 roesrathde<sep>vehlewald, peter, dr.fasanenstrasse 20d-5653 leichlingende<sep>von bonin, wulf, dr.mendelssohnstrasse 30d-5090 leverkusende<sep>illger, hans-walter, dr.<sep>vehlewald, peter, dr.<sep>von bonin, wulf, dr.<sep>illger, hans-walter, dr.im tentefeld 27d-5064 roesrathde<sep>vehlewald, peter, dr.fasanenstrasse 20d-5653 leichlingende<sep>von bonin, wulf, dr.mendelssohnstrasse 30d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+Compared to segregation stabilized suspensions of inorganic fillers (eg kaolin, baryt white or chalk) in polyhydroxyl compounds (eg polyether polyols, caused by the action of propylene oxide / ethylene oxide on glycerine / propylene glycol) as they are used for polyurethane production, by a suspension of ainorganic filler in a polyhydroxyl compound at a temperature of 30-200 ° C with, based on suspension, 0.1-2 wt.-% of a polyisocyanate (eg, toluylene diisocyanate) for implementation brings.Such stabilized suspensions can be converted with polyisocyanates and at most further additives in optionally cell-shaped polyurethane plastics.
+</ABSTRACT>
+</TEXT>
+</DOC>

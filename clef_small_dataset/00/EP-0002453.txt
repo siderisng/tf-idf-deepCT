@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002453
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29D-7/20 <main>H01T-19/00</main> H01T-19/00 B29C-25/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for the surface treatment of strips of foil by electrical corona discharge.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+dinter peter<sep>kolbe andreas<sep>dinter, peter<sep>kolbe, andreas<sep>dinter, peteram wiesenberg 4d-6227 hallgartende<sep>kolbe, andreasam hohen stein 9d-6200 wiesbadende<sep>dinter, peter  <sep>kolbe, andreas<sep>dinter, peteram wiesenberg 4d-6227 hallgartende<sep>kolbe, andreasam hohen stein 9d-6200 wiesbadende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a device for surface treatment of film webs by means of electrical corona discharge, consisting of at least one roll electrode, at least one of this associated grounded roller electrode and a generator (6) connected to the electrode for generating an AC voltage, preferably in high-frequency form, wherein the roller electrode from a Central axis (1) two centrally attached to the axis (1) centrically fixed cylindrical ends (4) which are rotatably connected to the axis (1) via bearings (3), a dielectric tube (5) supported by the ends (4) Material, a supply line (9) between the electrode and transformer / generator as well as at least one bearing arm (2) holding the axis (1), exists, wherein in the tube (5), an inner tube (6) is fitted from the dielectric material which Several electrodes (7) carrying via a slip ring (8) via the supply line (9) with the transformer (t) In conjunction with the generator (g) and wherein the grounded counter electrodes (14) are formed in a manner known per se as peak electrodes in the form of combing, knives, teeth, but preferably in the form of thin wires.
+</ABSTRACT>
+</TEXT>
+</DOC>

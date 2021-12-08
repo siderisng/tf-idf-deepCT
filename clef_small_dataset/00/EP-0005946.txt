@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005946
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-3/42 H03K-5/19 H03K-5/22 G01P-3/489 <main>G01R-23/00</main> H03K-5/26 G01R-23/00 G01P-3/48 G05B-1/02 G01R-23/15 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+time-period comparing device.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+asami fumitaka<sep>asami, fumitaka<sep>asami, fumitaka27, fujimidai 1-chomekunitachi-shi tokyo 186jp<sep>asami, fumitaka<sep>asami, fumitaka27, fujimidai 1-chomekunitachi-shi tokyo 186jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a time-period comparing device for use in, for example,  monitoring the rotational velocity of a fan, for comparing the  time-period of an input signal with a reference signal, which  comprises a reference oscillator (2), a reference period  counter (3) for generating the reference signal and a  time-period comparator (4) for comparing the input signal  with the reference signal.  in the preferred form, this device  also comprises means (5, fig.  4b) for preventing the device  from operating when the input signal is irregular and delay  means (6, fig.  6b) for stopping this device from operating for  a given interval from the time when the power is turned on.  
+</ABSTRACT>
+</TEXT>
+</DOC>

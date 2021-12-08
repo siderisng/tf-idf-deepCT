@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003557
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07G-3/00 G07F-17/14 G07G-1/00 G07F-17/00 G07C-15/00 A47F-10/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+payment and check point for self-service stores
+</TITLE>
+<APPLICANT>
+benzler hartwig dr ing <sep>benzler, hartwig, dr.-ing.<sep>benzler, hartwig, dr.-ing.avenue coppyn 53b-1310 la hulpebe<sep>
+</APPLICANT>
+<INVENTOR>
+benzler hartwig dr-ing<sep>benzler, hartwig, dr.-ing.<sep>benzler, hartwig, dr.-ing.avenue coppyn 53b-1310 la hulpebe<sep>
+</INVENTOR>
+<ABSTRACT>
+in a payment and check point for self-service stores having a passage for leaving the sales areas, the entrance to which has a barring device, a device for payment is provided ahead of the latter and two blockable exits, which can be opened randomly and in a manner not foreseeable to the customers, are arranged at the end of the passage.  one of the two exits leads to a check point.  the device for payment contains a depositing compartment for the means of payment, having a closing flap, the closure of which causes a signal to be transmitted in order to release the barring device at the passage entrance.  the random opening of one of the two exits is effected by an apparatus for producing random sequences of control pulses, each exit being opened on a statistical average in a predetermined percentage of cases.  the device for payment and the three barriers can have locking devices which can be released by authorising elements.  a points-like conveying apparatus for conveying the means of payment to the check point or to a collecting store leads from the device for payment.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

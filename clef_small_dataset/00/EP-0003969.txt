@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003969
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21B-35/12 B21B-37/16 B21B-1/24 B21B-1/28 B21B-37/18 B21B-1/22 B21B-35/00 B21B-37/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of rolling metallic strips and rolling mill for carrying out the method.
+</TITLE>
+<APPLICANT>
+schloemann siemag agde<sep>sms schloemann-siemag aktiengesellschaft<sep>sms schloemann-siemag aktiengesellschafteduard-schloemann-strasse 4d-40237 düsseldorfde<sep>
+</APPLICANT>
+<INVENTOR>
+marten hans-friedrichde<sep>marten, hans-friedrich<sep>marten, hans-friedrichbussardweg 6d-5910 kreuztalde<sep>
+</INVENTOR>
+<ABSTRACT>
+When rolling metal strip (5) in a multi-standing sliding line roller (3), a thickness reduction or thrust rolling zones (11, 12, 13) should be achieved in each case a thickness reduction, but to reduce plant expenses without any thickness control . To achieve various thickness reductions in each of the sliding line rolling zones (11, 12, 13), the peripheral speed difference ratio between the two rollers (11 ', 11 ", 12', 12", 13 ', 13 ") of each roller pair ( 11; 12; 13) by changing the translation ratios in the respective roll pair drive and between the individual roller pairs (19.,, 30) varies. For the end thickness control of the metal strip (5), on the other hand, outside, namely before and / or behind all sliding ducting zones (11, 12, 13), (pressure) forces (4, 4 ', 4 ") are applied to this wherein the determining the respective terminal (pressure) forces determining manipulated variables by tapping (9, 9 '; 9, 16; 9 ", 9 ‴, 16) of the rolling material thickness both immediately before and behind the active area of ​​this stop (pressure -) forces (4; 4 ', 4 ") formed.
+</ABSTRACT>
+</TEXT>
+</DOC>

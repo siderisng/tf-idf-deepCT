@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002067
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C04B-35/563 <main>C04B-35/56</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing dense polycrystalline shaped articles of boron carbide by pressureless sintering.
+</TITLE>
+<APPLICANT>
+kempten elektroschmelz gmbhde<sep>elektroschmelzwerk kempten gmbh<sep>elektroschmelzwerk kempten gmbhhans-seidel-platz 4d-81737 münchende<sep>elektroschmelzwerk kempten gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+schwetz karl alexander dr<sep>vogt georg dr<sep>schwetz, karl alexander, dr.<sep>vogt, georg, dr.<sep>schwetz, karl alexander, dr.bergstrasse 4d-8961 sulzbergde<sep>vogt, georg, dr.falchenstrasse 14d-8960 kempten-sankt mangde<sep>schwetz, karl alexander, dr.<sep>vogt, georg, dr.  <sep>schwetz, karl alexander, dr.bergstrasse 4d-8961 sulzbergde<sep>vogt, georg, dr.falchenstrasse 14d-8960 kempten-sankt mangde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is a method for producing molded bodies made of borarbide, which contained beyondly 0.1 to 8% by weight of free carbon in the form of graphite, in the borocarbide in submicron powder form together with small amounts of a carbon-containing additive, such as carbon, phenol formaldehydeCondensation products or Steinkoh lenteerpech, pressed cold under shaping and is sintered at closing at temperatures of 2100 ° to 2200 ° C pressure.The molded bodies thus obtained are poly crystalline and - if they correspond to the stoichiometric composition B₄C - single-phase, they have a mean microstructure size of max. 10 μm, a te of at least 90% of the theoretical density of the boron carbide and a bending strength of at least 300N / mm².
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012092
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-17/06 G08B-13/22 G08B-13/26 G01R-17/12 G01R-17/00 G08B-25/00 G08B-29/28 <main>G08B-13/26</main> G08B-29/18 G08B-29/00 G08B-13/00 G08B-29/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+security system.
+</TITLE>
+<APPLICANT>
+metafix safr<sep>trefilunionfr<sep>metafix societe anonyme:<sep>trefilunion societe anonyme<sep>trefilunion société anonymeb.p. 55f-52102 saint-dizierfr<sep>trefilunion societe anonyme<sep>
+</APPLICANT>
+<INVENTOR>
+canobbio paul<sep>dray jacques<sep>canobbio, paul<sep>dray, jacques<sep>canobbio, paul9 chemin de la bigüef-60300 senlisfr<sep>dray, jacques11 rue du vieux chemin de meauxf-60300 senlisfr<sep>canobbio, paul  <sep>dray, jacques<sep>canobbio, paul9 chemin de la bigüef-60300 senlisfr<sep>dray, jacques11 rue du vieux chemin de meauxf-60300 senlisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+This invention relates to a safety system comprising a bridge circuit (1) comprising an element to be controlled (2), a compensatory element (3) and standard elements (4, 5).means (8, 11) are provided for detecting at the outlet of the bridge a drift by the phase offset with the supply frequency of the alternating current bridge.Delayed circuits (13a - 13d) provide staggered delays that allow, by comparison in coincidence circuits (14A - 14D) to determine the nature of the compensation to be done to restore the equilibre from the bridge circuit, acting onVariable standard items, especially on their resistance or pure impedance coefficient.
+</ABSTRACT>
+</TEXT>
+</DOC>

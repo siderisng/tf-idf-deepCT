@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005563
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-37/10 <main>A01N-55/04</main> A01N-55/00 C07C-69/74 C07F-7/00 A01N-37/34 A01N-55/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pesticidal compositions and their use.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v. <sep>
+</APPLICANT>
+<INVENTOR>
+badmin john stewart<sep>mears barry john<sep>badmin, john stewart<sep>mears, barry john<sep>badmin, john stewart26, arundel avenuesittingbourne, kentgb<sep>mears, barry john120, canterbury roadsittingbourne kentgb<sep>badmin, john stewart <sep>mears, barry john  <sep>badmin, john stewart26, arundel avenuesittingbourne, kentgb<sep>mears, barry john120, canterbury roadsittingbourne kentgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to pesticidal compositions.  there are provided compositions comprising di [tri-(2-methyl-2-phenylpropyl)tin]  oxide and a pyrethroid insecticide  of general formula    wherein a is an optionally-substituted aralkyl, alkyl or  cycloalkyl group, r is hydrogen, cyano, or ethynyl, x is alkyl,  alkenyl, aralkyl or aryloxy and n is 1 to 5; and their use in  combating pests.  compositions according to the invention exhibit surprising  synergistic activity against acarid pests, e. g.  glasshouse  red spider mite, tetranychus urticae.  
+</ABSTRACT>
+</TEXT>
+</DOC>

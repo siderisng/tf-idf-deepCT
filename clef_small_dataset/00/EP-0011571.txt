@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011571
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-15/02 H01L-27/10 H03H-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+recursive charge transfer filter.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr  <sep>
+</APPLICANT>
+<INVENTOR>
+benoit-gonin rogerfr<sep>fontanes sylvainfr<sep>picquendar jean-edgarfr<sep>benoit-gonin, roger<sep>fontanes, sylvain<sep>picquendar, jean-edgar<sep>benoit-gonin, roger"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>fontanes, sylvain"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>picquendar, jean-edgar"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The filter, having all its posirative weighting coefficients, a quantity of weighted charges is collected by a line (L) under one of the elementary electrodes of each weighting electrode (20).A loading device (d) is turned on to the line and provides an electrical signal (S ') sent to the negative input of a differential-tial amplifier (6), which receives on its positive input the electrical voltage ofSampled entry of the filter.The electrical output signal of the filter (s) is taken, in low impedance, at the output of the differential amplifier (6), this signal (s) being re-injected to the entrance of the filter, by means of means ofInjection (1).
+</ABSTRACT>
+</TEXT>
+</DOC>

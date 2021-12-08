@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014098
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/74 H01L-29/744 H01L-29/66 <main>H01L-29/743</main> H01L-29/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gate turn-off thyristor.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+nagano takahiro<sep>yatsuo tsutomu<sep>nagano, takahiro<sep>yatsuo, tsutomu<sep>nagano, takahiro2693-5 kanesawachohitachi-shijp<sep>yatsuo, tsutomu28-7 mizukicho 2-chomehitachi-shijp<sep>nagano, takahiro <sep>yatsuo, tsutomu  <sep>nagano, takahiro2693-5 kanesawachohitachi-shijp<sep>yatsuo, tsutomu28-7 mizukicho 2-chomehitachi-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+two thyristors (a and b) have the emitter and base elec­ trodes short-circuited on the anode side and on the cathode  side respectively.  the cathode of thyristor b is connected to  the gate electrode of thyristor a and the two thyristors have  their anodes connected together.  thus, a control signal ap­ plied to the gate electrode of thyristor b produces an amplified  control signal which is applied to the gate electrode (4) of thyr­ istor a which, in turn, controls the output of thyristor a at its  cathode 3.  hence a small control signal can be used to control  a large load current to reduce gate power losses.  also the thyr­ istor a is not turned off when the load current is less than a  predetermined holding current.  the thyristors a and b may be  formed in one semiconductor substrate with the second and  third layers of each thyristor formed in common.  
+</ABSTRACT>
+</TEXT>
+</DOC>

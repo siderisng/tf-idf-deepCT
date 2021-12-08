@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006021
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B62M-9/12</main> B62M-9/124 B62M-9/1242 B62M-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derailleur.
+</TITLE>
+<APPLICANT>
+shimano industrial cojp<sep>shimano industrial company limited<sep>shimano industrial company limited77, 3-cho oimatsu-cho sakai-shiosakajp<sep>shimano industrial company limited <sep>
+</APPLICANT>
+<INVENTOR>
+isobe mitsuhide<sep>nagano masashi<sep>isobe, mitsuhide<sep>nagano, masashi<sep>isobe, mitsuhide15-16, 4-cho, chokoji-minami toyonaka-shiosakajp<sep>nagano, masashi1975-11 kanaoka-cho sakai-shiosakajp<sep>isobe, mitsuhide<sep>nagano, masashi<sep>isobe, mitsuhide15-16, 4-cho, chokoji-minami toyonaka-shiosakajp<sep>nagano, masashi1975-11 kanaoka-cho sakai-shiosakajp<sep>
+</INVENTOR>
+<ABSTRACT>
+a derailleur suitable for use in switching a drive chain  between the sprockets of a multi-speed sprocket, comprising:  a four member linkage mechanism a comprising a base  member 1, first and second link members 2, 3 pivotally  connected to said base member 1, and a movable member 4  connected to said link members 2, 3 so as to be reciprocably  movable relative to the base member 1 and having a chain  guide 5, a return biasing means 18 arranged for providing  movement of the movable member 4 in a return direction;  and control wire engagement means 15 arranged for providing  movement of the movable member 4 in a forward  direction when a control wire 14 engaged therewith is pulled  against the force of the return biasing means 18 in use of the  derailleur.  in order to prevent noise and interfering contact between  the drive chain and a sprocket intended to be meshed  with the movable member 4 is freely movable reciprocably  within a limited predetermined range relative to the base  member 1 without being subjected to the action of said  return biasing means 18 whereby when the control wire 14 is  pulled through a given stroke.  
+</ABSTRACT>
+</TEXT>
+</DOC>

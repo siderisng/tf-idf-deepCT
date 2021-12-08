@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011412
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-9/26 <main>G06F-9/26</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bipartite control store for microprogrammed data processor.
+</TITLE>
+<APPLICANT>
+motorola incus<sep>motorola, inc.  <sep>motorola, inc.vincent j. rauner 4350 e. camelback road suite 200fphoenix, arizona 85018us<sep>motorola, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+gunter thomas glen<sep>tredennick harry leslie<sep>gunter, thomas glen<sep>tredennick, harry leslie<sep>gunter, thomas glen4505 mountain pathaustin, texas 78759us<sep>tredennick, harry leslie4508 pack saddleaustin, texas 78745us<sep>gunter, thomas glen<sep>tredennick, harry leslie<sep>gunter, thomas glen4505 mountain pathaustin, texas 78759us<sep>tredennick, harry leslie4508 pack saddleaustin, texas 78745us<sep>
+</INVENTOR>
+<ABSTRACT>
+a data processor having a microprogrammed control  store is disclosed which includes a micro control store (18)  having relatively short microwords which provide sequenc­ ing information and a nano control store (20) having relatively  long nanowords which control transfers and operations  within the execution unit (22) of the data processor.  the micro  control (18) store and nano control store (20) are addressed  simultaneously with same address.  whereas each microword  in the micro control store corresponds to a unique address, a  single nanoword may be selected by many different addres­ ses.  since each nanoword is unique, the overall size of the  control store is minimized.  
+</ABSTRACT>
+</TEXT>
+</DOC>

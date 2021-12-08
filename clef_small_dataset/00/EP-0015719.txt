@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015719
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-11/00 H03H-11/10 H03H-11/52 H03H-11/04 <main>H03H-11/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to bandstop filters.
+</TITLE>
+<APPLICANT>
+post officegb<sep>the post office<sep>the post office23 howland streetlondon w1p 6hqgb<sep>the post office<sep>
+</APPLICANT>
+<INVENTOR>
+greaves alan john<sep>greenaway philip ernest<sep>nightingale charles<sep>greaves, alan john<sep>greenaway, philip ernest<sep>nightingale, charles<sep>greaves, alan johnantares brickiln barretts laneneedham market ipswich suffolkgb<sep>greenaway, philip ernest42 westmorland roadfelixstowe suffolkgb<sep>nightingale, charles39 quilter roadfelixstowe suffolkgb<sep>greaves, alan john<sep>greenaway, philip ernest<sep>nightingale, charles<sep>greaves, alan johnantares brickiln barretts lane needham market ipswich suffolk gb  <sep>greenaway, philip ernest42 westmorland roadfelixstowe suffolkgb<sep>nightingale, charles39 quilter roadfelixstowe suffolkgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a filter network that exhibits a bandstop response com­ prises a network of basically low-pass or high-pass structure.   the network is developed by choosing a bandstop transfer  function, a fourth-order elliptic is disclosed, which is converted  to a low-pass function.  this function describes a passive low-­ pass lc ladder network including a negative impendance ele­ ment.  a bruton transformation is applied to the passive lc  network to give an active version including an ungrounded  negative resistance network (24) in a series arm and frequen­ cy-dependent negative resistances (36) and (38) in shunt arms  without requiring inductance coils for its implementation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

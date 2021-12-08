@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013578
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-51/347 B01J-27/00 C07C-51/00 C07C-57/04 C07C-57/05 C07C-51/377 B01J-23/16 B01J-27/18 B01J-23/24 C07C-57/00 <main>C07C-57/04</main> B01J-27/14 B01J-27/186 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing methacrylic acid.
+</TITLE>
+<APPLICANT>
+mitsubishi chem indjp <sep>mitsubishi chemical industries limited<sep>mitsubishi kasei corporation 5-2, marunouchi 2-chome chiyoda-ku tokyo 100 jp<sep>mitsubishi chemical industries limited<sep>mitsubishi chemical industries limited <sep>
+</APPLICANT>
+<INVENTOR>
+onoda takeru<sep>otake masayuki<sep>yamaguchi jutaro<sep>onoda, takeru<sep>otake, masayuki<sep>yamaguchi, jutaro<sep>onoda, takeru5-6, tsutsujigaoka, modori-kuyokohama-shi, kanagawajp<sep>otake, masayuki3, sakuradai, midori-kuyokohama-shi, kanagawajp<sep>yamaguchi, jutaro3673-12, shimotsurumayamato-shi, kanagawajp<sep>onoda, takeru<sep>otake, masayuki<sep>yamaguchi, jutaro<sep>onoda, takeru <sep>otake, masayuki<sep>yamaguchi, jutaro<sep>onoda, takeru5-6, tsutsujigaoka, modori-kuyokohama-shi, kanagawajp<sep>otake, masayuki3, sakuradai, midori-kuyokohama-shi, kanagawajp<sep>yamaguchi, jutaro3673-12, shimotsurumayamato-shi, kanagawajp<sep>
+</INVENTOR>
+<ABSTRACT>
+methacrylic acid is produced by oxidative dehydrogena­ tion of isobutyric acid in vapor phase in the presence of a  lithium salt of a heteropolyacid or a reduced form of the  heteropolyacid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

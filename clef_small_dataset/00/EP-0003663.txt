@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003663
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-333/20 C07D-265/00 C07D-317/28 C07D-333/36 C07D-213/65 C07D-333/00 C07D-263/00 C07D-307/68 C07D-213/00 C07D-277/00 C07D-333/22 C07C-45/00 C07D-307/54 C07D-233/54 C07D-333/24 C07D-239/00 C07D-207/42 C07D-263/10 C07C-327/22 C07C-17/00 C07D-307/71 C07D-333/38 C07D-303/00 C07D-303/16 C07D-211/00 C07D-309/00 C07D-213/80 C07D-317/00 C07D-521/00 C07D-207/34 C07C-327/00 C07D-277/06 C07D-211/46 C07C-17/093 C07D-307/00 C07D-307/66 C07D-233/00 C07D-265/06 C07D-333/16 C07C-45/45 C07D-239/42 C07D-309/12 C07D-207/00 C07D-333/44 C07C-323/00 C07C-323/25 C07D-213/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+amino-substituted phenyl and heteroaryl compounds, process for their preparation and pharmaceutical compositions containing them
+</TITLE>
+<APPLICANT>
+american cyanamid cous<sep>american cyanamid company<sep>american cyanamid companyberdan avenuewayne new jersey 06904us<sep>
+</APPLICANT>
+<INVENTOR>
+shepherd robert gordonus<sep>shepherd, robert gordon<sep>shepherd, robert gordon3-ld salisbury manorsouth nyack new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention provides novel amino-substituted phenyl and heteroaryl compounds which show pharmaceutically useful properties, particularly as hypolipidemic and anti-atherosclerotic agents, and processes for the preparation of the novel compounds.  the novel compounds have the formula: <chem> q is wherein y is loweralkyl, loweralkoxy, hydroxy, nitro, acycloxy or halo, and m is an integer of from 0 to 4 inclusive, or a 5- or 6-membered heteroaryl ring containing 1 or more nitrogen, sulfur or oxygen atoms and which may be optionally substituted with one fluorine atom; r is hydrogen or a group convertible in vivo thereinto; z is:   a) -@-j wherein j is selected from the group consisting of hydroxy, loweralkoxy, loweralkoxyloweralkyloxy, diloweralkylaminoloweralkoxy, hydrogen, loweralkyl, (mono- or polyhydroxy)loweralkoxy, (mono- or polycarboxy)loweralkoxy, (mono- or polycarboxy)hydroxyloweralkoxy, allyloxy, 2,3-epoxypropoxy, substituted or unsubstituted(phenoxy, benzyloxy and 3-pyridyloxy), pyridylmethoxy, tetrahydropyranyloxy, (mono- or polyhydroxyl)loweralkylamino, (mono- or polycarboxy)loweralkylamino, (mono- or polycarboalkoxy)loweralkylamino, allylamino, propargylamino, 2-sulfoethylamino, (substituted or unsubstituted aroyl)amino, loweralkanoylamino, loweralkanesulfonylamino, (substituted or unsubstituted arene)sulfonylamino, loweralkanoylhydrazino, hydroxylamino, polymethyleneimino, (4-carboxy- or 4-carboethoxy)thiazolidino, and loweralkyl bearing one or more carboxy, carboloweralkoxy, carbamoyl, acyl, sulfinyl or sulfonyl groups, or   b) -b-@-ok wherein b is a saturated or unsaturated loweralkylene group and k is selected from the group consisting of hydrogen, loweralky, loweralkyl, loweralkoxyethyl, diloweralkyl aminoethyl, (mono- or polyhydroxy)loweralkyl, (mono- or polycarboxy)loweralkyl, (mono- or polycarboxy)hydroxyloweralkyl, allyl, 2,3-epoxypropyl, substituted or unsubstituted (phenyl, benzyl or 3-pyridyl) or pyridylmethyl and tetrahydropyranyl; and wherein q, y, m and x are defined as follows: formula i-a) q is <chem> i
+</ABSTRACT>
+</TEXT>
+</DOC>

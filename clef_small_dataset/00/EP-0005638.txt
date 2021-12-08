@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005638
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-39/00 A61K-51/10 <main>A61K-43/00</main> A61K-51/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a composition of matter comprising a tc-99m labeled antibody and a diagnostic kit for forming same.
+</TITLE>
+<APPLICANT>
+summa medical corp us <sep>university patents incus<sep>summa medical corporation<sep>university patents, inc.<sep>summa medical corporation4272 balloon park roadn.e., albuquerque new mexico 87109us<sep>university patents, inc.537 newtown avenuenorwalk, connecticut 06851us<sep>summa medical corporation<sep>university patents, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+crockford david r<sep>rhodes buck a<sep>crockford, david r.<sep>rhodes, buck a.<sep>crockford, david r.31 royal crest drivenashua new hampshire 03060us<sep>rhodes, buck a.1523 silver s.e.albuquerque new mexico 87106us<sep>crockford, david r.<sep>rhodes, buck a.  <sep>crockford, david r. 31 royal crest drivenashua new hampshire 03060us<sep>rhodes, buck a.1523 silver s.e.albuquerque new mexico 87106us<sep>
+</INVENTOR>
+<ABSTRACT>
+a composition of matter comprising a tc-99m labeled  antibody and diagnostic kits for forming same are provided.   the labeled antibody is anti-human chorionic gonadotropin  (anti-hcg) or anti-human chorionic gonadotropin-beta sub-unit  (anti-hcg-β) or a mixture thereof.  in diagnostic use, the  labeled antibody is administered in physiologically and  pharmaceutically acceptable form and its biodistribution is  monitored.  the labeled antibody will accumulate at cancer  sites e. g.  tumors that produce human chorionic gonadotropin,  human chorionic gonadotropin-like material, compounds  similar or identical to the β-chain of chorionic  gonadotropin and mixtures thereof, which bind specifically  to anti-hcg and/or anti-hcg-β.  
+</ABSTRACT>
+</TEXT>
+</DOC>

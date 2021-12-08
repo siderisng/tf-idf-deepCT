@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001719
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-1/08 C07F-1/00 C01B-15/00 C01B-15/027 C07F-11/00 C07F-15/00 C01B-15/022 C07F-15/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+metal complexes, their preparation and production of hydrogen peroxide therewith.
+</TITLE>
+<APPLICANT>
+univ australianau<sep>the australian national university<sep>the australian national universityacton, australian capital territory 2600 au  <sep>
+</APPLICANT>
+<INVENTOR>
+harrowfield john macbeanau<sep>herlt anthony johnau<sep>sargeson alan mcleodau<sep>harrowfield, john macbean<sep>herlt, anthony john<sep>sargeson, alan mcleod<sep>harrowfield, john macbean5 hammersley waykardinya western australiaau<sep>herlt, anthony john6/6 walsh placecurtin australian capital territoryau<sep>sargeson, alan mcleod53 dunstan streetcurtin australian capital territoryau<sep>
+</INVENTOR>
+<ABSTRACT>
+coordination complexes which may be used in a cyclic  process for the production of hydrogen peroxide by autoxidation,  having the formula:-    in which n represents an integer; m represents a cobalt ion or  other metal ion having at least two oxidation states; x and y,  which may be the same or different, each represent ≡n, ≡p or  ≡c-r′, in which r′ represents a hydrogen or halogen atom, or  a hydroxyl, nitro, nitroso, amino, alkyl, or cyano group, or a  group of the formula -coor″, -cocoor″ or  -nh-coch-chcoor″ in which r″ is a hydrogen atom or alkyl  group; provided that when m represents a cobalt ion and n is  2, x and y do not both represent ≡n.  the coordination complex being sufficiently stable for the  metal ion to be oxidised and reduced without decomposition  of the complex and the metal ion being in its lower oxidation  state.  the preparation of the complex comprises the condensation  of a tris-(alkyl-diamine) metal ion complex with formaldehyde  and a nucleophile.  
+</ABSTRACT>
+</TEXT>
+</DOC>

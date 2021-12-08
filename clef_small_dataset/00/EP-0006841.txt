@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006841
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C21D-9/64 C21D-9/62 C21D-9/54 <main>C21D-9/62</main> C21D-9/56 C21D-9/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the continuous heat treatment of metal products.
+</TITLE>
+<APPLICANT>
+trefilarbed salu<sep>trefilarbed s.a.<sep>trefilarbed s.a.2, rue heineluxemburglu<sep>trefilarbed salu<sep>trefilarbed s.a. <sep>
+</APPLICANT>
+<INVENTOR>
+stock gunter<sep>weyand karl<sep>stock, gunter<sep>weyand, karl<sep>stock, günterdudweilerstrassed-6670 st. ingbertde<sep>weyand, karldudweilerstrassed-6670 st. ingbertde<sep>stock, gunter <sep>weyand, karl  <sep>stock, günterdudweilerstrassed-6670 st. ingbertde<sep>weyand, karldudweilerstrassed-6670 st. ingbertde<sep>
+</INVENTOR>
+<ABSTRACT>
+An apparatus for continuous heatinghan donning of long-stretched metal material, in particular wire, generally sees two pans filled with liquid metal, one of which is formed as preheating (10) and the other as a quenching pan (20).The jacket (11) of the preheating pan (10) and the jacket (21) of the quenching pan (20) are connected to the second winding (31) of a transformer (30).The wire (1) is guided through the baths located in the pans and electrically heated via the glow path (G) between the pans.After passing through the preheater (10) and the glow path (G), the wire (1) passes through the deterrain bath (20).For energy savings, the preheating pan (10) sometimes appears in the quenching pan (20).The jacket (11) of the preheating pan (10) is heat impermeable to the metal of the quenching pan (20) and simultaneously electrically isolated.
+</ABSTRACT>
+</TEXT>
+</DOC>

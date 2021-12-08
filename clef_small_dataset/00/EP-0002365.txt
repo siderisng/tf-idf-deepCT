@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002365
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09G-5/02 G09G-5/36 G06F-3/14 H04N-9/74 H04N-5/22 <main>G06F-15/20</main> H04N-9/43 G09G-5/40 G09G-5/377 H04N-9/75 H04N-5/262 H04N-9/76 H04N-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system for mixing two sequences of video data.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation<sep>international business machines corporation old orchard road armonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+giddings gary michael<sep>langdon jr glen george<sep>malowany alfred stephen<sep>williams robin<sep>giddings, gary michael<sep>langdon jr., glen george<sep>malowany, alfred stephen<sep>williams, robin<sep>giddings, gary michael6318 benzo drivesan jose california 95123us<sep>langdon jr., glen george6772 hampton drivesan jose california 95120us<sep>malowany, alfred stephen4590 prince of walesmontreal quebec, h45 2l3ca<sep>williams, robin6618 bubblingwell placesan jose california 95120us<sep>giddings, gary michael<sep>langdon jr., glen george  <sep>malowany, alfred stephen<sep>williams, robin<sep>giddings, gary michael6318 benzo drivesan jose california 95123us<sep>langdon jr., glen george6772 hampton drivesan jose california 95120us<sep>malowany, alfred stephen4590 prince of walesmontreal quebec, h45 2l3ca<sep>williams, robin6618 bubblingwell placesan jose california 95120us<sep>
+</INVENTOR>
+<ABSTRACT>
+two streams of video signals are mixed according to  control words derived from the video signals in at least one  of the streams.  analogue video grey-scale signals generated  by a closed-circuit television system (14) are digitised and  decoded to address a table held in a memory (62) the output  of which is digital colour signals and a control word to define  the mixing operation on the signal.  the control word is  decoded and is interpreted by circuitry (70) controlling the  operation of an arithmetic and logic unit (32).  the second  video signal stream is digital and is likewise used to address  a table held in a memory (24), the output of which is also  digital colour signals.  a control word can also be output from  memory (24).  the alu (32) is capable of and-ing, or-ing,  adding or subtracting the two streams, blocking a selected  one of the streams, or of averaging.  the output of the alu  goes to convention colour crt.  
+</ABSTRACT>
+</TEXT>
+</DOC>

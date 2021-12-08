@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000918
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-63/78 B01J-19/00 <main>C08G-63/22</main> C08G-63/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of linear, high molecular polyesters.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+pirzer hans dr<sep>sterzel hans-josef dr<sep>von dziembowski kasimir<sep>pirzer, hans, dr.<sep>sterzel, hans-josef, dr.<sep>von dziembowski, kasimir<sep>pirzer, hans, dr.wildstrasse 22d-6710 frankenthalde<sep>sterzel, hans-josef, dr.haardtstrasse 13d-6701 dannstadt-schauernheim 1de<sep>von dziembowski, kasimirmannheimer strasse 18ad-6710 frankenthalde<sep>pirzer, hans, dr.<sep>sterzel, hans-josef, dr.<sep>von dziembowski, kasimir<sep>pirzer, hans, dr.wildstrasse 22d-6710 frankenthalde<sep>sterzel, hans-josef, dr.haardtstrasse 13d-6701 dannstadt-schauernheim 1de<sep>von dziembowski, kasimirmannheimer strasse 18ad-6710 frankenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for the preparation of high molecular weight linear polyesters, derived from dicarboxylic acids or their ester-forming derivatives and diols, by condensing polyester precondensates with a relative viscosity of at least 1.05 at temperatures of 270 to 340 ° C under reduced pressure, with the condensationA temperature of 290 to 340 ° C begins and with progressive condensation reduces the temperature with the proviso that the final temperature is at least 10 ° C above the melting point of the respective polyester produced, as well as a device suitable for carrying out the method.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017541
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-15/02 H01L-29/76 <main>H03H-15/02</main> H01L-21/339 H01L-29/66 H01L-21/02 H03H-15/00 H01L-29/762 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+transversal electric-charge transfer filter.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf  <sep>
+</APPLICANT>
+<INVENTOR>
+berger jean-luc<sep>berger, jean-luc<sep>berger, jean-luc"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>berger, jean-luc<sep>berger, jean-luc"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+A storage electrode (3) of the on-two filter is cut into two parts.The weighting coefficients are elaborated by means of reading (7) connected to a portion of each cut storage electrode which negatively read the loads leaving a cut storage electrode, called negative, and positively, the loads arriving under the electrode.Next cut storage, called positive.
+</ABSTRACT>
+</TEXT>
+</DOC>

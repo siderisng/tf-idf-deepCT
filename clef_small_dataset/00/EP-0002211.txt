@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002211
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-85/48 H01R-17/20 G01R-1/20 H01H-85/00 H01R-24/00 <main>G01R-1/20</main> G01R-1/00 H01R-24/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical coupling piece.
+</TITLE>
+<APPLICANT>
+contraves gmbhde<sep>contraves gmbh<sep>contraves gmbhhans-stiessberger-strasse 2ad-8013 haarde<sep>contraves gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+spannehl hans-peter<sep>spannehl, hans-peter<sep>spannehl, hans-petereschenweg 17d-7752 reichenau 2de<sep>spannehl, hans-peter<sep>spannehl, hans-petereschenweg 17d-7752 reichenau 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  electrical coupling which has a first (56) and a second contact part (39, 39') and which can be inserted into, and retained in, a sleeve part (5) of a fuseholder provided with contact elements arranged at a distance from each other, whereby in the coupled state the contact parts (56, 39, 39') of the coupling contact the associated contact elements (16, 16', 15, 15') of the sleeve part, characterized in that the first contact part (56) for the first contact elements (16, 16') is secured at the one end of a push rod (55) arranged coaxially in the coupling (100), that a plurality of second contact parts are present and the second contact parts (39, 39') for the second contact elements (15, 15') are formed at the one end of a coupling sleeve (35) separated by an insulating sleeve (50) from the push rod (55), that the contact parts (56, 39, 39') are arranged to be pressed against the associated contact elements (16, 16', 15, 15') by the force of a single pressure spring (65), and that at the respective other end of the push rod (55) and the coupling sleeve (35) there is secured at least one electrical terminal (70, 71) arranged in a recess (23, 23') of a head piece (20). 
+</ABSTRACT>
+</TEXT>
+</DOC>

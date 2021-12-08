@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009810
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C13K-13/00 C13K-1/00 C13K-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for eliminating silicic acid from sugar solutions.
+</TITLE>
+<APPLICANT>
+sued chemie agde<sep>sued-chemie ag<sep>süd-chemie aglenbachplatz 6d-80333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+brenner bernd drde <sep>buckl hans dr de<sep>brenner, bernd, dr.<sep>buckl, hans, dr.<sep>brenner, bernd, dr.amselstrasse 2d-8052 moosburgde<sep>buckl, hans, dr.eberhardsweg 2d-8050 freisingde<sep>
+</INVENTOR>
+<ABSTRACT>
+the sugar solutions are obtained by acid hydrolysis of carbohydrate-containing vegetable materials.  the acid sugar solutions are mixed with a soluble aluminium or iron(iii) salt and then neutralised.  the aluminium or iron(iii) hydroxide precipitate containing the silicic acid is separated from the solution. 
+</ABSTRACT>
+<DESCRIPTION>
+die erfindung betrifft ein verfahren zur entfernung von kieselsäure aus zuckerlösungen, die durch saure hydrolyse von kohlenhydrathaltigen pflanzlichen naturstoffen erhalten worden sind. die saure hydrolyse von kohlenhydrathaltigen pflanzlichen naturstoffen zur gewinnung der entsprechenden zucker ist seit langem bekannt. eeispielsweise kann aus stärke- und cellulosehaltigen naturstoffen, wie früchten, holz und jahrespflanzen, durch hydrolyse mit verdünnten mineralsäuren glukose erhalten werden. ferner enthalten pflanzen und pflanzenteile, z.b. holz, jahrespflanzen und nussschalen, neben cellulose auch die sogenannten hemicellulosen, die sich durch säuren noch leichter hydrolysieren lassen als cellulose. je nach dem typ der hemicellulosen (mannane, galaktane und xylane) erhält man bei der hydrolyse mannose, galaktose oder xylose. die xylose und ihr hydrierungsprodukt, der xylit, haben in neuerer zeit eine nicht unerhebliche technische bedeutung erlangt. xylose kann z.b. in der nahrungsindustrie für verschiedene zwecke eingesetzt werden, während xylit sich als ein sehr gutes süssungsmittel für diabetiker erwiesen hat. als ausgangsmaterial für die technische herstellung von xylose werden meist laubholzarten, wie buchen-, birken-, kastanien- oder eichenholz; hafenschalen; stroh, z.b. weizen-, roggen-, gersten-, hafer-, reisstroh usw.; maiskolben, bagasse-, steinnuss- schalen, wie kokosnussschalen, mandelachalen, die schalen von palmkernen, olivenkernen, dattelkernen, babacunüssen und ähnlichen steinnüssen verwendet. in gewissen fällen hat sich ein zweistufiger aufschluss der hemicellulosen von xylanhaltigen naturprodukten als günstig erwiesen, wobei das ausgangsmaterial in der ersten stufe mit einem basisch wirkenden mittel behandelt und der erhaltene feste rückstand in der zweiten stufe einer säurebehandlung unterzogen wird. die alkalische vorbehandlung hat den zweck, die ge bundene essigsäure als acetat zu entfernen, da ihre entfernung schwierig ist, wenn sie erst in der sauren hydrolysestufe abgespalten wird. nach dem sauren aufschluss fällt die xylose in form einer verdünnten sauren lösung an, die zur weiterverarbeitung noch eingedampft werden muss. vor dem. ein damtfen wird die aufschluss säure noch entfernt, indem die xyloselösungen z.b. über ionenaustauscherharze geleitet werden. zur erhöhung der nutzbaren kapazität der ionenaustauscherharze können die sauren aufschlusslösungen, wenr, zum aufschluss schwefelsäure verwendet wurde, zuvor mit calciumhydroxid bzw. calciumcarbonat reduziert werden, wobei gips ausgefällt wird. beim zweistufigen aufschluss bestimmer jahrespflanzen, wie gräsern, stroh, hafer- und reisschalen, werde festgestellt, dass beim hindurchleiten der sauren xylosehal- tigen aufschlusslösungen durch die ionenaustauscherharze ein zunächst unerklärlicher abfall der aktivität der ionenaustauscherharze auftrat. ferner bildeten sich, wenn die aufschlusslösungen mit calciumcarbonat bzw. calciumhydroxid neutralisiert wurden, auf den heizflächen der eindampfer harte, festhaftende beläge, welche die verdampferleistung innerhalb kurzer zeit auf einen bruchteil ihres ursprünglichen wertes abfallen liessen. bei diesen belägen handelte es sich um gipsbeläge, die im vergleich zu den üblichen gipsbelägen nur mit grosser mühe und grossem zeitaufwand von den verdampferheizflächen entfernt werden konnten. analysen dieser beläge ergaben, dass sie neben gips kieselsäure enthielten, und es wurde angeno¯men, dass die kieselsäure aus dem xylanhaltigen ausgangs- material stimmte. weitere untersuchungen ergaben, dass haferschalen und stroh etwa 4 bis 6 kieselsäure enthalten. bei reisschalen kann der kieselgehalt auf etwa 20% ansteigen; der kieselsäuregehalt von gräsern liegt zwischen diesen werten. es wurde nun versucht, die kieselsäure durch intensivierung der alkalischen vorbehandlung als alkalisilikat zu entfernen, was aber praktisch keinen erfolg hatte. die kieselsäure wird teilweise in der stufe
+</DESCRIPTION>
+<CLAIMS>
+ verfahren zur entfernung von    kieselsäure aus zuckerlösungen patentansprüche 1. verfahren zur entfernung von kieselsäure aus zuckerlösungen, die durch saure hydrolyse von kohlehydrathaltigen pflanzlichen naturstoffen erhalten worden sind, dadurch gekennnzeichnet, dass man die sauren   zuckerlösungen    mit einem löslichen aluminium- oder eisen-(iii)-salz versetzt, die lösungen neutralisiert und den die   xieselscure    enthaltenden aluminium- oder   lisen-iii-eydroxidniederschlag    von der lösung abtrennt.    2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass man als aluminiumsalz   äluminiumsulfat    verwendet.        3. verfahren    nach anspruch 1 oder 2, dadurch gekennzeichnet, dass man als ausgangsstoffe zur gewinnung der zuckerhaltigen   aufschlusslösungen    xylanhaltige naturprodukte verwendet.   4. verfahren nach einem der ansprüche 1 bis 3, dadurch gekennzeichnet, dass man den sauren aufschluss mit mineralsäuren, insbesondere schwefelsäure, oder mit oxalsäure durchführt.   5. verfahren nach einem der ansprüche 1 bis 4, dadurch gekennzeichnet,   da9    man die neutralisation mit calciumcarbonat oder calciumhydroxid vornimmt.  
+</CLAIMS>
+</TEXT>
+</DOC>

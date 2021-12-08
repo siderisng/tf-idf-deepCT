@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001852
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-5/44 C08G-65/00 <main>G03C-5/44</main> G03C-5/40 C08G-65/334 C08G-65/32 G03C-7/42 C08L-71/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic bleach compositions containing bleach-accelerating compounds and their use in a method of processing an image-wise exposed photographic silver halide material.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe <sep>agfa_gevaert naamloze vennootschap<sep>agfa-gevaert naamloze vennootschap septestraat 27 b-2640 mortsel be<sep>agfa-gevaert naamloze vennootschap<sep>
+</APPLICANT>
+<INVENTOR>
+bergthaller peter<sep>pollet robert joseph<sep>roosen raymond albert<sep>schon erwin<sep>sels francis jeanne<sep>van veelen george frans<sep>vandeputte camille angelina<sep>bergthaller, peter<sep>pollet, robert joseph<sep>roosen, raymond albert<sep>schon, erwin<sep>sels, francis jeanne<sep>van veelen, george frans<sep>vandeputte, camille angelina<sep>bergthaller, petermorgengraben 1d-5000 köln 80de<sep>pollet, robert josephbroechemsteenweg 115b-2531 vremdebe<sep>roosen, raymond albertparklaan 12b-2232 's-gravenwezelbe<sep>schön, erwindönhoffstrasse 92d-5090 leverkusen 1de<sep>sels, francis jeanneooststatiestraat 182b-2550 kontichbe<sep>van veelen, george fransamedeus stockmanslei 95b-2510 mortselbe<sep>vandeputte, camille angelinamolenlei 100b-2510 mortselbe<sep>bergthaller, peter<sep>pollet, robert joseph<sep>roosen, raymond albert<sep>schon, erwin<sep>sels, francis jeanne<sep>van veelen, george frans<sep>vandeputte, camille angelina<sep>bergthaller, petermorgengraben 1 d-5000 köln 80 de  <sep>pollet, robert josephbroechemsteenweg 115b-2531 vremdebe<sep>roosen, raymond albertparklaan 12b-2232 's-gravenwezelbe<sep>schön, erwindönhoffstrasse 92d-5090 leverkusen 1de<sep>sels, francis jeanneooststatiestraat 182b-2550 kontichbe<sep>van veelen, george fransamedeus stockmanslei 95b-2510 mortselbe<sep>vandeputte, camille angelinamolenlei 100b-2510 mortselbe<sep>
+</INVENTOR>
+<ABSTRACT>
+the processing of exposed photographic silver halide  colour materials is described whilst using a bleach or bleach-fixing  bath containing better bleach-accelerating compounds.   the bleach-accelerating compounds are polyoxyethylene  compounds comprising at least 20 mol % of recurring  oxyethylene units, which carry a thioether group in a side-chain.  
+</ABSTRACT>
+</TEXT>
+</DOC>

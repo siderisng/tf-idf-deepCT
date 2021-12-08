@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002407
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-27/08 H01J-37/15 H01J-27/02 <main>H01J-37/147</main> H01J-37/147 H01J-37/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mobile extraction electrode for an ion source.
+</TITLE>
+<APPLICANT>
+anvar fr<sep>anvar agence nationale de valorisation de la recherche  <sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche<sep>
+</APPLICANT>
+<INVENTOR>
+camplan jean<sep>chaumont jacques<sep>meunier robert<sep>camplan, jean<sep>chaumont, jacques<sep>meunier, robert<sep>camplan, jean37, boulevard garibaldif-75015 parisfr<sep>chaumont, jacques4, square aragof-78330 fontenay le fleuryfr<sep>meunier, robert9, chemin à dieuf-78830 bonnellesfr<sep>camplan, jean <sep>chaumont, jacques<sep>meunier, robert  <sep>camplan, jean37, boulevard garibaldif-75015 parisfr<sep>chaumont, jacques4, square aragof-78330 fontenay le fleuryfr<sep>meunier, robert9, chemin à dieuf-78830 bonnellesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Mobile extraction electrode for ion source.The electrode (6) is provided with mechanical means (10, 12, 14, 18) for controlling the exterior of the speaker its displacement, these means comprising two systems capable of displacing independently the two lateral sides of the screen, each of these systems comprising a deformable parallelogram (8) and means (10) adapted to control the deformation of said parallelogram.Application to ionic implants.
+</ABSTRACT>
+</TEXT>
+</DOC>

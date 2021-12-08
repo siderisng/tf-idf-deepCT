@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002802
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-209/36 C07C-211/00 C07C-87/60 C07C-211/52 <main>C07C-85/11</main> C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of halogenated anilines.
+</TITLE>
+<APPLICANT>
+basf agde <sep>basf aktiengesellschaft <sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+gaeng manfred dr<sep>jersak ulrich dr<sep>scheuermann horst dr<sep>gaeng, manfred, dr.<sep>jersak, ulrich, dr.<sep>scheuermann, horst, dr.<sep>gaeng, manfred, dr.an der tuchbleiche 11d-6712 bobenheim-roxheim 2de<sep>jersak, ulrich, dr.dubliner strasse 21d-6700 ludwigshafende<sep>scheuermann, horst, dr.bexbacher strasse 41d-6700 ludwigshafende<sep>gaeng, manfred, dr.<sep>jersak, ulrich, dr.  <sep>scheuermann, horst, dr. <sep>gaeng, manfred, dr.an der tuchbleiche 11d-6712 bobenheim-roxheim 2de<sep>jersak, ulrich, dr.dubliner strasse 21d-6700 ludwigshafende<sep>scheuermann, horst, dr.bexbacher strasse 41d-6700 ludwigshafende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of chloroanilines of the formula  see diagramm : ep0002802,p5,f1  where r**1 and r**2 can be identical or different and each is a hydrogen atom or an aliphatic radical, and r**1 can also be a chlorine atom, by catalytic hydrogenation of halonitrobenzenes, characterized in that chloronitrobenzenes of the formula  see diagramm : ep0002802,p6,f1  where r**1 and r**2 have the above meaning, are hydrogenated, using less than 20 per cent by weight, based on starting material ii, of a solvent which is inert under the reaction conditions, in the presence of one or more metals of atomic order number from 24 to 29 as a hydrogenation catalyst, the hydrogenation being started at a ph of from 2 to 4. 5. 
+</ABSTRACT>
+</TEXT>
+</DOC>

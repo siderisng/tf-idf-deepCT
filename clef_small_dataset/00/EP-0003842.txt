@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003842
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-49/14 H01J-49/26 G01N-27/62 H01J-49/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mass spectrometer and method for the elemental analysis of solids.
+</TITLE>
+<APPLICANT>
+du pontus <sep>e.i. du pont de nemours and company <sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>
+</APPLICANT>
+<INVENTOR>
+colby bruce nobleus<sep>hull charles williamus<sep>colby, bruce noble<sep>hull, charles william<sep>colby, bruce noble2702 el rastro lanecarlsbad, calif. 92008us<sep>hull, charles william155 south limasierra madre, calif. 91024us<sep>
+</INVENTOR>
+<ABSTRACT>
+material is removed from a solid surface and ionized to  produce singly charged monatomic ions representative of  the surface.  in the ion source (10) a sample (50) of the material  (or surface) is mounted opposite the exit slit (12; 51)  biased negatively with respect to the source's block and  sputtered with argon ions.  some of the sputtered sample  material is ionized by charge exchange with the argon ions  near the ion source's exit slit (12; 51) and accelerated into a  mass analyzer (16).  an electron beam (73) is used to ionize  the argon sputtering gas.  
+</ABSTRACT>
+</TEXT>
+</DOC>

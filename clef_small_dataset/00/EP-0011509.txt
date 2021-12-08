@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011509
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-4/64 <main>C08F-10/00</main> C08F-10/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+olefin polymerisation catalyst component and polymerisation process employing it.
+</TITLE>
+<APPLICANT>
+int synthetic rubbergb <sep>the±international synthetic rubber company limited <sep>enichem elastomers limited charleston roadhardley, hythe southampton s04 6yygb<sep>enoxy chemical limited  <sep>
+</APPLICANT>
+<INVENTOR>
+jenkins derek keith<sep>jenkins, derek keith<sep>jenkins, derek keith7, lakewood roadashurst, hampshiregb<sep>jenkins, derek keith<sep>jenkins, derek keith7, lakewood roadashurst, hampshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+novel titanium-magnesium compounds are obtained by  reaction of titanium tetrachloride with a magnesium com­ plex of a conjugated diene.  olefins may be polymerised  using a catalyst comprising one of the novel compounds and  an organo aluminium cocatalyst.  
+</ABSTRACT>
+<DESCRIPTION>
+this invention relates to an olefin polymerisation catalyst component and to the polymerisation of olefins by means of an olefin polymerisation catalyst comprising such a component. the reaction of isoprene with magnesium in polar solvents such as tetrahydrofuran (thf) is described by yasuda, n., nakano, y., natsukawa, j., tani, h., in macromolecules 11 (1978) p 586. complexes having the formula mg (isoprene) where x = 1, 2, 3 or 4 have been characterised. the complex usually contains two molecules of polar solvent, such as thf, coordinated with the magnesium. similar complexes with butadiene have also been reported (see reference 30 in the above paper). it has been concluded that such complexes have a macrocyclic structure containing e.g., 25 members, five magnesium atoms, or 27 members, three magnesium atoms we have found that an olefin polymerisation catalyst component can be prepared by reaction of titanium tetrachloride with a magnesium complex of a conjugated diene such as one of those just described. according to the present invention an olefin polymerisation catalyst component comprises the reaction product of titanium tetrachloride with a magnesium complex of a conjugated diene. the invention also includes a process for the polymerisation of at least one olefin carried out by means of a catalyst comprising an olefin polymerisation catalyst component as just described and an organo aluminium component which is an aluminium trialkyl, an aluminium alkyl halide having an alkyl to halogen ratio of at least 1 : 1 or a mixture thereof. examples of suitable magnesium complexes of a conjugated diene are those wherein the conjugated diene is isoprene, butadiene, myrcene, diphenyl butadiene or a dialkyl butadiene wherein the alkyl groups have 1 to 5 carbon atoms. magnesium-butadiene and magnesiumisoprene complexes are preferred. generally such complexes are prepared in a polar solvent, such as an ether or cyclic ether (e.g. thf). the complexes so prepared generally contain a certain amount of coordinated polar solvent, e.g., a thf to magnesium ratio of at least 2 : l,(i.e., 2 : 1 or more than 2 : 1.) for use in olefin polymerisation it is preferred that the amount of polar compound used to prepare the magnesium-diene complex is kept to a minimum. the magnesium to diene ratio in the complex may be 1 : 1, 1 : 2, 1 : 3 or 1 : 4. magnesium-isoprene-tetrahydrofuran complexes are preferred. the olefin polymerisation catalyst component is prepared by reaction of titanium tetrachloride with the magnesium complex of a conjugated diene. the titanium to magnesium ratio of the reactants used is preferably from 1 : 1 to 1 : 2. the magnesium to titanium ratio in the catalyst component is 2 or less : 1, preferably 1 : 1 to 2 : 1. a reaction temperature of 0 to 300c is preferred. the reaction to prepare the catalyst component is carried out in hydrocarbon solvent (e.g. toluene). it is preferred that the magnesium diene complex is added to titanium tetrachloride (both in hydrocarbon solution) to give the required magnesium to titanium
+</DESCRIPTION>
+<CLAIMS>
+   rlai t 's      1. an olefin polymerisation catalyst component comprising the reaction product of titanium tetrachloride with a magnesium complex of a conjugated diene.   2. a catalyst component according to claim 1 wherein the conjugated diene is selected from isoprene, butadiene, myrcene, diphenyl butadiene, and dialkyl butadienes wherein the alkyl groups have 1 to 5 carbon atoms.   3. a catalyst component according to claim 1 or claim 2 whercin the magnesium to diene ratio is selected frond 1:1, 1:2, 1:3, and 1:4.   4. a catalyst component according to any preceding claim which comprises the reaction product of titanium tetrachloride with a magnesium-isoprene-polar solvent complex.   5. a catalyst component according to claim 4 wherein the polar solvent is tetrahydrofuran in a molar ratio to magnesium   of.2    or more :1.    6. a catalyst component according to claim 4 or claim 5 wherein the magnesium to titanium ratio is 2 or less :1.   7. a catalyst component according to claim 6 wherein the magnesium to titanium ratio is 1:1 to 2:1.   8. a process for the polymerisation of at least one olefin carried out by means of a catalyst comprising an olefin polymerisation catalyst component according tc any preceding claim arid an organo aluminium component selected from an aluminium trialkyl, an aluminium alkyl halide having an alkyl to halogen ratio of at least 1:1, and a mixture thereof.   9. a process according tc claim 8 wherein the alkyl groups in the organo aluminium component have from 1 to 10 carbon atoms.   10. a process according to claim 8 or claim 9 wherein ethylene is homopolymerised.  
+</CLAIMS>
+</TEXT>
+</DOC>

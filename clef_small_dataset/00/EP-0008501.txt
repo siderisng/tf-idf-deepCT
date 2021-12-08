@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008501
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-1/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+power supply circuit for a data processor.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated <sep>western electric company, incorporated222 broadwaynew york, ny 10038 us  <sep>
+</APPLICANT>
+<INVENTOR>
+christian ronald wayneus<sep>kutzavitch walter georgeus<sep>christian, ronald wayne<sep>kutzavitch, walter george<sep>christian, ronald wayne7276 cherokee driveindianapolis, indiana 46236us<sep>kutzavitch, walter george6621 twinbrooks driveindianapolis, indiana 46227us<sep>
+</INVENTOR>
+<ABSTRACT>
+in order to extend battery life when batteries are used and  to conserve energy when commercial power is used, it is  highly desirable that power not be applied to a data processor  when it is not operating.  a power supply in accordance with  the present invention includes a power-up and supply subcir­ cuit (100) that applies power to an associated data processor  (500) when a data input circuit (700) is operated to select a  particular operation of the processor.  ideally, when the pro­ cessor completes its operation, it provides an output signal to  a power-down subcircuit (200) of the power supply which  then removes power from the processor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

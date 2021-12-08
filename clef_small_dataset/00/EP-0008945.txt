@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008945
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-71/60 B01D-71/00 B01D-71/82 B01D-71/44 B01D-71/40 C08G-85/00 C08J-9/28 B01D-69/00 B01D-69/12 C08J-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semipermeable composite membrane, process for producing said membrane, and method of desalination using said membrane
+</TITLE>
+<APPLICANT>
+teijin ltdjp<sep>teijin limited  <sep>teijin limited11 minami honmachi 1-chome higashi-kuosaka-shi osaka-fujp<sep>
+</APPLICANT>
+<INVENTOR>
+hara shigeyoshijp<sep>hayashi yuzurujp<sep>kawaguchi takeyukijp<sep>minematsu hiroyoshijp<sep>sasaki noriakijp<sep>taketani yutakajp<sep>hara, shigeyoshi<sep>hayashi, yuzuru<sep>kawaguchi, takeyuki<sep>minematsu hiroyoshi<sep>sasaki, noriaki<sep>taketani, yutaka<sep>hara, shigeyoshi1-40 yamate-cho 3-chomeiwakuni-shi yamaguchi-ken 740jp<sep>hayashi, yuzuru1-23, yamate-cho 3-chomeiwakuni-shi yamaguchi-ken 740jp<sep>kawaguchi, takeyuki28-5, ozu-cho 1-chomeiwakuni-shi yamaguchi-ken 740jp<sep>minematsu hiroyoshi28-5, ozu-cho 1-chomeiwakuni-shi yamaguchi-ken 740jp<sep>sasaki, noriaki9-2, yamate-cho 2-chomeiwakuni-shi yamaguchi-ken 740jp<sep>taketani, yutaka10-10, iwakuni 3-chomeiwakuni-shi yamaguchi-ken 741jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semipermeable composite membrane comprising a  thin semipermeable film of a polymeric material deposited  on one side of a microporous substrate, said polymeric mat­ erial being prepared by crosslinking a soluble polymer con­ taining et least 30 mole% of a recurring unit of the formula    wherein all symbols are as defined in claim 1 and having  at least 0. 2 milliequivalent, per gram of said polymer, of an  amino group containing 1 to 2 active hydrogen atoms, with a  polyfunctional compound containing at least two functional  groups capable of reacting with the amino group having 1 or  2 active hydrogen atoms; and a process for preparing the  same.  the semipermeable composite membrane of this  invention is especially useful for desalination of saline or  brackish water by reverse osmosis.  the membrane has good  selective permeability characteristics and good chemical  resistance and thermal stability.  
+</ABSTRACT>
+</TEXT>
+</DOC>

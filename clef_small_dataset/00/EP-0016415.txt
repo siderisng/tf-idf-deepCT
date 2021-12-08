@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016415
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-18/31 <main>G01N-27/26</main> G01N-31/16 C23C-18/40 G01N-27/416 C23C-3/02 G01N-27/26 G01J-1/18 G01N-21/27 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for measurement and regulation of the concentration of copper, formaldehyde and sodiumhydroxide in an electroless copper deposition bath and sampling apparatus for use in this method.
+</TITLE>
+<APPLICANT>
+siemens agde   <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+de steur hubert<sep>heyneman guido<sep>vandenbossche chris dipl-chem<sep>vanhumbeeck jacky dr<sep>de steur, hubert<sep>heyneman, guido<sep>vandenbossche, chris, dipl.-chem.<sep>vanhumbeeck, jacky, dr.<sep>de steur, hubertspoorwegstraat 11b-9810 drongenbe<sep>heyneman, guido8-meilaan 48b-8300 knokkebe<sep>vandenbossche, chris, dipl.-chem.gebuurtestraat 8b-9710 zwijnaardebe<sep>vanhumbeeck, jacky, dr.abdijbekestraat 73b-8200 brugge 2be<sep>de steur, hubert <sep>heyneman, guido<sep>vandenbossche, chris, dipl.-chem.  <sep>vanhumbeeck, jacky, dr.<sep>de steur, hubertspoorwegstraat 11b-9810 drongenbe<sep>heyneman, guido8-meilaan 48b-8300 knokkebe<sep>vandenbossche, chris, dipl.-chem.gebuurtestraat 8b-9710 zwijnaardebe<sep>vanhumbeeck, jacky, dr.abdijbekestraat 73b-8200 brugge 2be<sep>
+</INVENTOR>
+<ABSTRACT>
+Bath guidance device for a bath (1) for the electroless deposition of copper, wherein in addition to a copper salt, at least formaldehyde and sodium hydroxide solutions are used as other components.The concentrations of each component should be regulated to constant values.This is done by removing a sample for each of said components (2) and diluted them with a certain amount of water, then independently of each other, the copper ion concentration (CCU) by colorimetry (6-12), the sodium leach concentration (NaOH) by potentiometric (16-20) and the formaldehyde concentration (CCH₂O) are determined by amperometric titration (26-32).
+</ABSTRACT>
+</TEXT>
+</DOC>

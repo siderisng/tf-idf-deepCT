@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015764
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-19/20 H02K-37/08 H02K-37/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+floppy disc drive assembly.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>
+</APPLICANT>
+<INVENTOR>
+hoffman paul russellus<sep>hoffman, paul russell<sep>hoffman, paul russell105 glendale roadexton pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a floppy disc drive assembly with direct disc rotational  drive, comprises (a) a step motor having a plurality of pole  pairs with coils (55) and pole pieces (53), the latter being  fabricated at predetermined locations from the base (50) of  the drive housing and (b) a disc armature (62) having radial  webs (64) and rotatably mounted in bearing (60, 61) on base  (50) so that pairs of radial webs (64) align one pair at a time  with successive ones of successively energized pole pairs  (53, 55).  in this manner an efficient and compact assembly is  formed.  means are provided which enable clutch to engage  a floppy disc with a disc drive ring 68 only when the floppy  disc is properly seated within the assembly.  
+</ABSTRACT>
+</TEXT>
+</DOC>

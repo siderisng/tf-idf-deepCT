@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005953
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-9/02 H03H-9/25 G10K-11/00 H03H-9/00 H03H-3/00 H01L-41/04 H03H-3/08 G10K-11/36 <main>H03H-3/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+surface acoustic wave devices.
+</TITLE>
+<APPLICANT>
+secr defence britgb<sep>the secretary of state for defence in her britannic majesty's government of the united kingdom of great britain and<sep>secretary of state for defence in her britannic majesty's gov. of the united kingdom of great britain and northern irelandwhitehalllondon sw1a 2hbgb<sep>the secretary of state for defence in her britannic majesty's government of the united kingdom of great britain and<sep>
+</APPLICANT>
+<INVENTOR>
+lewis meirion francis<sep>lewis, meirion francis<sep>lewis, meirion francis34 arosa drive malvernhereford worcestergb<sep>lewis, meirion francis<sep>lewis, meirion francis34 arosa drive malvernhereford worcestergb<sep>
+</INVENTOR>
+<ABSTRACT>
+a surface acoustic wave device comprises a quartz  substrate having a flat surface (7,8) carrying one or more  transducers for lauching and receiving surface acoustic  waves along a track (k1, k2) in the flat surface.  the flat surface lies in a plane rotated about a y axis by  plus or minus 41° to 47° from the z plane and the track is  aligned 61° to 67° from the y axis.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001229
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B61L-25/04</main> B61L-3/00 B61L-23/00 B61L-25/04 B61L-25/00 B65G-47/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system for directing conveying devices to a maintenance station.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+ahr dieter<sep>ahr, dieter<sep>ahr, dieterzinsweilerweg 25d-1000 berlin 37de<sep>ahr, dieter<sep>ahr, dieterzinsweilerweg 25d-1000 berlin 37de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a conveyor system with maintenance carriage and a maintenance station arranged at a central location of the route network formed from profile rails.By means of a scanning and control device, the delivery trolleys to be maintained are passed to the maintenance station and provided there after maintenance after maintenance with a samplable maintenance indicator characterizing the maintenance period.
+</ABSTRACT>
+</TEXT>
+</DOC>

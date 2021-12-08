@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017271
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23Q-1/25 B24B-3/00 B24B-3/02 B23F-23/12 B23Q-1/00 <main>B24B-3/02</main> B24B-41/06 B23F-23/00 B23Q-1/54 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for holding cutters of a gear cutting machine on a grinding machine.
+</TITLE>
+<APPLICANT>
+oerlikon buehrle agch<sep>werkzeugmaschinenfabrik oerlikon-buhrle ag<sep>werkzeugmaschinenfabrik oerlikon-bührle agbirchstrasse 155ch-8050 zürichch<sep>werkzeugmaschinenfabrik oerlikon-buhrle ag  <sep>
+</APPLICANT>
+<INVENTOR>
+kotthaus erich<sep>spiess hans jurg<sep>kotthaus, erich<sep>spiess, hans jurg<sep>kotthaus, erichschmittenackerstrasse 18ch-8304 wallisellench<sep>spiess, hans jürggeorg kempf-strasse 6ch-8046 zürichch<sep>kotthaus, erich<sep>spiess, hans jurg<sep>kotthaus, erichschmittenackerstrasse 18ch-8304 wallisellench<sep>spiess, hans jürggeorg kempf-strasse 6ch-8046 zürichch<sep>
+</INVENTOR>
+<ABSTRACT>
+Clamping device (1) wherein the knives (8) for grinding in a knife head (7) remain inserted.This is rotatable in the clamping device (1) about a knife head axis (12), as well as a pivot axis (15) pivotally arranged.In order to provide a clamping device (1) which has compacker outer mass and when adjusting the blades (8) has little moving freedom, as well as a good adjustment accuracy, the pivot axis (15) for knife head axis (12) is inclined by a pointing angle δ suchand arranged that the smallest distance between the pivot axis (15) and knife head axis (12) is outside the clamping device.
+</ABSTRACT>
+</TEXT>
+</DOC>

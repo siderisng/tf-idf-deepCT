@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000384
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-1/18 H01L-23/64 H01L-23/02 H01L-23/12 H05K-1/16 H01L-23/52 <main>H01L-23/56</main> H01L-23/58 H01L-25/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+arrangement for packing high-speed integrated circuits, including decoupling capacitors for the power input terminals, and method for realizing it.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+doo ven young<sep>doo, ven young<sep>doo, ven young5 saddle rock drivepoughkeepsie, n.y. 12603us<sep>doo, ven young<sep>doo, ven young5 saddle rock drivepoughkeepsie, n.y. 12603us<sep>
+</INVENTOR>
+<ABSTRACT>
+In an arrangement for packing rapidly switching monolithically integrated semiconductor circuits, decoupling capacitors are provided for the connection points for the power supply of the semiconductor platelet. These reduce the inductance of the power supply lines. As a result, the voltage fluctuations occurring during the switching of the semiconductor devices in the power supply lines, which act as noise voltages, are reduced, since their size also depends on the size of the inductance of the power supply lines. For effective reduction in the noise voltages, however, inductor-poor decoupling coders are required. These are obtained by the fact that the decoupling capacitors in the holes of a semiconductor tape receiving substrate plate of dielectric material provided for the supply of the supply voltage to the semiconductor tile. The preparation of the decoupling capacitors takes place by method steps which are compatible with the production of the substrate. The perforated walls are provided with a first metal layer (27), which is partially anodized to form a dielectric (28) via it. Subsequently, the holes are filled with metal (40) and the substrate plate is provided with conductor caps which contact the capacitors.
+</ABSTRACT>
+</TEXT>
+</DOC>

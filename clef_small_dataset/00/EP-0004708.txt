@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004708
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01R-13/635</main> H05K-7/10 H01L-23/32 H01R-13/639 H01R-13/633 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical connector with ejector mechanism.
+</TITLE>
+<APPLICANT>
+amp incus <sep>amp incorporated <sep>amp incorporated (a new jersey corporation) p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>amp incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+bright edward john<sep>cherian gabriel boutros<sep>scheingold william samuel<sep>bright, edward john<sep>cherian, gabriel boutros<sep>scheingold, william samuel<sep>bright, edward johnr.d. no. 1, box 8celizabethtown pennsylvaniaus<sep>cherian, gabriel boutros4200 livingstone driveyork pennsylvaniaus<sep>scheingold, william samuelr.d. no. 1, box 260-apalmyra pennsylvaniaus<sep>bright, edward john<sep>cherian, gabriel boutros <sep>scheingold, william samuel  <sep>bright, edward johnr.d. no. 1, box 8celizabethtown pennsylvaniaus<sep>cherian, gabriel boutros4200 livingstone driveyork pennsylvaniaus<sep>scheingold, william samuelr.d. no. 1, box 260-apalmyra pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrical connector, for use in establishing electrical  connections to an electronic device, comprising a body (1) of  electrically insulating material carrying a plurality of electrical  contacts arranged to establish connections to a plurality of  contacts on an electronic device mounted on the connector,  respectively, includes an elongate spring member (13)  mounted on the body (1) at a position to underlie an  electronic device when mounted on the connector, and  means (7, 8) to cause the spring member (13) to bow away  from the body (1) thereby to urge an electronic device  mounted on the connector away from the connector.  
+</ABSTRACT>
+</TEXT>
+</DOC>

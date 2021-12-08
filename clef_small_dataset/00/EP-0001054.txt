@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001054
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-401/14 C07D-401/04 C07D-471/00 A61P-9/00 C07D-405/00 A61K-31/443 A61P-9/12 A61K-31/4427 C07D-471/04 A61K-31/445 C07D-401/00 C07D-405/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-pyridyl-1,4-dihydropyridine derivatives, methods for their preparation and their pharmaceutical use
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+bossert friedrichde<sep>heise arendde<sep>kazda stanislavde<sep>klauke erichde<sep>meyer horstde<sep>stoepel kurt de <sep>towart robertsonde<sep>wehinger egbertde<sep>bossert, friedrich<sep>heise, arend<sep>kazda, stanislav<sep>klauke, erich<sep>meyer, horst<sep>stoepel, kurt<sep>towart, robertson<sep>wehinger, egbert<sep>bossert, friedrichclaudiusweg 7d-5600 wuppertal 1de<sep>heise, arendmöbeck 50d-5600 wuppertal 1de<sep>kazda, stanislavpahlkestrasse 55 nd-5600 wuppertal 1de<sep>klauke, ericheichendorffweg 8d-5068 odenthalde<sep>meyer, horsttheodor-heuss-strasse 110d-5600 wuppertal-1de<sep>stoepel, kurtin den birken 69d-5600 wuppertal-1de<sep>towart, robertsonclaudiusweg 9d-5600 wuppertal-1de<sep>wehinger, egbertdonnenbergerstrasse 90d-5620 velbert 15de<sep>
+</INVENTOR>
+<ABSTRACT>
+the 2-pyridyl-1,4-dihydropyridines are used as pharmaceuticals, preferably as agents influencing vessels, especially as coronary agents. 
+</ABSTRACT>
+</TEXT>
+</DOC>

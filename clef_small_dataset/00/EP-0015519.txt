@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015519
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/532 <main>G01N-33/54</main> G01N-33/536 G01N-33/537 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for immunological analysis.
+</TITLE>
+<APPLICANT>
+fuji photo film co ltdjp<sep>fuji photo film co., ltd.<sep>fuji photo film co., ltd.210 nakanuma minami-ashigara-shikanagawa 250-01jp<sep>fuji photo film co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+hiratsuka nobuo c o fuji photo <sep>ikeda tadashi c o fuji photo f<sep>masuda nobuhito c o fuji photo  <sep>mihara yuji c o fuji photo fil<sep>miyazako takushi c o fuji phot<sep>hiratsuka, nobuo c/o fuji photo film co.ltd.<sep>ikeda, tadashi c/o fuji photo film co. ltd.<sep>masuda, nobuhito c/o fuji photo film co.ltd.<sep>mihara, yuji c/o fuji photo film co.ltd.<sep>miyazako, takushi c/o fuji photo film co.,ltd.<sep>hiratsuka, nobuo c/o fuji photo film co.ltd.26-30, nishi-azabu 2-chome minatokutokyojp<sep>ikeda, tadashi c/o fuji photo film co. ltd.210, nakanuma minami-ashigarashikanagawajp<sep>masuda, nobuhito c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashikanagawajp<sep>mihara, yuji c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashikanagawajp<sep>miyazako, takushi c/o fuji photo film co.,ltd.26-30, nishi-azabu 2-chome minatokutokyojp<sep>hiratsuka, nobuo c/o fuji photo film co.ltd.<sep>ikeda, tadashi c/o fuji photo film co. ltd.<sep>masuda, nobuhito c/o fuji photo film co.ltd.<sep>mihara, yuji c/o fuji photo film co.ltd. <sep>miyazako, takushi c/o fuji photo film co.,ltd.<sep>hiratsuka, nobuo c/o fuji photo film co.ltd. 26-30, nishi-azabu 2-chome minatoku tokyo jp <sep>ikeda, tadashi c/o fuji photo film co. ltd.210, nakanuma minami-ashigarashikanagawajp<sep>masuda, nobuhito c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashikanagawajp<sep>mihara, yuji c/o fuji photo film co.ltd.210, nakanuma minami-ashigarashikanagawajp<sep>miyazako, takushi c/o fuji photo film co.,ltd.26-30, nishi-azabu 2-chome minatokutokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+method for immunological analysis of a trace com­ ponent(s) by labelling an antigen or antibody with a marker  comprising causing an immune reaction using an antigen  or antibody labelled with a spectral sensitizer as a marker,  separating the labeled antigen or antibody from the result­ ing antigen-antibody reaction product, then bringing either  the labelled antigen or antibody and the labelled antigen-­ antibody reaction product into contact with a silver halide,  exposing the resulting system to light having a wavelength  which the spectral sensitizer absorbs, developing the thus  exposed silver halide and then measuring the resulting  density.  trace components can thus be photochemically de­ tected and the amount present quantitatively determined.   the method provides high reproducibility and high sensiti­ vity comparable to radioimmunoassay but without any risk  of radiation exposure.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009542
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-38/08 H01F-38/00 B23K-9/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnet coil for welding with magnetically moved arc.
+</TITLE>
+<APPLICANT>
+karlsruhe augsburg iwekade<sep>industrie-werke karlsruhe augsburg aktiengesellschaft zweigniederlassung keller & knappich<sep>industrie-werke karlsruhe augsburg aktiengesellschaft zweigniederlassung keller &amp; knappichzugspitzstrasse 140d-8900 augsburgde<sep>
+</APPLICANT>
+<INVENTOR>
+altstetter manfred ing-gradde<sep>ganowski franz-josef dipl-ing de<sep>mazac karel dipl-ing de  <sep>pache norbertde<sep>altstetter, manfred, ing.-grad.<sep>ganowski, franz-josef, dipl.-ing.<sep>mazac, karel, dipl.-ing.<sep>pache, norbert<sep>altstetter, manfred, ing.-grad.amselweg 12d-8901 wulfertshausende<sep>ganowski, franz-josef, dipl.-ing.haus nr. 46d-8901 maingründelde<sep>mazac, karel, dipl.-ing.nebelhornstrasse 2d-8900 augsburgde<sep>pache, norbertzumarshauser weg71d-8900 augsburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+a magnet coil (7, 8) for using when welding with a magnetically moved arc, and in fact for welding with an arc moved between an auxiliary electrode (6) and a bead-like path (5) of a welding-edge seam, is improved by a coil core (7) adapted to the contours of the workpieces (3, 4) being slipped over these workpieces, a magnetic field (bl) directed perpendicularly to the welding plane being produced as a result of the applied coil winding.  the magnet coil (7, 8) serves to increase the range of application of welding with a magnetically moved arc, and in fact in particular with regard to greater wall thicknesses. 
+</ABSTRACT>
+<DESCRIPTION>
+magnetspule für das mbl-schweissen die vorliegende erfindung bezieht sich auf eine magnetspule zur anwendung beim nbl-schweissen insbesondere geschlossener konturen mit in der ebene zwischen einer nicht ab schmelzenden hilfselektrode und einer wulstartigen schweisskantennahtbahn bewegtem lichtbogen. das schweissen mit magnetisch bewegtem lichtbogen (mbl schweissen) ist ein verfahren, auf dessen basis bereits erste vollautomatische produktionsmaschinen arbeiten und ihre bewährungsprobe bestanden haben. es stellt eine sinnvolle ergänzung des abbrenn-, stumpf-, rollennaht-, wig-, mig-, mag- und reibstumpfschweissens dar und wird meist zum schweissen von rohren oder werkstücken mit rohrförmigem ansatz verwendet. diese teile müssen jedoch nicht drehsymmetrisch sein. das ziel einer optimalen investition, minimaler aufwand bei grösstem wirtschaftlichen nutzen, kann nur erreicht werden, wenn das neue verfahren eingebettet in die anderen oben erwähnten techniken gesehen wird. seine vorteile sind eindeutig. sie sind sowohl wirtschaftlicher als auch schweisstechnischer natur und stellen eine synthese der bisher bekannten vorteile des widerstand lichtbogen- und reibschweissens dar. die zwei grundsätzlich möglichen anordnungen beim schweissen mit magnetisch bewegtem lichtbogen sind: a) das schweissen mit einem sich bewegenden lichtbogen zwischen den zu verbindenden werkstücken. b) das schweissen mit einem zwischen einer nicht abschmel zenden hilfselektrode und den werkstücken sich bewe genden lichtbogen. die physikalischen grundlagen für das wandern bzw. rotieren des lichtbogens um die stirnfläche der werkstücke finden sich in den elektrotechnischen grundgesetzen. hiernach wird jeder stromfluss von einem magnetfeld begleitet, wobei aus gründen der symmetrie diese magnetischen feldlinien bei einem rundleiter konzentrische kreise bilden. im falle des stromflusses in einem lichtbogen kann dieser näherungsweise ebenfalls als rundleiter betrachtet werden. befindet er sich in einem zusätzlichen staionären magnetfeld, so überlagern sich dessen feldlinien mit denen des lichtbogens. da einerseits die magnetischen feldlinien aus energetischen gründen stets das bestreben haben sich zu verkürzen und andererseits das zusätzliche magnetfeld örtlich fest liegt, wirkt auf den lichtbogen eine magnetische kraft. die richtung dieser kraft ist mittels der sogenannten dreifingerregel der linken hand auffindbar. das grundprinzip des schweissens mit magnetisch bewegtem lichtbogen, und zwar eines zwischen einer nicht abschmelzenden hilfselektrode und den werkstücken bewegtem lichtbogen ist in fig. 1 dargestellt. nach dem zünden des lichtbogens zwischen den werkstücken 1 und der hilfselektrode 2 bewirkt die wechselwirkung zwischen dem lichtbogenstrom il und einem magnetfeld bl eine kraft fl, die eine rotation rl des lichtbogens verursacht. zur erzeugung des stationären magnetfeldes ist es aus der deutschen patentschrift 23 21 070 bekannt, eine mehrzahl gleichpoliger einzelmagnete in der schweissebene anzuordnen. aus dieser patentschrift ist es auch bereits bekannt, das magnetfeld der einzelnen magnete in einem die geschlossene schweisskantennahtbahn umgebenden magnetisierbaren ring zu vereinigen. diese art und weise der magnetfelderzeugung findet bei beiden obengenannten prinzipiellen anordnungen anwendung. während nun jedoch beim schweissen mit einem sich zwischen den zu verbindenden werkstücken bewegenden lichtbogen auf grund der dabei erforderlichen magnetfeldrichtung die wirksame feldstärke ausreichend ist, genügt das mit der für das mbl-schweissen bekannten anordnung der magnetspulen erreichbare feld bei der oben unter b) genannten anordnung nicht. mit den bekannten magnetspulen ist das erforderliche, senkrecht zum lichtbogen stehende# magnetfeld relativ schwach und kann, da es sich nur um streufeldkomponenten handelt, nicht im
+</DESCRIPTION>
+<CLAIMS>
+   p a t e n t a n 5 p r u c h      magnetspule zur anwendung beim mbl-schweissen insbesondere geschlossener konturen mit in der ebene zwischen einer nicht abschmelzenden hilfselektrode und einer wulstartigen schweisskantennahtbahn bewegtem lichtbogen, dadurch gekennzeichnet, dass ein hinsichtlich der form und abmessungen den zu schweissenden werkstücken entsprechender spulenkern vorgesehen ist, der derart mit einer wicklung versehen ist, dass die magnetspule senkrecht zur ebene des lichtbogens unmittelbar an diese ebene heranführbar ist und ein senkrecht zu dieser ebene gerichtetes magnetfeld entsteht.  
+</CLAIMS>
+</TEXT>
+</DOC>

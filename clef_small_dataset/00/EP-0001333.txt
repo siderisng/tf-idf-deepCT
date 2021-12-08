@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001333
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-503/00 C07D-205/085 A61P-31/00 C07C-271/00 A61K-31/545 <main>C07D-498/04</main> A61K-31/43 C07C-271/22 A61K-31/42 C07D-205/00 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+clavulanic acid derivatives, their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+beecham group ltdgb <sep>beecham group limited<sep>beecham group plc beecham house, great west road brentford, middlesex tw8 9bd gb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+howarth thomas trefor<sep>hunt eric<sep>howarth, thomas trefor<sep>hunt, eric<sep>howarth, thomas trefor22 downswood carlton roadreigate surreygb<sep>hunt, eric10 the avenuebrockham betchworth surreygb<sep>howarth, thomas trefor<sep>hunt, eric<sep>howarth, thomas trefor22 downswood carlton roadreigate surreygb<sep>hunt, eric10 the avenuebrockham betchworth surreygb<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention provides the compounds of the formula  (i):    and salts and esters thereof, wherein r₁ is a hydrogen atom or  a lower alkyl, aryl or aralkyl group, r₂ and r₃ are independently  hydrogen, aryl, aralkyl, lower alkyl or substituted lower  alkyl, or r₃ is joined to r₁ to form a 4-, 5-, or 6- membered ring  or is joined to r₂ to form a 5- or 6- membered ring.  the compounds have β-lactamase inhibitory and antibacterial  properties.  the invention also provides a process for their preparation,  and pharmaceutical compositions containing them.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015019
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22C-11/08 C22C-11/00 H01M-4/68 H01M-4/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+low antimony content lead alloy.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde<sep>metallgesellschaft ag<sep>metallgesellschaft agpostfach 10 15 01, reuterweg 14d-60015 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+heubner ulrich drde<sep>nann eberhard drde<sep>heubner, ulrich, dr.<sep>nann, eberhard, dr.<sep>heubner, ulrich, dr.gartenfeldstrasse 69dd-638 bad homburg v.d.h.de<sep>nann, eberhard, dr.schmückersweg 2d-4770 soest-deiringsende<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to connect with antimonymous lead alloys for mass carrier grids of lead batteries maintenance freedom, self-terminated power security, cycle strength and good processability in the optimum manner with each other, the lead alloy contains 0.05 to 1.5% antimony.
+</ABSTRACT>
+</TEXT>
+</DOC>

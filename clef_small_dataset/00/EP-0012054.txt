@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012054
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-23/18 G21K-1/00 H05H-7/14 H05H-7/00 <main>G21K-1/08</main> G21K-1/08 H05H-7/08 H05H-7/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ion beam bundling device with two acceleration intervals of differing lengths, working in a broad range of speeds.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel  <sep>
+</APPLICANT>
+<INVENTOR>
+pottier jacques<sep>pottier, jacques<sep>pottier, jacques50 rue de châteaufortf-91400 orsayfr<sep>pottier, jacques<sep>pottier, jacques50 rue de châteaufortf-91400 orsayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+ion beam unbundler, comprising DUX intervals (I₁, I₂) defined by a sliding tube (22) and input ducts (20) and outlet (24), highly disymetric, theOne of the Dux intervals offering the ion beam an electric field very lower than the other interval, the action exerted in said interval by the electric field on the ions is then negligible before that exerted in theAnother interval.Application to ion acceleration facilities.
+</ABSTRACT>
+</TEXT>
+</DOC>

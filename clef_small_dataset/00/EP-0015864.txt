@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015864
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01R-27/02</main> H02H-7/26 G01R-27/26 H02H-3/40 G01R-27/16 G01R-27/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for the determination of the reactance of a power transmission line in the case of a short circuit.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+born eckhard dipl-phys<sep>schaale jorg dipl-ing<sep>born, eckhard, dipl.-phys.<sep>schaale, jorg, dipl.-ing.<sep>born, eckhard, dipl.-phys.potsdamer chaussee 48 bd-1000 berlin 38de<sep>schaale, jörg, dipl.-ing.remscheider strasse 30d-1000 berlin 20de<sep>born, eckhard, dipl.-phys. <sep>schaale, jorg, dipl.-ing.<sep>born, eckhard, dipl.-phys.potsdamer chaussee 48 bd-1000 berlin 38de<sep>schaale, jörg, dipl.-ing.remscheider strasse 30d-1000 berlin 20de<sep>
+</INVENTOR>
+<ABSTRACT>
+A circuit arrangement for determining the reactance of a power transmission line is specified in the short terminal.In order to be able to carry out this determination in a very short time, the scarf device assembly in the present invention contains a phase rotating device (2), in which a measuring size (12) of this approximately one of the phase difference between current and voltage in metallic short conclusion corresponding phase angles lead the phase angleAuxiliary measuring size () is formed.Over switches (4, 5), an evaluation arrangement (8) for the phase angle and an arrangement for maximum value storage (12) of the measured sizes (,) can be connected.The two arrangements (8, 12) a computing arrangement (29) is downstream.The circuit arrangement is particularly suitable for use as Feh Lerorter.
+</ABSTRACT>
+</TEXT>
+</DOC>

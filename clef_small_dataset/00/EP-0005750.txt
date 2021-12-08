@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005750
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/027 G03F-7/035 C08G-18/67 C08G-18/00 C08G-18/73 G03F-7/032 C08F-299/00 C08F-290/00 C08F-20/22 H01L-21/02 G03F-7/004 C08F-2/46 H01L-21/027 C08F-2/48 H05K-3/00 G03C-1/68 <main>G03F-7/10</main> C08F-2/00 C08F-299/06 C08F-20/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photopolymerisable mixture and light-sensitive coating material.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+faust raimund josef dr ing dip<sep>faust, raimund josef, dr. ing. dipl.-chem.<sep>faust, raimund josef, dr. ing. dipl.-chem.adolf-todt-strasse 5d-6200 wiesbadende<sep>faust, raimund josef, dr. ing. dipl.-chem.<sep>faust, raimund josef, dr. ing. dipl.-chem.adolf-todt-strasse 5d-6200 wiesbadende<sep>
+</INVENTOR>
+<ABSTRACT>
+Photopolymerizable mixtures of alkali-soluble binders, monomers and photoinitiators are described as monomers of polyurethanes of formula I CH₂ = C-COO-Z-CONH-Y (NHCOO-X-CONH-Y) N-, where Y is a saturatedaliphatic or cycloaliphatic radical with 2 to 12 carbon atoms, R₁, R₂ and R₃ hydrogen atoms or methyl groups, n a number of 2 to 15, m a number of 2 to 4, p a number of 1 to 4, k a number of 2 to 12, R is a number of 4 to 12.The mixtures are preferably used for the production of dry resist materials.The layers have good flexibility, good adhesion to copper and low cold flow.
+</ABSTRACT>
+</TEXT>
+</DOC>

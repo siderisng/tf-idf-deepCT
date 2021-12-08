@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001111
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29D-7/02 B29C-47/92 <main>B29D-7/24</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for manufacturing blown films.
+</TITLE>
+<APPLICANT>
+pannenbecker h<sep>pannenbecker, heinrich<sep>pannenbecker, heinrichminnekenstege 73d-46569 hünxede<sep>pannenbecker, heinrich <sep>
+</APPLICANT>
+<INVENTOR>
+pannenbecker heinrich<sep>pannenbecker, heinrich<sep>pannenbecker, heinrichminnekenstege 73d-46569 hünxede<sep>pannenbecker, heinrich <sep>pannenbecker, heinrich minnekenstege 73 d-46569 hünxede<sep>
+</INVENTOR>
+<ABSTRACT>
+Method and apparatus for blowing film preparation in which the shape of the foil hose (15) is monitored by sensors (36, 44) arranged at certain locations where deviations of the selector shape (15) from the ideal form to significant differences in the quality of the generatedFoil tubing or even for the tearout of the foil hose.The output signals of the sensors can be used to control various process parameters.
+</ABSTRACT>
+</TEXT>
+</DOC>

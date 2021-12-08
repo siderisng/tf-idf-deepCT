@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007864
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 H03H-15/02 G10K-11/34 G01S-3/80 G01S-3/00 G10K-11/00 G01S-7/56 <main>G01S-7/52</main> G01S-3/801 G01S-7/62 H03H-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sonar beam formation by means of charge transfer devices.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+guyot joel<sep>vernet jean-louis<sep>guyot, joel<sep>vernet, jean-louis<sep>guyot, joel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>vernet, jean-louis"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>guyot, joel <sep>vernet, jean-louis<sep>guyot, joel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>vernet, jean-louis"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Training of ways for Panoramic passive Sonar by the technique of load transfer devices.The offset register (30) receives the multiplexed signals of the m transducers forming the sonar listening base.A set of racks (310. 1;...., 310. R) of the register makes it possible to obtain after summation (33. m) an interpo value of the signal of a transducer delayed precisely.The weights (al. m;..... M) perform a transverse filter.Application to a panoramic sonar having a diameter listening base greater than 1 m and having reduced secondary lobes and the diagram does not vary with the frequency.
+</ABSTRACT>
+</TEXT>
+</DOC>

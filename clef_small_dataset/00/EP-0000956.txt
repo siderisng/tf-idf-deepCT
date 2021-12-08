@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000956
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05B-6/68 G05D-22/02 G05D-22/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of cooking juiced foods in a microwave oven.
+</TITLE>
+<APPLICANT>
+litton systems incus<sep>litton systems, inc.<sep>litton systems, inc.360 north crescent drivebeverly hills california 90210-9990us<sep>
+</APPLICANT>
+<INVENTOR>
+buck ronald gus<sep>buck, ronald g.<sep>buck, ronald g.13112 thomas avenue southburnsville minnesota 55337us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of cooking juiced foods by sensing "in-situ"  humidity and temperature environmental conditions of a  microwave oven heating cavity.  the method monitors the  rate of change of the slope of the "characteristic humidity  curve" to indicate the degree or cooking of the juiced  foods.  by determining the rate of change of the slope of  the "characteristic humidity curve", the value is indicative  of the temperature level of microwave cooking of the juiced  foods and can be used to control microwave cooking of  the juiced foods.  
+</ABSTRACT>
+</TEXT>
+</DOC>

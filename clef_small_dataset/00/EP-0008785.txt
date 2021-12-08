@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008785
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-25/00 C01B-25/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for the production of phosphorus pentasulfide with a low reactivity.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde <sep>
+</APPLICANT>
+<INVENTOR>
+ebert hans drde   <sep>neumann friedrichde<sep>niermann hermann drde<sep>reichert guenterde<sep>ebert, hans, dr.<sep>neumann, friedrich<sep>niermann, hermann, dr.<sep>reichert, guenter<sep>ebert, hans, dr.von bodelschwingh weg 53d-5042 erftstadtde<sep>neumann, friedrichoststrasse 2cd-4755 holzwickedede<sep>niermann, hermann, dr.am wachberg 34d-5042 erftstadtde<sep>reichert, günter weierstrasse 26d-5303 bornheim-mertende<sep>
+</INVENTOR>
+<ABSTRACT>
+process and apparatus for preparing phosphorus pentasulphide of low reactivity by solidifying a phosphorus pentasulphide melt and cooling the solid product before grinding, by discharging the solid product at a temperature between 150 and 220 deg c from a cooling zone (1) into a thermally insulated container (4) and controlling the removal of the inherent heat of the product in such a way that its rate of cooling is not more than 30 deg c/h.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

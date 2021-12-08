@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002439
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-8/30 C08F-20/36 C08F-16/14 G03C-1/71 <main>C08F-8/30</main> C08F-8/00 G03F-7/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polymers susceptible to crosslinking on exposure to light with azidophthalimidyl-moieties, process for their preparation and their photochemical application.
+</TITLE>
+<APPLICANT>
+ciba geigy ag ch  <sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag <sep>
+</APPLICANT>
+<INVENTOR>
+berger joseph dr<sep>kvita vratislav dr<sep>zweifel hans dr<sep>berger, joseph, dr.<sep>kvita, vratislav, dr.<sep>zweifel, hans, dr.<sep>berger, joseph, dr.route des préalpes 4ch-1723 marlych<sep>kvita, vratislav, dr.st. jakobstrasse 2ch-4132 muttenzch<sep>zweifel, hans, dr.lothringerstrasse 93ch-4056 baselch<sep>berger, joseph, dr. <sep>kvita, vratislav, dr.  <sep>zweifel, hans, dr.<sep>berger, joseph, dr.route des préalpes 4ch-1723 marlych<sep>kvita, vratislav, dr.st. jakobstrasse 2ch-4132 muttenzch<sep>zweifel, hans, dr.lothringerstrasse 93ch-4056 baselch<sep>
+</INVENTOR>
+<ABSTRACT>
+The inventive polymers according to the invention have acidophthalimidyl groups, which correspond to formula I.It means Y a divalent organic residue.The preparation of these polymers is carried out either by incorporating the azidophthalimidyl grouping into an existing polymer chain or by the construction of polymer chains of monomers already containing the azidophthalimidyl grouping.Compared to corresponding photosensitive polymers of the prior art, these new polymers have the advantages that they are still photosensitive and also absorb in the long-wave UV range (over 320 nm).
+</ABSTRACT>
+</TEXT>
+</DOC>

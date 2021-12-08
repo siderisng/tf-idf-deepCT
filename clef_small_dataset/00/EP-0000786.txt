@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000786
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25D-9/00 H01F-27/10 F28D-15/02 H01L-23/34 F25B-23/00 H01F-27/18 H01L-23/427 F28D-15/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+closed type boiling cooling apparatus.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>
+</APPLICANT>
+<INVENTOR>
+okada sadayukijp<sep>sonobe hisaojp<sep>okada, sadayuki<sep>sonobe, hisao<sep>okada, sadayuki821-7 ichege katsutaibarakijp<sep>sonobe, hisao2570-18 tsuda naka-machi, naka-gunibarakijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a closed type boiling cooling apparatus for cooling a  heat generating member (10) by utilizing the latent heat of  vaporization of a boiling refrigerant (8a) comprises a cooling  vessel including an evaporator section (1) and a condenser  section (3).  a liquid refrigerant reservoir (6) is enclosed at its  upper opening portion with an expansible member (7) and is  connected with the cooling vessel by means of a condenser  pipe (5).  the cooling vessel and the condenser pipe (5) are  filled with the boiling refrigerant (8a) when no cooling operation  is performed.  when cooling operation is initiated the  boiling refrigerant (8a) is changed into gaseous state (8c) and  then led into the condenser pipe (5) which serves to liquefy  the gasified refrigerant (8a) and feed it into the liquid refrigerant  reservoir (6).  the expansible member (7) is adapted to  expand in response to the change in the amount of the liquid  refrigerant (8b) led into the reservoir (6) so that the internal  pressure of the cooling vessel can be maintained substantially  constant.  
+</ABSTRACT>
+</TEXT>
+</DOC>

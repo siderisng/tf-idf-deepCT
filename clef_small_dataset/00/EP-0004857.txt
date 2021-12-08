@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004857
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/02 C12Q-1/60 G01N-1/34 C12Q-1/54 G01N-33/96 G01N-33/48 G01N-33/04 C12Q-1/62 B01J-20/22 G01N-31/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and means for removing turbidities
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbh de  <sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>
+</APPLICANT>
+<INVENTOR>
+buschek herbertde<sep>klose sigmar drde<sep>schlumberger helmutde<sep>buschek, herbert<sep>klose, sigmar, dr.<sep>schlumberger, helmut<sep>buschek, herbertpossenhofener strasse 12d-8130 starnbergde<sep>klose, sigmar, dr.maxhöhe 17d-8131 bergde<sep>schlumberger, helmutkaiser-heinrich-strasse 23d-8121 pollingde<sep>
+</INVENTOR>
+<ABSTRACT>
+To remove turbidity in reaction mixtures troweled by sample material, in particular for photometric measurement, the reaction mixture a) one or more low molecular weight organic compounds such as aromatic alcohols or amines carrying electro-negative substituents, e.g. b. phenols or naphtholes, which are substituted with one or more halogen atoms or / and hydroxyl groups, and b) one or more also clearly soluble detergents, which with the addition a) form a less soluble complex, such as nonionic polyethylene oxide adducts or cationic detergents, in particular Alkyl, aralkyl or alkylthioets or alkyl or aralkyl esters of polyethylene oxide glycols with 8 to 22 C atoms in alkyl groups and 5 to 25 ethylene oxide units or alkyl dimethylbenzyl ammonium chloride compounds having 8 to 22 C atoms in the alkyl group, in an occurrence of a precipitation of the Complex sufficient amount is added and then further detergent is added until the precipitated complex is released again.
+</ABSTRACT>
+</TEXT>
+</DOC>

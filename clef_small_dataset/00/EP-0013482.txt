@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013482
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/522 H01L-21/768 H01L-27/08 H03K-19/003 H01L-29/66 H01L-29/78 H01L-23/52 H01L-27/085 H03K-19/0948 H01L-27/092 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+complementary metal-oxide semiconductor
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>
+</APPLICANT>
+<INVENTOR>
+baba shigenorijp<sep>kikuchi hideojp<sep>takaoka haruyoshijp<sep>baba, shigenori<sep>kikuchi, hideo<sep>takaoka, haruyoshi<sep>baba, shigenori306, shimosakunobe takatsu-kukawasaki-shi kanagawa 213jp<sep>kikuchi, hideo1528, takada-cho kohoku-kuyokohama-shi kanagawa 223jp<sep>takaoka, haruyoshi4-3, nagao 5-chome tama-kukawasaki-shi kanagawa 214jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a complementary metal-oxide semiconductor being  comprised of at least one p channel mosfet and at least one  n channel mosfet is disclosed.  in the above semiconductor,  at least one additional doped portion is formed close to at  least one of the p and n channel mosfets at a small part of  the region which is driven by the voltage supply.  the addi­ tional doped portion is directly connected to the voltage sup­ ply.  
+</ABSTRACT>
+</TEXT>
+</DOC>

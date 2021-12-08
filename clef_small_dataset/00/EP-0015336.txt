@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015336
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23G-5/06 C23C-22/78 C23G-5/00 B05D-7/14 B08B-3/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of cleaning metals.
+</TITLE>
+<APPLICANT>
+reef chemical corp ptyza <sep>reef chemical corporation (proprietary)limited <sep>reef chemical corporation (proprietary)limited 5 seller road boksburg eastboksburg, transvaalza<sep>
+</APPLICANT>
+<INVENTOR>
+dare luigiza<sep>dare, luigi<sep>dare, luigi7 waterson road parkdeneboksburg, transvaalza<sep>
+</INVENTOR>
+<ABSTRACT>
+ferrous metal parts are prepared for painting without  a prewipe, but passed through two cleaning stages prior to  phosphating.  the parts are spray cleaned in the first stage  by means of an aqueous liquid containing an alkali metal  cleaner and a solvent-emulsifier, the concentration of the  latter being several times that of the cleaner.  in the second  stage the parts are spray rinsed with a solution also con­ taining an alkali cleaner and a lesser amount of a solvent-­ emulsifier.  
+</ABSTRACT>
+<DESCRIPTION>
+metal-cleaning this invention relates to the cleaning of metals and more particularly- ferrous metals prior to the application of paint. in the automotive and appliance industries it is common practice to use a spray cleaning process to remove oil, grease and protective oils, hereinafter collectively called "soil"; from the metal surface prior to phosphating and painting. to facilitate cleaning it is common practice to prewipe the metal with a solventemulsifier combination to loosen and soften the soil. the cleaning is usually effected by sprays of a dilute alkaline metal cleaner used at ambient temperatures or above. there are usually two spray cleaning steps with the first step using a higher strength than the second. these are followed by spray rinsing to remove the residues of the cleaning solutions prior to phosphating. the latter process is very sensitive to alkali contamination, to any carry-over of solvents and to soil contamination. not all plants use a prewipe system. in some cases relatively small amounts of the prewipe solvent-emulsifier are added into the first cleaning solution to assist cleaning, but always at a low level equal or less than the concentration of the alkali metal cleaner used. it has always been feared that stch additives could carry over to contaminate the second cleaner system and not be removed to an adequate extent prior to phosphating. the present invention is based on the surprising and unexpected discovery that high level additions of solvent-emulsifier to the first or only cleaning stage, and minor additions to the second cleaning stage, if present, can be used with success and can replace prewiping entirely. accordingly, the present invention provides a method in which metal articles are sprayed in at least one cleaning stage by means of an aqueous cleaning liquid containing an alkali metal cleaner and the articles are spray rinsed prior to phosphating, wherein a solventemulsifier is added to the cleaning liquid in the first cleaning stage at a concentration which is at least twice as high as the concentration of the alkali metal.cleaner, which is present at a concentration of 1.0% or less. when there are two spray cleaning stages it is of advantage to add a small amount of solvent-emulsifier to the cleaning liquid used in the second cleaning stage. the emulsifier of the solvent-emulsifier may be nonionic, anionic or mixtures thereof. small scale tests have shown that in the first cleaning stage the solvent-emulsifier may be present in a concentration which is up to 30 times as high as the concentration of the alkali metal cleaner, without any adverse effects on the subsequent phosphating step. however, the lower the concentration of the solventemulsifier, the better are the economics. it is therefore preferred to operate using a concentration of the solvent-emulsifier which is about 2 to 3 times the concentration of the alkali metal cleaner. example in an automotive plant the practice was to use 5000of solvent-emulsifier each month and it was applied manually in a prewipe operation. the first cleaner was operated at a
+</DESCRIPTION>
+<CLAIMS>
+claims    1. a method in which metal articles are sprayed in at least one cleaning stage by means of an aqueous cleaning liquid containing an alkali metal cleaner and the articles are spray rinsed prior to phosphating, wherein a solventemulsifier is added to the cleaning liquid in the first cleaning stage at a concentration which is at least twice as high as the concentration of the alkali metal cleaner, which is present at a concentration of 1.0% or less.     2. a method as claimed in claim 1 in which there are at least two spray cleaning stages with a liquid containing an alkali metal cleaner.      * 3.    a method as claimed in claim 2 in which a small amount of a solvent-emulsifier is added to the cleaning liquid used in'the second cleaning stage.    4. a method as claimed in any of the preceding claims in which the cleaning liquid used in the first stage contains a solvent-emulsifier, at a concentration of up to 30 times   te    concentration of the alkali metal cleaner.    5. a method as claimed in any one of the preceding claims in which the cleaning liquid is sprayed at ambient temperatures.    6. a method as claimed in any one of the preceding claims in which the solvent-emulsifier contains an emulsifier which is non-ionic emulsifier an anionic emulsifier or a mixture thereof.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004096
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-35/28 B23K-1/00 <main>B23K-35/28</main> B23K-1/008 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluxless brazing of aluminum in inert gas.
+</TITLE>
+<APPLICANT>
+ford francede <sep>ford motor code   <sep>ford werke agde<sep>ford france societe anonyme<sep>ford motor company limited<sep>ford-werke aktiengesellschaft<sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>ford france societe anonyme<sep>ford motor company limited<sep>ford-werke aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+schmatz duane john<sep>winterbottom walter leon<sep>schmatz, duane john<sep>winterbottom, walter leon<sep>schmatz, duane john1335 charlesworthdearborn heights michigan 48 127us<sep>winterbottom, walter leon26360 power roadfarmington hills michigan 48 018us<sep>schmatz, duane john<sep>winterbottom, walter leon  <sep>schmatz, duane john1335 charlesworthdearborn heights michigan 48 127us<sep>winterbottom, walter leon26360 power roadfarmington hills michigan 48 018us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of brazing aluminum parts in an inert gas  atmosphere is disclosed.  the brazed filler metal is controlled  to contain a ternary alloy of aluminum-silicon-magnesium  and the base aluminum parts are controlled to contain a  binary alloy of aluminum-magnesium.  magnesium in the  base metal is controlled to 0. 4 - 1. 2% and in the filler metal it  is controlled to 0. 2 - 0. 6%; in the filler metal only silicon is  controlled to 7 - 12%.  the assembled base metal parts and  filler metal are subjected to differential heating rates, one  rate being limited to at least 50°c/minute when the metal  parts reach temperatures in the range of 400 - 550°c, and a  conventional rate when outside said temperature zone.  as a  result, three physical parameters are caused to occur simultaneously:  initiation of porosity in oxide film on the metal  parts, transport of magnesium to the oxide interface and  reaction with the oxide, and initial melting of the filler metal  as well as wettings of the oxide by the filler metal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

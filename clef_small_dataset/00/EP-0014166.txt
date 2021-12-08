@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014166
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-63/04 A61M-1/16 A61M-1/22 A61M-1/34 B01D-61/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+medical membrane apparatus for exchanging and/or separating liquids, application thereof to the treatment of blood and a blood treatment circuit comprising such an apparatus.
+</TITLE>
+<APPLICANT>
+hospal sodipfr<sep>hospal - sodip s.a.<sep>hospal - sodip s.a.7, avenue lionel terrayf-69330 meyzieufr<sep>
+</APPLICANT>
+<INVENTOR>
+calvet gerardfr<sep>luccioni alainfr<sep>calvet, gerard<sep>luccioni, alain<sep>calvet, gérard9, rue robespierref-94200 ivry-sur-seinefr<sep>luccioni, alain25, rue du docteur faguinf-69500 bronfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the apparatus comprises membranes which are generally selectively permeable and is made up of two separate zones (14, 23), one permitting exchanges between the treated fluid and an auxiliary fluid across a membrane (16), the other permitting the separation of a component from the treated fluid across a membrane (21).  these zones are passed through by the fluid to be treated either in parallel or in series.  application to an artificial kidney with simultaneous and separate treatment of the blood by haemodialysis and by ultrafiltration.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

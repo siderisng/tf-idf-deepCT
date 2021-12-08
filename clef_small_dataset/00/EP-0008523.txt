@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008523
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+E02F-9/22 F15B-13/00 F15B-13/04 <main>F15B-11/05</main> G05D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements relating to hydraulic control systems.
+</TITLE>
+<APPLICANT>
+dewandre co ltd cgb<sep>clayton dewandre company limited<sep>wabco automotive u.k. limited90 newbold roadrugby, warwickshire, cv21 2nlgb<sep>clayton dewandre company limited<sep>
+</APPLICANT>
+<INVENTOR>
+knowles james grahame<sep>knowles, james grahame<sep>knowles, james grahame10 musgraves orchardwelton, lincgb<sep>knowles, james grahame<sep>knowles, james grahame10 musgraves orchardwelton, lincgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a control system for operating a double-acting hydraulic  ram or motor including a proportional meter-out type direc­ tional control valve which meters the flow of fluid out of the  load and, in association therewith, a combined flow and pres­ sure control valve in the return line from the load.  the flow  and pressure control valve is responsive to the pressure drop  across the meter-out orifice of the directional control valve  such that return line flow is restricted at high pressure drops  and the supply pressure to the load is increased at low pres­ sure drops whereby a substantially constant pressure drop  across the meter-out orifice is maintained irrespective of the  size or direction of the load.  
+</ABSTRACT>
+</TEXT>
+</DOC>

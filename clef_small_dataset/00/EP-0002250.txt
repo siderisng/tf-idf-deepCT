@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002250
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-23/00 C08K-5/35 C08K-5/00 C08L-101/00 C08L-7/00 C08L-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for stabilization of uv sensitive plastics.
+</TITLE>
+<APPLICANT>
+goodrich co b fus<sep>the b.f. goodrich company<sep>the b.f. goodrich company500 south main streetakron, ohio 44318us<sep>
+</APPLICANT>
+<INVENTOR>
+lai john ta-yuanus<sep>lai, john ta-yuan<sep>lai, john ta-yuan663 tollis parkwaybroadview heights ohio 44147us<sep>
+</INVENTOR>
+<ABSTRACT>
+method for extending the useful life of polymers which  are sensitive to photodegradation by ultraviolet light.  in this  method, the resistance of uv sensitive polymers is enhanced  by the incorporation therein of an ultraviolet light stabilizer  effective amount of at least one compound of the formula    wherein ra, rb, rd, and re are independently selected from  the group consisting of hydrogen, alkyl of 1 to 6 carbon  atoms, cycloaklyl, and aryl; and rc is hydrogen or hydroxyalkyl.  
+</ABSTRACT>
+</TEXT>
+</DOC>

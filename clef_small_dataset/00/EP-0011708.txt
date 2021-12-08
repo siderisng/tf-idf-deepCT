@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011708
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-21/41 G01B-11/26 <main>G01B-11/30</main> G01B-11/30 G01B-11/06 G01N-21/45 G01B-9/02 G01B-11/24 G01B-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for measuring the evenness, roughness or curvature radius of an area to be measured.
+</TITLE>
+<APPLICANT>
+ibm us<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+makosch gunter<sep>solf bernhard<sep>makosch, gunter<sep>solf, bernhard<sep>makosch, günterstuttgarter strasse 40d-7032 sindelfingen 6de<sep>solf, bernhardbalinger strasse 5d-7032 sindelfingen 6de<sep>makosch, gunter <sep>solf, bernhard<sep>makosch, günterstuttgarter strasse 40d-7032 sindelfingen 6de<sep>solf, bernhardbalinger strasse 5d-7032 sindelfingen 6de<sep>
+</INVENTOR>
+<ABSTRACT>
+Two radiation components (O, EO) which differ by their polarization state or their wavelength of one of them are directed to tightly adjacent points of the measuring object (6). The reflected coming components are reused and fed to a polarisa tions or wavelength-dependent phase shifter (9) which periodically shifts the phase layers of the two components to each other by λ / 2. A phase shift caused by the measuring object (6) of a component is completely compensated by the periodic displacement of the phase position of the other component periodically at certain times, which can be determined for example by means of a downstream analyzer (10) and a photodetector (11). The sizes of the control voltage causing the periodic phase shift in the phase shifter (9) are measured at the times in which the phase difference between the two components is equal to zero. These quantities are the height difference between the occurrence points of the two radiation components (O, EO) on the object surface (6) and the inclination of the object surface proportional tional.
+</ABSTRACT>
+</TEXT>
+</DOC>

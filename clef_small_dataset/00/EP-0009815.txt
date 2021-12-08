@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009815
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-9/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for electro-gas welding sheet metal.
+</TITLE>
+<APPLICANT>
+eichhorn friedrich prof drde<sep>eichhorn, friedrich, professor dr.-ing.<sep>eichhorn, friedrich, professor dr.-ing.fichthang 2 d-52074 aachende<sep>
+</APPLICANT>
+<INVENTOR>
+hirsch peter dr de<sep>langenbahn hans-willide<sep>schaefer rolfde<sep>wuebbels bernhardde<sep>hirsch, peter, dr.<sep>langenbahn, hans-willi<sep>schaefer, rolf<sep>wuebbels, bernhard<sep>hirsch, peter, dr.schlossweiherstrasse 3-5d-5100 aachen-laurensbergde<sep>langenbahn, hans-williroermonder strasse 139d-5100 aachende<sep>schäfer, rolfam dor-ach 8d-5100 aachende<sep>wübbels, bernhardgemenwirthe 36d-4280 borken 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for electro-gas welding of sheet in which currentless filler metal in metal powder form is blown onto the welding-wire electrode.  and an apparatus for carrying out this process. 
+</ABSTRACT>
+<DESCRIPTION>
+verf ahren und vorrichtung zum elcktro- gas-schweien von blechen das elektro-gas-schweissen ist schon seit längerer zeit als mechanisiertes lichtbogenschweissverfahren unter schutzgas zum verschweissen von blechen aus metall insbesondere aus stahl in senkrechter position bekannt. dieses verfahren hat den nachteil, dass bei dem gebräuchlichen elektro-gas-schweissen nur mit relativ gerillten schweissgeschwindigkeiten gearbeitet werden ki2.n. dies führt wie bekannt wegen des geringen mristalli- sationsgeschwindigkeit zfl einem stark orientierten gefüge im schweissgut und infolge langer einwirkzeit über 1000 cinsbesondere bei stahl zu einer ausgeprägten grobkornzone in der nahtnahen wärmeeinflusszone des grundwerkstoffes rit niedrigen festigkeits- und zähigkeitseigen schaften es sind vorfahren und vorrichtungen zuru elektro-gas schweissen bekannt, bei denen die schweissgeschwindigkeit höher ist als bei dem gebräuchlichen elektro-gas-schweissen. zum beispiel wird die schweissgeschwindigkeit erhöht, indem durch eine erhöhung der stromstärke die abschmelzeistuncj üterproportional ansteigt. der nachteil hierbei ist jedoch, dass durch die starke tjberhitzung des schmelzbades die zähigkeitswerte im schweissgut absinken. auch ist bekannt, dass durfh die zufuhr von stromloseii kalt < 2raht, der durch den lichtbogen bzw. durch das flüssige schmelzbad aufgeschmolzen wird, zwar ebenfalls die ab- schmelzleistung und damit die schweissgeschwindigkeit zu steigern. jedoch das ungünstige volumen/oberflächen-ver- hältnis des kaltdrahtes lässt nur geringe vorschubgeschwindigkeiten zu. die erfindung hat es sich zur aufgabe gestellt, das gefüge der schweissverbindung zu verbessern. zu diesem zwecke wird erfindungsgemäss vorgeschlagen, bei ezektro-gas-schweissen stromloses zusatzmaterial in mjetallpulverform mittels eines gases durch ein zu führun < jsrohr auf die schweisselektrode zu blasen. durch diese erfinderische massnahme wird erreicht, dass einmal die badtemperatur erniedrigt sowie die schweissgutmenge und damit die schweissgeschwindigkeit erhöht wird. zur durchführung dieses verfahrens wird weiter erlindungs- gemäss vorgeschlagen, das stromlose zusatzmaterial in pulverform durch ein elektromagnetisch abgeschirmtes zufiihrunssrohr zu blasen, das in dem feldarmen raum einer aus lamellierten trafoblechen um den als schweissdrahtzu ±rührung dienenden kupferrüssel gebildeten abschirmung angeordnet ist. das erfindungsgemäss auf den draht geblasene metallpulver mit im verhältnis zum volumen sehr grossen oberfläche wird zusammen mit dem schweifidraht abgeschlrolzen, wodurch einmal die temperatur des schmelzbades erniedrigt und zum anderen die schweissgutmenge erhöht wird wie versuche ge zeigt haben .damit wird eine steigerung der schweissgeschwindigkeit und eine verbesserung des gefüges bzw. der zähigkeit der schweissverbindung insbesondere bei stahl err:icht. ein ausführungsbeispiel ist in der zeichnung schematisch dargestellt und wird in folgendem beschrieben: es zeigen fig.1: die schematische gesamtanordnung einer vorrichtung zum elektro-gas-schweissen in seitenansicht fig.2: einen schnitt ii - ii durch den kupferrüssel mit schweissdraht, abschirmbleche und metallpulverzu führungsrohr. die vorrichtung für die elektro-gas-scheissung besteht aus: - zwei kupferbacken 2 r.it schutzgastohrungen 5 zwischen denen die zu verschweissenden bleche 1 gleiten und die gleichzeitig zur sicherung des schmelzbades 9 dienen. zwischen dem schweissdraht 8 und dem schtr.elzbad 9 ist der lichtbogen lo schematisch dargestellt. - das metallpulverzuführungsrchr 4 auf dem rücken u-for- tilger traflleche, die den kupferrüssel 3 ganz oder tei lwei sc umgeben, befestigt und mündet kurz unterhalb des rüssel endes. - der vorschub des schweissdrahtes 8 erfolgt mittels der drahtvorschubeinrichtung 7. das metallpulver wird illit hilfe einer blas- und fordereinrichtung 6 in das zu führungsrohr 4 eingeblasen.
+</DESCRIPTION>
+<CLAIMS>
+   patentansprucile      1. verfahren zum elektro-gas-schweissen von blechen dadurch gekennzeichnet, dass stromloses zusatzmaterial in metallpulver form auf die schweissdrahtelektrode geblasen wird.   2. vorrichtung zum   elektro-gas-schweissen    von blechen nach anspruch 1    d a d u r c h    g e k e n n z e i c h n e t, dass stromloses zusatzmaterial in metallpulver form mittels eines gases durch ein elektromagne tisch abgeschirmtes zuführungsrohr geblasen wird.  
+</CLAIMS>
+</TEXT>
+</DOC>

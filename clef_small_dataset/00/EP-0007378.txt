@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0007378
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01C-17/28 <main>G01C-19/36</main> G01C-19/00 G01C-17/00 G01C-19/44 G01C-19/36 G01C-19/28 G05D-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gyroscopic method and apparatus for determining magnetic heading and attitude.
+</TITLE>
+<APPLICANT>
+cessna aircraft co us<sep>cessna aircraft company<sep>cessna aircraft company<sep>
+</APPLICANT>
+<INVENTOR>
+moore nathaniel newton<sep>moore, nathaniel, newton<sep>moore, nathaniel, newton  <sep>moore, nathaniel, newtonrd l, box 462lake hopatcong, nj 07849us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

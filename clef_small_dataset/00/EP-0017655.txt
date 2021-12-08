@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017655
+</DOCNO>
+<TEXT>
+<DATE>
+19801029
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C04B-37/02</main> C04B-37/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hermetically tight ceramic-to-metal joint.
+</TITLE>
+<APPLICANT>
+rosenthal technik ag<sep>rosenthal technik ag<sep>rosenthal technik agpostfach 1508 wittelsbacherstrasse 49d-8672 selb/bayernde<sep>rosenthal technik ag <sep>
+</APPLICANT>
+<INVENTOR>
+pickel helmut<sep>pickel helmut<sep>pickel helmutsiegfriedstrasse 39d-8560 lauf/pegnitzde<sep>pickel helmut <sep>pickel helmutsiegfriedstrasse 39d-8560 lauf/pegnitzde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  hermetically tight ceramic-metal connection with high strength, in which the components of metal or metal alloys and ceramic, preferably aluminium oxide, are connected together in the manner of butt soldering, characterised in that multiple solderings (5) in series are undertaken of the flanges (6) of hollow sectional metal bodies (3) open at one side, at the place of connection to the metallised ceramic component (2). 
+</ABSTRACT>
+<DESCRIPTION>
+hermetisch dichte keramik- metall-verbindung die erfindung betrifft eine hermetisch dichte keramik- metall verbindung mit hoher festigkeit, wobei insbesondere ringförmige teile aus metall und kerumik, vorzugsweise aluminium- oxid, durch stumpflötung verbunden sind, in dom die betreffenden keramikflächen in üblicher weise metallisiert sind und durch ein eingefügtes lot, insbesondere @artlot, mit dem betreffenden metallteil durch erhitzen in einer schutzgesatmosphäre oder in vakuum zusaengefügt sind. eine solche kramik-metall-verbindungs technik erweist sich als giinstig fiir gehäuse von iiochleistungs- senderöhren, vakuum-leistungsschalter und vakuumkondensatoren, an deren betriebssicherheit hohe anforderungen gestellt werden für elektronische bauelemente dieser art wird eine hermetische und eine hohe festigkeit aufweisende verbindung zwischen keramik und metall bzw. einem weiteren metallisierten keramikteil verlangt. ausserdem treten während des betriebes solcher elektronischen bauelemente erhöhte temperaturen auf, die zu hohen mechanischen spannungen zwischen der keramik und dem metall führen. bedingt durch die tatsache, dass die verwendeten metalle einen stark unterschiedlichen ausdehnungskoeffizienten zur keramik aufweisen, ergeben sich z. b. beim einlöten oder auch bei hohen anwendungstemperaturen lötstellenbrüche, dieses problem wurde bislang dadurch gelöst, dass materialien mit möglichst gleichen bzw. angepassten ausdehnungskoeffizienten für den zu verlötenden metallpartner und der damit in verbindung stehenden keramik-metall-teile gewählt wurde sowie durch geeignete konstruktive massnahmen bei der lötspalte, welche naturgemäss nur einen möglichst kleinen durchmesser aufweisen darf. obwohl diese beiden verbindungstechniken für viele anwendungszwccke befriedigend ist, besteht doch veranlassung nach weiteren verbindungsmögichkeiten von me tallen und nichtmetallen zu suchen, da inan bestrebt ist, die verbindung hinsichtlich leckagen zu verbessern und die tllermiselle bei ast- barkeit zu erhöhen. um diese spannungen abzubauen, benutzt man die technik der stuwpf- bzw. flachlötung wie sie beispielsweise in der de-1's 10 45 305 und in der de-os 20 24 625 nljiter beschrieben ist. dabei wird zwischen der metall und der keramikoberfläche eine metallische, vorzugsweise folienartige zwischenschicht eingelötet, deren ausdehnungseigenschaften zwischen der keramik und dem metallteil liegen. diirch die radiale verformbarkeit der dünnen zwischenschicht werden die auftretenden spannungen abgebaut. ausserdem erfolgt eine anpassung der ausdehnungs- koeffizienten durch dieses mittelstück. bei derartigen verbindungen treten aber häufig brüche in der keramik auf, die auf wärmespannungen zurückzuführen sind, da insbesondere die erwähnten ausdehnungsunterschiede vom metall über die lötstelle auf die keramik übertragen werden. so besteht bei höheren anwendungstemperaturen die gefahr vom leclcwerden von keramik-metall-gehäusen, womit erhebliche betriebsstörungen eintreten können. es wird deshalb nach lösungsmöglichkeiten gesucht, die sicherheit solcher elektronischen bauelemente weier zu erhöhen. eine andere möglichkeit durch geeignete konstruktive mass- nahmen an der verbindungsstelle zwischen keramik und metall das problem der unterschiedlichen ausdehnungskoeffizienten der verwendeten werkstoffe zu umgehen, wird in der de-os 23 26 373 vorgeschlagen. die spannungen beim einlöten von teilen aus metall in vertiefungen von keramikkörpern sollen dabei weitgehend vermieden worden, indem die keramik nur streifenförmig metallisiert wird. solche beschriebenen technischen massnahmen sind aber nur begrenzt anwendbar, so z. b. vom einlöten von kerumikröhrchen in einen metalliscllul block. die praxis zeigt auch, dass die lötfuge nicht beliebig erweitert werden kann, weil sonst ein dichtes verschliessen nicht mehr gewährleistet ist. die auf gabe der erfindung in alll)ctracht dieses standes der technik ist es, dieses spannungsgofälle zwischen keramik und metall weiter zu
+</DESCRIPTION>
+<CLAIMS>
+ p a t e   11    t a   n    s p r ii c h e   1. hermetisch dichte keramik- etall-verbindung mit hoher festigkeit,   wobei    die   teile      aus    metall bzw.   ble-tallegierungen      und      keramik,      vorzugsweise    aluminiumoxid, nach art von stumpf- lötungen   verbunden    sind, dadurch   gekennzeichnet,    dass hintereinanderliegende mohrfachlötungen (5) an den stegen (6) von einseitig offenen,   profilartigen      iletal iholllltiirpern    (3) an der verbindungsstelle zum metallisierten keramiktoil (2) vorgenommen sind.    2. hermetisch dichte keramik- metall-verbindung nach anspruch 1, dadurch gekennzeichnet, dass der metallhohlkörper eine u-förmige gestalt (3a) besitzt.     3. hermetisch dichte keramik- metall-verbindung nach anspruch 1, dadurch gekennzeichnet, dass der metallhohlkörper einen kammartigen querschnitt (3b) aufweist.   4. hermetische dichte keramik- metall-verbindung nach anspruch   l    - 3, dadurch gekennzeichnet, dass die wandstärke der stege (6) zur höhe des metallhohlkörpers (3) im verhältnis von 1:5 steht.   5. hermetisch dichte keramilc- metall-verbindung nach anspruch 1 - 3, dadurch   gekenilzeiehnets    dass die abstände der stege (6) das 3- bis 4-fache der stegdicke betragen.  
+</CLAIMS>
+</TEXT>
+</DOC>

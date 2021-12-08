@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009468
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-233/22 A01N-43/48 A01N-43/50 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-alkylthio- and 1-phenylthio-substituted 2-(phenoxyalkyl)-2-imidazolines, process for their preparation, compositions containing them, and their use against akarina.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>
+</APPLICANT>
+<INVENTOR>
+boeger manfredde<sep>drabek jozef drch <sep>mattern guenter drch  <sep>traber walter drch<sep>boeger, manfred<sep>drabek, jozef, dr.<sep>mattern, guenter, dr.<sep>traber, walter, dr.<sep>böger, manfredlindenstrasse 33d-7858 weil am rhein 5de<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>mattern, günter, dr.sichternstrasse 35ch-4410 liestalch<sep>traber, walter, dr.neueneichweg 12ch-4153 reinachch<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula i <image> in which r1 and r2 each denote chlorine or methyl, r3 denotes hydrogen or c1-c4-alkyl and r4 denotes c1-c6-alkyl optionally substituted by cyano or phenyl optionally substituted by halogen and/or methyl.  the compounds of the formula i have acaricidal activity. 
+</ABSTRACT>
+</TEXT>
+</DOC>

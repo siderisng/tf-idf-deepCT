@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002783
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25B-1/46 C25B-15/00 C25B-1/00 C25B-9/00 C25B-15/08 C25B-9/08 C25B-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrolysis of aqueous salt solutions
+</TITLE>
+<APPLICANT>
+allied corpus<sep>allied corporation <sep>allied corporationcolumbia road and park avenue p.o. box 2245r (law dept.)morristown new jersey 07960us   <sep>
+</APPLICANT>
+<INVENTOR>
+fitch robert hus<sep>kurtz bruce eus<sep>fitch, robert h.<sep>kurtz, bruce e.<sep>fitch, robert h.2103 south avenuesyracuse, new york 13207us<sep>kurtz, bruce e.2645 falls roadmarcellus new york 13108us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electrolysis process is disclosed in which an electrolyte, either anolyte or catholyte, is transferred serially from one cell, in a bank of a plurality of cells, to the corresponding electrolyte compartment of a succeeding cell in the bank.  the transfer is accomplished by means of a gas-lift in which gas, present in the compartment of the electrolyte to be transferred, rises through a confined space.  the space is dimensioned such that the gas serves to lift the electrolyte upward to a point where the gas and liquid separate and the liquid electrolyte is allowed to fall freely to a collection point from which it is introduced into the corresponding electrolyte compartment of a succeeding cell. 
+</ABSTRACT>
+</TEXT>
+</DOC>

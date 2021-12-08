@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007800
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08F-4/64 C08F-4/60 C08F-4/00 C08F-10/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+catalyst component and method of polymerisation.
+</TITLE>
+<APPLICANT>
+toa nenryo kogyo kkjp<sep>toa nenryo kogyo kabushiki kaisha<sep>toa nenryo kogyo kabushiki kaisha1-1 hitotsubashi, 1-chome chiyoda-kutokyo 100jp<sep>
+</APPLICANT>
+<INVENTOR>
+hiroshi uenojp<sep>makoto yodajp<sep>masafumi imaijp<sep>naomi inabajp <sep>shozo wadajp   <sep>hiroshi, ueno<sep>makoto, yoda<sep>masafumi, imai<sep>naomi, inaba<sep>shozo, wada<sep>hiroshi, ueno398-1, ooaza haneonamekawa-mura hiki-gun, saitama-kenjp<sep>makoto, yoda5024-270, ooaza kasahatakawagoe-shi, saitama-kenjp<sep>masafumi, imai1902-5, ooaza kamekuboooi-machi iruma-gun, saitama-kenjp<sep>naomi, inaba1902-5, ooaza kamekuboooi-machi iruma-gun, saitama-kenjp<sep>shozo, wada7-5, yamanone 2-chomezushi-shi, kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a supported titanium catalyst component is produced by  cogrinding an organo aluminum catalyst component with a  supported titanium (iv) halide on a magnesium halide.  the  resulting supported titanium halide catalyst component,  when employed with an organo aluminum catalyst compo­ nent to form a catalyst system is highly useful for the  stereoregular polymerization of α-olefins as well as the  copolymerization of α-olefins.  
+</ABSTRACT>
+</TEXT>
+</DOC>

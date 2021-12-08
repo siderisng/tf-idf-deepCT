@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011709
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-21/12 G02B-21/10 G02B-21/06 <main>G02B-21/10</main> G02B-21/26 G02B-21/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+light-guide device for incident illumination.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+wagner dietmar<sep>wagner, dietmar<sep>wagner, dietmarludwig-finck-strasse 8d-7032 sindelfingen-maichingende<sep>wagner, dietmar <sep>wagner, dietmarludwig-finck-strasse 8d-7032 sindelfingen-maichingende<sep>
+</INVENTOR>
+<ABSTRACT>
+In the rear focal plane (21) of a (microscope) lens (1) in an annular region (5) sym metric to the optical axis, the end surfaces of light-line fibers (6) are arranged, of which light beams emanating, which pass through the lens during passageTo be parallel bundles and with the same angle of incidence but various azimuth angles on the observation surface (11) on the observation surface (11).The ideal dark field illumination thus generated causes the observation surface to lighten the otherwise dark visual field in the eyepiece (3).The light path can also be reversed to remove the light outstanding from the observation surface from the light guide fibers.
+</ABSTRACT>
+</TEXT>
+</DOC>

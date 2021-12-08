@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0008572
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01P-3/42 G06K-9/20 G01P-3/52 G06F-3/046 G06K-9/22 G06F-3/033 G06K-9/00 G06K-9/24 G06K-9/62 G06F-3/041 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for measuring characteristical parameters of the speed of a handwriting.
+</TITLE>
+<APPLICANT>
+battelle memorial institutech<sep>battelle memorial institute<sep>battelle memorial institute7 route de drize ch-1227 carouge/genève ch <sep>
+</APPLICANT>
+<INVENTOR>
+bechet louisfr<sep>bechet, louis<sep>bechet, louis"les govilles" bonnatraitf-74140 douvainefr<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

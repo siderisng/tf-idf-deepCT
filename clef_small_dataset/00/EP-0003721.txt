@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003721
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+A23L-3/16 A23B-7/005 A23L-3/00 <main>A23B-7/00</main> B65B-55/02 A23B-4/005 A23B-4/06 A23B-7/12 B65B-31/02 A23B-4/00 A23B-7/06 A23B-7/10 B65B-55/18 A23B-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for blanching and sterilising in a rapid and continuous manner pieces of food-stuff.
+</TITLE>
+<APPLICANT>
+glen donald grahamau<sep>malfanti, john baptist<sep>glen, donald grahamc/o gold coast secretariat no. 3 blue arcade 3167 gold coast highwaysurfers paradise queenslandau<sep>glen, donald graham<sep>
+</APPLICANT>
+<INVENTOR>
+donald graham glen<sep>donald, graham glen<sep>donald, graham glensuite 109/658 pittwater roadbrookvale, 2100au<sep>donald, graham glen<sep>donald, graham glensuite 109/658 pittwater roadbrookvale, 2100au<sep>
+</INVENTOR>
+<ABSTRACT>
+Food products must first be sterilized and bleached.These two operations generally occur simultaneously by applying a quantity of heat greater than that actually necessary with the result of an alteration of the taste of the treated product.In the process of the invention, the pieces of the product to be treated are subjected in a pressure chamber at a relatively high temperature and then quickly removed and transported in an isolated chamber in which the temperature of the pieces balance without thermal exchange with theoutside.The pieces of the product are then cooled and packed sterile.
+</ABSTRACT>
+</TEXT>
+</DOC>

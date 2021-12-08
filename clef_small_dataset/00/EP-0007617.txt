@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007617
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02H-3/02 H02H-9/02 H02H-7/085 H02H-3/04 H02P-3/18 H02H-7/08 H01H-75/08 <main>H01H-5/04</main> H02H-3/06 B25B-23/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+disconnect and overload bypass arrangement for a portable tool.
+</TITLE>
+<APPLICANT>
+black & decker incus<sep>black & decker inc.<sep>black &amp; decker inc.drummond plaza office park 1423 kirkwood highwaynewark delaware 19711us<sep>black & decker inc.<sep>
+</APPLICANT>
+<INVENTOR>
+alessio lorenzo ercole<sep>alessio, lorenzo ercole<sep>alessio, lorenzo ercolevia cairoli 60i-22053 leccoit<sep>alessio, lorenzo ercole<sep>alessio, lorenzo ercolevia cairoli 60i-22053 leccoit<sep>
+</INVENTOR>
+<ABSTRACT>
+a circuit is directed to a disconnect and overload bypass  (16) arrangemant for a hand-held portable tool equipped with  an electric motor (3) supplied from a source (13) of electrical  energy and a manually operable on-off switch (14) for switch­ ing the tool on and off.  the arrangement includes a self-­ reclosing disconnect switch (15) operatively connected to the  motor (3) to temporarily disconnect the same from the energy  source (13) in response to an overload condition; and, circuit  control means for supplying energy to the motor (3) at a  reduced level when the disconnect switch (15) is open  whereby the motor (3) will continue to operate at reduced  torgue pending self-reclosure of the disconnect switch (15)  and thereby provide the operator of the tool with an audible  and visual indication that the motor has not been deactivated  by manually actuating the on-off switch (14).  
+</ABSTRACT>
+</TEXT>
+</DOC>

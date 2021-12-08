@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010449
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-9/04 <main>H02J-7/14</main> G06F-15/46 B60L-1/00 H02J-7/24 H02J-7/04 H02J-7/14 H02J-7/16 H02J-7/00 G08B-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of and apparatus for charging a vehicle battery.
+</TITLE>
+<APPLICANT>
+nippon denso cojp <sep>nippondenso co., ltd. <sep>nippondenso co., ltd.1-1, showa-chokariya-shi aichi-kenjp<sep>nippondenso co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+etsushi miura<sep>katsuya muto<sep>kazumasa mori<sep>tetsuo kato<sep>etsushi, miura<sep>katsuya, muto<sep>kazumasa, mori<sep>tetsuo, kato<sep>etsushi, miura11-1, minamibaba, terazu-chonishio-shi, aichi-kenjp<sep>katsuya, muto41-1, kamisawatari, ogakie-chokariya-shi, aichi-kenjp<sep>kazumasa, mori13-12 aza kamiimaike, oaza moriokahigashiura-cho, chita-gun, aichi-kenjp<sep>tetsuo, kato1-55, kanori, himeogawa-choanjyo-shi, aichi-kenjp<sep>etsushi, miura<sep>katsuya, muto  <sep>kazumasa, mori <sep>tetsuo, kato<sep>etsushi, miura11-1, minamibaba, terazu-chonishio-shi, aichi-kenjp<sep>katsuya, muto41-1, kamisawatari, ogakie-chokariya-shi, aichi-kenjp<sep>kazumasa, mori13-12 aza kamiimaike, oaza moriokahigashiura-cho, chita-gun, aichi-kenjp<sep>tetsuo, kato1-55, kanori, himeogawa-choanjyo-shi, aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of and apparatus for charging a vehicle battery  (2) in which the actual charging voltage produced by a  generator (1) connected for charging the battery (2) is  detected along with the battery temperature, a parameter  representative of the charging condition of the battery (2)  (usually the specific gravity of the electrolyte) and the electri­ cal load on the battery (2).  by means of a computer (20) a  reference voltage value is then derived as a predetermined  function of the said detected temperature, charging condition  and load, and the operation of a generator (1) is controlled to  adjust the battery charging voltage to the reference voltage  value.  the computer (20) may be programmed to calculate  this reference value directly or it may be derived by the com­ puter (20) from a basic value selected from a range of values  stored within the computer (20), in response to the detected  temperature, charging condition and load.  an alarm (10) may  be actuated when the generator (1) is not operating.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004694
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61N-5/10 A61N-5/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+medical irradiating apparatus
+</TITLE>
+<APPLICANT>
+philips nvse <sep>philips svenska abse <sep>koninklijke philips electronics n.v. <sep>svenska philipsforetagen ab<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips norden abtegeluddsvägen 1115 84 stockholmse<sep>
+</APPLICANT>
+<INVENTOR>
+bermas gunnarnl<sep>bermas, gunnar<sep>bermas, gunnarc/o int. octrooibureau b.v. 6, prof. holstlaannl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+in an x-ray or electron irradiation apparatus which is provided with a radiation source, a patient table, and at least one pair of coupled aperture elements disposed between the radiation source and the patient, an interlock is provided between the movement of the aperture elements and the patient table, so that during irradiation an asymmetrical radiation distribution can be obtained.  in a conventional irradiation apparatus this merely requires the addition of a suitable control device for the existing movement mechanisms for adjusting an irradiation field on the patient. 
+</ABSTRACT>
+</TEXT>
+</DOC>

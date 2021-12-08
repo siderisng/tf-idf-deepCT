@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003693
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A61B-6/02</main> A61B-6/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+radiographic apparatus.
+</TITLE>
+<APPLICANT>
+radiologie cie glefr<sep>compagnie generale de radiologie<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>thomson-csf  <sep>
+</APPLICANT>
+<INVENTOR>
+klausz remy<sep>klausz, remy<sep>klausz, rémy"thomson-csf" - scpi 173, bld haussmannf-75379 paris cedex 08fr<sep>klausz, remy<sep>klausz, remy<sep>klausz, rémy"thomson-csf" - scpi 173, bld haussmannf-75379 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+- Radiography apparatus reconstructing a computer by computer treating the signals provided by a detector measuring the absorption coefficient of a body crossed by a beam.- several detectors arranged in a fan, which reduces the number of scan stations.According to the invention this number of stations is odd for a complete turn.In addition, an excess number of detectors is used for a given aperture of the fan that eliminates the responses of the failing detectors.
+</ABSTRACT>
+</TEXT>
+</DOC>

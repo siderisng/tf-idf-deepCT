@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009766
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01J-3/36 G01J-3/28 <main>G01N-21/67</main> G01N-21/62 G01N-21/67 G01J-3/30 G01J-3/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for emission spectrochemical analysis.
+</TITLE>
+<APPLICANT>
+shimadzu corp jp  <sep>shimadzu corporation<sep>shimadzu corporation378, ichinofunairi-cho kawaramachi-dori nijo sagarunakagyo-ku kyoto 604jp<sep>shimadzu corporation <sep>
+</APPLICANT>
+<INVENTOR>
+fukui isao<sep>imamura naoki<sep>ono junichi<sep>fukui, isao<sep>imamura, naoki<sep>ono, junichi<sep>fukui, isao12-12, asakura, ookubo-chouji, kyotojp<sep>imamura, naoki24-7, ichiriyama, hirono-chouji, kyotojp<sep>ono, junichi31-12, yahatasonouchiyahata, kyotojp<sep>fukui, isao <sep>imamura, naoki  <sep>ono, junichi<sep>fukui, isao12-12, asakura, ookubo-chouji, kyotojp<sep>imamura, naoki24-7, ichiriyama, hirono-chouji, kyotojp<sep>ono, junichi31-12, yahatasonouchiyahata, kyotojp<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for emission spectrochemical analysis  wherein the sample to be analyzed is excited by repeated  spark discharge to emit light, which is dispersed to produce a  spectrum containing emission lines characteristic of the ele­ ments in the sample.  the intensity or quantity of light of each  of the emission lines of the elements to be determined and  that of the corresponding one of the emission lines selected as  the internal standards for the elements to be determined are  measured each time a spark discharge is produced to obtain  the ratio of the former intensity or quantity to the latter at each  spark discharge, and the ratios resulting from a predeter­ mined number of spark discharges are averaged for each of  the elements to be determined.  from the average the content  of each of the elements is read on a calibration curve.  
+</ABSTRACT>
+</TEXT>
+</DOC>

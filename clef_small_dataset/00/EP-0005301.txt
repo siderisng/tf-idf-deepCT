@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005301
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/50 <main>B01D-53/34</main> F23J-15/04 C01F-11/46 C01F-11/00 C01D-7/18 C01D-7/00 B01D-53/81 F23C-9/00 F23J-15/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the removal of sulphur oxides from high-chloride flue gases.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde<sep>metallgesellschaft ag<sep>metallgesellschaft agpostfach 10 15 01, reuterweg 14d-60015 frankfurtde<sep>metallgesellschaft ag <sep>
+</APPLICANT>
+<INVENTOR>
+voeste theodor dipl-chem<sep>voeste, theodor, dipl.-chem.<sep>voeste, theodor, dipl.-chem.praunheimer weg 90d-6000 frankfurt am mainde<sep>voeste, theodor, dipl.-chem.<sep>voeste, theodor, dipl.-chem.praunheimer weg 90d-6000 frankfurt am mainde<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for removing sulfur oxides of internal combustion exhaust gas, in particular power plant exhaust gas, wherein the exhaust gas flows through a reaction zone which operates according to the type of spray dryer. In the reaction zone, a cleaning fluid is sprayed, which consists of an aqueous solution of soda and / or sodium bicarbonate. In the reaction zone, the water content of the cleaning fluid is virtually completely evaporated by the heat content of the exhaust gas and the exhaust gas is then passed through a filter. From the reaction zone and the filter, water-free solids are deducted, which is at least 75 wt. % consist of sodium sulfite, sodium sulfate and sodium chloride. These solid products are processed back to Soda. For this purpose, the solid products are dissolved, sulfite oxidized to sulfate so that a solution containing sodium sulfate and sodium chloride is formed. From this solution, the sulfate is separated and the remaining solution is worked up by the solvay method for soda.
+</ABSTRACT>
+</TEXT>
+</DOC>

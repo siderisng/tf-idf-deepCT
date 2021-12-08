@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012491
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F24F-3/147</main> F28F-21/00 F24F-3/12 F28F-21/06 F24F-3/147 F28D-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat-and-moisture exchanger, and ventilating device and air-conditioner including such heat-and-moisture exchanger.
+</TITLE>
+<APPLICANT>
+teijin ltdjp<sep>teijin limited<sep>teijin limited11 minami honmachi 1-chome higashi-kuosaka-shi osaka-fujp<sep>teijin limited<sep>
+</APPLICANT>
+<INVENTOR>
+azuma shizuo<sep>kawase shoji<sep>kurisu shizuka<sep>sano makoto<sep>yamada takeyoshi<sep>azuma, shizuo<sep>kawase, shoji<sep>kurisu, shizuka<sep>sano, makoto<sep>yamada, takeyoshi<sep>azuma, shizuo28-4, 1-chome, ozu-machiiwakuni-shi, yamaguchi-kenjp<sep>kawase, shoji20, 2-chome, naka-chokoganei-shi, tokyojp<sep>kurisu, shizuka4-37, 3-chome, kusunoki-machiiwakuni-shi, yamaguchi-kenjp<sep>sano, makoto3-28, 2-chome, manimiiwakuni-machiiwakuni-shi, yamaguchi-kenjp<sep>yamada, takeyoshi1-3, 3-chome, yamate-machiiwakuni-shi, yamaguchi-kenjp<sep>azuma, shizuo<sep>kawase, shoji<sep>kurisu, shizuka <sep>sano, makoto<sep>yamada, takeyoshi  <sep>azuma, shizuo 28-4, 1-chome, ozu-machiiwakuni-shi, yamaguchi-kenjp<sep>kawase, shoji20, 2-chome, naka-chokoganei-shi, tokyojp<sep>kurisu, shizuka4-37, 3-chome, kusunoki-machiiwakuni-shi, yamaguchi-kenjp<sep>sano, makoto3-28, 2-chome, manimiiwakuni-machiiwakuni-shi, yamaguchi-kenjp<sep>yamada, takeyoshi1-3, 3-chome, yamate-machiiwakuni-shi, yamaguchi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a heat-and-moisture exchanger including a thin film­ like porous material (1) as a partitioning element for heat  and moisture exchanges between two gases, said porous  material (1) containing numerous pores having an average  diameter of not more than 5 microns and opened to both  surfaces thereof, and having a thickness of not more than  500 microns, a specific surface area of at least 0. 3 m²/g,  and a gas permeability having a value of at least 50 sec­ onds/100 cc.  this heat-and-moisture exchanger can be  used in a ventilating device and an air-conditioner.  
+</ABSTRACT>
+</TEXT>
+</DOC>

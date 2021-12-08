@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010942
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/266 H01L-21/02 H01L-21/265 <main>H01L-21/265</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of ion implantation into a semiconductor substrate provided with an insulating film.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+mori haruhisa<sep>nakano motoo<sep>mori, haruhisa<sep>nakano, motoo<sep>mori, haruhisa13-13, edakita 2-chomemidori-ku, yokohama-shi kanagawa 227jp<sep>nakano, motoo312-3-9-913, imai-chohodogaya-ku, yokohama-shi kanagawa 240jp<sep>mori, haruhisa  <sep>nakano, motoo<sep>mori, haruhisa13-13, edakita 2-chomemidori-ku, yokohama-shi kanagawa 227jp<sep>nakano, motoo312-3-9-913, imai-chohodogaya-ku, yokohama-shi kanagawa 240jp<sep>
+</INVENTOR>
+<ABSTRACT>
+in one method of producing a semiconductor device,  such as an ic including mos transistors, impurity ions  are implanted into a semiconductor substrate (1) provided  with an insulating film (2b).  the insulating film is electri­ cally charged by the impurity ions and may be destroyed  if the electric potential difference between the insulating  film and the semiconductor substrate is excessive.  the  invention shortens the ion implantation time, without  risking the destruction of the insulating film, by increasing  the ion beam current during the period of ion implan­ tation.  an increase is made when with the previous beam  current the electric potential difference across the  insulating film has fallen and the beam current increase  is of a size such that with the new current value the  electric potential difference is not increased above the  breakdown value for the insulating film and preferably  is not above 80-90% of that value.  
+</ABSTRACT>
+</TEXT>
+</DOC>

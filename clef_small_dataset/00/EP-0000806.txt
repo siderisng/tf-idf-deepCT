@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000806
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16K-17/02</main> B60T-11/32 B60T-11/10 B60T-17/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluid pressure circuit protection valves.
+</TITLE>
+<APPLICANT>
+bendix westinghouse ltdgb<sep>bendix westinghouse limited<sep>bendix limiteddouglas roadkingswood, bristol bs15 2nlgb<sep>bendix limited<sep>
+</APPLICANT>
+<INVENTOR>
+dale robin john<sep>dale, robin john<sep>dale, robin johndouglas roadkingswood bristol, bs15 2nlgb<sep>dale, robin john  <sep>dale, robin john douglas roadkingswood bristol, bs15 2nlgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a fluid pressure circuit protection valve is provided which  has a closure member biassed by a spring against a seat such  that the valve remains closed to protect other circuits supplies  from the same source from effects of appreciable leakage  from a circuit on the output side of the valve but wherein the  spring is counteracted by a predetermined level of output  pressure, the closure member being provided with a small  path across it which is closed by resilent deformation due to  the spring but which is opened to permit restricted flow  through the valve to a service brake circuit reservoir which is  required to acquire a recharged condition prior to a parking  spring brake circuit despite the possibility of respective circuit  protection valves not being identically biassed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014762
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+F22B-1/00 H04N-5/225 <main>G01M-3/38</main> G02B-23/24 F22B-37/00 G01M-3/38 G01N-21/954 G01N-21/88 G01M-3/00 G21C-17/003 G02B-3/06 F22B-1/16 F22B-37/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+annular weld inspection apparatus.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+norris george william<sep>norris, george william<sep>norris, george william151 sunset drivepittsburgh, pennsylvaniaus<sep>norris, george william<sep>norris, george william151 sunset drivepittsburgh, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for remote inspection of annular curved ridge  welds (42).  included in such apparatus is a small sized televi­ sion camera (46), an annular image transformation lens (50) of  greater size than the observed weld (42) for presenting a  flattened expanded image of such weld (42) to the camera, a  circular array of work-illumination lamps (63) at the input end  of the camera (46), and a hollow cylindrical light conductive  member (60) mounted at its one end on the input end of the  camera in exposure to the lamps (63) and mounting the image  transformation lens (50) on its opposite end for proximity to  the annular weld 42) being inspected.  with this apparatus an enlarged flattened picture of the  weld is presented to the camera for fast and thorough inspec­ tion of the weld.  
+</ABSTRACT>
+</TEXT>
+</DOC>

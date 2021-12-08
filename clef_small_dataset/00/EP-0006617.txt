@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006617
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-9/08 <main>G03G-9/14</main> G03G-9/083 G03G-9/09 G03G-9/087 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic toner.
+</TITLE>
+<APPLICANT>
+hitachi metals ltdjp<sep>hitachi metals, ltd.<sep>hitachi metals, ltd.1-2, marunouchi 2-chomechiyoda-ku, tokyo 100jp<sep>hitachi metals, ltd. <sep>
+</APPLICANT>
+<INVENTOR>
+kawanishi tsuneaki<sep>morishita hirosada<sep>mukoh akio<sep>kawanishi, tsuneaki<sep>morishita, hirosada<sep>mukoh, akio<sep>kawanishi, tsuneaki3-17-2, moriyama-chohitachi-shi ibaragi-kenjp<sep>morishita, hirosada288, isizaka-chohitachi-shi ibaragi-kenjp<sep>mukoh, akio45, moriyama-chohitachi-shi ibaragi-kenjp<sep>kawanishi, tsuneaki <sep>morishita, hirosada  <sep>mukoh, akio<sep>kawanishi, tsuneaki3-17-2, moriyama-chohitachi-shi ibaragi-kenjp<sep>morishita, hirosada288, isizaka-chohitachi-shi ibaragi-kenjp<sep>mukoh, akio45, moriyama-chohitachi-shi ibaragi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a magnetic toner employable as a developer for an  electrophotographic duplication system, in which an elec­ trostatic latent image is developed on a carrier, a copying  sheet is placed over said carrier of developed image, and  the developed image is transferred to said sheet, contains  magnetic fine particles of an electric resistivity from 10⁹  to 10¹⁶ω. cm (at 4000 v/cm dc) and a dielectric constant  from 2. 6 to 5.  
+</ABSTRACT>
+</TEXT>
+</DOC>

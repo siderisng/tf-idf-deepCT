@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017389
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01L-39/22</main> H01L-39/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+josephson junction device.
+</TITLE>
+<APPLICANT>
+sperry corp us<sep>sperry corporation<sep>sperry corporation1290, avenue of the americasnew york, n.y. 10019us<sep>sperry corporation <sep>
+</APPLICANT>
+<INVENTOR>
+kroger harry<sep>kroger, harry<sep>kroger, harry67 wake robin roadsudbury massachusetts 01776us<sep>kroger, harry <sep>kroger, harry67 wake robin roadsudbury massachusetts 01776us<sep>
+</INVENTOR>
+<ABSTRACT>
+josephson junction devices have been made using  crystalline silicon as the barrier layer in order to obtain large  critical current densities and low device capacitance.  however,  this has involved thinning a silicon crystal wafer to barrier  thickness and forming the layers of superconductor and  insulator on both sides.  this is a complex and difficult  process, and even when successful leads to an extremely  fragile device.  the present invention turns on the use of certain  compounds, in particular niobium nitride, which are superconductive,  refractory, and do not react with hydrogen or  with silicon or germanium at temperatures at which these  semiconductors can be deposited from the vapour phase.  a device according to the invention comprises a first  superconductive layer (10) preferably of niobium nitride, a  barrier layer (12) of silicon or germanium or an alloy of these,  and a second superconductive layer (11) which may also be  of niobium nitride.  because of the properties of the niobium  nitride, the semiconductor may be deposited from the  vapour phase by well known methods, either at an elevated  temperature so that it is deposited in polycrystalline form, or  at room temperature as an amorphous layer which is  subsequently annealed at a higher temperature to cause it to  re-crystallise.  other compound refractory superconductive materials  such as niobium-tin and niobium-germanium may be utilised  as an alternative to niobium nitride.  
+</ABSTRACT>
+</TEXT>
+</DOC>

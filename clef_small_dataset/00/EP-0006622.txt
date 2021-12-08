@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006622
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-17/00 H04B-10/00 H04Q-3/52 H04H-7/00 H04N-5/22 <main>H03K-17/62</main> H04H-1/00 H04B-10/02 H04H-20/69 H04N-5/268 H04H-20/76 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for selectively through-connecting or blocking broad-band signals.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+leysieffer hans dr-ing<sep>panzer klaus dr-ing<sep>leysieffer, hans, dr.-ing.<sep>panzer, klaus, dr.-ing.<sep>leysieffer, hans, dr.-ing.zugspitzweg 13d-8021 ickingde<sep>panzer, klaus, dr.-ing.strassberger strasse 47d-8000 münchen 40de<sep>leysieffer, hans, dr.-ing.<sep>panzer, klaus, dr.-ing.<sep>leysieffer, hans, dr.-ing.zugspitzweg 13d-8021 ickingde<sep>panzer, klaus, dr.-ing.strassberger strasse 47d-8000 münchen 40de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a circuit system for selectively switching through or locking signals high bandwidth with the aid of at least one electronic switch.Such a circuitry should be realized, including the electronic switches contained therein, with particularly simple means.The invention provides for the arrangement of a special modulator in front of the electronic scarf ter and the design of the electronic switch as a logical linking member.A circuit arrangement according to the invention is particularly suitable for use in devices for distributing television signals Ge.
+</ABSTRACT>
+</TEXT>
+</DOC>

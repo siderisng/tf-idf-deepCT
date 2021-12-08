@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004682
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28F-25/06 B05B-1/34 F28F-25/00 B05B-1/00 F16L-55/027 F16L-55/02 F25D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+nozzle of the return-flow type.
+</TITLE>
+<APPLICANT>
+metallgesellschaft agde<sep>metallgesellschaft ag<sep>metallgesellschaft agpostfach 10 15 01, reuterweg 14d-60015 frankfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+noeller herbertde<sep>noeller, herbert<sep>nöller, herbertascherstrasse 77d-6457 maintal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+in so-called return-flow nozzles as used for improving the precipitation yield of electrofilters in evaporation coolers connected upstream, an unacceptable level of noise is often generated in operation, in particular when the evaporation coolers are designed without heat insulation for reasons of economy.  it became apparent that the noise generation arises from the fact that gas is taken in with the rotating return-flow current and the return-flow nozzle is thus made to oscillate.  in order to suppress the noise generation, baffles (9) are provided in the return-flow channel (7) of the return-flow nozzle, by means of which baffles the spin in the return-flow current is reduced and/or the sucking in of gas is avoided (fig.  3).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

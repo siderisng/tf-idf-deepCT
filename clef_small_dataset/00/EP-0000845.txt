@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000845
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01F-11/00 G01F-11/28 A47J-31/40 G01F-11/08 B67D-1/12 <main>B67D-1/00</main> B67D-1/14 B67D-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beverage dispenser and method.
+</TITLE>
+<APPLICANT>
+strenger marshall c<sep>strenger, marshall c.<sep>strenger, marshall c.450 thornelake forest illinois 60045us<sep>strenger, marshall c.<sep>
+</APPLICANT>
+<INVENTOR>
+strenger marshall c<sep>strenger, marshall c.<sep>strenger, marshall c.450 thornelake forest illinois 60045us<sep>strenger, marshall c.<sep>strenger, marshall c.450 thornelake forest illinois 60045us<sep>
+</INVENTOR>
+<ABSTRACT>
+a beverage dispenser includes a control device in communication  with a source of base liquid and a source of flavoring  constituent for generating a simultaneous flow of the base  liquid and the flavoring constituent into a mixing nozzle.  the  flavoring constituent may be supplied in a portable packet  which contains a measured quantity of constituent for making  a specified beverage serving when mixed with a controlled  quantity of base liquid.  the control device may be actuated by  tripping an actuator lever when a container is placed under  the mixing nozzle for filling it with the mixed beverage.  in one  embodiment, actuation of the control device causes a flow of  pilot fluid under pressure to fluid operated control member in  association with each source of base liquid and flavoring  constituent.  the pilot fluid may be supplied by the source of  base fluid and may be expelled into the mixing nozzle.  
+</ABSTRACT>
+</TEXT>
+</DOC>

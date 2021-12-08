@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007667
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/467 G01J-1/02 H01L-31/0296 H01L-31/18 H01L-21/3065 H01L-21/302 H01L-21/465 H01L-31/09 H01L-31/0224 H01L-31/08 <main>H01L-31/02</main> H01L-31/0264 H01L-21/02 H01L-27/144 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+infra-red detector elements and their manufacture.
+</TITLE>
+<APPLICANT>
+philips electronic associatedgb<sep>philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+withers r b c o philips electr<sep>withers, r. b. c/o philips electronic and ass.<sep>withers, r. b. c/o philips electronic and ass.industries ltd, patent dept. mullard housetorrington place london, wc1e 7hdgb<sep>withers, r. b. c/o philips electronic and ass.<sep>withers, r. b. c/o philips electronic and ass.industries ltd, patent dept. mullard housetorrington place london, wc1e 7hdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an infra-red radiation detector element and its manufac­ ture is disclosed.  the detector element has a mesa (31) of  infra-red sensitive material, o. g.  cadmium mercury telluride  with separate metal electrodes (64 and 55, )  formed on side-walls of the mesa (31) from a metal layer 33.   this permits a significant proportion of the current flow occur­ ring between the electrodes (64 and 55) in operation of the  element to pass across the bulk of the mesa (31) between its  side-walls and not adjacent its top surface where the carrier  recombination velocity may be higher.  the mesa (31) is  formed by ion-etching using a masking layer (24) e. g.  of  photoresist, and this permits reproducible etching over a  uniform depth and the obtaining of a topographically rough  surface to which the subsequently-deposited metal layer (33)  can have good adhesion.  the electrodes are formed from this  layer (33) by a lift-off technique using the same masking layer  (24).  the ion-etch definition of the mesa (31) can also be used  to etch unmasked parts of a passivating layer (14) on the  element surface without any significant undercutting.  it is suggested that figure no.  12 should accompany the  abstract when published.  
+</ABSTRACT>
+</TEXT>
+</DOC>

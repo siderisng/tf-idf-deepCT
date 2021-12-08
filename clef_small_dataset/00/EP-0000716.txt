@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000716
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/00 A61P-25/00 C07D-487/04 A61K-31/55 C07D-487/00 A61P-25/18 <main>C07D-487/04</main> A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyrrolo(2,1-b)(3)benzazepine derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+merck & co incus <sep>merck & co. inc. <sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us<sep>merck & co. inc.<sep>
+</APPLICANT>
+<INVENTOR>
+atkinson joseph george<sep>belanger patrice c<sep>remy david caroll<sep>rooney clarence stanley<sep>atkinson, joseph george<sep>belanger, patrice c.<sep>remy, david caroll<sep>rooney, clarence stanley<sep>atkinson, joseph george5643 plantagenet avenuemontreal quebecca<sep>belanger, patrice c.419 d'avignon drivedollard des ormeaux quebecca<sep>remy, david caroll607 jenkins lanenorth wales, pa.us<sep>rooney, clarence stanley2902 hickory hill driveworcester, pa.us<sep>atkinson, joseph george<sep>belanger, patrice c. <sep>remy, david caroll<sep>rooney, clarence stanley  <sep>atkinson, joseph george 5643 plantagenet avenuemontreal quebecca<sep>belanger, patrice c.419 d'avignon drivedollard des ormeaux quebecca<sep>remy, david caroll607 jenkins lanenorth wales, pa.us<sep>rooney, clarence stanley2902 hickory hill driveworcester, pa.us<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of formula:    wherein x and y are hydrogen, halogen, trifluoromethyl,  alkyl, alkoxy, cyano, trifluoromethylthio, or trifluoromethyl  sulfonyl; and r is alkyl or cyclopropylmethyl, and the dotted  line represents saturation or unsaturation, have utility as antipsychotic  agents.  they also demonstrate antiserotonin and  antihistaminic activity.  they are prepared by reaction of a  pyrrolo (2, 1-b) (3) benzazepin-11-one with a piperidinyl magnesium  halide followed by dehydration.  
+</ABSTRACT>
+</TEXT>
+</DOC>

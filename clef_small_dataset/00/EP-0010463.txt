@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010463
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41F-17/08 B41F-1/04 B41F-17/20 B41F-1/00 B41F-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiple use printing machine.
+</TITLE>
+<APPLICANT>
+kis france safr <sep>kis france societe dite: <sep>kis france société dite:47 avenue marie reynoardf-38100 grenoblefr<sep>
+</APPLICANT>
+<INVENTOR>
+crasnianski sergefr<sep>crasnianski, serge<sep>crasnianski, serge11 chemin des buissesf-38240 meylanfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a printing machine that allows both to make typographic printing with ink or dry on different objects or to make fingerprints for buffers.The invention lies in the fact that the machine consists of a base machine comprising a movable head (36) which carries a printing block and a support (35) to maintain the objects to be printed.The movable head (36) is intended to receive different accessories such as a inking device and the support is provided for receiving different turntables according to the object to be printed.The invention is applicable to manual or automatic printing machines.
+</ABSTRACT>
+</TEXT>
+</DOC>

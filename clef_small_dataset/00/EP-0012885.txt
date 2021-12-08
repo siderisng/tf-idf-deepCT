@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012885
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H02P-8/00</main> H02P-8/32 G11B-21/08 H02P-8/24 H02P-8/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control apparatus for an electrical stepping motor.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+herald robert frederick<sep>wilson melvin george<sep>herald, robert frederick<sep>wilson, melvin george<sep>herald, robert frederick1514 ninth avenue s.e.rochester, mn 55901us<sep>wilson, melvin george1126 seventh street s.w.rochester, mn 55901us<sep>herald, robert frederick  <sep>wilson, melvin george<sep>herald, robert frederick1514 ninth avenue s.e.rochester, mn 55901us<sep>wilson, melvin george1126 seventh street s.w.rochester, mn 55901us<sep>
+</INVENTOR>
+<ABSTRACT>
+control apparatus for an electrical stepping motor having  its rotor mechanically connected to drive a transducer car­ riage of a magnetic disk drive machine, includes a transistor  which is responsive to the voltage across the stator coils of the  stepping motor and initiates the controlled discharging of a  capacitor.  the charge on the capacitor is effective through  transistor control circuits when the capacitor has discharged  to a predetermined level to short all of the stator coils, except  the one to which an energizing voltage is applied to attract and  hold the rotor in its target position, so as to brake the rotor as  the rotor approaches its target position on a return movement  after the rotor initially passes across its target position.  
+</ABSTRACT>
+</TEXT>
+</DOC>

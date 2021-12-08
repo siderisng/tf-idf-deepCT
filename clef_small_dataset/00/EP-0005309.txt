@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005309
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+C11D-3/43 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cleaning composition and method of removing printing ink from surfaces.
+</TITLE>
+<APPLICANT>
+dawley brook papers ltdgb<sep>dawley brook papers limited<sep>dawley brook papers limitedstallings lanekingswinford west midlands gb<sep>
+</APPLICANT>
+<INVENTOR>
+collins ronald gb <sep>ravenhall philipgb<sep>collins, ronald<sep>ravenhall, philip<sep>collins, ronald6, pine view smestow swindondudley west midlandsgb<sep>ravenhall, philip4, ennerdale drivehalesowen west midlandsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+compositions comprising two organic solvents which  act synergistically, non-ionic and/or anionic surfactants  and a relatively small proportion of cationic surfactant are  disclosed for use in cleaning printing ink from surfaces.   the solvents used together have considerably different  kauri-butanol numbers.  
+</ABSTRACT>
+<DESCRIPTION>
+specification title: cleaning composition and method. description of invention: this invention relates to a composition suitable for use in cleaning and to a method of cleaning printing inks from apparatus and from personnel. at present, undiluted organic solvents are used as cleaning fluids for removing printing inks from surfaces. the solvents are selected according to the character of the particular ink or inks to be removed0 solvents which are used include aromatic hydrocarbons, aliphatic alcohols, ketones and ethers, paraffins and halogenated hydrocarbons. various disadvantages arise from the use of these solvents for the purpose mentioned. these disadvantages include the inflammability and toxicity of the solvents, particularly of their vapours, the volatility of the solvents, the effect of the solvents on the skin of persons using them, the insolubility of many of the solvents in water and the ability of the solvents to attack apparatus used in printing processes, for example to soften adhesive which secures a blanket on a roller. solvents with high volatility generally have good ink-penetrating and dissolving ability but they evaporate rapidly and redeposit the dissolved ink. when the solvents come into contact with the skin, they tend to dry the skin and to cause dermatitis. solvents which are readily soluble in water can be washed from the hands or from apparatus by means of water, but many of the solvents used have a character such that it is necessary, once the ink has been dissolved in the solvent, to wash the solution away with further quantities of the solvent, either by rinsing the surface to be cleaned in the solvent or by wiping the surface with a cloth soaked in the solvent. these procedures are fairly expensive since there must be used considerably more solvent than is necessary merely to dissolve the ink which is to be removed. furthermore, these procedures exaggerate the other disadvantages which have been mentioned herein. it will be understood that not all solvents have all of the disadvantages hereinbefore mentioned and that different solvents suffer from these disadvantages to differing degrees. nevertheless, the solvents which are used at the present time for removing printing inks are not entirely satisfactory and it is an object of the present invention to provide a cleaning composition which is more satisfactory than those now in use. according to a first aspect of the invention, there is provided a cleaning composition comprising in admixture an organic solvent which is not completely miscible with water and a surfactant capable of forming an emulsion of the solvent in water0 a cleaning composition in accordance with the invention may also contain water and it is envisaged that in many circumstances a composition containing water will be used. the composition may be supplied as an aqueous composition or as a substantially non-aqueous composition. in either case the composition may be diluted with water prior to use. water can be used to wash away from a surface to be cleaned a composition according to the invention which has been applied to
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a cleaning composition comprising in admixture an organic solvent which is not completely miscible with water and a surfactant capable of forming an emulsion of the solvent in water0 2. a composition according to claim 1 wherein the solvent is immiscible with water0 3. a composition according to claim 1 or claim 2 further comprising a second organic solvent, the second solvent being at least partly miscible with water.   4. a composition according to any preceding claim wherein the kauri-butanol number of one of the solvents exceeds the kauri-butanol number of the other of the solvents by at least 20.   5. a composition according to claim 1 further comprising a second organic solvent and having a solvent power exceeding the weighted average of the respective solvent powers of two sub-compositions which differ from each other only in respect of the organic solvent content, which can be mixed to form the composition comprising two organic solvents, one of which sub-compositions comprises the first organic solvent but not the second organic solvent and the other of which sub-compositions comprises the second organic solvent but not the first organic solvent.    6. a composition according to claim 4 wherein the proportion by weight of the solvent with the lower   kaui-butanol    number exceeds the proportion by weight of the solvent with the higher kauri-butanol number0  7. a composition according to any preceding claim further comprising a second surfactant which is cationic, the first surfactant being anionic and/or non-ionic.   8. a composition according to claim 7 wherein the proportion by weight of the first surfactant exceeds the proportion by weight of the second surfactant.   9. a method of removing printing ink from a surface wherein there is applied to the surface a composition according to any one of claims   l    to 8 and the composition is subsequently removed from the surface by rinsing the surface with water or wiping the surface with an absorbent medium impregnated with water0  
+</CLAIMS>
+</TEXT>
+</DOC>

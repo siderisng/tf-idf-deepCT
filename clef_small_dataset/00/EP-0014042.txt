@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014042
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16F-9/53 E21B-44/00 E21B-17/07 E21B-17/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+borehole drilling apparatus.
+</TITLE>
+<APPLICANT>
+intorala ltdgb<sep>intorala ltd.<sep>intorala ltd.16 justice mill laneaberdeen. ab1 2ep scotlandgb<sep>
+</APPLICANT>
+<INVENTOR>
+ferrier john ericgb<sep>ferrier, john eric<sep>ferrier, john eric9 broadhaven road old portlethenaberdeen scotlandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention relates to a borehole drilling  apparatus.  in known such drills there is a significant loss in drill­ ing rate due to loss of drill bit contact time resulting from  bouncing of the drill bit on the surface being cut with  movement of the bit away from said surface.  according to the present invention a borehole drilling  apparatus is provided with a drill spring comprising first  and second relatively slidable members 1, 2 having a first  chamber 6 for containing a electro-viscous fluid 3 and  connected by a relief passage 12 to a relief chamber 13.   electric field generation means are disposed adjacent the  relief passage 12 for producing an electric field in fluid  passing therethrough in response to movement of the first  member 1 with movement of the drill bit away from the sur­ face being cut.  this results in a substantial resistive force  tending to prevent flow of the fluid 3 through the passage  12 which is however discontinued when movement of the  first member 1 resulting from movement of the bit from the  surface ceases thereby allowing the fluid and first member  to return freely.  
+</ABSTRACT>
+</TEXT>
+</DOC>

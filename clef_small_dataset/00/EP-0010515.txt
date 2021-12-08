@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010515
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-307/86</main> C07D-317/00 A01N-47/28 C07D-317/24 A01N-47/34 C07D-307/00 C07D-307/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+(n-methylcarbamoyl-(2,2-dimethyl-(2h,3h)-dihydrobenzofuran-7-yloxy)-(n'.n".n"-trialkyl urea)-n.n'-sulfide derivatives, process for their preparation, compositions containing these derivatives as active components and their use in combating insects.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+boger manfred<sep>drabek jozef dr<sep>boger, manfred<sep>drabek, jozef, dr.<sep>böger, manfredlindenstrasse 33ch-7858 weil am rhein 5de<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>boger, manfred<sep>drabek, jozef, dr.<sep>böger, manfredlindenstrasse 33ch-7858 weil am rhein 5de<sep>drabek, jozef, dr.benkenstrasse 12ch-4104 oberwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+Compounds of the formula wherein R₁ and R₂ each each each is a C₁-C₄-alkyl group, R₃ is a C₁₋ C₁₀-alkyl or C₃-C₆-cycloalkyl group and R₄ a 2-isopropoxyphenyl;2- (1,3-dioxolane-2-yl) -phenyl;2-methylthio-methylphenyl;Aethylthiomethylphenyl-; 2-isopropylphenyl, 3,5-dimethyl-3-methylthiophenyl;or 2,2-dimethyl- (2H, 3H) -dihydrobenzofuran-7-yl group. They have an effect against pests.They are prepared by reacting in the presence of a base with a connection Ha - R₄ or in the presence of a base with a connection of the formula wherein X is a halogen atom and its preparation.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001198
+</DOCNO>
+<TEXT>
+<DATE>
+19790321
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21J-1/06 C23F-7/06 B21D-22/20 <main>B21D-26/02</main> B21D-26/00 C23C-22/00 B21J-1/00 C25D-11/02 B21D-26/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of articles by the thermoforming of aluminium or magnesium or of aluminium or magnesium base alloys.
+</TITLE>
+<APPLICANT>
+scal gp condit aluminiumfr<sep>scal societe de conditionnements en aluminium<sep>scal societe de conditionnements en aluminium47, rue de monceauf-75008 parisfr<sep>scal societe de conditionnements en aluminium<sep>
+</APPLICANT>
+<INVENTOR>
+baril jacques<sep>gaborieau jean-yves<sep>lheureux philippe<sep>baril, jacques<sep>gaborieau, jean-yves<sep>lheureux, philippe<sep>baril, jacques12, chemin des meronneriesf-78620 etang la villefr<sep>gaborieau, jean-yves21, place l. bossoutrotf-78140 velizyfr<sep>lheureux, philippe7, rue rieussecf-78220 viroflayfr<sep>baril, jacques  <sep>gaborieau, jean-yves<sep>lheureux, philippe<sep>baril, jacques12, chemin des meronneriesf-78620 etang la villefr<sep>gaborieau, jean-yves21, place l. bossoutrotf-78140 velizyfr<sep>lheureux, philippe7, rue rieussecf-78220 viroflayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+This method consists of thermoformer in molds (1) of the rough-walled blanks (2).The demolding problems are resolved thanks to a regular layer of alumina or magnesia artificially formed on the surface of the blank.This process will find its main applications in thin-walled packaging fabrications as well as parts for automotive parts.
+</ABSTRACT>
+</TEXT>
+</DOC>

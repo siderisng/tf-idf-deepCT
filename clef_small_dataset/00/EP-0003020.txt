@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003020
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-14/40 C23C-14/42 C23C-14/36 <main>H01J-37/34</main> C23C-14/50 C23C-14/04 C23C-14/34 C23C-14/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+high frequency sputtering apparatus.
+</TITLE>
+<APPLICANT>
+ibm us<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+bialko joseph alfon<sep>lechaton john s<sep>bialko, joseph alfon<sep>lechaton, john s.<sep>bialko, joseph alfon11 oakwood drivewappingers falls ny 12590us<sep>lechaton, john s.vande water drivewappingers falls ny 12590us<sep>bialko, joseph alfon <sep>lechaton, john s.<sep>bialko, joseph alfon11 oakwood drivewappingers falls ny 12590us<sep>lechaton, john s.vande water drivewappingers falls ny 12590us<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a high frequency sputtering device for the precipitate of materials on substrates.By insulation (5) of the anode shield (45) of the high-frequency sputtering device against earth potential (21), the grounded surfaces exposed to the plasma are reduced, so that the impedance between the plasma and the grounded surfaces is increased.As a result, the reconsideration speed is significantly increased without the system becoming unstable.
+</ABSTRACT>
+</TEXT>
+</DOC>

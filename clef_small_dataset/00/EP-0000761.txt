@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000761
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C08G-18/14</main> C08G-18/65 C08J-9/00 C08G-18/40 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of polyurethane foams.
+</TITLE>
+<APPLICANT>
+bayer agde   <sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+de montigny armand dr<sep>meiners hans-joachim dr<sep>moretto hans-heinrich dr<sep>de montigny, armand, dr.<sep>meiners, hans-joachim, dr.<sep>moretto, hans-heinrich, dr.<sep>de montigny, armand, dr.walter-flex-strasse 17d-5090 leverkusen 1de<sep>meiners, hans-joachim, dr.ringstrasse 25d-5090 leverkusen 17de<sep>moretto, hans-heinrich, dr.formesstrasse 13d-5000 koeln 80de<sep>de montigny, armand, dr.  <sep>meiners, hans-joachim, dr. <sep>moretto, hans-heinrich, dr.<sep>de montigny, armand, dr.walter-flex-strasse 17d-5090 leverkusen 1de<sep>meiners, hans-joachim, dr.ringstrasse 25d-5090 leverkusen 17de<sep>moretto, hans-heinrich, dr.formesstrasse 13d-5000 koeln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the production of non-shrinking foams which contain urethane groups by the reaction of compounds with a molecular weight of from 400 to 100,000 which have at least 2 active hydrogen atoms with polyisocyanates in the presence of water and/or organic blowing agents, silicon compounds and optionally in the presence of catalysts and other auxiliary agents, characterised in that the silicon compounds used are mixtures of compounds of the general formula : r**1 r2 sio-[r2 sio]n [rr**2 sio]n' sir2 r**1 wherein r denotes an alkyl or alkenyl group with up to 3 c atoms, r**2 denotes a chloromethyl group, r**1 represents a group r**2 or r, n' is a whole number or fraction of from 0 to 9, n is a whole number or fraction of from 0 to 9, and n + n' =< 10, n and n' representing the average composition of the mixtures, which are obtained by known hydrolysis of corresponding chlorosilanes and subsequent equilibration, and r**1 being the same as r**2 when n' = 0, which mixtures of compound are used in quantities of from 0. 01 to 2. 0% by weight, based on the compounds with a molecular weight of from 400 to 100,000 which have active hydrogen atoms. 
+</ABSTRACT>
+</TEXT>
+</DOC>

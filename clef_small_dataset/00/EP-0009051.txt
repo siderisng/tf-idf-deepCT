@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0009051
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-9/00 H04Q-5/00 H04Q-5/20 H04M-1/72 H04Q-3/58 H04M-3/60 H04M-3/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+telephone system with a plurality of internal extensions and a plurality of outside lines.
+</TITLE>
+<APPLICANT>
+telecomm electron francfr<sep>compagnie francaise de telecommunications et d'electronique<sep>compagnie francaise de telecommunications et d'electronique15 avenue edouard millaudf-69290 craponne fr<sep>
+</APPLICANT>
+<INVENTOR>
+segura antoine fr <sep>texier arielfr<sep>segura, antoine<sep>texier, ariel<sep>segura, antoine233 8ème avenue résidence le plateauf-69009 lyonfr<sep>texier, ariellieudit "le chameau"f-69000 brindasfr<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

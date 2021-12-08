@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009401
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01M-14/00 H01L-31/07 H01L-31/032 H01L-29/02 H01L-31/06 H01L-29/26 H01L-31/0264 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photovoltaic cells employing a zinc phosphide absorber-generator.
+</TITLE>
+<APPLICANT>
+univ delawareus<sep>university of delaware<sep>university of delawaresouth college avenuenewark, delawareus<sep>
+</APPLICANT>
+<INVENTOR>
+barnett allen mus<sep>catalano anthony wus<sep>delal virkram lus<sep>masi james v us<sep>meakin john d us  <sep>barnett, allen m.<sep>catalano, anthony w.<sep>delal, virkram l.<sep>masi, james v.<sep>meakin, john d.<sep>barnett, allen m.2 polaris drivenewark delawareus<sep>catalano, anthony w.501 west 19th streetwilmington delawareus<sep>delal, virkram l.520 lehigh rd. apt. r2newark delawareus<sep>masi, james v.113 westgate drivewilmington delawareus<sep>meakin, john d.905 baylor drivenewark delawareus<sep>
+</INVENTOR>
+<ABSTRACT>
+a photovoltaic cell of the schottky barrier type, hetero­ junction type of homojunction type.  in order to reduce the cost of such a cell and increase  its energy conversion efficiency and stability, the material  used for the absorber-generator (10) of the cell is zinc  phosphide formed as a slice of a single or multiple crystal  or as a polycrystalline thin film.  in this respect, the zinc  phosphide may be pure or be a related material containing  zinc phosphide in which the characteristics of the zinc  phosphide predominate, such as in a mixed crystalline  structure of zinc cadmium phosphide.  
+</ABSTRACT>
+</TEXT>
+</DOC>

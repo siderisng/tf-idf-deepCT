@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011443
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/74 H01L-21/76 H01L-27/082 H01L-27/06 H01L-29/06 H01L-29/732 <main>H01L-27/06</main> H01L-29/02 H01L-21/763 H01L-29/66 H01L-21/8222 H01L-21/762 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor integrated circuit device.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+sugawara yoshitaka<sep>sugawara, yoshitaka<sep>sugawara, yoshitaka17 moriyamacho-3-chomehitachi-shijp<sep>sugawara, yoshitaka<sep>sugawara, yoshitaka17 moriyamacho-3-chomehitachi-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor integrated circuit device has a thyristor  in a vertical configuration in a semiconductor monocrystal­ line region (1) in a dielectric isolated substrate.  this has a  high breakdown voltage and large current capacity and is  therefore used as a power element.  lower power elements  controlling the thyristor are formed laterally in monocrystal­ line islands (8,9,10) set in a polycrystalline region (12).  the  polycrystalline region (12) is separated from the islands  (8,9,10) by a dielectric film (16) and from the monocrystalline  region by a pn junction (18).  one end of the thyristor is con­ nected to a lead wire (6) through an aluminium electrode (3)  whilst the other end is connected to a stem (5) via solder (4)  and an aluminum electrode (2) which is separated from the  polycrystalline layer by a sio₂ film (14).  the resultant device  achieves a high density of integration and low power loss.   the device can form part of a transistor-transistor-logic cir­ cuit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

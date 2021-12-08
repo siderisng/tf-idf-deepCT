@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017533
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03H-9/00 H03H-9/36 <main>H03H-9/36</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+acoustic delay line with weak direct coupling.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+jacquemin claude<sep>puyhaubert jean<sep>jacquemin, claude<sep>puyhaubert, jean<sep>jacquemin, claude"thomson-csf" scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>puyhaubert, jean"thomson-csf" scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>jacquemin, claude <sep>puyhaubert, jean<sep>jacquemin, claude "thomson-csf" scpi-173, bld haussmann f-75360 paris cedex 08 fr<sep>puyhaubert, jean"thomson-csf" scpi-173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Miniaturized delay line made using a crystal mono (1) traversed by a beam of ultrasound and two electroacoustic transducers (6, 8; 7, 9).It is proposed to attenuate the direct coupling between the input (8) and the output (9) of the delay line by means of a shield (18) molded in Araldite loaded with silver.This molding is set up around the output transducer as well as the connection connecting it to one of the pins (21) of the housing (2) of the housing containing the delay line.Application to miniaturized lines with multiple reflections operating in microwave.
+</ABSTRACT>
+</TEXT>
+</DOC>

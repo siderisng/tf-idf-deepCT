@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012509
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-29/08 H04B-7/24 G06F-13/00 G06F-13/22 G06F-13/20 H04L-5/14 <main>G06F-13/22</main> G06F-13/14 G06F-13/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+function coding system via digital addresses in a communication system.
+</TITLE>
+<APPLICANT>
+motorola incus <sep>motorola, inc. <sep>motorola, inc.1303 east algonquin roadschaumburg, il 60196us<sep>motorola, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+bass robert harrell<sep>lockhart jr robert kennon<sep>macko william john<sep>bass, robert harrell<sep>lockhart, jr., robert kennon<sep>macko, william john<sep>bass, robert harrell5990 n.w. 16th street, 203sunrise florida 33313us<sep>lockhart, jr., robert kennon1132 n.w. 45th terracelauderhill florida 33313us<sep>macko, william john5755 n.w. 58th avenue, 1202tamarac florida 33319us<sep>bass, robert harrell <sep>lockhart, jr., robert kennon<sep>macko, william john<sep>bass, robert harrell5990 n.w. 16th street, 203sunrise florida 33313us<sep>lockhart, jr., robert kennon1132 n.w. 45th terracelauderhill florida 33313us<sep>macko, william john5755 n.w. 58th avenue, 1202tamarac florida 33319us<sep>
+</INVENTOR>
+<ABSTRACT>
+increased efficiency in the use of a communications  channel between a control unit (10) and a multiplicity of  terminal or satellite units (14) by utilizing the combinations  of the unit address code words and their complements as  coded commands and automatically returned responses.   at least one combination of the control unit address code  words and word complements can be manually entered at  any one of the satellite units (14) to serve as a special  response to one combination of the respective satellite  address code words and word complements, to cause a  change of function or operation at the control unit (10).   the system may be coupled to a host computer and nor­ mally the information received by the control unit (10)  would be encoded for transmission to the computer, in  which case the change of function could be the disenabling  of transmission to the host computer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

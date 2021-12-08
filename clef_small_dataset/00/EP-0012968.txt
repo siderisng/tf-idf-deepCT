@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012968
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-67/05 C07C-69/15 B01J-23/44 C07C-67/055 C07C-69/00 B01J-23/00 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of vinyl acetate.
+</TITLE>
+<APPLICANT>
+fernholz hans prof drde<sep>fernholz, hans, prof. dr.<sep>fernholz, hans, prof. dr.taunusstrasse 57d-6233 kelkheim (taunus)de <sep>
+</APPLICANT>
+<INVENTOR>
+fernholz hans prof dr de  <sep>roscher guenter drde<sep>schmidt hans-joachim drde<sep>fernholz, hans, prof. dr.<sep>roscher, guenter, dr.<sep>schmidt, hans-joachim, dr.<sep>fernholz, hans, prof. dr.taunusstrasse 57d-6233 kelkheim (taunus)de<sep>roscher, günter, dr.altkönigstrasse 7d-6233 kelkheim (taunus)de<sep>schmidt, hans-joachim, dr.am burgenblick 6d-6240 königstein/taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+vinyl acetate is prepared in the gas phase from ethylene, acetic acid and oxygen on palladium-containing supported catalysts.  the molar ratio of acetic acid to oxygen in the gas mixture employed is greater than 2:1. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur herstellung von vinylacetat bei der bekannten herstellung von vinylacetat in der gas- phase durch umsetzung von ethylen, essigsäure u,nd m6le kularem sauerstoff an palladiumhaltigen trägerkatalysa- toren werden i. allg. gasgemische eingesetzt, die weniger als 8 vol.-% sauerstoff (bezogen auf das essigsäurefreie gasgemisch) enthalten und in denen die konzentrationsver- hältnisse so gewählt sind, dass das reaktionsgemisch ausser- halb der bekannten explosionsgrenzen liegt. nach den li- teraturangaben können gasgemische verwendet werden, n denen auf 1 mol essigsäure 0,25 bis 2 mol sauerstoff und 1 bis 100 mol ethylen entfallen. nach der japanischen patentanmeldung 3969/65 ist es vorteilhaft, wenn das molverhältnis essigsäure:sauerstoff:ethylen 1 : (1,1 bis 1,3) : (0,75 bis 3) beträgt. es wurde nun gefunden, dass das verhältnis von essigsäure- konzentrafion zur sauerstoffkonzentration im reaktionage- misch besonders kritisch ist und zwar in der weise, da.l bei einem molaren essigsäure:sauerstoff-verhältnis von weniger als 2:1 exotherme nebenreaktionen stattfinden, die zu höherem abbrand, leistungsabfall und schädigung des katalysators führen können. beispielsweise wurde festgestellt, dass eine herabsetzung des essigsäure:sauerstoff verhältnisses von ca. 3 : 1 auf ca. 1,6 : 1 einen sofortigen leistungsabfall zur folge hat, wobei sich auf dem katalysator kohle ablagert. gegenstand der erfindung ist darum ein verfahren zur herstellung von vinylacetat in der gasphase durch umsetzung von ethylen, essigsäure uqd molekularem sauerstoff an palladiumhaltigen trägerkatalysatoren, das dadurch gekennzeichnet ist, dass das molare verhältnis von essigsäure zu sauerstoff im eingesetzten gasgemisch oberhalb von 2 : 1 liegt. vorzugsweise liegt das verhältnis zwischen 2,2 : 1 und 3,5 : 1. zur durchführung des erfindungsgemässen verfahrens wird das ethylen, essigsäure und sauerstoff enthaltende gasgemisch bei temperaturen zwischen 100 und 2200c und bei drücken zwischen 1 und 20 bar über den katalysator geleitet, wobei nicht umgesetzte komponenten im kreise geführt werden können. aus der sicht einer wirtschaftlichen aufarbeitung ist es zweckmässig, die esslgsäurekonzentration im reaktionsgemisch so zu wählen, dass ein möglichst hoher vinylacetatgehalt im rohkondensat und dementsprechend ein hoher essig- säureumsatz erreicht wird. unter umständen ist auch eine verdünnung des reaktionsgemisches mit inerten gasen wie stickstoff oder kohlendioxid vorteilhaft. besonders kohlendioxid eignet sich zur verdünnung bel kreisprozessen, da es in geringen mengen als nebenprodukt gebildet wird. das erfindungsgemässe verfahren wird mit den bekannten, für die acetoxylierung von ethylen in betracht kommenden trägerkatalysatoren durchgeführt. sie enthalten palladium in elementarer form und/oder als verbindung in form eines 'kom- plexes oder eines salzes, wie besonders palladiumacetat. sie enthalten ausserdem neben einem alkaliacetat, wie besonders kaliumacetat, verschiedene aktivatoren, insbesondere gold und/oder cadmlum in elementarer form oder in form von verbindungen. als katalysatorträger kommen alle inerten stoffe in be tracht, die unter den bedingungen der acetoxyllerung ihre mechanische festigkeit nicht verlieren. geeignet sind bei spielswelse kieselsäure, kieselgel, silikate, alumosilikate, aktivkohle, aluminiumoxid, spinelle, zirkon, bimss stein und siliciumcarbld. ein besonders geeignetes träger material ist z.b. eine kieselsäure mit einer oberfläche zwischen 140 und 300 m2/g und einem mittleren porenradius zwischen 50 und 2000 r. das erfindungsgemässe verfahren zeichnet sich dadurch aus, dass man vinylacetat in relativ hohen und vor allem in gleichbleibenden raumzeltausbeuten herstellen kann, so dass es besonders wirtschaftlich ist.
+</DESCRIPTION>
+<CLAIMS>
+   patentansprücne:      1. verfahren zur herstellung von vinylacetat in der gas phase durch umsetzung von ethylen, essigsäure und mole kularem sauerstoff an   palladiumhaltigen    trägerkataly satoren, dadurch gekennzeichnet, dass das molare ver hältnis von essigsäure zu sauerstoff im eingesetzten gasgemisch oberhalb von 2 : 1 liegt.   2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass das molare   sterhältnis    von essigsäure zu sauerstoff im eingesetzten gasgemisch zwischen 2,2 : 1 und 3,5 : 1 liegt.  
+</CLAIMS>
+</TEXT>
+</DOC>

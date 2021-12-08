@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008053
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H02M-1/08</main> G05F-1/44 H02M-1/08 H02M-5/257 H02M-5/02 H02P-13/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+trigger circuit.
+</TITLE>
+<APPLICANT>
+licentia gmbhde<sep>licentia patent-verwaltungs-gmbh<sep>licentia patent-verwaltungs-gmbhtheodor-stern-kai 1d-60596 frankfurtde<sep>licentia patent-verwaltungs-gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+nutz karl-diether dipl-ing<sep>nutz, karl-diether, dipl.-ing.<sep>nutz, karl-diether, dipl.-ing.blumenstrasse 33d-7101 oedheimde<sep>nutz, karl-diether, dipl.-ing. <sep>nutz, karl-diether, dipl.-ing.blumenstrasse 33d-7101 oedheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a trigger circuit with a zero axis crossing detector (t2 , t3 , t4 ) which has two switching paths (t2 , t3 ) which carry current alternately during the two half waves of an a. c.  current and which are both blocked during the zero axis crossing phases of the a. c.  current and having a comparator (t6 , t7 , t8 , t9 , t13 ) and a logic unit (t11 , t12 , r4 , r5 ) connected to the comparator and the zero axis crossing detector, characterized in that the comparator is connected between the logic unit and one of the two switching paths (t2 ) of the zero axis crossing detector such that the comparator which carries current during one half wave of the a. c.  current is only able to initiate switch over of the logic unit and therefore to initiate connection and disconnection of the control load during this half wave. 
+</ABSTRACT>
+</TEXT>
+</DOC>

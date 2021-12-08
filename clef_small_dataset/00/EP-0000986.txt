@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000986
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08C-19/16 G08C-19/22 A61N-1/372 A61N-1/362 <main>A61N-1/36</main> A61N-1/37 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+programmer for implanted pacer.
+</TITLE>
+<APPLICANT>
+biotronik mess & therapiegde<sep>biotronik mess- und therapiegerate gmbh & co ingenieurburo berlin  <sep>biotronik mess- und therapiegeräte gmbh &amp; co ingenieurbüro berlinsieversufer 8d-12359 berlinde<sep>biotronik mess- und therapiegerate gmbh & co ingenieurburo berlin <sep>
+</APPLICANT>
+<INVENTOR>
+coombes alan<sep>digby dennis<sep>keller john walter<sep>coombes, alan<sep>digby, dennis<sep>keller, john walter<sep>coombes, alan8103 28th avenue northnew hope minnesota 55427us<sep>digby, dennis2409 gunflint trailbrooklyn park minnesoita 55444us<sep>keller, john walter8600 s.w. 54th avenuemiami floridaus<sep>coombes, alan <sep>digby, dennis  <sep>keller, john walter<sep>coombes, alan8103 28th avenue northnew hope minnesota 55427us<sep>digby, dennis2409 gunflint trailbrooklyn park minnesoita 55444us<sep>keller, john walter8600 s.w. 54th avenuemiami floridaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a plurality of programming bits are placed into a  parallel in-serially out register (5).  when the programmer  is activated, a monostable (2) resets a counter (3), and  energizes an oscillator (4) which clocks the counter.  three  subintervals from the counter are utilized for pulse width  modulation of the programming signals.  once for each bit,  the output is energized and begins transmitting pulses at  the lowest subinterval rate.  depending upon the logic state  of each bit, the transmission pulse is terminated either at  the second or the third subinterval time.  
+</ABSTRACT>
+</TEXT>
+</DOC>

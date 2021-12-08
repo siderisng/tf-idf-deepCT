@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012050
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+F28D-15/02 H05B-7/00 C03B-5/03 H05B-7/06 <main>H05B-7/02</main> C03B-5/00 F27D-11/08 F27D-11/10 H01R-3/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cooled electrode for making contact with a metal melt.
+</TITLE>
+<APPLICANT>
+siderurgie fse inst rech fr<sep>institut de recherches de la siderurgie francaise (irsid) france  <sep>institut de recherches de la siderurgie francaise (irsid) france185, rue président rooseveltf-78105 saint-germain-en-layefr<sep>institut de recherches de la siderurgie francaise (irsid) france<sep>
+</APPLICANT>
+<INVENTOR>
+antoine martine<sep>cordier jacques<sep>lechevallier christian<sep>antoine, martine<sep>cordier, jacques<sep>lechevallier, christian<sep>antoine, martine22, rue des loriotslorry-les metz f-57000 metzfr<sep>cordier, jacques2, rue principalef-57640 sanry-les-vigyfr<sep>lechevallier, christian26, rue des blanches terrestrémery f-57000 metzfr<sep>antoine, martine <sep>cordier, jacques<sep>lechevallier, christian  <sep>antoine, martine22, rue des loriotslorry-les metz f-57000 metzfr<sep>cordier, jacques2, rue principalef-57640 sanry-les-vigyfr<sep>lechevallier, christian26, rue des blanches terrestrémery f-57000 metzfr<sep>
+</INVENTOR>
+<ABSTRACT>
+An electrical connection device comprising an elongated body (3) for contacting at its end (5) with a molten metal mass (6), including a steel bath and comprising internal cooling means.These cooling means consist of a heat tube (9), known in the trade under the nation "Caloduc", drowned inside the body (3) in a longitudinal direction until the neighborhood of the extremity (5) in contact with the bath (6) and whose free end (10) of the body (3) is placed in a heat exchanger (11).The body (3) further has at its end (5) means (18) for locally limiting the convection movements of the melt (6).The device according to the invention finds a pre-ferential application as a sole electrode for DC arc furnace.
+</ABSTRACT>
+</TEXT>
+</DOC>

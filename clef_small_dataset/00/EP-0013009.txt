@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013009
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01G-49/00 G03G-9/08 H01F-1/37 <main>G03G-9/14</main> G03G-9/083 H01F-1/34 C09D-11/00 C09D-5/23 H01F-1/11 C01G-49/02 H01F-1/032 H01F-1/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic toner and ink.
+</TITLE>
+<APPLICANT>
+canon kkjp <sep>tdk corpjp  <sep>canon kabushiki kaisha<sep>tdk corporation<sep>canon kabushiki kaisha30-2, 3-chome, shimomaruko, ohta-kutokyojp<sep>tdk corporation13-1, nihonbashi 1-chomechuo-ku, tokyo-to 103jp<sep>canon kabushiki kaisha<sep>tdk corporation<sep>
+</APPLICANT>
+<INVENTOR>
+imamura kenji<sep>kurosawa yoshinori<sep>makino motohiko<sep>imamura, kenji<sep>kurosawa, yoshinori<sep>makino, motohiko<sep>imamura, kenjitdk electronics co., ltd. 13-1, nihonbashi 1-chomechuo-ku tokyo 103jp<sep>kurosawa, yoshinoritdk electronics co., ltd. 13-1, nihonbashi 1-chomechuo-ku tokyo 103jp<sep>makino, motohikotdk electronics co., ltd. 13-1, nihonbashi 1-chomechuo-ku tokyo 103jp<sep>imamura, kenji<sep>kurosawa, yoshinori  <sep>makino, motohiko <sep>imamura, kenjitdk electronics co., ltd. 13-1, nihonbashi 1-chomechuo-ku tokyo 103jp<sep>kurosawa, yoshinoritdk electronics co., ltd. 13-1, nihonbashi 1-chomechuo-ku tokyo 103jp<sep>makino, motohikotdk electronics co., ltd. 13-1, nihonbashi 1-chomechuo-ku tokyo 103jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a magnetic toner or ink is used in an electrophotography.   it comprises a resinous component and a magnetic component  having a spinel structure and having the formula    wherein m represents at least one of mn, ni, co, mg, cu, zn or  cd; and x is in a range of 0. 5 to 1 and y is in a range of 0. 1 to  0. 571.  
+</ABSTRACT>
+</TEXT>
+</DOC>

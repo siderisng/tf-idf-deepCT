@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009204
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-11/06 <main>H04N-9/50</main> H04N-9/64 H04N-9/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+colour decoder for a pal- or secam- colour television receiver.
+</TITLE>
+<APPLICANT>
+licentia gmbhde<sep>licentia patent-verwaltungs-gmbh<sep>licentia patent-verwaltungs-gmbhtheodor-stern-kai 1d-60596 frankfurtde<sep>licentia patent-verwaltungs-gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+christiansen peter dipl-ing<sep>kohlbacher gerhard dipl-ing<sep>christiansen, peter, dipl.-ing.<sep>kohlbacher, gerhard, dipl.-ing.<sep>christiansen, peter, dipl.-ing.reutlinger strasse 80d-7900 ulmde<sep>kohlbacher, gerhard, dipl.-ing.im grund 3d-7900 ulmde<sep>christiansen, peter, dipl.-ing.<sep>kohlbacher, gerhard, dipl.-ing.  <sep>christiansen, peter, dipl.-ing.reutlinger strasse 80d-7900 ulmde<sep>kohlbacher, gerhard, dipl.-ing.im grund 3d-7900 ulmde<sep>
+</INVENTOR>
+<ABSTRACT>
+A color decoder for a PAL or SECAM color television receiver is known to contain demodulators (12,22) for the color carrier, delay lines (13,23) for the video frequency color signals and adding stages (14, 21, 31) for obtaining the color difference signals.According to the invention, all these stages are formed as a charging shift circuit, for.b.In the so-called CCD Tech Nik in MOS technology.Through this solution, the color decoder can be technologically particularly easy and for a low power consumption on a semiconductor chip.
+</ABSTRACT>
+</TEXT>
+</DOC>

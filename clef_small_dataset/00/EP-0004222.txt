@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004222
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07C-69/753 C07C-45/65 C07D-317/72 C07C-69/757 C07C-49/493 <main>C07D-317/72</main> C07D-317/00 C07D-319/00 C07J-1/00 C07C-59/80 C07C-69/00 C07C-49/737 C07D-319/08 C07C-49/753 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+4,5-seco-estrane-3,5,17-trione derivatives, process for their preparation and their use for the preparation of therapeutically active compounds.
+</TITLE>
+<APPLICANT>
+roussel uclaf fr  <sep>roussel-uclaf<sep>roussel-uclaf102, route de noisy boíte postale no.993230 romainvillefr<sep>roussel-uclaf<sep>
+</APPLICANT>
+<INVENTOR>
+jolly jean<sep>matra bernard<sep>rizzi primo<sep>jolly, jean<sep>matra, bernard<sep>rizzi, primo<sep>jolly, jean22 rue du clos d'orléansf-94120-fontenay s/boisfr<sep>matra, bernard10 rue de balignyf-93600-aulnay s/boisfr<sep>rizzi, primo26 rue circulairef-93250 villemomblefr<sep>jolly, jean  <sep>matra, bernard <sep>rizzi, primo<sep>jolly, jean22 rue du clos d'orléansf-94120-fontenay s/boisfr<sep>matra, bernard10 rue de balignyf-93600-aulnay s/boisfr<sep>rizzi, primo26 rue circulairef-93250 villemomblefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to novel derivatives of the 3,5-Séco estrane 3,5,17-trione, of formula I: wherein R₁ is an alkyl of 1 to 3 carbones, R₂ a hydrogen or an alkyl of 1 to 5 carbonsand k and k 'identical or different represent a cetone blocked in the form of ketas, their process for preparation, the new intermediates obtained and their application to the preparation of therapeutically active compounds.
+</ABSTRACT>
+</TEXT>
+</DOC>

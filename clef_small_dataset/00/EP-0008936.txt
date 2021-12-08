@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008936
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-279/02 C07D-279/00 A61K-31/282 <main>C07F-15/00</main> A61K-31/28 C07F-15/00 A61P-35/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+platinum complexes, processes for their preparation, pharmaceutical compositions containing them and their use as medicaments.
+</TITLE>
+<APPLICANT>
+kidani yoshinori jp<sep>kidani, yoshinori  <sep>kidani, yoshinori2-718, mataho kodan-jutaku 2-1, mataho-chonishi-ku nagoya-shi aichi-kenjp<sep>kidani, yoshinori <sep>
+</APPLICANT>
+<INVENTOR>
+kidani yoshinori<sep>okamoto koji<sep>saito reiko<sep>kidani, yoshinori<sep>okamoto, koji<sep>saito, reiko<sep>kidani, yoshinori2-718, mataho kodan-jutaku2-1, mataho-cho nishi-ku, nagoya-shijp<sep>okamoto, koji66, higashi-yashikioshikamo-cho toyota-shi, aichi-kenjp<sep>saito, reiko1-10-12, futamura-daitoyoake-shi, aichi-kenjp<sep>kidani, yoshinori<sep>okamoto, koji  <sep>saito, reiko<sep>kidani, yoshinori2-718, mataho kodan-jutaku2-1, mataho-cho nishi-ku, nagoya-shijp<sep>okamoto, koji66, higashi-yashikioshikamo-cho toyota-shi, aichi-kenjp<sep>saito, reiko1-10-12, futamura-daitoyoake-shi, aichi-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+platinum complexes of the general formula:    (wherein a) r₁ and r₂ are the same and each represents a  halogen atom or no₃;   or b) r₁ is so₄ and r₂ is h₂o;   or c) r₁ and r₂ together represent    or a glucuronate moity), the  configuration of the 1-aminomethyl-2-aminocyclohexane  being selected from trans-1, trans-d, cis-1 and cis-d have  been found to exhibit antitumour activiry together with low  toxicity and are thus of potential interest as medicament.  processes for the preparation of the platinum complexes  are described and exemplified and pharmaceutical composi­ tions comprising the platinum complexes as active ingre­ dient are described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

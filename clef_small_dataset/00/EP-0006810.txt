@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006810
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-1/05 H05K-1/18 H05K-3/36 H01L-25/16 H01L-21/48 H05K-3/44 <main>H01L-21/48</main> H01L-21/02 H01L-49/02 H01L-21/98 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of producing an integrated hybrid circuit.
+</TITLE>
+<APPLICANT>
+materiel telephoniquefr<sep>le materiel telephonique s.a.<sep>l.c.c.-c.i.c.e. - compagnie europeenne de composants electroniques50, rue jean-pierre timbaud b.p. 301f-92402 courbevoiefr<sep>l.c.c.-c.i.c.e. - compagnie europeenne de composants electroniques  <sep>
+</APPLICANT>
+<INVENTOR>
+quintin renee le materiel tele<sep>villemant claude marie le mate<sep>quintin, renee le materiel telephonique<sep>villemant, claude marie le materiel telephonique<sep>quintin, renée le materiel telephonique46-47 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>villemant, claude marie le materiel telephonique46-47 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>quintin, renee le materiel telephonique<sep>villemant, claude marie le materiel telephonique<sep>quintin, renée le materiel telephonique46-47 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>villemant, claude marie le materiel telephonique46-47 quai alphonse le gallof-92103 boulogne billancourt cedexfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The integrated hybrid circuit has a partially enamelled steel support.It is part of a plate (20) of crude steel which is first processed to make it suitable to hang a layer of enamel later.Prior to enameling, selected areas are masked for example by a "reserve" layer in organic materials.After deposition of an enamel position (22) on all surfaces of the plate, the deposit is removed on the layers of "reserve".Then the enamel is cooked at high temperatures and the reserve layer is burned and volatilized.The selected and stripped areas on the plate are metallized.They serve welding or gluing areas for semiconductor chips (25).Hybrid integrated circuit for telecom equipment munications.
+</ABSTRACT>
+</TEXT>
+</DOC>

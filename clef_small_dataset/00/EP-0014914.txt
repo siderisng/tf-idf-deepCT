@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0014914
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02H-9/02 H01F-37/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+choke coil for limiting short circuit currents.
+</TITLE>
+<APPLICANT>
+siemens agde  <sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+meintrup walterde<sep>meintrup, walter<sep>meintrup, walter dipl.-ing.am vogelherd 129d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+for limiting short-circuit currents in single- or multi-phase high voltage and low voltage mains systems, an iron choke coil (5) which has two windings (6, 7) which are electrically isolated from one another, is used, in such a way that the load current flows through the primary winding (7) while the secondary winding (6) is short- circuited by a fuse (8) in normal operation.  in the case of a short- circuit, the current on the secondary side of the choke coil reaches the rated current of the secondary winding and operates the fuse.  in this way, the inductive impedance on the primary side of the choke coil increases.  (figure 1).  <image>
+</ABSTRACT>
+<DESCRIPTION>
+drossel zur begrenzung von kurzschlussströmen zur begrenzung von gurzschlussströmen in hochspannungsnetzen ist der einsatz von luftdrosselspulen bekannt, die in abhängigkeit vom belastungsstrom einen spannungsabfall erzeugen. ist die drossel beispielsweise auf einen spannungsabfall # u = 10 % an der drossel be- messen, dann ergibt sich, auf die verkettete spannung eines netzes bezogen, im nennbetrieb laufend ein nenn spannungsabfall #un = #3. #u also von 17,32 % der bennspannung. da die reaktanz des netzes zusätzlich einen lastabhängigen spannungsabfall verursacht, sind luftdrosseln im einblick auf die geforderte spannungskonstanz des netzes nur bedingt einsetzbar. der erfindung liegt die aufgabe zugrunde, einen im netz auftretenden kurzschlussstrom mittels einer drossel zu begrenzen, an der eine im nennbetrieb möglichst niedrige und von der last möglichst unabhängige, im eurzschlussàll dagegen hohe spannung abfällt. gemäss der erfindung wird diese aufgabe dadurch gelöst, dass die drossel eine eisen drossel mit zwei galvanisch voneinander getrennten wicklungen je phase ist, von denen die eine (primärwicklung) vom verbraucherstrom durchflossen und die andere (sekundärwicklung) durch eine auf ihren nennstrom ansprechende abschaltvorrichtung kurzgeschlossen ist. an hand eines in der zeichnung dargestellten aus- fuhrungsbeispiels wird die erfindung im folgenden näher erläutert. in der zeichnung ist eine sammelschiene 1 mit mehreren über schalter 2 schaltbaren abzweigen in einphasiger darstellung angedeutet. die sammelschiene ist über einen weiteren schalter 3 an ein hoch- oder niederspannungsnetz anschliessbar. zur begrenzung von kurzschlussströmen liegt in der das netz und den schalter 3 verbindenden leitung die primärwicklung 7 einer eisen- drossel 5, deren sekundärwicklung 6 über eine abschaltvorrichtung kurzgeschlossen ist. an stelle der in der zeichnung als schmelzsicherung 8 dargestellten abschaltvorrichtung, deren auslösestrom auf den nennstrom der sekundärwicklung abgestimmt ist, kann eine beispielsweise aus elektronischen bauelementen aufgebaute abschaltvorrichtung oder ein schnellscbalter eingesetzt sein. der induktive spannungsabfall an der primärwicklung der drossel wird in jedem belastungsfall von der sekundärwicklung kompensiert, solange der ansprechstrom der sicherung nicht erreicht wird. bis zum ansprechen der sicherung verhält sich die eisendrossel wie eine luft drossel. der widerstand dieser luftdrossel ist abhängig von der induktivität der spule in luft. für diese gilt: u0 . a0 . nê l0= 1 darin ist: 0 = magnetische feldkonstante in luft ao = verbleibender luftquerschnitt nach abzug des eisenquerschnittes der spule n = anzahl der windungen 1 = weglänge der magnetischen peldlinien im kurzschlussfall erreicht der in der sekundärwicklung fliessende strom den ansprechwert der sicherung, so dass der strom bereits im anstieg unterbrochen wird. damit entfallen die gegenamperewicklungen der sekundärwicklung und die induktivität der spule geht über in 0 . r . ar . nê lr = 1 darin ist: r = relative permeabilität ar = eisenquerschnitt das verhältnis der beiden widerstandswerte ist also im wesentlichen von a abhängig. da mit normalem dynamoblech ein p r p von 10.000 erreichbar ist, lässt sich auch eine entsprechende widerstands erhöhung im kurzschlussfall erreichen, solange der eisenkern nicht in sättigung geht. diese grosse widerstandszunahme im kurzschlussfall ermöglicht es, die windungszahl der primärseite und damit den spannungsabfall im nennbetrieb klein zu halten. so genügt in der praxis eine einzelwindung auf der primärseite mit einem verketteten spannungsabfall,
+</DESCRIPTION>
+<CLAIMS>
+   patentaneprüche    1. drossel zur begrenzung von in ein- oder mehrphasigen   stromversorgungsnetzen    auftretenden   eurzechlussströmen,    d a d u r c h g e k e n n z e i c h n e t , dass die drossel eine   eisendrossel    (5) mit zwei galvanisch voneinander getrennten wicklungen je phase ist, von denen die eine (primärwicklung 7) vom verbraucherstrom durchflossen und die andere (sekundärwicklung 6) durch eine auf ihren nennstrom ansprechende abschaltvorrichtung (8) kurzgeschlossen ist.    2. drossel nach anspruch 1, d a d u r c h g e k e n n z e i c h n e t , dass die relative permeabilität des eisenkerns der drossel (5) gross und die anzahl der windungen der primärwicklung (7) klein ist.   3. drossel nach anspruch 1 oder 2, d a d u r c h g e k e n n z e i c h n e t , dass die primärwicklung (7) der drossel (5) in der das netz (4) mit der sammelschiene (1) einer schaltanlage verbindenden leitung liegt.  
+</CLAIMS>
+</TEXT>
+</DOC>

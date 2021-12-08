@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001548
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01L-25/12</main> H01L-25/10 H01L-25/07 H01L-25/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+high power converter with cooled diodes connected in parallel.
+</TITLE>
+<APPLICANT>
+siemens ag de<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+bardahl nils dr<sep>kliesch gunter<sep>bardahl, nils, dr.<sep>kliesch, gunter<sep>bardahl, nils, dr.alb.-schweitzer-strasse 15d-8521 uttenreuthde<sep>kliesch, günterwaldstrasse 19d-8521 bubenreuthde<sep>bardahl, nils, dr.  <sep>kliesch, gunter<sep>bardahl, nils, dr.alb.-schweitzer-strasse 15d-8521 uttenreuthde<sep>kliesch, günterwaldstrasse 19d-8521 bubenreuthde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a high-performance transducer, as used, for example, in chemical plants. The high-performance stream converter has a forcibly cooled, for example, air-cooled busbar (1), on the width side of which two rows of converter valves (2) are electrically conductively fixed. Each series of converter valves is assigned a band-shaped terminal current rail (3, 4) and each converter valve (2) is electrically conductively connected to a connection point of the associated terminal current rail (3 or 4). The connection points can be fuses (6). The two terminal current rails are distance from each other and are arranged at right angles for the converter valves occupied with converter valves (1a) of the busbar. In such high performance streams with a plurality of parallel switches in converter valves (2) is to ensure uniform current distribution along the busbar (1) to ensure the uniform load of all converter valves as possible. for reducing and comparing the occurring inductors, of which the uniform power distribution depends substantially, the connecting rails (3, 4) are formed so broadly and arranged at such a distance from each other, that the four-triangular four-mounted (F₁) by them are in shape and surface The square (F₂) corresponds to the outer boundaries of the forced-cooled busbar (1) and the connections for the converter valves are located on the inner surfaces facing each other (3b, 4b) of the terminal current rails (3, 4).
+</ABSTRACT>
+</TEXT>
+</DOC>

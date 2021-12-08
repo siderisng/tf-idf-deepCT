@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003144
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-405/04 C07D-401/04 A61K-31/4418 A61K-31/455 A61P-31/00 <main>C07D-213/80</main> A61K-31/4427 C07D-213/00 C07D-405/00 C07D-211/00 C07D-213/80 C07D-401/00 A61K-31/4425 C07D-213/89 A61P-31/04 A61P-25/00 A61K-31/443 A61K-31/4409 A61P-25/26 C07D-211/90 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+4-pyridone-3-carboxylic acid derivatives, pharmaceutical compositions containing them, processes for their preparation, their application.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+wick alexander eduard dr<sep>wick, alexander eduard, dr.<sep>wick, alexander eduard, dr.mühlestiegstrasse 34ch-4125 riehench<sep>wick, alexander eduard, dr.<sep>wick, alexander eduard, dr.mühlestiegstrasse 34ch-4125 riehench<sep>
+</INVENTOR>
+<ABSTRACT>
+4-pyridone-3-carboxylic acid derivatives of the general formula wherein R¹ is C₁₋₈-alkyl, C₃₋₁₀-cycloalkyl, C₃₋₁₀-cycloalkyl-C₁₋₋-alkyl, C₁₋₋-alkoxy or C₁₋₋-alkoxy-C₁₋ ₆-alkyl; R² hydrogen or C₁₋₋ alkyl; R³, if applied by R⁴, R⁵ and / or R⁶, phenyl, phenethyl or styryl radical or a possibly substituted by R⁷, one or more n-atoms-containing aromatic heterocyclic 6-ring bound via a ring C atom is; R⁴ and R⁵ halogen, trifluoromethyl, hydroxy, C₁₋₋ alkoxy, C₁₋₋ alkylthio, C₁₋₋ alkyl, amino, acylamino, C₁₋₋ alkylamino, DI-C₁₋₋-alkylamino, nitro, a via one Ring N or -C atom bound 5- or 6-membered heterocycle or both radicals R⁴ and R⁵ together C₁₋₋ alkylenedioxy; R⁶ C₁₋₋ alkoxy and R⁷ halogen, hydroxy, C₁₋₋ alkoxy, C₁₋₋ alkylthio, C₁₋₋ alkyl, amino, C₁₋₋-alkylamino or DI-C₁₋₋-alkylamino, - - with the Restriction that R² is not hydrogen when R¹ is methyl and at the same time R³ phenyl - and their salts whose production is in a conventional manner and their use in therapy and prophylaxis of diseases.
+</ABSTRACT>
+</TEXT>
+</DOC>

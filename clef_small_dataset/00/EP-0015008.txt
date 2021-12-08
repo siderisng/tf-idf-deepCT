@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015008
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C03C-25/10 C03C-25/42 C04B-14/44 C04B-14/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for increasing the alkali resistance of glass objects
+</TITLE>
+<APPLICANT>
+werhahn & nauende<sep>werhahn & nauen<sep>werhahn &amp; nauenkönigstrasse 84d-4040 neussde <sep>
+</APPLICANT>
+<INVENTOR>
+biehl uwede   <sep>gaar hansde<sep>gudjons juergen drde<sep>kissing wolfgang drde<sep>reiner roland drde<sep>biehl, uwe<sep>gaar, hans<sep>gudjons, juergen, dr.<sep>kissing, wolfgang, dr.<sep>reiner, roland, dr.<sep>biehl, uwesaalburgallee 36d-6000 frankfurt/mainde<sep>gaar, hansniederhöchstädter strasse 18d-6374 steinbachde<sep>gudjons, jürgen, dr.karl-ulrich-strasse 9d-6360 friedberg-3 (dorheim)de<sep>kissing, wolfgang, dr.gartenstrasse 8d-6250 limburg-linterde<sep>reiner, roland, dr.gehspitz 11d-6236 eschbornde<sep>
+</INVENTOR>
+<ABSTRACT>
+the alkali resistance of the glasses, in particular the cement lye resistance of glass fibres, is increased by providing the glass article with a metal and/or metal oxide coating.  the metals or metal oxides used are transition metals from groups iiia, iva and va of the periodic table.  preference is given to iron or iron oxide or vanadium, titanium, chromium, manganese, cobalt, zirconium, or copper, or oxides thereof. 
+</ABSTRACT>
+<DESCRIPTION>
+verfahren zur erhöhung der alkali beständigkeit von glasgegenständen die erfindung betrifft ein verfahren zur erhöhung der alkalibeständigkeit von glasgegenständen, insbesondere der zementlaugenbeständigkeit von glasfasern, bei dem die gegenstände mit einer beschichtung auf metallbasis versehen werden. die festigkeit von zement-, mörtel- und betonteilen gegen zug, biegung und schlag ist im allgemeinen nicht zufriedenstellend. durch zusatz von z.b. glasfasern kann eine genügende festigkeit erzielt werden. diese glasfasern werden jedoch durch die hohe alkalität des zementes so stark angegriffen, dass die verstärkende wirkung nach einiger zeit ganz aufgehoben ist. zur erhöhung der korrosionsfestigkeit werden die als zu schlagstoffe für zement dienenden glasfasern z.b. mit kunststoff überzogen. diese kunststoffbeschichtungen besitzen jedoch nur eine schlechte haftung zur glasoberfläche. hinzu kommt, dass der uberzug nicht auf dauer dicht bleibt. anstelle von normalerweise als zuschlagstoffe verwendeten glasfasern aus a- und e-glas können auch fasern aus alkalibeständigen gläsern, z.b. aus dem systemna2o2-zro2-sio2, eingesetzt werden. solche fasern werden zwar weit weniger alsa-/e-glas angegriffen, jedoch tritt lediglich eine verzögerung der zerstörung ein. ausserdem besteht der nachteil, dass diese gläser bedeutend schwieriger geschmolzen und zu fasern gezogen werden können als a-/e-glas. ferner ist bekannt, die oberfläche der glasfasern mit beschichtungen auf metallbasis zu versehen, um eine genügende zementlaugenbeständigkeit zu erhalten. so wird z.b. mit salzlösungen von beryllium, zirkonium, wismut, cadmium, magnesium, lanthan und mangan eine gewisse schutzwirkung bei glasfasern erzielt.(inorganic materials, 8 (1972), 1332 - 1334; de-os 2402 661). die aufbringung von salzlösungen genannter metalle führt jedoch nicht zu erwünschten ergebnissen, da die so behandelten glasfasern auf die dauer keine genügende zetnentlaugenresistenz aufweisen. zur vermeidung dieser nachteile wird ferner vorgeschlagen, zinkverbindungen auf glasfasern zusammen mit einem schlichtemittel abzuscheiden (de-os 24 03 751). die verwendeten organischen schlichten sollen die auf die fasern aufgezogenen zinkverbindungen vor abrieb schützen, führen aber dazu, dass die beschichtung aus zinkverbindung nicht genügend fest auf der glasoberfläche haftet. der vorliegenden erfindung liegt daher die aufgabe zugrunde, unter vermeidung der nachteile bekannter verfahren die oberfläche von glasfasern, die an sich keine zementlaugenbe ständigkeit, aber günstige mechanische eigenschaften wie hohe festigkeit und e-modul aufweisen, dauerhaft resistent gegen den angriff der zement lauge zu machen. es hat sich nun gezeigt, dass sich diese aufgabe in technisch fortschrittlicher weise lösen lässt, wenn die beschichtung aus mindestens einem in alkali stabilen, nicht-edlen metall der ubergangselemente, der gruppen iiia, iva und va des periodensystems, einem oxyd dieser metalle und/oder mischungen dieser metalle und metalloxyde besteht. besonders geeignet sind beschichtungen aus vanadin, titan, chrom, mangan, obalt, zirkon, cadmium, wismut, cer, indium, kupfer, deren oxyden und/oder deren mischungen. es hat sich gezeigt, dass mit einer beschichtung aus eisen eisenoxyden und/oder mischungen des eisens und eisenoxyds besonders vorteilhafte ergebnisse erzielt werden können. die verwendeten metalle bzw. deren oxide müssen bis zu einem ph-wert von 12 - 13 stabil sein. die aufbringung der beschichtung auf die glasoberfläche kann in an sich bekannter weise nach verschiedenen methoden erfolgen. z.b. werden lösungen von organischen verbindungen genannter metalle auf die zu beschichtende glasoberfläche aufgespritzt. vorzugsweise ist die oberfläche zuvor auf eine zur pyrolyse der verbindung ausreichende temperatur erhitzt. so erfolgt ein
+</DESCRIPTION>
+<CLAIMS>
+ patentansprüche 1. verfahren zur erhöhung der alkalibeständigkeit von glas gegenständen, insbesondere der zementlaugenbeständigkeit von glasfasern, bei dem die gegenstände mit einer be schichtung auf metallbasis versehen werden, dadurch ge kennzeichnet, dass die beschichtung aus mindestens einem, in alkali stabilen, nichtedlen metall der   tibergangselemente,    der gruppen   iiia,      iva    und va des periodensystems, einem oxyd dieser metalle und/oder mischungen dieser metalle und metalloxyde besteht.    2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass die beschichtung aus vanadin, titan, chrom, mangan, kobalt,   zirkon, cadmium, wismut, cer, indium, kupfer, deren oxyden und/oder deren mischungen besteht.   3. verfahren nach anspruch 1, dadurch gekennzeichnet, dass die beschichtung aus eisen, eisenoxyden und/oder mischungen des eisens und eisenoxyds besteht.  
+</CLAIMS>
+</TEXT>
+</DOC>

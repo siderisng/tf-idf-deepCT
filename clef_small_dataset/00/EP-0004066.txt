@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004066
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/41 A61K-31/55 C07D-211/42 A61P-25/08 A61K-31/495 C07D-211/14 C07C-213/00 C07D-241/00 <main>C07C-93/06</main> C07D-227/00 A61K-31/135 A61K-31/395 A61K-31/13 C07C-217/00 C07C-67/00 C07D-223/00 C07D-211/00 C07D-211/06 A61K-31/40 C07D-227/04 C07D-295/08 C07D-211/46 A61K-31/445 C07D-241/04 C07D-295/092 C07D-295/00 A61P-25/00 C07D-223/04 C07C-217/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-(4-aminobutoxy)stilbenes and pharmaceutical compositions containing these substances.
+</TITLE>
+<APPLICANT>
+mitsubishi chem indjp <sep>mitsubishi chemical industries limited <sep>mitsubishi kasei corporation5-2, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi chemical industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+egawa mitsuo<sep>fukami harukazu<sep>kikumoto ryoji<sep>ninomiya kunihiro<sep>tobe akihiro<sep>egawa, mitsuo<sep>fukami, harukazu<sep>kikumoto, ryoji<sep>ninomiya, kunihiro<sep>tobe, akihiro<sep>egawa, mitsuo5-1, tsutsujigaoka midori-ku yokohama-shikanagawajp<sep>fukami, harukazu7-5, fujigaoka 2-chome midori-ku yokohama-shikanagawajp<sep>kikumoto, ryoji1521-29, nogaya-cho machida-shitokyojp<sep>ninomiya, kunihiro5-1, tsutsujigaoka midori-ku yokohama-shikanagawajp<sep>tobe, akihiro3031, noborito tama-ku kawasaki-shikanagawajp<sep>egawa, mitsuo  <sep>fukami, harukazu<sep>kikumoto, ryoji<sep>ninomiya, kunihiro<sep>tobe, akihiro<sep>egawa, mitsuo5-1, tsutsujigaoka midori-ku yokohama-shikanagawajp<sep>fukami, harukazu7-5, fujigaoka 2-chome midori-ku yokohama-shikanagawajp<sep>kikumoto, ryoji1521-29, nogaya-cho machida-shitokyojp<sep>ninomiya, kunihiro5-1, tsutsujigaoka midori-ku yokohama-shikanagawajp<sep>tobe, akihiro3031, noborito tama-ku kawasaki-shikanagawajp<sep>
+</INVENTOR>
+<ABSTRACT>
+2-(4-aminobutoxy) stilbenes of the general formula    wherein r is (1) -    wherein r1  and r₂ which are alike or different are selected from the group  consisting of hydrogen and c₁-c₅ alkyl or    wherein z is selected  from the group consisting of -ch₂-,    wherein r₃ is c₁-c₅  alkyl,    -- and    wherein r4 is hydrogen, c₁-c₅ alkyl or c₁-c₅  hydroxyalkyl; m and n are each integers of 0 to 7; and m + n is  an integer of 1 to 7, or the acid addition salts thereof found  useful as pharmaceutical agents, particularly as anticonvulsants  and skeletal muscle relaxants, and pharmaceutical  compositions containing these substances are disclosed.  these compounds are prepared by reacting 2-(4-halogenobutoxy)  stilbene with an amine of formula r-h  wherein r is as defined above.  
+</ABSTRACT>
+</TEXT>
+</DOC>

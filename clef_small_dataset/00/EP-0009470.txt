@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009470
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+B21B-31/04 B23Q-5/22 B21B-31/16 B21B-31/00 B23Q-5/40 B21B-31/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device permitting the realization of coaxial, even micrometric, displacements between two movable machine parts, even under a very high antagonistic load.
+</TITLE>
+<APPLICANT>
+gabrielli ernesto <sep>gabrielli, ernesto<sep>gabrielli, ernestovia vacchereccia, 3i-50122 firenzeit<sep>
+</APPLICANT>
+<INVENTOR>
+gabrielli ernesto<sep>gabrielli, ernesto<sep>gabrielli, ernestovia vacchereccia, 3i-50122 firenzeit<sep>
+</INVENTOR>
+<ABSTRACT>
+each spindle has two threaded portions with the same direction but different pitch.  the spindles are inserted in threaded holes in two mobile machine parts, each hole having a thread corresp.  with the threads on the spindles.  on one end of each spindle is a wormwheel, and a worm is used to rotate two wormwheels to achieve a speed redn.  in the r. p. m.  of the spindles w. r. t.  worm.  when the spindles are rotated, the two machine parts move in the same direction, but the gap between the parts is altered due to the different pitch of the threads.  the gap between two rolls in a rolling mill can be varied by e. g.  0. 001mm for one revolution of the worm. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007613
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+F41G-7/26 <main>G02F-1/17</main> H04B-10/142 H04B-10/00 F41G-7/20 H04B-10/04 G01S-1/70 G01C-15/00 H04B-10/152 H04B-10/06 G02F-1/17 G02F-1/01 G01S-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for spatially encoding a laser beam, comprising a stark cell modulator.
+</TITLE>
+<APPLICANT>
+hughes aircraft cous<sep>hughes aircraft company<sep>hughes aircraft company7200 hughes terrace, p.o. box 80028los angeles, california 90080-0028us<sep>hughes aircraft company<sep>
+</APPLICANT>
+<INVENTOR>
+abrams richard l<sep>henderson david m<sep>abrams, richard l.<sep>henderson, david m.<sep>abrams, richard l.922 enchanted waypacific palisades, californiaus<sep>henderson, david m.8163 billowvista driveplaya del rey, californiaus<sep>abrams, richard l.<sep>henderson, david m.<sep>abrams, richard l.922 enchanted waypacific palisades, californiaus<sep>henderson, david m.8163 billowvista driveplaya del rey, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for coding a laser beam to provide guidance  signals, or the like.  in the transmitter, the laser beam traverses  two modulators to provide two-dimensional encoding.  in the  receiver, the detected signals are amplified, frequency-­ discriminated, and mixed to form guidance signals.  the mod­ ulator is a modified stark cell wherein four split longitudinal  planar electrodes allow for beam encoding as a function of  two frequencies by the process of molecular absorption.  bias  and modulating signals applied to the electrodes interact with  the molecular absorbing gas and with the beam to encode  position information as a function of the specific frequencies.   the amplitude of the first encoding frequency varies from a  maximum at one edge of the beam, decreasing to a minimum  at the opposite edge, and vice versa for the second encoding  frequency.  the amplitudes of both are equal on beam center.   a second embodiment utilizes a pair of internal bias elec­ trodes and four external electrodes to apply bias and modulat­ ing signals.  the modulator wall is thin for penetration of the  modulating signals so as to interact with the beam.  a third  embodiment utilizes four semicircular disc electrodes trans­ parent to laser light affixed to the cell endcaps to provide both  bias and modulation.  a gap separates electrodes affixed to  the same endcap.  the endcaps are oriented such that the gaps  are mutually perpendicular to allow for orthogonal encoding  of the beam.  
+</ABSTRACT>
+</TEXT>
+</DOC>

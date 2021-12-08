@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000284
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B23K-1/20</main> H05K-1/00 H05K-3/24 B23K-1/012 B23K-1/015 H05K-3/22 H05K-3/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for reflowing solder of solder plated substrates and substrates formed thereby.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+ammann hans hugo<sep>oien michael ackman<sep>ammann, hans hugo<sep>oien, michael ackman<sep>ammann, hans hugort. 1, box 188achester new jersey 07930us<sep>oien, michael ackman3 hillcrest avenuechatham new jersey 07928us<sep>ammann, hans hugo  <sep>oien, michael ackman<sep>ammann, hans hugort. 1, box 188achester new jersey 07930us<sep>oien, michael ackman3 hillcrest avenuechatham new jersey 07928us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process and machine are disclosed for reflowing solder  plated continuous flexible circuit webs.  during reflow in  a vapour environment, the flexible web is maintained in a  planar orientation to produce a relatively uniform distribution  of solder.  between the chamber (130) containing the  vapour (142) and a further chamber (131) containing a liquid  (140) exists a liquid vapour interface (137) which provides a  seal.  virtually all of the heat transfer fluid used in producing  the vapour is recovered and retained.  
+</ABSTRACT>
+</TEXT>
+</DOC>

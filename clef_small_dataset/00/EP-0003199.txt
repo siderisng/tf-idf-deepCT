@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003199
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/403 A61P-25/00 C07D-401/00 C07D-401/04 A61P-25/24 A61P-1/00 <main>C07D-401/04</main> A61P-25/18 A61K-31/4427 A61P-25/26 A61K-31/4439 A61K-31/44 A61K-31/404 A61K-31/445 A61P-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tetrahydropyridinyl indole derivatives and their salts, process for their preparation, their use as medicines and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+roussel uclaf fr<sep>roussel-uclaf<sep>roussel-uclaf102, route de noisy boíte postale no.993230 romainvillefr<sep>roussel-uclaf <sep>
+</APPLICANT>
+<INVENTOR>
+dumont claude<sep>guillaume jacques<sep>nedelec lucien<sep>dumont, claude<sep>guillaume, jacques<sep>nedelec, lucien<sep>dumont, claude33, rue du maréchal vaillantf-94130 nogent sur marnefr<sep>guillaume, jacques11, allée hélène boucherf-93270 sevranfr<sep>nedelec, lucien45, boulevard de l'ouestf-93340 le raincyfr<sep>dumont, claude<sep>guillaume, jacques  <sep>nedelec, lucien<sep>dumont, claude33, rue du maréchal vaillantf-94130 nogent sur marnefr<sep>guillaume, jacques11, allée hélène boucherf-93270 sevranfr<sep>nedelec, lucien45, boulevard de l'ouestf-93340 le raincyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to new derivatives of tetrahydro pyridinyl indole and their salts, their process for preparing, their application as drugs and pharmaceutical compositions containing them.Said derivatives respond to the formula: wherein R 'is hydrogen, halogen, 1 to 3 carbon alkoxy, R₁ and R₂ represent a hydrogen, an alkyl of 1 to 3 carbons, x' is an alkyl from 1 to 6Carbons, a cycloalcoyl of 4 to 7 carbons, alkenyl or alkynyl of 2 to 5 carbons or an aralcoyl of 7 to 12 carbons.If x 'is a methyl, at least one of the substituents R', R₁ and R₂ has more than one carbon and if x 'is a benzyl, at least one of the substituents R', R₁ and R₂ is different from hydrogen.The derivatives have antidepressant, neuroleptic and anti-emetary properties.
+</ABSTRACT>
+</TEXT>
+</DOC>

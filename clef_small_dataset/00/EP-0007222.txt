@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007222
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-11/00 <main>H01Q-1/38</main> H01Q-21/06 H01Q-11/04 H01Q-21/24 H01Q-13/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stripline antennas.
+</TITLE>
+<APPLICANT>
+secr defence britgb<sep>the secretary of state for defence in her britannic majesty's government of the united kingdom of great britain and<sep>secretary of state for defence in her britannic majesty's gov. of the united kingdom of great britain and northern irelandwhitehalllondon sw1a 2hbgb<sep>the secretary of state for defence in her britannic majesty's government of the united kingdom of great britain and<sep>
+</APPLICANT>
+<INVENTOR>
+hall peter scott<sep>hall, peter scott<sep>hall, peter scott32 charlbury roadshrivenham, swindon wiltshiregb<sep>hall, peter scott<sep>hall, peter scott32 charlbury roadshrivenham, swindon wiltshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a length of microstrip line (3) turns through successive  right-angle corners to form a rectangular pattern comprising  successive quartets (a,b,c,d) of such corners.  each right-angle  corner radiates with a polarisation which is predominantly  diagonal, and the strip lengths (8,9) between the corners of  each quartet are made such, in relation to the operating  wavelength in the strip, that the radiation from each quartet  sums to produce a desired polarisation direction, e. g.  vertical,  horizontal, or circular of either hand.  some forms of the stripline  antenna can be used in a resonant as well as a travelling-wave  mode, the latter giving a main lobe whose direction  sweeps with frequency.  
+</ABSTRACT>
+</TEXT>
+</DOC>

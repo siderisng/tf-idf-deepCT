@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006501
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-1/20 C07C-11/02 C07C-1/00 <main>C07C-1/20</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of olefins from methyl alcohol or dimethyl ether.
+</TITLE>
+<APPLICANT>
+basf agde <sep>basf aktiengesellschaft <sep>basf aktiengesellschaft carl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+marosi laszlo dr<sep>schwarzmann matthias dr<sep>stabenow joachim dr<sep>marosi, laszlo, dr.<sep>schwarzmann, matthias, dr.<sep>stabenow, joachim, dr.<sep>marosi, laszlo, dr.londoner ring 11d-6700 ludwigshafende<sep>schwarzmann, matthias, dr.carl-bosch-strasse 54d-6703 limburgerhofde<sep>stabenow, joachim, dr.am feldrain 22d-6940 weinheimde<sep>marosi, laszlo, dr. <sep>schwarzmann, matthias, dr.<sep>stabenow, joachim, dr.  <sep>marosi, laszlo, dr.londoner ring 11d-6700 ludwigshafende<sep>schwarzmann, matthias, dr.carl-bosch-strasse 54d-6703 limburgerhofde<sep>stabenow, joachim, dr.am feldrain 22d-6940 weinheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the preparation of olefins, especially olefins with a large proportion of ethylene, by conversion of methanol and/or dimethyl ether in the gas phase, at a temperature of from 250 to 600 degrees c, preferably at from 330 to 480 degrees c, and at a pressure of up to about 30 bars, over a zeolite-containing catalyst of the h-zsm-5 type, at least 50% by weight of water being added to the starting materials before the conversion, wherein a zeolite-containing catalyst is used which has an sio2 /al2 o3 molar ratio of less than 70, and the throughput is selected so as to give complete conversion of the starting materials. 
+</ABSTRACT>
+<DESCRIPTION>
+herstellung von olefinen aus methanol bzw. dimethyläther in der de-os 24 38 252 ist die umvandlung von methabol bzw. dimethyläther in aromatische verbindungen mit hilfe von zeolithkatalysatoren beschrieben, wobei als ausgangsmaterial auch rohmethanol verwendet werden kann. durch erhöhung der belastung des katalysators kommt man zu überwiegeng gasförmigen reaktionsprodukten, die auch olefine enthalten. wegen der ungünstigen produktzusarmensetzung des erhaltenen gangsmisches und wegen der verfahrenstechnischen nachteile ist jedoch eine wirtschaftliche herstellung von olefinen, wie äthylen, propylen und sutylen, auf diese weise nicht möglich. insbesondere beträgt der anteil des äthylens imk umsetzungsprodukt nur etwa 8 bis 10 %. mit der erhöhung der belastung ist ausserdem ein starken rückgang des umsatzes verbunden, und die ab trennung der gebildeten kohlenwas- serstofae vom nicht umgesetzten dimethyläther ist technisch aufwendig. auch die grosse wärmetönung der rektion verusacht verfarenstechnische probleme. aus der de-os 26 15 150 ist bekannt, methanol bzw. dimethyläther bei unteratmosphärischem partialdruck oder durch verdünnung des zufuhmaterials mit wasserdampf, stickstoff, wasserstoff, kohlendioxid oder einem paraffin mit bis zu 5 kohlenstoffatomen umzusetzen. dabei wird als katalysator der zeolith h-zsm-5 eingesetzt, der vorzugsweise ein sio2/al2o3-verhältnis von wenigstens 70 aufwei sen soll. als hauptprodukt entstehet bei der umsetzung propylen. es war die aufgabe gestellt, ein verfahren zu entwickeln, bei dem die umsetzung von methanol br. dimethyläther zu besseren ausbeuten an c2-c4-olefinen führt und insbesondere der äthylenanteil im reaktionsprodukt erhöht wird. es wurde nun gefunden, dass man bei der herstellung von olefinen durch umsetzung von methanol un/oder dimethyl äther in gegenwart von zeolithischen katalysatoren in der gasphase bei temperaturen von 2500 bis 60000 verbesserte ausbeuten ar. olefinen und insbesondere eine erhöhung des äthylenanteils erzielt, wenn man den ausgangsstoffen vor der umsetzungs mindestens 50 gew.% wasser zusetzt. eine zwekmässige ausführungsform besteht darin, dass man als verdünnungsmittel 50 bis 80 gew.% wasser vervendet. in dies er wassermenge ist das durch dehydratisierung von methanol bzw. dimethyläther nach der folgenden gleichung entstehende wasser nicht enthalten: emi2.1 <tb> 2 <sep> ca30h <sep> zuch3qhc:3-0-c3 <sep> + <sep> h20 <sep> 9ast., <sep> (ce:2)x <sep> + <sep> 2 <sep> ,0 <tb> der wassergehalt wird auf methanol bzw. bei verwendung von diemethyläther auf die nacn gleichung äquivalente menge methanol bezogen. dieses ergebnis war überraschend, da zeolithe im allge mennen gegen wasserdampf nicht beständig sind, so dass durch hohe wasserdampfkonzentrationen eine zerstörung der kristallstruktur und damit eine rasche inaktivierung des katalysators zu erwarten war. es ist weiterhin überra- schend, dass der anteil an äthylen t reaktionsprodukt wesentlich höher liegt als bei einer entsprechenden (höhung der belastung. erfindungsgemäss wird die oben beschriebene beschickung bei temperaturen zwischen 250 bis 600 c, vorzugsweise zwischen 330 bis 480 , und bei einem druck von normalruck bis etwa 30 bar mit einem zeolithhaltigen katalysator in berührung gebracht. es werden dabei vorzugsweise zeolithe der zsm gruppe, insbesondere der zeolith h-zsm-5 als katalysator eingesetzt. es ist zur erzielung einer hinreichend hohen aktivität erforderlich, dass der zeolith teilweise oder ganz in seiner wasserstofform vorliegt. besonders bevorzugt wird daher der zeolithe h-zsm-5 als katalysator. 3ei der durchführung des erfindungsgemässen verfahrens ist es vorteilhaft, wenn der zeolith h-zsm-5 ein sio2/al2o3
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche 1. verfahren zur herstellung von olefinden durch ümsetzung von   methanol    und/oder dimethyläther in gegenwart von   zeo-       lithhaltigen    katalysatoren in der   gasphase    bei temperatu- ren von 250  bis 600 c, dadurch gekennzeichnet, dass den   ausgangs stoffen    vor der umsetzung   mindestens    50 gew.% wasser   zusetzt.      2.   verfahren    nach anspruch 1 dadurch gekenzeichnet, dass man als katalisator zeolith h-zsm-5 verdendet.   3. verfahren nach anspruch 2, dadurch gekennzeichnet, dass man einen zeolicht h-zsm-5 verwendet, der ein sio2/al2o3 molverhältnis von kleiner als 70 aufweist.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004872
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/306 H01L-21/308 <main>H01L-21/306</main> H01L-21/02 C09K-13/00 C23F-1/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+solution for the etching of silicon wafers having a well-defined etching rate and method resulting therefrom.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporation old orchard roadarmonk, n.y. 10504us <sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+berkenblit melvin<sep>green dennis clinton<sep>kaufman frank benjamin<sep>reisman arnold<sep>berkenblit, melvin<sep>green, dennis clinton<sep>kaufman, frank benjamin<sep>reisman, arnold<sep>berkenblit, melvin2232 ridge streetyorktown heights new york 10598us<sep>green, dennis clinton10 hillcrest drivepeekskill new york 10566us<sep>kaufman, frank benjamin500 east 85th streetnew york 10028us<sep>reisman, arnold2294 vancortland circleyorktown heights new york 10598us<sep>berkenblit, melvin<sep>green, dennis clinton <sep>kaufman, frank benjamin<sep>reisman, arnold  <sep>berkenblit, melvin 2232 ridge streetyorktown heights new york 10598us<sep>green, dennis clinton10 hillcrest drivepeekskill new york 10566us<sep>kaufman, frank benjamin500 east 85th streetnew york 10028us<sep>reisman, arnold2294 vancortland circleyorktown heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+Solution and method for stripping silicon slices.A quaternary solution comprising ethylene-diamine, water, pyrocatechin and a predetermined amount of a diazine, provides a controlled speed of stripping.In a preferred embodiment the solution comprises from 700 to 800ml of ethymene-diamine, from 200 to 250 ml of water, from 100 to 150g of pyrocatechin and 2 to 4g of diazine per liter of ethylene-diamine.It seems difficult to use more than 4g of diazine per liter due to presence when stripping insoluble residues, despite the sensitive increase in the stripping speed.The preferred diazines are 1,2-diamine and 1,4-diazine.The invention can be ultilic to manufacture silicon nozzles for inkjet printers or V-MOS field effect transistors.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002362
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-1/00 F26B-17/00 <main>B29F-3/03</main> B29B-13/00 B29B-13/06 B29B-9/00 B29C-47/76 B29B-7/00 F26B-17/20 B29C-47/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+screw vent for devolatilizer.
+</TITLE>
+<APPLICANT>
+french oil mill machineryus<sep>the french oil mill machinery company<sep>the french oil mill machinery companyp.o.box 920piqua ohio, 45356us<sep>the french oil mill machinery company<sep>
+</APPLICANT>
+<INVENTOR>
+craig gregory c<sep>craig, gregory c.<sep>craig, gregory c.4377 west brunson lanepiqua, ohio 45356us<sep>craig, gregory c.<sep>craig, gregory c.4377 west brunson lanepiqua, ohio 45356us<sep>
+</INVENTOR>
+<ABSTRACT>
+a vent for a devolatilizer includes a vent opening (20) in  the cage (10) of the devolatilizer and a vent duct (22) which  communicates with the vent opening.  vapour escapes into  the cylindrical vent chamber (24) in the vent duct.  the  chamber is cleaned by a vent screw which is rotated in the  chamber and includes a screw body (26) of minimal diameter  and a helical screw flight portion (28) of a pitch which is  sufficiently large such that the velocity of the vapour leaving  the cage through the vent duct is maintained below a  predetermined maximum vapour velocity.  this maximum  vapour velocity is set such that the amount of fine material  which is entrained in the escaping vapour is minimized.  a  vapour outlet (48) is connected to the vent chamber for  extracting vapour from the chamber so that it may be  recycled or disposed of.  
+</ABSTRACT>
+</TEXT>
+</DOC>

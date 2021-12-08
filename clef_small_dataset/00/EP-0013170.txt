@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013170
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+B64D-13/06 G05D-22/00 F24F-3/14 F24F-6/02 <main>F24F-6/02</main> F24F-3/12 B64D-13/00 G05D-23/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+humidification system.
+</TITLE>
+<APPLICANT>
+lockheed corp us<sep>lockheed corporation  <sep>lockheed corporation2555, north hollywood wayburbank california 91520us<sep>lockheed corporation <sep>
+</APPLICANT>
+<INVENTOR>
+halfpenny paul francis<sep>passarelli camillo luigino<sep>starrett philip shofield<sep>halfpenny, paul francis<sep>passarelli, camillo luigino<sep>starrett, philip shofield<sep>halfpenny, paul francis17142 strathern streetvan nuys, california 91406us<sep>passarelli, camillo luigino10813 alta view drivelos angeles, california 91604us<sep>starrett, philip shofield371 brockmont drivelos angeles, california 91202us<sep>halfpenny, paul francis <sep>passarelli, camillo luigino  <sep>starrett, philip shofield<sep>halfpenny, paul francis17142 strathern streetvan nuys, california 91406us<sep>passarelli, camillo luigino10813 alta view drivelos angeles, california 91604us<sep>starrett, philip shofield371 brockmont drivelos angeles, california 91202us<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved humidification system for jet-powered  commercial aircraft comprising an evaporator (2, 14) adapted  to add moisture to a gas flow, a gas flow control system (34)  for applying to the evaporator (2, 14) a gas flow having an  internal energy sufficient to vaporize the moisture and a  temperature measuring system (24, 26) for measuring the  temperature of the gas flow exiting from the evaporator for  regulating the amount of moisture added to the gas flow so as  to maintain the evaporator exit temperature constant is dis­ closed.  in a particular embodiment, the humidification system  (1) consists of a tank (2) having an outlet duct (6) adapted to  deliver moisturized air to the passenger compartment of the  aircraft, a water injection system (14) adapted to flow water  into the tank (2) upon the temperature within the outlet duct  (6) rising above a preselected value and to terminate water  flow upon the temperature falling below the preselected  value, and a gas flow control system (34) coupled to the tank  (2) and adapted to control the flow of air into the tank at a rate  such that the air has sufficient internal energy to vaporize the  water.  an evaporator plate system (50) is incorporated within  the tank (2) to ensure that all the injected water is vaporized  before exiting the tank (2).  additionally, a demisting filter (66)  is mounted between the evaporator plate system (50) and the  outlet duct (6) to ensure that all particulate matter is removed  from the moisturized air before leaving the tank (2).  
+</ABSTRACT>
+</TEXT>
+</DOC>

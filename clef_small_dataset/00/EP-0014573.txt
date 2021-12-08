@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014573
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+F23R-3/04 F23R-3/60 F23R-3/08 F23R-3/00 <main>F23R-3/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gas turbine combustion chamber.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+glenn robert gurth<sep>glenn, robert gurth<sep>glenn, robert gurth3454 surrey road huntingdon valleypittsburgh, pennsylvaniaus<sep>glenn, robert gurth<sep>glenn, robert gurth3454 surrey road huntingdon valleypittsburgh, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a combustion chamber (10) for a gas turbine engine  having a step-liner configuration and providing a double wall  defining an annular confined cooling air flow passage (19)  along the outer surface of the chamber.  the outer wall of the  double-wall configuration is provided by a concentric  cylindrical baffle member (20) supported in radially spaced  relation from the combustion chamber wall by a plurality of  leaf spring members (36) providing a basing force between  the combustion chamber wall and the baffle member so that  relative thermal growth between the combustion chamber  wall and the baffle can be accommodated by deflection of the  support springs or by axial sliding between the springs and  the chamber wall.  the unique feature of this invention is to provide baffles  as flexibly mounted parts to form a double wall effect which  eliminates all strain problems normally associated with a  double wall construction with a high temperature gradient  between the walls.  
+</ABSTRACT>
+</TEXT>
+</DOC>

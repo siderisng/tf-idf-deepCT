@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002434
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03M-11/18 G08C-23/04 H03M-11/14 H04B-1/20 G08C-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+remote control for the controlling and switching and the commuting of functions and of control magnitudes in telecommunication equipment.
+</TITLE>
+<APPLICANT>
+ruppertsberg siegfried r<sep>ruppertsberg, siegfried r.<sep>ruppertsberg, siegfried r.weinstrasse 1d-8630 coburgde<sep>
+</APPLICANT>
+<INVENTOR>
+ruppertsberg siegfried r<sep>ruppertsberg, siegfried r.<sep>ruppertsberg, siegfried r.weinstrasse 1d-8630 coburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+in wireless and wirebound remote controls of telecommunications equipments, such as television and radio receiving equipments, the setting information signals are on the actuation of appropriate functional keys (21) transmitted through a transmitting stage (23, 32) and received in the equipment to be controlled and fed after demodulation to the functional setters.  the number of functions to be driven is restricted to the number of keys (21) maximally standing at disposal.  for the purpose of the enlarged use of a remote control and to be able to control a plurality of functions with least possible keyboards, the control commands are put into a computer (22) integrated in the remote control transmitter and converted by this through recorded programs into setting information signals which are transmitted through the transmitting stage (23, 32) to the receiver.  the computer (22) lets itself be programmed for different signal evaluations with the aid of program carriers (31) which can be read in.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

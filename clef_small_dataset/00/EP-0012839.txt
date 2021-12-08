@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012839
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05F-1/46</main> H03K-5/00 G05F-1/10 H03K-5/13 G05F-1/46 H03K-19/0175 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for adjusting the different time delays of semiconductor chips by changing the working voltage.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation<sep>international business machines corporation old orchard road armonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+brosch rudolf dr<sep>schettler helmut<sep>schumacher hans dr<sep>zuehlke rainer dr<sep>brosch, rudolf, dr.<sep>schettler, helmut<sep>schumacher, hans, dr.<sep>zuehlke, rainer, dr.<sep>brosch, rudolf, dr.seestrasse 104d-7032 sindelfingende<sep>schettler, helmutjägerstrasse 23d-7405 dettenhausende<sep>schumacher, hans, dr.kimbernstrasse 75d-7036 schönaichde<sep>zuehlke, rainer, dr.rainstrasse 3d-7250 leonberg 7de<sep>brosch, rudolf, dr.<sep>schettler, helmut <sep>schumacher, hans, dr.<sep>zuehlke, rainer, dr.  <sep>brosch, rudolf, dr. seestrasse 104d-7032 sindelfingende<sep>schettler, helmutjägerstrasse 23d-7405 dettenhausende<sep>schumacher, hans, dr.kimbernstrasse 75d-7036 schönaichde<sep>zuehlke, rainer, dr.rainstrasse 3d-7250 leonberg 7de<sep>
+</INVENTOR>
+<ABSTRACT>
+To adjust the signal delay times of Hal leading chips, a digital control circuit is provided on each chip. It influences the signal delay time by changing the supply voltage. The digital control circuit includes a comparative scarf device (4) in which the signal delay of a clock pulse in a chain (1) of inverters (2) is compared to the very precisely defined th bar interval. Depending on the comparison of the comparison, the meter reading of a two-device counter (13) is increased by 1 or decreases. The meter reading is decoded via a decoder (17) which changes the divider ratio of a voltage divider by to or turn off each of a plurality of parallel resistors (R1 to R7) by means of a multiple transistors (T1 to T7). As a result, the chip voltage present on the tap (D) of the voltage divider is changed, which is supplied to an emitter follower (T8). The voltage (Vr) dispensed by this voltage is supplied to the semi-terchip as a supply voltage and influences its signal delay time. The steps described are repeated so often until the difference Δt between the arrival of a delayed by the chain of inverters and the subsequent unionized clock pulse is zero. The decoder is constructed so that it always makes as many transistors conductive as the meter reading.
+</ABSTRACT>
+</TEXT>
+</DOC>

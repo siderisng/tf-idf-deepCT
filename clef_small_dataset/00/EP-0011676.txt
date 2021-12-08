@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011676
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-13/00 <main>C04B-35/54</main> H01R-39/00 H01R-39/26 H01R-39/20 C04B-41/38 C04B-35/52 H01R-43/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making a multi-elemental electrical contact brush.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation<sep>
+</APPLICANT>
+<INVENTOR>
+lee pang kai<sep>lee, pang kai<sep>lee, pang kai3602 forbes trail drivemurrysville, pennsylvaniaus<sep>lee, pang kai<sep>lee, pang kai3602 forbes trail drivemurrysville, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+graphite particles as small as 38 microns are cleaned,  dried and chemically plated with copper or silver.  one or  multiple chemical platings may be carried out to provide a  uniform and thick metal coating.  the plated powders are dried  and then molded into a desired shape under heavy pressure in  a hydraulic press or the like after which the molded shape is  sintered under a hydrogen atmosphere for the subsequent  fabrication into monolithic or multi-elemental brushes for  high-current collectors.  
+</ABSTRACT>
+</TEXT>
+</DOC>

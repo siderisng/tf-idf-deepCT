@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014138
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23B-31/12 <main>G01M-1/04</main> B23B-31/14 G01M-1/00 G01M-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for mounting vehicle wheels on a balancing apparatus.
+</TITLE>
+<APPLICANT>
+muller & cie ets mfr<sep>etablissements m. muller & cie<sep>etablissements m. muller &amp; cie50-56, rue des tournellesf-75140 paris cedex 03fr<sep>etablissements m. muller & cie  <sep>
+</APPLICANT>
+<INVENTOR>
+coetsier paul<sep>coetsier, paul<sep>coetsier, paul4, impasse jean macéf-77500 chellesfr<sep>coetsier, paul<sep>coetsier, paul4, impasse jean macéf-77500 chellesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  device for attaching vehicle wheels to a balancing machine provided with a rotary shaft, comprising a mounting-plate (4) equipped with wheel-studs (5) which are intended to engage in the rim (7) of the wheel (11) to be balanced, and nuts (9) for attaching the wheel (1) which are adapted to be screwed on the wheel-studs (5), characterized in that, in order to ensure automatic self-tightening of the nuts (9) and selfcentering of the wheel (1) after simply screwing-up the attachment nuts (9) by hand, this being achieved by setting the mounting-plate (4) in rotation, the mounting-plate (4) comprises a disk (11) which is coaxial with the rotary shaft (3) and rigidly fixed to this latter, a ring (14) surrounding the disk (11) and carrying crank-plates (15) which are equal in number to the number of wheel-studs (5) and of holes (6) of the wheel (1), which are pivotally mounted on the ring (14) and at each end of which is fixed a wheel-stud (5), the crank-plates (15) being coupled to the central disk (11) by driving means which provide these crank-plates (15) with one degree of freedom of rotation with respect to the disk (11). 
+</ABSTRACT>
+</TEXT>
+</DOC>

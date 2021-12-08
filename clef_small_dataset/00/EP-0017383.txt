@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017383
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 G01S-15/89 G10K-11/34 G10K-11/00 G01S-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+ultrasonic imaging system.
+</TITLE>
+<APPLICANT>
+gen electric co plcgb<sep>the general electric company, p.l.c.<sep>the general electric company, p.l.c.1 stanhope gatelondon w1a 1ehgb<sep>
+</APPLICANT>
+<INVENTOR>
+brown harold thomasgb<sep>groves raymond derekgb<sep>brown, harold thomas<sep>groves, raymond derek<sep>brown, harold thomas82 mount park roadeastcote pinner middlesex, ha5 2jugb<sep>groves, raymond derek18 farmdale road greenwichlondon, s.e.10gb<sep>
+</INVENTOR>
+<ABSTRACT>
+an ultrasonic imaging system utilising a multi-element  ultrasonic transducer array for transmission and reception of  ultrasonic signals wherein a different number of elements (l)  is used in reception compared to transmission so as to  reduce sidelobes in the resultant ultrasonic beam pattern.   the elements may also be focussed to a different focal length  in reception compared to transmission so as to obtain  increased depth of field.  
+</ABSTRACT>
+</TEXT>
+</DOC>

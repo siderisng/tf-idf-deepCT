@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004623
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-211/00 B01J-31/02 B01J-31/00 C07C-209/10 B01J-31/06 C07C-213/02 C07C-211/52 C07C-213/00 <main>C07C-85/04</main> C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of aromatic amines.
+</TITLE>
+<APPLICANT>
+bayer agde <sep>bayer aktiengesellschaft<sep>bayer ag 51368 leverkusen de <sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+klauke erich dr<sep>kysela ernst dr<sep>lantzsch reinhard dr<sep>marhold albrecht dr<sep>klauke, erich, dr.<sep>kysela, ernst, dr.<sep>lantzsch, reinhard, dr.<sep>marhold, albrecht, dr.<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthalde<sep>kysela, ernst, dr.auf dem kamm 17d-5060 bergisch-gladbach 3de<sep>lantzsch, reinhard, dr.heymann-strasse 32d-5090 leverkusende<sep>marhold, albrecht, dr.carl-duisberg-strasse 329d-5090 leverkusende<sep>klauke, erich, dr. <sep>kysela, ernst, dr.  <sep>lantzsch, reinhard, dr.<sep>marhold, albrecht, dr.<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthalde<sep>kysela, ernst, dr.auf dem kamm 17d-5060 bergisch-gladbach 3de<sep>lantzsch, reinhard, dr.heymann-strasse 32d-5090 leverkusende<sep>marhold, albrecht, dr.carl-duisberg-strasse 329d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of aromatic amines by reacting activated halogen compounds with aqueous ammonia solution at elevated temperature, characterised in that the activated halogen compounds used are those of the formula  see diagramm : ep0004623,p5,f2 wherein hal represents cl or br z1 and z2 independently of one another represent no2 , h or cf3 , but do not simultaneously represent h and/or cf3 , r1 and r2 independently of one another represent h, c1 -c4 -alkyl, c1 -c4 -alkoxy, cl or br and r3 represents r1 or r2 or cf3 and the reaction is carried out in the presence of phase transfer catalysts. 
+</ABSTRACT>
+</TEXT>
+</DOC>

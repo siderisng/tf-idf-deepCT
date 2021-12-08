@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007816
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+B66C-23/90 B66C-23/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for aiding the operation of a crane.
+</TITLE>
+<APPLICANT>
+eaton corpus<sep>eaton corporation<sep>eaton corporation100 erieview plazacleveland ohio 44114us<sep>
+</APPLICANT>
+<INVENTOR>
+geppert stevenus<sep>geppert, steven<sep>geppert, steven1382 forbes drivebloomfield hills, michigan 48013us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a crane operating aid for a crane  having a boom (22) which is luffed by a plurality of hydraulic  lift rams (32).  each ram having a lower or high pressure  chamber (41) and an upper or lower pressure chamber (39),  the upper chambers (39) of all the rams (32) being intercon­ nected.  the crane operating aid comprises a plurality of sen­ sors (56r, 56l) responsive to the pressures in the respective  lower chambers (41) of the rams (32), and a single sensor  (56u) responsive to the pressure in the upper chambers (39).   the crane operating aid also has logic means responsive to  the signals from the sensors (56r,56l,56u) for determining  the boom reaction forces, preferably by averaging the pres­ sures in the lower chambers (41) and taking the difference  between the average and the pressures in the upper cham­ bers (39).  the logic means can be a load moment computer,  which may also be responsive to transducers which monitor,  for example, boom length and boom angle.  the boom reac­ tion forces can be used to determine the total effective crane  load, which can be displayed on a console.  the console can  also display the percentage of a load capacity as a function of  the crane manufacturer's published load rating tables.  
+</ABSTRACT>
+</TEXT>
+</DOC>

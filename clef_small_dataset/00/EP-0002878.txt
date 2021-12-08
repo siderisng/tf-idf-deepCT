@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002878
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B65H-9/16</main> B65H-11/00 B65H-9/16 G03G-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sheet alignment apparatus.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+rhodes john huntley jr<sep>rhodes, john huntley, jr.<sep>rhodes, john huntley, jr.1225 south terry streetlongmount colorado 80501us<sep>rhodes, john huntley, jr.<sep>rhodes, john huntley, jr.1225 south terry streetlongmount colorado 80501us<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for aligning a travelling sheet (20) of paper  against a reference edge (23) parallel to the direction (24)  of sheet travel, comprises a first roll (21) skewed towards  the reference edge (23) in the direction (24) of sheet travel  and a mating roll (22) on the opposite side of the sheet  travel path skewed oppositely to the first roll (21) away from  the reference edge (23) in the direction (24).  the coefficient  of friction of the first roll (21) is higher than the  coefficient of friction of the second roll (22), so that the  paper is moved into the reference edge with a controlled  small resultant force.  the arrangement maintains a high  forward drive force on the paper while minimising the edge  force tending to crumple the paper when in contact with  the reference edge.  
+</ABSTRACT>
+</TEXT>
+</DOC>

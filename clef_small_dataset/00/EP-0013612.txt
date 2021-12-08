@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013612
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-25/02 C07D-239/74 C07D-409/00 C07D-239/90 A61P-9/08 C07D-239/00 C07D-405/00 C07D-211/32 C07D-239/80 C07D-239/96 C07D-211/00 C07D-401/14 A61K-31/4523 C07D-401/06 C07D-401/00 C07D-405/14 <main>C07D-401/06</main> A61P-25/00 A61P-9/00 A61K-31/505 C07D-409/14 A61K-31/517 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+(piperidinylalkyl)quinazoline derivatives, process for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+janssen pharmaceutica nvbe<sep>janssen pharmaceutica n.v.  <sep>janssen pharmaceutica n.v.turnhoutsebaan 30b-2340 beersebe<sep>janssen pharmaceutica n.v.<sep>
+</APPLICANT>
+<INVENTOR>
+kennis ludo edmond josephine<sep>van der aa marcel josef maria<sep>van heertum albert henricus ma<sep>vandenberk jan<sep>kennis, ludo edmond josephine<sep>van der aa, marcel josef maria catharina<sep>van heertum, albert henricus maria theresia<sep>vandenberk, jan<sep>kennis, ludo edmond josephineparklaan 5b-2350 vosselaarbe<sep>van der aa, marcel josef maria catharinamerellaan 46b-2350 vosselaarbe<sep>van heertum, albert henricus maria theresiaalbertstraat 10b-2350 vosselaarbe<sep>vandenberk, jankempenlaan 15b-2340 beersebe<sep>kennis, ludo edmond josephine<sep>van der aa, marcel josef maria catharina<sep>van heertum, albert henricus maria theresia<sep>vandenberk, jan<sep>kennis, ludo edmond josephineparklaan 5b-2350 vosselaarbe<sep>van der aa, marcel josef maria catharinamerellaan 46b-2350 vosselaarbe<sep>van heertum, albert henricus maria theresiaalbertstraat 10b-2350 vosselaarbe<sep>vandenberk, jankempenlaan 15b-2340 beersebe<sep>
+</INVENTOR>
+<ABSTRACT>
+quinazoline derivatives of the formula    wherein ra is hydrogen or alkyl and and q is 2 or 3;   r is hydorgen, hydroxy and alkyl;   alk is an alkylene chain having from 1 to 4 carbon atoms and q  is a quinazolinyl radical, the 1-, 2-, 3- or 4-position of which is  connected with the alkylene side chain, said quinazolinyl radi­ cal bearing in one or both of its 2-and 4-positions a carbonyl  or thiocarbonyl group, wherein the benzene ring of said  quinazolinyl radical is optionally substituted with 1 to 3 sub­ stituents each independently selected from the group consist­ ing of halo, alkyl; alkyloxy, trifluoromethyl, nitro and cyano,  and wherein the pyrimidino ring of said quinazolinyl radical  may be partly or fully saturated, said pyrimidino ring being  optionally substituted with 1 to 3 substituents independently  selected from the group consisting of alkyl, aryl and  aryl(lower alkyl);   wherein said aryl as used in the definition of said ar and of  said q is a member selected from the group consisting of  phenyl, substituted phenyl, thienyl and pyridinyl, wherein  said substituted phenyl has from 1 to 3 substituents each  independently selected from the group consisting of halo,  lower alkyl, lower alkyloxy, trifluoromethyl and amino.  these  derivatives are serotonin antagagonists.  further are  described compounds of the formula    (q, alk and r have the same meaning as above), r₈ and r₉  being hydrogen, halogen, alkyl, alkoxy, cf₃ and amino, hav­ ing the same activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

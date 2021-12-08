@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0013268
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01T-1/11 A61L-2/02 <main>A61L-2/02</main> G01T-1/02 A61L-2/025 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for sterilising thermoluminescent dosimeters.
+</TITLE>
+<APPLICANT>
+oesterr forsch seibersdorfat<sep>wien stadtat<sep>oesterr forsch seibersdorf  <sep>stadt wien<sep>österreichisches forschungszentrum seibersdorf ges.m.b.h.kramergasse 1a-1010 wienat<sep>stadt wienneues rathausa-1141 wienat<sep>osterreichisches forschungszentrum seibersdorf gesellschaft m.b.h.<sep>stadt wien <sep>
+</APPLICANT>
+<INVENTOR>
+merkel karl dr med<sep>ryvarden gunnar dr med<sep>merkel, karl dr. med.<sep>ryvarden, gunnar, dr.med.<sep>merkel, karl dr. med.hirschengasse 6a-1060 wienat<sep>ryvarden, gunnar, dr.med.michaelerstrasse 23, st. 18a-1180 wienat<sep>merkel, karl dr. med. <sep>ryvarden, gunnar, dr.med.<sep>merkel, karl dr. med.hirschengasse 6a-1060 wienat<sep>ryvarden, gunnar, dr.med.michaelerstrasse 23, st. 18a-1180 wienat<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process to sterilize thermoluminescene dosimeters, in particular lithium fluoride dosimeters, where the stored information on the radiation dose absorbed by the dosimeter is retained, characterized by the fact that the dosimeter is immersed in a liquid and exposed to ultrasonic waves of the 40 khz frequency range. 
+</ABSTRACT>
+<DESCRIPTION>
+7erfahren zur sterilisation von thermolumineszenz dosimetern. die erfindung bezieht sich auf ein verfahren zur sterilisation von thermolumineszenzdosimetern, insbesondere von lithiumfluoriddosimetern, ohne die im dosimeter gespeicherte information über die absorbierte strahlenmenge zu löschen. durch die verschiedensten heil- und diagnoseverfahren, bei welchen strahlen eingesetzt werden, wird der behandelnde arzt und das hilfspersonal einer zusätzlichen strahlungsbelastung ausgesetzt. aus der literatur und aus verordnungen der zuständigen behörden sind höchstzulässige grenzen für die vierteljahres-, die jahres- und die lebensalterdosis bekannt. diese toleranzgrenzen sind so festgelegt, dass eine schädigung des der strahlung ausge se-tzten personenkreises vermieden wird. voraussetzung für die einhaltung dieser toleranzen ist allerdings, dass diese personen dosimeter tragen, welche über die entsprechende empfindlichkeit verfügen und von der betreffenden person während der zeit einer möglichen strahlungsbelastung getragen werden. das sogenannte thermolumineszenzdosimeter erfüllt die gestellten anforderungen. dosimeter dieser bauart weisen beispielsweise lithiumfluorid-kristalle auf, die beispielsweise auf einer kleinen lochkarte befestigt sind, wodurch eine vollautomatische auswertung erleichtert ist. derartige thermolumineszenzdosimeter erlauben selbst bei der routineanwendung noch eine dosis von 3 mrem genau zu erfassen. die auswertung der gespeicherten daten ist relativ einfach. die mit strahlung beaufschlagten dosimeter werden erhitzt, wobei eine lichtemission auf tritt. der physikalische ablauf ist wie folgt: die im detektorkristall durch strahlung freigesetzten elektronen werden in fehlstellen des kristallgitter eingefangen und werden in dieses als information über die vom detektor absorbierte dosis gespeichert. führt man dem detektor jedoch, z.b. durch erwärmung,zu- sätzliche energie zu, so werden die elektronen aus den fehlstellen des kristallgitters freigesetzt und geben die hiebei freiwerdende energie in form von sichtbarem lumineszenzlicht ab. die intensität dieser lumineszenz stellt daher ein mass für die im kristall absorbierte strahlendosis dar, die für die in vielen bereichen der medizinischen anwendung dieser thermolumineszenzdosimeter notwendige sterilisation von thermolumineszenzdosimetern, z.b.fingerringdosimetern kann daher nicht mit der üblicherweise durchgeführten wasserdamdfsteri- 0 lisation bei 134 c erfolgen, da die im dosimeter gesnei- cherten informationen hiedurch teilweise gelöscht werde das für die sterilisation übliche rein chemische desinfektionsverfahren, z.b. mit gasförmigen desinfektionsmitteln wie äthylenoxyd' ist prinzipiell geeignet, bedingt jedoch einen sehr hohen zeitaufwand, so dass die gefahr besteht, dass die benützung des dosimeters aus zeitgründen entweder unterbleibt oder mehrere dosimeter vençendet werden, wobei die gefahr einer nicht vollständigen erfassung der strahlungsbelastung durch unachtsamkeit des benützers bzw. auch die gefahr von verwechslungen sehr gross ist. bei der verwendung mehrerer dosimeter akkumulieren auch die durch die auswertung bedingten ungenauigkeiten. ein anderes verfahren zur sterilisation, das bereits auf dem med-izinischen sektor eingeführt ist, beruht auf der wirkung von ultraschall. mit ultraschall werden jene,mechanischen schwingungen in festen, flüssigen oder gasförmigen körpern bezeichnet, deren frequenz jenseits der hörgrenze liegt. es existiert ein eigener zweig der chemie, die sogenannte sonochemie, die sich mit der umsetzung von chemischen stoffen unter einwirkung von ultraschall beschäftigt. so ist beispiels weise bekannt, dass tetrachlorkohlenstoff unter einwirkung xon ultraschall unter chlorbildung zersetzt wird, acryl nitrii polymerisiert, bei aluminium kann der oxidfilm zerstört werden und dgl. zur erklärung dieser phänomene wird angeführt, dass sich in den flüssigkeiten sogenannte kavitationsblasen bilden, bei deren kollaps kurzzeitig temperaturen zwischen 40q und 2.4000 c auftreten. die desinfektionswirkung von
+</DESCRIPTION>
+<CLAIMS>
+patentanspruch.   verfahren zur sterilisation von   thermolumineszenzdosi    metern, insbesondere von lithiumfluoriddosimetern unter aufrechterhaltung der   gespeicherten    information über die im dosimeter absorbierte strahlendosis, dadurch gekennzeichnet, dass das dosimeter in einer, gegebenenfalls ein desinfektionsmittel enthaltenden flüssigkeit, vorzugsweise wasser, eingetaucht wird und darin mit ultraschall, insbesondere mit einer frequenz im bereich von 40 khz, beschallt wird.  
+</CLAIMS>
+</TEXT>
+</DOC>

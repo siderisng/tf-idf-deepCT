@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010149
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03M-1/12 <main>G05F-3/20</main> H01L-27/088 G05F-3/24 H01L-27/08 G05F-3/08 H01L-27/085 H01L-29/60 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reference source for fet integrated circuits and method using such a reference source.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+rossler bernward dipl-ing<sep>rossler, bernward, dipl.-ing.<sep>rössler, bernward, dipl.-ing.franz-reber-weg 6d-8000 münchen 71de<sep>rossler, bernward, dipl.-ing.<sep>rössler, bernward, dipl.-ing.franz-reber-weg 6d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+Reference source on an integrated FET block, where two separate butts (VDD / VSS) powered by the same DC power source (VDD / VSS) in each case the series circuit of at least one IG-FET (F1) and at least one working resistance (R1 ), in each case a tap between one of the Ig-Fets (F1) and one of the working resistors (R1) in each stage is brought, between the taps of the stages a differential voltage (RS) defined value occurs, which directly itself as a reference voltage (Rs ) or the indirectly for adjusting the value of a reference voltage (U3) or a reference current (I3), e.g. b. by means of a voltage divider, and in at least one of the two stages (F1 / R1, F2 / R2) at least one of the IG-FETs (F1) a at least partially mounted between the controllable control gate and the channel richly mounted, all sides of an insulator surrounding and therefore contains pei power rate in electrical respect.
+</ABSTRACT>
+</TEXT>
+</DOC>

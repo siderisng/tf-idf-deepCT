@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013912
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-49/00 B01J-47/10 B01J-47/00 <main>B01J-47/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for ion exchange in liquids.
+</TITLE>
+<APPLICANT>
+arion nicolae m dipl ing <sep>ladendorf peter dr ing<sep>arion, nicolae m., dipl.-ing.  <sep>ladendorf, peter, dr.-ing.<sep>arion, nicolae m., dipl.-ing.c/o thedor christ ag hauptstrasse 192ch-4147 aeschch<sep>ladendorf, peter, dr.-ing.c/o aqua engineering gesellschaft mbh moserstrasse 29a-5020 salzburgat<sep>arion, nicolae m., dipl.-ing.<sep>ladendorf, peter, dr.-ing.<sep>
+</APPLICANT>
+<INVENTOR>
+arion nicolae m dipl-ing<sep>ladendorf peter dr-ing<sep>arion, nicolae m., dipl.-ing.<sep>ladendorf, peter, dr.-ing.<sep>arion, nicolae m., dipl.-ing.c/o thedor christ ag hauptstrasse 192ch-4147 aeschch<sep>ladendorf, peter, dr.-ing.c/o aqua engineering gesellschaft mbh moserstrasse 29a-5020 salzburgat<sep>ladendorf, peter, dr.-ing. <sep>arion, nicolae m., dipl.-ing.c/o thedor christ ag hauptstrasse 192ch-4147 aesch ch   <sep>ladendorf, peter, dr.-ing.c/o aqua engineering gesellschaft mbh moserstrasse 29a-5020 salzburgat<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for discontinuous ion exchange in liquids on a fixed resin bed, wherein the resin ix charged in a short cycle in a charging column (1, 31, 67, 96, 97) in downward flow or in upward flow, after charging is removed at the bottom of the charging column and is introduced into a regenerating column (2, 32, 74, 98) for external regeneration in downward flow and is washed in usual manner, after which the regenerated, washed and optionnaly back-flushed resin is removed at the bottom of the regenerating column and is transferred back into the charging column, characterized in that regeneration takes place with elimination of the donnan exclusion effect highly concentrated regeneration media in counter flow, wherein the volume of the concentrated regeneration medium amounts to at least 1/4 of the insterstitial volume of the resin bed and the forward and return transfer of the resin takes place in a compact condition and without disturbing of the respective charging zones and concentration fronts within the resin charge. 
+</ABSTRACT>
+</TEXT>
+</DOC>

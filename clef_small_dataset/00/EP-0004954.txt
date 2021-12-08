@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004954
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+B05B-3/02 F16H-1/46 F16H-1/28 B08B-9/093 B08B-9/08 B05B-3/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+epicyclic nozzle drive, an orbital nozzle unit and a hydraulic cleaning head incorporating the same.
+</TITLE>
+<APPLICANT>
+purex eng services a dgb<sep>purex engineering services a division of brillo manufacturing company of great britain limited<sep>purex engineering services a division of brillo manufacturing company of great britain limitedcordwallis estatemaidenhead, berkshiregb<sep>
+</APPLICANT>
+<INVENTOR>
+wellings ronald hgb<sep>wellings, ronald h.<sep>wellings, ronald h.11 fennels farm roadflackwell heath buckinghamshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+there is provided a drive for an orbital nozzle (42)  comprising a housing (2) having a fluid inlet and containing a  fluid driveable impeller (18) from which the fluid, in use of  the drive, flows through a passage within the housing (2),  epicyclic rotary speed reducing mechanism (5) in the housing  (2), an output shaft (7) driven by the epicyclic at speed  reduced below the impeller speed, a means driveable by the  output shaft mounting the nozzle for rotation, including  means for delivering fluid from the passage to the nozzle (42),  as well as an orbital nozzle unit which incorporates such a  drive and a hydraulic cleaning head which incorporates such  a drive or orbital nozzle unit.  
+</ABSTRACT>
+</TEXT>
+</DOC>

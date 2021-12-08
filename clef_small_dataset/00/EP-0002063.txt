@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002063
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H05K-13/00</main> H05K-13/00 G02B-23/10 G02B-23/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for projecting light spots on a printed circuit on which components are to be mounted.
+</TITLE>
+<APPLICANT>
+jordan peter de<sep>peter jordan<sep>firma peter jordanmainstrasse 5-7d-6050 offenbach (main)de<sep>firma peter jordan<sep>
+</APPLICANT>
+<INVENTOR>
+kroschewski jonadab<sep>kroschewski, jonadab<sep>kroschewski, jonadabjulius-leber-strasse 7d-6050 offenbachde<sep>kroschewski, jonadab  <sep>kroschewski, jonadabjulius-leber-strasse 7d-6050 offenbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a device for producing, controlled by a fixed mounting programme, an incident-light display on a circuit board on which electronic components are to be mounted, a light spot indicating on the circuit board the location and the sequence of the mounting steps to be undertaken, the device having a diaphragm (34) disposed between a light source (30) and a projection lens (32), characterised in that the diaphragm (34) is disposed in a gimbal-mounted (axes 5 and 6) projector housing (1) adapted for movement by two independently driveable feed spindles (14, 15) which are aligned at right-angles to each other and parallel with the mounting table (35) or the circuit board (33) located thereon, and has in its centre a circular aperture (36) and, disposed around the circular aperture in a cruciform pattern and at an angle of 90 degrees in respect of one another, four slit apertures (37 to 40) and in that an independently movable masking element (41 to 44) is associated with each slit aperture. 
+</ABSTRACT>
+</TEXT>
+</DOC>

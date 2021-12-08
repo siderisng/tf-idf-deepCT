@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011566
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-8/08 <main>G03C-5/54</main> C07D-413/00 G03C-8/02 C07D-261/20 C07D-413/06 C07D-261/00 G03C-8/00 G03C-7/305 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic element containing a ballasted, bifunctional benzisoxazolone compound.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman±kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+erickson wayne francis<sep>erickson, wayne francis<sep>erickson, wayne franciskodak parkrochester, new yorkus<sep>erickson, wayne francis<sep>erickson, wayne franciskodak parkrochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a photographic element is described which contains a  ballasted, bifunctional benzisoxazolone compound of the  formula:    wherein:   r is alkyl or aryl;   dev is a silver halide developing agent;   ball is at least one organic ballasting radical of such  molecular size and configuration as to render the compound  nondiffusible in the photographic element during develop­ ment in an alkaline processing composition; and   n is a positive integer of 1 to 3.  the compound may be employed in a negative-working,  color image transfer element to release the developer upon  processing.  the remainder of the compound functions to  scavenge oxidized developer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

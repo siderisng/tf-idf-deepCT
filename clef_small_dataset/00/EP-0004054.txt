@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004054
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04B-3/14</main> H04B-3/14 H04B-3/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for automatically equalizing a signal.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+haass adolf<sep>haass, adolf<sep>haass, adolfeichelhäherstrasse 54d-8000 münchen 60de<sep>haass, adolf<sep>haass, adolfeichelhäherstrasse 54d-8000 münchen 60de<sep>
+</INVENTOR>
+<ABSTRACT>
+The circuit arrangement consists of an equalizer (DOB) and a control amplifier (RV), both of which contain each a damping member (DG1 or DG2) whose current / voltage characteristics are the same and which are influenced with the same control signal (U).
+</ABSTRACT>
+</TEXT>
+</DOC>

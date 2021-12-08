@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003675
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02M-65/00 G01L-23/00 G01L-23/24 G01L-23/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pressure sensing apparatus.
+</TITLE>
+<APPLICANT>
+scotus patentverwaltli <sep>scotus patentverwaltungs anstalt <sep>scotus patentverwaltungs anstaltstädtle 36vaduzli<sep>
+</APPLICANT>
+<INVENTOR>
+beatson michael frame fullartonit<sep>nunn terence michaelgb<sep>beatson, michael frame fullarton<sep>nunn, terence michael<sep>beatson, michael frame fullarton50021 barberino valdelsaflorenceit<sep>nunn, terence michael5a castle streetdover kentgb<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to pressure sensing apparatus  for sensing cylically varying pressure in a pipe, particularly  but not exclusively for sensing pressure in fuel lines.  a  pair of similar blocks (307) each shaped to embrace a  pipe over an arc and to make line contact with the pipe  at two spaced locations are located in holders (301, 302)  removably clamped about the pipe.  transducers (308), one on each block, provide equal  and opposite electrical signals in dependence on bending  strain in the blocks due to periodic dilatation of the  pipe (303).  
+</ABSTRACT>
+</TEXT>
+</DOC>

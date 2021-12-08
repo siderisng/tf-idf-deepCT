@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002105
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03F-7/32 G03F-7/022 H01L-21/027 H05K-3/06 <main>G03F-7/08</main> G03C-1/72 H01L-21/3065 H01L-21/302 H01L-21/02 H01L-21/30 G03F-7/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for increasing the solubility rate ratio of a positive-working resist.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+carothers james albert<sep>economy james<sep>ouano augustus ceniza<sep>carothers, james albert<sep>economy, james<sep>ouano, augustus ceniza<sep>carothers, james albert2706 scottsdale dr.san josé, california 95122us<sep>economy, james6694 heathfieldsan jose california 95120us<sep>ouano, augustus ceniza6133 valley glen dr.san jose california 95123us<sep>carothers, james albert  <sep>economy, james <sep>ouano, augustus ceniza<sep>carothers, james albert2706 scottsdale dr.san josé, california 95122us<sep>economy, james6694 heathfieldsan jose california 95120us<sep>ouano, augustus ceniza6133 valley glen dr.san jose california 95123us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a process for increasing  solubility rate ratio or shortening the development time of  quinone-diazo or quinone-triazo sensitized phenolicaldehyde  resins.  in accordance with the present invention,  the resists are contacted with a trialkylamine containing  from two to eight carbon atoms in each alkyl group.  this  process increases the ratio between the rate at which the  exposed region of the resist is dissolved and the rate at  which the unexposed region is dissolved.  
+</ABSTRACT>
+</TEXT>
+</DOC>

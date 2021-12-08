@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007808
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-11/275 <main>G01B-11/275</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hub alignment.
+</TITLE>
+<APPLICANT>
+british leyland cars ltdgb<sep>bl cars limited<sep>bl cars limited174 marylebone roadlondon nw1 5aagb<sep>bl cars limited<sep>
+</APPLICANT>
+<INVENTOR>
+marshall peter edward george<sep>rawle michael david<sep>marshall, peter edward george<sep>rawle, michael david<sep>marshall, peter edward george37 saxon closestratford-upon-avon warwickshiregb<sep>rawle, michael david44 windrush wayabingdon, oxongb<sep>marshall, peter edward george<sep>rawle, michael david  <sep>marshall, peter edward george 37 saxon closestratford-upon-avon warwickshiregb<sep>rawle, michael david44 windrush wayabingdon, oxongb<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for measuring the road wheel hub alignment  of a vehicle on its production line includes a pair of electro­ optical units (11) for attachment to a pair of road wheel hubs  (12) and a master control and display unit (18).  the electro­ optical units each comprise an array of photo-sensitive  devices (17) which are illuminated by a directional beam of  light (14) from the other unit, and include a display (22, 24) for  indicating to an operator the state of alignment of the hub to  which the unit is attached.  alignment of both hubs can be  monitored by a display (21, 23) on the master control unit,  which includes an output to a data recording means so that  the state of alignment of the hubs on each vehicle passing  down the line can be automatically recorded.  the photo-­ sensitive devices are arranged in a radial plane of the axis (x)  about which the hubs swivel for adjustment, and in a plane  perpendicular to the axis of rotation of the road wheels (y-y),  to enable simultaneous independent adjustment of the hubs.  
+</ABSTRACT>
+</TEXT>
+</DOC>

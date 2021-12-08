@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002651
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01G-55/00 <main>H01M-4/92</main> B22F-9/24 H01M-4/92 B01J-35/00 B01J-23/42 B22F-9/16 B01J-37/00 H01M-4/88 B01J-37/02 H01M-4/90 H01M-4/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for producing a platinum catalyst on a support material.
+</TITLE>
+<APPLICANT>
+united technologies corpus<sep>united technologies corporation<sep>united technologies corporationunited technologies building 1, financial plazahartford, ct 06101us<sep>united technologies corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bushnell calvin lawrence<sep>jalan vinod motilal<sep>bushnell, calvin lawrence<sep>jalan, vinod motilal<sep>bushnell, calvin lawrence1515 main streetglastonbury ct 06033us<sep>jalan, vinod motilal160 ralph roadmanchester ct 06040us<sep>bushnell, calvin lawrence<sep>jalan, vinod motilal<sep>bushnell, calvin lawrence1515 main streetglastonbury ct 06033us<sep>jalan, vinod motilal160 ralph roadmanchester ct 06040us<sep>
+</INVENTOR>
+<ABSTRACT>
+method for producing highly dispersed platinum  catalyst particles of less than 5 mm diameter on a support  material for use in fuel cells, by mixing chloroplatinic acid  and sodium dithionite in water to provide a platinum  containing colloidal dispersion which may be adsorbed on  the support material.  hydrogen peroxide can by mixed with  the chloroplatinic acid and sodium dithionite to improve the  stability of the platinum containing colloidal dispersion.  
+</ABSTRACT>
+</TEXT>
+</DOC>

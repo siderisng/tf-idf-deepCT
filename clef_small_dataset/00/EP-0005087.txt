@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005087
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-25/14 H01R-25/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system of coupling accessories for electrical supply rail with asymmetrical profile.
+</TITLE>
+<APPLICANT>
+lampes safr<sep>compagnie des lampes<sep>compagnie des lampes29, rue de lisbonnef-75008 parisfr  <sep>
+</APPLICANT>
+<INVENTOR>
+boucaut alainfr<sep>vasseur bernardfr<sep>boucaut, alain<sep>vasseur, bernard<sep>boucaut, alain"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedexfr<sep>vasseur, bernard"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a system of connecting accessories for asymmetric profile power rail.A Main Accessory said online connector makes it possible to electrically connect the conductors of two rails that this bond is carried out on the right or to the left of the rail without the need to respect the position of a kerneur;Combined with a universal supply box and a binding die it allows to mount these rails in all figures: online, in T, L, Cross.
+</ABSTRACT>
+</TEXT>
+</DOC>

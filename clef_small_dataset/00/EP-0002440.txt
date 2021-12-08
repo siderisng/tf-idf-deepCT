@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002440
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02B-13/02 H02B-13/035 <main>H02B-13/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+single or multiphase metal-encapsulated pressurized gas-insulated high-voltage switch gear.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+olsen willi<sep>olsen, willi<sep>olsen, william laubwald 3d-1000 berlin 13de<sep>olsen, willi<sep>olsen, william laubwald 3d-1000 berlin 13de<sep>
+</INVENTOR>
+<ABSTRACT>
+In pressure gas-insulated high-voltage switchgear, which are single- or multi-phase metal encapsulated, the edges of a plurality of adjacent gas-tight pressure vessels (7, 8, 37, 47) for receiving the high voltage switching devices and other current-carrying parts have.The number of encapsulation containers (7, 8, 37, 47, 22) can be reduced when 1. All switching devices (4, 34, 44) and current carrying parts belonging to a busbar (1, 31, 41) each of a field in onefirst pressure vessels (7, 37, 47), 2. Power switches (9), workers (10, 11) and current transformers (12) each of a field and field-specific current-carrying parts in a second pressure vessel (8) and 3. All connectionally required devices andCurrent-carrying parts each of a field are arranged in a third pressure vessel (18).
+</ABSTRACT>
+</TEXT>
+</DOC>

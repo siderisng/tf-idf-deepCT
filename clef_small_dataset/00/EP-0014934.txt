@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014934
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01K-17/08</main> G01F-1/684 G01F-1/68 G01K-17/00 G01K-17/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for measuring rate of flow and heat quantity and process for determining rate of flow.
+</TITLE>
+<APPLICANT>
+battelle institut e vde<sep>battelle-institut e.v.<sep>battelle-institut e.v.am römerhof 35 postfach 900 160d-60441 frankfurtde<sep>battelle-institut e.v.<sep>
+</APPLICANT>
+<INVENTOR>
+starkloff bernd dr<sep>stosser klaus<sep>weisser gunther dr<sep>starkloff, bernd, dr.<sep>stosser, klaus<sep>weisser, gunther, dr.<sep>starkloff, bernd, dr.saarstrasse 2ad-6380 bad homburg v.d.h.de<sep>stösser, klausamselweg 16d-6238 hofheim/langenhainde<sep>weisser, günther, dr.graf stauffenberg ring 82d-6380 bad homburg v.d.h.de<sep>starkloff, bernd, dr. <sep>stosser, klaus<sep>weisser, gunther, dr.  <sep>starkloff, bernd, dr.saarstrasse 2ad-6380 bad homburg v.d.h.de<sep>stösser, klausamselweg 16d-6238 hofheim/langenhainde<sep>weisser, günther, dr.graf stauffenberg ring 82d-6380 bad homburg v.d.h.de<sep>
+</INVENTOR>
+<ABSTRACT>
+For measuring the heat flow and mass flow in a fluid conveying system, a device is used, which is each of one in the feed (1,2) and a flow line to be inserted in the return line (3, 4), from a heat output line (5) betweenconsists of these two lines and from temperature sensors (11,12,13,14).The alimator circuit (5) is made of a material with low thermal conductivity, e.g.b.Glass or composite material, such as enamel or plastic-coated steel.It is designed such that the heat passage through the heat side track is lower than the heat transfer to the two interfaces between the fluid and the heat side track.At or near the ends of the two heat transfer zones in the feed and return, temperatures or temperature differences of the fluid are measured and determined therefrom the heat flow or mass flow.
+</ABSTRACT>
+</TEXT>
+</DOC>

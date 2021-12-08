@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012620
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-19/35 G05B-19/18 G05B-19/19 G05D-3/20 <main>G05B-13/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+closed loop type numerical-controlled machine tool.
+</TITLE>
+<APPLICANT>
+fanuc ltdjp<sep>fanuc ltd<sep>fanuc ltd.3580, shibokusa aza-komanba, oshinomuraminamitsuru-gun, yamanashi 401-05jp<sep>fanuc ltd<sep>
+</APPLICANT>
+<INVENTOR>
+kurakake mitsuo<sep>kurakake, mitsuo<sep>kurakake, mitsuono. 2-16-2, naitokokubunji-shi, tokyojp<sep>kurakake, mitsuo<sep>kurakake, mitsuono. 2-16-2, naitokokubunji-shi, tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+in a closed loop type numerical-controlled machine tool  in which position control of a mechanical moving part (11) is  performed in accordance with a position error variable (r)  obtained by making a comparison (19) between commanded  positional information (p) and detected positional informa­ tion (q) from a position detector (13) mounted on the me­ chanical moving part (11), deteriorated performance result­ ing from the inclusion of the mechanical moving part (13) in  the closed loop is improved by using correcting means (35,  37, 39, 43, 45, 47, 49) incorporated in the numerical-controlled  machine tool.  the correcting means may include a model system (37)  which models the behaviour of the actual closed-loop posi­ tion control system.  such a model system may also be applied in the case of a  semi-closed loop position control system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

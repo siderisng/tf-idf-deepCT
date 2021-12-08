@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002161
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-41/08 H04R-17/00 H03F-13/00 <main>H04R-17/00</main> F04B-17/00 G01J-5/38 H03H-9/00 B06B-1/06 H01L-41/26 H01L-41/22 H01L-41/107 H04R-23/00 H01L-41/00 H01L-41/113 H04R-23/02 F42C-11/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+piezo-electric transducing device and process for its manufacture.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+lemonon claire<sep>micheron francois<sep>wang pierre<sep>lemonon, claire<sep>micheron, francois<sep>wang, pierre<sep>lemonon, claire"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>micheron, françois"thomson-csf" - scpi 173, bld haussmann-75360 paris cedex 08fr<sep>wang, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>lemonon, claire <sep>micheron, francois<sep>wang, pierre<sep>lemonon, claire"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>micheron, françois"thomson-csf" - scpi 173, bld haussmann-75360 paris cedex 08fr<sep>wang, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to devices using transducers constituted by electrodes (5, 7) between which is interposed a piezoelectric polymer film (6).The invention relates to a transducer device in which the transducer element is in the form of a thermoformed protuberance (6).The invention applies in particular to the emission and reception of elastic waves of compression, the transmission of electrical signals, to the detection of infrared radiation and the transient production of electrical energy.
+</ABSTRACT>
+</TEXT>
+</DOC>

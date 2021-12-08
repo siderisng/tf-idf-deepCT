@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008327
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C10M-149/00 C10M-145/08 C10M-145/00 C10M-159/00 C10M-149/04 C10N-30/00 C10M-159/12 C08F-285/00 C10M-145/14 C10M-143/00 C10M-149/10 C10N-30/02 C10N-30/04 C10N-40/25 <main>C10M-1/18</main> C10M-143/12 C08F-287/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+lubricating oil additives and their preparation.
+</TITLE>
+<APPLICANT>
+roehm gmbhde   <sep>rohm gmbh<sep>röhm gmbhkirschenalleed-64293 darmstadtde<sep>rohm gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+benda rainer dr<sep>knoll helmut<sep>neudorfl peter dr<sep>pennewiss horst dr<sep>benda, rainer, dr.<sep>knoll, helmut<sep>neudorfl, peter, dr.<sep>pennewiss, horst, dr.<sep>benda, rainer, dr.ringstrasse 124d-6101 rossdorfde<sep>knöll, helmutbrandauer klinger 16d-6147 lautertal 1de<sep>neudörfl, peter, dr.kesselhutweg 10d-6100 da-neu-kranichsteinde<sep>pennewiss, horst, dr.meissnerweg 53d-6100 da-neu-kranichsteinde<sep>benda, rainer, dr.  <sep>knoll, helmut<sep>neudorfl, peter, dr.<sep>pennewiss, horst, dr.<sep>benda, rainer, dr.ringstrasse 124d-6101 rossdorfde<sep>knöll, helmutbrandauer klinger 16d-6147 lautertal 1de<sep>neudörfl, peter, dr.kesselhutweg 10d-6100 da-neu-kranichsteinde<sep>pennewiss, horst, dr.meissnerweg 53d-6100 da-neu-kranichsteinde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a process for the preparation of lubricating oil additives based on a hydrogenated block copolymer of conjugated serial and styrene, which polymerizes in the first stage styrene and / or alkyl ester of (meth) acrylic acid in the presence of the hydrogenated block copolymer and in second stage a hydrophobic vinyl ester and / /or polymerisative heterocyclic monomers are repolymerized.
+</ABSTRACT>
+</TEXT>
+</DOC>

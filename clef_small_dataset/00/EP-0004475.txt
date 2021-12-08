@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004475
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-1/00 H01L-23/48 H01L-23/492 H01L-23/34 H01L-23/04 H01L-21/48 <main>H01L-21/48</main> H01L-21/02 H01L-23/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making a heat sink mounting.
+</TITLE>
+<APPLICANT>
+nippert cous<sep>the nippert company<sep>the nippert company801 pittsburgh drivedelaware ohio 43015us<sep>the nippert company<sep>
+</APPLICANT>
+<INVENTOR>
+nippert russel a<sep>nippert, russel a.<sep>nippert, russel a.c/o the nippert company 801 pittsburgh drivedelaware ohio 43015us<sep>nippert, russel a.<sep>nippert, russel a.c/o the nippert company 801 pittsburgh drivedelaware ohio 43015us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of making a semi-conductor heat sink mounting  includes two extrusion steps.  initially, a substantially  cylindrical copper billet having an upper cylindrical locating  portion of reduced diameter is formed.  a steel ring is then  brazed to the copper billet about the locating portion.  the  billet and the steel ring are then extruded to form a sink  body portion (22), a pedestal portion (24) extending upwardly  from the body portion and defining a disc receiving  recess, and a resistance welding ridge (27) surrounding  the pedestal portion.  a molybdenum discs (28) is brazed  into the recess in the pedestal portion.  a stem (38) is then  extruded downwardly from the body portion (22) as a  substantially evenly distributed downward force is applied  to the body portion, the pedestal portion and the molybdenum  disc.  this force prevents structural failure of the  molybdenum disc by maintaining the disc in compression  while the stem portion and the body portion of the heat  sink mounting are worked to a full hard state.  
+</ABSTRACT>
+</TEXT>
+</DOC>

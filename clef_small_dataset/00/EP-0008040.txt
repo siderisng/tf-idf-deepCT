@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008040
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/09 <main>G03G-15/09</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic brush development apparatus for electrostatic charge images.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+bock hartmut dr<sep>bock, hartmut, dr.<sep>bock, hartmut, dr.behringstrasse 30d-6233 kelkheim/ts.de<sep>bock, hartmut, dr.<sep>bock, hartmut, dr.behringstrasse 30d-6233 kelkheim/ts.de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a magnetic brush developing device (1) having a squeegee (6) applied to a magnetic brush roller (4).In addition to the squeegee (6), two elastic scrapers (7 ', 7 ") of non-magnetic material are provided, which abut the photoconductive layer (3) and strip from this carrier particles of the development powder The wipers limit the width of the developer fur on theMagnetic brush roller and thus the designation of developers from the area of the magnetic brush roll, as they cover the transition zone of the squeegee to the outside and inside.The overlap inward in rich tung squeegee centerline (24) The roller is at least 4 mm.The wipers include an angle of 5 ° to 10 ° with the tangent (T) to the photoconductive recording layer (3) on the surface of a drum (2).
+</ABSTRACT>
+</TEXT>
+</DOC>

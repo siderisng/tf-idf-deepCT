@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015159
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G10K-11/00 <main>G10K-11/30</main> G10K-11/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a shock or pressure wave detecting transducer assembly.
+</TITLE>
+<APPLICANT>
+australasian training aids ptyau<sep>australasian training aids (pty) ltd.<sep>australasian training aids (pty) ltd.161-169 fallon streetalbury new south wales, 2640au<sep>australasian training aids (pty) ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+phillips robert barrett<sep>phillips, robert barrett<sep>phillips, robert barrett60 dinorban closefleet near aldershot, hantsgb<sep>phillips, robert barrett<sep>phillips, robert barrett60 dinorban closefleet near aldershot, hantsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a transducer assembly has a head (16) and a transducer  element (14) contacting the rear of the head (16).  in order to provide an output signal which has a positive  value over a wide range of angles of incidence of shock or  pressure waves to be detected, the transducer element (14)  contact with the rear of the head 16 over a zone (22) which is  smaller in cross sectional area than that of the rear of the head  16.  the transducer element (14) is mounted in a metal tube  (24) with a partly closed end (25) which electrically contacts  the front face of the element (14).  in order to position the  transducer assembly positively and to inhibit unwanted shock  or pressure waves reaching the element (14), the assembly  has a series path of four interfaces of acoustic mismatch of  shock or pressure waves, between said head (16) and a body  portion (15).  
+</ABSTRACT>
+</TEXT>
+</DOC>

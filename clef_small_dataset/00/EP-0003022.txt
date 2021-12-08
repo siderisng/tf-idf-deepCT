@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003022
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/04 <main>F16K-11/04</main> F16K-11/02 B01D-53/26 F16K-11/056 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multi-chamber adsorbent gas fractionator with non-jamming shuttle valve.
+</TITLE>
+<APPLICANT>
+pall corpus<sep>pall corporation<sep>pall corporation30 sea cliff avenueglen cove, new york 11542us<sep>pall corporation <sep>
+</APPLICANT>
+<INVENTOR>
+seibert chesterfield f<sep>seibert, chesterfield f.<sep>seibert, chesterfield f.r.d. 4 cosmos hill roadcortland new yorkus<sep>seibert, chesterfield f.<sep>seibert, chesterfield f.r.d. 4 cosmos hill roadcortland new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus is provided for reducing the concentration of  a first gas in a mixture thereof with a second gas to below a  limiting maximum concentration thereof in the second gas,  comprising, in combination, a pair of vessels; a chamber in  each vessel for a bed of particulate friable sorbent having a  preferential affinity for the first gas; an influent line for  delivering influent gas to each sorbent chamber; an influent  flow control valve in the influent line for directing the influent  gas to the one of the chambers that is on-stream for  adsorption; an effluent line for delivering effluent gas from  each sorbent chamber; an effluent flow control valve in the  effluent line for directing the effluent gas from the chamber  that is on-stream for adsorption; the effluent valve comprising  a valve chamber (5) having separate inlets (2, 3) and inlet  passages (6.  7) leading thereinto, one from the effluent line  from each sorbent chamber; a valve seat (11, 12) across each  inlet; and a free-rolling ball (10) valve responsive to effluent  line gas pressure at each inlet related to downstream  pressure to displace the ball and open the inlet leading from  the sorbent chamber on-stream for adsorption, and direct  the ball across the other inlet leading from the sorbent  chamber off-stream for adsorption and close that inlet,  thereby preventing effluent gas flow through that inlet into  the off-stream chamber.  a bleed line (9) for effluent purge  flow can be provided, bypassing the closed inlet and  interconnecting the inlet passages or one inlet passage or  the valve chamber with one of the effluent lines for reverse  purge flow of effluent gas through that effluent line into the  sorbent chamber that is off-stream for adsorption but  on-stream for regeneration, to regenerate the sorbent bed  with such purge flow, and this bleed line can be provided  with a valve for adjusting bleed flow therethrough.  
+</ABSTRACT>
+</TEXT>
+</DOC>

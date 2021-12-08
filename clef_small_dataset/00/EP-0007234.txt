@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007234
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-11/12 B41N-3/03 B41N-3/00 <main>C25D-11/12</main> C25D-11/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for the anodic treatment of a continuous web of aluminium foil, foil so obtained and its application as a lithographic printing plate.
+</TITLE>
+<APPLICANT>
+british insulated callendersgb   <sep>bicc limited<sep>bicc limited21, bloomsbury streetlondon, wc1b 3qngb<sep>bicc limited<sep>
+</APPLICANT>
+<INVENTOR>
+rowlands david philip<sep>thomas alan<sep>rowlands, david philip<sep>thomas, alan<sep>rowlands, david philip10, st. martins roadsale, cheshire m33 5pugb<sep>thomas, alan50, sackville roadwindle, st. helens merseysidegb<sep>rowlands, david philip  <sep>thomas, alan<sep>rowlands, david philip10, st. martins roadsale, cheshire m33 5pugb<sep>thomas, alan50, sackville roadwindle, st. helens merseysidegb<sep>
+</INVENTOR>
+<ABSTRACT>
+aluminium web (1) is passed through a first bath (2)  containing phosphate ions and a socond bath (3) containing  sulphate ions and is anodised by passing alternating current  between electrodes (4, 5) immersed one in each bath.  the  product is especially suitable for use as a base for a presensit­ ised lithographic printing plate.  
+</ABSTRACT>
+<DESCRIPTION>
+treating aluminium this invention relates to the anodic treatment of foil of aluminium (including its alloys) in continuous web form. primarlxy, but not exclusively, it is .concerned with the pre-treetment of aluminium foil that is subsequently to be coated with photosensitive material to make a presensitised lithographic printing plate. aluminium foil for this purpose is almost always anodised, generally using a bath based on sulphuric acid, though phosphoric acid is used by at least one manufacturer. sulphuric acid gives a hard, adherent and abrasion-resistant coating, but there are problems in getting satisfactory adhesion of sgne attractive sensitive coatings (for example polyvinyl cinnamate among negative-working coatings and orthoquinone diazide sulphonate-based resists amongst positive-working coatings). phosphoric acid anodising gives much better adhesion with these and some other coatings, but the anodic coating is much softer and tends to abrade away during printing to an extent that may limit the number of copies that can be taken ofr the plate. in some cases aluminium foil that has been anodised in sulphuric acid has been treated subsequently with phosphoric acid, and this has been found to give a useful lmprovement in adhesion while retaining part of the advantages of the use of sulphuric acid for anodising, but this prevents obvious difficulties in control of the operation. the invention is based in part on the realisation that anodic oxidation takes place at the surface of the metal, not of the coating, and that it will not of itself destroy the existing exposed surface of the coating. in accordance with the invention, a continuous web of aluminium foil is passed through a first bath containing phosphate ions and a second bath containing sulphate ions and is anodised by passing alternating current between a first electrode immersed in the first bath and a second electrode immersed in the second bath. the phosphate and sulphate ions may be the only anions present to any substantial extent in the respective baths, but the presence of other anions tbat are inert or that modify, rather than radically alter, the effect of the treatment may be present. in particular the presence of minor amounts pf sulphate in the phosphate bath and/or of phosphate in the sulphate bath is not excluded. we prefer that the associated cations should be wholly or mainly hydrogen ions, but neutral or alkaline salt solutions may be suitable in some cases. the method af the invention avoids the need for rectification equipment and yet allows both positive and negative hal±-cycles to be used in anodising; because of the superior combination of good adhesion and abrasion resistance, only thin coatings are required for lithographic printing plates, and this avoids ar. significant difficulty from migration of dye when a coloured sensitive coating is used to obtain a visible image on development. example the accompanying drawing shows the distinctive part of apparatus for the manufacture of printing plates in accordance with the invention. aluminium foil web is continuously advanced through the apparatus, and is first slurry-grained in the usual way,
+</DESCRIPTION>
+<CLAIMS>
+   claims      1. a method of anodically treating a continuous web of aluminium foil comprising passing it through a first bath containing phosphate ions and a second bath containing sulphate ions and anodising it by passing alternating current between a first electrode immersed in the first bath and a second electrode immersed in the second   sath.      2. anodised aluminium foil anodised by the method claimed in claim   1.      3. a method of making a presensitised lithographic printing plate comprising anodising a continuous web of aluminium foil and subsequently applying a lithographic photosensitive coating to it, characterised in that the web is anodised by the method claimed in claim 1.      4.    a presensitised lithographic printing plate made by the method claimed in claim 3.  
+</CLAIMS>
+</TEXT>
+</DOC>

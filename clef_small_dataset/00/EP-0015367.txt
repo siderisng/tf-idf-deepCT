@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015367
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+D06M-13/322 D06M-13/00 C12N-11/00 C12P-19/00 C12N-11/08 C12N-11/06 C12P-19/24 D06M-13/02 D06M-13/412 D06M-13/41 D06M-13/402 D06M-13/325 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+immobilized glucose isomerase, process for preparing it and process for separating fructose from glucose
+</TITLE>
+<APPLICANT>
+toray industriesjp<sep>toray industries, inc.<sep>toray industries, inc.2, nihonbashi-muromachi 2-chome chuo-kutokyo 103jp<sep>
+</APPLICANT>
+<INVENTOR>
+shimamura masaharujp<sep>teramoto kazuojp<sep>yoshioka toshiojp<sep>shimamura, masaharu<sep>teramoto, kazuo<sep>yoshioka, toshio<sep>shimamura, masaharu1-807, nionohama 2-2ohtsu-shi shiga-kenjp<sep>teramoto, kazuob2-22, sonoyama 2-10ohtsu-shi shiga-kenjp<sep>yoshioka, toshio44, ichiriyama 2-1ohtsu-shi shiga-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+an enzymatically active product for use in isomeriza­ tion of glucose into fructose is provided.  the active pro­ duct comprises an organic polymeric material predomi­ nantly comprised of a monovinyl aromatic compound  polymer having β-aminopropionamidomethyl group as  side chains represented by the formula i:    wherein r₁ is selected from h, c(1-6) alkyl and c(2-6)  hydroxyalkyl, r₂ is selected from c(1-6) alkyl, c(2-6)  hydroxyalkyl,    (where x, z₁ and z₂ are selected from h and c(1-6) alkyl,  and n is from 2 to 6), or r₁ and r₂ form together with the  n atom, to which r₁ and r₂ are bonded, a heterocylic  structure of the formula:    where a is -ch₂-, -o- or -nr₆- (wherein r₆ is h or c(1-6)  alkyl), and r₃, r₄ and r₅ are selected from h and methyl.   the organic polymeric material has glucose isomerase  immobilized with the β-aminopropionamidomethyl group  side chain of the organic polymeric material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

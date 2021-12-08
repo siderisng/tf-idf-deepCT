@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014350
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03F-3/08</main> H01L-31/10 H03F-3/04 H03F-3/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monolithically integrated semiconductor circuit.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+fenk josef dipl-ing<sep>fenk, josef, dipl.-ing.<sep>fenk, josef, dipl.-ing.deutenhauserstrasse 10d-8057 eching/ottenburgde<sep>fenk, josef, dipl.-ing.<sep>fenk, josef, dipl.-ing.deutenhauserstrasse 10d-8057 eching/ottenburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a monolithically integrable semiconductor circuit with a controller controlled by a photodiode.In this case, a circuit arrangement is aimed which reduces the same-boundary limiting of the changing light photostrom at the same time highly usable removable exterminated impedances for the change-over voltage stream and a reduction in the influence of the parasitic diode capacity over the known plants of this type.For this purpose is provided via a filter circuit (F) and an amplifier (V₂) back-coupled differential amplifier (V₁).Its inverting input through the cathode of the photodiode (PD) and non-inverting the input of this differential amplifier (V₁) is controlled via a Kop Pelwiderstand (RK), wherein at the last generated input of the differential amplifier (V₁), a differential pods TiiL is pending.
+</ABSTRACT>
+</TEXT>
+</DOC>

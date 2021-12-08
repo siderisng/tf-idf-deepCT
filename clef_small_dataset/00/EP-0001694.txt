@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001694
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-31/00 C07C-31/08 C07C-29/00 C07C-67/00 C07C-29/82 C07C-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing high purity anhydrous ethanol.
+</TITLE>
+<APPLICANT>
+bp chem int ltdgb <sep>bp chemicals limited<sep>bp chemicals limited belgrave house 76 buckingham palace road london, sw1w 0sugb<sep>
+</APPLICANT>
+<INVENTOR>
+cane charlesgb<sep>cane, charles<sep>cane, charleshull works salt end hedonhull north humberside hu12 8dsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention is a process for producing substantially  anhydrous ethanol of very high purity by azeotropically  distilling aqueous ethanol with cyclohexane as an entrainer in  a drying still, removing substantially all the water as an overhead  fraction as a ternary azeotrope of water/cyclohexane/ethanol,  and withdrawing anhydrous ethanol in the vapour  phase either from the lower half of the drying still or as an  overhead fraction from a further tailing still into which  anhydrous liquid ethanol from the base of the drying still has  been fed.  this method prevents ethanol from being down-graded  with respect to its permanganate time and  komarowski values owing to solvent extraction of impurities  from flexible materials used for jointing purposes and pump  seals.  the final product is of very high purity and may be used  in potable or pharmaceutical applications.  
+</ABSTRACT>
+</TEXT>
+</DOC>

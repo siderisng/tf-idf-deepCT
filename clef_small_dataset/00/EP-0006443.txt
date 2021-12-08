@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006443
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-11/02 G11C-11/14 H01F-7/20 G11C-19/00 G11C-19/08 H01F-41/14 H01F-10/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic bubble mounting unit.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us   <sep>
+</APPLICANT>
+<INVENTOR>
+braun roland josephus<sep>carden gary richardus<sep>braun, roland joseph<sep>carden, gary richard<sep>braun, roland joseph500 jones roadvestal, ny 13850us<sep>carden, gary richardr.d. 6, box 25 loughlin, rd.binghamton, ny 13904us<sep>
+</INVENTOR>
+<ABSTRACT>
+a magnetic bladder assembly (1) designed for a field access method contains a flat inner solenoid (14) and in the vertical direction for this purpose a surrounding, flat, outer solenoid (13), so that with corresponding current flow control by the two solenoids (13, 14) An in plane of these flat solenoids (13, 14)-directed rotary gas gnet field can be provided which may act in the inner solenoid (13) mounted magnetic bubble chips (2) to act in the heart of the magnetic bubbles. Between the inner solenoid (14) and the magnet chip surfaces magnetic field compensation line films (9, 10) are mounted. These magnetic field compensation piping films (9, 10) carry concern for a substantially uniform magnetic flux distribution within the inner solenoid (14) and protection against harmful effects of the magnetic stray field between the solenoid windings that can not be uniformly attached for constructive reasons. As a result, a substantially equivalent of rotary magnetic field distribution results on the magnetic bubble chip surface, as advantageous for magnetic bubble forwarding.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000999
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-7/28 C08F-10/00 <main>C08F-10/00</main> C08F-4/00 C07F-7/00 C08F-4/60 C08F-4/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+titanium trichloride compositions, preparation thereof, catalyst system containing them, and polymerisation of olefins using this system.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+bye ashley dormer<sep>bye, ashley dormer<sep>bye, ashley dormerstalperstraat 13nl-the haguenl<sep>bye, ashley dormer<sep>bye, ashley dormerstalperstraat 13nl-the haguenl<sep>
+</INVENTOR>
+<ABSTRACT>
+a titanium trichloride composition has the formula:   ticl₃(alrxx3-x)nealb   where e is an ether or thioether; l is a defined ester, an  amine or a ketone; and a and b are each greater than 0. 001  and not more than 0. 50.  the composition has a low surface  area, typically less than 50 m²/g.  the composition can be  prepared by reacting titanium tetrachloride with an organo-aluminium  compound, optionally heating the reaction product,  contacting the reaction product at an elevated temperature  with at least one of e and l and washing the product  subsequent to the treatment with e.  in the composition,  e is conveniently di-n-butyl ether or diisoamyl ether  and l can be tetramethylethylenediamine; ethyl benzoate;  benzophenone; glycerol monostearate; glycerol triacetate;  glycerol tripalmitate; glycerol trimethacrylate; pentaerythritol  tetra-acrylate or ethyl phenyl acetate.  the composition  can be used as a component of a catalyst for the polymerisation  of olefine monomers such as propylene.  copolymers  having a useful combination of properties can be obtained.  
+</ABSTRACT>
+</TEXT>
+</DOC>

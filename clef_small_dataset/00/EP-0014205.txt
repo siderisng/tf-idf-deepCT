@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0014205
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09B-9/04 G09B-9/05 G09B-9/30 G09B-9/02 G09B-9/06 G09B-9/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+simulation apparatus and technique for generating a visual representation of an illuminated area.
+</TITLE>
+<APPLICANT>
+singer cous<sep>the singer company<sep>the singer companylink divisionbinghamton, ny 13902us<sep>
+</APPLICANT>
+<INVENTOR>
+peters david lus<sep>schnitzer arthur pus<sep>trzeciak john rus <sep>woycechowsky brian jus   <sep>peters, david, l.<sep>schnitzer, arthur, p.<sep>trzeciak, john, r.<sep>woycechowsky, brian, j.<sep>peters, david, l.r.d.1 box 371whitney point, ny 13862us<sep>schnitzer, arthur, p.67 lodgewood courtsan jose, california 95120us<sep>trzeciak, john, r.813 taylor drivebinghamton, ny 13903us<sep>woycechowsky, brian, j.2633 purdue avenuevestal, ny 13850us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

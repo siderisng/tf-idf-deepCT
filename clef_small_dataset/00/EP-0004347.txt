@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004347
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07F-9/50</main> C07F-9/00 C07F-9/50 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing triphenylphosphine.
+</TITLE>
+<APPLICANT>
+ihara chemical ind cojp<sep>ihara chemical industry co., ltd. <sep>ihara chemical industry co., ltd.4-26, ikenohata 1-chometaitoh-ku, tokyo 110 jp  <sep>ihara chemical industry co., ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+hirao kazushige<sep>nakayama yoshiki<sep>yazawa chihiro<sep>hirao, kazushige<sep>nakayama, yoshiki<sep>yazawa, chihiro<sep>hirao, kazushigeno.2856, koike nakanogo fujikawachoihara-gun shizuoka-kenjp<sep>nakayama, yoshiki1448-3, kusanagishimizu-shi shizuoka-kenjp<sep>yazawa, chihiro11-12-306, shinohara kita 2-chome kohhoku-kuyokohama-shi kanagawa-kenjp<sep>hirao, kazushige<sep>nakayama, yoshiki <sep>yazawa, chihiro<sep>hirao, kazushige no.2856, koike nakanogo fujikawacho ihara-gun shizuoka-ken jp<sep>nakayama, yoshiki1448-3, kusanagishimizu-shi shizuoka-kenjp<sep>yazawa, chihiro11-12-306, shinohara kita 2-chome kohhoku-kuyokohama-shi kanagawa-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+triphenylphosphine is produced by reacting a phenylalkali  with a phosphorus trihalide in a solvent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

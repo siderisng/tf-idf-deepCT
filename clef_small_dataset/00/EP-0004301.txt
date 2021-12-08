@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004301
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03J-7/18 <main>H03J-7/18</main> H03J-7/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+digital circuit for generating an arresting signal for the station scanner of a high-frequency receiver.
+</TITLE>
+<APPLICANT>
+licentia gmbhde <sep>licentia patent-verwaltungs-gmbh<sep>licentia patent-verwaltungs-gmbh theodor-stern-kai 1 d-60596 frankfurt de<sep>licentia patent-verwaltungs-gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+klank otto ing-grad<sep>rottmann dieter dipl-ing<sep>klank, otto, ing.-grad.<sep>rottmann, dieter, dipl.-ing.<sep>klank, otto, ing.-grad.marienburgstrasse 12d-3161 arpkede<sep>rottmann, dieter, dipl.-ing.grenzstrasse 2ad-3000 hannover 61de<sep>klank, otto, ing.-grad. <sep>rottmann, dieter, dipl.-ing.<sep>klank, otto, ing.-grad. marienburgstrasse 12 d-3161 arpke de <sep>rottmann, dieter, dipl.-ing.grenzstrasse 2ad-3000 hannover 61de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a high frequency receiver with a search device which is started by means of a starting signal and is stopped by means of a stop signal (21, 22), the stop signal (21, 22) being derived from an output signal (12) of a demodulator, which is amplified to form a square wave signal (23), characterised in that there is provided a shift register (2, 3) having at least two stages and which is clocked continuously during the search operation ; that the square wave signal (23) is supplied to the input (e) of the shift register (2, 3) ; that there is provided a coupling circuit (6, 7, 9) which is connected to the output (q, ~q) of the stages (2, 3) of the shift register ; and that the coupling circuit (6, 7, 9) can be switched with the direction of search, such that in both search directions the stop signal (21, 22) arises at the output of the coupling circuit (6, 7, 9) in each case at the flank of the square wave signal (23) which lies in the searched tuning position or near thereto. 
+</ABSTRACT>
+</TEXT>
+</DOC>

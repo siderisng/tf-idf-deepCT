@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006570
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-1/19 G03G-15/22 H04N-5/335 <main>H04N-1/10</main> H04N-1/40 G03G-15/00 H04N-1/04 H04N-1/024 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+document scanning system with exposure control.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+white james merrill<sep>white, james merrill<sep>white, james merrill37 colton road, r.d. no. 4mahopac, new york 10541us<sep>white, james merrill<sep>white, james merrill37 colton road, r.d. no. 4mahopac, new york 10541us<sep>
+</INVENTOR>
+<ABSTRACT>
+a document scanning system includes a scanning device  (12) adapted to receive radiation simultaneously from an area  (6) of a document including information and an area (8) including  a reference element.  an exposure control section (14) in the  scanning device measures the radiation received from the refe­ rence element and when the amount of radiation reaches a  predetermined level produces a control signal.  simultaneously a document information section (16) in the  scanning device receives radiation from the document informa­ tion area.  on receipt of the control signal the document informa­ tion section no longer responds to radiation received and pro­ vides an output signal representative of the information on the  document.  the system ensures that the same amount of radiation is  received by the document information section regardless of any  variations in the supply of radiation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

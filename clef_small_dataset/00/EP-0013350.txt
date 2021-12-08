@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013350
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-18/82 <main>C08J-11/04</main> C08J-11/16 C08L-75/04 C08J-11/00 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for splitting up polyurethane hydrolysis products into polyol and polyamine.
+</TITLE>
+<APPLICANT>
+bayer agde <sep>bayer ag <sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+grigat ernst prof dr<sep>niederdellmann georg dr<sep>roemer norbert ing grad<sep>grigat, ernst, prof. dr.<sep>niederdellmann, georg, dr.<sep>roemer, norbert, ing.grad.<sep>grigat, ernst, prof. dr.ackerstrasse 21d-5068 odenthalde<sep>niederdellmann, georg, dr.heinestrasse 6d-4047 dormagen 4de<sep>roemer, norbert, ing.grad.hamerweg 128d-4050 mönchengladbachde<sep>grigat, ernst, prof. dr.<sep>niederdellmann, georg, dr. <sep>roemer, norbert, ing.grad.  <sep>grigat, ernst, prof. dr.ackerstrasse 21d-5068 odenthalde<sep>niederdellmann, georg, dr.heinestrasse 6d-4047 dormagen 4de<sep>roemer, norbert, ing.grad.hamerweg 128d-4050 mönchengladbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for separating polyurethane hydrolyzates in polyols or polyamines used for the production of polyurethane agents or polyamines by introducing hydrolysis gas into the optionally diluted with an inert solvent hydrolyzed mixture and filtering out the precipitated amine salt, characterized in that a) in the hydrolyzess, possibly possibly per amine equi VALENT 0.02 to 0.07 moles of hydrogen chloride, inlet, fil is triotted and the filter residue discards, then b) into the filtrate per still present amine equivalent 0.20 to 0.47 moles of hydrogen chloride initiates, the precipitated amine salt filtered off, then c) the Step b) repeated one or more times until the amine group content in the filtrate below 1 wt. -%, based on solvent-free filtrate, and finally d) the precipitation of the amine is completed by introducing 0.5 to 1.0 mol of hydrogen chloride, based on residual amine equivalents of the filtrate.
+</ABSTRACT>
+</TEXT>
+</DOC>

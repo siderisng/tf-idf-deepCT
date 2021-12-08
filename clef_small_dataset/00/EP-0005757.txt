@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005757
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C09B-3/04 C07C-45/72 C07C-49/80 B01J-27/00 C07C-49/665 C07C-49/697 <main>C07C-49/76</main> C07C-45/61 C07C-49/587 C09B-3/00 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing benzanthrones.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+schroeder josef dr<sep>schroeder, josef, dr.<sep>schroeder, josef, dr.paul-klee-strasse 64d-5090 leverkusen 1de<sep>schroeder, josef, dr.<sep>schroeder, josef, dr.paul-klee-strasse 64d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Methods for producing benzanthrons of the formula in the R alkyl and halogen, and n is 0.1,2 or 3, characterized in that one of the formula in the R and N is the meaning given above, with acrolein or compounds,From which acrolein under the reaction conditions can arise in the presence of phosphorus or reducing phosphorus compounds in sulfuric acid higher concentration at elevated temperature and processes the reaction mixture in a manner known per se on the benzanthrone of the formula (I).
+</ABSTRACT>
+</TEXT>
+</DOC>

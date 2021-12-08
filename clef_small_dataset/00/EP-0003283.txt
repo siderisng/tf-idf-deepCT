@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003283
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-13/74 H01R-24/16 H01R-24/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mains socket to be mounted in an electrical appliance
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende  <sep>
+</APPLICANT>
+<INVENTOR>
+koenig gerhardde<sep>mateja peterde<sep>rademacher ulrichde<sep>koenig, gerhard<sep>mateja, peter<sep>rademacher, ulrich<sep>könig, gerhardkettelerstrasse 40d-8740 bad neustadt/saalede<sep>mateja, petermeiningerstrasse 38d-8740 bad neustadt/saalede<sep>rademacher, ulrichweinbergstrasse 47d-8740 bad neustadt/saalede<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a mains socket (2) which can be mounted in an electrical appliance.  the plug contacts (6, 7) of such a socket are connected to the appliance connecting lead via linking leads (12).  the dielectric material housing (3) of such a socket is mounted on the apparatus housing (1).  in order to simplify the assembly of the socket and its attachment to the appliance housing it is recommended that the dielectric material housing (3) be configured as one piece and provided with cavities into which the plug contacts can be pushed and in which they can latch.  furthermore, a stop edge (15) is configured on the dielectric material housing (3) and latching tongues (18) are integrally formed thereon.  when the socket (2) is inserted in an opening (13) provided on the appliance housing (1) these latching tongues latch behind a supporting edge (14) of this opening (13).  sockets of this type are used, in particular, for vacuum cleaners.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

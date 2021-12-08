@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012914
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-9/00 H02K-9/19 F16L-39/04 H02K-55/00 <main>H02K-9/19</main> H02K-55/04 F16L-59/00 F16L-59/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+coolant transfer coupling for an electric machine with superconducting rotor winding.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kullmann dieter dipl-ing<sep>kullmann, dieter, dipl.-ing.<sep>kullmann, dieter, dipl.-ing.nürnberger strasse 10d-8506 langenzennde<sep>kullmann, dieter, dipl.-ing.<sep>kullmann, dieter, dipl.-ing.nürnberger strasse 10d-8506 langenzennde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a coolant terminal head for an electric machine containing a runner with a superconducting winding, with a device for feeding a coolant from a non-rotating coolant conduit member (32) in a rotating coolant conduit part (11, 12, 16). The coolant feeding device is intended to contain at least one sealing device (56, 57) for sealing a gap (53 and 54) formed between these line parts (53 and 54) with a predetermined, pressure-dependent leak rate. During the cooling phase of the machine, however, significantly higher flow resistors in their cooling system are to be overcome than in the operating state, so that there are correspondingly large leak rates on the sealing devices (56, 57). The invention therefore provides that at least one further sealing device (65 and 66) is provided for sealing the gap (53 and 54) with a adjustable sealing gap formed between their sealing surfaces. In particular, the further sealing means (65, 66) may be a mechanical seal whose sealing gap can be easily adjusted by choosing a corresponding distance between its sealing parts.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0010339
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-1/18 <main>H02K-1/18</main> F16B-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stator for a rotary electric machine and a rotary electric machine provided with such a stator.
+</TITLE>
+<APPLICANT>
+acecbe<sep>ateliers de constructions electriques de charleroi (acec) societe anonyme<sep>ateliers de constructions electriques de charleroi (acec) société anonymeavenue lloyd george 7b-1050 bruxellesbe<sep>ateliers de constructions electriques de charleroi (acec) societe anonyme <sep>
+</APPLICANT>
+<INVENTOR>
+persyn raymond<sep>persyn, raymond<sep>persyn, raymondrue vandervelde6160 roux-31be<sep>persyn, raymond<sep>persyn, raymond rue vandervelde 6160 roux-31 be<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  rotating electric machine comprising a stator made of magnetic stator laminations (16, 49) threaded onto longitudinal rods (11, 12, 13, 14; 48) parallel to the axis of the machine and clamped between two end plates (17 and 18; 50 and 51), and end chambers (57 and 65) which are also fixed by the said longitudinal rods (11, 12, 13, 14; 48), characterised in that at least one longitudinal rod (11, 12, 13, 14; 48) presents several journals (33-40; 56, 64, 73, 74) with different diameters, arranged on one side and on the other with respect to the median plane of the machine, and has at each reduction in diameter external threads for corresponding nuts (21, 22, 23, 24; 52, 53; 58, 66), and in that on the largest diameter of the said longitudinal rod (11, 12, 13, 14; 48) are threaded the magnetic stator laminations (16, 49) and the end plates (17 and 18; 50 and 51) held in compression by nuts (21, 22, 23, 24; 52 and 53) screwed onto the corresponding threaded journals, and in that the end chambers (57 and 65) are firmly fixed to the said longitudinal rod (11, 12, 13, 14; 48) by threading onto the intermediate diameter journals (33, 34, 35, 36; 56 and 64) and by tightening against the end plates (17, 18; 50 and 51) by means of nuts (58 and 66) and in that the smallest diameters of the longitudinal rod (11, 12, 13, 14; 48) project outside the end chambers (57 and 65) and are shaped to be directly suitable for the fixing or the suspension of the machine. 
+</ABSTRACT>
+<DESCRIPTION>
+stator pour machine electrique rotative et tachine electrique rotative equipee d'un tel stator. la présente invention est relative à un mode de construction de machine électrique rotative et plus particulièrement à une disposition spéciale permettant son assemblage et sa fixation ou suspension. il a déjà été proposé de constituer une machine électrique rotative par la juxtaposition de part et d'autre de la masse magnétique statorique d'une boite côté collecteur et d'lune boîte côté ventilateur, les trois éléments étant rendus solidaires. en particulier, les brevets us i 446 898, be 444 806 et fr 952 055, ainsi que le brevet us i 467 339 décrivent tous une machine électrique rotative dont le stator est formé d'un paquet de tôles magnétiques qui sont pressées l'une sur l'autre par des plateaux ou anneaux transversaux, l'effet de pression étant obtenu par serrage sur des barres ou tiges parallèles à l'axe longitudinal de la machine, traversant le paquet de tôles magnétiques statoriques et les plateaux ou anneaux transversaux. dans les brevets us i 446 898, be 444 806 et fr 952 055, le statot ainsi constitué est contenu complètement dans une carcasse fermée métallique qui est formée soit d'une portion/e eauxechambres terminales à chaque bout de la machine (brevet fr 952055), soit de deux demi-coquilles qui se rejoignent dans le plan médian (brevets us i 446898 et be 444 806). dans le brevet us i 467 339, le paquet de tôles magnétiques statoriques constitue lui-même la portion centrale de la machine électrique rotative. suivant la présente invention, le perfectionnement recherché est d'utiliser également les barres ou tiges parallèles à l'axe longitudinal de la-machine pour assurer la fixation ou la suspension de celle-ci. suivant l'invention, la machine électrique rotative comprenant un stator formé de tôles magnétiques statoriques enfilées sur des tiges longitudinales parallèles à l'axe de la machine, qui traversent les tôles magnétiques statoriques qui sont pressées entre deux plateaux transversaux terminaux, les plateaux étant également traversés par les tiges longitudinales > celles-ci faisant saillie en dehors des dits plateaux pour la fixation des chambres côté collecteur et côté ventilateur, est caractérisée en ce que les dites tiges longitudinales font en outre saillie en dehors des chambres côté collecteur et côté ventilateur pour la fixation ou la suspension de la machine. l'invention sera décrite dans ce qui suit, en référence aux dessins annexés qui représentent respectivement: - en figure 1, une vue en bout, - en figure 2, une vue en coupe, suivant le plan 2-2 de la figure 1, de la partie magnétique d'un stator non bobiné; - en figure 3, une demi-vue en coupe suivant le plan 3-3 de la figure i, d'une machine électrique comprenant un stator suivant les figures i et 2, les enroulements électriques statoriques et rotoriques étant indiqués schématiquement ainsi que leurs connexions. en outre, dans la figure 3, les détails de construction on été négligés pour la clarté du dessin. en référence aux figures i et 2, 10 désigqe la partie magnétique du stator qui est montée sur quatre
+</DESCRIPTION>
+<CLAIMS>
+ revendication    machine électrique rotative comprenant un stator (10) formé de toles magnétiques statoriques enfilées sur des tiges longitudinales (11,12) parallèles à l'axe de la machine, qui traversent les tôles   ma-    gnétiques statoriques qui sont pressées entre deux plateaux transversaux terminaux (17,18), les plateaux étant également traversés par les tiges longitudinales, celles-ci faisant saillie en dehors des dits plateaux pour la fixation des chambres côté collecteur (57) et côté ventilateur (65),  caractérisée en ce que les dites tiges longitudinales (11,12)   fnt    en outre saillie (73,74) en dehors des chambres coté collecteur (57) et côté ventilateur (65) pour la fixation ou la suspension (77) de la machine.  
+</CLAIMS>
+</TEXT>
+</DOC>

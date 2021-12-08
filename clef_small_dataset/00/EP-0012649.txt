@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012649
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/91 G11B-5/30 G11B-5/02 G11B-20/20 H04N-9/802 G11B-5/43 G11B-20/02 H04N-9/825 <main>G11B-5/49</main> H04N-9/535 G11B-5/49 G11B-5/33 G11B-5/37 H04N-9/82 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic read head.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+lehureau jean-claude<sep>lehureau, jean-claude<sep>lehureau, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>lehureau, jean-claude<sep>lehureau, jean-claude"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the reading heads which allows to read magnetic tapes.It consists in integrating a substrate with a set of transducer elements and the circuits permitting the signals delivered by these elements in parallel and to restore them in series.Anne XES circuits also integrated make it possible to measure and com think of the obliquity due to the lace movement of the band.It makes it possible to make a VCR in which the only mechanical movement is the longituduous scroll of the magnetic tape.
+</ABSTRACT>
+</TEXT>
+</DOC>

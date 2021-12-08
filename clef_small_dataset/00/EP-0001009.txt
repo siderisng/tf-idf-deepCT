@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001009
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60G-3/18 <main>B62D-17/00</main> B60G-3/26 B60G-17/015 B60G-17/018 B60G-17/02 B60G-17/016 B62D-9/00 B60G-17/00 B62D-17/00 B60G-17/027 B60G-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a vehicle suspension system.
+</TITLE>
+<APPLICANT>
+spring hill labus<sep>spring hill laboratories, inc.<sep>spring hill laboratories, inc.horton roadcold spring new york 10516us<sep>spring hill laboratories, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+bloch christopher dunsmore<sep>goldberg jerome<sep>bloch, christopher dunsmore<sep>goldberg, jerome<sep>bloch, christopher dunsmorespringhill farmhillsdale new york 12529us<sep>goldberg, jeromehorton roadcold spring new york 10516us<sep>bloch, christopher dunsmore<sep>goldberg, jerome<sep>bloch, christopher dunsmorespringhill farmhillsdale new york 12529us<sep>goldberg, jeromehorton roadcold spring new york 10516us<sep>
+</INVENTOR>
+<ABSTRACT>
+a vehicle suspension system providing a controlled  camber response to the attitude of a vehicle, for example  when the vehicle is navigating a turn.  the system includes  sensors that monitor the magnitude of centrifugal and vertical  forces on the vehicle, the direction and degree that  the steering wheel is being turned and camber of each  wheel with respect to the vehicle body.  in response to the  sensed change in the vehicle's attitude, monitored by a  central control processor, a series of servo mechanisms  are activated to alter the camber of each wheel to maximize  tyre contact with the road.  
+</ABSTRACT>
+</TEXT>
+</DOC>

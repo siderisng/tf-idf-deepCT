@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0016122
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/00 H04N-5/235 H04N-5/26 <main>H04N-5/193</main> G03B-7/00 H04N-5/238 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pulse modulated automatic light control.
+</TITLE>
+<APPLICANT>
+sperry rand corpus<sep>sperry rand corporation<sep>sperry corporation<sep>
+</APPLICANT>
+<INVENTOR>
+gilligan lawrence h<sep>hermans-dorfer james e<sep>gilligan, lawrence h.<sep>hermans-dorfer, james e.<sep>gilligan, lawrence h.<sep>hermansdorfer, james e.  <sep>gilligan, lawrence h. 3022 colonial drivecharlottesville, va 22901us<sep>hermansdorfer, james e.3000 idlewood drivecharlottesville, va 22901us<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

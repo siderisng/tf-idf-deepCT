@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009829
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-7/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+scan rate converter utilizing discrete differentially coded signals.
+</TITLE>
+<APPLICANT>
+star systems inc us<sep>star systems, inc.<sep>star systems, inc.399 smith streetfarmingdale, new york 11735us<sep>
+</APPLICANT>
+<INVENTOR>
+steber george rus<sep>steber, george r.<sep>steber, george r.9957 river roadmequon, wisconsinus<sep>
+</INVENTOR>
+<ABSTRACT>
+a scan rate converter utilizing a discrete differential cod­ ing system is disclosed.  the scan rate converter converts  input fstv and sstv video information into discrete diffe­ rentially coded signals and stores these signals in a high  speed memory (158).  the stored video information is read  out of the high speed memory at both a fast scan and a slow  scan rate and is reconverted into respective fstv ans sstv  output signals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

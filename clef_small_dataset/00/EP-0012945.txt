@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012945
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/00 <main>G01N-27/56</main> G01N-27/416 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for measuring the emission of gaseous inorganic fluorinated or chlorinated compounds.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+blazevic gertrud dr<sep>boehner marianne<sep>scheubeck egmont<sep>blazevic, gertrud, dr.<sep>boehner, marianne<sep>scheubeck, egmont<sep>blazevic, gertrud, dr.daimlerstrasse 33d-8520 erlangende<sep>boehner, mariannelöhestrasse 45d-8520 erlangende<sep>scheubeck, egmontdresdner strasse 14bd-8520 erlangende<sep>blazevic, gertrud, dr. <sep>boehner, marianne<sep>scheubeck, egmont  <sep>blazevic, gertrud, dr. daimlerstrasse 33d-8520 erlangende<sep>boehner, mariannelöhestrasse 45d-8520 erlangende<sep>scheubeck, egmontdresdner strasse 14bd-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a device for measuring the emission of gaseous, inorganic fluorine or chlorine compounds in exhaust gases by sucking the exhaust gases into a pear-shaped absorption vessel (8) containing an absorbent liquid (7) in the flow and a cylindrical liquid separator (9) andA cylindrical flow rate cell (14) having a fluorine ion sensitive or chlorion-sensitive electrode measuring chain 15, 16 for potentially tiernetric detection of fluorine or chlorine concentration tration.The absorption vessel (8) is fixed over the flux measuring cell (14) and the intermediate liquid Sabschscheider (9) and the solenoid valves (10) and (11) on a plate (5).
+</ABSTRACT>
+</TEXT>
+</DOC>

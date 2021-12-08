@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003412
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+F42B-3/12 G05B-19/02 H03K-17/296 H03K-5/13 F42D-1/00 F42D-1/055 G01V-1/02 G04F-1/00 G05B-19/05 F42B-3/00 H03K-17/28 G01V-1/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric delay device
+</TITLE>
+<APPLICANT>
+ici ltdgb   <sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>
+</APPLICANT>
+<INVENTOR>
+kirby ian johngb<sep>mitchell michael iangb<sep>stratton andrewgb<sep>kirby, ian john<sep>mitchell, michael ian<sep>stratton, andrew<sep>kirby, ian johnpo box no. 11 the heathruncorn cheshire wa7 4qegb<sep>mitchell, michael ianpo box no. 11 the heathruncorn cheshire wa7 4qegb<sep>stratton, andrewimperial chemical house millbanklondon sw1p 3qggb<sep>
+</INVENTOR>
+<ABSTRACT>
+separate electrical timing and load activation devices  are provided for each of plural electrical loads and each  device is in use connected to receive reference timing signals  from a remote central unit.  each of the separate timing and  load activation devices measures a reference time interval  accurately defined by the reference timing signals and  subsequently activates its associated electrical load after a  respectively corresponding predetermined time delay which  is determined as a function of the locally measured reference  time interval.  the time interval may advantageously be  measured by counting locally generated clock pulses, for  example, in an up-down counter which after counting the  pulses between two reference timing signals reverses direction  and activates the load when the count reaches the initial  value.  the devices are especially useful for firing electric  fuseheads for blasting detonators in a predetermined delay  sequence.  
+</ABSTRACT>
+</TEXT>
+</DOC>

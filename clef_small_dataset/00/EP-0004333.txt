@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004333
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/473 H01L-23/34 H05K-7/20 F25D-1/00 H01L-23/467 H01L-23/36 <main>H01L-23/46</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+procedure for cooling of electrical components by means of gas and a cooling body.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchen de<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+hangs werner  <sep>salanki tibor dr<sep>scherbaum friedrich<sep>weber jurgen dr<sep>hangs, werner<sep>salanki, tibor, dr.<sep>scherbaum, friedrich<sep>weber, jurgen, dr.<sep>hangs, wernereskilstunastrasse 25d-8520 erlangende<sep>salanki, tibor, dr.kulmbacher strasse 1d-8520 erlangende<sep>scherbaum, friedrichrennesstrasse 21d-8520 erlangende<sep>weber, jürgen, dr.erlenfeld 29d-8520 erlangende<sep>hangs, werner<sep>salanki, tibor, dr. <sep>scherbaum, friedrich<sep>weber, jurgen, dr.  <sep>hangs, wernereskilstunastrasse 25d-8520 erlangende<sep>salanki, tibor, dr.kulmbacher strasse 1d-8520 erlangende<sep>scherbaum, friedrichrennesstrasse 21d-8520 erlangende<sep>weber, jürgen, dr.erlenfeld 29d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for cooling electric components by means of a gas and a cooling body having at least one outer surface intended for heat-conducting connection to the components to be cooled, wherein the gas flows in closed cooling channels formed by slots extending between cooling fins arranged at right angles to the outer surface, from inlet openings to outlet openings, characterised in that from the inlet openings, the cross-section of the slots increases, and that the gas is fed to the inlet openings (1d) under pressure and is expanded on flowing through the slots (1f) from the inlet openings (1d) to the outlet openings (1e). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004917
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/653 A61K-31/41 A61P-31/00 <main>C07D-249/08</main> C07D-249/00 C07D-521/00 A01N-43/64 C07D-249/08 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oximino-triazolyl ethanes, process for their preparation and their use as fungicides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft  <sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+brandes wilhelm dr<sep>buchel karl heinz prof dr<sep>frohberger paul-ernst dr<sep>kramer wolfgang dr<sep>timmler helmut dr<sep>brandes, wilhelm, dr.<sep>buchel, karl heinz, prof. dr.<sep>frohberger, paul-ernst, dr.<sep>kramer, wolfgang, dr.<sep>timmler, helmut, dr.<sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5650 leichlingen 1de<sep>büchel, karl heinz, prof. dr.bergerheide 62d-5600 wuppertal 1de<sep>frohberger, paul-ernst, dr.willi-baumeister-strasse 5d-5090 leverkusen 1de<sep>krämer, wolfgang, dr.am eckbusch 39/162d-5600 wuppertal 1de<sep>timmler, helmut, dr.tersteegenweg 16d-5600 wuppertal 1de<sep>brandes, wilhelm, dr.<sep>buchel, karl heinz, prof. dr.<sep>frohberger, paul-ernst, dr.<sep>kramer, wolfgang, dr. <sep>timmler, helmut, dr.  <sep>brandes, wilhelm, dr.eichendorffstrasse 3d-5650 leichlingen 1de<sep>büchel, karl heinz, prof. dr.bergerheide 62d-5600 wuppertal 1de<sep>frohberger, paul-ernst, dr.willi-baumeister-strasse 5d-5090 leverkusen 1de<sep>krämer, wolfgang, dr.am eckbusch 39/162d-5600 wuppertal 1de<sep>timmler, helmut, dr.tersteegenweg 16d-5600 wuppertal 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to novel oximino-triazolyl ethane, a method for their preparation and their use as fungicides.The compounds of the general formula in which R, R 'and N have the meaning given in the description are obtained by reacting the salts of oximes with a halide in the presence of a diluent.The active compounds according to the invention have a strong fungithoxic effect.As plant protection products, the same can be used with particularly good success to combat venturia species, podosphaera species and grain diseases.
+</ABSTRACT>
+</TEXT>
+</DOC>

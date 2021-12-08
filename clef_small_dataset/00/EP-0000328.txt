@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000328
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-21/89 G01B-11/30 G01N-21/892 B41F-31/02 G01B-11/28 G01N-21/88 B41F-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+measuring method and device for detecting errors in printed sheets and bands.
+</TITLE>
+<APPLICANT>
+heidelberger druckmasch agde  <sep>heidelberger druckmaschinen aktiengesellschaft<sep>heidelberger druckmaschinen aktiengesellschaftkurfürsten-anlage 52-60 postfach 10 29 40d-69019 heidelbergde<sep>
+</APPLICANT>
+<INVENTOR>
+jeschke willide<sep>loeffler gerhardde<sep>jeschke, willi<sep>loeffler, gerhard<sep>jeschke, williberghalde 68d-6900 heidelbergde<sep>löffler, gerhardschillerstrasse 16d-6714 weisenheim/sandde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a measurement method for determining errors on printed sheets and traces, in particular sliding and / or dubing, the measuring fields (3-6) of a measuring field block (2) are measured by means of a remission gauge (8) on a measuring table (7). The measuring field block (2) is printed parallel to the arc front edge on the sheet (1) and webs and consists of four related measurement fields (3-6), one of which are a full-tone (3) and the three remaining line grid measurement fields (4-6) whose lines have different scanning angles with each other with each other with the same angular difference. Grid width and rastertone values ​​in the film are the same in the three line grid meters. From the metrologically detected four remission values ​​is determined by linking with each other and by their computational evaluation of the raster tone value in pressure with deduction of the influence of pushing and / or dubing, the size of pushing and / or dubing as well as the sliding and / or dual angle and the Operating staff optionally displayed in value.
+</ABSTRACT>
+</TEXT>
+</DOC>

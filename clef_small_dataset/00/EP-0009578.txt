@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009578
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07H-19/20 C08B-37/00 C08B-15/00 C07H-21/02 C08B-15/06 <main>C12N-11/08</main> C07H-19/00 C08F-8/30 C07H-21/00 C12P-1/00 C08B-37/02 C08F-8/00 C07H-19/207 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of coenzymes bound to macromolecules and containing an adenine ring, and enzymatic process.
+</TITLE>
+<APPLICANT>
+biotechnolog forschung gmbhde<sep>gesellschaft fur biotechnologische forschung mbh (gbf)<sep>gesellschaft für biotechnologische forschung mbh (gbf)mascheroder weg 1d-38124 braunschweigde<sep>gesellschaft fur biotechnologische forschung mbh (gbf) <sep>
+</APPLICANT>
+<INVENTOR>
+buckmann andreas dipl ing<sep>buckmann, andreas, dipl.ing.<sep>bückmann, andreas, dipl.ing.kutheweg 4d-3300 braunschweig-stöckheimde<sep>buckmann, andreas, dipl.ing.<sep>bückmann, andreas, dipl.ing.kutheweg 4d-3300 braunschweig-stöckheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing soluble macromolecules or insoluble macromolecules or carriers covalently bonded. An adenine ring system containing coenzymes, in which the adenine ring system is alkylated in the 1-position, optionally a lengthwise tion of the chain introduced by the alkylation, which adds alkylated coenzyme to a macromolecule or a trash and (optionally with previous reduk tion and later Reoxidation) subjected to Dimroth rearrangement. By this approach, the yield of known methods for producing macromolecules or carrier, an adenine ring system contains the coenzymes significantly improve significantly. According to the invention it was further determined that NAD⁺ can be stabilized in moderately basic milieu against a base-catalyzed degradation, if it is covalently bound to macromolecules or carrier according to the invention. The invention accordingly further relates to an enzymatic projection using dehydrogenase in the presence of NAD⁺ bonded to macromolecules according to the invention, wherein the method is characterized in that at a pH in the range of 6.0 to 11 , 0 works.
+</ABSTRACT>
+</TEXT>
+</DOC>

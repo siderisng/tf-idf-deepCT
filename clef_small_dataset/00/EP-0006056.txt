@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006056
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22C-1/04 <main>C22C-1/04</main> B22F-3/16 B22F-9/00 B22F-3/12 B22F-3/20 B22F-9/10 B22F-9/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for producing articles of molybdenum or molybdenum alloys by powder metallurgy methods.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel  <sep>
+</APPLICANT>
+<INVENTOR>
+devillard jacques<sep>devillard, jacques<sep>devillard, jacques"la bastide" chemin de rozatf-38330 saint ismierfr<sep>devillard, jacques<sep>devillard, jacques"la bastide" chemin de rozatf-38330 saint ismierfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the preparation of molybdenum or molybdenum alloy members, wherein it comprises : (a) preparing a molybdenum or molybdenum alloy powder with a grain size in excess of 100 mu and having an o2 content at the most equal to 100 ppm, (b) introducing under vacuum or an inert atmosphere the said powder into a sheath or jacket of material having at a temperature below 1250 degrees c, a ductility which is at least equal to that of the molybdenum or the molybdenum alloy, whilst said material does not react with the molybdenum or the molybdenum alloy at the said temperature, compressing under vacuum or under an inert atmosphere said powder in said jacket and sealing said jacket under vacuum or an inert atmosphere, (c) subjecting the jacketed assembly obtained in this way to an extrusion or rolling operation at a temperature below 1250 degrees c.  (c) then eliminating the jacket to obtain a molybdenum or molybdenum alloy member. 
+</ABSTRACT>
+</TEXT>
+</DOC>

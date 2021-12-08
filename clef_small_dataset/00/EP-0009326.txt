@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009326
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-207/32 C07D-207/337 C07D-207/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyrrolyl keto and amino acids and derivatives thereof, processes for their preparation and pharmaceutical compositions containing them
+</TITLE>
+<APPLICANT>
+pfizerpa<sep>pfizer ltdgb<sep>pfizer corporation<sep>pfizer limited<sep>pfizer corporationcalle 15 1/2 avenida santa isabelcolonpa<sep>pfizer limitedramsgate roadsandwich kent ct13 9njgb  <sep>
+</APPLICANT>
+<INVENTOR>
+barnish ian thompsongb<sep>cross peter edwardgb<sep>dickinson roger petergb<sep>barnish, ian thompson<sep>cross, peter edward<sep>dickinson, roger peter<sep>barnish, ian thompson7 hillcrest gardensramsgate, kentgb<sep>cross, peter edward21 cherry avenuecanterbury, kentgb<sep>dickinson, roger peter6 kingston close, riverdover, kentgb<sep>
+</INVENTOR>
+<ABSTRACT>
+pyrrolyl keto and amino acids, esters and amides of the formula:  <chem>  wherein  r is h or lower alkyl;  r<1> is c1-c10 alkyl, c3-c6 alkenyl, - c1-c10 alkylthio, c5-c7 cycloalkylthio or a substituted lower alkyl, substituted lower alkenyl or substituted lower alkylthio group wherein the substituent is a c3 to c7 cycloalkyl, a c5-c7 cycloalkyl, a c5-c7 cycloalkenyl, a phenyl or a substituted phenyl group (wherein said phenyl substituent is lower alkyl, lower alkoxy or halogen);  r<2> is hydroxy, lower alkoxy or amino;  and pharmaceutically acceptable salts thereof, are useful in the treatment of cardiovascular disorders such as ischaemic heart disease and cardiac failure.  the compounds of formula (ii) are bioprecursors for the compounds of formula (i).  processes for their preparation and pharmaceutical compositions are also claimed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

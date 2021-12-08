@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011885
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05D-11/00 G05D-11/13 B29B-7/30 B29B-7/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a control method and device for the preparation of foam material.
+</TITLE>
+<APPLICANT>
+campen maskinfabdk<sep>p. campen maskinfabrik a/s<sep>p. campen maskinfabrik a/sviborgvej 1578210 aarhus v.dk <sep>
+</APPLICANT>
+<INVENTOR>
+hansen niels henrik vangdk   <sep>mikkelsen erling hoeghdk<sep>vissing soerendk<sep>hansen, niels henrik vang<sep>mikkelsen, erling hoegh<sep>vissing, soeren<sep>hansen, niels henrik vangemmasvej 8dk-8220 brabranddk<sep>mikkelsen, erling höghstokbrovej 27 elevdk-8520 lystrupdk<sep>vissing, sörenblaabärvej 40dk-8471 sabrodk<sep>
+</INVENTOR>
+<ABSTRACT>
+a foam material, e. g.  for use as a backing material on  rugs, is produced by continuously pumping a viscid raw mat­ erial through a flow meter (12) into a mixer (10) in which the  raw material is foamed up by controlled supply of an air flow.   for maintaining the density of the foam constant the raw  material is passed through a specific weight detector (6) and  the foaming air supply is controlled based on the measuring  outputs of both the flow meter (12) and the weight detector  (6).  according to the invention there is used two specific  weight detectors (6, 14), viz.  one at each side of the supply  pump (4), and by processing their combined measuring out­ puts in a control calculator (20) it is possible to eliminate a  control inaccuracy otherwise resulting from the fact that the  measurements partly refer to the raw material as under  increased pressure compared with the ambient pressure  where the foam leaves the mixer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

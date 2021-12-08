@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009416
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/74 G01K-7/00 H03K-3/352 G01K-3/00 H01L-29/66 G01K-7/01 H03K-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+temperature sensitive relaxation oscillator
+</TITLE>
+<APPLICANT>
+cutler hammer world trade incus <sep>cutler-hammer world trade, inc.<sep>cutler-hammer world trade, inc. 4201 north 27th street milwaukee wisconsin 53216us<sep>
+</APPLICANT>
+<INVENTOR>
+jaskolski stanley vus<sep>lade robert wus<sep>schutten herman pus<sep>spellman gordon bus<sep>jaskolski, stanley v.<sep>lade, robert w.<sep>schutten, herman p.<sep>spellman, gordon b.<sep>jaskolski, stanley v.n76 w22144 chestnut hill roadsussex wisconsin, 53089us<sep>lade, robert w.c/o o.w. carey rt. 1, p.o. box 185howe oklahoma, 74940us<sep>schutten, herman p.2105 elm tree roadelm grove wisconsin 53122us<sep>spellman, gordon b.11305 north bobolink lanemequon wisconsin, 53092us<sep>
+</INVENTOR>
+<ABSTRACT>
+a temperature sensitive thyristor 10 is incorporated  with a capacitor 4 in a relaxation oscillator to provide  active temperature sensing.  as temperature decreases,  the breakover voltage vbo of the thyristor increases, and  when vbo becomes greater than the supply voltage,  oscillations will cease, thus providing a low temperature  alarm point.  as temperature increases, vbo decreases and  the amplitude of oscillation diminishes, thus providing a  high temperature alarm point.  this is a "failsafe"  arrangement because component failure also provides  a warning condition (absence of oscillation).  frequency  of oscillation may also be sensed as an indication of  temperature.  
+</ABSTRACT>
+</TEXT>
+</DOC>

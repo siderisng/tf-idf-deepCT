@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002159
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-65/00 C08G-63/82 C08G-65/10 C08G-63/10 C08F-2/02 C08F-4/00 C08G-69/00 <main>C08F-4/46</main> C08F-36/04 C08G-63/00 C08F-4/46 C08F-4/42 C08F-36/00 C08G-65/26 C08G-69/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for anionic mass polymerisation with an alcali-metal azide and a hydroxylate of the same metal.
+</TITLE>
+<APPLICANT>
+poudres & explosifs ste nalefr   <sep>societe nationale des poudres et explosifs<sep>societe nationale des poudres et explosifs12, quai henri ivf-75181 paris cédex 04fr<sep>societe nationale des poudres et explosifs<sep>
+</APPLICANT>
+<INVENTOR>
+boileau sylvie<sep>caubere paul<sep>lecolier serge<sep>ndebeka gilberte<sep>raynal serge<sep>boileau, sylvie<sep>caubere, paul<sep>lecolier, serge<sep>ndebeka, gilberte<sep>raynal, serge<sep>boileau, sylvie38-40, rue des cordelièresf-75013 parisfr<sep>caubere, paul3, rue emile galléf-54000 nancyfr<sep>lecolier, serge3, allée des cartelinesf-91510 janville sur juinefr<sep>ndebeka, gilberte11, place de parisf-54500 vandoeuvrefr<sep>raynal, sergeorée de sénart bâtiment hérédiaf-91210 draveilfr<sep>boileau, sylvie<sep>caubere, paul<sep>lecolier, serge <sep>ndebeka, gilberte  <sep>raynal, serge<sep>boileau, sylvie38-40, rue des cordelièresf-75013 parisfr<sep>caubere, paul3, rue emile galléf-54000 nancyfr<sep>lecolier, serge3, allée des cartelinesf-91510 janville sur juinefr<sep>ndebeka, gilberte11, place de parisf-54500 vandoeuvrefr<sep>raynal, sergeorée de sénart bâtiment hérédiaf-91210 draveilfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for polymerizing and anionic copolymerization of vinyl, dienic and heterocyclic monomers.According to the invention, the method comprises performing the reaction in the presence of an initiator consisting of a molecular association of an alkaline amide with the salt of the same alkali metal of at least one hydroxyl compound and in the absence of solvent.The initiator can be prepared by intimate mixing of its constituents or in the presence of a low polar solvent which is then evaporated or in situ in the monomer.application to the synthesis of special or large diffusion polymers and copolymers.
+</ABSTRACT>
+</TEXT>
+</DOC>

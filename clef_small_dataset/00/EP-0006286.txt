@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006286
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-271/06 A61K-31/4245 A61K-31/41 C07D-271/00 A61P-1/00 A61P-1/04 C07D-271/07 <main>C07D-271/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+antisecretory oxadiazole derivatives, processes for their manufacture and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ici america incgb<sep>ici ltdgb<sep>ici americas inc<sep>imperial chemical industries limited<sep>ici americas inc.concord pike &amp; new murphy roadwilmington delaware 19897us<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>ici americas inc<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+mant derrick michael<sep>yellin tobias oregon<sep>mant, derrick michael<sep>yellin, tobias oregon<sep>mant, derrick michael115 moss lanebramhall cheshiregb<sep>yellin, tobias oregon4 waterford waywallingford,pa 19086us<sep>mant, derrick michael <sep>yellin, tobias oregon<sep>mant, derrick michael 115 moss lane bramhall cheshire gb<sep>yellin, tobias oregon4 waterford waywallingford,pa 19086us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to oxadiazole derivatives which  are histamine h-2 antagonists and which inhibit the secre­ tion of gastric acid, to methods for their manufacture and  to pharmaceutical compositions containing them.  the oxa­ diazole derivatives are of the formula:    in which y is o, s, ch₂ or a direct bond; m is 0 to 4 and n  is 1 to 4,  provided that when y is s or o m is 1 to 4 and  when y is o n is 2 to 4; a is a 3,4-dioxocyclobuten-1,2-diyl  radical or c=z in which z is o, s, ncn, nno₂, chno₂,  nconh₂, c(cn)₂, ncor¹, nco₂r¹, nso₂r¹ or nr² in  which r¹ is alkyl or aryl and r² is h or alkyl; b is alkoxy or  alkylthio or nhr³ in which r³ is h or alkyl: and the salts  thereof.  
+</ABSTRACT>
+</TEXT>
+</DOC>

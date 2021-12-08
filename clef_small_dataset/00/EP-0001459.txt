@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001459
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-47/18 H01H-43/00 G05B-19/04 H01H-47/00 G05B-19/06 H01H-43/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements relating to time delay switch devices.
+</TITLE>
+<APPLICANT>
+bui anh tuan  <sep>bui anh tuan<sep>bui anh tuan15, rue henri cardinaudf-94000 créteilfr<sep>
+</APPLICANT>
+<INVENTOR>
+bui anh tuan<sep>bui anh tuan<sep>bui anh tuan15, rue henri cardinaudf-94000 créteilfr<sep>
+</INVENTOR>
+<ABSTRACT>
+the motor (1) of the timer and the switch (2) are mounted in series, the device being inserted between the electrical source and the apparatus to be powered.  the first terminal of the motor is connected to a terminal of the source by two separate circuits: one including the switch (2) of the timer and a manual switch (3) whilst the other includes a switch (7), the said switch (7) being coupled mechanically with a second switch (8) connecting the second terminal of the source to the second terminal of the motor, the first user terminal (5a) being connected to the said first terminal of the motor whilst the second user terminal (5b) is connected directly to the second terminal of the source. 
+</ABSTRACT>
+</TEXT>
+</DOC>

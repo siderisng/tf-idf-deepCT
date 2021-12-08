@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003619
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-263/58 C07D-233/36 C07D-233/70 A01N-43/64 A01N-43/56 C07D-263/00 A01N-43/72 C07D-263/38 C07D-207/408 A01N-43/50 C07D-271/113 A01N-43/74 A01N-43/76 A01N-43/82 A01N-43/48 A01N-53/12 C07D-271/10 <main>C07D-271/10</main> C07D-207/267 C07D-231/00 A01N-43/34 C07D-271/00 C07D-233/72 A01N-53/00 A01N-43/36 C07D-233/00 C07D-263/22 A01N-43/653 C07D-233/96 C07D-231/22 A01N-43/824 C07D-207/00 C07D-231/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heterocyclic-substituted anilide derivatives, a process for their preparation, herbicidal compositions containing them and a method of controlling undesired plant growth using them.
+</TITLE>
+<APPLICANT>
+shell int researchnl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+pilgram kurt hans gerhard<sep>pilgram, kurt hans gerhard<sep>pilgram, kurt hans gerhard2607 warwick lanemodesto california 95350us<sep>pilgram, kurt hans gerhard<sep>pilgram, kurt hans gerhard2607 warwick lanemodesto california 95350us<sep>
+</INVENTOR>
+<ABSTRACT>
+novel compounds are provided of the general  formula    wherein r¹ represents a hydrogen atom, an optionally  substituted cycloalkyl group having 3 to 5 ring carbon  atoms and a total of 3 to 6 carbon atoms, or an alkyl group  having 1 to 4 carbon atoms or an alkenyl group having 2  or 3 carbon atoms which groups may be unsubstituted  or substituted by one or more fluorine, chlorine and/or  bromine atoms; r² represents a fluorine, chlorine or  bromine atom, a trifluoromethyl, nitro or cyano group, or  an alkyl, alkoxy or alkylthio group having from 1 to 6  carbon atoms; and a represents various optionally-substituted  5-membered heterocycles containing up to 3  nitrogen atoms and also in some cases an oxygen atom.   these compounds have herbicidal activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

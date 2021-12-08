@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001946
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01F-5/00 C01B-3/00 C01B-3/38 <main>B01F-5/00</main> C01B-3/26 B01J-19/26 C01C-1/04 B01F-3/06 B01F-3/00 C01C-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+reactive gases mixing apparatus for oxygen-reforming reactors.
+</TITLE>
+<APPLICANT>
+banquy david l<sep>banquy, david leon<sep>banquy, david léon39, rue saint-placidef-75006 parisfr<sep>banquy, david leon<sep>
+</APPLICANT>
+<INVENTOR>
+banquy david leon<sep>banquy, david leon<sep>banquy, david léon39, rue saint-placidef-75006 parisfr<sep>banquy, david leon<sep>banquy, david léon39, rue saint-placidef-75006 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus intended for mixing very rapidly reactive gases entering in a reforming oxygen reactor, in which a highly exothermic reaction takes place between an oxidizing gas having a high oxygen content, and a process gas containing hydrocarbons and eventually water-vapor, hydrogen and carbon oxides.  this apparatus is mainly composed, on the one hand, of a refractory casing (4), into which the process gas is injected tangentially so as to impart the gas a helicoid motion, and on the other hand, of a plurality of parallel channels (7, 10), into which the oxidizing gas is injected at one end to go out at the other end through an orifice of which at least one of the sizes is smaller than 20 mm.  the apparatus, according to the present invention, is particularly suitable for reforming oxygen reactors, for producing synthesis gas, operating in more severe conditions than usual. 
+</ABSTRACT>
+</TEXT>
+</DOC>

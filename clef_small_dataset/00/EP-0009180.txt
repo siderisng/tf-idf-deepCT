@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009180
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16D-59/00 F16D-65/14 F16D-55/06 F16D-59/02 <main>F16D-59/02</main> F16D-55/02 F16D-65/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spring actuated brake with electromagnetic release.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+gempel hans dipl-ing<sep>gempel, hans, dipl.-ing.<sep>gempel, hans, dipl.-ing.am rhönblick 4d-8741 wollbachde<sep>gempel, hans, dipl.-ing.<sep>gempel, hans, dipl.-ing.am rhönblick 4d-8741 wollbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a silenced spring pressure brake which can be released electromagnetically and which has a magnet body (1) containing an excitation winding (2), and an armature disc (3), which is formed from laminated sheets and is movably guided in the direction of the axis of the magnet body, which carries a brake lining (5) on its side remote from the magnet body (1) and which is held in the braking position by means of a spring force in the unexcited state of the excitation winding (2), characterized in that in the contact surface of the magnet body (1) and the armature disc (3), there are arranged, in addition to the spring (7) which generates the braking force, a plurality of springs (12) which do not contribute to the braking force. 
+</ABSTRACT>
+</TEXT>
+</DOC>

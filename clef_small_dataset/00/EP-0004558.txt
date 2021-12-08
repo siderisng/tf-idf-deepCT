@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004558
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-15/20 <main>G03G-15/20</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hot roll fuser for an electrostatic copier.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bernardelli william james<sep>brandon fred young<sep>bernardelli, william james<sep>brandon, fred young<sep>bernardelli, william james915 east fourth ave.longmont colorado 80501us<sep>brandon, fred young4775 harrison avenueboulder colorado 80303us<sep>bernardelli, william james  <sep>brandon, fred young<sep>bernardelli, william james915 east fourth ave.longmont colorado 80501us<sep>brandon, fred young4775 harrison avenueboulder colorado 80303us<sep>
+</INVENTOR>
+<ABSTRACT>
+a roll fuser for an electrostatic copier includes a pair of  scraper blades (17 and 18) positioned in parallel along the  backup roll to effect cleaning thereof.  in order to increase the  compliance of the blades, they include a plurality of slots  (17b and 18b) extending from the scraping edge.  the slots in  the respective blades are offset to effect cleaning of the total  area of the backup roll.  
+</ABSTRACT>
+</TEXT>
+</DOC>

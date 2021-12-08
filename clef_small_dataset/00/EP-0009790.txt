@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009790
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01F-23/22</main> G03G-15/08 G01F-23/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for indicating the drop below a predetermined filling level of a dosing material contained in a reservoir.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+neumann jurgen<sep>neumann, jurgen<sep>neumann, jürgen wachenheimerstrasse 29d-6237 liederbachde<sep>neumann, jurgen<sep>neumann, jürgen wachenheimerstrasse 29d-6237 liederbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a device (10) for displaying the falling below a certain filling height of a metering material (2) in a container (1). The device comprises a contact pin (3), an elastic contact banner (4), a grinding contact (19) which rests on a bearing pin (17) of a shaft (9) of a metering brush (5) and connected to ground via a conduit (21) and a connecting banner (14) connected via a line (15) with a flip-flop circuit (16). The contact pin (3) is mounted at a distance from the shaft of the metering brush greater than its radius and communicates with the connecting banner (14). In each contact of the contact pin (3) through the contact lug (4) attached to the shaft (9), the flip-flop circuit is triggered and feeds a display signal into a display device. With sufficient level of the dosing material, the contact lug (4) is at the circumference of the metering brush (5), as soon as the level drops correspondingly far that the metering material no longer covered the contact flag, it depends on and touches the contact pin at each dosing brush.
+</ABSTRACT>
+</TEXT>
+</DOC>

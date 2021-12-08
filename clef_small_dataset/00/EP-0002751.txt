@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002751
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-27/04 H03K-19/018 H01L-21/822 H01L-29/86 H03K-19/00 H01L-23/64 H03K-19/08 H01L-29/66 H01L-29/8605 H01L-23/52 <main>H01L-23/56</main> H01L-23/58 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for adjusting the value of resistance of a terminating resistance of interconnections in semiconductor structures.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+anantha narasipur gundappa<sep>henle robert athanasius<sep>walsh james leo<sep>anantha, narasipur gundappa<sep>henle, robert athanasius<sep>walsh, james leo<sep>anantha, narasipur gundappa1 valdemar roadhopewell junction n.y. 12533us<sep>henle, robert athanasiussunset trailclinton corners n.y. 12514us<sep>walsh, james leo23 south drivehyde park n.y. 12538us<sep>anantha, narasipur gundappa <sep>henle, robert athanasius<sep>walsh, james leo<sep>anantha, narasipur gundappa1 valdemar roadhopewell junction n.y. 12533us<sep>henle, robert athanasiussunset trailclinton corners n.y. 12514us<sep>walsh, james leo23 south drivehyde park n.y. 12538us<sep>
+</INVENTOR>
+<ABSTRACT>
+Inkeeping compounds of semiconductor structures a terminating resistor changeable by a reference voltage is provided. By either adapting to the transmission resistance of a guide connection can be prepared, which is formed from a circuit card via a module to a chip. Various line capacities of such a guide include various impedance values. The termination resistor is formed by a so-called pinch resistor (60). Signals transmitted from a guide compound are supplied to a terminal of the pinch resistor and a first control input of a differential amplifier (transistors T₁, T₂) whose second control input is connected to a selected reference voltage. The output of the differential amplifier is connected via an intermediate amplifier (transistor T₅) with one or more control electrodes of one or more pinch resistors, each of which forms the termination resistance of a guide compound.
+</ABSTRACT>
+</TEXT>
+</DOC>

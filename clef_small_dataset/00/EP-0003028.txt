@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003028
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-1/12 C07K-1/113 A61P-25/00 C07K-14/435 C07K-14/655 C07K-1/00 A61P-1/00 C07K-14/675 A61P-25/04 C07K-14/575 <main>C07C-103/52</main> A61P-25/26 A61K-38/22 A61K-37/02 A61K-38/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beta h-endorphin analogues, preparations containing them and process for their preparation.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+li choh hao<sep>li, choh hao<sep>li, choh hao901 arlington avenueberkeley kalifornienus<sep>li, choh hao<sep>li, choh hao901 arlington avenueberkeley kalifornienus<sep>
+</INVENTOR>
+<ABSTRACT>
+Analog of the βH endorphin of the formula [X, PHE²⁷, Gly³¹] -βH-endorphine I where X is zero, Ala6,7, NLE⁵ or D-Thr 2, methods for their preparation in a conventional manner and their use as a medicament, in particularas analgesics.
+</ABSTRACT>
+</TEXT>
+</DOC>

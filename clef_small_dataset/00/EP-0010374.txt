@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010374
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/49 G01N-15/05 <main>G01N-33/86</main> G01N-27/06 G01N-27/02 G01N-33/483 G01N-27/07 G01N-15/04 G01N-33/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of and apparatus for monitoring platelet aggregation and test cell for use in such method and apparatus.
+</TITLE>
+<APPLICANT>
+wellcome foundgb<sep>the wellcome foundation limited<sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb<sep>the wellcome foundation limited  <sep>
+</APPLICANT>
+<INVENTOR>
+cardinal david charles<sep>flower roderich john<sep>cardinal, david charles<sep>flower, roderich john<sep>cardinal, david charles87, silverhurst drivetonbridge, kentgb<sep>flower, roderich johnup and down stock hillbiggin hill, kentgb<sep>cardinal, david charles<sep>flower, roderich john<sep>cardinal, david charles87, silverhurst drivetonbridge, kentgb<sep>flower, roderich johnup and down stock hillbiggin hill, kentgb<sep>
+</INVENTOR>
+<ABSTRACT>
+aggregation of blood-platelets is detected by using a test  cell (1) which contains two electrodes (4a,4b) which extend  into the sample.  so as to maximise the change in resistance  between the electrodes which occurs as platelets aggregate  on them, they are each rod-shaped and of not more than  about 0. 25 mm in diameter.  the resistance between the elec­ trodes is detected using an ac signal to avoid polarisation  effects.  the test cell may be constructed so as to be a disposable  item.  
+</ABSTRACT>
+</TEXT>
+</DOC>

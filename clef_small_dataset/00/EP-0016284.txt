@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016284
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-7/12 C07C-45/00 C07C-11/08 C07C-7/04 C07C-7/00 C07C-67/00 C07C-7/148 C07C-1/00 C07C-45/50 C07C-47/02 C07C-11/00 <main>C07C-11/08</main> B01D-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of a sulphur-free butene-1 rich stream.
+</TITLE>
+<APPLICANT>
+davy mckee londongb<sep>davy mckee (london) limited<sep>davy mckee (london) limited250, euston roadlondon nw1 2pggb<sep>davy mckee (london) limited <sep>
+</APPLICANT>
+<INVENTOR>
+flintoff john frederick<sep>harris norman<sep>kippax john wilson<sep>flintoff, john frederick<sep>harris, norman<sep>kippax, john wilson<sep>flintoff, john frederick2 swainby close acklamhall estatetollesvy middlesbrough, clevelandgb<sep>harris, norman22 grantham roadnorton stockton-on-tees, clevelandgb<sep>kippax, john wilson"the heights" marsh lane ingleby greenhowmiddlesbrough clevelandgb<sep>flintoff, john frederick<sep>harris, norman  <sep>kippax, john wilson<sep>flintoff, john frederick2 swainby close acklamhall estatetollesvy middlesbrough, clevelandgb<sep>harris, norman22 grantham roadnorton stockton-on-tees, clevelandgb<sep>kippax, john wilson"the heights" marsh lane ingleby greenhowmiddlesbrough clevelandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a process is disclosed for producing a substantially  sulphur-free, butene-1 rich stream from a butene-containing  c₄ hydrocarbon feed stream by passage through a desulphur­ zation zone, e. g.  successive beds of active alumna and zinc  oxide, and then distilling it.  the desulphurization zone  adsorbs, absorbs or converts to higher boiling sulphurous  compounds low boiling sulphurous impurities such as h₂s,  cos and ch₁sh.  a sulphur-free butene-1 rich stream is reco­ vered overhead from the distillation zone, whilst a butene-2  rich stream containing higher boiling sulphurous impurities  originally present or produced in the desulphurization zone is  recovered as a bottom product.  a dechlorination zone (con­ taining, for example, a charge of copper impregnated active  carbon) can be provided upstream or downstream from the  desulphurization zone but upstream from the distillation zone  or can be provided in the path of the butene-1 rich stream from  the distillation zone.  the butene-1 rich product is suitable for  use as a hydroformylation feedstock.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015475
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-23/20 <main>G01N-23/207</main> G01N-23/207 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+x-ray diffractometer with a high momentary resolution.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+gobel herbert dr<sep>gobel, herbert, dr.<sep>göbel, herbert, dr.goldschaggbogen 8d-8000 münchen 83de<sep>gobel, herbert, dr.<sep>göbel, herbert, dr.goldschaggbogen 8d-8000 münchen 83de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention is based on an X-ray diffractometer with a local detector in which in a digital adder, the sum of the digital values for the respective location of the detector and for the position of each registered X-ray quantum is formed in the detector and used for address control of a multi-channel analyzer.In order to enable the absorption of diffraction profiles as a function of a measuring parameter such as temperature or pressure, it is provided that the adder (20) additionally supplies the output of a digital area switch (13), which by a measuring parameter (14) on the sample (2)is actuated.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002624
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07D-265/00 C07C-205/58 A61K-31/55 A61P-9/00 C07C-29/00 C07C-205/57 C07D-209/38 <main>C07D-223/16</main> C07D-223/16 C07D-209/00 C07D-265/26 C07C-29/147 C07D-223/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-benzazepine compounds, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+smithkline corpus<sep>smithkline corporation<sep>smithkline beckman corporationp.o. box 7929 1 franklin plazaphiladelphia pennsylvania 19101us<sep>smithkline beckman corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bondinell william edward<sep>pendleton robert grubb<sep>bondinell, william edward<sep>pendleton, robert grubb<sep>bondinell, william edward46 curtis avenuecherry hill new jersey 08002us<sep>pendleton, robert grubb720 cornelia placephiladelphia pennsylvania 19118us<sep>bondinell, william edward<sep>pendleton, robert grubb<sep>bondinell, william edward46 curtis avenuecherry hill new jersey 08002us<sep>pendleton, robert grubb720 cornelia placephiladelphia pennsylvania 19118us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention concerns a process for preparing 2-benzazepine  compounds which inhibit the enzyme phenylethanolamine  n-methyltransferase and show activity in  reducing anxiety.  the compounds produced have substituents  in the 8- and/or 9-positions, and optionally substituents  in the 1- and 2-positions.  the compounds are  prepared by debenzylating an appropriately substituted  n-benzyl 2-benzazepine with optional acylation and reduction,  or with optional ozidation and alkylation of the debenzylated  product to introduce 2- and 1-position substituents,  respectively.  acid addition salts of the compounds are also  prepared.  
+</ABSTRACT>
+</TEXT>
+</DOC>

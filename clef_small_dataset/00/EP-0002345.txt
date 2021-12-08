@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002345
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-23/26 C08L-23/32 D01F-6/02 C08L-23/00 D01F-6/26 D01F-6/28 <main>D01F-6/30</main> C08K-5/00 C08L-101/00 D01F-6/30 C08L-7/00 C08L-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a composition comprising a neutralised sulfonated elastomeric polymer, a process of forming a fibre from this polymer and the fibre so produced.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company  <sep>
+</APPLICANT>
+<INVENTOR>
+lundberg robert dean<sep>makowski henry stanislaus<sep>lundberg, robert dean<sep>makowski, henry stanislaus<sep>lundberg, robert dean4 brian drivebridgewater new jerseyus<sep>makowski, henry stanislaus2045 winding brook wayscotch plains new jerseyus<sep>lundberg, robert dean<sep>makowski, henry stanislaus<sep>lundberg, robert dean4 brian drivebridgewater new jerseyus<sep>makowski, henry stanislaus2045 winding brook wayscotch plains new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+a neutralised sulphonated elastomeric polymer when  dissolved in a mixed solvent, e. g.  an aromatic hydrocarbon  and an aliphatic or cycloaliphatic alcohol, having a brookfield  viscosity of 1000 to 200,000 cps.  at ambient temperature  results in a solution suitable for forming fibres.  the solution  is passed through a spinneret having a plurality of orifices.  
+</ABSTRACT>
+</TEXT>
+</DOC>

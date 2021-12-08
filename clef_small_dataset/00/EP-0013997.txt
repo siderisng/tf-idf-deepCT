@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013997
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B03C-1/28 <main>B01D-35/06</main> B03C-1/30 B03C-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic filter system.
+</TITLE>
+<APPLICANT>
+montanus industrieanlagen gmbh de  <sep>montanus industrieanlagen gmbh<sep>montanus industrieanlagen gmbhkettwiger strasse 36d-4300 essen 1de<sep>montanus industrieanlagen gmbh  <sep>
+</APPLICANT>
+<INVENTOR>
+dorgathen friedrich<sep>dorgathen, friedrich<sep>dorgathen, friedrichannabergstrasse 8d-4030 ratingen 6de<sep>dorgathen, friedrich<sep>dorgathen, friedrichannabergstrasse 8d-4030 ratingen 6de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  magnetic filter apparatus comprising a liquid container (1), an inlet for liquid contaminated by magnetizable material, an outlet for purified liquid, a wall of magnetic bars (6) carried by endless conveyor chains (5) or similar and disposed between said inlet and said outlet and having gaps therebetween for the passage of liquid, and a cleaning device for cleaning said magnetic bars above the level of said liquid outlet, said cleaning device comprising wiper blades (14) engageable with the magnetic bars from opposite sides thereof during the filtration and which perform a linear wiping motion in the longitudinal direction of the magnetic bars, and provided with a dirt discharge device (16) situated under the wipers, characterized in that a carriage (42) is provided with wiper tongs (43, 44) which can be opened and closed, said wiper tongs extending from outside the liquid container (1) in longitudinal direction of the magnetic bars (6) up to the area of the container (1) and the ends of which are provided with the wipers (14) for cleaning the magnetic bars (6) and wherein said wiper tongs (43, 44) are build to reach from the end positions (e1, e2) of the carriage (42) up to the non-magnetic front end (15) or the non-magnetic tail end (15a) of the magnetic bars (6). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004832
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+E21D-9/10 <main>E21D-9/10</main> E21D-9/11 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+tunnelling machine and method of tunnelling by means of said machine.
+</TITLE>
+<APPLICANT>
+atlas copco abse<sep>atlas copco aktiebolag<sep>atlas copco aktiebolagnackas-105 23 stockholmse<sep>atlas copco aktiebolag<sep>
+</APPLICANT>
+<INVENTOR>
+dick helmut<sep>dick, helmut<sep>dick, helmut20 bubenbergstrassech-3700 spiezch<sep>dick, helmut<sep>dick, helmut20 bubenbergstrassech-3700 spiezch<sep>
+</INVENTOR>
+<ABSTRACT>
+a tunnelling machine has a swing unit (31) that is  swingable about a horizontal axis (i).  the swing unit has a  head (50) that rotates about an axis (ii) that is transverse to  said horizontal axis and passes the horizontal at a distance  below the horizontal axis.  the head is equipped with a  plurality of disc-cutters (53-58, 63) that are arranged to have  their cutting edges on an imaginary sphere with a radius of  about the same length as the swing radius.  upon simultaneous  upward swinging of the swing unit and rotation of  the head, the cutters cut both when on the leading side of the  head and when on the trailing side.  no cutting occurs during  the return swing stroke.  when the swing unit has been  returned, the machine is advanced a step which is somewhat  larger than the distance between the two axes, and another  upward cutting stroke can be effected.  
+</ABSTRACT>
+</TEXT>
+</DOC>

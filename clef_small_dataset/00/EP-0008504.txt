@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008504
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/42 H01L-31/0232 <main>H01L-33/00</main> G02B-6/38 G02B-5/14 H01L-31/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an optoelectronic semiconductor device.
+</TITLE>
+<APPLICANT>
+fujitsu ltd jp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+inagaki nobuhiro<sep>ishihara michio<sep>nakayama takayuki<sep>namazu ryosuke<sep>inagaki, nobuhiro<sep>ishihara, michio<sep>nakayama, takayuki<sep>namazu, ryosuke<sep>inagaki, nobuhiro1-5-913, minaminagatadanchi nagata-cho, minami-kuyokohama-shi, kanagawa 232jp<sep>ishihara, michio1550, shimokurata-cho, totsuka-kuyokohama-shi, kanagawa 244jp<sep>nakayama, takayuki861-2, shimoaso, tama-kukawasaki-shi, kanagawa 215jp<sep>namazu, ryosuke60-18, shiratoridai, midori-kuyokohama-shi, kanagawa 227jp<sep>inagaki, nobuhiro <sep>ishihara, michio<sep>nakayama, takayuki  <sep>namazu, ryosuke<sep>inagaki, nobuhiro1-5-913, minaminagatadanchi nagata-cho, minami-kuyokohama-shi, kanagawa 232jp<sep>ishihara, michio1550, shimokurata-cho, totsuka-kuyokohama-shi, kanagawa 244jp<sep>nakayama, takayuki861-2, shimoaso, tama-kukawasaki-shi, kanagawa 215jp<sep>namazu, ryosuke60-18, shiratoridai, midori-kuyokohama-shi, kanagawa 227jp<sep>
+</INVENTOR>
+<ABSTRACT>
+an optoelectronic semiconductor device for use as a light  source signal in an optical transmission system comprises a  mounting (5) carrying an optoelectronic semiconductor ele­ ment (12) and a cap (4) surrounding an optical fibre (17),  optically coupled with the element (12).  an end of the optical  fibre (17) is exposed in the surface of the cap (4) remote from  the mounting (5) and a screw thread (15) is formed on the  outside of the cap (4).  the combination of the location of the end of the fibre (17)  and the screw thread (15) enables the device to be optically  coupled to a transmission fibre (21) or to be precisely located  in position.  preferably the cap (4) includes a projection (16) and the  end of the transmission fibre (21) includes a member (26)  which mates with the projection (16) and which is held in place  by a screw threaded member (19).  
+</ABSTRACT>
+</TEXT>
+</DOC>

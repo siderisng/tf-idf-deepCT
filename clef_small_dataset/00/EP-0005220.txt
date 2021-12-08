@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005220
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-11/04 <main>H04Q-11/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuitry for time division multiplex digital switching telecommunication exchanges, in particular telephone exchanges.
+</TITLE>
+<APPLICANT>
+telefonbau & normalzeit gmbhde<sep>telefonbau und normalzeit gmbh <sep>telefonbau und normalzeit gmbhmainzer landstrasse 128-146 postfach 4432d-6000 frankfurt (main)de   <sep>telefonbau und normalzeit gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+agricola manfred dipl-ing<sep>dietze klaus dipl-ing<sep>mayr-stein horst dipl-ing<sep>reimer karl-heinz<sep>reinhold andreas ing-grad<sep>schmid adolf ing grad<sep>schosnig johannes-georg dipl-i<sep>agricola, manfred, dipl.-ing.<sep>dietze, klaus, dipl.-ing.<sep>mayr-stein, horst, dipl.-ing.<sep>reimer, karl-heinz<sep>reinhold, andreas, ing.-grad<sep>schmid, adolf, ing.grad<sep>schosnig, johannes-georg, dipl.-ing.<sep>agricola, manfred, dipl.-ing.zeuläckerstrasse 10bd-6000 frankfurt 60de<sep>dietze, klaus, dipl.-ing.niedwiesenstrasse 25ad-6000 frankfurt/m. 50de<sep>mayr-stein, horst, dipl.-ing.spiessfeldstrasse 1d-6382 friedrichsdorfde<sep>reimer, karl-heinzbrandenburgerstrasse 1d-6051 ober-rodende<sep>reinhold, andreas, ing.-gradjägerstrasse 9d-6457 maintal 3de<sep>schmid, adolf, ing.gradhammarskjöldring 27d-6000 frankfurt 50de<sep>schosnig, johannes-georg, dipl.-ing.an der lühe 10d-6000 frankfurt (main) 90de<sep>agricola, manfred, dipl.-ing.<sep>dietze, klaus, dipl.-ing.<sep>mayr-stein, horst, dipl.-ing.<sep>reimer, karl-heinz<sep>reinhold, andreas, ing.-grad<sep>schmid, adolf, ing.grad<sep>schosnig, johannes-georg, dipl.-ing.<sep>agricola, manfred, dipl.-ing.zeuläckerstrasse 10b d-6000 frankfurt 60de<sep>dietze, klaus, dipl.-ing. niedwiesenstrasse 25a d-6000 frankfurt/m. 50 de<sep>mayr-stein, horst, dipl.-ing.spiessfeldstrasse 1d-6382 friedrichsdorfde<sep>reimer, karl-heinzbrandenburgerstrasse 1d-6051 ober-rodende<sep>reinhold, andreas, ing.-gradjägerstrasse 9d-6457 maintal 3de<sep>schmid, adolf, ing.gradhammarskjöldring 27d-6000 frankfurt 50de<sep>schosnig, johannes-georg, dipl.-ing.an der lühe 10d-6000 frankfurt (main) 90de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a circuit arrangement for time-multiplex digitally switching telecommunications, in particular telephone exchange plants.It is that a special coupling field (KF) provided for the transmission of listening signs is also used for the reception of election information and the sounds.Furthermore, it is proposed according to the invention that the busbars associated with this coupling field, the individual sounds, electoral frequencies and announcements have fixed time channels.Each connection element is assigned a switching device (ul., UN) for the optional connection with the connection clock (KV) or the special coupling field (KF).This arrangement was chosen to freeient the connection network of hearth, announcement and incomplete compounds.
+</ABSTRACT>
+</TEXT>
+</DOC>

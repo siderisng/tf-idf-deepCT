@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014175
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H02H-7/045</main> H02H-7/045 H02H-7/04 H02H-3/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+differential safety system for a multiphase transformer.
+</TITLE>
+<APPLICANT>
+fuji electric co ltdjp<sep>fuji electric co. ltd.<sep>fuji electric co. ltd.1-1, tanabeshinden, kawasaki-kukawasaki 210jp<sep>fuji electric co. ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+saitou mitsuo<sep>saitou, mitsuo<sep>saitou, mitsuo66-2 sanda-machi hachiouji-shitokyojp<sep>saitou, mitsuo<sep>saitou, mitsuo66-2 sanda-machi hachiouji-shitokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  differential protecting arrangement for a multiphase transformer comprising a differential protecting device for each phase (a, b, c), wherein each differential protecting device contains a filter (f1a , f1b , f1c ) which is tuned to the fundamental wave and followed by a rectifier (r1a , r1b , r1c ), and contains a further filter (f2a , f2b , f2c ) which is tuned to the 2nd harmonic and followed by a further rectifier (r2a , r2b , r2c ), characterized in that a measured variable, which corresponds to the radio of the sum or the mean value of the absolute values (i2a , i2b , i2c ) for the 2nd harmonic of at least two phases (a, b, c) to the absolute value of the fundamental wave of one phase (e. g. a), is formed and that this measured variable is monitored with respect to a pre-selected value and on overshooting this value, the differential protecting device of this one phase (e. g. a) is blocked. 
+</ABSTRACT>
+</TEXT>
+</DOC>

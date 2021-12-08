@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000743
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-21/60 H01L-21/285 H01L-21/338 H01L-23/532 H01L-29/43 H01L-23/48 H01L-29/40 H01L-21/768 <main>H01L-21/285</main> H01L-29/66 H01L-29/45 H01L-29/872 H01L-23/52 H01L-21/02 H01L-29/47 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for fabricating tantalum contacts on a n-type conducting silicon semiconductor substrate.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+dalal hormazdyar minocher<sep>ghafghaichi majid<sep>kasprzak lucian alexander<sep>wimpfheimer hans<sep>dalal, hormazdyar minocher<sep>ghafghaichi, majid<sep>kasprzak, lucian alexander<sep>wimpfheimer, hans<sep>dalal, hormazdyar minocher66 amherst lanewappingers falls n.y. 12590us<sep>ghafghaichi, majid352 vassar roadpoughkeepsie n.y. 12603us<sep>kasprzak, lucian alexandermountain pass road &amp; geneva drivehopewell junction n.y. 12533us<sep>wimpfheimer, hans4 lincoln drivepoughkeepsie n.y. 12601us<sep>dalal, hormazdyar minocher <sep>ghafghaichi, majid  <sep>kasprzak, lucian alexander<sep>wimpfheimer, hans<sep>dalal, hormazdyar minocher66 amherst lanewappingers falls n.y. 12590us<sep>ghafghaichi, majid352 vassar roadpoughkeepsie n.y. 12603us<sep>kasprzak, lucian alexandermountain pass road &amp; geneva drivehopewell junction n.y. 12533us<sep>wimpfheimer, hans4 lincoln drivepoughkeepsie n.y. 12601us<sep>
+</INVENTOR>
+<ABSTRACT>
+The method for producing tantalum contacts on silicon semiconductor substrates is particularly suitable for the production of Schottky barrier film diodes with low potential threshold.The substrate is cleaned before applying the tantalum layer.Then, the tantalum layer (28) is deposited low pressure and low substrate temperature, thereby avoiding oxidation of the tantalum layer.Subsequently, the contact is sintered, whereby interfacial charges and between tantalum and substrate are eliminated existing films.When a metal is used during the processing, which reacts with silicon, such as aluminum for connecting lines, then a chromium layer (30) must be deposited between the tantalum layer (28) and the aluminum layer (32).
+</ABSTRACT>
+</TEXT>
+</DOC>

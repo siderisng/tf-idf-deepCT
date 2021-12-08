@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009075
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-9/08 A61P-25/02 C07D-213/85 A61K-31/4418 A61P-25/00 A61P-9/00 C07D-405/00 A61K-31/443 A61P-9/12 C07C-213/00 A61K-31/4427 A61P-9/06 A61P-9/10 A61K-31/44 C07D-213/00 C07C-67/00 C07D-405/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyridyloxy-propanol amines and esters thereof, process for preparing the same and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+merck & co incus<sep>merck & co., inc.  <sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us<sep>
+</APPLICANT>
+<INVENTOR>
+baldwin john jamesus<sep>mcclure david earlus<sep>baldwin, john james<sep>mcclure, david earl<sep>baldwin, john james1680 wagon wheel lanelansdale, pennsylvania 19446us<sep>mcclure, david earl2307 bramblegate drivehatfield, pennsylvania 19440us<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds having the formula    and pharmaceutically acceptable salts thereof wherein    r is h or --l wherein   l is c₁-c₁₀ alkyl, phenyl or mono- or di-substituted  phenyl wherein said substituents are c₁-c₄ alkyl, c₁-c₄  alkoxy or halo and   r¹ is a phenyl c₃-c₆ branched aikyl group having the  formula    wherein   x is 1 to 3 and   y and y¹ when separate, are h, -och₃, oh or halo and,  when joined, form    with the phenyl group,  their preparation and pharmaceutical activity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002091
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-255/00 C07C-255/39 <main>A01N-37/34</main> A01N-53/00 C07C-67/00 C07C-253/00 C07C-121/75 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of controlling acarid pests by means of cyclopropane carboxylate esters, the use of such esters as an acaricide, and one of said esters as a novel compound.
+</TITLE>
+<APPLICANT>
+shell int research nl<sep>shell internationale research maatschappij b.v.<sep>shell internationale research maatschappij b.v.carel van bylandtlaan 30nl-2596 hr den haagnl<sep>shell internationale research maatschappij b.v.<sep>
+</APPLICANT>
+<INVENTOR>
+badmin john stewart<sep>davies john hugh<sep>badmin, john stewart<sep>davies, john hugh<sep>badmin, john stewart26 arundel avenuesittingbourne kentgb<sep>davies, john hugh53 new dover roadcanterbury kentgb<sep>badmin, john stewart  <sep>davies, john hugh<sep>badmin, john stewart26 arundel avenuesittingbourne kentgb<sep>davies, john hugh53 new dover roadcanterbury kentgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of controlling acarids characterized in that  an ester represented by the following general formula is  applied to the acarids or their habitat:-    wherein the asterisks indicate asymmetric carbon atoms,  the acid portion of the ester molecule is in the [1r, cis]-condiguration,  and the alcohol portion of the molecule is  in the [s]-configuration or the [rs]-configuration.  
+</ABSTRACT>
+</TEXT>
+</DOC>

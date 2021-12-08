@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016457
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01D-15/10</main> G06K-15/00 G06F-3/12 G09G-5/00 G06K-15/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+crt hard copy apparatus.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+hakoyama akiyoshi<sep>hakoyama, akiyoshi<sep>hakoyama, akiyoshi7-4, kokubucho-2-chomehitachi-shijp<sep>hakoyama, akiyoshi<sep>hakoyama, akiyoshi7-4, kokubucho-2-chomehitachi-shijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a crt hard copy apparatus for sampling a picture signal  from a crt display and for recording the sampled signal on a  recording paper.  in order to obtain a suitable crt hard copy  for both kinds of crt display in which the number of charac­ ters per screen is large and small, the crt hard copy  apparatus is constructed to include a first sampling means  (22′, 23′) for sampling in the horizontal scanning direction a  video signal on a crt display of small number of characters  per screen, and a second sampling means (24, 25) for sampl­ ing in the vertical direction to the horizontal scanning lines a  video signal on a crt display of large number of characters  per screen.  in addition, a switching means is provided to  actuate only the first sampling means upon horizontal scan­ ning and both the first and second sampling means upon  vertical scanning.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008917
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-499/00</main> C07D-499/86 A61P-31/00 C07D-205/09 C07D-499/00 A61K-31/545 A61K-31/425 C07D-499/87 A61K-31/43 C07D-499/897 C07D-205/00 A61K-31/429 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+penam-3-carboxylic acid 1,1-dioxides, process for their preparation and pharmaceutical compositions.
+</TITLE>
+<APPLICANT>
+pfizerus  <sep>pfizer inc.<sep>pfizer inc.235 east 42nd streetnew york, n.y. 10017us<sep>pfizer inc.<sep>
+</APPLICANT>
+<INVENTOR>
+barth wayne ernest<sep>barth, wayne ernest<sep>barth, wayne ernest40 monticello drive, east lymenew london, connecticutus<sep>barth, wayne ernest<sep>barth, wayne ernest40 monticello drive, east lymenew london, connecticutus<sep>
+</INVENTOR>
+<ABSTRACT>
+penam 1,1 -dioxides of the formula:    and the pharmaceutically-acceptable base salts thereof,  wherein r¹ is selcted from hydrogen, ester-forming residues  readily hydrolyzable in vivo, and conventional carboxy pro­ tecting groups; and r² and r³ are each hydrogen or methyl  provided they are not both methyl.  the compounds in which  r¹ is hydrogen or an ester-forming residue readily hydrolyz­ able in vivo are useful for enhancing the antibacterial activity  of β-lactam antibiotics; those in which r¹ is a conventional  carboxy-protecting group are useful intermediates.  
+</ABSTRACT>
+</TEXT>
+</DOC>

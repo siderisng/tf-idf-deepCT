@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000954
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/02 H01B-13/06 <main>H01B-13/06</main> H01B-13/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+methods of and apparatus for controlling capacitance unbalance-to-ground in cables.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+dougherty timothy stephen<sep>flegal william malcolm<sep>dougherty, timothy stephen<sep>flegal, william malcolm<sep>dougherty, timothy stephen580 sailwind driveroswell georgia 30076us<sep>flegal, william malcolm3650 windy courttucker georgia 30084us<sep>dougherty, timothy stephen  <sep>flegal, william malcolm <sep>dougherty, timothy stephen580 sailwind driveroswell georgia 30076us<sep>flegal, william malcolm3650 windy courttucker georgia 30084us<sep>
+</INVENTOR>
+<ABSTRACT>
+capacitance unbalance-to-ground between conductors  of a twisted pair, each of which may be insulated with  at least a layer of cellular plastic insulation, is maintained  within acceptable limits by controlling the extrusion of the  insulation to maintain the measured coaxial capacitance  and associated outside diameter of the insulated conductors  within a range of values which correspond to acceptable  capacitance unbalance-to-ground values.  
+</ABSTRACT>
+</TEXT>
+</DOC>

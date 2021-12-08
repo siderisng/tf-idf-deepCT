@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005840
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02J-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of charging batteries and apparatus.
+</TITLE>
+<APPLICANT>
+black & decker incus<sep>black & decker inc.<sep>black &amp; decker inc.drummond plaza office park 1423 kirkwood highwaynewark delaware 19711us<sep>
+</APPLICANT>
+<INVENTOR>
+saar david alanus<sep>walter richard thomasus<sep>saar, david alan<sep>walter, richard thomas<sep>saar, david alan48 belfast roadtimonium maryland 21093us<sep>walter, richard thomas6101 sefton avenuebaltimore maryland 21204us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of fast charging batteries by means of precise  analysis of the profile of the variation with time of a  characteristic of the battery which is indicative of the  variation in stored chemical energy as the battery is charged.   the method specifically comprises analyzing the profile for  the occurrence of a particular series of events preferably  including one or more inflection points which precisely  identify the point in time at which the application of a fast  charge rate should be discontinued.  additional methods of  analysis provide for termination or control of the charging  current upon the occurrence of other events such as limiting  values on time, voltage or voltage slope or a negative change  in the level of stored energy.  apparatus for performing these methods comprises a  suitable power supply and a microcomputer for analysing  the profile and controlling the power supply.  
+</ABSTRACT>
+</TEXT>
+</DOC>

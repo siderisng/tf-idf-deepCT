@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010614
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-27/10 B23P-15/00 B21K-1/00 G21D-1/00 B21K-1/24 B21C-1/26 F16K-27/00 B21C-1/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of fabricating valve housings with the highest degree of security applicable for example in a nuclear reactor.
+</TITLE>
+<APPLICANT>
+thyssen industriede<sep>thyssen industrie ag<sep>thyssen industrie agam thyssenhaus 1d-45128 essende<sep>
+</APPLICANT>
+<INVENTOR>
+balz josefde<sep>kollmann berndde<sep>mueller erwinde<sep>petzolt gertde <sep>risse friedrichde  <sep>sonnabend ferdinandde<sep>walloschek bernhardde<sep>balz, josef<sep>kollmann, bernd<sep>mueller, erwin<sep>petzolt, gert<sep>risse, friedrich<sep>sonnabend, ferdinand<sep>walloschek, bernhard<sep>balz, josefamtsstrasse 80d-4620 castrop-rauxelde<sep>kollmann, bernddorneystrasse 41d-5810 wittende<sep>müller, erwinauf dem schnee 66d-5804 herdeckede<sep>petzolt, gertwagenfeldstrasse 16d-4717 nordkirchende<sep>risse, friedrichauf dem aspei 32d-4630 bochumde<sep>sonnabend, ferdinandbaroper schulstrasse 13ad-4600 dortmundde<sep>walloschek, bernhardsträterkampstrasse 10d-5810 wittende<sep>
+</INVENTOR>
+<ABSTRACT>
+This method makes it possible to use fittings in the printing technical range of the core reactor, where high level of security levels can be used, such as sliders, from up to about 1000 mm nominal diameters, by making the slide housing (1) made of forging steel. The warm block is first seamlessly deformed in a template to a union open, tubular output body. At the open end then a material thickening (6) is immersed in order to produce a cylindrical part (39) with a larger diameter. The underlying part is flattened so that two parallel walls (23) are released. These are each provided with one each other coaxial by refraction, which are closed by collar (10, 11) of Ge Häuberohrstutzen (8, 9). At the collar circumference, the welding (12, 13) of the nozzle (8, 9) with the housing (1). The internal bearing ends (14, 15) which projecting inner projecting in the housing form the torment surfaces (16, 17) for the shut-off (3). Thanks to the housing flattening and the resulting good cause of the welds (12, 13), these can also be tested during operation by ultrasonic and X-ray devices.
+</ABSTRACT>
+</TEXT>
+</DOC>

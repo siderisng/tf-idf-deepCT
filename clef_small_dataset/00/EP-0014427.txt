@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014427
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/32 A61L-2/10 B01J-19/12 A23L-3/28 <main>A61L-2/10</main> A23L-3/26 G02B-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multi-chamber photoreactor and irradiation method making use thereof.
+</TITLE>
+<APPLICANT>
+schenck guenther o<sep>schenck, gunther otto, prof. dr.<sep>schenck, günther otto, prof. dr.bismarckstrasse 31d-4330 mülheim-ruhrde<sep>schenck, gunther otto, prof. dr.  <sep>
+</APPLICANT>
+<INVENTOR>
+schenck gunther otto prof dr<sep>schenck, gunther otto, prof. dr.<sep>schenck, günther otto, prof. dr.bismarckstrasse 31d-4330 mülheim-ruhrde<sep>schenck, gunther otto, prof. dr.<sep>schenck, günther otto, prof. dr.bismarckstrasse 31d-4330 mülheim-ruhrde<sep>
+</INVENTOR>
+<ABSTRACT>
+In the multi-chamber irradiation method for purei gung, in particular for sterilization and disinfection flowable media with UV radiation in the wavelength range of 240 to 320 nm, the medium to be irradiated is successively promoted by the irradiation chambers of a multi-chamber photoreactor. The irradiation chambers are arranged one behind the other in a radiation direction and the layer thickness of the medium is optimized in the irradiation chambers with respect to the flow dose performance. In a two-chamber photoreactor with parallel radiation, the maximum of the flow dose is carried out at a total absorption of about 70% and an absorption of about 27% in the radiation source immediately adjacent irradiation chamber. In an annular double-chamber photoreactor with a radiation source arranged along the common axis of the irradiation chambers, the corresponding data is 45 to 65% and 16 to 25% in a three-chamber photoreactor analog configuration constructed by the dive lamp principle, the corresponding data is 60 to 80% resp , 14 to 20%. proposed for publication Figures 3 and 4.
+</ABSTRACT>
+</TEXT>
+</DOC>

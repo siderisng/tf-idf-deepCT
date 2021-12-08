@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009784
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-7/298 H02P-5/16 H02P-7/18 <main>H02P-5/12</main> G05F-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system for driving dc motor.
+</TITLE>
+<APPLICANT>
+fujitsu fanuc ltdjp <sep>fujitsu fanuc limited <sep>fanuc ltd.3580, shibokusa aza-komanba, oshinomuraminamitsuru-gun, yamanashi 401-05jp<sep>fanuc ltd<sep>
+</APPLICANT>
+<INVENTOR>
+fujioka yoshiki<sep>kawada shigeki<sep>ohta naoto<sep>fujioka, yoshiki<sep>kawada, shigeki<sep>ohta, naoto<sep>fujioka, yoshiki3-27, tamadairahino-shi, tokyojp<sep>kawada, shigeki346-15, ooaza shimodahino-shi, tokyojp<sep>ohta, naoto3-38-9, toyodahino-shi, tokyojp<sep>fujioka, yoshiki <sep>kawada, shigeki<sep>ohta, naoto  <sep>fujioka, yoshiki3-27, tamadairahino-shi, tokyojp<sep>kawada, shigeki346-15, ooaza shimodahino-shi, tokyojp<sep>ohta, naoto3-38-9, toyodahino-shi, tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a system for a dc motor (1) associated with a field wind­ ing (2) and driven by using a three-phase anti-parallel thyris­ tor bridge circuit (3), comprising a first means for controlling  an armature current ia flowing through an armature (1′) of  the dc motor (1), and; a second means for controlling a field  current if flowing the field winding (2) by obtaining the feed­ back values of a voltage ea of the armature (1′) and the field  current if and by changing the maximum level of the current  if in accordance with a three-phase alternating voltage vac  applied to the three-phase anti-parallel thyristor bridge cir­ cuit (3).  in the system, when the three-phase alternating vol­ tage vac decreases to a value lower than a predetermined  value vo, the field current if are decreased so that the arma­ ture voltage ea is decreased.  
+</ABSTRACT>
+</TEXT>
+</DOC>

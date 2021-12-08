@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000103
+</DOCNO>
+<TEXT>
+<DATE>
+19781220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/53 C07K-14/435 G01N-33/76 C07K-16/00 G01N-33/74 C07K-14/575 C07K-14/59 C07K-16/26 A61K-39/00 C07K-14/00 C07K-16/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+purification of glycoproteins and use of glycoproteins to form antiserum compositions.
+</TITLE>
+<APPLICANT>
+american home produs <sep>american home products corporation<sep>american home products corporation five giralda farms madison, new jersey 07940-0874 us<sep>
+</APPLICANT>
+<INVENTOR>
+krupey johnca<sep>welchner ewald frankca<sep>krupey, john<sep>welchner, ewald frank<sep>krupey, john2645 raudot streetmontreal, quebecca<sep>welchner, ewald frank8790 terrace lawrencelasalle, quebecca<sep>
+</INVENTOR>
+<ABSTRACT>
+a method is disclosed for the purification of glycoproteins,  particularly the beta subunit of human chorionic  gonadotrophin, by polyacrylamide gel electrohoresis using  the magnesium salt of 8-anilino-1- napthalene-sulfonic acid  as a fluorescent probe.  also disclosed is an antiserum composition  produced by using spleen immunization of glycoprotein  antigens.  
+</ABSTRACT>
+</TEXT>
+</DOC>

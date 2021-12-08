@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005365
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-491/04</main> C07D-491/04 C07D-491/052 C07D-495/04 C07D-495/00 C07D-491/00 A61K-31/405 C07D-311/00 C07D-209/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pyrano and thiopyrano (3,4-b) indole derivatives, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+american home produs<sep>american home products corporation<sep>american home products corporationfive giralda farmsmadison, new jersey 07940-0874us <sep>american home products corporation<sep>
+</APPLICANT>
+<INVENTOR>
+asselin andre alfred <sep>dionne gervais <sep>failli amedeo arturo<sep>humber leslie george<sep>revesz clara<sep>asselin, andre alfred<sep>dionne, gervais<sep>failli, amedeo arturo<sep>humber, leslie george<sep>revesz, clara<sep>asselin, andre alfred1805 muir streetst.laurent quebecca<sep>dionne, gervais1735 boul o'brienst.laurent quebecca<sep>failli, amedeo arturo2440 rue robichaudst.laurent quebecca<sep>humber, leslie george75 maple circledollard des ormeaux quebecca<sep>revesz, clara4474 circle roadmontreal quebecca<sep>asselin, andre alfred<sep>dionne, gervais  <sep>failli, amedeo arturo <sep>humber, leslie george<sep>revesz, clara<sep>asselin, andre alfred1805 muir streetst.laurent quebecca<sep>dionne, gervais1735 boul o'brienst.laurent quebecca<sep>failli, amedeo arturo2440 rue robichaudst.laurent quebecca<sep>humber, leslie george75 maple circledollard des ormeaux quebecca<sep>revesz, clara4474 circle roadmontreal quebecca<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention concerns new compounds of formula i    in which r¹ is lower alkyl; r² is hydrogen or lower alkyl;  r³ and r⁴ each independently is hydrogen, lower alkyl,  halo, nitro, trifluoromethyl or lower alkoxy; r⁵ and r⁶ each  independently is hydrogen or lower alkyl or r⁵ and r⁶ together  with the nitrogen atom form a pyrrol-1-yl, piperidino  or morpholino ring; r⁷ is hydrogen or lower alkyl; alk¹ and  alk² each independently is a straight or branched chain  lower alkylene having one to six carbon atoms; and x is oxa  or thia, and therapeutically acceptable acid addition salts  thereof.  the above compounds are diuretic agents, which also  possess anti-hypertensive activity.  they may be used alone  or with other diuretic agents.  pharmaceutical compositions  containing the compounds and processes for preparing  the compounds are also described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

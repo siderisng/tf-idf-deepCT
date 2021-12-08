@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017532
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-13/44 G01S-7/46 <main>G01S-13/44</main> G01S-13/00 G01S-13/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for processing angular deviation signals in a monopulse radar and radar comprising such a device.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+lacomme philippe<sep>lacomme, philippe<sep>lacomme, philippe"thomson-csf" cspi-173, bld haussmannf-75360 paris cedex 08fr<sep>lacomme, philippe  <sep>lacomme, philippe"thomson-csf" cspi-173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a radar deviation device.The device comprises computing means for each order recurrence K of VIK, VJK components, of a veagometry vector ▿ such as VIK =.and vjk = (λ).mixed vector product, wherein is a vector obtained by linear combination of the vectors and where and represent the sum and difference signals, = + JP is a vector obtained by linear combination of the vectors and with = + jp, the numbers p and qbeing real numbers with p ≠ q.Integration means (13) on the recurrences of VIK and VJK components and computing means (14) provide a useful discrepomant signal ε and ratio of the integrated components.Application to continuous or discontinuous pursuit.
+</ABSTRACT>
+</TEXT>
+</DOC>

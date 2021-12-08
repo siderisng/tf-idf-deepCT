@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0006747
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02B-41/06 F02B-1/04 F02B-41/00 F02B-1/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+internal-combustion engine with additional expansion.
+</TITLE>
+<APPLICANT>
+birchall stanley  <sep>birchall, stanley<sep>birchall, stanley45 hawksbury roadleicestergb<sep>
+</APPLICANT>
+<INVENTOR>
+birchall stanley<sep>birchall, stanley<sep>birchall, stanley45 hawksbury roadleicestergb<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention relates to an internal combustion  engine having at least one primary cylinder (a, b) operating  on the otto cycle and an associated secondary cylindery  (c) which cylinders are operatively coupled to a common  crankshaft (30); and wherein the secondary cylinder (c)  is operatively coupled to the primary cylinder (a, b) such  that exhaust gas from the primary cylinder (a, b) is ex­ hausted into the secondary cylinder (c) where it expands,  driving the piston of the secondary cylinder subsequently  exhausts the exhaust gas to atmosphere.  
+</ABSTRACT>
+<DESCRIPTION>
+title: improvements in or relating to otto cycle internal combustion engines. the invention relates to otto cycle internal combustion engines. h conventional reciprocating internal combustion engine utilising the otto cycle employs four strokes. the first is an induction stroke, wherein the size of the combustion chamber is increased by inducing a fuel air mixture thereinto; a compression stroke, wherein the size of the combustion chamber is decreased thereby compressing the fuel air mixture; a power stroke, wherein the size of the combustion chamber is again increased after combustion of the compressed fuel air mixture; and an exhaust stroke, whereby the size of the combustion chamber is again decreased expelling exhaust gasses therefrom. it will be noted that there is only one power stroke in every four strokes of the engine. h disadvantage of the otto cycle is that the power and exhaust strokes are the same length as the induction and compression strokes, thus limiting the thermal efficiency to about 20',:. the present invention seeks to provide an improved, internal combustion engine. he invention provides an internal combustion engine characterised in that there is provided at least one primary cylinder operating on the otto cycle and an associated secondary cylinder, which cylinders are operatively coupled to a common crankshaft; and wherein the secondary cylinder is operatively coupled to the primary cylinder such that exhaust gas from the primary cylinder is exhausted into the secondary cylinder where it expands, driving the piston of the second cylinder, said secondary cylinder subsequently exhausts the exhaust gas to atmosphere. preferably, the ratio of the working volumes of the or each primary cylinder and the associated secondary cylinder are such that said exhaust gas from said primary cylinder expands into said secondary cylinder substantially to atmospheric pressure. conveniently, the length of the strokes of the pistons of the primary and secondary cylinders are substantially the same. it will be noted that the secondary cylinder operates on a two-stroke cycle. it is advantageous to provide one secondary cylinder fed alternately from each one of two primary cylinders, the secondary cylinder performing two two-stroke cycles during the four-stroke cycle of either primary cylinder, the primary cylinders being 180 degrees out of phase one with respect to the other. the internal combustion engine may work by spark ignition or by compression ignition. auxiliary services for the internal combustion engine are driven from the or each crank shaft in the usual manner, such services being pumps for fuel oil, lubricating oil and/or air, generators and the like. one form of engine according to the present invention has a non-return inlet valve in the head of the or each primary cylinder for induction of fuel/air mixture into said cylinder, and a valve controlling the exhausting of exhaust gas from the or each primary cylinder to the associated secondary cylinder and also the exhausting of said exhaust gas from said secondary cylinder. the controlling valve is conveniently a rotary valve although it may alternatively be provided by a suitable arrangement of
+</DESCRIPTION>
+<CLAIMS>
+   claims:-         1.    an internal combustion engine characterised in that there is provided at least one primary cylinder (a,b) operating on the otto cycle and an associated secondary cylinder (c) which cylinders are operatively coupled to a common crankshaft (30); and wherein the secondary cylinder (c) is operatively coupled to the primary cylinder (a,b) such that exhaust gas from the primary cylinder is exhausted into the secondary cylinder where it expands, driving the piston of the secondary cylinder, and said secondary cylinder subsequently exhausts the exhaust gas to atmosphere.    2. an engine as claimed in claim   1    characterised in that the ratio of the working volumes of the or each primary cylinder and the associated secondary cylinder are such that said exhaust gas from said primary cylinder expands into said secondary cylinder substantially to atmopheric pressure.    3. an engine as claimed in claim 1 or 2 characterised in that the length of the strokes of the pistons of the primary and secondary cylinders are substantially the same.    4. an engihe as claimed in any of claims 1 to  3 characterised in that there are provided two primary cylinders associated with said secondary cylinder and operably coupled to said common crankshaft such that     0 said primary cylinders are 180 out of phase with one    another and exhaust alternately into said secondary cylinder.       5.    an engine as claimed in any of claims   1    to 4 characterised in that there is provided a non-return inlet valve (2, 12, 42, 4, 14, 44) in the head of the or each primary cylinder for induction of fuel/air mixture into said cylinder, and a valve (6, 8, 16, 18, 46, 48) controlling the exhausting of exhaust gas from the or each primary cylinder to the associated secondary cylinder and also the exhausting of said exhaust gas from said secondary cylinder.    6. an engine as claimed in claim 5 wherein said controlling valve is a rotary sleeve.  
+</CLAIMS>
+</TEXT>
+</DOC>

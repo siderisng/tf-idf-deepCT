@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017107
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02D-41/30 F02D-41/34 F02D-41/00 F02D-41/26 <main>F02D-5/02</main> F02D-41/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fuel control apparatus for internal combustion engine.
+</TITLE>
+<APPLICANT>
+mitsubishi electric corpjp<sep>mitsubishi denki kabushiki kaisha<sep>mitsubishi denki kabushiki kaisha2-3, marunouchi 2-chome chiyoda-kutokyo 100jp<sep>mitsubishi denki kabushiki kaisha<sep>
+</APPLICANT>
+<INVENTOR>
+morimoto yoshinobu mitsubishi<sep>sasaki takeo mitsubishi denki<sep>morimoto, yoshinobu mitsubishi denki k.k.<sep>sasaki, takeo mitsubishi denki k.k.<sep>morimoto, yoshinobu mitsubishi denki k.k.himeji seisakusho no. 840, chiyoda-chohimeji-shi hyogo-kenjp<sep>sasaki, takeo mitsubishi denki k.k.himeji seisakusho no. 840, chiyoda-chohimeji-shi hyogo-kenjp<sep>morimoto, yoshinobu mitsubishi denki k.k.  <sep>sasaki, takeo mitsubishi denki k.k.<sep>morimoto, yoshinobu mitsubishi denki k.k.himeji seisakusho no. 840, chiyoda-chohimeji-shi hyogo-kenjp<sep>sasaki, takeo mitsubishi denki k.k.himeji seisakusho no. 840, chiyoda-chohimeji-shi hyogo-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+an engine control apparatus equips with an air flow  meter for generating a signal having a frequency proportion­ al to an air flow rate for feeding into the engine.  a circuit for  monitoring an arithmetic and logic unit is equipped to detect  a fault of the arithmetic and logic unit thereby switching a  control of a fuel feed valve from the control by the arithmetic  and logic unit to a monostable multivibrator so as to prevent  an inoperability of a car.  
+</ABSTRACT>
+</TEXT>
+</DOC>

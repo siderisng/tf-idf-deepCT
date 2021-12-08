@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002740
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C06B-25/00 B01D-9/00 B01D-9/02 C06B-25/34 <main>C07C-129/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing compact nitroguanidine.
+</TITLE>
+<APPLICANT>
+fraunhofer ges forschungde   <sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.<sep>fraunhofer-gesellschaft zur förderung der angewandten forschung e.v.leonrodstrasse 5480636 münchende<sep>fraunhofer-gesellschaft zur forderung der angewandten forschung e.v.<sep>
+</APPLICANT>
+<INVENTOR>
+engel walter dr dipl-chem<sep>heinisch herbert<sep>engel, walter, dr. dipl.-chem.<sep>heinisch, herbert<sep>engel, walter, dr. dipl.-chem.frühlingsstrasse 21d-7507 pfintal-berghausende<sep>heinisch, herbertfeldbergweg 19d-7505 ettlingende<sep>engel, walter, dr. dipl.-chem.<sep>heinisch, herbert  <sep>engel, walter, dr. dipl.-chem. frühlingsstrasse 21d-7507 pfintal-berghausende<sep>heinisch, herbertfeldbergweg 19d-7505 ettlingende<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing nitroguanidine high bulk density from a hot saturated nitroguanidine solution of lower aliphatic alcohols whose mono- or dialkyl ethers, dimethylformamide, dimethyl sulfoxide or their mixtures, the solution cooling at a temperature gradient of more than 3 ° C / min with stirringbecomes and the type of solvent, the starting pin ture of the solution and the cooling temperature are tuned on each other so that the crystal formation is only used at tempera tarn below 50 ° C.Nitroguanidine forms in polycrystalline spherical shape.
+</ABSTRACT>
+</TEXT>
+</DOC>

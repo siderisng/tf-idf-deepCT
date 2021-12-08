@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014578
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-3/74 F16H-3/44 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic stepless transmission.
+</TITLE>
+<APPLICANT>
+perlin rafael<sep>perlin, rafael<sep>perlin, rafael489 georges avenueap 21 magog quebecca<sep>
+</APPLICANT>
+<INVENTOR>
+perlin rafael<sep>perlin, rafael<sep>perlin, rafael489 georges avenueap 21 magog quebecca<sep>
+</INVENTOR>
+<ABSTRACT>
+the disclosure herein describes an automatic stepless  transmission with a continuously changing gear ratio; the  transmission comprises two differential gear mechanisms  (16,18) interconnected through a pair of gear connections  (36-38-46-48-52-54-60-62-34; 24-64-32) so that the power flow  from the first differential gear mechanism (16) to the second  differential gear mechanism (18) is divided into two  components when the transmission is 'in gear'.  
+</ABSTRACT>
+</TEXT>
+</DOC>

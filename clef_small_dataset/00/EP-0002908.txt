@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002908
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-45/00 B01J-31/02 C07C-45/50 B01J-31/00 C07C-45/80 C07C-47/02 C07C-29/00 C07C-67/00 <main>C07C-47/19</main> C07C-45/68 B01J-31/24 B01J-31/16 B01J-31/20 C07C-29/141 C07C-47/19 C07C-29/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydroformylation of formaldehyde with rhodium catalyst.
+</TITLE>
+<APPLICANT>
+monsanto cous<sep>monsanto company<sep>monsanto company800 north lindbergh boulevardst. louis missouri 63167us<sep>monsanto company<sep>
+</APPLICANT>
+<INVENTOR>
+spencer alwyn<sep>spencer, alwyn<sep>spencer, alwynjohnson matthey research centre blount's courtjonning common reading r64-9nhgb<sep>spencer, alwyn<sep>spencer, alwynjohnson matthey research centre blount's courtjonning common reading r64-9nhgb<sep>
+</INVENTOR>
+<ABSTRACT>
+formaldehyde is reacted in the presence of a rhodium  catalyst in a liquid medium with carbon monoxide and  hydrogen to produce glycol aldehyde.  
+</ABSTRACT>
+</TEXT>
+</DOC>

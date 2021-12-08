@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000554
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-17/02 C07D-301/14 <main>C07D-303/08</main> C07C-17/00 C07D-303/00 C07D-303/08 C07D-301/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of oxiranes substituted by halogen alkyl.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>degussade<sep>bayer ag<sep>degussa aktiengesellschaft <sep>bayer ag51368 leverkusende  <sep>degussa aktiengesellschaftweissfrauenstrasse 9d-60311 frankfurtde<sep>bayer ag<sep>degussa aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kastenhuber hubert dr<sep>prescher gunter dr<sep>rauleder gebhard dr<sep>seifert hermann dr<sep>kastenhuber, hubert, dr.<sep>prescher, gunter, dr.<sep>rauleder, gebhard, dr.<sep>seifert, hermann, dr.<sep>kastenhuber, hubert, dr.stettinerstrasse 6d-5040 brühlde<sep>prescher, günter, dr.grünaustrasse 11d-6450 hanaude<sep>rauleder, gebhard, dr.cheruskerstrasse 31d-4000 düsseldorfde<sep>seifert, hermann, dr.ruwergasse 4d-5000 köln 80de<sep>kastenhuber, hubert, dr.<sep>prescher, gunter, dr. <sep>rauleder, gebhard, dr.<sep>seifert, hermann, dr.  <sep>kastenhuber, hubert, dr.stettinerstrasse 6d-5040 brühlde<sep>prescher, günter, dr.grünaustrasse 11d-6450 hanaude<sep>rauleder, gebhard, dr.cheruskerstrasse 31d-4000 düsseldorfde<sep>seifert, hermann, dr.ruwergasse 4d-5000 köln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of halogenoalkyl-substituted oxiranes from halogenoalkyl-substituted olefines and percarboxylic acids, characterised in that a chloroalkyl- or bromoalkyl-substituted monoolefine of the general formula  see diagramm : ep0000554,p9,f1 wherein r1 and r4 independently of one another denote hydrogen, c1 - to c5 -alkyl, c5 - to c7 -cycloalkyl, monochloro-c1 - to c5 -alkyl, monobromo-c1 - to c5 -alkyl, dichloro-c1 - to c5 -alkyl, dibromo-c1 - to c5 -alkyl, monochloro-c5 - to c7 -cycloalkyl, monobromo-c5 - to c7 -cycloalkyl, dichloro-c5 - to c7 -cycloalkyl or dibromo-c5 - to c7 -cycloalkyl and r2 and r3 independently of one another represent hydrogen, c1 - to c5 -alkyl, monochloro-c1 - to c5 -alkyl, monobromo-c1 - to c5 -alkyl, dichloro-c1 - to c5 -alkyl and dibromo-c1 - to c5 -alkyl, or wherein the radicals r2 and r3 , together with the carbon atoms of the c=c double bond, can form a ring with up to 12 carbon atoms, at least one of the radicals r1 to r4 being a dichloro or dibromo radical of the type mentioned, or at least two of the radicals r1 to r4 being a chlorine- or bromine-containing radical of the type mentioned, and the chloroalkyl- or bromoalkyl-substituted monoolefine containing at least 4 carbon atoms, is reacted with a solution of a percarboxylic acid containing 3 to 4 carbon atoms in a chlorinated hydrocarbon containing 1 to 8 carbon atoms at a molar ratio of monoolefine to percarboxylic acid of 1. 1 : 1 to 10 : 1 and at a temperature of 30 degrees c to 100 degrees c, the percarboxylic acid containing up to 5% by weight of water and up to 2% by weight of hydrogen peroxide, and the percarboxylic acid solution used for the reaction having a mineral acid content of below 50 ppm. 
+</ABSTRACT>
+</TEXT>
+</DOC>

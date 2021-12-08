@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006214
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-3/52 H04Q-11/04 <main>H04Q-11/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+time division connexion network and means for mitigating the effects of failures.
+</TITLE>
+<APPLICANT>
+cit alcatelfr<sep>s.a. dite: compagnie industrielle des telecommunications cit-alcatel<sep>compagnie industrielle des telecommunications cit-alcatel s.a. dite:12, rue de la baumef-75008 parisfr<sep>compagnie industrielle des telecommunications cit-alcatel s.a. dite: <sep>
+</APPLICANT>
+<INVENTOR>
+le dieu bernard<sep>le dieu, bernard<sep>le dieu, bernardrue de keralsamf-22700 perros-guirecfr<sep>le dieu, bernard <sep>le dieu, bernard rue de keralsam f-22700 perros-guirecfr<sep>
+</INVENTOR>
+<ABSTRACT>
+connection network having an input stage and an output stage of the temporal type, or spatial multiplex, in which an end set of the input stage and an end set of the output stage constitute aEnd module (ME1, ME2.... Men) that can process n multiplex links (Le1,... LEN);The end modules in which the traffic of a faulty module is distributed between the other end modules of the group and directed on an auxiliary incoming line (L9, L10, L11, L12) of each module dextruded by an input switch (5, 6, 7, 8) associated with each end module;An output switch (9, 10, 11, 12) associated with each end module and connected to the auxiliary outgoing line (13, 14, 15, 16) of the other modules groups the traffic that has been distributed.Application to telephone exchanges.
+</ABSTRACT>
+</TEXT>
+</DOC>

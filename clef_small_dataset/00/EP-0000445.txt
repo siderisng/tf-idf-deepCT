@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000445
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-13/00 F15B-13/043 <main>F15B-13/042</main> F16K-31/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+servo valve.
+</TITLE>
+<APPLICANT>
+dynex rivett incus<sep>dynex/rivett inc.<sep>dynex/rivett inc.770 capitol drivepewaukee wisconsin 53072us<sep>dynex/rivett inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+patel kishor j<sep>patel, kishor j.<sep>patel, kishor j.w 130 s6873 camilla drivehales, corners wisconsinus<sep>patel, kishor j.<sep>patel, kishor j.w 130 s6873 camilla drivehales, corners wisconsinus<sep>
+</INVENTOR>
+<ABSTRACT>
+a servo valve having a pilot control balance network in  which a variable orifice (104) is established between the  main control spool (14) an the actuator member (96) of a  force motor (94) wherein movement of said member causes  the main spool to assume a new corresponding position  that re-establishes the balance in said network.  
+</ABSTRACT>
+</TEXT>
+</DOC>

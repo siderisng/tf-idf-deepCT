@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013550
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+C21C-7/00 C21C-1/02 C21C-7/064 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and apparatus for the desulphurisation of molten ferrous metals.
+</TITLE>
+<APPLICANT>
+arbedlu<sep>arbed s.a.<sep>arbed s.a.avenue de la liberté 19l-2930 luxembourglu<sep>
+</APPLICANT>
+<INVENTOR>
+goedert jeanlu<sep>goedert, jean<sep>goedert, jean4 rue karl marxdudelangelu<sep>
+</INVENTOR>
+<ABSTRACT>
+The method for desulfurizing iron melts provides these in a metallurgical vessel with a deculfifting agent blown in the bottom by a propellant by a lance, maintaining a sufficiently high constant propellant pressure in the lance and continuously with the driving gas stream by means of a mechanical addition device a steplessly controllable throughput amount of desulfurizing agent feeds, and in the course of the treatment, an additional gas stream conducts through the gambodge into the melt. The required device essentially sees a reservoir containing the desulfurizing agent and under argon printing reservoir (1), which via a cell wheel blade lock (4) with a pressurized argon feed line (5) and an argon solids discharge guide (6) is connected which in a movable lance mouth. The rotary blade lock (4) has a step of releasable drive (8), which allows a nearly ideal control of the throughput of desulfurizing agent, simply by control of the rotational speed of the cell wheel, without any change in the pressure conditions occur.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013175
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16C-35/04 F16D-27/10 F16C-35/06 B60H-1/32 F16D-27/112 <main>F16D-27/10</main> B60H-3/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electromagnetic clutch.
+</TITLE>
+<APPLICANT>
+sankyo electric cojp<sep>sankyo electric company limited<sep>sanden corporation20 kotobuki-choisesaki-shi gunma-kenjp<sep>sanden corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hiraga masaharu<sep>hiraga, masaharu<sep>hiraga, masaharu1757-13, kamiuekihonmachiisesaki-shi gumma-kenjp<sep>hiraga, masaharu<sep>hiraga, masaharu1757-13, kamiuekihonmachiisesaki-shi gumma-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a device with an electromagnetic clutch includes a tubu­ lar member of steel which is secured to, and cantilever sup­ ported by, a flanged member secured to a housing of the  device.  a pulley having magnetic pole faces is rotatably  mounted on the tubular member by one or more bearings.  a  drive shaft of the device extends out of the housing and  through the tubular member, and supports a magnetic arma­ ture on its outwardly extending end.  an electromagnet  associating with the pulley is fixedly supported on the flanged  member, to supply the magnetic attraction force for attracting  the armature plate to the pulley.  since the wall of the tubular  member is thin, the outer diameter of the clutch can be  reduced without degrading the transmission of rotational  force.  also, a shaft seal assembly can be mounted on the drive  shaft within the tubular member.  furthermore, the inner ring  of the bearing is held between the flange member and a  retainer ring fitted onto the tubular member and is therefore  prevented from axial movement.  in order to prevent the inner  ring from rotating, the inner ring is locked to the flange  member by cooperation between projections and mating  depressions formed thereto.  thus, the assembling operation  of the electromagnetic clutch is simplified.  
+</ABSTRACT>
+</TEXT>
+</DOC>

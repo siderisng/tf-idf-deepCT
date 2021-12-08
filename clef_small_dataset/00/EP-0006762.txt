@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006762
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-29/46 H01J-31/12 <main>H01J-31/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+guided beam display device.
+</TITLE>
+<APPLICANT>
+rca corpus  <sep>rca corporation<sep>rca corporation30 rockefeller plazanew york, ny 10020us<sep>rca corporation<sep>
+</APPLICANT>
+<INVENTOR>
+anderson charles hammond<sep>credelle thomas lloyd<sep>siekanowicz wieslaw wojciech<sep>anderson, charles hammond<sep>credelle, thomas lloyd<sep>siekanowicz, wieslaw wojciech<sep>anderson, charles hammond18 montgomery avenuerocky hill, new jerseyus<sep>credelle, thomas lloyd4605 hunters glen driveplainsboro, new jerseyus<sep>siekanowicz, wieslaw wojciech7 lawnside drivelawrenceville, new jerseyus<sep>anderson, charles hammond<sep>credelle, thomas lloyd  <sep>siekanowicz, wieslaw wojciech <sep>anderson, charles hammond18 montgomery avenuerocky hill, new jerseyus<sep>credelle, thomas lloyd4605 hunters glen driveplainsboro, new jerseyus<sep>siekanowicz, wieslaw wojciech7 lawnside drivelawrenceville, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+the display device is of the kind having within an evac­ uated envelope at least one electron beam guide (30, 32)  across one end of which extends a line cathode (42) which  generates at least one electron beam directed into the guide  for eventual deflection towards cathodoluminescent screen  on a front wall of the envelope.  a pair of parallel modula­ tion electrodes (44a, 44b) for each beam is positioned  with the cathode (42) between them.  each modulation  electrode partially overlaps the associated electron beam  guide to eliminate adverse effects of contour differences  or misalignment of the edges (48) of these electrodes.  
+</ABSTRACT>
+</TEXT>
+</DOC>

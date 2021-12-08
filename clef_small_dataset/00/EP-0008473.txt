@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008473
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/53 G01N-33/563 <main>G01N-33/58</main> G01N-33/543 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the detection and/or determination of an antigen specific immunoglobulin, immuno-reagents to be used in said method and test kit for said determination.
+</TITLE>
+<APPLICANT>
+akzo nvnl <sep>akzo n.v. <sep>akzo n.v. velperweg 76nl-6824 bm arnhemnl<sep>akzo n.v.<sep>
+</APPLICANT>
+<INVENTOR>
+duermeyer willem<sep>van den akker rudolf<sep>duermeyer, willem<sep>van den akker, rudolf<sep>duermeyer, willemsibeliuslaan 64ossnl<sep>van den akker, rudolfoude brandenburgerweg 10bilthovennl<sep>duermeyer, willem<sep>van den akker, rudolf <sep>duermeyer, willem sibeliuslaan 64 ossnl<sep>van den akker, rudolfoude brandenburgerweg 10bilthovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention relates to a method for the detec­ tion and/or determination of an antigen specific immuno­ globulin of a peculiar igx class, in which x means g,m,a,d or  e, characterized in that the test-medium is brought into con­ tact with either insolubilized anti-igx against the antigen  specific immunoglobulin of a peculiar igx class to be deter­ mined or antigen binding fragment of this anti-igx, followed  by an incubation with an antigen for which the immunoglobu­ lin to be determined has specific affinity and with a labelled  antigen binding fragment of an antibody against the above  noted antigen.  the labelling agent is detected and/or deter­ mined, which provides qualitative and/or quantitative infor­ mation about the antigen specific immunoglobulin to be  determined.  
+</ABSTRACT>
+</TEXT>
+</DOC>

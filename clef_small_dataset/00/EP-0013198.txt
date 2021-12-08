@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0013198
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-21/38 F02P-7/067 F02P-7/00 H02K-21/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic signals generator.
+</TITLE>
+<APPLICANT>
+ducellier & ciefr<sep>ducellier & cie<sep>ducellier &amp; cieechat 950f-94024 créteil cedexfr<sep>
+</APPLICANT>
+<INVENTOR>
+pierret jean mariefr<sep>pierret, jean marie<sep>pierret, jean marie24 rue sibuetf-75012 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+this generator for the control of the sparking of an internal combustion engine comprises at least two coiled sensors (9,10) and (11,12) disposed and fixed radially on the periphery of the permanent magnet 7 of cylindrical shape.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+oénéra#c.ji magnétique de signaux. c présente invention concerne un générateur magnétique de si @@@@ our la commande de l'allumage d'un moteur à combustion inter r.e, notamment pour véhicules automobiles, monté dans un boitier, agissant sur un circuit électronique à l'instant de l'allumage et comportant essentiellement un rotor dont les pales sont rabattus de façon à être parallèles à l'axe du rotor, et un stator qui comperte au moins deux capteurs bobinés et au moins un aimant permanent monté sur un manchon concentrique à l'arbre du générateur,man man@non susceptible d'être décalé angulairement sous l'action de la cepresslon . afin d'avoir un rendement optimum du moteur il peut être nécessaire de créer un décalage angulaire du point d'allumage en fonction d'un paramètre de fonctionnement du moteur tel que la température du moteur ou la vitesse de rotation, tout en conservant des caractéristiques constantes pour l'amplitude des signaux du généra- teur, cette amplitude étant la plus grande possible pour un encombrement minimum. dons les générateurs magnétiques de signaux connus comportant aeux capteurs bobinés, l'axe de ces capteurs est parallèle à l'axe de l'arbre d'entrainement du rotor, or afin d'avoir une amplitude maximum des signaux, les pales doivent être éloignés au maximum de l'axe de rotation ; de ce fait, afin de ne pas avoir un trop grand boitier, il est nécessaire de réaliser des bossages à la périphérie dudit boitier pour loger la par lie du bobinage située au delà du noyau de la bobine, lequel joue le rôle de pôle du stator. la présente invention a pour but de réaliser un générateur magnétique de signaux de faible encombrement et concerne à cet effet un générateur magnétique de signaux pour la commande de l'allumage d'un moteur à combustion interne, notamment pour véhicules automobiles, monté dans un boitier agissant sur un circuit électronique à l'instant de l'allumage et constitué d'un rotor entrainé en rotation par l'arbre du générateur lequel tourillonne dans un palier du boitier, rotor réglable angulairement, le cas échéant, par la force centrifuge par rapport à l'ensemble stator à l'aide d'un nian chon entourant l'arbre de l'allumeur, tournant à partir d'une certaine vitesse de rotation de l'arbre, rotor comportant à sa périphérie des dents polaires qu s'étendent ans le sens ox#al1t d'un ensemble stator qui comprend ou moins un iront permanent annulaire motté sur un manchon concentrique à l'arbre du générateur et susceptible d'être sollicité en rotation par la dépression, et d'au moins deux capteurs bobinés dont le noyau joue le rôle de pole du stator, générateur caractérisé en ce que les capteurs bo- binés sont disposés et fixés radialement à la périphérie de l'0i mont permanent. la description qui va suivre en regard des dessins annexés fera mieux comprendre comment l'invention peut être réalisée. la figure 1 représente en coupe un générateur magnétique selon l'invention. la figure 2 représente un stator de générateur magnétique en coupe suivant l'axe il il de la figure 1, avec une variante de l'enrobage du stator. de façon connue un tel générateur magnétique de signaux est
+</DESCRIPTION>
+<CLAIMS>
+   r e v e n d i c a t i o n   r e v e n d i c a t i o n     générateur magnétique de signaux   por    la commande de   l'allu-    mage d'un moteur à combustion interne notamment pour véhicules automobiles, monté dans un boitier, agissant sur un circuit électronique à l'instant de l'allumage et constitué   d'un    rotor entrainé en rotation par l'arbre(3)du générateur lequel tourillonne   daos    un palier du boitier, rotor réglable angulairement, le cas échéant par la force centrifuge par rapport à l'ensemble stator à l'aide   d'un    manchon entourant l'arbre de l'allumeur, tournant à partir d'une certaine vitesse de rotation de l'arbre,   rotor comportant à sa périphérie des dents polaires qui s'étendent dans le sens axial et d'un ensemble stator qui comprend au moins un aimant permanent annulaire(7)monté sur un manchon(6)concentrique à l'arbre(3)du générateur et susceptible d'être sollicité en rotation par la dépression et d'au moins deux capteurs   bobinés(10    et 12)dont le noyau(9 et 11) joue le rôle de pôle stator, générateur caractérisé en ce que les capteurs bobinés(-10 et   12)sont    disposés et fixés radialement à la périphérie de l'aimant   permanent(7).     
+</CLAIMS>
+</TEXT>
+</DOC>

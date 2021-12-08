@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003732
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-405/06 A61K-31/55 C07D-319/00 A61K-31/495 C07D-409/00 A61K-31/535 A61K-31/415 A61K-31/519 C07D-233/60 C07C-17/16 A61P-7/00 C07D-403/00 C07D-405/00 C07D-233/84 C07C-17/00 A61K-31/44 C07D-233/56 <main>C07D-233/56</main> C07D-409/06 C07D-233/58 C07D-401/06 C07D-521/00 A61K-31/445 C07D-401/00 C07D-403/06 C07D-233/00 A61K-31/505 A61K-31/485 C07D-319/20 A61K-31/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+imidazole derivatives and salts thereof, their synthesis, and pharmaceutical formulations thereof.
+</TITLE>
+<APPLICANT>
+wellcome foundgb<sep>the wellcome foundation limited<sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb<sep>the wellcome foundation limited<sep>
+</APPLICANT>
+<INVENTOR>
+thorogood peter brian<sep>thorogood, peter brian<sep>thorogood, peter brian114, venner roadsydenham london, s.e.26gb<sep>thorogood, peter brian<sep>thorogood, peter brian114, venner roadsydenham london, s.e.26gb<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to 1-arylalkylimidazoles of formula    in which a is a straight or branched alkylene group of from 1  to 3 carbon atoms, or a straight or branched alkenylene or  alkynylene group of 2 or 3 carbon atoms, n is an integer  which is at least 1, and the or each r substituent, which when  n is greater than 1 may be the same or different, is a saturated  alkyl group of from 1 to 4 carbon atoms or an unsaturated  alkyl group of from 2 to 4 carbon atoms, with the proviso  that when a is unsaturated, r may also be alkoxy of  from 1 to 4 carbon atoms; (when n is at least 2) alkylenedioxy  of from 1 to 4 carbon atoms; halo; trihalomethyl; hydroxy;  carboxyl; a salt of such a carboxyl group; carboalkoxy; carboaryloxy;  carboarylalkyloxy; -nr⁶r⁷ or -conr⁶r⁷, in which  r⁶ and r⁷ may be the same or different and are hydrogen or  alkyl of from 1 to 4 carbon atoms; or an acid addition salt of  such a 1-arylalkylimidazole.  methods of preparing these 1-arylalkylimidazoles are  disclosed.  the 1-arylalkylimidazoles have pharmacological properties  of use in medicine, in particular for the treatment of  prophylaxis of thrombo-embolic disorders.  
+</ABSTRACT>
+</TEXT>
+</DOC>

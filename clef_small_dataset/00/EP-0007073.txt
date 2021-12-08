@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007073
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-31/00 B05D-1/32 B29C-41/00 H01C-1/02 H01C-1/034 H01G-2/12 H01G-2/00 H01B-17/62 H01G-20060101S H01B-17/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the encapsulation of electrical components, especially capacitors, by vortex sintering.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+utner ferdinandde<sep>utner, ferdinand<sep>utner, ferdinandroter brachweg 99d-8400 regensburgde<sep>
+</INVENTOR>
+<ABSTRACT>
+During the wrapping process in the vertebrae bath, the connecting wires (2) of the components (1) are covered for avoiding so-called "pants" from plastic to the components (1).After passing through the vertebral bath, the connecting wires (2) are lifted out of the cover (3) by a small amount.As a result, a sauber of the surrounding of the components is achieved without formation of "pants".
+</ABSTRACT>
+</TEXT>
+</DOC>

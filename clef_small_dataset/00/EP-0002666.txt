@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002666
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-47/52 C07D-213/53 A61K-31/425 C07C-49/84 C07D-333/00 A61K-31/42 A61P-19/06 C07D-213/00 C07D-261/00 C07D-333/22 C07C-45/00 C07C-59/00 A61P-7/00 C07D-275/00 A61K-31/423 C07C-45/46 C07D-213/50 A61K-31/44 C07C-45/67 A61P-7/10 C07D-275/04 C07D-261/20 C07C-59/90 C07C-49/83 A61K-31/428 C07D-307/00 A61P-19/00 C07C-49/00 C07D-413/04 C07C-47/575 C07D-413/00 A61P-9/00 C07D-413/12 C07D-307/46 A61P-9/12 <main>C07D-261/20</main> C07D-213/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1,2-benzisoxazolyloxy (or thio) acetic acids and related compounds, process for their preparation and medicines containing them.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+allen richard charles<sep>setescak linda louise<sep>shutske gregory michael<sep>allen, richard charles<sep>setescak, linda louise<sep>shutske, gregory michael<sep>allen, richard charleshillcrest road, box 514flemington, n.j.us<sep>setescak, linda louisecapricorn, drive 176south somerville, n.j.us<sep>shutske, gregory michaelrunyon avenue 22somerset, n.j.us<sep>allen, richard charles<sep>setescak, linda louise<sep>shutske, gregory michael<sep>allen, richard charleshillcrest road, box 514flemington, n.j.us<sep>setescak, linda louisecapricorn, drive 176south somerville, n.j.us<sep>shutske, gregory michaelrunyon avenue 22somerset, n.j.us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  compounds of the general formula  see diagramm : ep0002666,p55,f1 in which r is hydrogen, naphthyl, a radical of the formula  see diagramm : ep0002666,p55,f2  unsubstituted thienyl or thienyl substituted with halogen or c1-4 -alkyl, furyl, pyridyl or pyridyl n-oxide ; r**1 is a free or esterified carboxyl group of from 1 to 8 carbon atoms, a radical of the formula  see diagramm : ep0002666,p56,f3  r**2, r**3 and r**4 are the same or different and each can be hydrogen, halogen or c1-4 -alkyl ; x is hydrogen, halogen, c1-4 -alkyl, c1-4 -alkoxy, hydroxy, trifluoromethyl, nitro ; r**5, r**6, r**7, r**8 and r**9 are the same or different and can be hydrogen or c1-4 -alkyl ; a is o or s ; and m and n are the same or different and each can be the integer q, 2 or 3 ; or a physiologically acceptable salt thereof. 
+</ABSTRACT>
+</TEXT>
+</DOC>

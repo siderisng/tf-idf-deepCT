@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014528
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-3/06 C01B-31/06 G21H-5/00 <main>C30B-33/00</main> C30B-33/00 C30B-33/04 C01B-31/00 C30B-29/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of reducing the colour of diamond.
+</TITLE>
+<APPLICANT>
+de beers ind diamondza<sep>de beers industrial diamond division (proprietary) limited<sep>de beers industrial diamond division (proprietary) limited8th floor 45 main streetjohannesburg transvaalza<sep>de beers industrial diamond division (proprietary) limited  <sep>
+</APPLICANT>
+<INVENTOR>
+allen brian philip<sep>evans trevor<sep>allen, brian philip<sep>evans, trevor<sep>allen, brian philip52 leicester roadsapcote leicestershiregb<sep>evans, trevor8 oaklandsbulmershe road readinggb<sep>allen, brian philip<sep>evans, trevor<sep>allen, brian philip52 leicester roadsapcote leicestershiregb<sep>evans, trevor8 oaklandsbulmershe road readinggb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of reducing diamond of type 1b including the  steps of exposing the diamond to irradiation capable of caus­ ing atomic displacements in the diamond, for example the  irradiation may be electron bombardment of energy greater  than 300kev, followed by heat treating the irradiated  diamond at a temperature in the range 1600°c to 2200°c  under a pressure at which the diamond is crystallographically  stable at the temperature used.  
+</ABSTRACT>
+</TEXT>
+</DOC>

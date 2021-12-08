@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012217
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-31/052 <main>H01L-31/06</main> H01L-31/055 H01L-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+laminated optical energy converting device.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hodgson rodney trevor<sep>hovel harold john<sep>woodall jerry mac pherson<sep>hodgson, rodney trevor<sep>hovel, harold john<sep>woodall, jerry mac pherson<sep>hodgson, rodney trevor336 cherry streetbedford hills, n.y. 10507us<sep>hovel, harold johndiane courtkatonah, n.y. 10598us<sep>woodall, jerry mac pherson336 cherry streetbedford hills, n.y. 10507us<sep>hodgson, rodney trevor <sep>hovel, harold john<sep>woodall, jerry mac pherson  <sep>hodgson, rodney trevor336 cherry streetbedford hills, n.y. 10507us<sep>hovel, harold johndiane courtkatonah, n.y. 10598us<sep>woodall, jerry mac pherson336 cherry streetbedford hills, n.y. 10507us<sep>
+</INVENTOR>
+<ABSTRACT>
+A sun's cell has a radiation-walling substrate of ruby, which transforms through fluorescence higher frequent proportions of the incident light in radiation in the sensitivity rich in the sensitivity of the photoeline.Between substrate (1) and active layer (5) a crystalline compensating layer (9) is provided.It is interlocked in microcracks (11) with the adjacent layers.The material is Alas or Gaalas, while the active layer of GaAs holds a PN transition.
+</ABSTRACT>
+</TEXT>
+</DOC>

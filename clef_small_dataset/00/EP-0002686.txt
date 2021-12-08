@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002686
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-21/18</main> H01H-73/02 H01H-73/06 H01H-73/00 H01H-21/00 H01H-9/00 H01H-21/18 H01H-9/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+low voltage multi-pole power circuit breaker with switch shaft supporting contact arms.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+troebel werner<sep>troebel, werner<sep>troebel, werneralt-gatow 57/59d-1000 berlin 22de<sep>troebel, werner<sep>troebel, werneralt-gatow 57/59d-1000 berlin 22de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a multipolar low voltage circuit breaker comprising contact arms and a switching shaft (14) which carries the contact arms and has a polygonal profile, said shaft being mounted in recesses (30) in the partition walls (22) of a casing of insulating material (2) and in inserts (35) which close these recesses, wherein there are arranged on the switching shaft (14), bearing bodies (23) having an opening (24) corresponding to the polygonal profile of the shaft (14), and having an outer bearing surface (25) and a collar (27) which projects beyond the bearing surface (25) and is associated with a recess of a respectively assigned partition and insert, characterized in that the bearing bodies (23) are axially displaceable on the switching shaft (14) and that each recess is formed as a slot (32, 37) which overlaps the single collar (27) present. 
+</ABSTRACT>
+</TEXT>
+</DOC>

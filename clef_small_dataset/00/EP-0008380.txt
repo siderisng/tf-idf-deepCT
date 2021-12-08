@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008380
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/04 G01R-31/02 G01R-31/28 <main>G01R-31/02</main> G01R-31/3185 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electronic circuit assembly for testing module interconnections.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+hong se june<sep>hong, se june<sep>hong, se june15 barnard avenuepoughkeepsie, new york 12601us<sep>hong, se june<sep>hong, se june15 barnard avenuepoughkeepsie, new york 12601us<sep>
+</INVENTOR>
+<ABSTRACT>
+this specification relates to electronic circuit assemblies  and describes an assembly which facilitates the testing of  interconnections between logic modules (11) mounted on a  card (10) and between the modules and the input and output  terminals of the card.  each of the modules (11) has an  exclusive-or circuit (22) which receives an input from each of  the input pins (12) of the module and has a single output  which is taken off an output pin (14a) of the module.  also, each  of the modules has a test input circuit (24, 26) for accessing all  of the output pins (14) of the module in parallel from a single  input terminal (12a).  the test input circuits are used to apply a  binary 0 followed by a binary 1 to all the outputs of all the  modules.  the exclusive-or circuits are used to monitor the  response to those signals.  by testing in this manner, the con­ nections between modules and also between the modules  and the card terminals can be checked for stuck ones and  zeros.  in a further embodiment a more complex but  still relatively simple bit pattern can test all the interconnec­ tion nets to determine if there are shorts between any of the  nets.  
+</ABSTRACT>
+</TEXT>
+</DOC>

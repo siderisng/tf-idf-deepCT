@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001760
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-317/14 C07C-255/00 C07D-295/00 C07D-239/00 C07D-295/145 C07D-239/42 C07D-295/14 C07D-295/16 C07C-317/00 <main>C07C-121/45</main> C07C-67/00 C07C-253/00 C07C-255/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+alpha-aminomethylene-beta-formylaminopropionitrile, process for its preparation and its use in the preparation of 2-methyl-4-amino-5-formylaminomethylpyrimidine.
+</TITLE>
+<APPLICANT>
+basf agde<sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bewert wolfgang dr<sep>littmann wolfgang dr<sep>bewert, wolfgang, dr.<sep>littmann, wolfgang, dr.<sep>bewert, wolfgang, dr.lorscher ring 8cd-6710 frankenthalde<sep>littmann, wolfgang, dr.neckarpromenade 36d-6800 mannheim 1de<sep>bewert, wolfgang, dr.<sep>littmann, wolfgang, dr.<sep>bewert, wolfgang, dr.lorscher ring 8cd-6710 frankenthalde<sep>littmann, wolfgang, dr.neckarpromenade 36d-6800 mannheim 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Preparation of 2-methyl-4-amino-5-formylaminomethylpyrimidine (ii) by reacting an N-substituted or unsubstituted α-aminomethylene-β-formylaminopropionitrile (I) with acetamidine.II is a precursor to the production of vitamin B₁.
+</ABSTRACT>
+</TEXT>
+</DOC>

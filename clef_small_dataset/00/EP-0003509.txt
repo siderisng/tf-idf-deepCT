@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003509
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/523 H03G-1/00 <main>H03G-3/00</main> G01S-7/529 G01S-7/62 H03G-3/00 H03G-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+gain control circuit for a plurality of cascade-coupled amplifying stages.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen  <sep>
+</APPLICANT>
+<INVENTOR>
+paulke bodo<sep>walz alfred<sep>paulke, bodo<sep>walz, alfred<sep>paulke, bodoziegeläckerweg 6d-8524 neunkirchende<sep>walz, alfredtannenweg 14d-8501 burgthannde<sep>paulke, bodo<sep>walz, alfred<sep>paulke, bodoziegeläckerweg 6d-8524 neunkirchende<sep>walz, alfredtannenweg 14d-8501 burgthannde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an amplifier for electrical signals, consisting of a plurality of connected amplifier stages (A1 to A3), each comprising at least one voltage-controlled amplifier element (TR) whose control characteristic is adjustable by control signal. Desirable is a reinforcement for all individual stages, which is the same over an arbitrarily pre-selectable dynamic range. According to the invention, the amplifier comprises, for this purpose, at least for each amplifier element (TR) of each amplifier stage (A1 to A3), which have different control characteristics with each other, a control signal form element (F1 to F3). This forms from a primary control voltage Ust1 a secondary control voltage Ust2 according to the relationship UST2 = M · Ust1 + N; M and N are form sizes individually adjustable to the control signal forming member for each amplifier element in the sense that differences in the control characteristic curves are compensated by adaptation to a commonly predetermined characteristic. The amplifier according to the invention is used in particular in ultrasonic pulse echo image technique as a depth equalizer amplifier.
+</ABSTRACT>
+</TEXT>
+</DOC>

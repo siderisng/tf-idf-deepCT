@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010578
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23Q-1/25 B23Q-15/00 B23Q-1/60 B23B-3/06 B23B-3/00 <main>B23B-7/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cnc-controlled single spindle precision turning machine with concave or convex tool-path.
+</TITLE>
+<APPLICANT>
+ehrenreich gmbh & co kg ade<sep>a.±ehrenreich gmbh & co. kg<sep>a. ehrenreich gmbh &amp; co. kghansaallee 190d-4000 düsseldorf 11de<sep>a. ehrenreich gmbh & co. kg  <sep>
+</APPLICANT>
+<INVENTOR>
+guhl karl-heinz dipl-ing<sep>guhl, karl-heinz, dipl.-ing.<sep>guhl, karl-heinz, dipl.-ing.erika weg 20d-4005 meerbusch 2de<sep>guhl, karl-heinz, dipl.-ing.<sep>guhl, karl-heinz, dipl.-ing.erika weg 20d-4005 meerbusch 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a single-spindle lathe with cnc multiple-track control, having a longitudinal carriage (2) and a cross carriage (4) disposed thereon, each with a drive (3, 6) which can be controlled by the control, a second cross carriage (7) disposed on the cross carriage (4) and a lathe tool holder (10), characterised in that the second cross carriage (7) is likewise provided with a drive (9) which can be controlled by the control and that the two cross carriages (4; 7) can be driven in opposite directions at speeds the difference of which is equal to zero at the reversing points and in the other regions is equal in magnitude and direction to the pre-set feed rate for the lathe tool holder (10). 
+</ABSTRACT>
+</TEXT>
+</DOC>

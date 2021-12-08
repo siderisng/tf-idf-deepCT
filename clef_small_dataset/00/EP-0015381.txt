@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015381
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-9/22 A61K-9/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+galenic delayed-action forms and method for their preparation.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>
+</APPLICANT>
+<INVENTOR>
+heinemann helmut dr rer natde<sep>rothe werner dr rer natde<sep>stemmle berthold dr rer nat de<sep>heinemann, helmut, dr.rer.nat.  <sep>rothe, werner, dr.rer.nat.<sep>stemmle, berthold, dr.rer.nat.<sep>heinemann, helmut, dr.rer.nat.häusserstrasse 55d-6900 heidelberg 1de<sep>rothe, werner, dr.rer.nat.walldorfer strasse 42d-6832 hockenheimde<sep>stemmle, berthold, dr.rer.nat.beethovenstrasse 16d-6832 hockenheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+the method for preparing shaped articles with delayed release of active ingredient, consisting of the active ingredient, conventional auxiliaries and a wax-like, sparingly soluble auxiliary, entails the shaped articles which have been prepared by a known method being maintained at a temperature of 2-40 deg c below the drop point of the wax-like auxiliary for 2-24 hours. 
+</ABSTRACT>
+<DESCRIPTION>
+formlinge mit retardierter wirkstofffreisetzung und verfahren zu deren herstellung die vorliegende erfindung betrifft formlinge mit retardierter wirkstofffreisetzung und verfahren zu deren herstellung, wie es in den patentansprüchen beschrieben ist. tabletten und dragees mit einer verzögerten abgabe des wirkstoffes und verfahren zu deren herstellung sind bereits bekannt (magensaftresistente überzüge, beschichtete wirkstoffgranulate, bindung an ionenaustauscher , überführen des wirkstoffes in schwerlösliche derivate). in vielen fällen wird auch die einbettung des wirkstoffes in ein schwer- oder un lösliches gerüst (matrix) - meist polymere hilfsstoffe oder wachse - vorgenommen, aus dem dieser langsam freigesetzt und resorbiert wird. zur herstellung von matrixformen wird der hilfsstoff entweder in einem organischen lösungsmittel gelöst und mit den übrigen substanzen gemischt oder auf irgendeiner herstellungsstufe auf eine temperatur oberhalb seines tropfpunktes erwärmt, um eine gleichmässige umhüllung der anderen stoffe zu erzielen. verfahren zur retardierung von wirkstoffen durch granulation mit einer organischen lösung von retardierenden hilfsstoffen sind ebenfalls bekannt. bei verwendung von organischen lösungsmitteln sind jedoch aus gründen der gesundheit und des umweltschutzes erhebliche technische schutzvorrichtungen erforderlich, so dass solche verfahren nur ungern angewendet werden. bekannt ist auch die einarbeitung gut löslicher wirkstoffe in die schmelze eines wachs artigen hilfsstoffes mit anschliessender erstarrung. nach diesem verfahren werden jedoch keine granulen definierter grösse erhalten, so dass für die weiterverarbeitung zu tabletten zusätzlich ein arbeitsschritt zur granulatformung notwendig wird. auch die herstellung von "tropfperlen", (de-os 19 52 304) aus einer vergiessbaren schmelze, bestehend aus wirkstoff und träger, ist bekannt. ebenso bekannt ist die umhüllung durch wachsartige hilfsstoffe mit hilfe der schmelzgranulation im beheizbaren mischer (us ps 3,308,217), im mischer, bei dem die erforderliche schmelztemperatur der wachsartigen hilfsstoffe durch friktionswärme erzielt wird oder durch schmelzgranulation im wirbelbett. (de-ps 21 27 683) ein nachteil dieser verfahren besteht darin, dass der wachsanteil, bezogen auf die gesamtmenge wirkstoff + hilfsstoffe, eine bestimmte obere grenze nicht überschreiten darf, damit die granulate nicht miteinander zu grossen klumpen verschmelzen. gut lösliche wirkstoffe in hohen dosierungen, die über einen längeren zeitraum retardiert werden sollen, können deshalb nach diesen verfahren nur schwer verarbeitet werden. bestimmte substanzen lassen sich aufgrund ihrer grob kristallinen struktur nicht ungemahlen im wirbelbett schmelzgranulieren. so ist z. b. zur retardierung von kaliumchlorid eine vorhergehende mahlung erforderlich, damit sich ein wirbelbett ausbilden kann. ebenso können explosionsgefährliche oder temperaturempfindliche wirkstoffe nicht durch schmelzgranulation verarbeitet werden. die nl-ps 6614 357 beschreibt ein verfahren zur herstellung von depot-tabletten, bei dem ein granulat des wirksamen stoffes mit einem leicht schmelzbaren, im magen- und darmsaft schwerlöslichen stoff in pulverform vermischt und zu tabletten verpresst wird. die fertigen tabletten werden in'einem wirbelbett auf eine temperatur erhitzt, bei der der schmelzbare stoff flüssig wird und aufgrund der kapillarkräfte sich gleichmässig in den hohlräumen der tablette verteilt. gleichzeitig wird als schutzfilm eine lösung von methylcellulose in chloroform methanol aufgesprüht, um ein zusammenkleben der presslinge zu verhindern. es wurde nun überraschenderweise gefunden, dass homogene matrixformen auch entstehen, wenn man durch direktes verpressen bei raumtemperatur hergestellte formlinge, die wachsartige hilfsstoffe in partikulärer verteilung enthalten, bei einer temperatur deutlich unterhalb des tropfpunktes des wachsartigen hilfsstoffes tempert. hierbei bildet sich
+</DESCRIPTION>
+<CLAIMS>
+ patentansprüche 1. verfahren zur herstellung von formlingen mit retardierter wirkstofffreisetzung bestehend aus dem wirkstoff, üblichen hilfsstoffen und einem wachsartigen, schwerlöslichen hilfsstoff, dadurch gekennzeichnet, dass die nach bekannten methoden hergestellten formlinge bei einer temperatur von 2 - 400 c unterhalb des tropfpunktes des wachs artigen hilfsstoffs 2 - 24 stunden getempert werden.   2. verfahren nach anspruch 1, dadurch gekennzeichnet, dass bei einer temperatur von 10 - 200 c unterhalb des tropfpunktes getempert wird.   3. formlinge, hergestellt nach dem verfahren gemäss anspruch 1 oder 2.  
+</CLAIMS>
+</TEXT>
+</DOC>

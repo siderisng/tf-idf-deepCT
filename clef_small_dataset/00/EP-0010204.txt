@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010204
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/08 G01L-9/04 H01L-29/84 H01L-23/02 <main>G01L-9/06</main> H01L-29/66 G01L-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor absolute pressure transducer assembly.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd.<sep>hitachi, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+kanzawa ryosaku<sep>kawakami kanji<sep>kobori shigeyuki<sep>minorikawa hitoshi<sep>nishihara motohisa <sep>sato hideo<sep>suzuki seiko  <sep>takahashi minoru<sep>yamada kazuji<sep>kanzawa, ryosaku<sep>kawakami, kanji<sep>kobori, shigeyuki<sep>minorikawa, hitoshi<sep>nishihara, motohisa<sep>sato, hideo<sep>suzuki, seiko<sep>takahashi, minoru<sep>yamada, kazuji<sep>kanzawa, ryosaku394-12, kujihitachi, ibarakijp<sep>kawakami, kanji18-5, inadakatsuta, ibarakijp<sep>kobori, shigeyuki220-26, ishinazakahitachi, ibarakijp<sep>minorikawa, hitoshi935-22, motoyoshidamito, ibarakijp<sep>nishihara, motohisa1166-122, inadakatsuta, ibarakijp<sep>sato, hideo161, ishinazakahitachi, ibarakijp<sep>suzuki, seiko1599-3, kanaihitachiohta, ibarakijp<sep>takahashi, minoru1034, higashiishikawakatsuta, ibarakijp<sep>yamada, kazuji1-36-3-205, nishinarusawahitachi, ibarakijp<sep>kanzawa, ryosaku  <sep>kawakami, kanji<sep>kobori, shigeyuki<sep>minorikawa, hitoshi<sep>nishihara, motohisa<sep>sato, hideo<sep>suzuki, seiko<sep>takahashi, minoru<sep>yamada, kazuji<sep>kanzawa, ryosaku<sep>kawakami, kanji<sep>kobori, shigeyuki<sep>minorikawa, hitoshi<sep>nishihara, motohisa<sep>sato, hideo<sep>suzuki, seiko<sep>takahashi, minoru<sep>yamada, kazuji<sep>kanzawa, ryosaku394-12, kuji hitachi, ibarakijp<sep>kawakami, kanji 18-5, inada katsuta, ibaraki jp<sep>kobori, shigeyuki220-26, ishinazakahitachi, ibarakijp<sep>minorikawa, hitoshi935-22, motoyoshidamito, ibarakijp<sep>nishihara, motohisa1166-122, inadakatsuta, ibarakijp<sep>sato, hideo161, ishinazakahitachi, ibarakijp<sep>suzuki, seiko1599-3, kanaihitachiohta, ibarakijp<sep>takahashi, minoru1034, higashiishikawakatsuta, ibarakijp<sep>yamada, kazuji1-36-3-205, nishinarusawahitachi, ibarakijp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor pressure transducer assembly compris­ ing a silicon diaphragm assembly (20) and a glass covering  member (10).  the assembly (20) has a circular diaphragm  portion (30) of thin silicon which is formed using etching, and  a thick supporting portion (33) therearound.  piezoresistive  elements (22, 24) of a piezoresistive bridge circuit and con­ ducting paths (27) for electrically connection thereof are  formed on the assembly (20).  on a surface of the assembly  (20), a passivating layer (31) of silicon dioxide is formed in  uniform thickness, and further on a surface of the passivating  layer (31) is formed a layer (34) of polysilicon on the support­ ing portion (33) of the assembly (20) using ion implantation  method, or reforming a silicon dioxide layer (31) thereon.  in  the passivating layer (3), a contacting window (32) is formed,  through which the polysilicon layer (34) is electrically con­ nected to the silicon diaphragm assembly (20).  the covering  member (10) of borosilicate glass having a circular well (11) is  mounted and anodic-bonded onto the silicon diaphragm  assembly (20) in contact with the polysilicon layer (34).  
+</ABSTRACT>
+</TEXT>
+</DOC>

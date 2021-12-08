@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016385
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/26 H05B-6/80 B01D-53/04 <main>B01D-53/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+adsorbent gas fractionator and gas fractionation process.
+</TITLE>
+<APPLICANT>
+pall corpus<sep>pall corporation<sep>pall corporation30 sea cliff avenueglen cove, new york 11542us<sep>pall corporation<sep>
+</APPLICANT>
+<INVENTOR>
+verrando marcel g<sep>verrando, marcel g.<sep>verrando, marcel g.wiltshire farms route 3 box 282-wocala florida 32671us<sep>verrando, marcel g.<sep>verrando, marcel g.wiltshire farms route 3 box 282-wocala florida 32671us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process and apparatus are provided for removing a first  polar gas from a mixture thereof with a second gas.  the gas  mixture is passed through a sorbent bed (9) having a preferen­ tial affinity for the first polar gas and the first polar gas is  sorbed thereon so as to produce a gaseous effluent which has  a concentration of first polar gas therein below a predeter­ mined maximum.  then the polar gas sorbed on the sorbent  (9) is removed therefrom by application of microwave energy,  at a temperature at which the sorbent is transparent to such  energy, while passing a purge flow of gas in contact with the  bed to flush out desorbed first polar gas from the bed.  the bed  is allowed to cool to a relatively efficient temperature for  adsorption.  the gas mixture is then again passed in contact  with the bed.  if two beds are used, one bed can be desorbed  while the other is on-stream thereby maintaining a substan­ tially continuous flow of effluent gas.  the apparatus of the invention provides a sorbent bed (9)  assembly having a microwave energy (40) positioned to direct  such energy into the sorbent (9) for desorption of first polar  gas from the bed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

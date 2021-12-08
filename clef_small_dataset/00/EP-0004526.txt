@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004526
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/40 <main>F16K-7/12</main> B01D-46/02 F16K-11/02 B01D-46/06 F16K-11/044 F16K-31/36 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pilot valve.
+</TITLE>
+<APPLICANT>
+svenska flaektfabriken abse<sep>ab svenska flaktfabriken<sep>ab svenska fläktfabrikensickla allé 13s-131 00 nackase<sep>ab svenska flaktfabriken <sep>
+</APPLICANT>
+<INVENTOR>
+aurell eskil<sep>aurell, eskil<sep>aurell, eskilsandviksvägen 34cs-352 41 växjöse<sep>aurell, eskil <sep>aurell, eskilsandviksvägen 34cs-352 41 växjöse<sep>
+</INVENTOR>
+<ABSTRACT>
+a pilot valve is described for control of a pulse valve for e. g.   production of pulses of compressed air.  the pilot valve comprises  a housing having an inlet (20) and an outlet (10), a  movable valve element (12) disposed inside the housing, and  means (4, 16) for switching said valve element between a closed  and an open position, said inlet and outlet communicating in the  open position.  at least a portion of the interior of the housing  presents in one plane a circular shape, the outlet being formed  as a radial slot from this portion around at least a part of the  periphery.  the valve element is designed as a flexible disc  which in the closed position is located in said plane to seal the  slot with its outer edge at the inner side of the housing.  said  means are arranged to switch the valve element to the open  position by giving the disc a curved shape so that the outer edge  no longer covers the slot.  
+</ABSTRACT>
+</TEXT>
+</DOC>

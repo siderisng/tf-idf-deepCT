@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007521
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-33/18</main> G01N-31/12 G01N-33/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for determining the total oxygen demand of an aqueous dispersion containing oxidizable materials.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+jaenicke dieter<sep>melzer werner dr<sep>jaenicke, dieter<sep>melzer, werner, dr.<sep>jaenicke, dieteram helgenstock 10d-6238 hofheim am taunusde<sep>melzer, werner, dr.drosselweg 2d-6237 liederbachde<sep>jaenicke, dieter  <sep>melzer, werner, dr. <sep>jaenicke, dieteram helgenstock 10d-6238 hofheim am taunusde<sep>melzer, werner, dr.drosselweg 2d-6237 liederbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for quantitative determining the oxygen demand (death) of oxidizable substances contain the water by continuous evaporation of the water in the presence of oxygen at about 900 ° C, the water is steam-continuously different amounts I₁.....1N oxygen-containing gas per unit volume of water vapor fed.In this case, the respective amount of oxygen in the Sau supply gas is 1-5 vol.-% based on the amount of water generated during the respective clock do not exceed.Subsequently, the different amounts I₁ are respectively.....In adjusting residual concentrations S₁......Sn on oxygen in the water vapor gas mixture measured.from the residual concentrations and the quantities listed I₁......1N Hydrogen-containing gas is calculated to the oxygen demand.
+</ABSTRACT>
+</TEXT>
+</DOC>

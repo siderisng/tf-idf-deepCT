@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006384
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-7/10 H04L-7/033 H04L-7/04 <main>H04L-7/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+synchronisation device using a received digital signal and transmission system including such a device.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+deman pierre<sep>deman, pierre<sep>deman, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>deman, pierre <sep>deman, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to the devices the numerical transmission synchronization for enslaving a clock circuit to the rhythm of a digital midwide comprising tracking bits followed by information bits.The input (100) of control means, including the clock circuit, is connected to the input or the TIE (714) input of a delay line (701) respectively to TRA to switches (703) and (704).The enslavement starts from the first tracking bit received at the delay line input (701).When this enslavement is acquired the input (100) of the means P is connected to the output (714).This connection causes a function of the clock circuit from the acquired bracket and then operation in "pursuit" as soon as it arrives the first tracking bit on the output (714) of the late line.application to digital transmission systems.
+</ABSTRACT>
+</TEXT>
+</DOC>

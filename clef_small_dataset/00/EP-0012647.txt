@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012647
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/28 <main>G01N-27/56</main> G01N-27/409 F02B-77/08 G01N-27/416 G01N-27/407 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochemical sensor of concentrations of components in a fluid mixture with an electrode serving as an internal partial pressure reference.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+croset michel<sep>velasco gonzalo<sep>croset, michel<sep>velasco, gonzalo<sep>croset, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>velasco, gonzalo"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>croset, michel  <sep>velasco, gonzalo <sep>croset, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>velasco, gonzalo"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an electrochemical sensor of the concentrations of species in a fluid mixture, of the internal partial pressure reference electrode type.The sensor according to the invention is constituted by an electrochemical celle (E₁ / P₁, E₁, E₂ / P₂), one of the electrical elec (E₁ / P₁) also serves as a partial internal reference.This electrode is constituted by a metal metal-oxide system.The reference electrode, one of which is in contact with a solid electrolyte (E₁) is protected hard all its other FAs by an inert coating (S₁), sewer species in the fluid mixture.Application to the analysis of the exhaust gas of a combustion engine.
+</ABSTRACT>
+</TEXT>
+</DOC>

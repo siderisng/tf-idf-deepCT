@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004690
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+B22D-11/16 B22D-11/06 B22D-11/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for the continuous casting of metal.
+</TITLE>
+<APPLICANT>
+metallurgie hoboken be<sep>metallurgie hoboken-overpelt societe anonyme dite:  <sep>metallurgie hoboken-overpelt société anonyme dite:8, rue montagne du parcb-1000 bruxellesbe<sep>
+</APPLICANT>
+<INVENTOR>
+gielen hendrik alfons leonardbe<sep>lemmens alfons emerantiabe<sep>gielen, hendrik alfons leonard<sep>lemmens, alfons emerantia<sep>gielen, hendrik alfons leonardgrootreesdijk 5b-2460 kasterleebe<sep>lemmens, alfons emerantiahellekensstraat 24b-2410 herentalsbe<sep>
+</INVENTOR>
+<ABSTRACT>
+in a continuous casting machine (1) having a molding cavity (8) delimited by a pair of moving belts (2, 3) and a pair of lateral dams (6, 7), the casting is controlled according to asignal that is created by submitting a photosensitive element (23) to a radiation transmitted by an optical system (17) housed outside the cavity (8) and aiming at the boundary between the cast metal (11) and the part,Not covered by the metal (11), one of the lateral dams (7).The sensitivity of the photosensitive element (23) is essentially in the visible spectrum and is low for infrared radiation.
+</ABSTRACT>
+</TEXT>
+</DOC>

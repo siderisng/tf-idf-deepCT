@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014862
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-7/00 B22D-11/20 B22D-11/16 G01B-7/14 G01B-21/16 <main>G01B-7/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for measuring a guiding cage.
+</TITLE>
+<APPLICANT>
+concast agch<sep>concast ag<sep>concast holding agtödistrasse 7ch-8027 zürichch<sep>concast holding ag  <sep>
+</APPLICANT>
+<INVENTOR>
+gloor hans<sep>gloor, hans<sep>gloor, hanssandbockstrasse 19ch-5222 umikench<sep>gloor, hans<sep>gloor, hanssandbockstrasse 19ch-5222 umikench<sep>
+</INVENTOR>
+<ABSTRACT>
+The strand guide of a continuous casting system is measured with a measuring device (4).In this case, the mutual distance of the strand guide paths (3) with a measuring device (4) is detected, the measured values obtained when passing through the strand guide is stored for the time being and retrieved only after passing through.
+</ABSTRACT>
+</TEXT>
+</DOC>

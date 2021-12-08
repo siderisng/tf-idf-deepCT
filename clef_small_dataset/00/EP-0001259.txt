@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001259
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01B-11/22 C07D-303/14 C01B-11/00 C07D-303/04 <main>C07D-301/03</main> C07D-301/00 C07D-301/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+oxidation of olefins to oxirane compounds with periodate compounds.
+</TITLE>
+<APPLICANT>
+dow chemical cous<sep>the dow chemical company<sep>the dow chemical company2030 dow center abbott road p.o. box 1967midland michigan 48640-1967us<sep>the dow chemical company<sep>
+</APPLICANT>
+<INVENTOR>
+coker william perkins<sep>hillis james edward<sep>lane robert earl jr<sep>coker, william perkins<sep>hillis, james edward<sep>lane, robert earl, jr.<sep>coker, william perkins103 begonialake jackson brazoria texasus<sep>hillis, james edward152 dallas driveangleton brazoria texasus<sep>lane, robert earl, jr.836 sycamorelake jackson brazoria texasus<sep>coker, william perkins  <sep>hillis, james edward<sep>lane, robert earl, jr.<sep>coker, william perkins103 begonialake jackson brazoria texasus<sep>hillis, james edward152 dallas driveangleton brazoria texasus<sep>lane, robert earl, jr.836 sycamorelake jackson brazoria texasus<sep>
+</INVENTOR>
+<ABSTRACT>
+process for preparing oxirane compounds by reacting a  corresponding olefinic compound with a periodate having the  formula mio₄, mh₄io₆ or m₂h₃io₆, or the respective hydrates,  and process for preparing an alkali metal monobasic or  dibasic periodate, or mixture thereof, by reacting an alkali  metal tribasic, tetrabasic or pentabasic periodate, or mixture  thereof, with a substance having relative acidic value, pka, of  3 to 16 at a temperature of 0°c to 350°c and a pressure of 1 to  100 atmospheres, the molar ratio of periodate to said substance  being 1:1 to 1:1000.  
+</ABSTRACT>
+</TEXT>
+</DOC>

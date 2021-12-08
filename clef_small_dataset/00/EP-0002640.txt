@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002640
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03F-3/26 H03F-1/30 H04B-1/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+receiver input stage protected against noise signals and receiver using such a stage.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr  <sep>
+</APPLICANT>
+<INVENTOR>
+menant christophefr<sep>meyer armandfr<sep>rotteleur laurentfr<sep>menant, christophe<sep>meyer, armand<sep>rotteleur, laurent<sep>menant, christophe"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>meyer, armand"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>rotteleur, laurent"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention consists in producing the receiver input stages symmetrically in class ab, with a polarisation point chosen to ensure linear operation in class a up to a level at most equal to that of the highest useful signal to be received.  application to receivers for receiving high-level spurious signals, in particular receivers on board moving vehicles.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

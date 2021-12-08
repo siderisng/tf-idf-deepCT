@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017494
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07C-255/00 C07C-15/44 C07C-251/34 C07C-29/00 C07C-15/00 C07C-17/35 C07C-17/00 C07C-29/40 C07C-33/00 C07C-255/24 C07C-67/00 C07C-33/46 C07C-251/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydroxyimino-substituted aminoacetonitrile intermediates and their preparation
+</TITLE>
+<APPLICANT>
+lilly co eli us<sep>eli lilly and company<sep>eli lilly and company307, east mccarty streetindianapolis indiana 46285us<sep>
+</APPLICANT>
+<INVENTOR>
+barnett charles jacksonus<sep>barnett, charles jackson<sep>barnett, charles jackson7540 north pennsylvaniaindianapolis indianaus<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to novel hydroxyimino-substituted aminoacetonitriles, which are intermediates in the preparation of substituted 2-aminopyrazines, which latter compounds are intermediates in the preparation of insecticidal benzoylpyrazinylureas.  the hydroxyimino-substituted aminoacetonitriles are of the formula  <chem>  wherein  r<1> is hydrogen or c1-c4 alkyl;  r<2> is hydrogen, halo, c1-c3 alkyl, or trifluoromethyl;  n is 0,1 or 2, with the proviso that when n=2, only one ortho position may be substituted; and  r<3> is c1-c4 alkyl.   <??>these compounds are prepared by reacting an aminoacetonitrile with the appropriate  alpha -chloro or  alpha -bromo oxime.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013901
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>A61K-39/395</main> A61K-39/395 C07G-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process of preparation of an intravenous immunoglobulin solution, containing concentrated igm.
+</TITLE>
+<APPLICANT>
+biotest serum institut gmbhde <sep>biotest-serum-institut gmbh <sep>biotest-serum-institut gmbhflughafenstrasse 4d-6000 frankfurt-niederradde<sep>biotest-serum-institut gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+stephan wolfgang dr-dipl-chem<sep>stephan, wolfgang, dr.-dipl.-chem.<sep>stephan, wolfgang, dr.-dipl.-chem.philipp-holzmann-strasse 84d-6072 dreieichde<sep>stephan, wolfgang, dr.-dipl.-chem.<sep>stephan, wolfgang, dr.-dipl.-chem. philipp-holzmann-strasse 84 d-6072 dreieich de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing an immune globulin solution suitable for intravenous application, which contains IgM in concentrated form, which is characterized by a IgM-containing protein fraction obtained by a known fractionation method of blood plasma or serum with such amounts of β-propiolactoneTreated that the ratio of β-propiolactone to a 5% solution of the IgM containing proteins is 0.05 to 0.15 ml per 100 ml, and then processed in a known manner.As outgoing material, IgM-containing fractions of the Cohn 's alcohol fractionation or the Rivanol Ammonsul Fat fractionation of human blood plasma can be used.
+</ABSTRACT>
+</TEXT>
+</DOC>

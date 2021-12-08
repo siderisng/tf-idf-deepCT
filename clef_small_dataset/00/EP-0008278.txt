@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008278
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>E05F-3/14</main> E05F-3/14 E05F-3/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+braking device, particularly for door-closers.
+</TITLE>
+<APPLICANT>
+schliesstech anstli<sep>anstalt fur schliesstechnik<sep>anstalt für schliesstechnikaltenbach 8, oberhausen postfach 339fl-9490 vaduzli<sep>anstalt fur schliesstechnik  <sep>
+</APPLICANT>
+<INVENTOR>
+bardfeld rosalia<sep>bardfeld, rosalia<sep>bardfeld, rosaliamarkgraf rüdiger-strasse 6a-1150 wienat<sep>bardfeld, rosalia<sep>bardfeld, rosaliamarkgraf rüdiger-strasse 6a-1150 wienat<sep>
+</INVENTOR>
+<ABSTRACT>
+The brake device is suitable, for example, for use as door closers and includes a brake shaft (1) with a pivotable brake wing (2) which can move inside a cylindrical housing (3) filled with a brake medium.An annular control curve (7) cooperates with a recess (5) in the brake wing (2), such that the size of a gap (20) formed between these parts determines the braking effect of the brake wing (2) during its return.To influence the brake characteristic, the angular position of the control curve (7) can be changed in the housing.
+</ABSTRACT>
+</TEXT>
+</DOC>

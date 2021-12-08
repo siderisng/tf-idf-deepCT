@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0011911
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+F21K-2/06 B32B-15/08 C09K-11/07 F21K-2/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for protecting the liquid components of a chemiluminescent system and a chemiluminescent light-generating system thus protected.
+</TITLE>
+<APPLICANT>
+american cyanamid co us  <sep>american cyanamid company<sep>american cyanamid companyberdan avenuewayne new jersey 06904us<sep>
+</APPLICANT>
+<INVENTOR>
+rauhut michael mckayus<sep>rauhut, michael mckay<sep>rauhut, michael mckay1266 sherlin drivebridgewater new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+in a chemiluminescent lighting system having separated  components in storage before use, at least one of the separate  components is stored in a container made from a laminate of  polypropylene film and aluminium foil.  good stability of both  oxalate ester components and hydroperoxide components  when stored in such containers is demonstrated.  
+</ABSTRACT>
+<DESCRIPTION>
+tittle: storage of components of chemiluminescent lighting systems field of the invention this invention relates to chemiluminescent compositions and to a method and packaging material for improving the storage stability of chemiluminescent components. background of the intention chemiluminescence is obtained when certain chemiluminescent compounds, for instance oxalic-type compounds, such as oxalic acid esters, are contacted in the presence of a fluorescer with a hydrogen peroxide compound. such a system is described in u.s. patent 3,597,362, the disclosure of which is incorporated herein by reference. packaged chemiluminescent light devices which utilize these chemiluminescent systems are described in u.s. patents 3,511,612 and 3,576,987. a typical chemiluminescent device comprises a lightstick, i.e. a transparent or translucent flexible plastic outer tube of polyethylene or the like and within the outer tube a frangible glass inner tube. the inner tube is filled with one component of a two-component system (usually the hydroperoxide component) and the outer plastic tube is filled with the other component (oxalate plus fluorescer). to operate the device, the outer flexible tube is bent, thereby breaking the glass tube to mix the two components within the transparent outer tube. reaction of the mixture produces chemiluminescence and the tube transmits the lights. in order for a chemiluminescent system to be practical it must be capable of storage for reasonable storage periods at temperatures above normal room temperature, for example, up to about 400c, and in humid atmosphere, without undue deterioration, which would cause loss of light generating capacity when the system is activated for use. in the systems described, the chemiluminescent component, for example, the oxalic acid ester, is subject to deterioration by light, heat, and humidity. polyethylene has been the packaging material of choice for containing the oxalate component because of its low cost, ease of fabrication, and translucence. however, the polyethylene tube must be protected from moisture and light by enclosing it in an aluminum foil envelope during storage, since polyethylene is not impervious to moisture. since the hydroperoxide component would be sensitive to storage in polyethylene, deteriorating rapidly on storage therein even at ordinary room temperature, it is preferred to contain the hydroperoxide component in the sealed inner glass vial which floats in the fluid contents of the polyethylene outer tube. aluminum foil is a satisfactory wrapper for containing the polyethylene tube in storage, provided the wrapper does not develop any leakage by ruptures, pin holes or the like. there is some difficulty in sealing an aluminum foil wrapper to make it totally impervious to moisture. rauhut, in u--s. patent 3,974,368, disclosed a chlorosilane passivization treatment for glass or plastic container materials, the object of which is to make the material more suitable for storage of the oxalic acid ester component. while this treatment was shown to be effective, it is costly and time consuming. therefore, there is a need for a mterial in which the chemiluminescent components are protected from deterioration during storage. summary of the invention the present invention employs packaging material for containing one or several of
+</DESCRIPTION>
+<CLAIMS>
+claims    1. a method for protecting the liquid components of an oxalic acid ester-hydroperoxide chemiluminescent system from deterioration and subsequent loss of light capacity on storage in the presence of elevated temperature and humidity which comprises storing the respective oxalate ester and hydroperoxide components in separate containers with at least one of the respective oxalate ester and hydroperoxide components of said system sealed in a container constructed of a laminate material having an aluminum foil layer bonded to a cast polypropylene film layer, said component being in contact with the cast polypropylene layer inside said container.     2. a method according to claim 1, wherein said laiminate is bonded by means of a low molecular weight polypropylene adhesive.    3. an oxalic acid ester - hydroperoxide chemiluminescent light-generating system characterized in that the oxalate ester and hydroperoxide components are stored prior to mixing in separate containers, at least one of said components being sealed in a container constructed of a laminate material having an aluminum foil layer bonded to a cast polypropylene film layer, the component being in contact with the cast polypropylene layer inside said container.    4. a system according to claim 3, wherein said laminate is bonded by means of a low molecular weight polypropylene adhesive.  
+</CLAIMS>
+</TEXT>
+</DOC>

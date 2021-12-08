@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015550
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-11/16 G01N-33/49 G01N-11/10 G01N-33/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for determining the viscoelastic properties of fluids.
+</TITLE>
+<APPLICANT>
+fresenius agde<sep>fresenius ag<sep>fresenius aggluckensteinweg 5d-61350 bad homburgde<sep>
+</APPLICANT>
+<INVENTOR>
+husar dieter dr rer nat dipl-pde<sep>husar, dieter, dr. rer. nat. dipl.-phys.<sep>husar, dieter, dr. rer. nat. dipl.-phys.holzhäuser strasse 6d-6380 bad homburg v. d. höhede<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and a Vorrich device for determining the visco-elastic properties in particular of blood or blood plasma. The blood sample (3a) is acted upon in a sample vessel (1) by a oscillating body (2). In the case of an onset of blood clotting, the vibration behavior of the oscillating body (2) formed by the oscillating body (2) and its elastic bearing (5) changes, which is supported by a certain amount of the blood sample (3a) against the solid walls of the sample vessel (1). In this case, either the contact frequency of the oscillation system with the body (2) is tracked so that the excitation remains constantly in the transmitting resonance of the oscillation system, or the excitation frequency is changed across the resonant frequency. For this purpose, the excitation frequency is hazarded at short intervals over a frequency range containing the resonant frequency, so as in the time of consequential frequency position and amplitude height in the resonance starting. While the displacement of the frequency position of the resonant frequency is a measure of the change in elasticizers of the blood sample, the change in the amplitude in resonance is a measure of changing the viscosity of the blood sample. In this way, the viscous and elastic changes in the blood sample can be sensitively and released free of disturbances and thus pull very detailed returns on the consistency of the blood.
+</ABSTRACT>
+</TEXT>
+</DOC>

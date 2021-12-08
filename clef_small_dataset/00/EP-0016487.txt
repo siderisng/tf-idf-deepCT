@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0016487
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-47/52 C07C-45/82 <main>C07C-47/54</main> C07C-47/54 C07C-45/85 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for the purification of benzaldehyde.
+</TITLE>
+<APPLICANT>
+stamicarbonnl <sep>stamicarbon b.v. <sep>stamicarbon b.v. mijnweg 1nl-6167 ac geleennl<sep>stamicarbon b.v.  <sep>
+</APPLICANT>
+<INVENTOR>
+jongsma cornelis<sep>jongsma, cornelis<sep>jongsma, cornelisdrossaertweide 1nl-6438 hs oirsbeeknl<sep>jongsma, cornelis<sep>jongsma, cornelisdrossaertweide 1nl-6438 hs oirsbeeknl<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a method for the purification of  benzaldehyde, in particular of benzaldehyde prepared by oxi­ dation of toluene with a gas containing molecular oxygen.  according to the invention, impure benzaldehyde, con­ taining no significant quantities of benzylhydroperoxide, is  treated with hydrogen in the presence of a suitable hydroge­ nation catalyst, and is subsequently distilled.  the benzaldehyde purified according to the invention is  in particular suitable for application in the synthesis of  flavours and fragrances, as it can meet the olfactory specifica­ tions.  
+</ABSTRACT>
+<DESCRIPTION>
+method for the purification' of benzal3ehyde the invention relates to a method for the purification of benzaldehyde, in particular of benzaldehyde prepared by oxidation of toluene with a gas containing molecular oxygen. benzaldehyde is an important starting material in chemical synthesis, for instance in the synthesis of flavours and fragrances. for such applications, the benzaldehyde is often required to have a high degree of purity. however, crude benzaldehyde, in particular benzaldehyde prepared by oxidation of toluene with a gas containing molecular oxygen, contains troublesome impurities, which are very difficult to remove. it is pointed out that benzylhydroperoxide normally is not present in significant quantities in the impure benzaldehyde. in particular, it is very difficult to prepare from the crude benzaldehyde a product which meets olfactory specifications. the presence of impurities manifests itself in the rather early discoloration of stored benzaldehyde, occurring even at a very low concentration (ppm by wt. level) of the impurities. it has been proposed (japanese patent publication no. 24.467/74) to purify benzaldehyde by treating it with an aqueous sodium hydroxide solution. this purification method does not give satisfactory results, however. it appears that the treated benzaldehyde still disolours rather soon. the objective of the invention is to provide a solution to said problem. according to the invention, pure benzaldehyde is obtained by treating impure benzaldehyde, containing no significant quantities of benzylhydroperoxide, with hydrogen in the presence of a suitable hytirogenation catalyst for the purpose of hydrogenation of impurities without significant hydrogenation of benzaldehyde and next distilling it. in the treatment according to the invention the loss of benzaldehyde is very small and may be in the order of 1-5 % wt. benzaldehyde meeting olfactory specifications may be obtained even from crude benzaldehyde prepared by oxidation of toluene. suitable hydrogenation catalysts for the method according to the invention are the known hydrogenation catalyst, for instance those on the basis of metals of group viii of the periodic system, such as palladium, nickel, platinum, iridium or rhodium. the catalytic material may be on a carrier, for instance carbon, aluminium oxide, silicon or titanium oxide. particularly suitable catalysts for this method are raney nickel, and palladium on carbon. the catalysts are preferably used in quantities of 0.5-200 mg at active substance per kg benzaldehyde. particularly suitable are quantities of 1-100 mg at active substance per kg benzaldehyde. in the method according to the invention, 1-100 litres hydrogen (n.t.p.) per kg benzaldehyde per hour is normally taken up. often 3-40 litres hydrogen (n.t.p.) per kg benzaldehyde is taken up. the contacting of the benzaldehyde with the hydrogen may be effected in various manners. for instance, the benzaldehyde may be stirred in a hydrogen atmosphere for a while or the hydrogen may be bubbled through or passed over the benzaldehyde. the duration of the hydrogenation treatment according to the invention usually is between 0.25 and 4 hours, preferably between 0.5 and 2 hours. the use of larger quantities of catalyst or of large excess of hydrogen, and/or extension of the treatment
+</DESCRIPTION>
+<CLAIMS>
+ c l a i m s      1.    method for the preparation of pure benzaldehyde, characterized  in that impure benzaldehyde, containing no significant quantities  of benzylhydroperoxide, is treated with hydrogen in the presence  of a suitable hydrogenation catalyst in order to hydrogenate  impurities without essential hydrogenation of benzaldehyde, and  is next distilled.   2. method according to claim 1, characterized in that the impure  benzaldehyde was obtained by oxidation of toluene by means   of     a gas containing molecular oxygen.      ethod    according to claim 1 or 2, characterized in that the  catalyst used contains a metal of group viii of the periodic  system.   4. method according to claim 3, characterized in that   flaney    nickel  is used as hydrogenation catalyst.   5. method according to claim 3, characterized in that palladium-on  carbon is used as hydrogenation catalyst.    6. method according to any one of the claims 1-5, characterized in  that the hydrogenation catalyst is used in a quantity 0.5-200 mg  at active substance per kg benzaldehyde.      7.      method    according to claim 6, characterized in that the hydrogena  tion catalyst is used in a quantity of 1-100 mg at active sub  stance per kg benzaldehyde.   8. method according to any one of the claims 1-7, characterized  in that the duration of the hydrogen treatment is between 0.25    and 4 hours.   9. method according to any one of the claims 1-8, characterized in  that the hydrogenation treatment is effected at a temperature  between 270 and 400   e.      10. method according to any one of the claims 1-9, characterized in  that the hydrogenation treatment is effected at a pressure of  100-1000 kpa.  
+</CLAIMS>
+</TEXT>
+</DOC>

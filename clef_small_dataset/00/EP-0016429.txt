@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016429
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B01D-3/00</main> B01D-3/24 B01D-3/28 B01D-1/22 B01D-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rectification apparatus.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+mayer manfred dr<sep>volz roland<sep>mayer, manfred, dr.<sep>volz, roland<sep>mayer, manfred, dr.königsberger strasse 8d-6272 niedernhausen/taunusde<sep>volz, rolandalt-oberliederbach 12d-6237 liederbachde<sep>mayer, manfred, dr.  <sep>volz, roland<sep>mayer, manfred, dr.königsberger strasse 8d-6272 niedernhausen/taunusde<sep>volz, rolandalt-oberliederbach 12d-6237 liederbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+The rectification apparatus with installations for evaporation and condensation is constructed from modules (19).Each module has a distribution channel (5) for the liquid.The distribution channel (5) is arranged above the upper edge of an evaporator (1) downwardly inclined in rich tung module axis.The evaporator (1) ends over a guide member (13) for the liquid.The guide member (13) is also inclined in the direction of modulus wall (14) and ends over the distribution channel (5) of the following module.The module is further provided with a guide member (2) for the vapor and a Kon densator (10).The capacitor (10) has drain fine directions (11, 15) for the condensate.
+</ABSTRACT>
+</TEXT>
+</DOC>

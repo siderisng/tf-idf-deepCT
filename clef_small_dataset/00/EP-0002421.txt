@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002421
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/3105 H01L-21/26 H01L-21/265 H01L-21/268 H01L-29/66 H01L-29/78 <main>H01L-21/326</main> H01L-21/02 H01L-21/336 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process of neutralizing the positive charges in the insulating gate of at least one field-effect transistor with insulated gate.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+ning tak hung<sep>osburn carlton morris<sep>yu hwa nien<sep>ning tak, hung<sep>osburn, carlton morris<sep>yu hwa, nien<sep>ning tak, hung1720 maxwell driveyorktown heights new york 10598us<sep>osburn, carlton morris41 morningside drivecroton-on-hudson new york 10520us<sep>yu hwa, nien2849 hickory streetyorktown heights new york 10598us<sep>ning tak, hung<sep>osburn, carlton morris  <sep>yu hwa, nien<sep>ning tak, hung1720 maxwell driveyorktown heights new york 10598us<sep>osburn, carlton morris41 morningside drivecroton-on-hudson new york 10520us<sep>yu hwa, nien2849 hickory streetyorktown heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to a method for neutralizing the positive loads in the door insulation of an isolated door-to-door transistor formed in a semiconductor substrate, particularly when this transistor is part of a set of Transistore integrated in the same semiconductor tranche. Such a transistor is formed in a semiconductor substrate (1), for example of type P, and comprises n-type source and drain regions (4) and (5), a door insulation (6). In known manner during the metallization step, a global metal layer (12) is formed on the substrate. Before the next shifting step of this layer according to a desired configuration, and in accordance with the present invention, a voltage V (II) is simultaneously applied between the metal layer and the substrate to make this last conductor and a light beam (10) on the back of the substrate. The electrons generated in the substrate move to the door insulation where they neutralize the positive loads. Application to the manufacture of transistors with uniform threshold voltage characteristics.
+</ABSTRACT>
+</TEXT>
+</DOC>

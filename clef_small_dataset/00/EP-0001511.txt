@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001511
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01K-7/22 G01K-7/16 H01C-7/04 G01N-27/12 G09B-9/54 G01N-27/16 G01N-27/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermistor and method of fabrication.
+</TITLE>
+<APPLICANT>
+ford francefr<sep>ford motor cogb<sep>ford motor cous<sep>ford werke agde<sep>ford france societe anonyme<sep>ford motor company <sep>ford motor company limited<sep>ford-werke aktiengesellschaft  <sep>ford france societe anonyme344 avenue napoléon bonaparte b.p. 307f-92506 rueil malmaison cedexfr<sep>ford motor companythe american roaddearborn, mi 48121us<sep>ford motor company limitedeagle waybrentwood, essex cm13 3bwgb<sep>ford-werke aktiengesellschaftd-50725 kölnde<sep>
+</APPLICANT>
+<INVENTOR>
+heiney elmer thomasus<sep>merchant stanley richardus<sep>heiney, elmer thomas<sep>merchant, stanley richard<sep>heiney, elmer thomas13108, ludlowhuntington woods, michigan 48070us<sep>merchant, stanley richard30001 leona streetgarden city michigan 48135us<sep>
+</INVENTOR>
+<ABSTRACT>
+a high temperature thermistor (24) is fabricated from  titanium dioxide ceramic forming material which is processed  to produce a sensor body (58) having a pair of  electrical leads (34, 36) in spaced apart relation embedded  within the body and with the body having a porosity compatible  with use as a rapid response time partial pressure  of oxygen responsive sensor.  the sensor body (58) is then  coated with a layer (60) of oxygen impervious barrier or  maskant material.  this material masks the sensor (58)  from any changes in the partial pressure of oxygen of its  environment and permits the sensor to respond electrically  exclusively to changes in the temperature of its environment  at elevated temperatures above about 700°f the  encapsulated titania ceramic material behaves as a semi-conductor  having a resistance which is responsive to the  temperature of the sensor element (58).  the thermistor  (24) is fabricated by processing titania powder which includes  a substantial majority of rutile phase material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

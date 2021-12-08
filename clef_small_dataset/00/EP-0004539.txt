@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004539
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01C-3/20 H01C-1/02 H01H-85/048 H01C-3/00 H01H-85/00 H01H-85/044 H01C-1/144 H01C-1/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heavy-duty wire resistor
+</TITLE>
+<APPLICANT>
+vitrohm gmbh co kg de <sep>deutsche vitrohm gmbh & co. kg<sep>deutsche vitrohm gmbh &amp; co. kgsiemensstrasse 7-9d-2080 pinnebergde<sep>
+</APPLICANT>
+<INVENTOR>
+tielens theo asmund dipl-ingde<sep>tielens, theo asmund, dipl.-ing.<sep>tielens, theo asmund, dipl.-ing.hirtenweg 12d-2080 pinnebergde<sep>
+</INVENTOR>
+<ABSTRACT>
+heavy-duty wire resistor in which the connecting wire is fed back through an off-centre bore hole of the ceramic housing and acts as a fuse.  in this way, the fuse acts as a temperature limiter, i. e.  the current flow is interrupted if the temperature of the resistor exceeds a limit value.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

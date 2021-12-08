@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007914
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03J-7/20 H03J-7/24 H03J-7/18 H03J-7/26 H03J-7/06 H03J-5/02 H03J-7/02 H03J-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+manually operated tuning means.
+</TITLE>
+<APPLICANT>
+fujitsu ten ltdjp<sep>fujitsu-ten, ltd  <sep>fujitsu ten, ltd.2-28, goshodori 1-chome, hyogo-kukobe-shi, hyogo, 652jp<sep>
+</APPLICANT>
+<INVENTOR>
+ito tatsuojp<sep>ito, tatsuo<sep>ito, tatsuofujitsu-ten, ltd 2-28, goshodori 1-chomehyogo-ku, kobe-shi, hyogo, 652jp<sep>
+</INVENTOR>
+<ABSTRACT>
+this tuning means is provided with a circuit for facilitat­ ing manual tuning in electronic-tuning type radio receivers.   the tuning means further includes gate circuits (30, 32, 34, 36)  which, upon receipt of broadcasting waves, temporarily inter­ rupt a manual tuning command supplied to systems (22, 24)  which control bias voltages applied to a variable reactance  element (11), and simultaneously deliver afc voliages.  
+</ABSTRACT>
+</TEXT>
+</DOC>

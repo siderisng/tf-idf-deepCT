@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007180
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/41 A61P-11/00 C07C-45/00 C07D-249/12 A61P-1/00 C07C-29/00 C07C-271/00 A61P-1/04 C07C-271/16 C07C-45/67 C07C-309/00 C07D-249/00 C07C-45/68 C07C-29/147 C07C-309/73 A61P-9/00 A61P-11/08 A61P-9/12 A61P-9/06 <main>C07D-249/12</main> A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+prostaglandin analogue triazole derivatives, processes for their preparation and a pharmaceutical composition containing them.
+</TITLE>
+<APPLICANT>
+beecham group plcgb<sep>beecham group plc<sep>beecham group plcbeecham house, great west roadbrentford, middlesex tw8 9bdgb<sep>beecham group plc<sep>
+</APPLICANT>
+<INVENTOR>
+cassidy frederick<sep>goudie alexander crossan<sep>cassidy, frederick<sep>goudie, alexander crossan<sep>cassidy, frederick12 peterswoodharlow, essexgb<sep>goudie, alexander crossan72 north brooksharlow, essexgb<sep>cassidy, frederick<sep>goudie, alexander crossan<sep>cassidy, frederick12 peterswoodharlow, essexgb<sep>goudie, alexander crossan72 north brooksharlow, essexgb<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula (i):    wherein n is 3 to 5;   y is -ch₂-ch₂, -ch =ch- or c≡c-;   l is o or s;   r₁ is c₁₋₄alkyl;   r₂ is hydrogen, c₁₋₄alkyl or phenyl;   r₃ is hydroxy or protected hydroxy;   r₄ is hydrogen, c₁₋₉alkyl, c₃₋₈cycloalkyl, phenyl, naphthyl, any  of which phenyl moieties or naphthyl moieties may be substi­ tuted by one or more halogen, trifluoromethyl, c₁₋₆alkyl, nyd­ roxy, c₁₋₆alkoxy, phenyl c₁₋₆alkoxy or nitro groups; or   r₂ and r₄ taken with the carbon atom to which they are joined  represent a c₅₋₈cycloalkyl group; and r₅ is c₁₋₆alkyl, having  similar activity to natural prostaglandins, two processes for  their preparation, intermediates useful in said processes and  pharmaceutical compositions containing the novel com­ pounds of the formula (i) are disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

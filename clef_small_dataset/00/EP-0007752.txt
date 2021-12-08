@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007752
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-47/38 <main>B29F-3/03</main> B29C-47/10 B29C-47/60 B29C-47/76 B29C-47/58 B29B-7/00 B29C-47/00 B29C-47/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+plastics extrusion apparatus and method of extruding plastics.
+</TITLE>
+<APPLICANT>
+monsanto cous<sep>monsanto company<sep>monsanto company800 north lindbergh boulevardst. louis missouri 63167us<sep>monsanto company  <sep>
+</APPLICANT>
+<INVENTOR>
+mckelvey james morgan<sep>steingiser samuel<sep>mckelvey, james morgan<sep>steingiser, samuel<sep>mckelvey, james morgan9861 copper hill roadst. louis missouri 63124us<sep>steingiser, samuel5 fox chase roadbloomfield, connecticut 06002us<sep>mckelvey, james morgan<sep>steingiser, samuel<sep>mckelvey, james morgan9861 copper hill roadst. louis missouri 63124us<sep>steingiser, samuel5 fox chase roadbloomfield, connecticut 06002us<sep>
+</INVENTOR>
+<ABSTRACT>
+in plastics extrusion apparatus including a rotating screw  (24) in a cylinder (12) forming a channel receiving solid mater­ ial and eventually expressing it through a die (20), the channel  comprising a feed zone (32), a melting and compression zone  (34) and a melt pumping zone (36), the improvement wherein  a solids decompression zone (31) is between the feed and the  melting and compression zones which has increased unit  volume relative to that of the feed zone, with the channel of  the melting and compresion zone communicating with the  feed inlet (14) through the decompression and feed zones  such that solids are initially metered producing a starved  condition so as to melt at substantially atmospheric pressure  without filling the channel of the melting and compression  zone until close to its end.  
+</ABSTRACT>
+</TEXT>
+</DOC>

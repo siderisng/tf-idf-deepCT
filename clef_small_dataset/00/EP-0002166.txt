@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002166
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-23/48 H01L-21/68 H01L-21/67 H01L-21/48 H01L-23/12 H01L-23/498 H01L-23/50 H01L-21/02 H01L-23/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+carrier for mounting an integrated-circuit chip and method for its manufacture
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+hammer robertus <sep>sachar kenneth seligus <sep>sampogna michael us<sep>hammer, robert<sep>sachar, kenneth selig<sep>sampogna, michael<sep>hammer, robert36 knollcrest drivebrookfield center connecticut 06805us<sep>sachar, kenneth selig499 north broadwaywhite plains new york 10603us<sep>sampogna, michael3e surrey lanewappingers falls new york 12590us<sep>
+</INVENTOR>
+<ABSTRACT>
+the support comprises a dielectric layer (2) from which projects a network of pins (6) equipped with a shoulder (7), which are electrically insulated from one another, and a ground plane (5) which is electrically insulated from the pins but composed of the same material as the latter.  an insulating covering (8) covers the plane (5) and surrounds the pins.  production is carried out by the electroerosion of a substrate of the material of the pins, which is adjacent to the layer (2), which is attached to a removable support (3).  the electrical insulation of the pins is perfected by a chemical attack as far as the layer (2) of the residues of material of the substrate which is left around the pins by the electroerosion.  the process permits the avoidance of any mechanical treatment such as abrasion or polishing of the layer (2) in the case of mechanical insertion of pins.  these supports may be used in electronic devices incorporating integrated circuits.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

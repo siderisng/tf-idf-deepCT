@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003755
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-5/1252 H03K-5/01 <main>H04L-25/20</main> H03K-5/125 H04L-25/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit arrangement for the reception of single current and double current telegraph signals.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+giersberg dieter<sep>giersberg, dieter<sep>giersberg, dieterkampenwandstrabe 19d-8152 feldkirchen-westerham 1de<sep>giersberg, dieter<sep>giersberg, dieterkampenwandstrabe 19d-8152 feldkirchen-westerham 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Circuit arrangement for receiving single current and double-flow technical characters with threshold amplifiers, which evaluate the voltage dropping on resistors in the telegraph cable.The output signals of the threshold value amplifier OP1, OP2 controls OP1, OP2 and differentiators DG1, DG2 Monostable and bistable tilting steps MK, BK.Other control switching means include additional devices, e.g.b.a lofty machine is connected.
+</ABSTRACT>
+</TEXT>
+</DOC>

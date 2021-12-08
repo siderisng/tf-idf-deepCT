@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003532
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-231/00 A61K-31/195 C07D-215/227 C07C-323/62 C07C-235/00 C07C-323/63 <main>C07C-103/84</main> C07C-231/02 C07D-215/00 C07C-237/00 C07C-67/00 C07D-223/00 C07C-235/56 C07C-231/12 C07C-233/81 C07C-237/40 C07D-215/22 C07D-223/16 C07C-323/00 C07C-233/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+omega-(2-(n-lower alkyl-benzamido)-phenyl)-alkanoic acids, their use and preparation, and medicaments containing them.
+</TITLE>
+<APPLICANT>
+byk gulden lomberg chem fabde <sep>byk gulden lomberg chemische fabrik gmbh <sep>byk gulden lomberg chemische fabrik gmbhpostfach 10 03 10d-78403 konstanzde<sep>byk gulden lomberg chemische fabrik gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+klemm kurt dr<sep>kraas ekkehard dr<sep>kruger uwe dr<sep>rapp erich dr<sep>wolf horst dr<sep>klemm, kurt, dr.<sep>kraas, ekkehard, dr.<sep>kruger, uwe, dr.<sep>rapp, erich, dr.<sep>wolf, horst, dr.<sep>klemm, kurt, dr.im weinberg 2d-7753 allensbachde<sep>kraas, ekkehard, dr.lindenweg 11d-7753 allensbachde<sep>krüger, uwe, dr.neuhauserstrabe 11d-7750 konstanzde<sep>rapp, erich, dr.irisweg 5d-7760 radolfzell 15de<sep>wolf, horst, dr.brandesstrabe 29d-7750 konstanzde<sep>klemm, kurt, dr. <sep>kraas, ekkehard, dr.<sep>kruger, uwe, dr.  <sep>rapp, erich, dr. <sep>wolf, horst, dr.<sep>klemm, kurt, dr.im weinberg 2d-7753 allensbachde<sep>kraas, ekkehard, dr.lindenweg 11d-7753 allensbachde<sep>krüger, uwe, dr.neuhauserstrabe 11d-7750 konstanzde<sep>rapp, erich, dr.irisweg 5d-7760 radolfzell 15de<sep>wolf, horst, dr.brandesstrabe 29d-7750 konstanzde<sep>
+</INVENTOR>
+<ABSTRACT>
+ω- [2- (N-Lower alkyl-benzamido) -phenyl] -alkanaic acids of the general formula I where n is a positive integer of 2 to 5, R¹ is a hydrogen atom, a halogen atom, a lower alkyl group, a lower alkoxy group, a lower alkyl mercapto group, one Trifluorethyl Group or optionally substituted by a halogen atom or a lower alkoxy group, R 2 means a hydrogen atom, a halogen atom, a lower alkyl group or a lower alkoxy group, R³ means a lower alkyl group, R⁴ is a hydrogen atom, a halogen atom, a hydroxy group, a lower alkyl group, a lower alkoxy group, a Lower alkylmercapto group, optionally substituted by a halogen atom or a nitro group, a nitro group, an optionally lower alkylated amino group, a lower alkylcarbonyl group, an optionally substituted by a halogen atom benzoyl group, a trifluoromethyl group, a trifluorometh Oxy group or a trifluoromethylmercapto group means R⁵ a hydrogen atom, a halogen atom, a lower alkyl group or a lower alkoxy group, R⁶ represents a hydrogen atom, a lower alkyl group or a lower alkoxy group, and its salts with inorganic or organic bases are new compounds. They act hypoglycemic and inhibit the glucose formation in the liver. Method for their preparation are given.
+</ABSTRACT>
+</TEXT>
+</DOC>

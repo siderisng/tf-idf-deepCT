@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009339
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-13/02 <main>G01D-5/243</main> G01D-5/249 G01D-7/00 G01D-5/12 H03M-1/00 H03K-13/11 G01D-5/243 G01D-5/245 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for digital position measurements.
+</TITLE>
+<APPLICANT>
+olivetti controllo numericoit<sep>olivetti controllo numerico s.p.a.<sep>olivetti controllo numerico s.p.a.strada provinciale tavernettai-81025 marcianise (ce)it<sep>olivetti controllo numerico s.p.a.<sep>
+</APPLICANT>
+<INVENTOR>
+lauro luciano<sep>lauro, luciano<sep>lauro, lucianovia circonvallazionei-10018 pavone canavese (turin)it<sep>lauro, luciano<sep>lauro, lucianovia circonvallazionei-10018 pavone canavese (turin)it<sep>
+</INVENTOR>
+<ABSTRACT>
+for each axis, a cyclic transducer has a scale supplied  with a sinusoidal signal from a timing unit and a cursor  which provides two output signals which are proportional  to the sine and to the cosine, within the elementary interval  of the transducer.  sineα and cosα and the corresponding  inverted signals are supplied to squaring circuits and logic  which generates a three-bit number in a register defining  the octant (000 to 111, i. e.  0 to 7) within which α lies.  the  three-bit number controls multiplexers (32 and 33) each  having inputs for quadrants (0 to 7) and feeding respective  sample and hold circuits (34 and 36) whose signals are  num and den.  the multiplexer inputs are so selected from  sinα, cosα, sinα and cosα that    is | tanα | in octants  (0, 2, 4, 6) and is | cotα | in octants (1, 3, 5, 7).      is  thus always positive and in the range (0 to 1).  an analog-­ to-digital converter system (40) forms the digital value  n =    and n along with the lowest order octant bit  address a rom (41) which outputs the value of α within  the range of a quadrant.  a microprocessor (42) responds  to the higher two bits to add k ·τ / 2 where k = 0, 1, 2 or 3  so as to create the final value of α.  the microprocessor also  keeps count of the integral displacements of elementary  intervals.  the apparatus enables α to be determined in­ stantaneously, thereby eliminating the following error of  known apparatuses when α is changing.  
+</ABSTRACT>
+</TEXT>
+</DOC>

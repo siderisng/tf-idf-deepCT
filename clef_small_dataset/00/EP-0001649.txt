@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001649
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C03B-35/08 C03B-9/41 <main>C03B-35/00</main> C03B-35/00 B65G-47/74 C03B-9/453 C03B-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+glass ware forming machine with multiple sections.
+</TITLE>
+<APPLICANT>
+heye hermannde<sep>hermann heye<sep>firma hermann heyelohplatz 1 d-31682 obernkirchen de <sep>hermann heye<sep>
+</APPLICANT>
+<INVENTOR>
+becker kurt dr-ing<sep>bogert hermann<sep>schwarzer siegfried<sep>seidel hans-georg<sep>becker, kurt, dr.-ing.<sep>bogert, hermann<sep>schwarzer, siegfried<sep>seidel, hans-georg<sep>becker, kurt, dr.-ing.vor den tannen 7d-3063 obernkirchende<sep>bögert, hermannbirkenweg 19d-3262 auetal 2/ ortsteil rolfshagende<sep>schwarzer, siegfriedhaus nr. 14d-3071 stöcksede<sep>seidel, hans-georggerhart-hauptmann-weg 7d-3260 rintelnde<sep>becker, kurt, dr.-ing.<sep>bogert, hermann<sep>schwarzer, siegfried<sep>seidel, hans-georg <sep>becker, kurt, dr.-ing.vor den tannen 7d-3063 obernkirchende   <sep>bögert, hermannbirkenweg 19d-3262 auetal 2/ ortsteil rolfshagende<sep>schwarzer, siegfriedhaus nr. 14d-3071 stöcksede<sep>seidel, hans-georggerhart-hauptmann-weg 7d-3260 rintelnde<sep>
+</INVENTOR>
+<ABSTRACT>
+For a glass molding machine with a plurality of stations, each station has a device (1) for overlobing glass articles from a settling plate to a conveyor belt common to all stations (33). Each excess device has a pressure medium actuable cylinder (3) mounted on a vertical shaft (42), which inputs a piston rod (6) supporting a thrust (7), which due to a rotation of the shaft between the conveyor belt and the settling plate swing back and forth. The excavation devices of the machine are successively operated in selecting ba rer sequence. The distances of the successive glass objects on the conveyor belt are at least approximately equal during machine operation. Each excessive direction is an electric motor (20) which rotates its wave and controllable and / or adjustable regardless of the electric motors of the remaining excess devices. Different control circuits for the electric motors allow adaptation to machine-related specials.
+</ABSTRACT>
+</TEXT>
+</DOC>

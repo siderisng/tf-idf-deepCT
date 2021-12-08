@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014046
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-13/04 G03C-7/02 <main>G11B-7/24</main> H04N-5/82 G11B-7/003 G11B-7/005 G11B-7/00 G11B-7/24 B41M-5/26 B41M-5/28 G11B-11/00 B41M-5/36 B41M-5/24 G11B-7/0045 G11B-7/244 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for playback of a thermal recording element.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+fike bruce gilbert<sep>houle conrad g<sep>howe dennis george<sep>thomas harold todd<sep>wrobel joseph jude<sep>fike, bruce gilbert<sep>houle, conrad g.<sep>howe, dennis george<sep>thomas, harold todd<sep>wrobel, joseph jude<sep>fike, bruce gilbert(deceased)new yorkus<sep>houle, conrad g.kodak parkrochester, new yorkus<sep>howe, dennis georgekodak parkrochester, new yorkus<sep>thomas, harold toddkodak parkrochester, new yorkus<sep>wrobel, joseph judekodak parkrochester, new yorkus<sep>fike, bruce gilbert <sep>houle, conrad g.<sep>howe, dennis george  <sep>thomas, harold todd<sep>wrobel, joseph jude<sep>fike, bruce gilbert(deceased)new yorkus<sep>houle, conrad g.kodak parkrochester, new yorkus<sep>howe, dennis georgekodak parkrochester, new yorkus<sep>thomas, harold toddkodak parkrochester, new yorkus<sep>wrobel, joseph judekodak parkrochester, new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+in accordance with the present invention, the optical  characteristics of a thermal deformation recording element  are so altered that the element can be read back using the  same beam as was used for recording.  the read beam can  be used for playback at an arbitrarily high power level to  enhance the signal-to-noise ratio of the recovered signal  and yet not damage the deformation recording.  a suitable  thermal recording element, therefor, contains a layer of  thermal recording material comprising a binder and a dye  whose spectral absorption characteristics have been alter­ ed for playback after a deformation pattern has been re­ corded therein by absorption of energy from the recording  beam.  
+</ABSTRACT>
+</TEXT>
+</DOC>

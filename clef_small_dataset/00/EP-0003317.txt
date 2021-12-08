@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003317
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-7/18 C07F-7/00 <main>C07F-7/18</main> C07F-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of acyloxysilanes and possibly acyloxysiloxanes.
+</TITLE>
+<APPLICANT>
+wacker chemie gmbhde<sep>wacker-chemie gmbh<sep>wacker-chemie gmbhhanns-seidel-platz 4d-81737 münchende  <sep>wacker-chemie gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+feichtner wolfgang<sep>frey volker dr<sep>graf werner dr<sep>john peter dr<sep>feichtner, wolfgang<sep>frey, volker, dr.<sep>graf, werner, dr.<sep>john, peter, dr.<sep>feichtner, wolfgangholzgassen 64a-5122 achat<sep>frey, volker, dr.asternweg 7 ad-8263 burghausende<sep>graf, werner, dr.ludwig-thoma-strasse 21d-8263 burghausende<sep>john, peter, dr.marienberger strasse 80d-8263 burghausende<sep>feichtner, wolfgang<sep>frey, volker, dr. <sep>graf, werner, dr.<sep>john, peter, dr.  <sep>feichtner, wolfgang holzgassen 64a-5122 achat<sep>frey, volker, dr.asternweg 7 ad-8263 burghausende<sep>graf, werner, dr.ludwig-thoma-strasse 21d-8263 burghausende<sep>john, peter, dr.marienberger strasse 80d-8263 burghausende<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an improvement in the methods for producing acyloxysilanes and acyloxysiloxanes by reacting chlorosilane with aliphatic carboxylic acid at elevated temperature in a column.The improvement is achieved according to the invention by the fact that aliphatic carboxylic acid, z.b.Acetic acid, in evaporated form from bottom to top Chlorsilan, z.b.Ethyltrichlorosilane, opposite, aliphatic carboxylic acid in amounts, which at least not substantially exceed 1 mol of grammathom Si-bonded chlorosilane, and in the dimension of their consumption into the column, in the production of acyloxysiloxanes in addition to carboxylic acid and chlorosilane up to 10% by weight, based onThe weight of the carboxylic acid, water is introduced into the column, and drain at the lower end of the column acyloxysilane and / or acyloxysiloxane.
+</ABSTRACT>
+</TEXT>
+</DOC>

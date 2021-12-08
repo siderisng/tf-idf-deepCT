@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002072
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-15/04 A61K-9/08 B01J-41/04 C02F-1/42 B01J-47/00 B01J-47/02 <main>C02F-1/42</main> B01J-41/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+removal of bacteria from liquids and apparatus therefor.
+</TITLE>
+<APPLICANT>
+rohm & haasus<sep>rohm and haas company<sep>rohm and haas companyindependence mall westphiladelphia pennsylvania 19105us<sep>rohm and haas company<sep>
+</APPLICANT>
+<INVENTOR>
+slejko frank luciano<sep>slejko, frank luciano<sep>slejko, frank luciano116-7 van buren roadvoorhees n.j. 08043us<sep>slejko, frank luciano<sep>slejko, frank luciano116-7 van buren roadvoorhees n.j. 08043us<sep>
+</INVENTOR>
+<ABSTRACT>
+in the removal of bacteria from liquids and apparatus  therefore, an ion exchange resin bed (19) for the removal of  bacteria from a liquid passed through it has, on its downstream  side a submicron filter (23) which will become  blocked by bacteria leaking from the bed (19) and so connected  to the resin bed that blockage will cause pressure  to build up to reduce the flow of liquid leaving the filter  (23) which not only indicates exhaustion of the bed (19)  but also provides a safety factor against passage of bacteria  into the effluent liquid.  
+</ABSTRACT>
+</TEXT>
+</DOC>

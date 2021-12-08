@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017455
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-61/00 <main>C08G-61/02</main> C08G-61/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+linear crystalline alpha-alkylpolybenzyls and process for preparing them.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous <sep>exxon research and engineering company <sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company<sep>
+</APPLICANT>
+<INVENTOR>
+chandler john earl<sep>johnson burnett hood<sep>lenz robert w<sep>chandler, john earl<sep>johnson, burnett hood<sep>lenz, robert w.<sep>chandler, john earl12 owen streetstamford connecticutus<sep>johnson, burnett hood4800 st. andrewsbaytown texasus<sep>lenz, robert w.43 aubinwood roadamherst massachussettsus<sep>chandler, john earl <sep>johnson, burnett hood<sep>lenz, robert w.  <sep>chandler, john earl 12 owen streetstamford connecticutus<sep>johnson, burnett hood4800 st. andrewsbaytown texasus<sep>lenz, robert w.43 aubinwood roadamherst massachussettsus<sep>
+</INVENTOR>
+<ABSTRACT>
+linear polybenzyls of high molecular weight and high  crystallinity suitable for use in films or moulding composi­ tions are obtained by polymerizing aralkyl halides in the  presence of a friedel-crafts catalyst complexed with a  nitroarene or a nitroalkane complexing agent in a halogen­ ated solvent.  the complex catalyst allows the polymerization  to be run at higher rates.  the polymerizable α-alkyl-benzyl  halides which can be readily employed are represented by  the following structural formula:    wherein r₁ is a c₁-c₄ alkyl group, r₂ and r₃ are the same or  different and are each selected from the group consisting of  hydrogen and c₁-c₄ alkyl groups, and x is halogen.  
+</ABSTRACT>
+</TEXT>
+</DOC>

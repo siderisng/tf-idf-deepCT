@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003482
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23K-10/00 <main>B23K-28/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for plasma welding and/or cutting.
+</TITLE>
+<APPLICANT>
+messer griesheim gmbhde<sep>messer griesheim gmbh<sep>messer griesheim gmbhhanauer landstrasse 330d-60314 frankfurtde<sep>messer griesheim gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+auer rupert<sep>haala heinrich<sep>auer, rupert<sep>haala, heinrich<sep>auer, rupertkleistrasse 10d-8057 echingde<sep>haala, heinrichhollern weg 20d-8051 neu fahrnde<sep>auer, rupert <sep>haala, heinrich  <sep>auer, rupertkleistrasse 10d-8057 echingde<sep>haala, heinrichhollern weg 20d-8051 neu fahrnde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  means for plasma welding and/or cutting having a power source (20) for supplying the plasma arc (21) with electrical energy, having a gas supply unit (22) for plasma gas, having a plasma torch (10), in which a constriction nozzle (13) is installed and which is connected with the power source (20), respectively the gas supply unit (22), via current and gas leads (17, 24), as well as having a measuring device (25) arranged in the plasma gas lead (24) by which a switching device (26) for switching the power source (20) can be activated, being characterized by the measuring device (25) being a gas pressure measuring device and by the switching device (26) which is connected with the gas pressure measuring device (25) switching off the power source (20) because of a gas pressure drop when the constriction nozzle (13) is released from the torch (10). 
+</ABSTRACT>
+</TEXT>
+</DOC>

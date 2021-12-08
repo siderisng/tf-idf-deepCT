@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010254
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01K-17/00 F01K-17/02 <main>F01K-17/02</main> F01K-7/22 F01K-7/00 F01K-7/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for generating electric power in a counter pressure steam system.
+</TITLE>
+<APPLICANT>
+linde agde  <sep>linde aktiengesellschaft<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>linde aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+bolkart alfred<sep>dworschak josef<sep>pocrnja anton<sep>bolkart, alfred<sep>dworschak, josef<sep>pocrnja, anton<sep>bolkart, alfredthalkirchnerstrasse 35d-8000 münchen 2de<sep>dworschak, josefhauzenbergerstrasse 8d-8000 münchen 21de<sep>pocrnja, antonzaubzerstrasse 43 bd-8000 münchen 80de<sep>bolkart, alfred<sep>dworschak, josef <sep>pocrnja, anton<sep>bolkart, alfred thalkirchnerstrasse 35 d-8000 münchen 2 de<sep>dworschak, josefhauzenbergerstrasse 8d-8000 münchen 21de<sep>pocrnja, antonzaubzerstrasse 43 bd-8000 münchen 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for obtaining electrical energy in a counter-pressure vapor system in which water vapor is relaxed at workload.As counter-pressure vapor systems, power plants are referred to, which serve for simultaneous coverage of the force and heat requirement of a system.At Kraftintensive Indu Striezweiesen, the need for electrical energy can not be completely covered by an investment of the specified kind.In order to increase the power heat ratio in a counter-pressure dam system, according to the invention, according to the invention, the steam of one of the existing pressure levels 15 prior to the work of working relaxation 5 is first heated by heat exchange 3 with relaxed vapor and then with foreign heat 4 substantially isobar heated and after the relaxation 5 on one of the existing onesDeeper pressure levels 16 substantially isobar cooled 3.6.
+</ABSTRACT>
+</TEXT>
+</DOC>

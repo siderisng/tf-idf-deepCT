@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013452
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-35/04</main> G01N-35/04 G01N-35/00 B65G-47/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+mechanism for transferring objects from one position to another.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken  <sep>
+</APPLICANT>
+<INVENTOR>
+bouwmeester gerrit<sep>bouwmeester, gerrit<sep>bouwmeester, gerritc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>bouwmeester, gerrit<sep>bouwmeester, gerritc/o int. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a mechanism for transferring objects from one position  to another position in another turntable.  a slide is mounted to  be slidable on a guide on the turntable.  the slide comprises a  slot (19) which extends transversely of the guide and in which  a drive member (41) is accommodated which is connected to  one end of a first arm (39) the other end of which is pivotably  connected to a second arm (37) which is journalled in the  turntable by way of a shaft (34) and which is coupled to a drive  (50).  around this shaft a wheel (45) is rigidly arranged.  this  wheel is coupled to a further wheel (43), the centre of which is  formed by the pivot of the first and the second arm.  this  further wheel is rigidly connected to the first arm.  the  arrangement is such that, when the shaft is driven, the drive  member follows an elliptical path.  on the slide there is pro­ vided a gripping member for gripping and releasing the  objects to be transferred.  
+</ABSTRACT>
+</TEXT>
+</DOC>

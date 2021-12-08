@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017666
+</DOCNO>
+<TEXT>
+<DATE>
+19801029
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-13/12 <main>G06F-13/04</main> G06F-3/06 G06F-9/06 G06F-13/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+methods of operating direct access storage means.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hunter paul wayne<sep>malaccorto alexander edward<sep>hunter, paul wayne<sep>malaccorto, alexander edward<sep>hunter, paul wayne1270 chateau drivesan jose, california 95120us<sep>malaccorto, alexander edward7085 elwood roadsan jose, california 95120us<sep>hunter, paul wayne  <sep>malaccorto, alexander edward<sep>hunter, paul wayne1270 chateau drivesan jose, california 95120us<sep>malaccorto, alexander edward7085 elwood roadsan jose, california 95120us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method is disclosed of operating a direct access  storage device (dasd) forming part of a data processing  system comprising a central processing unit (cpu) com­ municating with the das device through a channel and a  dasd control device.  in performing the method a command issued to the  das subsystem which requires mechanical motion in the  das device is stored in the subsystem and the subsystem  provides a response to the channel indicating that the com­ mand has been carried out, without actually carrying out  the command.  the channel responds by issuing one or  more additional commands in the chain to the subsystem  which may be carried out without mechanical motion.  when  command is issued to the subsystem which again requires  mechanical motion of the device, the control device causes  the stored command to be executed essentially simulta­ neously with the newly received command.  this execution of the stored command out of its nor­ mal sequence and in parallel with another command involv­ ing mechanical motion of the das device decreases the  time required to perform operations with the dasd sub­ system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

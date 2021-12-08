@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012709
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03G-3/20 A61B-5/04 <main>H03G-3/20</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuit for an electrocardiographic signal.
+</TITLE>
+<APPLICANT>
+biotronik mess & therapiegde<sep>biotronik mess- und therapiegerate gmbh & co ingenieurburo berlin<sep>biotronik mess- und therapiegeräte gmbh &amp; co ingenieurbüro berlinsieversufer 8d-12359 berlinde<sep>biotronik mess- und therapiegerate gmbh & co ingenieurburo berlin<sep>
+</APPLICANT>
+<INVENTOR>
+blaser reinhard dr-ing<sep>olach klaus<sep>schaldach max prof dr-ing<sep>blaser, reinhard, dr.-ing.<sep>olach, klaus<sep>schaldach, max, prof. dr.-ing.<sep>blaser, reinhard, dr.-ing.binsenweg 16d-8500 nürnbergde<sep>olach, klauskaiser-wilhelm-strasse 104d-1000 berlin 46de<sep>schaldach, max, prof. dr.-ing.turnstrasse 5d-8520 erlangende<sep>blaser, reinhard, dr.-ing.<sep>olach, klaus  <sep>schaldach, max, prof. dr.-ing. <sep>blaser, reinhard, dr.-ing.binsenweg 16d-8500 nürnbergde<sep>olach, klauskaiser-wilhelm-strasse 104d-1000 berlin 46de<sep>schaldach, max, prof. dr.-ing.turnstrasse 5d-8520 erlangende<sep>
+</INVENTOR>
+<ABSTRACT>
+In this amplitude control means means (2 to 8) are provided which increases the transmission factor in each case to the appearance of a QRS complex around a step when the amplitude of a pulse contained in the QRS complex at the output (9) of the control device between a firstand a second predetermined threshold lies and the transmission factor is reduced by one step when the amplitude of the peak value exceeds a third predetermined threshold higher than the first and second threshold.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008217
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-29/04 G01N-3/00 B23K-31/12 G01N-29/22 G01N-29/26 G01N-29/11 <main>G01N-3/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+non-destructive testing method for brazed butt joints in metallic articles and metallic articles tested thereby.
+</TITLE>
+<APPLICANT>
+euratomlu<sep>european atomic energy community (euratom)<sep>european atomic energy community (euratom)bâtiment jean monnet plateau du kirchberg boíte postale 1907l-2920 luxembourglu <sep>european atomic energy community (euratom)<sep>
+</APPLICANT>
+<INVENTOR>
+booth joseph  <sep>haring klaus<sep>huguet michel<sep>lehr klaus<sep>lyraud charles<sep>pohlchen rudolph<sep>booth, joseph<sep>haring, klaus<sep>huguet, michel<sep>lehr, klaus<sep>lyraud, charles<sep>pohlchen, rudolph<sep>booth, joseph76 sunderland avenueoxfordgb<sep>haring, klausausseneck 10d-6800 mannheimde<sep>huguet, michel12 lakesideoxfordgb<sep>lehr, klaussteingrundstrasse 42d-6940 weinheimde<sep>lyraud, charleswhite house horn laneeast hendred wantage, oxfordshiregb<sep>pöhlchen, rudolphturkenstrasse 16d-8046 garchingde<sep>booth, joseph<sep>haring, klaus<sep>huguet, michel<sep>lehr, klaus<sep>lyraud, charles<sep>pohlchen, rudolph <sep>booth, joseph 76 sunderland avenue oxfordgb<sep>haring, klausausseneck 10d-6800 mannheimde<sep>huguet, michel12 lakesideoxfordgb<sep>lehr, klaussteingrundstrasse 42d-6940 weinheimde<sep>lyraud, charleswhite house horn laneeast hendred wantage, oxfordshiregb<sep>pöhlchen, rudolphturkenstrasse 16d-8046 garchingde<sep>
+</INVENTOR>
+<ABSTRACT>
+a non-destructive method of testing for defects in bra­ zed joints in metallic articles such as hollow copper electri­ cal conductors comprising subjecting the joint (2) to a ten­ sile force which is greater then the yield strenght of the  metal of the metallic article (1) across the brazed joint (2)  and thereafter passing a x-ray beam or an ultrasonic pulse  through the brazed joint (2) to detect any gap which has  been formed at the brazed joint (2) by the application of  the tenside force.  x-ray and ultrasonic testing of brazed joints does not  reliably detect all defects in brazed joints, particularly butt  joints, which might later result in failure of the joint under  stress.  the application of the afore-mentioned tensile force  exposes such defects by creating a significant gap at the  joint which is detectable by x-ray or ultrasonic test.  
+</ABSTRACT>
+</TEXT>
+</DOC>

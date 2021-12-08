@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004855
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-1/40 G06K-9/60 <main>G06K-9/36</main> G06K-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuitry for preprocessing an optically scanned pattern.
+</TITLE>
+<APPLICANT>
+computer ges konstanzde<sep>computer gesellschaft konstanz mbh<sep>computer gesellschaft konstanz mbhmax-stromeyer-strasse 116d-78467 konstanzde<sep>computer gesellschaft konstanz mbh<sep>
+</APPLICANT>
+<INVENTOR>
+kochert wilfried<sep>kochert, wilfried<sep>kochert, wilfriedgaussweg 14d-7750 konstanzde<sep>kochert, wilfried  <sep>kochert, wilfriedgaussweg 14d-7750 konstanzde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a circuit arrangement for a sampled pattern in a device for mechanical character recognition. For offset tolerances within a photodiode matrix of a scanning unit (ABE), various instantaneous, column-shifted layers of a scan pattern as current image signals (VID) are compared in a single scanning operation. For this purpose, in the first image memory (RAM1) in the first image memory (RAM1), the image signal is counted the number of black elements in a picture element counter (VCTR). If the current image signal (VID) represents a "grease" character again, the white elements of the current image signal (VID) and a correlated image pattern (VIDK) cached in a second image memory (RAM2) are disappointed with each other disjointly in a lodging unit (SW). In "weak" characters, the black elements are used. If the direction of the relative speed is not fixed between the scanning unit (ABE) and a recording medium, several layers of the correlated image signal (VIDK) are to be used to a comparison in a comparator circuit (COMP). This comparison gives the location with the best match. Thus, a center / left or a center / right shift of the current image signal (VID) relative to the correlated image signal (VIDK) can be compensated by appropriate control of the switching unit (SW). This independence from the scanning direction offers an advantage in a preferred use of the circuit arrangement in handheld readers.
+</ABSTRACT>
+</TEXT>
+</DOC>

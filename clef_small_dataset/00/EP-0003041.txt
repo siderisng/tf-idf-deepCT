@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003041
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-51/00 <main>A61K-43/00</main> A61K-51/04 A61K-51/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+technetium-99m marked diagnostic composition for the representation of the reticuloendothelial system (res) and process for its preparation.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft <sep>hoechst aktiengesellschaft65926 frankfurt am mainde  <sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+kloss gerhard dr<sep>molter michael dr<sep>schickel eberhard<sep>strecker helmut dr<sep>kloss, gerhard, dr.<sep>molter, michael, dr.<sep>schickel, eberhard<sep>strecker, helmut, dr.<sep>kloss, gerhard, dr.liederbachstrasse 14d-6233 kelkheim (taunus)de<sep>molter, michael, dr.unter den akazien 7d-6000 frankfurt/main 70de<sep>schickel, eberhardam weidenbruch 24d-6251 seltersde<sep>strecker, helmut, dr.wilhelm-leuschner-strasse 43d-6104 seeheim-jugenheimde<sep>kloss, gerhard, dr.<sep>molter, michael, dr.<sep>schickel, eberhard<sep>strecker, helmut, dr. <sep>kloss, gerhard, dr. liederbachstrasse 14 d-6233 kelkheim (taunus)de<sep>molter, michael, dr.unter den akazien 7d-6000 frankfurt/main 70de<sep>schickel, eberhardam weidenbruch 24d-6251 seltersde<sep>strecker, helmut, dr.wilhelm-leuschner-strasse 43d-6104 seeheim-jugenheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+There is a process for producing a diagnostic rate for illustrating the res, in particular the liver, in which 1-phenyl-2,3-dimethyl-pyrazolone 4-methyl-amino-methylsulfone acid sodium or 1-phenyl-2,3-Dimethyl-pyrzolone in aqueous solution with tin (II) salt mixes, the solution adjusts to a pH between 4 and 9, optionally the mixture lyophilized, and then tech tetrium 99m pertechnetal adds in physiologi shear saline.
+</ABSTRACT>
+</TEXT>
+</DOC>

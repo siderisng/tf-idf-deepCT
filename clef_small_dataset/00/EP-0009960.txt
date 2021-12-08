@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0009960
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05D-23/01 G05D-23/13 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermostatically controlled mixing valve.
+</TITLE>
+<APPLICANT>
+deltaflow limited gb<sep>deltaflow limited  <sep>deltaflow limitedmetropolitan house, l hagley roadedgbaston, birmingham, b16 8tggb<sep>
+</APPLICANT>
+<INVENTOR>
+norwood haroldgb<sep>norwood, harold<sep>norwood, harold27 edinburgh close, carlyon bayst. austell, cornwallgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a valve comprises a mixing chamber with inlet ports (a to  e) for admission of hot and cold water, a hollow valve sleeve  (2) in the chamber to control the entry of water from the inlet  ports, and a thermally responsive cartridge (3) within the  sleeve to control sleeve movement.  apertures (j) and (k) in  the sleeve allow water to pass from the inlet ports to a mixing  region within the sleeve, where the water impinges on the  cartridge.  the mixing chamber has parallel opposite side walls, and  in each of the opposed side walls there are two cold water inlet  ports and two hot water inlet ports, the two inlet ports for each  of the hot and cold water being arranged in line in the direc­ tion of movement of the sleeve (2).  the arrangement is such  that pressure on the slide member remains balanced despite  fluctuations in water supply pressures.  
+</ABSTRACT>
+<DESCRIPTION>
+thermostatically controlled mixing valve this invention relates to a thermostatically controlled mixing valve comprising a mixing chamber with inlet ports for hot and cold water to be mixed, a movable slide member mounted in the chamber to control the entry of hot and cold water into the chamber from said inlet ports, and a thermally responsive device arranged to control the movement of the slide member, the slide member being hollow and having apertures -to permit hot and cold water to enter a mixing region within the slide member in proportions determined by its position within said chamber, and the thermally responsive device being mounted within the slide member in said mixing region. in many such valves the mixing chamber is cylindrical, with the cartridge in its centre and acting on a hollow slide member in the form of a cylindrical sleeve that serves as a spool valve to uncover hot and cold water inlet ports in the chamber wall. one of the problems associated with known mixing valves is that of a change in the outlet temperature taking place as a result of transient changes in the pressure of the hot or cold supply. the response of the thermostatic control cartridge can never be instantaneous, and there are difficulties in ensuring that the cartridge is not unduly influenced by the flow from one inlet rather than the other, especially in the event of supply pressure changes, bearing -in mind that the cartridge is not placed in the outlet but in the chamber where mixing is taking place. the aim of the present invention is to provide an improved mixing valve that at least partially overcomes these difficulties. according to the invention a valve is characterised in that the mixing chamber has at least two inlet ports for the hot water and at least two inlet ports for the cold water. in this way, the many entering streams of fluid are thoroughly mixed as they enter, and are passed directly over the cartridge or other thermally responsive device, which is thus influenced by the true quantitative proportions of the two streams and reacts correspondingly faster than a device relying on the temperature change of a mixed water "reservoir". preferably the inlet ports are arranged so that pressure on the slide member will remain balanced despite fluctuations in the pressures of supplies of the hot and cold water to the inlet ports. in a preferred layout the inlet ports for each of the hot and cold water are numerically evenly distributed between opposite sides of the mixing chamber. preferably the slide member is not cylindrical but flat-sided, and the inlet ports are located in parallel opposite side walls bounding the mixing chamber. there may be two inlet ports for the hot water and two inlet ports for the cold water at each of the opposite sides of the chamber, and preferably the two inlet ports for each of the hot and the cold water, at each of the opposite sides of
+</DESCRIPTION>
+<CLAIMS>
+ claims   1. a thermostatically controlled mixing valve comprising a mixing chamber with inlet ports for hot and cold water to be mixed, a movable slide member mounted in the chamber to control the entry of hot and cold water into the chamber from said inlet ports, and a thermally responsive device arranged to control the movement of the slide member, the slide member being hollow and having apertures to permit hot and cold water to enter a mixing region within the slide member in proportions determined by its position within said chamber, and the thermally responsive device being mounted within the slide member in said mixing region, characterised in that the mixing chamber has at least two inlet ports (b, d, f, h) for the hot water and at least two inlet ports (a, c, e, g) for the cold water.    2. a valve according to claim 1 further characterised in that the inlet ports for each of the hot and cold water are numerically evenly distributed between opposite sides of the mixing chamber.   3. a valve according to claim 2 further characterised in that there are two inlet ports for the hot water and two inlet ports for the cold water at each of said opposite sides of the mixing chamber.   4. a valve according to claim 3 further characterised in that the two inlet ports for each of the hot and the cold water, at each of said opposite sides of the mixing chamber, are arranged in line in the direction of movement of the slide member (2).     5. a valve according to any one of claims 1 to 4 further characterised in that the inlet ports are located in parallel opposite side walls of the mixing chamber.  
+</CLAIMS>
+</TEXT>
+</DOC>

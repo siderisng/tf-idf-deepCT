@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002379
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01B-23/00 F01L-13/02 F01B-23/04 F16J-15/00 F16C-3/14 F16J-15/54 <main>F01L-13/02</main> F16C-3/04 F02D-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a reversing mechanism for a reciprocating combustion engine.
+</TITLE>
+<APPLICANT>
+b & w diesel asdk<sep>b & w diesel a/s<sep>b &amp; w diesel a/sno.2 torvegadedk-1400 copenhagen kdk<sep>b & w diesel a/s <sep>
+</APPLICANT>
+<INVENTOR>
+ytterdal hjalmar<sep>ytterdal, hjalmar<sep>ytterdal, hjalmarno. 26 thóger larsens allédk-2750 ballerupdk<sep>ytterdal, hjalmar<sep>ytterdal, hjalmarno. 26 thóger larsens allédk-2750 ballerupdk<sep>
+</INVENTOR>
+<ABSTRACT>
+a reversing mechanism for a reciprocating combustion  engine comprises a lost-motion coupling having two coupling  parts (3, 16) connected to the engine's control or cam  shaft (1) and its crankshaft, respectively, and at least one  reversing crank (7) for turning the coupling parts through an  angle relative to one another.  the reversing crank is driven  by a hydraulic, oscillating-piston motor (4, 18) built into one  of the coupling parts.  in order to ensure proper lubrication of  plain bearings (9, 39), which support the crank in either  coupling part, ducts are provided in the crank and in the  hydraulic motor through which the high-pressure chamber  of the hydraulic motor communicates with the beerings.  the  ducts may be formed by drilled bores (31, 32, 34, 35) in the  crank and by annular slots defined between the main journal  pin (8, 30) of the crank and barrier rings (29) secured in the  cylinder or the hydraulic motor.  
+</ABSTRACT>
+</TEXT>
+</DOC>

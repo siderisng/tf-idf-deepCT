@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013201
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01J-23/02 H01J-23/05 H01J-23/04 H01J-1/15 <main>H01J-1/15</main> H01J-1/13 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+directly heated cathode and high frequency electron tube comprising such a cathode.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+clerc guy<sep>shroff arvind<sep>clerc, guy<sep>shroff, arvind<sep>clerc, guy"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>shroff, arvind"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>clerc, guy<sep>shroff, arvind  <sep>clerc, guy"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>shroff, arvind"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The subject of the invention relates to a cathode with electronic thermo emission with direct heating.It comprises a support (1) in pyrolytic graphite and a thermosetting material (2) based on lanthano hexaboride, these two elements being separated by a diffusion barrier layer (3) constituted by a tantalum carbide or hafnium, a platinum family metal, or a boron compound.It can be used in particular in the high frequency tubes of the triode type, tetrode or pentode.
+</ABSTRACT>
+</TEXT>
+</DOC>

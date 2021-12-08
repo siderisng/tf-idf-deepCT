@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005647
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-3/06 C07D-405/06 A61P-37/00 A61P-11/00 A61P-3/00 C07D-409/00 A61K-31/415 <main>C07D-233/74</main> C07D-233/76 C07D-405/00 A61K-31/4166 C07D-233/78 A61K-31/4164 C07D-233/74 C07D-409/06 C07D-233/72 C07D-405/10 C07D-233/00 C07D-233/96 A61P-11/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydantoin compounds, their preparation and pharmaceutical formulations containing them.
+</TITLE>
+<APPLICANT>
+lilly industries ltdgb<sep>lilly industries limited<sep>lilly industries limitedhenrietta house henrietta placelondon w1m 0edgb<sep>lilly industries limited<sep>
+</APPLICANT>
+<INVENTOR>
+jamieson william boffey<sep>ross william james<sep>simmonds robin george<sep>verge john pomfret<sep>jamieson, william boffey<sep>ross, william james<sep>simmonds, robin george<sep>verge, john pomfret<sep>jamieson, william boffey"inverskip" 31 kettlewell closehorsell woking surreygb<sep>ross, william james8, keswick drivelightwater surreygb<sep>simmonds, robin george36, oaklands drivewokingham berkshiregb<sep>verge, john pomfret2, chestnut close middle assendenhenley-on-thames oxfordshiregb<sep>jamieson, william boffey  <sep>ross, william james<sep>simmonds, robin george<sep>verge, john pomfret<sep>jamieson, william boffey"inverskip" 31 kettlewell closehorsell woking surreygb<sep>ross, william james8, keswick drivelightwater surreygb<sep>simmonds, robin george36, oaklands drivewokingham berkshiregb<sep>verge, john pomfret2, chestnut close middle assendenhenley-on-thames oxfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+hydantoin compounds are described, having the following  formula    wherein ar is phenyl optionally substituted by up to three  radicals selected   from the group comprising c₁₋₆ alkoxy, halogen, 1,3-dioxol-2-yl,  hydroxy c₁₋₄ alkoxy c₁₋₄ alkyl, phenyl, hydroxyl,  nitrile, c₁₋₄ haloalkyl, c₁₋₄ alkyl, c₂₋₄ alkenyloxy,  c₁₋₄ alkoxycarbonyl or phenoxy optionally substituted  by c₁₋₄ haloalkyl, c₁₋₄ alkoxy or halogen;   or is thiophene optionally substituted by phenyl or by  one or two c₁₋₄ alkyl groups;   r¹ and r² are independently hydrogen or taken together  represent a chemical bond;   r³ is hydrogen, c₁₋₆ alkyl or c₂₋₄ alkenyl; and   r⁴ is c₁₋₆ alkyl, c₂₋₄ alkenyl, phenyl or benzyl;   provided that r³ cannot be hydrogen when ar is unsubstituted  phenyl and r⁴ is n-butyl.  the compounds are useful in the prophylactic treatment of  asthma in mammals.  
+</ABSTRACT>
+</TEXT>
+</DOC>

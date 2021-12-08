@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009677
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09K-13/06 H01L-21/306 H01L-21/308 H01L-21/3213 C30B-33/00 <main>H01L-21/306</main> C23F-1/00 H01L-21/02 C09K-13/00 C30B-33/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+quaternary solution for the chemical etching of silicon and method for etching using such a solution.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+berkenblit melvin<sep>reisman arnold<sep>berkenblit, melvin<sep>reisman, arnold<sep>berkenblit, melvin2232 ridge streetyorktown heights new york 10598us<sep>reisman, arnold2294 vancortland circleyorktown heights new york 10598us<sep>berkenblit, melvin<sep>reisman, arnold<sep>berkenblit, melvin2232 ridge streetyorktown heights new york 10598us<sep>reisman, arnold2294 vancortland circleyorktown heights new york 10598us<sep>
+</INVENTOR>
+<ABSTRACT>
+Quaternary stripping solution which includes ethylene-diamine, pyrocatechin, water and a zine diamond or a derivative of it and is used for stripping monocrystalline or polycrystalline silicon surfaces.The amount of diazine in the solution corresponds approximately to the molar equivalent of 5 to 10 g of ethylene-diamine pyrazine / liter.This solution can be used at temperatures and with variable pickling speeds as shown in the figure.The stripping speed can be changed by changing the water concentration and / or pyro catechin in the solution.This stripping solution does not shape residues during the stripping process and the stripping speed remains stable in the presence of oxygen.This solution is used for stripping Sili cum surfaces according to configurations determined during the manufacturing steps of semiconductor devices.
+</ABSTRACT>
+</TEXT>
+</DOC>

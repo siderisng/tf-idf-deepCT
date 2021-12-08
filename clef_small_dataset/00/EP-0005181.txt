@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005181
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-29/40 <main>H01L-29/78</main> H01L-29/66 H01L-29/78 H01L-29/417 H01L-21/02 H01L-21/336 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making a semiconductor device comprising components of the field effect type.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation<sep>international business machines corporation old orchard road armonk, n.y. 10504 us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+joshi madhukar laxman<sep>mason richard karl<sep>pricer wilbur david<sep>joshi, madhukar laxman<sep>mason, richard karl<sep>pricer, wilbur david<sep>joshi, madhukar laxman9 walden woodsessex junction vermont 050452us<sep>mason, richard karl22 pine meadow drivewinooski vermont 05404us<sep>pricer, wilbur david58 van patten parkwayburlington vermont 05401us<sep>joshi, madhukar laxman<sep>mason, richard karl <sep>pricer, wilbur david  <sep>joshi, madhukar laxman9 walden woodsessex junction vermont 050452us<sep>mason, richard karl22 pine meadow drivewinooski vermont 05404us<sep>pricer, wilbur david58 van patten parkwayburlington vermont 05401us<sep>
+</INVENTOR>
+<ABSTRACT>
+To prepare a semiconductor device-containing component of the field effect transistor type, in a three-mask steps emerging from the formation of strip-shaped and mutually spaced doping areas (12, 14) in the semiconductor substrate (10), which later, z. b. In the case of field effect transistor structures, serve as source or drain leads. At one end between the doping areas (12, 14), a first protective coating (44 ') for the formation of a gate electrode and in the range of each other end on the respective doping area (12, 14) another protective coating (44 ") Applied to form a connection contact. Gate electrode (18) and connection contact (E) (30, 32) are preferably made of polycrystalline silicon. Finally, an approximately remaining distance range between the gate electrode (18) and the (doping area (s) (12, 14) (12, 14) is subjected to ion implantation. In this case, in a simple manufacturing process with respect to the gate electrode and the connection contacts so-called. Self-adjusted component structures can be Achieving, whereby gate compounds can cross the electrical connections represented by the doping regions (12, 14), without additional process steps being required for such a design.
+</ABSTRACT>
+</TEXT>
+</DOC>

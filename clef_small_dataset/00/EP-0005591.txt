@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005591
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 A01N-37/44 C07D-307/00 C07C-231/00 C07C-231/02 <main>C07D-307/68</main> C07C-271/28 A01N-43/02 A01N-37/22 C07C-235/68 C07C-271/00 C07C-103/32 C07D-307/68 A01N-43/08 C07C-67/00 C07C-235/00 A01N-37/46 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fungicidal acylanilide compounds, their preparation, compositions containing them and their use.
+</TITLE>
+<APPLICANT>
+ici ltdgb<sep>imperial chemical industries limited<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+punja nazim<sep>punja, nazim<sep>punja, nazimdunster house 24 wiltshire avenuecrowthorne berkshiregb<sep>punja, nazim<sep>punja, nazimdunster house 24 wiltshire avenuecrowthorne berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+fungicidal acylanilide derivatives have the formula:    wherein r and r₁ are halogen or alkyl; r₂ is furyl, alkoxyalkyl  or alkoxy; r₃ is alkenyl or propargyl optionally substituted  with halogen, alkyl, alkoxy, haloalkyl, alkoxycarbonyl or aryl;  and y is one or more h or hal atoms or alkyl groups.  
+</ABSTRACT>
+</TEXT>
+</DOC>

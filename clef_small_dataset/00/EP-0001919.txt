@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001919
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/22 G01R-27/26 G01N-27/24 G01N-33/22 G01N-33/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+identification of materials using their complex dielectric response.
+</TITLE>
+<APPLICANT>
+univ georgetownus<sep>georgetown university<sep>georgetown university37th and "o" streets, n.w.washington, d.c. 20057us<sep>
+</APPLICANT>
+<INVENTOR>
+capots larry hus<sep>gregory william dus<sep>morelli luigius<sep>muhlke john iiius<sep>nolan thomas a jr us <sep>capots, larry h.<sep>gregory, william d.<sep>morelli, luigi<sep>muhlke, john iii<sep>nolan, thomas a. jr.<sep>capots, larry h.8622, chapel dr.annandale virginia 22003us<sep>gregory, william d.429, glydon streetvienna virginiaus<sep>morelli, luigi305, e. davis st.sterling virginia 22170us<sep>muhlke, john iii9428, rosehill dr.bethesda maryland 20034us<sep>nolan, thomas a. jr.7202, ridgewoodchevy chase maryland 20015us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a method and apparatus for  evaluating non-homogenous material having a high dielectric  element by sensing the conductance and/or capacitance  properties of a material (60,s) by passing it between a pair of  plates (74, 76; 102, 104) which form part of a capacitance  responsive electrical network.  an a. c.  voltage is applied  across the plates (74, 76; 102, 104) at a frequency which prior  tests have indicated will produce a given conductance or  capacitance reading for a material of interest.  
+</ABSTRACT>
+</TEXT>
+</DOC>

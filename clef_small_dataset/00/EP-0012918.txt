@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012918
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01S-13/76</main> G01S-13/00 H01P-1/10 G01S-13/76 H01P-1/15 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+pin diode high frequency switch for secondary radar interrogators and transponders.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+beyer franz<sep>sedlmair siegfried dipl-ing<sep>beyer, franz<sep>sedlmair, siegfried, dipl.-ing.<sep>beyer, franzzündterstrasse 11d-8000 münchen 21de<sep>sedlmair, siegfried, dipl.-ing.mittenwalderstrasse 147d-8031 gröbenzellde<sep>beyer, franz  <sep>sedlmair, siegfried, dipl.-ing.<sep>beyer, franzzündterstrasse 11d-8000 münchen 21de<sep>sedlmair, siegfried, dipl.-ing.mittenwalderstrasse 147d-8031 gröbenzellde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a PIN diode high frequency switch in an ISLS and RSLs operate the secondary radar query device with a transmitter, two receivers and two antennas. In order to minimize the high expense of PIN diodes including driver stages for transmitting receiving separation and also to avoid the use of a transmit receiving softage, the terminal (19, 20) of each of the two antennas is directly via a lei device (23, 24) with which the transmitting signal locking and the receiving signals transmitting tape filter (5.6) in each case of a receiver (7, 8) connected, wherein the sum of the electrical lengths of this line and the band filter is dimensioned so that at the corresponding antenna terminal an idle results for the Sendefre quenz. The invention can also be used in secondary radar transponders with two antenna diversity. An inventive high-frequency switch is both for civilian secondary radar query devices as well as for military IFF query devices, e.g. b. Suitable in ground stations.
+</ABSTRACT>
+</TEXT>
+</DOC>

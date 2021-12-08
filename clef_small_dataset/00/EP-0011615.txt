@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0011615
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09C-1/06 G09C-1/10 H04L-9/00 G09C-1/00 <main>G09C-1/00</main> H04L-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for encryption and decryption of data.
+</TITLE>
+<APPLICANT>
+brandstrom hugo<sep>brandstrom, hugo<sep>brandstrom, hugo <sep>
+</APPLICANT>
+<INVENTOR>
+brandstrom hugo<sep>brandstrom, hugo<sep>brandstrom, hugo<sep>brändström, hugo 22, johan enbergs väg s-171 91 solna se<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

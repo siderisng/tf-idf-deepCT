@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001827
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-50/02 H01H-51/10 H01H-50/04 H01H-51/00 <main>H01H-51/10</main> H01H-50/16 H01H-50/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiple relay.
+</TITLE>
+<APPLICANT>
+telephonie ind commercialefr<sep>societe anonyme dite : la telephonie industrielle et commerciale -telic<sep>la telephonie industrielle et commerciale telic alcatel s.a. dite:206, route de colmarf-67023 strasbourg cedexfr<sep>la telephonie industrielle et commerciale societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+bloch paul<sep>kraess henri<sep>bloch, paul<sep>kraess, henri<sep>bloch, paul16, rue flachf-67100 strasbourg meinaufr<sep>kraess, henri35, rue gratienf-67200 strasbourgfr<sep>bloch, paul<sep>kraess, henri  <sep>bloch, paul 16, rue flachf-67100 strasbourg meinaufr<sep>kraess, henri35, rue gratienf-67200 strasbourgfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A multiple relay comprises an electromagnetic control relay (9) and electromagnetic relays (8).The semi-fixed contacts (10, 11) of the relays are carried by a common bar (4), insulating, pivoting about an axis (5) under the action of the control relay.Each semi-fixed contact of a relay is connected to a conductive bar (6) (a conductive bar for a fixed semi relay contact) carried by the common bar.The electrical contact between a fixed semi contact and a movable contact is established by supply of the control relay and the relay, and deleting the supply of the control relay and the relay;The semi-fixed contact locks the mobile contact.The rupture of the electrical contact is obtained by momentary supply of the relay of COM MANDE.
+</ABSTRACT>
+</TEXT>
+</DOC>

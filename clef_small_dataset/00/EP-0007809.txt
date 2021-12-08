@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007809
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-21/87</main> G01N-21/87 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for producing a simulated visual image of a selected gemstone.
+</TITLE>
+<APPLICANT>
+gen instrument corpus<sep>gem instruments corporation<sep>gem instruments corporation1735 steward streetsanta monica, californiaus<sep>gem instruments corporation<sep>
+</APPLICANT>
+<INVENTOR>
+ritzi thomas frank<sep>ritzi, thomas frank<sep>ritzi, thomas frank122 north beach streetdaytona beach, floridaus<sep>ritzi, thomas frank  <sep>ritzi, thomas frank122 north beach streetdaytona beach, floridaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus visually duplicates the hue, tone, intensity  and shape of a selected gemstone by combining predeter­ mined intensities of red, green and blue light sources within a  color mixing box (34).  a single variable intensity light source  (16, 18,20) and a monochromatic filter (24, 26, 28) provide  each of the three colors.  colored light from each light source is  passed through a portion of a multi-segment diffusion lens  (32) prior to entering the color mixing box (34).  the three  separate colors are combined within the color mixing box (34)  and reflected from an image wheel (36) which includes vari­ ous geometric patterns.  light propagated from the color mix­ ing box (34) passes through a silhouette wheel (50) to a crystal  wheel (51) which provides an appropriate gemstone shape.   the light then passes through an image magnifier (52) which  controls the apparent size of the gemstone.  controls are pro­ vided to modify the shape, color and intensity of the duplicat­ ing gem displayed by the apparatus.  
+</ABSTRACT>
+</TEXT>
+</DOC>

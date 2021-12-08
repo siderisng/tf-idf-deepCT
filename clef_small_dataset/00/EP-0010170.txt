@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010170
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05B-19/04</main> G05B-19/05 G05B-15/02 G06F-9/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control programmable by storage means.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+felder heinz-friedrich dipl-in<sep>schlang manfred dipl-ing<sep>felder, heinz-friedrich, dipl.-ing.<sep>schlang, manfred, dipl.-ing.<sep>felder, heinz-friedrich, dipl.-ing.steinforststrasse 30d-8520 erlangende<sep>schlang, manfred, dipl.-ing.schulstrasse 5d-8551 heroldsbachde<sep>felder, heinz-friedrich, dipl.-ing.  <sep>schlang, manfred, dipl.-ing.<sep>felder, heinz-friedrich, dipl.-ing.steinforststrasse 30d-8520 erlangende<sep>schlang, manfred, dipl.-ing.schulstrasse 5d-8551 heroldsbachde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a storage program Miable control with a control unit, a per gram memory, input module and output assembly PEN.According to the invention, a memory for receiving a process image is provided, which is renewed in each machining cyclus.The process binder is an image of the signal states of the inputs and the output states of the outputs.During the processing of a control process, the control unit does not work with the input and output modules, but exclusively with the per zeta image.As a result, the processing speed is increased and a fluttering of the outputs is prevented.
+</ABSTRACT>
+</TEXT>
+</DOC>

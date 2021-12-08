@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014783
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29D-11/00 C03C-17/32 G02B-3/04 G02B-3/02 B29C-39/00 C03C-17/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of producing aspherical elements and products obtained thereby.
+</TITLE>
+<APPLICANT>
+philips electronic associatedgb<sep>philips nvnl<sep>koninklijke philips electronics n.v.<sep>philips electronics uk limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>
+</APPLICANT>
+<INVENTOR>
+howden harrygb<sep>howden, harry<sep>howden, harry c/o philips electronic and ass.industries limited patent department mullard housetorrington place london wc1e 7hdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a light transmissive glass substrate (2) having a profile (3)  which matches in part a desired aspherical profile (4) and  having thereon a thin coating of a light transmissive  polymeric material which has a minimum thickness (5,5′ and  5″, 5‴) at the matching aspherical part of the glass profile and  which increases uniformly in thickness to a maximum, to give  a differential thickness which is just sufficient to accommo­ date the difference between the remainder of the profile of the  substrate and the desired profile whereby the glass substrate  (2) is first prepared to a second order of profile accuracy when  compared with the desired profile by quantity production  techniques, such as, casting, machining or grinding, the subs­ trate is then supported in a mould tool in close proximity to an  optically polished surface of a negative profile of the desired  aspherical profile and the region between the facing surfaces  of the glass substrate and mould filled with the light transmis­ sive polymeric material.  
+</ABSTRACT>
+</TEXT>
+</DOC>

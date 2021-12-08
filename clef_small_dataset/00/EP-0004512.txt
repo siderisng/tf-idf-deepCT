@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004512
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-9/127 <main>C07H-15/04</main> C07K-9/00 A61K-9/00 A61K-31/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+muramyl-peptide ester derivatives and their application to pharmacological compositions and laboratory reactants.
+</TITLE>
+<APPLICANT>
+anvarfr<sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche<sep>
+</APPLICANT>
+<INVENTOR>
+audibert francoise <sep>chedid louis<sep>choay jean  <sep>lederer edgar<sep>lefrancier pierre<sep>parant monique<sep>sache edgar<sep>audibert, francoise<sep>chedid, louis<sep>choay, jean<sep>lederer, edgar<sep>lefrancier, pierre<sep>parant, monique<sep>sache, edgar<sep>audibert, françoise44, rue ybryf-92200 neuilly sur seinefr<sep>chedid, louis16-18, rue gaston de caillavetf-75015 parisfr<sep>choay, jean130, faubourg saint-honoréf-75008 parisfr<sep>lederer, edgar9, boulevard colbertf-92330 sceauxfr<sep>lefrancier, pierre20, rue des bleuetsf-91440 bures sur yvettefr<sep>parant, monique33, rue croulebarbef-75013 parisfr<sep>sache, edgar115, rue charles de gaullef-91440 bures sur yvettefr<sep>audibert, francoise<sep>chedid, louis<sep>choay, jean<sep>lederer, edgar<sep>lefrancier, pierre<sep>parant, monique<sep>sache, edgar<sep>audibert, françoise 44, rue ybryf-92200 neuilly sur seinefr <sep>chedid, louis 16-18, rue gaston de caillavet f-75015 parisfr<sep>choay, jean130, faubourg saint-honoréf-75008 parisfr<sep>lederer, edgar9, boulevard colbertf-92330 sceauxfr<sep>lefrancier, pierre20, rue des bleuetsf-91440 bures sur yvettefr<sep>parant, monique33, rue croulebarbef-75013 parisfr<sep>sache, edgar115, rue charles de gaullef-91440 bures sur yvettefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to new muramy-peptide esters.The compounds according to the invention have the chemical structure of a wall-peptide, the peptide chain containing at least two aminoacyl residues, the second residue being a glutaminyl residue.These compounds are characterized by the presence, on the γ position of the glutinyl residue, a hydrocarbon chain containing at least four carbons.These compounds are useful as immunoregulatory substances in pharmaceutical compositions or as laboratory reagents.
+</ABSTRACT>
+</TEXT>
+</DOC>

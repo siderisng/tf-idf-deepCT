@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000665
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+C01G-55/00 C22B-11/00 C22B-3/32 C22B-3/38 B01J-31/40 C22B-7/00 C07C-45/50 C22B-3/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+rhodium recovery from hydroformylation still heel with triaryl phosphate ligand.
+</TITLE>
+<APPLICANT>
+du pont us<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>
+</APPLICANT>
+<INVENTOR>
+balmat jean louisus<sep>balmat, jean louis<sep>balmat, jean louis808 fairthorn drive cedar croftkennett square pennsylvania 19348us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for recovering rhodium present in a still heel  from the hydroformylation of an unsaturated hydrocarbon  wherein rhodium and a triaryl phosphite ligand were used by  a process comprising   a) pretreating the still heel with a compatible  organic solvent, at least 5 ml of water per 100 g of  still heel, oxygen gas or a precursor thereof and  sufficient base to produce a ph of 2 to 7 in the  reaction mixture after rhodium precipitation;   b) heating to a temperature of from 0° to 80°c to  oxidize the triaryl phosphite ligand to the corresponding  phosphate compound;   c) heating the mixture from b) for from about 15  minutes to about 120 minutes at about 115°c to  about 175°c to precipitate the rhodium and  optionally purifying the rhodium from c) by   d) separating the rhodium precipitate;   e) washing the rhodium precipitate with a solvent-acid  solution at a ph of 3 to 4;   f) treating the rhodium precipitate with an alkaline  reducing solution to reduce the trivalent rhodium  impurity to zero valent rhodium;   g) quenching the rhodium with glacial acetic acid;   h) separating the rhodium;   i) washing the rhodium with an acid solution at a  ph of 3 to 4;   j) drying the rhodium in an inert atmosphere at  from 250° to 400°c;  and   k) oxidizing the rhodium at a temperature of from  300° to 900°c to convert the rhodium to rn₂o₃.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008350
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-7/14 H04N-7/15 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+picturephone desk.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft <sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende   <sep>
+</APPLICANT>
+<INVENTOR>
+grimm michaelde<sep>kraemer herbertde<sep>walter rolf klausde<sep>grimm, michael<sep>kraemer, herbert<sep>walter, rolf klaus<sep>grimm, michaelhanfstaeglstrasse 1d-8000 münchen 19de<sep>krämer, herbertfasanenweg 6d-8080 fürstenfeldbruckde<sep>walter, rolf klaustreffauer strasse 50d-8000 münchen 70de<sep>
+</INVENTOR>
+<ABSTRACT>
+for video telephone conferences, a video telephone station comprising several user positions according to the invention is built as a compact terminal unit into a table having a round top (1).  the user positions are arranged in sector-shaped areas (10) of the table top, distributed uniformly over its circumference.  on top of the table top, video devices (4) associated with the user positions are located in its centre area.  the screens (5) can be subdivided into a corresponding number of equally large approximately square screen part areas for the simultaneous reproduction of several images.  the centre leg (2) of the table is constructed as a hollow body and accommodates common devices of the terminal unit.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

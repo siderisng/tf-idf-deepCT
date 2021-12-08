@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009093
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-9/355 G06F-13/00 G06F-12/02 <main>G11C-17/00</main> G06F-9/26 G06F-9/34 G06F-9/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+self-contained relocatable memory subsystem.
+</TITLE>
+<APPLICANT>
+burroughs corpus<sep>burroughs corporation<sep>burroughs corporation (a michigan corporation)burroughs placedetroit, michigan 48232us<sep>burroughs corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+drogichen daniel p<sep>drogichen, daniel p.<sep>drogichen, daniel p.bl magdalene house 500 w. rosedale ave.west chester, pa. 19380us<sep>drogichen, daniel p.<sep>drogichen, daniel p.bl magdalene house 500 w. rosedale ave.west chester, pa. 19380us<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for use as part of a computer system's  external memory for storing a subprogram used by the com­ puter and modifying selected data words read from the ap­ paratus prior to transmission to the computer.  the appara­ tus includes an addressable read only memory (rom) (12)  having a word size which is greater than the instruction  word size used by the computer.  the apparatus also includes  a plurality of base registers (14) which may be loaded  under control of the computer's operating system program.   the read only memory (12) contains a software subpro­ gram written assuming it is stored at an absolute location  in the computer's memory system other than its actual  location.  each rom location contains one instruction or  word of data and a plurality of non-data bits which may  specify one of the plurality of base registers (14).  as a word  is read out of the rom (12), a decoding circuit (24) de­ codes the non-data bits to determine which, if any, of the  base registers (14) is specified.  a triggered gating circuit  (16) gates the contents of the specified base register (14)  into an adder (18), the other input to the adder (18) coming  from the data bits read from the rom (12).  
+</ABSTRACT>
+</TEXT>
+</DOC>

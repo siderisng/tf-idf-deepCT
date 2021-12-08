@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005439
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C22C-38/58</main> C22C-38/58 C22C-38/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+use of a ferritic-austenitic chromium-nickel steel.
+</TITLE>
+<APPLICANT>
+ver edelstahlwerke agat<sep>vereinigte edelstahlwerke aktiengesellschaft (vew)<sep>vereinigte edelstahlwerke aktiengesellschaft (vew)elisabethstrasse 12a-1010 wienat<sep>vereinigte edelstahlwerke aktiengesellschaft (vew)<sep>vereinigte edelstahlwerke aktiengesellschaft (vew)<sep>
+</APPLICANT>
+<INVENTOR>
+koren manfred dipl-ing<sep>weingerl hermann dipl-ing dr<sep>koren, manfred, dipl.-ing.<sep>weingerl, hermann, dipl.-ing. dr.<sep>koren, manfred, dipl.-ing.hermann lönsgasse 3a-8605 kapfenbergat<sep>weingerl, hermann, dipl.-ing. dr.maria zellergasse 19a-8605 kapfenbergat<sep>koren, manfred, dipl.-ing.<sep>weingerl, hermann, dipl.-ing. dr.<sep>koren, manfred, dipl.-ing.<sep>weingerl, hermann, dipl.-ing. dr. <sep>koren, manfred, dipl.-ing. hermann lönsgasse 3 a-8605 kapfenbergat<sep>weingerl, hermann, dipl.-ing. dr.maria zellergasse 19a-8605 kapfenbergat<sep>
+</INVENTOR>
+<ABSTRACT>
+The use of a ferritic-austenitic CR-Ni steel containing 30 to 70% austenite and the max. 0.1% C, max. 1.0% Si, 4.0 to 6.0% Mn, 22.0to 28.0% CR, 3.5 to 5.5% Ni, 1.0 to 3.0% MO, 0.35 to 0.6% N, remainder iron and inevitable contaminants, for forging pieces already atDouble deformation degree must have a notch toughness (according to ISO-V) of more than 35 joules at a minimum stretch limit of 600 N / mm².
+</ABSTRACT>
+</TEXT>
+</DOC>

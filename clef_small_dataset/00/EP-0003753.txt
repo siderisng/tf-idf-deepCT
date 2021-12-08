@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003753
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-319/06 C07D-317/26 C07D-317/00 C07D-319/00 <main>C07C-45/57</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process of hydroformylating cyclic acrolein acetals.
+</TITLE>
+<APPLICANT>
+du pontus<sep>e.i. du pont de nemours and company<sep>e.i. du pont de nemours and company1007 market streetwilmington delaware 19898us<sep>e.i. du pont de nemours and company<sep>
+</APPLICANT>
+<INVENTOR>
+cumbo charles carmen<sep>cumbo, charles carmen<sep>cumbo, charles carmen1410 bucknell road green acreswilmington del. 19803us<sep>cumbo, charles carmen<sep>cumbo, charles carmen1410 bucknell road green acreswilmington del. 19803us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for hydroformylating a cyclic acrolein acetal to  form the corresponding cyclic acrolein acetal aldehyde, said  process comprising conducting said hydroformylation in the  presence of carbon monoxide, hydrogen, rhodium complex  catalyst and 1-3% of excess triphenyl phosphite ligand based  on the acetal at a pressure of carbon monoxide of from 5-20  psia and a pressure of hydrogen of from 10-400 psia maintained  with a gas having a h₂:co ratio of from 1:1-20:1 and a  temperature of from 100-115°c, the rhodium content of said  catalyst being 1-50 ppm of rhodium based on the acetal.  
+</ABSTRACT>
+</TEXT>
+</DOC>

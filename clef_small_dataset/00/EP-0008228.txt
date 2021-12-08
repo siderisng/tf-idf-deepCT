@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008228
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+C22C-38/28 C22C-38/50 C23C-8/00 C23C-8/24 C22C-38/22 C23C-8/26 <main>C23C-11/16</main> C22C-38/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+internally nitrided ferritic stainless steels, and methods of producing such steels.
+</TITLE>
+<APPLICANT>
+garrett corpus<sep>the±garrett corporation<sep>the garrett corporation9851-9951 sepulveda boulevard p.o. box 92248los angeles, california 90009us<sep>the garrett corporation<sep>
+</APPLICANT>
+<INVENTOR>
+kindlimann lynn edward<sep>kindlimann, lynn edward<sep>kindlimann, lynn edward20213 oxnard streetwoodland hills, california 91367us<sep>kindlimann, lynn edward<sep>kindlimann, lynn edward20213 oxnard streetwoodland hills, california 91367us<sep>
+</INVENTOR>
+<ABSTRACT>
+a light gauge (typically 0. 25 mm to 0. 50 mm) ferritic  stainless steel containing, for example 1. 2% titanium, is  nitrided in ammonia at a temperature between 816°c and  982°c, for a period of, typically, 25 minutes, converting  all the uncombined titanium to dispersed particles of ti­ tanium nitride.  at the same time, chromium in the steel is  converted to chromium nitride, but this is then decom­ posed by a denitriding treatment carried out in hydrogen  at about 1100°c for 3 hours.  the resulting steel contains  a dispersion of titanium nitride particles with an interparticle  spacing of, preferably, less than 2 microns.  in an alternative treatment, the nitriding step is not  continued for long enough to convert all the titanium to  titanium nitride, but the chromium nitride is then decom­ posed in an annealing step at below about 980°c, rather  than a denitriding step; the nitrogen released from the  chromium nitride combines with the remaining titanium  to form titanium nitride.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013346
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B41J-1/30</main> B41J-1/30 B41J-1/00 B41J-1/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+print disc cartridge.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation <sep>international business machines corporationold orchard roadarmonk, n.y. 10504 us  <sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+habich adolph broaddus<sep>hunt ronald eugene<sep>habich adolph broaddus<sep>hunt, ronald eugene<sep>habich adolph broaddus8004 ceberry driveaustin, texasus<sep>hunt, ronald eugene8702 honeysuckle trailaustin, texasus<sep>habich adolph broaddus<sep>hunt, ronald eugene  <sep>habich adolph broaddus8004 ceberry driveaustin, texasus<sep>hunt, ronald eugene8702 honeysuckle trailaustin, texasus<sep>
+</INVENTOR>
+<ABSTRACT>
+Cartridge to contain a radial port-tab print wheel at a time during storage and use in a printer.The cartridge (1) according to the invention has a rear face (5), a front panel (6) combined with lateral faces (9) and (10).The bottom of the cartridge (1) is open to allow the introduction or removal of a print wheel (2).The front panel (6) has a notch (8) for the passage of a striking hammer and a positioning opening (7) for receiving a corresponding element (29) of the print wheel (2).A spring (48) contained in the cartridge (1) holds the element (29) in the opening (7) as long as the print wheel (2) should not rotate.A ribbon guide (21) and a paper guide (24) are attached to the top of the cartridge (1).
+</ABSTRACT>
+</TEXT>
+</DOC>

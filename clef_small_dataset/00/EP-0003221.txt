@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003221
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-309/00 <main>C07D-311/66</main> C07D-311/66 C07C-143/68 C07D-311/00 C07D-311/72 C07C-309/66 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of 3,4-dihydro-benzopyran derivatives and starting materials in this process.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech<sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+cohen noal<sep>cohen, noal<sep>cohen, noal19 euclid placemontclair, n.j.us<sep>cohen, noal<sep>cohen, noal19 euclid placemontclair, n.j.us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention is concerned with a novel process for the  manufacture of chromane derivatives of the formula    wherein r, r¹, r² and r³ are hydrogen or lower alkyl and r⁴ is  lower alkyl.  this process comprises reducing a compound of the  formula  wherein r¹, r² and r³ are hydrogen or lower alkyl and r′,   r⁴ and r⁵ are lower alkyl,  in a polar solvent in the presence of a base.  the invention is further concerned with the novel  compounds of formula ii which are used as starting materials.  the compounds of formula i are, inter alia, valuable  intermediates in the synthesis of vitamin e.  
+</ABSTRACT>
+</TEXT>
+</DOC>

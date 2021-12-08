@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015171
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-207/22 C07D-211/00 C07D-471/00 A61K-31/55 A61P-25/00 C07D-487/04 A61P-25/24 A61K-31/435 C07D-487/00 <main>C07D-471/04</main> A61K-31/505 A61P-25/26 C07D-211/72 C07D-471/04 C07D-207/00 A61K-31/415 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+condensed derivatives of pyrrolidine or piperidine, process for their preparation and composition containing them.
+</TITLE>
+<APPLICANT>
+logeais labor jacquesfr<sep>societe dite: laboratoires jacques logeais<sep>laboratoires jacques logeais société dite:71, avenue du général de gaullef-92130 issy-les-moulineauxfr<sep>laboratoires jacques logeais societe dite:  <sep>
+</APPLICANT>
+<INVENTOR>
+legeai jacky marcel<sep>maillard jacques<sep>vo van tri<sep>legeai, jacky marcel<sep>maillard, jacques<sep>vo van, tri<sep>legeai, jacky marcel3, résidence marceauf-91120 palaiseaufr<sep>maillard, jacques82 bis, avenue de parisf-78000 versaillesfr<sep>vo van, tri5 bis, rue du centref-91430 ignyfr<sep>legeai, jacky marcel<sep>maillard, jacques<sep>vo van, tri<sep>legeai, jacky marcel3, résidence marceauf-91120 palaiseaufr<sep>maillard, jacques82 bis, avenue de parisf-78000 versaillesfr<sep>vo van, tri5 bis, rue du centref-91430 ignyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The object of the compounds of the formula in which N is 1 or 2, R₁ represents a hydrogen and R₂ atom represents a phenyl group or a benzofuryl-2 group, or R₂ represents a hydrogen atom andR₁ represents a phenyl group or a benzyl group, and the group -Ab- represented a group of formula -co-H-, -CO-H-CH₂, or -co (CH₂) ₃- R representing a hydrogen atom, a C₁ to C₆ alkyl radical, a phenyl group, a benzyl group, a methylthioethyl group, or a group of formula (CH₂) M-coor ', m being equal to 0, 1 or 2 and R' being an alkyl radicalC₆, as well as their salts with pharmacologically acceptable acids.These compounds are useful as anti-depressants in therapeutic.
+</ABSTRACT>
+</TEXT>
+</DOC>

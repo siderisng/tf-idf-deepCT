@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002360
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F04D-27/02</main> F04D-27/02 G05B-5/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for automatically limiting one controlled variable of a multivariable system and apparatus for antisurge protection of a dynamic compressor.
+</TITLE>
+<APPLICANT>
+compressor controls corp us  <sep>compressor controls corporation<sep>compressor controls corporation115 s.w. 8th streetdes moines iowa 50309us<sep>compressor controls corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+staroselsky naum<sep>staroselsky, naum<sep>staroselsky, naum534 waterbury circledes moines polk iowaus<sep>staroselsky, naum<sep>staroselsky, naum534 waterbury circledes moines polk iowaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a control apparatus for antisurge protection of a dynamic  compressor including a junction of a closed antisurge  loop with a surge limit computing module and a two mode  controller with a relay backup system with deviation alarms  is characterized in operation in that during a slow disturbance,  the two mode controller provides modulated antisurge  protection by opening a relief valve.  if the operating point of  the compressor crosses the surge control line and during a  dangerously fast disturbance, the relay backup system (119)  provides antisurge protection if a preestablished deviation of  the operating point from the surge control line appears.  the  relay backup system (119) opens the relief valve (107) very  quickly.  when the relief valve (107) is so opened, the process  of the user (106) of fluid from the compressor (101) is  compensated by increasing the performance of the compressor  (101) to maintain pressure or flow rate.  then the  relay system (119) closes the relief valve (107) exponentially,  which prevents a dangerous deviation of the operating point  from the surge control line.  in time, the surge limit line may  change so that the surge control line is no longer correctly  placed.  if under such circumstances surge appears, then the  backup relay system (119) opens the relief velve (107) very  fast, closes it exponentially and changes the position of  surge control line.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003962
+</DOCNO>
+<TEXT>
+<DATE>
+19790919
+</DATE>
+<IPC-CLASSIFICATIONS>
+E02F-9/22 F15B-11/042 F15B-11/00 F15B-11/02 G05D-13/00 F15B-11/08 F15B-11/044 <main>F15B-11/08</main> G05D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+low pressure signal driven flow control system.
+</TITLE>
+<APPLICANT>
+caterpillar tractor cous<sep>caterpillar tractor co.<sep>caterpillar tractor co.100 northeast adams streetpeoria, illinois 61629us<sep>caterpillar tractor co.  <sep>
+</APPLICANT>
+<INVENTOR>
+johnson howard leighton<sep>johnson, howard leighton<sep>johnson, howard leighton608 bethel drivejoliet illinois 60435us<sep>johnson, howard leighton<sep>johnson, howard leighton608 bethel drivejoliet illinois 60435us<sep>
+</INVENTOR>
+<ABSTRACT>
+a hydraulic system including a bidirectional hydraulic  motor (10) having first and second fluid ports, a pump (58), a  control valve (20) for selectively connecting the pump to (a)  the first port and venting the second port and (b) the second  port and venting the first port, a modulating valve (100) interposed  between the pump and the control valve for varying  flow from the pump to the control valve, a pilot for the modulating  valve, and a resolver (118) for selecting the lowest  pressure at the motor ports and for directing a fluid signal  proportional thereto to the pilot to control the modulating  valve.  
+</ABSTRACT>
+</TEXT>
+</DOC>

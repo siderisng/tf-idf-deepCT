@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009882
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/7064 C07H-19/06 C07H-19/073 <main>C07H-19/08</main> C07H-19/00 A61K-31/7072 A61K-31/70 A61K-31/505 A61K-31/7042 A61P-35/00 A61K-31/7052 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2'-deoxy-5-fluorouridine derivatives, a process for producing the same and antitumor agents comprising the same.
+</TITLE>
+<APPLICANT>
+funai pharmaceutical ind ltdjp<sep>funai pharmaceutical ind., ltd.<sep>funai pharmaceutical ind., ltd.40, tsurigane-cho 2-chomehigashi-ku, osaka-fujp<sep>funai pharmaceutical ind., ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+fujii setsuro<sep>sakakibara euchi<sep>fujii, setsuro<sep>sakakibara, euchi<sep>fujii, setsurono. 4, nishi-midorigaoka 1-chometoyonaka-shi, osaka-fujp<sep>sakakibara, eüchi1825-304, ushigami, sumiyoshi-chohigashi-nada-ku kobe-shi, hyogo-kenjp<sep>fujii, setsuro<sep>sakakibara, euchi<sep>fujii, setsurono. 4, nishi-midorigaoka 1-chometoyonaka-shi, osaka-fujp<sep>sakakibara, eüchi1825-304, ushigami, sumiyoshi-chohigashi-nada-ku kobe-shi, hyogo-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+novel 2′-deoxy-5- fluorouridine derivatives represented  by the formula;    wherein r represents a hydrogen atom, an alkyl group having  1 to 5 carbon atoms, an alkoxy group having 1 to 4 carbon  atoms, an acetyloxy group or a halogen atom, and n is an  a integer in the range of 1 to 3 are provided.  these have good  antitumor activities and low toxicities and are suitable for use  as antitumor agents.  the new compounds may be prepared  by reacting 2′-deoxy-3′,5′-di-0-acetyl-5- fluorouridine with a  benzoyl halide of the formula;    where hal is a halogen atom and r and n are as before,  preferably in the presence of an organic base, particularly  triethylamine and a solvent, particularly dioxane.  
+</ABSTRACT>
+</TEXT>
+</DOC>

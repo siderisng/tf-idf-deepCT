@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002185
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/28 H01L-23/522 <main>H01L-21/60</main> H01L-21/88 H01L-21/3213 H01L-21/768 H05K-3/46 H01L-23/52 H01L-21/02 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for interconnecting two crossed conducting metal lines deposited on a substrate.
+</TITLE>
+<APPLICANT>
+ibm us <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+alcorn george edward<sep>hamaker raymond weaver<sep>stephens geoffrey brownell<sep>alcorn, george edward<sep>hamaker, raymond weaver<sep>stephens, geoffrey brownell<sep>alcorn, george edward2363 glade bank wayreston va. 22091us<sep>hamaker, raymond weaver1560 welburn avenuegilroy california 95020us<sep>stephens, geoffrey brownell1320 yubinaranda circlecary north carolina 27511us<sep>alcorn, george edward <sep>hamaker, raymond weaver  <sep>stephens, geoffrey brownell<sep>alcorn, george edward2363 glade bank wayreston va. 22091us<sep>hamaker, raymond weaver1560 welburn avenuegilroy california 95020us<sep>stephens, geoffrey brownell1320 yubinaranda circlecary north carolina 27511us<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for producing a connection between two crossing conductors extending on the surface of a substrate conductor trains on the conductor trains (6 ') of the first metallization plane is formed as an etching system layer (8') of chromium.On this structure, an insulating layer (12 ') with connection holes is applied to the contact points and a metal layer in the second metallization plane.In forming the conductor trains (20 ') by reactive plasma etching, the chromium layer (8') prevents overrides of the conductor trains (6 ') of the first metallization plane.The chromium layer (8 ') at the same time serves as a diffusion barrier for silicon atoms attached to the metal of the first metallization plane.
+</ABSTRACT>
+</TEXT>
+</DOC>

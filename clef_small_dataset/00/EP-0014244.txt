@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014244
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04J-1/00 G01R-31/00 H04B-17/00 H04L-27/00 H04J-1/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for testing a frequency synthesizer in a hf modem.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+hong ju hi johnus<sep>hong, ju hi john<sep>hong, ju hi john1424 princess ann dr.raleigh, nc 27607us<sep>
+</INVENTOR>
+<ABSTRACT>
+The modem comprises a transmitter (10) comprising an oscillator (22) which provides a carrier at the frequency, a modulator (24) and a mixer (28), a receiver (14) comprising a mixer (36) and a filter toNarrow band (40), and a frequency synthesizer (18).To test the latter, the circuit (20) controls the synthesizer (18) so that it generates a signal having a frequency equal to (2 + p) fi, P positive non-zero integer, and the switches (50), (52) and (54) are put in position II.The presence of a component at the output frequency of the mixer (36) is indicative of the correct operation of the synthesizer (18).
+</ABSTRACT>
+</TEXT>
+</DOC>

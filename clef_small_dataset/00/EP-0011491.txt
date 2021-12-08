@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011491
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-5/24 G01B-5/255 G01B-7/315 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for measuring vehicle track alignment.
+</TITLE>
+<APPLICANT>
+repco res pty ltd au  <sep>repco limited<sep>repco limited630, st. kilda roadmelbourne victoria 3004au<sep>
+</APPLICANT>
+<INVENTOR>
+harant gerhart wilhelmau<sep>miller keithau<sep>harant, gerhart wilhelm<sep>miller, keith<sep>harant, gerhart wilhelm15, harold streetblackburn 3130 victoriaau<sep>miller, keith"wattlebrae" emerald roadupper beaconsfield victoria, 3808au<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a simple method and apparatus  for measuring vehicle track alignment (toe-in and toe-out).   the vehicle front wheels (10) are each supported on a pair of  spaced parallel support rollers (11) and a sensing roller (13)  is arranged in contact with the tyre tread surface at the low­ ermost point of the tyre (12) and normal to the longitudinal  axis of the vehicle, that is, normal to the true forward direc­ tion of the vehicle.  the sensing roller (13) is able to move  axially on its axis of rotation (axle) (16).  the method com­ prises rotating each front wheel (10) separately through a  limited angular rotation equivalent to a known forward dis­ placement of the vehicle and measuring the axial displace­ ment of the sensing roller (13).  the forward displacement  and axial displacement figures may then be used to compute  toe-in or toe-out and the same procedure may then be per­ formed on the other wheel.  the apparatus includes a mount­ ing structure which extends across the width of the vehicle  and supports the support rollers on each side.  the mounting  structure is pivoted between the vehicle wheels such that the  apparatus automatically aligns with the apparatus.  means  for obtaining a differential reading of axial displacement of  the sensing rollers is also disclosed.  
+</ABSTRACT>
+</TEXT>
+</DOC>

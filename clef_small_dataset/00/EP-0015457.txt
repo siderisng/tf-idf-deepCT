@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015457
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-85/00 <main>B29F-3/03</main> B29C-47/76 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separated diversion of the single-phase streams from a multiphase stream.
+</TITLE>
+<APPLICANT>
+bayer ag de <sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+hucks uwe<sep>lehr gunter dr<sep>lohr dieter dr<sep>vernaleken hugo dr<sep>hucks, uwe<sep>lehr, gunter, dr.<sep>lohr, dieter, dr.<sep>vernaleken, hugo, dr.<sep>hucks, uweam marienstift 30d-4234 alpende<sep>lehr, günter, dr.bethelstrasse 17d-4150 krefeldde<sep>löhr, dieter, dr.zum wald 25d-4234 alpende<sep>vernaleken, hugo, dr.ginsterweg 5d-3030 walsrodede<sep>hucks, uwe<sep>lehr, gunter, dr.<sep>lohr, dieter, dr.<sep>vernaleken, hugo, dr. <sep>hucks, uwe am marienstift 30 d-4234 alpende<sep>lehr, günter, dr.bethelstrasse 17d-4150 krefeldde<sep>löhr, dieter, dr.zum wald 25d-4234 alpende<sep>vernaleken, hugo, dr.ginsterweg 5d-3030 walsrodede<sep>
+</INVENTOR>
+<ABSTRACT>
+The individual phases of highly viscous fluid and gas of a multiphase current are probed in a twin screw and fed to separate because of further use, whereby a uniform residence time of all product particles per component is maintained.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007730
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01S-5/323 H01S-5/22 H01L-21/208 H01L-33/00 <main>H01S-3/19</main> H01S-5/00 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor laser device.
+</TITLE>
+<APPLICANT>
+hitachi ltdjp<sep>hitachi, ltd.<sep>hitachi, ltd.5-1, marunouchi 1-chomechiyoda-ku, tokyo 100jp<sep>hitachi, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+hirao motohisa<sep>kajimura takashi<sep>kuroda takao<sep>nakamura michiharu<sep>umeda junichi <sep>yamashita shigeo<sep>hirao, motohisa  <sep>kajimura, takashi<sep>kuroda, takao<sep>nakamura, michiharu<sep>umeda, junichi<sep>yamashita, shigeo<sep>hirao, motohisa2-2-6 ogikubosuginami-ku, tokyojp<sep>kajimura, takashi2-32 koyasu-chohachioji-shi, tokyojp<sep>kuroda, takao4-815-2 nishi-koigakubokokubunji-shi, tokyojp<sep>nakamura, michiharu2196-283 hiraihinodemachi, nishitama-gun, tokyojp<sep>umeda, junichi612-10 kamiichibukata-machihachioji-shi, tokyojp<sep>yamashita, shigeo1-48-18 akatsuki-chohachioji-shi, tokyojp<sep>hirao, motohisa<sep>kajimura, takashi<sep>kuroda, takao<sep>nakamura, michiharu<sep>umeda, junichi <sep>yamashita, shigeo<sep>hirao, motohisa 2-2-6 ogikubo suginami-ku, tokyo jp<sep>kajimura, takashi2-32 koyasu-chohachioji-shi, tokyojp<sep>kuroda, takao4-815-2 nishi-koigakubokokubunji-shi, tokyojp<sep>nakamura, michiharu2196-283 hiraihinodemachi, nishitama-gun, tokyojp<sep>umeda, junichi612-10 kamiichibukata-machihachioji-shi, tokyojp<sep>yamashita, shigeo1-48-18 akatsuki-chohachioji-shi, tokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor laser device of the double-hetero struc­ ture has a semiconductor substrate (4), a semiconductor  active layer (1) and cladding layers (2,3) sandwiching the  active layer (1).  in order to achieve a laser which can operate at a short  wavelength.  e. g.  about 0. 6 µm, the substract (4) is gaastp1-t  (0. 54 ≦ t ≦ 1. 0) and the active layer (1) is gayin1-yasxp1-x(0. 52  ≦ y ≦ 1. 0 and 0 ≦ x ≦ 1. 0).  the first cladding layer (2) is  gapal1-pasqp1-q (0 ≦ p ≦ 0. 91 and 0. 47 ≦ q ≦ 1. 0) and the  second cladding layer (3) is gap′al1-p′asq′p1-q′ (0 ≦ p′ ≦ 0. 91  and 0. 47 ≦ q′ ≦ 1. 0).  the two cladding layers (2,3) are of  opposite conductivity type.  the active layer (1) has an optical  confinement region of refractivity higher than that of the clad­ ding layers and a band gap narrower than that of the cladding  layers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

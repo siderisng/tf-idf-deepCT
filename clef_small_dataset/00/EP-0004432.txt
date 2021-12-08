@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004432
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11C-13/04 <main>G11C-13/04</main> G11B-7/24 G11B-7/00 B41M-5/26 G02F-1/29 G11B-7/243 G11B-7/004 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical storage system.
+</TITLE>
+<APPLICANT>
+xerox corpus<sep>xerox corporation<sep>xerox corporationxerox square - 020rochester new york 14644us<sep>xerox corporation <sep>
+</APPLICANT>
+<INVENTOR>
+geils ronald h<sep>keezer richard c<sep>geils, ronald h<sep>keezer, richard c<sep>geils, ronald h2463 louis roadpalo alto california 94303us<sep>keezer, richard c80 alma courtlos altos california 94022us<sep>geils, ronald h <sep>keezer, richard c<sep>geils, ronald h2463 louis roadpalo alto california 94303us<sep>keezer, richard c80 alma courtlos altos california 94022us<sep>
+</INVENTOR>
+<ABSTRACT>
+an optical storage system (2) in which the effect of optical  interference is utilized to provide information storage.  heating of  selected portions of an optical storage structure (8) causes a  permanent change in the wavelength and intensity of the interference  fringes of the optical storage structure (8), and those  changes give rise to large changes in light reflectivity positions  at the initial interference finge wavelengths thereby giving rise  to an optical pattern that is readily detectable.  changes in reflectivity positions may be accomplished by  changing the optical absorption spectrum of the structure without  any appreciable change in the index of refraction at the  selected positions.  preferred storage structure (8) include alloys of the ge-se-s-te  group overlaying a metallic layer.  
+</ABSTRACT>
+</TEXT>
+</DOC>

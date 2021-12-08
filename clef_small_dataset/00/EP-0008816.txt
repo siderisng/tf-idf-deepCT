@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008816
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/1343 <main>G02F-1/133</main> G09F-9/30 G02F-1/137 G02F-1/1333 G02F-1/13 G09F-9/35 G02F-1/139 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+liquid crystal display device.
+</TITLE>
+<APPLICANT>
+philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>n.v. philips' gloeilampenfabrieken<sep>
+</APPLICANT>
+<INVENTOR>
+de zwart maarten<sep>lathouwers theodorus wilhelmus<sep>de zwart, maarten<sep>lathouwers, theodorus wilhelmus<sep>de zwart, maartenc/o intern. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>lathouwers, theodorus wilhelmusc/o intern. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>de zwart, maarten  <sep>lathouwers, theodorus wilhelmus <sep>de zwart, maartenc/o intern. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>lathouwers, theodorus wilhelmusc/o intern. octrooibureau b.v. prof. holstlaan 6nl-5656 aa eindhovennl<sep>
+</INVENTOR>
+<ABSTRACT>
+in a liquid crystal matrix display device in which the bis­ tability effect of a cholesteric liquid crystal is used, the number  of lines to be driven is increased by providing the electrodes  (5) on grooves (3) provided in the supporting plates (1,2).  the  electrodes (5) partly overlap the part of a supporting plate  present between two grooves.  the electrode surface and the  remaining surface of the supporting plates are covered by a  dielectric layer (7).  the grooves have a depth which is equal to  half the desired thickness of the liquid crystal layer.  herewith a  uniform thickness of the liquid crystal layer is also obtained.  
+</ABSTRACT>
+</TEXT>
+</DOC>

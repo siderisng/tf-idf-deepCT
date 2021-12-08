@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007109
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-1/68 F04B-13/02 G05D-11/00 <main>G05D-11/03</main> F04B-13/00 B01J-4/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for metering a solution of chemicals to a stream of liquid.
+</TITLE>
+<APPLICANT>
+lang apparatebau gmbhde<sep>lang apparatebau gmbh<sep>lang apparatebau gmbhraiffeisenstrasse 7d-83313 siegsdorfde<sep>lang apparatebau gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+eichner walter<sep>kern johann<sep>eichner, walter<sep>kern, johann<sep>eichner, walterhammertinger strasse 1d-8221 siegsdorfde<sep>kern, johannbirkenweg 6d-8221 vachendorfde<sep>eichner, walter  <sep>kern, johann <sep>eichner, walterhammertinger strasse 1d-8221 siegsdorfde<sep>kern, johannbirkenweg 6d-8221 vachendorfde<sep>
+</INVENTOR>
+<ABSTRACT>
+Device for dosing a chemical solution in flowing fresh liquid (in particular water) of a liquid line (3) by means of a mechanically driven by the liquid pressure mechanically driven piston exhibition pump, which conveys the chemical solution from a product reservoir in its a set of liquid-containing metering pump Pen space (30) and outDrives this via a spring Verbela stet check valve (32) against the spring force of the last ren into the fluid line.A second pump (20) which acts under pressure to the metering pump space (30) with freshly liquid pressure has a piston equal to the metering piston (22) of the metering pump (23).
+</ABSTRACT>
+</TEXT>
+</DOC>

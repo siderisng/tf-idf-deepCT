@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006480
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03M-13/13 G11C-7/00 G06F-12/16 H03M-13/27 H03M-13/00 G06F-11/10 G11B-5/00 <main>G06F-11/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for generating error locating and parity check bytes.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporation old orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+hodges paul<sep>schaeuble werner josef<sep>shaffer paul lee<sep>hodges, paul<sep>schaeuble, werner josef<sep>shaffer, paul lee<sep>hodges, paul6154 monteverde drivesan jose california 95120us<sep>schaeuble, werner josefachalmstrasse 19d-7031 gartringende<sep>shaffer, paul lee4951 cherry avenue apt. 306san jose california 95118us<sep>hodges, paul<sep>schaeuble, werner josef <sep>shaffer, paul lee  <sep>hodges, paul6154 monteverde drivesan jose california 95120us<sep>schaeuble, werner josefachalmstrasse 19d-7031 gartringende<sep>shaffer, paul lee4951 cherry avenue apt. 306san jose california 95118us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention concerns a method and apparatus for  generating error locating and parity check bytes for a block  of data bytes each consisting of k bits.  the data bytes are presented in series to a data reg­ ister (10) and fed in parallel to three channels (21, 22 and  23).  each channel has a random access memory including  three registers and a memory address circuit operated,  under the control of control means (20), to address the  three registers cyclically.  the first data byte is combined  with the output from the first register of each random ac­ cess memory, the second data byte with the output from  the second register and the third byte with the output from  the third register whereupon the cycle is repeated.  the  result is to generate three parity check bytes in the channel  (21), three error locating check bytes in channel (22) and  three error locating check bytes in channel (23) corre­ sponding respectively to three interleaved subsets of the  block of data bytes.  the check bytes for each subset of  data bytes can be used to locate and correct any one data  byte in error in the subset.  however, the check bytes of all  three subsets taken together can be used to locate and  correct an error spanning a series of adjacent data bytes  including one data byte from each subset.  
+</ABSTRACT>
+</TEXT>
+</DOC>

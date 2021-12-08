@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003307
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09F-9/00 G09G-5/16 G09G-3/00 <main>C09G-1/00</main> G09G-1/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+switching device for display apparatus for producing texts reading from left to right or right to left.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen <sep>
+</APPLICANT>
+<INVENTOR>
+heinrich martin<sep>heinrich, martin<sep>heinrich, martinjosef-kyrein-strasse 11d-8014 neubibergde<sep>heinrich, martin<sep>heinrich, martinjosef-kyrein-strasse 11d-8014 neubibergde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  circuit arrangement for video display units for the production of characters running from left to right or characters, in particular semitic characters, running from right to left, which comprises a display unit and a picture control unit (bst) which drives said display unit and contains a symbol store (syr) and wherein the picture control unit is connected to a data store (dsp), characterized in that, in the case of a display unit featuring electron beam deflection, between the display unit (az) and the picture control unit (bst) there is arranged a first switching device (se 1) by means of which the terminals for the horizontal deflection (fa, ga) of the display unit (az) can be switched over from a first position assigned to the left to right character display into a second position assigned to a right to left character display in which the terminals of the horizontal deflection unit (fa, ga) are transposed, and that the picture control unit (bst) comprises a further symbol store (syl) for the right to left character display which can be switched on via a second switching device (se 2). 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004793
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-405/06 A61K-31/513 A61K-31/506 C07D-233/64 C07D-239/00 A61P-1/14 C07D-405/02 C07D-403/00 A61P-1/00 C07D-405/00 C07D-403/02 C07D-405/12 C07D-403/14 C07D-401/14 C07D-239/47 C07D-401/06 C07D-239/46 <main>C07D-239/46</main> C07D-401/00 C07D-405/14 C07D-401/02 C07D-233/00 C07D-403/12 A61K-31/505 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+2-nitro aminopyrimidone derivatives, a process for their preparation and their use to prepare 2-aminopyrimidone derivatives which have histamine h2-antagonist activity.
+</TITLE>
+<APPLICANT>
+smith kline french labgb<sep>smith kline & french laboratories limited<sep>smith kline &amp; french laboratories limitedmundellswelwyn garden city hertfordshire, al7 1eygb<sep>smith kline & french laboratories limited<sep>
+</APPLICANT>
+<INVENTOR>
+brown thomas henry<sep>brown, thomas henry<sep>brown, thomas henry115 daniellswelwyn garden city hertfordshiregb<sep>brown, thomas henry<sep>brown, thomas henry115 daniellswelwyn garden city hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+2-aminopyrimidones which are histamine h₂-antagonists  having the structure    in which het is a nitrogen-containing 5- or 6-membered fully  unsaturated heterocyclic group, m is 0 or 1, y is methylene,  oxygen or sulphur, n is 2 or 3, z is hydrogen or lower alkyl, a  is an alkylene group or an alkylene group interrupted by  oxygen or sulphur, and b is hydrogen or a methyl, cycloalkyl,  heteroaryl, phenyl, naphthyl, benzodioxolyl or dihydrobenzodioxinyl  group, are prepared by a process in which an  amine het-(ch₂)my(ch₂)nnh₂ is reacted with a 2-nitroaminopyrimidone  of structure    the new 2-nitroaminopyrimidone intermediates are prepared  by reacting nitroguanidine with an oxoester ro₂c-ch(coz)-a-b  where r is lower alkyl.  
+</ABSTRACT>
+</TEXT>
+</DOC>

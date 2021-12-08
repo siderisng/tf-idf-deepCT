@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001766
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-31/00 B29B-9/08 B29B-13/00 B29B-9/00 B29B-7/00 B29C-47/00 C08J-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for improving the processing qualities of powdery polyolefins
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>
+</APPLICANT>
+<INVENTOR>
+mayer manfred drde<sep>noeltner gerhard de <sep>nowack rudolf drde<sep>strobel wolfgang drde<sep>mayer, manfred, dr.<sep>noeltner, gerhard<sep>nowack, rudolf, dr.<sep>strobel, wolfgang, dr.<sep>mayer, manfred, dr.königsberger strasse 8d-6272 niedernhausen/taunusde<sep>nöltner, gerhardsossenheimer weg 33ad-6230 frankfurt/main 80de<sep>nowack, rudolf, dr.westenbergerstrasse 34d-6230 frankfurt/main 80de<sep>strobel, wolfgang, dr.ubierstrasse 39d-6238 hofheim am taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+The processing properties of powdery polyolefins should be improved.A polyolefin powder is desired, which can be processed on screw machines to almost bubble-free product.The polyolefin powder is heated to a temperature between 40 ° C and its melting point and brought into the gap of two cleavage-forming elements.In the gap, the powder is pressed with contact forces of 0.1 to 10 t / cm cleavage length and then crushes the compressed powder.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010662
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04J-3/07</main> H04J-3/06 H04J-3/08 H04J-3/07 H04J-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+multiplexing apparatus.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft  <sep>
+</APPLICANT>
+<INVENTOR>
+muller horst dipl-ing<sep>muller, horst, dipl.-ing.<sep>müller, horst, dipl.-ing.dammstrasse 11d-8021 hohenschäftlarnde<sep>muller, horst, dipl.-ing.<sep>müller, horst, dipl.-ing.dammstrasse 11d-8021 hohenschäftlarnde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a multiplexer based on the positive or negative stuffing method for plesiochrone digital signals or to a branch point, in which only part of the channels are supplied or removed plesiachrone digital signals. In the failure of one or more input signals or an error in your own area, such a device in the affected channels outputs an AIS signal (Alarm Indication Signal). According to the invention, an AIS signal is fed via a terminal on the input side, but which is not stuffed, but to which a synthetic stuffing information is assigned, which gives the correct clock frequency in the distant receiver to the AIS signal. The synthetic stuffing information is generated in an arrangement (13). The feeding of AIS signal and synthetic stuffing information in a multi-plexer (11) takes place via a switching arrangement (10). The introduction of a synthetic stuffing information is particularly advantageous if an adjustment arrangement for plesiochrone digital signals does not exist and therefore can not be shared for the AIS signal transmission. The invention is used, for example, in multi plexates of the hierarchy stage, in which four 2.048 Mbps signals are released into an 8,448 Mbit / S signal.
+</ABSTRACT>
+</TEXT>
+</DOC>

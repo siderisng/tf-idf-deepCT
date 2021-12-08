@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012675
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+B28B-21/16 B28B-21/02 <main>B28B-1/08</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for moulding concrete bodies.
+</TITLE>
+<APPLICANT>
+tuyaux bonnafr<sep>societe des tuyaux bonna societe anonyme dite:<sep>societe des tuyaux bonna91, rue du faubourg saint-honoréf-75365 paris cédex 08fr<sep>societe des tuyaux bonna societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+gravier michel<sep>gravier, michel<sep>gravier, michel51, route nationalenezel f-78140 aubergenvillefr<sep>gravier, michel  <sep>gravier, michel 51, route nationalenezel f-78140 aubergenvillefr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  moulding apparatus comprising a concrete mould (1), means for vibrating the concrete and supports for the mould on which it rests freely, characterized in that it comprises a reaction body (4), in that the means for vibrating the concrete are vibrating hydraulic jacks (13, 14) the amplitude and frequency of their vibrations being ajustable independently of one another, and in that the said jacks are interposed between the reaction body (4) and the mould (1) against which they bear. 
+</ABSTRACT>
+<DESCRIPTION>
+procédé et installation de moulage de produits en béton la présente invention concerne un procédé et une installation de moulage de produits en béton. l'invention concerne plus particulièrement le moulage de tuyaux en béton. on connaît l'importance de la phase de vibration du béton dans l'opération de moulage de produits en béton tels que des tuyaux. la vibration du béton permet non seulement de faciliter la mise en place des bétons secs à l'intérieur des moules, mais également et surtout d'améliorer la compacité du béton mouléynotamment en expulsant l'air compris dans celui-ci. la phase de vibration est donc une phase essentielle dans l'opération de moulage du produit. de sa rapidité dépend la productivité de toute la ligne de fabrication et de son efficacité dépend la qualité des produits obtenus. or, on sait qu'il existe une relation entre la qualité du produit en béton vibré et la fréquence,l'amplitude et le temps de vibration dudit produit au cours du moulage. en particulier, la fréquence des vibrations doit être adaptée à la granulométrie du béton moulé. en outre,il importe que le produit moulé en béton soit vibré "à coeur" et non pas superficiellement,de telle sorte que la compacité du béton soit sensiblement la même dans toute la masse moulée. pour obtenir le meilleur résultat dans le temps le plus court possible,il est donc primordial de pouvoir régleraen fonction de la composition du béton,à la fois l'amplitude et la fréquence des vibrations,et ceci de manière indépendante. or, par les méthodes connues et utilisées actuellement,la vibration du béton est obtenue soit de manière interne à l'aide de pervibrateurs à aiguilles noyez dans le béton,soit de manière externe à l'aide de tables vibrantes utilisées essentiellement pour des produits de petites dimensions, ou à l'aide de vibrateurs externes fixés sur la paroi du moule et produisant les vibrations au moyen de masselottes tournantes excentrées. l'action en profondeur dans le béton de ces vibrateurs est généralement assez limiée. l'état de la technique dans ce domaine particulier est illustré notamment dans le brevet des etats-unis n03.584.356 qui divulgue une installation où le vibrage du béton est obtenu à l'aide de vibrateurs fixés à la partie inférieure et à la partie supérieure du moule. avec ces vibrateurs, il est impossible de vibrer uniformément la totalité du béton contenu dans le moule,d'autant plus que ledit moule n'est pas libre latéralement mais retenu par des traverses,ce qui amortit localement les vibrations . de même,dans l'installation décrite dans le brevet français 1.138.855,un vibrateur est fixé sur la paroi extérieure du moule;aussi ,dans ces conditions ,il est hors de question de pouvoir vibrer uniformément la masse de béton contenue dans le moule,et seule la zone près de laquelle se trouve le vibrateur sera soumise à des vibrations d'intensité suffisante,tandis que toute zone éloignée de l'emplacement du vibrateur ne recevra que des vibrations fortement atténuées,ce qui entraîne une hétérogénéité de la compacité du béton, et ceci d'autant plus que le tuyau et le moule sont plus longs. de même,dans l'installation décrite dans le brevet des
+</DESCRIPTION>
+<CLAIMS>
+ revendications    1 .procédé de moulage de produits en béton tels que des tuyaux,consistant notamment à remplir de béton un moule correspondant aux produits à mouler et à vibrer le béton contenu dans le moule,caractérisé en ce qu'on agite l'ensemble formé par le moule et le béton en vue de vibrer ce dernier.    2. procédé selon la revendication   l,carac-    térisé en ce qu'on agite le moule pendant son remplissage.    3. installation de moulage pour la mise en oeuvre du procédé selon l'une des revendications 1 et 2,ladite installation comprenant un moule à béton et des moyens pour vibrer le béton,caractérisée en ce qu'elle comprend en outre un massif de réaction (4) et des supports flottants (2) du moule (1) sur lesquels il repose librement,en ce que les moyens pour vibrer le béton sont des vérins hydrauliques vibrants   (13,14)9et    en ce que lesdits vérins sont intercalés entre le massif de réaction (4) et le moule (1) contre lesquels ils s'appuient  4. installation selon la revendication 3, caractérisée en ce que les supports sur lesquels le moule repose librement sont essentiellement constitués par des moyens de suspension (2) accrochés à un appareil de levage (3).     5. installation selon la revendication 3, caractérisée en ce que les supports du moule (1) sont des berceaux horizontaux.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004765
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/573 A61K-31/58 C07J-71/00 A61K-31/575 C07J-9/00 <main>C07J-9/00</main> C07J-5/00 A61K-31/57 C07J-21/00 A61P-29/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+corticosteroid anti-inflammatory agents, their use and methods for their preparation.
+</TITLE>
+<APPLICANT>
+syntex incus<sep>syntex (u.s.a.) inc.<sep>syntex (u.s.a.) inc.3401 hillview avenuepalo alto california 94303us<sep>syntex (u.s.a.) inc. <sep>
+</APPLICANT>
+<INVENTOR>
+kertesz denis j<sep>marx michael<sep>kertesz, denis j.<sep>marx, michael<sep>kertesz, denis j.459 victory avenuemt. view california 94043us<sep>marx, michael1628 edmonton avenuesunnyvale california 94087us<sep>kertesz, denis j.<sep>marx, michael<sep>kertesz, denis j.459 victory avenuemt. view california 94043us<sep>marx, michael1628 edmonton avenuesunnyvale california 94087us<sep>
+</INVENTOR>
+<ABSTRACT>
+corticosteroids of the formulae    wherein:   r¹⁶ is methyl; and   r¹⁷ independently is hydrogen, or c₂ to c₆ linear or  branched acyl or r¹⁶ and or¹⁷ taken together are the radical  (iv)    where r³ is hydrogen, c₁ to c₆ linear or branched alkyl, and  r⁴ is the same or different than r³ as defined above or is c₁  to c₆ linear or branched alkoxy or r³ and r⁴ taken together  with the carbon atom of said radical is c₄ to c₉ heterocyclic  alkyl having one heterocyclic atom that is oxygen, r²¹  independently is c₁ to c₆ linear or branched alkyl or c₄ to c₉  heterocyclic alkyl having one heterocyclic atom that is  oxygen; or or¹⁷ and or²¹ taken together are the radical (iv)  where r³ is defined above and r⁴ is c₁ to c₆ linear or  branched alkoxy; y is selected from the group methyl,  halomethyl, and the radical -ch₂oc(o)r where r is c₂ to c₆  linear or branched alkyl; z independently is c₁ to c₇ linear or  branched acyloxy, hydroxy or halo or z and or¹⁷ taken  together are the radical (iv) where r³ and r⁴ is defined  above; are useful as anti-inflammatory agents.  compounds  iii can be prepared from compounds i through compounds ii.  
+</ABSTRACT>
+</TEXT>
+</DOC>

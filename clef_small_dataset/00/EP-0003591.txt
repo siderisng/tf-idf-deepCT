@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003591
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+B63J-2/00 B63J-2/10 F16K-17/36 <main>F16K-17/196</main> B63J-2/08 F16K-17/18 F16K-17/196 B63B-25/08 B63B-25/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+venting and anti-pollution device for a shipboard liquid storage tank.
+</TITLE>
+<APPLICANT>
+apv corpus<sep>apv corporation<sep>apv corporation820 - 4th avenue suite 404seattle, washington 98104us<sep>apv corporation<sep>
+</APPLICANT>
+<INVENTOR>
+west harold henry<sep>west, harold henry<sep>west, harold henry3626 43rd avenue westseattle washington 98199us<sep>west, harold henry<sep>west, harold henry3626 43rd avenue westseattle washington 98199us<sep>
+</INVENTOR>
+<ABSTRACT>
+a combination venting and antipollution device for a  shipboard liquid storage tank.  a closure wall (30) divides  the vent conduit into a lower tank chamber (18) in direct  communication with the tank (19) and an upper vent space  (35) in direct communication with the vent opening (36).   a spring-urged valve closure member (50) opens or closes  an opening (31) through the closure wall.  low pressure in  the tank (19) moves the valve closure member (50) down  into a lower open position, to admit air or other fluid to the  tank; high pressure in the tank (19) moves the valve closure  member (50) up into an upper open position to vent  air from the tank (19).  a hydrostatic pressure chamber  (88, 89) open to the atmosphere houses a sealed bellows  (80), and a spill-lock valve (76) secured to the bellows  (80) normally opens to the vent a spill-lock chamber (70)  on the vent side of the valve closure member (50).  however,  when the pressure in the pressure chamber (88, 89)  (or manual action) compresses the bellows (80) (as when  the ship sinks), the bellows (80) moves the spill-lock valve  (76) to close the connection to the vent and cause the  fluid from the tank chamber (19) to flow into the spill-lock  chamber (70), to bear upon a spill-lock piston (52) there.   in this condition, the tank pressure acts on the spill-lock  piston (52) to prevent the valve closure member (50)  from moving up into its upper position until the pressure in  the tank chamber (19) is well above that then present in  the vent space (35), but the tank pressure does not restrain  the valve closure member (50) from moving down  into its lower open position.  salvage operation is also provided  for.  
+</ABSTRACT>
+</TEXT>
+</DOC>

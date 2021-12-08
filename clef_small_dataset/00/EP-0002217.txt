@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002217
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-239/30 C07C-255/00 <main>C07D-239/30</main> C07D-239/00 C07C-241/00 C07C-255/61 C07C-255/24 C07C-67/00 C07C-253/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of tetrachloropyrimidine.
+</TITLE>
+<APPLICANT>
+bayer ag de <sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+beck gunther dr<sep>dankert gerhard dr<sep>doring fritz<sep>beck, gunther, dr.<sep>dankert, gerhard, dr.<sep>doring, fritz<sep>beck, gunther, dr.am mittelberg 19d-5090 leverkusende<sep>dankert, gerhard, dr.arthur-hantzsch-strasse 44d-5000 köln 80de<sep>döring, fritz am hang 13d-5068 odenthalde<sep>beck, gunther, dr.  <sep>dankert, gerhard, dr. <sep>doring, fritz<sep>beck, gunther, dr.am mittelberg 19d-5090 leverkusende<sep>dankert, gerhard, dr.arthur-hantzsch-strasse 44d-5000 köln 80de<sep>döring, fritz am hang 13d-5068 odenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing tetrachloropyrimidine, characterized in that 2-cyanäthylisocyaniddichloride (I) in the gas phase in the temperature range of 200 - 650 ° C is reacted with chlorine;(i) is obtained by the reaction of 2-cyanäthylformamide with thionyl chloride and chlorine: nCCH₂CH₂NHCHO + SOC1₂ + CL₂ → NCCH₂CH₂N = CC1₂
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011712
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 <main>C25B-3/02</main> C07C-41/50 C25B-3/00 C25B-3/02 C25B-3/04 C07C-43/00 C07C-125/04 C07C-271/00 C07C-271/44 C07C-41/00 C07C-125/067 C07C-43/315 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of benzaldehyde dialkyl acetals substituted in the 4-position.
+</TITLE>
+<APPLICANT>
+basf agde   <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+barl manfred dr<sep>degner dieter dr<sep>siegel hardo dr<sep>barl, manfred, dr.<sep>degner, dieter, dr.<sep>siegel, hardo, dr.<sep>barl, manfred, dr.merowingerstrasse 2d-6701 otterstadtde<sep>degner, dieter, dr.kurpfalzstrasse 8d-6701 dannstadt-schauernheimde<sep>siegel, hardo, dr.hans-purrmann-allee 25d-6720 speyerde<sep>barl, manfred, dr. <sep>degner, dieter, dr.<sep>siegel, hardo, dr.<sep>barl, manfred, dr.merowingerstrasse 2d-6701 otterstadtde<sep>degner, dieter, dr.kurpfalzstrasse 8d-6701 dannstadt-schauernheimde<sep>siegel, hardo, dr.hans-purrmann-allee 25d-6720 speyerde<sep>
+</INVENTOR>
+<ABSTRACT>
+In the 4-position substituted benzaldehyddialkylacetals of the formula in the R¹ is one of the radicals CH₂ = CH-CH₂-, R² an alkyl radical and the radicals R³ and R⁴ are hydrogen atoms or alkyl groups, as well as a method of elec trochemical production of these compounds.
+</ABSTRACT>
+</TEXT>
+</DOC>

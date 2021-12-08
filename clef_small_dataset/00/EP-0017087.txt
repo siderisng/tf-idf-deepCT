@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017087
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02F-1/19 G02F-1/15 G02F-1/1335 G09F-9/30 G02F-1/13 G02F-1/157 G02F-1/17 G02F-1/01 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+display method and display device for carrying out this method
+</TITLE>
+<APPLICANT>
+siemens agde  <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+baur guenter dr rer nat dipl-pde<sep>kohlmueller hans ing gradde<sep>krueger hans dipl-physde<sep>baur, guenter, dr. rer. nat., dipl.-phys.<sep>kohlmueller, hans, ing. grad.<sep>kruger, hans, dipl.-phys.<sep>baur, günter, dr. rer. nat., dipl.-phys.waldhofstrasse 8dd-7800 freiburgde<sep>kohlmüller, hans, ing. grad.fr.-bauer-strasse 1d-8520 erlangende<sep>krüger, hans, dipl.-phys.peralohstrasse 13d-8000 münchen 83de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method of optical representation of information in which ambient light in a fluorescent body is captured and decoupled again at selected locations, characterized in that by applying an electrical voltage, reflecting layers are brought into optical contact with the fluorescent body.According to the invention it is proposed to generate these reflection layers by expressing a precipitate from a liquid.This cogel is preferably obtained by an electrochemical reaction from an electrolyte and is usually either a metal such as silver or a (organic) electrochromic layer.The proposed method allows a light output of over 90 ° 0, allows a temporally unlimited, immediately erasable storage of the input information and gives no constructive problems.
+</ABSTRACT>
+</TEXT>
+</DOC>

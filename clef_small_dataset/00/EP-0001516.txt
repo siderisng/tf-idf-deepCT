@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001516
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-205/00 C07D-503/00 A61P-31/00 C07C-205/42 C07D-205/08 A61K-31/42 C07D-205/00 A61K-31/397 A61P-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+beta-lactam compounds, processes for their preparation, pharmaceutical compositions containing them and intermediates of use in their preparation.
+</TITLE>
+<APPLICANT>
+glaxo group ltdgb<sep>glaxo group limited<sep>glaxo group limitedclarges house 6-12 clarges streetlondon w1y 8dhgb <sep>
+</APPLICANT>
+<INVENTOR>
+newall christopher earlegb  <sep>tonge alan paulgb<sep>newall, christopher earle<sep>tonge, alan paul<sep>newall, christopher earle33 elm grove roadealing london w.5gb<sep>tonge, alan paul130 gunnersbury laneacton london w.3gb<sep>
+</INVENTOR>
+<ABSTRACT>
+β-lactam compounds having the formula    are described in which r is a carboxyl or esterified carboxyl  group and r¹ and r², which may be the same or different,  may each represent a hydrogen atom; a substituted or  unsubstituted alkyl, aralkyl or aryl group; or a cyano, formyl,  nitro, carboxyl, esterified carboxyl, etherified thiol or a  sulphone derivative thereof, acyl, etherified hydroxyl, carbamoyl,  substituted carbamoyl, sulphamoyl, substituted  sulphamoyl, hydrazinocarbonyl or protected hydrazinocarbonyl  group together with, in the case where r is a  carboxyl group and/or r¹ and/or r² is a carboxyl group,  salts thereof.  processes for preparing the compounds and pharmaceutical  compositions containing them are also disclosed  and intermediates of use in their preparation are described.   the compounds are of use as antibiotics or as β-lactamase  inhibitors.  
+</ABSTRACT>
+</TEXT>
+</DOC>

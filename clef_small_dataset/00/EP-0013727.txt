@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013727
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-233/00 C07D-403/04 C09J-3/16 C07D-233/76 C07D-233/86 <main>C07D-233/72</main> C09D-3/72 C07D-233/72 C08G-18/78 C07D-233/78 C08G-18/80 C08G-18/30 C07D-233/74 C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+preparation of (thio)hydantoins and their application as heat-resistant coatings, films, powders, adhesives, moulded products, lacquers and fibres.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+dunwald willi dr  <sep>lewalter jurgen dr<sep>merten rudolf dr<sep>rottmaier ludwig ing-grad<sep>schulte bernhard dr<sep>dunwald, willi, dr.<sep>lewalter, jurgen, dr.<sep>merten, rudolf, dr.<sep>rottmaier, ludwig, ing.-grad.<sep>schulte, bernhard, dr.<sep>dünwald, willi, dr.geschw.-scholl-strasse 16d-5090 leverkusen 1de<sep>lewalter, jürgen, dr.bergstrasse 88d-5068 odenthalde<sep>merten, rudolf, dr.berta-von-suttner-strasse 55d-5090 leverkusen 1de<sep>rottmaier, ludwig, ing.-grad.bergstrasse 85d-5068 odenthalde<sep>schulte, bernhard, dr.südwall 80 ad-4150 krefeldde<sep>dunwald, willi, dr.  <sep>lewalter, jurgen, dr. <sep>merten, rudolf, dr.<sep>rottmaier, ludwig, ing.-grad.<sep>schulte, bernhard, dr.<sep>dünwald, willi, dr.geschw.-scholl-strasse 16d-5090 leverkusen 1de<sep>lewalter, jürgen, dr.bergstrasse 88d-5068 odenthalde<sep>merten, rudolf, dr.berta-von-suttner-strasse 55d-5090 leverkusen 1de<sep>rottmaier, ludwig, ing.-grad.bergstrasse 85d-5068 odenthalde<sep>schulte, bernhard, dr.südwall 80 ad-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of compounds containing at least one hydantoin ring or thiohydantoin ring, characterised in that at least 2 mol of optionally masked organic iso(thio)-cyanates are reacted at temperatures of from -20 to +500 degrees with one mol of an alpha-hydroxy and/or alpha-sulphydrylcarboxylic acid derivative of the general formula i  see diagramm : ep0013727,p11,f1  in which r**1 and r**2 , independently of one another, represent hydrogen, a halogen atom, a cn group, a cor group, wherein r represents a hydroxyl, amino, alkylamino, dialkylamino, alkoxy or aroxy group or hydrogen or an aliphatic, cycloaliphatic, aliphatic-aromatic, aromatic or heterocyclic group ; or they may represent an aliphatic group, an aliphatic-aromatic group, a cycloaliphatic group, an aromatic group or a heterocyclic group, each of which may also be substituted by halogen, no2 , cor**4 , cn, co, or oh groups, wherein r**4 = r, or they may also, either together or separately, be joined to r**3 as members of corresponding cyclic organic groups ; r**3 represents a hydroxyl, amino, alkylamino, dialkylamino, alkoxy or aroxy group and x represents an oh or sh group. 
+</ABSTRACT>
+</TEXT>
+</DOC>

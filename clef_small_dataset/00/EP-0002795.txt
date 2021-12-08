@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002795
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/027 H05K-3/06 G03C-1/74 G03F-1/08 G03F-7/26 G03F-7/16 G03F-7/09 G03F-7/095 <main>G03F-7/02</main> G03F-1/00 H01L-21/02 H05K-3/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the fabrication of masks for lithographic processes using a photoresist.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+feng bai-cwo<sep>feng george cheng-cwo<sep>feng, bai-cwo<sep>feng, george cheng-cwo<sep>feng, bai-cwo7f white gates aptswappingers fall ny 12590us<sep>feng, george cheng-cwo164 south avenuepoughkeepsie ny 12601us<sep>feng, bai-cwo<sep>feng, george cheng-cwo<sep>feng, bai-cwo7f white gates aptswappingers fall ny 12590us<sep>feng, george cheng-cwo164 south avenuepoughkeepsie ny 12601us<sep>
+</INVENTOR>
+<ABSTRACT>
+Methods for generating photoresist (photoresist) masks for lithographic processes in which at least one second (22) with a diluent-saturated photoresist layer is applied to a first photoresist layer (21) and in which the photoresist layers different development solution rates for the formation of so-called lower cuttershave profiles.
+</ABSTRACT>
+</TEXT>
+</DOC>

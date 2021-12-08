@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013567
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01J-20/04 B01D-53/12 B01D-53/46 <main>B01D-53/34</main> B01D-53/64 B01D-53/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of purifying gas containing gaseous mercury and gaseous hydrogen chloride.
+</TITLE>
+<APPLICANT>
+svenska flaektfabriken abse<sep>aktiebolaget svenska flaktfabriken<sep>fläkt aktiebolagsickla allé 13s-131 34 nackase<sep>flakt aktiebolag<sep>
+</APPLICANT>
+<INVENTOR>
+lindau leif<sep>lindau, leif<sep>lindau, leiflungörtsvägen 5s-350 51 växjöse<sep>lindau, leif  <sep>lindau, leiflungörtsvägen 5s-350 51 växjöse<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of highly efficiently separating preferably low  contents of gaseous mercury from a gas mixture, where the  gas mixture is caused to contact a solid sorbent consisting of  powdered calcium hydroxide, which in on atmosphere con­ taining hydrogen chloride is to a certain part converted to  calcium chloride.  the temperature of the gas mixture is bet­ ween 350 k and 550 k.  the contact between the gas and the  sorbent preferably takes place in a fluidized bed, whereafter  the sorbent is separated in a dust separator.  the method is  suitable for use at the separation of mercury occuring in flue  gases, for example, from refuse incinerators or in mercury-­ containing gases from process industries.  at experiments  with flue gas from a refuse incinerator the mercury content  was reduced from 200 to 5 µg of gaseous mercury/cubic  metre flue gas.  
+</ABSTRACT>
+</TEXT>
+</DOC>

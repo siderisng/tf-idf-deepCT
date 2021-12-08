@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002469
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G08G-1/12</main> G06K-7/10 G08G-1/017 G01S-13/74 G07B-15/00 G08G-1/015 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vehicle identification device.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchen de<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+becker friedbert  <sep>hildebrandt bernard<sep>koehn knut<sep>sebald georg<sep>becker, friedbert<sep>hildebrandt, bernard<sep>koehn, knut<sep>sebald, georg<sep>becker, friedbertbielitzerstrasse 10d-8000 münchen 70de<sep>hildebrandt, bernardkirchstrasse 15d-8046 hochbrückde<sep>koehn, knut4, lake avenue08816 east-brunswick new jerseyus<sep>sebald, georgmarienstrassse 2d-8000 münchen 2de<sep>becker, friedbert<sep>hildebrandt, bernard <sep>koehn, knut<sep>sebald, georg  <sep>becker, friedbertbielitzerstrasse 10d-8000 münchen 70de<sep>hildebrandt, bernardkirchstrasse 15d-8046 hochbrückde<sep>koehn, knut4, lake avenue08816 east-brunswick new jerseyus<sep>sebald, georgmarienstrassse 2d-8000 münchen 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  apparatus for identifying vehicles, which comprises reading stations which are mounted is stationary fashion along the traffic routes and response devices which are fixed on the vehicles, wherein the reading stations are mounted above the roadway with a direction of radiation extending vertically downwards or obliquely forwards in the direction of oncoming vehicles, and the response device is of flat form in which information carriers in the form of exchangeable code cards are fixed in the interior of the vehicle at a location which can easily be detected by the reading station from above or obliquely from in front, characterized in that the information content of the code cards can be electronically remote-controlled from the vehicle by applying control voltages. 
+</ABSTRACT>
+</TEXT>
+</DOC>

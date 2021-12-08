@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005436
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07C-5/00 G07C-5/08 <main>B60Q-9/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+warning arrangement with central indication of the running conditions of a vehicle.
+</TITLE>
+<APPLICANT>
+vdo schindlingde  <sep>vdo adolf schindling ag<sep>vdo adolf schindling aggräfstrasse 103d-60487 frankfurtde<sep>vdo adolf schindling ag<sep>
+</APPLICANT>
+<INVENTOR>
+simon ernst-ulrich<sep>ullrich horst<sep>simon, ernst-ulrich<sep>ullrich, horst<sep>simon, ernst-ulrichim rosengärtchen 18d-6370 oberursel/ts.de<sep>ullrich, horstfriedhofstrasse 6d-6369 schöneckde<sep>simon, ernst-ulrich<sep>ullrich, horst <sep>simon, ernst-ulrich im rosengärtchen 18 d-6370 oberursel/ts.de<sep>ullrich, horstfriedhofstrasse 6d-6369 schöneckde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a warning device with central display to monitoring operating states in motor vehicles, the display device (20) is housed in an analog or digital timer (21).When using an analogue timer, the dial may be diardly formed and divided into various display fields associated with the operating states, which are illuminated by the light sources arranged behind the dial.When using a digital timing clock, the time display for the display of an operating state is switched off and controlled in the sense of a display of the operating state.Through these measures, the installation space required for a warning device in addition in the dashboard should be kept as small as possible.
+</ABSTRACT>
+</TEXT>
+</DOC>

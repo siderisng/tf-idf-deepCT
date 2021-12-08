@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002296
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02M-7/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dc-voltage supply.
+</TITLE>
+<APPLICANT>
+agfa gevaert nvbe<sep>agfa-gevaert n.v.<sep>agfa-gevaert naamloze vennootschapseptestraat 27b-2640 mortsel be<sep>
+</APPLICANT>
+<INVENTOR>
+broekaert johan marie be <sep>de gueldre jean marthabe<sep>willem arnold augustbe<sep>broekaert, johan marie<sep>de gueldre, jean martha<sep>willem, arnold august<sep>broekaert, johan marieheideland 3b-2510 mortselbe<sep>de gueldre, jean marthameester richard goossensstraat 34b-2520 edegembe<sep>willem, arnold augustspelonckvaart 60b-9080 moerbeke-waasbe<sep>
+</INVENTOR>
+<ABSTRACT>
+disclosed is an dc-voltage generator of the rectifier/  multiplier type by means of which integers of a basic voltage  (corresponding with that of one stage of the multiplier chain)  can be produced.  moreover, the circuitry enables a refreshing or regenerating  technique for compensating the voltage drop along the  chain to be carried out.  the unit can be used as high dc-voltage supply for  simultaneously generating the voltage over the gap and the  voltages for the field correcting electrodes in ionography  imaging chambers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

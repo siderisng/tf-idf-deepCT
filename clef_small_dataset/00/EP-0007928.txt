@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007928
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G05B-19/04</main> H05B-1/02 G05D-23/19 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+heat control apparatus.
+</TITLE>
+<APPLICANT>
+cress steven b<sep>cress, steven b.<sep>cress, steven b.1330 desert willow lanediamond bar californiaus<sep>cress, steven b.<sep>
+</APPLICANT>
+<INVENTOR>
+cress steven b<sep>cress, steven b.<sep>cress, steven b.1330 desert willow lanediamond bar californiaus<sep>cress, steven b.  <sep>cress, steven b. 1330 desert willow lanediamond bar californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+an automatic heat control apparatus for use with an  electric heating element (6) in a kiln (4) or the like com­ prises a first power controller (12) having a plurality of on  and off intervals.  the first controller (12) supplies electric  current to the kiln (4) heating element (6) during its on  intervals, and further includes means (18) for adjusting  the duration of the on intervals relative to the off intervals.   a constant speed electric motor (20) is mechanically cou­ pled to the first power controller (12) for gradually increas­ ing the duration of the on intervals and decreasing the dura­ tion of the off intervals; such control ensures that the tem­ perature inside the kiln (4) increases very gradually to les­ sen the risk of breaking the ceramic material being fired.   furthermore, the average speed of the motor (20) may be  controlled by means of a second power controller (36),  similar to the first controller (12), having a plurality of on  and off intervals which intermittently energize the motor  (20) for rotation thereof.  by adjusting the duration of the  on interval relative to the off intervals of the second control­ ler, the average speed of rotation of the motor (20) may be  selectively varied to control the rate of increase in the dura­ tion of the on interval in the first controller (12).  
+</ABSTRACT>
+</TEXT>
+</DOC>

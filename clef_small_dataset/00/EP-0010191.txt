@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010191
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06F-11/34</main> G06F-11/30 G06F-11/00 G06F-13/00 G06F-11/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+data processing apparatus including an i/o monitor circuit.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation  <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+diez mark fernando<sep>lewis david otto<sep>robinson thomas scott<sep>diez, mark fernando<sep>lewis, david otto<sep>robinson, thomas scott<sep>diez, mark fernando4108 nw 5 placerochester, minnesota 55901us<sep>lewis, david otto1609 ridge drive nerochester, minnesota 55901us<sep>robinson, thomas scott2723 pinewood road serochester, minnesota 55901us<sep>diez, mark fernando<sep>lewis, david otto  <sep>robinson, thomas scott <sep>diez, mark fernando4108 nw 5 placerochester, minnesota 55901us<sep>lewis, david otto1609 ridge drive nerochester, minnesota 55901us<sep>robinson, thomas scott2723 pinewood road serochester, minnesota 55901us<sep>
+</INVENTOR>
+<ABSTRACT>
+in order to monitor non-uniform i/o device activity with  low time overheads, data processing appparatus is provided  iriicluding a hardware monitor including a memory array (4)  having a location for each i/o device loaded with control data  from the central processor at start i/o time.  the monitor is  driven by a free running ring (80) and maintains in the location  for each i/o device an updated count of running time in terms  of the output of an interval timer (76) until command end or  other ordered clear.  the monitor searches the array location  cyclically, comparing the processor supplied data and the  currently generated data, signalling the processor only when  the two values are equal (or current exceed specified).  auto­ matic house-keeping is provided for.  
+</ABSTRACT>
+</TEXT>
+</DOC>

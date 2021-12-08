@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006068
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-9/127 C07H-15/12 A61P-37/00 <main>C07H-15/04</main> A61P-31/00 A61P-33/00 C07K-9/00 A61P-31/04 G01N-33/50 A61K-31/70 A61P-37/04 C07H-15/20 A61K-38/14 A61K-38/00 A61K-39/39 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+compounds of the muramyl-peptide type and medicines containing them.
+</TITLE>
+<APPLICANT>
+anvarfr<sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche<sep>
+</APPLICANT>
+<INVENTOR>
+audibert francoise <sep>chedid louis<sep>choay jean  <sep>lederer edgar<sep>lefrancier pierre<sep>parant monique<sep>audibert, francoise<sep>chedid, louis<sep>choay, jean<sep>lederer, edgar<sep>lefrancier, pierre<sep>parant, monique<sep>audibert, françoise44, rue ybryf-92200 neuilly sur seinefr<sep>chedid, louis16-18, rue gaston de caillavetf-75015 parisfr<sep>choay, jean130, faubourg saint-honoréf-75008 parisfr<sep>lederer, edgar9, boulevard colbertf-92330 sceauxfr<sep>lefrancier, pierre20, rue des bleuetsf-91440 bures sur yvettefr<sep>parant, monique33, rue croulebarbef-75013 parisfr<sep>audibert, francoise<sep>chedid, louis<sep>choay, jean<sep>lederer, edgar<sep>lefrancier, pierre<sep>parant, monique <sep>audibert, françoise 44, rue ybry f-92200 neuilly sur seinefr<sep>chedid, louis16-18, rue gaston de caillavetf-75015 parisfr<sep>choay, jean130, faubourg saint-honoréf-75008 parisfr<sep>lederer, edgar9, boulevard colbertf-92330 sceauxfr<sep>lefrancier, pierre20, rue des bleuetsf-91440 bures sur yvettefr<sep>parant, monique33, rue croulebarbef-75013 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to new water-soluble immunological adjuvants.These agents respond to a type formula in which R is an alkyl group of 1 to 10 carbons.These compounds are useful as immunological adjuvants, in particular to promote immune responses vis-à-vis antigens whose immunogenicity is low.
+</ABSTRACT>
+</TEXT>
+</DOC>

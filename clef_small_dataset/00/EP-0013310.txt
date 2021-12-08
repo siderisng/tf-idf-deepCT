@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013310
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C23G-1/00</main> C23G-1/00 C25D-5/34 G03F-7/02 G03F-7/42 C23G-1/10 G03C-5/00 C23G-1/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the manufacture of a photo-resist image.
+</TITLE>
+<APPLICANT>
+hoechst ag de<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+herwig walter dr<sep>klupfel kurt dr<sep>sikora helga<sep>sprengel heide<sep>herwig, walter, dr.<sep>klupfel, kurt, dr.<sep>sikora, helga<sep>sprengel, heide<sep>herwig, walter, dr.hasenpfad 7d-6232 bad sodende<sep>klüpfel, kurt, dr.dreispitzstrasse 2ad-6200 wiesbaden-sonnenbergde<sep>sikora, helgabunsenstrasse 6fd-6200 wiesbaden 12de<sep>sprengel, heideelsa-brandström-strasse 10d-6200 wiesbaden 12de<sep>herwig, walter, dr. <sep>klupfel, kurt, dr.<sep>sikora, helga  <sep>sprengel, heide<sep>herwig, walter, dr.hasenpfad 7d-6232 bad sodende<sep>klüpfel, kurt, dr.dreispitzstrasse 2ad-6200 wiesbaden-sonnenbergde<sep>sikora, helgabunsenstrasse 6fd-6200 wiesbaden 12de<sep>sprengel, heideelsa-brandström-strasse 10d-6200 wiesbaden 12de<sep>
+</INVENTOR>
+<ABSTRACT>
+It will be a method and aqueous treatment solution for cleaning copper surfaces, in particular for removing radicals of photoresist layers, which are adhered to the exposed copper stations after developing.The solution contains a water-solicate aliphatic sulfonic acid with 8 to 30 C atoms or a water-soluble salt thereof.
+</ABSTRACT>
+</TEXT>
+</DOC>

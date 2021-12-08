@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014102
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-37/00 H01H-37/76 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+thermostat.
+</TITLE>
+<APPLICANT>
+eaton spa it<sep>eaton s.p.a.<sep>eaton s.p.a.largo la foppa 1i-20121 milanit<sep>
+</APPLICANT>
+<INVENTOR>
+pohl walterit<sep>pohl, walter<sep>pohl, waltervia harar 13milanit<sep>
+</INVENTOR>
+<ABSTRACT>
+a thermostat for insertion into a power supply line by  means of terminals 14 and 15.  within the thermostat, a switch  including contacts 16 and 20 and a flexible member 22 which  can flex about a fulcrum point 24, 26, is actuated according to  ambient temperature, by means of a bimetallic disk 32 acting  through a pushrod 30.  in normal operation, 24 and 26 are held  in contact with each other by a further pushrod 36 which is  supported on a fusible block 44, in turn supported on a metal  plate 42.  however, if the thermostat becomes over-heated,  block 44 melts, removing the support from pushrod 46, and  this enables spring 54 to push the resilient element 22 down­ wards so that it parts from the inner end of terminal 15 at 24,  26.  this ensures that in such circumstances the circuit through  the thermostat is broken, irrespective of the condition of the  contacts 16 and 20 at that time.  it can be appreciated that point  24 on resilient element 22 and point 26 on the inner end of ter­ minal 15 serve as a pair of normally closed electrical contacts  in series with the contacts 16 and 20.  
+</ABSTRACT>
+</TEXT>
+</DOC>

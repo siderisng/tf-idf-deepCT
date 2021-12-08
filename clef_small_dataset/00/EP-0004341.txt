@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004341
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03L-7/08</main> H03L-7/081 H03L-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+synchronisation of a local oscillator with a reference oscillator.
+</TITLE>
+<APPLICANT>
+tekade felten & guilleaumede<sep>te ka de felten & guilleaume fernmeldeanlagen gmbh<sep>felten &amp; guilleaume fernmeldeanlagen gmbhthurn-und-taxis-strasse 10 postfach 4943d-8500 nürnberg 10de<sep>te ka de felten & guilleaume fernmeldeanlagen gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+robra jorg dr dr-ing<sep>robra, jorg, dr. dr.-ing.<sep>robra, jörg, dr. dr.-ing.hallerstrasse 7d-8501 heroldsbergde<sep>robra, jorg, dr. dr.-ing. <sep>robra, jörg, dr. dr.-ing. hallerstrasse 7 d-8501 heroldsbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  circuit for synchronization of the oscillations derived from a fixed oscillator (ol), with reference oscillations (or) which are connected to one input (1) of a phase comparator (pc), while the output signal of the dixed oscillator (ol), converted by a control element and a subsequent frequency divider, is connected to the other input (2) of the phase comparator (pc) and an output signal (1') of the phase comparator (pc) is used as the control parameter, such that the output of the fixed oscillator (ol) is connected to one input of a first (g1) and one input of a second (g2) exclusive or gate, whereby a binary mch>0mch< is continuosly applied to the second input of the first gate and the second input of the second gate ist connected to an output (1') of the phase comparator (pc) and that the output line of the first gate is connected to the clock input of a first flip-flop with internal feedback (ff1), the output line of the second gate is connected to the clock input of a second flip-flop (ff2) and that the q outputs of the two flip-flops are connected to separate inputs of a third exclusive or gate (g3) and that the output of this gate ist connected to the input of the frequency divider (t2), whereby one output of a stage of this divider (t2) is coupled to the data input of the second flip-flop (ff2). 
+</ABSTRACT>
+</TEXT>
+</DOC>

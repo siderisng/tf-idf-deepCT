@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000707
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-53/34 B01D-53/50 <main>C01B-17/86</main> C01B-17/00 B01D-53/77 C01B-17/86 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process and plant for removing sulphur dioxide from gaseous streams with recovery of sulphuric acid by the nitric oxide process.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+fattinger volker dr<sep>fattinger, volker, dr.<sep>fattinger, volker, dr.im lee 39ch-4144 arlesheimch<sep>fattinger, volker, dr.<sep>fattinger, volker, dr.im lee 39ch-4144 arlesheimch<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for separating so2 from a stream of gas which contains at least 5 g of water per cubic metre and which contains the so2 , at least intermittently, at a concentration inadmissibly high for discharge into the surrounding atmosphere, in which process sulfuric acid is obtained, by the nitrogen oxide process, in a system of reaction zones suitable for producing a strong sulfuric acid having an h2 so4 -content of above 70% by weight, in which system the stream of so2 -containing gas (having an oxygen content sufficiently high for carrying out the nitrogen oxide process) is passed, under an excess pressure adequate for conveying the gas through the system, successively : (a) through a pretreatment zone ; (b) through a denitration zone ; (c) through an so2 -processing zone in which it is brought into intimate contact with dilute sulfuric acid circulating through this zone and having a content of h2 so4 of less than 70% by weight (dilute acid), the time between emergence of the so2 - and nitrogen-oxide-containing gas from the denitration zone and its entry into the first tower of the nitrogen-oxide-absorption zone, at concentrations of at least 5 vol. % of so2 and at least 10 vol. % of o2 in the gas entering the denitration zone, being kept shorter than 30 seconds, whilst with lower so2 -contents or lower o2 -contents in the said entry gas the upper limit of the time taken being calculated according to the formula zmax =1500/[so2 ] [o2 ] wherein zmax is the contact time in seconds, [so2 ] is the content of so2 in the gas entering the denitration zone in vol. % and o2 is the content of o2 in the same entering gas, likewise in vol. % ; and (d) through a nitrogen-oxide-absorption zone ; at least a portion of the nitrose-containing sulfuric acid flowing from the absorption zone being indirectly heated to a temperature of above 60 degrees c and, by-passing the so2 -processing zone, being passed directly into the denitration zone, in which zone nitrogen oxide is transferred from this acid into the gas stream, in consequence of which virtually nitrose-free acid flowing from the denitration zone and containing above 70% by weight of h2 so4 can be drawn off from the system, whilst a portion of the last-mentioned acid is recirculated through the absorption zone, where it absorbs nitrogen oxides from the gas stream ; whereby in addition : (alpha) a portion of the said dilute acid is removed from circulation through the so2 -processing zone and is brought into contact, in the pretreatment zone, with the moist so2 -containing gas stream ; (beta) a first portion of the dilute acid emerging from the pretreatment zone, which is more highly diluted by moisture from the gas and virtually free from nitrogen oxides transferable to the gas stream, is re-introduced, by-passing the denitration zone, directly into the circulation system of the so2 -processing zone ; (gamma) a further portion of the dilute acid emerging from the said pretreatment zone is passed into an acid dehydration zone, in which water is evaporated off from the dilute acid, whereupon the more highly concentrated dilute acid is fed back again to the dilute-acid circulation system, characterised in that (delta) a nitrogen-oxygen compound (as defined in the specification) is introduced into the pretreatment zone in such an amount that, on contact of the so2 -containing gas stream with dilute acid in this zone, the content of the nitrogen-oxygen compound therein always corresponding to at least 0. 8 g of nitrogen per mol of so2 contained in the gas stream to be treated, the amount of nitrogen-oxygen compound being introduced into the pretreatment zone corresponding however at most to 11. 2 g of nitrogen per mol of so2 in the gas stream. 
+</ABSTRACT>
+</TEXT>
+</DOC>

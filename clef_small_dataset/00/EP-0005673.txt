@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005673
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+C25D-5/10 C25D-7/00 F24J-2/00 C25D-5/14 F24J-2/48 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+metallic multilayered substrate for the absorption of solar radiation and process for realising such a substrate
+</TITLE>
+<APPLICANT>
+vironneau pierre rene<sep>vironneau, pierre rene<sep>vironneau, pierre2, rue jean-moulinf-31120 portet sur garonne fr<sep>
+</APPLICANT>
+<INVENTOR>
+vironneau pierre rene  <sep>vironneau, pierre rene<sep>vironneau, pierre2, rue jean-moulinf-31120 portet sur garonnefr<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a covering procedure which makes it possible to obtain a metal substrate which absorbs solar energy.  this procedure consists in arranging a reflecting interface between two successive layers of metal.  the spectroscopic characteristics of each of these metals are such that the first layer of metal laid is less permeable to infra-red radiation than the layer which comes to cover it, so that the internal surface of the latter constitutes a perfect reflector for the radiation reemitted by the heat-exchanging fluid circulating under such a substrate.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

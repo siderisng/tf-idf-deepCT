@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0015071
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03G-5/14 G03G-5/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrophotographic sheet material and process for its preparation
+</TITLE>
+<APPLICANT>
+eastern coated papersca<sep>eastern coated papers limited<sep>eastern coated papers limited1525 hymus blvd dorval quebec, h9p 1j5 ca <sep>
+</APPLICANT>
+<INVENTOR>
+lewinton colin haroldca<sep>savit josephus<sep>lewinton, colin harold<sep>savit, joseph<sep>lewinton, colin harold1411 fort street apt. 1904montrealca<sep>savit, joseph751 vernon avenueglencoe illinois 60022us<sep>
+</INVENTOR>
+<ABSTRACT>
+the present invention relates to an electrophotographic sheet material suitable for use as an offset printing master, which comprises a cellulosic base material having an electrical resistivity not exceeding about 10<1><3> ohms/sq. cm, a continuous film of cellulose nitrate on said base material, a photoconductive layer on the surface of said film remote from the interface between said base material and said film; and to a process for the preparation of the sheet material. 
+</ABSTRACT>
+<DESCRIPTION>
+description "electrophotographic sheet material" the present invention relates to electrophotographic sheet material, ore rafticularly, this invention relates to improved electrophotographic sheet material suitable for use as an offset printing master. electrophotographic sheet material generally comprises a base sheet, for example paper, having thereon a light-sensitive coating, e.g. one containing a photoconductive particulate material to an insulating binder. typical of such coatings are those containing zinc oxide in a suitable resin binder, such as polyvinylacetate or modified polyvinylacetate. an electrostatic image may be formed on such sheet by exposure to light projected from an original, and a visible image may then be developed and fixed. the sheet with the visible image so formed may then in turn serve as a master plate for offset printing. ntnen used in such capacity, the sheet is treated with an aaueous solution designed to render the non-imaged areas of the sheet hydrophilic (or oleophobic) before running it on the offset press. conventional sheets tend to be deleteriously affected by such treatment, as could only be expected, notably in that they quickly stretch and crease due to contact with the fountain solution on the press, become weak or delaminate and so on. this limits the number of copies that can be printed with a single conventional master and with a simple conventional master it would be rare to print more than about 1000 copies. improvements have been proposed to make such offset printing masters more durable. canadian patent 874,905 proposes to apply on a paper base a sizing layer containing a major amount of dialdehyde starch in addition to the usual sizing agents, such as carboxymethyl cellulose, gelatin and the like, and to apply the photosensitive coating on said sizing layers. caiiadin, patent 862,679 proposes an electrophotographic material having an electroconductive back layer, e.g. of a cationic latex and an interlayer made of vinyl polz.er and anino resins. these expedients however are either not particularly effective or are very cumbersome and expensive. for example, applying the vinyl polm.er and amino resins to paper and curing at a temperature of about 1500c represents a complex and delicate task, yet another proposal (canadian patent 95f,540) is to apply a resin coating, more particularly a cellulose ester coating, to the back of the paper but the results permit only up to 300 copies to be printed. the present invention provides an electrophotographic printing sheet which can be produced in a simple manner and can serve as a master plate for consistently running off impressions on the order of up to five thousand or more using a conventional offset base paper. accordingly the present invention relates to an electrophotographic sheet material for use as a master in offset printing and comprises a cellulosic base material, a continuous film of cellulose nitrate on said base material, and a photoconductive layer on said film. the cellulosic base material is preferably paper or a like cellulose fibrous-sheet material of suitable characteristics. among the characteristics expected of such paper, an important one is electrical
+</DESCRIPTION>
+<CLAIMS>
+ claims.    1. an electrophotographic sheet material characterised in that it comprises a cellulosic base material having an electrical resistivity not exceeding about   1015      ohms/sq.cm,    a continuous rilm of cellulose nitrate on said base material, a photoconductive layer on the surface of said film remote from the interface between said base material and said film.    2. electrophotographic sheet material according to claim   1    characterised in that said base material is an offset base paper.      3.    electrophotographic sheet material according to claim 2, characterised in that said continuous film of cellulose nitrate constitutes between 1/2 to 6 ib.      (0.23    to 2.72 kilograms) per ream   t3,300    sq. ft. or 39.6 square meters) of said sheet material.     4. electrophotographic sheet material according to claim   1,    2 or 3 characterised in that   saia    photoconductive layer contains zinc oxide.    5. process for the preparation of electrophotographic sheet material characterised by the steps of coating a cellulosic base material having an electrical resistivity not exceeding about   io13    ohms/sq.   cm.    with a solution of cellulose nitrate, removing solvent from said solution on said base material thereby to form a continuous film of said cellulose nitrate and coating a layer of photoconductive material on said continuous film of cellulose nitrate.    6. process according to claim 5, characterised in that the base material is an offset base paper.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011601
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 A01N-35/00 C07C-205/00 A01N-37/02 C07C-125/06 C07C-271/44 C07C-271/06 A01N-47/02 C07C-255/57 A01N-37/00 A01N-37/48 C07C-45/00 A01N-37/10 C07C-329/08 A01N-37/44 C07C-271/08 A01N-35/04 C07C-329/06 B01J-27/06 C07C-154/00 C07C-271/00 C07C-201/00 C07C-205/57 C07C-45/46 A01N-37/34 <main>C07C-49/747</main> C07C-68/00 A01N-37/06 A01N-47/10 C07C-69/017 C07C-67/00 C07C-329/00 C07C-69/54 C07C-69/157 A01N-47/22 C07C-49/835 A01N-53/00 C07C-325/00 A01N-47/06 A01N-35/06 C07C-49/747 C07C-69/96 C07C-69/63 C07C-49/00 C07C-255/00 B01J-27/00 A01N-31/08 C07C-49/733 B01J-27/125 C07C-45/45 C07C-49/825 A01N-37/36 C07C-79/36 C07C-69/653 C07C-69/00 A01N-37/08 A01N-37/40 C07C-205/45 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of 1h-inden-1-one, process for their preparation and their use in microbicidal agents and in combating microorganisms.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+nyfeler robert dr<sep>sturm elmar dr<sep>nyfeler, robert, dr.<sep>sturm, elmar, dr.<sep>nyfeler, robert, dr.bärenfelserstrasse 8ch-4057 baselch<sep>sturm, elmar, dr.ziegelbündtenweg 20 bch-4147 aeschch<sep>nyfeler, robert, dr.<sep>sturm, elmar, dr.<sep>nyfeler, robert, dr.bärenfelserstrasse 8ch-4057 baselch<sep>sturm, elmar, dr.ziegelbündtenweg 20 bch-4147 aeschch<sep>
+</INVENTOR>
+<ABSTRACT>
+2,3-dichloro-7-hydroxy-1H-indene-1-on derivatives of for mel I wherein R₁ for hydrogen or the group -NHR₄, -or₆;-SR₅ or -R₄ and R₂ and R₃ independently of each other, fluorine, chlorine, bromine, C₁-C₄-alkyl, trifluoromethyl or nitro R₄ hydrogen, optionally halogenated C₁-C₆-alkyl or C₂-C₄-alkenyl, optionally by C₁C₄-alkyl, C₁-C₄ alkoxy, halogen, trifluoromethyl, cyano or nitro substitu phenyl or C₃-C₆ cycloalkyl and R₅ C₁-C₆ alkyl, C₁-C ₆-cycloalkyl or C₂-C₄-alkenyl are.These compounds show a microbicide effect, especially against phyto pathogenic fungi and bacteria.
+</ABSTRACT>
+</TEXT>
+</DOC>

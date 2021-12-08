@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015100
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-1/09 H05K-1/02 H05K-1/03 H05K-3/38 <main>H01L-49/02</main> H05K-1/16 H01L-49/02 H01L-21/70 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of incorporating a distributed microwave circuit element in a microwave integrated circuit.
+</TITLE>
+<APPLICANT>
+nat res devgb<sep>national research development corporation<sep>national research development corporation101 newington causewaylondon se1 6bugb<sep>national research development corporation<sep>
+</APPLICANT>
+<INVENTOR>
+england eric herbert<sep>england, eric herbert<sep>england, eric herbert23 curtis roadshrivenham swindon, wiltshire,gb<sep>england, eric herbert<sep>england, eric herbert23 curtis roadshrivenham swindon, wiltshire,gb<sep>
+</INVENTOR>
+<ABSTRACT>
+a method of applying microelectronic circuit elements,  such as high definition thin-film microwave components, typ­ ically to a lower definition thick film or printed circuit board  substrate.  the method described involves the formation of a  high definition microwave filter (5) on the surface of a trans­ parent, flexible carrier substrate (6) using thin film deposition  techniques, and the circuit element is then adhesive bonded  face down in an appropriate position in a thick film circuit (1)  on the surface of a second, permenent substrate (2).  the thin  film circuit element is formed with contact areas which over­ lap cooperating portions of the thick film circuit on insertion of  the circuit element to provide electrical connections.  the car­ rier substrate may then be removed, eg by dissolving, and the  overlapping contact areas may be permanently bonded  together.  thus only the high definition parts of the micro­ circuit need be fabricated using expensive thin film technol­ ogy.  
+</ABSTRACT>
+</TEXT>
+</DOC>

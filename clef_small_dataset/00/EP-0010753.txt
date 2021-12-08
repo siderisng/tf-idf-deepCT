@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010753
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G06K-13/30</main> H04L-13/06 G06K-17/00 G06K-13/00 G06K-7/01 H04L-13/02 G06K-13/30 G06K-1/10 G06K-7/016 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a paper tape punch and reader assembly.
+</TITLE>
+<APPLICANT>
+teletype corpus<sep>teletype corporation<sep>teletype corporation5555 touhy avenue skokie ill. 60077us<sep>teletype corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bellino joseph anthony <sep>feldy edmund charles<sep>laspesa richard e<sep>ramig jr robert joseph<sep>bellino, joseph anthony<sep>feldy, edmund charles<sep>laspesa, richard e.<sep>ramig, jr., robert joseph<sep>bellino, joseph anthony620 south kennicottarlington heights illinois, 60005us<sep>feldy, edmund charles2425 pioneer roadevanston illinois, 60201us<sep>laspesa, richard e.4323 north marmora avenuechicago illinois, 60634us<sep>ramig, jr., robert joseph7660 grennan placeniles illinois, 60648us<sep>bellino, joseph anthony<sep>feldy, edmund charles<sep>laspesa, richard e. <sep>ramig, jr., robert joseph  <sep>bellino, joseph anthony620 south kennicottarlington heights illinois, 60005us<sep>feldy, edmund charles2425 pioneer roadevanston illinois, 60201us<sep>laspesa, richard e.4323 north marmora avenuechicago illinois, 60634us<sep>ramig, jr., robert joseph7660 grennan placeniles illinois, 60648us<sep>
+</INVENTOR>
+<ABSTRACT>
+an assembly for processing paper tape for data proces­ sing and communication applications.  the punch and  reader are in a common housing which includes a self  contained chad box.  the assembly has a substantially flat  bottom surface thus permitting the assembly to be mounted  on a table.  the entire operating mechanism is arranged  such that it is mechanically isolated from the housing.  the punch (2) and reader (3) assemblies utilize identi­ cal paper drive assemblies (25, 27) which are mechanically  linked by a rigid bar (28).  the one drive assembly (25) is  driven from an eccentric (24) which in turn is driven by a  flexible belt (23) coupled to a motor pulley (22).  
+</ABSTRACT>
+</TEXT>
+</DOC>

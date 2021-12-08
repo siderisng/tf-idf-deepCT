@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009096
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04J-3/06 H04L-7/00 H04B-7/204 H04B-7/15 H04B-7/212 <main>H04B-7/185</main> H04J-3/24 H04J-4/00 H04L-7/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and system for synchronising a time division multiple access communication network using a satellite having multiple spot beam antennas at different frequencies.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation <sep>
+</APPLICANT>
+<INVENTOR>
+lautier alex<sep>monrolin jean-louis<sep>lautier, alex<sep>monrolin, jean-louis<sep>lautier, alexrb 1-93 avenue de la lanternef-06200 - nicefr<sep>monrolin, jean-louisle roc du triganf-06610 - la gaudefr<sep>lautier, alex <sep>monrolin, jean-louis<sep>lautier, alexrb 1-93 avenue de la lanternef-06200 - nicefr<sep>monrolin, jean-louisle roc du triganf-06610 - la gaudefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for synchronizing NS emissions of NS M fields in an AMRT network using a satellite to M directive beam emission antennas on different descending frequencies.Each station successively emits m packets to the M fields on different frequencies.In the case of four A-D stations, the station 10 detects the TSA address of the transmitting station in each packet and initiates four TM1-TM4 TM1-TM4 tempo associated with A-D station.The starting moment of emission is determined by that of the templates that reaches the first the end of its time.Application to satellite communications.
+</ABSTRACT>
+</TEXT>
+</DOC>

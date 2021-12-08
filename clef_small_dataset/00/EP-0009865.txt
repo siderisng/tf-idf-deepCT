@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009865
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-239/00 C07C-249/00 C07D-317/58 C07D-321/00 C07D-319/18 C07C-249/04 C07D-317/00 C07D-319/00 C07D-333/58 C07C-251/48 C07D-333/00 C07D-307/81 C07D-321/10 C07D-333/22 C07C-67/00 C07D-307/00 C07C-251/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the stereoselective synthesis of the e isomer of aryl alkyl oximes.
+</TITLE>
+<APPLICANT>
+rhone poulenc indus<sep>rhone-poulenc inc.<sep>rhone-poulenc inc.125 black horse lanemonmouth junction, new jersey 08852us<sep>
+</APPLICANT>
+<INVENTOR>
+paul jill helaineus<sep>paul, jill helaine<sep>paul, jill helaine1375 river roadedgewater, new jersey 07020 bergenus<sep>
+</INVENTOR>
+<ABSTRACT>
+mixtures of the e and z isomers of aryl alkyl oximes are  converted to 98% or greater e isomer by a process compris­ ing treating a solution of a mixture of e and z isomers in an  organic solvent with a protic or lewis acid, under anhydrous  conditions, to precipitate >98% pure e isomer of an  immonium complex and neutralizing the precipitate with an  excess of dilute organic/inorganic base, such as na₂co₃ or  nahco₃.  the e isomer of the ketoxime is precursor for highly  insecticidal ketoximinoethers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014636
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01F-13/08 H02K-44/00 <main>H02K-44/06</main> H02K-44/06 B22D-11/11 B22D-27/02 B01F-13/00 B22D-11/115 B22D-11/10 B22D-11/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electromagnetic inductor intended for producing a helical field.
+</TITLE>
+<APPLICANT>
+cem comp electro mecfr<sep>c e m compagnie electro mecanique societe anonyme<sep>c e m compagnie electro mecanique société anonyme12, rue portalisf-75008 parisfr<sep>c e m compagnie electro mecanique societe anonyme<sep>
+</APPLICANT>
+<INVENTOR>
+delassus jean<sep>delassus, jean<sep>delassus, jean31 rue carrièref-95150 montmorencyfr<sep>delassus, jean<sep>delassus, jean31 rue carrièref-95150 montmorencyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Electromagnetic inductor comprising a first magnetic circuit (1) carrying a first polyphase inductor coil (7) for creating a rotating field (17) and constituted by a stacking of crowns (12) cut to form teeth (3) and notches (2). ) a second magnetic circuit formed by laminated bars (4) and a second polyphase inductor coil (8) formed by an axial succession of circular coils to create a sliding field (18, 19) axially, the two fields combining to create to create a helical movement field. At least certain consecutive teeth (3) are recessed to create axial grooves (14) in which the laminated bars (4) are recessed, which are separated from the first magnetic circuit (1) by insulators (6), and the coils of the Second winding (8) are cylindrical and disporated inside the cylindrical volume limited by the teeth (3). The inductor according to the invention is usable for the electromagnetic mixing of a billet (15) in continuous casting.
+</ABSTRACT>
+</TEXT>
+</DOC>

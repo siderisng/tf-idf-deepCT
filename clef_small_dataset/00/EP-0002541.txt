@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002541
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 A61B-8/00 H04N-3/10 H04N-3/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus and method for producing an image of internal structure of a subject.
+</TITLE>
+<APPLICANT>
+picker corpus<sep>picker corporation<sep>picker corporation 595 miner roadcleveland, ohio 44143us <sep>
+</APPLICANT>
+<INVENTOR>
+adams darwin pus<sep>adams, darwin p.<sep>adams, darwin p.680 tanner marsh roadguilford connecticut 06472us<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus and method producing an image of internal  structure of a subject (p), suitable for use in an electronically  scanned linear array real time ultrasonic system.  the  apparatus includes an ultrasonic transducer (t) for propagating  incident ultrasonic energy into a subject (p) and for  producing electrical signals representing ultrasonic echoes  from within the subject which are produced in response to  the incident energy.  imaging circuitry (i) processes the  electrical signals to actuate a crt display apparatus (d) for  generating a raser formated image of internal subject  structure, with an electron beam on a tube face.  a random  noise generator (n) applies a random noise modulation  signal to deflection plates of the crt display for rapidly  deflecting the electron beam of the crt to wobble transversely  with respect to the raser line (l) during image  generation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

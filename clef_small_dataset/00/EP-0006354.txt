@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006354
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-121/68 C07D-209/48 C07C-43/29 C07D-333/00 C07D-307/83 C07C-69/007 A01N-37/10 A01N-37/14 C07C-69/612 A01N-37/06 C07C-67/00 A01N-53/08 C07C-43/00 C07C-255/38 A01N-53/00 A01N-53/02 A01N-37/38 C07C-253/00 C07D-307/00 C07C-255/00 C07C-69/743 C07D-209/49 A01N-53/10 C07C-69/76 A01N-37/36 C07C-69/74 C07C-69/00 C07D-209/00 C07D-333/32 C07C-61/04 C07D-307/45 <main>C07C-69/74</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluoro-substituted pyrethroid-type esters, processes for their preparation, intermediates for use in such processes, compositions for insecticidal use, and methods of combating insect pests.
+</TITLE>
+<APPLICANT>
+ici australia ltdau<sep>ici australia limited<sep>ici australia limitedici house 1 nicholson street p.o.box 4311melbourne victoria 3001au<sep>ici australia limited<sep>
+</APPLICANT>
+<INVENTOR>
+harney donald william gerald<sep>lehman peter geoffrey<sep>rundle joseph carruthers<sep>harney, donald william gerald<sep>lehman, peter geoffrey<sep>rundle, joseph carruthers<sep>harney, donald william gerald4 teak courtdoncaster victoria, 3109au<sep>lehman, peter geoffrey11 oldfield grovetullamarine victoria, 3043au<sep>rundle, joseph carruthers18 bluehills avenuenunawading victoria 3131au<sep>harney, donald william gerald<sep>lehman, peter geoffrey<sep>rundle, joseph carruthers<sep>harney, donald william gerald4 teak courtdoncaster victoria, 3109au<sep>lehman, peter geoffrey11 oldfield grovetullamarine victoria, 3043au<sep>rundle, joseph carruthers18 bluehills avenuenunawading victoria 3131au<sep>
+</INVENTOR>
+<ABSTRACT>
+esters of formula     a--o-b  wherein    a-- is derived from a carboxylic acid of the  pyrethrin or pyrethroid type, and b-o- is derived from an  alcohol of the pyrethrin or pyrethroid type characterised  in that either or both of a and b comprise a fluorosubsti­ tuted methylene moiety directly bonded to the ester carbonyl  or the ester oxygen respectively.  the esters are prepared  by conventional processes from known or novel inter­ mediates, and may be formulated into compositions for  combating insect and acarine pests.  
+</ABSTRACT>
+</TEXT>
+</DOC>

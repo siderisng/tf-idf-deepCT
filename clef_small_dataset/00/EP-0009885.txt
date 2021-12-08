@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009885
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+B05D-3/06 D21H-25/00 <main>B05D-1/00</main> D21H-19/00 B29C-27/00 D21H-23/64 B05D-5/06 D21H-25/06 D21H-19/66 D21H-23/00 B05D-1/28 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for applying coatings to substrates.
+</TITLE>
+<APPLICANT>
+mobil oil corp us <sep>mobil oil corporation<sep>mobil oil corporation150 east 42nd streetnew york new york 10017us<sep>mobil oil corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+guarino john phillip<sep>mccarty william henry<sep>nagy frank andrew<sep>psaty leon a<sep>guarino, john phillip<sep>mccarty, william henry<sep>nagy, frank andrew<sep>psaty leon a.<sep>guarino, john phillip71 stoniker drive laurencevillenew jersey 08638 mercerus<sep>mccarty, william henryr.d. 3 box 443c whitehouse stationnew jersey 0889 hunterdonus<sep>nagy, frank andrew63 garden street edisonnew jersey 08817 middlesexus<sep>psaty leon a.14 carmeer avenuerutherford, new jersey 07070us<sep>guarino, john phillip<sep>mccarty, william henry<sep>nagy, frank andrew<sep>psaty leon a.<sep>guarino, john phillip71 stoniker drive laurencevillenew jersey 08638 mercerus<sep>mccarty, william henryr.d. 3 box 443c whitehouse stationnew jersey 0889 hunterdonus<sep>nagy, frank andrew63 garden street edisonnew jersey 08817 middlesexus<sep>psaty leon a.14 carmeer avenuerutherford, new jersey 07070us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for producing coated substrates having con­ trollable surface texture.  the coating composition is depo­ sited on a carrying web (200) to which the coating will not  adhere (e. g.  polyester film).  the substrate (100) to be coated  (e. g.  paper) is subsequently brought into contact with the  coated web material and the laminate (201) passed through a  curing station (7) where the coating composition is polymer­ ized and cured.  upon removal from the curing station the  substrate with the coating adhering to it can be released  from the carrying web.  the web can, if desired, be reused in  the process.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008920
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-51/20 B65H-20/32 <main>G11B-15/58</main> B65H-20/30 G11B-15/58 G11B-15/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic tape transport mechanism.
+</TITLE>
+<APPLICANT>
+cipher data produs<sep>cipher data products, incorporated<sep>cipher data products, incorporated10225 willow creek roadsan diego, california 92131us<sep>cipher data products, incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+barton william m jr<sep>barton, william m., jr.<sep>barton, william m., jr.14651 caminito estesan diego, california 92129us<sep>barton, william m., jr.<sep>barton, william m., jr.14651 caminito estesan diego, california 92129us<sep>
+</INVENTOR>
+<ABSTRACT>
+ the disclosed tape transport mechanism includes within  a cabinet, a pair of tape reels (30,31) a read/write head (35),  a capstan (34), a first vacuum column (32), and a second  vacuum column (33).  each of the vacuum columns have an  elongated body, an open end for receiving magnetic tape  from a respective one of the tape reels, and a closed end.  the  first vacuum column is positioned substantially perpendicu­ lar to the second vacuum column; and the open end of the  second vacuum column is positioned spaced apart from the  closed end of the first vacuum column.  further, the capstan  is positioned at the open end of the first vacuum column;  and the read/write head is positioned along the body portion  of the first vacuum column.  each of the vacuum columns lie  along a respective one of the cabinet's sides, and no direc­ tion changing tape rollers lie anywhere between the vacuum  columns.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001303
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B60T-15/12</main> B61H-13/00 B60T-15/14 B60T-15/08 B60T-15/00 B60T-15/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+driver's brake valve for an indirectly acting compressed air brake.
+</TITLE>
+<APPLICANT>
+oerlikon buehrle ag ch <sep>werkzeugmaschinenfabrik oerlikon-buhrle ag<sep>werkzeugmaschinenfabrik oerlikon-bührle agbirchstrasse 155ch-8050 zürichch<sep>oerlikon buehrle ag ch<sep>werkzeugmaschinenfabrik oerlikon-buhrle ag  <sep>oerlikon buehrle agch<sep>werkzeugmaschinenfabrik oerlikon-buhrle ag<sep>
+</APPLICANT>
+<INVENTOR>
+deutsch heinz<sep>muller walter<sep>oldani karl<sep>deutsch, heinz<sep>muller, walter<sep>oldani, karl<sep>deutsch, heinzkreuzwiesen 17ch-8051 zürichch<sep>müller, walter rebenweg 10ch-8303 bassersdorfch<sep>oldani, karlleimgrübelstrasse 18ch-8052 zürichch<sep>deutsch heinzch<sep>mueller walterch<sep>oldani karlch<sep>deutsch, heinz<sep>muller, walter<sep>oldani, karl<sep>deutsch heinzch <sep>mueller walterch   <sep>oldani karlch<sep>deutsch, heinz<sep>muller, walter<sep>oldani, karl<sep>deutsch, heinzkreuzwiesen 17ch-8051 zürichch<sep>müller, walter rebenweg 10ch-8303 bassersdorfch<sep>oldani, karlleimgrübelstrasse 18ch-8052 zürichch<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a driver's brake-valve for an indirectly-acting compressed-air brake comprising : a pressure controller (15), a main control valve (13) and a device for generating a low-pressure overload which have an auxiliary piston (33) connected with said main control valve (13) and a valve (37) loading the auxiliary piston (33) characterised in that a separate vent valve (41) is arranged for cancelling the load on the auxiliary piston (33) when braking. 
+</ABSTRACT>
+</TEXT>
+</DOC>

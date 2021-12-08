@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013588
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-9/00 G01N-9/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for recording a measuring value dependent upon the density of a ground-water mixture.
+</TITLE>
+<APPLICANT>
+veen romke v d<sep>van der veen, romke<sep>van der veen, romkevan boetzelaerlaan 87 nl-2581 ad the hague nl <sep>
+</APPLICANT>
+<INVENTOR>
+van der veen romke<sep>van der veen, romke<sep>van der veen, romkevan boetzelaerlaan 87nl-2581 ad the haguenl<sep>
+</INVENTOR>
+<ABSTRACT>
+measuring the density of a ground-water mixture column  standing in a hold (10) of a ship by means of a sounding-rod  (37) introduced into said mixture column, whilst the height of  a measuring column (2) with fluid (17) of known density being  changed for adapting its weight to that of the mixture column.  
+</ABSTRACT>
+</TEXT>
+</DOC>

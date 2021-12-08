@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007389
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02P-9/04 F02C-6/18 F01K-13/00 H02K-7/18 F01K-27/00 F02C-7/00 G05D-13/62 F01K-25/14 F01K-25/00 H02K-7/104 <main>H02K-7/104</main> F02C-9/00 F01K-13/02 H02K-7/10 F02C-7/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+power recovery system and method therefor.
+</TITLE>
+<APPLICANT>
+carrier corpus<sep>carrier corporation<sep>carrier corporationcarrier tower 6304 carrier parkway p.o. box 4800syracuse new york 13221us<sep>carrier corporation<sep>
+</APPLICANT>
+<INVENTOR>
+geary carl h<sep>geary, carl h.<sep>geary, carl h.622 westland drivegreensburg pennsylvaniaus<sep>geary, carl h.<sep>geary, carl h.622 westland drivegreensburg pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a power recovery system utilizing a relatively high temp­ erature waste heat fluid to drive an expander (12).  the expan­ der (12) is operatively connected to an electrical generator  (14).  a dynamic brake (22) is connected to the expander (12) to  regulate the speed thereof when the expander (12) is operat­ ing at other than steady state conditions.  
+</ABSTRACT>
+</TEXT>
+</DOC>

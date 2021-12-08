@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015383
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G11B-5/60</main> G11B-5/60 G11B-21/21 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnetic head slider assembly.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+garnier michael franklin<sep>garnier, michael franklin<sep>garnier, michael franklin6120 strelow courtsan jose californiaus<sep>garnier, michael franklin<sep>garnier, michael franklin6120 strelow courtsan jose californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+a magnetic head slider assembly is formed with an  air bearing surface having side rails (12, 14) and a cross  rail (16) disposed laterally across the surface of said as­ sembly joining said side rails (12, 14) and a negative pres­ sure region (24) between the rails.  shallow recesses or  reliefs (26, 28) are formed in the rails (12, 14) so that am­ bient pressure is substantially maintained in the areas of  such recesses along the rails.  the slider is relatively insen­ sitive to skew and disk curvature due to flutter or static  deformation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

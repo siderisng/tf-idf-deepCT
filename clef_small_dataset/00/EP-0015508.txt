@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015508
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12N-9/12 G01N-33/573 C12Q-1/50 G01N-33/70 <main>C12Q-1/50</main> A61K-39/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and reagent for the determination of creatine kinase mb.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh <sep>boehringer mannheim gmbh68298 mannheimde   <sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+gruber wolfgang dr<sep>lenz helmut dr<sep>linke hans-ralf dr<sep>looser siegfried dr<sep>gruber, wolfgang, dr.<sep>lenz, helmut, dr.<sep>linke, hans-ralf, dr.<sep>looser, siegfried, dr.<sep>gruber, wolfgang, dr.am oberanger 7d-8132 tutzing-unterzeismeringde<sep>lenz, helmut, dr.waldschmidtstrasse 7d-8132 tutzingde<sep>linke, hans-ralf, dr.andechser strasse 7d-8919 raistingde<sep>looser, siegfried, dr.ammerstrasse 27d-8120 weilheimde<sep>gruber, wolfgang, dr.<sep>lenz, helmut, dr.<sep>linke, hans-ralf, dr. <sep>looser, siegfried, dr.<sep>gruber, wolfgang, dr. am oberanger 7 d-8132 tutzing-unterzeismering de <sep>lenz, helmut, dr.waldschmidtstrasse 7d-8132 tutzingde<sep>linke, hans-ralf, dr.andechser strasse 7d-8919 raistingde<sep>looser, siegfried, dr.ammerstrasse 27d-8120 weilheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+To determine the creatine kinase MB in serum, to turn the subunit M in the reaction approach monovalent fragments, which are obtained from antibodies against the subunit M by proteolytic cleavage under reducing conditions and measures subunit B by known methods for the determination of the creatine kinase.
+</ABSTRACT>
+</TEXT>
+</DOC>

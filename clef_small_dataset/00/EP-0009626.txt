@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009626
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04M-11/02 <main>H04Q-7/04</main> H04Q-11/04 H04M-9/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+communication system for fixed and mobile subscribers.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+schwartzel heinz dipl-math<sep>unterberger hans dr<sep>schwartzel, heinz, dipl.-math.<sep>unterberger, hans, dr.<sep>schwärtzel, heinz, dipl.-math.staudinger strasse 55d-8000 münchen 83de<sep>unterberger, hans, dr.groschenweg 48ad-8000 münchen 82de<sep>schwartzel, heinz, dipl.-math.  <sep>unterberger, hans, dr. <sep>schwärtzel, heinz, dipl.-math.staudinger strasse 55d-8000 münchen 83de<sep>unterberger, hans, dr.groschenweg 48ad-8000 münchen 82de<sep>
+</INVENTOR>
+<ABSTRACT>
+The concept for an additional device of a secondary stel system is described by which it is no longer necessary for the subscriber to stop in the same space as its telephone call or look through a central facility. The spaces in the area of ​​the extension system are connected to each other for this purpose by a RIN slot. In each room it is possible to take or add the ring line information. The authorized participants are connected to the annular line by a terminal. The participants are not assigned to a fixed channel to save transmission channels. The various channels are transmitted in the time division multiplex on a high-tough transmission path (up to 100 Mbps), each participant has access to each channel and transmits an information block during operation per frame. The information particularly determined for the respective subscriber is indicated by a listening-proof address at the beginning of the block. Through the use of cheap sophisticated transmission links (eg, Lenwel Lenkleiter), this system can economically manufacture those who can use the same additional device for small and large extension systems and which is not determined on wall by central facilities, but the number of spaces and participants.
+</ABSTRACT>
+</TEXT>
+</DOC>

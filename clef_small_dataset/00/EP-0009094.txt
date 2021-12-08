@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009094
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 C07C-211/00 C07C-211/50 C08G-12/08 B01D-20060101S C08G-12/00 <main>C07C-85/24</main> C07C-85/26 C08G-20060101S C07C-87/50 C07C-67/00 C07C-209/78 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of methylene-bridge polyaryl amines.
+</TITLE>
+<APPLICANT>
+sulzer agch<sep>gebruder sulzer aktiengesellschaft<sep>gebrüder sulzer aktiengesellschaftzürcherstrasse 9ch-8401 winterthurch<sep>gebruder sulzer aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+biller efim<sep>biller, efim<sep>biller, efimhochstrasse 28ch-8044 zürichch<sep>biller, efim<sep>biller, efimhochstrasse 28ch-8044 zürichch<sep>
+</INVENTOR>
+<ABSTRACT>
+Condensing (1) from arylamines, in particular aniline, and formaldehyde in the presence of acid catalysts in which at least one COM PONENTE is a perfluorocarboxylic acid is prepared as condensation products ortho- and para isomers of methylendianilin (MDA) and higher polyamines.From this mixture of the condensation products, the particularly valuable 4,4'-MDA (p-isomer) particularly valuable as a product is obtained (2) with cooling of the resulting homogeneous, aqueous solution in high purity;The invention is based on the new realization that the 4,4'DDA salts of the perfluorocarboxylic acids are heavier in water than the corresponding salts of the O-isomers and the higher polyamines.
+</ABSTRACT>
+</TEXT>
+</DOC>

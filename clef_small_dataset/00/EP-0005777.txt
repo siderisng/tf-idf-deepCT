@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005777
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+B61C-9/44 B61F-3/00 B61F-3/16 B61C-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+slipless, simple, double or multiple, driven or undriven axles for all kinds of rail vehicles
+</TITLE>
+<APPLICANT>
+renkewitz paul konrad <sep>renkewitz, paul konrad<sep>renkewitz, paul konradbergstrasse 8ch-8954 geroldswilch<sep>
+</APPLICANT>
+<INVENTOR>
+renkewitz paul konrad<sep>renkewitz, paul konrad<sep>renkewitz, paul konradbergstrasse 8ch-8954 geroldswilch<sep>
+</INVENTOR>
+<ABSTRACT>
+axles for rail vehicles which are constructed in such a way that slip does not occur.  they can be used for wagons and motive power units, i. e.  with or without drive.  they can be installed individually or in double or multiple bogies.  in contrast to the previously used systems where in each case two wheels are rigidly mounted on an axle, the wheels are individually attached in the new system.  each wheel is fixedly mounted or welded onto a hollow axle (3).  each hollow axle is mounted on a rigid axle (1) by means of bronze, ball-bearings or roller bearings (2).  an axle central component (6) which is fixed on the rigid axle separates the two hollow axles from one another, ensures access for lubrication purposes to the internal bearings and maintains accurate alignment.  the two outer bearings are lubricated in a similar manner via one packing gland (7) each which is also rigidly mounted on the carrier axle.  in motive power units, each wheel is driven by a separate drive system (9).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

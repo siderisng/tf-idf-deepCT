@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004642
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-209/00 A01N-33/18 C07C-211/00 C07C-315/04 C07D-319/00 C07C-213/00 C07D-319/08 A01N-37/48 C07C-323/65 A01N-33/06 A01N-37/44 C07C-315/00 A01N-43/02 C07C-211/56 C07C-217/00 C07C-255/58 A01N-33/00 C07C-67/00 C07C-317/36 C07C-217/92 C07C-209/10 C07C-317/00 C07C-253/00 C07C-255/00 C07C-313/00 C07C-323/36 A01N-43/32 A01N-33/10 C07C-323/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diaryl amines, process for their preparation and their use.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag<sep>bayer ag51368 leverkusende<sep>
+</APPLICANT>
+<INVENTOR>
+behrenz wolfgang drde<sep>frohberger paul-ernst dr de<sep>hammann ingeborg dr de  <sep>hartmann alfons drde<sep>homeyer bernhard drde<sep>klauke erich drde<sep>behrenz, wolfgang, dr.<sep>frohberger, paul-ernst, dr.<sep>hammann, ingeborg, dr.<sep>hartmann, alfons, dr.<sep>homeyer, bernhard, dr.<sep>klauke, erich, dr.<sep>behrenz, wolfgang, dr.untergruendemich 14d-5063 overathde<sep>frohberger, paul-ernst, dr.willi-baumeister-strasse 5d-5090 leverkusende<sep>hammann, ingeborg, dr.belfortstrasse 9d-5000 kölnde<sep>hartmann, alfons, dr.poststrasse 35d-6645 beckingen 4de<sep>homeyer, bernhard, dr.obere strasse 28d-5090 leverkusen 3de<sep>klauke, erich, dr.eichendorffweg 8d-5068 odenthalde<sep>
+</INVENTOR>
+<ABSTRACT>
+the diarylamines of the general formula i <image>  have been found in which   a and b are different from one another and represent trifluoromethyl or nitro,    n represents an integer from 1 to 5 and   r represents identical or different radicals from the group consisting of hydrogen, halogen, cyano, nitro, alkyl, haloalkyl, alkenyl, alkynyl, alkoxy, alkylmercapto, alkylsulphonyl, haloalkoxy, haloalkylmercapto, haloalkylsulphonyl, aryloxy and arylmercapto, where r substituents in the ortho position can form an optionally halogen-substituted heterocycle together with the two adjacent c atoms of the phenyl ring, and the restriction applying that rn does not denote 2,4,6-trinitro, 2,6-dinitro-4-cyano, 2,6-dinitro-4-trifluoromethyl or 2,4-dinitro-6- trifluoromethyl.  the diarylamines are obtained when    a) a compound of the formula (ii) <image> in which   x represents fluorine, chlorine or bromine, is reacted with an aniline, or    b) an aniline of the formula (iv) <image> in which   a and b have the abovementioned meaning, is reacted with a compound of the formula (v) <image> the diarylamines of the formula (i) have an insecticidal, acaricidal, nematicidal and fungicidal action.  compositions containing these compounds and their use are described. 
+</ABSTRACT>
+</TEXT>
+</DOC>

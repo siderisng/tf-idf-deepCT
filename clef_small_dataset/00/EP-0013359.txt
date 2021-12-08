@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013359
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H05K-3/34</main> H05K-3/24 B23K-3/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for applying a layer of solder to a printed circuit.
+</TITLE>
+<APPLICANT>
+schmid gmbh & co gebde<sep>gebr. schmid gmbh & co.<sep>gebr. schmid gmbh &amp; co.robert-bosch-strasse 34d-72250 freudenstadtde<sep>gebr. schmid gmbh & co.<sep>
+</APPLICANT>
+<INVENTOR>
+schmid dieter<sep>schmid, dieter<sep>schmid, dieteram schäferstich 19d-7290 freudenstadtde<sep>schmid, dieter  <sep>schmid, dieter am schäferstich 19d-7290 freudenstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  apparatus for applying a metallic solder coating on a printed circuit board through contact of the printed circuit board with the liquid solder, having a first container (6) for receiving the liquid solder (7), a second container (9) which has a slot-shaped opening (35) extending horizontally in one wall (22, 23), an a pump (37) which pumps the liquid solder from the first container (6) into the second container (9) in a quantity such that the level (38) of solder in the second container (9) is above the openings (35), characterized in that a further slot-shaped opening (35) extending horizontally is provided in the wall (23) opposite the wall (22) with the slot-shaped opening (35) and both slot-shaped openings (35) are located in the feed plane of the printed circuit boards (21) fed horizontally. 
+</ABSTRACT>
+</TEXT>
+</DOC>

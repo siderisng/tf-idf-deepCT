@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007192
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01L-31/18</main> C23C-14/24 H01L-21/363 C30B-23/02 C23C-13/04 H01L-21/203 H01L-21/02 C23C-14/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing hetrojunction solar-cell devices.
+</TITLE>
+<APPLICANT>
+exxon research engineering cous<sep>exxon research and engineering company<sep>exxon research and engineering companyp.o.box 390, 180 park avenueflorham park, new jersey 07932-0390us<sep>exxon research and engineering company  <sep>
+</APPLICANT>
+<INVENTOR>
+feng tom<sep>ghosh amal kumar<sep>feng, tom<sep>ghosh, amal kumar<sep>feng, tom21 bromleigh waymorris plains, new jerseyus<sep>ghosh, amal kumar151 crane circlenew providence, new jerseyus<sep>feng, tom<sep>ghosh, amal kumar<sep>feng, tom21 bromleigh waymorris plains, new jerseyus<sep>ghosh, amal kumar151 crane circlenew providence, new jerseyus<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for manufacturing a heterojunction device, for  example a solar cell, comprises placing an n-type silicon  semi-conductor body (3) in a vacuum chamber (6); also plac­ ing in the chamber (6) a vessel (4) containing tin oxide or a  mixture of tin oxide and indium oxide; evacuating the  chamber (6); generating, such as by an electron beam (7), a  stream (9) of oxide vapor; and directing the stream (9) into the  silicon body (3) at an angle of incidence (ϑ) which is so  selected, generally in the range 40° to 70°, as to provide  substantially maximum efficiency of the device.  the coated  substrate is heated and thereafter metal electrodes are depo­ sited on the coated substrate.  a solar cell of sunlight  conversion-efficiency above 5% is consistently obtainable by  the process.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005583
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+A47C-3/025 B60N-2/02 B60N-2/50 B60N-2/52 <main>B60N-1/02</main> B60N-2/44 A47C-3/02 B60N-2/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+vehicle seat.
+</TITLE>
+<APPLICANT>
+uop incus<sep>uop inc.<sep>uop inc.25 east algonquin roaddes plaines illinois 60017-5017us<sep>uop inc.<sep>
+</APPLICANT>
+<INVENTOR>
+bollons bernard<sep>lowe frederick george<sep>bollons, bernard<sep>lowe, frederick george<sep>bollons, bernard174 clopton roadstratford-upon-avon warwickshiregb<sep>lowe, frederick george7 porlock closenorthampton northamptonshiregb<sep>bollons, bernard<sep>lowe, frederick george<sep>bollons, bernard174 clopton roadstratford-upon-avon warwickshiregb<sep>lowe, frederick george7 porlock closenorthampton northamptonshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a vehicle seat has a seat part (10) mounted on a base  part by a suspension which includes a gas spring (15).  valve  means (18, 20) are provided to control the seat ride position  by controlling the entry and exit of compressed gas into and  out of the gas spring (15).  the difference between the actual  ride position and a selected ride position of the seat part (10)  is sensed, and a control circuit (a. r. c. ) is used to actuate the  valve means (18, 20) to raise or lower the seat part (10) to  reduce this difference to zero.  in order to prevent seat  vibration, such as is caused by passage of a vehicle over  rough terrain, from continually causing actuation of the valve  means (18, 20), the control circuit is arranged to be normally  in a non-operative state from which it is activated by one or  more operator-initiated signals for a limited period sufficient  to enable the seat to set itself in its selected ride position.  
+</ABSTRACT>
+</TEXT>
+</DOC>

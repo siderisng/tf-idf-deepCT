@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014490
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C12P-7/62</main> C12P-7/62 C12P-7/40 C12R-1/05 C12P-7/58 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the separation of poly-beta-hydroxybutyrates from a biomass.
+</TITLE>
+<APPLICANT>
+solvaybe<sep>solvay & cie (societe anonyme)<sep>solvay &amp; cie (société anonyme)rue du prince albert, 33b-1050 bruxellesbe<sep>solvay & cie (societe anonyme) <sep>
+</APPLICANT>
+<INVENTOR>
+gilain jacques<sep>vanlautem noel<sep>gilain, jacques<sep>vanlautem, noel<sep>gilain, jacquesavenue de la ramée, 10b-1180 bruxellesbe<sep>vanlautem, noelrue des drapiers, 17b-1300 wavrebe<sep>gilain, jacques<sep>vanlautem, noel  <sep>gilain, jacquesavenue de la ramée, 10b-1180 bruxellesbe<sep>vanlautem, noelrue des drapiers, 17b-1300 wavrebe<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for separating poly-β-hydroxybutyrates of a biomass by extraction by means of liquid halogenated solvents.Extraction is made by means of liquid halogenated solvents chosen from chloroethanes and chloropropa nes.The poly-β-hydroxybutyrates obtained are usable in medicine.
+</ABSTRACT>
+</TEXT>
+</DOC>

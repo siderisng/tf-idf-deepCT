@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003529
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-39/005 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+antigens from trypanosoma cruzi, purification thereof, and their use in vaccines.
+</TITLE>
+<APPLICANT>
+wellcome foundgb<sep>the wellcome foundation limited<sep>the wellcome foundation limitedunicorn house 160 euston road p.o. box 129london nw1 2bpgb <sep>
+</APPLICANT>
+<INVENTOR>
+mchardy nicholasgb  <sep>thomas derekgb<sep>mchardy, nicholas<sep>thomas, derek<sep>mchardy, nicholas10 downs roadbeckenham kentgb<sep>thomas, derek117 birchtree avenuewest wickham kentgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an antigenic preparation contains antigens free from  lipid which are isolated from the microsomal fraction of  t. cruzi epimastigotes.  disruption of the epimastigotes  followed by centifugation and separation of the microsomal  fraction, followed by cleaving off the lipid moiety  with a detergent yields the microsomal antigens.  their  immunogenicity is enhanced by removal of material under  50 000 molecular weight, especially of material under  300 000 molecular weight.  the preparation is incorporated  into a vaccine.  two doses of the vaccine each containing  the antigen from 10⁸-10⁹ epimastigotes, injected 14 days  apart confer immunity to chagas' disease, which is  uncurable by chemotherapy.  
+</ABSTRACT>
+</TEXT>
+</DOC>

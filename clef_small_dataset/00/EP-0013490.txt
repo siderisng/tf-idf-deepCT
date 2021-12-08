@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013490
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+G10H-1/38 G10H-7/00 G10H-1/18 G10H-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+an output processing system for a digital electronic musical instrument.
+</TITLE>
+<APPLICANT>
+microskill limited gb<sep>microskill limited  <sep>microskill limited61a top moor sideleeds, ls11 9lh west yorkshiregb<sep>
+</APPLICANT>
+<INVENTOR>
+fox hugh martingb<sep>sutcliffe peter haroldgb<sep>fox, hugh martin<sep>sutcliffe, peter harold<sep>fox, hugh martin61 eastville terrace ripon roadharrogate, north yorkshiregb<sep>sutcliffe, peter harold71 warwick roadnew barnet, hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+an output processor for an electronic musical instrument  is characterised by a data distribution network interconnect­ ing data processing means and data storage means, wherein  at least one such data storage means stores data from which a  waveform of the desired sound may be derived; means for  producing a plurality of microinstructions from which sets of  data flow control signals may be derived, said data flow con­ trol signals determining the source and destination of data  being handled by said distribution network; and means for  storage and retrieval of a program of said microinstructions,  said program effecting control of data flow in a manner such  as to allow the generation of the desired sound.  preferably  said program effects control of data flow in a manner which  allows the substantialiy simultaneous generation of a plural­ ity of waveforms.  
+</ABSTRACT>
+</TEXT>
+</DOC>

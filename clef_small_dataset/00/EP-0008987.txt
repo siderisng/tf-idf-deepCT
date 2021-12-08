@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008987
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/38 G02B-6/36 <main>G02B-7/26</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+centering device and method of manufacturing a connector for an optical fibre.
+</TITLE>
+<APPLICANT>
+socapexfr <sep>socapex <sep>socapex10 bis, quai léon blumf-92153 suresnesfr<sep>socapex <sep>
+</APPLICANT>
+<INVENTOR>
+badoz jean-marie<sep>malsot christian<sep>badoz, jean-marie<sep>malsot, christian<sep>badoz, jean-marie"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>malsot, christian"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>badoz, jean-marie<sep>malsot, christian  <sep>badoz, jean-marie"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>malsot, christian"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the connection of the opti fibers, into unit or multiple connectors.The connection of the optical fibers must imperatively be done with a high centering accuracy of the fiber (1, 1 ') in a tip (10, 10'), in order to have a good light transmission through the connection.The invention provides: on the one hand to use the tip as a mold for the polymer injection or fastening glue (11) of the fiber and on the other hand a simple geometric device of the fiber in itsTip, the accuracy of the centering being due to the accuracy of this device and independent of the precision of the tip.Use in donation systems born by optical fibers.
+</ABSTRACT>
+</TEXT>
+</DOC>

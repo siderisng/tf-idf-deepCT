@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012281
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04L-12/50 H04L-12/52 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and circuit arrangement for switching and delivery of signals in or from a stored programme-controlled exchange.
+</TITLE>
+<APPLICANT>
+siemens ag de<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+haensel eckhartde<sep>haensel, eckhart<sep>haensel, eckhartreichenaustrasse 33d-8000 münchen 60de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and a circuit arrangement for switching and dispensing signals in or from a memory programmed switching system with a plurality of signals feeding feeder channels and signals routing customer channels.In this case, the switching orders and transmission orders relating to the Si Gnale should be handled by calling and processing of machining PROs to be handled in such a way that a control device-bearing the processing programs to the individual channels control unit is as little burdened as possible.For this purpose, the individual channels describe addresses denominated in a community addressing device for each time for the entire duration of the processing of a machining program.The main application of the invention is in the field of programmed switching plants.
+</ABSTRACT>
+</TEXT>
+</DOC>

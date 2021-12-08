@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005792
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-6/24 <main>G02B-5/16</main> G02B-6/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of coupling optical fibres disposed in a ribbon-like arrangement in a cable and apparatus for performing this method.
+</TITLE>
+<APPLICANT>
+lyonnaise transmiss optiquesfr<sep>societe anonyme dite compagnie lyonnaise de transmissions optiques<sep>compagnie lyonnaise de transmissions optiques société anonyme dite:170, quai de clichyf-92111 clichyfr<sep>compagnie lyonnaise de transmissions optiques societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+mignien georges<sep>mignien, georges<sep>mignien, georges30, rue voltairef-69330 meyzieufr<sep>mignien, georges  <sep>mignien, georges30, rue voltairef-69330 meyzieufr<sep>
+</INVENTOR>
+<ABSTRACT>
+Process for connecting optical fibers predisposed into a web in a cable.The fibers 1 of the ribbon (2, 3) are released, the breaks, the laying down in a plate of a wafer 12, deposits on them a glue and a pressure cover 17, makes the glue harden, then saw.In parallel planes (19, 20) the whole thus formed.We then put the remaining parts on either side of the sawn planes, then press them against each other and immobilizes them.Application to the connection of cable optical fibers formed by assembling flat ribbons.
+</ABSTRACT>
+</TEXT>
+</DOC>

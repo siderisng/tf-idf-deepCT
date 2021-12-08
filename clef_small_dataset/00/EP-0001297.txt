@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001297
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60R-1/06 B60N-2/22 G05B-19/35 G05B-19/42 B60N-1/02 B60N-2/10 H02P-5/46 B60N-2/02 B60N-2/48 B60N-2/06 G05B-19/19 G05D-3/00 B60N-2/44 <main>G05B-19/33</main> G05D-3/12 B60N-2/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+positioning device for at least two adjusting mechanism, especially for car seats.
+</TITLE>
+<APPLICANT>
+bosch gmbh robertde<sep>robert bosch gmbh<sep>robert bosch gmbhpostfach 30 02 2070442 stuttgartde<sep>robert bosch gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+fleischer helmut ing grad<sep>schneider erich dipl-ing<sep>fleischer, helmut, ing. grad.<sep>schneider, erich, dipl.-ing.<sep>fleischer, helmut, ing. grad.hermann-essig-strasse 106d-7141 schwieberdingende<sep>schneider, erich, dipl.-ing.entengasse 14d-7125 kirchheimde<sep>fleischer, helmut, ing. grad.<sep>schneider, erich, dipl.-ing.<sep>fleischer, helmut, ing. grad.hermann-essig-strasse 106d-7141 schwieberdingende<sep>schneider, erich, dipl.-ing.entengasse 14d-7125 kirchheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+A device for positioning at least one adjusting device is proposed, which serves to move in particular by actuation of positioning switching members, in particular motor vehicle seats in respectively selectable positions. For this purpose, the at least one adjusting device is assigned a control loop whose is value via a mechanical-electrical transducer coupled to the adjusting device, and in particular a spindle pontentiometer, and the sen setpoint is predetermined over at least two electrical storage devices, wherein the memory devices via the associated positioning switch-on switching elements are switched to the control loop. For saving pre-selection ba Rerpositionen, a memory switching member is provided, by which in response to a respective actuated positioning switching element, a recharging operation in the at least one, associated memory device is carried out until a preselected control difference, in particular the control difference zero is reached.
+</ABSTRACT>
+</TEXT>
+</DOC>

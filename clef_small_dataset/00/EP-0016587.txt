@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016587
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/415 C07D-409/06 C07D-233/00 C07D-233/60 C07D-405/06 A61P-25/00 C07D-521/00 <main>C07D-233/60</main> C07C-45/46 C07C-45/63 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+1-((substituted-naphthyl)ethyl)-imidazole derivatives, pharmaceutical compositions containing them and methods of making them.
+</TITLE>
+<APPLICANT>
+syntex incus<sep>syntex (u.s.a.) inc.<sep>syntex (u.s.a.) inc.3401 hillview avenuepalo alto california 94303us<sep>syntex (u.s.a.) inc.<sep>
+</APPLICANT>
+<INVENTOR>
+walker keith a m<sep>walker, keith a.m.<sep>walker, keith a.m.12798 canario waylos altos hills california 94022us<sep>walker, keith a.m.<sep>walker, keith a.m.12798 canario waylos altos hills california 94022us<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula    wherein m is the integer 1, 2 or3; r is independently selected  from the group c₁ to c₆ alkyl, c₁ to c₆ alkoxy, halo, trif­ luoromethyl and hydroxy when m is the integer 1, 2 or 3 and  methylenedioxy when m is the integer 2; z is hydrox­ ymethylene, esterified hydroxymethylene, alkoxymethylene,  alkylthiomethylene, carbonyl, or ketal-, thioketal- or  hemithioketal-protected carbonyl, and the pharmaceutically  acceptable acid addition salts thereof, are useful as anticon­ vulsants, anti-secretory agents and spermatocides.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017589
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01Q-1/42 H01Q-19/195 H01Q-19/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cassegrain antenna incorporated in a radome.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>thomson-csf<sep>thomson-csf173, boulevard haussmann75008 parisfr <sep>
+</APPLICANT>
+<INVENTOR>
+crochet pierrefr   <sep>gautier francoisfr<sep>crochet, pierre<sep>gautier, francois<sep>crochet, pierre"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>gautier, françois"thomson-csf" scpi - 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to cassegrain antennas 1,4,2 mounted in a radome (3).  direct fixing of the main reflector (4) of the antenna which is fixed onto the radome permits an increase in the gain of the antenna and better reliability.  the invention applies to all equipment using an antenna protected by a radome and comprising at least one reflector which is stationary relative to the radome.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+antenne cassegrain montee dans un radome la présente invention concerne les antennes microondes du type cassegrain montées à l'intérieur d'un radome. il est courant de protéger par un radome les antennes des dispositifs de détection électromagnétique. ceci est le cas en particulier pour les radars équipant des missiles ou des avions. on utilise pour limiter l'encombrement de ces antennes des structures compactes du type cassegrain qui comportent deux réflecteurs, dont l'un à rotation de polarisation, de structure généralement plane étant mobile autour de l'axe de symétrie défini par la direction de rayonnement de la source primaire et l'autre de structure courbe étant fixe par rapport à cette source primaire. un inconvénient dans l'utilisation de ce type d'antenne dans les équipements aéroportés nait de ce second réflecteur fixe. en effet celui-ci doit conserver dans le temps ses caractéristiques avec une grande précision et cette exigence a conduit à utiliser pour le maintenir en place un support spécial qui empêche toute déformation de sa structure pouvant altérer sa fiabilité. cependant compte tenu de l'espace relativement restreint disponible dans le radome, ce support spécial tend à limiter la surface du réflecteur et donc également le gain de l'antenne. de plus il alourdit considérablement l'ensemble de l'antenne et du radar. l'antenne selon l'invention vise à remédier à ces inconvénients ; selon l'invention, le réflecteur courbe fixe est fixé par un ou plusieurs points de son pourtour sur la paroi du radome par tout moyen de fixation, cette disposition ayant pour effet une diminution du poids total et une augmentation de la surface utile dont le résultat principal est une augmentation du gain total de l'antenne. d'autres avantages et caractéristiques de la présente invention apparaltront dans la description qui suit donnée à l'aide des figures qui représentent - la figure 1, une antenne cassegrain montée dans un radome selon l'art antérieur - la figure 2, une antenne cassegrain montée dans un radome selon l'invention ; - et la figure 3, le schéma d'un exemple de réflecteur métallique du type filtre de polarisation à fentes. la figure 1 montre une antenne cassegrain montée dans un radome selon l'art antérieur. elle comporte un radome 3, à l'intérieur duquel se trouve, une source 1 rayonnant une onde électromagnétique polarisée, orientée de telle façon que sa direction d'émission coïncide avec l'axe de symétrie du radome, un réflecteur 2 plan réfléchissant les ondes en faisant tourner la polarisation de 900, un second réflecteur 4 filtre de polarisation et monté sur un support 5, lui-meme positionné rigidement par un moyen de fixation 6. le réflecteur 4 est constitué par un réseau de fils métalliques parallèles qui sont collés sur un substrat 5 conçu de manière à éviter les réflexions parasites. on arrive à ce résultat en utilisant un substrat du type "sandwich", ctest-à-dire composé de deux pellicules à forte constante diélectrique entourant une plaque de faible constante diélectrique et dont l'épaisseur est de emi2.1 > étant la longueur d'onde émise par la source 1. sa forme, est par exemple un hyperbololde
+</DESCRIPTION>
+<CLAIMS>
+ revendications    1. antenne du type cassegrain montée à l'intérieur d'un radome (3), comportant deux réflecteurs dont   l'un    (2) est mobile, et l'autre (4) est fixe, les deux réflecteurs (2 et 4) ainsi que la source émettrice (1) étant enfermés dans un radome (3), caractérisée en ce que le réflecteur fixe (4) est fixé directement sur le radome (3) par des moyens de   fixation (9).       2. antenne du type cassegrain montée dans un radome selon la revendication 1, caractérisée en ce que le réflecteur fixe (4) fixé sur le radome (3) est un filtre métallique de polarisation   a    fentes.    3. antenne du type cassegrain montée dans un radome selon la revendication 1, caractérisée en ce que les moyens de fixation (9) du réflecteur fixe (4) sur le radome sont recouverts d'un moyen absorbant les ondes électromagnétiques   émises    par la source (1).    4. antenne du type cassegrain montée dans un radome selon la revendication 1, caractérisée en ce que le réflecteur fixe (4) a sa forme adaptée de façon que tous les points de son périmètre sont en contact avec le périmètre interne de la section du radome (3) sur lequel il est fixé.     5. antenne du type cassegrain montée dans un radome selon la revendication 1, caractérisée en ce que la partie du radome (3) entourant le réflecteur mobile (2) limitée par le périmètre du réflecteur fixe (4) est recouverte d'un moyen (8) absorbant et/ou filtrant les ondes électromagnétiques reçues.    6. antenne du type cassegrain montée dans un radome selon la revendication   1- caractérjsoe    en ce que les moyens de fixation (9) du réflecteur   fixé    (4) sur le radome (3) consistent en un collage dudit réflec  teur (4) sur le radome (3).    7. radome caractérisé en ce qu'il comporte une antenne cassegrain selon l'une quelconque des revendications précédentes.  
+</CLAIMS>
+</TEXT>
+</DOC>

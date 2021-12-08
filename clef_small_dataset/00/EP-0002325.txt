@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002325
+</DOCNO>
+<TEXT>
+<DATE>
+19790613
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F28D-7/00</main> F28B-7/00 F28B-1/00 B01D-53/26 F28D-7/08 F28B-1/02 F28D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a compressed air dehumidifier.
+</TITLE>
+<APPLICANT>
+orion machinery co ltdjp<sep>orion machinery company limited<sep>orion machinery company limited246 oaza-kotaka susaka-shinagano-kenjp<sep>orion machinery company limited <sep>
+</APPLICANT>
+<INVENTOR>
+baba koji<sep>nanaumi kazuyuki<sep>baba, koji<sep>nanaumi, kazuyuki<sep>baba, koji1059-3 oaza-susaka-shinagano-kenjp<sep>nanaumi, kazuyuki689-1 oaza-hitaki susaka-shinagano-kenjp<sep>baba, koji<sep>nanaumi, kazuyuki<sep>baba, koji1059-3 oaza-susaka-shinagano-kenjp<sep>nanaumi, kazuyuki689-1 oaza-hitaki susaka-shinagano-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+a heat exchanger for cooling system compressed air  dehumidifiers includes an inner body (1) forming a dehumidifying  passage (2) provided with a cooler (16), an outer body  (5) surrounding the inner body (1) and forming a pre-cooling  passage (6) along the outer periphery of the inner body (1),  an air supply port (10) in the outer body (5), through which  compressed air is led into the pre-cooling passage (6) from  one end thereof, a communicating hole (11) in the inner body  (1) to guide the air led into the pre-cooling passage (6) out  through its other end into the dehumidifying passage (2)  through one end thereof, and a plurality of heat transmitting  pipes (14) extending through the precooling passage (6) in  order to form an air-flow passage which guides the compressed  air out of the other end of the dehumidifying  passage (2) to an air discharge port (12) provided in the outer  body (5).  the heat of the compressed air in the air-flow  passage (14) which has been cooled and dehumidified in the  dehumidifying passage and is flowing towards the air  discharge port (12) is exchanged with that of the compressed  air of relatively high temperature in the pre-cooling passage  (6) flowing from the air supply port (10) towards the  dehumidifying passage (2).  in this manner, the heat exchanger  simultaneously precools the compressed air to be  dehumidified and heats already dehumidified compressed  air.  further, by maintaining the outer body (5) which forms  the outer surface of the heat exchanger at a relatively high  temperature dew drops on the surface are prevented from  forming.  
+</ABSTRACT>
+</TEXT>
+</DOC>

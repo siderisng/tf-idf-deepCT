@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001603
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-263/06 C07C-265/04 C07C-119/042 C07C-241/00 C07C-20060101S C07C-67/00 <main>C07C-118/00</main> C07C-265/00 C07C-263/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing isocyanates.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende <sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+findeisen kurt dr<sep>freimuth reinhard dr<sep>heitkamper peter dr<sep>konig klaus dr<sep>wagner kuno dr<sep>findeisen, kurt, dr.<sep>freimuth, reinhard, dr.<sep>heitkamper, peter, dr.<sep>konig, klaus, dr.<sep>wagner, kuno, dr.<sep>findeisen, kurt, dr.in der follmühle 10d-5068 odenthal 2de<sep>freimuth, reinhard, dr.klutstein 35d-5060 bergisch-gladbach 2de<sep>heitkämper, peter, dr.wiedstrasse 6d-4047 dormagende<sep>könig, klaus, dr.heymannstrasse 50d-5090 leverkusende<sep>wagner, kuno, dr.am kiesberg 8d-5090 leverkussende<sep>findeisen, kurt, dr.<sep>freimuth, reinhard, dr.<sep>heitkamper, peter, dr. <sep>konig, klaus, dr.<sep>wagner, kuno, dr.  <sep>findeisen, kurt, dr.in der follmühle 10d-5068 odenthal 2de<sep>freimuth, reinhard, dr.klutstein 35d-5060 bergisch-gladbach 2de<sep>heitkämper, peter, dr.wiedstrasse 6d-4047 dormagende<sep>könig, klaus, dr.heymannstrasse 50d-5090 leverkusende<sep>wagner, kuno, dr.am kiesberg 8d-5090 leverkussende<sep>
+</INVENTOR>
+<ABSTRACT>
+prodn.  of isocyanates of formula (i) roch2nco (r=1-4c alkyl or allyl) comprises reacting a urea of formula (ii) roch2nhconr'r" (r' and r" = inert organic residues or together complete a heterocycle) with a mono- or polyisocyanate (iii), of b. pt.  >1 that of (i), at 50-250 degrees c.  pref.  reaction is carried out in presence of cpd.  (iv) having carbodiimide gps. ; opt.  an isocyanate cotng.  such gps.  can serve as both (iii) and (iv).  (i) esp.  where r=ch3, are intermediates for crosslinkable binders used in paints.  the method is suitable for large scale operation and avoids using hazardous chloromethyl alkyl ethers. 
+</ABSTRACT>
+</TEXT>
+</DOC>

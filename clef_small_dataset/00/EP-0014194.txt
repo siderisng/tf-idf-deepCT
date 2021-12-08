@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014194
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-7/02 <main>H01H-36/00</main> G05G-1/00 H01H-36/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electric switch.
+</TITLE>
+<APPLICANT>
+hutter hans georg<sep>hutter, hans-georg, dr.<sep>hütter, hans-georg, dr.hauptstrasse 131a-2372 giesshübelat<sep>hutter, hans-georg, dr.<sep>
+</APPLICANT>
+<INVENTOR>
+hutter hans-georg dr<sep>hutter, hans-georg, dr.<sep>hütter, hans-georg, dr.hauptstrasse 131a-2372 giesshübelat<sep>hutter, hans-georg, dr.<sep>hütter, hans-georg, dr.hauptstrasse 131a-2372 giesshübelat<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an electric switch having contact supports which are accommodated in a common housing (1) so as to be movable with respect to one another, are equiped with differently polarized permanent magnetic fields and can be displaced by means of actuation members (2, 3) between a position, in which their differently polarized fields are opposite such that they attract one another, and a position in which their equally polarized fields are opposite so as to repel one another, characterized in that the housing (1) completely encloses the actuation members (2, 3), which are themselves formed as contact supports, and can be moved and/or deformed in order to displace them. 
+</ABSTRACT>
+</TEXT>
+</DOC>

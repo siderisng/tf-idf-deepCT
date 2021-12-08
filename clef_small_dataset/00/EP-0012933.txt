@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012933
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-1/06 C07D-207/44 C07C-46/00 <main>G03C-7/20</main> G03C-1/00 C07C-235/48 C07C-235/00 C07C-45/00 C07C-233/31 C07D-311/22 C07C-233/09 C07D-207/448 C07D-311/00 C07C-67/00 C07C-50/02 C07C-235/60 C07C-255/41 C07C-69/734 C07D-207/452 C07C-253/00 C07C-255/00 C07C-46/06 G03C-7/32 G03C-7/00 C07C-69/00 C07C-50/00 C07D-207/00 C07C-233/00 G03C-7/392 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+photographic recording material.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+odenwalder heinrich dr<sep>puschel walter dr<sep>ranz erwin dr<sep>odenwalder, heinrich, dr.<sep>puschel, walter, dr.<sep>ranz, erwin, dr.<sep>odenwälder, heinrich, dr.am arenzberg 37d-5090 leverkusen 31de<sep>püschel, walter, dr.berta-von-suttner-strasse 54d-5090 leverkusen 1de<sep>ranz, erwin, dr.euckenstrasse 1d-5090 leverkusen 1de<sep>odenwalder, heinrich, dr.<sep>puschel, walter, dr.<sep>ranz, erwin, dr.<sep>odenwälder, heinrich, dr.am arenzberg 37d-5090 leverkusen 31de<sep>püschel, walter, dr.berta-von-suttner-strasse 54d-5090 leverkusen 1de<sep>ranz, erwin, dr.euckenstrasse 1d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Connections that substantially only for pH values can not be binded as a 7-free inhibitor for the development of Silberha LighIDid, are added to photographic drawing materials containing inhibitor releasing compounds.As a result, the development is prevented from undesirable impairment of photographic properties by free inhibitor, which is present as an impurity or released from the inhibitor releasing releasing connections during storage.Under the conditions of the photo graphical development, the above compounds react virtually not with free inhibitor.
+</ABSTRACT>
+</TEXT>
+</DOC>

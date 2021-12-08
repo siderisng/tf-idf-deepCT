@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006574
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08K-5/08 C09B-1/00 C08L-67/00 C08K-5/00 C08K-5/07 <main>C08K-5/20</main> C08K-5/20 C08K-5/17 C08J-3/20 C09B-1/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the bulk dyeing of linear polyesters with anthraquinone dyestuffs.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+jost max<sep>jost, max<sep>jost, maxrebgartenweg 20ch-4104 oberwilch<sep>jost, max<sep>jost, maxrebgartenweg 20ch-4104 oberwilch<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for dyeing high molecular weight organic material in the mass, characterized in that a compound of the formula is used as a dye, wherein Hal is a chlorine or bromine atom, x an H or halogen atom, an alkyl or alkoxy group having 1-6 cAtoms, an alkoxycarbonyl group having 2-7 C atoms, a phenyl group or optionally substituted by chlorine or methyl groups, phenoxy group, y and z H or halogen atom or methyl groups.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008616
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04D-25/02 F04D-25/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+turbocompressor.
+</TITLE>
+<APPLICANT>
+demag ag mannesmannde<sep>mannesmann demag ag<sep>mannesmann demag agwolfgang-reuter-platzd-4100 duisburg de<sep>
+</APPLICANT>
+<INVENTOR>
+grundmann ulrich dipl-ing de <sep>noe helmut dipl-ingde<sep>grundmann, ulrich, dipl.-ing.<sep>noe, helmut, dipl.-ing.<sep>grundmann, ulrich, dipl.-ing.am tannenbusch 6d-4223 voerde 2de<sep>noe, helmut, dipl.-ing.fliederweg 12d-4000 düsseldorf 34de<sep>
+</INVENTOR>
+<ABSTRACT>
+turbocompressor with a speed range     n = x .  10<5> .  2root 1/2     for n > 4000 rpm and           p > 50 kw and           x (kw<1/2 >min<-><1>) between 1 and 25,   the rotor of which is coupled directly to the motor shaft of a high-speed electric motor without the interposition of a gear unit.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

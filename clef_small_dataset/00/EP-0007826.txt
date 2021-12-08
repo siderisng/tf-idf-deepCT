@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007826
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01S-3/083 G01C-19/72 <main>G01C-19/64</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+interferometric gyrometer with optical fibre.
+</TITLE>
+<APPLICANT>
+thomson csffr   <sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf<sep>
+</APPLICANT>
+<INVENTOR>
+pircher georges<sep>pircher, georges<sep>pircher, georges"thomson-csf" - scpi 173, bld. haussmannf-7530 paris cédex 08fr<sep>pircher, georges  <sep>pircher, georges"thomson-csf" - scpi 173, bld. haussmannf-7530 paris cédex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an interferometric gyrometer using a laser source, 1, and the separating means of the beam, 5, forming two waves each sent to one end of a rolled monomode fiber, 6. The invention relates to a such a gyrometer in which means are provided for introducing between the two waves emerging from the ends of the fiber a phase shift perma nent equal to π / 2, of the switching means 3, being provided for alternately directing each of these two waves towards one and the other of the two ends of the fiber so as to measure additional phase shifting + Δ and -Δ Corresponding to the same absolute rotation speed. A synchronous demo, 40, receiving the detected and amplified signal and a synchronous signal of the control signal applied to the switching means, provides a signal proportional to the rotation speed of the girometer. Application to the measurement of low speeds of rotation.
+</ABSTRACT>
+</TEXT>
+</DOC>

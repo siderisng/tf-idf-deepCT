@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010939
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+F25J-3/02 C10L-3/00 C07C-7/04 C07C-7/00 C10L-3/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the recovering of ethane and heavier hydrocarbon components from methane-rich gases.
+</TITLE>
+<APPLICANT>
+stone & webster eng corpus<sep>stone & webster engineering corporation<sep>stone &amp; webster engineering corporation245 summer street p.o. box 2325boston massachusetts 02107us<sep>
+</APPLICANT>
+<INVENTOR>
+agnihotri chaitanya bus<sep>agnihotri, chaitanya b.<sep>agnihotri, chaitanya b.13 spruce streetcedar knoll, new jersey 07927us<sep>
+</INVENTOR>
+<ABSTRACT>
+a process for recovering ethane and heavier hydro­ carbon components from a methane-rich gas which com­ prises passing said methane-rich gas through a series of  at least two indirect cooling stages (18, 20, 22; 24 and 55,  56) and at least two liquid pressure reduction stages (37,  87) and one turbine expansion stage (64), resulting in at  least three feed streams (82, 96, 100), which are fed to a  demethanizer tower (48) wherein ethane and heavier  hydrocarbon components are recovered in high yields  from gases high in methane content.  vapors and liquids  from the liquid pressure reduction stages are used  separately as coolants in indirect heat exchange relation­ ship with the hydrocarbon feed gas to effect a partial  condensation of the feed.  various liquid and vapor  streams obtained by the cooling and pressure reduction  stages are fed to the demethanizer tower at the appropriate  points.  the temperatures of these feed streams is in the  range of from about -45° to -101°c and the pressure  in said demethanizer tower is maintained at a level inter­ mediate the pressure of the inlet feed and the pressure at  the outlet of said expansion stage.  
+</ABSTRACT>
+</TEXT>
+</DOC>

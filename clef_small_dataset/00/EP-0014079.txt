@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014079
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-27/12 C07D-491/00 C07D-495/20 A61P-3/00 A61P-25/18 <main>C07D-491/20</main> A61P-3/10 C07D-491/20 C07D-491/04 A61K-31/395 C07D-215/20 C07D-495/00 A61P-27/00 C07D-215/00 A61P-27/02 A61P-3/08 C07D-215/26 A61K-31/47 A61P-25/00 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+spiro-quinolylhydantoins, process for their preparation and pharmaceutical compositions thereof.
+</TITLE>
+<APPLICANT>
+pfizerus<sep>pfizer inc.<sep>pfizer inc.235 east 42nd streetnew york, n.y. 10017us<sep>pfizer inc.<sep>
+</APPLICANT>
+<INVENTOR>
+schnur rodney caughren<sep>schnur, rodney caughren<sep>schnur, rodney caughren91 front streetnoank, new london connecticutus<sep>schnur, rodney caughren<sep>schnur, rodney caughren91 front streetnoank, new london connecticutus<sep>
+</INVENTOR>
+<ABSTRACT>
+novel spiro-quinolylhydantoin derivatives of the for­ mula:    and the base salts thereof with pharmaceutically accept­ able cations, wherein x is oxygen or sulfur;   n is zero, one or two;   r is hydrogen, alkyl of 1 to 4 carbon atoms or benzyl;   and r₁, r₂ and r₃ are each hydrogen, chloro, bromo, fluo­ ro, alkyl of 1 to 3 carbon atoms or phenyl, are useful as  aldose reductase inhibitors and as therapeutic agents for  the treatment of chronic diabetic complications.  preferred compounds include spiro[imidazolidin-4,4′-­ pyrano(3,2-h)quinolin]-2,5-dione and spiro[imidazolidin-­ 4,4′-pyrano(2,3-f)quinolin]-2,5-dione.  
+</ABSTRACT>
+</TEXT>
+</DOC>

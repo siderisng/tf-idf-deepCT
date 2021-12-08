@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009010
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07K-5/00 C07K-5/097 C07K-5/087 <main>C07C-103/52</main> A61K-38/06 A61K-37/02 C07K-14/00 A61K-38/00 C07K-5/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+bradykinin inhibiting tripeptide derivatives, process for their preparation and pharmaceutical preparations containing them.
+</TITLE>
+<APPLICANT>
+kabi abse<sep>ab±kabi<sep>kabi ablindhagensgatan 133s-112 87 stockholmse<sep>ab kabi<sep>
+</APPLICANT>
+<INVENTOR>
+arielly salo<sep>claeson karl goran<sep>simonsson leif roger<sep>arielly, salo<sep>claeson, karl goran<sep>simonsson, leif roger<sep>arielly, salosyrengatan 6bs-434 00 kungsbackase<sep>claeson, karl göranpl 2153s-430 40 säröse<sep>simonsson, leif rogerolshammersgatan 10s-422 47 hisings-backase<sep>arielly, salo <sep>claeson, karl goran<sep>simonsson, leif roger  <sep>arielly, salo syrengatan 6bs-434 00 kungsbackase<sep>claeson, karl göranpl 2153s-430 40 säröse<sep>simonsson, leif rogerolshammersgatan 10s-422 47 hisings-backase<sep>
+</INVENTOR>
+<ABSTRACT>
+tripeptide derivatives of the formula   h-d-x-phe-arg-y   in which   x is selected from the group consisting of pro and phe   y is selected from the group consisting of o-r₁ and nh-r₂  in which   r₁ is selected from the group consisting of straight,  branched and cyclic alkyl group with 1 - 12 c atoms, and   r₂ is selected from the group consisting of h, straight,  branched and cyclic alkyl group with 1 - 12 c atoms, and  physiologically acceptable salts thereof.   a process for producing said tripeptide derivatives by  synthesis and purification methods which are known in the  peptide chemistry.  pharamaceutical preparations comprising said tripep­ tide derivatives.  
+</ABSTRACT>
+</TEXT>
+</DOC>

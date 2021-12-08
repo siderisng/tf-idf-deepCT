@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006094
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61L-15/00 C08G-18/42 A61L-15/12 <main>A61L-15/07</main> C08G-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a process for producing orthopedic structures and a thermoplastic linear polyurethane for use in such process.
+</TITLE>
+<APPLICANT>
+hexcel corpus<sep>hexcel corporation<sep>hexcel corporation (a california corporation)650 california street suite 1400san francisco, ca 94108us<sep>hexcel corporation<sep>
+</APPLICANT>
+<INVENTOR>
+liegeois j m<sep>liegeois, j.m.<sep>liegeois, j.m.176 wadeleuxb-4564 charneux-hervebe<sep>liegeois, j.m.  <sep>liegeois, j.m.176 wadeleuxb-4564 charneux-hervebe<sep>
+</INVENTOR>
+<ABSTRACT>
+a new process for producing orthopedic structures is  provided, which comprises impregnating a fabric carrier  with a solution of a polymer and removing the solvent from  the impregnated carrier, which process is characterized in  that the fabric carrier is impregnated with a solution in an  organic solvent of a prepolymer polyurethane having two  isocyanate end groups which has been formed by the reaction  of a bifunctional compound reactive with an isocyanate  group with a molar excess of a diisocyanate, which solution  contains a chain extender and optionally a catalyst for the  chain-extending reaction and the impregnated carrier is  warmed to remove the solvent and to prepare the final polymer.  by the invention a new thermoplastic linear polyurethane  is produced, which comprises recurring units of a  prepolymeric diisocyanate, which are linked by radicals of  a bifunctional chain-extender.  the prepolymeric diisocyanate,  which is used as a reactant for forming the linear  polyurethane, has been formed by reacting a diol of the  general formula    h-(-o-r₁--)xy-r₂-z-(--r₁-o)-yh   with a diisocyanate of the general formula ocn-r₃-nco,  wherein r₁ represents an alkylene radical having 4 to 6  carbon atoms, which is unsubstituted or may be substituted  with lower alkyl groups, cycloalkyl groups, lower  alkoxy groups, the number of substituents being 1 to 3, the  radicals r₁ being identical radicals or mixed radicals, r₂  represents a lower alkylene radical having 2 to 6 carbon  atoms.  r₃ represents the radical of an aromatic or aliphatic  diisocyanate, and y und z standing for -o-, -nh-, or  -coo-, x and y are 10 to 20.  the process according to the invention enables to  impregnate carrier materials for orthopedic structure in a  one-step procedure by using highly concentrated solutions  without reaching a high viscosity.  
+</ABSTRACT>
+</TEXT>
+</DOC>

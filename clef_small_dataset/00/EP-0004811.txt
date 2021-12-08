@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004811
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-9/04 H04N-5/225 G02B-27/32 H04N-9/09 <main>G02B-27/32</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diascope for a television camera.
+</TITLE>
+<APPLICANT>
+thomson csf fr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf <sep>
+</APPLICANT>
+<INVENTOR>
+moenne-loccoz jean-marc<sep>moutet louis<sep>moenne-loccoz, jean-marc<sep>moutet, louis<sep>moenne-loccoz, jean-marc"thomson-csf" scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>moutet, louis"thomson-csf" scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>moenne-loccoz, jean-marc<sep>moutet, louis  <sep>moenne-loccoz, jean-marc"thomson-csf" scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>moutet, louis"thomson-csf" scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+diascope made to facilitate the adjustment of its optical elements. The diascope comprises a support (3) and an object holder (7) and a lens (9) arranged in a longitudinal slot (14) practiced in the support. The object holder and the objective are maintained in this slot using blade springs (72, 73, 92, 93) supported by the support. The angular position of a mire (8) integral with the object holder (7) is set by rotating the object holder about a longitudinal axis (CD) parallel to the large dimension of the slot. The longitudinal position of the lens (9) is adjusted by sliding this objective towards one or the other ends of the slot (14). The diascon also comprises a deviant prism (10) integral with a fixing piece (101) whose spacing relative to the support (3) of the diascuit is made adjustable by three screws (102, 103, 104) with parallel axes, crossing the fixing piece; The screw tips are maintained in contact with the support (3) by blade springs (105, 106) integral with the support and tending to bring the fixing part into contact with the support.
+</ABSTRACT>
+</TEXT>
+</DOC>

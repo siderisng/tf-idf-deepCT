@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001404
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+C04B-7/44 C04B-7/43 C04B-7/00 B01J-6/00 F27B-7/20 F27D-13/00 <main>C04B-7/44</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for heat treatment of fine-grained solid materials.
+</TITLE>
+<APPLICANT>
+krupp polysius agde<sep>krupp polysius aktiengesellschaft<sep>krupp polysius aggraf-galen-strasse 17d-59269 beckumde<sep>krupp polysius ag  <sep>
+</APPLICANT>
+<INVENTOR>
+krutzner karl jr<sep>krutzner, karl, jr.<sep>krützner, karl, jr.rostocker strasse 8d-4720 beckumde<sep>krutzner, karl, jr.<sep>krützner, karl, jr.rostocker strasse 8d-4720 beckumde<sep>
+</INVENTOR>
+<ABSTRACT>
+Device for heat treatment of fine-grained solids with a rotary kiln, a multi-stage cyclone preheater and a BY-pass line with mixed chamber for cooling a branched oven exhaust sample MES, wherein the branched partial stream experiences a certain about steering, introduced through the ground into the mixing chamber and theMixing chamber is arranged in a defined small distance from the connecting line between the rotary kiln and cyclone preheater.
+</ABSTRACT>
+</TEXT>
+</DOC>

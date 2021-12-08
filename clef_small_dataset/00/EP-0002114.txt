@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002114
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01R-12/20 H01R-13/629 <main>H01R-23/70</main> H01R-12/16 H01R-24/00 H01R-12/00 H01R-12/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+zero insertion force printed circuit board edge connector.
+</TITLE>
+<APPLICANT>
+amp incus<sep>amp incorporated<sep>amp incorporated (a new jersey corporation)p.o. box 3608 470 friendship roadharrisburg pennsylvania 17105us<sep>amp incorporated<sep>
+</APPLICANT>
+<INVENTOR>
+desso jerome andrew<sep>yeager marvin leo<sep>desso, jerome andrew<sep>yeager, marvin leo<sep>desso, jerome andrew1336 peiffer laneoberlin-steelton pennsylvania 17113us<sep>yeager, marvin leo100 linn drivecarlisle pennsylvania 17013us<sep>desso, jerome andrew  <sep>yeager, marvin leo <sep>desso, jerome andrew1336 peiffer laneoberlin-steelton pennsylvania 17113us<sep>yeager, marvin leo100 linn drivecarlisle pennsylvania 17013us<sep>
+</INVENTOR>
+<ABSTRACT>
+the connector comprises a housing (12) containing  a row of electrical contacts (18), a cam (60) being rotatable  about its own axis to raise a contact driving member (16)  to cam the contacts (18) away from a printed circuit board  receiving channel (28) formed in the housing (12) to allow  the insertion of a printed circuit board into the channel  (28) without the board engaging the contacts (18), and to  permit ready removal of the board from the channel (28).  to ensure that the contacts (18) are disengaged from  the board only sequentially in groups, the contact driving  member (16) is formed with relatively stepped, contact  engaging, surfaces (47).  
+</ABSTRACT>
+</TEXT>
+</DOC>

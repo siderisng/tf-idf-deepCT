@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010973
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16F-15/26 F02B-67/00 F16F-15/22 <main>F16F-15/26</main> B63H-21/30 B63H-21/00 F02B-75/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for effecting compensation of free moments resulting from inertia forces in an internal combustion engine.
+</TITLE>
+<APPLICANT>
+b & w diesel asdk<sep>b & w diesel a/s<sep>b &amp; w diesel a/sno.2 torvegadedk-1400 copenhagen kdk<sep>b & w diesel a/s  <sep>
+</APPLICANT>
+<INVENTOR>
+lindquist henning<sep>lindquist, henning<sep>lindquist, henningno. 14 eskildsvejdk-2990 nivadk<sep>lindquist, henning<sep>lindquist, henningno. 14 eskildsvejdk-2990 nivadk<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for compensating moments created by  inertia forces in an internal combustion engine (2) used  for a ship's propulsion comprises a balancer (8) spaced in  the fore-and-aft direction from the engine and including  one or more rotary unbalanced masses (9).  each unba­ lanced mass is driven by a positive displacement hydrau­ lic motor (12) connected through feed and return con­ duits (14, 15) with a positive displacement hydraulic pump  (13) driven by the engine (2) in such a way that the rpm of  the mass is equal to or twice the rpm of the engine crank­ shaft (3) and that a desired phase relationship between  the rotation of the mass and the movements of the oscillat­ ing masses of the engine is maintained.  the hydraulic  drive provides a simpler and cheaper apparatus as com­ pared to known electrically driven balancers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

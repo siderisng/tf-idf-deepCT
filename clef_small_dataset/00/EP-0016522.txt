@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016522
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/60 H01L-23/495 H01L-23/48 H01L-23/34 <main>H01L-23/48</main> H01L-23/367 H01L-21/48 H01L-21/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semiconductor device and method for manufacturing the same.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+nakagawa toyokatu<sep>sugahara takehisa<sep>yano junichi<sep>nakagawa, toyokatu<sep>sugahara, takehisa<sep>yano, junichi<sep>nakagawa, toyokatu56-11, tsutsumi, tsuruga ikkimachiaizuwakamatsu-shi fukushima 965jp<sep>sugahara, takehisa11-1-16-203, shirahatadai 1-chome takatsu-kukawasaki-shi kanagawa 213jp<sep>yano, junichi466-18, edacho midori-kuyokohama-shi kanagawa 227jp<sep>nakagawa, toyokatu<sep>sugahara, takehisa<sep>yano, junichi<sep>nakagawa, toyokatu56-11, tsutsumi, tsuruga ikkimachiaizuwakamatsu-shi fukushima 965jp<sep>sugahara, takehisa11-1-16-203, shirahatadai 1-chome takatsu-kukawasaki-shi kanagawa 213jp<sep>yano, junichi466-18, edacho midori-kuyokohama-shi kanagawa 227jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a semiconductor device comprising: a semiconductor  chip; a package (1) for accommodating the chip; groups of  leads which are arranged around the perimeter of the package  (1), and; striped insulators such as plastic films (8) to each of  which one of the groups of leads (3) are adhered.  in addition, a  method for manufacturising the same comprising the steps  of: preparing a package (1) including a semiconductor chip  and having lead frames (2) each of which is composed of leads  (3) and a supporting end portion; adhering the lead frames (2)  to an insulationg sheet such as a plastic film (8), and; chipping  off the portions of the insulating sheet to which the supporting  end portions are adhered.  
+</ABSTRACT>
+</TEXT>
+</DOC>

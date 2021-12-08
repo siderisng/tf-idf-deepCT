@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007200
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-27/10 G11B-27/30 G11B-19/28 G11B-7/005 G11B-7/00 G11B-15/46 G11B-15/52 G11B-15/60 G11B-7/085 G11B-23/30 G11B-23/36 <main>G11B-7/00</main> G11B-7/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for controlling the reading of information from an information storage medium.
+</TITLE>
+<APPLICANT>
+mca artists england ltd gb<sep>mca artists (england) limited<sep>discovision associatesp.o. box 6600 3300 hyland avenuecosta mesa california 92626us<sep>discovision associates<sep>mca artists (england) limited<sep>
+</APPLICANT>
+<INVENTOR>
+dakin wayne ray<sep>winslow s john<sep>dakin, wayne ray<sep>winslow, s. john<sep>dakin, wayne ray816, camino real, 204redondo beach, california 90277us<sep>winslow, s. john4380, canyon crest roadaltadena, california 91001us<sep>dakin, wayne ray<sep>winslow, s. john<sep>dakin, wayne ray<sep>winslow, s. john<sep>dakin, wayne ray816, camino real, 204redondo beach, california 90277us<sep>winslow, s. john4380, canyon crest roadaltadena, california 91001us<sep>
+</INVENTOR>
+<ABSTRACT>
+method and apparatus for controlling the speed of an  information storage medium, such as a disc-shaped record  carrier (11), relative to a device for recovering information  recorded thereon.  the disc includes a plurality of substantially  parallel information tracks (15) arranged in a spiral or in con­ centric circles, and information recorded thereon includes a  pilot signal having a predetermined frequency.  the apparatus  includes means (37) for comparing the phase angle of the  recovered pilot signal (57) with the phase angle of a locally  generated reference signal (33), to produce an error signal  (43) for controlling the angular velocity of a spindle motor (17)  that rotates the disc.  the pilot signal includes an equal integral  number of cycles on each information track, so its phase angle  is aligned on adjacent tracks and the apparatus can continue  to operate even when the information recovering device is  traversing the disc from one track to another or is not critically  positioned with respect to an individual information track.  
+</ABSTRACT>
+</TEXT>
+</DOC>

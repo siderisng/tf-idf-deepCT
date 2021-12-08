@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008124
+</DOCNO>
+<TEXT>
+<DATE>
+19800220
+</DATE>
+<IPC-CLASSIFICATIONS>
+G09B-7/00 G09B-5/06 G09B-5/00 G09B-7/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a video, information, instruction and documentation apparatus for programmed tuition.
+</TITLE>
+<APPLICANT>
+gebauer rainer dr <sep>gebauer, rainer, dr.<sep>gebauer, rainer, dr. am schellberg 2 d-6232 bad soden-neuenhain de<sep>
+</APPLICANT>
+<INVENTOR>
+gebauer rainer dr<sep>gebauer, rainer, dr.<sep>gebauer, rainer, dr.am schellberg 2d-6232 bad soden-neuenhainde<sep>
+</INVENTOR>
+<ABSTRACT>
+in this device a recording medium (video tape with storage and control track) (1) is combined with a computer (arithmetic unit with main memory) (2), a monitor/tv screen (6) and an input device (4), the computer (2) being associated with two circuits (10, 14) controlled by the input device (4), the first circuit (10) of which is arranged between recording medium (1) and computer (2) and the second circuit (14) of which is arranged between computer (2) and screen and a line (12) is provided which directly connects the first circuit (10) to the circuit (14), bypassing the computer (2), in order to be able to transmit optionally to the video spot from the recording medium (1) or the computer program from the computer (2) to the screen (6).  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

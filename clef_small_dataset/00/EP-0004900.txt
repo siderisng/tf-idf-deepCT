@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004900
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-14/22 C23C-14/04 G02B-5/30 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making polarizers consisting of a plurality of electrically conductive strips arranged on a glass carrier plate in parallel to each other
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>
+</APPLICANT>
+<INVENTOR>
+krueger hans dipl-ingde<sep>rehme hans drde<sep>krueger, hans, dipl.-ing.<sep>rehme, hans, dr.<sep>krüger, hans, dipl.-ing.peralohstrasse 13d-8000 münchen 83de<sep>rehme, hans, dr.herzog-albrecht-strasse 13d-8011 zornedingde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing a plurality of electrically conductive strips arranged in a plurality of electrically conductive strips arranged parallel to each other with a grid size of about 1/10 of the light wavelength. The method is characterized in that a first method step is provided, in which a wavy, dune-like layer of conductive material is applied with a pierode of approximately surface ripple with a pierode of approx. 50 nm with a pierode of about 50 nm with a pierode of approximately 50 nm with a pierode of approx. 50 nm with a pierode of approx. 50 nm with a pierode of approx. 50 nm with a pierode of approx. 50 nm with a pierode of approx. and that a second method step is provided in which a predetermined strength of the dune-like layer is removed by particle bombard under a predetermined shot angle, so that an arrangement of a plurality of parallel to one another, separate and thus electrically isolated from each other microstrip on the glass carrier plate is formed.
+</ABSTRACT>
+</TEXT>
+</DOC>

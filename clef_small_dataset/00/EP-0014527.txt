@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014527
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+B65H-67/04 B65H-67/044 B65H-67/06 <main>B65H-67/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic bobbin changing on thread winding machines.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbank london sw1p 3jf gb <sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+beck david ernest<sep>cockshott peter newall<sep>cope robert james<sep>beck, david ernest<sep>cockshott, peter newall<sep>cope, robert james<sep>beck, david ernest'foxhill' skipton roadhampsthwaite north yorkshire, hg3 2lzgb<sep>cockshott, peter newall11, westville avenueilkley west yorkshire, ls29 9ahgb<sep>cope, robert james3, stray walkharrogate north yorkshire, hg2 8hugb<sep>beck, david ernest<sep>cockshott, peter newall <sep>cope, robert james<sep>beck, david ernest 'foxhill' skipton road hampsthwaite north yorkshire, hg3 2lz gb<sep>cockshott, peter newall11, westville avenueilkley west yorkshire, ls29 9ahgb<sep>cope, robert james3, stray walkharrogate north yorkshire, hg2 8hugb<sep>
+</INVENTOR>
+<ABSTRACT>
+an improved arrangement of thread winders comprising  forward facing horizontal cantilevered bobbin winding spin­ dles with automatic bobbin push off means and bobbin sup­ ports on rotors arranged for automatic bobbin exchange bet­ ween the spindles and the supports, one rotor being dedi­ cated to each winder, characterised by, in combination, a  hoist for each winder providing an upper and a lower operat­ ing position, a rotor for each winder comprising at least two  horizontal bobbin supports and rotatable about a vertical axis  to align either support with the winder spindle in its lower  position for bobbin exchange therewith, and a platform above  the rotors providing operator access to the winders in their  upper position.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015129
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G02F-1/09</main> H04B-10/28 G02B-27/28 H04B-10/02 G02F-1/01 G02F-1/09 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical circulator.
+</TITLE>
+<APPLICANT>
+fujitsu ltdjp<sep>fujitsu limited<sep>fujitsu limited1015, kamikodanaka, nakahara-kukawasaki-shi, kanagawa 211jp<sep>fujitsu limited<sep>
+</APPLICANT>
+<INVENTOR>
+kuwahara hideo<sep>kuwahara, hideo<sep>kuwahara, hideo3-5-118, miyazakidai 1-chometakatsu-ku, kawasaki-shi kanagawa 213jp<sep>kuwahara, hideo<sep>kuwahara, hideo3-5-118, miyazakidai 1-chometakatsu-ku, kawasaki-shi kanagawa 213jp<sep>
+</INVENTOR>
+<ABSTRACT>
+an optical circulator comprising a first optical path and a  second optical path formed between a first polarizer element  (p1) and a second polarizer element (p2), faraday rotators  (fr1, fr2) interposed in the first and second optical paths, the  polarizing direction of the faraday rotators being rotated by  an angle of 45° by a magnetic field and the direction of polariz­ ing rotation being reversed with respect to the travelling  direction of light which passes therethrough, and polarizing  direction rotators (oa1, oa2) interposed in the first and sec­ ond optical paths, the polarizing direction of the polarizing  drection rotators being rotated by an angle of 45° and the  direction of polarizing rotation being non-reversed with  respect to the travelling direction of light which passes there­ through.  
+</ABSTRACT>
+</TEXT>
+</DOC>

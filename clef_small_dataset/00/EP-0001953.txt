@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001953
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C01G-39/00</main> C22C-27/00 C10M-7/06 C10M-103/00 C22C-1/10 C22C-27/04 F16C-33/04 F16C-33/12 C22C-30/00 C01G-39/00 C22C-32/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+antifriction alloy, process for the manufacture thereof, and die and lubricant containing such an alloy.
+</TITLE>
+<APPLICANT>
+stephanois rech mecfr<sep>societe dite:  centre stephanois de recherches mecaniques hydromecanique et frottement<sep>centre stephanois de recherches mecaniques hydromecanique et frottement société dite:zone industrielle sud rue benoít fourneyronf-42160 andrezieux boutheonfr<sep>centre stephanois de recherches mecaniques hydromecanique et frottement societe dite:<sep>
+</APPLICANT>
+<INVENTOR>
+terrat jean-paul<sep>terrat, jean-paul<sep>terrat, jean-paul10 rue etienne boissonf-42000 saint-etiennefr<sep>terrat, jean-paul<sep>terrat, jean-paul10 rue etienne boissonf-42000 saint-etiennefr<sep>
+</INVENTOR>
+<ABSTRACT>
+The alloy is made from iron, molybdenum and sulfur.Its composition is between iron, 8.0% to 26.6%, molybdenum: 41.0% to 62.5%, sulfur: 23.3% to 40. 5% and is located in the hexagonal area ABCDef duTentary diagram iron-molybdenum-sulfur.Preferably the alloy comprises at least one dispersed phase such that the FEMO₂S₄ composition in a crystalline matrix responding to the composition Fexmo3 + ys₄ in which X and Y are less than 1. Applications: antifriction alloys with very low coefficient of friction.
+</ABSTRACT>
+</TEXT>
+</DOC>

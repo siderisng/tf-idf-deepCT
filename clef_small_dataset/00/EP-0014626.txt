@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014626
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01B-11/24 C21B-7/24 G01B-11/25 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for continuously determining the level of the charge in a blast furnace.
+</TITLE>
+<APPLICANT>
+siderurgie fse inst rechfr<sep>institut de recherches de la siderurgie francaise(irsid) france<sep>institut de recherches de la siderurgie francaise (irsid) france185, rue président rooseveltf-78105 saint-germain-en-layefr<sep>
+</APPLICANT>
+<INVENTOR>
+bobillon jean-paulfr<sep>bobillon, jean-paul<sep>bobillon, jean-paulbrussieuf-69690 bessenayfr<sep>
+</INVENTOR>
+<ABSTRACT>
+A lighting system 1 comprises: - a transmitting light source4 and a rotating mirror 5 reflecting to the surface of the fillers 2 a light beam that sweeps according to a plane 8 said surface in the materialized in the form of a luminous trace 9, - a receiving system 3 constituted by a fixed optical receiver 10, observing the trace 9 according to a direction carried out a non-zero angle and, preferably, between 15 and 75 ° with the scanning plane 8 and delivering a signal representative ofThe image received, - a processing unit 12 of said signal to determine the spatial coordinates of the constituent points of the trace 9, - the display shows 13, from the details of the coordinates, the actual profile of the luminous trace 9 in theScan plan.
+</ABSTRACT>
+</TEXT>
+</DOC>

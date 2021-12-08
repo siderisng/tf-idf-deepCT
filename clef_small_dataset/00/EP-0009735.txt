@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009735
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/02 H02H-3/24 G01R-19/00 H02H-3/34 <main>H02H-3/253</main> H02H-3/253 G01R-19/10 H02H-3/32 H02P-7/18 G01R-29/18 G01R-29/00 G01R-29/16 H02P-7/292 H02H-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for detecting opposite phase and open phase.
+</TITLE>
+<APPLICANT>
+fujitsu fanuc ltd jp<sep>fujitsu fanuc limited<sep>fanuc ltd.3580, shibokusa aza-komanba, oshinomuraminamitsuru-gun, yamanashi 401-05jp<sep>fanuc ltd <sep>
+</APPLICANT>
+<INVENTOR>
+fujioka yoshiki<sep>kawada shigeki<sep>koiwai yutaka<sep>ohta naoto<sep>fujioka, yoshiki<sep>kawada, shigeki<sep>koiwai, yutaka<sep>ohta, naoto<sep>fujioka, yoshiki3-27, tamadaira hino-shitokyojp<sep>kawada, shigeki346-15, oaza shimoda hino-shitokyojp<sep>koiwai, yutaka3-12-27, kitashinjuku shinjuku-kutokyojp<sep>ohta, naoto3-38-9, toyoda hino-shitokyojp<sep>fujioka, yoshiki<sep>kawada, shigeki  <sep>koiwai, yutaka<sep>ohta, naoto<sep>fujioka, yoshiki3-27, tamadaira hino-shitokyojp<sep>kawada, shigeki346-15, oaza shimoda hino-shitokyojp<sep>koiwai, yutaka3-12-27, kitashinjuku shinjuku-kutokyojp<sep>ohta, naoto3-38-9, toyoda hino-shitokyojp<sep>
+</INVENTOR>
+<ABSTRACT>
+a device (9) for detecting opposite phases and an open  phase in an input three-phase voltage for a dc motor (31)  wherein the input three-phase voltage is rectified by a three-­ phase bridge circuit (3) and supplied to the armature of the dc  motor, comprising: a first means for producing a first voltage  which lags one phase, for example, u-phase of the input  three-phase voltage by a phase angle of 60° (91); a second  means for producing a second voltage which lags another  phase, for example, w-phase, by a phase angle of 180°(92); a  third means for producing a difference voltage between the  first and second voltages (93); means for comparing the max­ imum level of the difference voltage with a reference voltage  (94), and; means (8) for supplying the input three-phase vol­ tage to the three-phase bridge circuit (3).  in this device, the  input three-phase voltage is supplied to the three-phase  bridge circuit when the maximum level is equal to or less than  the reference voltage, while the input three-phase voltage is  not supplied to the bridge circuit when the maximum level is  greater than the reference voltage.  
+</ABSTRACT>
+</TEXT>
+</DOC>

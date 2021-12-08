@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003595
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01S-7/52 G01S-7/06 H04N-5/21 A61B-8/00 G01S-7/56 <main>A61B-10/00</main> G01S-7/04 A61B-8/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and means for the production and recording of ultrasonic split images.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+hassler dieter<sep>hassler, dieter<sep>hassler, dieterflurweg 3d-8521 uttenreuthde<sep>hassler, dieter<sep>hassler, dieterflurweg 3d-8521 uttenreuthde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and apparatus for obtaining and recording ultrasonic cut images, wherein a test object is sampled with ultrasonic linewise and the resulting echo signals are recorded in accordance with linewise on the recording medium of an image recording apparatus to the echo view. The echo recording is intended to be amplitude-compressed without simultaneous deterioration of the resolution or sharpness. For this purpose, according to the invention, always a pre-selectable number of echo lines (Zn to Zn + 3), which preferably set the width of an environment (U) for echoes (P) to be imaged together with a current line (Zn + 4), in buffer (5 up to 8). Subsequently, the stored and optionally current echo signal information of an evaluation device (9 to 12) are supplied. Here, during a certain clipping time determining the depth (τ) of the environment, at least approximately an average value (S) of the echo intensity in the environment is detected. This is, if necessary, after prior dynamic limitation, at a ratio former (14) is set in proportion to the ECHO to be imaged. The ratio signal (X) is the recording signal for the recording apparatus (16).
+</ABSTRACT>
+</TEXT>
+</DOC>

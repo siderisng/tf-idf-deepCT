@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004511
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-3/15 <main>H04N-3/14</main> H01L-27/148 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for reading an image pick-up target and arrangement comprising such a device.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi  <sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>"thomson-csf"- scpi  <sep>
+</APPLICANT>
+<INVENTOR>
+felix pierre<sep>felix, pierre<sep>felix, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>felix, pierre<sep>felix, pierre"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+Reading device of a shooting target and assembly constituted by the target and such a reading device. The target I presents itself as a matrix of detectors placed at the crossing points of rectangular lines and columns. The reading device II comprises an input per line and for each line: 1) a channel A connected to this input in which are transferred in series and at the same time for all the columns the signals of the points of the line in time T₁ line reading; 2) an accumulation channel B in which the signal A signals are transferred in parallel and stored; 3) An evacuation channel C in which the signal B signals are transferred in parallel and from which they are transferred in series to the single output RL read register, to the amplifier 30 and the reading device. Storage in B allows signal processing, including integration throughout T₁ and the exhaust time of the registry. Together I, II realized in particular. Application on television in infra red.
+</ABSTRACT>
+</TEXT>
+</DOC>

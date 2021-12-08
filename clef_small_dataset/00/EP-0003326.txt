@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003326
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+G21C-13/00 B23P-19/06 G21C-13/06 B25B-29/02 B25B-29/00 <main>B23P-19/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+automatic apparatus for handling and screwing bolts.
+</TITLE>
+<APPLICANT>
+skf cie applic mecanique fr<sep>societe anonyme dite: skf compagnie d'applications mecaniques  <sep>skf compagnie d'applications mecaniques &amp; cie faisant commerce comme compagnie des aciers, outillages et equipements ind.1, avenue newtonf-92142 clamartfr<sep>skf compagnie d'applications mecaniques societe anonyme dite:<sep>
+</APPLICANT>
+<INVENTOR>
+boudet georges<sep>desmoulins jean-claude<sep>boudet, georges<sep>desmoulins, jean-claude<sep>boudet, georges130, rue du bocage st. cyr sur loiref-37100 toursfr<sep>desmoulins, jean-claude70 rue des anglaisf-78700 conflans ste honorinefr<sep>boudet, georges<sep>desmoulins, jean-claude  <sep>boudet, georges 130, rue du bocage st. cyr sur loiref-37100 toursfr<sep>desmoulins, jean-claude70 rue des anglaisf-78700 conflans ste honorinefr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an automatic device for screwing and handling pins and specially pins for fastening the cover of a nuclear reactor vessel comprising pin handling means displaceable along the periphery of the vessel and disposed between the upper edge of the vessel and a circular guide rail (10) placed above the said upper edge, characterized by the fact that the said pin handling means comprise in combination : a main frame (4) comprising an assembly of horizontal guide beams (21, 22) ; an auxiliary frame (5) displaceable horizontally by means of lifting beams (24) co-operating with the above-mentioned horizontal guide beams ; a screwing mechanism comprising a screwing device (40) displaceable vertically relatively to the above-mentioned auxiliary frame ; and a pin gripping mechanism (55) mounted on the auxiliary frame and displaceable jointly with the screwing device. 
+</ABSTRACT>
+</TEXT>
+</DOC>

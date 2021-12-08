@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003399
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 C07C-51/16 B01J-27/00 C07C-51/00 C07C-49/08 C07C-45/33 C07C-51/215 <main>C07C-53/08</main> C07C-53/02 C07C-53/00 C07C-53/122 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method for increasing the selectivity to acetic acid in the production of a mixture of c1 to c3 monocarboxylic acids by oxidation of paraffinic hydrocarbons.
+</TITLE>
+<APPLICANT>
+bp chem int ltdgb<sep>bp chemicals limited<sep>bp chemicals limitedbelgrave house 76 buckingham palace roadlondon, sw1w 0sugb<sep>bp chemicals limited  <sep>
+</APPLICANT>
+<INVENTOR>
+gasser clive gordon<sep>russell john<sep>gasser, clive gordon<sep>russell, john<sep>gasser, clive gordonbp chemicals limitedsaltend, hedon hull hu12 8dsgb<sep>russell, johnbp chemicals limitedsaltend, hedon hull hu12 8dsgb<sep>gasser, clive gordon<sep>russell, john<sep>gasser, clive gordonbp chemicals limitedsaltend, hedon hull hu12 8dsgb<sep>russell, johnbp chemicals limitedsaltend, hedon hull hu12 8dsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+c₁ to c₃ mono-carboxylic acids, including a substantial  proportion of acetic acid, are produced by oxidising a  paraffinic hydrocarbon feedstock with molecular oxygen at a  temperature in the range 150 to 250°c and at an elevated  pressure sufficient to maintain the reactants in the liquid  phase in the presence as catalyst, of phosphoric acid and/or a  phosphate of one or more metals of groups i and ii of the  periodic table, in particular sodium or potassium.  in an  alternative embodiment of the invention a co-catalyst in the  form of one or more metals of variable valency, particularly  manganese, is incorporated in the reactants.  the reaction  products are recovered by distillation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

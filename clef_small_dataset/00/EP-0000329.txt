@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000329
+</DOCNO>
+<TEXT>
+<DATE>
+19790124
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41F-31/15 F16H-25/02 B41F-31/00 <main>B41F-31/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+drive with driving means for axially moving back and forth the vibrator rollers of an inking device.
+</TITLE>
+<APPLICANT>
+heidelberger druckmasch agde  <sep>heidelberger druckmaschinen aktiengesellschaft<sep>heidelberger druckmaschinen aktiengesellschaftkurfürsten-anlage 52-60 postfach 10 29 40d-69019 heidelbergde<sep>heidelberger druckmaschinen aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+jeschke willi<sep>weber werner<sep>jeschke, willi<sep>weber, werner<sep>jeschke, williberghalde 68d-6900 heidelbergde<sep>weber, wernerberthold-brecht-strasse 10d-6902 sandhausende<sep>jeschke, willi <sep>weber, werner<sep>jeschke, willi berghalde 68 d-6900 heidelberg de <sep>weber, wernerberthold-brecht-strasse 10d-6902 sandhausende<sep>
+</INVENTOR>
+<ABSTRACT>
+A drive with drive means for axial reciprocating the friction rollers (5) of a inking unit has in the series of the existing drive cylinders (19, 22, 30, 32) a member (19) for generating a superimposed short stroke (23).The additional superimposed axial movement of the friction rollers (5) improves the sharing effect.
+</ABSTRACT>
+</TEXT>
+</DOC>

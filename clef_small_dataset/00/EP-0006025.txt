@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006025
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01L-31/18</main> H01L-21/363 H01L-31/18 H01L-31/06 H01L-21/02 H01L-31/072 H01L-31/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing a thin-film cds/cdte photovoltaic cell having enhanced conversion efficiency and photovoltaic cell produced by this process.
+</TITLE>
+<APPLICANT>
+eastman kodak cous<sep>eastman kodak company<sep>eastman kodak company (a new jersey corporation)343 state streetrochester, new york 14650us<sep>eastman kodak company<sep>
+</APPLICANT>
+<INVENTOR>
+tyan yuan-sheng<sep>tyan, yuan-sheng<sep>tyan, yuan-shengkodak parkrochester new yorkus<sep>tyan, yuan-sheng<sep>tyan, yuan-shengkodak parkrochester new yorkus<sep>
+</INVENTOR>
+<ABSTRACT>
+a photovoltaic cell and a process of making and using it  are disclosed wherein extremely thin semiconductor layers  are provided through the use of polycrystalline cds and  cdte.  the process involves forming thin contiguous layers  of cds and cdte on an appropriate substrate, by using a  close-space sublimation technique in the presence of oxygen.  
+</ABSTRACT>
+</TEXT>
+</DOC>

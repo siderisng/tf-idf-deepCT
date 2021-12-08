@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001000
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+G02B-26/08 G02B-6/35 G02B-5/14 <main>G02F-1/01</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+optical switch.
+</TITLE>
+<APPLICANT>
+western electric cous<sep>western electric company, incorporated<sep>western electric company, incorporated222 broadwaynew york, ny 10038us<sep>western electric company, incorporated  <sep>
+</APPLICANT>
+<INVENTOR>
+albanese andres<sep>albanese, andres<sep>albanese, andres90 main street apartment d4matawan new jersey 07747us<sep>albanese, andres<sep>albanese, andres90 main street apartment d4matawan new jersey 07747us<sep>
+</INVENTOR>
+<ABSTRACT>
+an optical fiber switch includes an optical fiber (21)  and first and second light transmitting or receiving elements  (33, 34) located so that a lateral movement of the optical  fiber breaks optical connection with the first element and  makes optical connection with the second element.  the  optical fiber is coated with an electrically conductive substance  (24) which is electrically switched to a positive or  negative side of a dc voltage source (50).  electrodes (12,  13) disposed adjacent to the fiber are connected across  the voltage source (50).  depending on the resulting polarity  of the fiber coating, the fiber is electrostatically moved between  the electrodes (12, 13; 13, 14; 14, 15) so as to accomplish  optical switching.  the light transmitting or receiving  elements may comprise optical fibers, light emitting  diodes, photodetectors or the like.  a dielectric coating or  stop is provided on the fiber coating or on the electrodes  so as to prevent electrical contact.  a plurality of such optical fiber switches can be provided  on a planar optical switch board (10) for optical test  terminations in an optical fiber communications system.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003687
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/143 <main>F16H-25/02</main> F16K-31/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+manual control apparatus.
+</TITLE>
+<APPLICANT>
+keystone intus<sep>keystone international, inc.<sep>keystone international, inc.9700 west gulf bank road p.o. box 40010houston texas 77040us<sep>keystone international, inc.  <sep>
+</APPLICANT>
+<INVENTOR>
+killian henry r<sep>killian, henry r.<sep>killian, henry r.915 longviewsugarland texas 77478us<sep>killian, henry r.<sep>killian, henry r.915 longviewsugarland texas 77478us<sep>
+</INVENTOR>
+<ABSTRACT>
+manual control apparatus is provided for use with  normally automatically powered driving assemblies such  as valve actuators.  the control apparatus (10) has a body  (14) with a bore (20) therethrough, a housing (60) secured  to the body (14) and having an axial bore (62) which  registers with the bore (20) in the body (14), a rotatable  split drive nut (84, 86) mounted in the housing (60), a drive  screw (50) extending into the registering bores (20, 62)  in the body (14) and the housing (60) and mounted for  axial movement therein, a camming system (90, 94, 106,  108) for selectively engaging and disengaging the drive  nut (84, 86) with the drive screw (50) whereby engagement  of the drive screw (50) with the drive nut (84, 86) and  rotation of the drive nut (84, 86) causes axial movement of  the drive screw (50), and a biasing assembly (130, 160)  operatively connected to the split drive nut (84, 86) which  exerts a biasing engagement force on the drive nut (84,  86) when a given magnitude of resistance to engagement  is encountered.  
+</ABSTRACT>
+</TEXT>
+</DOC>

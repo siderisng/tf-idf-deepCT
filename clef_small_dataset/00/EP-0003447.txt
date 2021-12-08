@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003447
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-77/10</main> H01H-71/12 H01H-77/00 H01H-77/10 H01H-71/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device for current limiting and circuit breaking.
+</TITLE>
+<APPLICANT>
+merlin gerinfr <sep>merlin gerin <sep>merlin gerinrue henri tarzef-38050 grenoble cédexfr<sep>merlin gerin<sep>
+</APPLICANT>
+<INVENTOR>
+morel robert<sep>schueller pierre<sep>morel, robert<sep>schueller, pierre<sep>morel, robertherbeysf-38320 eybensfr<sep>schueller, pierre21, rue lavoisierf-38100 grenoblefr<sep>morel, robert<sep>schueller, pierre <sep>morel, robert herbeys f-38320 eybensfr<sep>schueller, pierre21, rue lavoisierf-38100 grenoblefr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  device for current limiting and current breaking comprising : - a current limiting block (16) having fast opening contacts (48, 50 ; 62, 26) by electrodynamic effect, - a protective circuit breaker block (10) with a molded case having contacts (24, 26) and an automatic contact (24, 26) opening mechanism by an overload and/or short circuit, said blocks (10, 16) being electrically connected for a series connection of said fast opening contacts (48, 50 ; 62, 26) and said circuit breaker contacts (24, 26), and being mechanically joined so that a wall (14) of the molded case separates the latter from the limiting block, - a first movable conductor (52), the word movable being understood with respect to stationary elements, said first movable conductor (52) carrying a movable contact (50, 62) of said fast opening contacts (48, 50 ; 62, 26) and extending insides said limiting block (16) parallel to said wall (14) in closed position of said fast opening contacts (48, 50 ; 62, 26), - a second stationary conductor (44) extending insides said limiting block (16) parallel to said first conductor (52) in closed position said first (52) and second (44) conductors being electrically series connected for flowing of currents therethrough which create an electrodynamic force moving said first movable conductor (52) in the open position of said fast opening contacts (48, 50 ; 62, 26), - a third conductor (28) extending insides said circuit breaker block (10) and being electrically connected in series with said first (52) and second (44) conductors, characterized in that said third conductor (28) extends in closed position of said circuit breaker (10) contacts (24, 26 ; 62, 26) near said wall (14), parallel to said first (52) and second (44) conductors of the limiting block (16) and in that said first (51) and third (28) conductors are electrically connected in series for flowing of currents therethrough creating an additional electrodynamic force moving said first movable contact (52) into the open position of said fast opening contacts (48, 50 ; 62, 26). 
+</ABSTRACT>
+</TEXT>
+</DOC>

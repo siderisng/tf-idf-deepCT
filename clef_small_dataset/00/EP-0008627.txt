@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008627
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C09B-35/03 C09B-29/52 C07D-403/04 C07D-239/00 C09B-29/01 C07D-239/88 C07D-403/00 C09B-29/00 C09B-35/00 C07D-239/91 C09B-29/32 C07D-239/90 <main>C07D-239/90</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+quinazoline derivatives, azo dyes derived from the quinazolines and their use as pigments.
+</TITLE>
+<APPLICANT>
+bayer agde   <sep>bayer ag<sep>bayer ag51368 leverkusende<sep>bayer ag <sep>
+</APPLICANT>
+<INVENTOR>
+muller walter ing-grad<sep>neeff rutger dr<sep>rolf meinhard dr<sep>muller, walter, ing.-grad.<sep>neeff, rutger, dr.<sep>rolf, meinhard, dr.<sep>müller, walter, ing.-grad.pfarrer-klein-strasse 3d-5090 leverkusen 3de<sep>neeff, rütger, dr.berta-von-suttner-strasse 22d-5090 leverkusen 1de<sep>rolf, meinhard, dr.walter-flex-strasse 26d-5090 leverkusen 1de<sep>muller, walter, ing.-grad. <sep>neeff, rutger, dr.<sep>rolf, meinhard, dr.<sep>müller, walter, ing.-grad.pfarrer-klein-strasse 3d-5090 leverkusen 3de<sep>neeff, rütger, dr.berta-von-suttner-strasse 22d-5090 leverkusen 1de<sep>rolf, meinhard, dr.walter-flex-strasse 26d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+Heterocyclic compounds of the formula wherein R₁ represents a substituent R₂ an optionally substituted carbocyclic aromatic or heterocyclic-aromatic radical and N 0, 1, 2, 3 or 4, and azo dyes of the formula wherein D the remainder of a sulfonic acid group free aroma tables or heteroaromatic amine, PAn integer, preferably 1 or 2, mean and R₁ R₂ and N have the meaning referred to in claim 1, methods for producing the heterocyclic compounds and the azo dyes as well as the use of the AZO dyes as pigments.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009086
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>B41J-13/036</main> B41J-11/36 B41J-3/44 B41J-13/03 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+semi-automatic device for the introduction of paper into an electronic typewriter.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+bisczat john joseph <sep>bleau charles dale<sep>buchanan james cloyd  <sep>lisk robert randall<sep>mac cray william roy<sep>sizemore james louis<sep>bisczat, john joseph<sep>bleau, charles dale<sep>buchanan, james cloyd<sep>lisk, robert randall<sep>mac cray, william roy<sep>sizemore, james louis<sep>bisczat, john joseph708 seattle drivelexington kentucky 40503us<sep>bleau, charles dale484 seeley drivelexington kentucky 40502us<sep>buchanan, james cloyd1053 lane allen roadlexington kentucky 40504us<sep>lisk, robert randall2852 runnymede waylexington, kentucky 40503us<sep>mac cray, william roy577 bellcastle roadlexington kentucky 40505us<sep>sizemore, james louisbox 212cynthiana kentucky 41031us<sep>bisczat, john joseph<sep>bleau, charles dale<sep>buchanan, james cloyd <sep>lisk, robert randall<sep>mac cray, william roy  <sep>sizemore, james louis<sep>bisczat, john joseph708 seattle drivelexington kentucky 40503us<sep>bleau, charles dale484 seeley drivelexington kentucky 40502us<sep>buchanan, james cloyd1053 lane allen roadlexington kentucky 40504us<sep>lisk, robert randall2852 runnymede waylexington, kentucky 40503us<sep>mac cray, william roy577 bellcastle roadlexington kentucky 40505us<sep>sizemore, james louisbox 212cynthiana kentucky 41031us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a device for th semi-automatic insertion of a paper into a typewriter (10) of the kind having a platen (12), a keyboard (20) for generating coded signals and a paper holder (12, 72) defining a paper feed path and cooperating with a printing device to establish a print line, an operator manipulable paper hold-down device (13) urging the paper against the platen (12) in the character printing area, which can be placed in a first position at the paper path and in a second position away from the paper path, a line feed device (50) for incrementally advancing the paper along said paper feed path in response to line feed control signals applied thereto, and a store (44, 44') for storing an operator-entered distance code signal representing the distance to be covered by the paper along said paper path to reach a desired first print line, said device being characterized in that it comprises : a detector (32) for detecting the presence of said paper hold-down device (13) in said second position and for generating a corresponding detection signal, said signal having a first level when the paper hold-down device (13) is in its second position and a second level at the time the paper hold-down device (13) is moved away from its second position while remaining away from the paper path, a logic circuit (36, 30) for controlling the store (44, 44') in such a way that, in response to either said first level of said detection signal or to the second level reached by the signal when the paper hold-down device (13) is moved away from its second position while remaining away from the paper path, the store (44, 44') issues the stored distance code signal and supplies a corresponding set of line feed control signals to the line feed device (50) to cause the latter to insert the paper until the desired first print line is reached. 
+</ABSTRACT>
+</TEXT>
+</DOC>

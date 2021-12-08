@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017011
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-59/00 C07C-69/00 A01N-47/02 A01N-47/06 C07C-69/96 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+microbicidal agent and its application.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer ag <sep>bayer ag51368 leverkusende  <sep>
+</APPLICANT>
+<INVENTOR>
+genth hermann drde<sep>radt walter drde<sep>genth, hermann, dr.<sep>radt, walter, dr.<sep>genth, hermann, dr.am heckerhof 60d-4150 krefeldde<sep>radt, walter, dr.bethelstrasse 12d-4150 krefeldde<sep>
+</INVENTOR>
+<ABSTRACT>
+a microbicidal agent containing a peroxo compound and a dialkyl dicarbonate and/or their primary reaction products. 
+</ABSTRACT>
+<DESCRIPTION>
+mikrobizides mittel und seine verwendung die erfindung betrifft ein neues mikrobizides mittel und seine verwendung in reinigungs- und/oder desinfektionsmitteln. aus der de-ps 1 011 709 ist bekannt, dass dialkyldicarbonate eine mikrobizide wirksamkeit haben. sie werden im wesentlichen für die kaltsterilisation von getränken und enzymlösungen verwendet. aus "sterilisation-desinfektion-konservierung-chemothera- pie" (wallhäuser, schmidt, georg thieme verlag, stuttgart (1567) seite 141) ist ferner bekannt, peroxoverbindungen, wie wasserstoffperoxid, percarbonat und perborate als desinfektionsmittel zu verwenden. es ist jedoch aus der de-os 1 800 069 bekannt, dass der aktivsauerstoff in den peroxoverbindungen erst bei temperaturen oberhalb von 700c und vorzugsweise im bereich von 80 bis 1000c mit einer für praxiszwecke ausreichenden geschwindigkeit wirksam ist, so dass sich diese oxidations-, bleich- und waschflüssigkeiten nicht bei temperaturempfindlichen materialien anwenden lassen. zur behebung dieses nachteils werden aktivatoren, wie halogensubstituierte b-lactone (de-os 1 800 069), n benzoyl-2-methyl-imidazole (de-os 2 219 595) oder acyloxicarbonsäuren (de-os 2 701 133) eingesetzt. da diese verbindungen bei dem einsatz als reinigungs- und/oder desinfektionsmittel nicht verbraucht oder nach dem einsatz zurückgewonnen werden, stellen sie eine belastung der umwelt dar. es wurden mikrobizide mittel gefunden, die eine peroxoverbindung und einen dikohlensäuredialkylester und/oder deren direkte umsetzungsprodukte enthalten. peroxoverbindungen für das erfindungsgemässe mikrobizide mittel können beispielsweise peroxide und peroxohydrate sein. als peroxide seien beispielsweise wasserstoffperoxid und die peroxide der alkalimetalle genannt. als peroxohydrate seien beispielsweise die alkali- und am monium-percarbonate, -perborate, - perphosphate, -perphosphonate und -persilikate genannt. als alkali sei hier insbesondere lithium, natrium und ralium genannt. besonders bevorzugte peroxoverbindungen für die erfin dungsgemässen mikrobiziden mittel sind wasserstoffperoxid, natriumpercarbonat und natriumperborat. es ist selbstverständlich auch möglich, mischungen der einzelnen peroxoverbindungen einzusetzen. die herstellung der peroxoverbindungen für die erfindungsgemässen mikrobiziden mittel ist an sich bekannt (chemiker zeitung 99, 120 ff (1975)). als dikohlensäuredialkylester für die erfindungsgemässen mikrobiziden mittel seien beispielsweise verbindungen der formel emi3.1 worin r1 und r2 gleich oder verschieden sind und für einen niederen alkylrest stehen, genannt. niedere alkylreste können geradkettige oder verzweigte kohlenwasserstoffreste mit 1 bis etwa 6 kohlenstoffatomen sein. beispielsweise seien als niedere alkylreste methyl, ethyl, propyl, isopropyl, butyl, isobutyl, pentyl, isopentyl, hexyl und isohexyl genannt. bevorzugte dikohlensäuredialkylester für die erfindungsgemässen mikrobiziden mittel sind der dikohlensäuredimethylester, der dikohlensäurediethylester und der dikohlensäuredi-n-propylester. bei einer mischung der peroxoverbindungen mit den dikohlensäuredialkylestern können gegebenenfalls ganz oder teilweise primäre umsetzungsprodukte entstehen, die teile des erfindungsgemässen mittels sind. als primäre umsetzungsprodukte seien beispielsweise perkohlensäureester der formel emi4.1 worin r1 die obengenannte bedeutung hat, genannt, deren herstellung aus der be 631 982 bekannt ist. die perkohlensäureester der formel (ii) können selbstverständlich auch allein bestandteil des erfindungsgemässen mikrobiziden mittels sein. da die perkohlensäureester jedoch, durch ihre instabilität bedingt, nur schwer in reinem zustand über eine längere zeit zu erhalten sind, werden sie im allgemeinen nur teil des erfindungsgemässen mikrobiziden mittels sein. bevorzugte erfindungsgemässe mikrobizide mittel erhält man durch mischen der peroxoverbindung mit dem dikohlensäuredialkylester. sie können perkohlensäureester der formel ii enthalten. in einer bevorzugten form der herstellung der erfindungsgemässen mikrobiziden mittel mischt man die peroxoverbindung und den dikohlensäuredialkylester kurz (d.h. beispielsweise in einem zeitraum von 15 minuten)vor der anwendung. in einer anderen bevorzugten
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche   1) mikrobizides mittel, enthaltend eine peroxoverbindung und einen dikohlensäuredialkylester und/oder deren primäre umsetzungsprodukte.   2) mikrobizides mittel nach anspruch 1, enthaltend was serstoffperoxid, alkaliperoxid, alkalipercarbonate, alkaliperborate, alkaliperphosphate, alkaliperphos phonate und/oder alkalipersilikat.   3) mikrobizides mittel nach anspruch 1, enthaltend di kohlensäuredialkylester der formel emi13.1       worin    rú und rê gleich der verschieden sind und gleich oder verschieden sind und für einen    niederen alkylrest stehen.    4) mikrobizides mittel nach anspruch 1, enthaltend per kohlensäureester der formel emi13.2       worin r1 die obengenannte bedeutung hat.     5) mikrobizides mittel nach anspruch 1, dadurch gekenn zeichnet, dass die peroxoverbindung und der dikohlen säuredialkylester im verhältnis 10:1 bis 1:10 vor liegen.   6) verwendung der mikrobiziden mittel nach den ansprü chen 1 bis 5 in reinigungs- und/oder desinfektions mitteln.   7) verfahren zur verwendung der mikrobiziden mittel nach den ansprechen 1 bis 5, dadurch gekennzeichnet, dass man die peroxoverbindung und den dikohlensäuredial kylester erst kurz vor der behandlung des zu reini genden und/oder zu desinfizierenden gegenstandes mischt und dann den gegenstand mit der so erhaltenen flüssigkeit behandelt.  
+</CLAIMS>
+</TEXT>
+</DOC>

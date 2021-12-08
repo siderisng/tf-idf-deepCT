@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010155
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-20/10 H03K-5/153 H03K-5/1532 G11B-20/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of and apparatus for magnetic recording detection.
+</TITLE>
+<APPLICANT>
+burroughs corpus<sep>burroughs corporation (a michigan corporation)<sep>burroughs corporation (a michigan corporation)burroughs placedetroit, michigan 48232us<sep>
+</APPLICANT>
+<INVENTOR>
+marino francis cus<sep>marino, francis c.<sep>marino, francis c.3 candlestick ct.dix hills, n.y. 11746us<sep>
+</INVENTOR>
+<ABSTRACT>
+in a magnetic recording system utilizing a non-return-to-­ zero format the reproduced recording is fed to positive and  negative threshold detectors (ta1, ta2) having no need for  electrical hysteresis as well as, via differentiator means (df),  to a zero-crossing detector (ta3).  the signal from the positive  threshold detector and one polarity of the signal from the  zero-crossing detector are used to trigger a latch means (l1,  l2) to a first state to emit a signal having a first level, and the  signal from the negative threshold detector and the other  polarity of the signal from the zero-crossing detector are used  to trigger the latch means to a second state whereby the signal  emitted by the latch means is switched to a second level.  
+</ABSTRACT>
+</TEXT>
+</DOC>

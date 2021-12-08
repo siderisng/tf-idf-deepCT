@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008952
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/647 <main>C07C-49/653</main> C07C-49/657 C07C-45/34 C07C-45/66 C07C-45/73 C07C-45/00 C07D-311/94 B01J-31/00 C07C-49/743 C07D-311/00 C07C-49/653 C07C-67/00 C07C-49/637 C07C-49/613 C07C-49/633 C07C-45/30 C07C-49/00 C07C-49/733 C07C-45/70 C07C-45/74 C07C-49/737 C07C-49/753 C07C-49/623 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+steroid intermediate, method for production thereof and method of producing another steroid intermediate therefrom.
+</TITLE>
+<APPLICANT>
+takeda chemical industries ltdjp<sep>takeda chemical industries, ltd.<sep>takeda chemical industries, ltd.1-1, doshomachi 4-chomechuo-ku, osakajp<sep>takeda chemical industries, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+tsuji jiro<sep>tsuji, jiro<sep>tsuji, jiro602-128, tsu, kamakurakanagawa 248jp<sep>tsuji, jiro<sep>tsuji, jiro602-128, tsu, kamakurakanagawa 248jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a compound of the general formula:    wherein r¹ is a lower alkyl group; r² is h or a lower alkyl  group; y is an oxo group, h or an unprotected or protected  hydroxyl group; x is a methylene or ethylene group, for  example, 7,7a-dihydro- 7as-methyl-4- (3-butenyl)-1-tert. ­ butoxy-5(6h)-indanone, which is an intermediate for  steroids, is prepared by dehydrative cyclization of a com­ pound of the general formula of    wherein r¹, r², x and y are the same as above, and can be  oxidised in an oxygen-containing atmosphere in the pres­ ence of a small amount of water and a palladium catalyst  with a reoxidising agent to form the corresponding  -4-(3-oxobutyl) derivative when x is methylene or the cor­ responding -5-(3-oxobutyl) derivative when x is ethylene.  
+</ABSTRACT>
+</TEXT>
+</DOC>

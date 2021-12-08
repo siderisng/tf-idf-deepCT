@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002774
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-499/44 C07D-501/06 <main>C07D-501/06</main> C07D-499/00 C07D-417/12 C07D-499/12 C07D-501/00 C07D-501/20 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for acylating 7aminocephem derivatives.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+blumbach jurgen dr<sep>durckheimer walter dr<sep>reden jurgen dr<sep>seliger hubert<sep>blumbach, jurgen, dr. <sep>durckheimer, walter, dr. <sep>reden, jurgen, dr.<sep>seliger, hubert<sep>blumbach, jürgen, dr.rauenthaler weg 18d-6000 franfurt/main 71de<sep>dürckheimer, walter, dr.im lerchenfeld 45d-6234 hattersheim am mainde<sep>reden, jürgen, dr.bienerstrasse 10-12d-6238 hofheim am taunusde<sep>seliger, hubertkallestrasse 3d-6000 frankfurt/mainde<sep>blumbach, jurgen, dr.<sep>durckheimer, walter, dr.<sep>reden, jurgen, dr. <sep>seliger, hubert  <sep>blumbach, jürgen, dr.rauenthaler weg 18d-6000 franfurt/main 71de<sep>dürckheimer, walter, dr.im lerchenfeld 45d-6234 hattersheim am mainde<sep>reden, jürgen, dr.bienerstrasse 10-12d-6238 hofheim am taunusde<sep>seliger, hubertkallestrasse 3d-6000 frankfurt/mainde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a process for the acylation of 7-amino-cephem derivatives, which comprises converting an acylating component of the formula i  see diagramm : ep0002774,p20,f1  in which r**1 is alkyl having from 1 to 4 carbon atoms, phenyl, 2-furyl or thiazolyl of the formula  see diagramm : ep0002774,p20,f2  in which r4  is hydroxy, amino, alkenylamino having from 2 to 4 carbon atoms, formamino or acetamino optionally substituted by chlorine, bromine, fluorine, phenoxy or by 1,3,4-thiadiazolylthio in turn substituted by methyl or amino ; r5 is hydrogen, halogen, cyano, thiocyano, hydroxy or alkoxycarbonyl having from 1 to 4 carbon atoms in the alkyl moiety ; r**2 and r**3 together are oxygen or a group of the formula viii =n-x which preferably has the syn configuration, and in which x is hydroxy, alkoxy having from 1 to 4 carbon atoms, benzyloxy, p-chlorobenzyloxy, triphenylmethoxy, aminocarbonylmethoxy, tert-butoxycarbonylmethoxy, methoxycarbonylmethoxy, ethoxycarbonylmethoxy, cyanomethoxy, allyloxy, bromallyl-oxy, phenoxy or acyloxy having from 1 to 4 carbon atoms ; with a 1-hydroxybenzotriazole of the general formula ii  see diagramm : ep0002774,p20,f3  in which r**6 through r**9, being identical or different, each are hydrogen, alkyl having from 1 to 4 carbon atoms, alkoxy having from 1 to 4 carbon atoms, halogen, cyano, nitro, aminocarboxy, alkylaminocarboxy having from 1 to 4 carbon atoms in the alkyl moiety, aminosulfonyl, alkylaminosulfonyl having from 1 to 4 carbon atoms in the alkyl moiety, dialkylaminosulfonyl having from 1 to 4 carbon atoms in the alkyl moiety ;  to an active derivative, and subsequently reacting the latter one with a 7-aminocephem derivative. 
+</ABSTRACT>
+</TEXT>
+</DOC>

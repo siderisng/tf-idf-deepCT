@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008846
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61B-5/0476 A61B-5/04 A61B-5/0424 A61B-5/0408 <main>A61B-5/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved electroencephalograph.
+</TITLE>
+<APPLICANT>
+beckman instruments incus<sep>beckman instruments, inc.<sep>beckman instruments, inc. executive office 2500 harbor boulevard box 3100fullerton california 92634us <sep>beckman instruments, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+aubin mary jo<sep>lencioni cecil c<sep>loeb phillip j<sep>mcintyre robert a<sep>pawlak raymond m<sep>smith leland b<sep>aubin, mary jo<sep>lencioni, cecil c.<sep>loeb, phillip j.<sep>mcintyre, robert a.<sep>pawlak, raymond m.<sep>smith, leland b.<sep>aubin, mary jo1034 arkansas driveelk grove village, illinois 60007us<sep>lencioni, cecil c.1648 north rutherford avenuechicago, illinois 60635us<sep>loeb, phillip j.110 east georgebensenville, illinois 60106us<sep>mcintyre, robert a.110 e georgebennsenville illinois 60106us<sep>pawlak, raymond m.77 south evergreen streetaddison, illinois 60101us<sep>smith, leland b.8278 east hinsdaleenglewood, colorado 80112us<sep>aubin, mary jo<sep>lencioni, cecil c.<sep>loeb, phillip j.<sep>mcintyre, robert a.<sep>pawlak, raymond m.<sep>smith, leland b.<sep>aubin, mary jo1034 arkansas driveelk grove village, illinois 60007us<sep>lencioni, cecil c.1648 north rutherford avenuechicago, illinois 60635us<sep>loeb, phillip j.110 east georgebensenville, illinois 60106us<sep>mcintyre, robert a.110 e georgebennsenville illinois 60106us<sep>pawlak, raymond m.77 south evergreen streetaddison, illinois 60101us<sep>smith, leland b.8278 east hinsdaleenglewood, colorado 80112us<sep>
+</INVENTOR>
+<ABSTRACT>
+a multi-channel instrumentation system is provided  wherein signals from selected electrode pairs are sequentially  connected to the isolated input of a common signal ampi­ fying path.  the electrode pair selecting means is included in a  portable head box which may be placed adjacent to the  patient to be tested.  included in the head box are facilities for  testing the impedance of any selected one of the patient elec­ trodes and providing a visual indication of the magnitude of  such impedance.  the head box also includes facilities for  selecting a group of patient electrodes which are connected  together and used as an average or reference potential for one  input of the common signal path.  facilities are also provided  for calibrating the common signal path by applying a d. c.   calibration signal to the input thereof by means isolated from  system ground.  an improved circuit arrangement is provided for limiting  the current which can be drawn from the patient ground  electrode to a small value to provide for the safety of the  patient in the event of malfunctioning of the electrode selec­ ting means.  facilities are provided in the common signal path  for removing the d. c.  components of the electrode pair signal  voltages and for selectively varying the gain of the common  signal path on an individual channel basis.  
+</ABSTRACT>
+</TEXT>
+</DOC>

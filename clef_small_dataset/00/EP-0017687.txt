@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0017687
+</DOCNO>
+<TEXT>
+<DATE>
+19801029
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23C-18/31 C23C-18/16 B23P-6/00 B28B-3/20 C23C-2/34 C23C-18/34 B28B-3/26 C23C-18/18 <main>B28B-3/20</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of producing ceramic honeycomb structural bodies.
+</TITLE>
+<APPLICANT>
+ngk insulators ltdjp <sep>ngk insulators, ltd. <sep>ngk insulators, ltd.2-56, suda-cho, mizuho-kunagoya-shi, aichi 467jp<sep>ngk insulators, ltd.<sep>
+</APPLICANT>
+<INVENTOR>
+suzuki kazuo<sep>suzuki, kazuo<sep>suzuki, kazuono. 96, saiwai-choinazawa-city, 492jp<sep>suzuki, kazuo<sep>suzuki, kazuono. 96, saiwai-choinazawa-city, 492jp<sep>
+</INVENTOR>
+<ABSTRACT>
+a die for extruding a honeycomb structural body, which  is produced by forming a lattice of slits (2) having a given  depth in the front surface of the matrix (1) of the die in a  shape corresponding to the geometrical shape of a honey­ comb structural body to be extruded, forming a plurality  of independent feed inlets (3) for a ceramic batch and  communicated to the slits in the rear surface of the matrix,  and forming a metal film (4) on the surface of the slits (2)  by plating so that the slits (2′) have a given width, can be  easily recovered its original given slit width by forming  again a metal film on the surface of the slits by plating after  the original metal film has been worn due to the abrasion  by the ceramic batch.  
+</ABSTRACT>
+<DESCRIPTION>
+title: method of reclaiming a die for extruding a ceramic batch into a honeycomb structural body and a die reclaimed by such method background of the invention 1) field of the invention: the present invention relates to a method of reclaiming a die for extruding a ceramic batch into a honeycomb structural body. 2) description of the prior art: there has been known a ceramic honeycomb structural body having a large number of parallel cells1 which are confined by a relatively thin lattice-like partition wall and extend therethrough in its axial direction, and having an open frontal area of about 60-90%, preferably 65-85%. such kind of honeycomb structural body has been used for the catalyst supports for the purpose of removing harmful co, hc and nox from the exhaust gas by passing the exhaust gas through the cells so as to react it with a catalyst supported on the surface of the partition wall. the honeycomb structural body is manufactured by a method, wherein a ceramic batch is extruded through the extrusion die into a ceramic green body, and the ceramic green body is dried and fired, as described in u.s. patent specification no. 3,824,196. in the die for extruding the ceramic honeycomb structural body, a large number of slits formed in the front surface of the die are worn rapidly due to the abrasion by the ceramic batch extruded through the slits, and as the result the slit width is enlarged. therefore, when the extrusion die having such an enlarged slit width is used as such, the thickness of partition wall between adjacent cells in the resulting honeycomb structural body is larger than the given thickness. that is, when slits of a die are somewhat worn, the die can be no longer used, and moreover the die cannot be reclaimed. accordingly, expensive dies have hitherto been always discarded wastefully. further, a honeycomb structural body having a circular, race track or an oval cross-sectional shape must be produced depending upon the demand. in this case, a mask having an opening, whose shape corresponds to the above described cross-sectional shape of the aimed honeycomb structural body, is arranged on the front surface of the die. when a part of slits formed in the peripheral portion of the die are closed by the mask, only the slits in the closed peripheral portion of the die, are not worn due to the absence of extrusion of ceramic batch. as the result, the width of worn slits in the opening portion is naturally different from the width of closed and unworn slits in the peripheral portion of the die. therefore, when the originally used mask is replaced by a mask, whose opening is different in the shape and dimension from the opening of the originally used mask, the slit width in the peripheral portion of the die is different from that in the centre portion thereof, and the extrusion rate and amount of ceramic batch are locally different, and a honeycomb structural body can
+</DESCRIPTION>
+<CLAIMS>
+ claims   1. in a method of reclaiming a die for extruding a honeycomb structural body, which is manufactured by forming a lattice of slits having a given depth in the front surface of the matrix of the die in a shape substantially corresponding to the geometrical shape of a honeycomb structural body to be extruded, forming a plurality of independent inlets for feeding a ceramic batch and communicated to the slits in the rear surface of the matrix, and forming a metal film on the surface of at least the slits by plating so that the slits have a given width, an improvement comprising recovering the original given width of the slits by forming again a metal film on the surface of at least the slits by plating after the original metal film has been worn up to improper shape for a further extrusion due to the abrasion by the ceramic batch at the extrusion.    2. a method according to claim 1, wherein the metal film remaining in the die is removed before a metal film is again plated.   3. a method according to claim 1, wherein said metal film is formed by an electroless plating.   4. a method according to claim 3, wherein said  electroless plating is an electroless nickel plating.   5, a method according to claim 4, wherein the nickel film formed by the electroless plating and remaining in the die is removed by the use of nitric acid before a metal film is again formed.       6. a a die reclaimed by the method of any one of the    preceding claims.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009959
+</DOCNO>
+<TEXT>
+<DATE>
+19800416
+</DATE>
+<IPC-CLASSIFICATIONS>
+F01P-7/04 F01P-7/00 F16D-35/02 F16D-35/00 <main>F16D-35/00</main> F01P-7/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+viscous fluid clutch.
+</TITLE>
+<APPLICANT>
+eaton corpus<sep>eaton corporation<sep>eaton corporation100 erieview plazacleveland ohio 44114us<sep>eaton corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+bopp warren gerald<sep>bopp, warren gerald<sep>bopp, warren gerald26338 hidden valley ct.farmington, hills, michiganus<sep>bopp, warren gerald<sep>bopp, warren gerald26338 hidden valley ct.farmington, hills, michiganus<sep>
+</INVENTOR>
+<ABSTRACT>
+a viscous fan clutch is typically employed in a fan drive  mechanism within a truck or automobile.  a shaft (36), driven  by the engine, rotates a clutch member (14) within the fan  drive.  the clutch member is arranged for fluid engagement  with a body member (12) for the transmission of torque  thereto when the fluid is disposed in an operating chamber  (32) defined by complimentary shear surfaces (38, 42) in the  clutch and body members.  during relative rotation between  the two members, fluid is pumped through a radially disposed  standpipe (60) to a point within a fluid storage chamber (58)  near the axis of rotation to prevent bleed back of the fluid  through the pump (56,48) at times when the pump pressure is  relatively low.  
+</ABSTRACT>
+</TEXT>
+</DOC>

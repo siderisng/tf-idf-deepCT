@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003255
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+F02C-5/00 F01K-21/00 F23R-7/00 F01K-21/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+internal combustion elastic fluid generator and turbine motor combination, method for generating the elastic fluid.
+</TITLE>
+<APPLICANT>
+wanat ignacy<sep>wanat, ignacy<sep>wanat, ignacyp.o.v, box 47 25 ritchie avenuetoronto ontario, m5p 3b8ca<sep>
+</APPLICANT>
+<INVENTOR>
+wanat ignacy<sep>wanat, ignacy<sep>wanat, ignacyp.o.v, box 47 25 ritchie avenuetoronto ontario, m5p 3b8ca<sep>
+</INVENTOR>
+<ABSTRACT>
+a generator (10) for elastic fluids, particularly steam,  suitable for use with a steam turbine (40) comprises a rotor  (16) having a number of chambers (25) distributed around  the surface thereof.  as the rotor (16) is rotated the chambers  (25) are charged with a combustible mixture such as  hydrogen (passage 27) and oxygen (passage 26) or lpg.  and  air, for example.  water is injected into the chambers  (passage 28) and the mixture ignited, (igniter 30), so as to  vaporize the water at least partially within the combustion  chambers.  the mixture of steam and combustion gases may  be connected directly to the input of the turbine (40).  the unit  is characterized by its compact size and responsiveness to  demand even on start up from cold.  
+</ABSTRACT>
+</TEXT>
+</DOC>

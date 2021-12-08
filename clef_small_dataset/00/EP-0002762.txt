@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002762
+</DOCNO>
+<TEXT>
+<DATE>
+19790711
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03C-1/79 G03C-1/775 C07D-251/04 G03C-1/30 <main>G03C-1/87</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of hardening multicolour photographic silver-halide emulsion layers.
+</TITLE>
+<APPLICANT>
+agfa gevaert agde<sep>agfa-gevaert aktiengesellschaft<sep>agfa-gevaert agkaiser-wilhelm-alleed-51373 leverkusende<sep>agfa-gevaert aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+lohmer karl dr<sep>lohmer, karl, dr.<sep>lohmer, karl, dr.oskar-schlemmer-strasse 18d-5090 leverkusende<sep>lohmer, karl, dr.<sep>lohmer, karl, dr.oskar-schlemmer-strasse 18d-5090 leverkusende<sep>
+</INVENTOR>
+<ABSTRACT>
+In order to avoid the curing fluctuations due to different water contents of the inner paper of the paper documents coated on both sides with polyolefin coated materials, the coating solutions in the manufacture of the recording material 1,3,5-triacrylhexahydro 1,3,5-triazine as a curing agent and a polyvalent aliphaticAlcohol with 3 to 10 carbon atoms to be set, after which the coating solutions are applied to a corona-radiated surface de underlay.
+</ABSTRACT>
+</TEXT>
+</DOC>

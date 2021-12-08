@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004440
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-15/10 F16H-15/08 <main>F16H-15/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in or relating to gear assemblies.
+</TITLE>
+<APPLICANT>
+cam gears ltdgb<sep>cam gears limited<sep>cam gears limited45, wilbury way hitchinhertfordshire sg4 0tugb<sep>cam gears limited<sep>
+</APPLICANT>
+<INVENTOR>
+adams frederick john<sep>adams, frederick john<sep>adams, frederick john"pelba", 27 princes roadclevedon avongb<sep>adams, frederick john  <sep>adams, frederick john "pelba", 27 princes roadclevedon avongb<sep>
+</INVENTOR>
+<ABSTRACT>
+a variable ratio gear assembly and transmission system.  a  rotor (10) carried by a piston and cylinder device (13, 15)  engages a drive face (9) on a rotatable input shaft (3) and also  engages a drive face (27) on a rotatable disc (28).  rotation of  the shaft (3) imparts traction or fluid film drive to the rotor (10)  which latter imparts traction or fluid film drive to the disc (28).   variation in the ratio of the gear is effected by actuation of the  piston and cylinder device (13, 15) to displace the rotor (10) over  the drive faces (9) and (27) whilst maintaining engagement  therewith.  a further rotor (33) carried by a piston and cylinder  device (36, 38) drivingly engages by traction or fluid film drive  with opposed drive faces (32 and 43) respectively carried by the  disc 28 and an output shaft (45).  displacement of the rotor (33)  by actuation of the device (36, 38) varies or further varies the  gear ratio.  the drive face (9) is urged into engagement with the rotor  (10) by a pin and slot device (7) which is responsive to the  rotation of shaft (3).  the piston and cylinder device (13, 15) (and  possibly 36, 38) is pivotally mounted at (26) to the housing (1) so  that it can be pivoted and urged into closer engagement with the  drive face (27) upon axial displacement of the drive face (9)  towards the face (27).  mounted in the drive face (9) is a freely rotatable rotor (50)  having a non-driving region (49) which when engaged by the  rotor (10) does not transmit drive from the shaft (3) to the rotor  (10).  rods (25 and 42) permit manual adjustment of the piston  and cylinder devices.  the output shaft (45) may be displaceable  axially to move its drive face (43) into or out of engagement with  the rotor (33).  
+</ABSTRACT>
+</TEXT>
+</DOC>

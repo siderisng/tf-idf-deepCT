@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002451
+</DOCNO>
+<TEXT>
+<DATE>
+19790627
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01R-31/26 G01N-21/956 G01R-31/265 G01N-21/88 H01L-21/66 G01N-27/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for the touch-free measuring of impurities in semiconductors.
+</TITLE>
+<APPLICANT>
+ibmus  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+pak mun sokus<sep>verkuil roger leonardus<sep>pak, mun sok<sep>verkuil, roger leonard<sep>pak, mun sokgold roadstormville new york 12582us<sep>verkuil, roger leonard197 vassar roadpoughkeepsie, new york 12603us<sep>
+</INVENTOR>
+<ABSTRACT>
+for the touch-free measurement of impurity sites in the crystal structure of a silicon wafer (1) due to oxygen atoms in the semiconductor material, the silicon wafer is irradiated with pulsating light and at the same time exposed to a high-frequency field.  the eddy currents produced in the semiconductor wafer alter the loading of the high-frequency oscillator (6).  the number of defects in the crystal structure is inferred from the change in amplitude of the high-frequency oscillations.  to suppress the slow change in the amplitude envelope at the end of the light pulse, the silicon wafer (1) is also irradiated with continuous light.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

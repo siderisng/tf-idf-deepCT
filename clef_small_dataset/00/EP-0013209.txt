@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013209
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F02K-9/10</main> F02K-9/00 F02K-9/10 F02K-9/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+quick burning pyrotechnic charge comprising inclined propellant discs and deflectors, propulsion device using such charge and propellant disc to be used in such charge.
+</TITLE>
+<APPLICANT>
+poudres & explosifs ste nalefr<sep>societe nationale des poudres et explosifs<sep>societe nationale des poudres et explosifs12, quai henri ivf-75181 paris cédex 04fr<sep>societe nationale des poudres et explosifs  <sep>
+</APPLICANT>
+<INVENTOR>
+dalet francis<sep>dalet, francis<sep>dalet, francisles hameaux de perrinf-33370 tressesfr<sep>dalet, francis<sep>dalet, francisles hameaux de perrinf-33370 tressesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Pyrotechnic loading is intended for use in an acceleration thruster and comprises a set of solid propellant plates arranged easily sausing each other and moors at least a longitudinal flue gas exhaust channel.the propellant nozzle.In order to obtain a very large gas flow without breaking the propellant plates, the propellant plates (6) are inclined to the longitudinal channel, and the load comprises deflectors (5) which are disposed substantially parallel to thePropergol plates and, in a longitudinal section of the load, a length equal to or greater than the length of the propellant plates.
+</ABSTRACT>
+</TEXT>
+</DOC>

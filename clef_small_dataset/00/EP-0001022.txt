@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001022
+</DOCNO>
+<TEXT>
+<DATE>
+19790307
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-27/02 F16H-31/00 G05G-7/08 <main>F16H-27/02</main> G05G-7/00 F16H-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+step by step driving and/or braking device.
+</TITLE>
+<APPLICANT>
+anvarfr<sep>anvar agence nationale de valorisation de la recherche<sep>anvar agence nationale de valorisation de la recherche43, rue caumartinf-75436 paris cédex 09fr<sep>anvar agence nationale de valorisation de la recherche <sep>
+</APPLICANT>
+<INVENTOR>
+pegourie jean-pierre<sep>pegourie, jean-pierre<sep>pegourie, jean-pierre49, faubourg saint-jaumes bât. ef-34000 - montpellierfr<sep>pegourie, jean-pierre <sep>pegourie, jean-pierre49, faubourg saint-jaumes bât. ef-34000 - montpellierfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Field of the invention: Mechanical, pneumatic, electric, automation, servo commission facilities.The invention relates to a motor and step-by-step device by translation controlled, comprising two crews arranged coaxially around the same shaft, one of which is sliding (1-2) along said shaft (22), and the other (5-6) can turn around it.Applications of the invention: modifiable controls, stepper motors, stepper brakes.
+</ABSTRACT>
+</TEXT>
+</DOC>

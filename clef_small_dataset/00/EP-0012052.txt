@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012052
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08G-65/28 B01D-19/04 C11D-1/722 C08G-65/00 C07C-121/32 B01D-19/02 <main>B01D-19/04</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+foam regulation process for plants producing acrylonitrile and acrylic esters.
+</TITLE>
+<APPLICANT>
+ugine kuhlmann fr <sep>p c u k ±produits chimiques±ugine±kuhlmann<sep>p c u k produits chimiques ugine kuhlmannservice propriété industrielle tour manhattan92087 paris la défense 2 cédex 21fr<sep>p c u k  produits chimiques ugine kuhlmann<sep>
+</APPLICANT>
+<INVENTOR>
+bruno francis<sep>konareff jean<sep>pardon louis<sep>bruno, francis<sep>konareff, jean<sep>pardon, louis<sep>bruno, francis11, rue marbeauf-75116 parisfr<sep>konareff, jeanroute du bas privas charlyf-69390 vernaisonfr<sep>pardon, louis28, rue du 11 novembre 1918f-69230 saint-genis lavalfr<sep>bruno, francis <sep>konareff, jean<sep>pardon, louis  <sep>bruno, francis 11, rue marbeauf-75116 parisfr<sep>konareff, jeanroute du bas privas charlyf-69390 vernaisonfr<sep>pardon, louis28, rue du 11 novembre 1918f-69230 saint-genis lavalfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for controlling the foams in installations for the manufacture of acrylonitrile and acrylic acid esters, characterised by the use, at the stage of purification of these products, of mixtures of non-ionic surface-active agents of the formula : r-(och2 ch2 )n (och2 chch3 )m or' in which r is an alkyl group containing 8 to 18 carbon atoms, r' is an alkyl or benzyl group, n is a number between 2 and 20 and m is a number between 4 and 20. 
+</ABSTRACT>
+<DESCRIPTION>
+procédé de régulation des mousses dans les installations de fabricetion de l'crvlonitrile et des esters acryliques la présence invention concerne un procédé de limitation e d2 régulation des mousses dans les installations industrielles de fabrication de l'acrylnnitrile et des dérivés acry ligues. l'acrylonitrile est un produit industriel utilisé entre autres applications pour la fabrication de matières plastiql e de polymères de poids moléculaire élevés servant d'agents dispersants ou épaississants, de fibres artificielles... en raison de son intérêt, des procédés modernes de fabrice- tion, mettant en oeuvre des matières premières bon marché tels l'ammoniac et le propylène, ont fait leur apparition durant ces dernières années. bien qu'il existe des différences importantes entre les procédés actuellement utilisés, ils sont tous du meme type. du propylène et de ltzmmoniac sont vaporisés puis mélangés avec de l'air et introduits dans un réacteur contenant une masse catalytique appropriée, lit fixe ou lit fluidisé suivant les procédés. les gaz sortant du réacteur sont refroidis puis envoyés dans un premier absorbeur où l'ammoniac non converti est transformé par acide sulfurique en sulfate d'ammonium. les gaz sont ensuite lavés à l'eau, de façon à obtenir une solution diluée d'acrylonitrile ; cette solution, après concentration dans une colonne d'épuisement, conduit à l'acrylonitrile brut. cet acrylonitrile brut est purifié, dans une série de colonnes à distiller qui permettent de récupérer des sousproduits intéressants sur le plan industriel, tels ltacioe cyanhydrique et l'acétonitrile. tous les procédés actuels exigent après l'étape de réaction que soient effectuées différentes opérations de séparation par absorption et distillation. le milieu réactionnel contenant des produits très divers et étant soumis à de fortes agitations il se produit des phénomènes de moussage dans les anstallations qui, s'ils ne sont pas correctement contrôlés, ont de effets néfastes sur l'efficacité de la séparation et par conséquent sur la rentabilité globale du procédé. de même dans le procédé de fabrication des esters acryliques à partir de l'acrylonitrile on effectue des réactions d'hy- drolyse et d'estérification en milieu sulfurique à température élevée. dans les deux cas le milieu réactionnel est soumis à de fortes agitations et il se produit des phénomènes de moussage qu'il est nécessaire de contraler. rsur limiter et contrôler ces phénomènes de moussage il est connu e'utiliser comme agents régulateurs des mousses des produits siliconés. mais ces produits présentent l1inconvé- rient itêtre difficiles à disperser dans l'eau, ce qui rend leur enploi malaisé, et d'être partiellement entrainés par la vapeur d'eau, ce qui rend leur utilisation coûteuse. d'autres compositions, en particulier celles du brevet américain 3.657.136 ont également été proposées dans le même but, mais elles présentent l'inconvénient d'être constituées dun mélange de produits de nature très différente ce qui entraine des opérations de mélange à chaud délicates et partant comateuses, et d'autre part de nécessiter la présence d'un agent tensio-actif pour faciliter la distribution de façon uniforme et rapide du mélange dans l'installation ce qui exige ane seconde opération de mélange avant introduction dans 11installation. @a s demanderesse a constaté que l'emploi de mélanges de tensioactifs de formule
+</DESCRIPTION>
+<CLAIMS>
+revendications de brevet   1. procédé de régulation des mousses dans les installations de fabrication de   ltacrylonitrile    et des esters acryliques   caracterisé    par l'utilisation au stade de la purification de ces produits de mélanges de tensio-actifs non ioniques de formule    r - (och2ch2)n      (och2chch3)m    or' (i) dans laquelle r est un groupement alkyle contenant 8 à   18    atomes de carbone, r' est un groupe alkyle ou benzyle, n un nombre compris entre 2 et 20, m un nombre compris entre 4 et 20, 2. procédé selon la revendication 1 où les tensio-actifs utilisés ont pour formule  r- (och2ch2)n (och2chch3)m och3 (ii) dans laquelle r est un groupement alkyle contenant 9 à 11 atomes de carbone, n un nombre voisin de 5 et m un nombre voisin de 8,  
+</CLAIMS>
+</TEXT>
+</DOC>

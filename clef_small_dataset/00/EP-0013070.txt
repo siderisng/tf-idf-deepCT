@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013070
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-5/92 H04N-5/926 G11B-20/12 G11B-5/06 G11B-7/00 H03M-13/00 H04B-14/04 <main>H04N-5/76</main> G11B-20/10 G11B-20/08 G11B-20/14 H04L-25/49 G11B-7/004 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+video record systems.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>discovision associatesp.o. box 6600 3300 hyland avenuecosta mesa california 92626us<sep>discovision associates<sep>
+</APPLICANT>
+<INVENTOR>
+bailey jack henry<sep>ottaway gerald howard<sep>bailey, jack henry<sep>ottaway, gerald howard<sep>bailey, jack henrysouth road, r.d. 2millbrook new york 12545us<sep>ottaway, gerald howardkay drivepleasant valley new york 12569us<sep>bailey, jack henry<sep>ottaway, gerald howard<sep>bailey, jack henrysouth road, r.d. 2millbrook new york 12545us<sep>ottaway, gerald howardkay drivepleasant valley new york 12569us<sep>
+</INVENTOR>
+<ABSTRACT>
+a video record system includes a record disk 12 and a  read/write head 19.  a signal to be recorded is received on line  15 and processed by a converter26 before being passed to the  read/write head 19.  a signal read from the disk 12 by the  read/write head 19 is passed through a converter 30 and a  digital signal processor 32 to a television 14.  in this video record system the length of a mark along a  record track 20 on the disk 12 represents a four bit binary  storage code block and the player/recorder system operates  in eight-bit system code blocks.  thus, two marks on the disk  represent a single system code block.  the bits of the system  code block are assigned to bit positions of the storage code  blocks in such a way that there is a reduction in the affect in the  associated system of errors in initially writing or subsequently  reading a mark.  the increments of mark length are also made  non-constant to reduce the effect in the associated system of  errors in mark length.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003852
+</DOCNO>
+<TEXT>
+<DATE>
+19790905
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04N-7/18 G01S-7/06 <main>H04N-5/14</main> H04N-5/232 G01S-3/782 G01S-3/78 G01S-7/28 G01S-3/786 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+threshold selection circuit suitable for a processing unit for the processing of video signals from an angle tracking device.
+</TITLE>
+<APPLICANT>
+hollandse signaalapparaten bvnl<sep>hollandse signaalapparaten b.v.<sep>hollandse signaalapparaten b.v.zuidelijke havenweg 40 p.o. box 42nl-7550 gd hengelonl<sep>hollandse signaalapparaten b.v. <sep>
+</APPLICANT>
+<INVENTOR>
+los lindert<sep>los, lindert<sep>los, lindertholterstraatweg 39rijssennl<sep>los, lindert <sep>los, lindertholterstraatweg 39rijssennl<sep>
+</INVENTOR>
+<ABSTRACT>
+a threshold selection circuit, suitable for a processing  unit for the processing of video signals obtained from an  angle tracking device, is provided with a number (n) of video  integrators 1. 1-1. n to receive video signals above certain  threshold levels decreasing in numerical order, and with a  weighting network (6), connected to the video integrators, for  selecting and assigning the threshold of the lowest numbered  video integrator for the processing unit, of which video  integrator the output signal does not exceed a fixed fraction  of the output signal of the video integrator operating with the  next lower threshold.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005849
+</DOCNO>
+<TEXT>
+<DATE>
+19791212
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-231/12 C07C-231/00 <main>C07C-102/00</main> C07C-235/80 C07C-103/34 C07C-67/00 C07C-235/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing alpha-chloro-n-monoalkyl-acetoacetamides.
+</TITLE>
+<APPLICANT>
+wacker chemie gmbhde<sep>wacker-chemie gmbh<sep>wacker-chemie gmbhhanns-seidel-platz 4d-81737 münchende<sep>wacker-chemie gmbh<sep>wacker-chemie gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+jung herbert<sep>kunstle gerhard dr dipl-chem<sep>jung, herbert<sep>kunstle, gerhard, dr., dipl.-chem<sep>jung, herbertbachstrasse 12d-8263 burghausende<sep>künstle, gerhard, dr., dipl.-chemwaldstrasse 29d-8261 raitenhaslachde<sep>jung, herbert<sep>kunstle, gerhard, dr., dipl.-chem<sep>jung, herbert  <sep>kunstle, gerhard, dr., dipl.-chem<sep>jung, herbertbachstrasse 12d-8263 burghausende<sep>künstle, gerhard, dr., dipl.-chemwaldstrasse 29d-8261 raitenhaslachde<sep>
+</INVENTOR>
+<ABSTRACT>
+According to the invention, α-chloroacetoacetamides, including both α-chloro-n monoalkyl, and α-chloro-n, N-dialkyl-acetoacetamides whose alkyl radicals comprise 1 to 3 C atoms, by reacting the corresponding acetoacetamidesChlorine in aqueous solution made at temperatures in the range of -1 ° C to -25 ° C.In the case of a conversion of at least 95%, a selectivity of at least 97% and a yield of at least 95% of theory, based on reacted acetoacetamide, is achieved.
+</ABSTRACT>
+</TEXT>
+</DOC>

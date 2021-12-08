@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0017624
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29F-3/00 C09D-3/00 H01B-3/30 <main>C08L-51/06</main> H01B-3/46 C09D-151/06 C09D-151/00 H01B-3/14 B29C-47/02 B29B-7/00 H01B-7/02 H01B-13/06 H01B-13/14 B29C-47/88 B29C-47/00 B29F-3/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for manufacturing an electrical conductor, insulated by a reticulated plastics coating, and an insulated electrical conductor obtained by such a process.
+</TITLE>
+<APPLICANT>
+maillefer sach<sep>maillefer s.a.<sep>maillefer s.a.route du boisch-1024 ecublens canton de vaudch<sep>maillefer s.a.<sep>
+</APPLICANT>
+<INVENTOR>
+hochstrasser ulrich<sep>kertscher eberhard<sep>hochstrasser, ulrich<sep>kertscher, eberhard<sep>hochstrasser, ulrichchemin dent-d'oche 8ch-1024 ecublens (vaud)ch<sep>kertscher, eberhardchemin du brit 21ch-1032 romanel-sur-lausanne (vaud)ch<sep>hochstrasser, ulrich<sep>kertscher, eberhard<sep>hochstrasser, ulrichchemin dent-d'oche 8ch-1024 ecublens (vaud)ch<sep>kertscher, eberhardchemin du brit 21ch-1032 romanel-sur-lausanne (vaud)ch<sep>
+</INVENTOR>
+<ABSTRACT>
+The manufacture of an isolated electrical conductor or a tube comprises the introduction of a mixture of materials into an extruder and extruding of these materials once homogenized and fluid rendered on the electrical conductor.To meet the requirements for electrical cables, a polyolefin such as polyethylene is used as the crosslinking by the addition of a silane, a free radical generator and a catalyst of theCondensation of silanol.After extrusion, the crosslinking takes place in the presence of water.To facilitate the penetration of water and activating the crosslinking, the method plans to use as an additional additive, a polymer crystallization rate reduction agent for example the vinyl acetate.
+</ABSTRACT>
+</TEXT>
+</DOC>

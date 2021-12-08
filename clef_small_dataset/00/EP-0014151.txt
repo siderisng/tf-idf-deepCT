@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014151
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H03H-17/02</main> H03H-17/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of treating successive signal samples and digital filter for carrying out the method.
+</TITLE>
+<APPLICANT>
+thomson csf mat telfr <sep>thomson-csf telephone<sep>thomson-csf telephone 146, boulevard de valmy 92707 colombes fr<sep>thomson-csf telephone<sep>
+</APPLICANT>
+<INVENTOR>
+houdard jean-pierre<sep>julie jean-jacques<sep>leoni bernard georges<sep>houdard, jean-pierre<sep>julie, jean-jacques<sep>leoni, bernard, georges<sep>houdard, jean-pierrethomson-csf 46 quai alphonse le gallof-92103 boulogne-billancourt cedexfr<sep>julie, jean-jacquesthomson-csf 46 quai alphonse le gallof-92103 boulogne-billancourt cedexfr<sep>leoni, bernard, georgesthomson-csf 46 quai alphonse le gallof-92103 boulogne-billancourt cedexfr<sep>houdard, jean-pierre<sep>julie, jean-jacques<sep>leoni, bernard, georges<sep>houdard, jean-pierrethomson-csf 46 quai alphonse le gallo f-92103 boulogne-billancourt cedex fr  <sep>julie, jean-jacquesthomson-csf 46 quai alphonse le gallof-92103 boulogne-billancourt cedexfr<sep>leoni, bernard, georgesthomson-csf 46 quai alphonse le gallof-92103 boulogne-billancourt cedexfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The filter of the invention comprises several membership cells (C₁ to CK) each comprising a RAM (M₁ to MK), a dead memory (H₁ to HK), and an arithmetic unit (U₁ to UK).Are common to all cells: a page address counter (CT₁), a word address counter (CT₂) and a weighting coefficient address counter (CT₃).The transfer of discrete values Rétar deed is made by relative addressing of the words of the memories.Application: Half-band extrapolator filter in telephoning.
+</ABSTRACT>
+</TEXT>
+</DOC>

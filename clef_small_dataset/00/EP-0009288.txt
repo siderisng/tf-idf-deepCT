@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009288
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-7/20 A61B-5/05 G01R-33/38 G01R-33/385 A61B-5/055 <main>G01N-24/06</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+magnet coil arrangement for producing linear magnetic field gradients.
+</TITLE>
+<APPLICANT>
+philips nvde<sep>philips patentverwaltungde<sep>n.v. philips' gloeilampenfabrieken<sep>philips patentverwaltung gmbh<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips patentverwaltung gmbhröntgenstrasse 2422335 hamburgde<sep>n.v. philips' gloeilampenfabrieken <sep>philips patentverwaltung gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+heinzerling jurgen dr rer nat<sep>heinzerling, jurgen, dr.rer.nat.<sep>heinzerling, jürgen, dr.rer.nat.pezolddamm 42d-2000 hamburg 71de<sep>heinzerling, jurgen, dr.rer.nat.  <sep>heinzerling, jürgen, dr.rer.nat.pezolddamm 42d-2000 hamburg 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a magnetic coilan order for generating linear magnetic GRA serving fields, with the aid of which a three-dimensional spin density distribution of a body is reconstructed (spin imaging).The magnetic coil arrangement is u. a.From several groups of individual coils arranged on an imaginary Zylin circumferential surface, which produces a magnetic field gradient in the interior of the cylinder, which is constancy in a larger area of known magnetic coil arrangement.Furthermore, the magnetic coil arrangement contains four individual coils arranged on an imaginary ball surface, the individual coils passing through the same current for generating a constant rotationally symmetrical to an examination axis extending field gradients.
+</ABSTRACT>
+</TEXT>
+</DOC>

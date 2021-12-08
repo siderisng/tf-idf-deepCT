@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003484
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-311/00 C07D-311/72 C07D-311/58 <main>C07D-311/72</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of chromane derivatives.
+</TITLE>
+<APPLICANT>
+hoffmann la rochech <sep>f.hoffmann-la roche & co. aktiengesellschaft <sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+cohen noal<sep>cohen, noal<sep>cohen, noal19 euclid placemontclair,n.j.us<sep>cohen, noal <sep>cohen, noal19 euclid placemontclair,n.j.us<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the manufacture of chromane derivatives of the general formulae i and ii  see diagramm : ep0003484,p6,f1  wherein r**1, r**2, r**3 represent hydrogen or lower alkyl, r**4 represents lower alkyl and r**5 represents hydrogen or an acid protecting group cleavable by hydrolysis, characterized by reacting a compound of the general formula iii  see diagramm : ep0003484,p6,f2  wherein r**1, r**2, r**3, r**4 and r**5 have the above significance, with acetonitrile in the presence of a strong base, or by reacting a compound of the general formula iiia  see diagramm : ep0003484,p6,f3 wherein r**1, r**2, r**3 and r**4 have the above significance and r**6 represents a hydrolytically cleavable acid protecting group, with cyanoacetic acid in an organic amine base in the presence of a compound of the general formula  see diagramm : ep0003484,p6,f4 wherein r**7 represents lower alkyl or aryl, and, if desired, converting a thus-obtained compound of the general formula i into a compound of the general formula ii. 
+</ABSTRACT>
+</TEXT>
+</DOC>

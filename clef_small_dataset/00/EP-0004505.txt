@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004505
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01J-1/12 <main>G01B-9/08</main> H01L-21/027 G01B-11/02 G01N-21/956 G03B-27/32 H05K-13/08 G01B-11/24 G01N-21/88 G01N-21/31 H01L-21/66 G01B-11/00 H01L-21/02 G01B-11/245 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+system for checking a pattern on a flat base.
+</TITLE>
+<APPLICANT>
+thomson csffr<sep>"thomson-csf"- scpi<sep>thomson-csf173, boulevard haussmann75008 parisfr<sep>thomson-csf  <sep>
+</APPLICANT>
+<INVENTOR>
+desperques-volmier serge<sep>lacombat michel<sep>desperques-volmier, serge<sep>lacombat, michel<sep>desperques-volmier, serge"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>lacombat, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>desperques-volmier, serge<sep>lacombat, michel<sep>desperques-volmier, serge"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>lacombat, michel"thomson-csf" - scpi 173, bld haussmannf-75360 paris cedex 08fr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to the control of images listed on a plane support with a high density relative to a reference pattern.The system according to the invention comprises a drawing device of the drawing from an online detector and a data processing logic provided by the detector and data relating to the reference pattern, the drawing and the pattern being described.line by line.The logic is planned to detect the errors by admitting for each line an offset between the drawing and the pattern of a unit in a direction X or a direction perpendicular to X, the maximum offset allowed for all the drawing being for example.3 units in the same direction.The invention applies in particular to the control of masks and reticulates for the manufacture of integrated circuits.
+</ABSTRACT>
+</TEXT>
+</DOC>

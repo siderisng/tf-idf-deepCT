@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001747
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+G03B-27/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for evaluating film negatives with respect to their copying ability.
+</TITLE>
+<APPLICANT>
+aco ind bedarfat <sep>aco-industriebedarf gesellschaft m.b.h. <sep>aco-industriebedarf gesellschaft m.b.h.rudolf-waisenhorngasse 14a-1235 wienat<sep>
+</APPLICANT>
+<INVENTOR>
+barislovits peterat<sep>barislovits, peter<sep>barislovits, peternussdorferstrasse 57a-1090 wienat<sep>
+</INVENTOR>
+<ABSTRACT>
+in this process and device for assessing the copying capacity of film negatives, the transparency of the films (1) is scanned along lines (2, 3, 4), individual signals representing the transparency are compared with the respectively following individual signals (12) and, when a predeterminable difference of the successively following individual signals is reached or exceeded, contrast signals are emitted, which are counted (13) and, in the event of falling below a predetermined number of contrast signals per image, the exclusion of the relevant negative image from the copying process is effected.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

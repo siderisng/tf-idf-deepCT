@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016969
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-31/12 G01S-7/481 G01V-8/12 G01V-8/14 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+light barrier apparatus.
+</TITLE>
+<APPLICANT>
+sick optik elektronik erwinde   <sep>erwin sick gmbh optik-elektronik<sep>erwin sick gmbh optik-elektroniksebastian-kneipp-strasse 1d-79183 waldkirchde<sep>
+</APPLICANT>
+<INVENTOR>
+walter arthur drde<sep>walter, arthur, dr.<sep>walter, arthur, dr.im buchengrün 2d-7808 waldkirch 2de<sep>
+</INVENTOR>
+<ABSTRACT>
+light barrier apparatus generally features a light trans­ mitter for projecting light across a region to be monitored  to a light receiver.  the light transmitter and receiver units  can either be separate or can be combined in a single  housing and used in conjunction with a retro-reflector for  returning light from the sender to the receiver.  in any of these arrangements the light transmitter and/­ or sender units incorporate photoelectric converter com­ ponents (11, 12) and optical projection components (13,  14) together with electronic processing elements which  enable interruption of the light barrier to be detected.  the  present arrangement features a housing (17) including at  least one sealed chamber (15; 15′, 15″) containing solely  the optical and photoelectric converter elements.  these  chambres are thus sealed against the ingress of contamina­ tion and moisture.  the remaining elements of the electronic  processing circuit are housed separately in a further cham­ ber (16).  the housing together with the fixed walls (18,  18′, 18″) of the sealed chambers (15, 15′, 15″) is use­ fully injection molded in one piece and preferably together  with sighting aids (22).  
+</ABSTRACT>
+</TEXT>
+</DOC>

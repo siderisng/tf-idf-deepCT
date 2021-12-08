@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011426
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07F-7/18 A61P-27/12 C07D-335/00 A61K-31/38 A61P-3/00 C07D-335/06 A61P-3/10 C07D-311/22 A61P-27/00 C07F-7/00 C07D-311/00 A61P-27/02 <main>C07D-311/58</main> A61P-3/08 C07D-311/04 A61K-31/352 A61P-25/00 A61K-31/382 C07D-311/58 C07D-311/92 A61K-31/35 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+halogen-substituted benzopyran- and benzothiopyran-4-carboxylic acids, their preparation and pharmaceutical compositions containing the same.
+</TITLE>
+<APPLICANT>
+pfizerus<sep>pfizer inc.<sep>pfizer inc.235 east 42nd streetnew york, n.y. 10017us<sep>pfizer inc.<sep>
+</APPLICANT>
+<INVENTOR>
+belletire john l<sep>belletire, john l.<sep>belletire, john l.10b university housesmadisonus<sep>belletire, john l.<sep>belletire, john l.10b university housesmadisonus<sep>
+</INVENTOR>
+<ABSTRACT>
+benzopyran- and benzothiopyran-4 -carboxylic acid  aldose reductase inhibitors of the formula:    or a pharmaceutically acceptable salt thereof, wherein x is 0,  s, s = o or    n is zero or one; r is hydrogen or alkyl of 1 to 4 carbon  atoms; r₁ is hydrogen, chloro, bromo, fluoro or phenyl; r₂  and r₃ when taken individually, are each hydrogen, alkyl of 1  to 3 carbon atoms, chloro, bromo or fluoro; and when taken  together, r₂, r₃ and the carbon atoms to which they are con­ nected form a fused benzene ring; with the proviso that at  least one of r₁, r₂ and r₃ is chloro, bromo or fluoro.  the  compounds are useful in the treatment of diabetic-­ associated complications, such as cataracts, neuropathy or  retinopathy, in a diabetic host.  also disclosed are methods  for preparing the compounds of the formula (i) and their  salts, and pharmaceutical compositions containing them.  
+</ABSTRACT>
+</TEXT>
+</DOC>

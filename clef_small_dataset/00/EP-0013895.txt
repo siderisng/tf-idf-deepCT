@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013895
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B61C-9/50 <main>B61C-9/50</main> B61C-9/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+driving device for loose carrying wheels on rail vehicles.
+</TITLE>
+<APPLICANT>
+thyssen industriede<sep>thyssen industrie ag<sep>thyssen industrie agam thyssenhaus 1d-45128 essende<sep>thyssen industrie ag<sep>
+</APPLICANT>
+<INVENTOR>
+korn gerhard<sep>korn, gerhard<sep>korn, gerhardmarienburger weg 15a4330 mülheim/ruhrde<sep>korn, gerhard  <sep>korn, gerhard marienburger weg 15a4330 mülheim/ruhrde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  drive arrangement with a motor for two movable running wheels (4 ; 4a) of a rail vehicle which are situated opposite one another and between which and a bevel gearing (6) flangemounted on one end face of the motor housing (5), which housing is disposed in the direction of travel, there is interposed a differential gearing (8) with shafts (11) going out to the running wheels, characterized in that the motor housing (5) has two rotors independent of one another, and at the other end face a similar bevel gearing (6) for two further movable running wheels of a bogie which is provided with sprung rockers (2) or swingable frames for the running wheels, said rockers or frames being mounted to be vertically movable on the bogie middle part (1) by means of pivotable joints (3), the shafts (11) as cardan shafts being associated each with a spur-wheel gearing (13, 14 and 13a, 14a) arranged on the bearing housing of the running wheels, the drive input wheel (13 ; 13a) of this gearing being connected to the cardan shaft (11) and the drive output wheel (14 ; 14a) to the running wheel axle. 
+</ABSTRACT>
+</TEXT>
+</DOC>

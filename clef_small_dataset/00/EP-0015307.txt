@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015307
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06K-19/16 G06K-13/06 G06K-7/14 G06K-19/14 B44F-1/12 G06Q-40/00 <main>G06K-1/12</main> G07F-7/08 G06K-17/00 G06K-7/01 B44F-1/00 G06K-19/08 G06K-7/016 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cashless-payment system for commodities or services.
+</TITLE>
+<APPLICANT>
+landis & gyr agch<sep>lgz landis & gyr zug ag<sep>lgz landis &amp; gyr zug agch-6301 zugch<sep>lgz landis & gyr zug ag<sep>
+</APPLICANT>
+<INVENTOR>
+schmidhauser rolf<sep>schmidhauser, rolf<sep>schmidhauser, rolflindenstrasse 22ch-6330 chamch<sep>schmidhauser, rolf<sep>schmidhauser, rolflindenstrasse 22ch-6330 chamch<sep>
+</INVENTOR>
+<ABSTRACT>
+In a track (2) of a cash (1) follow N ≧ 2 types (a; b) of different optical markers (3), which cause a predetermined modification of incident light, cyclically and seamlessly.A read head has N light sensor, each responsive to one of the mark types (a; b).With the reading head, the field transitions between successive markings (3) are scanned.A control device sets a erasing head for deleting a mark (3) when it is located on a location defined by a field transition location (2).The extinguishing head is adjusted so that a field transition asymme is deleted troch.In the direction of a trans port device, all field transitions are counted and one or more field transitions are deleted in the opposite direction of operation.
+</ABSTRACT>
+</TEXT>
+</DOC>

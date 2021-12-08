@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003504
+</DOCNO>
+<TEXT>
+<DATE>
+19790822
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-3/545 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+central condition memory for telephone exchanges.
+</TITLE>
+<APPLICANT>
+telefonbau & normalzeit gmbhde<sep>telefonbau und normalzeit gmbh<sep>telefonbau und normalzeit gmbhmainzer landstrasse 128-146 postfach 4432d-6000 frankfurt (main)de<sep>
+</APPLICANT>
+<INVENTOR>
+beckmann juergen dipl-ingde <sep>cezanne lotharde  <sep>resch wolfgangde<sep>scherer manfred ing gradde<sep>beckmann, juergen, dipl.-ing.<sep>cezanne, lothar<sep>resch, wolfgang<sep>scherer, manfred, ing. grad.<sep>beckmann, jürgen, dipl.-ing.kalbacher stadtpfad 11d-6000 frankfurt (main) 56de<sep>cezanne, lotharbahnstrasse 3ad-6082 mörfelden-walldorfde<sep>resch, wolfgangkarlsbader strasse 29d-6090 rüsselsheimde<sep>scherer, manfred, ing. grad.sömmerringstrasse 27d-6000 frankfurt (main) 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a memory, used for storing data belonging to subscriber line facilities, of a centrally controlled switching system.  in the known memories of this type, the memory areas belonging to similar subscriber line facilities are in each case arranged spatially adjacently for simplifying the control sequences.  this can lead to problems when switching systems are extended by additional subscriber line facilities, but also in the case where a busy or faulty subscriber line facility is identified to be idle in its associated memory area.  the invention therefore proposes to allocate subscriber line facilities of different types to the individual memory areas which are located spatially adjacently, so that memory areas belonging to similar subscriber facilities are arranged distributed over the entire memory.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

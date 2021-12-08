@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013695
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-85/00 <main>C08G-79/02</main> C08G-79/00 C08G-79/02 C08L-85/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polyphosphazene polymers containing cyclic ketal substituents and process for producing them.
+</TITLE>
+<APPLICANT>
+firestone tire & rubber co us<sep>the firestone tire & rubber company<sep>the firestone tire &amp; rubber company1200 firestone parkwayakron, ohio 44317us<sep>the firestone tire & rubber company <sep>
+</APPLICANT>
+<INVENTOR>
+halasa adel farhan<sep>hergenrother william lee<sep>halasa, adel farhan<sep>hergenrother, william lee<sep>halasa, adel farhan5040 everett roadbath, ohio 44210us<sep>hergenrother, william lee195 dorchester roadakron, ohio 44313us<sep>halasa, adel farhan <sep>hergenrother, william lee  <sep>halasa, adel farhan5040 everett roadbath, ohio 44210us<sep>hergenrother, william lee195 dorchester roadakron, ohio 44313us<sep>
+</INVENTOR>
+<ABSTRACT>
+polyphosphazene polymers are prepared which con­ tain repeating units of the formulas:    wherein x is represented by    wherein r₁ and r₂ independently are substituted or un­ substituted aliphatic, aryl, araryl, alkylaryl or heterocyclic  radicals or r₁ and r₂ can be linked to form a cyclic radi­ cal and r₃ is an aliphatic hydrocarbon radical or hydrogen,  x′ is chlorine, a substituted or unsubstituted alkoxa, aryl­ oxy, amino or mercapto substituent group or mixtures  thereof which are compatible with an n-substituted amino  substituent and 20≦(w+y+z)≦50,000 per polymer and  (y+z)>0.  the polymers may be prepared by reacting a poly(di­ chlorophosphazene) of formula -(npcl₂)n-, wherein n is  from 20 to 50,000, with a cyclic ketal containing a hydroxy  group in the presence of a tertiary amine, optionally follow­ ed by addition of an alkanol, phenol, amine, or mercaptan.  the polymers of the invention can be utilized in form­ ing protective films and also in applications such as mold­ ing, coatings, foams and the like.  
+</ABSTRACT>
+</TEXT>
+</DOC>

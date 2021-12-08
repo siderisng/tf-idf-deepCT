@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007139
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01G-1/02 H01G-2/00 <main>H01G-1/08</main> H01G-2/08 H01G-4/38 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+capacitor assembly with cooling elements and method of making it.
+</TITLE>
+<APPLICANT>
+asea jumet sabe<sep>asea-jumet, societe anonyme<sep>asea-jumet, société anonymesiége social zone industrielle jumet-gosseliesb-6040 jumetbe<sep>asea-jumet, societe anonyme<sep>
+</APPLICANT>
+<INVENTOR>
+schmidt jacques<sep>schmidt, jacques<sep>schmidt, jacquesrue de la cascade 29b-6090 couilletbe<sep>schmidt, jacques  <sep>schmidt, jacques rue de la cascade 29b-6090 couilletbe<sep>
+</INVENTOR>
+<ABSTRACT>
+Power capacitor composed of capacitor rollers (1), reinforced with outer terminals, housed in a housing (2) in which ribbons (3), good heat conductors, and width equal to about the heavenof a capacitor roller (1) are curved so as to marry at least one half of the periphery of one or each of several capacitor rollers (1), the two undeveloped ends of the ribbons (3) being in contact with contact withTwo opposite walls of the boxer (2).Applicable especially to low voltage capacitors.
+</ABSTRACT>
+</TEXT>
+</DOC>

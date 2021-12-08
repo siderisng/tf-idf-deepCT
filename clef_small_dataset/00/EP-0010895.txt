@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010895
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B32B-37/00 B29C-47/36 B29C-47/04 B32B-31/30 B32B-37/14 <main>B29F-3/12</main> B29C-47/56 B29C-63/00 B29B-7/00 B29C-47/14 B29C-47/06 B29L-9/00 B29D-16/00 B32B-37/15 B29C-47/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of making laminates of thermoplastic polymers by a single-channel coextrusion process and melt injector block for use therein.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+simons phillip reginald<sep>simons, phillip reginald<sep>simons, phillip reginald63 attimore roadwelwyn garden city hertfordshiregb<sep>simons, phillip reginald<sep>simons, phillip reginald63 attimore roadwelwyn garden city hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+the melt injector block contains guides for defining  the width of secondary streams.  this gives edge trim of  base polymer only.  recycle is easier and stenter clips do  not get stuck in heat-seal layers.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012972
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-178/00</main> C07C-179/12 C07C-179/10 C07C-407/00 C07C-409/24 C07C-409/26 C07C-409/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of percarboxylic acid solutions.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>degussade<sep>bayer ag<sep>degussa aktiengesellschaft <sep>bayer ag 51368 leverkusende<sep>degussa aktiengesellschaftweissfrauenstrasse 9d-60311 frankfurtde<sep>bayer ag<sep>degussa aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+goedecke ralf dr<sep>hofen willi<sep>seifert hermann dr<sep>siekmann gerd dr<sep>goedecke, ralf, dr.<sep>hofen, willi<sep>seifert, hermann, dr.<sep>siekmann, gerd, dr.<sep>goedecke, ralf, dr.ulmenstrasse 10d-6458 rodenbach 1de<sep>hofen, willisüdring 54d-6458 rodenbachde<sep>seifert, hermann, dr.ruwergasse 4d-5000 koeln 80de<sep>siekmann, gerd, dr.wolfskaul 8d-5000 koeln 80de<sep>goedecke, ralf, dr.<sep>hofen, willi <sep>seifert, hermann, dr.<sep>siekmann, gerd, dr.  <sep>goedecke, ralf, dr.ulmenstrasse 10d-6458 rodenbach 1de<sep>hofen, willisüdring 54d-6458 rodenbachde<sep>seifert, hermann, dr.ruwergasse 4d-5000 koeln 80de<sep>siekmann, gerd, dr.wolfskaul 8d-5000 koeln 80de<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to the continuous preparation of organic solutions of percarboxylic acids having 2 to 5 carbon atoms, wherein a) aqueous which is hydrogen peroxide with 2 to 5 carbon atoms-containing carboxylic acids in the presence of acid catalysts, b) by extraction with an organic solvent from the reaction mixturePorcarboxylic acid-containing extract wins, c) this extract treated in an extraction unit with water or an aqueous solution and d) the extract thus treated by azeotropic distillation dew dew sert.The invention is characterized in that the organic phase of the head product of the azeotropic distillation accumulating in the drainage is completely or partially returned to step C) and / or B).
+</ABSTRACT>
+</TEXT>
+</DOC>

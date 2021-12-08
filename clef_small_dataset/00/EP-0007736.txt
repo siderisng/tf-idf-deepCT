@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007736
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61L-29/00 A61L-2/08 A61M-5/178 C08K-5/3435 A61L-31/14 <main>C08L-23/00</main> C08K-5/34 C08K-5/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+polyolefin articles sterilisable by gamma-irradiation.
+</TITLE>
+<APPLICANT>
+ici plcgb <sep>imperial chemical industries plc <sep>imperial chemical industries plc imperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+harris colin andrew<sep>rayner martin geoffrey<sep>harris, colin andrew<sep>rayner, martin geoffrey<sep>harris, colin andrew17 stoneycroftwelwyn garden city hertfordshire al7 1qugb<sep>rayner, martin geoffrey8 valley roadgb-codicote hertfordshiregb<sep>harris, colin andrew  <sep>rayner, martin geoffrey <sep>harris, colin andrew17 stoneycroftwelwyn garden city hertfordshire al7 1qugb<sep>rayner, martin geoffrey8 valley roadgb-codicote hertfordshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+polyolefin articles, especially polypropylene hypodermic  syringes are made more resistant to the yellow discolouration  and embrittlement which accompanies sterilisation by  gamma-irradiation by the addition to the polyolefin of a  heterocyclic hindered amine, e. g.  di-(2,2,6,6-tetra-methyl-4-­ piperidyl)sebacate, to the amount from 0. 01 to 2% by weight  of the polymer.  
+</ABSTRACT>
+<DESCRIPTION>
+polyolefin articles sterilisable by gamma-irradiation this invention relates to polyolefin articles, especially polypropylene hypodermic syringe components which are suitable for sterilisation by gamma-irradiation from a cobalt-60 source. polypropylene syringes have been in use for many years (see british patent specification 1 050 802 published in 1966) and have been sterilised by gammairradiation even though this causes yellow discolouration and/or embrittlement of the syringe. plester reports (see bio-medical engineering* september 1970, pages 443 to 447) that polypropylene is of only "borderline'. suitability for such use and accordingly many attempts have been made to alleviate the problem. nevertheless, the problem has persisted and was discussed and left unsolved by williams et al in "radiation physics and chemistry", volume 9, pages 445 to 454, published in 1977. it has now been discovered that polyolefins containing certain hindered amines are more resistant to the discolouration which occurs as a result of gammairradiation. typical hindered amines are described in west german patent specifications 2 204 659 and 2 319 816, published in 1972 and 1973 respectively. accordingly, this invention provides an article of medical (including hospital) ware sterilisable by gamma-irradiation from a cobalt-60 source and made from a composition comprising a crystalline polymer of an aliphatic alpha-olefin characterised in that the composition comprises from 0.01 to 2 (preferably 0.08 to 0.3)% by weight of the polymer of a hindered amine or its salt, n-oxide, n-hydroxide or n-nitroxide wherein the amine nitrogen is contained in a carbon-nitrogen-carbon chain which forms part of a non-aromatic heterocyclic ring and wherein each of the two carbon atoms of the chain is bonded to two same or different lower alkyl groups each containing 1 to 12 carbon atoms or to an alicyclic group containing 4 to 9 carbon atoms which groups sterically hinder the amine. in general, the articles can receive a radiation dose of 5.0 mrad from a cobalt-60 source and then have a discolouration factor (as hereinafter defined) of better than 0.750 (often better than 0.800) two weeks after irradiation and an oven life in air at 15o0c of at least 6 and often over 10 days in sections 3.17 mm thick. the hindered amines preferably comprise a 5- or 6membered heterocyclic ring containing the hindered amine nitrogen and optionally another hetero atom preferably nitrogen or oxygen. if the hindered amine is a tertiary amine, the tertiary group may be, for example, an optionally substituted alkyl, aralkyl, alkaryl or alicyclic group containing 1 to 12 carbon atoms and one or more of the substituents may be hindered amines so that the tertiary group may be used to link a plurality of hindered amines. the e hindering groups are preferably alkyl groups containing 1 to 4 carbon atoms and most preferably all four groups are methyl. the most preferred hindered amines comprise 2,2,4,4-tetramethyl piperidine derivatives. the hindered amine is preferably bonded to a carrier moiety which should have little if any inhibiting effect on the chemical activity of the hindered amine. reasonably inert carriers include aromatic compounds (for example
+</DESCRIPTION>
+<CLAIMS>
+claims  1. an article of medical ware sterilisable by gamma-irradiation from a cobalt-60 source and made from a composition comprising a crystalline polymer of an aliphatic alpha-olefin characterised in that the composition comprises from 0.01 to 2% by weight of the polymer of a hindered amine or its salt, n-oxide, n-hydroxide or n-nitroxide wherein the amine nitrogen is contained in a carbon-nitrogen-carbon chain which forms part of a non-aromatic heterocyclic ring and wherein each of the two carbon atoms of the chain is bonded to two same or different lower alkyl groups each containing 1 to 12 carbon atoms or to an alicyclic group containing 4 to 9 carbon atoms which groups sterically hinder the amine.     2. an article as claimed in claim 1 wherein the hindered amine comprises a 6-membered heterocyclic ring.    3. an article as claimed in claim 2 wherein the hindered amine is carried by a carrier comprising a   d icarboxylate.       4. an article as claimed in claim 2 wherein the hindered amine is carried by a carrier comprising a triazine ring.    5. an article as claimed in claim 2 wherein the hindered amine is carried by a carrier comprising a dike tone.    6. an article as claimed in any one of the preceding claims wherein the article is a component for a hypodermic syringe.  
+</CLAIMS>
+</TEXT>
+</DOC>

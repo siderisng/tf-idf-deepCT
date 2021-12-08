@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012946
+</DOCNO>
+<TEXT>
+<DATE>
+19800709
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02K-3/00 H01B-17/60 <main>H01B-3/04</main> C08G-63/685 H01B-3/04 C08L-67/02 C08L-67/00 C08G-63/00 H01B-17/56 H01B-3/02 C08G-63/68 H02K-3/30 C08L-63/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the production of winding tapes for the high voltage insulation of electric machines and apparatuses, and winding tape for making an insulating envelope for electric conductors.
+</TITLE>
+<APPLICANT>
+kraftwerk union agde<sep>kraftwerk union aktiengesellschaft<sep>kraftwerk union aktiengesellschaftwiesenstrasse 35d-4330 mülheim (ruhr)de<sep>kraftwerk union aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+schuh heinz dr<sep>schuh, heinz, dr.<sep>schuh, heinz, dr.quellenweg 8d-4220 dinslakende<sep>schuh, heinz, dr.<sep>schuh, heinz, dr.quellenweg 8d-4220 dinslakende<sep>
+</INVENTOR>
+<ABSTRACT>
+Use of tertiary bound, nitrogen containing polyester resins as adhesive and accelerator resin in winding straps for the high voltage insulation of electrical machines to be attracted with epoxy resin, wherein said resins by condensation of equimolar amounts of a dicarboxylic acid and a tertiary-bonded nitrogen-containing glycol under distillation of the conDemensation resulting water will be obtained.Instead of the dicarboxylic acid, a Dicarbonsäu Reanhydride can be used.A mica band (G) containing said adhesive and accelerator resin (2,4) which is impregnable with a hot-curing epoxy acute resin mixture is used to produce the insulating sleeve of electrical conductors, in particular the winding bars (6) electrical machines.
+</ABSTRACT>
+</TEXT>
+</DOC>

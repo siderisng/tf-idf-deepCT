@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016866
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+G11B-15/00 G11B-15/58 <main>G11B-15/58</main> G01L-19/04 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+device to render ineffective output-voltage deviations of a pressure transducer in magnetic tape apparatuses caused by fluctuations in temperature.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+kegler ernst<sep>meyer franz-josef<sep>kegler, ernst<sep>meyer, franz-josef<sep>kegler, ernstoliviastrasse 8d-8000 münchen 71de<sep>meyer, franz-josefnordenstrasse 81d-8080 emmeringde<sep>kegler, ernst  <sep>meyer, franz-josef <sep>kegler, ernstoliviastrasse 8d-8000 münchen 71de<sep>meyer, franz-josefnordenstrasse 81d-8080 emmeringde<sep>
+</INVENTOR>
+<ABSTRACT>
+A voltage independent of the temperature of the pressure transducer is supplied to the adjustable tap of a PO tentiometer (5) connected between the inputs of a differential amplifier (6).An operational amplifier (7) comes the output voltage of the pressure transducer (3) with the output voltage of the differential amplifier (6).
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016425
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01N-33/48</main> C12M-3/04 G01N-33/48 G01N-33/52 C12N-5/02 C12Q-1/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+diagnostic process.
+</TITLE>
+<APPLICANT>
+ciba geigy ag ch  <sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag <sep>
+</APPLICANT>
+<INVENTOR>
+buck robert r dr<sep>clopath peter dr<sep>muller klaus dr<sep>buck, robert r., dr.<sep>clopath, peter, dr.<sep>muller, klaus, dr.<sep>bürk, robert r.,sichelweg 39ch-4103 bottmingench<sep>clopath, peter, dr.st. johanns-ring 16ch-4056 baselch<sep>müller, klaus, dr.fürstensteinhof 17ch-4107 ettingench<sep>burk, robert r.,<sep>clopath, peter, dr.  <sep>muller, klaus, dr.<sep>bürk, robert r.,sichelweg 39ch-4103 bottmingench<sep>clopath, peter, dr.st. johanns-ring 16ch-4056 baselch<sep>müller, klaus, dr.fürstensteinhof 17ch-4107 ettingench<sep>
+</INVENTOR>
+<ABSTRACT>
+A new method for diagnosing atherosclerosis is that the migration of endothelial cells or cells of endother-like morphology in vitro in the presence of serum of the person to be examined with the migration of equal cells in the presence of serum of healthy control persons or other standard sera compares and a reducedMigration in the presence of serum of the person to be examined as an indication of the possible existence of atherosclerosis in this person.Cell migration is measured, for example, on single-layer cell cultures of endothelial cells made of pig aorta or Balb / C 3T3-A31 cells in which a part of the cell layer was removed.An equipment for the execution of the procedure contains the materials and devices required for this purpose.
+</ABSTRACT>
+</TEXT>
+</DOC>

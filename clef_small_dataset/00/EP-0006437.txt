@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006437
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/027 H01J-37/30 <main>H01J-37/21</main> H01J-37/21 H01J-37/04 H01J-37/153 H01L-21/02 H01J-37/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and device for adjusting and correcting the aberrations of an electrooptical condensor in a microprojector.
+</TITLE>
+<APPLICANT>
+siemens ag de  <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+anger klaus dipl-ing<sep>frosien jurgen dipl-ing<sep>lischke burkhard dr<sep>anger, klaus, dipl.-ing.<sep>frosien, jurgen, dipl.-ing.<sep>lischke, burkhard, dr.<sep>anger, klaus, dipl.-ing.milowstrasse 2d-1000 berlin 33de<sep>frosien, jürgen, dipl.-ing.tile-brügge-weg 40d-1000 berlin 27de<sep>lischke, burkhard, dr.albrechtstrasse 59ad-1000 berlin 41de<sep>anger, klaus, dipl.-ing.  <sep>frosien, jurgen, dipl.-ing. <sep>lischke, burkhard, dr.<sep>anger, klaus, dipl.-ing.milowstrasse 2d-1000 berlin 33de<sep>frosien, jürgen, dipl.-ing.tile-brügge-weg 40d-1000 berlin 27de<sep>lischke, burkhard, dr.albrechtstrasse 59ad-1000 berlin 41de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method and a Vorrich device for focus adjustment and error correction of an electron optical condenser in a microprojector.It can be found in the beam path between the condenser lens (2) and the offset imaging lines sensing system (4) a annular field panel (3) and mapped by shady projection in a plane below the forming lens system (4).The focal length of the condenser lens (2) and the setting of stigmators (6) associated with this lens is evaluated until the silhouette corresponds in size and shape of the ring field panel (3).The blasting the condenser lens (2) extend then reached axially parallel.The drive can be repeated in the microprojector, especially after each operation for setting the illumination beam output.
+</ABSTRACT>
+</TEXT>
+</DOC>

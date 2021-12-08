@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004483
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+F15B-15/00 F15B-15/22 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+hydraulic actuator with stroke regulation.
+</TITLE>
+<APPLICANT>
+renaultfr<sep>regie nationale des usines renault <sep>regie nationale des usines renaultboíte postale 103 8-10 avenue emile zolaf-92109 boulogne-billancourtfr   <sep>
+</APPLICANT>
+<INVENTOR>
+louviot jean-francoisfr<sep>louviot, jean-francois<sep>louviot, jean-françois1 bis rue gaston philippef-93200 saint denisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+hydraulic actuator with stroke regulation, of the type having multiple intake and discharge orifices which are successively masked or unmasked by the piston in the acceleration or deceleration strokes.  flow regulators (2, 102) of a type known per se are arranged on the supplies of the actuator and comprise a slide valve (4) bearing on a calibrated spring (10, 11) which can be adjusted and balanced, on the one hand, by the discharge pressure in the actuator upstream of the discharge orifices and, on the other hand, by the pressure downstream of these orifices, plus that of the calibrated spring, the corresponding face of the slide valve controlling the opening of the discharge flow from the actuator.  application to high-pressure hydraulic actuators, in particular for machine tools.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

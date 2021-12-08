@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016588
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16P-3/00 F16P-3/12 A01B-71/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+accident prevention apparatus.
+</TITLE>
+<APPLICANT>
+law gerald samuel<sep>law, gerald samuel<sep>law, gerald samuelrubena lodge 48 dromara roadhillsborough down, northern irelandgb<sep>
+</APPLICANT>
+<INVENTOR>
+law gerald samuel<sep>law, gerald samuel<sep>law, gerald samuelrubena lodge 48 dromara roadhillsborough down, northern irelandgb<sep>
+</INVENTOR>
+<ABSTRACT>
+accident prevention apparatus for mounting on a  machine, tractor or other apparatus having at least one mov­ ing part driven by a power source the accident prevention  apparatus comprises, in electrical circuit, an elongate  contact-sensitive antenna(11), movement-sensitive means  (8,12,13) and means including a solenoid (17) to cut off power  from the power source.  the movement-sensitive means (8,12,13) includes a  mounting (8) and a plate (13) spaced apart and insulated from  each other, the antenna (11) being rooted to the mounting (8)  to extend therefrom through a hole (14) in plate (13) and  therebeyond to extend in the vicinity of the moving part.   contact with the antenna (11) by the operator's clothing  causes it to touch the plate (13) which actuates the solenoid  (17) to cut off power to the machine or to the moving part of  the machine.  
+</ABSTRACT>
+</TEXT>
+</DOC>

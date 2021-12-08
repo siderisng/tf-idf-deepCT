@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003244
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+B23Q-1/25 B25B-1/00 B25B-5/16 B25B-5/10 B23Q-3/02 B25B-5/00 B25B-1/24 <main>B23Q-3/06</main> B23Q-1/54 B23Q-3/06 B23Q-3/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for locating workpieces.
+</TITLE>
+<APPLICANT>
+niedecker herbert<sep>niedecker, herbert, dipl.-ing.<sep>niedecker, herbert, dipl.-ing.am ellerhang 6d-61462 königsteinde<sep>niedecker, herbert, dipl.-ing.<sep>niedecker, herbert, dipl.-ing.  <sep>
+</APPLICANT>
+<INVENTOR>
+niedecker herbert dipl-ing<sep>niedecker, herbert, dipl.-ing.<sep>niedecker, herbert, dipl.-ing.am ellerhang 6d-61462 königsteinde<sep>niedecker, herbert, dipl.-ing.<sep>niedecker, herbert, dipl.-ing.<sep>niedecker, herbert, dipl.-ing.am ellerhang 6d-61462 königsteinde<sep>
+</INVENTOR>
+<ABSTRACT>
+Devices for determining and tensioning workpieces for their machining consisting of determinations and clamping elements.The processing position of the workpiece (11) is determined in three planes according to the space coordinates and then it is tensioned in this position.In order to avoid preprocessing of the workpiece (11) prior to determining and the risk of tensioning when clamping, the determination elements (10) for the first plane flattened balls (1), which are mounted in ball pans (3) movably mounted.The contact surfaces of the balls (1) for attachment to the workpiece (11) are flat.The clamping elements (16, 30) may also have spherical elements (17, 31) which are movably mounted in ball pans (18, 33).
+</ABSTRACT>
+</TEXT>
+</DOC>

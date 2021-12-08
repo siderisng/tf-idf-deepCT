@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0012685
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-11/02 B01J-31/14 C08F-4/00 B01J-31/12 C07C-2/00 C07C-2/30 <main>B01J-31/14</main> C07C-11/00 C07C-1/00 C08F-4/60 B01J-31/04 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+catalytic composition and its application to the oligomerisation of olefins.
+</TITLE>
+<APPLICANT>
+inst francais du petrolefr<sep>institut francais du petrole<sep>institut francais du petrole4, avenue de bois préauf-92502 rueil-malmaisonfr<sep>institut francais du petrole<sep>
+</APPLICANT>
+<INVENTOR>
+chauvin yves<sep>commereuc dominique <sep>gaillard jean <sep>leger gerard<sep>phung nhu hung<sep>chauvin, yves<sep>commereuc, dominique<sep>gaillard, jean<sep>leger, gerard<sep>phung, nhu hung<sep>chauvin, yves64, avenue du général leclercf-78230 le pecqfr<sep>commereuc, dominique4, allée des vignesf-92190 meudonfr<sep>gaillard, jeanrue du commandant charcotf-69000 lyonfr<sep>leger, gérardles grandes treives 82, avenue mérieuxf-69290 saint genis les ollieresfr<sep>phung, nhu hung1 rue marie lauref-92160 antonyfr<sep>chauvin, yves <sep>commereuc, dominique<sep>gaillard, jean  <sep>leger, gerard<sep>phung, nhu hung<sep>chauvin, yves64, avenue du général leclercf-78230 le pecqfr<sep>commereuc, dominique4, allée des vignesf-92190 meudonfr<sep>gaillard, jeanrue du commandant charcotf-69000 lyonfr<sep>leger, gérardles grandes treives 82, avenue mérieuxf-69290 saint genis les ollieresfr<sep>phung, nhu hung1 rue marie lauref-92160 antonyfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Catalytic composition obtained by contacting a bivalent nickel compound with a halide of HY drocarbylaluminium and an organic acid of Brönsted having a pKa less than 3, usable in olefin oligomerization.Preferred compounds for the preparation of the catalyst R (COO) ₂NI, ALRCL₂ and CX₃COOH (X = F, CL, BR).
+</ABSTRACT>
+</TEXT>
+</DOC>

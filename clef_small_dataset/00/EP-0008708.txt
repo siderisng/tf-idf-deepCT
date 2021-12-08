@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008708
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+H02M-3/28 G05F-1/10 <main>H02P-13/22</main> G05F-1/62 H02J-1/10 H02M-3/24 H02M-3/335 G05F-1/64 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+circuitry with dc converters connected in parallel.
+</TITLE>
+<APPLICANT>
+siemens agde<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+muller adolf<sep>stolz gerhard<sep>muller, adolf<sep>stolz, gerhard<sep>müller, adolfkarwendelstrasse 1d-8021 neuriedde<sep>stolz, gerhardsudetenstrasse 13d-8034 germeringde<sep>muller, adolf  <sep>stolz, gerhard<sep>müller, adolfkarwendelstrasse 1d-8021 neuriedde<sep>stolz, gerhardsudetenstrasse 13d-8034 germeringde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an arrangement having at least two d. c.  converters (1, 1') whose outputs are connected in parallel and which each contain a respective a. c.  intermediate circuit, a transformer primary winding, at the input end, a first a. c.  intermediate circuit incorporating a secondary winding of the transformer, two voltage regulators (14, 15) assigned a common adjusting element, and a control device (18), operated by the regulator output signal in accordance with the control deviation, for the a. c.  intermediate circuit at the input end, wherein a first of the two regulators (14) is connected to the output of the first a. c.  intermediate circuit (11), characterized in that the outputs of the d. c.  converters are directly connected in parallel, and in each d. c.  converter (1, 1'), there is arranged a second a. c.  intermediate circuit (13) which incorporates a secondary winding of the transformer (9) that is decoupled from the output (3) of the arrangement, which circuit is copied from the first a. c.  intermediate circuit (11), the second regulator (15) being connected to the loaded output of the second a. c.  intermediate circuit (13), and respective decoupling diodes (16, 17) being arranged between the outputs of the two regulators (14, 15) and the input of the control device (18). 
+</ABSTRACT>
+</TEXT>
+</DOC>

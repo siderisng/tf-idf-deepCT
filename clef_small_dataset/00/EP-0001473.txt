@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001473
+</DOCNO>
+<TEXT>
+<DATE>
+19790418
+</DATE>
+<IPC-CLASSIFICATIONS>
+A01N-43/34 C07D-213/80 C07D-413/12 A01N-43/40 C07D-213/26 <main>C07D-213/64</main> C07D-213/61 C07D-213/64 C07D-213/73 C07D-213/643 C07D-213/00 A01N-43/72 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+herbicidal halogenomethyl--pyridyloxy-phenoxy-alkanecarboxylic acids and derivatives, and processes of controlling unwanted plants therewith.
+</TITLE>
+<APPLICANT>
+ici plcgb<sep>imperial chemical industries plc<sep>imperial chemical industries plcimperial chemical house, millbanklondon sw1p 3jfgb<sep>imperial chemical industries plc<sep>
+</APPLICANT>
+<INVENTOR>
+cartwright david<sep>cartwright, david<sep>cartwright, david1 stonehaven drive woodleygb-reading berkshiregb<sep>cartwright, david<sep>cartwright, david1 stonehaven drive woodleygb-reading berkshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+herbicidal pyridine compounds of the formula    wherein z and y each represent a fluorine, chlorine, bromine,  iodidine, or hydrogen atom, or a trifluoromethyl, difluoromethyl,  or chlorodifluoromethyl radical, provided  that at least one of z and y is a halogenomethyl radical;  r¹ represents hydrogen or an alkyl radical of 1 to 4 carbon  atoms; and r² is a cyano group; a carboxyl group; one of  a specified range of carboxamide or alkoxycarbonyl groups;  a cyclohexyloxycarbonyl radical optionally substituted by  one or more halogen atoms or methyl radicals; an alkenyloxycarbonyl  radical in which the alkenyl group contains  from 3 to 6 carbon atoms; a phenoxycarbonyl radical optionally  bearing one or more halogen or methyl substituents;  or a benzyloxycarbonyl radical, the phenyl group of which  optionally bears one or more halogen or methyl substituents;  and, in the case of compounds wherein r² is a  carboxyl group, salts thereof.  the compounds are useful  as selective herbicides for grass weeds in broad-leaved  crops, intermediates of formula    with y = hydrogen or chlorine.  
+</ABSTRACT>
+</TEXT>
+</DOC>

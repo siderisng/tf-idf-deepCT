@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016592
+</DOCNO>
+<TEXT>
+<DATE>
+19801001
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-47/52 C07C-47/575 C07C-45/28 <main>C07C-47/575</main> C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for preparing anisaldehyde.
+</TITLE>
+<APPLICANT>
+daiwa chemjp<sep>daiwa chemical co.ltd.<sep>daiwa chemical co.ltd.20319, takadono 2-chomeasahi-ku osaka-shi osakajp<sep>daiwa chemical co.ltd.<sep>daiwa chemical co.ltd.  <sep>
+</APPLICANT>
+<INVENTOR>
+nakaoji kozo<sep>nakaoji, kozo<sep>nakaoji, kozo2/23, takakuracho 1-chomemiyakojima-ku osaka-shi osakajp<sep>nakaoji, kozo<sep>nakaoji, kozo<sep>nakaoji, kozo2/23, takakuracho 1-chomemiyakojima-ku osaka-shi osakajp<sep>
+</INVENTOR>
+<ABSTRACT>
+p-methoxytoluene is oxidized with a dichromate ion  forming substance and sulfuric acid to give anisaldehyde in  good yields.  the oxidation proceeds with improved efficiency  in the presence of a manganese compound.  in this process, the aqueous waste solution resulting from  the oxidation step may electrolytically be oxidized to obtain a  regenerated solution containing a dichromate ion forming  substance and sulfuric acid, and the regenerated solution is  repeatedly used as it is as an oxidizing agent.  
+</ABSTRACT>
+</TEXT>
+</DOC>

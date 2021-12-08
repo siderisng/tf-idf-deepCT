@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006129
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+B60Q-3/00 B60Q-3/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+timing circuit for the interior lighting of a motor vehicle.
+</TITLE>
+<APPLICANT>
+voll walter<sep>voll, walter, ing. grad.<sep>voll, walter, ing. grad.nikolaus-fey-strasse 2d-8728 hassfurtde<sep>
+</APPLICANT>
+<INVENTOR>
+voll walter ing grad<sep>voll, walter, ing. grad.<sep>voll, walter, ing. grad.nikolaus-fey-strasse 2d-8728 hassfurtde<sep>
+</INVENTOR>
+<ABSTRACT>
+The delay circuit of an interior lighting of a motor vehicle must be switched on via a door contact. The delay time can be determined by an RC element. Such a circuit should not affect the usual function of the interior lighting and simply be connected to the electrical system of the motor vehicle. For this purpose, the RC element and a switching amplifier is placed in parallel to a door contact. The residual voltage dropping on the switching amplifier during opening of the door contact loading the capacitor of the RC gate. This residual voltage is on the one hand larger than the threshold voltage of a threshold switch and, on the other hand, so small that the differential voltage between the battery voltage and the residual voltage for operating the light source is sufficient: by a single additional circuit terminal, the delay time can be substantially shortened when outdoor lighting is switched on. In addition, a warning signal can be dispensed by another single circuit terminal when the outer illumination is switched on.
+</ABSTRACT>
+</TEXT>
+</DOC>

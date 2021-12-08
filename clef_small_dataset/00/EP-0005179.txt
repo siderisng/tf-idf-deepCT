@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005179
+</DOCNO>
+<TEXT>
+<DATE>
+19791114
+</DATE>
+<IPC-CLASSIFICATIONS>
+G07F-7/10 H04L-9/32 G06F-13/00 G06Q-40/00 H04L-9/00 G06F-21/00 G06F-21/20 <main>G07C-11/00</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+authenticating the identity of a user of an information system.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+matyas stephen michael<sep>meyer carl heinz wilhelm<sep>matyas, stephen michael<sep>meyer, carl heinz wilhelm<sep>matyas, stephen michaelrd5 box 19fkingston new york 12401us<sep>meyer, carl heinz wilhelmrt.28 rd2 box 223-11kingston new york 12401us<sep>matyas, stephen michael<sep>meyer, carl heinz wilhelm<sep>matyas, stephen michaelrd5 box 19fkingston new york 12401us<sep>meyer, carl heinz wilhelmrt.28 rd2 box 223-11kingston new york 12401us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a method for authenticating  the identity of a user of an information system.  a data communication system operating in accordance  with an embodiment of the invention includes one  or more terminals operatively coupled to a host data processing  system each having cryptographic apparatus for  cryptographic data communications.  in order to authenticate  the identity of terminal users of the system, a host  system initialization process is first performed to provide a  table of test patterns for use during subsequent authentication  processing.  this is accomplished by providing  terminal user identification numbers and passwords and  a predetermined number at the host data processing  system.  a first initialization operation is performed at the  host data processing system in accordance with the  terminal user identification numbers and passwords to  obtain terminal user authentication patterns.  a second  initialization operation is performed at the host data processing  system in accordance with the predetermined  number and the terminal user identification numbers to  obtain terminal user first verification patterns.  a third initialization  operation is performed at the host data processing  system in accordance with the terminal user  authentication patterns and the terminal user first verification  patterns to obtain the table of terminal user test 
+</ABSTRACT>
+</TEXT>
+</DOC>

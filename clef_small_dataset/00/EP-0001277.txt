@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001277
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-303/22 C07C-315/04 C07C-313/00 B01J-21/00 C07C-315/00 C07C-309/00 C07C-317/14 B01J-31/00 C07C-317/22 C07C-139/02 <main>C07C-143/70</main> C07C-303/08 C07C-303/00 C07C-309/86 C07C-317/00 C07C-303/02 C07C-67/00 C07C-301/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of production of sulfonylchlorides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag  <sep>
+</APPLICANT>
+<INVENTOR>
+blank heinz ulrich dr<sep>pfister theodor dr<sep>schenk wolfgang dr<sep>blank, heinz ulrich, dr.<sep>pfister, theodor, dr.<sep>schenk, wolfgang, dr.<sep>blank, heinz ulrich, dr.am geusfelde 35d-5068 odenthalde<sep>pfister, theodor, dr.siller-strasse 51d-5600 wuppertal-1de<sep>schenk, wolfgang, dr.odenthaler strasse 62/64d-5090 leverkusen 1de<sep>blank, heinz ulrich, dr.<sep>pfister, theodor, dr.<sep>schenk, wolfgang, dr.<sep>blank, heinz ulrich, dr.am geusfelde 35d-5068 odenthalde<sep>pfister, theodor, dr.siller-strasse 51d-5600 wuppertal-1de<sep>schenk, wolfgang, dr.odenthaler strasse 62/64d-5090 leverkusen 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a method for producing sulfonic acid chlorides by reacting aromatic compounds with chlorosulfonic acid and phosgene, in which one first brings about stoichiometric amounts of the aromatic compound with chlorosulfonic acid, optionally in the reaction of a sulfonation aid and then converted into the presence of a catalyst with phosgene.
+</ABSTRACT>
+</TEXT>
+</DOC>

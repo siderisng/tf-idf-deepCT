@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007058
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-33/50 G01N-33/52 <main>G01N-33/92</main> C12Q-1/32 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and reagent for the determination of glycerol.
+</TITLE>
+<APPLICANT>
+boehringer mannheim gmbhde<sep>boehringer mannheim gmbh<sep>boehringer mannheim gmbh68298 mannheimde<sep>boehringer mannheim gmbh<sep>
+</APPLICANT>
+<INVENTOR>
+looser siegfried dr<sep>mollering hans<sep>looser, siegfried, dr.<sep>mollering, hans<sep>looser, siegfried, dr.giesinger strasse 3d-8120 weilheimde<sep>möllering, hansherrestrasse 10d-8132 tutzingde<sep>looser, siegfried, dr.<sep>mollering, hans <sep>looser, siegfried, dr. giesinger strasse 3 d-8120 weilheimde<sep>möllering, hansherrestrasse 10d-8132 tutzingde<sep>
+</INVENTOR>
+<ABSTRACT>
+In a method for determining glycerol with glycerine dehydrogenase, electron transmitters, NAD and tetrazolium salt, at least 1 μg zinc is added in the form of a zncl₂ each 50 U glycerine dehydrogenase.The reagent suitable for this method contains glycerol dehydrogenase, electron transfer carrier, NAD, tetrazolium salt, buffer and at least 1 μg zinc in the form of a zinc salt per 50 U glycerine dehydrogenase.
+</ABSTRACT>
+</TEXT>
+</DOC>

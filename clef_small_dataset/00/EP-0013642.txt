@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013642
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01H-77/10</main> H01H-71/12 H01H-77/00 H01H-77/10 H01H-71/24 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+low voltage current limiting circuit breaker.
+</TITLE>
+<APPLICANT>
+merlin gerinfr <sep>merlin gerin <sep>merlin gerin rue henri tarzef-38050 grenoble cédexfr<sep>merlin gerin<sep>
+</APPLICANT>
+<INVENTOR>
+pelenc yves<sep>schueller pierre<sep>terracol claude<sep>pelenc, yves<sep>schueller, pierre<sep>terracol, claude<sep>pelenc, yves8, rue h. fracyf-38700 la tronchefr<sep>schueller, pierre21, rue lavoisierf-38100 grenoblefr<sep>terracol, claudedomaine des angonnesf-38320 eybensfr<sep>pelenc, yves <sep>schueller, pierre<sep>terracol, claude  <sep>pelenc, yves8, rue h. fracyf-38700 la tronchefr<sep>schueller, pierre21, rue lavoisierf-38100 grenoblefr<sep>terracol, claudedomaine des angonnesf-38320 eybensfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  low voltage current limiting circuit breaker comprising by pole a fixed contact (50, 52) cooperating in the switch-on position of the circuit breaker with a movable contact (48) coupled to a mechanism (17) of manual and/or automatic switching operation of switching off and on the circuit breaker, and an electromagnetic release (20) cooperating with said mechanism (17) to trip the circuit breaker and to switch off the contacts (48, 50, 52) when the fault current detected by electromagnetic release (20) exceeds a first threshold, said release comprising a magnetising coil (30) with an axial magnetic core (28) flowed through by said fault current and a magnetic circuit (22) having a movable plate (32) separated by a first air-gap (e1 , e2 ) from two fixed  yokes shaped as parallel cheeks (24, 26) surrounding the coil (30) with a core perpendicular to the cheeks and cooperating with the movable plate (32) to displace this last one in the tripping position when said first threshold is exceeded, said cheeks (24, 26) defining a second air-gap (e3 ) inside which a part (56) of the movable contact (48) extends in the switch-on position of the contacts (48, 50, 52), characterized in that the ends of the cheeks (24, 26) are folded up ar right angles, thus defining the second air-gap (e3 ) of narrow width, through which extends in the switch-on position of the contacts (48, 50, 52) a conducting spline (56) being part of the contact (48), movable along a direction perpendicular to the spline (56) length and parallel to the cheeks (24), (26), so that the magnetic flux, generated in said air-gap (e3 ) by the fault current flowing through the coil (30), induces an electrodynamic effect of fast displacement of the movable contact (48) in the switch-off position when this current exceeds a second threshold above said first threshold. 
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0007695
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+F42B-12/00 F42B-12/76 C22C-18/04 C22C-18/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+frangible projectile body.
+</TITLE>
+<APPLICANT>
+ford aerospace & communicationus <sep>ford aerospace & communications corporation<sep>ford aerospace &amp; communications corporation 300 renaissance center p.o. box 43339 detroit, michigan 48243 us<sep>
+</APPLICANT>
+<INVENTOR>
+harlow richard aus<sep>koppenaal theodore jus<sep>sernka richard pus<sep>harlow, richard a.<sep>koppenaal, theodore j.<sep>sernka, richard p.<sep>harlow, richard a.125 g streetbalboa, california 92661us<sep>koppenaal, theodore j.30 vista encantasan clemente, california 92672us<sep>sernka, richard p.19181 croyden terraceirvine, california 92715us<sep>
+</INVENTOR>
+<ABSTRACT>
+a frangible projectile body (which fragments upon  impact with a target) is a die-casting formed of a brittle zinc­ based alloy, preferably having a dynamic yield strength of  more than 35 ksi.  neither a polymeric binder nor an encap­ sulating polymer is needed for the projectile, which may be  used, for example, as a target practice round.  
+</ABSTRACT>
+<DESCRIPTION>
+"ammunition projectiles" the present invention is concerned with ammunition projectiles having frangible bodies (that is, bodies which fragment upon impact with a target). it is known that ricochet of ammunition projectiles, such as target practice rounds, can give rise to undesirable hazards, particularly when the projectile is fired from an aircraft at a low angle relative to the target. this phenomenon of ricochet is illustrated, by way of example, in figure 1 of the accompanying drawings, in which the dimensions shown are illustrative of those encountered using 20 mm. ammunition. projectiles having frangible bodies (instead of bodies of conventional materials such as steel) have been proposed, for example, in u.s. patents 2,gig5,090, 3,570,406, 3pox,683 and 3,951,035. such projectiles generally have a body which is encapsulated in a polysleric material and/or formed from metal particles bonded with.a polymeric binder. such bodies require special processing. we have now developed a frangible ammunition projectile which requircs neither a polymeric binder nor an encapsulating polymer. according to the invention, there is provided a frangible ammunition projectile, at least the body of which is a die-casting formed or a brittle zinc-based alloy. the projectiles according to the invention may be, for example, target practice rounds or rounds for short-range use. the zinc-based alloy which constitutes the body of the projectile according to the invention should be one which consists of a zinc matrix and one or more embrittling alloying elements (that is, elements which provide easy paths of fracture,for example, along grain boundaries of intermetallic compounds formed by the zinc matrix and the alloying element(s) ). the alloy preferably contains at least 80% by weight, more preferably, at least 85% by weightof zinc. such a zinc-based alloy preferably contains aluminium in an amount of up to 12% by weight (more preferably 8 to 12% by weight) and, optionally, a minor amount of other metals such as copper or copper and magnesium, the latter being preferably present in an amount of up to 0.1% by weight. other zinc-based alloys which may be employed include alloys containing manganese,cadmium, antimony, tin, magnesium, copper, nickel, cobalt, or iron. the exact choice of ingredients for the brittle alloy depends on a number of criteria, such as the size and design of the projectile body, the nature of the expected impact with the target and the launch stresses to be encountered. in particular, the alloy preferably has a dynamic yield strength of more than 35 ksi; this enables the body to survive typical launch stresses consistently, so that ballistically consistent results can be obtained. examples of suitable zinc-based alloys for use according to the invention are given in the following table, together with their dymamic yield strcngths and, in some cases, their ability to survive a typical launch stress. table properties of zinc-based alloy die castings in as-cast condition structural integ- alloy composition dynamic yield rity at 3350 feet (%by weight) strength ksi per second(at 720 f) 1 99.9% zn 2 95% zn-4% al-1% cu 37.6 yes 3* 93% zn-6% al-1%cu
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a frangible ammunition projectile, characterised in that at least the body of the projectile is a die-casting formed of a brittle zinc-based alloy.   2. a projectile according to claim 1, in which the alloy contains up to 12% by weight of aluminium.   3. a projectile according to claim 2, in which the alloy contains a minor amount of copper.   4. a projectile according to claim 2 or   3    in which the alloy contains up to 0.1% by weight of magnesium.   5. a projectile according to any of claims 1 to 4, in which the alloy has a dynamic yield strength of more than 35 ksi.  
+</CLAIMS>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008507
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C08L-23/16 C09K-15/30 C07D-263/14 C08K-5/00 C07D-263/00 C08K-5/35 C09K-15/00 C08L-23/12 <main>C07D-263/14</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of 2-oxazolines as antioxidants and compositions thereof.
+</TITLE>
+<APPLICANT>
+uniroyal incus<sep>uniroyal, inc.<sep>uniroyal, inc.1230 avenue of the americas rockefeller centernew york, new york 10020us<sep>uniroyal, inc.<sep>
+</APPLICANT>
+<INVENTOR>
+barrows franklin herbert<sep>gencarelli richard anthony <sep>jancis elmar harry <sep>wheeler edward lockwood<sep>barrows, franklin herbert<sep>gencarelli, richard anthony<sep>jancis, elmar harry<sep>wheeler, edward lockwood<sep>barrows, franklin herbert20 stoddard place beacon fallsnew haven, connecticutus<sep>gencarelli, richard anthony60 maple shade road middletownmiddlesex, connecticutus<sep>jancis, elmar harry89 spruce drive naugatucknew haven, connecticutus<sep>wheeler, edward lockwood126 claxton avenue watertownlitchfield, connecticutus<sep>barrows, franklin herbert<sep>gencarelli, richard anthony  <sep>jancis, elmar harry <sep>wheeler, edward lockwood<sep>barrows, franklin herbert20 stoddard place beacon fallsnew haven, connecticutus<sep>gencarelli, richard anthony60 maple shade road middletownmiddlesex, connecticutus<sep>jancis, elmar harry89 spruce drive naugatucknew haven, connecticutus<sep>wheeler, edward lockwood126 claxton avenue watertownlitchfield, connecticutus<sep>
+</INVENTOR>
+<ABSTRACT>
+compounds of the formula    containing pendant 3,4-di-alkyl-4-hydroxyphenyl groups are  useful an antioxidants for protecting organic materials (for  example, plastics, synthetic and natural rubbers and pet­ roleum products) that are normally subject to oxidative  degradation.  in the above formula b is hydrogen, c₁ to c₄  alkyl, -ch₂oh or   -ch₂o-y; y is hydrogen, c₁ to c₃₀ alkyl, c₄  to c₈ cycloalkyl, c₆ to c₁₀ aryl, c₆ to c₁₀ aryl substituted with  c₁ to c₁₂ alkyl, nitro, amino, hydroxyl or halogen or y is a  wherein a is    wherein r and r¹ may be the same or different and are c₁ to  c₁₂ alkyl or c₈ to c₁₀ aralkyl; d is hydrogen, c₁ to c₄ alkyl,  -ch₂oh or   ch₂o-z; z is hydrogen, c₁ to c₃₀ alkyl, c₄ to c₈  cycloalkyl, c₆ to c₁₀ aryl, c₆ to c₁₀ aryl substituted with c₁ to  c₁₂ alkyl, nitro, amino, hydroxyl or halogen, or z is a, wherein  a is as defined above, or z is a divalent group connecting two  oxazoline moieties, an oxazoline moietv being a group of the  formula    n is an integer equal to 0 or 1; with the proviso that when n  equals 0, x is hydrogen, c₁ to c₃₀ alkyl, c₄ to c₈ cycloalkyl, c₆  to c₁₀ aryl, c₆ to c₁₀ aryl substituted with c₁ to c₁₂ alkyl, nitro,  amino, hydroxyl or halogen, or x is a, wherein a is as defined  above, or x is    wherein q is c₄ to c₈ alkylene, thiodiethylene or phenylene,  with the proviso that q and z cannot be divalent at the same  time and that either x must be the radical a, or if x is not the  radical a, then b must be the radical e, wherein e is    -ch₂o--a, and when n equals 1, w is -ch₂oh or e, wherein e  is as defined above, v is c₁ to c₄ alkyl, -ch₂oh or e, wherein e  is as defined above, or v and w taken together form a = ch₂  group x is c₁ to c₃₀ alkyl, c₄ to c₈ cycloalkyl, c₆ to c₁₀ aryl, c₆  to c₁₀ aryl substituted with c₁ to c₁₂ alkyl, nitro, amino,  hydroxyl or halogen, or x is    wherein r and r¹ are as defined above, q is c₂ to c₆ alkylene,  thiodimethylene or phenylene, with the proviso that q and z  cannot be divalent at the same time and that either x must be  a radical of the formula ii or b or w must be e, wherein e is as  defined above.  compositions containing and methods for preparing the  compounds are also described.  
+</ABSTRACT>
+</TEXT>
+</DOC>

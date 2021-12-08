@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012415
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-27/28 G01N-33/00 G01N-27/416 G01N-27/49 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and apparatus for the continuous measurement of gas traces.
+</TITLE>
+<APPLICANT>
+bayer agde <sep>bayer ag<sep>bayer ag 51368 leverkusen de<sep>
+</APPLICANT>
+<INVENTOR>
+fritze ulrich drde<sep>harzdorf claus drde<sep>herschinger heinzde<sep>fritze, ulrich, dr.<sep>harzdorf, claus, dr.<sep>herschinger, heinz<sep>fritze, ulrich, dr.haferkamp 6d-5000 köln 80de<sep>harzdorf, claus, dr.zum hahnenberg 4d-5068 odenthalde<sep>herschinger, heinzzedernweg 1d-5090 leverkusen 31de<sep>
+</INVENTOR>
+<ABSTRACT>
+the gas to be investigated is continuously atomised together with an absorption liquid so that a high proportion of the gas is absorbed in the liquid.  the liquid phase is then separated off again and passed in continuous flow through an electrochemical measurement cell having a solid electrolyte suitable for voltametry measurements.  the measurement is expediently carried out with the aid of a potentiostatic measurement circuit.  <image>
+</ABSTRACT>
+<DESCRIPTION>
+verfahren und vorrichtung zur kontinuierlichen messung von gas.spuren die erfindung betrifft ein verfahren zur messung von gasspuren, bei dem das zu untersuchende gas zusammen mit einer absorptionsflüssigkeit kontinuierlich zerstäubt, anschliessend die flüssige phase abgetrennt und in kontinuierlicher strömung durch eine elektrochemische messzelle geleitet wird. ferner betrifft die erfindung eine vorrichtung zur durchführung des messverfahrens. dieses messverfahren ist in der deutschen patentanmeldung p 27 29 310.9 ausführlich beschrieben. die in der flüssigkeit gebildeten ionen werden hier mit hilfe einer ionensensitiven elektrode nachgewiesen und gemessen. ein gewisser nachteil der ionensensitiven elektrode besteht darin, dass manche in der flüssigkeit löslichen gaskompo nenten nicht gemessen werden können, da keine geeigneten ionensensitiven elektroden zur verfügung stehen. der erfindung liegt daher die aufgabe zugrunde, den anwendungsbereich des oben beschriebenen messverfahrens zu erweitern. diese aufgabe wird, ausgehend von dem eingangs beschriebenen verfahren, erfindungsgemäss dadurch gelöst, dass statt einer ionensensitiven elektrode eine für voltametrische messung geeignete feststoffelektrode als arbeitselektrode benutzt wird. die voltametrische arbeitselektrode wird dabei zweckmässig in einer potentiostatischen messschaltung betrieben. ein für die durchführung der voltametrischen messung geeignetes elektrodensystem besteht aus der voltametrischen arbeitselektrode einer aus einem chemisch indifferenten metall bestehenden gegenelektrode und einer bezugselektrode, mit deren hilfe eine konstante arbeitsspannung zwischen der arbeitselektrode und der messflüssigkeit aufrechterhalten wird. die voltametrische messung erschliesst neue anwendungen für das eingangs beschriebene messverfahren. so konnte z.b. die sicherheitstechnische aufgabe gelöst werden,raumluft hinsichtlich spuren von chlorcyan kontinuierlich zu überwachen und die überschreitung von grenzwerten zu melden. ein weiterer vorteil besteht darin, dass das messsignal, d.h. der elektrodenstrom, linear von der stoffkonzentration abhängig ist. die lineare abhängigkeit ist von bedeutung, wenn z.b. das messsignal zu regelzwecken benutzt wird. dagegen ist bei ionensensitiven elektroden das messsignal eine galvanispannung, die entsprechend der nernst' schen- gleichung logarythmisch abhängig ist von der ionenkonzentration des gases in der flüssigkeit. im folgenden wird ein ausführungsbeispiel der erfindung anhand einer zeichnung näher beschrieben. die figur zeigt die elektrochemische messzelle für eine voltametrische messung. das versprühen der absorptionsflüssigkeit zusammen mit dem zu untersuchenden gas erfolgt in der gleichen weise wie in p27 23 310.9 beschrieben. das versprühen bewirkt bekanntlich eine intensive durchmischung des gases mit der absorptionsflüssigkeit, so dass ein hoher gasanteil in der flüssigkeit absorbiert wird. hierdurch wird eine optimale messempfindlichkeit gewährleistet. auch die abtrennung des nicht in der flüssigkeit gelösten gases wurde schon in p 27 23 310.9 beschrieben. anstelle der in p 27 23 310.9 beschriebenen ionensensitiven elektrode wird hier jetzt ein dreielektrodensystem zur voltametrischen messung benutzt. wie aus der zeichnung ersichtlich, läuft die absorptionsflüssigkeit kontinuierlich am unteren ende einer trennkammer 1 über einen hydrophilen flüssigkeitsleiter, z.b. einen gekrümmten glasstab 2, ab. das ende des glasstabs 2 befindet sich innerhalb eines dreielektrodensystems 31 32 33} das unterhalb des trennkammerausflusses angeordnet ist. die anordnung ist so dimensioniert, dass sich aufgrund der adhäsionskräfte zwischen dem ende des glasstabes 2 und der voltametrischen arbeitselektrode 3 3 eine die arbeitselektrode völlig bedeckende flüssigkeitssäule 4 mit einer höhe von 1 bis 2 mm ausbildet. die flüssigkeitssäule 4 steht ausserdem mit der bezugselektrode 3i in rontakt. sie ist in gleicher weise ausgebildet
+</DESCRIPTION>
+<CLAIMS>
+patentansprüche   1) verfahren zur messung von gasspuren, bei dem das zu untersuchende gas zusammen mit einer absorptionsflüs sigkeit kontinuierlich zerstäubt wird, anschliessend die flüssige phase abgetrennt wird und in kontinuier licher strömung durch eine elektrochemische messzelle geleitet wird, dadurch gekennzeichnet, dass als arbeits elektrode eine für voltametrische messungen geeignete feststoffelektrode verwendet wird.    2) verfahren nach anspruch 1, dadurch gekennzeichnet, dass die arbeitselektrode in einer potentiostatischen messschaltung betrieben wird.   3) elektrochemische messzelle zur durchführung des ver  -fahrens gemäss anspruch 1 und 2, gekennzeichnet durch ein dreielektrodensystem, bestehend aus der volta metrischen arbeitselektrode   (33) aus    einer chemisch indifferenten   gegenelektrode(32 nd    einer bezugselek    trode()lsit    deren hilfe eine konstante arbeitsspannung zwischen der   arbeitselektrode (3?)und    der messflüssigkeit  (4 )aufrechterhalten wird.  
+</CLAIMS>
+</TEXT>
+</DOC>

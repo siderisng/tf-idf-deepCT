@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011681
+</DOCNO>
+<TEXT>
+<DATE>
+19800611
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01D-5/04 G01D-5/02 G01L-7/02 G01L-7/14 G01L-7/10 <main>G01L-7/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+barometer.
+</TITLE>
+<APPLICANT>
+dostmann gmbh & co kgde<sep>dostmann gmbh & co. kg<sep>dostmann gmbh &amp; co. kgd-6980 wertheimde<sep>dostmann gmbh & co. kg<sep>
+</APPLICANT>
+<INVENTOR>
+dostmann heinz<sep>dostmann, heinz<sep>dostmann, heinzzum ottersberg 12d-6980 wertheim reicholzheimde<sep>dostmann, heinz  <sep>dostmann, heinzzum ottersberg 12d-6980 wertheim reicholzheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+For a barometer with stabilized membrane caps, the deflection of the membrane caps is transmitted by means of a via supporting unit to the drive element of the pointer unit.The transmission unit consists of a lever shaft (40) with a first lever arm (44) coupled to the drive element (32) of the pointer mechanism (26, 28), and with a second lever arm (48) whose free end directly on the membrane capsule (12) and its axis extends obliquely to the plane of the membrane capsule.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015607
+</DOCNO>
+<TEXT>
+<DATE>
+19800917
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>G01J-3/18</main> G01J-3/18 G01J-3/00 G01J-3/42 G01J-3/02 G01J-3/06 G01J-3/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+monochromator.
+</TITLE>
+<APPLICANT>
+philips electronic associatedgb<sep>philips nvnl<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited<sep>philips electronics n.v.groenewoudseweg 15621 ba eindhovennl<sep>philips electronics uk limited420-430 london roadcroydon cr9 3qrgb<sep>n.v. philips' gloeilampenfabrieken<sep>philips electronic and associated industries limited <sep>
+</APPLICANT>
+<INVENTOR>
+firth john richard philips ele<sep>perkins charles vincent philip<sep>firth, john richard philips electronic and<sep>perkins, charles vincent philips electronic and<sep>firth, john richard philips electronic andassociated industries ltd patent dept mullard h.torrington place london wc1e 7hdgb<sep>perkins, charles vincent philips electronic andassociated industries ltd patent dept mullard h.torrington place london wc1e 7hdgb<sep>firth, john richard philips electronic and<sep>perkins, charles vincent philips electronic and  <sep>firth, john richard philips electronic andassociated industries ltd patent dept mullard h.torrington place london wc1e 7hdgb<sep>perkins, charles vincent philips electronic andassociated industries ltd patent dept mullard h.torrington place london wc1e 7hdgb<sep>
+</INVENTOR>
+<ABSTRACT>
+an ebert monochromator e. g.  for a spectrophotometer,  in which the diffraction grating (18) is positioned of the  central optical axis (17) of the collimator mirror (13) by  interpositioning a plane mirror (15) between collimator  mirror (13) and grating (18).  the plane mirror may be  movable to select one of several diffraction gratings.  by  arranging the diffraction grating about an axis (19) parallel  with the central optical axis (17) a simple mechanical  wavelength drive system with a common cam-shaft (30)  driving the grating (18), a filter holder (36) and a rotatable  slit plate, can be provided.  further gratings may be driven  from the cam-shaft (30) as may the movable plane mirror  which selects them.  
+</ABSTRACT>
+</TEXT>
+</DOC>

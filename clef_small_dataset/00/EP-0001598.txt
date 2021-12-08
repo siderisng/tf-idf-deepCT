@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001598
+</DOCNO>
+<TEXT>
+<DATE>
+19790502
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01M-4/48</main> H01M-4/48 H01M-6/16 H01M-4/58 H01M-4/56 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrochemical generator with aprotic solvent comprising as cathodic material a derivative of bivalent lead oxide.
+</TITLE>
+<APPLICANT>
+accumulateurs fixesfr<sep>s.a. dite: saft - societe des accumulateurs fixes et de traction<sep>saftdépartement générateurs de technologies avancées, 156, avenue de metzf-93230 romainvillefr<sep>societe anonyme dite saft<sep>
+</APPLICANT>
+<INVENTOR>
+broussely michel<sep>gabano jean-paul<sep>broussely, michel<sep>gabano, jean-paul<sep>broussely, michel36, rue de la bugellerief-86000 poitiersfr<sep>gabano, jean-paul99, rue condorcetf-86000 poitiersfr<sep>broussely, michel<sep>gabano, jean-paul  <sep>broussely, michel 36, rue de la bugellerief-86000 poitiersfr<sep>gabano, jean-paul99, rue condorcetf-86000 poitiersfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Electrochemical generator whose negative active material (5) is lithium, the electrolyte (4) a solution whose solvent is an aprotic liquid and the active posi tide (2) a combination of divalent lead oxide PBO with theBISMUTH BI₂O₃ OXIDE.
+</ABSTRACT>
+</TEXT>
+</DOC>

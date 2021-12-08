@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010416
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16K-31/44 F16D-41/08 F16K-31/05 F16D-41/00 F16K-31/53 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a motor-driven valve actuator having a manual override, comprising a one-way power flux drive coupling and such a drive coupling per se.
+</TITLE>
+<APPLICANT>
+anchor darling indus<sep>anchor/darling industries, inc.<sep>anchor/darling industries, inc.one belmont avenuebala cynwyd pennsylvania 19004us<sep>
+</APPLICANT>
+<INVENTOR>
+sulzer harry edwardus<sep>sulzer, harry edward<sep>sulzer, harry edward51 harvey lanetelford pennsylvania 18964us<sep>
+</INVENTOR>
+<ABSTRACT>
+a valveactuator which is operable alternatively by a  motor (31) and manually.  the motor (31) is coupled into the  drive-train for the actuator through a one-way coupling (35)  and a planetary gear-device (33) to enable rapid actuation of  an output-device (23).  a hand-wheel (27) is coupled to the  ring-gear drive (45) of the planetary assembly through a worm  (32) and pinion.  a position-limiting means (37) is coupled to  the output-device (23) to arrest rotation of the motor (31) at the  opposite limit-positions of the valve-element.  a torque-­ limiting sensor (67) is coupled with the ring-gear drive (45) to  sense the torque transmitted or fed back through the planet­ ary assembla to arrest the drive-motor when the motor  exceeds the said torque.  
+</ABSTRACT>
+</TEXT>
+</DOC>

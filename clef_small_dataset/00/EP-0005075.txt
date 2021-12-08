@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0005075
+</DOCNO>
+<TEXT>
+<DATE>
+19791031
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16G-11/04 F16G-11/00 E04C-5/16 D07B-7/00 E04G-21/12 E04C-5/12 <main>E04G-21/12</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+connecting device for wires.
+</TITLE>
+<APPLICANT>
+buildinter agli<sep>buildinter ag<sep>stronghold international agaeulestrasse 7720490 vaduzli<sep>stronghold international ag<sep>
+</APPLICANT>
+<INVENTOR>
+caro roqueta eduardo<sep>caro roqueta, eduardo<sep>caro roqueta, eduardoc/ mallorca, 519-3 -2abarcelonaes<sep>caro roqueta, eduardo<sep>caro roqueta, eduardoc/ mallorca, 519-3 -2abarcelonaes<sep>
+</INVENTOR>
+<ABSTRACT>
+a device for connecting two wires in series consists of a  block (3) having two bores (8) extending end-to-end of the  block.  at first ends (12) of the bores (located respectively at  opposite ends of the block) the wires are anchored when  tensioned (e. g.  by means of split conical wedges), so that the  tensioned length of each wire extends through the block to  exit at the second end of the bore.  to improve access to the  wires when tensioning them, the bores have portions (8a and  12) extending from said first ends which have straight axes  (20,22), these axes not being parallel to each other but lying  in parallel planes.  adjacent the second ends, the walls of the  bores have curved portions to permit the wires to lie on a  common axis where they exit from the bores.  
+</ABSTRACT>
+<DESCRIPTION>
+"connecting device for wires'1 the present invention relates to a device for connecting in series two wires which are to be placed under tension, said device comprising a block having two opposite ends, two bores each extending from one end to the other end of the block to receive the respective wires and two anchoring means respectively associated with the bores for anchoring the two tensioned lengths of the wires respectively at the opposite ends of the block with the tensioned length extending through the respective bores, each bore over at least a substantial portion of its length having a straight longitudinal axis. such devices are particularly applicable in the field of concrete reinforced by prestressed or post-stressed wires. in this specification, including the claims, we mean by the word "wire" to include strand, cable and other multi-ply wires used e.g. in concrete reinforcement, as well as single-filament wires. the invention is applicable to all such different forms of tendon. u.e. patent specification 1s467,30 describes the construction and operation of a device for connecting two wires, particularly in reinforced concrete work. the device is a block having parallel bores for the respective wires, and anchoring means (specifically longitudinally split conical wedges) for anchoring the wire at one end of each bore with the tested length extending through the bore. since the device of the present invention is used in generally the same way as this known device, reference should be made to specification 1,467,309 for a full description of that device and its use. in practice this known device suffers certain disadvantages. firstly, when the jack is applied to one end of the device in order to pull one wire through the device (thereby tensioning both wires), the other wire is often an obstruction since it exits from the device at the same end. secondly if the device is joining two wires at a point which is located in a flat array of parallel wires, the wires adjacent the wires being joined may obstruct the operation of the sack, and it may not be possible to operate the jack from both above and below the array of wires (as is necessary if it is desired to apply the jack to both the wires being connected by the device). a further disadvantage of the known device is that the tensioned wires are given a sharp bend where they exit from the bores; this creates friction when the wires are being tensioned, leading to a need for excessive force and inexact tensioninl=. the object of the present invention bµwt6ju/ provide a connecting device for wires which overcomes the disadvantages of the known device and is therefore easier to use than this known device; in particular the object is to reduce or avoid obstruction of a jack by the wires being connected or by adjacent wires. the-invention as claimed is intended to achieve this result. the new arrangement of the bores in the device has the effect that the two bores are tilted
+</DESCRIPTION>
+<CLAIMS>
+claims:   1. a device for connecting in series two wires (4,6) which are to be placed under tension, said devicecomprising a block (3) having two opposite ends (3a,3b) two bores (8,10) each extending from one end to the other end of the block to receive the respective wires and two anchoring means (16,18) respectively associated with the bores (8,10) for anchoring the two tensioned lengths of the wires respectively at the opposite ends of the block with the tensioned lengths extending through the respective bores, each bore over at least a substantial portion (8a and 12, 10a and 14) of its length having a straight longitudinal axis (20,22) characterized in that the respective axes (20,22) of the two bores (8,10) are not parallel to each other but lie in parallel planes.   2. a device according to claim   1    wherein each said bore (8,10) has a first end (12,14) at which in use the tensioned wire is anchored and a second end (28,30) at which the tensioned length of the wire exits from the bore, the said portion (8a and 12,   1oa    and 14) having a straight axis being at said first end (12,14) and the bore being so shaped as to permit the wire within the bore to curve away from said straight axis (20,22) towards the said second end (28,30) and out of the respective one of the said parallel planes to an extent such that at the  respective second ends (28,30) of the two bores the two wires can lie substantially coaxially to each other.        a a device according to claim 1 or claim 2      wthel-ein    at the end (12,14) of each bore (8,10) at which the   wlre    is anchored, the bore has a frustoconical portion (12,14) whose conical axis coincides with said straight axis (20,22), the anchoring means being a longitudinally split frustoconical wedge   (16,18).     
+</CLAIMS>
+</TEXT>
+</DOC>

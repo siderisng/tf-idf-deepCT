@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013312
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01G-1/11</main> H01G-2/14 H01G-2/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical capacitor with cut-out device.
+</TITLE>
+<APPLICANT>
+bosch gmbh robertde <sep>robert bosch gmbh <sep>robert bosch gmbh postfach 30 02 2070442 stuttgartde<sep>robert bosch gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+kysely zdenek dipl-ing<sep>volker winfried dr<sep>kysely, zdenek, dipl.-ing.<sep>volker, winfried, dr.<sep>kysely, zdenek, dipl.-ing.in der neckarhalde 1/1d-7148 remseck 1de<sep>völker, winfried, dr.füllerstrasse 23d-7016 gerlingende<sep>kysely, zdenek, dipl.-ing.<sep>volker, winfried, dr.  <sep>kysely, zdenek, dipl.-ing.in der neckarhalde 1/1d-7148 remseck 1de<sep>völker, winfried, dr.füllerstrasse 23d-7016 gerlingende<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  an electrical capacitor comprising a capacitor winding or stack, contact bridges, a dielectric which forms expanding gas on the occurrence of an inadmissibly high heating of the capacitor, and a cut-out device which has an electrical conductor which is broken in the case of an excess pressure in the capacitor resulting from a formation of gas and a member applied to the expansible surface of the capacitor, characterised in that, the member (9, 9a) is made resistant to bending and that the electrical conductor (10) is fixed to a contact bridge (4), proceeding from the said fixing is guided around the adjacent end (12; 12a) of the member (9; 9a) and is connected in the region of the said end (12, 12a) to the said member (9; 9a) and to a terminal wire associated therewith. 
+</ABSTRACT>
+</TEXT>
+</DOC>

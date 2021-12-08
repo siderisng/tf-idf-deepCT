@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003061
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-251/00 C07D-251/10 A01N-43/64 <main>C07D-251/10</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+(1,2,3,4,5,6h)-triazine-2,4-diones, method for their preparation and their use as insecticides.
+</TITLE>
+<APPLICANT>
+bayer agde<sep>bayer aktiengesellschaft<sep>bayer ag51368 leverkusende<sep>bayer ag<sep>
+</APPLICANT>
+<INVENTOR>
+mohring edgar dr<sep>roessler peter dr<sep>stadler peter dr<sep>mohring, edgar, dr.<sep>roessler, peter, dr.<sep>stadler, peter, dr.<sep>möhring, edgar, dr.hufer weg 49ad-5060 bergisch-gladbach 2de<sep>roessler, peter, dr.elster strasse 15d-5060 bergisch-gladbach 1de<sep>stadler, peter, dr.ohligser strasse 85d-5657 haande<sep>mohring, edgar, dr.<sep>roessler, peter, dr. <sep>stadler, peter, dr.  <sep>möhring, edgar, dr.hufer weg 49ad-5060 bergisch-gladbach 2de<sep>roessler, peter, dr.elster strasse 15d-5060 bergisch-gladbach 1de<sep>stadler, peter, dr.ohligser strasse 85d-5657 haande<sep>
+</INVENTOR>
+<ABSTRACT>
+The present invention relates to novel (1, 2, 3, 4, 5, 5H) triazine-2,4-dione of the formula in which R and R¹ have the meaning given in the description.These compounds are obtained by catalytically hydrogenating triazine-2,4-dione of the formula (II).The hydrogenated triazine-2,4-dione show excellent the development of insects inhibitory effects.
+</ABSTRACT>
+</TEXT>
+</DOC>

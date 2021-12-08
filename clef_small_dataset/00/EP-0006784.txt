@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006784
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61K-31/19 A61K-31/24 C07C-313/00 C07C-323/00 C07C-69/78 <main>C07C-149/43</main> A61K-31/185 A61K-31/13 A61K-31/235 C07C-69/76 C07C-20060101S A61K-20060101S A61P-11/00 C07C-323/58 A61K-31/195 C07C-69/00 A61K-31/21 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+derivatives of l-cysteine, their use as medicaments and process for their preparation.
+</TITLE>
+<APPLICANT>
+parcorfr<sep>parcor<sep>sanofi s.a.40, avenue george vf-75008 parisfr<sep>sanofi, societe anonyme<sep>
+</APPLICANT>
+<INVENTOR>
+maffrand jean-pierre<sep>maffrand, jean-pierre<sep>maffrand, jean-pierre5, rue du corps franc pommièsf-31130 portet-sur-garonnefr<sep>maffrand, jean-pierre<sep>maffrand, jean-pierre5, rue du corps franc pommièsf-31130 portet-sur-garonnefr<sep>
+</INVENTOR>
+<ABSTRACT>
+Derivatives of the cysteine of formula: wherein R is lower alkoxycaronyl or carboxy and their salts.These are mucolytics.They are prepared by reaction of L-cysteine with a compound of formula (II), wherein R is a cyano or alkoxycarboxyle group and X is a halogen, and ie, hydrolysis of alkoxycarbonyl or cyanic derivatives.The compounds of formula (II) wherein R is al coxycarbonyl are claimed.
+</ABSTRACT>
+</TEXT>
+</DOC>

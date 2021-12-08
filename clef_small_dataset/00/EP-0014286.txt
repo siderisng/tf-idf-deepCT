@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014286
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16H-61/46 <main>F16H-39/46</main> F16H-61/42 F16H-61/40 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+variable delivery pump control system.
+</TITLE>
+<APPLICANT>
+gen signal corpus<sep>general signal corporation<sep>general signal corporationpo box 10010 high ridge parkstamford connecticut 06904us<sep>general signal corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+young john ernest gilbert<sep>young, john ernest gilbert<sep>young, john ernest gilbert1502 amherst streetwatertown, new york 13601us<sep>young, john ernest gilbert<sep>young, john ernest gilbert1502 amherst streetwatertown, new york 13601us<sep>
+</INVENTOR>
+<ABSTRACT>
+a variable delivery pump (10) has a pump control  mechanism (12) in a housing secured thereto for governing  directional flow of fluid through the pump, the pump being  adapted to be connected through a closed loop (11) to a  motor.  a pressure compensating valve (14) is provided in the  housing for governing pressure output of the pump, and a  pump control cylinder (15) is provided for positioning a flow  control cam (16) of the pump in accordance with flow of fluid  through a direction control valve (13) and the pressure com­ pensating valve (14).  a cam plate (17) is coaxially connected to  a directional control rotatable valve spool (20) of the direction  control valve (13), the cam plate having an outer periphery  that is continuously radially variable from a maximum radial  point (17a) to a minimum radial point (17b,c)for either direc­ tion of rotation of the cam from the maximum radial point as  the control spool is rotated in either direction from a normal  position.  the cam plate (17) actuates a cam follower (21),  which in turn actuates a slideable sleeve (22) in the pressure  compensating valve (14).  a valve sleeve in the directional  control valve is fixed against rotation.  there is no feedback  connection to the cam plate of the pump to either the direction  control valve or the pressure compensating valve.  
+</ABSTRACT>
+</TEXT>
+</DOC>

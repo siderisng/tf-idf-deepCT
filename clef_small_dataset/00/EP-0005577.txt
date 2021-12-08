@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0005577
+</DOCNO>
+<TEXT>
+<DATE>
+19791128
+</DATE>
+<IPC-CLASSIFICATIONS>
+B29C-55/20 B29C-55/00 <main>B29D-7/24</main> B29C-55/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for the simultaneous biaxial stretching of a plastic sheet, in particular a polypropylene sheet.
+</TITLE>
+<APPLICANT>
+unilever nvnl<sep>unilever plcgb <sep>unilever nv <sep>unilever plc <sep>unilever n.v.weena 4553013 al rotterdamnl<sep>unilever plcunilever house blackfriars p.o. box 68london ec4p 4bqgb<sep>unilever nv<sep>unilever plc<sep>
+</APPLICANT>
+<INVENTOR>
+armsen rotger<sep>aufsess friedrich freiherr von<sep>pohl hans<sep>armsen, rotger<sep>aufsess, friedrich freiherr von und zu<sep>pohl, hans<sep>armsen, rötgerkapellenstrasse 10d-7812 bad krozingende<sep>aufsess, friedrich freiherr von und zuoberer schulweg 13d-8550 forchheimde<sep>pohl, hansuntere kellerstrasse 22d-8550 forchheimde<sep>armsen, rotger <sep>aufsess, friedrich freiherr von und zu<sep>pohl, hans  <sep>armsen, rötgerkapellenstrasse 10d-7812 bad krozingende<sep>aufsess, friedrich freiherr von und zuoberer schulweg 13d-8550 forchheimde<sep>pohl, hansuntere kellerstrasse 22d-8550 forchheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+the device comprises tongs (2) which move from one side to another of endless guides.  within the drawing zone, the tongs are actuated by threaded spindles (5).  a first part (7) of the threaded spindles (5) has a pitch which provides no longitudinal drawal or at the most a simultaneous drawing in the transverse direction.  in a second part (8) of the spindles (5), the pitch of the thread increases progressively so that the longitudinal drawing is more important than the transverse drawing.  according to the desired drawing, the first part (7) may take 35 to 75% of the total length of the spindles (5) and the total advance of the pitch may be 1:7 and more, the longitudinal drawing being always preponderant at the end of the drawing zone. 
+</ABSTRACT>
+</TEXT>
+</DOC>

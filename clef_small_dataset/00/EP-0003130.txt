@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003130
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+H03K-17/04 <main>H01L-29/91</main> H01L-31/102 H01L-31/101 H01L-29/861 H01L-31/06 H03D-7/02 H01L-29/66 H01L-29/864 H01L-31/107 H03B-19/00 H01L-31/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+three-layer semiconductor diode and its application.
+</TITLE>
+<APPLICANT>
+mader hermann<sep>mader, hermann, dr.<sep>mader, hermann, dr.carl-duisberg-strasse 42d-8025 unterhachingde<sep>mader, hermann, dr.  <sep>
+</APPLICANT>
+<INVENTOR>
+mader hermann dr<sep>mader, hermann, dr.<sep>mader, hermann, dr.carl-duisberg-strasse 42d-8025 unterhachingde<sep>mader, hermann, dr.<sep>mader, hermann, dr.carl-duisberg-strasse 42d-8025 unterhachingde<sep>
+</INVENTOR>
+<ABSTRACT>
+Semiconductor diode (1, 10) with 3-layer structure (2, 34; 12, 13, 14) whose average layer (3; 13) is chosen so thin that in the given doping of this layer of the genanne te rangeThis layer is already impoverished without applied voltage to free charge carriers.Preferred use such a diode as a detector and as a modulated luminescence diode.
+</ABSTRACT>
+</TEXT>
+</DOC>

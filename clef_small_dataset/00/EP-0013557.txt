@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013557
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+B44F-1/12 B29C-65/18 B29C-53/00 B29B-13/02 B29C-35/04 B29C-65/20 G06K-19/08 B32B-38/04 B32B-38/06 B32B-37/00 B29C-33/02 B29B-13/00 G06K-19/02 B29C-63/00 B29C-35/02 B29C-65/00 B30B-15/06 B29C-35/00 B32B-37/14 B42D-15/02 B42D-15/10 B29C-35/16 <main>B32B-31/20</main> B29C-33/04 B44F-1/00 B32B-37/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method of laminating sheets and a press comprising two plates for the application of this method.
+</TITLE>
+<APPLICANT>
+hoechst agde<sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+moraw roland dr<sep>schadlich renate<sep>moraw, roland dr.<sep>schadlich, renate<sep>moraw, roland dr.buchenweg 46200 wiesbaden-naurodde<sep>schädlich, renateerbsenacker 136200 wiesbaden-naurodde<sep>moraw, roland dr.<sep>schadlich, renate<sep>moraw, roland dr.buchenweg 46200 wiesbaden-naurodde<sep>schädlich, renateerbsenacker 136200 wiesbaden-naurodde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for laminating layers (5, 4, 5, resp.  29, 27', 28, 27'', 30) of partially thermoplastic films to a bond (26) by action of heath and pressure on the layers which are to be laminated, of which a core layer (4, resp.  27', 27'') has at least one window area (3 ; 25', 25''), characterized in that the laminating temperature acting on the layers is lowered in the window area by 10 to 70 degrees c, compared to the other areas of the layers. 
+</ABSTRACT>
+</TEXT>
+</DOC>

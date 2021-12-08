@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014840
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07C-49/00 <main>C07C-49/567</main> C09K-3/34 C07C-45/45 C07C-25/00 C09K-19/30 C07C-49/567 C07C-45/46 C07C-25/18 C07C-17/00 G02F-1/13 C09K-19/54 C07C-67/00 C07C-45/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+fluorphenyl-trans-cyclohexanes, process for their preparation, liquid crystalline dielectrics containing them and electrooptical displaying means.
+</TITLE>
+<APPLICANT>
+merck patent gmbhde<sep>merck patent gesellschaft mit beschrankter haftung<sep>merck patent gmbhpostfach, frankfurter strasse 250d-64271 darmstadtde<sep>merck patent gesellschaft mit beschrankter haftung<sep>
+</APPLICANT>
+<INVENTOR>
+eidenschink rudolf dr<sep>pohl ludwig dr<sep>eidenschink, rudolf, dr.<sep>pohl, ludwig, dr.<sep>eidenschink, rudolf, dr.dessauer strasse 57d-6110 dieburgde<sep>pohl, ludwig, dr.hoffmannstrasse 54d-6100 darmstadtde<sep>eidenschink, rudolf, dr.<sep>pohl, ludwig, dr.<sep>eidenschink, rudolf, dr.dessauer strasse 57d-6110 dieburgde<sep>pohl, ludwig, dr.hoffmannstrasse 54d-6100 darmstadtde<sep>
+</INVENTOR>
+<ABSTRACT>
+Fluorphenylcyclohexanes of the formula wherein R is an alkyl group having 1-17 C atoms and Z a carbonyl group or a methylene group, and preparation of these compounds by reacting cyclohexene and fluorobenzene with the practice purifying carboxylic acid halide, optionally followed by reducing the carbonyl group.Use of the compounds as a component of a liquid-crystalline dielectric for electro-optical display elements.
+</ABSTRACT>
+</TEXT>
+</DOC>

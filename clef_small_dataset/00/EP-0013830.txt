@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013830
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+C12P-19/00 C12P-21/00 <main>C12N-15/00</main> C12P-19/34 C12N-15/09 C12N-15/69 C12N-15/67 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+stable high copy number plasmids, their formation and use in protein production.
+</TITLE>
+<APPLICANT>
+cetus corpus<sep>cetus corporation<sep>cetus corporation600 bancroft wayberkeley, california 94710us<sep>cetus corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+gelfand david harow<sep>gelfand, david harow<sep>gelfand, david harow555 pierce street apartment 505albany, californiaus<sep>gelfand, david harow<sep>gelfand, david harow555 pierce street apartment 505albany, californiaus<sep>
+</INVENTOR>
+<ABSTRACT>
+the problem of producing stable dna plasmids of high  copy number is solved by selecting mutants in which an altered  repressor gene leads to high copy number replication.   translocatable elements in the plasmids are disabled in such  a way that readthrough expression of heterologous dna inserted  in the plasmid will not continue into the translocatable  elements or into elements which as a result of expression  mediate rearrangement of said translocatable elements.  such plasmids may be used to produce a desired protein  by introducing them into the genetic system of a host organism  and permitting the organism to grow and phenotypically  express its genotype.  the invention also includes a method for removing 3′  cutting restriction sites and maintaining 5′ cutting restriction  sites in dna comprising cutting the dna with appropriate  restriction enzymes, treating the cut fragment with the enzyme  dna polymerase i in such a manner that 3′ single  stranded tails are removed and 5′ single stranded tails are repaired  to double stranded form, and blunt-end ligating the  fragment to its previous orientation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

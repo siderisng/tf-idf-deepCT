@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0009234
+</DOCNO>
+<TEXT>
+<DATE>
+19800402
+</DATE>
+<IPC-CLASSIFICATIONS>
+F24F-6/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+steam distribution pipe for humidifiers.
+</TITLE>
+<APPLICANT>
+bahler paul<sep>bahler, paul<sep>bähler, paulwangenstrasse 8ch-8600 dübendorfch<sep>
+</APPLICANT>
+<INVENTOR>
+bahler paul<sep>bahler, paul<sep>bähler, paulwangenstrasse 8ch-8600 dübendorfch<sep>
+</INVENTOR>
+<ABSTRACT>
+The design of the steam humidifier is characterized in that it consists of a double-walled vapor distribution tube (4, 5).Due to the steam-heated jacket room (6), the interior (7) remains condensate-free by cooling the airflow.The steam discharged the air steam is thus removed from the condensate-free interior (7) and a splash of Kon Denswasser is avoided.Since the blow moltons (11) are arranged along the blowpipe (3) and distributed over the entire channel cross-section, steam layers are avoided.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007868
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01H-83/14 H01H-83/02 H02H-3/32 H01H-83/00 H01H-59/00 H02H-3/33 G01R-15/18 G01R-15/14 G01R-33/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improvements in devices equipped to detect magnetic flux variations, especially in circuit interruptors.
+</TITLE>
+<APPLICANT>
+didier perinofr<sep>dreyfus gerard fr<sep>lewiner jacques fr  <sep>dreyfus, gerard<sep>lewiner, jacques<sep>perino, didier<sep>dreyfus, gérardrue du viaducvillebon s/yvette f-91120 palaiseaufr<sep>lewiner, jacques5, rue bory d'arnexf-92210 saint-cloudfr<sep>perino, didier10, rue de bellevuef-92150 suresnesfr<sep>
+</APPLICANT>
+<INVENTOR>
+lewiner jacques<sep>lewiner, jacques<sep>dreyfus, gérardrue du viaducvillebon s/yvette f-91120 palaiseaufr<sep>lewiner, jacques5, rue bory d'arnexf-92210 saint-cloudfr<sep>perino, didier10, rue de bellevuef-92150 suresnesfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Device for detecting exceeding a threshold by variations in a magnetic flux.Voltage v by these variations in a winding is rectified in 20 and the rectified voltage obtained is applied to the terminals of a capacitor 16, 17 whose electrode is movable relative to the other and which contains an electret 18.Cinning an electrostatic force h tending to bring these two electrodes closer to the magnetic attraction of a magnet 21, the failover of the movable electrode due to exceeding the threshold having the effect of operating an electric switch 22. Applicationamong others: circuit breakers.
+</ABSTRACT>
+</TEXT>
+</DOC>

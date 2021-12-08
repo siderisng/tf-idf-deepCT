@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0015000
+</DOCNO>
+<TEXT>
+<DATE>
+19800903
+</DATE>
+<IPC-CLASSIFICATIONS>
+E06B-9/68 E06B-9/76 D05B-23/00 E06B-9/56 E06B-9/78 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+improved method and apparatus for detecting sewing defects on a stocking toe closer.
+</TITLE>
+<APPLICANT>
+mori sukeo<sep>mori, sukeo<sep>mori, sukeo17-2, zeze 1-chomeotsu-shi shiga-kenjp<sep>
+</APPLICANT>
+<INVENTOR>
+mori sukeo<sep>mori, sukeo<sep>mori, sukeo17-2, zeze 1-chomeotsu-shi shiga-kenjp<sep>
+</INVENTOR>
+<ABSTRACT>
+three sets of photoelectric sensors (102, 103, 104) are  arranged either in combination or solely re the path of travel  of the toe section of a closed stocking (1) on a sewing machine  (8a) in order to detect presence of sewing defects (6) such as  skip sewing, spot sewing and/or foreign material inclusion.   accidental supply of stockings with sewing defects to market  is well prevented in a completely automatic manner without  any substantial rise in production cost.  
+</ABSTRACT>
+</TEXT>
+</DOC>

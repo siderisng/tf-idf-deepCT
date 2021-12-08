@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0001872
+</DOCNO>
+<TEXT>
+<DATE>
+19790516
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01F-7/121 H01F-7/08 H01H-50/22 H01H-50/42 H01F-7/16 H01H-50/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electromagnetic device, such as a relay, with a movable armature having a centre pole face and two end pole faces.
+</TITLE>
+<APPLICANT>
+allen bradley cous<sep>allen-bradley company<sep>allen-bradley company1201 south second streetmilwaukee wisconsin 53204us<sep>
+</APPLICANT>
+<INVENTOR>
+hart john sus<sep>hart, john s.<sep>hart, john s.1202 south main streetracine wisconsin 53403us<sep>
+</INVENTOR>
+<ABSTRACT>
+an electromagnetic device, such as a relay, having a  stationary core (13) and a movable armature (24), each having  three pole faces (16, 16′, 17; 29, 30, 28), forms a magnetic  circuit having three substantially parallel legs when the core  (13) and the armature (24) are brought together.  the centre  leg, but not the two side legs, of the magnetic circuit includes a  region of decreased magnetic permeability which separates  the centre pole faces (17, 28) and which is constituted by an air  gap and a non-magnetic coating (49) on the centre pole face  (28) of the armature (24), which coating (49) is more resistant  to wear than the material of the uncoated pole faces forming  the two side legs of the magnetic circuit.  the air gap and coating between the centre pole faces  aids separation of the core (13) and armature (24) whilst avoiding  excessive magnetic reluctance which would impair closing  movement of the core (13) and armature (24).  
+</ABSTRACT>
+</TEXT>
+</DOC>

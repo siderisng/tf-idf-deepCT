@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004487
+</DOCNO>
+<TEXT>
+<DATE>
+19791003
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16H-37/02</main> F16H-37/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+continuously variable speed transmission.
+</TITLE>
+<APPLICANT>
+renaultfr<sep>regie nationale des usines renault<sep>regie nationale des usines renaultboíte postale 103 8-10 avenue emile zolaf-92109 boulogne-billancourtfr<sep>regie nationale des usines renault  <sep>
+</APPLICANT>
+<INVENTOR>
+piret jean<sep>piret, jean<sep>piret, jean12, quai boissy d'anglasf-78380 bougivalfr<sep>piret, jean<sep>piret, jean12, quai boissy d'anglasf-78380 bougivalfr<sep>
+</INVENTOR>
+<ABSTRACT>
+Drive transmission especially for motor vehicles.The transmission consists of a drive (28, 31, 25, 26, 40), which inverter may be switched off the transmission by engagement by direct connection to constant ratio (17, 18, 19).The interlocking system (11) is a device by all or nothing.Main application to the transmission of a motor vehicle.
+</ABSTRACT>
+</TEXT>
+</DOC>

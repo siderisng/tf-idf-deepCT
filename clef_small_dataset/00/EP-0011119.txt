@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011119
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+H05K-1/00 G05B-19/04 G05B-19/042 H05K-1/14 G05B-19/10 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+display and control element.
+</TITLE>
+<APPLICANT>
+wlw elektrotech de  <sep>wlw-elektrotechnik gmbh & co. kg<sep>wlw-elektrotechnik gmbh &amp; co. kgmoltkestrasse 1d-4150 krefeld 1de<sep>
+</APPLICANT>
+<INVENTOR>
+lezius albrechtde<sep>wunsch reinholdde<sep>lezius, albrecht<sep>wunsch, reinhold<sep>lezius, albrechtcorneliusplatz 65d-4154 tönisvorst 1de<sep>wunsch, reinholdfriedrich-ebert-strasse 62d-4150 krefeld 1de<sep>
+</INVENTOR>
+<ABSTRACT>
+A display and operating element (12) is described, which has a plurality of possibly mutually triggering light contact buttons on a card retractable in a housing, wherein the function of these light-emitting pushbuttons and the possibly curved mutual tripping is extremely electrically with the help of circuits, the Anord HZWZW. Setting without wiring change by means of a coding switch arranged on the plug-in card, cross-link nene distributor, jumpers 0. Like. or is also adjustable by the per grammation of a microprocessor, which is preferably housed in a special plug-in card. For larger systems to be controlled, several such elements can be combined in a housing and, if necessary, a plurality of such housing together connect with each other via data carriers, whereby it is expedient to use the microprocessor in a central housing (60) sub-bin and to use all the display - To control the operating elements with respect to their function and mutual outgoing solution centrally. The display control element is replaced because of its versatility, which is previously used for control systems, for example, for air conditioning, necessary different display and control elements, and thus results in a significant cost savings both in terms of the control of the situation as well as their structure and the goods tung .
+</ABSTRACT>
+</TEXT>
+</DOC>

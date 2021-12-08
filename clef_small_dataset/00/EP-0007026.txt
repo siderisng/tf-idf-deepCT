@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007026
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+G08G-1/09 <main>G08G-1/09</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+light signal device with flash-lamps for use in a road traffic emergency-call system.
+</TITLE>
+<APPLICANT>
+tekade felten & guilleaumede<sep>te ka de felten & guilleaume fernmeldeanlagen gmbh<sep>felten &amp; guilleaume fernmeldeanlagen gmbhthurn-und-taxis-strasse 10 postfach 4943d-8500 nürnberg 10de<sep>te ka de felten & guilleaume fernmeldeanlagen gmbh <sep>
+</APPLICANT>
+<INVENTOR>
+markl georg dipl-ing<sep>markl, georg, dipl.-ing.<sep>märkl, georg, dipl.-ing.karlsruher strasse 9d-8500 nürnbergde<sep>markl, georg, dipl.-ing. <sep>märkl, georg, dipl.-ing. karlsruher strasse 9 d-8500 nürnbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+Emergency pillars (NRS) to traffic blow have signal lamps (SL), which contain flash tubes with charging capacitors as Ener Giestspeicher. Several locally consecutive emergency call columns are composed for signaling to a group. Here, the flashing emergency call columns differ from both the number of flashing signal lamps and by different blinkrhythm of SERDEDEd have the flashing emergency call columns of a group of different distance from the supplying central site. These different distances are still changing with the different applications, depending on the location of a danger point. The capacitance of the charging capacitors is chosen so that the total capacity of the maximum number of charging chimnics to be added for an application case with the largest bonded conductive wire is a loading time constant, which forms a quotient with the presumed benen loading line, which forms a quotient between 0.5 and 3 is located. Furthermore, the ignition of the flash tubes is independent of the state of charge of the charging capacitor. At small ren line resistance and or longer loading times, the charging is automatically canceled after reaching the intended voltage at the loading capacitor.
+</ABSTRACT>
+</TEXT>
+</DOC>

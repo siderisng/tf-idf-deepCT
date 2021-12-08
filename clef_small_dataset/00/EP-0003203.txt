@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0003203
+</DOCNO>
+<TEXT>
+<DATE>
+19790725
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H04B-7/005</main> H04B-7/17 H04B-17/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and arrangement for measuring distortions caused by the transmission medium in wideband digital radio links.
+</TITLE>
+<APPLICANT>
+telecommunications safr <sep>societe anonyme de telecommunications <sep>societe anonyme de telecommunications (s.a.t.) 40 avenue de new yorkf-75116 parisfr<sep>societe anonyme de telecommunications<sep>
+</APPLICANT>
+<INVENTOR>
+francois rene<sep>francois, rene<sep>françois, rené8 avenue de la mésangef-94100 saint maur des fossésfr<sep>francois, rene  <sep>françois, rené8 avenue de la mésangef-94100 saint maur des fossésfr<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method for measuring the distortions imposed by the propagation medium to signals transmitted in a determined frequency band, by a digital microwave link, characterized in that it comprises the steps of measuring the average power respectively received in a plurality of elementary frequency bands distributed within said transmission band and belonging to said band, and subtracting the measured values from the theoretical powers pertaining to the respective elementary bands. 
+</ABSTRACT>
+<DESCRIPTION>
+¯:rocédé et dispositif pour mesurer les distorsions dues au eu de propagation dans les faisceaux hertziens numériques . grande capacité. ia présente invention concerne un procédé pour mesurer l'af aiblissement sélectif exercé par le milieu de propagation sur in faisceau hertzien numérique, ainsi qu'un dispositif pour la ase en oeuvre de ce procédé de mesure. les évanouissements qui apparaissent dans le milieu de propagation dtun faisceau hertzien se traduisent è la réception par une réduction du niveau du champ reçu. dans le cas d'un faisceau hertzien numérique à grande capacité, la bande de fréquence transmise est très large, et la profondeur d'évanouissement varie en fonction de la fréquence à l'intérieur de la bande transmise. ceci entrée des distorsions d'amplitude et de phase qui interrompent la liaison bien que le niveau du champ reçu puisse 8trie globalement suffisant. l'invention vise donc un procédé pour mesurer les distorsions lues au milieu de propagation de manière à fournir les informations nécessaires à une correction appropriée. l'invention a pour objet un procédé pour mesurer l'influence du milieu de propagation sur des signaux transmis, dans une bande ie fréquence déterminée, par un faisceau hertzien numérique, aractérisé par le fait qu'on mesure la puissance moyenne respectivement reçue dans une pluralité de bandes de fréquence élémentaires réparties à l'intérieur de ladite bande de transmission et on soustrait les valeurs mesurées des puissances théoriques relatives aux bandes élémentaires respectives. l'invention utilise le fait que le signal numérique brassé (scramblé) qui module la porteuse hyperfréquence est aléatoire ou semi-aléatoire, ce qui donne statistiquement un spectre, par exemple de type sin x/z, et que les variations du milieu de propagation sont relativement lentes. dans ces conditions, on pourra déterminer les puissances moyennes reçues dans les bandes élémentaires sur une durée à la fois très grande par rapport à l'intervalle de temps d'un élément du signal numérique, et faible par rapport à la vitesse des variations du milieu. comme on connntt par ailleurs le spectre de la porteuse modulée par le signal numérique en propagation normale (sans évanouissement), il est facile de déduire par soustraction la caractéristique affaiblissement/fréquence. la connaissance de cette caractéristique peut ensuite servir de base à une correction qui compense les distorsions dues au milieu. l'invention sera bien comprise à la lecture de la description suivante, faite en se référant au dessin annexé, sur lequel la figure 1 illustre sous la forme de courbes le procédé de mesure selon l'invention, et la figure 2 représente sous forme de schéma par blocs une partie d'une station de réception hertzienne équipée d'un dispositis de mesure selon l'invention. on va tout d'abord décrire le principe du procédé de mesure selon l'invention en se référant à la figure 1, où la fréquence (en mem) est portée en abscisse et la densité spectrale (en db) est portée en ordonnée. dans une liaison hertzienne numérique, le signal numérique qui module la porteuse hyperfréquence est brassé (scramblé) et est par conséquent aléatoire ou semi-aléatoire. il en résulte que le spectre de la porteuse modulée est
+</DESCRIPTION>
+<CLAIMS>
+revendications de brevet   1. procédé pour mesurer les distorsions imposées par le milieu de propagation à des signaux transmis, dans une bande de fréquence déterminée, par un faisceau hertzien numérique, caractérisé par le fait qu'on mesure la puissance moyenne respectivement reçue dans une pluralité de bandes de fréquence élémentaires réparties à l'intérieur de ladite bande de transmission et on soustrait les valeurs mesurées des puissances théoriques relatives aux bandes élémentaires respectives.   2. dispositif pour mesurer les distorsions imposées par le milieu de propagation à des signaux transmis dans une bande de fréquence déterminée par un faisceau hertzien numérique et reçus par une station de réception hertzienne, caractérisé par le fait qu'il comprend un analyseur de spectre   (12-193    relié à la sortie de l'amplificateur à fréquence intermédiaire (6) de la station de réception, un séquenceur de balayage (14) commandant ledit analyseur de manière que l'analyseur délivre successivement la puissance moyenne du signal reçu dans différentes bandes de fréquence élémentaires réparties à l'intérieur de la bande de transmission, une mémoire (22) dans laquelle sont enregistrées les puissances théoriques relatives aux différentes bandes élémentaires, ladite mémoire étant également commandée par le séquenceur (14),   et un amplificateur différentiel (20) dont les entrées sont reliées à la sortie de l'analyseur de spectre (12-19) et à la mémoire (22).  
+</CLAIMS>
+</TEXT>
+</DOC>

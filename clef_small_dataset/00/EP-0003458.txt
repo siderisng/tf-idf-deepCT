@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0003458
+</DOCNO>
+<TEXT>
+<DATE>
+19790808
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F16F-9/50</main> B60G-15/00 F16F-9/50 B60G-15/06 F16F-9/512 F16F-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+shock absorber for a vehicle with an elastic suspension.
+</TITLE>
+<APPLICANT>
+commissariat energie atomiquefr<sep>federspiel jeanfr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>federspiel, jean<sep>commissariat a l'energie atomique etablissement de caractère scientifique technique et industrielb.p. 510f-75752 paris cedex 15fr<sep>federspiel, jean68, avenue jean moulinf-75014 parisfr<sep>commissariat a l'energie atomique etablissement de caractere scientifique technique et industriel<sep>federspiel, jean  <sep>
+</APPLICANT>
+<INVENTOR>
+federspiel jean<sep>federspiel, jean<sep>federspiel, jean68, avenue jean moulinf-75014 parisfr<sep>federspiel, jean<sep>federspiel, jean68, avenue jean moulinf-75014 parisfr<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to a damper, mounted between a suspended portion (1) and a non-suspended portion (2) of a vehicle, and in particular a telescopic hydraulic damper comprising a damping piston (5) mounted downstream in a cylinder (3).a compensation piston (12) cooperates with the cylinder (3) for holding the piston (5) and the cylinder (3) in a relative position determined during a variation of the load or the centering of the vehicle, the compensation piston(12) is pierced with at least one passage controlled by at least one valve sealing the passage to allow the normal operation of the damper during rapid deformation of the air resulting from the inequalities of the road.One or more recall springs (14) maintain the piston (5) at a medium position with respect to the cylinder (3), opposite a zone (5b) of the cylinder.Application to vehicle dampers.
+</ABSTRACT>
+</TEXT>
+</DOC>

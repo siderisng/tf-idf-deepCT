@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+EP-0001269
+</DOCNO>
+<TEXT>
+<DATE>
+19790404
+</DATE>
+<IPC-CLASSIFICATIONS>
+G05B-19/41 G05B-19/4103 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+track guiding process for a machine tool.
+</TITLE>
+<APPLICANT>
+heckler & koch gmbhde<sep>heckler & koch gmbh  <sep>heckler &amp; koch gmbhpostfach 1329, alte steige 7d-78727 oberndorfde<sep>
+</APPLICANT>
+<INVENTOR>
+strobel herbert dipl-ing dr-inde<sep>strobel, herbert, dipl.-ing., dr- ing.<sep>strobel, herbert, dipl.-ing., dr- ing.dornhanerstrasse 6d-7238 oberndorfde<sep>
+</INVENTOR>
+</TEXT>
+</DOC>

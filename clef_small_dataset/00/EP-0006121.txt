@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0006121
+</DOCNO>
+<TEXT>
+<DATE>
+19800109
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04B-3/06 <main>H04L-25/03</main> H04L-25/03 H04L-27/38 H03H-11/04 H04L-27/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method and arrangement for initiating an adaptive equalizer starting from an unknown data signal in a transmission system utilizing quadrature amplitude modulation.
+</TITLE>
+<APPLICANT>
+ibm us  <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+godard dominique<sep>thirion philippe<sep>godard, dominique<sep>thirion, philippe<sep>godard, dominiquevilla "ormeau de barnarac"f-06650 le rouretfr<sep>thirion, philippechemin de saint paulf-06570 saint paul de vencefr<sep>godard, dominique  <sep>thirion, philippe <sep>godard, dominiquevilla "ormeau de barnarac"f-06650 le rouretfr<sep>thirion, philippechemin de saint paulf-06570 saint paul de vencefr<sep>
+</INVENTOR>
+<ABSTRACT>
+In the receiver of a system using a quadrature amplitude modulation (QAM) in which in normal operation the data is detected relative to a first constellation A, the equalizer is initialized by detecting the data relative to a second constellation.b having a point lower than that of the first constellation and adjusting the coefficients of the equalizer from an error signal obtained from this detection operation.Application to multi-network network QAM transmission systems.
+</ABSTRACT>
+</TEXT>
+</DOC>

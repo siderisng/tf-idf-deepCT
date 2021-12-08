@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008348
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C23F-4/00 H01L-21/31 H01L-21/3065 <main>H01L-21/306</main> H01L-21/04 H01L-21/302 C23F-1/00 H01L-21/311 H01L-21/02 C01B-23/00 C09K-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+a method of etching a surface.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+chapman brian n<sep>winters harold f<sep>chapman, brian n.<sep>winters, harold f.<sep>chapman, brian n.wood streetdixon lake, new york 10541us<sep>winters, harold f.632 lanfair drivesan jose, california 95136us<sep>chapman, brian n.<sep>winters, harold f.<sep>chapman, brian n.wood streetdixon lake, new york 10541us<sep>winters, harold f.632 lanfair drivesan jose, california 95136us<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a method of etching surfaces  such as silicon dioxide, silicon nitride and silicon carbide  by exposing the surface simultaneously to a noble gas  halide such as fluorinated xenon compound and radiation  such as electron beam radiation.  the etch rate of silicon  dioxide achieved by the present invention,  is about 200 angstroms per minute.  
+</ABSTRACT>
+</TEXT>
+</DOC>

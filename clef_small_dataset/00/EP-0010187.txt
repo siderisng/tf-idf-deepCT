@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010187
+</DOCNO>
+<TEXT>
+<DATE>
+19800430
+</DATE>
+<IPC-CLASSIFICATIONS>
+G06F-13/12 <main>G06F-3/04</main> G06F-13/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+input/output-system for a data processing system.
+</TITLE>
+<APPLICANT>
+ibmus <sep>international business machines corporation <sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>international business machines corporation<sep>
+</APPLICANT>
+<INVENTOR>
+lewis david otto<sep>reed john walter<sep>wallin gary william<sep>lewis, david otto<sep>reed, john walter<sep>wallin, gary william<sep>lewis, david otto1609 ridge drive ne.rochester, minnesota 55901us<sep>reed, john walterrr no. 1pine island, minnesota 55963us<sep>wallin, gary williambos 121mantorville, minnesota 55955us<sep>lewis, david otto<sep>reed, john walter <sep>wallin, gary william<sep>lewis, david otto 1609 ridge drive ne. rochester, minnesota 55901 us<sep>reed, john walterrr no. 1pine island, minnesota 55963us<sep>wallin, gary williambos 121mantorville, minnesota 55955us<sep>
+</INVENTOR>
+<ABSTRACT>
+this invention relates to a data processing system.  in such a system  having an addressable storage (5) for  storing instructions, data and input-output (i/o) commands, a  central processing unit (cpu) (1) which fetches an executes  instructions, and channel means (3) connecting i/o adapters  (4) to the storage and the cpu, an apparatus is provided which  transfers i/o commands to the i/o adapters (4) whereby the  i/o command is either accepted immediately or is queued by  the i/o adapter.  a queued command is taken up by the i/o  adapter (4) when no other data transfer operation is pending.   to take up a queue command, the i/o adapter (4) initiates a  fetch of the pending command by invoke a standard data-­ transfer-from-storage sequences.  the channel means (3)  responds to the fetch initiated by the i/o adapter (4) to send  the pending command to the i/o adapter.  
+</ABSTRACT>
+</TEXT>
+</DOC>

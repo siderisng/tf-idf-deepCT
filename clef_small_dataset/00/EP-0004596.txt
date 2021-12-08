@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0004596
+</DOCNO>
+<TEXT>
+<DATE>
+19791017
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>F24D-11/00</main> F24D-19/10 G01K-17/06 F24D-19/00 F24D-11/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for operating a heating installation and installation for carrying out the method.
+</TITLE>
+<APPLICANT>
+brockerhoff heinrich<sep>brockerhoff, heinrich<sep>brockerhoff, heinrichbloemstrasse 27d-4000 düsseldorf 30de<sep>brockerhoff, heinrich<sep>
+</APPLICANT>
+<INVENTOR>
+brockerhoff heinrich<sep>brockerhoff, heinrich<sep>brockerhoff, heinrichbloemstrasse 27d-4000 düsseldorf 30de<sep>brockerhoff, heinrich<sep>brockerhoff, heinrichbloemstrasse 27d-4000 düsseldorf 30de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the operation of a heating system of a multi party building, featuring a central domestic boiler burner (43) ; the heating system being composed of a number of separate systems (8) which are associated with the different floors or apartments or, more specifically, flats ; the systems being supplied from a chargeable storage vessel (9) each receiving its heat from the boiler (2) where the heat supply is counted ; the boiler passing through a cooling phase, after the charging phase, discharging heat at the same time ; characterised by the storage vessel (9) of only one party at a time being charged and the burning period of this charging phase being recorded according to the parties concerned and, further, the heat discharge during the cooling phase going to that heating system of the thermostat-controlled heating systems whose storage vessel (9) previously initiated the charging phase. 
+</ABSTRACT>
+</TEXT>
+</DOC>

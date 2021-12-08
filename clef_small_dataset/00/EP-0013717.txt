@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013717
+</DOCNO>
+<TEXT>
+<DATE>
+19800806
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41J-1/30 B41J-9/46 G06K-15/02 G06K-15/08 B41J-9/00 B41J-1/24 B41J-1/00 B41J-7/44 B41J-7/00 B41J-19/18 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control device and system for the print hammer in a rotating type-disc printer.
+</TITLE>
+<APPLICANT>
+ibm us <sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+kane milburn housmanus<sep>kane, milburn housman<sep>kane, milburn housman9812 lonsdale driveround back, texas 78664us<sep>
+</INVENTOR>
+<ABSTRACT>
+Controlling a variable typing hammer in a rotary printing element printer with radial carriers, mounted on a carriage, which is moving at the time of the typing. The printer riot (1) is driven with variable speed opposite a document (12) by a step-by-step engine (8). The trolley speed (1) depends on the time of the print element (2) for bringing a carrier touter (9a, 9b, 9c) opposite the hammer (10) with variable force. The logic circuits of the printer comprise a table, which is first addressed with a trolley speed code corresponding to the selection time of the character. The exit of the table is a starting point of the hammer cycle. The table is then addressed with a speed code and a typing force code. The output of the table then gives a delay before flowing between said starting point and the moment of excitation of the hammer (10). The logical cooked circumstances then determining the duration of the excitation of the hammer (10) depending on the desired strike force.
+</ABSTRACT>
+</TEXT>
+</DOC>

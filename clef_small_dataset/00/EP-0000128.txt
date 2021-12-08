@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000128
+</DOCNO>
+<TEXT>
+<DATE>
+19790110
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-19/00 C07D-307/00 A61K-31/403 A61P-7/10 A61P-7/00 C07D-209/12 C07D-307/80 A61K-31/40 C07D-333/56 A61K-31/38 A61K-31/343 C07D-333/00 C07D-209/00 A61K-31/404 A61P-19/06 A61K-31/381 A61K-31/34 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+sulfamoylaryl ketones, process for their preparation and their use as medicaments.
+</TITLE>
+<APPLICANT>
+hoechst agde <sep>hoechst aktiengesellschaft<sep>hoechst aktiengesellschaft 65926 frankfurt am main de<sep>
+</APPLICANT>
+<INVENTOR>
+lang hans jochen drde<sep>muschaweck roman drde<sep>musil josef drde<sep>lang, hans jochen, dr.<sep>muschaweck, roman, dr.<sep>musil, josef, dr.<sep>lang, hans jochen, dr.rüdesheimer strasse 7d-6238 hofheim am taunusde<sep>muschaweck, roman, dr.heimchenweg 39d-6000 frankfurt/mainde<sep>musil, josef, dr.keltenring 45d-7815 kirchzarten-burgde<sep>
+</INVENTOR>
+<ABSTRACT>
+Heterocyclic 3-sulfamoylaryl ketones, the general formula wherein R¹ is hydrogen, halogen, alkyl with 1 to 3 C atoms, methoxy or ethoxy, R² and R³ equal or different, hydrogen or alkyl with 1 to 4 C atoms, x a halogen atom, methylOr trifluoromethyl and Y are oxygen, sulfur or NR⁴, wherein R⁴ stands for hydrogen or alkyl with 1 to 4 C atoms, with uricosurical, hypournic and salidiuretic effects, and a process for producing these compounds and pharmaceutical preparations containing these compounds.
+</ABSTRACT>
+</TEXT>
+</DOC>

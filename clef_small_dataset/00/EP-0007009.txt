@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007009
+</DOCNO>
+<TEXT>
+<DATE>
+19800123
+</DATE>
+<IPC-CLASSIFICATIONS>
+B41F-33/02 G01R-13/00 G01D-7/02 G01R-13/40 G01R-13/02 B41F-31/02 G01D-7/00 B41F-31/00 <main>B41F-33/02</main> B41F-33/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for displaying the magnitude of remote control signals for a rotary press.
+</TITLE>
+<APPLICANT>
+heidelberger druckmasch agde<sep>heidelberger druckmaschinen aktiengesellschaft<sep>heidelberger druckmaschinen aktiengesellschaftkurfürsten-anlage 52-60 postfach 10 29 40d-69019 heidelbergde<sep>heidelberger druckmaschinen aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+jeschke willi<sep>rambausek hugo<sep>jeschke, willi<sep>rambausek, hugo<sep>jeschke, williberghalde 68d-6900 heidelbergde<sep>rambausek, hugokurpfalzstrasse 6d-6908 wieslochde<sep>jeschke, willi <sep>rambausek, hugo  <sep>jeschke, williberghalde 68d-6900 heidelbergde<sep>rambausek, hugokurpfalzstrasse 6d-6908 wieslochde<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a method for indicating the adjustments of remote-controlled zone-by-zone adjustment parts for dosing the supply of ink and/or dampening solution, at a central remote-control desk of a rotary printing press, in which the adjustments, fed-back in the form of electrical adjusting signals, are changed into indication signals and these signals, for the purpose of optically indicating the ink and/or dampening profile (7) are fed to separat led's (3) of separate rows (2) of led's for the separate ink and/or dampening solution zones, each of the led's, placed one after the other within such a row, being representative of a different indication value, characterized in that from the same adjusting signals the indication signals are produced for giving a representation of one value in two indications, valuably subdivided but spatially identical, the one of said indication being used as a coarse indication and the other as a high-resolution indication, such that all led's (3) placed one after the other within one led row (2) are used for indicating not only the different values of the coarse indication but futhermore for the subdivided high-resoluted values between the coarse value visuably actuated momently and the next higher not indicated coarse value, each led (3) of this row (2) being twice used, first for the coarse values and second used for the intermediate values between the coarse values. 
+</ABSTRACT>
+</TEXT>
+</DOC>

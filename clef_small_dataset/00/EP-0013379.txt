@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013379
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>H01B-3/48</main> H01B-3/18 B29C-67/02 H05K-1/02 H01B-3/44 H05K-1/03 B29C-70/00 H05K-1/16 H01B-3/48 B29C-70/02 B29C-70/88 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+dielectric material, circuit boards made from this material, and method of making said material and said circuit boards.
+</TITLE>
+<APPLICANT>
+rogers corpus<sep>rogers corporation<sep>rogers corporationmain streetrogers, conn. 06263us<sep>rogers corporation<sep>
+</APPLICANT>
+<INVENTOR>
+traut robert c<sep>traut, robert c.<sep>traut, robert c.route 6asouth killingly, conn. 06239us<sep>traut, robert c.<sep>traut, robert c.route 6asouth killingly, conn. 06239us<sep>
+</INVENTOR>
+<ABSTRACT>
+circuit boards and methods of making circuit boards and  dielectric materials for said circuit boards, with relatively high  dielectric constants, excellent moisture resistance, and  reduced tendency to incur changes in dimensions after processing.   the method comprises blending in a polymer dispersion,  a particulate filler material having a high dielectric constant  and microfibrous material to form a slurry of polymer,  filler, and fiber.  a flocculant is added to the slurry to agglomerate  the polymer particles, the filler particles, and the microfibers  to produce a dough-like material.  the dough like  material is eventually formed into a sheet, and is thereafter  dried.  a conductive foil such as copper is then applied to both  sides of the sheet to provide a circuit board.  
+</ABSTRACT>
+</TEXT>
+</DOC>

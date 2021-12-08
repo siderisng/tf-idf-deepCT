@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002008
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C02F-3/34 <main>C02F-1/72</main> C02F-3/12 C02F-3/26 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the biological purification of waste water.
+</TITLE>
+<APPLICANT>
+linde agde<sep>linde aktiengesellschaft<sep>linde aktiengesellschaftabraham-lincoln-strasse 21d-65189 wiesbadende<sep>linde aktiengesellschaft <sep>
+</APPLICANT>
+<INVENTOR>
+reimann hans dr<sep>reimann, hans, dr.<sep>reimann, hans, dr.rudolf-wilke-weg 21d-8000 münchen 71de<sep>reimann, hans, dr.<sep>reimann, hans, dr.rudolf-wilke-weg 21d-8000 münchen 71de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the biological purification of sewage in a two-stage purification plant with the addition of oxygen, wherein, in the first stage, essentially organic contaminants are decomposed and, in the second stage, essentially inorganic nitrogen compounds are oxidised, characterised in that oxygen or a gas having a high oxygen content is injected into the second stage and that an oxygen-rich waste gas stream is withdrawn from the second stage and fed to the first stage, the waste gas stream which is withdrawn from the second stage being so proportioned that the oxygen demand of the first stage is entirely or at least predominantly satisfied. 
+</ABSTRACT>
+</TEXT>
+</DOC>

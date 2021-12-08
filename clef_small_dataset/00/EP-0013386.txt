@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0013386
+</DOCNO>
+<TEXT>
+<DATE>
+19800723
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07D-285/12</main> C07D-285/00 C07D-285/12 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 1,3,4-thiadiazoles.
+</TITLE>
+<APPLICANT>
+basf agde   <sep>basf aktiengesellschaft<sep>basf aktiengesellschaftcarl-bosch-strasse 3867063 ludwigshafende<sep>basf aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+hagen helmut dr dipl-ing<sep>kohler rolf-dieter dr dipl-che<sep>hagen, helmut, dr. dipl.-ing.<sep>kohler, rolf-dieter, dr. dipl.-chem.<sep>hagen, helmut, dr. dipl.-ing.max-slevogt-strasse 17ed-6710 frankenthalde<sep>kohler, rolf-dieter, dr. dipl.-chem.speyerer strasse 3d-6800 mannheim 23de<sep>hagen, helmut, dr. dipl.-ing.  <sep>kohler, rolf-dieter, dr. dipl.-chem. <sep>hagen, helmut, dr. dipl.-ing.max-slevogt-strasse 17ed-6710 frankenthalde<sep>kohler, rolf-dieter, dr. dipl.-chem.speyerer strasse 3d-6800 mannheim 23de<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  process for the preparation of 1,3,4-thiadiazoles of the formula i see diagramm : ep0013386,p10,f7  wherein r**1 denotes the radical see diagramm : ep0013386,p11,f1  or the radical  see diagramm : ep0013386,p11,f2  r**2 designates a hydrogen atom, an alkyl radical of 1 to 7 carbon atoms, an alkenyl radical of 2 to 7 carbon atoms, a cycloalkyl radical of 5 to 6 carbon atoms, an aralkyl radical of 7 to 12 carbon atoms, an aralkenyl radical of 8 to 12 carbon atoms or a phenyl radical, r**3 represents an alkyl radical of 1 to 7 carbon atoms or a hydrogen atom, r**4 denotes a hydrogen atom, an alkyl radical of 1 to 7 carbon atoms, an alkenyl radical of 2 to 7 carbon atoms, a cycloalkyl radical of 5 to 6 carbon atoms or an aralkyl radical of 7 to 12 carbon atoms, y designates a hydrogen atom or a halogen atom and x represents a halogen atom, wherein, in a first stage, 2-alkyl-1,3,4-thiadiazoles of the formula ii  see diagramm : ep0013386,p11,f3  wherein r**2 and r**3 have the above meaning, are reacted with oxalic acid diesters of the formula iii  see diagramm : ep0013386,p11,f4  wherein the individual radicals r**4 can be identical or different and each has the above meaning, in the presence of alcoholates, and, if desired, in a second stage, the resulting 1,3,4-thiadiazoles of the formula ia  see diagramm : ep0013386,p11,f5  wherein r**2 , r**3 and r**4 have the above meaning, or their metal enolates, are reacted with halogen or hypohalogenites at a temperature of at most 60 degrees c, to give the 1,3,4-thiadiazoles of the formula ib  see diagramm : ep0013386,p11,f6 wherein r**2 , r**3 , x and y have the above meaning. 
+</ABSTRACT>
+</TEXT>
+</DOC>

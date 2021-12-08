@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0002046
+</DOCNO>
+<TEXT>
+<DATE>
+19790530
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07H-15/252 C07H-3/00 C07H-5/00 C07D-493/00 <main>C07H-15/04</main> C07D-493/04 C07D-303/14 C07H-15/04 C07D-303/32 C07H-19/00 C07H-15/00 C07H-3/10 C07D-303/00 C07H-5/06 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of (1s,2s,6r)-2-methyl-3,7-dioxabicyclo(4,1,0)heptan-4-ol and its methyl ether.
+</TITLE>
+<APPLICANT>
+hoffmann la roche ch  <sep>f.hoffmann-la roche & co. aktiengesellschaft<sep>f. hoffmann-la roche &amp; co. aktiengesellschaftpostfach 32554002 baselch<sep>f. hoffmann-la roche & co. aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+grethe guenter<sep>sereno john<sep>uskokovic milan radoje<sep>grethe, guenter<sep>sereno, john<sep>uskokovic, milan radoje<sep>grethe, guenter3 andover drivenorth caldwell, n.j.us<sep>sereno, john16 parkway drivepine brook, n.j.us<sep>uskokovic, milan radoje253 highland avenueupper montclair, n.j.us<sep>grethe, guenter  <sep>sereno, john<sep>uskokovic, milan radoje<sep>grethe, guenter3 andover drivenorth caldwell, n.j.us<sep>sereno, john16 parkway drivepine brook, n.j.us<sep>uskokovic, milan radoje253 highland avenueupper montclair, n.j.us<sep>
+</INVENTOR>
+<ABSTRACT>
+Method for producing (1S, 2S, 6R) -4-methoxy-2-methyl-3,7-dioxabicyclo [4.1. 0] heptane - as an intermediate for the production of daunosamine - by methylation of (1S, 2S, 6R) -2-methyl-3,7-dioxabicyclo [4.1. 0] -Heptan-4-ol, preparation of the starting material OFF (1S, 2S) -2-methyl-3-cyclopenten-1-ol and intermediates in this method.
+</ABSTRACT>
+</TEXT>
+</DOC>

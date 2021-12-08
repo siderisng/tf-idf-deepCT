@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008343
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+C07D-501/22 A61K-31/519 <main>C07D-501/22</main> C07D-501/60 A61K-31/525 A61K-31/545 A61K-20060101S C07D-501/18 C07D-501/20 C07D-501/00 C07D-20060101S 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+cephalosporin derivatives, processes for their preparation and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+ciba geigy agch<sep>ciba-geigy ag<sep>ciba-geigy agklybeckstrasse 1414002 baselch<sep>ciba-geigy ag<sep>
+</APPLICANT>
+<INVENTOR>
+scartazzini riccardo dr<sep>wiederkehr rene dr<sep>scartazzini, riccardo, dr.<sep>wiederkehr, rene, dr.<sep>scartazzini, riccardo, dr.conrad ferdinand meyer-strasse 38 ch-4059 basel ch <sep>wiederkehr, rené, dr.grenzweg 9ch-4148 pfeffingench<sep>scartazzini, riccardo, dr.<sep>wiederkehr, rene, dr.<sep>scartazzini, riccardo, dr.conrad ferdinand meyer-strasse 38ch-4059 baselch<sep>wiederkehr, rené, dr.grenzweg 9ch-4148 pfeffingench<sep>
+</INVENTOR>
+<ABSTRACT>
+1.  a 7 beta-aminothiazolylacetamido-3-cephem-4-carboxylic acid compound of the formula  see diagramm : ep0008343,p9,f1  wherein r1 is hydrogen or an amino protective group, a is methylene substituted by methoxyimino and r2  is pivaloyloxymethyl, or a salt of such a compound containing a salt-forming group. 
+</ABSTRACT>
+</TEXT>
+</DOC>

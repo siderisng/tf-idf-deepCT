@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+EP-0012560
+</DOCNO>
+<TEXT>
+<DATE>
+19800625
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01B-9/00 H01B-9/06 H01B-7/02 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+electrical equipment employing insulants.
+</TITLE>
+<APPLICANT>
+dielectric int ltdgb   <sep>dielectric international limited<sep>dielectric international limitedsquirrels priorswoodcompton guildford, surreygb<sep>
+</APPLICANT>
+<INVENTOR>
+burton edward arthurgb<sep>burton, edward arthur<sep>burton, edward arthur102, horndean roademsworth, hampshiregb<sep>
+</INVENTOR>
+<ABSTRACT>
+a cable has a stranded conductor (1) having a central  duct (2) filled with insulating oil under pressure.  the conduc­ tor (1) is surrounded by an oil-pervious taped insulant (4) in  turn surrounded by an insulant (6) in the form of particles of  solid insulating material in the insulating fluid.  the insulating  fluid acts as a discharge supressant and is in the form of a  thin film.  
+</ABSTRACT>
+<DESCRIPTION>
+"electrical equipment employing insulants" this invention relates to electrical equipment employing insulants. our british patent specification no. 1 296 032 discloses electrical equipment having a conductor member surrounded by insulants. the insulant comprises finely divided particles of a solid insulating material in an insulating fluid, which fluid acts as a discharge suppressant which is effectively in the form of a thin film as the fluid e.g. mineral fills the space between adjacent particles. in the embodiments illustrated in that specification means are provided for maintaining the fluid above atmospheric pressure and further means are provided for maintaining the interparticle pressure of the insulating material, that is, for applying a pressure to the insulant which limits movement of the particles. prevention of particle movement ensures that the fluid remains in the form of a thin fluid. particle movement tends to occur during thermal cycling and limitation of particle movement permits increased current loading. it is an object of this invention to improve the transient electrical strength of electrical equipment employing insulants; transient electrical strength is that, e.g., during switching and when lightning strikes the electrical equipment. it is a further object of this invention to provide improved electrical equipment employing an insulant in which there is a conductive member adjacent to which there is a region of highest electrical stress. it will be appreciated that in a cable there may be only one conductive member for the load current, insulation being provided between that conductive member and earth. according to this invention there is provided electrical equipment comprising a conductive member surrounded by a taped or extruded insulant in turn surrounded by finely divided particles of solid insulating material in an insulating fluid, which insulating fluid acts as a discharge suppressant and is effectively in the form of a thin film, and means for maintaining the insulating fluid above atmospheric pressure. in a preferred embodiment of this invention there are provided means for.maintaining the interparticle pressure; such means apply pressure to the insulant to inhibit particle movement of the insulant. if the density of the particles is greater than that of the fluid, gravitational effects may be adequate to prevent particle movement which would otherwise occur in certain types of equipment due to the electrical field, then mechanical means for maintaining the interparticle pressure may not be required. a suitable tape insulant is fused silica tape or polypropelene/paper tape; if an extruded insulant is used it may, for example, be an extrusion of polypropelene or polytetrafluorethylene. the solid insulating material may, for example, be quartz, fused silica, mica, glass or porcelain. the fluid may be a mineral oil, fluorocarbon, silicon oil or sulphur hexafluoride. maintaining the interparticle pressure has advantages, for example, to inhibit conductor migration through the particle insulant in the case of a cable. the insulation of such a cable may have good thermal conductivity, low dielectric loss and high transient and quiescent electrical strength. a supertension cable in accordance with this invention will now be described, by way
+</DESCRIPTION>
+<CLAIMS>
+claims   1. electrical equipment comprising a conductive member (1) surrounded by an insulant (6) of finely divided particles of a solid insulant in an insulating fluid, which fluid acts as a discharge suppressant and is in the form of a thin film, and means for maintaining the insulating fluid above atmospheric pressure, characterised by a taped or extruded insulant (4) which surrounds the conductive member (1) and is surrounded by the insulant (6).   2. electrical equipment according to claim 1 characterised by means (8) for maintaining the interparticle pressure of the insulant (6).   3. electrical equipment according to claim 1 or claim 2 characterised in that the solid insulating material is quartz, fused silica, mica, glass or porcelain.   4. electrical equipment according to any of claims 1 to 3 characterised in that a taped insulant (4) of fused silica or polypropelene/paper tape is employed.    5. electrical equipment according to claims 1 to 3 characterised in that an extruded insulant of polypropelene or polytetrafluorethylene is employed.   6. electrical equipment in the form of a cable and according to any of claims 1 to 4 characterised in that the cable has a stranded conductor (1) having a central   duct, (2)    filled with the insulant fluid, in that a taped insulant (4) pervious to the insulating fluid is employed, and in that the means for maintaining the insulating fluid above atmospheric pressure comprise a pump connected to the duct (2).   7. a cable according to claims 2 and 6 characterised in that the means for maintaining the interparticle pressure of the insulant (6) comprises a layer of metal tape (8) surrounding an impervious membrane enclosing the insulant (6).  
+</CLAIMS>
+</TEXT>
+</DOC>

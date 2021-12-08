@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0016968
+</DOCNO>
+<TEXT>
+<DATE>
+19801015
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01L-21/338 H01L-21/027 H01L-21/033 H01L-29/812 H01L-29/66 H01L-29/78 H01L-21/02 H01L-21/3205 H01L-29/80 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+method for fabricating self-aligned high resolution non planar devices employing low resolution registration.
+</TITLE>
+<APPLICANT>
+ibmus<sep>international business machines corporation<sep>international business machines corporationold orchard roadarmonk, n.y. 10504us<sep>
+</APPLICANT>
+<INVENTOR>
+gaensslen fritz heinrichus<sep>spiller eberhard adolfus<sep>gaensslen, fritz heinrich<sep>spiller, eberhard adolf<sep>gaensslen, fritz heinrichrfd no. 1, hanover streetyorktown heights ny 10598us<sep>spiller, eberhard adolflakeside roadmt. kisco ny 10549us<sep>
+</INVENTOR>
+<ABSTRACT>
+a method is disclosed for fabricating structures having  electrically conductive regions such as high resolution se­ miconductor device and circuit designs which require only  low resolution alignment steps during fabrication.  the  method is used to fabricate metal semiconductor field ef­ fect transistors (mesfet) and metal oxide semiconductor  field effect transistors (mosfet) devices and incorporates  the following features.  a device with very small (i. e.  sub­ micro-meter) dimensions is positioned in a relatively large  device well such that the exact position of the device in its  well is not critical.  isolation and interconnection of devices  in different wells is achieved by standard masking and  alignment techniques with a resolution corresponding to  the larger dimensions of the device wells.  all high resolu­ tion features of each device are contained in a single mask­ ing level (26).  to separate and insulate different elements  of the device at such small dimensions different height  levels are used in the device so that one masking step can  produce zero lateral spacing between the different device  elements (32).  the disclosure provides examples of the  present method applied to the fabrication of a mesfet  device and a mosfet device and to isolation and intercon­ nection of single devices into large circuits on a semicon­ ductor chip.  
+</ABSTRACT>
+</TEXT>
+</DOC>

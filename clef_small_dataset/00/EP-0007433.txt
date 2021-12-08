@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0007433
+</DOCNO>
+<TEXT>
+<DATE>
+19800206
+</DATE>
+<IPC-CLASSIFICATIONS>
+H01G-4/018 H01G-4/22 H01G-4/32 <main>H01G-4/22</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+impregnated electrical capacitor and method of making it.
+</TITLE>
+<APPLICANT>
+siemens agde   <sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaftwittelsbacherplatz 280333 münchende<sep>siemens aktiengesellschaft berlin und munchen<sep>siemens aktiengesellschaft berlin und munchen<sep>
+</APPLICANT>
+<INVENTOR>
+rheindorf hans heinz dipl-phys<sep>schreiber friedewald dipl-phys<sep>rheindorf, hans heinz, dipl.-phys.<sep>schreiber, friedewald, dipl.-phys.<sep>rheindorf, hans heinz, dipl.-phys.stettiner strasse 33d-7922 herbrechtingende<sep>schreiber, friedewald, dipl.-phys.fichtenweg 10d-7924 steinheimde<sep>rheindorf, hans heinz, dipl.-phys.<sep>schreiber, friedewald, dipl.-phys.<sep>rheindorf, hans heinz, dipl.-phys.  <sep>schreiber, friedewald, dipl.-phys. <sep>rheindorf, hans heinz, dipl.-phys.stettiner strasse 33d-7922 herbrechtingende<sep>schreiber, friedewald, dipl.-phys.fichtenweg 10d-7924 steinheimde<sep>
+</INVENTOR>
+<ABSTRACT>
+The invention relates to an impregnated electrical capacitor.The capacitor consists of a winding with swellable plastic films (1) and paper straps (5).After the swelling of the plastic films (1), a residual impregnation gap (6) remains.The invention is preferably suitable for power capacitors.
+</ABSTRACT>
+</TEXT>
+</DOC>

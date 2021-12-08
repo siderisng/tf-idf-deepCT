@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011104
+</DOCNO>
+<TEXT>
+<DATE>
+19800528
+</DATE>
+<IPC-CLASSIFICATIONS>
+F22B-33/00 F28D-7/08 <main>F22B-33/18</main> F23J-15/08 F22B-33/18 F23J-15/00 F28D-7/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+flue gas reheat system.
+</TITLE>
+<APPLICANT>
+lummus tech francefr<sep>societe francaise des techniques lummus<sep>combustion engineering, inc.1000 prospect hill road box 500windsor connecticut 06095-0500us<sep>combustion engineering, inc. <sep>
+</APPLICANT>
+<INVENTOR>
+angelini edward joseph<sep>angelini, edward joseph<sep>angelini, edward joseph48 darby drivewestfield, massachusettsus<sep>angelini, edward joseph<sep>angelini, edward joseph48 darby drivewestfield, massachusettsus<sep>
+</INVENTOR>
+<ABSTRACT>
+an apparatus for reheating stack gases leaving a plurality  of scrubbers (34, 36) which uses water within an associated  steam generator (12) as the heating source.  a heat exchanger  (46) receives heat from the boiler water transferring it to a low  pressure fluid which is circulated through heat exchange sur­ faces (38,40) downstream of each of the scrubbers (34,36).   the flow of the high pressure boiler water is controlled in  response to a temperature (176) of the low pressure fluid  thereby providing a means for minimizing the flow and return  temperature of the high pressure water.  the high pressure  water is taken from a circulating pump discharge (24) and  returned to the circulating pump suction (12).  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000519
+</DOCNO>
+<TEXT>
+<DATE>
+19790207
+</DATE>
+<IPC-CLASSIFICATIONS>
+<main>C07C-109/04</main> B01J-31/00 C07C-241/00 C07C-20060101S C07C-243/00 B01J-31/26 C07C-243/22 B01J-31/28 C07B-61/00 C07C-67/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+process for the preparation of 2,2'-dichlorohydrazobenzene.
+</TITLE>
+<APPLICANT>
+hoechst agde <sep>hoechst aktiengesellschaft <sep>hoechst aktiengesellschaft65926 frankfurt am mainde<sep>hoechst aktiengesellschaft<sep>
+</APPLICANT>
+<INVENTOR>
+baessler konrad dr<sep>fuchs otto dr<sep>planker siegfried dr<sep>baessler, konrad, dr.<sep>fuchs, otto, dr.<sep>planker, siegfried, dr.<sep>baessler, konrad, dr.drosselweg 1d-6000 frankfurt/mainde<sep>fuchs, otto, dr.oestricher weg 11d-6000 frankfurt/mainde<sep>planker, siegfried, dr.kastanienweg 17d-6240 königstein/taunusde<sep>baessler, konrad, dr.  <sep>fuchs, otto, dr. <sep>planker, siegfried, dr.<sep>baessler, konrad, dr.drosselweg 1d-6000 frankfurt/mainde<sep>fuchs, otto, dr.oestricher weg 11d-6000 frankfurt/mainde<sep>planker, siegfried, dr.kastanienweg 17d-6240 königstein/taunusde<sep>
+</INVENTOR>
+<ABSTRACT>
+The preparation of 2,2'-dichlorohydrazobenzene by catalytic hydrogenation of O-nitrochlorobenzene in aqueous alkali eye with the addition of an aromatic nonwoodmichable solvent at elevated temperature and increased pressure in the presence of a noble metal catalyst and with the addition of a polycyclic quinone as a co-catalyst leads to highand well-reproducible yields when the CO catalyst is an anthraquinone derivative, in particular a hydroxyanthrobinone.
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0011018
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+H04Q-1/30 H04Q-1/457 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+recognition apparatus and method for a digital multi-frequency signal receiver.
+</TITLE>
+<APPLICANT>
+thomson csf mat telfr<sep>le materiel telephonique thomson-csf<sep>le materiel telephonique thomson-csf146 boulevard de valmy92707 colombes cedexfr<sep>
+</APPLICANT>
+<INVENTOR>
+guyot gilbert camillefr<sep>guyot, gilbert camille<sep>guyot, gilbert camille thomson-csfservice des brevets 46 quai alphonse le gallo f-92103 boulogne-billancourt cedex fr <sep>
+</INVENTOR>
+<ABSTRACT>
+the apparatus is intended to interact with filtering means which independently process successive input sequences of n samples taken from the multifrequency signals.  it includes first means (9) and second means (10) for checking the validity of the levels of the multifrequency signals, third means (11) for checking the validity of the multifrequency signals over time, and fourth means (12) for determining the next step of the recognition method.  application to telephone exchanges.  <image>
+</ABSTRACT>
+</TEXT>
+</DOC>

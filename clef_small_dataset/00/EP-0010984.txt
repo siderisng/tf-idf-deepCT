@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0010984
+</DOCNO>
+<TEXT>
+<DATE>
+19800514
+</DATE>
+<IPC-CLASSIFICATIONS>
+B01D-61/50 B01D-61/46 C02F-1/469 C02F-1/46 C25C-7/00 C25B-13/00 C25C-7/04 C25B-13/02 B01D-61/42 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+layered membrane assembly and electrochemical processes and electrochemical cell utilizing same
+</TITLE>
+<APPLICANT>
+innova incus<sep>innova, inc.<sep>innova, inc.5170 126th avenue northclearwater, fl 33520us<sep>
+</APPLICANT>
+<INVENTOR>
+moeglich karlus<sep>moeglich, karl<sep>moeglich, karl657 manor drivewest dunedin, floridaus<sep>
+</INVENTOR>
+<ABSTRACT>
+the invention relates to a membrane assembly and  processes for the utilization of the membrane assembly, or  membrane assemblies having like properties.  the mem­ brane assembly (10) comprises intermixed layers of capillary  material (11) and high dielectric constant impermeable ma­ terial (13), forming capillary channels parallel to the direc­ tion of ion transport through the membrane.  the membrane  is anion permeable, does not have membrane potential and  will not foul even over extended operation, allows cross-flow  of anions and cations, and is highly efficient.  it is possible to  remove complex metals from any contaminated acid by elec­ trodialysis, such as removing vanadium and uranium in re­ coverable form from contaminated phosphoric acid, while  producing food grade phosphoric acid in the process.  addi­ tionally, simple metals may be removed from mine waste li­ quids (from leaching), chlorine can be produced from a  chloride containing salt, and chromium can be removed from  chromium contaminated water by electrolysis.  milling sludge  can be treated to form water, caustic, and acid, and mineral­ ized water can be treated to form de-mineralized water, by  subjecting the feed liquids to electrodialysis.  
+</ABSTRACT>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008519
+</DOCNO>
+<TEXT>
+<DATE>
+19800305
+</DATE>
+<IPC-CLASSIFICATIONS>
+F16J-9/20 F16J-9/00 B60T-11/236 F16J-15/32 F16J-15/16 F04B-53/00 F04B-53/14 B60T-11/16 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+piston pump.
+</TITLE>
+<APPLICANT>
+lucas industries ltdgb<sep>lucas industries public limited company<sep>lucas industries public limited companygreat king streetbirmingham, b19 2xf west midlandsgb<sep>
+</APPLICANT>
+<INVENTOR>
+flynn derek josephgb<sep>flynn, derek joseph<sep>flynn, derek joseph1 gaydon roadsolihull, west midlandsgb<sep>
+</INVENTOR>
+<ABSTRACT>
+a seal for use between the piston (6) and cylinder of a  hydraulic brake master cylinder comprises: an inner annular  portion (2) which is located in a groove (5) in the piston (6); a  web portion (4) which extends radially outwardly and axially  forwardly from the inner annular portion (2); and an outer  annular portion (3) which extends radially outwardly and axi­ ally forwardly from the web portion (4).  the outer annular  portion (3) seals against the cylinder wall during forward  (arrow x) strokes of the piston.  during return strokes the seal  flexes about an approximate centre of flexure (14) and  because the whole of the outer annular portion (3) trails  behind the centre of flexure in the direction of the return  stroke, the whole of the outer annular portion moves away  from the cylinder wall to permit fluid recuperation.  
+</ABSTRACT>
+</TEXT>
+</DOC>

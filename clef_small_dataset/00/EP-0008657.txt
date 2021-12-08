@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0008657
+</DOCNO>
+<TEXT>
+<DATE>
+19800319
+</DATE>
+<IPC-CLASSIFICATIONS>
+A61P-37/00 C07D-233/64 A61K-31/405 A61K-31/195 C07C-101/28 A61K-31/415 A61K-31/395 C07D-233/54 C07C-229/36 C07C-229/00 <main>C07C-101/72</main> C07D-317/46 A61K-31/22 A61P-35/00 A61K-31/215 A61P-37/08 C07D-317/00 C07D-209/20 C07D-233/00 A61K-31/185 A61P-9/00 C07C-229/30 A61P-9/12 C07D-209/00 A61K-31/21 C07D-209/18 A61P-43/00 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+alpha-vinyl-alpha-aminoacids and their esters and pharmaceutical compositions containing them.
+</TITLE>
+<APPLICANT>
+merck & co incus<sep>merck & co. inc.<sep>merck &amp; co., inc.126, east lincoln avenue p.o. box 2000rahway new jersey 07065-0900us<sep>merck & co. inc.<sep>
+</APPLICANT>
+<INVENTOR>
+patchett arthur allan<sep>taub david<sep>patchett, arthur allan<sep>taub, david<sep>patchett, arthur allan1090 minisink waywestfield, n.j. 07090us<sep>taub, david54 wistar avenuemetuchen, n.j. 08840us<sep>patchett, arthur allan<sep>taub, david<sep>patchett, arthur allan1090 minisink waywestfield, n.j. 07090us<sep>taub, david54 wistar avenuemetuchen, n.j. 08840us<sep>
+</INVENTOR>
+<ABSTRACT>
+novel α-vinyl-α-aminoacids having the formula    wherein r has the signification given in the description and  is h or c₁-c₁₈ alkyl, e. g.  the compounds of the formulas    are prepared e. g.  by treating a derivative of the formula    with a strong base and an alkylating agent, followed by hyd­ rolysis.  the novel aminoacids are useful for treating hyper­ tension, as gastric secretion inhibitors, antihistamine antial­ lergics and antitumor agents.  furthermore, they exhibit  enzyme inhibition.  
+</ABSTRACT>
+</TEXT>
+</DOC>

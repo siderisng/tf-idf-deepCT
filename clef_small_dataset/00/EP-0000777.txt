@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0000777
+</DOCNO>
+<TEXT>
+<DATE>
+19790221
+</DATE>
+<IPC-CLASSIFICATIONS>
+F04B-1/12 F04B-1/32 G05D-17/00 F04B-1/30 F16H-61/40 F16H-61/42 F04B-49/08 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+control apparatus for an axial piston pump.
+</TITLE>
+<APPLICANT>
+linde agde<sep>linde aktiengesellschaft<sep>linde aktiengesellschaftd-82049 höllriegelskreuthde<sep>
+</APPLICANT>
+<INVENTOR>
+heyl walterde<sep>heyl, walter<sep>heyl, waltersattelhecke 17d-8752 johannesbergde<sep>
+</INVENTOR>
+<ABSTRACT>
+Control device for an actuator with a actuating piston with large stroke for an axial piston pump and with a pressure control piston acted upon by the delivery pressure of the pump, which acts on a control valve, from which the flow and outflow to the pressure compartments is controlled on the adjusting piston and with a two-armed lever,On whose arm a predetermined force in a distance dependent on the position of the adjusting piston is acting from the hinge point and against the other side of the lever of the control piston is abutsed and counterwise a spring acts, wherein the lever is configured as an angle lever.
+</ABSTRACT>
+</TEXT>
+</DOC>

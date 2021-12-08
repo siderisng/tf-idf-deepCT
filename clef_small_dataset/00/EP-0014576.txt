@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>
+EP-0014576
+</DOCNO>
+<TEXT>
+<DATE>
+19800820
+</DATE>
+<IPC-CLASSIFICATIONS>
+G01N-9/00 G01N-9/02 G21C-17/06 <main>G01N-9/02</main> 
+</IPC-CLASSIFICATIONS>
+<TITLE>
+apparatus for determining nuclear fuel particle bulk density.
+</TITLE>
+<APPLICANT>
+westinghouse electric corpus<sep>westinghouse electric corporation<sep>westinghouse electric corporationwestinghouse building gateway centerpittsburgh pennsylvania 15222us<sep>westinghouse electric corporation  <sep>
+</APPLICANT>
+<INVENTOR>
+john jr clarence daniel john<sep>john jr., clarence daniel john<sep>john jr., clarence daniel john164 richmore driveverona, pennsylvaniaus<sep>john jr., clarence daniel john<sep>john jr., clarence daniel john164 richmore driveverona, pennsylvaniaus<sep>
+</INVENTOR>
+<ABSTRACT>
+apparatus for determining the bulk density of radioactive  nuclear fuel particles flowing in a process stream.  a carrier  (20) having a known weight and a cavity (22) of known volume  is movable between the flowing particle stream and a weigh  cell (26).  the carrier (20) and selected portions of the cell (26)  and carrier transporter are enclosed within a sealed structure  (32) to contain the radioactive material.  after density  determination, the particle sample is dumped, preferably  back into the flowing stream, by structure which rotates the  carrier (20) or opens a door at the bottom of the cavity (22).  
+</ABSTRACT>
+</TEXT>
+</DOC>
