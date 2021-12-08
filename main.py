@@ -93,14 +93,14 @@ for subdir, dirs, files in os.walk(path):
                         f"SELECT word_id from word WHERE word = '{word}'")
                     row = c.fetchone()  # find if WORD EXISTS IN DATABASE ALREADY
 
-                    if row and row[0]:  # if it exists, do insert or ignore
+                    if row and row[0]:  # if it exists, do nothing
                         id = str(row[0])
-                        c.execute(
-                            f"INSERT OR IGNORE INTO word (word_id, word) VALUES ('{id}', '{word}')")
+                        # c.execute(
+                        #     f"INSERT OR IGNORE INTO word (word_id, word) VALUES ('{id}', '{word}')")
                     else:  # else, insert new word with a new id
                         id = str(j)
                         c.execute(
-                            f"INSERT OR IGNORE INTO word (word_id, word) VALUES ('{str(j)}', '{word}')")
+                            f"INSERT INTO word (word_id, word) VALUES ('{str(j)}', '{word}')")
 
                     c.execute(
                         f"SELECT word_id from word_in_document WHERE word_id = '{id}' AND document_id='{xml}'")
