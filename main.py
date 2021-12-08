@@ -4,6 +4,7 @@ import re
 import os
 import glob
 import math
+import time
 from bs4 import BeautifulSoup
 import sqlite3 as sl
 con = sl.connect('tf-idf.db')
@@ -39,18 +40,28 @@ path = 'clef_small_dataset'  # TODO LOOP THROUGH FOLDERS (00, 01, 02, ...)
 i = 0
 j = 0
 c = con.cursor()
+total_count = 0
+start = time.time()
+
 
 for subdir, dirs, files in os.walk(path):
+    total_count = total_count + len(files)
+
+for subdir, dirs, files in os.walk(path):
+
     for file in files:
         xml = str(os.path.join(subdir, file))
         if ".DS_STORE" in xml:
             continue
 
-        print(xml + ' - ' + str(i) + ' of ' +
-              str(len(files)), end="\r", file=f)
+        if (i % 200 == 0):
+            end = time.time()
+            print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
+                  ' === Time elapsed: ', '%.2f' % (end-start) + 's', end="\r")
+
         i = i + 1
-        if (i > 50):
-            break
+        # if (i > 50):
+        #     break
 
         # print(str(i) + ' of  ' + str(len(data)))
         patent = open(xml, 'r')
