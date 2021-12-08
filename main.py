@@ -49,23 +49,21 @@ for xml in data:
     root = BeautifulSoup(patent);
     # print(root)
     abstract = root.find('abstract');
-    title = root.find('title');
     c = con.cursor()
 
-    if (title): 
-      title = re.sub(r'\n', '', title.text)
-      title = re.sub(r"[']", '', title)
+    if (abstract and abstract.text): 
+      abstract = abstract.text;
+      abstract = re.sub(r"[']", "''", abstract) # avoid single quote problems with sql (It is a special character so we have to escape by making it -> '' )
+      howManyWords = len(abstract.split())
+    else:
+      abstract = 'NO ABSTRACT';
+      hownManyWords = 0;
 
-      if abstract:
-        howManyWords = len(abstract.text.split())
-      else:
-        hownManyWords = 0;
-
-      c.execute(f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{title}', {howManyWords})")
+    c.execute(f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{abstract}', {howManyWords})")
 
 
     if abstract:
-      for word in abstract.text.split():
+      for word in abstract.split():
         j = j + 1;
         word = re.sub(r"[,./;:()']", '', word)
         # print(word)
