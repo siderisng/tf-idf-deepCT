@@ -7,7 +7,7 @@ con.close()
 # extract abstracts from patents first and then
 # Open a folder of files one by one, and create database to use for tf idt
 
-import glob, os, re, time
+import glob, os, re
 from bs4 import BeautifulSoup
 
 
