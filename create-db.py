@@ -3,8 +3,18 @@
 import re
 import os
 import time
+import math
 import sqlite3 as sl
 from bs4 import BeautifulSoup
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type= int, default=100)
+
+args = parser.parse_args()
+# LIMIT = args.limit == 0 ? math.inf : args.limit;  
+LIMIT = math.inf if args.limit == 0 else args.limit
+print ('LIMIT is ' + str(LIMIT))
 
 f = open('output.txt', 'w')  # open output.txt for storing output
 
@@ -66,7 +76,7 @@ for subdir, dirs, files in os.walk(path):
             start = time.time()
 
         i = i + 1
-        if (i > 500):
+        if (i > LIMIT):
             break
 
         patent = open(xml, 'r', encoding='utf-8')
