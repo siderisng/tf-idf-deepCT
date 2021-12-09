@@ -33,12 +33,16 @@ for row in rows:
               ' === Time elapsed: ', '%.2f' % (end-start) + 's', end='\r')
         start = time.time()
 
-    i = i + 1;
+    i = i + 1
 
     word_id = row[1]
     doc_id = row[2]
     word = row[3]
     occurs = row[5]
+    tfidf_result = row[4]
+    if (row[4] != None):  # skip words that td-idf had already been calculated
+        continue
+
     print(
         f'word {word} with word_id: {word_id} in doc: {doc_id} appears {occurs} times', file=f)
 
