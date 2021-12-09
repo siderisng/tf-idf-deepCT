@@ -29,16 +29,30 @@ con.execute('''CREATE TABLE IF NOT EXISTS word_in_document
          tf_idf REAL,
          quantity INT NOT NULL) ''')
 
+con.execute('''
+        CREATE UNIQUE INDEX IF NOT EXISTS idx_document
+        ON document (document_id);
+''')
+
+con.execute('''
+        CREATE UNIQUE INDEX IF NOT EXISTS idx_word
+        ON word (word);
+''')
+
+con.execute('''
+        CREATE UNIQUE INDEX IF NOT EXISTS idx_word_in_document
+        ON word_in_document (word_id, document_id);
+''')
+
 path = 'clef_small_dataset'  # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
 i = 0
 j = 0
 c = con.cursor()  # needed for printing results
 total_count = 0  # will store total number of patents
-start = time.time()  # to calc how long the program is running
 
 for subdir, dirs, files in os.walk(path):
     total_count = total_count + len(files)
-
+start = time.time()
 for subdir, dirs, files in os.walk(path):
 
     for file in files:
@@ -49,10 +63,11 @@ for subdir, dirs, files in os.walk(path):
         if (i % 200 == 0):
             end = time.time()
             print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
-                  ' === Time elapsed: ', '%.2f' % (end-start) + 's', end="\r")
+                  ' === Time elapsed: ', '%.2f' % (end-start) + 's')
+            start = time.time()
 
         i = i + 1
-        # if (i > 50):
+        # if (i > 2000):
         #     break
 
         patent = open(xml, 'r')
@@ -76,6 +91,7 @@ for subdir, dirs, files in os.walk(path):
             for word in abstract.split():
                 j = j + 1
                 word = re.sub(r"[,./;:()']", '', word)
+
                 # print(word)
 
                 if word and word != '':
