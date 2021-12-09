@@ -10,11 +10,14 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type= int, default=100)
+parser.add_argument('--fields', '-f', help="which fields to use, separated by comma (,)? default is abstract,title", type= str, default='abstract,title')
 
 args = parser.parse_args()
 # LIMIT = args.limit == 0 ? math.inf : args.limit;  
 LIMIT = math.inf if args.limit == 0 else args.limit
 print ('LIMIT is ' + str(LIMIT))
+FIELDS = args.fields.split(',')
+print ('FIELDS: ' + str(FIELDS))
 
 f = open('output.txt', 'w')  # open output.txt for storing output
 
@@ -81,23 +84,30 @@ for subdir, dirs, files in os.walk(path):
 
         patent = open(xml, 'r', encoding='utf-8')
         root = BeautifulSoup(patent, features="html.parser")
-        abstract = root.find('abstract')  # extract abstract
 
-        if (abstract and abstract.text):
-            abstract = abstract.text
-            # avoid single quote problems with sql (It is a special character so we have to escape by making it -> '' )
-            abstract = re.sub(r"[']", "''", abstract)
-            howManyWords = len(abstract.split())
-        else:
-            abstract = 'NO ABSTRACT'
-            hownManyWords = 0
+        pro_fields = []
+        finalText = ''
+        for field in FIELDS:
+            pro_fields.append(root.find(field))
+
+        # print(pro_fields)
+
+        for proField in pro_fields:
+            if proField is None:
+                proField = ''
+            else:
+                proField = proField.text
+            proField = re.sub(r"[']", "''", proField)
+            finalText += proField
+            
+        howManyWords = len(finalText.split())
 
         c.execute(
-            f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{abstract}', {howManyWords})")
+            f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{finalText}', {howManyWords})")
         # store document with total word count and abstract contents
 
-        if abstract:
-            for word in abstract.split():
+        if finalText:
+            for word in finalText.split():
                 j = j + 1
                 word = re.sub(r"[,./;:()']", '', word)
 
