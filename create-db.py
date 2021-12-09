@@ -55,6 +55,7 @@ for subdir, dirs, files in os.walk(path):
 
     for file in files:
         xml = str(os.path.join(subdir, file))
+
         if ".DS_STORE" in xml:  # ignore .DS_STORE files (MacOS)
             continue
 
@@ -68,7 +69,7 @@ for subdir, dirs, files in os.walk(path):
         if (i > 500):
             break
 
-        patent = open(xml, 'r')
+        patent = open(xml, 'r', encoding='utf-8')
         root = BeautifulSoup(patent, features="html.parser")
         abstract = root.find('abstract')  # extract abstract
 
