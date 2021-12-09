@@ -2,12 +2,10 @@
 
 import re
 import os
-import math
 import time
 import sqlite3 as sl
 from bs4 import BeautifulSoup
-con = sl.connect('tf-idf.db')  # check connection to db
-con.close()
+
 f = open('output.txt', 'w')  # open output.txt for storing output
 
 # create tables for my DB
@@ -67,8 +65,8 @@ for subdir, dirs, files in os.walk(path):
             start = time.time()
 
         i = i + 1
-        # if (i > 2000):
-        #     break
+        if (i > 500):
+            break
 
         patent = open(xml, 'r')
         root = BeautifulSoup(patent, features="html.parser")
@@ -122,89 +120,4 @@ for subdir, dirs, files in os.walk(path):
                             f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{xml}', '{word}', 1)")
 
 
-# TF-IDF
-
-# tf = occurences of the word / total words (quantity, not unique words)
-
-# idf = log (total number of documents / number of documents containing the word )
-
-# tfIdf = tf * idf
-
-# Calculate TF-IDF for every word_in_document
-
-
-c.execute(f'select * from document')
-all_docs = c.fetchall()
-all_docs_n = len(all_docs)
-
-c.execute(f'select * from word_in_document')
-rows = c.fetchall()
-for row in rows:
-    word_id = row[1]
-    doc_id = row[2]
-    word = row[3]
-    occurs = row[5]
-    print(
-        f'word {word} with word_id: {word_id} in doc: {doc_id} appears {occurs} times', file=f)
-
-    c.execute(
-        f"select total_words_not_unique from document where document_id = '{doc_id}'")
-    row = c.fetchone()
-    total_words = row[0]
-    print(f"total words: {total_words}", file=f)
-
-    tf = occurs / total_words
-
-    print(f"tf is: {occurs} / {total_words} = {tf}", file=f)
-
-    c.execute(f'select * from word_in_document where word_id = {word_id}')
-    docs_with_word = c.fetchall()
-    docs_with_word_n = len(docs_with_word)
-
-    idf = math.log((all_docs_n / docs_with_word_n), 10)
-
-    print(f"idf is: log({all_docs_n} / {docs_with_word_n}) = {idf}", file=f)
-
-    tf_idf = tf * idf
-    print(f"tf-idf is: {tf} X {idf} = {tf_idf}", file=f)
-
-    c.execute(
-        f"UPDATE word_in_document SET tf_idf = {tf_idf} where word_id = {word_id} AND document_id= '{doc_id}' ")
-
-    print('========================', file=f)
-
-# c.execute(f'select * from word_in_document')
-# rows = c.fetchall();
-# for row in rows:
-#   print(row)
-
-
-# Create docterm.recall for deepCT by using TF_IDF values calculated before
-
-with open('test.docterm_recall', 'w', encoding='utf-8') as writer:
-    writer.truncate(0)  # empty the file
-
-    c.execute(f'select * from document')
-    rows = c.fetchall()
-    for row in rows:
-        # print(row)
-        doc_id = row[0]
-        title = row[2]
-        writer.write('{"term_recall": {')
-
-        c.execute(
-            f"select * from word_in_document WHERE document_id = '{doc_id}'")
-        words = c.fetchall()
-        for index, word in enumerate(words):
-            text = word[3]
-            tf_idf = word[4]
-            # print(word)
-
-            writer.write(f'"{text}": {tf_idf}')
-            if (index != len(words) - 1):
-                writer.write(', ')
-
-        writer.write('}, "doc": {"position": "1", "id": "' +
-                     doc_id + '","title": "' + title + '" }}')
-
-        writer.write('\n')
+con.commit()
