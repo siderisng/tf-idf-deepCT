@@ -11,7 +11,7 @@ import time
 # tfIdf = tf * idf
 
 # Calculate TF-IDF for every word_in_document.
-f = open('output.txt', 'w')  # open output.txt for storing output
+f = open('output.txt', 'w',encoding='utf-8')  # open output.txt for storing output
 
 con = sl.connect('tf-idf.sqlite')
 c = con.cursor()
@@ -44,7 +44,7 @@ for row in rows:
         continue
 
     print(
-        f'word {word} with word_id: {word_id} in doc: {doc_id} appears {occurs} times', file=f)
+        f'word {word} with word_id: {word_id} in doc: {doc_id} appears {occurs} times', file=f, )
 
     c.execute(
         f"select total_words_not_unique from document where document_id = '{doc_id}'")
