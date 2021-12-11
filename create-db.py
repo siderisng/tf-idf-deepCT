@@ -9,7 +9,7 @@ import argparse
 # Scikit Learn
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from tfIdf import main as runTfIdf
+from tfIdf import runTfIdf, getBestWords
 
 import pandas as pd
 
@@ -71,7 +71,8 @@ def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
                     c.execute(
                         f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{xml}', '{word}', 1)")
 
-        return j;
+    con.commit()
+    return j;
 
 def createDBAndTables():
     if os.path.exists("tf-idf.sqlite"):
@@ -109,6 +110,8 @@ def createDBAndTables():
             CREATE UNIQUE INDEX IF NOT EXISTS idx_word_in_document
             ON word_in_document (word_id, document_id);
     ''')
+
+    con.commit();
 
     return con
 
@@ -178,15 +181,31 @@ for subdir, dirs, files in os.walk(path):
         all_text = root.find().text
         documents = [all_text, finalText]
         
-        similarity = cosineSimilarity(documents)
-        print('Similarity between selected fields and full text is: ' + str(similarity))
-        print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(howManyWords))
+        # similarity = cosineSimilarity(documents)
+        # print('Similarity between selected fields and full text is: ' + str(similarity))
+        # print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(howManyWords))
 
         j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j,)
 
-        runTfIdf()
+
+        # runTfIdf()
 
 
 con.commit()
+runTfIdf()
 
+c.execute(f"SELECT * FROM document")
+rows = c.fetchall();
 
+for row in rows:
+    name = row[0]
+    patent = open(name, 'r', encoding='utf-8')        
+    root = BeautifulSoup(patent, features="html.parser")
+    all_text = root.find().text
+
+    
+    finalText = getBestWords(name, 512)
+    documents = [finalText, all_text]
+                    
+    similarity = cosineSimilarity(documents)
+    print('Similarity between selected fields and best 512 words is: ' + str(similarity))
