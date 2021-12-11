@@ -107,8 +107,13 @@ for subdir, dirs, files in os.walk(path):
         # store document with total word count and abstract contents
 
         if finalText:
+            k = 0
             for word in finalText.split():
                 j = j + 1
+
+                if (k > 512):
+                    break # we can't support more than 512 words for deepCT so no need to waste time with words that we won't use
+                k = k + 1
                 word = re.sub(r"[,./;:()']", '', word)
 
                 # print(word)
