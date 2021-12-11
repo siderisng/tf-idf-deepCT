@@ -1,3 +1,23 @@
+def cosine_similarity(documents):
+# Scikit Learn
+    from sklearn.feature_extraction.text import CountVectorizer
+    from sklearn.metrics.pairwise import cosine_similarity
+
+    import pandas as pd
+
+    # Create the Document Term Matrix
+    count_vectorizer = CountVectorizer(stop_words='english') # or TfidfVectorizer
+    count_vectorizer = CountVectorizer()
+    sparse_matrix = count_vectorizer.fit_transform(documents)
+
+    # OPTIONAL: Convert Sparse Matrix to Pandas Dataframe if you want to see the word frequencies.
+    doc_term_matrix = sparse_matrix.todense()
+    df = pd.DataFrame(doc_term_matrix, 
+                    columns=count_vectorizer.get_feature_names_out(), 
+                    index=['full', 'fields'])
+
+    return cosine_similarity(df)[0][1]
+
 # Create Database and connect to it
 
 import re
@@ -5,6 +25,7 @@ import os
 import time
 import math
 import sqlite3 as sl
+from typing import final
 from bs4 import BeautifulSoup
 import argparse
 
@@ -22,6 +43,7 @@ print ('FIELDS: ' + str(FIELDS))
 f = open('output.txt', 'w')  # open output.txt for storing output
 
 # create tables for my DB
+os.remove("tf-idf.sqlite")
 con = sl.connect('tf-idf.sqlite')
 con.execute('''CREATE TABLE IF NOT EXISTS document
          (document_id TEXT PRIMARY KEY     NOT NULL,
@@ -83,6 +105,7 @@ for subdir, dirs, files in os.walk(path):
             break
 
         patent = open(xml, 'r', encoding='utf-8')
+        
         root = BeautifulSoup(patent, features="html.parser")
 
         pro_fields = []
@@ -101,6 +124,13 @@ for subdir, dirs, files in os.walk(path):
             finalText += proField
             
         howManyWords = len(finalText.split())
+
+        # Calculate cosine similarity of extracted fields compared to full text
+        all_text = root.find().text
+        documents = [all_text, finalText]
+        
+        similarity = cosine_similarity(documents)
+        print('Similarity between selected fields and full text is: ' + str(similarity))
 
         c.execute(
             f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{finalText}', {howManyWords})")
@@ -147,3 +177,5 @@ for subdir, dirs, files in os.walk(path):
 
 
 con.commit()
+
+
