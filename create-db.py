@@ -1,10 +1,19 @@
-def cosine_similarity(documents):
+import re
+import os
+import time
+import math
+import sqlite3 as sl
+from typing import final
+from bs4 import BeautifulSoup
+import argparse
 # Scikit Learn
-    from sklearn.feature_extraction.text import CountVectorizer
-    from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from tfIdf import main as runTfIdf
 
-    import pandas as pd
+import pandas as pd
 
+def cosineSimilarity(documents):
     # Create the Document Term Matrix
     count_vectorizer = CountVectorizer(stop_words='english') # or TfidfVectorizer
     count_vectorizer = CountVectorizer()
@@ -103,16 +112,6 @@ def createDBAndTables():
 
     return con
 
-
-import re
-import os
-import time
-import math
-import sqlite3 as sl
-from typing import final
-from bs4 import BeautifulSoup
-import argparse
-
 parser = argparse.ArgumentParser()
 parser.add_argument('--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type= int, default=100)
 parser.add_argument('--fields', '-f', help="which fields to use, separated by comma (,)? default is abstract,title", type= str, default='abstract,title')
@@ -127,7 +126,7 @@ print ('FIELDS: ' + str(FIELDS))
 f = open('output.txt', 'w')  # open output.txt for storing output
 
 # create tables for my DB
-con = createDBAndTables();
+con = createDBAndTables()
 
 path = 'clef_small_dataset'  # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
 i = 0
@@ -181,11 +180,13 @@ for subdir, dirs, files in os.walk(path):
         all_text = root.find().text
         documents = [all_text, finalText]
         
-        similarity = cosine_similarity(documents)
+        similarity = cosineSimilarity(documents)
         print('Similarity between selected fields and full text is: ' + str(similarity))
         print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(howManyWords))
 
         j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j)
+
+        runTfIdf()
 
 
 con.commit()
