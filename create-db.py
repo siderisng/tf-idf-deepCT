@@ -18,7 +18,91 @@ def cosine_similarity(documents):
 
     return cosine_similarity(df)[0][1]
 
-# Create Database and connect to it
+def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
+    c.execute(
+        f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{finalText}', {howManyWords})")
+    # store document with total word count and abstract contents
+
+    if finalText:
+        k = 0
+        for word in finalText.split():
+            j = j + 1
+
+            if (k > 512):
+                break # we can't support more than 512 words for deepCT so no need to waste time with words that we won't use
+            k = k + 1
+            word = re.sub(r"[,./;:()']", '', word)
+
+            # print(word)
+
+            if word and word != '':
+                c.execute(
+                    f"SELECT word_id from word WHERE word = '{word}'")
+                row = c.fetchone()  # find if WORD EXISTS IN DATABASE ALREADY
+
+                if row and row[0]:  # if it exists, do nothing
+                    id = str(row[0])
+                    # c.execute(
+                    #     f"INSERT OR IGNORE INTO word (word_id, word) VALUES ('{id}', '{word}')")
+                else:  # else, insert new word with a new id
+                    id = str(j)
+                    c.execute(
+                        f"INSERT INTO word (word_id, word) VALUES ('{str(j)}', '{word}')")
+
+                c.execute(
+                    f"SELECT word_id from word_in_document WHERE word_id = '{id}' AND document_id='{xml}'")
+                row = c.fetchone()  # find if word in document already exists in DATABASE
+
+                if row and row[0]:  # if it exists, increment quantity by 1
+                    # print('update')
+                    c.execute(
+                        f"UPDATE word_in_document SET quantity = quantity + 1 WHERE word_id = '{id}' AND document_id = '{xml}'")
+                else:  # else, insert new word_in_document row
+                    # print('insert')
+                    c.execute(
+                        f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{xml}', '{word}', 1)")
+
+        return j;
+
+def createDBAndTables():
+    if os.path.exists("tf-idf.sqlite"):
+        os.remove("tf-idf.sqlite")
+    
+    con = sl.connect('tf-idf.sqlite')
+    con.execute('''CREATE TABLE IF NOT EXISTS document
+            (document_id TEXT PRIMARY KEY     NOT NULL,
+            total_words_not_unique INT NOT NULL,
+            title           TEXT    NOT NULL) ''')
+
+    con.execute('''CREATE TABLE IF NOT EXISTS word
+            (word_id INT PRIMARY KEY     NOT NULL,
+            word           TEXT    NOT NULL) ''')
+
+    con.execute('''CREATE TABLE IF NOT EXISTS word_in_document
+            (id INTEGER PRIMARY KEY,
+            word_id INT NOT NULL REFERENCES word (word_id),
+            document_id TEXT NOT NULL REFERENCES document (document_id),
+            word TEXT NOT NULL,
+            tf_idf REAL,
+            quantity INT NOT NULL) ''')
+
+    con.execute('''
+            CREATE UNIQUE INDEX IF NOT EXISTS idx_document
+            ON document (document_id);
+    ''')
+
+    con.execute('''
+            CREATE UNIQUE INDEX IF NOT EXISTS idx_word
+            ON word (word);
+    ''')
+
+    con.execute('''
+            CREATE UNIQUE INDEX IF NOT EXISTS idx_word_in_document
+            ON word_in_document (word_id, document_id);
+    ''')
+
+    return con
+
 
 import re
 import os
@@ -43,39 +127,7 @@ print ('FIELDS: ' + str(FIELDS))
 f = open('output.txt', 'w')  # open output.txt for storing output
 
 # create tables for my DB
-os.remove("tf-idf.sqlite")
-con = sl.connect('tf-idf.sqlite')
-con.execute('''CREATE TABLE IF NOT EXISTS document
-         (document_id TEXT PRIMARY KEY     NOT NULL,
-         total_words_not_unique INT NOT NULL,
-         title           TEXT    NOT NULL) ''')
-
-con.execute('''CREATE TABLE IF NOT EXISTS word
-         (word_id INT PRIMARY KEY     NOT NULL,
-         word           TEXT    NOT NULL) ''')
-
-con.execute('''CREATE TABLE IF NOT EXISTS word_in_document
-         (id INTEGER PRIMARY KEY,
-         word_id INT NOT NULL REFERENCES word (word_id),
-         document_id TEXT NOT NULL REFERENCES document (document_id),
-         word TEXT NOT NULL,
-         tf_idf REAL,
-         quantity INT NOT NULL) ''')
-
-con.execute('''
-        CREATE UNIQUE INDEX IF NOT EXISTS idx_document
-        ON document (document_id);
-''')
-
-con.execute('''
-        CREATE UNIQUE INDEX IF NOT EXISTS idx_word
-        ON word (word);
-''')
-
-con.execute('''
-        CREATE UNIQUE INDEX IF NOT EXISTS idx_word_in_document
-        ON word_in_document (word_id, document_id);
-''')
+con = createDBAndTables();
 
 path = 'clef_small_dataset'  # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
 i = 0
@@ -131,49 +183,9 @@ for subdir, dirs, files in os.walk(path):
         
         similarity = cosine_similarity(documents)
         print('Similarity between selected fields and full text is: ' + str(similarity))
+        print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(howManyWords))
 
-        c.execute(
-            f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{finalText}', {howManyWords})")
-        # store document with total word count and abstract contents
-
-        if finalText:
-            k = 0
-            for word in finalText.split():
-                j = j + 1
-
-                if (k > 512):
-                    break # we can't support more than 512 words for deepCT so no need to waste time with words that we won't use
-                k = k + 1
-                word = re.sub(r"[,./;:()']", '', word)
-
-                # print(word)
-
-                if word and word != '':
-                    c.execute(
-                        f"SELECT word_id from word WHERE word = '{word}'")
-                    row = c.fetchone()  # find if WORD EXISTS IN DATABASE ALREADY
-
-                    if row and row[0]:  # if it exists, do nothing
-                        id = str(row[0])
-                        # c.execute(
-                        #     f"INSERT OR IGNORE INTO word (word_id, word) VALUES ('{id}', '{word}')")
-                    else:  # else, insert new word with a new id
-                        id = str(j)
-                        c.execute(
-                            f"INSERT INTO word (word_id, word) VALUES ('{str(j)}', '{word}')")
-
-                    c.execute(
-                        f"SELECT word_id from word_in_document WHERE word_id = '{id}' AND document_id='{xml}'")
-                    row = c.fetchone()  # find if word in document already exists in DATABASE
-
-                    if row and row[0]:  # if it exists, increment quantity by 1
-                        # print('update')
-                        c.execute(
-                            f"UPDATE word_in_document SET quantity = quantity + 1 WHERE word_id = '{id}' AND document_id = '{xml}'")
-                    else:  # else, insert new word_in_document row
-                        # print('insert')
-                        c.execute(
-                            f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{xml}', '{word}', 1)")
+        j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j)
 
 
 con.commit()
