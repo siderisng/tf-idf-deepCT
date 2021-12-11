@@ -19,6 +19,7 @@ optional arguments:
 ```
 
 example run: `py .\create-db.py -l=0 -f abstract,title,inventor`
+
 (run for unlimited patent documents, process fields: abstract, title, inventor)
 
 - run `tf-idf.py`
