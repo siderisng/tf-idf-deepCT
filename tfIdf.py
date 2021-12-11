@@ -82,16 +82,19 @@ def runTfIdf():
     f.close();
 
 def getBestWords(docId, limit):
+    print('==========')
     con = sl.connect('tf-idf.sqlite')
     c = con.cursor()
 
-    c.execute(f"SELECT * FROM word_in_document")
+    c.execute(f"SELECT * FROM word_in_document WHERE document_id='{docId}'")
     rows = c.fetchall();
 
     def score(e):
         return e[4] # tf-idf score
 
-    rows.sort(key=score)
+    rows.sort(key=score, reverse= True)
+
+    print('==========')
 
     final = ''
 
