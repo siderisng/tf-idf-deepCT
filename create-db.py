@@ -123,8 +123,6 @@ print ('LIMIT is ' + str(LIMIT))
 FIELDS = args.fields.split(',')
 print ('FIELDS: ' + str(FIELDS))
 
-f = open('output.txt', 'w')  # open output.txt for storing output
-
 # create tables for my DB
 con = createDBAndTables()
 
@@ -184,7 +182,7 @@ for subdir, dirs, files in os.walk(path):
         print('Similarity between selected fields and full text is: ' + str(similarity))
         print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(howManyWords))
 
-        j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j)
+        j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j,)
 
         runTfIdf()
 
