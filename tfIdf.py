@@ -10,7 +10,7 @@ import time
 
 # tfIdf = tf * idf
 
-def main(): 
+def runTfIdf(): 
     # Calculate TF-IDF for every word_in_document.
     f = open('output.txt', 'w',encoding='utf-8')  # open output.txt for storing output
 
@@ -79,14 +79,29 @@ def main():
     #   print(row)
 
     con.commit()
+    f.close();
 
-# def getBestWords(docs, limit):
-#     con = sl.connect('tf-idf.sqlite')
-#     c = con.cursor()
+def getBestWords(docId, limit):
+    con = sl.connect('tf-idf.sqlite')
+    c = con.cursor()
 
-#     doc_ids = docs.
-#     c.execute(f"select * from word_in_document where document_id= '{doc_id}'")
+    c.execute(f"SELECT * FROM word_in_document")
+    rows = c.fetchall();
 
+    def score(e):
+        return e[4] # tf-idf score
 
+    rows.sort(key=score)
 
-main()
+    final = ''
+
+    for ind, row in enumerate(rows):
+        if ind > limit:
+            break
+
+        final += row[3] + ' '
+
+    # print(final)
+    return final
+
+# main()
