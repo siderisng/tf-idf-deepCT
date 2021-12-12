@@ -7,16 +7,18 @@ from typing import final
 from bs4 import BeautifulSoup
 import argparse
 # Scikit Learn
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from tfIdf import runTfIdf, getBestWords
 
 import pandas as pd
 
+WORD_LIMIT = 512
+
 def cosineSimilarity(documents):
     # Create the Document Term Matrix
-    count_vectorizer = CountVectorizer(stop_words='english') # or TfidfVectorizer
-    count_vectorizer = CountVectorizer()
+    # count_vectorizer = CountVectorizer(stop_words='english') # or TfidfVectorizer
+    count_vectorizer = TfidfVectorizer()
     sparse_matrix = count_vectorizer.fit_transform(documents)
 
     # OPTIONAL: Convert Sparse Matrix to Pandas Dataframe if you want to see the word frequencies.
@@ -179,33 +181,53 @@ for subdir, dirs, files in os.walk(path):
 
         # Calculate cosine similarity of extracted fields compared to full text
         all_text = root.find().text
+
+        if len(finalText.split()) <= 512:
+            continue;
+
+
+        finalText = finalText.split()[:WORD_LIMIT]
+        finalText = ' '.join(finalText)
         documents = [all_text, finalText]
         
-        # similarity = cosineSimilarity(documents)
-        # print('Similarity between selected fields and full text is: ' + str(similarity))
-        # print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(howManyWords))
+        similarity = cosineSimilarity(documents)
+        
+        print('========')
+        print('Similarity between selected fields and full text is: ' + str(similarity))
+        print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(len(finalText.split())))
 
         j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j,)
 
 
-        # runTfIdf()
+        runTfIdf(xml)
+            
+        finalTextLimit = getBestWords(xml, WORD_LIMIT)
+        documents = [all_text, finalTextLimit]
+                            
+        similarity = cosineSimilarity(documents)
+        print('Similarity between full text and best 512 words of selected fields is: ' + str(similarity))
+
+        # print(len(finalText.split()))
+        # print('---')
+        # print(len(finalTextLimit.split()))
+        print('========')
 
 
 con.commit()
-runTfIdf()
+# runTfIdf()
 
-c.execute(f"SELECT * FROM document")
-rows = c.fetchall();
+# c.execute(f"SELECT * FROM document")
+# rows = c.fetchall();
 
-for row in rows:
-    name = row[0]
-    patent = open(name, 'r', encoding='utf-8')        
-    root = BeautifulSoup(patent, features="html.parser")
-    all_text = root.find().text
+# for row in rows:
+#     name = row[0]
+#     patent = open(name, 'r', encoding='utf-8')        
+#     root = BeautifulSoup(patent, features="html.parser")
+#     all_text = root.find().text
 
     
-    finalText = getBestWords(name, 512)
-    documents = [finalText, all_text]
+#     finalText = getBestWords(name, 512)
+#     documents = [finalText, all_text]
                     
-    similarity = cosineSimilarity(documents)
-    print('Similarity between selected fields and best 512 words is: ' + str(similarity))
+#     similarity = cosineSimilarity(documents)
+#     print('Similarity between selected fields and best 512 words is: ' + str(similarity))

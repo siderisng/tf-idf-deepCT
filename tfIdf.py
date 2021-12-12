@@ -10,7 +10,7 @@ import time
 
 # tfIdf = tf * idf
 
-def runTfIdf(): 
+def runTfIdf(docId): 
     # Calculate TF-IDF for every word_in_document.
     f = open('output.txt', 'w',encoding='utf-8')  # open output.txt for storing output
 
@@ -21,7 +21,7 @@ def runTfIdf():
     all_docs = c.fetchall()
     all_docs_n = len(all_docs)
 
-    c.execute(f'select * from word_in_document')
+    c.execute(f"select * from word_in_document where document_id = '{docId}'")
     rows = c.fetchall()
     i = 0
     start = time.time()
@@ -88,6 +88,7 @@ def getBestWords(docId, limit):
 
     c.execute(f"SELECT * FROM word_in_document WHERE document_id='{docId}'")
     rows = c.fetchall();
+
 
     def score(e):
         return e[4] # tf-idf score
