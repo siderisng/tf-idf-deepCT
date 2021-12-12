@@ -103,7 +103,11 @@ def getBestWords(docId, limit):
         if ind > limit:
             break
 
-        final += row[3] + ' '
+        i = 0;
+        while i < int(row[5]):
+            i = i + 1;
+            final += row[3] + ' '
+
 
     # print(final)
     return final

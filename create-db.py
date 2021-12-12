@@ -206,6 +206,7 @@ for subdir, dirs, files in os.walk(path):
                             
         similarity = cosineSimilarity(documents)
         print('Similarity between full text and best 512 words of selected fields is: ' + str(similarity))
+        print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(len(finalTextLimit.split())))
 
         # print(len(finalText.split()))
         # print('---')
