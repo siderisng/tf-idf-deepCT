@@ -1,7 +1,7 @@
 import sqlite3 as sl
 import math
 import time
-
+import copy
 # TF-IDF
 
 # tf = occurences of the word / total words (quantity, not unique words)
@@ -83,30 +83,52 @@ def runTfIdf(docId):
 
 def getBestWords(docId, limit):
     # print('==========')
+    # print('docId: ' + str(docId) + '\n')
     con = sl.connect('tf-idf.sqlite')
     c = con.cursor()
 
-    c.execute(f"SELECT * FROM word_in_document WHERE document_id='{docId}'")
+    c.execute(f"SELECT * FROM word_in_document WHERE document_id='{docId}' ORDER BY id ASC")
     rows = c.fetchall();
 
 
     def score(e):
         return e[4] # tf-idf score
 
-    rows.sort(key=score, reverse= True)
+    sortedRows = copy.deepcopy(rows);
+    sortedRows.sort(key=score, reverse= True)
 
     # print('==========')
 
     final = ''
+    limitScore = 0;
 
-    for ind, row in enumerate(rows):
-        if ind > limit:
+    ind = 0;
+    for row in sortedRows:
+        # print('ind is: ' + str(ind))
+        if int(ind) > int(limit):
+            limitScore = row[4];
             break
+
+        ind = ind + int(row[5])
 
         i = 0;
         while i < int(row[5]):
             i = i + 1;
             final += row[3] + ' '
+
+    # print('limit score is: ', str(limitScore))
+    # print('limit is: ', str(limit))
+
+
+    # j = 0;
+    # for row in rows:
+    #     if row[4] < limitScore:
+    #         continue;
+
+        # i = 0;
+        # while i < int(row[5]):
+        #     i = i + 1;
+        #     final += row[3] + ' '
 
 
     # print(final)
