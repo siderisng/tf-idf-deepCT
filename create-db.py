@@ -215,20 +215,3 @@ for subdir, dirs, files in os.walk(path):
 
 
 con.commit()
-# runTfIdf()
-
-# c.execute(f"SELECT * FROM document")
-# rows = c.fetchall();
-
-# for row in rows:
-#     name = row[0]
-#     patent = open(name, 'r', encoding='utf-8')        
-#     root = BeautifulSoup(patent, features="html.parser")
-#     all_text = root.find().text
-
-    
-#     finalText = getBestWords(name, 512)
-#     documents = [finalText, all_text]
-                    
-#     similarity = cosineSimilarity(documents)
-#     print('Similarity between selected fields and best 512 words is: ' + str(similarity))
