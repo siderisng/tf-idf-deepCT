@@ -4,7 +4,7 @@ import sqlite3 as sl
 con = sl.connect('tf-idf.sqlite')
 c = con.cursor()
 
-with open('test.docterm_recall', 'w', encoding='utf-8') as writer:
+with open('sample_abstract.docterm_recall', 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     c.execute(f'select * from document')
