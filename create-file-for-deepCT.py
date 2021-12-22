@@ -25,7 +25,7 @@ with open('sample_abstract.docterm_recall', 'w', encoding='utf-8') as writer:
         # print(row)
         doc_id = row[0]
         title = row[2]
-        writer.write('{"term_recall": {')
+        writer.write('{"query":'+ '"' + title + '",' + '"term_recall": {')
 
         c.execute(
             f"select * from word_in_document WHERE document_id = '{doc_id}'")
