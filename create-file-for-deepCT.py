@@ -23,15 +23,15 @@ with open('sample_abstract.docterm_recall', 'w', encoding='utf-8') as writer:
         i = i + 1;
 
         # print(row)
-        doc_id = row[0]
-        title = row[2]
-        writer.write('{"query":'+ '"' + title + '",' + '"term_recall": {')
+        doc_id = row[0].replace('"', '')
+        title = row[2].replace('"', '')
+        writer.write('{"query": '+ '"' + title + '",' + ' "term_recall": {')
 
         c.execute(
             f"select * from word_in_document WHERE document_id = '{doc_id}'")
         words = c.fetchall()
         for index, word in enumerate(words):
-            text = word[3]
+            text = word[3].replace('"', '')
             tf_idf = word[4]
             # print(word)
 
