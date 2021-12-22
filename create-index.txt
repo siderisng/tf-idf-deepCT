@@ -1,9 +1,13 @@
+Proapaitoumeno: 
+- python 3
+- install package tensorflow version 1 (!!!!) 1.15
+
 !python DeepCT-master/run_deepct.py \
---data_dir=test.docterm_recall \
+--data_dir=sample_abstract.docterm_recall \
 --vocab_file=bert-base-uncased/vocab.txt \
 --bert_config_file=bert-base-uncased/bert_config.json \
 --init_checkpoint=bert-base-uncased/bert_model.ckpt \
---output_dir= output/sample_abstract/train \
+--output_dir=output/sample_abstract/train \
 --do_train=true \
 --task_name=marcodoc \
 --num_train_epochs=5.0 \
