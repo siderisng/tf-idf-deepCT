@@ -15,6 +15,7 @@ import pandas as pd
 
 WORD_LIMIT = 512
 
+
 def cosineSimilarity(documents):
     # Create the Document Term Matrix
     # count_vectorizer = CountVectorizer(stop_words='english') # or TfidfVectorizer
@@ -23,11 +24,12 @@ def cosineSimilarity(documents):
 
     # OPTIONAL: Convert Sparse Matrix to Pandas Dataframe if you want to see the word frequencies.
     doc_term_matrix = sparse_matrix.todense()
-    df = pd.DataFrame(doc_term_matrix, 
-                    columns=count_vectorizer.get_feature_names_out(), 
-                    index=['full', 'fields'])
+    df = pd.DataFrame(doc_term_matrix,
+                      columns=count_vectorizer.get_feature_names_out(),
+                      index=['full', 'fields'])
 
     return cosine_similarity(df)[0][1]
+
 
 def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
     c.execute(
@@ -40,7 +42,7 @@ def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
             j = j + 1
 
             if (k > 512):
-                break # we can't support more than 512 words for deepCT so no need to waste time with words that we won't use
+                break  # we can't support more than 512 words for deepCT so no need to waste time with words that we won't use
             k = k + 1
             word = re.sub(r"[,./;:()']", '', word)
 
@@ -74,12 +76,13 @@ def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
                         f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{xml}', '{word}', 1)")
 
     con.commit()
-    return j;
+    return j
+
 
 def createDBAndTables():
     if os.path.exists("tf-idf.sqlite"):
         os.remove("tf-idf.sqlite")
-    
+
     con = sl.connect('tf-idf.sqlite')
     con.execute('''CREATE TABLE IF NOT EXISTS document
             (document_id TEXT PRIMARY KEY     NOT NULL,
@@ -113,25 +116,29 @@ def createDBAndTables():
             ON word_in_document (word_id, document_id);
     ''')
 
-    con.commit();
+    con.commit()
 
     return con
 
+
 parser = argparse.ArgumentParser()
-parser.add_argument('--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type= int, default=100)
-parser.add_argument('--fields', '-f', help="which fields to use, separated by comma (,)? default is abstract,title", type= str, default='abstract,title')
+parser.add_argument(
+    '--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type=int, default=100)
+parser.add_argument('--fields', '-f', help="which fields to use, separated by comma (,)? default is abstract,title",
+                    type=str, default='abstract,title')
 
 args = parser.parse_args()
-# LIMIT = args.limit == 0 ? math.inf : args.limit;  
+# LIMIT = args.limit == 0 ? math.inf : args.limit;
 LIMIT = math.inf if args.limit == 0 else args.limit
-print ('LIMIT is ' + str(LIMIT))
+print('LIMIT is ' + str(LIMIT))
 FIELDS = args.fields.split(',')
-print ('FIELDS: ' + str(FIELDS))
+print('FIELDS: ' + str(FIELDS))
 
 # create tables for my DB
 con = createDBAndTables()
 
-path = 'clef_small_dataset'  # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
+# DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
+path = '/Users/giorgossideris/Downloads/final_clef_ip'
 i = 0
 j = 0
 c = con.cursor()  # needed for printing results
@@ -159,7 +166,7 @@ for subdir, dirs, files in os.walk(path):
             break
 
         patent = open(xml, 'r', encoding='utf-8')
-        
+
         root = BeautifulSoup(patent, features="html.parser")
 
         pro_fields = []
@@ -176,42 +183,42 @@ for subdir, dirs, files in os.walk(path):
                 proField = proField.text
             proField = re.sub(r"[']", "''", proField)
             finalText += proField
-            
+
         howManyWords = len(finalText.split())
 
         # Calculate cosine similarity of extracted fields compared to full text
         all_text = root.find().text
 
-        if len(finalText.split()) <= 512:
-            continue;
-
+        # if len(finalText.split()) <= 512:
+        #     continue
 
         finalText = finalText.split()[:WORD_LIMIT]
         finalText = ' '.join(finalText)
-        documents = [all_text, finalText]
-        
-        similarity = cosineSimilarity(documents)
-        
-        print('========')
-        print('Similarity between selected fields and full text is: ' + str(similarity))
-        print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(len(finalText.split())))
+        # documents = [all_text, finalText]
+
+        # similarity = cosineSimilarity(documents)
+
+        # print('========')
+        # print('Similarity between selected fields and full text is: ' + str(similarity))
+        # print('word count --- fullText: ' + str(len(all_text.split())) +
+        #       ', fields: ' + str(len(finalText.split())))
 
         j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j,)
 
-
         runTfIdf(xml)
-            
-        finalTextLimit = getBestWords(xml, WORD_LIMIT)
-        documents = [all_text, finalTextLimit]
-                            
-        similarity = cosineSimilarity(documents)
-        print('Similarity between full text and best 512 words of selected fields is: ' + str(similarity))
-        print('word count --- fullText: ' + str(len(all_text.split())) + ', fields: ' + str(len(finalTextLimit.split())))
+
+        # finalTextLimit = getBestWords(xml, WORD_LIMIT)
+        # documents = [all_text, finalTextLimit]
+
+        # similarity = cosineSimilarity(documents)
+        # print('Similarity between full text and best 512 words of selected fields is: ' + str(similarity))
+        # print('word count --- fullText: ' + str(len(all_text.split())) +
+        #       ', fields: ' + str(len(finalTextLimit.split())))
 
         # print(len(finalText.split()))
         # print('---')
         # print(len(finalTextLimit.split()))
-        print('========')
+        # print('========')
 
 
 con.commit()
