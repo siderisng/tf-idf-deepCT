@@ -139,7 +139,7 @@ con = createDBAndTables(dbName)
 # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
 path = 'C:/Users/sider/Documents/final_clef_ip'
 i = 0
-j = 0
+wordId = 0
 c = con.cursor()  # needed for printing results
 total_count = 0  # will store total number of patents
 
@@ -206,10 +206,10 @@ for subdir, dirs, files in os.walk(path):
             # we might have incomplete data from last execution of the program
             # because the operation may have been interrupted halfway
             print('skipping document: ' + xml)
-            j = j + howManyWords;
+            wordId = wordId + howManyWords; # keeping wordId accurate to avoid unique word_id constraints 
         else:  # if its a new document, do work!
             # print('processing document: ' + xml)
-            j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j)
+            wordId = createDBEntriesForDocument(c, xml, finalText, howManyWords, wordId)
             runTfIdf(xml, dbName)
 
 
