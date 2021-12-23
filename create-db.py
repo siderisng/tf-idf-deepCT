@@ -186,15 +186,11 @@ for subdir, dirs, files in os.walk(path):
         # Calculate cosine similarity of extracted fields compared to full text
         all_text = root.find().text
 
-        # if len(finalText.split()) <= 512:
-        #     continue
-
         finalText = finalText.split()[:WORD_LIMIT]
         finalText = ' '.join(finalText)
+
         # documents = [all_text, finalText]
-
         # similarity = cosineSimilarity(documents)
-
         # print('========')
         # print('Similarity between selected fields and full text is: ' + str(similarity))
         # print('word count --- fullText: ' + str(len(all_text.split())) +
@@ -206,23 +202,10 @@ for subdir, dirs, files in os.walk(path):
 
         if row and row[0]: # if this document has been processed before
             print('skipping document: ' + xml)
-        else: 
+        else:  # if its a new document, do work!
             # print('processing document: ' + xml)
             j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j)
             runTfIdf(xml, dbName)
-
-        # finalTextLimit = getBestWords(xml, WORD_LIMIT)
-        # documents = [all_text, finalTextLimit]
-
-        # similarity = cosineSimilarity(documents)
-        # print('Similarity between full text and best 512 words of selected fields is: ' + str(similarity))
-        # print('word count --- fullText: ' + str(len(all_text.split())) +
-        #       ', fields: ' + str(len(finalTextLimit.split())))
-
-        # print(len(finalText.split()))
-        # print('---')
-        # print(len(finalTextLimit.split()))
-        # print('========')
 
 end = time.time()
 print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
