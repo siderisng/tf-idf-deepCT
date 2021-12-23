@@ -30,9 +30,19 @@ def cosineSimilarity(documents):
 
 
 def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
+
+
     c.execute(
+        f"SELECT * from document WHERE document_id = '{xml}'")
+    row = c.fetchone()
+
+    if row and row[0]: # if this document has been processed before
+        print('skipping document: ' + xml + '')
+        return
+    else: 
+        c.execute(
         f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{finalText}', {howManyWords})")
-    # store document with total word count and abstract contents
+        # store document with total word count and abstract contents
 
     if finalText:
         k = 0
