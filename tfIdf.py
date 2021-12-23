@@ -30,7 +30,7 @@ def runTfIdf(docId, dbName):
     for row in rows:
         if (i % 200 == 0):
             end = time.time()
-            print(str(i) + ' of ' + str(total) +
+            print('tf-idf word #' + str(i) + ' of ' + str(total) +
                 ' === Time elapsed: ', '%.2f' % (end-start) + 's', end='\r')
             start = time.time()
 
