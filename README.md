@@ -7,6 +7,7 @@ Prequisites:
 Steps:
 
 - run `create-db.py`
+
 ```
 usage: create-db.py [-h] [--limit LIMIT] [--fields FIELDS]
 
@@ -26,4 +27,10 @@ _(run for unlimited patent documents, process fields: abstract, title, inventor)
 
 - run `create-file-for-deepCT.py`
 
-- use `.docterm_recall` file to train deepCT (TODO)
+- use `.docterm_recall` file to train deepCT
+
+- run `create-file-for-deepCT.py`
+
+- use `test_data_file.tsv` and model from training to create index with deepCT
+
+- success
