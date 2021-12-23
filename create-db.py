@@ -154,10 +154,10 @@ for subdir, dirs, files in os.walk(path):
         if ".DS_STORE" in xml:  # ignore .DS_STORE files (MacOS)
             continue
 
-        if (i % 200 == 0):
+        if (i % 200 == 0 and i != 0):
             end = time.time()
             print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
-                  ' === Time elapsed: ', '%.2f' % (end-start) + 's')
+                  ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
             start = time.time()
 
         i = i + 1
@@ -224,5 +224,8 @@ for subdir, dirs, files in os.walk(path):
         # print(len(finalTextLimit.split()))
         # print('========')
 
+end = time.time()
+print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
+    ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
 
 con.commit()

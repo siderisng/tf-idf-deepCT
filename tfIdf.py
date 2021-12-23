@@ -28,7 +28,7 @@ def runTfIdf(docId, dbName):
     total = len(rows)
 
     for row in rows:
-        if (i % 200 == 0):
+        if (i % 200 == 0 and i != 0):
             end = time.time()
             print('tf-idf word #' + str(i) + ' of ' + str(total) +
                 ' === Time elapsed: ', '%.2f' % (end-start) + 's', end='\r')
@@ -77,6 +77,9 @@ def runTfIdf(docId, dbName):
     # rows = c.fetchall();
     # for row in rows:
     #   print(row)
+    end = time.time()
+    print('tf-idf word #' + str(i) + ' of ' + str(total) +
+        ' === Time elapsed: ', '%.2f' % (end-start) + 's ===' , end='\r')
 
     con.commit()
     f.close();
