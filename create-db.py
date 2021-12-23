@@ -29,10 +29,10 @@ def cosineSimilarity(documents):
     return cosine_similarity(df)[0][1]
 
 
-def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
+def createDBEntriesForDocument(c, documentId, finalText, howManyWords, j):
 
     c.execute(
-    f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{finalText}', {howManyWords})")
+    f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{documentId}', '{finalText}', {howManyWords})")
     # store document with total word count and abstract contents
 
     if finalText:
@@ -62,17 +62,17 @@ def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
                         f"INSERT INTO word (word_id, word) VALUES ('{str(j)}', '{word}')")
 
                 c.execute(
-                    f"SELECT word_id from word_in_document WHERE word_id = '{id}' AND document_id='{xml}'")
+                    f"SELECT word_id from word_in_document WHERE word_id = '{id}' AND document_id='{documentId}'")
                 row = c.fetchone()  # find if word in document already exists in DATABASE
 
                 if row and row[0]:  # if it exists, increment quantity by 1
                     # print('update')
                     c.execute(
-                        f"UPDATE word_in_document SET quantity = quantity + 1 WHERE word_id = '{id}' AND document_id = '{xml}'")
+                        f"UPDATE word_in_document SET quantity = quantity + 1 WHERE word_id = '{id}' AND document_id = '{documentId}'")
                 else:  # else, insert new word_in_document row
                     # print('insert')
                     c.execute(
-                        f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{xml}', '{word}', 1)")
+                        f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{documentId}', '{word}', 1)")
 
     con.commit()
     return j
@@ -146,10 +146,16 @@ total_count = 0  # will store total number of patents
 for subdir, dirs, files in os.walk(path):
     total_count = total_count + len(files)
 start = time.time()
+
+
+
 for subdir, dirs, files in os.walk(path):
 
     for file in files:
+
         xml = str(os.path.join(subdir, file))
+
+        documentId = file.replace('.txt','');
 
         if ".DS_STORE" in xml:  # ignore .DS_STORE files (MacOS)
             continue
@@ -197,7 +203,7 @@ for subdir, dirs, files in os.walk(path):
         #       ', fields: ' + str(len(finalText.split())))
 
         c.execute(
-            f"SELECT * from document WHERE document_id = '{xml}'")
+            f"SELECT * from document WHERE document_id = '{documentId}'")
         row = c.fetchone()
 
 
@@ -205,12 +211,12 @@ for subdir, dirs, files in os.walk(path):
             # but not when its the first one to be skipped, 
             # we might have incomplete data from last execution of the program
             # because the operation may have been interrupted halfway
-            print('skipping document: ' + xml)
+            print('skipping document: ' + documentId)
             wordId = wordId + howManyWords; # keeping wordId accurate to avoid unique word_id constraints 
         else:  # if its a new document, do work!
-            # print('processing document: ' + xml)
-            wordId = createDBEntriesForDocument(c, xml, finalText, howManyWords, wordId)
-            runTfIdf(xml, dbName)
+            # print('processing document: ' + documentId)
+            wordId = createDBEntriesForDocument(c, documentId, finalText, howManyWords, wordId)
+            runTfIdf(documentId, dbName)
 
 
 
