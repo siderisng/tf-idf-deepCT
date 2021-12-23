@@ -3,7 +3,6 @@ import os
 import time
 import math
 import sqlite3 as sl
-from typing import final
 from bs4 import BeautifulSoup
 import argparse
 # Scikit Learn
@@ -78,10 +77,10 @@ def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
     return j
 
 
-def createDBAndTables():
-    if os.path.exists("tf-idf.sqlite"):
-        os.remove("tf-idf.sqlite")
-    con = sl.connect('tf-idf.sqlite')
+def createDBAndTables(dbName):
+    # if os.path.exists(dbName + ".sqlite"):
+    #     os.remove(dbName + ".sqlite")
+    con = sl.connect(dbName + '.sqlite')
     con.execute('''CREATE TABLE IF NOT EXISTS document
             (document_id TEXT PRIMARY KEY     NOT NULL,
             total_words_not_unique INT NOT NULL,
@@ -133,10 +132,10 @@ FIELDS = args.fields.split(',')
 print('FIELDS: ' + str(FIELDS))
 
 # create tables for my DB
-con = createDBAndTables()
+con = createDBAndTables('-'.join(FIELDS))
 
 # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
-path = '/Users/giorgossideris/Downloads/final_clef_ip'
+path = 'C:/Users/sider/Documents/final_clef_ip'
 i = 0
 j = 0
 c = con.cursor()  # needed for printing results

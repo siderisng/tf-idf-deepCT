@@ -1,6 +1,14 @@
+Proapaitoumeno gia to create-db:
+- pandas
+- bs4
+- sklearn
+
+
+
 Proapaitoumeno: 
 - python 3
 - install package tensorflow version 1 (!!!!) 1.15
+- numpy 1.19.5 oxi 1.21.5
 
 !python DeepCT-master/run_deepct.py \
 --data_dir=sample_abstract.docterm_recall \
@@ -28,4 +36,14 @@ Proapaitoumeno:
  --train_batch_size=16 \
  --learning_rate=2e-5 \
  --num_train_epochs=3.0 \
- --output_dir=output/sample_abstract/predict
+ --output_dir=output/sample_abstract/predict \
+
+same for powershell:
+
+C:\Users\sider\AppData\Local\Programs\Python\Python37\python.exe .\DeepCT-master\run_deepct.py --task_name=marcotsvdoc --do_train=false --do_eval=false --do_predict=true --data_dir=sample_abstract_test_data_file.tsv --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=output/sample_abstract/train/model.ckpt-0 --max_seq_length=128 --train_batch_size=16 --learning_rate=2e-5 --num_train_epochs=3.0 --output_dir=output/sample_abstract/predict
+
+
+to remove all non-ascii characters:
+[^\x00-\x7F]+
+
+or do it with python

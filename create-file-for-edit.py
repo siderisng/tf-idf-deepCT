@@ -24,7 +24,7 @@ with open('sample_abstract_test_data_file.tsv', 'w', encoding='utf-8') as writer
 
         i = i + 1
         # print(row)
-        doc_id = row[0]
+        doc_id = row[0].replace('', '')
         title = row[2]
         writer.write(str(doc_id) + '\t' + str(title))
 
