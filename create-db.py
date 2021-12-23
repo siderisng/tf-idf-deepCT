@@ -15,7 +15,6 @@ import pandas as pd
 
 WORD_LIMIT = 512
 
-
 def cosineSimilarity(documents):
     # Create the Document Term Matrix
     # count_vectorizer = CountVectorizer(stop_words='english') # or TfidfVectorizer
@@ -82,7 +81,6 @@ def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
 def createDBAndTables():
     if os.path.exists("tf-idf.sqlite"):
         os.remove("tf-idf.sqlite")
-
     con = sl.connect('tf-idf.sqlite')
     con.execute('''CREATE TABLE IF NOT EXISTS document
             (document_id TEXT PRIMARY KEY     NOT NULL,
@@ -166,7 +164,6 @@ for subdir, dirs, files in os.walk(path):
             break
 
         patent = open(xml, 'r', encoding='utf-8')
-
         root = BeautifulSoup(patent, features="html.parser")
 
         pro_fields = []
@@ -183,7 +180,6 @@ for subdir, dirs, files in os.walk(path):
                 proField = proField.text
             proField = re.sub(r"[']", "''", proField)
             finalText += proField
-
         howManyWords = len(finalText.split())
 
         # Calculate cosine similarity of extracted fields compared to full text
