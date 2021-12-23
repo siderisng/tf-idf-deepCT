@@ -10,11 +10,11 @@ import copy
 
 # tfIdf = tf * idf
 
-def runTfIdf(docId): 
+def runTfIdf(docId, dbName): 
     # Calculate TF-IDF for every word_in_document.
-    f = open('output.txt', 'w',encoding='utf-8')  # open output.txt for storing output
+    f = open('output.txt', 'a',encoding='utf-8')  # open output.txt for storing output
 
-    con = sl.connect('tf-idf.sqlite')
+    con = sl.connect(dbName + '.sqlite')
     c = con.cursor()
 
     c.execute(f'select * from document')
