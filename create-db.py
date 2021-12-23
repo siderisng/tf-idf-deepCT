@@ -31,18 +31,9 @@ def cosineSimilarity(documents):
 
 def createDBEntriesForDocument(c, xml, finalText, howManyWords, j):
 
-
     c.execute(
-        f"SELECT * from document WHERE document_id = '{xml}'")
-    row = c.fetchone()
-
-    if row and row[0]: # if this document has been processed before
-        print('skipping document: ' + xml + '')
-        return
-    else: 
-        c.execute(
-        f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{finalText}', {howManyWords})")
-        # store document with total word count and abstract contents
+    f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{xml}', '{finalText}', {howManyWords})")
+    # store document with total word count and abstract contents
 
     if finalText:
         k = 0
@@ -141,8 +132,9 @@ print('LIMIT is ' + str(LIMIT))
 FIELDS = args.fields.split(',')
 print('FIELDS: ' + str(FIELDS))
 
+dbName = '-'.join(FIELDS);
 # create tables for my DB
-con = createDBAndTables('-'.join(FIELDS))
+con = createDBAndTables(dbName)
 
 # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
 path = 'C:/Users/sider/Documents/final_clef_ip'
@@ -208,9 +200,16 @@ for subdir, dirs, files in os.walk(path):
         # print('word count --- fullText: ' + str(len(all_text.split())) +
         #       ', fields: ' + str(len(finalText.split())))
 
-        j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j,)
+        c.execute(
+            f"SELECT * from document WHERE document_id = '{xml}'")
+        row = c.fetchone()
 
-        runTfIdf(xml)
+        if row and row[0]: # if this document has been processed before
+            print('skipping document: ' + xml)
+        else: 
+            # print('processing document: ' + xml)
+            j = createDBEntriesForDocument(c, xml, finalText, howManyWords, j)
+            runTfIdf(xml, dbName)
 
         # finalTextLimit = getBestWords(xml, WORD_LIMIT)
         # documents = [all_text, finalTextLimit]
