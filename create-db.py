@@ -140,6 +140,7 @@ con = createDBAndTables(dbName)
 path = 'C:/Users/sider/Documents/final_clef_ip'
 i = 0
 j = 0
+firstOneToBeSkipped = True
 c = con.cursor()  # needed for printing results
 total_count = 0  # will store total number of patents
 
@@ -200,7 +201,14 @@ for subdir, dirs, files in os.walk(path):
             f"SELECT * from document WHERE document_id = '{xml}'")
         row = c.fetchone()
 
-        if row and row[0]: # if this document has been processed before
+        if firstOneToBeSkipped: 
+            print('first one to be skipped, will be processed instead!')
+
+        if row and row[0] and not firstOneToBeSkipped: # if this document has been processed before
+            # but not when its the first one to be skipped, 
+            # we might have incomplete data from last execution of the program
+            # because the operation may have been interrupted halfway
+            firstOneToBeSkipped = False
             print('skipping document: ' + xml)
         else:  # if its a new document, do work!
             # print('processing document: ' + xml)
