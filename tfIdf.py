@@ -10,18 +10,15 @@ import copy
 
 # tfIdf = tf * idf
 
-def runTfIdf(docId, dbName): 
+def runTfIdf(dbName, c): 
     # Calculate TF-IDF for every word_in_document.
     f = open('output.txt', 'a',encoding='utf-8')  # open output.txt for storing output
-
-    con = sl.connect(dbName + '.sqlite')
-    c = con.cursor()
 
     c.execute(f'select * from document')
     all_docs = c.fetchall()
     all_docs_n = len(all_docs)
 
-    c.execute(f"select * from word_in_document where document_id = '{docId}'")
+    c.execute(f"select * from word_in_document")
     rows = c.fetchall()
     i = 0
     start = time.time()
@@ -81,7 +78,6 @@ def runTfIdf(docId, dbName):
     print('tf-idf word #' + str(i) + ' of ' + str(total) +
         ' === Time elapsed: ', '%.2f' % (end-start) + 's ===' , end='\r')
 
-    con.commit()
     f.close();
 
 def getBestWords(docId, limit):

@@ -74,7 +74,7 @@ def createDBEntriesForDocument(c, documentId, finalText, howManyWords, j):
                     c.execute(
                         f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{documentId}', '{word}', 1)")
 
-    con.commit()
+    # con.commit()
     return j
 
 
@@ -160,7 +160,7 @@ for subdir, dirs, files in os.walk(path):
         if ".DS_STORE" in xml:  # ignore .DS_STORE files (MacOS)
             continue
 
-        if (i % 200 == 0 and i != 0):
+        if (i % 1000 == 0 and i != 0):
             end = time.time()
             print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
                   ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
@@ -216,9 +216,9 @@ for subdir, dirs, files in os.walk(path):
         else:  # if its a new document, do work!
             # print('processing document: ' + documentId)
             wordId = createDBEntriesForDocument(c, documentId, finalText, howManyWords, wordId)
-            runTfIdf(documentId, dbName)
 
 
+runTfIdf(dbName,c)
 
 
 end = time.time()
