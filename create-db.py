@@ -114,7 +114,7 @@ def createDBAndTables(dbName):
             ON word_in_document (word_id, document_id);
     ''')
 
-    con.commit()
+    # con.commit()
 
     return con
 
@@ -169,6 +169,7 @@ for subdir, dirs, files in os.walk(path):
             print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
                   ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
             start = time.time()
+            con.commit()
 
         i = i + 1
         if (i > LIMIT):
