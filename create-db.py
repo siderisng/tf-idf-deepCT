@@ -29,7 +29,7 @@ def cosineSimilarity(documents):
     return cosine_similarity(df)[0][1]
 
 
-def createDBEntriesForDocument(c, documentId, finalText, howManyWords, j):
+def createDBEntriesForDocument(c, con, documentId, finalText, howManyWords, j):
 
     c.execute(
     f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{documentId}', '{finalText}', {howManyWords})")
@@ -74,7 +74,7 @@ def createDBEntriesForDocument(c, documentId, finalText, howManyWords, j):
                     c.execute(
                         f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{documentId}', '{word}', 1)")
 
-    # con.commit()
+    con.commit()
     return j
 
 
@@ -145,10 +145,14 @@ total_count = 0  # will store total number of patents
 
 for subdir, dirs, files in os.walk(path):
     total_count = total_count + len(files)
+    i = i +1
+    if (i > LIMIT):
+        break
+
 start = time.time()
 
 
-
+i = 0
 for subdir, dirs, files in os.walk(path):
 
     for file in files:
@@ -215,7 +219,7 @@ for subdir, dirs, files in os.walk(path):
             wordId = wordId + howManyWords; # keeping wordId accurate to avoid unique word_id constraints 
         else:  # if its a new document, do work!
             # print('processing document: ' + documentId)
-            wordId = createDBEntriesForDocument(c, documentId, finalText, howManyWords, wordId)
+            wordId = createDBEntriesForDocument(c, con, documentId, finalText, howManyWords, wordId)
 
 
 runTfIdf(dbName,c)
