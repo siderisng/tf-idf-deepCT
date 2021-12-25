@@ -6,7 +6,7 @@ con = sl.connect('description.sqlite')
 c = con.cursor()
 start = time.time()
 
-with open('pyserini.jsonl', 'w', encoding='utf-8') as writer:
+with open('jsonl/pyserini.jsonl', 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     c.execute(f'select document_id, title from document')
@@ -24,8 +24,8 @@ with open('pyserini.jsonl', 'w', encoding='utf-8') as writer:
 
         # print(row)
         doc_id = row[0].replace('"', '')
-        title = row[1].replace('"', '')
-        writer.write('{"id": ' + '"' + doc_id + '",' + ' "contents": {')
+        title = row[1].replace('"', '').replace('\\', '\\\\')
+        writer.write('{"id": ' + '"' + doc_id + '",' + ' "contents":')
 
         writer.write('"' + title + '"')
 

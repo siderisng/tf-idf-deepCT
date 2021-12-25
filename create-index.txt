@@ -47,3 +47,10 @@ to remove all non-ascii characters:
 [^\x00-\x7F]+
 
 or do it with python
+
+
+
+create inverted index with pyserini
+- first create jsonl file
+
+C:/Users/sider/AppData/Local/Programs/Python/Python37/python.exe -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/sample_collection_jsonl --threads 1 --storePositions --storeDocvectors --storeRaw
