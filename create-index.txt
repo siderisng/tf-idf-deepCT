@@ -53,4 +53,17 @@ or do it with python
 create inverted index with pyserini
 - first create jsonl file
 
-C:/Users/sider/AppData/Local/Programs/Python/Python37/python.exe -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/sample_collection_jsonl --threads 1 --storePositions --storeDocvectors --storeRaw
+C:/Users/sider/AppData/Local/Programs/Python/Python37/python.exe -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/complete_description --threads 1 --storePositions --storeDocvectors --storeRaw
+
+
+
+1. createDB me kapoio field
+2. pyserini-create-inverted-index-help-file
+3. (mono se mac/linux kai mesa se environment conda) python3 -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/complete_description --threads 1 --storePositions --storeDocvectors --storeRaw
+4. (pali se conda) python3 pyserini_bm_25.py
+5. use docterm_recall file to train DeepCT
+6. create index
+
+
+
+

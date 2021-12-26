@@ -9,7 +9,6 @@ import sqlite3 as sl
 
 def calculateBM25(index_reader, docId, word):
     # Initialize from an index path:
-    index_reader = IndexReader('indexes/sample_collection_jsonl/')
     tf = index_reader.get_document_vector(docId)
     df = {term: (index_reader.get_term_counts(term, analyzer=None))[
         0] for term in tf.keys()}
@@ -21,7 +20,7 @@ def calculateBM25(index_reader, docId, word):
 
 
 # Initialize from an index path:
-index_reader = IndexReader('indexes/sample_collection_jsonl/')
+index_reader = IndexReader('indexes/complete_description/')
 
 con = sl.connect('description.sqlite')
 c = con.cursor()
