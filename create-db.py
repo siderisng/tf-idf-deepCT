@@ -14,6 +14,7 @@ import pandas as pd
 
 WORD_LIMIT = 512
 
+
 def cosineSimilarity(documents):
     # Create the Document Term Matrix
     # count_vectorizer = CountVectorizer(stop_words='english') # or TfidfVectorizer
@@ -31,48 +32,52 @@ def cosineSimilarity(documents):
 
 def createDBEntriesForDocument(c, con, documentId, finalText, howManyWords, j):
 
+    # c.execute(
+    #     f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{documentId}', '{finalText}', {howManyWords})")
+    # # store document with total word count and abstract contents
+
     c.execute(
-    f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{documentId}', '{finalText}', {howManyWords})")
+        f"INSERT OR IGNORE INTO document (document_id, title) VALUES ('{documentId}', '{finalText}')")
     # store document with total word count and abstract contents
 
-    if finalText:
-        k = 0
-        for word in finalText.split():
-            j = j + 1
+    # if finalText:
+    #     k = 0
+    #     for word in finalText.split():
+    #         j = j + 1
 
-            if (k > 512):
-                break  # we can't support more than 512 words for deepCT so no need to waste time with words that we won't use
-            k = k + 1
-            word = re.sub(r"[,./;:()']", '', word)
+    #         if (k > 512):
+    #             break  # we can't support more than 512 words for deepCT so no need to waste time with words that we won't use
+    #         k = k + 1
+    #         word = re.sub(r"[,./;:()']", '', word)
 
-            # print(word)
+    #         # print(word)
 
-            if word and word != '':
-                c.execute(
-                    f"SELECT word_id from word WHERE word = '{word}'")
-                row = c.fetchone()  # find if WORD EXISTS IN DATABASE ALREADY
+    #         if word and word != '':
+    #             c.execute(
+    #                 f"SELECT word_id from word WHERE word = '{word}'")
+    #             row = c.fetchone()  # find if WORD EXISTS IN DATABASE ALREADY
 
-                if row and row[0]:  # if it exists, do nothing
-                    id = str(row[0])
-                    # c.execute(
-                    #     f"INSERT OR IGNORE INTO word (word_id, word) VALUES ('{id}', '{word}')")
-                else:  # else, insert new word with a new id
-                    id = str(j)
-                    c.execute(
-                        f"INSERT INTO word (word_id, word) VALUES ('{str(j)}', '{word}')")
+    #             if row and row[0]:  # if it exists, do nothing
+    #                 id = str(row[0])
+    #                 # c.execute(
+    #                 #     f"INSERT OR IGNORE INTO word (word_id, word) VALUES ('{id}', '{word}')")
+    #             else:  # else, insert new word with a new id
+    #                 id = str(j)
+    #                 c.execute(
+    #                     f"INSERT INTO word (word_id, word) VALUES ('{str(j)}', '{word}')")
 
-                c.execute(
-                    f"SELECT word_id from word_in_document WHERE word_id = '{id}' AND document_id='{documentId}'")
-                row = c.fetchone()  # find if word in document already exists in DATABASE
+    #             c.execute(
+    #                 f"SELECT word_id from word_in_document WHERE word_id = '{id}' AND document_id='{documentId}'")
+    #             row = c.fetchone()  # find if word in document already exists in DATABASE
 
-                if row and row[0]:  # if it exists, increment quantity by 1
-                    # print('update')
-                    c.execute(
-                        f"UPDATE word_in_document SET quantity = quantity + 1 WHERE word_id = '{id}' AND document_id = '{documentId}'")
-                else:  # else, insert new word_in_document row
-                    # print('insert')
-                    c.execute(
-                        f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{documentId}', '{word}', 1)")
+    #             if row and row[0]:  # if it exists, increment quantity by 1
+    #                 # print('update')
+    #                 c.execute(
+    #                     f"UPDATE word_in_document SET quantity = quantity + 1 WHERE word_id = '{id}' AND document_id = '{documentId}'")
+    #             else:  # else, insert new word_in_document row
+    #                 # print('insert')
+    #                 c.execute(
+    #                     f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{documentId}', '{word}', 1)")
 
     con.commit()
     return j
@@ -132,7 +137,7 @@ print('LIMIT is ' + str(LIMIT))
 FIELDS = args.fields.split(',')
 print('FIELDS: ' + str(FIELDS))
 
-dbName = '-'.join(FIELDS);
+dbName = '-'.join(FIELDS)
 # create tables for my DB
 con = createDBAndTables(dbName)
 
@@ -145,7 +150,7 @@ total_count = 0  # will store total number of patents
 
 for subdir, dirs, files in os.walk(path):
     total_count = total_count + len(files)
-    i = i +1
+    i = i + 1
     if (i > LIMIT):
         break
 
@@ -159,15 +164,15 @@ for subdir, dirs, files in os.walk(path):
 
         xml = str(os.path.join(subdir, file))
 
-        documentId = file.replace('.txt','');
+        documentId = file.replace('.txt', '')
 
         if ".DS_STORE" in xml:  # ignore .DS_STORE files (MacOS)
             continue
 
         if (i % 1000 == 0 and i != 0):
             end = time.time()
-            print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
-                  ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
+            print(str(documentId) + ' - ' + str(i) + ' of ' + str(total_count) +
+                  ' ===== Time elapsed: ', '%.2f' % (end-start) + 's, ====== Progress: ' + str(round(i / total_count * 100, 2)) + '%')
             start = time.time()
             con.commit()
 
@@ -192,7 +197,7 @@ for subdir, dirs, files in os.walk(path):
                 proField = proField.text
             proField = re.sub(r"[']", "''", proField)
             finalText += proField
-        howManyWords = len(finalText.split())
+        # howManyWords = len(finalText.split())
 
         # Calculate cosine similarity of extracted fields compared to full text
         all_text = root.find().text
@@ -211,23 +216,28 @@ for subdir, dirs, files in os.walk(path):
             f"SELECT * from document WHERE document_id = '{documentId}'")
         row = c.fetchone()
 
+        if not row:
+            createDBEntriesForDocument(
+                c, con, documentId, finalText, '', wordId)
 
-        if row and row[0]: # if this document has been processed before
-            # but not when its the first one to be skipped, 
-            # we might have incomplete data from last execution of the program
-            # because the operation may have been interrupted halfway
-            print('skipping document: ' + documentId)
-            wordId = wordId + howManyWords; # keeping wordId accurate to avoid unique word_id constraints 
-        else:  # if its a new document, do work!
-            # print('processing document: ' + documentId)
-            wordId = createDBEntriesForDocument(c, con, documentId, finalText, howManyWords, wordId)
+        # if row and row[0]:  # if this document has been processed before
+        #     # but not when its the first one to be skipped,
+        #     # we might have incomplete data from last execution of the program
+        #     # because the operation may have been interrupted halfway
+        #     # print('skipping document: ' + documentId)
+        #     # keeping wordId accurate to avoid unique word_id constraints
+        #     wordId = wordId + howManyWords
+        # else:  # if its a new document, do work!
+        #     # print('processing document: ' + documentId)
+        #     wordId = createDBEntriesForDocument(
+        #         c, con, documentId, finalText, howManyWords, wordId)
 
 
-runTfIdf(dbName,c)
+# runTfIdf(dbName, c)
 
 
 end = time.time()
 print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
-    ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
+      ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
 
 con.commit()
