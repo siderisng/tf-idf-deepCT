@@ -64,6 +64,3 @@ C:/Users/sider/AppData/Local/Programs/Python/Python37/python.exe -m pyserini.ind
 5. use docterm_recall file to train DeepCT
 6. create index
 
-
-
-
