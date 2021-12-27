@@ -47,6 +47,7 @@ Proapaitoumeno gia to create-db (1):
 - pandas
 - bs4
 - sklearn
+- bs4 (beautiful soup)
 
 Proapaitoumeno gia pyserini (3,4):
 - python 3.8
