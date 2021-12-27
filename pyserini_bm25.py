@@ -8,10 +8,10 @@ import sqlite3 as sl
 
 
 def calculateBM25(index_reader, docId, word):
-    # Initialize from an index path:
-    tf = index_reader.get_document_vector(docId)
-    df = {term: (index_reader.get_term_counts(term, analyzer=None))[
-        0] for term in tf.keys()}
+    # # Initialize from an index path:
+    # tf = index_reader.get_document_vector(docId)
+    # df = {term: (index_reader.get_term_counts(term, analyzer=None))[
+    #     0] for term in tf.keys()}
     # Note that the keys of get_document_vector() are already analyzed, we set analyzer to be None.
     bm25_score = index_reader.compute_bm25_term_weight(
         docId, word, analyzer=None)
