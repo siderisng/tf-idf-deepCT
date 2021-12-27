@@ -19,7 +19,7 @@ STEPS
 --task_name=marcodoc \
 --num_train_epochs=5.0 \
 --recall_field=title \
---train_batch_size=16 \
+--train_batch_size=16
 
 (6) command:
 
