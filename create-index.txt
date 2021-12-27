@@ -14,7 +14,7 @@ STEPS
 --vocab_file=bert-base-uncased/vocab.txt \
 --bert_config_file=bert-base-uncased/bert_config.json \
 --init_checkpoint=bert-base-uncased/bert_model.ckpt \
---output_dir=output/sample_abstract/train \
+--output_dir=output/complete_descriptions/train \
 --do_train=true \
 --task_name=marcodoc \
 --num_train_epochs=5.0 \
