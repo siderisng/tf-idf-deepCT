@@ -1,11 +1,12 @@
 STEPS
 
-1. createDB me kapoio field
-2. pyserini-create-inverted-index-help-file (dimiourgia jsonl file)
+1. create-db.py me kapoia fields
+2. pyserini-create-inverted-index-help-file.py (dimiourgia jsonl file)
 3. (mono se mac/linux kai mesa se environment conda) python3 -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/complete_description --threads 1 --storePositions --storeDocvectors --storeRaw
 4. (pali se conda) python3 pyserini_bm_25.py === OXI PYTHON 3.9 GIA TO PYSERINI ===
 5. use docterm_recall file to train DeepCT
-6. create index
+6. create-file-for-edit.py - xreiazetai gia to index creation me deepCT opws kai ta apotelesmata tou training parapanw
+7. create index
 
 (5) command:
 
@@ -21,17 +22,17 @@ STEPS
 --recall_field=title \
 --train_batch_size=16
 
-(6) command:
+(7) command:
 
 !python DeepCT-master/run_deepct.py \
  --task_name=marcotsvdoc \
  --do_train=false \
  --do_eval=false \
  --do_predict=true \
- --data_dir=to-edit.tsv \
+ --data_dir=output/complete_descriptions/edit.tsv \
  --vocab_file=bert-base-uncased/vocab.txt \
  --bert_config_file=bert-base-uncased/bert_config.json \
- --init_checkpoint=output/sample_abstract/train/model.ckpt-0 \
+ --init_checkpoint=output/complete_descriptions/train/model.ckpt-0 \
  --max_seq_length=128 \
  --train_batch_size=16 \
  --learning_rate=2e-5 \
