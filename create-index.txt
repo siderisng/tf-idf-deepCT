@@ -1,9 +1,17 @@
+STEPS
+
+1. createDB me kapoio field
+2. pyserini-create-inverted-index-help-file (dimiourgia jsonl file)
+3. (mono se mac/linux kai mesa se environment conda) python3 -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/complete_description --threads 1 --storePositions --storeDocvectors --storeRaw
+4. (pali se conda) python3 pyserini_bm_25.py === OXI PYTHON 3.9 GIA TO PYSERINI ===
+5. use docterm_recall file to train DeepCT
+6. create index
+
+
 Proapaitoumeno gia to create-db:
 - pandas
 - bs4
 - sklearn
-
-
 
 Proapaitoumeno: 
 - python 3.7 (oxi parapanw gia na exei tensorflow v1)
@@ -43,24 +51,7 @@ same for powershell:
 C:\Users\sider\AppData\Local\Programs\Python\Python37\python.exe .\DeepCT-master\run_deepct.py --task_name=marcotsvdoc --do_train=false --do_eval=false --do_predict=true --data_dir=sample_abstract_test_data_file.tsv --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=output/sample_abstract/train/model.ckpt-0 --max_seq_length=128 --train_batch_size=16 --learning_rate=2e-5 --num_train_epochs=3.0 --output_dir=output/sample_abstract/predict
 
 
-to remove all non-ascii characters:
+- to remove all non-ascii characters:
 [^\x00-\x7F]+
 
 or do it with python
-
-
-
-create inverted index with pyserini
-- first create jsonl file
-
-C:/Users/sider/AppData/Local/Programs/Python/Python37/python.exe -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/complete_description --threads 1 --storePositions --storeDocvectors --storeRaw
-
-
-
-1. createDB me kapoio field
-2. pyserini-create-inverted-index-help-file
-3. (mono se mac/linux kai mesa se environment conda) python3 -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/complete_description --threads 1 --storePositions --storeDocvectors --storeRaw
-4. (pali se conda) python3 pyserini_bm_25.py
-5. use docterm_recall file to train DeepCT
-6. create index
-
