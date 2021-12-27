@@ -44,7 +44,7 @@ with open('output/complete_descriptions/train.docterm_recall', 'w', encoding='ut
 
         i = i + 1
 
-        title = row[0]
+        title = row[0].replace('"', '')
         document_id = row[1]
         if title:
             writer.write('{"query": ' + '"' + title +
@@ -55,6 +55,8 @@ with open('output/complete_descriptions/train.docterm_recall', 'w', encoding='ut
         wordList = title.split(' ')
         index = 0
         for word in wordList:
+            word = word.replace('"', '')
+
             score = calculateBM25(index_reader, document_id, word)
             writer.write(f'"{word}": {score}')
             if (index != len(wordList) - 1):
