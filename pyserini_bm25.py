@@ -44,7 +44,8 @@ with open('output/complete_descriptions/train.docterm_recall', 'w', encoding='ut
 
         i = i + 1
 
-        title = row[0]
+        title = row[0].replace('"', '')
+        title = title.replace('\\', '')
         document_id = row[1]
         if title:
             writer.write('{"query": ' + '"' + title +

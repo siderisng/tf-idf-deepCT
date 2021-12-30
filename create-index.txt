@@ -1,45 +1,38 @@
 STEPS
 
-1. createDB me kapoio field
-2. pyserini-create-inverted-index-help-file (dimiourgia jsonl file)
+1. create-db.py me kapoia fields
+2. pyserini-create-inverted-index-help-file.py (dimiourgia jsonl file)
 3. (mono se mac/linux kai mesa se environment conda) python3 -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/complete_description --threads 1 --storePositions --storeDocvectors --storeRaw
 4. (pali se conda) python3 pyserini_bm_25.py === OXI PYTHON 3.9 GIA TO PYSERINI ===
 5. use docterm_recall file to train DeepCT
-6. create index
+6. create-file-for-edit.py - xreiazetai gia to index creation me deepCT opws kai ta apotelesmata tou training parapanw
+7. create index
 
-
-Proapaitoumeno gia to create-db:
-- pandas
-- bs4
-- sklearn
-
-Proapaitoumeno: 
-- python 3.7 (oxi parapanw gia na exei tensorflow v1)
-- install package tensorflow version 1 (!!!!) 1.15
-- numpy 1.19.5 oxi 1.21.5
+(5) command:
 
 !python DeepCT-master/run_deepct.py \
---data_dir=sample_abstract.docterm_recall \
+--data_dir=output/complete_descriptions/train.docterm_recall \
 --vocab_file=bert-base-uncased/vocab.txt \
 --bert_config_file=bert-base-uncased/bert_config.json \
 --init_checkpoint=bert-base-uncased/bert_model.ckpt \
---output_dir=output/sample_abstract/train \
+--output_dir=output/complete_descriptions/train \
 --do_train=true \
 --task_name=marcodoc \
 --num_train_epochs=5.0 \
 --recall_field=title \
---train_batch_size=16 \
+--train_batch_size=16
 
+(7) command:
 
 !python DeepCT-master/run_deepct.py \
  --task_name=marcotsvdoc \
  --do_train=false \
  --do_eval=false \
  --do_predict=true \
- --data_dir=to-edit.tsv \
+ --data_dir=output/complete_descriptions/edit.tsv \
  --vocab_file=bert-base-uncased/vocab.txt \
  --bert_config_file=bert-base-uncased/bert_config.json \
- --init_checkpoint=output/sample_abstract/train/model.ckpt-0 \
+ --init_checkpoint=output/complete_descriptions/train/model.ckpt-0 \
  --max_seq_length=128 \
  --train_batch_size=16 \
  --learning_rate=2e-5 \
@@ -49,6 +42,23 @@ Proapaitoumeno:
 same for powershell:
 
 C:\Users\sider\AppData\Local\Programs\Python\Python37\python.exe .\DeepCT-master\run_deepct.py --task_name=marcotsvdoc --do_train=false --do_eval=false --do_predict=true --data_dir=sample_abstract_test_data_file.tsv --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=output/sample_abstract/train/model.ckpt-0 --max_seq_length=128 --train_batch_size=16 --learning_rate=2e-5 --num_train_epochs=3.0 --output_dir=output/sample_abstract/predict
+
+
+Proapaitoumeno gia to create-db (1):
+- pandas
+- bs4
+- sklearn
+- bs4 (beautiful soup)
+
+Proapaitoumeno gia pyserini (3,4):
+- python 3.8
+- conda environment
+- pyserini installation instructions: https://github.com/castorini/pyserini/blob/master/docs/installation.md
+
+Proapaitoumeno gia deepCT (5, 7): 
+- python 3.7 (oxi parapanw gia na exei tensorflow v1)
+- install package tensorflow version 1 (!!!!) 1.15
+- numpy 1.19.5 oxi 1.21.5
 
 
 - to remove all non-ascii characters:
