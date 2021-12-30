@@ -51,20 +51,23 @@ with open('output/complete_descriptions/train.docterm_recall', 'w', encoding='ut
                          '",' + ' "term_recall": {')
         else:
             continue
-        
+
         tf = index_reader.get_document_vector(document_id)
-        df = {term: (index_reader.get_term_counts(term, analyzer=None))[0] for term in tf.keys()}
-        N = len(rows) # TOTAL NUMBER OF  OF DOCUMENTS
+        df = {term: (index_reader.get_term_counts(term, analyzer=None))[
+            0] for term in tf.keys()}
+        N = len(rows)  # TOTAL NUMBER OF  OF DOCUMENTS
         lenTerms = len(df)
         tfIdf = {}
         index = 0
         for term in tf.keys():
-            tfIdf[term] = tf[term] * math.log(N / df[term] + 1, 10)
+            if (df[term] == 0):
+                tfIdf[term] = math.log(0 + 1, 10)
+            else:
+                tfIdf[term] = tf[term] * math.log(N / df[term] + 1, 10)
             writer.write(f'"{term}": {tfIdf[term]}')
             if (index != lenTerms - 1):
                 writer.write(', ')
             index += 1
-
 
         writer.write('}, "doc": {"position": "1", "id": "' +
                      document_id + '","title": "' + title + '" }}')
