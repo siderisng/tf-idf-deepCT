@@ -30,7 +30,7 @@ start = time.time()
 c.execute(f'select title, document_id from document')
 rows = c.fetchall()
 i = 0
-with open('output/test-10-abstract/train-without-query.docterm_recall', 'w', encoding='utf-8') as writer:
+with open('output/test-10-abstract/train-with-query-full-score.docterm_recall', 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     for row in rows:
@@ -80,7 +80,8 @@ with open('output/test-10-abstract/train-without-query.docterm_recall', 'w', enc
                 if (j != 0):
                     writer.write(', ')
                 writer.write(f'"{term}": {tfIdf[term]}')
-            j += 1
+                j += 1
+
             
             index += 1
 
