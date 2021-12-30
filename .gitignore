@@ -8,3 +8,4 @@ __pycache__
 indexes
 jsonl
 DeepCT-master/__pycache__
+*.sqlite
