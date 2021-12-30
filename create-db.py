@@ -37,7 +37,7 @@ def createDBEntriesForDocument(c, con, documentId, finalText, howManyWords, j):
     # # store document with total word count and abstract contents
 
     c.execute(
-        f"INSERT OR IGNORE INTO document (document_id, title) VALUES ('{documentId}', '{finalText}')")
+        f"INSERT INTO document (document_id, title) VALUES ('{documentId}', '{finalText}')")
     # store document with total word count and abstract contents
 
     # if finalText:
@@ -89,8 +89,8 @@ def createDBAndTables(dbName):
     con = sl.connect(dbName + '.sqlite')
     con.execute('''CREATE TABLE IF NOT EXISTS document
             (document_id TEXT PRIMARY KEY     NOT NULL,
-            total_words_not_unique INT NOT NULL,
             title           TEXT    NOT NULL) ''')
+    # total_words_not_unique INT NOT NULL,
 
     con.execute('''CREATE TABLE IF NOT EXISTS word
             (word_id INT PRIMARY KEY     NOT NULL,
@@ -119,16 +119,16 @@ def createDBAndTables(dbName):
             ON word_in_document (word_id, document_id);
     ''')
 
-    # con.commit()
+    con.commit()
 
     return con
 
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
-    '--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type=int, default=100)
+    '--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type=int, default=10)
 parser.add_argument('--fields', '-f', help="which fields to use, separated by comma (,)? default is abstract,title",
-                    type=str, default='abstract,title')
+                    type=str, default='abstract')
 
 args = parser.parse_args()
 # LIMIT = args.limit == 0 ? math.inf : args.limit;
@@ -200,7 +200,7 @@ for subdir, dirs, files in os.walk(path):
         # howManyWords = len(finalText.split())
 
         # Calculate cosine similarity of extracted fields compared to full text
-        all_text = root.find().text
+        # all_text = root.find().text
 
         finalText = finalText.split()[:WORD_LIMIT]
         finalText = ' '.join(finalText)
