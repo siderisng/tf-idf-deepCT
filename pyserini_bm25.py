@@ -5,18 +5,18 @@ from pyserini.search import SimpleSearcher
 import itertools
 import time
 import sqlite3 as sl
+import math
 
+# def calculateBM25(index_reader, docId, word):
+#     # # Initialize from an index path:
+#     # tf = index_reader.get_document_vector(docId)
+#     # df = {term: (index_reader.get_term_counts(term, analyzer=None))[
+#     #     0] for term in tf.keys()}
+#     # Note that the keys of get_document_vector() are already analyzed, we set analyzer to be None.
+#     bm25_score = index_reader.compute_bm25_term_weight(
+#         docId, word, analyzer=None)
 
-def calculateBM25(index_reader, docId, word):
-    # # Initialize from an index path:
-    # tf = index_reader.get_document_vector(docId)
-    # df = {term: (index_reader.get_term_counts(term, analyzer=None))[
-    #     0] for term in tf.keys()}
-    # Note that the keys of get_document_vector() are already analyzed, we set analyzer to be None.
-    bm25_score = index_reader.compute_bm25_term_weight(
-        docId, word, analyzer=None)
-
-    return str(bm25_score)
+#     return str(bm25_score)
 
 
 # Initialize from an index path:
@@ -51,15 +51,20 @@ with open('output/complete_descriptions/train.docterm_recall', 'w', encoding='ut
                          '",' + ' "term_recall": {')
         else:
             continue
-
-        wordList = title.split(' ')
+        
+        tf = index_reader.get_document_vector(document_id)
+        df = {term: (index_reader.get_term_counts(term, analyzer=None))[0] for term in tf.keys()}
+        N = len(rows) # TOTAL NUMBER OF  OF DOCUMENTS
+        lenTerms = len(df)
+        tfIdf = {}
         index = 0
-        for word in wordList:
-            score = calculateBM25(index_reader, document_id, word)
-            writer.write(f'"{word}": {score}')
-            if (index != len(wordList) - 1):
+        for term in tf.keys():
+            tfIdf[term] = tf[term] * math.log(N / df[term] + 1, 10)
+            writer.write(f'"{term}": {tfIdf[term]}')
+            if (index != lenTerms - 1):
                 writer.write(', ')
             index += 1
+
 
         writer.write('}, "doc": {"position": "1", "id": "' +
                      document_id + '","title": "' + title + '" }}')
