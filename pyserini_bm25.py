@@ -20,9 +20,9 @@ import math
 
 
 # Initialize from an index path:
-index_reader = IndexReader('indexes/complete_description/')
+index_reader = IndexReader('indexes/test_10_abstract/')
 
-con = sl.connect('description.sqlite')
+con = sl.connect('10-abstract.sqlite')
 c = con.cursor()
 start = time.time()
 
@@ -30,7 +30,7 @@ start = time.time()
 c.execute(f'select title, document_id from document')
 rows = c.fetchall()
 i = 0
-with open('output/complete_descriptions/train.docterm_recall', 'w', encoding='utf-8') as writer:
+with open('output/test-10-abstract/train-without-query.docterm_recall', 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     for row in rows:
@@ -66,12 +66,22 @@ with open('output/complete_descriptions/train.docterm_recall', 'w', encoding='ut
             else:
                 tfIdf[term] = tf[term] * math.log(N / df[term] + 1, 10)
 
-        # baseTFIDF = 
+        # baseTFIDF =
+        sum = 0; 
+        for term in tfIdf:
+            sum += tfIdf[term]
 
+        average = sum / len(tfIdf)
+        # print(average)
+
+        j = 0
         for term in tf.keys():
-            writer.write(f'"{term}": {tfIdf[term]}')
-            if (index != lenTerms - 1):
-                writer.write(', ')
+            if (tfIdf[term] >= average):
+                if (j != 0):
+                    writer.write(', ')
+                writer.write(f'"{term}": {tfIdf[term]}')
+            j += 1
+            
             index += 1
 
         writer.write('}, "doc": {"position": "1", "id": "' +
