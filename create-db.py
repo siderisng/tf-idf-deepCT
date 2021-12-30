@@ -137,7 +137,7 @@ print('LIMIT is ' + str(LIMIT))
 FIELDS = args.fields.split(',')
 print('FIELDS: ' + str(FIELDS))
 
-dbName = '-'.join(FIELDS)
+dbName = str(LIMIT) + '-' + '-'.join(FIELDS)
 # create tables for my DB
 con = createDBAndTables(dbName)
 
