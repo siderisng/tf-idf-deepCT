@@ -65,6 +65,10 @@ with open('output/complete_descriptions/train.docterm_recall', 'w', encoding='ut
                 tfIdf[term] = math.log(0 + 1, 10)
             else:
                 tfIdf[term] = tf[term] * math.log(N / df[term] + 1, 10)
+
+        # baseTFIDF = 
+
+        for term in tf.keys():
             writer.write(f'"{term}": {tfIdf[term]}')
             if (index != lenTerms - 1):
                 writer.write(', ')
