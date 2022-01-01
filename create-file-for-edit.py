@@ -2,10 +2,10 @@ import sqlite3 as sl
 import time
 # Create docterm.recall for deepCT by using TF_IDF values calculated before
 
-con = sl.connect('description.sqlite')
+con = sl.connect('10-abstract.sqlite')
 c = con.cursor()
 
-with open('output/complete_descriptions/edit.tsv', 'w', encoding='utf-8') as writer:
+with open('output/test-10-abstract/edit.tsv', 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     c.execute(f'select * from document')
@@ -25,7 +25,7 @@ with open('output/complete_descriptions/edit.tsv', 'w', encoding='utf-8') as wri
         i = i + 1
         # print(row)
         doc_id = row[0].replace('', '')
-        title = row[2]
+        title = row[1]
         writer.write(str(doc_id) + '\t' + str(title))
 
         writer.write('\n')
