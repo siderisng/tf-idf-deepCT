@@ -141,12 +141,14 @@ FIELDS = input(
 if not FIELDS:
     FIELDS = 'abstract,title'
 
+if not os.path.exists('databases/'):
+    os.makedirs('databases/')
 
 print('LIMIT is ' + str(LIMIT))
 FIELDS = FIELDS.split(',')
 print('FIELDS: ' + str(FIELDS))
 
-dbName = str(LIMIT) + '-' + '-'.join(FIELDS)
+dbName = 'databases/' + str(LIMIT) + '-' + '-'.join(FIELDS)
 # create tables for my DB
 con = createDBAndTables(dbName)
 

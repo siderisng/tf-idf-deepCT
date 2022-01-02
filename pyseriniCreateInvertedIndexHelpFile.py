@@ -8,9 +8,10 @@ dbName = input(
 
 if not dbName:
     print('no db name provided. aborting!')
+    exit()
 
 
-con = sl.connect(dbName)
+con = sl.connect('databases/' + dbName)
 c = con.cursor()
 start = time.time()
 
