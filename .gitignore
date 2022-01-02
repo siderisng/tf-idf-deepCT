@@ -9,3 +9,4 @@ indexes
 jsonl
 DeepCT-master/__pycache__
 *.sqlite
+databases
