@@ -65,3 +65,6 @@ Proapaitoumeno gia deepCT (5, 7):
 [^\x00-\x7F]+
 
 or do it with python
+
+
+DeepCT-master/run_deepct.py --task_name=marcotsvdoc --do_train=false --do_eval=false --do_predict=true --data_dir=output/complete_descriptions/edit.tsv --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=output/complete_descriptions/train/model.ckpt-0 --max_seq_length=128 --train_batch_size=16 --learning_rate=2e-5 --num_train_epochs=3.0 --output_dir=output/sample_abstract/predict
