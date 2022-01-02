@@ -4,7 +4,7 @@ import sqlite3 as sl
 # Create docterm.recall for deepCT by using TF_IDF values calculated before
 
 dbName = input(
-    'What is the name of the database you want to process? eg. "0-abstract.sqlite" ')
+    'What is the name of the database you want to process? eg. "0-abstract.sqlite":  ')
 
 if not dbName:
     print('no db name provided. aborting!')
