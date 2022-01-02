@@ -125,16 +125,25 @@ def createDBAndTables(dbName):
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument(
-    '--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type=int, default=10)
-parser.add_argument('--fields', '-f', help="which fields to use, separated by comma (,)? default is abstract,title",
-                    type=str, default='abstract')
+# parser.add_argument(
+#     '--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type=int, default=10)
+# parser.add_argument('--fields', '-f', help="which fields to use, separated by comma (,)? default is abstract,title",
+#                     type=str, default='abstract')
 
 args = parser.parse_args()
+LIMIT = int(input(
+    'how many patent documents to scan? default is 100, type 0 for unlimited:  '))
 # LIMIT = args.limit == 0 ? math.inf : args.limit;
-LIMIT = math.inf if args.limit == 0 else args.limit
+LIMIT = math.inf if LIMIT == 0 else LIMIT
+FIELDS = input(
+    'Which fields do you want to process? separated by comma (,)? default is abstract,title: ')
+
+if not FIELDS:
+    FIELDS = 'abstract,title'
+
+
 print('LIMIT is ' + str(LIMIT))
-FIELDS = args.fields.split(',')
+FIELDS = FIELDS.split(',')
 print('FIELDS: ' + str(FIELDS))
 
 dbName = str(LIMIT) + '-' + '-'.join(FIELDS)
@@ -215,3 +224,11 @@ print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
       ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
 
 con.commit()
+
+print('DATABASE CREATED ' + dbName + '.sqlite!')
+
+continueInverted = input(
+    'Continue with creation of inverted index with pyserini?, y to continue:  ')
+
+if continueInverted == 'y':
+    import pyseriniCreateInvertedIndexHelpFile
