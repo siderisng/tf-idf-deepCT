@@ -197,20 +197,9 @@ for subdir, dirs, files in os.walk(path):
                 proField = proField.text
             proField = re.sub(r"[']", "''", proField)
             finalText += proField
-        # howManyWords = len(finalText.split())
-
-        # Calculate cosine similarity of extracted fields compared to full text
-        # all_text = root.find().text
 
         finalText = finalText.split()[:WORD_LIMIT]
         finalText = ' '.join(finalText)
-
-        # documents = [all_text, finalText]
-        # similarity = cosineSimilarity(documents)
-        # print('========')
-        # print('Similarity between selected fields and full text is: ' + str(similarity))
-        # print('word count --- fullText: ' + str(len(all_text.split())) +
-        #       ', fields: ' + str(len(finalText.split())))
 
         c.execute(
             f"SELECT * from document WHERE document_id = '{documentId}'")
@@ -219,21 +208,6 @@ for subdir, dirs, files in os.walk(path):
         if not row:
             createDBEntriesForDocument(
                 c, con, documentId, finalText, '', wordId)
-
-        # if row and row[0]:  # if this document has been processed before
-        #     # but not when its the first one to be skipped,
-        #     # we might have incomplete data from last execution of the program
-        #     # because the operation may have been interrupted halfway
-        #     # print('skipping document: ' + documentId)
-        #     # keeping wordId accurate to avoid unique word_id constraints
-        #     wordId = wordId + howManyWords
-        # else:  # if its a new document, do work!
-        #     # print('processing document: ' + documentId)
-        #     wordId = createDBEntriesForDocument(
-        #         c, con, documentId, finalText, howManyWords, wordId)
-
-
-# runTfIdf(dbName, c)
 
 
 end = time.time()
