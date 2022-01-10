@@ -48,29 +48,33 @@ for subdir, dirs, files in os.walk(path):
         with open(outPath, 'w', encoding='utf-8') as writer:
             writer.write('<DOC> \n<DOCNO>' + documentId + '</DOCNO> \n')
             
-            titles = root.findAll('title');
-            if titles:
-                for title in titles: 
-                    if title.text:
-                        writer.write('<TITLE>' + title.text + '</TITLE>\n')
+            if 'title' in FIELDS:
+                titles = root.findAll('title');
+                if titles:
+                    for title in titles: 
+                        if title.text:
+                            writer.write('<TITLE>' + title.text + '</TITLE>\n')
 
-            abstracts = root.findAll('abstract');
-            if abstracts:
-                for abstract in abstracts: 
-                    if abstract.text:
-                        writer.write('<ABSTRACT>' + abstract.text + '</ABSTRACT>\n')
+            if 'abstract' in FIELDS:
+                abstracts = root.findAll('abstract');
+                if abstracts:
+                    for abstract in abstracts: 
+                        if abstract.text:
+                            writer.write('<ABSTRACT>' + abstract.text + '</ABSTRACT>\n')
 
-            descriptions = root.findAll('description');
-            if descriptions:
-                for description in descriptions: 
-                    if description.text:
-                        writer.write('<DESCRIPTION>' + description.text + '</DESCRIPTION>\n')
+            if 'description' in FIELDS:
+                descriptions = root.findAll('description');
+                if descriptions:
+                    for description in descriptions: 
+                        if description.text:
+                            writer.write('<DESCRIPTION>' + description.text + '</DESCRIPTION>\n')
 
-            claims = root.findAll('claims');
-            if claims:
-                for claim in claims: 
-                    if claim.text:
-                        writer.write('<CLAIMS>' + claim.text + '</CLAIMS>\n')
+            if 'claims' in FIELDS:
+                claims = root.findAll('claims');
+                if claims:
+                    for claim in claims: 
+                        if claim.text:
+                            writer.write('<CLAIMS>' + claim.text + '</CLAIMS>\n')
 
                 
             writer.write('</DOC>')
@@ -93,3 +97,10 @@ end = time.time()
 print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
       ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
 
+# python -m pyserini.index
+#  -collection CleanTrecCollection \
+#  -generator DefaultLuceneDocumentGenerator \
+#  -threads 16 \
+#  -input ~/../benchmark/documents/ \
+#  -index indexes/lucene-index-TRIP-doc \
+#  -storePositions -storeDocvectors -storeRaw
