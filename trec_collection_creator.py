@@ -24,9 +24,16 @@ if not os.path.exists('trec_collections/' + fieldsName):
     os.makedirs('trec_collections/' + fieldsName)
 
 
+i = 0
+total_count = 0
+for subdir, dirs, files in os.walk(path):
+    total_count = total_count + len(files)
+    i = i + 1
+    if (i > LIMIT):
+        break
+
 start = time.time()
 
-i = 0
 
 for subdir, dirs, files in os.walk(path):
     for file in files:
@@ -68,6 +75,12 @@ for subdir, dirs, files in os.walk(path):
                 
             writer.write('</DOC>')
 
+            if (i % 1000 == 0 and i != 0):
+                end = time.time()
+                print(str(documentId) + ' - ' + str(i) + ' of ' + str(total_count) +
+                    ' ===== Time elapsed: ', '%.2f' % (end-start) + 's, ====== Progress: ' + str(round(i / total_count * 100, 2)) + '%')
+                start = time.time()
+
         i = i + 1
         if (i > LIMIT):
             break
@@ -75,4 +88,8 @@ for subdir, dirs, files in os.walk(path):
     if (i > LIMIT):
         break
 
+
+end = time.time()
+print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
+      ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
 
