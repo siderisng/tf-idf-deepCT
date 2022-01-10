@@ -10,3 +10,4 @@ jsonl
 DeepCT-master/__pycache__
 *.sqlite
 databases
+trec_collections
