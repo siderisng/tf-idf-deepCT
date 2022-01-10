@@ -82,6 +82,20 @@ for subdir, dirs, files in os.walk(path):
                         if claim.text:
                             writer.write('<CLAIMS>' + claim.text + '</CLAIMS>\n')
 
+            if 'inventors' in FIELDS:
+                inventors = root.findAll('inventor');
+                if inventors:
+                    for inventor in inventors: 
+                        if inventor.text:
+                            writer.write('<INVENTOR>' + inventor.text + '</INVENTOR>\n')
+
+            if 'applicant' in FIELDS:
+                applicants = root.findAll('applicant');
+                if applicants:
+                    for applicant in applicants: 
+                        if applicant.text:
+                            writer.write('<APPLICANT>' + applicant.text + '</APPLICANT>\n')
+
             writer.write('\n </TEXT> \n')
             
             writer.write('</DOC>')
