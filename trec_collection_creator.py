@@ -32,6 +32,8 @@ for subdir, dirs, files in os.walk(path):
     if (i > LIMIT):
         break
 
+i = 0
+
 start = time.time()
 
 
@@ -39,11 +41,13 @@ for subdir, dirs, files in os.walk(path):
     for file in files:
 
         xml = str(os.path.join(subdir, file))
+        
         patent = open(xml, 'r', encoding='utf-8')
         root = BeautifulSoup(patent, features="html.parser")
         documentId = file.replace('.txt', '')
 
-        outPath = 'trec_collections/' + fieldsName + '/' + documentId + '.trec'
+        # outPath = 'trec_collections/' + fieldsName + '/' + documentId + '.trec'
+        outPath = 'trec_collections/' + fieldsName + '/' + documentId + '.txt'
 
         with open(outPath, 'w', encoding='utf-8') as writer:
             writer.write('<DOC> \n<DOCNO>' + documentId + '</DOCNO> \n')
@@ -94,13 +98,7 @@ for subdir, dirs, files in os.walk(path):
 
 
 end = time.time()
-print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
-      ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
+# print(xml + ' - ' + str(i) + ' of ' + str(total_count) +
+#       ' ===== Time elapsed: ', '%.2f' % (end-start) + 's ======')
 
-# python -m pyserini.index
-#  -collection CleanTrecCollection \
-#  -generator DefaultLuceneDocumentGenerator \
-#  -threads 16 \
-#  -input ~/../benchmark/documents/ \
-#  -index indexes/lucene-index-TRIP-doc \
-#  -storePositions -storeDocvectors -storeRaw
+# python -m pyserini.index -collection CleanTrecCollection -generator DefaultLuceneDocumentGenerator -threads 16 -input ~/../benchmark/documents/ -index indexes/lucene-index-TRIP-doc -storePositions -storeDocvectors -storeRaw
