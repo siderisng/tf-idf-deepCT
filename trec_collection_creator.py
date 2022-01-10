@@ -96,6 +96,14 @@ for subdir, dirs, files in os.walk(path):
                         if applicant.text:
                             writer.write('<APPLICANT>' + applicant.text + '</APPLICANT>\n')
 
+
+            if 'ipc-classifications' in FIELDS:
+                ipcClassifications = root.findAll('ipc_classifications');
+                if ipcClassifications:
+                    for ipcClassification in ipcClassifications: 
+                        if ipcClassification.text:
+                            writer.write('<IPC-CLASSIFICATIONS>' + ipcClassification.text + '</IPC-CLASSIFICATIONS>\n')
+
             writer.write('\n </TEXT> \n')
             
             writer.write('</DOC>')
