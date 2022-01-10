@@ -41,7 +41,7 @@ for subdir, dirs, files in os.walk(path):
     for file in files:
 
         xml = str(os.path.join(subdir, file))
-        
+
         patent = open(xml, 'r', encoding='utf-8')
         root = BeautifulSoup(patent, features="html.parser")
         documentId = file.replace('.txt', '')
@@ -50,28 +50,30 @@ for subdir, dirs, files in os.walk(path):
         outPath = 'trec_collections/' + fieldsName + '/' + documentId + '.txt'
 
         with open(outPath, 'w', encoding='utf-8') as writer:
-            writer.write('<DOC> \n<DOCNO>' + documentId + '</DOCNO> \n')
+            writer.write('<DOC> \n<DOCNO>\n' + documentId + '\n</DOCNO> \n')
+
+            writer.write('<TEXT> \n')
             
             if 'title' in FIELDS:
                 titles = root.findAll('title');
                 if titles:
                     for title in titles: 
                         if title.text:
-                            writer.write('<TITLE>' + title.text + '</TITLE>\n')
+                            writer.write('<TITLE>\n' + title.text + '\n</TITLE>\n')
 
             if 'abstract' in FIELDS:
                 abstracts = root.findAll('abstract');
                 if abstracts:
                     for abstract in abstracts: 
                         if abstract.text:
-                            writer.write('<ABSTRACT>' + abstract.text + '</ABSTRACT>\n')
+                            writer.write('<ABSTRACT>\n' + abstract.text + '\n</ABSTRACT>\n')
 
             if 'description' in FIELDS:
                 descriptions = root.findAll('description');
                 if descriptions:
                     for description in descriptions: 
                         if description.text:
-                            writer.write('<DESCRIPTION>' + description.text + '</DESCRIPTION>\n')
+                            writer.write('<DESCRIPTION>\n' + description.text + '\n</DESCRIPTION>\n')
 
             if 'claims' in FIELDS:
                 claims = root.findAll('claims');
@@ -80,7 +82,8 @@ for subdir, dirs, files in os.walk(path):
                         if claim.text:
                             writer.write('<CLAIMS>' + claim.text + '</CLAIMS>\n')
 
-                
+            writer.write('\n </TEXT> \n')
+            
             writer.write('</DOC>')
 
             if (i % 1000 == 0 and i != 0):
