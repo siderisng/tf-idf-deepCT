@@ -31,7 +31,7 @@ c.execute(f'select title, document_id from document')
 rows = c.fetchall()
 total_words_above_average_tfidf = 0;
 i = 0
-with open('output/10-abstract/train-with-query-full-score.docterm_recall', 'w', encoding='utf-8') as writer:
+with open('output/10-abstract/final_train.docterm_recall', 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     for row in rows:
@@ -48,16 +48,14 @@ with open('output/10-abstract/train-with-query-full-score.docterm_recall', 'w', 
         title = row[0].replace('"', '')
         title = title.replace('\\', '')
         document_id = row[1]
-        if title: # TODO TITLE WILL HAVE ALL FIELD WORDS, BUT QUERY AND TERM_RECALL WILL HAVE THE WORDS WITH ABOVE AVERAGE TF_IDF
-            writer.write('{"query": ' + '"' + title +
-                         '",' + ' "term_recall": {')
-        else:
-            continue
+
+        if not title:
+            continue;
 
         tf = index_reader.get_document_vector(document_id)
         df = {term: (index_reader.get_term_counts(term, analyzer=None))[
             0] for term in tf.keys()}
-        N = len(rows)  # TOTAL NUMBER OF  OF DOCUMENTS
+        N = len(rows)  
         lenTerms = len(df)
         tfIdf = {}
         index = 0
@@ -67,7 +65,6 @@ with open('output/10-abstract/train-with-query-full-score.docterm_recall', 'w', 
             else:
                 tfIdf[term] = tf[term] * math.log(N / df[term] + 1, 10)
 
-        # baseTFIDF =
         sum = 0
         for term in tfIdf:
             sum += tfIdf[term]
@@ -76,14 +73,27 @@ with open('output/10-abstract/train-with-query-full-score.docterm_recall', 'w', 
         # print(average)
 
         j = 0
+        importantWords = '';
+        importantWordsTermRecalls = ''
         for term in tf.keys():
             if (tfIdf[term] >= average):
+                # print(term)
                 if (j != 0):
-                    writer.write(', ')
-                writer.write(f'"{term}": {tfIdf[term]}')
+                    importantWords += ' '
+                    importantWordsTermRecalls += ', '
+                importantWords += term
+                
+                importantWordsTermRecalls += f'"{term}": {tfIdf[term]}'
+                
                 j += 1
 
             index += 1
+
+        writer.write('{"query": ' + '"' + importantWords +
+         '",' + ' "term_recall": {')
+
+        writer.write(importantWordsTermRecalls)
+         
         
         total_words_above_average_tfidf = total_words_above_average_tfidf + j;
 
