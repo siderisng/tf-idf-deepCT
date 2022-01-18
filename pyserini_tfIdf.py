@@ -76,7 +76,7 @@ with open('output/test-10-abstract/train-with-title-full-score.docterm_recall', 
 
         j = 0
         for term in tf.keys():
-            if (tfIdf[term] >= average): # TODO GET AVERAGE NUMBER OF TERMS THAT HAVE MORE THAN AVERAGE SCORE
+            if (tfIdf[term] >= average): # TODO PRINT AVERAGE NUMBER OF TERMS THAT HAVE MORE THAN AVERAGE SCORE
                 if (j != 0):
                     writer.write(', ')
                 writer.write(f'"{term}": {tfIdf[term]}')
