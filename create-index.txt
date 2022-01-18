@@ -3,7 +3,7 @@ STEPS
 1. create-db.py me kapoia fields
 2. pyserini-create-inverted-index-help-file.py (dimiourgia jsonl file)
 3. (mono se mac/linux kai mesa se environment conda) python3 -m pyserini.index --input jsonl --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/complete_description --threads 1 --storePositions --storeDocvectors --storeRaw
-4. (pali se conda) python3 pyserini_bm_25.py === OXI PYTHON 3.9 GIA TO PYSERINI ===
+4. (pali se conda) python3 pyserini_tfIdf.py === OXI PYTHON 3.9 GIA TO PYSERINI ===
 5. use docterm_recall file to train DeepCT
 6. create-file-for-edit.py - xreiazetai gia to index creation me deepCT opws kai ta apotelesmata tou training parapanw
 7. create index
@@ -19,7 +19,6 @@ STEPS
 --do_train=true \
 --task_name=marcodoc \
 --num_train_epochs=5.0 \
---recall_field=title \
 --train_batch_size=16
 
 (7) command:
