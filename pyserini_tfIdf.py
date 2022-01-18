@@ -47,7 +47,7 @@ with open('output/test-10-abstract/train-with-title-full-score.docterm_recall', 
         title = row[0].replace('"', '')
         title = title.replace('\\', '')
         document_id = row[1]
-        if title:
+        if title: # TODO TITLE WILL HAVE ALL FIELD WORDS, BUT QUERY AND TERM_RECALL WILL HAVE THE WORDS WITH ABOVE AVERAGE TF_IDF
             writer.write('{"query": ' + '"' + title +
                          '",' + ' "term_recall": {')
         else:
@@ -76,7 +76,7 @@ with open('output/test-10-abstract/train-with-title-full-score.docterm_recall', 
 
         j = 0
         for term in tf.keys():
-            if (tfIdf[term] >= average):
+            if (tfIdf[term] >= average): # TODO GET AVERAGE NUMBER OF TERMS THAT HAVE MORE THAN AVERAGE SCORE
                 if (j != 0):
                     writer.write(', ')
                 writer.write(f'"{term}": {tfIdf[term]}')
