@@ -12,7 +12,7 @@ from tfIdf import runTfIdf, getBestWords
 
 import pandas as pd
 
-WORD_LIMIT = 512
+WORD_LIMIT = 128
 
 
 def cosineSimilarity(documents):
@@ -153,7 +153,7 @@ dbName = 'databases/' + str(LIMIT) + '-' + '-'.join(FIELDS)
 con = createDBAndTables(dbName)
 
 # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
-path = 'C:/Users/sider/Documents/final_clef_ip'
+path = '/Users/giorgossideris/Downloads/final_clef_ip'
 i = 0
 wordId = 0
 c = con.cursor()  # needed for printing results
