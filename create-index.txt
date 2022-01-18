@@ -6,7 +6,7 @@ STEPS
 4. (pali se conda) python3 pyserini_tfIdf.py === OXI PYTHON 3.9 GIA TO PYSERINI ===
 5. use docterm_recall file to train DeepCT
 6. create-file-for-edit.py - xreiazetai gia to index creation me deepCT opws kai ta apotelesmata tou training parapanw
-7. create index
+7. deepCT
 
 (5) command:
 
@@ -67,3 +67,76 @@ or do it with python
 
 
 DeepCT-master/run_deepct.py --task_name=marcotsvdoc --do_train=false --do_eval=false --do_predict=true --data_dir=output/complete_descriptions/edit.tsv --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=output/complete_descriptions/train/model.ckpt-0 --max_seq_length=128 --train_batch_size=16 --learning_rate=2e-5 --num_train_epochs=3.0 --output_dir=output/sample_abstract/predict
+
+
+PYSERINI INDEX OPTIONS
+---------------------
+
+ -bm25.accurate               : Boolean switch to use AccurateBM25Similarity (computes accurate
+                                document lengths). (default: false)
+ -collection [class]          : Collection class in package 'io.anserini.collection'.
+ -es                          : Indexes into Elasticsearch. (default: false)
+ -es.batch [n]                : Elasticsearch batch index requests size. (default: 1000)
+ -es.bulk [n]                 : Elasticsearch max bulk requests size in bytes. (default: 80000000)
+ -es.connectTimeout [ms]      : Elasticsearch (low level) REST client connect timeout (in ms).
+                                (default: 600000)
+ -es.hostname [host]          : Elasticsearch host. (default: localhost)
+ -es.index [name]             : Elasticsearch index name.
+ -es.password [password]      : Elasticsearch password. (default: changeme)
+ -es.poolSize [num]           : Elasticsearch client pool size. (default: 10)
+ -es.port [port]              : Elasticsearch port number. (default: 9200)
+ -es.socketTimeout [ms]       : Elasticsearch (low level) REST client socket timeout (in ms).
+                                (default: 600000)
+ -es.user [username]          : Elasticsearch user name. (default: elastic)
+ -generator [class]           : Document generator class in package 'io.anserini.index.generator'.
+                                (default: DefaultLuceneDocumentGenerator)
+ -impact                      : Boolean switch to store impacts (no norms). (default: false)
+ -index [path]                : Index path.
+ -input [path]                : Location of input collection.
+ -keepStopwords               : Boolean switch to keep stopwords. (default: false)
+ -language [language]         : Analyzer language (ISO 3166 two-letter code). (default: en)
+ -memorybuffer [mb]           : Memory buffer size (in MB). (default: 2048)
+ -optimize                    : Boolean switch to optimize index (i.e., force merge) into a single
+                                segment; costly for large collections. (default: false)
+ -pretokenized                : index pre-tokenized collections without any additional stemming,
+                                stopword processing (default: false)
+ -quiet                       : Turns off all logging. (default: false)
+ -shard.count [n]             : Number of shards to partition the document collection into.
+                                (default: -1)
+ -shard.current [n]           : The current shard number to generate (indexed from 0). (default: -1)
+ -solr                        : Indexes into Solr. (default: false)
+ -solr.batch [n]              : Solr indexing batch size. (default: 1000)
+ -solr.commitWithin [s]       : Solr commitWithin setting (in seconds). (default: 60)
+ -solr.index [name]           : Solr index name.
+ -solr.poolSize [n]           : Solr client pool size. (default: 16)
+ -solr.zkChroot [path]        : Solr ZooKeeper chroot (default: /)
+ -solr.zkUrl [urls]           : Solr ZooKeeper URLs (comma separated list).
+ -stemmer [stemmer]           : Stemmer: one of the following {porter, krovetz, none}; defaults to
+                                'porter'. (default: porter)
+ -stopwords [file]            : Path to file with stopwords.
+ -storeContents               : Boolean switch to store document contents. (default: false)
+ -storeDocvectors             : Boolean switch to store document vectors; needed for (pseudo)
+                                relevance feedback. (default: false)
+ -storePositions              : Boolean switch to index store term positions; needed for phrase
+                                queries. (default: false)
+ -storeRaw                    : Boolean switch to store raw source documents. (default: false)
+ -threads [num]               : Number of indexing threads.
+ -tweet.deletedIdsFile [file] : File that contains deleted tweet ids (longs), one per line; these
+                                tweets will be skipped during indexing. (default: )
+ -tweet.keepRetweets          : Boolean switch to index retweets. (default: false)
+ -tweet.keepUrls              : Boolean switch to keep URLs. (default: false)
+ -tweet.maxId [id]            : Max tweet id to index (long); all tweets with larger tweet ids will
+                                be skipped. (default: 9223372036854775807)
+ -tweet.stemming              : Boolean switch to apply Porter stemming while indexing tweets.
+                                (default: false)
+ -uniqueDocid                 : Removes duplicate documents with the same docid during indexing.
+                                This significantly slows indexing throughput but may be needed for
+                                tweet collections since the streaming API might deliver a tweet
+                                multiple times. (default: false)
+ -verbose                     : Enables verbose logging for each indexing thread; can be noisy if
+                                collection has many small file segments. (default: false)
+ -whitelist [file]            : File containing list of docids, one per line; only these docids
+                                will be indexed.
+Example: IndexCollection -collection [class] -input [path] -threads [num]
+
+---------------------------
