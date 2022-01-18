@@ -20,17 +20,18 @@ import math
 
 
 # Initialize from an index path:
-index_reader = IndexReader('indexes/test_10_abstract/')
+index_reader = IndexReader('indexes/10_abstract/')
 
-con = sl.connect('10-abstract.sqlite')
+con = sl.connect('databases/10-abstract.sqlite')
 c = con.cursor()
 start = time.time()
 
 
 c.execute(f'select title, document_id from document')
 rows = c.fetchall()
+total_words_above_average_tfidf = 0;
 i = 0
-with open('output/test-10-abstract/train-with-title-full-score.docterm_recall', 'w', encoding='utf-8') as writer:
+with open('output/10-abstract/train-with-query-full-score.docterm_recall', 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     for row in rows:
@@ -83,8 +84,12 @@ with open('output/test-10-abstract/train-with-title-full-score.docterm_recall', 
                 j += 1
 
             index += 1
+        
+        total_words_above_average_tfidf = total_words_above_average_tfidf + j;
 
         writer.write('}, "doc": {"position": "1", "id": "' +
                      document_id + '","title": "' + title + '" }}')
 
         writer.write('\n')
+
+print('Average number of words that have above average tf-idf score in every doc is: ' + str(total_words_above_average_tfidf/len(rows)))
