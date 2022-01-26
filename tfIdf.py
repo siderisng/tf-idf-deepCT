@@ -1,3 +1,5 @@
+### THIS IS NOT USED, ONLY KEPT HERE FOR LEGACY REASONS
+
 import sqlite3 as sl
 import math
 import time
