@@ -64,6 +64,13 @@ def createDBAndTables(dbName):
     return con
 
 
+
+# DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
+path = '/Users/giorgossideris/Downloads/final_clef_ip'
+
+
+
+
 parser = argparse.ArgumentParser()
 args = parser.parse_args()
 LIMIT = int(input(
@@ -87,8 +94,6 @@ dbName = 'databases/' + str(LIMIT) + '-' + '-'.join(FIELDS)
 # create tables for my DB
 con = createDBAndTables(dbName)
 
-# DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
-path = '/Users/giorgossideris/Downloads/final_clef_ip'
 i = 0
 wordId = 0
 c = con.cursor()  # needed for printing results
