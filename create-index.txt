@@ -1,6 +1,7 @@
 STEPS
 
 1. python3 create-db.py
+** πρεπει να αλλαξει το path μεσα στο script **
 
 2. pyserini-create-inverted-index-help-file.py (dimiourgia jsonl file)
 * Αυτο το βημα γινεται αυτοματα στο (1) αν πατησεις y οταν ερωτηθεις αν θες να συνεχισεις
