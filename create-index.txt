@@ -9,6 +9,7 @@ STEPS
     python3 -m pyserini.index --input jsonl/<LIMIT>-<FIELD> --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/<ONOMA INVERTED INDEX> --stemmer=none --threads 1 --storePositions --storeDocvectors --storeRaw
 
 4. (pali se conda) 
+    *** πρεπει να γινουν αλλαγες στα path μεσα στο αρχειο pyserini_tfIdf.py ***
     python3 pyserini_tfIdf.py === OXI PYTHON 3.9 GIA TO PYSERINI ===
 
 5. use docterm_recall file to train DeepCT
