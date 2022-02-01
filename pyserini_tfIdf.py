@@ -5,20 +5,29 @@ import time
 import sqlite3 as sl
 import math
 
+# folder path that contains the pyserini generated index (created with pyserini commands)
+index_path = 'indexes/10_abstract/'
+
+# database name that contains the fields we want to process (created with create-db.py)
+db_name = '10-astract.sqlite'
+
+# train file (docterm_recall) name (to be created with this script, use any name you like)
+train_file_name = 'train.docterm_recall'
+
 
 # Initialize from an index path:
-index_reader = IndexReader('indexes/10_abstract/')
+index_reader = IndexReader(index_path)
 
-con = sl.connect('databases/10-abstract.sqlite')
+con = sl.connect('databases/' + db_name)
 c = con.cursor()
 start = time.time()
 
 
 c.execute(f'select title, document_id from document')
 rows = c.fetchall()
-total_words_above_average_tfidf = 0;
+total_words_above_average_tfidf = 0
 i = 0
-with open('output/10-abstract/final_train.docterm_recall', 'w', encoding='utf-8') as writer:
+with open('output/' + db_name + '/' + train_file_name, 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     for row in rows:
@@ -37,12 +46,12 @@ with open('output/10-abstract/final_train.docterm_recall', 'w', encoding='utf-8'
         document_id = row[1]
 
         if not title:
-            continue;
+            continue
 
         tf = index_reader.get_document_vector(document_id)
         df = {term: (index_reader.get_term_counts(term, analyzer=None))[
             0] for term in tf.keys()}
-        N = len(rows)  
+        N = len(rows)
         lenTerms = len(df)
         tfIdf = {}
         index = 0
@@ -60,7 +69,7 @@ with open('output/10-abstract/final_train.docterm_recall', 'w', encoding='utf-8'
         # print(average)
 
         j = 0
-        importantWords = '';
+        importantWords = ''
         importantWordsTermRecalls = ''
         for term in tf.keys():
             if (tfIdf[term] >= average):
@@ -69,24 +78,24 @@ with open('output/10-abstract/final_train.docterm_recall', 'w', encoding='utf-8'
                     importantWords += ' '
                     importantWordsTermRecalls += ', '
                 importantWords += term
-                
+
                 importantWordsTermRecalls += f'"{term}": {tfIdf[term]}'
-                
+
                 j += 1
 
             index += 1
 
         writer.write('{"query": ' + '"' + importantWords +
-         '",' + ' "term_recall": {')
+                     '",' + ' "term_recall": {')
 
         writer.write(importantWordsTermRecalls)
-         
-        
-        total_words_above_average_tfidf = total_words_above_average_tfidf + j;
+
+        total_words_above_average_tfidf = total_words_above_average_tfidf + j
 
         writer.write('}, "doc": {"position": "1", "id": "' +
                      document_id + '","title": "' + title + '" }}')
 
         writer.write('\n')
 
-print('Average number of words that have above average tf-idf score in every doc is: ' + str(total_words_above_average_tfidf/len(rows)))
+print('Average number of words that have above average tf-idf score in every doc is: ' +
+      str(total_words_above_average_tfidf/len(rows)))
