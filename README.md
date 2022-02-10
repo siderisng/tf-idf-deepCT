@@ -6,31 +6,43 @@ _run in Mac OS, Linux or WSL inside Windows_
 
 link below for 64-bit linux
 
-`wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh`
+```bash
+wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+```
 
 after download install
 
-`bash Anaconda3-2020.02-Linux-x86_64.sh`
+```bash
+bash Anaconda3-2020.02-Linux-x86_64.sh
+```
 
 ## import conda environments
 
 ### first env is for deepCT and my custom scripts
 
-`conda-env create -n saved-env-deepCT -f=conda_envs/saved-env-deepCT.yml`
+```bash
+conda-env create -n saved-env-deepCT -f=conda_envs/saved-env-deepCT.yml
+```
 
 ### second env is for pyserini
 
-`conda-env create -n saved-env-pyserini -f=conda_envs/saved-env-pyserini.yml`
+```bash
+conda-env create -n saved-env-pyserini -f=conda_envs/saved-env-pyserini.yml
+```
 
 ## create DB from patent files
 
 ### activate deepCT conda env
 
-`conda activate saved-env-deepCT`
+```bash
+conda activate saved-env-deepCT
+```
 
 ### get conda env's python path to be sure we are using the right python executable
 
-`echo $CONDA_PREFIX`
+```bash
+echo $CONDA_PREFIX
+```
 
 _will be something like/Users/giorgossideris/opt/anaconda3/envs/saved-env-deepCT_
 
@@ -38,7 +50,9 @@ _will be something like/Users/giorgossideris/opt/anaconda3/envs/saved-env-deepCT
 
 _(before runnning create-db.py edit path of patents inside file to correspond to the correct location in your filesystem)_
 
-`<PATH_FROM_ABOVE>/bin/python ./create-db.py`
+```bash
+<PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python ./create-db.py
+```
 
 _keep the limit and fields you used in mind to use later for parameters eg. if you used limit 0 and fields claims,abstract, these 2 values will be used below as EXPERIMENT_NAME, in this case `0-claims,abstract`_
 
@@ -46,40 +60,58 @@ _keep the limit and fields you used in mind to use later for parameters eg. if y
 
 ### change to pyserini env
 
-`conda activate saved-env-pyserini`
+```bash
+conda activate saved-env-pyserini
+```
 
 ### get conda env's python path to be sure we are using the right python executable
 
-`echo $CONDA_PREFIX`
+```bash
+echo $CONDA_PREFIX
+```
 
 ### run pyserini inverted index creation
 
-`<PATH_FROM_ABOVE>/bin/python -m pyserini.index --input jsonl/<EXPERIMENT_NAME> --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/<EXPERIMENT_NAME> --stemmer=none --threads 1 --storePositions --storeDocvectors --storeRaw`
+```bash
+<PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python -m pyserini.index --input jsonl/<EXPERIMENT_NAME> --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index indexes/<EXPERIMENT_NAME> --stemmer=none --threads 1 --storePositions --storeDocvectors --storeRaw
+```
 
 ### calculate tf idf scores with pyserini
 
-`<PATH_FROM_ABOVE>/bin/python pyserini_tfIdf.py`
+```bash
+<PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python pyserini_tfIdf.py
+```
 
 ## run deepCT training and prediction
 
 ### change to deepCT env
 
-`conda activate saved-env-deepCT`
+```bash
+conda activate saved-env-deepCT
+```
 
 ### get conda env's python path to be sure we are using the right python executable
 
-`echo $CONDA_PREFIX`
+```bash
+echo $CONDA_PREFIX`
+```
 
 ### run deepCT training
 
 _before running deepCT training download <https://storage.googleapis.com/bert_models/2020_02_20/uncased_L-12_H-768_A-12.zip>, unzip and copy bert_model.ckpt.data-00000-of-00001 to folder bert-base-uncased_
 
-`<PATH_FROM_ABOVE>/bin/python DeepCT-master/run_deepct.py --data_dir=output/<EXPERIMENT_NAME>/train.docterm_recall --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=bert-base-uncased/bert_model.ckpt --output_dir=output/<EXPERIMENT_NAME>/train --do_train=true --task_name=marcodoc --num_train_epochs=5.0 --train_batch_size=16`
+```bash
+<PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python DeepCT-master/run_deepct.py --data_dir=output/<EXPERIMENT_NAME>/train.docterm_recall --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=bert-base-uncased/bert_model.ckpt --output_dir=output/<EXPERIMENT_NAME>/train --do_train=true --task_name=marcodoc --num_train_epochs=5.0 --train_batch_size=16
+```
 
 ### create file needed for deepCT predit
 
-`<PATH_FROM_ABOVE>/bin/python ./create-file-for-edit.py`
+```bash
+<PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python ./create-file-for-edit.py
+```
 
 ### run deepCT prediction
 
-`<PATH_FROM_ABOVE>/bin/python DeepCT-master/run_deepct.py --task_name=marcotsvdoc --do_train=false --do_eval=false --do_predict=true --data_dir=output/<EXPERIMENT_NAME>/edit.tsv --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=output/<EXPERIMENT_NAME>/train/model.ckpt-0 --max_seq_length=128 --train_batch_size=16 --learning_rate=2e-5 --num_train_epochs=3.0 --output_dir=output/<EXPERIMENT_NAME>/predict`
+```bash
+<PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python DeepCT-master/run_deepct.py --task_name=marcotsvdoc --do_train=false --do_eval=false --do_predict=true --data_dir=output/<EXPERIMENT_NAME>/edit.tsv --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=output/<EXPERIMENT_NAME>/train/model.ckpt-0 --max_seq_length=128 --train_batch_size=16 --learning_rate=2e-5 --num_train_epochs=3.0 --output_dir=output/<EXPERIMENT_NAME>/predict
+```
