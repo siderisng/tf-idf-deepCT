@@ -1,0 +1,11 @@
+name: saved-env-deepCT
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - tensorflow=1.15.0
+  - pandas
+  - bs4
+  - sklearn
+  - numpy=1.19.5
+prefix: /Users/giorgossideris/opt/anaconda3/envs/saved-env-deepCT
