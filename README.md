@@ -4,13 +4,13 @@ _run in Mac OS, Linux or WSL inside Windows_
 
 ## Install conda
 
-link below for 64-bit linux
+link below for 64-bit linux:
 
 ```bash
 wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
 ```
 
-after download install
+Run after download to install:
 
 ```bash
 bash Anaconda3-2020.02-Linux-x86_64.sh
@@ -44,17 +44,17 @@ conda activate saved-env-deepCT
 echo $CONDA_PREFIX
 ```
 
-_will be something like/Users/giorgossideris/opt/anaconda3/envs/saved-env-deepCT_
+_will be something like `/Users/giorgossideris/opt/anaconda3/envs/saved-env-deepCT`_
 
 ### Create db
 
-_(before runnning create-db.py edit path of patents inside file to correspond to the correct location in your filesystem)_
+_IMPORTANT (before runnning `create-db.py`, edit path of patents inside file to correspond to the correct location in your filesystem)_
 
 ```bash
 <PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python ./create-db.py
 ```
 
-_keep the limit and fields you used in mind to use later for parameters eg. if you used limit 0 and fields claims,abstract, these 2 values will be used below as EXPERIMENT_NAME, in this case `0-claims,abstract`_
+_keep the limit and fields you used in mind to use later for parameters eg. if you used limit 0 and fields claims,abstract, these 2 values will be used below as `EXPERIMENT_NAME`, in this case `0-claims,abstract`_
 
 ## Change to pyserini env and calculate tf-idf scores
 
