@@ -110,6 +110,8 @@ _before running deepCT training download <https://storage.googleapis.com/bert_mo
 <PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python ./create-file-for-edit.py
 ```
 
+_ΙMPORTANT: remove all lines with empty content before moving on to the next step_
+
 ### Run deepCT prediction
 
 ```bash
