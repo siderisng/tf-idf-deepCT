@@ -4,16 +4,29 @@ from pyserini.search import SimpleSearcher
 import time
 import sqlite3 as sl
 import math
+import os
+
+name = input(
+    'What is the name of the index and database you want to process? eg. "10-claims":   ')
+
+if not name:
+    print('no index and db name provided. aborting!')
+    exit()
+
 
 # folder path that contains the pyserini generated index (created with pyserini commands)
-index_path = 'indexes/10_abstract/'
+index_path = 'indexes/' + name
 
 # database name that contains the fields we want to process (created with create-db.py)
-db_name = '10-astract.sqlite'
+db_name = name + '.sqlite'
 
 # train file (docterm_recall) name (to be created with this script, use any name you like)
 train_file_name = 'train.docterm_recall'
 
+
+outputPath = 'output/' + name + '/'
+if not os.path.exists(outputPath):
+    os.makedirs(outputPath)
 
 # Initialize from an index path:
 index_reader = IndexReader(index_path)
@@ -27,7 +40,7 @@ c.execute(f'select title, document_id from document')
 rows = c.fetchall()
 total_words_above_average_tfidf = 0
 i = 0
-with open('output/' + db_name + '/' + train_file_name, 'w', encoding='utf-8') as writer:
+with open(outputPath + train_file_name, 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     for row in rows:

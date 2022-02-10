@@ -1,0 +1,55 @@
+name: saved-env-deepCT
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2021.10.26=hecd8cb5_2
+  - certifi=2021.10.8=py37hecd8cb5_2
+  - libcxx=12.0.0=h2f01273_0
+  - libffi=3.3=hb1e8313_2
+  - ncurses=6.3=hca72f7f_2
+  - openssl=1.1.1m=hca72f7f_0
+  - pip=21.2.2=py37hecd8cb5_0
+  - python=3.7.11=h88f2d9e_0
+  - readline=8.1.2=hca72f7f_1
+  - setuptools=58.0.4=py37hecd8cb5_0
+  - sqlite=3.37.2=h707629a_0
+  - tk=8.6.11=h7bc2e8c_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h4dc903c_4
+  - pip:
+    - absl-py==1.0.0
+    - astor==0.8.1
+    - beautifulsoup4==4.10.0
+    - bs4==0.0.1
+    - cached-property==1.5.2
+    - gast==0.2.2
+    - google-pasta==0.2.0
+    - grpcio==1.43.0
+    - h5py==3.6.0
+    - importlib-metadata==4.10.1
+    - joblib==1.1.0
+    - keras-applications==1.0.8
+    - keras-preprocessing==1.1.2
+    - markdown==3.3.6
+    - numpy==1.19.5
+    - opt-einsum==3.3.0
+    - pandas==1.3.5
+    - protobuf==3.19.4
+    - python-dateutil==2.8.2
+    - pytz==2021.3
+    - scikit-learn==1.0.2
+    - scipy==1.7.3
+    - six==1.16.0
+    - sklearn==0.0
+    - soupsieve==2.3.1
+    - tensorboard==1.15.0
+    - tensorflow==1.15.0
+    - tensorflow-estimator==1.15.1
+    - termcolor==1.1.0
+    - threadpoolctl==3.1.0
+    - typing-extensions==4.0.1
+    - werkzeug==2.0.3
+    - wrapt==1.13.3
+    - zipp==3.7.0
+prefix: /Users/giorgossideris/opt/anaconda3/envs/saved-env-deepCT
