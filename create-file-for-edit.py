@@ -10,7 +10,7 @@ if not name:
     exit()
 
 
-con = sl.connect(name + '.sqlite')
+con = sl.connect('databases' + name + '.sqlite')
 c = con.cursor()
 
 with open('output/' + name + '/edit.tsv', 'w', encoding='utf-8') as writer:
