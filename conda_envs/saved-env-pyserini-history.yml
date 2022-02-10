@@ -1,12 +1,12 @@
 name: saved-env-pyserini
 channels:
   - defaults
+  - pytorch
+  - conda-forge
 dependencies:
   - python=3.8
-  - conda-forge
   - openjdk=11
   - faiss-cpu
-  - pytorch
   - pip:
       - pyserini
       - torch==1.8.1
