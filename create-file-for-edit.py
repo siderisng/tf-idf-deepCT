@@ -2,10 +2,18 @@ import sqlite3 as sl
 import time
 # Create docterm.recall for deepCT by using TF_IDF values calculated before
 
-con = sl.connect('10-abstract.sqlite')
+name = input(
+    'What is the name of the database you want to process? eg. "10-abstact":   ')
+
+if not name:
+    print('no db name provided. aborting!')
+    exit()
+
+
+con = sl.connect(name + '.sqlite')
 c = con.cursor()
 
-with open('output/test-10-abstract/edit.tsv', 'w', encoding='utf-8') as writer:
+with open('output/' + name + '/edit.tsv', 'w', encoding='utf-8') as writer:
     writer.truncate(0)  # empty the file
 
     c.execute(f'select * from document')
