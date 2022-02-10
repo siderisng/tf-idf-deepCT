@@ -49,6 +49,7 @@ _will be something like `/Users/giorgossideris/opt/anaconda3/envs/saved-env-deep
 ### Create db
 
 _IMPORTANT (before runnning `create-db.py`, edit path of patents inside file to correspond to the correct location in your filesystem)_
+_sample files are included in the repo, if you want to use those, change path in file to `sample_patents`_
 
 ```bash
 <PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python ./create-db.py
