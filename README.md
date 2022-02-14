@@ -94,7 +94,7 @@ conda activate saved-env-deepCT
 ### Get conda env's python path to be sure we are using the right python executable
 
 ```bash
-echo $CONDA_PREFIX`
+echo $CONDA_PREFIX
 ```
 
 ### Run deepCT training
@@ -102,7 +102,7 @@ echo $CONDA_PREFIX`
 _before running deepCT training download <https://storage.googleapis.com/bert_models/2020_02_20/uncased_L-12_H-768_A-12.zip>, unzip and copy bert_model.ckpt.data-00000-of-00001 to folder bert-base-uncased_
 
 ```bash
-<PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python DeepCT-master/run_deepct.py --data_dir=output/<EXPERIMENT_NAME>/train.docterm_recall --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=bert-base-uncased/bert_model.ckpt --output_dir=output/<EXPERIMENT_NAME>/train --do_train=true --task_name=marcodoc --num_train_epochs=5.0 --train_batch_size=16
+<PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python DeepCT-master/run_deepct.py --data_dir=output/<EXPERIMENT_NAME>/train.docterm_recall --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=bert-base-uncased/bert_model.ckpt --output_dir=output/<EXPERIMENT_NAME>/train --do_train=true --task_name=marcodoc --num_train_epochs=3.0 --train_batch_size=16
 ```
 
 ### Create file needed for deepCT predit
