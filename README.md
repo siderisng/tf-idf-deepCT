@@ -105,7 +105,7 @@ _before running deepCT training download <https://storage.googleapis.com/bert_mo
 <PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python DeepCT-master/run_deepct.py --data_dir=output/<EXPERIMENT_NAME>/train.docterm_recall --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=bert-base-uncased/bert_model.ckpt --output_dir=output/<EXPERIMENT_NAME>/train --do_train=true --task_name=marcodoc --num_train_epochs=3.0 --train_batch_size=16
 ```
 
-### Create file needed for deepCT predit
+### Create file needed for deepCT prediction
 
 ```bash
 <PYTHON_PATH_FROM_PREVIOUS_STEP>/bin/python ./create-file-for-edit.py
