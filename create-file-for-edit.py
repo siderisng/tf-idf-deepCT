@@ -34,6 +34,10 @@ with open('output/' + name + '/edit.tsv', 'w', encoding='utf-8') as writer:
         # print(row)
         doc_id = row[0].replace('', '')
         title = row[1]
+
+        if not title:
+            continue
+
         writer.write(str(doc_id) + '\t' + str(title))
 
         writer.write('\n')
