@@ -1,6 +1,6 @@
 # INSTRUCTIONS
 
-_run in Mac OS, Linux or WSL inside Windows_
+_instructions to run in Mac OS, Linux or WSL inside Windows_
 
 ## Install conda
 
