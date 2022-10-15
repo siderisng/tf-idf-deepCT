@@ -122,7 +122,7 @@ _ΙMPORTANT: remove all lines with empty content before moving on to the next st
 ### Turn float-point term wegihts into TF-like index weights
 
 ```bash
-python DeepCT-master/scripts/bert_term_sample_to_json.py --output_format=json /mnt/g/διπλωματικη/output/abstract/edit.tsv /mnt/g/διπλωματικη/output/abstract/predict-after-training/test_results.tsv test-json 100
+python DeepCT-master/scripts/bert_term_sample_to_json.py --output_format=json output/inf-description/edit.tsv  output/inf-description/predict/test_results.tsv output/inf-description/jsonl/predict.json 100
 ```
 
 example result
