@@ -15,70 +15,10 @@ import pandas as pd
 WORD_LIMIT = 128
 
 
-def cosineSimilarity(documents):
-    # Create the Document Term Matrix
-    # count_vectorizer = CountVectorizer(stop_words='english') # or TfidfVectorizer
-    count_vectorizer = TfidfVectorizer()
-    sparse_matrix = count_vectorizer.fit_transform(documents)
-
-    # OPTIONAL: Convert Sparse Matrix to Pandas Dataframe if you want to see the word frequencies.
-    doc_term_matrix = sparse_matrix.todense()
-    df = pd.DataFrame(doc_term_matrix,
-                      columns=count_vectorizer.get_feature_names_out(),
-                      index=['full', 'fields'])
-
-    return cosine_similarity(df)[0][1]
-
-
 def createDBEntriesForDocument(c, con, documentId, finalText, howManyWords, j):
-
-    # c.execute(
-    #     f"INSERT OR IGNORE INTO document (document_id, title, total_words_not_unique) VALUES ('{documentId}', '{finalText}', {howManyWords})")
-    # # store document with total word count and abstract contents
 
     c.execute(
         f"INSERT INTO document (document_id, title) VALUES ('{documentId}', '{finalText}')")
-    # store document with total word count and abstract contents
-
-    # if finalText:
-    #     k = 0
-    #     for word in finalText.split():
-    #         j = j + 1
-
-    #         if (k > 512):
-    #             break  # we can't support more than 512 words for deepCT so no need to waste time with words that we won't use
-    #         k = k + 1
-    #         word = re.sub(r"[,./;:()']", '', word)
-
-    #         # print(word)
-
-    #         if word and word != '':
-    #             c.execute(
-    #                 f"SELECT word_id from word WHERE word = '{word}'")
-    #             row = c.fetchone()  # find if WORD EXISTS IN DATABASE ALREADY
-
-    #             if row and row[0]:  # if it exists, do nothing
-    #                 id = str(row[0])
-    #                 # c.execute(
-    #                 #     f"INSERT OR IGNORE INTO word (word_id, word) VALUES ('{id}', '{word}')")
-    #             else:  # else, insert new word with a new id
-    #                 id = str(j)
-    #                 c.execute(
-    #                     f"INSERT INTO word (word_id, word) VALUES ('{str(j)}', '{word}')")
-
-    #             c.execute(
-    #                 f"SELECT word_id from word_in_document WHERE word_id = '{id}' AND document_id='{documentId}'")
-    #             row = c.fetchone()  # find if word in document already exists in DATABASE
-
-    #             if row and row[0]:  # if it exists, increment quantity by 1
-    #                 # print('update')
-    #                 c.execute(
-    #                     f"UPDATE word_in_document SET quantity = quantity + 1 WHERE word_id = '{id}' AND document_id = '{documentId}'")
-    #             else:  # else, insert new word_in_document row
-    #                 # print('insert')
-    #                 c.execute(
-    #                     f"INSERT INTO word_in_document (word_id, document_id, word, quantity) VALUES ('{id}', '{documentId}', '{word}', 1)")
-
     con.commit()
     return j
 
@@ -124,12 +64,14 @@ def createDBAndTables(dbName):
     return con
 
 
-parser = argparse.ArgumentParser()
-# parser.add_argument(
-#     '--limit', '-l', help="how many patents? default is 100, 0 is unlimited", type=int, default=10)
-# parser.add_argument('--fields', '-f', help="which fields to use, separated by comma (,)? default is abstract,title",
-#                     type=str, default='abstract')
 
+# DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
+path = '/Users/giorgossideris/Downloads/final_clef_ip'
+
+
+
+
+parser = argparse.ArgumentParser()
 args = parser.parse_args()
 LIMIT = int(input(
     'how many patent documents to scan? default is 100, type 0 for unlimited:  '))

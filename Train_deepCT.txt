@@ -1,0 +1,69 @@
+Πως να εκπαυδεύσουμε το DeepCT τμηματικά
+
+Βήμα 1:
+
+Το train.docterm_recall θα πρεπει να χωριστει σε κομματια που το καθε ενα θα χρησιμοποιηθεί για το training.
+Δηλαδη αντι για 1 train.docterm_recall Θα εχουμε:
+train.docterm_recall_1
+train.docterm_recall_2
+train.docterm_recall_3
+.
+.
+.
+train.docterm_recall_n
+
+Για τον υπολογισμό του n δλδ τα κομματια που θα χωρήσεις το train file υπολογισεις το καθε κομματι να κανει 
+20 ωρες training περιπου
+
+mallon 10 kommatia
+
+Βημα 2:
+
+Την πρωτη φορά και μονο τότε τρεχεις αυτο:
+
+for train_file in os.listdir(data_dir):
+
+	python DeepCT-master/run_deepct.py \
+	--data_dir=output/<EXPERIMENT_NAME>/train_file \
+	--vocab_file=bert-base-uncased/vocab.txt \
+	--bert_config_file=bert-base-uncased/bert_config.json \
+	--init_checkpoint=bert-base-uncased/bert_model.ckpt \
+	--output_dir=output/<EXPERIMENT_NAME>/train \
+	--do_train=true \
+	--task_name=marcodoc \
+	--num_train_epochs=1.0 \
+	--train_batch_size=16 \
+	break
+
+
+Βημα 3:
+
+Απο εκει και στο εξής ή αν πεσει το ρευμα κλπ τρεχεις αυτο:
+
+with open('train_files_used.txt', 'a') as writer:
+
+	for train_file in os.listdir(data_dir):
+		used = []
+		for i in writer:
+			used.append(i)
+		if train_file in used:
+			continue
+
+		python DeepCT-master/run_deepct.py \
+		--data_dir=output/<EXPERIMENT_NAME>/train_file \
+		--vocab_file=bert-base-uncased/vocab.txt \
+		--bert_config_file=bert-base-uncased/bert_config.json \
+		--init_checkpoint=output/<EXPERIMENT_NAME>/train/bert_model.ckpt \
+		--output_dir=output/<EXPERIMENT_NAME>/train \
+		--do_train=true \
+		--task_name=marcodoc \
+		--num_train_epochs=5.0 \
+		--train_batch_size=16 \
+		writer.write(train_file+"\n")
+
+Ενδεχομένως να προκειψουν θεματα πχ να μην κανει overwrite τα output. Θα μπορουσα να το κανω πιο συνεθετο αλλα καλυτερα
+ας το κρατησουμε οπως ειναι για την ώρα και οταν προκυψει θεμα το συζητάμε.
+
+
+import subprocess
+p = subprocess.Popen(['python', 'FULL_PATH_TO_FILE/demo_oled_v01.py',  '--display',  'ssd1351', '--width', '128', '--height', '128', '--interface', 'spi', '--gpio-data-command', '20'])
