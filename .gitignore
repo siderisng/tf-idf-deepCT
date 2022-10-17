@@ -12,3 +12,4 @@ DeepCT-master/__pycache__
 databases
 trec_collections
 pyserini_indexes
+bert-base-uncased/bert_model.ckpt.data-00000-of-00001
