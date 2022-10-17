@@ -1,7 +1,7 @@
 import subprocess
 import os
 
-EXPERIMENT_NAME = 'abstract'
+EXPERIMENT_NAME = 'inf-description'
 
 
 data_dir = 'output/' + EXPERIMENT_NAME + '/train_files/'
@@ -20,6 +20,6 @@ with open('train_files_used.txt', 'a+') as writer:
 
 		print('processing ' + train_file + '! \n')
 
-		subprocess.run("python DeepCT-master/run_deepct.py --data_dir=output/" + EXPERIMENT_NAME + "/train_files/" + train_file + " --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=output/" + EXPERIMENT_NAME + "/train/model.ckpt-0 --output_dir=output/" + EXPERIMENT_NAME + "/train --do_train=true --task_name=marcodoc --num_train_epochs=5.0 --train_batch_size=16", shell=True, check=True, capture_output=True)
+		subprocess.run("/home/giorgos/anaconda3/envs/saved-env-deepCT/bin/python DeepCT-master/run_deepct.py --data_dir=output/" + EXPERIMENT_NAME + "/train_files/" + train_file + " --vocab_file=bert-base-uncased/vocab.txt --bert_config_file=bert-base-uncased/bert_config.json --init_checkpoint=output/" + EXPERIMENT_NAME + "/train/model.ckpt-0 --output_dir=output/" + EXPERIMENT_NAME + "/train --do_train=true --task_name=marcodoc --num_train_epochs=5.0 --train_batch_size=16", shell=True, check=True, capture_output=True)
         
 		writer.write(train_file+"\n")

@@ -66,7 +66,7 @@ def createDBAndTables(dbName):
 
 
 # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
-path = '/Users/giorgossideris/Downloads/final_clef_ip'
+path = '/mnt/c/Users/Giorgos/Documents/final_clef_ip/final_clef_ip'
 
 
 
@@ -94,6 +94,8 @@ dbName = 'databases/' + str(LIMIT) + '-' + '-'.join(FIELDS)
 # create tables for my DB
 con = createDBAndTables(dbName)
 
+# DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
+path = 'C:/Users/sider/Documents/final_clef_ip'
 i = 0
 wordId = 0
 c = con.cursor()  # needed for printing results
