@@ -135,3 +135,9 @@ example result
 ```
 
 (same as jsonl created with pyseriniCreateInvertedIndexHelpFile)
+
+
+### Evaluation of test runs with a qrels file
+
+in cygwin:
+`../trec_eval-master/trec_eval.exe -m map 3973_qrels.txt query_results/300_topics_set3_EN_description.res`
