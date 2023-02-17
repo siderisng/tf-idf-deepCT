@@ -66,7 +66,7 @@ def createDBAndTables(dbName):
 
 
 # DATASET FOLDER - WILL LOOP THROUGH ALL SUBFOLDERS
-path = '/Users/giorgossideris/Downloads/final_clef_ip'
+path = '/mnt/c/Users/Giorgos/Documents/final_clef_ip/final_clef_ip'
 
 
 

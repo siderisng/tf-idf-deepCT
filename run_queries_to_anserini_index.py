@@ -3,16 +3,16 @@ from pyserini.search import SimpleSearcher
 
 
 #the name of the results file
-results_file_name = 'test.res'
+results_file_name = 'inf-description-predict-without-training.res'
 
 #the path you want the results to be saved
-results_path = 'the/path/'
+results_path = 'query_results/'
 
 #the path to the queries
-topics_path_300 = 'path/to/topics/300_topics_set3_EN.txt'
+topics_path_300 = '300_topics_set3_EN.txt'
 
 #the path to the index to be searched
-index_path = 'path/to/index/'
+index_path = 'pyserini_indexes/description/deepCT/predict-without-training'
 
 
 topics = open(topics_path_300, "r", encoding= 'utf-8').read()
@@ -37,7 +37,8 @@ with open(results_path + results_file_name, 'w', encoding='utf-8') as writer:
            writer.write(topic_id + ' ' + 'Q0' + ' ' + res.docid + ' ' + str(ind) + ' ' + str(res.score) + ' ' + 'ML_MERGING' + '\n')
            ind += 1
         #break
-        print(counter)
+        if counter % 50 == 0:
+            print(counter)
         counter += 1
 
 with open(results_path+"no_dups.res", "w", encoding="utf-8") as writer:
