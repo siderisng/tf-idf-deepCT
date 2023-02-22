@@ -136,6 +136,14 @@ example result
 
 (same as jsonl created with pyseriniCreateInvertedIndexHelpFile)
 
+### Create index with pyserini
+
+same as before
+
+### Run queries to index
+
+`python run_queries_to_anserini_index.py`
+(parameters, filepaths defined in the file)
 
 ### Evaluation of test runs with a qrels file
 
