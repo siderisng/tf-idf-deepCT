@@ -3,7 +3,7 @@ from pyserini.search import SimpleSearcher
 
 
 #the name of the results file
-results_file_name = 'inf-description-predict-without-training.res'
+results_file_name = 'pyserini-inf-description-one-fifth-5-16-2e-5.res'
 
 #the path you want the results to be saved
 results_path = 'query_results/'
@@ -12,12 +12,14 @@ results_path = 'query_results/'
 topics_path_300 = '300_topics_set3_EN.txt'
 
 #the path to the index to be searched
-index_path = 'pyserini_indexes/description/deepCT/predict-without-training'
+index_path = 'indexes/inf-description-1-fifth-5-16-2e-5'
 
 
 topics = open(topics_path_300, "r", encoding= 'utf-8').read()
 topics = topics.split('<seperator>')
 searcher_centralized = SimpleSearcher(index_path)
+searcher_centralized.set_bm25(8, 0.9)
+
 counter = 0
 with open(results_path + results_file_name, 'w', encoding='utf-8') as writer:
     for topic in topics:
