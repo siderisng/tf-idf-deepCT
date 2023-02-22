@@ -18,7 +18,7 @@ index_path = 'indexes/inf-description-1-fifth-5-16-2e-5'
 topics = open(topics_path_300, "r", encoding= 'utf-8').read()
 topics = topics.split('<seperator>')
 searcher_centralized = SimpleSearcher(index_path)
-searcher_centralized.set_bm25(8, 0.9)
+# searcher_centralized.set_bm25(8, 0.9)
 
 counter = 0
 with open(results_path + results_file_name, 'w', encoding='utf-8') as writer:
